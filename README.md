@@ -19,3 +19,9 @@ npm run update
 ## 输出
 - `data/messages.json`
 - `docs/index.html`
+
+
+## GitHub Pages
+启用 Pages 时，建议选择：
+- Branch: `main`
+- Folder: `/docs`
