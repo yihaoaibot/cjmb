@@ -181,7 +181,7 @@ const count = items.length;
 
     <script is:inline>
       (() => {
-        const initialUpdatedAt = {JSON.stringify(updated)};
+        const initialUpdatedAt = `${updated}`
         const html = document.documentElement;
         const savedTheme = localStorage.getItem('cjmb-theme');
         if (savedTheme === 'dark') html.classList.add('dark');
