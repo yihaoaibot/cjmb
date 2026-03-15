@@ -1,0 +1,193 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+
+const repoRoot = path.resolve(process.cwd(), '..');
+const messagesPath = path.join(repoRoot, 'data', 'messages.json');
+const metaPath = path.join(repoRoot, 'data', 'meta.json');
+
+const items = JSON.parse(fs.readFileSync(messagesPath, 'utf-8'));
+const meta = fs.existsSync(metaPath) ? JSON.parse(fs.readFileSync(metaPath, 'utf-8')) : {};
+
+function formatGroup(dateStr) {
+  const d = new Date(dateStr);
+  return `${d.getMonth() + 1}月${d.getDate()}日`;
+}
+function formatTime(dateStr) {
+  const d = new Date(dateStr);
+  const hh = String(d.getHours()).padStart(2, '0');
+  const mm = String(d.getMinutes()).padStart(2, '0');
+  return `${hh}:${mm}`;
+}
+
+const grouped = new Map();
+for (const item of items) {
+  const key = formatGroup(item.datetime || '');
+  if (!grouped.has(key)) grouped.set(key, []);
+  grouped.get(key).push(item);
+}
+const groups = Array.from(grouped.entries()).map(([date, list]) => ({ date, list }));
+const updated = meta.updated_at || '';
+const count = items.length;
+---
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>财经慢报 Feed</title>
+    <style>
+      :root {
+        --bg: #f6f7fb;
+        --panel: rgba(255,255,255,.82);
+        --panel-border: rgba(15,23,42,.08);
+        --text: #111827;
+        --muted: #667085;
+        --accent: #4f46e5;
+        --badge-bg: #e0e7ff;
+        --shadow: 0 8px 28px rgba(15,23,42,.06);
+      }
+      html.dark {
+        --bg: #0b1020;
+        --panel: rgba(18,24,38,.82);
+        --panel-border: rgba(255,255,255,.08);
+        --text: #e5e7eb;
+        --muted: #98a2b3;
+        --accent: #8da2ff;
+        --badge-bg: rgba(99,102,241,.18);
+        --shadow: 0 10px 32px rgba(0,0,0,.28);
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        background:
+          radial-gradient(circle at top left, rgba(99,102,241,.08), transparent 28%),
+          radial-gradient(circle at top right, rgba(59,130,246,.06), transparent 24%),
+          var(--bg);
+        color: var(--text);
+      }
+      .wrap { max-width: 940px; margin: 0 auto; padding: 32px 16px 56px; }
+      .hero { display:flex; justify-content:space-between; gap:16px; align-items:flex-start; margin-bottom: 18px; }
+      .title { font-size: 34px; font-weight: 700; letter-spacing: -.03em; margin: 0 0 10px; }
+      .sub { color: var(--muted); font-size: 14px; line-height: 1.7; }
+      .toolbar { display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin:18px 0 24px; }
+      .search {
+        flex:1; min-width:220px; border:1px solid var(--panel-border); background:var(--panel); color:var(--text);
+        backdrop-filter: blur(12px); border-radius: 14px; padding: 12px 14px; font-size: 14px; box-shadow: var(--shadow);
+      }
+      .badge { background: var(--badge-bg); color: var(--accent); border-radius: 999px; padding: 8px 12px; font-size: 12px; font-weight: 600; }
+      .theme-btn, .refresh-btn {
+        border:1px solid var(--panel-border); background:var(--panel); color:var(--text); border-radius: 14px; padding: 12px 14px;
+        cursor:pointer; backdrop-filter: blur(12px); box-shadow: var(--shadow);
+      }
+      .notice {
+        display:none; margin: 12px 0 4px; padding: 12px 14px; border-radius: 14px; background: var(--badge-bg); color: var(--accent);
+        font-size: 14px; align-items: center; justify-content: space-between; gap: 12px;
+      }
+      .group { margin-top: 28px; }
+      .group-title { font-size: 20px; font-weight: 700; margin: 0 0 14px; }
+      .card {
+        display:grid; grid-template-columns: 64px 1fr; gap: 16px; padding: 18px; margin: 12px 0;
+        border:1px solid var(--panel-border); background: var(--panel); border-radius: 18px;
+        backdrop-filter: blur(12px); box-shadow: var(--shadow);
+      }
+      .time { font-size: 14px; font-weight: 700; color: var(--accent); padding-top: 2px; }
+      .body { font-size: 15px; line-height: 1.8; word-break: break-word; }
+      .actions { margin-top: 12px; }
+      .toggle { border: none; background: transparent; color: var(--accent); cursor: pointer; padding: 0; font-size: 13px; }
+      @media (max-width: 640px) {
+        .hero { flex-direction: column; }
+        .card { grid-template-columns: 1fr; gap: 10px; }
+        .time { font-size: 13px; }
+      }
+    </style>
+    <script is:inline>
+      const initialUpdatedAt = {JSON.stringify(updated)};
+      const savedTheme = localStorage.getItem('cjmb-theme');
+      if (savedTheme === 'dark') document.documentElement.classList.add('dark');
+      function toggleTheme() {
+        const html = document.documentElement;
+        html.classList.toggle('dark');
+        localStorage.setItem('cjmb-theme', html.classList.contains('dark') ? 'dark' : 'light');
+      }
+      function filterCards() {
+        const q = document.getElementById('search').value.toLowerCase().trim();
+        document.querySelectorAll('.card').forEach(card => {
+          const txt = card.innerText.toLowerCase();
+          card.style.display = !q || txt.includes(q) ? '' : 'none';
+        });
+      }
+      function toggleCard(btn) {
+        const body = btn.parentElement.previousElementSibling;
+        if (btn.dataset.expanded === '1') {
+          body.innerHTML = body.dataset.short;
+          btn.dataset.expanded = '0';
+          btn.textContent = '展开';
+        } else {
+          body.innerHTML = body.dataset.full;
+          btn.dataset.expanded = '1';
+          btn.textContent = '收起';
+        }
+      }
+      function refreshPage() {
+        location.reload();
+      }
+      async function checkForUpdates() {
+        try {
+          const res = await fetch('./data/meta.json', { cache: 'no-store' });
+          if (!res.ok) return;
+          const meta = await res.json();
+          if (meta.updated_at && meta.updated_at !== initialUpdatedAt) {
+            const notice = document.getElementById('updateNotice');
+            notice.style.display = 'flex';
+          }
+        } catch (e) {}
+      }
+      setInterval(checkForUpdates, 60000);
+    </script>
+  </head>
+  <body>
+    <div class="wrap">
+      <section class="hero">
+        <div>
+          <h1 class="title">财经慢报</h1>
+          <div class="sub">最近 1 天消息流展示 · 浅色 / 深色主题 · 5 分钟自动同步</div>
+          <div class="sub">最近更新：{updated}</div>
+        </div>
+        <div style="display:flex; gap:10px; flex-wrap:wrap;">
+          <button class="refresh-btn" onclick="refreshPage()">刷新页面</button>
+          <button class="theme-btn" onclick="toggleTheme()">切换主题</button>
+        </div>
+      </section>
+
+      <div id="updateNotice" class="notice">
+        <span>检测到新内容，点击刷新即可查看最新消息。</span>
+        <button class="refresh-btn" onclick="refreshPage()">立即刷新</button>
+      </div>
+
+      <div class="toolbar">
+        <input id="search" class="search" placeholder="搜索关键词…" oninput="filterCards()" />
+        <span class="badge">最近 1 天 {count} 条</span>
+      </div>
+
+      {groups.map(group => (
+        <section class="group">
+          <h2 class="group-title">{group.date}</h2>
+          {group.list.map(item => {
+            const fullText = item.text || '';
+            const shortText = fullText.length <= 220 ? fullText : fullText.slice(0, 220).trimEnd() + '...';
+            return (
+              <article class="card">
+                <div class="time">{formatTime(item.datetime || '')}</div>
+                <div>
+                  <div class="body" data-full={fullText.replace(/\n/g, '<br>')} data-short={shortText.replace(/\n/g, '<br>')} set:html={shortText.replace(/\n/g, '<br>')}></div>
+                  {fullText.length > 220 && <div class="actions"><button class="toggle" onclick="toggleCard(this)">展开</button></div>}
+                </div>
+              </article>
+            );
+          })}
+        </section>
+      ))}
+    </div>
+  </body>
+</html>
