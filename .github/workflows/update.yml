@@ -19,6 +19,11 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install frontend dependencies
+        run: |
+          cd astro
+          npm ci
+
       - name: Update feed
         run: |
           python3 scripts/fetch_feed.py
