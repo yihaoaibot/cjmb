@@ -1,0 +1,9 @@
+{
+  "name": "cjmb",
+  "private": true,
+  "version": "0.1.0",
+  "description": "财经慢报 Telegram channel static feed",
+  "scripts": {
+    "update": "python3 scripts/fetch_feed.py && python3 scripts/build_site.py"
+  }
+}
