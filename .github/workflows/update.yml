@@ -19,6 +19,13 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22.12.0'
+          cache: 'npm'
+          cache-dependency-path: astro/package-lock.json
+
       - name: Install frontend dependencies
         run: |
           cd astro
