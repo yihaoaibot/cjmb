@@ -37,157 +37,210 @@ const count = items.length;
     <title>财经慢报 Feed</title>
     <style>
       :root {
-        --bg: #f6f7fb;
-        --panel: rgba(255,255,255,.82);
-        --panel-border: rgba(15,23,42,.08);
+        --bg: #f7f8fa;
+        --surface: #ffffff;
+        --line: #e5e7eb;
         --text: #111827;
-        --muted: #667085;
-        --accent: #4f46e5;
-        --badge-bg: #e0e7ff;
-        --shadow: 0 8px 28px rgba(15,23,42,.06);
+        --muted: #6b7280;
+        --accent: #d92d20;
+        --accent-soft: #fff1f0;
+        --topbar: rgba(255,255,255,.92);
       }
       html.dark {
-        --bg: #0b1020;
-        --panel: rgba(18,24,38,.82);
-        --panel-border: rgba(255,255,255,.08);
+        --bg: #0f141b;
+        --surface: #161c24;
+        --line: #26303c;
         --text: #e5e7eb;
         --muted: #98a2b3;
-        --accent: #8da2ff;
-        --badge-bg: rgba(99,102,241,.18);
-        --shadow: 0 10px 32px rgba(0,0,0,.28);
+        --accent: #ff6b5f;
+        --accent-soft: rgba(255,107,95,.12);
+        --topbar: rgba(15,20,27,.9);
       }
       * { box-sizing: border-box; }
       body {
         margin: 0;
-        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-        background:
-          radial-gradient(circle at top left, rgba(99,102,241,.08), transparent 28%),
-          radial-gradient(circle at top right, rgba(59,130,246,.06), transparent 24%),
-          var(--bg);
+        background: var(--bg);
         color: var(--text);
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
       }
-      .wrap { max-width: 940px; margin: 0 auto; padding: 32px 16px 56px; }
-      .hero { display:flex; justify-content:space-between; gap:16px; align-items:flex-start; margin-bottom: 18px; }
-      .title { font-size: 34px; font-weight: 700; letter-spacing: -.03em; margin: 0 0 10px; }
-      .sub { color: var(--muted); font-size: 14px; line-height: 1.7; }
-      .toolbar { display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin:18px 0 24px; }
-      .search {
-        flex:1; min-width:220px; border:1px solid var(--panel-border); background:var(--panel); color:var(--text);
-        backdrop-filter: blur(12px); border-radius: 14px; padding: 12px 14px; font-size: 14px; box-shadow: var(--shadow);
+      .page { max-width: 980px; margin: 0 auto; padding: 0 16px 48px; }
+      .topbar {
+        position: sticky; top: 0; z-index: 20;
+        background: var(--topbar);
+        backdrop-filter: blur(12px);
+        border-bottom: 1px solid var(--line);
+        margin: 0 -16px 18px;
+        padding: 14px 16px;
       }
-      .badge { background: var(--badge-bg); color: var(--accent); border-radius: 999px; padding: 8px 12px; font-size: 12px; font-weight: 600; }
-      .theme-btn, .refresh-btn {
-        border:1px solid var(--panel-border); background:var(--panel); color:var(--text); border-radius: 14px; padding: 12px 14px;
-        cursor:pointer; backdrop-filter: blur(12px); box-shadow: var(--shadow);
+      .topbar-inner {
+        max-width: 980px; margin: 0 auto; display:flex; gap:12px; align-items:center; justify-content:space-between; flex-wrap:wrap;
       }
+      .brand { display:flex; flex-direction:column; gap:4px; }
+      .brand h1 { margin:0; font-size:26px; letter-spacing:-.02em; }
+      .brand .meta { font-size:13px; color: var(--muted); }
+      .top-actions { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+      .btn, .search {
+        border:1px solid var(--line); background: var(--surface); color: var(--text);
+        border-radius: 10px; padding: 10px 12px; font-size: 14px;
+      }
+      .btn { cursor: pointer; }
+      .search { min-width: 220px; }
       .notice {
-        display:none; margin: 12px 0 4px; padding: 12px 14px; border-radius: 14px; background: var(--badge-bg); color: var(--accent);
-        font-size: 14px; align-items: center; justify-content: space-between; gap: 12px;
+        display:none; margin: 10px 0 18px; padding: 12px 14px; border-radius: 12px;
+        background: var(--accent-soft); color: var(--accent); border: 1px solid rgba(217,45,32,.15);
+        justify-content: space-between; align-items:center; gap:12px;
       }
-      .group { margin-top: 28px; }
-      .group-title { font-size: 20px; font-weight: 700; margin: 0 0 14px; }
-      .card {
-        display:grid; grid-template-columns: 64px 1fr; gap: 16px; padding: 18px; margin: 12px 0;
-        border:1px solid var(--panel-border); background: var(--panel); border-radius: 18px;
-        backdrop-filter: blur(12px); box-shadow: var(--shadow);
+      .summary { display:flex; gap:10px; flex-wrap:wrap; margin-bottom: 20px; }
+      .pill {
+        background: var(--surface); border:1px solid var(--line); color: var(--muted);
+        border-radius: 999px; padding: 7px 11px; font-size: 12px;
       }
-      .time { font-size: 14px; font-weight: 700; color: var(--accent); padding-top: 2px; }
-      .body { font-size: 15px; line-height: 1.8; word-break: break-word; }
-      .actions { margin-top: 12px; }
-      .toggle { border: none; background: transparent; color: var(--accent); cursor: pointer; padding: 0; font-size: 13px; }
+      .date-group { margin: 26px 0 8px; }
+      .date-title {
+        margin: 0 0 10px; font-size: 18px; font-weight: 700; display:flex; align-items:center; gap:10px;
+      }
+      .date-title::before {
+        content: ''; width: 10px; height: 10px; border-radius: 999px; background: var(--accent);
+      }
+      .feed {
+        background: var(--surface); border:1px solid var(--line); border-radius: 16px; overflow: hidden;
+      }
+      .item {
+        display:grid; grid-template-columns: 68px 1fr; gap: 0; padding: 16px 18px; border-top:1px solid var(--line);
+      }
+      .item:first-child { border-top: none; }
+      .time {
+        color: var(--accent); font-weight: 700; font-size: 13px; padding-top: 2px;
+      }
+      .content {
+        min-width: 0;
+      }
+      .text {
+        font-size: 15px; line-height: 1.75; color: var(--text); word-break: break-word;
+      }
+      .toggle {
+        margin-top: 10px; border: none; background: transparent; color: var(--accent); cursor: pointer; padding: 0; font-size: 13px;
+      }
+      .empty { color: var(--muted); padding: 26px 0; }
       @media (max-width: 640px) {
-        .hero { flex-direction: column; }
-        .card { grid-template-columns: 1fr; gap: 10px; }
-        .time { font-size: 13px; }
+        .item { grid-template-columns: 1fr; gap: 8px; }
+        .topbar-inner { align-items:flex-start; }
+        .search { width: 100%; }
       }
     </style>
-    <script is:inline>
-      const initialUpdatedAt = {JSON.stringify(updated)};
-      const savedTheme = localStorage.getItem('cjmb-theme');
-      if (savedTheme === 'dark') document.documentElement.classList.add('dark');
-      function toggleTheme() {
-        const html = document.documentElement;
-        html.classList.toggle('dark');
-        localStorage.setItem('cjmb-theme', html.classList.contains('dark') ? 'dark' : 'light');
-      }
-      function filterCards() {
-        const q = document.getElementById('search').value.toLowerCase().trim();
-        document.querySelectorAll('.card').forEach(card => {
-          const txt = card.innerText.toLowerCase();
-          card.style.display = !q || txt.includes(q) ? '' : 'none';
-        });
-      }
-      function toggleCard(btn) {
-        const body = btn.parentElement.previousElementSibling;
-        if (btn.dataset.expanded === '1') {
-          body.innerHTML = body.dataset.short;
-          btn.dataset.expanded = '0';
-          btn.textContent = '展开';
-        } else {
-          body.innerHTML = body.dataset.full;
-          btn.dataset.expanded = '1';
-          btn.textContent = '收起';
-        }
-      }
-      function refreshPage() {
-        location.reload();
-      }
-      async function checkForUpdates() {
-        try {
-          const res = await fetch('./data/meta.json', { cache: 'no-store' });
-          if (!res.ok) return;
-          const meta = await res.json();
-          if (meta.updated_at && meta.updated_at !== initialUpdatedAt) {
-            const notice = document.getElementById('updateNotice');
-            notice.style.display = 'flex';
-          }
-        } catch (e) {}
-      }
-      setInterval(checkForUpdates, 60000);
-    </script>
   </head>
   <body>
-    <div class="wrap">
-      <section class="hero">
-        <div>
-          <h1 class="title">财经慢报</h1>
-          <div class="sub">最近 1 天消息流展示 · 浅色 / 深色主题 · 5 分钟自动同步</div>
-          <div class="sub">最近更新：{updated}</div>
+    <div class="topbar">
+      <div class="topbar-inner">
+        <div class="brand">
+          <h1>财经慢报</h1>
+          <div class="meta">最近更新：<span id="updatedAt">{updated}</span></div>
         </div>
-        <div style="display:flex; gap:10px; flex-wrap:wrap;">
-          <button class="refresh-btn" onclick="refreshPage()">刷新页面</button>
-          <button class="theme-btn" onclick="toggleTheme()">切换主题</button>
+        <div class="top-actions">
+          <input id="searchInput" class="search" placeholder="搜索关键词" />
+          <button id="refreshBtn" class="btn">刷新</button>
+          <button id="themeBtn" class="btn">主题</button>
         </div>
-      </section>
+      </div>
+    </div>
 
+    <div class="page">
       <div id="updateNotice" class="notice">
         <span>检测到新内容，点击刷新即可查看最新消息。</span>
-        <button class="refresh-btn" onclick="refreshPage()">立即刷新</button>
+        <button class="btn" id="noticeRefreshBtn">立即刷新</button>
       </div>
 
-      <div class="toolbar">
-        <input id="search" class="search" placeholder="搜索关键词…" oninput="filterCards()" />
-        <span class="badge">最近 1 天 {count} 条</span>
+      <div class="summary">
+        <span class="pill">最近 1 天 {count} 条</span>
+        <span class="pill">5 分钟自动同步</span>
+        <span class="pill">深浅主题</span>
       </div>
 
       {groups.map(group => (
-        <section class="group">
-          <h2 class="group-title">{group.date}</h2>
-          {group.list.map(item => {
-            const fullText = item.text || '';
-            const shortText = fullText.length <= 220 ? fullText : fullText.slice(0, 220).trimEnd() + '...';
-            return (
-              <article class="card">
-                <div class="time">{formatTime(item.datetime || '')}</div>
-                <div>
-                  <div class="body" data-full={fullText.replace(/\n/g, '<br>')} data-short={shortText.replace(/\n/g, '<br>')} set:html={shortText.replace(/\n/g, '<br>')}></div>
-                  {fullText.length > 220 && <div class="actions"><button class="toggle" onclick="toggleCard(this)">展开</button></div>}
-                </div>
-              </article>
-            );
-          })}
+        <section class="date-group">
+          <h2 class="date-title">{group.date}</h2>
+          <div class="feed">
+            {group.list.map(item => {
+              const fullText = item.text || '';
+              const shortText = fullText.length <= 180 ? fullText : fullText.slice(0, 180).trimEnd() + '...';
+              const needToggle = fullText.length > 180;
+              return (
+                <article class="item" data-search={(fullText || '').toLowerCase()}>
+                  <div class="time">{formatTime(item.datetime || '')}</div>
+                  <div class="content">
+                    <div class="text" data-full={fullText} data-short={shortText}>{shortText}</div>
+                    {needToggle && <button class="toggle">展开</button>}
+                  </div>
+                </article>
+              );
+            })}
+          </div>
         </section>
       ))}
     </div>
+
+    <script is:inline>
+      (() => {
+        const initialUpdatedAt = {JSON.stringify(updated)};
+        const html = document.documentElement;
+        const savedTheme = localStorage.getItem('cjmb-theme');
+        if (savedTheme === 'dark') html.classList.add('dark');
+
+        const searchInput = document.getElementById('searchInput');
+        const refreshBtn = document.getElementById('refreshBtn');
+        const themeBtn = document.getElementById('themeBtn');
+        const notice = document.getElementById('updateNotice');
+        const noticeRefreshBtn = document.getElementById('noticeRefreshBtn');
+
+        function applyThemeToggle() {
+          html.classList.toggle('dark');
+          localStorage.setItem('cjmb-theme', html.classList.contains('dark') ? 'dark' : 'light');
+        }
+
+        function refreshPage() {
+          window.location.reload();
+        }
+
+        function filterCards() {
+          const q = (searchInput.value || '').toLowerCase().trim();
+          document.querySelectorAll('.item').forEach(item => {
+            const hay = item.dataset.search || '';
+            item.style.display = !q || hay.includes(q) ? '' : 'none';
+          });
+        }
+
+        function toggleItem(btn) {
+          const text = btn.parentElement.querySelector('.text');
+          const expanded = btn.dataset.expanded === '1';
+          if (expanded) {
+            text.textContent = text.dataset.short || '';
+            btn.dataset.expanded = '0';
+            btn.textContent = '展开';
+          } else {
+            text.textContent = text.dataset.full || '';
+            btn.dataset.expanded = '1';
+            btn.textContent = '收起';
+          }
+        }
+
+        async function checkForUpdates() {
+          try {
+            const res = await fetch('./data/meta.json?ts=' + Date.now(), { cache: 'no-store' });
+            if (!res.ok) return;
+            const meta = await res.json();
+            if (meta.updated_at && meta.updated_at !== initialUpdatedAt) {
+              notice.style.display = 'flex';
+            }
+          } catch (e) {}
+        }
+
+        searchInput?.addEventListener('input', filterCards);
+        refreshBtn?.addEventListener('click', refreshPage);
+        themeBtn?.addEventListener('click', applyThemeToggle);
+        noticeRefreshBtn?.addEventListener('click', refreshPage);
+        document.querySelectorAll('.toggle').forEach(btn => btn.addEventListener('click', () => toggleItem(btn)));
+        setInterval(checkForUpdates, 60000);
+      })();
+    </script>
   </body>
 </html>
