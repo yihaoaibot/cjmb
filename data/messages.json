@@ -1,99 +1,134 @@
 [
   {
+    "post": "Financial_Express/3009574",
+    "datetime": "2026-03-16T19:34:59+00:00",
+    "views": "2",
+    "text": "英伟达 CEO 黄仁勋：CPU 业务 “肯定” 会成为数十亿美元级别的业务。",
+    "url": "https://t.me/Financial_Express/3009574"
+  },
+  {
+    "post": "Financial_Express/3009573",
+    "datetime": "2026-03-16T19:34:58+00:00",
+    "views": "2",
+    "text": "知情人士：美伊高官近期通过短信交流\n金十数据 3 月 17 日讯，据 AXIOS 报道，一名美国官员及知情人士透露，美国特使威特科夫与伊朗外长阿拉格齐之间的直接沟通渠道已于近日重新启用。知情人士称，阿拉格齐向威特科夫发送了侧重于结束战争的短信。上述美国官员声称是阿拉格齐试图接触，但接着表示，美国“并未与”伊朗对话。两名消息人士均未详细说明已交换了多少条短信或其具体内容。",
+    "url": "https://t.me/Financial_Express/3009573"
+  },
+  {
+    "post": "Financial_Express/3009572",
+    "datetime": "2026-03-16T19:33:41+00:00",
+    "views": "5",
+    "text": "英伟达宣布，NVIDIA Vera Rubin 平台正在开启“智能体 AI（Agentic AI）”的下一个前沿。目前，七款全新芯片已进入全面量产阶段，用于扩展全球最大的人工智能（AI）工厂，针对从预训练、后训练、测试时扩展到智能体推理的每一阶段进行优化。\nNVIDIA Vera Rubin 平台正凭借以下核心组件开启下一个 AI 前沿：Vera Rubin NVL72 GPU 机架，Vera CPU 机架，NVIDIA Groq 3 LPX 推理加速器机架，NVIDIA BlueField-4 STX 存储机架，以及 NVIDIA Spectrum-6 SPX 以太网机架。",
+    "url": "https://t.me/Financial_Express/3009572"
+  },
+  {
+    "post": "Financial_Express/3009571",
+    "datetime": "2026-03-16T19:33:38+00:00",
+    "views": "5",
+    "text": "英伟达 CEO 黄仁勋：公司已与台积电全面量产用于 Spectrum X 芯片的共封装光学芯片。",
+    "url": "https://t.me/Financial_Express/3009571"
+  },
+  {
+    "post": "Financial_Express/3009570",
+    "datetime": "2026-03-16T19:33:17+00:00",
+    "views": "35",
+    "text": "英伟达 CEO 黄仁勋：全新基于 Groq 技术的服务器将搭载八颗 Groq 芯片，这些芯片属于第三代产品。",
+    "url": "https://t.me/Financial_Express/3009570"
+  },
+  {
     "post": "Financial_Express/3009569",
     "datetime": "2026-03-16T19:32:57+00:00",
-    "views": "2",
+    "views": "36",
     "text": "英伟达表示，Vera 的性能是任何其他 CPU 的两倍。",
     "url": "https://t.me/Financial_Express/3009569"
   },
   {
     "post": "Financial_Express/3009568",
     "datetime": "2026-03-16T19:32:37+00:00",
-    "views": "3",
+    "views": "36",
     "text": "据 Axios：美国特使威特科夫与伊朗外长阿拉格奇近期恢复沟通。",
     "url": "https://t.me/Financial_Express/3009568"
   },
   {
     "post": "Financial_Express/3009567",
     "datetime": "2026-03-16T19:31:37+00:00",
-    "views": "35",
+    "views": "38",
     "text": "英伟达发布全新 Groq 3 LPX AI 推理芯片，该芯片基于这家初创公司的技术打造。",
     "url": "https://t.me/Financial_Express/3009567"
   },
   {
     "post": "Financial_Express/3009566",
     "datetime": "2026-03-16T19:31:17+00:00",
-    "views": "36",
+    "views": "38",
     "text": "英伟达推出 Vera CPU，专为智能体 AI（Agentic AI） 量身打造。",
     "url": "https://t.me/Financial_Express/3009566"
   },
   {
     "post": "Financial_Express/3009564",
     "datetime": "2026-03-16T19:30:58+00:00",
-    "views": "36",
+    "views": "67",
     "text": "英伟达(NVDA.O)发布了基于 BlueField-4 的 STX（存储技术扩展） 存储架构，并获得了业界的广泛采用。",
     "url": "https://t.me/Financial_Express/3009564"
   },
   {
     "post": "Financial_Express/3009565",
     "datetime": "2026-03-16T19:30:58+00:00",
-    "views": "36",
+    "views": "68",
     "text": "英伟达表示全新 Vera 处理器采用 LPDDR5 内存。",
     "url": "https://t.me/Financial_Express/3009565"
   },
   {
     "post": "Financial_Express/3009563",
     "datetime": "2026-03-16T19:30:37+00:00",
-    "views": "37",
+    "views": "98",
     "text": "一艘巴基斯坦油轮成为第一艘开启自动应答系统穿越霍尔木兹海峡的非伊朗油轮。",
     "url": "https://t.me/Financial_Express/3009563"
   },
   {
     "post": "Financial_Express/3009561",
     "datetime": "2026-03-16T19:30:18+00:00",
-    "views": "38",
+    "views": "99",
     "text": "英伟达推出 BlueField-4 STX 存储架构，已获得业界广泛采用。",
     "url": "https://t.me/Financial_Express/3009561"
   },
   {
     "post": "Financial_Express/3009562",
     "datetime": "2026-03-16T19:30:18+00:00",
-    "views": "38",
+    "views": "99",
     "text": "英伟达七款全新的 Vera Rubin 芯片现已进入全面量产阶段。",
     "url": "https://t.me/Financial_Express/3009562"
   },
   {
     "post": "Financial_Express/3009560",
     "datetime": "2026-03-16T19:30:17+00:00",
-    "views": "38",
+    "views": "99",
     "text": "英伟达(NVDA.O)七款全新的 Vera Rubin 芯片现已进入全面量产阶段。",
     "url": "https://t.me/Financial_Express/3009560"
   },
   {
     "post": "Financial_Express/3009559",
     "datetime": "2026-03-16T19:29:39+00:00",
-    "views": "38",
+    "views": "99",
     "text": "无人机袭击巴格达绿区拉希德酒店，现场升起浓烟与火焰。",
     "url": "https://t.me/Financial_Express/3009559"
   },
   {
     "post": "Financial_Express/3009557",
     "datetime": "2026-03-16T19:29:38+00:00",
-    "views": "38",
+    "views": "99",
     "text": "英伟达(NVDA.O)宣布推出全新 GROQ LPU 产品。",
     "url": "https://t.me/Financial_Express/3009557"
   },
   {
     "post": "Financial_Express/3009558",
     "datetime": "2026-03-16T19:29:38+00:00",
-    "views": "38",
+    "views": "99",
     "text": "比罗尔：恢复稳定的石油和天然气流动的唯一最重要因素是恢复通过霍尔木兹海峡的运输。",
     "url": "https://t.me/Financial_Express/3009558"
   },
   {
     "post": "Financial_Express/3009556",
     "datetime": "2026-03-16T19:29:17+00:00",
-    "views": "38",
+    "views": "99",
     "text": "英伟达宣布推出基于 CPU 的全新服务器机架。",
     "url": "https://t.me/Financial_Express/3009556"
   },
@@ -107,7 +142,7 @@
   {
     "post": "Financial_Express/3009555",
     "datetime": "2026-03-16T19:28:58+00:00",
-    "views": "38",
+    "views": "99",
     "text": "比罗尔：“就政府储备和由政府义务持有的行业储备而言，如果将两者合并计算，仍有超过 14 亿桶剩余，这意味着我们可以在以后需要时采取更多行动。”",
     "url": "https://t.me/Financial_Express/3009555"
   },
