@@ -1,5 +1,33 @@
 [
   {
+    "post": "Financial_Express/3009661",
+    "datetime": "2026-03-16T20:16:57+00:00",
+    "views": "4",
+    "text": "英伟达(NVDA.O)扩展开源模型系列，以支持下一波基于智能体、实体世界和医疗保健人工智能的发展。",
+    "url": "https://t.me/Financial_Express/3009661"
+  },
+  {
+    "post": "Financial_Express/3009660",
+    "datetime": "2026-03-16T20:16:02+00:00",
+    "views": "14",
+    "text": "黄仁勋在 GTC 大会上宣布推出 NemoClaw，专为 OpenClaw 深度优化的部署工具链。安装只需两行命令。这不是偶然的简洁，而是刻意为之——英伟达要让每一台 GPU 服务器都能无缝接入 OpenClaw 生态，把算力与 agent 框架绑在一起。\n他盛赞 OpenClaw 是有史以来增长最快的开源软件。GitHub 星标曲线印证了这句话——在 2025 年底几乎垂直拉升，越过了 facebook/react，越过了 torvalds/linux。后者用了二十多年才积累到这个量级。",
+    "url": "https://t.me/Financial_Express/3009660"
+  },
+  {
+    "post": "Financial_Express/3009659",
+    "datetime": "2026-03-16T20:15:58+00:00",
+    "views": "14",
+    "text": "戴尔科技公司：截至 2026 年 1 月 30 日，我们拥有约 97,000 名员工。持续采取降本措施，包括人员重组、限制外部招聘及其他相关举措。业务现代化举措使得我们的员工总人数持续减少。",
+    "url": "https://t.me/Financial_Express/3009659"
+  },
+  {
+    "post": "Financial_Express/3009658",
+    "datetime": "2026-03-16T20:15:57+00:00",
+    "views": "14",
+    "text": "英伟达首席执行官发布基于 OpenCLAW AI 代理的企业级安全工具 NeMoCLAW。",
+    "url": "https://t.me/Financial_Express/3009658"
+  },
+  {
     "post": "Financial_Express/3009657",
     "datetime": "2026-03-16T20:14:22+00:00",
     "views": "10",
@@ -9,112 +37,112 @@
   {
     "post": "Financial_Express/3009656",
     "datetime": "2026-03-16T20:13:38+00:00",
-    "views": "16",
+    "views": "54",
     "text": "据华盛顿邮报：欧盟情报部门称，伊朗政权正在巩固权力。",
     "url": "https://t.me/Financial_Express/3009656"
   },
   {
     "post": "Financial_Express/3009655",
     "datetime": "2026-03-16T20:12:57+00:00",
-    "views": "52",
+    "views": "60",
     "text": "美国情报部门称，伊朗政权正在巩固权力。",
     "url": "https://t.me/Financial_Express/3009655"
   },
   {
     "post": "Financial_Express/3009654",
     "datetime": "2026-03-16T20:11:50+00:00",
-    "views": "56",
+    "views": "62",
     "text": "周一（3 月 16 日），彭博电动汽车价格回报指数涨 1.20%，报 3619.21 点。",
     "url": "https://t.me/Financial_Express/3009654"
   },
   {
     "post": "Financial_Express/3009653",
     "datetime": "2026-03-16T20:11:37+00:00",
-    "views": "57",
+    "views": "63",
     "text": "以色列：伊朗革命卫队海军总部遭打击并被摧毁。",
     "url": "https://t.me/Financial_Express/3009653"
   },
   {
     "post": "Financial_Express/3009652",
     "datetime": "2026-03-16T20:11:31+00:00",
-    "views": "57",
+    "views": "63",
     "text": "Beyond Meat 四季度净营收初步估算为大约 6100 万美元，分析师预期 6290 万美元。",
     "url": "https://t.me/Financial_Express/3009652"
   },
   {
     "post": "Financial_Express/3009650",
     "datetime": "2026-03-16T20:10:58+00:00",
-    "views": "57",
+    "views": "92",
     "text": "西班牙外交大臣：与荷兰外交大臣会晤，讨论了双边关系，还谈到了对乌克兰的坚定支持以及中东的严重局势。",
     "url": "https://t.me/Financial_Express/3009650"
   },
   {
     "post": "Financial_Express/3009651",
     "datetime": "2026-03-16T20:10:58+00:00",
-    "views": "58",
+    "views": "94",
     "text": "英伟达 CEO 黄仁勋：数据中心正在进入（被部署到）太空。",
     "url": "https://t.me/Financial_Express/3009651"
   },
   {
     "post": "Financial_Express/3009649",
     "datetime": "2026-03-16T20:10:18+00:00",
-    "views": "58",
+    "views": "93",
     "text": "英伟达 CEO 黄仁勋：太空计算这一最终前沿已经到来。",
     "url": "https://t.me/Financial_Express/3009649"
   },
   {
     "post": "Financial_Express/3009648",
     "datetime": "2026-03-16T20:10:17+00:00",
-    "views": "58",
+    "views": "92",
     "text": "以色列方面称，袭击并摧毁了伊朗伊斯兰革命卫队的海军总部。",
     "url": "https://t.me/Financial_Express/3009648"
   },
   {
     "post": "Financial_Express/3009647",
     "datetime": "2026-03-16T20:09:26+00:00",
-    "views": "88",
+    "views": "91",
     "text": "在 3 月 16 日开幕的 GTC 大会上，英伟达宣布，其最新的加速计算平台正在开启航天创新的新纪元，将人工智能（AI）计算带入轨道数据中心（ODC）、地理空间情报及自主太空作业。\n通过将数据中心级的性能引入体积、重量和功耗（SWaP）受限的环境，英伟达使得 AI 应用能够从地面到太空、以及在太空内部无缝运行，并支持日益复杂的任务需求。",
     "url": "https://t.me/Financial_Express/3009647"
   },
   {
     "post": "Financial_Express/3009646",
     "datetime": "2026-03-16T20:09:17+00:00",
-    "views": "89",
+    "views": "92",
     "text": "英伟达(NVDA.O)：推出空间计算，将人工智能引入轨道数据中心。行业领导者 Aetherflux、Axiom Space、Kepler Communications、Planet、Sophia Space、Starcloud 正使用英伟达加速计算平台，为下一代太空任务提供算力支持。",
     "url": "https://t.me/Financial_Express/3009646"
   },
   {
     "post": "Financial_Express/3009645",
     "datetime": "2026-03-16T20:08:18+00:00",
-    "views": "90",
+    "views": "93",
     "text": "金十图示：2026 年 03 月 16 日（周一）全球股市指数-美洲市场（收盘）",
     "url": "https://t.me/Financial_Express/3009645"
   },
   {
     "post": "Financial_Express/3009644",
     "datetime": "2026-03-16T20:07:57+00:00",
-    "views": "90",
+    "views": "93",
     "text": "美证交会最早下月提出取消季报要求的提案\n金十数据 3 月 17 日讯，据《华尔街日报》，知情人士透露，美国证交会（SEC）正拟定一项提案，取消上市公司必须按季度报告业绩的要求，改为允许公司选择每半年披露一次业绩。监管机构最早可能于下月发布该提案。为准备该提案，监管机构已与各大交易所官员进行磋商，探讨相关规则可能需要作出的调整。提案一旦公布，将进入公众意见征询期，该阶段通常至少持续 30 天，随后 SEC 将就该提案进行表决。预计该规则将使季度报告成为可选项，而不是彻底取消季度报告。去年 9 月有报道称，长期证券交易所（Long-Term Stock Exchange）已向 SEC 提交请愿，要求取消季度财报披露要求。几天之内，特朗普和 SEC 主席阿特金斯都表示支持这一想法。过去 50 多年里，美国上市公司一直每三个月披露一次业绩。",
     "url": "https://t.me/Financial_Express/3009644"
   },
   {
     "post": "Financial_Express/3009643",
     "datetime": "2026-03-16T20:07:22+00:00",
-    "views": "90",
+    "views": "94",
     "text": "英伟达专为体积、重量及功耗（SWaP）受限的环境设计，NVIDIA Space-1 Vera Rubin 模块、IGX Thor 以及 Jetson Orin 平台为轨道数据中心、地理空间情报及自主太空作业提供数据中心级的性能。\n先锋合作伙伴： Aetherflux、Axiom Space、Kepler Communications、Planet Labs PBC、Sophia Space 及 Starcloud 正在使用 NVIDIA 加速计算平台赋能下一代太空任务。",
     "url": "https://t.me/Financial_Express/3009643"
   },
   {
     "post": "Financial_Express/3009642",
     "datetime": "2026-03-16T20:06:58+00:00",
-    "views": "91",
+    "views": "95",
     "text": "据伊朗国家媒体：伊朗将打击任何对哈尔格岛石油设施发动袭击的国家的石油和天然气设施。",
     "url": "https://t.me/Financial_Express/3009642"
   },
   {
     "post": "Financial_Express/3009641",
     "datetime": "2026-03-16T20:06:38+00:00",
-    "views": "91",
+    "views": "95",
     "text": "金十图示：2026 年 03 月 16 日（周一）美股热门股票行情一览（美股收盘）",
     "url": "https://t.me/Financial_Express/3009641"
   },
@@ -27382,12 +27410,5 @@
     "views": "189",
     "text": "伊朗警告将打击美航母后勤服务中心\n伊朗哈塔姆·安比亚中央司令部发言人当地时间 3 月 15 日晚表示，美国“福特”号航母在红海的存在被视为对伊朗的威胁——因此，为该航母战斗群在红海提供后勤与服务的中心，将被视为伊朗武装部队的打击目标。当天有卫星图像显示，美军“福特”号航母已驶入红海南部，位于沙特阿拉伯吉达沿海一带。另一艘美军航母“林肯”号则已驶离伊朗沿海，目前位于阿曼附近海域，距伊朗超过 1100 公里——此前“林肯”号一度距离伊朗约 350 公里。（CCTV 国际时讯）",
     "url": "https://t.me/Financial_Express/3005724"
-  },
-  {
-    "post": "Financial_Express/3005723",
-    "datetime": "2026-03-15T20:16:37+00:00",
-    "views": "7",
-    "text": "媒体报道网店人工培育虫草冒充野生虫草，成都新都区市监局立案调查\n成都市新都区市场监督管理局发布称：“3 月 15 日，媒体报道网络平台店铺 “藏草滋补堂” 销售的人工培育虫草宣称为 “野生虫草” 问题，我局高度重视，立即开展调查，现已对店铺经营者李某某涉嫌的相关违法行为立案，案件正在进一步调查中。下一步，我局将根据调查核实情况依法依规严肃查处，坚决保护消费者合法权益。”",
-    "url": "https://t.me/Financial_Express/3005723"
   }
 ]
