@@ -1,15 +1,29 @@
 [
   {
+    "post": "Financial_Express/3009811",
+    "datetime": "2026-03-16T21:44:37+00:00",
+    "views": "2",
+    "text": "据美联社：阿富汗称喀布尔空袭已造成 200 多人死亡。",
+    "url": "https://t.me/Financial_Express/3009811"
+  },
+  {
+    "post": "Financial_Express/3009810",
+    "datetime": "2026-03-16T21:43:05+00:00",
+    "views": "8",
+    "text": "铠侠（Kioxia）在单台服务器上实现 48 亿规模高维向量搜索数据库，利用 GPU 实现 7.8 倍索引构建加速。\n结合英伟达 NVIDIA cuVS 库与铠侠开源的 AiSAQ 技术，在极低 DRAM 占用下完成 1024 维向量索引。",
+    "url": "https://t.me/Financial_Express/3009810"
+  },
+  {
     "post": "Financial_Express/3009809",
     "datetime": "2026-03-16T21:40:37+00:00",
-    "views": "12",
+    "views": "15",
     "text": "美国官员回应伊朗外长否认近期与美接触：他在撒谎\n金十数据 3 月 17 日讯，在伊朗外长阿拉格齐否认近期与美国特使威特科夫联系后，AXIOS 记者援引美国官员的话表示，阿拉格齐在撒谎。",
     "url": "https://t.me/Financial_Express/3009809"
   },
   {
     "post": "Financial_Express/3009808",
     "datetime": "2026-03-16T21:38:45+00:00",
-    "views": "25",
+    "views": "57",
     "text": "Planet Labs PBC 宣布了一项旨在彻底变革卫星图像处理、增强与分析方式的主动计划。Planet 正与英伟达展开合作，探索通过采用 GPU（图形处理器）来加速图像处理并交付深度洞察。Planet 正利用英伟达 NVIDIA Blackwell 和 NVIDIA IGX Thor 平台，将原始像素转化为“分析就绪（analysis-ready）”洞察的时间，从数小时缩短至仅需数秒。",
     "url": "https://t.me/Financial_Express/3009808"
   },
@@ -72,7 +86,7 @@
   {
     "post": "Financial_Express/3009799",
     "datetime": "2026-03-16T21:30:38+00:00",
-    "views": "42",
+    "views": "72",
     "text": "新西兰财政部：冲突将抑制而非破坏其经济复苏。",
     "url": "https://t.me/Financial_Express/3009799"
   },
