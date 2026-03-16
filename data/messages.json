@@ -1,78 +1,127 @@
 [
   {
+    "post": "Financial_Express/3009582",
+    "datetime": "2026-03-16T19:36:57+00:00",
+    "views": "2",
+    "text": "英伟达 CEO 黄仁勋：CPU 业务肯定会成为数十亿美元级别的业务。",
+    "url": "https://t.me/Financial_Express/3009582"
+  },
+  {
+    "post": "Financial_Express/3009581",
+    "datetime": "2026-03-16T19:36:37+00:00",
+    "views": "2",
+    "text": "英伟达 CEO 黄仁勋：Vera Rubin Ultra 服务器将搭载 144 颗 GPU。",
+    "url": "https://t.me/Financial_Express/3009581"
+  },
+  {
+    "post": "Financial_Express/3009580",
+    "datetime": "2026-03-16T19:36:24+00:00",
+    "views": "2",
+    "text": "英伟达 CEO 黄仁勋展示新款 Rubin Ultra 系统，称：新款 Vera 处理器采用 LPDDR 5 存储器。\nVera 的性能是任何 CPU 的两倍。\nCPU“肯定”会是一个（至少）数十亿美元级别的业务。",
+    "url": "https://t.me/Financial_Express/3009580"
+  },
+  {
+    "post": "Financial_Express/3009579",
+    "datetime": "2026-03-16T19:36:18+00:00",
+    "views": "2",
+    "text": "美国内政部长称：伊朗战争激发亚洲对进口美国能源的兴趣\n美国内政部长道格·伯格姆表示，中东战争对石油和天然气运输的扰动促使亚洲国家对从美国进口更多能源产生了新的兴趣。“他们正在寻求能源供应多元化，”伯格姆结束在东京与亚太国家为期两天的会谈后表示。伯格姆说：“他们达成协议的紧迫性增加了，因为在座的许多国家”都依赖于通过该海峡运输的供应。据知情人士透露，日本经济产业大臣赤泽亮正在会谈中反复强调，日本约 90%的石油供应依赖于经由霍尔木兹海峡运输的原油。",
+    "url": "https://t.me/Financial_Express/3009579"
+  },
+  {
+    "post": "Financial_Express/3009578",
+    "datetime": "2026-03-16T19:35:58+00:00",
+    "views": "2",
+    "text": "美国内政部长道格·伯格姆表示，中东战争对石油和天然气运输的扰动促使亚洲国家对从美国进口更多能源产生了新的兴趣。\n“他们正在寻求能源供应多元化，”伯格姆结束在东京与亚太国家为期两天的会谈后表示。\n伯格姆说：“他们达成协议的紧迫性增加了，因为在座的许多国家”都依赖于通过该海峡运输的供应。\n据知情人士透露，日本经济产业大臣赤泽亮正在会谈中反复强调，日本约 90%的石油供应依赖于经由霍尔木兹海峡运输的原油。（彭博）",
+    "url": "https://t.me/Financial_Express/3009578"
+  },
+  {
+    "post": "Financial_Express/3009577",
+    "datetime": "2026-03-16T19:35:57+00:00",
+    "views": "2",
+    "text": "英伟达 CEO 黄仁勋：Vera  Rubin Ultra 服务器将搭载 144 颗 GPU。",
+    "url": "https://t.me/Financial_Express/3009577"
+  },
+  {
+    "post": "Financial_Express/3009576",
+    "datetime": "2026-03-16T19:35:37+00:00",
+    "views": "33",
+    "text": "英伟达 CEO 黄仁勋展示全新 Rubin Ultra 系统。",
+    "url": "https://t.me/Financial_Express/3009576"
+  },
+  {
     "post": "Financial_Express/3009574",
     "datetime": "2026-03-16T19:34:59+00:00",
-    "views": "2",
+    "views": "33",
     "text": "英伟达 CEO 黄仁勋：CPU 业务 “肯定” 会成为数十亿美元级别的业务。",
     "url": "https://t.me/Financial_Express/3009574"
   },
   {
     "post": "Financial_Express/3009573",
     "datetime": "2026-03-16T19:34:58+00:00",
-    "views": "2",
+    "views": "33",
     "text": "知情人士：美伊高官近期通过短信交流\n金十数据 3 月 17 日讯，据 AXIOS 报道，一名美国官员及知情人士透露，美国特使威特科夫与伊朗外长阿拉格齐之间的直接沟通渠道已于近日重新启用。知情人士称，阿拉格齐向威特科夫发送了侧重于结束战争的短信。上述美国官员声称是阿拉格齐试图接触，但接着表示，美国“并未与”伊朗对话。两名消息人士均未详细说明已交换了多少条短信或其具体内容。",
     "url": "https://t.me/Financial_Express/3009573"
   },
   {
     "post": "Financial_Express/3009572",
     "datetime": "2026-03-16T19:33:41+00:00",
-    "views": "5",
+    "views": "65",
     "text": "英伟达宣布，NVIDIA Vera Rubin 平台正在开启“智能体 AI（Agentic AI）”的下一个前沿。目前，七款全新芯片已进入全面量产阶段，用于扩展全球最大的人工智能（AI）工厂，针对从预训练、后训练、测试时扩展到智能体推理的每一阶段进行优化。\nNVIDIA Vera Rubin 平台正凭借以下核心组件开启下一个 AI 前沿：Vera Rubin NVL72 GPU 机架，Vera CPU 机架，NVIDIA Groq 3 LPX 推理加速器机架，NVIDIA BlueField-4 STX 存储机架，以及 NVIDIA Spectrum-6 SPX 以太网机架。",
     "url": "https://t.me/Financial_Express/3009572"
   },
   {
     "post": "Financial_Express/3009571",
     "datetime": "2026-03-16T19:33:38+00:00",
-    "views": "5",
+    "views": "65",
     "text": "英伟达 CEO 黄仁勋：公司已与台积电全面量产用于 Spectrum X 芯片的共封装光学芯片。",
     "url": "https://t.me/Financial_Express/3009571"
   },
   {
     "post": "Financial_Express/3009570",
     "datetime": "2026-03-16T19:33:17+00:00",
-    "views": "35",
+    "views": "65",
     "text": "英伟达 CEO 黄仁勋：全新基于 Groq 技术的服务器将搭载八颗 Groq 芯片，这些芯片属于第三代产品。",
     "url": "https://t.me/Financial_Express/3009570"
   },
   {
     "post": "Financial_Express/3009569",
     "datetime": "2026-03-16T19:32:57+00:00",
-    "views": "36",
+    "views": "66",
     "text": "英伟达表示，Vera 的性能是任何其他 CPU 的两倍。",
     "url": "https://t.me/Financial_Express/3009569"
   },
   {
     "post": "Financial_Express/3009568",
     "datetime": "2026-03-16T19:32:37+00:00",
-    "views": "36",
+    "views": "66",
     "text": "据 Axios：美国特使威特科夫与伊朗外长阿拉格奇近期恢复沟通。",
     "url": "https://t.me/Financial_Express/3009568"
   },
   {
     "post": "Financial_Express/3009567",
     "datetime": "2026-03-16T19:31:37+00:00",
-    "views": "38",
+    "views": "98",
     "text": "英伟达发布全新 Groq 3 LPX AI 推理芯片，该芯片基于这家初创公司的技术打造。",
     "url": "https://t.me/Financial_Express/3009567"
   },
   {
     "post": "Financial_Express/3009566",
     "datetime": "2026-03-16T19:31:17+00:00",
-    "views": "38",
+    "views": "98",
     "text": "英伟达推出 Vera CPU，专为智能体 AI（Agentic AI） 量身打造。",
     "url": "https://t.me/Financial_Express/3009566"
   },
   {
     "post": "Financial_Express/3009564",
     "datetime": "2026-03-16T19:30:58+00:00",
-    "views": "67",
+    "views": "97",
     "text": "英伟达(NVDA.O)发布了基于 BlueField-4 的 STX（存储技术扩展） 存储架构，并获得了业界的广泛采用。",
     "url": "https://t.me/Financial_Express/3009564"
   },
   {
     "post": "Financial_Express/3009565",
     "datetime": "2026-03-16T19:30:58+00:00",
-    "views": "68",
+    "views": "98",
     "text": "英伟达表示全新 Vera 处理器采用 LPDDR5 内存。",
     "url": "https://t.me/Financial_Express/3009565"
   },
@@ -26976,12 +27025,5 @@
     "views": "167",
     "text": "以色列国防军准备在黎巴嫩开展潜在的地面行动，并计划征召多达 45 万名预备役人员。",
     "url": "https://t.me/Financial_Express/3005700"
-  },
-  {
-    "post": "Financial_Express/3005699",
-    "datetime": "2026-03-15T19:36:57+00:00",
-    "views": "159",
-    "text": "美国航企高管呼吁国会结束政府停摆、为员工发薪\n美国 10 家航空公司及航空企业高管呼吁国会结束已影响旅客出行的政府停摆。周六公开的联名信显示：“生活在你们选区与所在州的美国民众，已经厌倦了一次次政府停摆导致的机场排长队、出行延误和航班取消。然而，航空出行再次成为新一轮政府停摆中的政治皮球。”联署高管包括达美航空、美国联合航空、美国航空、阿拉斯加航空、西南航空、捷蓝航空以及联合包裹运送服务公司（UPS）的首席执行官。信中表示：“TSA 工作人员薪水为零。这完全不可接受。没有收入，养家糊口、给车加油、支付房租即便不是完全不可能，也会变得异常艰难。”高管们还指出，目前正值春假出行旺季，停摆让无薪工作的美国联邦运输安全管理局（TSA）人员承受巨大压力。他们表示，今年世界杯以及美国建国 250 周年庆典预计将为美国带来创纪录的 1.71 亿旅客。他们称：“政府早就该确保受影响的工作人员拿到薪水。”高管们还呼吁国会通过三项法案，确保空管人员和 TSA 工作人员无论政府资金状况如何都能获得薪酬。",
-    "url": "https://t.me/Financial_Express/3005699"
   }
 ]
