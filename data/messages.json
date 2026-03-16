@@ -1,106 +1,141 @@
 [
   {
+    "post": "Financial_Express/3009729",
+    "datetime": "2026-03-16T20:42:53+00:00",
+    "views": "2",
+    "text": "英伟达、Adobe 宣布战略合作伙伴关系。\n双方将交付下一代 Firefly 模型。",
+    "url": "https://t.me/Financial_Express/3009729"
+  },
+  {
+    "post": "Financial_Express/3009728",
+    "datetime": "2026-03-16T20:42:37+00:00",
+    "views": "4",
+    "text": "国际油价 16 日大幅下跌\n截至当天收盘，纽约商品交易所 4 月交货的轻质原油期货价格下跌 5.21 美元，收于每桶 93.50 美元，跌幅为 5.28%；5 月交货的伦敦布伦特原油期货价格下跌 2.93 美元，收于每桶 100.21 美元，跌幅为 2.84%。",
+    "url": "https://t.me/Financial_Express/3009728"
+  },
+  {
+    "post": "Financial_Express/3009727",
+    "datetime": "2026-03-16T20:42:26+00:00",
+    "views": "5",
+    "text": "IBM 宣布，与英伟达扩大在企业 AI 方面的合作。",
+    "url": "https://t.me/Financial_Express/3009727"
+  },
+  {
+    "post": "Financial_Express/3009726",
+    "datetime": "2026-03-16T20:42:06+00:00",
+    "views": "7",
+    "text": "英伟达在今后至 2028 年这段时间于优步（Uber）推出 L4 软件驱动的无人驾驶出租车（Robotaxis）。",
+    "url": "https://t.me/Financial_Express/3009726"
+  },
+  {
+    "post": "Financial_Express/3009725",
+    "datetime": "2026-03-16T20:41:38+00:00",
+    "views": "9",
+    "text": "特朗普政府请求法官重新考虑阻止针对鲍威尔刑事调查的裁决\n金十数据 3 月 17 日讯，周一公布的法院文件显示，特朗普政府已请求法官重新考虑其此前的一项裁决，该裁决实际上阻止了对美联储主席鲍威尔的刑事调查。位于华盛顿的美国地方法官 James Boasberg 在上周五解封的一项裁定中，阻止了联邦检察官今年 1 月发出的多份传票。这些传票旨在获取有关美联储总部翻新工程超支的信息，以及鲍威尔去年就该项目向国会作证的情况。美国司法部在一份新的法庭文件中敦促法官重新审议其决定。负责领导此次调查的华盛顿特区联邦检察官 Jeanine Pirro 及其团队在文件中辩称，法官“适用了错误的法律标准”，并且“在若干重大事实问题上存在错误”。该动议于上周四以密封形式提交，但应 Pirro 办公室的要求于周一公开。",
+    "url": "https://t.me/Financial_Express/3009725"
+  },
+  {
     "post": "Financial_Express/3009724",
     "datetime": "2026-03-16T20:40:58+00:00",
-    "views": "3",
+    "views": "13",
     "text": "Nebius 就机器人和实物 AI 与英伟达构建合作伙伴关系。",
     "url": "https://t.me/Financial_Express/3009724"
   },
   {
     "post": "Financial_Express/3009723",
     "datetime": "2026-03-16T20:40:57+00:00",
-    "views": "3",
+    "views": "13",
     "text": "英伟达(NVDA.O)： 扩大与现代汽车和起亚汽车在自动驾驶技术方面的合作。",
     "url": "https://t.me/Financial_Express/3009723"
   },
   {
     "post": "Financial_Express/3009722",
     "datetime": "2026-03-16T20:40:55+00:00",
-    "views": "3",
+    "views": "13",
     "text": "AI 云计算公司 Nebius 宣布，与英伟达展开合作，通过专门为机器人全生命周期（从模拟、训练到大规模现实部署）打造的端到端平台，加速物理 AI 的开发。\n通过将 Nebius 的全球 AI 云基础设施与英伟达物理 AI 数据工厂蓝图（一种用于大规模数据生成与评估的开放参考架构）相结合，Nebius 将为机器人开发者和企业提供一个智能体驱动（Agent-driven）的环境。该环境旨在解决物理 AI 大规模应用的两大根本障碍：基础设施与工具链的碎片化，以及缺乏高质量训练数据来应对决定成败的罕见、不可预测场景。",
     "url": "https://t.me/Financial_Express/3009722"
   },
   {
     "post": "Financial_Express/3009721",
     "datetime": "2026-03-16T20:40:18+00:00",
-    "views": "11",
+    "views": "18",
     "text": "Lyft(LYFT.O)盘后上涨 3.2%，Lyft 将使用英伟达人工智能技术提升公司在全球运营中的机器学习系统。",
     "url": "https://t.me/Financial_Express/3009721"
   },
   {
     "post": "Financial_Express/3009720",
     "datetime": "2026-03-16T20:38:38+00:00",
-    "views": "23",
+    "views": "58",
     "text": "英伟达发布开放实体 AI 数据工厂蓝图，用于加速机器人、视觉 AI 智能体及自动驾驶技术的开发。",
     "url": "https://t.me/Financial_Express/3009720"
   },
   {
     "post": "Financial_Express/3009719",
     "datetime": "2026-03-16T20:38:37+00:00",
-    "views": "23",
+    "views": "58",
     "text": "英伟达：罗氏在全球内部署超过 3500 块英伟达 Blackwell GPU，以提升研发效率、推动下一代诊断技术并提高生产效率。",
     "url": "https://t.me/Financial_Express/3009719"
   },
   {
     "post": "Financial_Express/3009718",
     "datetime": "2026-03-16T20:38:17+00:00",
-    "views": "55",
+    "views": "58",
     "text": "德法英等五国呼吁缓和黎以局势 避免发动大规模地面进攻\n当地时间 3 月 16 日，德国政府发布声明称，德国、法国、英国、意大利和加拿大领导人就黎巴嫩局势发表联合声明，呼吁缓和以色列与黎巴嫩真主党之间不断升级的冲突，并推动通过政治谈判解决危机。声明表示，各国对黎巴嫩局势持续恶化深感担忧，呼吁以色列和黎巴嫩方面展开有意义的接触，推动达成可持续的政治解决方案，并敦促各方立即采取措施缓和紧张局势。声明警告称，如果以色列在黎巴嫩发动大规模地面进攻，可能造成严重的人道主义后果，并导致冲突长期化。声明呼吁各方全面落实联合国安理会第 1701 号决议，并支持黎巴嫩政府为解除真主党武装、禁止真主党军事活动和遏制其武装敌对行动所做的努力。（央视新闻）",
     "url": "https://t.me/Financial_Express/3009718"
   },
   {
     "post": "Financial_Express/3009717",
     "datetime": "2026-03-16T20:37:57+00:00",
-    "views": "57",
+    "views": "60",
     "text": "英伟达(NVDA.O)开始将 Dynamo 投入生产部署，该系统是一款被广泛采用、面向 AI 工厂的推理操作系统。",
     "url": "https://t.me/Financial_Express/3009717"
   },
   {
     "post": "Financial_Express/3009716",
     "datetime": "2026-03-16T20:37:38+00:00",
-    "views": "57",
+    "views": "60",
     "text": "特朗普： 没人想到伊朗会袭击中立国。",
     "url": "https://t.me/Financial_Express/3009716"
   },
   {
     "post": "Financial_Express/3009715",
     "datetime": "2026-03-16T20:37:17+00:00",
-    "views": "59",
+    "views": "61",
     "text": "美国总统特朗普：将在“合适的时机”揭示哪些国家在提供帮助。",
     "url": "https://t.me/Financial_Express/3009715"
   },
   {
     "post": "Financial_Express/3009714",
     "datetime": "2026-03-16T20:36:38+00:00",
-    "views": "61",
+    "views": "63",
     "text": "英伟达：罗氏集团在全球规模化部署英伟达 AI 工厂，加速药物研发、诊断解决方案及制造领域的突破。",
     "url": "https://t.me/Financial_Express/3009714"
   },
   {
     "post": "Financial_Express/3009713",
     "datetime": "2026-03-16T20:36:37+00:00",
-    "views": "61",
+    "views": "63",
     "text": "戴尔(DELL.N)推出搭载英伟达 GB300 的桌面系统，用于运行自主式 AI 代理，并集成 NVIDIA NeMoCLAW 和 NVIDIA OpenShell。",
     "url": "https://t.me/Financial_Express/3009713"
   },
   {
     "post": "Financial_Express/3009712",
     "datetime": "2026-03-16T20:36:18+00:00",
-    "views": "62",
+    "views": "65",
     "text": "特朗普：时机成熟时，我会告诉你们哪些国家是有用的。",
     "url": "https://t.me/Financial_Express/3009712"
   },
   {
     "post": "Financial_Express/3009711",
     "datetime": "2026-03-16T20:35:57+00:00",
-    "views": "63",
+    "views": "66",
     "text": "Uber(UBER.N)盘后上涨 3%，英伟达与 Uber 将推出由英伟达软件驱动的全球自动驾驶车队，计划于 2027 年上半年启动。",
     "url": "https://t.me/Financial_Express/3009711"
   },
   {
     "post": "Financial_Express/3009710",
     "datetime": "2026-03-16T20:35:37+00:00",
-    "views": "64",
+    "views": "65",
     "text": "美国总统特朗普：（谈英国首相斯塔默）我告诉他，我们不需要你的航母。",
     "url": "https://t.me/Financial_Express/3009710"
   },
@@ -27774,12 +27809,5 @@
     "views": "199",
     "text": "市场资讯：美国仍在讨论行动（动用舰队护航）何时开始。",
     "url": "https://t.me/Financial_Express/3005735"
-  },
-  {
-    "post": "Financial_Express/3005734",
-    "datetime": "2026-03-15T20:41:37+00:00",
-    "views": "201",
-    "text": "市场资讯：美国计划宣布组建联合舰队，护航通过霍尔木兹海峡的船只。",
-    "url": "https://t.me/Financial_Express/3005734"
   }
 ]
