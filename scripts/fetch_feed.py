@@ -51,15 +51,22 @@ def clean_html_text(raw: str) -> str:
     text = re.sub(r'<[^>]+>', '', text)
     return html.unescape(text).strip()
 
-def strip_tme_lines(text: str) -> str:
+def strip_telegram_promo_lines(text: str) -> str:
     lines = []
     for line in text.splitlines():
-        lower = line.lower()
-        if 't.me/' in lower or 'https://t.me/' in lower or 'http://t.me/' in lower:
+        lower = line.lower().strip()
+        if not lower:
+            lines.append(line)
+            continue
+        if ('t.me/' in lower or 'https://t.me/' in lower or 'http://t.me/' in lower) and any(k in lower for k in ['关注频道', 'telegram必备', 'jisou', 'start=']):
             continue
         lines.append(line)
     cleaned = '\n'.join(lines)
     cleaned = re.sub(r'\n{3,}', '\n\n', cleaned).strip()
+    promo_keywords = ['telegram必备的搜索引擎', '关注频道', 'jisou', '每日分享b站各类课程']
+    low = cleaned.lower()
+    if any(k in low for k in promo_keywords):
+        return ''
     return cleaned
 
 
@@ -75,7 +82,7 @@ def parse_message_chunk(chunk: str, channel: str) -> dict | None:
     text = ''
     media_only = False
     if text_match:
-        text = strip_tme_lines(clean_html_text(text_match.group(1)))
+        text = strip_telegram_promo_lines(clean_html_text(text_match.group(1)))
     else:
         media_only = 'text_not_supported_wrap' in chunk or 'tgme_widget_message_photo_wrap' in chunk or 'tgme_widget_message_video_player' in chunk
 
