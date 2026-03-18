@@ -11,8 +11,10 @@ TMP.mkdir(parents=True, exist_ok=True)
 DATA.mkdir(parents=True, exist_ok=True)
 DOCS.mkdir(parents=True, exist_ok=True)
 VIP_MEDIA_TMP = TMP / 'vip-media'
+VIP_MEDIA_PUBLIC = ROOT / 'astro' / 'public' / 'vip-media'
 VIP_MEDIA_DOCS = DOCS / 'vip-media'
 VIP_MEDIA_TMP.mkdir(parents=True, exist_ok=True)
+VIP_MEDIA_PUBLIC.mkdir(parents=True, exist_ok=True)
 VIP_MEDIA_DOCS.mkdir(parents=True, exist_ok=True)
 
 WINDOW_DAYS = 2
@@ -49,6 +51,17 @@ def clean_html_text(raw: str) -> str:
     text = re.sub(r'<[^>]+>', '', text)
     return html.unescape(text).strip()
 
+def strip_tme_lines(text: str) -> str:
+    lines = []
+    for line in text.splitlines():
+        lower = line.lower()
+        if 't.me/' in lower or 'https://t.me/' in lower or 'http://t.me/' in lower:
+            continue
+        lines.append(line)
+    cleaned = '\n'.join(lines)
+    cleaned = re.sub(r'\n{3,}', '\n\n', cleaned).strip()
+    return cleaned
+
 
 def parse_message_chunk(chunk: str, channel: str) -> dict | None:
     post = re.search(r'data-post="([^"]+)"', chunk)
@@ -62,7 +75,7 @@ def parse_message_chunk(chunk: str, channel: str) -> dict | None:
     text = ''
     media_only = False
     if text_match:
-        text = clean_html_text(text_match.group(1))
+        text = strip_tme_lines(clean_html_text(text_match.group(1)))
     else:
         media_only = 'text_not_supported_wrap' in chunk or 'tgme_widget_message_photo_wrap' in chunk or 'tgme_widget_message_video_player' in chunk
 
@@ -118,8 +131,9 @@ def filter_recent(items: list) -> list:
 
 
 def sync_vip_images(items: list) -> None:
-    for old in VIP_MEDIA_DOCS.glob('*'):
-        old.unlink()
+    for d in [VIP_MEDIA_DOCS, VIP_MEDIA_PUBLIC]:
+        for old in d.glob('*'):
+            old.unlink()
     downloaded = 0
     for item in items:
         item['image'] = None
@@ -131,14 +145,17 @@ def sync_vip_images(items: list) -> None:
         post_id = item['post'].split('/')[-1]
         ext = '.jpg'
         out = VIP_MEDIA_DOCS / f'{post_id}{ext}'
+        public_out = VIP_MEDIA_PUBLIC / f'{post_id}{ext}'
         try:
             subprocess.run(['curl', '-L', '--max-time', '45', '-A', 'Mozilla/5.0', url, '-o', str(out)], check=True)
             if out.exists() and out.stat().st_size > 1000:
+                shutil.copy2(out, public_out)
                 item['image'] = f'./vip-media/{out.name}'
                 downloaded += 1
         except Exception:
-            if out.exists():
-                out.unlink()
+            for path in [out, public_out]:
+                if path.exists():
+                    path.unlink()
 
 
 def fetch_source(cfg: dict) -> None:
