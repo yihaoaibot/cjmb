@@ -56,6 +56,7 @@ const pageState = JSON.stringify({ updated, clsvipUpdated: clsvipMeta.updated_at
       .search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}
       .search{min-width:0;width:240px;max-width:100%}
       .btn,.topic-btn{cursor:pointer}
+      .topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:rgba(248,89,89,.22);font-weight:700}
       .icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}
       .page{max-width:820px;margin:0 auto;padding:12px 12px 24px}
       .notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}
@@ -120,14 +121,17 @@ const pageState = JSON.stringify({ updated, clsvipUpdated: clsvipMeta.updated_at
         const vipBtn = document.getElementById('topic-clsvip');
         const mainTopic = document.getElementById('mainTopic');
         const vipTopic = document.getElementById('vipTopic');
+        function filterCards(){ const q = (searchInput?.value || '').toLowerCase().trim(); const scope = (localStorage.getItem('cjmb-topic') || 'main') === 'vip' ? vipTopic : mainTopic; scope?.querySelectorAll('.item').forEach(item => { const hay = item.dataset.search || ''; item.style.display = !q || hay.includes(q) ? '' : 'none'; }); }
         function setTopic(topic){
           const isVip = topic === 'vip';
           if (mainTopic) mainTopic.style.display = isVip ? 'none' : 'block';
           if (vipTopic) vipTopic.style.display = isVip ? 'block' : 'none';
-          if (mainBtn) { mainBtn.style.background = isVip ? "var(--surface)" : "var(--accent-soft)"; mainBtn.style.color = isVip ? "var(--text)" : "var(--accent)"; }
-          if (vipBtn) { vipBtn.style.background = isVip ? "var(--accent-soft)" : "var(--surface)"; vipBtn.style.color = isVip ? "var(--accent)" : "var(--text)"; }
+          mainBtn?.classList.toggle('is-active', !isVip);
+          vipBtn?.classList.toggle('is-active', isVip);
           localStorage.setItem('cjmb-topic', topic);
+          filterCards();
         }
+        searchInput?.addEventListener('input', filterCards);
         mainBtn?.addEventListener('click', () => setTopic('main'));
         vipBtn?.addEventListener('click', () => setTopic('vip'));
         setTopic(localStorage.getItem('cjmb-topic') || 'main');
