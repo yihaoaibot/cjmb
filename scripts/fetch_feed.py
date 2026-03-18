@@ -20,7 +20,7 @@ VIP_MEDIA_DOCS.mkdir(parents=True, exist_ok=True)
 WINDOW_DAYS = 2
 CUT_OFF = datetime.now(timezone.utc) - timedelta(days=WINDOW_DAYS)
 MAX_PAGES = 1
-VIP_IMAGE_LIMIT = 8
+VIP_IMAGE_LIMIT = 20
 
 SOURCES = [
     {
