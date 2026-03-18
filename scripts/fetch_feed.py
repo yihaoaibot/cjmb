@@ -19,7 +19,7 @@ VIP_MEDIA_DOCS.mkdir(parents=True, exist_ok=True)
 
 WINDOW_DAYS = 2
 CUT_OFF = datetime.now(timezone.utc) - timedelta(days=WINDOW_DAYS)
-MAX_PAGES = 1
+MAX_PAGES = 6
 VIP_IMAGE_LIMIT = 20
 
 SOURCES = [
@@ -166,8 +166,20 @@ def sync_vip_images(items: list) -> None:
 
 
 def fetch_source(cfg: dict) -> None:
-    src = fetch_url(cfg['url'], cfg['html_path'])
-    collected = parse_page(src, cfg['name'])
+    collected = []
+    next_url = cfg['url']
+    for page_num in range(MAX_PAGES):
+        html_file = cfg['html_path'] if page_num == 0 else cfg['html_path'].with_name(f"{cfg['html_path'].stem}-{page_num}.html")
+        src = fetch_url(next_url, html_file)
+        page_items = parse_page(src, cfg['name'])
+        collected.extend(page_items)
+        if cfg['name'] != 'clsvip':
+            break
+        m = re.search(r'href="([^"]*before=[^"]+)"', src)
+        if not m:
+            break
+        next_url = 'https://t.me' + m.group(1).replace('&amp;', '&')
+
     existing = load_existing(cfg['messages_path'])
     by_post = {}
     for item in existing + collected:
