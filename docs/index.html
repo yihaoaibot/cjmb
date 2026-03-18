@@ -1,5 +1,69 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}.vip-image-card{display:block;width:100%;max-width:360px;border-radius:12px;margin-bottom:10px;border:1px solid var(--line);box-shadow:0 8px 20px #00000014;background:var(--surface)}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-03-18T11:27:08.881870+00:00","clsvipUpdated":"2026-03-18T11:27:16.966914+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" class="btn">刷新</button><button id="themeBtn" class="btn icon-btn" aria-label="切换主题" title="切换主题">◐</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div> <div id="mainTopic"><section class="date-group"><h2 class="date-title">3月18日</h2><div class="feed"><article class="item" data-search="据媒体消息，伊朗称南帕尔斯气田部分区域遭袭。"><div class="time">19:26</div><div class="content"><div class="text" data-full="据媒体消息，伊朗称南帕尔斯气田部分区域遭袭。" data-short="据媒体消息，伊朗称南帕尔斯气田部分区域遭袭。">据媒体消息，伊朗称南帕尔斯气田部分区域遭袭。</div></div></article><article class="item" data-search="法国黎巴嫩问题特使：以色列强人所难
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-03-18T11:29:09.915330+00:00","clsvipUpdated":"2026-03-18T11:29:19.751784+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" class="btn">刷新</button><button id="themeBtn" class="btn icon-btn" aria-label="切换主题" title="切换主题">◐</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div> <div id="mainTopic"><section class="date-group"><h2 class="date-title">3月18日</h2><div class="feed"><article class="item" data-search="第五次中韩产业合作部长级对话在京举行
+金十数据 3 月 18 日讯，3 月 18 日，第五次中韩产业合作部长级对话在北京举行。工业和信息化部部长李乐成与韩国产业通商部部长金正官共同出席会议，双方围绕半导体、锂电池、工业绿色发展、银发经济等议题进行深入交流。李乐成表示，中韩产业合作势头好、韧性强，已形成优势互补、深度融合的良好格局，在全球产业分工中占据重要地位。双方应坚持开放合作、平等对话，共同应对全球性挑战，促进两国产业健康发展，实现互利共赢。李乐成就未来中韩产业合作提出三点建议：一是共同把握战略机遇，深化两国高科技和新兴领域合作，推动实现制造业高质量发展；二是着力深化共识，提升发展实效，推动半导体、锂电池、工业绿色发展、银发经济等重点领域务实合作；三是持续优化服务，激发市场潜力，中方将为包括韩国企业在内的外资企业来华发展创造良好条件，希望韩国企业继续看好中国、投资中国、扎根中国。"><div class="time">19:28</div><div class="content"><div class="text" data-full="第五次中韩产业合作部长级对话在京举行
+金十数据 3 月 18 日讯，3 月 18 日，第五次中韩产业合作部长级对话在北京举行。工业和信息化部部长李乐成与韩国产业通商部部长金正官共同出席会议，双方围绕半导体、锂电池、工业绿色发展、银发经济等议题进行深入交流。李乐成表示，中韩产业合作势头好、韧性强，已形成优势互补、深度融合的良好格局，在全球产业分工中占据重要地位。双方应坚持开放合作、平等对话，共同应对全球性挑战，促进两国产业健康发展，实现互利共赢。李乐成就未来中韩产业合作提出三点建议：一是共同把握战略机遇，深化两国高科技和新兴领域合作，推动实现制造业高质量发展；二是着力深化共识，提升发展实效，推动半导体、锂电池、工业绿色发展、银发经济等重点领域务实合作；三是持续优化服务，激发市场潜力，中方将为包括韩国企业在内的外资企业来华发展创造良好条件，希望韩国企业继续看好中国、投资中国、扎根中国。" data-short="第五次中韩产业合作部长级对话在京举行
+金十数据 3 月 18 日讯，3 月 18 日，第五次中韩产业合作部长级对话在北京举行。工业和信息化部部长李乐成与韩国产业通商部部长金正官共同出席会议，双方围绕半导体、锂电池、工业绿色发展、银发经济等议题进行深入交流。李乐成表示，中韩产业合作势头好、韧性强，已形成优势互补、深度融合的良好格局，在全球产业分工中占据重要地位...">第五次中韩产业合作部长级对话在京举行
+金十数据 3 月 18 日讯，3 月 18 日，第五次中韩产业合作部长级对话在北京举行。工业和信息化部部长李乐成与韩国产业通商部部长金正官共同出席会议，双方围绕半导体、锂电池、工业绿色发展、银发经济等议题进行深入交流。李乐成表示，中韩产业合作势头好、韧性强，已形成优势互补、深度融合的良好格局，在全球产业分工中占据重要地位...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="泽连斯基说拦截弹足够还能支援中东
+乌克兰总统泽连斯基 3 月 17 日在英国议会发表演讲时说，乌克兰已向处于战争中的中东地区派出 201 名“反无人机军事专家”，协助相关国家应对伊朗设计的“目击者”系列无人机，另有 34 人已准备部署。泽连斯基还称，乌克兰“每天至少能产 2000 枚拦截弹”，不仅满足自身需要，还能向盟友供应一半。 就在 3 月 2 日的美国国会机密简报会前，美国国务卿鲁比奥曾称：“伊朗每月生产 100 多枚导弹，我们每月只能造六七枚拦截弹。”而一年多前那场出名的“白宫吵架”中，泽连斯基还曾被美国总统特朗普当面指出，如果没有美方支持，乌克兰“已无牌可打”。（cctv 国际时讯）"><div class="time">19:28</div><div class="content"><div class="text" data-full="泽连斯基说拦截弹足够还能支援中东
+乌克兰总统泽连斯基 3 月 17 日在英国议会发表演讲时说，乌克兰已向处于战争中的中东地区派出 201 名“反无人机军事专家”，协助相关国家应对伊朗设计的“目击者”系列无人机，另有 34 人已准备部署。泽连斯基还称，乌克兰“每天至少能产 2000 枚拦截弹”，不仅满足自身需要，还能向盟友供应一半。 就在 3 月 2 日的美国国会机密简报会前，美国国务卿鲁比奥曾称：“伊朗每月生产 100 多枚导弹，我们每月只能造六七枚拦截弹。”而一年多前那场出名的“白宫吵架”中，泽连斯基还曾被美国总统特朗普当面指出，如果没有美方支持，乌克兰“已无牌可打”。（CCTV 国际时讯）" data-short="泽连斯基说拦截弹足够还能支援中东
+乌克兰总统泽连斯基 3 月 17 日在英国议会发表演讲时说，乌克兰已向处于战争中的中东地区派出 201 名“反无人机军事专家”，协助相关国家应对伊朗设计的“目击者”系列无人机，另有 34 人已准备部署。泽连斯基还称，乌克兰“每天至少能产 2000 枚拦截弹”，不仅满足自身需要，还能向盟友供应一半。 就在 3 月 2 日的美国...">泽连斯基说拦截弹足够还能支援中东
+乌克兰总统泽连斯基 3 月 17 日在英国议会发表演讲时说，乌克兰已向处于战争中的中东地区派出 201 名“反无人机军事专家”，协助相关国家应对伊朗设计的“目击者”系列无人机，另有 34 人已准备部署。泽连斯基还称，乌克兰“每天至少能产 2000 枚拦截弹”，不仅满足自身需要，还能向盟友供应一半。 就在 3 月 2 日的美国...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="莱美药业：2025 年净利润亏损 1.35 亿元
+金十数据 3 月 18 日讯，莱美药业公告，2025 年营业收入 7.76 亿元，同比下降 2.50%。归属于上市公司股东的净亏损 1.35 亿元，上年同期净亏损 8780.44 万元。公司计划不派发现金红利，不送红股，不以公积金转增股本。"><div class="time">19:28</div><div class="content"><div class="text" data-full="莱美药业：2025 年净利润亏损 1.35 亿元
+金十数据 3 月 18 日讯，莱美药业公告，2025 年营业收入 7.76 亿元，同比下降 2.50%。归属于上市公司股东的净亏损 1.35 亿元，上年同期净亏损 8780.44 万元。公司计划不派发现金红利，不送红股，不以公积金转增股本。" data-short="莱美药业：2025 年净利润亏损 1.35 亿元
+金十数据 3 月 18 日讯，莱美药业公告，2025 年营业收入 7.76 亿元，同比下降 2.50%。归属于上市公司股东的净亏损 1.35 亿元，上年同期净亏损 8780.44 万元。公司计划不派发现金红利，不送红股，不以公积金转增股本。">莱美药业：2025 年净利润亏损 1.35 亿元
+金十数据 3 月 18 日讯，莱美药业公告，2025 年营业收入 7.76 亿元，同比下降 2.50%。归属于上市公司股东的净亏损 1.35 亿元，上年同期净亏损 8780.44 万元。公司计划不派发现金红利，不送红股，不以公积金转增股本。</div></div></article><article class="item" data-search="现货黄金跌破 4950 美元/盎司，为 2 月 18 日以来新低，日内跌超 1%。"><div class="time">19:27</div><div class="content"><div class="text" data-full="现货黄金跌破 4950 美元/盎司，为 2 月 18 日以来新低，日内跌超 1%。" data-short="现货黄金跌破 4950 美元/盎司，为 2 月 18 日以来新低，日内跌超 1%。">现货黄金跌破 4950 美元/盎司，为 2 月 18 日以来新低，日内跌超 1%。</div></div></article><article class="item" data-search="现货黄金失守 4950 美元/盎司，日内跌 1.15%。"><div class="time">19:27</div><div class="content"><div class="text" data-full="现货黄金失守 4950 美元/盎司，日内跌 1.15%。" data-short="现货黄金失守 4950 美元/盎司，日内跌 1.15%。">现货黄金失守 4950 美元/盎司，日内跌 1.15%。</div></div></article><article class="item" data-search="布伦特原油日内涨 1%，现报 100.40 美元/桶。"><div class="time">19:27</div><div class="content"><div class="text" data-full="布伦特原油日内涨 1%，现报 100.40 美元/桶。" data-short="布伦特原油日内涨 1%，现报 100.40 美元/桶。">布伦特原油日内涨 1%，现报 100.40 美元/桶。</div></div></article><article class="item" data-search="今日特朗普要闻
+
+1、伊朗：特朗普 17 日在白宫表示，华盛顿“尚未准备好”结束对伊朗的战事。特朗普说，如果派遣美国地面部队进入伊朗，他并不担心这会成为美国的“另一个越南”。特朗普表示，伊朗两名高级官员“已被清除”。特朗普未具体点名，但称其中一人为“最高层人物”。
+
+2、霍尔木兹海峡：特朗普声称，“用不了多久船只就能通过霍尔木兹海峡了。”以色列消息人士称，美国总统特朗普计划以武力控制霍尔木兹海峡，相关行动可能持续数周。
+
+3、反恐官员离职：美国国家反恐中心主任乔·肯特 17 日宣布辞职，并在一封致特朗普的信中说，“无法昧着良心支持对伊朗的战争”。
+
+4、石油：特朗普政府计划进一步放松对委内瑞拉石油行业的制裁，以在伊朗战争推高油价之际提升原油产量。
+
+5、欧盟：据知情人士透露，欧盟将重启美欧贸易协议的批准程序，从而为这一拖延已久的协议最终获得批准铺平道路。
+
+6、北约：特朗普 17 日在白宫再次表达了他本人对北约的不满。特朗普表示，美国是否应退出北约“确实是我们应该考虑的事情”。
+
+7、古巴：特朗普表示，“古巴在与国务卿鲁比奥对话，我们很快就会采取行动。”
+
+8、爱尔兰：特朗普在白宫会见到访的爱尔兰总理米歇尔·马丁。特朗普称，希望与爱尔兰就液化天然气达成协议。马丁当着特朗普的面，对贸易壁垒、关税、战争提出批评，强调联合国及国际规则的重要性，表示希望中东地区和平。
+
+9、anthropic：在就 anthropic pbc 的人工智能技术将如何被使用发生争议后，特朗普政府誓言将展开法律战，试图将该公司排除出所有美国政府机构。
+
+10、能源：特朗普政府官员考虑达成一项价值 10 亿美元的新协议以叫停海上风电场项目。另据报道，特朗普邀请生物燃料生产商参加下周的活动。
+
+11、太空：特朗普称，“美国很快将重返月球，然后是火星。”"><div class="time">19:27</div><div class="content"><div class="text" data-full="今日特朗普要闻
+
+1、伊朗：特朗普 17 日在白宫表示，华盛顿“尚未准备好”结束对伊朗的战事。特朗普说，如果派遣美国地面部队进入伊朗，他并不担心这会成为美国的“另一个越南”。特朗普表示，伊朗两名高级官员“已被清除”。特朗普未具体点名，但称其中一人为“最高层人物”。
+
+2、霍尔木兹海峡：特朗普声称，“用不了多久船只就能通过霍尔木兹海峡了。”以色列消息人士称，美国总统特朗普计划以武力控制霍尔木兹海峡，相关行动可能持续数周。
+
+3、反恐官员离职：美国国家反恐中心主任乔·肯特 17 日宣布辞职，并在一封致特朗普的信中说，“无法昧着良心支持对伊朗的战争”。
+
+4、石油：特朗普政府计划进一步放松对委内瑞拉石油行业的制裁，以在伊朗战争推高油价之际提升原油产量。
+
+5、欧盟：据知情人士透露，欧盟将重启美欧贸易协议的批准程序，从而为这一拖延已久的协议最终获得批准铺平道路。
+
+6、北约：特朗普 17 日在白宫再次表达了他本人对北约的不满。特朗普表示，美国是否应退出北约“确实是我们应该考虑的事情”。
+
+7、古巴：特朗普表示，“古巴在与国务卿鲁比奥对话，我们很快就会采取行动。”
+
+8、爱尔兰：特朗普在白宫会见到访的爱尔兰总理米歇尔·马丁。特朗普称，希望与爱尔兰就液化天然气达成协议。马丁当着特朗普的面，对贸易壁垒、关税、战争提出批评，强调联合国及国际规则的重要性，表示希望中东地区和平。
+
+9、Anthropic：在就 Anthropic PBC 的人工智能技术将如何被使用发生争议后，特朗普政府誓言将展开法律战，试图将该公司排除出所有美国政府机构。
+
+10、能源：特朗普政府官员考虑达成一项价值 10 亿美元的新协议以叫停海上风电场项目。另据报道，特朗普邀请生物燃料生产商参加下周的活动。
+
+11、太空：特朗普称，“美国很快将重返月球，然后是火星。”" data-short="今日特朗普要闻
+
+1、伊朗：特朗普 17 日在白宫表示，华盛顿“尚未准备好”结束对伊朗的战事。特朗普说，如果派遣美国地面部队进入伊朗，他并不担心这会成为美国的“另一个越南”。特朗普表示，伊朗两名高级官员“已被清除”。特朗普未具体点名，但称其中一人为“最高层人物”。
+
+2、霍尔木兹海峡：特朗普声称，“用不了多久船只就能通过霍尔木兹海峡了。”以色列消息人士称，美...">今日特朗普要闻
+
+1、伊朗：特朗普 17 日在白宫表示，华盛顿“尚未准备好”结束对伊朗的战事。特朗普说，如果派遣美国地面部队进入伊朗，他并不担心这会成为美国的“另一个越南”。特朗普表示，伊朗两名高级官员“已被清除”。特朗普未具体点名，但称其中一人为“最高层人物”。
+
+2、霍尔木兹海峡：特朗普声称，“用不了多久船只就能通过霍尔木兹海峡了。”以色列消息人士称，美...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="布伦特原油突破 100 美元/桶，日内涨 0.67%。"><div class="time">19:27</div><div class="content"><div class="text" data-full="布伦特原油突破 100 美元/桶，日内涨 0.67%。" data-short="布伦特原油突破 100 美元/桶，日内涨 0.67%。">布伦特原油突破 100 美元/桶，日内涨 0.67%。</div></div></article><article class="item" data-search="据媒体消息，伊朗称南帕尔斯气田部分区域遭袭。"><div class="time">19:26</div><div class="content"><div class="text" data-full="据媒体消息，伊朗称南帕尔斯气田部分区域遭袭。" data-short="据媒体消息，伊朗称南帕尔斯气田部分区域遭袭。">据媒体消息，伊朗称南帕尔斯气田部分区域遭袭。</div></div></article><article class="item" data-search="法国黎巴嫩问题特使：以色列强人所难
 法国黎巴嫩问题特使让-伊夫·勒德里昂 18 日说，以色列持续轰炸黎巴嫩，在这样的情况下要求黎政府迅速解除黎巴嫩真主党的武装并不合理，唯有谈判才能解决当前危机。勒德里昂接受法国媒体采访时说，以色列曾长时间占领黎巴嫩，当时未能消除真主党的军事能力，现在更不能要求黎政府“在轰炸之下三天内办到”。美国和以色列 2 月 28 日对伊朗发起大规模军事行动。作为伊朗的主要地区盟友，黎巴嫩真主党本月 2 日晚开始向以色列北部发射火箭弹，以色列则对黎首都贝鲁特等地发起猛烈空袭，并在黎南部展开地面行动。英国、法国、德国、意大利和加拿大 16 日发表联合声明，警告以色列不要对黎巴嫩发动大规模地面进攻。五国领导人呼吁以色列和黎巴嫩代表进行有意义的接触，谈判达成可持续的政治解决方案。（新华社）"><div class="time">19:26</div><div class="content"><div class="text" data-full="法国黎巴嫩问题特使：以色列强人所难
 法国黎巴嫩问题特使让-伊夫·勒德里昂 18 日说，以色列持续轰炸黎巴嫩，在这样的情况下要求黎政府迅速解除黎巴嫩真主党的武装并不合理，唯有谈判才能解决当前危机。勒德里昂接受法国媒体采访时说，以色列曾长时间占领黎巴嫩，当时未能消除真主党的军事能力，现在更不能要求黎政府“在轰炸之下三天内办到”。美国和以色列 2 月 28 日对伊朗发起大规模军事行动。作为伊朗的主要地区盟友，黎巴嫩真主党本月 2 日晚开始向以色列北部发射火箭弹，以色列则对黎首都贝鲁特等地发起猛烈空袭，并在黎南部展开地面行动。英国、法国、德国、意大利和加拿大 16 日发表联合声明，警告以色列不要对黎巴嫩发动大规模地面进攻。五国领导人呼吁以色列和黎巴嫩代表进行有意义的接触，谈判达成可持续的政治解决方案。（新华社）" data-short="法国黎巴嫩问题特使：以色列强人所难
 法国黎巴嫩问题特使让-伊夫·勒德里昂 18 日说，以色列持续轰炸黎巴嫩，在这样的情况下要求黎政府迅速解除黎巴嫩真主党的武装并不合理，唯有谈判才能解决当前危机。勒德里昂接受法国媒体采访时说，以色列曾长时间占领黎巴嫩，当时未能消除真主党的军事能力，现在更不能要求黎政府“在轰炸之下三天内办到”。美国和以色列 2 月 28 日对伊...">法国黎巴嫩问题特使：以色列强人所难
