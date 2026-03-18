@@ -5,9 +5,13 @@ import path from 'node:path';
 const repoRoot = path.resolve(process.cwd(), '..');
 const messagesPath = path.join(repoRoot, 'data', 'messages.json');
 const metaPath = path.join(repoRoot, 'data', 'meta.json');
+const clsvipPath = path.join(repoRoot, 'data', 'clsvip_messages.json');
+const clsvipMetaPath = path.join(repoRoot, 'data', 'clsvip_meta.json');
 
 const items = JSON.parse(fs.readFileSync(messagesPath, 'utf-8'));
 const meta = fs.existsSync(metaPath) ? JSON.parse(fs.readFileSync(metaPath, 'utf-8')) : {};
+const clsvipItems = fs.existsSync(clsvipPath) ? JSON.parse(fs.readFileSync(clsvipPath, 'utf-8')) : [];
+const clsvipMeta = fs.existsSync(clsvipMetaPath) ? JSON.parse(fs.readFileSync(clsvipMetaPath, 'utf-8')) : {};
 
 const zhDate = new Intl.DateTimeFormat('zh-CN', { timeZone: 'Asia/Shanghai', month: 'numeric', day: 'numeric' });
 const zhTime = new Intl.DateTimeFormat('zh-CN', { timeZone: 'Asia/Shanghai', hour: '2-digit', minute: '2-digit', hour12: false });
@@ -29,8 +33,9 @@ for (const item of items) {
   grouped.get(key).push(item);
 }
 const groups = Array.from(grouped.entries()).map(([date, list]) => ({ date, list }));
+const clsvipPreview = clsvipItems.slice(0, 8);
 const updated = meta.updated_at || '';
-const pageState = JSON.stringify({ updated });
+const pageState = JSON.stringify({ updated, clsvipUpdated: clsvipMeta.updated_at || '' });
 ---
 <html lang="zh-CN">
   <head>
@@ -87,6 +92,27 @@ const pageState = JSON.stringify({ updated });
     <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">新闻快讯</div></div><div class="tools"><input id="searchInput" class="search" placeholder="搜索快讯关键词" /><button id="refreshBtn" class="btn">刷新</button><button id="themeBtn" class="btn icon-btn" aria-label="切换主题" title="切换主题">◐</button></div></div></header>
     <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div>
       {groups.map(group => (<section class="date-group"><h2 class="date-title">{group.date}</h2><div class="feed">{group.list.map(item => {const fullText = item.text || ''; const shortText = fullText.length <= 180 ? fullText : fullText.slice(0, 180).trimEnd() + '...'; const needToggle = fullText.length > 180; return (<article class="item" data-search={fullText.toLowerCase()}><div class="time">{formatTime(item.datetime || '')}</div><div class="content"><div class="text" data-full={fullText} data-short={shortText}>{shortText}</div>{needToggle && <button class="toggle">展开全文</button>}</div></article>);})}</div></section>))}
+      <section class="date-group">
+        <h2 class="date-title">频道信息流 · clsvip</h2>
+        <div class="feed">
+          {clsvipPreview.map(item => {
+            const fullText = item.text || '';
+            const text = fullText ? (fullText.length <= 160 ? fullText : fullText.slice(0, 160).trimEnd() + '...') : '图片 / 媒体内容，点击查看原帖';
+            return (
+              <article class="item" data-search={(fullText || 'clsvip media').toLowerCase()}>
+                <div class="time">{formatTime(item.datetime || '')}</div>
+                <div class="content">
+                  <div class="text">{text}</div>
+                  <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
+                    <span>{item.media_only ? '媒体帖' : '文本帖'}</span>
+                    <a href={item.url} target="_blank" rel="noreferrer" style="color:var(--accent);text-decoration:none;font-weight:700;">查看原帖</a>
+                  </div>
+                </div>
+              </article>
+            );
+          })}
+        </div>
+      </section>
     </main>
     <script is:inline src="/cjmb/feed-client.js"></script>
   </body>
