@@ -79,7 +79,7 @@ def parse_message_chunk(chunk: str, channel: str) -> dict | None:
     text_match = re.search(r'<div class="tgme_widget_message_text[^>]*>([\s\S]*?)</div>\s*<div class="tgme_widget_message_footer', chunk)
     photo_bg = re.search(r'background-image:url\(\'([^\']+)\'\)', chunk)
     document_preview = re.search(r'tgme_widget_message_document_thumb[^>]*style=\"background-image:url\((?:\'|)([^\'\\)]+)(?:\'|)\)\"', chunk)
-    cdn_urls = re.findall(r'https://cdn1\.telesco\.pe/file/[^"' ]+', chunk)
+    cdn_urls = re.findall(r"https://cdn1\.telesco\.pe/file/[^\"' ]+", chunk)
 
     text = ''
     media_only = False
