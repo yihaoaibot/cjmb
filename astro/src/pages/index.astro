@@ -106,15 +106,15 @@ const pageState = JSON.stringify({ updated, clsvipUpdated: clsvipMeta.updated_at
           <div class="feed">
             {group.list.map(item => {
               const fullText = item.text || '';
-              const text = fullText ? (fullText.length <= 160 ? fullText : fullText.slice(0, 160).trimEnd() + '...') : '图片 / 媒体内容，点击查看原帖';
+              const text = fullText ? (fullText.length <= 160 ? fullText : fullText.slice(0, 160).trimEnd() + '...') : '图片 / 媒体内容';
               return (
                 <article class="item" data-search={(fullText || 'clsvip media').toLowerCase()}>
                   <div class="time">{formatTime(item.datetime || '')}</div>
                   <div class="content">
+                    {item.image && <img src={item.image} alt="VIP 图片" style="display:block;width:100%;max-width:320px;border-radius:10px;margin-bottom:10px;border:1px solid var(--line);" />}
                     <div class="text">{text}</div>
                     <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
-                      <span>{item.media_only ? '媒体帖' : '文本帖'}</span>
-                      <a href={item.url} target="_blank" rel="noreferrer" style="color:var(--accent);text-decoration:none;font-weight:700;">查看原帖</a>
+                      <span>{item.image ? '图片帖' : (item.media_only ? '媒体帖' : '文本帖')}</span>
                     </div>
                   </div>
                 </article>
