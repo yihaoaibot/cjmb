@@ -2,14 +2,14 @@
   {
     "post": "Financial_Express/3014809",
     "datetime": "2026-03-18T04:05:20+00:00",
-    "views": "34",
+    "views": "94",
     "text": "日韩股市涨幅扩大，韩国首尔综指日内涨 4%，日经 225 指数涨 2.6%站上 55000 点关口。",
     "url": "https://t.me/Financial_Express/3014809"
   },
   {
     "post": "Financial_Express/3014808",
     "datetime": "2026-03-18T04:04:37+00:00",
-    "views": "34",
+    "views": "64",
     "text": "沙特国防部发言人：在东部地区拦截并摧毁了一架无人机。",
     "url": "https://t.me/Financial_Express/3014808"
   },
@@ -30,7 +30,7 @@
   {
     "post": "Financial_Express/3014804",
     "datetime": "2026-03-18T04:02:58+00:00",
-    "views": "33",
+    "views": "63",
     "text": "哈特尔浦 2 号核反应堆在停运后已恢复运行。",
     "url": "https://t.me/Financial_Express/3014804"
   },
@@ -44,21 +44,21 @@
   {
     "post": "Financial_Express/3014803",
     "datetime": "2026-03-18T04:02:18+00:00",
-    "views": "33",
+    "views": "63",
     "text": "孟加拉国石油公司官员：孟加拉国批准采购两批液化天然气现货以应对中东供应中断。",
     "url": "https://t.me/Financial_Express/3014803"
   },
   {
     "post": "Financial_Express/3014802",
     "datetime": "2026-03-18T04:01:57+00:00",
-    "views": "32",
+    "views": "62",
     "text": "印度 NIFTY 信息技术指数上涨 2.6%。",
     "url": "https://t.me/Financial_Express/3014802"
   },
   {
     "post": "Financial_Express/3014801",
     "datetime": "2026-03-18T04:01:52+00:00",
-    "views": "32",
+    "views": "62",
     "text": "摩根大通把哔哩哔哩评级从中性上调至超配，目标价从 27 美元上调至 35 美元。",
     "url": "https://t.me/Financial_Express/3014801"
   },
@@ -107,7 +107,7 @@
   {
     "post": "Financial_Express/3014794",
     "datetime": "2026-03-18T03:58:29+00:00",
-    "views": "64",
+    "views": "94",
     "text": "WTI 原油期货日内跌超 3%，报 92.63 美元/桶。布油期货跌幅扩大至 2%，报 97.3 美元/桶。",
     "url": "https://t.me/Financial_Express/3014794"
   },
@@ -28607,12 +28607,5 @@
     "views": "86",
     "text": "30 年期日本国债收益率下跌 0.5 个基点，至 3.545%。",
     "url": "https://t.me/Financial_Express/3010679"
-  },
-  {
-    "post": "Financial_Express/3010678",
-    "datetime": "2026-03-17T04:10:58+00:00",
-    "views": "83",
-    "text": "英伟达在 GTC 大会推出多项 AI 相关新产品\n为期 4 天的美国英伟达公司年度 GTC 大会（GPU 技术大会）16 日在加利福尼亚州圣何塞开幕。这家芯片巨头推出多项人工智能（AI）相关新产品，其中包括用于支持 OpenClaw 的软件栈。英伟达创始人兼首席执行官黄仁勋在当天的主旨演讲中宣布，英伟达发布了名为“NemoClaw”的软件栈，用于支持 OpenClaw 智能体的开发和部署。此外，英伟达发布了新一代 AI 图形渲染技术 DLSS 5，称该技术能进一步提升图像逼真度，同时降低计算资源消耗。在硬件方面，英伟达宣布将推出新一代 AI 计算平台“薇拉·鲁宾”，每瓦特性能预计将达到上一代系统的 10 倍。基于此前从初创企业格罗克公司获得的技术，英伟达推出了新一代格罗克 3 语言处理单元（LPU）芯片，同时展示了可容纳 256 个 LPU 的配套机架系统。黄仁勋表示，该系统与“薇拉·鲁宾”平台协同工作，可将每瓦特“词元”（大语言模型处理信息的基本单位）生成效率提升约 35 倍。（新华社）",
-    "url": "https://t.me/Financial_Express/3010678"
   }
 ]
