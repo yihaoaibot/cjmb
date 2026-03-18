@@ -40,6 +40,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/messages.json data/meta.json docs/index.html docs/feed-client.js tmp/channel.html
+          git add data/messages.json data/meta.json data/clsvip_messages.json data/clsvip_meta.json docs/index.html docs/feed-client.js tmp/channel.html tmp/clsvip.html
           git diff --cached --quiet || git commit -m "Update feed"
           git push
