@@ -76,7 +76,6 @@ const pageState = JSON.stringify({ updated, clsvipUpdated: clsvipMeta.updated_at
       .content{min-width:0}
       .text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}
       .toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}
-      .vip-image-card{display:block;width:100%;max-width:360px;border-radius:12px;margin-bottom:10px;border:1px solid var(--line);box-shadow:0 8px 20px rgba(0,0,0,.08);background:var(--surface)}
       @media (max-width:640px){
         .topbar-inner{padding:10px 10px;gap:8px;flex-wrap:wrap}
         .brand{width:100%;justify-content:center}
@@ -112,10 +111,9 @@ const pageState = JSON.stringify({ updated, clsvipUpdated: clsvipMeta.updated_at
                 <article class="item" data-search={(fullText || 'clsvip media').toLowerCase()}>
                   <div class="time">{formatTime(item.datetime || '')}</div>
                   <div class="content">
-                    {item.image && <img src={item.image} alt="VIP 图片" class="vip-image-card" />}
                     <div class="text">{text}</div>
                     <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
-                      <span>{item.image ? '图片帖' : (item.media_only ? '媒体帖' : '文本帖')}</span>
+                      <span>{item.media_only ? '媒体帖' : '文本帖'}</span>
                     </div>
                   </div>
                 </article>
