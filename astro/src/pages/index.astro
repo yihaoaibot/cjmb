@@ -39,7 +39,7 @@ for (const item of clsvipItems) {
   if (!clsvipGrouped.has(key)) clsvipGrouped.set(key, []);
   clsvipGrouped.get(key).push(item);
 }
-const clsvipGroups = Array.from(clsvipGrouped.entries()).map(([date, list]) => ({ date, list: list.sort((a, b) => Number(Boolean(b.image)) - Number(Boolean(a.image))).slice(0, 8) }));
+const clsvipGroups = Array.from(clsvipGrouped.entries()).map(([date, list]) => ({ date, list: list.slice(0, 8) }));
 const updated = meta.updated_at || '';
 const pageState = JSON.stringify({ updated, clsvipUpdated: clsvipMeta.updated_at || '' });
 ---
