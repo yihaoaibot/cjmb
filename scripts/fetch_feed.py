@@ -78,6 +78,8 @@ def parse_message_chunk(chunk: str, channel: str) -> dict | None:
     views = re.search(r'<span class="tgme_widget_message_views">([^<]*)</span>', chunk)
     text_match = re.search(r'<div class="tgme_widget_message_text[^>]*>([\s\S]*?)</div>\s*<div class="tgme_widget_message_footer', chunk)
     photo_bg = re.search(r'background-image:url\(\'([^\']+)\'\)', chunk)
+    document_preview = re.search(r'tgme_widget_message_document_thumb[^>]*style=\"background-image:url\((?:\'|)([^\'\\)]+)(?:\'|)\)\"', chunk)
+    cdn_urls = re.findall(r'https://cdn1\.telesco\.pe/file/[^"' ]+', chunk)
 
     text = ''
     media_only = False
@@ -89,6 +91,11 @@ def parse_message_chunk(chunk: str, channel: str) -> dict | None:
     image_url = None
     if photo_bg:
         image_url = photo_bg.group(1)
+    elif document_preview:
+        image_url = document_preview.group(1)
+    elif channel == 'clsvip' and cdn_urls:
+        image_url = cdn_urls[0]
+    if image_url:
         if image_url.startswith('//'):
             image_url = 'https:' + image_url
         if 'telegram.org/img/emoji/' in image_url:
