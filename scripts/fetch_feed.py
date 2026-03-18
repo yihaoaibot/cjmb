@@ -10,7 +10,7 @@ DATA = ROOT / 'data'
 TMP.mkdir(parents=True, exist_ok=True)
 DATA.mkdir(parents=True, exist_ok=True)
 
-WINDOW_DAYS = 1
+WINDOW_DAYS = 2
 CUT_OFF = datetime.now(timezone.utc) - timedelta(days=WINDOW_DAYS)
 MAX_PAGES = 1
 BASE = 'https://t.me'
@@ -132,7 +132,7 @@ def fetch_source(cfg: dict) -> None:
     cfg['meta_path'].write_text(json.dumps({
         'updated_at': datetime.now(timezone.utc).isoformat(),
         'count': len(recent),
-        'window': f'{WINDOW_DAYS} day',
+        'window': f'{WINDOW_DAYS} days',
         'source': cfg['url'],
         'channel': cfg['name'],
         'pagesFetched': 1,
