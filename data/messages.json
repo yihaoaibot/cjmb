@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3027334",
     "datetime": "2026-03-21T18:58:37+00:00",
-    "views": "3",
+    "views": "33",
     "text": "民调显示，在对伊战争期间，五角大楼负责人赫格塞斯在美国民众中极不受欢迎。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3027333",
     "datetime": "2026-03-21T18:58:18+00:00",
-    "views": "4",
+    "views": "34",
     "text": "以色列国防军：将对以色列南部某地点的袭击落点情况进行评估。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3027332",
     "datetime": "2026-03-21T18:58:17+00:00",
-    "views": "4",
+    "views": "34",
     "text": "以色列国防军：在接到袭击落点报告后，救援部队已抵达以色列南部现场。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3027329",
     "datetime": "2026-03-21T18:51:57+00:00",
-    "views": "66",
+    "views": "96",
     "text": "七国集团外长声明：重申维护海上航道和航行安全的重要性，包括霍尔木兹海峡。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3027328",
     "datetime": "2026-03-21T18:51:37+00:00",
-    "views": "66",
+    "views": "96",
     "text": "七国集团外长声明：呼吁伊朗立即且无条件停止一切袭击。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +164,7 @@
   {
     "post": "Financial_Express/3027316",
     "datetime": "2026-03-21T18:40:17+00:00",
-    "views": "100",
+    "views": "130",
     "text": "伊朗方面对潜在谈判的要求包括赔偿。",
     "media_only": false,
     "image_url": null,
@@ -42928,23 +42928,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3022535"
-  },
-  {
-    "post": "Financial_Express/3022534",
-    "datetime": "2026-03-19T19:00:57+00:00",
-    "views": "96",
-    "text": "以色列总理内塔尼亚胡：是特朗普告诉我的，不是我告诉他的。他在当选后，我在海湖庄园告诉他，在这一任期内，我们需要确保伊朗不拥有核武器。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3022534"
-  },
-  {
-    "post": "Financial_Express/3022533",
-    "datetime": "2026-03-19T19:00:38+00:00",
-    "views": "96",
-    "text": "以色列总理内塔尼亚胡：（当被问及以色列将美国拖入战争）谁会认为有人能告诉特朗普该怎么做？",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3022533"
   }
 ]
