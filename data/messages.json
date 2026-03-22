@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3028531",
+    "datetime": "2026-03-22T22:02:38+00:00",
+    "views": "1",
+    "text": "纽约期银日内跌 4%，现报 66.86 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3028531"
+  },
+  {
+    "post": "Financial_Express/3028529",
+    "datetime": "2026-03-22T22:02:37+00:00",
+    "views": "1",
+    "text": "美国 10 年期国债期货下跌 8 点，30 年期国债期货下跌 15 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3028529"
+  },
+  {
+    "post": "Financial_Express/3028530",
+    "datetime": "2026-03-22T22:02:37+00:00",
+    "views": "1",
+    "text": "布伦特原油期货触及每桶 114.35 美元的高位，美国原油期货触及 101.50 美元的日内高点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3028530"
+  },
+  {
+    "post": "Financial_Express/3028527",
+    "datetime": "2026-03-22T22:01:38+00:00",
+    "views": "15",
+    "text": "标普 500 指数期货下跌 0.7%，纳斯达克期货下跌 0.8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3028527"
+  },
+  {
+    "post": "Financial_Express/3028528",
+    "datetime": "2026-03-22T22:01:38+00:00",
+    "views": "15",
+    "text": "现货白银日内跌 1%，现报 66.96 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3028528"
+  },
+  {
+    "post": "Financial_Express/3028526",
+    "datetime": "2026-03-22T22:01:37+00:00",
+    "views": "15",
+    "text": "现货黄金周一开盘走低 25 美元后回升，现报 4486 美元/盎司；现货白银跌超 1%，最新报 67.17 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3028526"
+  },
+  {
+    "post": "Financial_Express/3028525",
+    "datetime": "2026-03-22T22:01:21+00:00",
+    "views": "456",
+    "text": "周一亚市盘初，标普 500 指数期货跌 0.8%，布油期货涨 1.6%至 114 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3028525"
+  },
+  {
+    "post": "Financial_Express/3028524",
+    "datetime": "2026-03-22T22:01:17+00:00",
+    "views": "25",
+    "text": "美国 10 年期国债期货下跌 8 个基点，30 年期国债期货下跌 15 个基点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3028524"
+  },
+  {
+    "post": "Financial_Express/3028523",
+    "datetime": "2026-03-22T22:00:58+00:00",
+    "views": "35",
+    "text": "纽约期金突破 4520 美元/盎司，日内跌 1.94%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3028523"
+  },
+  {
+    "post": "Financial_Express/3028522",
+    "datetime": "2026-03-22T22:00:57+00:00",
+    "views": "35",
+    "text": "布伦特原油日内涨 2%，现报 108.62 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3028522"
+  },
+  {
     "post": "Financial_Express/3028520",
     "datetime": "2026-03-22T22:00:38+00:00",
-    "views": "259",
+    "views": "496",
     "text": "纽约期金突破 4510 美元/盎司，日内跌 2.15%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3028521",
     "datetime": "2026-03-22T22:00:38+00:00",
-    "views": "3",
+    "views": "40",
     "text": "英国方面称：斯塔默与特朗普同意将再次通话。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3028518",
     "datetime": "2026-03-22T22:00:23+00:00",
-    "views": "11",
+    "views": "43",
     "text": "布伦特原油突破 108 美元/桶，日内涨 1.64%。",
     "media_only": false,
     "image_url": null,
@@ -29,8 +119,8 @@
   {
     "post": "Financial_Express/3028519",
     "datetime": "2026-03-22T22:00:23+00:00",
-    "views": "11",
-    "text": "WTI 原油失守 99 美元/桶，日内涨 1.71%。",
+    "views": "43",
+    "text": "WTI 原油失守 99 美元/桶，日内涨 1.71%。\n😁1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3028519"
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3028516",
     "datetime": "2026-03-22T22:00:19+00:00",
-    "views": "11",
+    "views": "43",
     "text": "纽约期银日内跌 3%，现报 67.13 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3028517",
     "datetime": "2026-03-22T22:00:19+00:00",
-    "views": "11",
+    "views": "43",
     "text": "钯金期货日内跌 2%，现报 1411.45 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3028514",
     "datetime": "2026-03-22T22:00:18+00:00",
-    "views": "11",
+    "views": "41",
     "text": "布伦特原油日内涨 1%，现报 107.93 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3028515",
     "datetime": "2026-03-22T22:00:18+00:00",
-    "views": "430",
+    "views": "501",
     "text": "英国方面称：首相斯塔默与特朗普一致认为，重新开放霍尔木兹海峡是能源市场的关键。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3028513",
     "datetime": "2026-03-22T22:00:17+00:00",
-    "views": "10",
+    "views": "40",
     "text": "WTI 原油日内涨 2%，现报 100.73 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3028512",
     "datetime": "2026-03-22T21:59:37+00:00",
-    "views": "24",
+    "views": "45",
     "text": "英国唐宁街：首相斯塔默今晚与美国总统特朗普通了电话。",
     "media_only": false,
     "image_url": null,
@@ -18295,14 +18385,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3026482"
-  },
-  {
-    "post": "Financial_Express/3026481",
-    "datetime": "2026-03-20T22:02:18+00:00",
-    "views": "131",
-    "text": "美国将在第一阶段行动中释放 4500 万桶石油储备。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3026481"
   }
 ]
