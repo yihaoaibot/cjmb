@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3036326",
+    "datetime": "2026-03-24T18:04:17+00:00",
+    "views": "2",
+    "text": "OpenAI 推出基于提示词的安全政策。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3036326"
+  },
+  {
+    "post": "Financial_Express/3036325",
+    "datetime": "2026-03-24T18:03:57+00:00",
+    "views": "278",
+    "text": "Anthropic：Claude 现已具备权限判定能力，安全防护系统可在操作执行前进行监控。团队版现已开放研究预览，企业版及 API 用户将在未来数日内推出。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3036325"
+  },
+  {
+    "post": "Financial_Express/3036324",
+    "datetime": "2026-03-24T18:02:57+00:00",
+    "views": "34",
+    "text": "美国联邦住房金融局局长普尔特谈信用评分及征信机构定价问题：信用评分与征信机构定价必须更加亲民实惠。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3036324"
+  },
+  {
     "post": "Financial_Express/3036323",
     "datetime": "2026-03-24T18:02:17+00:00",
-    "views": "2",
+    "views": "65",
     "text": "以色列称袭击了伊朗的爆炸物生产基地。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3036322",
     "datetime": "2026-03-24T18:02:07+00:00",
-    "views": "2",
+    "views": "65",
     "text": "美国联邦住房金融局（FHFA）局长 Bill Pulte：信用记录和政府定价必须让民众更加容易承担。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3036321",
     "datetime": "2026-03-24T18:01:58+00:00",
-    "views": "32",
+    "views": "65",
     "text": "美国计划和伊朗最早于周四举行高级别会谈\n美国和地区调解人正在探讨最早于周四与伊朗举行高级别和平谈判，但仍在等待德黑兰方面的回应。特朗普希望结束战争，尽管局势依然紧张。以色列担心特朗普可能会达成一项未能达到其目标并限制其军事选择的协议。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3036320",
     "datetime": "2026-03-24T18:00:57+00:00",
-    "views": "282",
+    "views": "344",
     "text": "美国已向以色列提交其 15 点停火计划以结束战争， 美方称伊朗已同意其计划中的多项条款。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3036319",
     "datetime": "2026-03-24T17:59:57+00:00",
-    "views": "69",
+    "views": "131",
     "text": "伊朗伊斯兰革命卫队责令一艘擅自通过霍尔木兹海峡船只返航\n当地时间 24 日，伊朗伊斯兰革命卫队海军司令表示，集装箱船 SELEN 号因未遵守法律要求且未获授权擅闯霍尔木兹海峡，已被责令返航。他强调，任何通过霍尔木兹海峡的船只都必须与伊朗海事当局充分协调。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3036318",
     "datetime": "2026-03-24T17:59:53+00:00",
-    "views": "99",
+    "views": "101",
     "text": "当地时间 24 日晚，总台记者获悉，伊朗伊斯兰革命卫队宣布，两枚 AGM-158 巡航导弹在德黑兰附近被革命卫队的新型防御系统摧毁，该系统受伊朗综合防空网络指挥。（央视）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3036317",
     "datetime": "2026-03-24T17:59:19+00:00",
-    "views": "100",
+    "views": "132",
     "text": "Anthropic：安全防护机制可在操作执行前进行监控。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3036316",
     "datetime": "2026-03-24T17:59:18+00:00",
-    "views": "100",
+    "views": "132",
     "text": "据 AXIOS 网站：美国与伊朗可能最早在周四举行高级别会谈。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3036315",
     "datetime": "2026-03-24T17:58:57+00:00",
-    "views": "348",
+    "views": "380",
     "text": "Anthropic：Claude 现已具备权限判定能力。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3036313",
     "datetime": "2026-03-24T17:58:17+00:00",
-    "views": "103",
+    "views": "134",
     "text": "伊朗称摧毁两枚 AGM-158 巡航导弹\n当地时间 24 日晚，伊朗伊斯兰革命卫队宣布，两枚 AGM-158 巡航导弹在德黑兰附近被革命卫队的新型防御系统摧毁，该系统受伊朗综合防空网络指挥。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3036314",
     "datetime": "2026-03-24T17:58:17+00:00",
-    "views": "103",
+    "views": "134",
     "text": "以色列军方表示，以军袭击了伊朗境内一座爆炸物制造厂，这是对伊斯法罕发动的一波攻击的一部分。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3036312",
     "datetime": "2026-03-24T17:57:37+00:00",
-    "views": "134",
+    "views": "135",
     "text": "一艘泰国油轮安全通过霍尔木兹海峡\n泰国外长 3 月 24 日确认，经过与伊朗和阿曼协商，一艘停泊在波斯湾多日的泰国油轮已顺利通过霍尔木兹海峡，预计 4 月初抵达泰国。在中东局势紧张背景下，此次通行被视为积极信号，显示相关沟通机制正在发挥作用。伊朗驻泰国大使馆随后也发表声明，称此次通行得益于伊朗、泰国与阿曼三方的密切合作，并强调珍视与泰国之间的友好关系。3 月 11 日，霍尔木兹海峡附近曾发生泰国籍船只遇袭事件。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -110,8 +137,8 @@
   {
     "post": "Financial_Express/3036311",
     "datetime": "2026-03-24T17:57:10+00:00",
-    "views": "134",
-    "text": "Anthropic 微 Claude 模型引入自动模式。",
+    "views": "135",
+    "text": "Anthropic 宣布，大模型 Claude 现在可以自主做出权限决策。\n为 Claude Code 推出“自动模式”（Auto Model）。\n安全防护机制将在操作执行前进行预监测。\n现已作为“研究预览版”面向团队版（Team Plan）用户开放。\n将在未来几天内推送到企业版（Enterprise Plan）和 API 用户。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3036311"
@@ -70810,14 +70837,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3028392"
-  },
-  {
-    "post": "Financial_Express/3028391",
-    "datetime": "2026-03-22T18:04:17+00:00",
-    "views": "184",
-    "text": "伊朗副总统：当前伊朗能源和基本物资供应稳定\n当地时间 22 日，伊朗第一副总统阿雷夫发表声明表示，当前伊朗能源和基本物资供应稳定。阿雷夫称，他代表政府郑重声明，能源、燃料和基本物资供应无虞，国家储备充足，已制定相关计划，确保民众日常生活正常。他表示，配电网络、银行服务和支付系统运行稳定，各项公共服务持续运行，政府已做好充分准备应对当前局势，满足民众需求。阿雷夫呼吁民众维护国家团结，保持社会稳定与韧性。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3028391"
   }
 ]
