@@ -1,9 +1,36 @@
 [
   {
+    "post": "Financial_Express/3036613",
+    "datetime": "2026-03-24T20:30:17+00:00",
+    "views": "10",
+    "text": "消息人士称，OpenAI 将终止与迪士尼的合作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3036613"
+  },
+  {
+    "post": "Financial_Express/3036612",
+    "datetime": "2026-03-24T20:29:38+00:00",
+    "views": "17",
+    "text": "纳斯达克 100 指数 ETF 涨幅扩大至 1.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3036612"
+  },
+  {
+    "post": "Financial_Express/3036611",
+    "datetime": "2026-03-24T20:29:37+00:00",
+    "views": "17",
+    "text": "美国国债上涨，收窄日内跌幅，10 年期收益率报 4.35%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3036611"
+  },
+  {
     "post": "Financial_Express/3036610",
     "datetime": "2026-03-24T20:28:00+00:00",
-    "views": "152",
-    "text": "WTI 原油期货在电子交易盘下挫。\n美元兑 G10 货币尾盘回吐涨幅。\n标普 500 指数 ETF 涨幅迅速扩大，（美股盘后）一度达到 1%。",
+    "views": "194",
+    "text": "WTI 原油期货在电子交易盘下挫。\n美元兑 G10 货币尾盘回吐涨幅。\n标普 500 指数 ETF 涨幅迅速扩大，（美股盘后）一度达到 1%。纳斯达克 100 指数 ETF 涨 1.3%。\n美国国债价格短线走高，使得日内整体跌幅收窄，10 年期美债收益率目前报 4.35%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3036610"
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3036609",
     "datetime": "2026-03-24T20:27:37+00:00",
-    "views": "21",
+    "views": "62",
     "text": "美元兑 G-10 其他货币尾盘收窄涨幅，标普 500 指数 ETF 快速上涨，涨幅一度达 1%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3036608",
     "datetime": "2026-03-24T20:26:58+00:00",
-    "views": "56",
+    "views": "65",
     "text": "美国油价盘后下跌，抹去此前涨幅。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3036607",
     "datetime": "2026-03-24T20:26:57+00:00",
-    "views": "56",
+    "views": "65",
     "text": "金银油大幅波动，以媒称美方正制定为期一个月的停火。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3036606",
     "datetime": "2026-03-24T20:26:45+00:00",
-    "views": "57",
+    "views": "66",
     "text": "标普 500 指数收跌 24.63 点，跌幅 0.37%，报 6556.37 点。\n道琼斯工业平均指数收跌 84.41 点，跌幅 0.18%，报 46124.06 点。\n纳斯达克综合指数（纳指）收跌 184.865 点，跌幅 0.84%，报 21761.894 点。\n纳斯达克 100 指数收跌 186.143 点，跌幅 0.77%，报 24002.448 点。\n费城半导体指数收涨 1.28%，报 7872.71 点。\n费城证交所 KBW 银行指数收涨 1.23%，报 153.37 点。\n道琼斯 KBW 地区银行指数收涨 0.81%，报 124.86 点。\n纳斯达克生物科技指数收跌 0.73%，报 5582.25 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3036605",
     "datetime": "2026-03-24T20:26:39+00:00",
-    "views": "194",
+    "views": "202",
     "text": "WTI 原油日内跌 2%，现报 86.36 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3036603",
     "datetime": "2026-03-24T20:26:38+00:00",
-    "views": "58",
+    "views": "65",
     "text": "纽约期银突破 71 美元/盎司，日内涨 2.39%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3036604",
     "datetime": "2026-03-24T20:26:38+00:00",
-    "views": "58",
+    "views": "65",
     "text": "WTI 原油失守 87 美元/桶，日内跌 1.31%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3036602",
     "datetime": "2026-03-24T20:26:37+00:00",
-    "views": "58",
+    "views": "65",
     "text": "现货黄金突破 4480 美元/盎司，日内涨 1.71%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3036601",
     "datetime": "2026-03-24T20:26:17+00:00",
-    "views": "28",
+    "views": "65",
     "text": "据以色列第 12 频道消息：维特科夫与库什纳正致力于制定一项机制，以叫停与伊朗之间的冲突；该协议框架类似于此前加沙与黎巴嫩问题的相关谅解协议。据维特科夫与库什纳正在制定的方案，即将宣布为期一个月的停火协议，将在为期一个月的停火期间就 15 点计划进行谈判。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3036600",
     "datetime": "2026-03-24T20:26:01+00:00",
-    "views": "195",
+    "views": "199",
     "text": "美国总统特朗普 24 日在白宫对媒体说，美国和伊朗正在进行谈判，伊朗方面已“同意将永远放弃拥有核武器”。此前一天，特朗普称，美伊进行了对话。但这一说法随即遭伊朗方面明确否认。\n特朗普当天称，美伊“正在谈判中”，美国国务卿鲁比奥和副总统万斯正同他的女婿库什纳、总统特使威特科夫一起参与谈判。他称，美方的首要条件是伊朗“绝不能拥有核武器”，“他们已经明确表示同意，将永远放弃拥有核武器”。\n特朗普还说，“我们正在与正确的人打交道”，“在我看来是值得信赖的”。\n特朗普 23 日对媒体说，美国同伊朗进行了对话，已形成协议要点。但伊朗伊斯兰议会议长卡利巴夫 23 日在社交媒体发文，否认与美国进行任何谈判。卡利巴夫称，散布“虚假新闻的目的是操纵金融和石油市场，以此让美国和以色列摆脱其深陷的泥潭”。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3036598",
     "datetime": "2026-03-24T20:25:58+00:00",
-    "views": "26",
+    "views": "59",
     "text": "现货黄金突破 4470 美元/盎司，日内涨 1.50%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3036599",
     "datetime": "2026-03-24T20:25:58+00:00",
-    "views": "27",
+    "views": "61",
     "text": "纽约期金突破 4510 美元/盎司，日内涨 1.59%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3036597",
     "datetime": "2026-03-24T20:25:57+00:00",
-    "views": "27",
+    "views": "60",
     "text": "据以色列第 12 频道：根据威特科夫与库什纳正在制定的机制，将宣布为期一个月的停火。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3036595",
     "datetime": "2026-03-24T20:25:38+00:00",
-    "views": "192",
+    "views": "194",
     "text": "布伦特原油日内跌 1%，现报 94.87 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3036596",
     "datetime": "2026-03-24T20:25:38+00:00",
-    "views": "58",
+    "views": "60",
     "text": "布伦特原油失守 95 美元/桶，日内跌 1.09%。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +182,7 @@
   {
     "post": "Financial_Express/3036594",
     "datetime": "2026-03-24T20:25:37+00:00",
-    "views": "56",
+    "views": "58",
     "text": "WTI 原油日内跌 1%，现报 87.15 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -72691,14 +72718,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3028470"
-  },
-  {
-    "post": "Financial_Express/3028469",
-    "datetime": "2026-03-22T20:30:37+00:00",
-    "views": "123",
-    "text": "Faraday Future（法拉第未来）宣布，美国证券交易委员会（SEC）已结束对其长达数年的调查，且未对该公司或相关人员采取执法或其他行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3028469"
   }
 ]
