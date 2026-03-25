@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3040203",
+    "datetime": "2026-03-25T20:28:58+00:00",
+    "views": "1",
+    "text": "美联储理事米兰：对中性利率的估计比同事们要低，但彼此之间的看法并没有太大分歧。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3040203"
+  },
+  {
+    "post": "Financial_Express/3040202",
+    "datetime": "2026-03-25T20:27:38+00:00",
+    "views": "4",
+    "text": "德国伊萨尔航天公司中止运载火箭入轨发射任务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3040202"
+  },
+  {
+    "post": "Financial_Express/3040201",
+    "datetime": "2026-03-25T20:27:15+00:00",
+    "views": "5",
+    "text": "周三（3 月 25 日），存储芯片与硬件供应链指数跌 2.08%，报 113.03 点，跳空低开之后、在美股盘初跌至 109.00 点刷新日低，大部分交易时间“高位震荡”。\n北美科技软件股指数 ETF 收跌 0.52%，报 80.40 美元。\n信息科技指数涨 0.35%，人工智能（AI）赢家指数涨 0.72%，AI 软件先驱指数跌 0.63%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3040201"
+  },
+  {
     "post": "Financial_Express/3040200",
     "datetime": "2026-03-25T20:26:58+00:00",
-    "views": "86",
+    "views": "161",
     "text": "美联储米兰：我认为中性利率低于同僚预期，但分歧并未过大。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3040199",
     "datetime": "2026-03-25T20:26:57+00:00",
-    "views": "1",
+    "views": "5",
     "text": "美国白宫淡化有关伊朗拒绝特朗普和平提议的报道。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3040198",
     "datetime": "2026-03-25T20:25:57+00:00",
-    "views": "1",
+    "views": "35",
     "text": "美联储理事米兰：不认为美联储需要大幅加快政策调整的步伐。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3040197",
     "datetime": "2026-03-25T20:24:43+00:00",
-    "views": "31",
+    "views": "65",
     "text": "伊朗外交部长阿拉格齐 25 日接受国家电视台采访时表示，过去几天，美国通过几个友好国家向伊朗传递关于结束战争的提议，伊朗高层正予以研究，但伊朗经由这些调解方“交流信息”并不意味着与美国进行谈判。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3040195",
     "datetime": "2026-03-25T20:24:38+00:00",
-    "views": "187",
+    "views": "191",
     "text": "美联储理事米兰：美联储目前的政策正在错误地抑制经济增长。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3040196",
     "datetime": "2026-03-25T20:24:38+00:00",
-    "views": "31",
+    "views": "65",
     "text": "美联储米兰：认为美联储政策无需对经济施加抑制作用。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3040194",
     "datetime": "2026-03-25T20:24:37+00:00",
-    "views": "31",
+    "views": "65",
     "text": "美联储理事米兰：美联储今年应降息至中性利率水平。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3040193",
     "datetime": "2026-03-25T20:23:57+00:00",
-    "views": "31",
+    "views": "65",
     "text": "美联储理事米兰：受石油冲击影响，今年整体通胀率预测上调至 2.7%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3040192",
     "datetime": "2026-03-25T20:23:38+00:00",
-    "views": "31",
+    "views": "65",
     "text": "美联储米兰：我认为今年达到中性利率是合适的。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3040191",
     "datetime": "2026-03-25T20:23:17+00:00",
-    "views": "32",
+    "views": "66",
     "text": "伊朗外长：伊朗经调解方与美“交流信息” 没有谈判\n金十数据 3 月 26 日讯，伊朗外交部长阿拉格齐 25 日接受国家电视台采访时表示，过去几天，美国通过几个友好国家向伊朗传递关于结束战争的提议，伊朗高层正予以研究，但伊朗经由这些调解方“交流信息”并不意味着与美国进行谈判。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3040190",
     "datetime": "2026-03-25T20:22:38+00:00",
-    "views": "188",
+    "views": "192",
     "text": "美联储米兰：我预计人工智能和放松管制将导致通胀下降。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3040189",
     "datetime": "2026-03-25T20:22:37+00:00",
-    "views": "32",
+    "views": "65",
     "text": "美联储米兰：当前美联储的政策正无端拖累经济。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3040188",
     "datetime": "2026-03-25T20:22:18+00:00",
-    "views": "62",
+    "views": "65",
     "text": "美联储米兰：美联储应在年内逐步降息至中性利率水平。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3040187",
     "datetime": "2026-03-25T20:21:57+00:00",
-    "views": "62",
+    "views": "65",
     "text": "美联储米兰：当前政策利率较中性利率高出整整一个百分点。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3040186",
     "datetime": "2026-03-25T20:21:19+00:00",
-    "views": "62",
+    "views": "65",
     "text": "美联储理事米兰：我预计，AI 和去监管将让通胀失速。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3040185",
     "datetime": "2026-03-25T20:21:17+00:00",
-    "views": "188",
+    "views": "191",
     "text": "百时美施贵宝：首席执行官克里斯托弗·S·博纳 2025 年总薪酬为 2190 万美元。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3040184",
     "datetime": "2026-03-25T20:20:58+00:00",
-    "views": "62",
+    "views": "65",
     "text": "美联储米兰：受油价冲击影响，将今年整体通胀预测上调至 2.7%。",
     "media_only": false,
     "image_url": null,
@@ -67084,50 +67111,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3032693"
-  },
-  {
-    "post": "Financial_Express/3032692",
-    "datetime": "2026-03-23T20:28:54+00:00",
-    "views": "102",
-    "text": "加拿大标普/TSX 综合指数收涨 1.81%，报 31883.81 点；小盘股指收涨 1.56%，报 1280.36 点。\n周一（3 月 23 日）北美尾盘，加拿大 10 年期基准国债收益率跌 1.8 个基点，报 3.537%。\n两年期加债收益率跌 10.3 个基点，报 2.960%；五年期加债收益率跌 4.7 个基点，报 3.180%。\n墨西哥综合指数收涨 0.44%。\n巴西圣保罗证交所指数收涨 3.24%，过半交易时间持续高位窄幅震荡。\n阿根廷 MERVAL 指数涨 1.97%，报 277.9 万点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3032692"
-  },
-  {
-    "post": "Financial_Express/3032691",
-    "datetime": "2026-03-23T20:28:37+00:00",
-    "views": "100",
-    "text": "美联储戴利：正视不确定性是最优的沟通方式。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3032691"
-  },
-  {
-    "post": "Financial_Express/3032689",
-    "datetime": "2026-03-23T20:27:58+00:00",
-    "views": "98",
-    "text": "美联储戴利：经济至少有两条潜在的发展道路。旷日持久的冲突可能加剧货币政策的权衡取舍。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3032689"
-  },
-  {
-    "post": "Financial_Express/3032690",
-    "datetime": "2026-03-23T20:27:58+00:00",
-    "views": "325",
-    "text": "大西洋石油公司：完成相关债务协议的工作仍在进行中，但预计将在数周内完成并签署。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3032690"
-  },
-  {
-    "post": "Financial_Express/3032688",
-    "datetime": "2026-03-23T20:27:38+00:00",
-    "views": "98",
-    "text": "美国德克萨斯大学奥斯汀分校表示，计划从 2027-2028 学年开始，推出可在苹果钱包应用中使用的数字学生卡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3032688"
   }
 ]
