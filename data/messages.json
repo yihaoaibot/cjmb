@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3043338",
+    "datetime": "2026-03-26T14:10:39+00:00",
+    "views": "2",
+    "text": "美国解除对白俄罗斯外交部的制裁。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3043338"
+  },
+  {
+    "post": "Financial_Express/3043337",
+    "datetime": "2026-03-26T14:10:38+00:00",
+    "views": "2",
+    "text": "美国将白俄罗斯财政部从实体清单中移除。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3043337"
+  },
+  {
+    "post": "Financial_Express/3043336",
+    "datetime": "2026-03-26T14:10:19+00:00",
+    "views": "32",
+    "text": "巴西总统：要求财政部长解决家庭债务问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3043336"
+  },
+  {
+    "post": "Financial_Express/3043335",
+    "datetime": "2026-03-26T14:09:37+00:00",
+    "views": "231",
+    "text": "美国核力量司令提名人支持相关结论：当前无需进行核弹头试验",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3043335"
+  },
+  {
     "post": "Financial_Express/3043334",
     "datetime": "2026-03-26T14:08:18+00:00",
-    "views": "2",
+    "views": "66",
     "text": "自然指数：中国科研继续扩大领先优势\n英国《自然》杂志最新发布的增刊《2026 自然指数-中国》显示，中国在自然指数榜单中继续居于首位，并继续扩大领先优势。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3043333",
     "datetime": "2026-03-26T14:07:58+00:00",
-    "views": "32",
+    "views": "66",
     "text": "美国发布通用许可证，授权涉及白俄罗斯开发重建联合股份银行 Belinvestbank 及若干额外实体的相关交易。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3043332",
     "datetime": "2026-03-26T14:07:57+00:00",
-    "views": "32",
+    "views": "66",
     "text": "美国财政部网站显示，美国发布通用许可，授权与白俄罗斯开发重建银行及其他特定实体进行相关交易。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3043331",
     "datetime": "2026-03-26T14:07:38+00:00",
-    "views": "34",
+    "views": "67",
     "text": "报告：关键报告发布在即，生猪期货交投谨慎\n在美国农业部发布季度“生猪报告”(Hogs and Pigs report)前，瘦肉猪期货持平。StoneX 在一份报告中称：“瘦肉猪市场一直渴望一些新的基本面消息，今天下午晚些时候终于将迎来新消息。“该公司称，预计生猪总存栏量将小幅下降。其他分析师表示，该报告的一个关键焦点是美国农业部是否会修正前几个季度的预估数据。活牛期货下跌 0.3%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3043330",
     "datetime": "2026-03-26T14:07:19+00:00",
-    "views": "232",
+    "views": "325",
     "text": "竞业达与中国戏曲学院签署战略合作框架协议\n3 月 25 日，竞业达与中国戏曲学院举行深化战略合作洽谈暨签约仪式。双方将围绕数字技术与戏曲教育融合、人才培养、产教研用协同等方面发力，实现 AI 技术在戏曲教学、实训、文化传承与传播等场景的深度应用，助力戏曲教育数字化转型与相关成果落地。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3043329",
     "datetime": "2026-03-26T14:07:11+00:00",
-    "views": "35",
+    "views": "68",
     "text": "格罗方德半导体（格芯）针对以色列公司 Tower Semiconductor Ltd.（TSEM.IT）提起专利诉讼。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3043328",
     "datetime": "2026-03-26T14:06:38+00:00",
-    "views": "35",
+    "views": "98",
     "text": "巴西总统：巴西社会负债累累。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3043327",
     "datetime": "2026-03-26T14:06:17+00:00",
-    "views": "65",
+    "views": "98",
     "text": "紫光股份：H3C UniPoD S80000 采用液冷高密部署 单柜可支持 64 卡超节点部署\n紫光股份在互动平台表示，公司推出的 H3C UniPoD S80000 超节点产品，以算力芯片多元化、互联协议标准化、基础设施集成化为核心设计理念，柜内卡间全互联通信，相比传统 8 卡服务器组网，可提升卡间互联带宽和单卡推理效率。同时，H3C UniPoD S80000 采用液冷高密部署，单柜可支持 64 卡超节点部署，并兼容下一代高性能 AI 加速卡。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3043325",
     "datetime": "2026-03-26T14:05:59+00:00",
-    "views": "293",
+    "views": "326",
     "text": "委内瑞拉国家石油公司（PDVSA）和委内瑞拉主权债券是参议员向美国证券交易委员会（SEC）质询的焦点。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3043326",
     "datetime": "2026-03-26T14:05:59+00:00",
-    "views": "65",
+    "views": "98",
     "text": "沃伦和奥尔斯布鲁克斯就致美国证券交易委员会和金融业监管局的信函发表声明。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3043323",
     "datetime": "2026-03-26T14:05:38+00:00",
-    "views": "65",
+    "views": "67",
     "text": "巴西农业部发布声明称，因禽流感疫情，将动物卫生紧急状态再延长 180 天。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3043324",
     "datetime": "2026-03-26T14:05:38+00:00",
-    "views": "65",
+    "views": "97",
     "text": "墨西哥经济部长埃布拉德表示，该计划初始预算包含 20 亿比索的税额减免，以及 2.5 亿比索的直接投资。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3043322",
     "datetime": "2026-03-26T14:05:18+00:00",
-    "views": "65",
+    "views": "67",
     "text": "巴西财政部长：我们正在保护卡车司机和消费者免受战争的影响。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3043321",
     "datetime": "2026-03-26T14:05:17+00:00",
-    "views": "64",
+    "views": "66",
     "text": "金十图示：2026 年 03 月 26 日（周四）全球股市指数-美洲市场（盘初）",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3043320",
     "datetime": "2026-03-26T14:04:58+00:00",
-    "views": "292",
+    "views": "324",
     "text": "巴西总统：巴西需要财政稳定和可预测性才能取得成功。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3043319",
     "datetime": "2026-03-26T14:04:38+00:00",
-    "views": "65",
+    "views": "97",
     "text": "以色列北部响起警报声。",
     "media_only": false,
     "image_url": null,
@@ -67084,68 +67120,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3035802"
-  },
-  {
-    "post": "Financial_Express/3035801",
-    "datetime": "2026-03-24T14:10:38+00:00",
-    "views": "158",
-    "text": "王毅同伊朗外长阿拉格齐通电话\n金十数据 3 月 24 日讯，中共中央政治局委员、外交部长王毅 24 日应约同伊朗外长阿拉格齐通电话。阿拉格齐通报了地区局势发展演变的最新情况，感谢中方提供紧急人道主义援助。表示伊朗人民更加团结在一起，抵御外来侵略行径，维护国家主权和独立。伊方致力于实现全面停战而不仅仅是暂时停火。霍尔木兹海峡对所有人开放，船只可以安全通过，但正在交战的国家不在考虑之列。希望各方采取的举措有利于推动局势降温而非升级冲突。期待中方为促和止战继续发挥积极作用。王毅重申了中方的原则立场，强调所有热点问题都应通过对话谈判解决，而不应使用武力。谈起来总比打下去好。这符合伊朗国家和人民的利益，也呼应了国际社会普遍愿望。希望各方抓住一切和平机会和窗口，尽快启动和谈进程。中方将继续秉持客观公正立场，反对侵犯别国主权，积极劝和止战，致力于地区和平稳定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3035801"
-  },
-  {
-    "post": "Financial_Express/3035800",
-    "datetime": "2026-03-24T14:10:30+00:00",
-    "views": "264",
-    "text": "中共中央政治局委员、外交部长王毅 24 日应约同伊朗外长阿拉格齐通电话。\n阿拉格齐通报了地区局势发展演变的最新情况，感谢中方提供紧急人道主义援助。表示伊朗人民更加团结在一起，抵御外来侵略行径，维护国家主权和独立。伊方致力于实现全面停战而不仅仅是暂时停火。霍尔木兹海峡对所有人开放，船只可以安全通过，但正在交战的国家不在考虑之列。希望各方采取的举措有利于推动局势降温而非升级冲突。期待中方为促和止战继续发挥积极作用。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3035800"
-  },
-  {
-    "post": "Financial_Express/3035799",
-    "datetime": "2026-03-24T14:10:19+00:00",
-    "views": "155",
-    "text": "美国联合航空公司首席执行官表示：票价将继续随油价同步上涨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3035799"
-  },
-  {
-    "post": "Financial_Express/3035798",
-    "datetime": "2026-03-24T14:09:37+00:00",
-    "views": "155",
-    "text": "壳牌首席执行官：必须确保各国政府不要采取加剧全球能源供应中断影响的措施。全球正面临日益加剧的政治分裂态势。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3035798"
-  },
-  {
-    "post": "Financial_Express/3035796",
-    "datetime": "2026-03-24T14:09:18+00:00",
-    "views": "155",
-    "text": "聚丙烯连续主力合约日内跌 4%，现报 8968.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3035796"
-  },
-  {
-    "post": "Financial_Express/3035797",
-    "datetime": "2026-03-24T14:09:18+00:00",
-    "views": "155",
-    "text": "匈牙利央行行长表示，维护外汇市场稳定至关重要。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3035797"
-  },
-  {
-    "post": "Financial_Express/3035795",
-    "datetime": "2026-03-24T14:08:58+00:00",
-    "views": "234",
-    "text": "甲醇连续主力合约日内跌 2%，现报 3122.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3035795"
   }
 ]
