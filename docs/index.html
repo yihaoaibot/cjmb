@@ -1,5 +1,13 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-03-26T00:49:00.005157+00:00","clsvipUpdated":"2026-03-26T00:49:07.810534+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">3月26日</h2><div class="feed"><article class="item" data-search="由于补贴减少，泰国燃油价格上涨 14%至 22%。"><div class="time">08:48</div><div class="content"><div class="text" data-full="由于补贴减少，泰国燃油价格上涨 14%至 22%。" data-short="由于补贴减少，泰国燃油价格上涨 14%至 22%。">由于补贴减少，泰国燃油价格上涨 14%至 22%。</div></div></article><article class="item" data-search="筑友智造科技集团有限公司在香港暂停交易。"><div class="time">08:48</div><div class="content"><div class="text" data-full="筑友智造科技集团有限公司在香港暂停交易。" data-short="筑友智造科技集团有限公司在香港暂停交易。">筑友智造科技集团有限公司在香港暂停交易。</div></div></article><article class="item" data-search="日本东京警视厅将强行闯入中国驻日本大使馆的陆上自卫队嫌疑人村田晃大送交检方。"><div class="time">08:48</div><div class="content"><div class="text" data-full="日本东京警视厅将强行闯入中国驻日本大使馆的陆上自卫队嫌疑人村田晃大送交检方。" data-short="日本东京警视厅将强行闯入中国驻日本大使馆的陆上自卫队嫌疑人村田晃大送交检方。">日本东京警视厅将强行闯入中国驻日本大使馆的陆上自卫队嫌疑人村田晃大送交检方。</div></div></article><article class="item" data-search="两市融资余额较上日增加 31.73 亿元
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-03-26T00:51:02.784987+00:00","clsvipUpdated":"2026-03-26T00:51:16.343787+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">3月26日</h2><div class="feed"><article class="item" data-search="花旗：拼多多供应链计划有望拓宽竞争护城河 上调目标价
+花旗分析师在一份报告中表示，从长远来看，拼多多加强供应链能力的计划可能会拓宽其竞争护城河。他们表示，这家中国在线零售商的第四财季业绩基本符合预期。花旗分析师表示，这家拥有 temu 的公司旨在投资供应链以支持商家，提高他们的产品质量，并扩大其产品在农村地区的覆盖范围。考虑到此举可能产生切实的回报，并在人工智能时代使该公司的平台生态系统受益，这一举措可能会受到市场的欢迎。花旗将拼多多 adr 目标价从 142.00 美元上调至 145.00 美元，并维持其买入/高风险评级。"><div class="time">08:50</div><div class="content"><div class="text" data-full="花旗：拼多多供应链计划有望拓宽竞争护城河 上调目标价
+花旗分析师在一份报告中表示，从长远来看，拼多多加强供应链能力的计划可能会拓宽其竞争护城河。他们表示，这家中国在线零售商的第四财季业绩基本符合预期。花旗分析师表示，这家拥有 Temu 的公司旨在投资供应链以支持商家，提高他们的产品质量，并扩大其产品在农村地区的覆盖范围。考虑到此举可能产生切实的回报，并在人工智能时代使该公司的平台生态系统受益，这一举措可能会受到市场的欢迎。花旗将拼多多 ADR 目标价从 142.00 美元上调至 145.00 美元，并维持其买入/高风险评级。" data-short="花旗：拼多多供应链计划有望拓宽竞争护城河 上调目标价
+花旗分析师在一份报告中表示，从长远来看，拼多多加强供应链能力的计划可能会拓宽其竞争护城河。他们表示，这家中国在线零售商的第四财季业绩基本符合预期。花旗分析师表示，这家拥有 Temu 的公司旨在投资供应链以支持商家，提高他们的产品质量，并扩大其产品在农村地区的覆盖范围。考虑到此举可能产生切实的回报，并在人工...">花旗：拼多多供应链计划有望拓宽竞争护城河 上调目标价
+花旗分析师在一份报告中表示，从长远来看，拼多多加强供应链能力的计划可能会拓宽其竞争护城河。他们表示，这家中国在线零售商的第四财季业绩基本符合预期。花旗分析师表示，这家拥有 Temu 的公司旨在投资供应链以支持商家，提高他们的产品质量，并扩大其产品在农村地区的覆盖范围。考虑到此举可能产生切实的回报，并在人工...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="南方连阴雨江南华南累计雨量大 北方大部偏暖昼夜温差显著
+今后三天（3 月 26 日至 28 日），南方大部将维持阴雨频繁的格局，其中，西南地区东部、江南、华南北部等地累计雨量较大，局地或现暴雨。同时，北方大部暖意超前，但最低气温回升滞后，昼夜温差普遍较大；江南地区阴雨压制，最高气温大多不足 20℃，湿凉感显著。"><div class="time">08:49</div><div class="content"><div class="text" data-full="南方连阴雨江南华南累计雨量大 北方大部偏暖昼夜温差显著
+今后三天（3 月 26 日至 28 日），南方大部将维持阴雨频繁的格局，其中，西南地区东部、江南、华南北部等地累计雨量较大，局地或现暴雨。同时，北方大部暖意超前，但最低气温回升滞后，昼夜温差普遍较大；江南地区阴雨压制，最高气温大多不足 20℃，湿凉感显著。" data-short="南方连阴雨江南华南累计雨量大 北方大部偏暖昼夜温差显著
+今后三天（3 月 26 日至 28 日），南方大部将维持阴雨频繁的格局，其中，西南地区东部、江南、华南北部等地累计雨量较大，局地或现暴雨。同时，北方大部暖意超前，但最低气温回升滞后，昼夜温差普遍较大；江南地区阴雨压制，最高气温大多不足 20℃，湿凉感显著。">南方连阴雨江南华南累计雨量大 北方大部偏暖昼夜温差显著
+今后三天（3 月 26 日至 28 日），南方大部将维持阴雨频繁的格局，其中，西南地区东部、江南、华南北部等地累计雨量较大，局地或现暴雨。同时，北方大部暖意超前，但最低气温回升滞后，昼夜温差普遍较大；江南地区阴雨压制，最高气温大多不足 20℃，湿凉感显著。</div></div></article><article class="item" data-search="汉高公司（henkel ag）正就收购护发品牌 olaplex holdings inc.进行深入谈判，最早可能在未来几天内宣布协议，对 olaplex 的估值约为每股 2 美元。（彭博）"><div class="time">08:49</div><div class="content"><div class="text" data-full="汉高公司（Henkel AG）正就收购护发品牌 Olaplex Holdings Inc.进行深入谈判，最早可能在未来几天内宣布协议，对 Olaplex 的估值约为每股 2 美元。（彭博）" data-short="汉高公司（Henkel AG）正就收购护发品牌 Olaplex Holdings Inc.进行深入谈判，最早可能在未来几天内宣布协议，对 Olaplex 的估值约为每股 2 美元。（彭博）">汉高公司（Henkel AG）正就收购护发品牌 Olaplex Holdings Inc.进行深入谈判，最早可能在未来几天内宣布协议，对 Olaplex 的估值约为每股 2 美元。（彭博）</div></div></article><article class="item" data-search="由于补贴减少，泰国燃油价格上涨 14%至 22%。"><div class="time">08:48</div><div class="content"><div class="text" data-full="由于补贴减少，泰国燃油价格上涨 14%至 22%。" data-short="由于补贴减少，泰国燃油价格上涨 14%至 22%。">由于补贴减少，泰国燃油价格上涨 14%至 22%。</div></div></article><article class="item" data-search="筑友智造科技集团有限公司在香港暂停交易。"><div class="time">08:48</div><div class="content"><div class="text" data-full="筑友智造科技集团有限公司在香港暂停交易。" data-short="筑友智造科技集团有限公司在香港暂停交易。">筑友智造科技集团有限公司在香港暂停交易。</div></div></article><article class="item" data-search="日本东京警视厅将强行闯入中国驻日本大使馆的陆上自卫队嫌疑人村田晃大送交检方。"><div class="time">08:48</div><div class="content"><div class="text" data-full="日本东京警视厅将强行闯入中国驻日本大使馆的陆上自卫队嫌疑人村田晃大送交检方。" data-short="日本东京警视厅将强行闯入中国驻日本大使馆的陆上自卫队嫌疑人村田晃大送交检方。">日本东京警视厅将强行闯入中国驻日本大使馆的陆上自卫队嫌疑人村田晃大送交检方。</div></div></article><article class="item" data-search="两市融资余额较上日增加 31.73 亿元
 截至 3 月 25 日，上交所融资余额报 13217.59 亿元，较前一交易日减少 1.37 亿元；深交所融资余额报 12697.10 亿元，较前一交易日增加 33.10 亿元；两市合计 25914.69 亿元，较前一交易日增加 31.73 亿元。"><div class="time">08:47</div><div class="content"><div class="text" data-full="两市融资余额较上日增加 31.73 亿元
 截至 3 月 25 日，上交所融资余额报 13217.59 亿元，较前一交易日减少 1.37 亿元；深交所融资余额报 12697.10 亿元，较前一交易日增加 33.10 亿元；两市合计 25914.69 亿元，较前一交易日增加 31.73 亿元。" data-short="两市融资余额较上日增加 31.73 亿元
 截至 3 月 25 日，上交所融资余额报 13217.59 亿元，较前一交易日减少 1.37 亿元；深交所融资余额报 12697.10 亿元，较前一交易日增加 33.10 亿元；两市合计 25914.69 亿元，较前一交易日增加 31.73 亿元。">两市融资余额较上日增加 31.73 亿元
@@ -653,31 +661,126 @@ XtrackersHarvest 中证 50（ASHS）收涨 2.61%，德银嘉实沪深 300 指数
 由于乌克兰上月袭击俄罗斯石油出口码头，以及包括法国在内的多艘俄罗斯“影子舰队”在公海扣押油轮，俄罗斯约 40%的石油出口能力被迫关闭。目前，美国正暂时解除对俄罗斯的制裁。"><div class="time">05:45</div><div class="content"><div class="text" data-full="俄罗斯约 40%的石油出口能力被迫关闭
 由于乌克兰上月袭击俄罗斯石油出口码头，以及包括法国在内的多艘俄罗斯“影子舰队”在公海扣押油轮，俄罗斯约 40%的石油出口能力被迫关闭。目前，美国正暂时解除对俄罗斯的制裁。" data-short="俄罗斯约 40%的石油出口能力被迫关闭
 由于乌克兰上月袭击俄罗斯石油出口码头，以及包括法国在内的多艘俄罗斯“影子舰队”在公海扣押油轮，俄罗斯约 40%的石油出口能力被迫关闭。目前，美国正暂时解除对俄罗斯的制裁。">俄罗斯约 40%的石油出口能力被迫关闭
-由于乌克兰上月袭击俄罗斯石油出口码头，以及包括法国在内的多艘俄罗斯“影子舰队”在公海扣押油轮，俄罗斯约 40%的石油出口能力被迫关闭。目前，美国正暂时解除对俄罗斯的制裁。</div></div></article><article class="item" data-search="以色列：真主党导弹袭击后，基里亚特什莫纳和贝特希勒尔地区响起了空袭警报。"><div class="time">05:43</div><div class="content"><div class="text" data-full="以色列：真主党导弹袭击后，基里亚特什莫纳和贝特希勒尔地区响起了空袭警报。" data-short="以色列：真主党导弹袭击后，基里亚特什莫纳和贝特希勒尔地区响起了空袭警报。">以色列：真主党导弹袭击后，基里亚特什莫纳和贝特希勒尔地区响起了空袭警报。</div></div></article><article class="item" data-search="一架客机在阿富汗喀布尔国际机场降落时因技术故障滑出跑道，无人员伤亡。"><div class="time">05:42</div><div class="content"><div class="text" data-full="一架客机在阿富汗喀布尔国际机场降落时因技术故障滑出跑道，无人员伤亡。" data-short="一架客机在阿富汗喀布尔国际机场降落时因技术故障滑出跑道，无人员伤亡。">一架客机在阿富汗喀布尔国际机场降落时因技术故障滑出跑道，无人员伤亡。</div></div></article><article class="item" data-search="西方情报机构称，在美以对德黑兰发动空袭后，俄罗斯与伊朗进行了秘密会谈，目前俄罗斯已接近完成向伊朗分阶段运送无人机、药品和食品的工作。这或将是自战争爆发以来，莫斯科首次向伊朗提供致命性援助。"><div class="time">05:40</div><div class="content"><div class="text" data-full="西方情报机构称，在美以对德黑兰发动空袭后，俄罗斯与伊朗进行了秘密会谈，目前俄罗斯已接近完成向伊朗分阶段运送无人机、药品和食品的工作。这或将是自战争爆发以来，莫斯科首次向伊朗提供致命性援助。" data-short="西方情报机构称，在美以对德黑兰发动空袭后，俄罗斯与伊朗进行了秘密会谈，目前俄罗斯已接近完成向伊朗分阶段运送无人机、药品和食品的工作。这或将是自战争爆发以来，莫斯科首次向伊朗提供致命性援助。">西方情报机构称，在美以对德黑兰发动空袭后，俄罗斯与伊朗进行了秘密会谈，目前俄罗斯已接近完成向伊朗分阶段运送无人机、药品和食品的工作。这或将是自战争爆发以来，莫斯科首次向伊朗提供致命性援助。</div></div></article><article class="item" data-search="周三（3 月 25 日）纽约尾盘，欧元兑美元跌 0.41%，报 1.1559，整体持续走低。
-英镑兑美元跌 0.34%，报 1.3365，美元兑瑞郎涨 0.45%，报 0.7917。
-商品货币对中，澳元兑美元跌 0.70%，纽元兑美元跌 0.51%，美元兑加元涨 0.33%。
-瑞典克朗兑美元跌 0.48%，挪威克朗兑美元大致持平，丹麦克朗兑美元跌 0.41%。
-波兰兹罗提兑美元跌 0.50%，匈牙利福林兑美元涨 0.34%。
-土耳其里拉兑美元跌 0.05%，南非兰特兑美元涨 0.12%，墨西哥比索兑美元跌 0.17%，巴西雷亚尔兑美元涨 0.15%。"><div class="time">05:40</div><div class="content"><div class="text" data-full="周三（3 月 25 日）纽约尾盘，欧元兑美元跌 0.41%，报 1.1559，整体持续走低。
-英镑兑美元跌 0.34%，报 1.3365，美元兑瑞郎涨 0.45%，报 0.7917。
-商品货币对中，澳元兑美元跌 0.70%，纽元兑美元跌 0.51%，美元兑加元涨 0.33%。
-瑞典克朗兑美元跌 0.48%，挪威克朗兑美元大致持平，丹麦克朗兑美元跌 0.41%。
-波兰兹罗提兑美元跌 0.50%，匈牙利福林兑美元涨 0.34%。
-土耳其里拉兑美元跌 0.05%，南非兰特兑美元涨 0.12%，墨西哥比索兑美元跌 0.17%，巴西雷亚尔兑美元涨 0.15%。" data-short="周三（3 月 25 日）纽约尾盘，欧元兑美元跌 0.41%，报 1.1559，整体持续走低。
-英镑兑美元跌 0.34%，报 1.3365，美元兑瑞郎涨 0.45%，报 0.7917。
-商品货币对中，澳元兑美元跌 0.70%，纽元兑美元跌 0.51%，美元兑加元涨 0.33%。
-瑞典克朗兑美元跌 0.48%，挪威克朗兑美元大致持平，丹麦克朗兑美元跌 0.41%...">周三（3 月 25 日）纽约尾盘，欧元兑美元跌 0.41%，报 1.1559，整体持续走低。
-英镑兑美元跌 0.34%，报 1.3365，美元兑瑞郎涨 0.45%，报 0.7917。
-商品货币对中，澳元兑美元跌 0.70%，纽元兑美元跌 0.51%，美元兑加元涨 0.33%。
-瑞典克朗兑美元跌 0.48%，挪威克朗兑美元大致持平，丹麦克朗兑美元跌 0.41%...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="荷兰贸易大臣 sjoerd sjoerdsma 在 x 上宣布，他“很快”将率贸易代表团访问中国。此前，他在喀麦隆举行的世界贸易组织（wto）会议期间与中国商务部长王文涛会晤。sjoerdsma 于 2021 年被列入中国制裁清单。
-sjoerdsma 的发言人向彭博表示，周三的会谈具有“建设性”，“当话题转向贸易代表团访问时，中方部长发出了访问邀请”。
-当被问及 sjoerdsma 是否仍受制裁时，发言人称，一切迹象表明，这不会成为其入境中国的问题。"><div class="time">05:35</div><div class="content"><div class="text" data-full="荷兰贸易大臣 Sjoerd Sjoerdsma 在 X 上宣布，他“很快”将率贸易代表团访问中国。此前，他在喀麦隆举行的世界贸易组织（WTO）会议期间与中国商务部长王文涛会晤。Sjoerdsma 于 2021 年被列入中国制裁清单。
-Sjoerdsma 的发言人向彭博表示，周三的会谈具有“建设性”，“当话题转向贸易代表团访问时，中方部长发出了访问邀请”。
-当被问及 Sjoerdsma 是否仍受制裁时，发言人称，一切迹象表明，这不会成为其入境中国的问题。" data-short="荷兰贸易大臣 Sjoerd Sjoerdsma 在 X 上宣布，他“很快”将率贸易代表团访问中国。此前，他在喀麦隆举行的世界贸易组织（WTO）会议期间与中国商务部长王文涛会晤。Sjoerdsma 于 2021 年被列入中国制裁清单。
-Sjoerdsma 的发言人向彭博表示，周三的会谈具有“建设性”，“当话题转向贸易代表团访问时，中方部长发出了访问邀请”。
-当...">荷兰贸易大臣 Sjoerd Sjoerdsma 在 X 上宣布，他“很快”将率贸易代表团访问中国。此前，他在喀麦隆举行的世界贸易组织（WTO）会议期间与中国商务部长王文涛会晤。Sjoerdsma 于 2021 年被列入中国制裁清单。
-Sjoerdsma 的发言人向彭博表示，周三的会谈具有“建设性”，“当话题转向贸易代表团访问时，中方部长发出了访问邀请”。
-当...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">3月26日 · VIP</h2> <div class="feed"> <article class="item" data-search="【九点特供】目标尽快量产！特斯拉机器人optimus发招聘，分析师看好特斯拉人形机器人产能即将按下加速键；拼多多“新拼姆”落地上海 一期已注资150亿，跨境电商已经成为我国对外贸易的重要组成部分"> <div class="time">08:47</div> <div class="content"> <div class="text">【九点特供】目标尽快量产！特斯拉机器人Optimus发招聘，分析师看好特斯拉人形机器人产能即将按下加速键；拼多多“新拼姆”落地上海 一期已注资150亿，跨境电商已经成为我国对外贸易的重要组成部分</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【点金互动易】英伟达+gpu，这家公司是英伟达长期战略核心供应商，全球市占率领先，为gpu及电源提供高精度电流感测精密电阻，产品可用于高功率ai服务器场景
+由于乌克兰上月袭击俄罗斯石油出口码头，以及包括法国在内的多艘俄罗斯“影子舰队”在公海扣押油轮，俄罗斯约 40%的石油出口能力被迫关闭。目前，美国正暂时解除对俄罗斯的制裁。</div></div></article><article class="item" data-search="以色列：真主党导弹袭击后，基里亚特什莫纳和贝特希勒尔地区响起了空袭警报。"><div class="time">05:43</div><div class="content"><div class="text" data-full="以色列：真主党导弹袭击后，基里亚特什莫纳和贝特希勒尔地区响起了空袭警报。" data-short="以色列：真主党导弹袭击后，基里亚特什莫纳和贝特希勒尔地区响起了空袭警报。">以色列：真主党导弹袭击后，基里亚特什莫纳和贝特希勒尔地区响起了空袭警报。</div></div></article><article class="item" data-search="一架客机在阿富汗喀布尔国际机场降落时因技术故障滑出跑道，无人员伤亡。"><div class="time">05:42</div><div class="content"><div class="text" data-full="一架客机在阿富汗喀布尔国际机场降落时因技术故障滑出跑道，无人员伤亡。" data-short="一架客机在阿富汗喀布尔国际机场降落时因技术故障滑出跑道，无人员伤亡。">一架客机在阿富汗喀布尔国际机场降落时因技术故障滑出跑道，无人员伤亡。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">3月26日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">08:49</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="频道收费项目：频道vip
+
+包括内容：
+
+红宝书
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大v收费群盘中消息同步：
+
+vip资讯
+环球资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+大成路旁的大成
+妖股刺客
+
+麦芽糖
+新生代龙头玩家
+邢者狩猎营
+g界孙悟空
+大师兄擒妖
+超级感悟
+浮光
+攀高
+天赢居
+
+源深路
+布莱德雷
+清北游资
+时冲
+主升真经
+天机短线
+爱尔兰画眉
+浅吸掘金
+震哥
+
+红旗大街发哥
+游资胖大叔
+大周先生
+姆爷
+付鹏
+游资混江龙
+徐小明
+老章
+天地同力
+
+大马路
+只做龙头
+诗诗复利游
+情绪流作手c神
+涨红阳
+a股通天宗
+上班族波段
+洛飞
+
+先知
+愿雨稠
+林荫大道
+超短小纯洁
+上海老梁
+贝贝后花园
+核心九儿
+趋势moo
+逻辑a哥
+
+生如夏花
+复盘哥
+鑫多多
+趋势和价值老李
+大将潘凤
+滴烛复盘的壮汉
+奶爸只做核心
+浮光知顶底
+
+借势而为
+来去由心
+苏三
+嗅嗅掘金
+钱塘李逍遥
+k神会
+向班长
+一线天渔哥
+林秘密
+
+费用：100元/月"> <div class="time">08:49</div> <div class="content"> <div class="text">频道收费项目：频道VIP
+
+包括内容：
+
+红宝书
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大V收费群盘中消息同步：
+
+VIP资讯
+环球资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+大成路旁的大成
+妖股刺客
+
+麦芽糖
+新生代龙头玩家
+邢者狩猎营
+G界孙悟空
+大师兄擒妖
+超级感悟...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">08:49</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【九点特供】目标尽快量产！特斯拉机器人optimus发招聘，分析师看好特斯拉人形机器人产能即将按下加速键；拼多多“新拼姆”落地上海 一期已注资150亿，跨境电商已经成为我国对外贸易的重要组成部分"> <div class="time">08:47</div> <div class="content"> <div class="text">【九点特供】目标尽快量产！特斯拉机器人Optimus发招聘，分析师看好特斯拉人形机器人产能即将按下加速键；拼多多“新拼姆”落地上海 一期已注资150亿，跨境电商已经成为我国对外贸易的重要组成部分</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【点金互动易】英伟达+gpu，这家公司是英伟达长期战略核心供应商，全球市占率领先，为gpu及电源提供高精度电流感测精密电阻，产品可用于高功率ai服务器场景
 
 #联瑞新材
 #钧崴电子"> <div class="time">08:46</div> <div class="content"> <div class="text">【点金互动易】英伟达+GPU，这家公司是英伟达长期战略核心供应商，全球市占率领先，为GPU及电源提供高精度电流感测精密电阻，产品可用于高功率AI服务器场景
