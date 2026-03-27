@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3045111",
+    "datetime": "2026-03-27T03:26:37+00:00",
+    "views": "6",
+    "text": "赤泽亮正：一些日本公司正在考虑中亚等石油供应来源。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3045111"
+  },
+  {
+    "post": "Financial_Express/3045110",
+    "datetime": "2026-03-27T03:26:18+00:00",
+    "views": "564",
+    "text": "菲律宾总统马科斯：东盟峰会将缩短至一天半多一点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3045110"
+  },
+  {
+    "post": "Financial_Express/3045109",
+    "datetime": "2026-03-27T03:26:17+00:00",
+    "views": "10",
+    "text": "菲律宾总统马科斯：东盟峰会将讨论燃料供应、食品价格与移民务工人员议题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3045109"
+  },
+  {
+    "post": "Financial_Express/3045108",
+    "datetime": "2026-03-27T03:25:58+00:00",
+    "views": "46",
+    "text": "印度政府令：将航空涡轮燃料出口暴利税设定为每升 29.5 卢比。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3045108"
+  },
+  {
+    "post": "Financial_Express/3045107",
+    "datetime": "2026-03-27T03:25:37+00:00",
+    "views": "50",
+    "text": "印度政府政令：对柴油出口开征暴利税，税率为每升 21.5 卢比。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3045107"
+  },
+  {
+    "post": "Financial_Express/3045105",
+    "datetime": "2026-03-27T03:25:18+00:00",
+    "views": "615",
+    "text": "钯金期货突破 1400 美元/盎司，日内涨 3.07%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3045105"
+  },
+  {
+    "post": "Financial_Express/3045106",
+    "datetime": "2026-03-27T03:25:18+00:00",
+    "views": "51",
+    "text": "碳酸锂连续主力合约日内涨 5%，现报 166660.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3045106"
+  },
+  {
+    "post": "Financial_Express/3045104",
+    "datetime": "2026-03-27T03:25:17+00:00",
+    "views": "51",
+    "text": "钯金期货日内涨 3%，现报 1399.00 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3045104"
+  },
+  {
     "post": "Financial_Express/3045103",
     "datetime": "2026-03-27T03:23:37+00:00",
-    "views": "45",
+    "views": "93",
     "text": "美团发布原生多模态 LongCat-Next\n3 月 27 日消息，美团发布并全面开源原生多模态大模型 LongCat-Next 及其核心组件——离散原生分辨率视觉分词器（dNaViT）。该模型打破了当前大模型以“语言为中心”的传统拼凑式架构，将图像、语音与文本统一映射为同源的离散 Token。通过纯粹的“下一个 Token 预测”（Next Token Prediction，NTP）范式，LongCat-Next 让视觉与语音成为 AI 的“原生母语”。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3045102",
     "datetime": "2026-03-27T03:23:19+00:00",
-    "views": "47",
+    "views": "92",
     "text": "3 月 27 日，阿里桌面 Agent 应用 QoderWork 全面打通钉钉、微信和飞书三大主流 IM，用户可直接在手机上与 QoderWork 对话，随时随地调度桌面 AI 助手的全部能力，远程完成文件整理、数据处理、文档生成等任务。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3045101",
     "datetime": "2026-03-27T03:23:18+00:00",
-    "views": "47",
+    "views": "92",
     "text": "分析师：黄金当前价位具有吸引力，但仍受鹰派央行压制\n金十数据 3 月 27 日讯，KCM 交易公司的首席市场分析师蒂姆·沃特尔表示，数周以来，黄金一直被视为一种用于平抑其他市场波动和满足保证金要求的流动性资产，但在当前价位下，它如今更像是对投资者而言的一种投资价值选择，这就是它如今再度受到青睐的原因。然而，那些对持续的石油驱动型通胀持谨慎态度的鹰派央行，继续对黄金的上涨势头形成强有力压制，使得任何涨势都被牢牢遏制住了。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3045100",
     "datetime": "2026-03-27T03:22:57+00:00",
-    "views": "642",
+    "views": "685",
     "text": "A 股电网设备概念盘中震荡回升，长高电新封板涨停，此前新能泰山四连板，国电南自涨停，洛凯股份、四方股份、远东股份、汉缆股份跟涨。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3045099",
     "datetime": "2026-03-27T03:22:53+00:00",
-    "views": "51",
+    "views": "92",
     "text": "3 月 27 日，欧元区各成员国财长将举行视频会议，讨论近期中东紧张局势给能源市场和各成员国经济带来的影响。国际能源署署长法提赫·比罗尔受邀参会，预计将在会议期间发布有关能源市场的简报。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3045098",
     "datetime": "2026-03-27T03:22:26+00:00",
-    "views": "82",
+    "views": "90",
     "text": "企查查 APP 显示，近日，诺瓦聚变能源科技（上海）有限公司发生工商变更，新增阿里巴巴旗下杭州灏月企业管理有限公司、上汽旗下河南尚颀汇融尚成一号产业基金合伙企业（有限合伙）等为股东，同时注册资本由约 170.3 万元增至约 219 万元。企查查信息显示，该公司成立于 2025 年 4 月，法定代表人为 HOUYANG GUO，经营范围含新材料技术研发、核电设备成套及工程技术研发、发电技术服务等。公开资料显示，该公司专注于研发小型、分布式、模块化核聚变装置。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3045097",
     "datetime": "2026-03-27T03:22:17+00:00",
-    "views": "82",
+    "views": "89",
     "text": "韩国考虑禁止出口石化产品\n据韩国官员透露，继近期禁止出口石脑油以稳定国内供应、应对中东危机之后，韩国正考虑将出口限制扩大至石化产品。一位官员在执政党议员于一家塑料制造公司召开的会议上表示：“虽然政府层面已经禁止石脑油出口，但我们也在深入考虑石化产品的出口。”韩国政府还表示，将重新审视对乙烯和合成树脂等产品的管制措施，以支持面临原材料短缺的本地塑料生产商。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3045096",
     "datetime": "2026-03-27T03:22:13+00:00",
-    "views": "52",
+    "views": "90",
     "text": "在 3 月 27 日开幕的 2026 中国科幻大会上，中国科普研究所发布了《2026 中国科幻产业报告》。2025 年，中国科幻产业总营收达 1261 亿元，连续三年突破千亿大关。中国科幻产业稳步迈入高质量发展新阶段。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3045095",
     "datetime": "2026-03-27T03:21:40+00:00",
-    "views": "646",
+    "views": "683",
     "text": "当地时间 3 月 26 日，以色列反对党领导人拉皮德指责政府在多个方向同时推进军事行动导致兵力吃紧，正将国家推向“安全灾难”。此前，以色列国防军总参谋长扎米尔曾警告军队正走向内部崩溃。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3045094",
     "datetime": "2026-03-27T03:21:37+00:00",
-    "views": "86",
+    "views": "91",
     "text": "港股有色金属股震荡拉升，赣锋锂业(01772.HK)、佳鑫国际资源(03858.HK)、智汇矿业(02546.HK)涨超 6%，天齐锂业(09696.HK)、力勤资源(02245.HK)涨超 3%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3045093",
     "datetime": "2026-03-27T03:21:17+00:00",
-    "views": "87",
+    "views": "92",
     "text": "电网设备概念震荡回升 长高电新涨停\n电网设备概念盘中震荡回升，长高电新涨停，此前新能泰山 4 连板，国电南自涨停，洛凯股份、四方股份、远东股份、汉缆股份跟涨。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3045092",
     "datetime": "2026-03-27T03:20:39+00:00",
-    "views": "89",
+    "views": "122",
     "text": "周大福珠宝进军澳洲市场\n3 月 26 日，周大福珠宝集团首度进军澳洲市场，其位于悉尼韦斯特菲尔德购物中心的新店正式开业。周大福珠宝集团副主席郑志雯表示：“周大福珠宝于澳洲开设首家门店，标志着我们于品牌转型旅程中的一个里程碑，进一步将我们带到国际舞台。”",
     "media_only": false,
     "image_url": null,
@@ -67525,41 +67597,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3037523"
-  },
-  {
-    "post": "Financial_Express/3037522",
-    "datetime": "2026-03-25T03:25:59+00:00",
-    "views": "278",
-    "text": "伊朗最高联合军事指挥部发言人：在伊朗武装部队确保地区稳定之前，过去的能源和油价水平不会恢复。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3037522"
-  },
-  {
-    "post": "Financial_Express/3037521",
-    "datetime": "2026-03-25T03:25:38+00:00",
-    "views": "136",
-    "text": "伊朗最高联合军事委员会发言人表示，在伊朗武装部队确保地区稳定之前，能源与油价都不可能回到之前的水平。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3037521"
-  },
-  {
-    "post": "Financial_Express/3037520",
-    "datetime": "2026-03-25T03:25:37+00:00",
-    "views": "136",
-    "text": "一位白宫官员说：有关伊朗更倾向于与万斯谈判的说法是不正确的。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3037520"
-  },
-  {
-    "post": "Financial_Express/3037519",
-    "datetime": "2026-03-25T03:24:57+00:00",
-    "views": "135",
-    "text": "中静集团董事长高央：正就出售徽商银行股权密集谈判\n中静实业（集团）有限公司董事长高央在接受专访时透露，目前公司负债总规模约 80 亿元人民币，正处于“最困难的阶段”，当下公司正就出售徽商银行股权密集谈判。没到签约阶段，不能公开。（财联社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3037519"
   }
 ]
