@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3050412",
+    "datetime": "2026-03-29T22:02:39+00:00",
+    "views": "3",
+    "text": "纽约期金突破 4520 美元/盎司，日内跌 0.09%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3050412"
+  },
+  {
+    "post": "Financial_Express/3050411",
+    "datetime": "2026-03-29T22:02:38+00:00",
+    "views": "3",
+    "text": "现货黄金突破 4490 美元/盎司，日内跌 0.04%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3050411"
+  },
+  {
+    "post": "Financial_Express/3050410",
+    "datetime": "2026-03-29T22:02:17+00:00",
+    "views": "246",
+    "text": "联合国黎巴嫩临时部队表示，一名维和人员在黎巴嫩南部阿德希特古赛尔附近的联黎部队阵地内遭遇炮弹爆炸身亡。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3050410"
+  },
+  {
+    "post": "Financial_Express/3050409",
+    "datetime": "2026-03-29T22:01:57+00:00",
+    "views": "13",
+    "text": "美国天然气期货跌超 5.00%，现报 2.858 美元/百万英热。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3050409"
+  },
+  {
+    "post": "Financial_Express/3050407",
+    "datetime": "2026-03-29T22:01:18+00:00",
+    "views": "23",
+    "text": "美、布两油周一高开约 1%，现分别报 102.57 美元/桶和 107.15 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3050407"
+  },
+  {
+    "post": "Financial_Express/3050408",
+    "datetime": "2026-03-29T22:01:18+00:00",
+    "views": "23",
+    "text": "标普 500 股指期货下跌 0.5%，纳斯达克期货下跌 0.6%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3050408"
+  },
+  {
+    "post": "Financial_Express/3050406",
+    "datetime": "2026-03-29T22:01:15+00:00",
+    "views": "25",
+    "text": "布油高开逾 3%\n周一亚市早盘，标普 500 指数期货下跌 0.6%，布油上涨逾 3%至 116.25 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3050406"
+  },
+  {
     "post": "Financial_Express/3050404",
     "datetime": "2026-03-29T22:00:59+00:00",
-    "views": "1",
+    "views": "30",
     "text": "布伦特原油开盘上涨 3.3%，至每桶 116.25 美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3050405",
     "datetime": "2026-03-29T22:00:59+00:00",
-    "views": "1",
+    "views": "272",
     "text": "现货黄金突破 4480 美元/盎司，日内跌 0.18%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3050402",
     "datetime": "2026-03-29T22:00:58+00:00",
-    "views": "2",
+    "views": "30",
     "text": "现货黄金突破 4470 美元/盎司，日内跌 0.50%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3050403",
     "datetime": "2026-03-29T22:00:58+00:00",
-    "views": "1",
+    "views": "30",
     "text": "现货白银突破 70 美元/盎司，日内跌 0.67%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3050401",
     "datetime": "2026-03-29T22:00:57+00:00",
-    "views": "2",
+    "views": "30",
     "text": "钯金期货日内跌 2%，现报 1375.50 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3050400",
     "datetime": "2026-03-29T22:00:37+00:00",
-    "views": "246",
+    "views": "282",
     "text": "钯金期货日内跌 1%，现报 1384.28 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3050399",
     "datetime": "2026-03-29T22:00:23+00:00",
-    "views": "16",
+    "views": "39",
     "text": "纽约期金失守 4500 美元/盎司，日内跌 0.61%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3050396",
     "datetime": "2026-03-29T22:00:19+00:00",
-    "views": "18",
+    "views": "39",
     "text": "布伦特原油失守 107 美元/桶，日内涨 2.39%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3050397",
     "datetime": "2026-03-29T22:00:19+00:00",
-    "views": "18",
+    "views": "39",
     "text": "纽约期银日内跌 1%，现报 69.07 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3050398",
     "datetime": "2026-03-29T22:00:19+00:00",
-    "views": "18",
+    "views": "40",
     "text": "WTI 原油日内涨 2%，现报 102.27 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3050395",
     "datetime": "2026-03-29T22:00:18+00:00",
-    "views": "260",
+    "views": "282",
     "text": "纽约期银突破 70 美元/盎司，日内跌 1.00%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3050394",
     "datetime": "2026-03-29T22:00:17+00:00",
-    "views": "18",
+    "views": "38",
     "text": "布伦特原油日内涨 2%，现报 108.07 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3050393",
     "datetime": "2026-03-29T21:55:58+00:00",
-    "views": "52",
+    "views": "70",
     "text": "蓝色起源： 卫星通信公司 AST 的蓝鸟 7 号卫星发射时间不早于 4 月 10 日。",
     "media_only": false,
     "image_url": null,
@@ -19321,32 +19384,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3048247"
-  },
-  {
-    "post": "Financial_Express/3048246",
-    "datetime": "2026-03-27T22:02:44+00:00",
-    "views": "97",
-    "text": "美国总统特朗普：我们想要低利率，无通胀。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3048246"
-  },
-  {
-    "post": "Financial_Express/3048245",
-    "datetime": "2026-03-27T22:01:58+00:00",
-    "views": "611",
-    "text": "特朗普： 国会的民主党人让我想起了伊朗。 他们已经疯了。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3048245"
-  },
-  {
-    "post": "Financial_Express/3048244",
-    "datetime": "2026-03-27T22:01:57+00:00",
-    "views": "96",
-    "text": "特朗普：我们想要低利率、无通胀。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3048244"
   }
 ]
