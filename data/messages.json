@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3050675",
+    "datetime": "2026-03-30T00:24:18+00:00",
+    "views": "1",
+    "text": "中信证券：超节点提升 AI 训推效率 关注三大增量环节\n中信证券研报称，超节点将多张加速卡通过高带宽、低时延的 Scale-up 网络紧密连接，并提供内存池化、内存直连等机制，极大提升了 AI 训推效率，已经成为明确产业趋势。随着英伟达等厂商推动超节点提效扩容，GPU 间交换芯片、液冷、柜内电源环节将分别受益于 Scale-up 纯增量用量、机柜高功率推动的渗透率与 ASP 提升、机柜高功率推动的 ASP 提升，实现增长；预计 2028 年增量空间将分别达到 1000 亿、130 亿、240 亿美元。其中，交换芯片的国产替代机遇值得期待；交换芯片的好商业属性塑造稳定的寡头格局，GPU 间连接增量空间大而明确、国产空间预计 2028 年将达到 50 亿美元，目前以太网方案正成为其主要技术方向，随算力芯片国产化趋势已有配套国产方案落地；目前，龙头收入体量约 10 亿元，成长空间巨大；建议关注国内以太网交换芯片玩家；此外，基于交换芯片的光互联 CPO/NPO 环节的国产替代亦值得关注。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3050675"
+  },
+  {
+    "post": "Financial_Express/3050674",
+    "datetime": "2026-03-30T00:24:13+00:00",
+    "views": "1",
+    "text": "国际油价短线走低，WTI 日内涨幅收窄至 1.8%，此前涨 3%。特朗普谈到霍尔木兹海峡时表示，伊朗允许 20 艘油轮通行，将从明天早上开始通行；特朗普表示将与伊朗达成协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3050674"
+  },
+  {
+    "post": "Financial_Express/3050673",
+    "datetime": "2026-03-30T00:23:57+00:00",
+    "views": "1",
+    "text": "沙特阿拉伯拦截 5 枚弹道导弹。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3050673"
+  },
+  {
     "post": "Financial_Express/3050672",
     "datetime": "2026-03-30T00:22:20+00:00",
-    "views": "1",
+    "views": "31",
     "text": "2026 年 3 月 29 日，英矽智能宣布与礼来对外授权与全球研发合作， 礼来将获得一项全球独家许可，用于开发、生产和商业化针对特定适应症、目前处于临床前开发阶段的、具有潜在“同类最佳”水平的新型口服治疗药物。此外，英矽智能与礼来还将围绕礼来选定的靶点开展多项研发项目合作。依据协议条款，英矽智能将有资格获得 1.15 亿美元首付款，并在后续达成开发、监管及商业化里程碑后获得进一步付款，使交易总价值最高可达约 27.5 亿美元；此外，英矽智能还将获得基于未来销售额的分级特许权使用费。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3050670",
     "datetime": "2026-03-30T00:20:19+00:00",
-    "views": "332",
+    "views": "362",
     "text": "世贸组织会议主席表示，关于 WTO 改革的声明也将作为雅温得一揽子协议的一部分提交至日内瓦。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3050669",
     "datetime": "2026-03-30T00:20:18+00:00",
-    "views": "31",
+    "views": "61",
     "text": "特朗普：与伊朗的谈判进展极为顺利。我认为我们很快就会和他们达成协议。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3050668",
     "datetime": "2026-03-30T00:19:37+00:00",
-    "views": "61",
+    "views": "91",
     "text": "特朗普：从明日清晨起，将有 20 艘大型油轮经霍尔木兹海峡为我们运送原油。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3050664",
     "datetime": "2026-03-30T00:17:57+00:00",
-    "views": "91",
+    "views": "121",
     "text": "惠誉评级：印尼航空运输面临逆风。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3050663",
     "datetime": "2026-03-30T00:17:38+00:00",
-    "views": "91",
+    "views": "121",
     "text": "世界贸易组织会议主席表示，延长电子商务暂停征税的谈判已超时，将在日内瓦继续进行。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3050660",
     "datetime": "2026-03-30T00:16:18+00:00",
-    "views": "361",
+    "views": "421",
     "text": "斯托克 50 股指期货下跌 1.5%，德国 DAX 股指期货下跌 1.5%，富时股指期货下跌 1.0%。",
     "media_only": false,
     "image_url": null,
@@ -20860,14 +20887,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3048343"
-  },
-  {
-    "post": "Financial_Express/3048342",
-    "datetime": "2026-03-28T00:23:57+00:00",
-    "views": "199",
-    "text": "以军称正打击“整个德黑兰”的伊朗政权目标\n以色列国防军 28 日凌晨发表声明说，以军正打击“整个德黑兰”的伊朗政权目标。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3048342"
   }
 ]
