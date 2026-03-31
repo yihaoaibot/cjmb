@@ -1,8 +1,116 @@
 [
   {
+    "post": "Financial_Express/3055574",
+    "datetime": "2026-03-31T06:02:17+00:00",
+    "views": "1",
+    "text": "德国 2 月实际零售销售年率 0.6%，前值 1.2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3055574"
+  },
+  {
+    "post": "Financial_Express/3055573",
+    "datetime": "2026-03-31T06:01:58+00:00",
+    "views": "2",
+    "text": "联合利华：目前正与味好美公司（McCormick & Company）进行深度谈判，潜在交易涉及 157 亿美元预付现金，大部分对价将以 McCormick 股权形式支付。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3055573"
+  },
+  {
+    "post": "Financial_Express/3055572",
+    "datetime": "2026-03-31T06:01:57+00:00",
+    "views": "2",
+    "text": "德国 2 月出口物价指数年率 -0.1%，前值 0.2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3055572"
+  },
+  {
+    "post": "Financial_Express/3055570",
+    "datetime": "2026-03-31T06:01:40+00:00",
+    "views": "2",
+    "text": "德国 2 月出口物价指数月率 0.1%，前值 0.9%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3055570"
+  },
+  {
+    "post": "Financial_Express/3055571",
+    "datetime": "2026-03-31T06:01:40+00:00",
+    "views": "2",
+    "text": "英国民航管理局（CAA）：监管机构正就希思罗机场（H8）收费监管周期初步方案的区间展开咨询，该方案将把机场收费上限设定为每位乘客 27.20 英镑至 30.50 英镑之间。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3055571"
+  },
+  {
+    "post": "Financial_Express/3055569",
+    "datetime": "2026-03-31T06:01:17+00:00",
+    "views": "2",
+    "text": "中国物流集团等在湖南成立新物流公司 注册资本 2 亿\n新浪财经 3 月 31 日讯，天眼查工商信息显示，近日，中国物流集团湖南有限公司成立，法定代表人为董旭，注册资本 2 亿人民币，经营范围包括道路货物运输、国内货物运输代理、国际货物运输代理、供应链管理服务等。股东信息显示，该公司由中国物流集团有限公司、中国物流股份有限公司、岳阳市城市运营投资集团有限公司、岳阳城陵矶口岸实业有限公司共同持股。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3055569"
+  },
+  {
+    "post": "Financial_Express/3055568",
+    "datetime": "2026-03-31T06:01:00+00:00",
+    "views": "2",
+    "text": "英国 3 月 Nationwide 房价指数月率前值 0.30%预期 -0.1%公布 0.9%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3055568"
+  },
+  {
+    "post": "Financial_Express/3055567",
+    "datetime": "2026-03-31T06:00:26+00:00",
+    "views": "31",
+    "text": "英国第四季度经济环比增长 0.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3055567"
+  },
+  {
+    "post": "Financial_Express/3055564",
+    "datetime": "2026-03-31T06:00:25+00:00",
+    "views": "31",
+    "text": "英国 3 月 Nationwide 房价指数环比 0.9%，预期 0%，前值 0.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3055564"
+  },
+  {
+    "post": "Financial_Express/3055565",
+    "datetime": "2026-03-31T06:00:25+00:00",
+    "views": "31",
+    "text": "英国 3 月 Nationwide 房价指数年率 2.2%，预期 0.8%，前值 1.00%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3055565"
+  },
+  {
+    "post": "Financial_Express/3055566",
+    "datetime": "2026-03-31T06:00:25+00:00",
+    "views": "31",
+    "text": "英国 3 月 Nationwide 房价指数同比 2.2%，预期 0.9%，前值 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3055566"
+  },
+  {
+    "post": "Financial_Express/3055563",
+    "datetime": "2026-03-31T06:00:24+00:00",
+    "views": "31",
+    "text": "德国 2 月实际零售销售月率 -0.6%，预期 0.2%，前值-0.9%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3055563"
+  },
+  {
     "post": "Financial_Express/3055562",
     "datetime": "2026-03-31T06:00:21+00:00",
-    "views": "1",
+    "views": "31",
     "text": "德国 2 月进口物价指数年率 -2.3%，前值-2.30%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +119,7 @@
   {
     "post": "Financial_Express/3055560",
     "datetime": "2026-03-31T06:00:20+00:00",
-    "views": "1",
+    "views": "31",
     "text": "英国第四季度商业投资总值年率终值 2%，预期 2%，前值由 2.00%修正为 3.5%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +128,7 @@
   {
     "post": "Financial_Express/3055561",
     "datetime": "2026-03-31T06:00:20+00:00",
-    "views": "1",
+    "views": "31",
     "text": "德国 2 月进口物价指数月率 0.3%，预期 0.8%，前值 1.10%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +137,7 @@
   {
     "post": "Financial_Express/3055558",
     "datetime": "2026-03-31T06:00:19+00:00",
-    "views": "1",
+    "views": "31",
     "text": "英国第四季度 GDP 季率终值 0.1%，预期 0.1%，前值 0.10%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +146,7 @@
   {
     "post": "Financial_Express/3055559",
     "datetime": "2026-03-31T06:00:19+00:00",
-    "views": "1",
+    "views": "31",
     "text": "英国第四季度商业投资总值季率终值 -2.5%，预期-2.7%，前值由-2.70%修正为 1.1%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +155,7 @@
   {
     "post": "Financial_Express/3055557",
     "datetime": "2026-03-31T06:00:16+00:00",
-    "views": "1",
+    "views": "31",
     "text": "德国 2 月零售销售同比 0.6%，预期 1%，前值 0.7%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +164,7 @@
   {
     "post": "Financial_Express/3055555",
     "datetime": "2026-03-31T06:00:13+00:00",
-    "views": "1",
+    "views": "31",
     "text": "德国 2 月进口价格指数环比 0.3%，预期 0.8%，前值 1.1%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +173,7 @@
   {
     "post": "Financial_Express/3055556",
     "datetime": "2026-03-31T06:00:13+00:00",
-    "views": "1",
+    "views": "31",
     "text": "德国 2 月零售销售环比 -0.6%，预期 0.3%，前值 -0.9%。",
     "media_only": false,
     "image_url": null,
