@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3066086",
+    "datetime": "2026-04-02T20:13:40+00:00",
+    "views": "2",
+    "text": "纳斯达克金龙中国指数收跌 0.34%，报 6750.93 点。\n热门中概股里，腾讯初步收跌 2%，小米、京东、美团、阿里、拼多多至少跌约 1%，理想涨 0.4%，小鹏涨 1.1%，蔚来涨 1.2%。\nETF 中，中国科技指数 ETF（CQQQ）收跌 1.59%，中概互联网指数 ETF（KWEB）收 0.74%。\nXtrackersHarvest 中证 50（ASHS）收跌 0.62%，德银嘉实沪深 300 指数 ETF（ASHR）收跌 0.55%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3066086"
+  },
+  {
     "post": "Financial_Express/3066085",
     "datetime": "2026-04-02T20:12:01+00:00",
-    "views": "1",
+    "views": "2",
     "text": "特斯拉收跌 5.44%，创 2025 年 11 月以来最大单日跌幅。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3066084",
     "datetime": "2026-04-02T20:11:57+00:00",
-    "views": "1",
+    "views": "32",
     "text": "白宫发布针对铝、钢铁及铜产品的关税附件。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3066083",
     "datetime": "2026-04-02T20:10:52+00:00",
-    "views": "3",
+    "views": "33",
     "text": "标普 500 指数收涨 7.37 点，涨幅 1.11%，报 6582.69 点。\n道琼斯工业平均指数收跌 61.07 点，跌幅 0.13%，报 46504.67 点。\n纳斯达克综合指数（纳指）收涨 38.234 点，涨幅 0.18%，报 21879.182 点。\n纳斯达克 100 指数收涨 25.545 点，涨幅 0.11%，报 24045.532 点。\n费城半导体指数收涨 0.40%，报 7833.387 点。\n费城证交所 KBW 银行指数收涨 0.20%，报 156.51 点。\n道琼斯 KBW 地区银行指数收涨 0.09%，报 127.79 点，跳空低开之后，早盘快速收复失地，大部分时间保持微幅下跌状态——持稳于 127.50 点附近。\n纳斯达克生物科技指数收跌 0.37%，报 5852.50 点。",
     "media_only": false,
     "image_url": null,
@@ -173,7 +182,7 @@
   {
     "post": "Financial_Express/3066066",
     "datetime": "2026-04-02T20:01:18+00:00",
-    "views": "61",
+    "views": "91",
     "text": "多伦多股票交易所综合指数收盘涨 150.27 点，涨幅 0.46%，报 33108.22 点。",
     "media_only": false,
     "image_url": null,
@@ -70369,32 +70378,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3058217"
-  },
-  {
-    "post": "Financial_Express/3058216",
-    "datetime": "2026-03-31T20:14:17+00:00",
-    "views": "93",
-    "text": "世界大型企业研究会：美国 3 月消费者通胀预期显著升温\n3 月份消费者对 12 个月以后通胀预期的中位数为 5.2%，显著高于 2 月的 4.5%，与 2025 年 5 月数据持平。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3058216"
-  },
-  {
-    "post": "Financial_Express/3058215",
-    "datetime": "2026-03-31T20:14:02+00:00",
-    "views": "92",
-    "text": "美国 10 年期国债收益率短线从 4.29%下方拉升至 4.32%上方，日内整体跌幅收窄至不足 2.8 个基点，月末、季度末成交量突出。\n30 年期美债收益率从 4.87%附近的日低反抽，转而涨至 4.9213%刷新日高。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3058215"
-  },
-  {
-    "post": "Financial_Express/3058214",
-    "datetime": "2026-03-31T20:13:37+00:00",
-    "views": "88",
-    "text": "据伊朗迈赫尔通讯社：伊朗穆巴拉克钢铁厂在美以空袭中遭到打击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3058214"
   }
 ]
