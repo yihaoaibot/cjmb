@@ -1,5 +1,25 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-04-02T01:00:44.294183+00:00","clsvipUpdated":"2026-04-02T01:00:51.593923+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">4月2日</h2><div class="feed"><article class="item" data-search="台湾证交所加权股价指数开高 0.1%报 33,218.02。"><div class="time">09:00</div><div class="content"><div class="text" data-full="台湾证交所加权股价指数开高 0.1%报 33,218.02。" data-short="台湾证交所加权股价指数开高 0.1%报 33,218.02。">台湾证交所加权股价指数开高 0.1%报 33,218.02。</div></div></article><article class="item" data-search="燃料油连续主力合约日内跌 5%，现报 4018.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="燃料油连续主力合约日内跌 5%，现报 4018.00 元。" data-short="燃料油连续主力合约日内跌 5%，现报 4018.00 元。">燃料油连续主力合约日内跌 5%，现报 4018.00 元。</div></div></article><article class="item" data-search="低硫燃料油连续主力合约日内跌 6%，现报 4728.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="低硫燃料油连续主力合约日内跌 6%，现报 4728.00 元。" data-short="低硫燃料油连续主力合约日内跌 6%，现报 4728.00 元。">低硫燃料油连续主力合约日内跌 6%，现报 4728.00 元。</div></div></article><article class="item" data-search="液化石油气连续主力合约日内跌 4%，现报 6077.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="液化石油气连续主力合约日内跌 4%，现报 6077.00 元。" data-short="液化石油气连续主力合约日内跌 4%，现报 6077.00 元。">液化石油气连续主力合约日内跌 4%，现报 6077.00 元。</div></div></article><article class="item" data-search="集运指数欧线期货连续主力合约日内跌 5%，现报 2072.30 点。"><div class="time">09:00</div><div class="content"><div class="text" data-full="集运指数欧线期货连续主力合约日内跌 5%，现报 2072.30 点。" data-short="集运指数欧线期货连续主力合约日内跌 5%，现报 2072.30 点。">集运指数欧线期货连续主力合约日内跌 5%，现报 2072.30 点。</div></div></article><article class="item" data-search="上海原油连续主力合约日内跌 6%，现报 653.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="上海原油连续主力合约日内跌 6%，现报 653.00 元。" data-short="上海原油连续主力合约日内跌 6%，现报 653.00 元。">上海原油连续主力合约日内跌 6%，现报 653.00 元。</div></div></article><article class="item" data-search="富时中国 a50 指数期货开盘上涨 0.13%。"><div class="time">09:00</div><div class="content"><div class="text" data-full="富时中国 A50 指数期货开盘上涨 0.13%。" data-short="富时中国 A50 指数期货开盘上涨 0.13%。">富时中国 A50 指数期货开盘上涨 0.13%。</div></div></article><article class="item" data-search="商品期货开盘
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-04-02T01:02:39.620209+00:00","clsvipUpdated":"2026-04-02T01:02:47.161914+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">4月2日</h2><div class="feed"><article class="item" data-search="瑞银策略师表示，即使日本官员加大口头干预，日元跌势预计仍将持续，并称如果石油供应持续受阻，日元兑美元汇率年底前可能贬至 175 水平。其表示，如果油价升向每桶 150 美元，“通过干预汇率来压低通胀，可能反而为市场提供了逢高抛售日元的机会，结果消耗了外汇储备，但未必能改变日元贬值趋势。”"><div class="time">09:02</div><div class="content"><div class="text" data-full="瑞银策略师表示，即使日本官员加大口头干预，日元跌势预计仍将持续，并称如果石油供应持续受阻，日元兑美元汇率年底前可能贬至 175 水平。其表示，如果油价升向每桶 150 美元，“通过干预汇率来压低通胀，可能反而为市场提供了逢高抛售日元的机会，结果消耗了外汇储备，但未必能改变日元贬值趋势。”" data-short="瑞银策略师表示，即使日本官员加大口头干预，日元跌势预计仍将持续，并称如果石油供应持续受阻，日元兑美元汇率年底前可能贬至 175 水平。其表示，如果油价升向每桶 150 美元，“通过干预汇率来压低通胀，可能反而为市场提供了逢高抛售日元的机会，结果消耗了外汇储备，但未必能改变日元贬值趋势。”">瑞银策略师表示，即使日本官员加大口头干预，日元跌势预计仍将持续，并称如果石油供应持续受阻，日元兑美元汇率年底前可能贬至 175 水平。其表示，如果油价升向每桶 150 美元，“通过干预汇率来压低通胀，可能反而为市场提供了逢高抛售日元的机会，结果消耗了外汇储备，但未必能改变日元贬值趋势。”</div></div></article><article class="item" data-search="美国总统特朗普开始就伊朗问题发表讲话。"><div class="time">09:02</div><div class="content"><div class="text" data-full="美国总统特朗普开始就伊朗问题发表讲话。" data-short="美国总统特朗普开始就伊朗问题发表讲话。">美国总统特朗普开始就伊朗问题发表讲话。</div></div></article><article class="item" data-search="东利机械：目前公司产品没有涉及二轮摩托车领域
+东利机械(301298)4 月 2 日在互动平台表示，目前公司产品没有涉及二轮摩托车领域，但是公司生产线比较灵活，只要产品加工性能适合公司，公司都可以生产。"><div class="time">09:01</div><div class="content"><div class="text" data-full="东利机械：目前公司产品没有涉及二轮摩托车领域
+东利机械(301298)4 月 2 日在互动平台表示，目前公司产品没有涉及二轮摩托车领域，但是公司生产线比较灵活，只要产品加工性能适合公司，公司都可以生产。" data-short="东利机械：目前公司产品没有涉及二轮摩托车领域
+东利机械(301298)4 月 2 日在互动平台表示，目前公司产品没有涉及二轮摩托车领域，但是公司生产线比较灵活，只要产品加工性能适合公司，公司都可以生产。">东利机械：目前公司产品没有涉及二轮摩托车领域
+东利机械(301298)4 月 2 日在互动平台表示，目前公司产品没有涉及二轮摩托车领域，但是公司生产线比较灵活，只要产品加工性能适合公司，公司都可以生产。</div></div></article><article class="item" data-search="新加坡海峡时报指数开盘上涨 0.7%，至 5010.57 点。马来西亚吉隆坡综合指数开盘上涨 0.2%，至 1712.04 点。"><div class="time">09:01</div><div class="content"><div class="text" data-full="新加坡海峡时报指数开盘上涨 0.7%，至 5010.57 点。马来西亚吉隆坡综合指数开盘上涨 0.2%，至 1712.04 点。" data-short="新加坡海峡时报指数开盘上涨 0.7%，至 5010.57 点。马来西亚吉隆坡综合指数开盘上涨 0.2%，至 1712.04 点。">新加坡海峡时报指数开盘上涨 0.7%，至 5010.57 点。马来西亚吉隆坡综合指数开盘上涨 0.2%，至 1712.04 点。</div></div></article><article class="item" data-search="国药控股等在北京成立供应链公司 注册资本 28 亿元
+企查查 app 显示，近日，国药（北京）供应链有限公司成立，注册资本 28 亿元，经营范围包含：供应链管理服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广。企查查股权穿透显示，该公司由国药控股等共同持股。"><div class="time">09:01</div><div class="content"><div class="text" data-full="国药控股等在北京成立供应链公司 注册资本 28 亿元
+企查查 APP 显示，近日，国药（北京）供应链有限公司成立，注册资本 28 亿元，经营范围包含：供应链管理服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广。企查查股权穿透显示，该公司由国药控股等共同持股。" data-short="国药控股等在北京成立供应链公司 注册资本 28 亿元
+企查查 APP 显示，近日，国药（北京）供应链有限公司成立，注册资本 28 亿元，经营范围包含：供应链管理服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广。企查查股权穿透显示，该公司由国药控股等共同持股。">国药控股等在北京成立供应链公司 注册资本 28 亿元
+企查查 APP 显示，近日，国药（北京）供应链有限公司成立，注册资本 28 亿元，经营范围包含：供应链管理服务；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广。企查查股权穿透显示，该公司由国药控股等共同持股。</div></div></article><article class="item" data-search="德银：下调多家欧洲奢侈品公司目标价，中东冲突冲击销售前景
+德意志银行下调多家欧洲奢侈品公司的目标价，该板块今年迄今已下跌 15%-25%，中东冲突冲击本已疲软的第一季度销售前景。其中，该行对 lvmh 的目标价降幅最大，从 705 欧元降至 620 欧元，仍维持“买入”评级；爱马仕的目标价从 2,360 欧元下调至 2,320 欧元，维持“买入”评级；burberry 的目标价从 1,550 便士下调至 1,480 便士，同样维持“买入”评级；moncler 的目标价从 57 欧元下调至 55 欧元，开云集团的目标价从 295 欧元下调至 290 欧元，两者均维持“持有”评级。"><div class="time">09:01</div><div class="content"><div class="text" data-full="德银：下调多家欧洲奢侈品公司目标价，中东冲突冲击销售前景
+德意志银行下调多家欧洲奢侈品公司的目标价，该板块今年迄今已下跌 15%-25%，中东冲突冲击本已疲软的第一季度销售前景。其中，该行对 LVMH 的目标价降幅最大，从 705 欧元降至 620 欧元，仍维持“买入”评级；爱马仕的目标价从 2,360 欧元下调至 2,320 欧元，维持“买入”评级；Burberry 的目标价从 1,550 便士下调至 1,480 便士，同样维持“买入”评级；Moncler 的目标价从 57 欧元下调至 55 欧元，开云集团的目标价从 295 欧元下调至 290 欧元，两者均维持“持有”评级。" data-short="德银：下调多家欧洲奢侈品公司目标价，中东冲突冲击销售前景
+德意志银行下调多家欧洲奢侈品公司的目标价，该板块今年迄今已下跌 15%-25%，中东冲突冲击本已疲软的第一季度销售前景。其中，该行对 LVMH 的目标价降幅最大，从 705 欧元降至 620 欧元，仍维持“买入”评级；爱马仕的目标价从 2,360 欧元下调至 2,320 欧元，维持“买入”评级；Bur...">德银：下调多家欧洲奢侈品公司目标价，中东冲突冲击销售前景
+德意志银行下调多家欧洲奢侈品公司的目标价，该板块今年迄今已下跌 15%-25%，中东冲突冲击本已疲软的第一季度销售前景。其中，该行对 LVMH 的目标价降幅最大，从 705 欧元降至 620 欧元，仍维持“买入”评级；爱马仕的目标价从 2,360 欧元下调至 2,320 欧元，维持“买入”评级；Bur...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="沥青连续主力合约日内跌 4%，现报 4254.00 元。"><div class="time">09:01</div><div class="content"><div class="text" data-full="沥青连续主力合约日内跌 4%，现报 4254.00 元。" data-short="沥青连续主力合约日内跌 4%，现报 4254.00 元。">沥青连续主力合约日内跌 4%，现报 4254.00 元。</div></div></article><article class="item" data-search="特朗普预告全国讲话内容
+记者当地时间 4 月 1 日获悉，美国总统特朗普当天在白宫午宴上发表讲话时，简要预告其稍后将发表的全国讲话内容。特朗普表示：“今晚九点，我将发表一个简短的演讲。基本上，我打算告诉大家我做得有多出色。”当日早些时候，一位白宫官员表示，特朗普计划在讲话中通报与伊朗战事进展的“最新行动情况”。特朗普还在讲话中提到，副总统万斯正致力于与伊朗谈判达成一项协议。(央视新闻)"><div class="time">09:01</div><div class="content"><div class="text" data-full="特朗普预告全国讲话内容
+记者当地时间 4 月 1 日获悉，美国总统特朗普当天在白宫午宴上发表讲话时，简要预告其稍后将发表的全国讲话内容。特朗普表示：“今晚九点，我将发表一个简短的演讲。基本上，我打算告诉大家我做得有多出色。”当日早些时候，一位白宫官员表示，特朗普计划在讲话中通报与伊朗战事进展的“最新行动情况”。特朗普还在讲话中提到，副总统万斯正致力于与伊朗谈判达成一项协议。(央视新闻)" data-short="特朗普预告全国讲话内容
+记者当地时间 4 月 1 日获悉，美国总统特朗普当天在白宫午宴上发表讲话时，简要预告其稍后将发表的全国讲话内容。特朗普表示：“今晚九点，我将发表一个简短的演讲。基本上，我打算告诉大家我做得有多出色。”当日早些时候，一位白宫官员表示，特朗普计划在讲话中通报与伊朗战事进展的“最新行动情况”。特朗普还在讲话中提到，副总统万斯正致力于与伊朗谈...">特朗普预告全国讲话内容
+记者当地时间 4 月 1 日获悉，美国总统特朗普当天在白宫午宴上发表讲话时，简要预告其稍后将发表的全国讲话内容。特朗普表示：“今晚九点，我将发表一个简短的演讲。基本上，我打算告诉大家我做得有多出色。”当日早些时候，一位白宫官员表示，特朗普计划在讲话中通报与伊朗战事进展的“最新行动情况”。特朗普还在讲话中提到，副总统万斯正致力于与伊朗谈...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="富时中国 a50 指数期货盘初涨 0.07%，上一个交易日夜盘收涨 0.00%。"><div class="time">09:01</div><div class="content"><div class="text" data-full="富时中国 A50 指数期货盘初涨 0.07%，上一个交易日夜盘收涨 0.00%。" data-short="富时中国 A50 指数期货盘初涨 0.07%，上一个交易日夜盘收涨 0.00%。">富时中国 A50 指数期货盘初涨 0.07%，上一个交易日夜盘收涨 0.00%。</div></div></article><article class="item" data-search="瑞银：若石油供应持续受阻 日元兑美元年底前可能贬至 175
+瑞银策略师表示，即使日本官员加大口头干预，日元跌势预计仍将持续，并称如果石油供应持续受阻，日元兑美元汇率年底前可能贬至 175 水平。shahab jalinoos 等策略师在周三发布的报告中指出，如果油价升向每桶 150 美元，“通过干预汇率来压低通胀，可能反而为市场提供了逢高抛售日元的机会，结果消耗了外汇储备，但未必能改变日元贬值趋势。”他们补充称，抑制通胀或更多依赖财政手段，例如能源补贴。在这种情况下，市场可能得出结论：在全球滞胀环境下，日本决策者并无意遏制日元贬值，相应的冲击将推动美元/日元大幅走高。"><div class="time">09:00</div><div class="content"><div class="text" data-full="瑞银：若石油供应持续受阻 日元兑美元年底前可能贬至 175
+瑞银策略师表示，即使日本官员加大口头干预，日元跌势预计仍将持续，并称如果石油供应持续受阻，日元兑美元汇率年底前可能贬至 175 水平。Shahab Jalinoos 等策略师在周三发布的报告中指出，如果油价升向每桶 150 美元，“通过干预汇率来压低通胀，可能反而为市场提供了逢高抛售日元的机会，结果消耗了外汇储备，但未必能改变日元贬值趋势。”他们补充称，抑制通胀或更多依赖财政手段，例如能源补贴。在这种情况下，市场可能得出结论：在全球滞胀环境下，日本决策者并无意遏制日元贬值，相应的冲击将推动美元/日元大幅走高。" data-short="瑞银：若石油供应持续受阻 日元兑美元年底前可能贬至 175
+瑞银策略师表示，即使日本官员加大口头干预，日元跌势预计仍将持续，并称如果石油供应持续受阻，日元兑美元汇率年底前可能贬至 175 水平。Shahab Jalinoos 等策略师在周三发布的报告中指出，如果油价升向每桶 150 美元，“通过干预汇率来压低通胀，可能反而为市场提供了逢高抛售日元的机会，结果...">瑞银：若石油供应持续受阻 日元兑美元年底前可能贬至 175
+瑞银策略师表示，即使日本官员加大口头干预，日元跌势预计仍将持续，并称如果石油供应持续受阻，日元兑美元汇率年底前可能贬至 175 水平。Shahab Jalinoos 等策略师在周三发布的报告中指出，如果油价升向每桶 150 美元，“通过干预汇率来压低通胀，可能反而为市场提供了逢高抛售日元的机会，结果...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="台湾证交所加权股价指数开高 0.1%报 33,218.02。"><div class="time">09:00</div><div class="content"><div class="text" data-full="台湾证交所加权股价指数开高 0.1%报 33,218.02。" data-short="台湾证交所加权股价指数开高 0.1%报 33,218.02。">台湾证交所加权股价指数开高 0.1%报 33,218.02。</div></div></article><article class="item" data-search="燃料油连续主力合约日内跌 5%，现报 4018.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="燃料油连续主力合约日内跌 5%，现报 4018.00 元。" data-short="燃料油连续主力合约日内跌 5%，现报 4018.00 元。">燃料油连续主力合约日内跌 5%，现报 4018.00 元。</div></div></article><article class="item" data-search="低硫燃料油连续主力合约日内跌 6%，现报 4728.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="低硫燃料油连续主力合约日内跌 6%，现报 4728.00 元。" data-short="低硫燃料油连续主力合约日内跌 6%，现报 4728.00 元。">低硫燃料油连续主力合约日内跌 6%，现报 4728.00 元。</div></div></article><article class="item" data-search="液化石油气连续主力合约日内跌 4%，现报 6077.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="液化石油气连续主力合约日内跌 4%，现报 6077.00 元。" data-short="液化石油气连续主力合约日内跌 4%，现报 6077.00 元。">液化石油气连续主力合约日内跌 4%，现报 6077.00 元。</div></div></article><article class="item" data-search="集运指数欧线期货连续主力合约日内跌 5%，现报 2072.30 点。"><div class="time">09:00</div><div class="content"><div class="text" data-full="集运指数欧线期货连续主力合约日内跌 5%，现报 2072.30 点。" data-short="集运指数欧线期货连续主力合约日内跌 5%，现报 2072.30 点。">集运指数欧线期货连续主力合约日内跌 5%，现报 2072.30 点。</div></div></article><article class="item" data-search="上海原油连续主力合约日内跌 6%，现报 653.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="上海原油连续主力合约日内跌 6%，现报 653.00 元。" data-short="上海原油连续主力合约日内跌 6%，现报 653.00 元。">上海原油连续主力合约日内跌 6%，现报 653.00 元。</div></div></article><article class="item" data-search="富时中国 a50 指数期货开盘上涨 0.13%。"><div class="time">09:00</div><div class="content"><div class="text" data-full="富时中国 A50 指数期货开盘上涨 0.13%。" data-short="富时中国 A50 指数期货开盘上涨 0.13%。">富时中国 A50 指数期货开盘上涨 0.13%。</div></div></article><article class="item" data-search="商品期货开盘
 上海原油连续跌 6.04%，集运指数欧线期货连续跌 5.97%，低硫燃料油连续跌 5.92%，乙二醇连续跌 5.39%，丁二烯橡胶连续跌 4.53%。"><div class="time">09:00</div><div class="content"><div class="text" data-full="商品期货开盘
 上海原油连续跌 6.04%，集运指数欧线期货连续跌 5.97%，低硫燃料油连续跌 5.92%，乙二醇连续跌 5.39%，丁二烯橡胶连续跌 4.53%。" data-short="商品期货开盘
 上海原油连续跌 6.04%，集运指数欧线期货连续跌 5.97%，低硫燃料油连续跌 5.92%，乙二醇连续跌 5.39%，丁二烯橡胶连续跌 4.53%。">商品期货开盘
@@ -677,31 +697,134 @@ Choice 数据显示：截至 4 月 1 日 19 时，在已披露 2025 年业绩的
 当地时间 4 月 1 日，伊朗方面消息人士表示，伊朗要求与美国之间的停火谈判，必须以确保战争永久结束为前提。消息人士还表示，斡旋方已于 3 月 31 日与伊朗方面进行接触，就继续推进外交对话交换意见。但截至目前，美国与伊朗尚未通过斡旋方正式启动停火谈判。（央视新闻）"><div class="time">05:56</div><div class="content"><div class="text" data-full="消息人士称伊朗要求停火谈判必须以永久结束战争为前提
 当地时间 4 月 1 日，伊朗方面消息人士表示，伊朗要求与美国之间的停火谈判，必须以确保战争永久结束为前提。消息人士还表示，斡旋方已于 3 月 31 日与伊朗方面进行接触，就继续推进外交对话交换意见。但截至目前，美国与伊朗尚未通过斡旋方正式启动停火谈判。（央视新闻）" data-short="消息人士称伊朗要求停火谈判必须以永久结束战争为前提
 当地时间 4 月 1 日，伊朗方面消息人士表示，伊朗要求与美国之间的停火谈判，必须以确保战争永久结束为前提。消息人士还表示，斡旋方已于 3 月 31 日与伊朗方面进行接触，就继续推进外交对话交换意见。但截至目前，美国与伊朗尚未通过斡旋方正式启动停火谈判。（央视新闻）">消息人士称伊朗要求停火谈判必须以永久结束战争为前提
-当地时间 4 月 1 日，伊朗方面消息人士表示，伊朗要求与美国之间的停火谈判，必须以确保战争永久结束为前提。消息人士还表示，斡旋方已于 3 月 31 日与伊朗方面进行接触，就继续推进外交对话交换意见。但截至目前，美国与伊朗尚未通过斡旋方正式启动停火谈判。（央视新闻）</div></div></article><article class="item" data-search="新西兰总理 christopher luxon：能源安全将是今年的主要议题。"><div class="time">05:50</div><div class="content"><div class="text" data-full="新西兰总理 Christopher Luxon：能源安全将是今年的主要议题。" data-short="新西兰总理 Christopher Luxon：能源安全将是今年的主要议题。">新西兰总理 Christopher Luxon：能源安全将是今年的主要议题。</div></div></article><article class="item" data-search="美国最大汽油管道自周二起停运。"><div class="time">05:46</div><div class="content"><div class="text" data-full="美国最大汽油管道自周二起停运。" data-short="美国最大汽油管道自周二起停运。">美国最大汽油管道自周二起停运。</div></div></article><article class="item" data-search="4 月 1 日获悉，有美国官员透露，多家美国情报机构近日评估认为，伊朗政府目前无意参与旨在结束美伊战争的实质性谈判。这些官员表示，相关评估报告指出，伊朗政府认为自己在战争中处于有利地位，因此无需接受美国提出的外交要求。官员们还称，尽管伊朗愿意保持沟通渠道畅通，但该国并不信任美国，也不认为美国总统特朗普在谈判问题上是认真的。"><div class="time">05:43</div><div class="content"><div class="text" data-full="4 月 1 日获悉，有美国官员透露，多家美国情报机构近日评估认为，伊朗政府目前无意参与旨在结束美伊战争的实质性谈判。这些官员表示，相关评估报告指出，伊朗政府认为自己在战争中处于有利地位，因此无需接受美国提出的外交要求。官员们还称，尽管伊朗愿意保持沟通渠道畅通，但该国并不信任美国，也不认为美国总统特朗普在谈判问题上是认真的。" data-short="4 月 1 日获悉，有美国官员透露，多家美国情报机构近日评估认为，伊朗政府目前无意参与旨在结束美伊战争的实质性谈判。这些官员表示，相关评估报告指出，伊朗政府认为自己在战争中处于有利地位，因此无需接受美国提出的外交要求。官员们还称，尽管伊朗愿意保持沟通渠道畅通，但该国并不信任美国，也不认为美国总统特朗普在谈判问题上是认真的。">4 月 1 日获悉，有美国官员透露，多家美国情报机构近日评估认为，伊朗政府目前无意参与旨在结束美伊战争的实质性谈判。这些官员表示，相关评估报告指出，伊朗政府认为自己在战争中处于有利地位，因此无需接受美国提出的外交要求。官员们还称，尽管伊朗愿意保持沟通渠道畅通，但该国并不信任美国，也不认为美国总统特朗普在谈判问题上是认真的。</div></div></article><article class="item" data-search="标普 500 指数收涨 46.80 点，涨幅 0.72%，报 6575.32 点。
-道琼斯工业平均指数收涨 224.23 点，涨幅 0.48%，报 46565.74 点。
-纳斯达克综合指数（纳指）收涨 250.319 点，涨幅 1.16%，报 21840.947 点。
-纳斯达克 100 指数收涨 279.799 点，涨幅 1.18%，报 24019.988 点。"><div class="time">05:42</div><div class="content"><div class="text" data-full="标普 500 指数收涨 46.80 点，涨幅 0.72%，报 6575.32 点。
-道琼斯工业平均指数收涨 224.23 点，涨幅 0.48%，报 46565.74 点。
-纳斯达克综合指数（纳指）收涨 250.319 点，涨幅 1.16%，报 21840.947 点。
-纳斯达克 100 指数收涨 279.799 点，涨幅 1.18%，报 24019.988 点。" data-short="标普 500 指数收涨 46.80 点，涨幅 0.72%，报 6575.32 点。
-道琼斯工业平均指数收涨 224.23 点，涨幅 0.48%，报 46565.74 点。
-纳斯达克综合指数（纳指）收涨 250.319 点，涨幅 1.16%，报 21840.947 点。
-纳斯达克 100 指数收涨 279.799 点，涨幅 1.18%，报 24019.988...">标普 500 指数收涨 46.80 点，涨幅 0.72%，报 6575.32 点。
-道琼斯工业平均指数收涨 224.23 点，涨幅 0.48%，报 46565.74 点。
-纳斯达克综合指数（纳指）收涨 250.319 点，涨幅 1.16%，报 21840.947 点。
-纳斯达克 100 指数收涨 279.799 点，涨幅 1.18%，报 24019.988...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="美情报机构：伊朗目前无意参与实质性谈判
-当地时间 4 月 1 日，有美国官员透露，多家美国情报机构近日评估认为，伊朗政府目前无意参与旨在结束美伊战争的实质性谈判。这些官员表示，相关评估报告指出，伊朗政府认为自己在战争中处于有利地位，因此无需接受美国提出的外交要求。官员们还称，尽管伊朗愿意保持沟通渠道畅通，但该国并不信任美国，也不认为美国总统特朗普在谈判问题上是认真的。在过去的一年里，特朗普曾两次下令对伊朗发动袭击，而当时双方正就伊朗核计划问题进行谈判。上述评估结果与伊朗官员近期的表态相吻合，伊朗官员驳斥了特朗普的说法，即双方在其他国家斡旋下的讨论中正取得进展。（央视新闻）"><div class="time">05:41</div><div class="content"><div class="text" data-full="美情报机构：伊朗目前无意参与实质性谈判
-当地时间 4 月 1 日，有美国官员透露，多家美国情报机构近日评估认为，伊朗政府目前无意参与旨在结束美伊战争的实质性谈判。这些官员表示，相关评估报告指出，伊朗政府认为自己在战争中处于有利地位，因此无需接受美国提出的外交要求。官员们还称，尽管伊朗愿意保持沟通渠道畅通，但该国并不信任美国，也不认为美国总统特朗普在谈判问题上是认真的。在过去的一年里，特朗普曾两次下令对伊朗发动袭击，而当时双方正就伊朗核计划问题进行谈判。上述评估结果与伊朗官员近期的表态相吻合，伊朗官员驳斥了特朗普的说法，即双方在其他国家斡旋下的讨论中正取得进展。（央视新闻）" data-short="美情报机构：伊朗目前无意参与实质性谈判
-当地时间 4 月 1 日，有美国官员透露，多家美国情报机构近日评估认为，伊朗政府目前无意参与旨在结束美伊战争的实质性谈判。这些官员表示，相关评估报告指出，伊朗政府认为自己在战争中处于有利地位，因此无需接受美国提出的外交要求。官员们还称，尽管伊朗愿意保持沟通渠道畅通，但该国并不信任美国，也不认为美国总统特朗普在谈判问题上...">美情报机构：伊朗目前无意参与实质性谈判
-当地时间 4 月 1 日，有美国官员透露，多家美国情报机构近日评估认为，伊朗政府目前无意参与旨在结束美伊战争的实质性谈判。这些官员表示，相关评估报告指出，伊朗政府认为自己在战争中处于有利地位，因此无需接受美国提出的外交要求。官员们还称，尽管伊朗愿意保持沟通渠道畅通，但该国并不信任美国，也不认为美国总统特朗普在谈判问题上...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="伊朗高级消息人士：德黑兰要求有保障的永久停火，以彻底结束战争。中间方于周二与伊朗取得联系，相关讨论围绕继续开展外交斡旋展开。尚未通过中间方就临时停火进行任何谈判。"><div class="time">05:40</div><div class="content"><div class="text" data-full="伊朗高级消息人士：德黑兰要求有保障的永久停火，以彻底结束战争。中间方于周二与伊朗取得联系，相关讨论围绕继续开展外交斡旋展开。尚未通过中间方就临时停火进行任何谈判。" data-short="伊朗高级消息人士：德黑兰要求有保障的永久停火，以彻底结束战争。中间方于周二与伊朗取得联系，相关讨论围绕继续开展外交斡旋展开。尚未通过中间方就临时停火进行任何谈判。">伊朗高级消息人士：德黑兰要求有保障的永久停火，以彻底结束战争。中间方于周二与伊朗取得联系，相关讨论围绕继续开展外交斡旋展开。尚未通过中间方就临时停火进行任何谈判。</div></div></article><article class="item" data-search="伊朗高级消息人士：周二，中间方与伊朗取得联系，双方讨论的主题是继续推进外交进程。"><div class="time">05:39</div><div class="content"><div class="text" data-full="伊朗高级消息人士：周二，中间方与伊朗取得联系，双方讨论的主题是继续推进外交进程。" data-short="伊朗高级消息人士：周二，中间方与伊朗取得联系，双方讨论的主题是继续推进外交进程。">伊朗高级消息人士：周二，中间方与伊朗取得联系，双方讨论的主题是继续推进外交进程。</div></div></article><article class="item" data-search="美国情报机构：伊朗目前无意进行实质性谈判，认为特朗普缺乏诚意
-金十数据 4 月 2 日讯，据纽约时报报道，美国官员透露，多个美国情报机构近日评估认为，伊朗政府目前不愿就结束美以战争展开实质性谈判。官员们表示，评估认为伊朗政府自认为在战争中处于强势地位，不必屈从于美国的外交要求。他们称，尽管伊朗愿意保持沟通渠道畅通，但该国不信任美国，并认为特朗普总统对谈判并非真心实意。过去一年中，特朗普曾两次在与伊朗就核计划进行谈判期间下令对该国发动袭击。这些评估与伊朗官员近期的表态一致。美国和伊朗官员表示，两国正通过中间国家，或许也通过直接渠道，相互传递信息，但并未就停火或结束战争的条件进行谈判。"><div class="time">05:38</div><div class="content"><div class="text" data-full="美国情报机构：伊朗目前无意进行实质性谈判，认为特朗普缺乏诚意
-金十数据 4 月 2 日讯，据纽约时报报道，美国官员透露，多个美国情报机构近日评估认为，伊朗政府目前不愿就结束美以战争展开实质性谈判。官员们表示，评估认为伊朗政府自认为在战争中处于强势地位，不必屈从于美国的外交要求。他们称，尽管伊朗愿意保持沟通渠道畅通，但该国不信任美国，并认为特朗普总统对谈判并非真心实意。过去一年中，特朗普曾两次在与伊朗就核计划进行谈判期间下令对该国发动袭击。这些评估与伊朗官员近期的表态一致。美国和伊朗官员表示，两国正通过中间国家，或许也通过直接渠道，相互传递信息，但并未就停火或结束战争的条件进行谈判。" data-short="美国情报机构：伊朗目前无意进行实质性谈判，认为特朗普缺乏诚意
-金十数据 4 月 2 日讯，据纽约时报报道，美国官员透露，多个美国情报机构近日评估认为，伊朗政府目前不愿就结束美以战争展开实质性谈判。官员们表示，评估认为伊朗政府自认为在战争中处于强势地位，不必屈从于美国的外交要求。他们称，尽管伊朗愿意保持沟通渠道畅通，但该国不信任美国，并认为特朗普总统对谈判并非...">美国情报机构：伊朗目前无意进行实质性谈判，认为特朗普缺乏诚意
-金十数据 4 月 2 日讯，据纽约时报报道，美国官员透露，多个美国情报机构近日评估认为，伊朗政府目前不愿就结束美以战争展开实质性谈判。官员们表示，评估认为伊朗政府自认为在战争中处于强势地位，不必屈从于美国的外交要求。他们称，尽管伊朗愿意保持沟通渠道畅通，但该国不信任美国，并认为特朗普总统对谈判并非...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="据叙利亚国家通讯社：叙利亚石油公司宣布，首批伊拉克燃料油已抵达巴尼亚斯炼油厂，为出口至全球市场做准备。"><div class="time">05:38</div><div class="content"><div class="text" data-full="据叙利亚国家通讯社：叙利亚石油公司宣布，首批伊拉克燃料油已抵达巴尼亚斯炼油厂，为出口至全球市场做准备。" data-short="据叙利亚国家通讯社：叙利亚石油公司宣布，首批伊拉克燃料油已抵达巴尼亚斯炼油厂，为出口至全球市场做准备。">据叙利亚国家通讯社：叙利亚石油公司宣布，首批伊拉克燃料油已抵达巴尼亚斯炼油厂，为出口至全球市场做准备。</div></div></article><article class="item" data-search="叙利亚国家通讯社：叙利亚石油公司宣布，首批伊拉克燃料油运抵巴尼亚斯炼油厂，为出口全球市场做准备。"><div class="time">05:37</div><div class="content"><div class="text" data-full="叙利亚国家通讯社：叙利亚石油公司宣布，首批伊拉克燃料油运抵巴尼亚斯炼油厂，为出口全球市场做准备。" data-short="叙利亚国家通讯社：叙利亚石油公司宣布，首批伊拉克燃料油运抵巴尼亚斯炼油厂，为出口全球市场做准备。">叙利亚国家通讯社：叙利亚石油公司宣布，首批伊拉克燃料油运抵巴尼亚斯炼油厂，为出口全球市场做准备。</div></div></article><article class="item" data-search="伊朗外交部发言人：伊朗已做好应对任何攻击的准备
-当地时间 4 月 1 日，伊朗外交部发言人巴加埃表示，伊朗已做好应对任何形式攻击的准备，包括地面进攻。巴加埃称，对伊朗而言，首要任务是捍卫国家免受侵略。伊朗武装部队和人民已为各种情况做好准备，并将对任何来袭作出回应，使敌人付出代价。巴加埃还表示，伊朗已通过包括巴基斯坦在内的第三方收到美国方面的信息，但并未与美国进行直接谈判。他还指出，美国方面提出的要求“过分且不合理”。（央视新闻）"><div class="time">05:37</div><div class="content"><div class="text" data-full="伊朗外交部发言人：伊朗已做好应对任何攻击的准备
-当地时间 4 月 1 日，伊朗外交部发言人巴加埃表示，伊朗已做好应对任何形式攻击的准备，包括地面进攻。巴加埃称，对伊朗而言，首要任务是捍卫国家免受侵略。伊朗武装部队和人民已为各种情况做好准备，并将对任何来袭作出回应，使敌人付出代价。巴加埃还表示，伊朗已通过包括巴基斯坦在内的第三方收到美国方面的信息，但并未与美国进行直接谈判。他还指出，美国方面提出的要求“过分且不合理”。（央视新闻）" data-short="伊朗外交部发言人：伊朗已做好应对任何攻击的准备
-当地时间 4 月 1 日，伊朗外交部发言人巴加埃表示，伊朗已做好应对任何形式攻击的准备，包括地面进攻。巴加埃称，对伊朗而言，首要任务是捍卫国家免受侵略。伊朗武装部队和人民已为各种情况做好准备，并将对任何来袭作出回应，使敌人付出代价。巴加埃还表示，伊朗已通过包括巴基斯坦在内的第三方收到美国方面的信息，但并未与美国...">伊朗外交部发言人：伊朗已做好应对任何攻击的准备
-当地时间 4 月 1 日，伊朗外交部发言人巴加埃表示，伊朗已做好应对任何形式攻击的准备，包括地面进攻。巴加埃称，对伊朗而言，首要任务是捍卫国家免受侵略。伊朗武装部队和人民已为各种情况做好准备，并将对任何来袭作出回应，使敌人付出代价。巴加埃还表示，伊朗已通过包括巴基斯坦在内的第三方收到美国方面的信息，但并未与美国...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">4月2日 · VIP</h2> <div class="feed"> <article class="item" data-search="【点金互动易】创新药+抗癌药，这家公司自研多个一类新药平台，核心产品对标主流药物更具疗效优势，且拥有高壁垒的高血压细分赛道放量预期
+当地时间 4 月 1 日，伊朗方面消息人士表示，伊朗要求与美国之间的停火谈判，必须以确保战争永久结束为前提。消息人士还表示，斡旋方已于 3 月 31 日与伊朗方面进行接触，就继续推进外交对话交换意见。但截至目前，美国与伊朗尚未通过斡旋方正式启动停火谈判。（央视新闻）</div></div></article><article class="item" data-search="新西兰总理 christopher luxon：能源安全将是今年的主要议题。"><div class="time">05:50</div><div class="content"><div class="text" data-full="新西兰总理 Christopher Luxon：能源安全将是今年的主要议题。" data-short="新西兰总理 Christopher Luxon：能源安全将是今年的主要议题。">新西兰总理 Christopher Luxon：能源安全将是今年的主要议题。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">4月2日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">09:02</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="频道收费项目：频道vip
+
+包括内容：
+
+红宝书
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大v收费群盘中消息同步：
+
+vip资讯
+环球资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+大成路旁的大成
+妖股刺客
+
+麦芽糖
+新生代龙头玩家
+邢者狩猎营
+g界孙悟空
+大师兄擒妖
+超级感悟
+浮光
+攀高
+天赢居
+
+源深路
+布莱德雷
+清北游资
+时冲
+主升真经
+天机短线
+爱尔兰画眉
+浅吸掘金
+震哥
+
+红旗大街发哥
+游资胖大叔
+大周先生
+姆爷
+付鹏
+游资混江龙
+徐小明
+老章
+天地同力
+
+大马路
+只做龙头
+诗诗复利游
+情绪流作手c神
+涨红阳
+a股通天宗
+上班族波段
+洛飞
+
+先知
+愿雨稠
+林荫大道
+超短小纯洁
+上海老梁
+贝贝后花园
+核心九儿
+趋势moo
+逻辑a哥
+
+生如夏花
+复盘哥
+鑫多多
+趋势和价值老李
+大将潘凤
+滴烛复盘的壮汉
+奶爸只做核心
+浮光知顶底
+
+借势而为
+来去由心
+苏三
+嗅嗅掘金
+钱塘李逍遥
+k神会
+向班长
+一线天渔哥
+林秘密
+
+费用：100元/月"> <div class="time">09:02</div> <div class="content"> <div class="text">频道收费项目：频道VIP
+
+包括内容：
+
+红宝书
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大V收费群盘中消息同步：
+
+VIP资讯
+环球资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+大成路旁的大成
+妖股刺客
+
+麦芽糖
+新生代龙头玩家
+邢者狩猎营
+G界孙悟空
+大师兄擒妖
+超级感悟...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【电报解读】卫星通信运营商globalstar美股盘后涨一度大涨24%，报道称亚马逊洽谈收购该公司，手机直连是卫星互联网迈向通用市场的核心方式，这家公司的客户已从国内拓展至国际
+
+#海格通信
+#上海瀚讯
+#华力创通"> <div class="time">09:01</div> <div class="content"> <div class="text">【电报解读】卫星通信运营商GlobalStar美股盘后涨一度大涨24%，报道称亚马逊洽谈收购该公司，手机直连是卫星互联网迈向通用市场的核心方式，这家公司的客户已从国内拓展至国际
+
+#海格通信
+#上海瀚讯
+#华力创通</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">09:01</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【九点特供】估值或超过1.75万亿美元！spacex已秘密提交ipo文件，机构看好spacex“百万星计”将对国内产业链起催化效应，这家公司是spacex星链地面站的二级结构件供应商"> <div class="time">09:00</div> <div class="content"> <div class="text">【九点特供】估值或超过1.75万亿美元！SpaceX已秘密提交IPO文件，机构看好SpaceX“百万星计”将对国内产业链起催化效应，这家公司是SpaceX星链地面站的二级结构件供应商</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【点金互动易】创新药+抗癌药，这家公司自研多个一类新药平台，核心产品对标主流药物更具疗效优势，且拥有高壁垒的高血压细分赛道放量预期
 
 #利亚德
 #吉贝尔"> <div class="time">09:00</div> <div class="content"> <div class="text">【点金互动易】创新药+抗癌药，这家公司自研多个一类新药平台，核心产品对标主流药物更具疗效优势，且拥有高壁垒的高血压细分赛道放量预期
@@ -720,10 +843,10 @@ Choice 数据显示：截至 4 月 1 日 19 时，在已披露 2025 年业绩的
 #凯莱英</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="最近行情波动很大，最好控制好仓位。
 
 战争不是那么轻易能结束的
-❤3👍1"> <div class="time">08:52</div> <div class="content"> <div class="text">最近行情波动很大，最好控制好仓位。
+❤5👍2"> <div class="time">08:52</div> <div class="content"> <div class="text">最近行情波动很大，最好控制好仓位。
 
 战争不是那么轻易能结束的
-❤3👍1</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">08:48</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">08:48</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">08:48</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">08:31</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="【季报高增长】半导体+igbt，一季度净利润同比增长超20%，这家公司聚焦适配ai领域需求的功率半导体产品研发，受益于全球半导体行业的涨价潮从存储芯片迅速蔓延至功率芯片等领域的趋势
+❤5👍2</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">08:48</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">08:48</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">08:48</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">08:31</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="【季报高增长】半导体+igbt，一季度净利润同比增长超20%，这家公司聚焦适配ai领域需求的功率半导体产品研发，受益于全球半导体行业的涨价潮从存储芯片迅速蔓延至功率芯片等领域的趋势
 
 #斯达半岛
 #扬杰科技
