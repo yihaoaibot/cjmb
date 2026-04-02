@@ -1,8 +1,116 @@
 [
   {
+    "post": "Financial_Express/3066020",
+    "datetime": "2026-04-02T19:46:38+00:00",
+    "views": "3",
+    "text": "美联储威廉姆斯：能源价格会影响诸多领域。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3066020"
+  },
+  {
+    "post": "Financial_Express/3066019",
+    "datetime": "2026-04-02T19:46:37+00:00",
+    "views": "3",
+    "text": "美联储威廉姆斯：市场对于油价将会回落持相当乐观的态度。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3066019"
+  },
+  {
+    "post": "Financial_Express/3066018",
+    "datetime": "2026-04-02T19:45:58+00:00",
+    "views": "6",
+    "text": "美联储威廉姆斯：市场相当乐观地认为油价将会回落。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3066018"
+  },
+  {
+    "post": "Financial_Express/3066017",
+    "datetime": "2026-04-02T19:45:57+00:00",
+    "views": "6",
+    "text": "美联储威廉姆斯：能源价格对经济的传导需要数月至一年时间。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3066017"
+  },
+  {
+    "post": "Financial_Express/3066016",
+    "datetime": "2026-04-02T19:45:39+00:00",
+    "views": "9",
+    "text": "美联储威廉姆斯： 目前我认为，美联储政策目标面临的风险处于平衡状态。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3066016"
+  },
+  {
+    "post": "Financial_Express/3066015",
+    "datetime": "2026-04-02T19:45:38+00:00",
+    "views": "10",
+    "text": "美联储威廉姆斯：能源价格会对经济产生传导效应。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3066015"
+  },
+  {
+    "post": "Financial_Express/3066014",
+    "datetime": "2026-04-02T19:45:35+00:00",
+    "views": "10",
+    "text": "周四（4 月 2 日）纽约尾盘，ICE 美元指数涨 0.35%，报 99.998 点，日内交投区间为 99.447-100.263 点，亚太早盘，美国总统特朗普讲话之际陡峭地走高，日内大部分时间高位震荡、北京时间 19:16 刷新日高。\n彭博美元指数涨 0.26%，报 1215.67 点。\n美元兑日元涨 0.50%，报 159.60 日元，日内交投区间为 158.55-159.74 日元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3066014"
+  },
+  {
+    "post": "Financial_Express/3066013",
+    "datetime": "2026-04-02T19:45:18+00:00",
+    "views": "12",
+    "text": "美联储威廉姆斯：通胀与经济放缓的风险均已上升。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3066013"
+  },
+  {
+    "post": "Financial_Express/3066012",
+    "datetime": "2026-04-02T19:45:17+00:00",
+    "views": "12",
+    "text": "美联储威廉姆斯：美联储将不得不关注数据，以观察风险如何演变。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3066012"
+  },
+  {
+    "post": "Financial_Express/3066011",
+    "datetime": "2026-04-02T19:45:09+00:00",
+    "views": "15",
+    "text": "报道：SpaceX 在 IPO 中的目标估值超过 2 万亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3066011"
+  },
+  {
+    "post": "Financial_Express/3066010",
+    "datetime": "2026-04-02T19:44:58+00:00",
+    "views": "17",
+    "text": "美联储威廉姆斯：美联储必须观察数据，以了解风险如何演变。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3066010"
+  },
+  {
+    "post": "Financial_Express/3066009",
+    "datetime": "2026-04-02T19:44:57+00:00",
+    "views": "17",
+    "text": "美联储威廉姆斯：随着时间推移，通胀数据将会在统计中显现出来。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3066009"
+  },
+  {
     "post": "Financial_Express/3066008",
     "datetime": "2026-04-02T19:44:38+00:00",
-    "views": "2",
+    "views": "48",
     "text": "美联储威廉姆斯：货币政策处于“有利地位”，可妥善管控风险。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +119,7 @@
   {
     "post": "Financial_Express/3066007",
     "datetime": "2026-04-02T19:44:37+00:00",
-    "views": "2",
+    "views": "48",
     "text": "美联储威廉姆斯：不确定性及双向风险均有所上升，货币政策“处于有利地位”以管理风险。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +128,7 @@
   {
     "post": "Financial_Express/3066006",
     "datetime": "2026-04-02T19:44:18+00:00",
-    "views": "6",
+    "views": "50",
     "text": "美联储威廉姆斯：上下行两方面的不确定性与风险均有所上升。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +137,7 @@
   {
     "post": "Financial_Express/3066005",
     "datetime": "2026-04-02T19:43:57+00:00",
-    "views": "6",
+    "views": "49",
     "text": "美联储威廉姆斯：能源价格上涨冲击美联储两大使命，能源价格上涨影响通胀和可支配收入，迄今为止，战争体现在汽油价格上，但尚未体现在数据上。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +146,7 @@
   {
     "post": "Financial_Express/3066004",
     "datetime": "2026-04-02T19:43:54+00:00",
-    "views": "6",
+    "views": "49",
     "text": "美国纽约联储主席威廉姆斯：随着时间的推移，通胀将体现在统计数据中。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +155,7 @@
   {
     "post": "Financial_Express/3066003",
     "datetime": "2026-04-02T19:43:37+00:00",
-    "views": "11",
+    "views": "52",
     "text": "美联储威廉姆斯：迄今为止，战争的影响已体现在汽油价格上，但尚未反映在经济数据中。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +164,7 @@
   {
     "post": "Financial_Express/3066001",
     "datetime": "2026-04-02T19:43:18+00:00",
-    "views": "13",
+    "views": "51",
     "text": "据称，SpaceX 计划在 IPO 中寻求超过 2 万亿美元的估值。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +173,7 @@
   {
     "post": "Financial_Express/3066002",
     "datetime": "2026-04-02T19:43:18+00:00",
-    "views": "13",
+    "views": "53",
     "text": "美联储威廉姆斯：能源价格上涨同时冲击美联储双重使命的两大目标。",
     "media_only": false,
     "image_url": null,
@@ -70162,23 +70270,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3058163"
-  },
-  {
-    "post": "Financial_Express/3058162",
-    "datetime": "2026-03-31T19:46:17+00:00",
-    "views": "107",
-    "text": "微软能源业务副总裁博比·霍利斯在领英发文称，他已决定离职。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3058162"
-  },
-  {
-    "post": "Financial_Express/3058161",
-    "datetime": "2026-03-31T19:45:37+00:00",
-    "views": "105",
-    "text": "美国国家运输安全委员会（NTSB）：建议限制超速行驶，提升驾驶员注意力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3058161"
   }
 ]
