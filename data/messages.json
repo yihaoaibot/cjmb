@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3071616",
+    "datetime": "2026-04-06T11:30:39+00:00",
+    "views": "1",
+    "text": "土耳其 3 月实际有效汇率为 104.61。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3071616"
+  },
+  {
+    "post": "Financial_Express/3071615",
+    "datetime": "2026-04-06T11:29:12+00:00",
+    "views": "34",
+    "text": "以色列国防部长卡茨 6 日说，以军空袭了伊朗最大石油化工设施。（新华社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3071615"
+  },
+  {
     "post": "Financial_Express/3071613",
     "datetime": "2026-04-06T11:27:17+00:00",
-    "views": "33",
+    "views": "35",
     "text": "巴西央行调查：经济学家预计 2026 年巴西 GDP 将增长 1.85%，与前次预测持平。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3071610",
     "datetime": "2026-04-06T11:26:58+00:00",
-    "views": "35",
+    "views": "37",
     "text": "以色列袭击伊朗阿萨卢耶石化工厂\n以色列防长卡茨今天（4 月 6 日）证实，以色列袭击了位于伊朗阿萨鲁耶的伊朗石化工厂。卡茨表示，此次袭击对伊朗政权的经济生存能力造成了重大打击。据伊朗法尔斯通讯社稍早前报道，伊朗布什尔省的南帕尔斯和阿萨卢耶石油化工设施遭到袭击。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3071611",
     "datetime": "2026-04-06T11:26:58+00:00",
-    "views": "35",
+    "views": "37",
     "text": "巴西央行调查：经济学家预计 2027 年底雷亚尔对美元汇率为 1 美元兑 5.45 雷亚尔，与前次预估持平。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3071612",
     "datetime": "2026-04-06T11:26:58+00:00",
-    "views": "35",
+    "views": "37",
     "text": "巴西央行调查：经济学家预测 2026 年底巴西雷亚尔对美元汇率将维持此前预期的 1 美元兑 5.40 雷亚尔不变。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3071609",
     "datetime": "2026-04-06T11:26:39+00:00",
-    "views": "34",
+    "views": "36",
     "text": "巴西央行调查：经济学家预计 2027 年巴西 GDP 增长 1.80%，与此前预期持平。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3071608",
     "datetime": "2026-04-06T11:26:17+00:00",
-    "views": "34",
+    "views": "66",
     "text": "巴西央行调查显示，经济学家预计 2026 年巴西 IPCA 广义消费者物价指数年通胀率将达到 4.36%，此前预测值为 4.31%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3071607",
     "datetime": "2026-04-06T11:25:21+00:00",
-    "views": "36",
+    "views": "68",
     "text": "巴基斯坦国际航空因燃油价格高企削减航班。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3071605",
     "datetime": "2026-04-06T11:23:59+00:00",
-    "views": "34",
+    "views": "66",
     "text": "洲际交易所欧洲期货分部：原糖投机者将净多头头寸增加 2253 手，至 3 月 31 日的 17083 手。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3071606",
     "datetime": "2026-04-06T11:23:59+00:00",
-    "views": "36",
+    "views": "68",
     "text": "印度财政部长：截至 3 月 31 日，印度外汇储备可覆盖 11 个月的进口规模，是充足的缓冲储备。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3071603",
     "datetime": "2026-04-06T11:23:42+00:00",
-    "views": "34",
+    "views": "66",
     "text": "洲际交易所欧洲期货分部：截至 3 月 31 日，饲料小麦投机者将净空头头寸削减 60 手至 164 手。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3071604",
     "datetime": "2026-04-06T11:23:42+00:00",
-    "views": "34",
+    "views": "66",
     "text": "洲际交易所欧洲期货分部：截至 3 月 31 日，罗布斯塔咖啡投机客转为净空头持仓，持仓量为 617 手，期间净减持 3112 手。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3071601",
     "datetime": "2026-04-06T11:23:41+00:00",
-    "views": "34",
+    "views": "66",
     "text": "据伊朗塔斯尼姆通讯社：为阿萨卢耶石化工厂提供电力、水和氧气的公司遭到袭击，帕尔斯石化公司未受影响。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3071602",
     "datetime": "2026-04-06T11:23:41+00:00",
-    "views": "34",
+    "views": "66",
     "text": "伊朗塔斯尼姆通讯社：向阿萨卢耶石化联合工厂供应电力、供水与氧气的企业遭袭，帕斯石化公司未受影响。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3071600",
     "datetime": "2026-04-06T11:21:57+00:00",
-    "views": "65",
+    "views": "67",
     "text": "伊朗发动“真实承诺-4”第 98 波攻势 打击美军两栖攻击舰\n金十数据 4 月 6 日讯，伊朗伊斯兰革命卫队公共关系部发表声明说，伊朗发动“真实承诺-4”行动第 98 波攻势。声明称，伊斯兰革命卫队海军使用巡航导弹打击了属于“犹太复国主义政权”的集装箱船 SDN7，该船被摧毁后发生大面积起火，还使用导弹打击了特拉维夫北部和南部、海法的战略中心、贝尔谢巴的化工企业与工厂，以及巴特赫费尔的军队驻地。声明还表示，搭载逾 5000 名水兵和海军陆战队员的美国军方两栖攻击舰 LHA7 也遭到导弹打击，在此次攻势后被迫撤退至印度洋南部深海区域。声明还称，阿联酋与以色列联合无人机生产中心，以及驻扎在阿里·萨利姆基地的多架飞机，均遭到无人机和导弹打击。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3071599",
     "datetime": "2026-04-06T11:21:40+00:00",
-    "views": "65",
+    "views": "67",
     "text": "国轩高科在投资者互动平台表示，公司的固态电池正按计划推进，2GWh 全固态电池量产线的具体建设则受技术、研发、市场等多项因素影响。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3071598",
     "datetime": "2026-04-06T11:21:38+00:00",
-    "views": "65",
+    "views": "66",
     "text": "印度财长：中东冲突升级已从地区安全关切演变为一个系统性问题。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3071597",
     "datetime": "2026-04-06T11:21:19+00:00",
-    "views": "64",
+    "views": "65",
     "text": "外媒：布什尔核电站再遭袭，伊朗原子能组织主席发出警告\n据路透社、塔斯尼姆通讯社等外媒报道，对于布什尔核电站遭袭，伊朗原子能组织主席伊斯拉米 6 日在致国际原子能机构总干事的信中作出表态。综合上述外媒报道，伊斯拉米表示，目前为止布什尔核电站已遭到 4 次袭击，最近一次袭击发生于 4 日，造成 1 名安保人员死亡、多人受伤。他警告称，此类袭击可能会导致运行中的反应堆发生放射性物质泄漏事件，从而对民众、环境及邻国造成“无法挽回的后果”。伊斯拉米还提到这些袭击公然违反国际法，认为国际原子能机构应采取“果断行动”。他称，该机构不明确谴责此类行为，仅“深表关切”是远远不够的。他还敦促国际原子能机构采取强硬立场。（环球网）",
     "media_only": false,
     "image_url": null,
@@ -21814,32 +21832,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3069179"
-  },
-  {
-    "post": "Financial_Express/3069177",
-    "datetime": "2026-04-04T11:30:37+00:00",
-    "views": "77",
-    "text": "伊朗外长：针对伊石化设施的袭击揭示美以真正意图\n伊朗外交部长阿拉格齐当地时间 4 月 4 日在其个人社交媒体上表示，以色列和美国已经四次轰炸伊朗的布什尔核电站。放射性污染若发生，将终结海湾阿拉伯国家合作委员会成员国首都的生命，而非德黑兰。阿拉格齐表示，针对伊朗石化设施的袭击也揭示了其（美以军事行动）的真正意图。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3069177"
-  },
-  {
-    "post": "Financial_Express/3069176",
-    "datetime": "2026-04-04T11:29:58+00:00",
-    "views": "76",
-    "text": "伊朗议会议长：维护地区安全符合我国利益，可持续安全是我们的首要任务。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3069176"
-  },
-  {
-    "post": "Financial_Express/3069175",
-    "datetime": "2026-04-04T11:29:17+00:00",
-    "views": "77",
-    "text": "阿联酋称周六遭 23 枚导弹和 56 架无人机袭击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3069175"
   }
 ]
