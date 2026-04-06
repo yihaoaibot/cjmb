@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3071099",
+    "datetime": "2026-04-06T06:01:18+00:00",
+    "views": "5",
+    "text": "坦桑尼亚 2 月份 M3 货币供应量同比增长 24.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3071099"
+  },
+  {
     "post": "Financial_Express/3071098",
     "datetime": "2026-04-06T06:00:18+00:00",
-    "views": "2",
+    "views": "5",
     "text": "LTIMindtree 将携手 UpGrad 企业服务部，为其员工推出麻省理工学院开放式学习的通用人工智能产品。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3071097",
     "datetime": "2026-04-06T05:59:17+00:00",
-    "views": "8",
+    "views": "40",
     "text": "沙特因战争扰动市场，将油价溢价上调至历史高位\n随着伊朗近乎封锁霍尔木兹海峡，导致地区能源运输受阻，且冲突持续时间的不确定性引发市场剧烈震荡，沙特阿拉伯上调了销往亚洲的主力原油价格，创下历史新高。据一份价目表显示，国有石油生产商沙特阿美将 5 月份销往亚洲炼油商的旗舰产品阿拉伯轻质原油溢价上调至较基准油价高出 19.50 美元。这一涨幅低于机构调查中交易员与炼油商预期的每桶 40 美元溢价。美国与以色列针对伊朗的军事行动已颠覆全球能源市场。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +29,8 @@
   {
     "post": "Financial_Express/3071096",
     "datetime": "2026-04-06T05:57:50+00:00",
-    "views": "40",
-    "text": "沙特阿拉伯将 5 月份销往亚洲的阿拉伯轻质原油官方售价（OSP）设定为较阿曼/迪拜均价升水 19.50 美元/桶，较上月上调 17 美元。",
+    "views": "41",
+    "text": "沙特阿拉伯将 5 月份销往亚洲的阿拉伯轻质原油官方售价（OSP）设定为较阿曼/迪拜均价升水 19.50 美元/桶，较上月上调 17 美元。这低于彭博社调查中交易员和炼油商预期的每桶 40 美元溢价。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3071096"
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3071095",
     "datetime": "2026-04-06T05:57:18+00:00",
-    "views": "42",
+    "views": "43",
     "text": "沙特将石油价格上调至创纪录的每桶溢价 19.50 美元，预计价格将达 40 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3071094",
     "datetime": "2026-04-06T05:56:37+00:00",
-    "views": "43",
+    "views": "44",
     "text": "全球海拔最高的槽式光热电站在西藏开工建设\n4 月 6 日，全球海拔最高的槽式光热电站中广核西藏乌玛塘 50 兆瓦光热项目在拉萨市当雄县乌玛塘乡正式开工建设。场址海拔 4550 米，项目同步实现了我国完全自主知识产权的 8.6 米大开口槽式集热器首次商业化应用，并配置 6 小时熔盐储热装置，可实现夜间连续发电和灵活调峰。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3071092",
     "datetime": "2026-04-06T05:52:37+00:00",
-    "views": "76",
+    "views": "106",
     "text": "日本 30 年期国债收益率上涨 7.0 个基点，至 3.745%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3071091",
     "datetime": "2026-04-06T05:52:19+00:00",
-    "views": "76",
+    "views": "106",
     "text": "日本 10 年期国债收益率上涨 4.0 个基点，至 2.420%。",
     "media_only": false,
     "image_url": null,
@@ -19681,14 +19690,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3068900"
-  },
-  {
-    "post": "Financial_Express/3068899",
-    "datetime": "2026-04-04T06:02:17+00:00",
-    "views": "126",
-    "text": "领英被曝未经用户许可扫描已安装的浏览器扩展程序\n一家欧洲维权组织称，领英通过其网站代码探查用户的浏览器扩展程序。德国协会 Fairlinked e.V. 发布了名为 “浏览器门” 的报告，指控领英利用 JavaScript 探测已知特征标识，以此检测用户安装的浏览器扩展。该组织表示，这种技术会泄露可识别个人身份的信息。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3068899"
   }
 ]
