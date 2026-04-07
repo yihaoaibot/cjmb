@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3076231",
+    "datetime": "2026-04-07T22:02:39+00:00",
+    "views": "1",
+    "text": "美国 10 年期国债期货上涨 12 个基点，30 年期国债期货大涨 24 个基点，与此同时布伦特原油暴跌 5.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076231"
+  },
+  {
+    "post": "Financial_Express/3076230",
+    "datetime": "2026-04-07T22:02:38+00:00",
+    "views": "1",
+    "text": "油价开盘下跌 4.1%，此前巴基斯坦寻求延长伊朗谈判最后期限。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076230"
+  },
+  {
+    "post": "Financial_Express/3076229",
+    "datetime": "2026-04-07T22:02:18+00:00",
+    "views": "2",
+    "text": "纽约期银突破 74 美元/盎司，日内涨 2.85%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076229"
+  },
+  {
+    "post": "Financial_Express/3076228",
+    "datetime": "2026-04-07T22:02:17+00:00",
+    "views": "2",
+    "text": "现货白银日内涨 1%，现报 73.67 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076228"
+  },
+  {
+    "post": "Financial_Express/3076226",
+    "datetime": "2026-04-07T22:01:18+00:00",
+    "views": "4",
+    "text": "标普 500 指数期货上涨 1.0%，纳斯达克指数期货上涨 1.2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076226"
+  },
+  {
+    "post": "Financial_Express/3076227",
+    "datetime": "2026-04-07T22:01:18+00:00",
+    "views": "4",
+    "text": "现货黄金突破 4740 美元/盎司，日内涨 0.89%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076227"
+  },
+  {
+    "post": "Financial_Express/3076225",
+    "datetime": "2026-04-07T22:01:02+00:00",
+    "views": "5",
+    "text": "WTI 原油期货跌 4.1%。纽约银日内涨幅达 2.0%，报 73.44 美元/盎司；纽约金日内涨幅达 1.5%，报 4759.6 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076225"
+  },
+  {
+    "post": "Financial_Express/3076224",
+    "datetime": "2026-04-07T22:00:58+00:00",
+    "views": "5",
+    "text": "纽约期金突破 4770 美元/盎司，日内涨 1.87%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076224"
+  },
+  {
+    "post": "Financial_Express/3076223",
+    "datetime": "2026-04-07T22:00:57+00:00",
+    "views": "5",
+    "text": "钯金期货日内涨 2%，现报 1489.50 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076223"
+  },
+  {
     "post": "Financial_Express/3076222",
     "datetime": "2026-04-07T22:00:24+00:00",
-    "views": "1",
+    "views": "5",
     "text": "纽约期金突破 4760 美元/盎司，日内涨 1.65%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3076220",
     "datetime": "2026-04-07T22:00:23+00:00",
-    "views": "1",
+    "views": "5",
     "text": "纽约期银日内涨 2%，现报 73.44 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3076221",
     "datetime": "2026-04-07T22:00:23+00:00",
-    "views": "1",
+    "views": "5",
     "text": "钯金期货日内涨 1%，现报 1481.34 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3076218",
     "datetime": "2026-04-07T22:00:19+00:00",
-    "views": "1",
+    "views": "5",
     "text": "WTI 原油日内跌 2%，现报 73.67 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3076219",
     "datetime": "2026-04-07T22:00:19+00:00",
-    "views": "1",
+    "views": "5",
     "text": "WTI 原油突破 74 美元/桶，日内跌 2.00%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3076216",
     "datetime": "2026-04-07T22:00:18+00:00",
-    "views": "1",
+    "views": "5",
     "text": "纽约期银日内涨 1%，现报 73.36 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3076217",
     "datetime": "2026-04-07T22:00:18+00:00",
-    "views": "1",
+    "views": "5",
     "text": "WTI 原油日内跌 1%，现报 73.71 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3076215",
     "datetime": "2026-04-07T22:00:17+00:00",
-    "views": "1",
+    "views": "5",
     "text": "巴基斯坦正在与伊朗就停火问题进行磋商 万斯担任美方代表\n金十数据 4 月 8 日讯，据消息人士透露，巴基斯坦总理谢里夫正在与伊朗谈判停火事宜。美国副总统万斯担任美方谈判代表。周二早些时候，谢里夫在社交媒体上发帖称，巴基斯坦提出了一项协议，其中包括伊朗战争相关方进行为期两周的停火，在此期间伊朗将重新开放霍尔木兹海峡。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3076214",
     "datetime": "2026-04-07T21:59:58+00:00",
-    "views": "1",
+    "views": "34",
     "text": "美联储 4 月维持利率不变的概率为 98.4%\n据 CME“美联储观察”：美联储 4 月加息 25 个基点的概率为 1.6%，维持利率不变的概率为 98.4%。美联储到 6 月维持利率不变的概率为 97.9%，累计加息 25 个基点的概率为 2.1%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3076213",
     "datetime": "2026-04-07T21:58:38+00:00",
-    "views": "32",
+    "views": "35",
     "text": "埃及外交部声明：两国外长通电话，讨论了为促使美国与伊朗达成谅解、实现停火而共同努力的相关事宜。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3076212",
     "datetime": "2026-04-07T21:57:49+00:00",
-    "views": "33",
+    "views": "36",
     "text": "Anthropic 宣布 Claude Mythos Preview，并称其为一款擅长识别软件漏洞和安全缺陷的先进 AI 模型。\nAnthropic 表示，微软、亚马逊、苹果、CrowdStrike、Palo Alto Networks 以及约 40 家其他公司将能够使用该模型进行防御性安全工作。\n这些公司将作为一项名为“新网络安全倡议”（Project Glasswing）的新网络安全倡议的一部分，对该模型进行使用和测试。",
     "media_only": false,
     "image_url": null,
@@ -50425,59 +50506,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3070571"
-  },
-  {
-    "post": "Financial_Express/3070570",
-    "datetime": "2026-04-05T22:01:58+00:00",
-    "views": "57",
-    "text": "现货黄金突破 4660 美元/盎司，日内跌 0.32%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070570"
-  },
-  {
-    "post": "Financial_Express/3070569",
-    "datetime": "2026-04-05T22:01:17+00:00",
-    "views": "57",
-    "text": "现货黄金失守 4640 美元/盎司，日内跌 0.76%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070569"
-  },
-  {
-    "post": "Financial_Express/3070568",
-    "datetime": "2026-04-05T22:00:59+00:00",
-    "views": "87",
-    "text": "布伦特原油日内涨 1%，现报 110.41 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070568"
-  },
-  {
-    "post": "Financial_Express/3070566",
-    "datetime": "2026-04-05T22:00:58+00:00",
-    "views": "54",
-    "text": "WTI 原油突破 114 美元/桶，日内涨 2.21%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070566"
-  },
-  {
-    "post": "Financial_Express/3070567",
-    "datetime": "2026-04-05T22:00:58+00:00",
-    "views": "56",
-    "text": "布伦特原油突破 110 美元/桶，日内涨 0.89%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070567"
-  },
-  {
-    "post": "Financial_Express/3070565",
-    "datetime": "2026-04-05T22:00:57+00:00",
-    "views": "54",
-    "text": "WTI 原油日内涨 2%，现报 113.81 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070565"
   }
 ]
