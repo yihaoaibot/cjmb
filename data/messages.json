@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3076039",
+    "datetime": "2026-04-07T19:50:19+00:00",
+    "views": "27",
+    "text": "周二（4 月 7 日）纽约尾盘，ICE 美元指数跌超 0.20%，刷新日低至 97.730 点，北京时间 10:07 涨至 100.156 点刷新日高，随后持续走低，其中 16:00-18:00 出现一波 V 形走势。\n彭博美元指数跌 0.31%，刷新日低至 1210.51 点，10:07 涨至 1216.36 点刷新日高，之后持续走低。\n美元兑日元跌 0.08%，报 159.55 日元，日内交投区间为 160.03-159.47 日元，整体呈现出 M 形走势。\n欧元兑日元涨 0.44%，14:00 以来持续走高；英镑兑日元涨 0.35%，13:48 以来也持续走高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076039"
+  },
+  {
     "post": "Financial_Express/3076038",
     "datetime": "2026-04-07T19:47:09+00:00",
-    "views": "39",
+    "views": "95",
     "text": "标普 500 指数跌幅收窄至不足 0.2%。\n据 Axios 报道，白宫新闻秘书莱维特就巴基斯坦有关伊朗的提议表示，总统已获悉该提议，将作出回应。\n另据路透报道，伊朗高级官员称，德黑兰正积极审议巴基斯坦提出的为期两周的停火请求。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3076037",
     "datetime": "2026-04-07T19:46:58+00:00",
-    "views": "39",
+    "views": "94",
     "text": "美国警告伊朗可能对供水系统发动网络攻击。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3076036",
     "datetime": "2026-04-07T19:46:57+00:00",
-    "views": "39",
+    "views": "94",
     "text": "现货白银突破 73 美元/盎司，日内涨 0.32%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3076035",
     "datetime": "2026-04-07T19:46:38+00:00",
-    "views": "39",
+    "views": "94",
     "text": "伊朗高级官员对路透社表示：德黑兰正积极审议巴基斯坦提出的为期两周停火的请求。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3076034",
     "datetime": "2026-04-07T19:46:23+00:00",
-    "views": "39",
+    "views": "94",
     "text": "现货黄金突破 4710 美元/盎司，日内涨 1.31%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3076033",
     "datetime": "2026-04-07T19:46:22+00:00",
-    "views": "39",
+    "views": "93",
     "text": "纽约期金突破 4740 美元/盎司，日内涨 1.19%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3076032",
     "datetime": "2026-04-07T19:46:19+00:00",
-    "views": "39",
+    "views": "92",
     "text": "白宫新闻秘书莱维特就巴基斯坦关于伊朗的提案向 Axios 表示：特朗普已获悉该提案，后续将作出回应。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3076030",
     "datetime": "2026-04-07T19:46:18+00:00",
-    "views": "38",
+    "views": "93",
     "text": "纽约期金日内涨 1%，现报 4734.63 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3076031",
     "datetime": "2026-04-07T19:46:18+00:00",
-    "views": "38",
+    "views": "93",
     "text": "纽约期金突破 4730 美元/盎司，日内涨 1.07%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3076028",
     "datetime": "2026-04-07T19:46:17+00:00",
-    "views": "37",
+    "views": "91",
     "text": "伊朗高级官员：德黑兰正积极审议巴基斯坦提出的为期两周的停火请求。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3076029",
     "datetime": "2026-04-07T19:46:17+00:00",
-    "views": "37",
+    "views": "92",
     "text": "布伦特原油失守 105 美元/桶，日内跌 4.45%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3076027",
     "datetime": "2026-04-07T19:46:04+00:00",
-    "views": "37",
+    "views": "89",
     "text": "布伦特原油日内跌 4%，现报 105.09 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3076025",
     "datetime": "2026-04-07T19:46:03+00:00",
-    "views": "36",
+    "views": "86",
     "text": "WTI 原油日内跌 2%，现报 109.70 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3076026",
     "datetime": "2026-04-07T19:46:03+00:00",
-    "views": "37",
+    "views": "87",
     "text": "布伦特原油失守 106 美元/桶，日内跌 4.26%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3076023",
     "datetime": "2026-04-07T19:45:59+00:00",
-    "views": "36",
+    "views": "85",
     "text": "WTI 原油失守 111 美元/桶，日内跌 1.47%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3076024",
     "datetime": "2026-04-07T19:45:59+00:00",
-    "views": "36",
+    "views": "86",
     "text": "WTI 原油失守 110 美元/桶，日内跌 2.41%。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3076021",
     "datetime": "2026-04-07T19:45:58+00:00",
-    "views": "36",
+    "views": "83",
     "text": "纽约期银突破 73 美元/盎司，日内涨 0.21%。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3076022",
     "datetime": "2026-04-07T19:45:58+00:00",
-    "views": "36",
+    "views": "84",
     "text": "WTI 原油日内跌 1%，现报 111.15 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +173,7 @@
   {
     "post": "Financial_Express/3076020",
     "datetime": "2026-04-07T19:45:57+00:00",
-    "views": "36",
+    "views": "82",
     "text": "白宫新闻秘书莱维特就巴基斯坦有关伊朗的提议表示，总统已获悉该提议，将作出回应。",
     "media_only": false,
     "image_url": null,
@@ -49489,14 +49498,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3070492"
-  },
-  {
-    "post": "Financial_Express/3070491",
-    "datetime": "2026-04-05T19:49:37+00:00",
-    "views": "202",
-    "text": "伊朗：防空部队多名指挥官在伊斯法罕附近与美军直升机的交战中身亡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070491"
   }
 ]
