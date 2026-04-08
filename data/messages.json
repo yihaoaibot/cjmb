@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3080008",
+    "datetime": "2026-04-08T17:06:38+00:00",
+    "views": "1",
+    "text": "美国 10 年期国债收益率在拍卖后维持跌势，最新下跌 6.2 个基点，报 4.281%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080008"
+  },
+  {
+    "post": "Financial_Express/3080007",
+    "datetime": "2026-04-08T17:06:17+00:00",
+    "views": "1",
+    "text": "以色列交通部：停火后，特拉维夫附近的本·古里安国际机场将于午夜恢复全面运营。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080007"
+  },
+  {
+    "post": "Financial_Express/3080006",
+    "datetime": "2026-04-08T17:05:58+00:00",
+    "views": "1",
+    "text": "以色列交通部：停火协议生效后，特拉维夫附近的本・古里安机场将于午夜恢复全面运营。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080006"
+  },
+  {
+    "post": "Financial_Express/3080005",
+    "datetime": "2026-04-08T17:05:57+00:00",
+    "views": "1",
+    "text": "据以色列媒体报道，以色列国防前线指挥部表示，鉴于与伊朗的停火协议似乎已得到维持，他们在该国大部分地区正在放宽战时相关规定。而在以色列北部，因存在来自黎巴嫩真主党火箭弹袭击的威胁，仍会有一些限制措施实施。这些调整将于（当地时间）明天早上 6 点开始生效。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080005"
+  },
+  {
+    "post": "Financial_Express/3080004",
+    "datetime": "2026-04-08T17:05:37+00:00",
+    "views": "31",
+    "text": "10 年期美国国债收益率在拍卖结束后维持跌势，最新下跌 6.2 个基点，报 4.281%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080004"
+  },
+  {
+    "post": "Financial_Express/3080003",
+    "datetime": "2026-04-08T17:05:25+00:00",
+    "views": "31",
+    "text": "提醒：美联储官员戴利并未谈论 FOMC 货币政策。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080003"
+  },
+  {
     "post": "Financial_Express/3080002",
     "datetime": "2026-04-08T17:04:44+00:00",
-    "views": "1",
+    "views": "66",
     "text": "Anthropic 推出由 Claude 管理的智能体。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3080001",
     "datetime": "2026-04-08T17:03:18+00:00",
-    "views": "32",
+    "views": "65",
     "text": "以色列方面消息：“以色列本土前线司令部表示，随着与伊朗的停火协议得以维持，该国大部分地区将放宽战时管制措施。 在以色列北部，因黎巴嫩真主党仍有火箭弹袭击威胁，部分管制措施将继续保留。 上述调整将于明日早上 6 点起生效。”",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3080000",
     "datetime": "2026-04-08T17:03:17+00:00",
-    "views": "32",
+    "views": "65",
     "text": "据美国科技媒体 The Verge：微软(Msft.O)开发部门主管 Julia Liuson 辞职。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3079999",
     "datetime": "2026-04-08T17:02:18+00:00",
-    "views": "33",
+    "views": "65",
     "text": "据半岛电视台：半岛电视台记者 Mohammed Wishah 在加沙的一次以色列无人机袭击中身亡。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3079998",
     "datetime": "2026-04-08T17:02:17+00:00",
-    "views": "33",
+    "views": "65",
     "text": "美国至 4 月 8 日 10 年期国债竞拍-得标利率配置百分比 38.89%，前值 24.68%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3079997",
     "datetime": "2026-04-08T17:02:11+00:00",
-    "views": "63",
+    "views": "95",
     "text": "美国财政部拍卖 390 亿美元 10 年期国债，得标利率 4.282%（3 月 11 日为 4.217%），投标倍数 2.43（前次为 2.45）。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3079996",
     "datetime": "2026-04-08T17:01:57+00:00",
-    "views": "63",
+    "views": "95",
     "text": "美联储戴利在犹他州发表的预备讲话中未提及经济和货币政策前景。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3079995",
     "datetime": "2026-04-08T17:00:55+00:00",
-    "views": "94",
+    "views": "126",
     "text": "国际铜夜盘收涨 1.34%，沪铜收涨 1.09%，沪铝收跌 0.06%，沪锌收跌 0.57%，沪铅收跌 0.21%，沪镍收涨 0.70%，沪锡收涨 0.29%。\n氧化铝夜盘收跌 0.19%，铝合金收跌 0.70%。\n不锈钢夜盘收涨 0.60%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3079994",
     "datetime": "2026-04-08T17:00:37+00:00",
-    "views": "94",
+    "views": "126",
     "text": "金十提示：美联储戴利在犹他州发表的讲话中未提及经济和货币政策前景。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3079993",
     "datetime": "2026-04-08T17:00:18+00:00",
-    "views": "94",
+    "views": "125",
     "text": "夜盘期货收盘\n国际铜夜盘收涨 1.34%，沪铜收涨 1.09%，沪铝收跌 0.06%，沪锌收跌 0.57%，沪铅收跌 0.21%，沪镍收涨 0.70%，沪锡收涨 0.29%。氧化铝夜盘收跌 0.19%，铝合金收跌 0.70%。不锈钢夜盘收涨 0.60%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3079992",
     "datetime": "2026-04-08T16:59:18+00:00",
-    "views": "125",
+    "views": "126",
     "text": "黎巴嫩民防部门称，以色列周三对黎巴嫩全境发动的袭击造成的死亡人数已升至 254 人。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3079991",
     "datetime": "2026-04-08T16:59:17+00:00",
-    "views": "95",
+    "views": "126",
     "text": "黎巴嫩民防部门称，周三以色列对黎巴嫩全境发动的空袭造成的死亡人数已升至 254 人。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3079990",
     "datetime": "2026-04-08T16:57:57+00:00",
-    "views": "125",
+    "views": "156",
     "text": "一架小飞机在菲律宾南部坠毁\n据菲律宾媒体 8 日报道，一架小飞机当天在菲律宾南部迪纳加特岛坠毁。当地官员表示，下午 1 时左右听到巨大爆炸声。当地政府随后展开搜救行动，最终在岛上发现飞机残骸。目前伤亡人数不明，救援工作仍在进行中。菲媒称，这架飞机于当天上午 9 时左右从菲律宾北部苏比克湾自由港起飞，据信搭载一名飞行员和一名乘客，但确切人数和身份不清楚。这架失事飞机由美国塞斯纳飞机公司生产。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3079989",
     "datetime": "2026-04-08T16:57:37+00:00",
-    "views": "125",
+    "views": "155",
     "text": "一架小飞机在菲律宾南部坠毁\n金十数据 4 月 9 日讯，据菲律宾媒体 8 日报道，一架小飞机当天在菲律宾南部迪纳加特岛坠毁。当地官员表示，下午 1 时左右听到巨大爆炸声。当地政府随后展开搜救行动，最终在岛上发现飞机残骸。目前伤亡人数不明，救援工作仍在进行中。菲媒称，这架飞机于当天上午 9 时左右从菲律宾北部苏比克湾自由港起飞，据信搭载一名飞行员和一名乘客，但确切人数和身份不清楚。这架失事飞机由美国塞斯纳飞机公司生产。",
     "media_only": false,
     "image_url": null,
@@ -70072,14 +70126,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3072136"
-  },
-  {
-    "post": "Financial_Express/3072135",
-    "datetime": "2026-04-06T17:05:18+00:00",
-    "views": "176",
-    "text": "奈飞(NFLX.O)：推出 Netflix Playground，现已在美国、加拿大、英国、澳大利亚、菲律宾和新西兰上线，将于 4 月 28 日在全球其他地区上线。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072135"
   }
 ]
