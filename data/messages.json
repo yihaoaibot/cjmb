@@ -1,8 +1,161 @@
 [
   {
+    "post": "Financial_Express/3076701",
+    "datetime": "2026-04-08T01:00:39+00:00",
+    "views": "5",
+    "text": "MSCI 亚太指数上涨 3.2%至 244.50 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076701"
+  },
+  {
+    "post": "Financial_Express/3076699",
+    "datetime": "2026-04-08T01:00:38+00:00",
+    "views": "5",
+    "text": "沥青连续主力合约日内跌 8%，现报 4067.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076699"
+  },
+  {
+    "post": "Financial_Express/3076700",
+    "datetime": "2026-04-08T01:00:38+00:00",
+    "views": "5",
+    "text": "台湾证交所加权股价指数上涨 2.8%至 34,166.04 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076700"
+  },
+  {
+    "post": "Financial_Express/3076698",
+    "datetime": "2026-04-08T01:00:37+00:00",
+    "views": "5",
+    "text": "富时中国 A50 指数期货开盘涨 1.56%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076698"
+  },
+  {
+    "post": "Financial_Express/3076695",
+    "datetime": "2026-04-08T01:00:24+00:00",
+    "views": "12",
+    "text": "铂连续主力合约日内涨 4%，现报 523.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076695"
+  },
+  {
+    "post": "Financial_Express/3076696",
+    "datetime": "2026-04-08T01:00:24+00:00",
+    "views": "12",
+    "text": "集运指数欧线期货连续主力合约日内跌 13%，现报 1895.00 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076696"
+  },
+  {
+    "post": "Financial_Express/3076697",
+    "datetime": "2026-04-08T01:00:24+00:00",
+    "views": "13",
+    "text": "聚丙烯连续主力合约日内跌 8%，现报 8964.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076697"
+  },
+  {
+    "post": "Financial_Express/3076693",
+    "datetime": "2026-04-08T01:00:23+00:00",
+    "views": "13",
+    "text": "PVC 连续主力合约日内跌 5%，现报 5144.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076693"
+  },
+  {
+    "post": "Financial_Express/3076694",
+    "datetime": "2026-04-08T01:00:23+00:00",
+    "views": "13",
+    "text": "乙二醇连续主力合约日内跌 7%，现报 5150.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076694"
+  },
+  {
+    "post": "Financial_Express/3076691",
+    "datetime": "2026-04-08T01:00:19+00:00",
+    "views": "19",
+    "text": "液化石油气连续主力合约日内跌 13%，现报 5732.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076691"
+  },
+  {
+    "post": "Financial_Express/3076692",
+    "datetime": "2026-04-08T01:00:19+00:00",
+    "views": "19",
+    "text": "棕榈油连续主力合约日内跌 4%，现报 9554.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076692"
+  },
+  {
+    "post": "Financial_Express/3076689",
+    "datetime": "2026-04-08T01:00:18+00:00",
+    "views": "20",
+    "text": "对二甲苯连续主力合约日内跌 10%，现报 8866.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076689"
+  },
+  {
+    "post": "Financial_Express/3076690",
+    "datetime": "2026-04-08T01:00:18+00:00",
+    "views": "19",
+    "text": "短纤连续主力合约日内跌 5%，现报 7996.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076690"
+  },
+  {
+    "post": "Financial_Express/3076688",
+    "datetime": "2026-04-08T01:00:17+00:00",
+    "views": "20",
+    "text": "塑料连续主力合约日内跌 7%，现报 8488.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076688"
+  },
+  {
+    "post": "Financial_Express/3076687",
+    "datetime": "2026-04-08T01:00:03+00:00",
+    "views": "30",
+    "text": "商品期货开盘，LU 燃油、原油主力合约跌超 14%，液化气跌超 13%，燃料油跌超 12%，集运欧线跌超 10%，苯乙烯跌超 8%。钯涨超 5%，沪银涨超 4%，铂、沪金涨超 3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076687"
+  },
+  {
+    "post": "Financial_Express/3076686",
+    "datetime": "2026-04-08T00:59:39+00:00",
+    "views": "41",
+    "text": "银禧科技：公司目前还没有购置过钨矿产权\n银禧科技(300221)4 月 8 日在互动平台表示，公司的 PPO 材料可用于常规覆铜板上，适用于线路板行业，可应用于算力服务器等硬件上。公司目前还没有购置过钨矿产权。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076686"
+  },
+  {
+    "post": "Financial_Express/3076685",
+    "datetime": "2026-04-08T00:58:57+00:00",
+    "views": "52",
+    "text": "华力创通：公司暂无一箭八星相关业务\n华力创通(300045)4 月 8 日在互动平台表示，公司暂无一箭八星相关业务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076685"
+  },
+  {
     "post": "Financial_Express/3076684",
     "datetime": "2026-04-08T00:58:18+00:00",
-    "views": "2",
+    "views": "42",
     "text": "国补叠加多重优惠 云南江西多地以旧换新家电消费旺盛\n近期，云南、江西多地家电、数码等产品消费旺盛，得益于新一轮以旧换新国补政策，补贴直达终端，叠加商家促销活动，当地居民享受到了实实在在的优惠。据介绍，随着 2026 年新一轮以旧换新政策全面铺开，消费者购买冰箱、洗衣机、电视、空调、电脑、热水器等 6 类一级能效家电产品，可享受销售价格 15%的补贴，让消费者享受到实实在在的优惠，大大激发了居民消费热情。（央视）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +164,7 @@
   {
     "post": "Financial_Express/3076683",
     "datetime": "2026-04-08T00:57:39+00:00",
-    "views": "3",
+    "views": "77",
     "text": "27 省份披露去年卖地收入 今年多地预计止跌回稳\n受房地产市场持续低迷影响，2025 年全国地方政府国有土地使用权出让收入整体出现下滑，但各省份之间仍存在差异。粤开证券 4 月 7 日发布的研报显示，根据对各地财政部门公开数据梳理，全国 31 个省份中，除山西、内蒙古、辽宁、西藏外，27 个省份披露了 2025 年土地出让收入。其中，云南、甘肃、宁夏、新疆、黑龙江等五地去年土地出让收入实现增长，其余 22 个省份出现下滑。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +173,7 @@
   {
     "post": "Financial_Express/3076682",
     "datetime": "2026-04-08T00:57:17+00:00",
-    "views": "3",
+    "views": "84",
     "text": "伊朗最近一次向以色列南部发射弹道导弹袭击后，两名青少年受轻伤。",
     "media_only": false,
     "image_url": null,
@@ -52954,41 +53107,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3070747"
-  },
-  {
-    "post": "Financial_Express/3070746",
-    "datetime": "2026-04-06T01:00:38+00:00",
-    "views": "171",
-    "text": "以色列医护人员表示，海法遭伊朗导弹袭击，至少 9 人受伤。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070746"
-  },
-  {
-    "post": "Financial_Express/3070745",
-    "datetime": "2026-04-06T00:59:57+00:00",
-    "views": "167",
-    "text": "美国地质调查局报告称，克马德克群岛南部发生 5.4 级地震。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070745"
-  },
-  {
-    "post": "Financial_Express/3070744",
-    "datetime": "2026-04-06T00:59:18+00:00",
-    "views": "157",
-    "text": "日本日经指数上涨 1%，至 53657.79 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070744"
-  },
-  {
-    "post": "Financial_Express/3070743",
-    "datetime": "2026-04-06T00:59:11+00:00",
-    "views": "157",
-    "text": "日经 225 指数涨幅扩大至 1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070743"
   }
 ]
