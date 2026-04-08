@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3080288",
     "datetime": "2026-04-08T18:44:37+00:00",
-    "views": "1",
+    "views": "32",
     "text": "现货黄金失守 4710 美元/盎司，日内涨 0.08%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3080287",
     "datetime": "2026-04-08T18:43:51+00:00",
-    "views": "3",
+    "views": "34",
     "text": "美国旧金山联储主席戴利（2027 年 FOMC 票委）：美国经济形势良好，但要了解伊朗战争带来的影响还需要时间。\n我认为经济的基本面确实处于良好状态。\n问题在于战争将如何发展，油气价格会在高位维持多久，以及对其他商品和服务会产生何种 —— 我们称之为连锁效应 —— 的影响。\n现在就此作出判断还为时尚早，因为我们还不知道冲突会持续多久。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3080284",
     "datetime": "2026-04-08T18:41:18+00:00",
-    "views": "35",
+    "views": "95",
     "text": "伊朗外交部长：伊朗与沙特外交部长通电话，就双边关系及地区局势发展交换意见。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3080285",
     "datetime": "2026-04-08T18:41:18+00:00",
-    "views": "35",
+    "views": "95",
     "text": "伊朗外交部长：伊朗与沙特两国外长通电话，就双边关系与地区局势展开讨论。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3080280",
     "datetime": "2026-04-08T18:38:57+00:00",
-    "views": "96",
+    "views": "126",
     "text": "内塔尼亚胡：临时停火“并非战争的结束”\n金十数据 4 月 9 日讯，以色列总理内塔尼亚胡 8 日晚发表视频讲话称，美国总统特朗普与伊朗达成的临时停火是与以色列协调的结果。这“并非战争的结束”，而是以方所有既定目标实现过程中的一个阶段。",
     "media_only": false,
     "image_url": null,
@@ -70333,32 +70333,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3072396"
-  },
-  {
-    "post": "Financial_Express/3072393",
-    "datetime": "2026-04-06T18:46:37+00:00",
-    "views": "123",
-    "text": "IMF 总裁格奥尔基耶娃：中东战争将导致通胀加剧、全球经济增长放缓。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072393"
-  },
-  {
-    "post": "Financial_Express/3072394",
-    "datetime": "2026-04-06T18:46:37+00:00",
-    "views": "123",
-    "text": "阿尔忒弥斯二号任务开启月球观测。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072394"
-  },
-  {
-    "post": "Financial_Express/3072392",
-    "datetime": "2026-04-06T18:46:18+00:00",
-    "views": "152",
-    "text": "美中央司令部否认“的黎波里”号驱逐舰遭到袭击\n金十数据 4 月 7 日讯，美国中央司令部表示，伊朗伊斯兰革命卫队声称，他们用导弹袭击并击中了两栖攻击舰“的黎波里”号，迫使其从该地区撤离至印度洋南部。但事实是，“的黎波里”号并未遭到袭击，目前仍在阿拉伯海航行，继续支援“史诗怒火”行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072392"
   }
 ]
