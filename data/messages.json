@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3077305",
+    "datetime": "2026-04-08T04:02:38+00:00",
+    "views": "3",
+    "text": "特朗普：我们将备好各类物资，只是在此待命，确保一切顺利推进。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077305"
+  },
+  {
+    "post": "Financial_Express/3077304",
+    "datetime": "2026-04-08T04:02:37+00:00",
+    "views": "3",
+    "text": "特朗普：将有大量积极举措！会赚得盆满钵满。伊朗可以启动重建进程了。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077304"
+  },
+  {
+    "post": "Financial_Express/3077303",
+    "datetime": "2026-04-08T04:02:19+00:00",
+    "views": "8",
+    "text": "特朗普：伊朗可以开始重建进程。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077303"
+  },
+  {
+    "post": "Financial_Express/3077302",
+    "datetime": "2026-04-08T04:02:18+00:00",
+    "views": "8",
+    "text": "特朗普：我们将储备各种物资。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077302"
+  },
+  {
+    "post": "Financial_Express/3077301",
+    "datetime": "2026-04-08T04:01:57+00:00",
+    "views": "38",
+    "text": "特朗普：美利坚合众国将协助缓解霍尔木兹海峡的航运拥堵状况。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077301"
+  },
+  {
+    "post": "Financial_Express/3077300",
+    "datetime": "2026-04-08T04:01:38+00:00",
+    "views": "42",
+    "text": "高盛：上调潍柴动力 AH 股目标价，AIDC 发电业务前景强劲\n高盛发表报告，上调潍柴动力 2026 至 2030 年每股盈利预测 1%至 4%，主要由于 AI 数据中心(AIDC)发电业务前景较预期强劲。该行指，公司的引擎业务组合转型将加快，预期到 2028 年，AIDC 发电将占公司净利润的三分之一，超逾 HDT 引擎业务的贡献；2030 年占比更达 40%，至约 110 亿元，相当于公司目前的净利润规模。该行重申潍柴动力“买入”评级，上调目标估值，将潍柴动力 H 股及 A 股目标价分别升至 41 港元及 38 元(此前为 37 港元及 34 元)，相当于今年综合市盈率 22 倍(此前为 20 倍)。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077300"
+  },
+  {
+    "post": "Financial_Express/3077299",
+    "datetime": "2026-04-08T04:01:29+00:00",
+    "views": "42",
+    "text": "智谱今日盘中一度大涨近 19%，截至早盘收盘涨 14.06%。消息面上，智谱正式发布 GLM-5.1 之际，模型聚合平台 OpenRouter 显示，智谱 GLM 再度提价 10%。调价后，GLM-5.1 在 Coding 场景的缓存命中 Token 价格已接近 Anthropic 旗下 Claude Sonnet4.6 水平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077299"
+  },
+  {
+    "post": "Financial_Express/3077298",
+    "datetime": "2026-04-08T04:01:18+00:00",
+    "views": "42",
+    "text": "IATA：霍尔木兹海峡重开后 航空燃油供应或需数月才能恢复\n国际航空运输协会（IATA）负责人周三表示，即便伊朗重新开放霍尔木兹海峡，鉴于中东炼油产能受损，航空燃油供应恢复仍需数月时间。美国总统特朗普称已与伊朗达成为期两周的停火协议，前提是霍尔木兹海峡立即安全复航 —— 该航道通常承载全球约五分之一的石油贸易。消息公布后，油价跌破每桶 100 美元。国际航协理事长威利・沃尔什在新加坡对记者称，预计原油价格会下跌，但受炼油厂冲击影响，航空燃油成本大概率仍将小幅偏高。沃尔什表示：“即便海峡重开并保持畅通，考虑到中东炼油产能中断 —— 该地区是全球成品油（不仅是航油）供应的关键一环，供应恢复至正常水平仍需数月时间。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077298"
+  },
+  {
     "post": "Financial_Express/3077297",
     "datetime": "2026-04-08T04:00:05+00:00",
-    "views": "12",
+    "views": "49",
     "text": "美元指数现报 98.97，日内跌-0.68%。锁定每日晴雨表更新（及时更新 app 即可在嘉盛专题获取每十分钟实时更新的情绪指数）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3077296",
     "datetime": "2026-04-08T03:59:39+00:00",
-    "views": "45",
+    "views": "82",
     "text": "里昂：降金山软件(03888)目标价至 29.1 港元 评级“跑赢大市”\n里昂发布研报称，金山软件(03888)去年第四季收入符合预期，惟反映基本面疲软，下调估值倍数，及加大控股公司折让估算，目标价相应由 35.5 港元下调至 29.1 港元，维持其评级为“跑赢大市”。游戏业务收入同比减少 33%，高于该行预期 1.5%，主要是对上财年同期基数较高，导致热门游戏受压。办公室软件业务收入同比增加 17%，主要受惠于 WPS365 增长强劲和 to-C 业务发展加速。该行预计，今年将是游戏业务的转型之年，尤其在领导层和策略调整等方面。虽然该行预测其游戏业务收入将同比减少 10%至 19%左右，但办公室软件业务收入将加速增长至同比增长 20%。该行指，考虑到游戏业务带来的不利因素，将金山软件今年和明年收入预测均下调 7%，各年营运利润预测则分别下调 21%和 16%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3077295",
     "datetime": "2026-04-08T03:58:57+00:00",
-    "views": "50",
+    "views": "87",
     "text": "中色科技设计的全球规模最大的钛及钛合金冷轧精密带材项目投产\n近日，由中色科技设计的全球规模最大的钛及钛合金冷轧精密带材项目——某年产 10 万吨钛及钛合金冷轧精密带材项目在安徽省广德市正式投产。项目全面投产后，将有效填补国内高端钛材轧制领域的产能缺口，进一步完善从原料到成品的全链条布局，打破高端钛材依赖进口的被动局面，显著提升我国钛材产业的自主可控水平，为航空航天、新能源等高端领域提供稳定、高品质的关键材料支撑。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3077294",
     "datetime": "2026-04-08T03:57:17+00:00",
-    "views": "86",
+    "views": "91",
     "text": "以色列空袭黎巴嫩赛达，已造成至少 8 人死亡。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3077293",
     "datetime": "2026-04-08T03:56:17+00:00",
-    "views": "89",
+    "views": "123",
     "text": "摩尔线程宣布完成智谱 GLM-5.1 极速适配\n4 月 8 日，摩尔线程宣布在其旗舰级 AI 训推一体全功能 GPU MTT S5000 上，成功实现了对智谱新一代旗舰模型 GLM-5.1 的 Day-0 极速适配，提供推理部署和训练复现全流程支持。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3077292",
     "datetime": "2026-04-08T03:55:39+00:00",
-    "views": "92",
+    "views": "126",
     "text": "南向资金净卖出额达 110 亿港元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3077291",
     "datetime": "2026-04-08T03:55:18+00:00",
-    "views": "124",
+    "views": "128",
     "text": "世纪恒通：公司目前未开展稳定币相关业务，该事项对公司暂无影响。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3077290",
     "datetime": "2026-04-08T03:54:58+00:00",
-    "views": "125",
+    "views": "129",
     "text": "马来西亚国家石油公司（PETRONAS）称，一艘装载伊拉克原油的船只正驶往边佳兰港。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3077288",
     "datetime": "2026-04-08T03:54:57+00:00",
-    "views": "91",
+    "views": "124",
     "text": "TIKTOK 计划投资 11.6 亿美元建设第二个芬兰数据中心。（路透）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3077289",
     "datetime": "2026-04-08T03:54:57+00:00",
-    "views": "122",
+    "views": "125",
     "text": "森麒麟：目前公司已综合考虑多种因素后进行了第一轮涨价\n金十数据 4 月 8 日讯，森麒麟在互动平台表示，中东局势扰动，全球原油价格上行，公司部分原材料价格与国际原油走势呈正相关，对公司原材料成本形成阶段性压力。但原材料市场价格与公司成本端存在相对滞后性，公司根据生产需求及原材料市场行情把握采购节奏、适时调整备货策略。目前，公司已综合考虑产品成本、终端需求、品牌定位等多种因素后进行了第一轮涨价，尽可能减少原材料波动的影响。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3077287",
     "datetime": "2026-04-08T03:54:19+00:00",
-    "views": "124",
+    "views": "128",
     "text": "印度靛蓝航空股价上涨 10%，触及涨停上限触发临时停牌。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3077286",
     "datetime": "2026-04-08T03:54:18+00:00",
-    "views": "123",
+    "views": "127",
     "text": "TD 考恩将波音目标价从 270 美元下调至 250 美元。",
     "media_only": false,
     "image_url": null,
@@ -56554,32 +56626,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3070957"
-  },
-  {
-    "post": "Financial_Express/3070956",
-    "datetime": "2026-04-06T04:01:38+00:00",
-    "views": "108",
-    "text": "中东战事阻碍人道救援物资运输 全球数百万民众面临危机\n近期中东地区冲突持续升级，霍尔木兹海峡航运受阻，不仅扰乱全球能源市场，更严重阻碍了人道主义物资的运输，全球数百万急需援助民众的食品和药品供应面临严峻挑战。中东地区局势近期持续恶化，多个国际援助组织接连发出警告称，冲突不仅几乎切断了霍尔木兹海峡这条重要航运通道，同时迪拜、多哈和阿布扎比等地的枢纽航线也受到严重影响。这不仅引发全球能源危机、推高燃料价格，更彻底扰乱了人道主义物资的运输链条，严重削弱了国际援助组织向全球数百万急需援助的民众运送食品和药品的能力。（央视）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070956"
-  },
-  {
-    "post": "Financial_Express/3070955",
-    "datetime": "2026-04-06T04:01:37+00:00",
-    "views": "73",
-    "text": "AirAsia X 创始人：马来西亚国家石油公司告知我们，燃油储备可维持至 6 月。越南和泰国对飞机加油仍有一定限制。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070955"
-  },
-  {
-    "post": "Financial_Express/3070954",
-    "datetime": "2026-04-06T04:01:18+00:00",
-    "views": "73",
-    "text": "AirAsia X 首席执行官：马石油告知我们，截至 6 月的燃油储备充足。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070954"
   }
 ]
