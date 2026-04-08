@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3080009",
+    "datetime": "2026-04-08T17:08:37+00:00",
+    "views": "1",
+    "text": "伊朗外交部：外交部发言人强烈谴责了以色列政权今天对黎巴嫩各地发动的袭击，这些袭击导致数百名黎巴嫩公民丧生或受伤，此行为是极其恶劣和可耻的罪行。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080009"
+  },
+  {
     "post": "Financial_Express/3080008",
     "datetime": "2026-04-08T17:06:38+00:00",
-    "views": "1",
+    "views": "33",
     "text": "美国 10 年期国债收益率在拍卖后维持跌势，最新下跌 6.2 个基点，报 4.281%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3080007",
     "datetime": "2026-04-08T17:06:17+00:00",
-    "views": "1",
+    "views": "63",
     "text": "以色列交通部：停火后，特拉维夫附近的本·古里安国际机场将于午夜恢复全面运营。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3080006",
     "datetime": "2026-04-08T17:05:58+00:00",
-    "views": "1",
+    "views": "63",
     "text": "以色列交通部：停火协议生效后，特拉维夫附近的本・古里安机场将于午夜恢复全面运营。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3080005",
     "datetime": "2026-04-08T17:05:57+00:00",
-    "views": "1",
+    "views": "63",
     "text": "据以色列媒体报道，以色列国防前线指挥部表示，鉴于与伊朗的停火协议似乎已得到维持，他们在该国大部分地区正在放宽战时相关规定。而在以色列北部，因存在来自黎巴嫩真主党火箭弹袭击的威胁，仍会有一些限制措施实施。这些调整将于（当地时间）明天早上 6 点开始生效。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3080004",
     "datetime": "2026-04-08T17:05:37+00:00",
-    "views": "31",
+    "views": "63",
     "text": "10 年期美国国债收益率在拍卖结束后维持跌势，最新下跌 6.2 个基点，报 4.281%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3080003",
     "datetime": "2026-04-08T17:05:25+00:00",
-    "views": "31",
+    "views": "63",
     "text": "提醒：美联储官员戴利并未谈论 FOMC 货币政策。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3080002",
     "datetime": "2026-04-08T17:04:44+00:00",
-    "views": "66",
+    "views": "98",
     "text": "Anthropic 推出由 Claude 管理的智能体。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3080001",
     "datetime": "2026-04-08T17:03:18+00:00",
-    "views": "65",
+    "views": "126",
     "text": "以色列方面消息：“以色列本土前线司令部表示，随着与伊朗的停火协议得以维持，该国大部分地区将放宽战时管制措施。 在以色列北部，因黎巴嫩真主党仍有火箭弹袭击威胁，部分管制措施将继续保留。 上述调整将于明日早上 6 点起生效。”",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3080000",
     "datetime": "2026-04-08T17:03:17+00:00",
-    "views": "65",
+    "views": "96",
     "text": "据美国科技媒体 The Verge：微软(Msft.O)开发部门主管 Julia Liuson 辞职。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3079999",
     "datetime": "2026-04-08T17:02:18+00:00",
-    "views": "65",
+    "views": "126",
     "text": "据半岛电视台：半岛电视台记者 Mohammed Wishah 在加沙的一次以色列无人机袭击中身亡。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3079998",
     "datetime": "2026-04-08T17:02:17+00:00",
-    "views": "65",
+    "views": "126",
     "text": "美国至 4 月 8 日 10 年期国债竞拍-得标利率配置百分比 38.89%，前值 24.68%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3079997",
     "datetime": "2026-04-08T17:02:11+00:00",
-    "views": "95",
+    "views": "126",
     "text": "美国财政部拍卖 390 亿美元 10 年期国债，得标利率 4.282%（3 月 11 日为 4.217%），投标倍数 2.43（前次为 2.45）。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3079996",
     "datetime": "2026-04-08T17:01:57+00:00",
-    "views": "95",
+    "views": "126",
     "text": "美联储戴利在犹他州发表的预备讲话中未提及经济和货币政策前景。",
     "media_only": false,
     "image_url": null,
@@ -70099,32 +70108,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3072140"
-  },
-  {
-    "post": "Financial_Express/3072138",
-    "datetime": "2026-04-06T17:08:01+00:00",
-    "views": "133",
-    "text": "华尔街日报援引多名美国官员报道称，美国正计划对伊朗能源目标发动潜在打击。官员们表示，军事规划人员正在调出现有的潜在目标清单，以便在总统特朗普决定袭击能源基础设施时为其提供备选方案。一位官员声称，伊朗存在许多与军事相关的能源目标。另一位官员则指出，如果某种能源被用于军事目的（比如被用于为移动式火箭发射器提供燃料），那么这种能源就可以被视为合法的军事目标。\nWTI 原油期货短线上扬超 1.50 美元，逼近 113 美元，使得日内整体涨幅扩大至约 1.2%。纽约金 5 分钟内下跌 5.29 美元/盎司，报 4685.5 美元/盎司。标普 500 指数维持大约 0.3%的涨幅，道指涨 0.23%，纳指涨 0.35%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072138"
-  },
-  {
-    "post": "Financial_Express/3072137",
-    "datetime": "2026-04-06T17:07:58+00:00",
-    "views": "132",
-    "text": "据 AXIOS：一位以色列消息人士称，以色列总理内塔尼亚胡昨天在与美国总统特朗普的电话中敦促特朗普总统不要在现阶段寻求停火，并对这一举动所涉及的风险表示担忧。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072137"
-  },
-  {
-    "post": "Financial_Express/3072136",
-    "datetime": "2026-04-06T17:06:57+00:00",
-    "views": "166",
-    "text": "美、布两油短线上扬超 0.7 美元，现分别报 113.06 美元/桶和 107.58 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072136"
   }
 ]
