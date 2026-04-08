@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3080487",
+    "datetime": "2026-04-08T20:26:38+00:00",
+    "views": "1",
+    "text": "近期几乎所有引起内幕交易疑虑的（预测市场赌注）案例都基于间接证据，尚无确凿证据指向具体的内部人员。周三，区块链分析公司 Lookonchain 重点披露了三个新创建的账户，这些账户通过押注 4 月 7 日前达成停火并在高点抛售头寸，获利超过 48 万美元。\n关于“4 月 7 日合约”的最终结果仍处于争议之中，这一过程将迫使大多数交易者等待两天以上才能获得赔付。该市场的总交易额已突破 6000 万美元，在争议解决期间仍开放交易。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080487"
+  },
+  {
     "post": "Financial_Express/3080486",
     "datetime": "2026-04-08T20:25:57+00:00",
-    "views": "1",
+    "views": "3",
     "text": "达美航空：预计航空燃油成本将维持高位，直至近期市场动荡及地缘政治事件得到解决。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3080485",
     "datetime": "2026-04-08T20:25:37+00:00",
-    "views": "2",
+    "views": "3",
     "text": "达美航空：预计 2026 年剩余时间的燃油消耗量将始终与运力变化保持一致，与 2025 年水平相当。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3080484",
     "datetime": "2026-04-08T20:25:22+00:00",
-    "views": "3",
+    "views": "4",
     "text": "针对美伊停火的押注已为预测市场平台 Polymarket 带来超过 1.7 亿美元的交易额，这引发了关于投注者是否利用内幕信息进行交易的质疑。一系列由新创建的匿名账户在 Polymarket 上进行的、时机精准的伊朗相关押注已产生数十万美元利润，促使分析师彻查交易中是否存在内幕活动的迹象。由于用户正在争论“停火”的定义，部分中东相关赌约的赔付目前已被冻结，导致交易者无法提款。关于“何为停火”的界定争议已导致部分中东相关赌约的赔付被冻结，这暴露了预测市场行业的成长的烦恼，及其在清晰结算合约方面面临的困境。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3080483",
     "datetime": "2026-04-08T20:24:17+00:00",
-    "views": "4",
+    "views": "34",
     "text": "智利矿业部长表示，铜矿企业智利国家铜业公司需要从董事会开始进行“重大改革”。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3080481",
     "datetime": "2026-04-08T20:23:37+00:00",
-    "views": "33",
+    "views": "34",
     "text": "美国联邦航空管理局（FAA）表示，拟对美国航空公司处以 25.5 万美元罚款，原因是该航企被指违反毒品与酒精相关规定。",
     "media_only": false,
     "image_url": null,
@@ -70558,32 +70567,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3072570"
-  },
-  {
-    "post": "Financial_Express/3072567",
-    "datetime": "2026-04-06T20:26:17+00:00",
-    "views": "91",
-    "text": "美国商务部长卢特尼克将于 5 月 6 日出席众议院小组听证会。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072567"
-  },
-  {
-    "post": "Financial_Express/3072568",
-    "datetime": "2026-04-06T20:26:17+00:00",
-    "views": "91",
-    "text": "美国医疗保险和医疗补助服务中心（CMS）：从 2027 日历年起，除部分例外情况外，风险评分计算将排除未关联病历回顾记录中的诊断信息。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072568"
-  },
-  {
-    "post": "Financial_Express/3072566",
-    "datetime": "2026-04-06T20:26:00+00:00",
-    "views": "82",
-    "text": "美国商务部长卢特尼克将于 5 月 6 日出席众议院听证会。（CNN）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072566"
   }
 ]
