@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3080632",
+    "datetime": "2026-04-08T22:00:41+00:00",
+    "views": "8",
+    "text": "现货黄金突破 4730 美元/盎司，日内涨 0.26%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080632"
+  },
+  {
+    "post": "Financial_Express/3080630",
+    "datetime": "2026-04-08T22:00:40+00:00",
+    "views": "9",
+    "text": "现货白银突破 75 美元/盎司，日内涨 0.08%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080630"
+  },
+  {
+    "post": "Financial_Express/3080631",
+    "datetime": "2026-04-08T22:00:40+00:00",
+    "views": "8",
+    "text": "WTI 原油日内涨幅达 2.5%，报 96.85 美元/桶。\n纽约金日内跌幅达 0.5%，报 4746.8 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080631"
+  },
+  {
+    "post": "Financial_Express/3080628",
+    "datetime": "2026-04-08T22:00:19+00:00",
+    "views": "13",
+    "text": "日本伊藤忠商事和三急电铁的收购价格未予披露，金额或达数百亿日元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080628"
+  },
+  {
+    "post": "Financial_Express/3080629",
+    "datetime": "2026-04-08T22:00:19+00:00",
+    "views": "13",
+    "text": "纽约期金突破 4750 美元/盎司，日内跌 0.57%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080629"
+  },
+  {
+    "post": "Financial_Express/3080626",
+    "datetime": "2026-04-08T22:00:18+00:00",
+    "views": "14",
+    "text": "纽约期银日内跌 1%，现报 74.25 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080626"
+  },
+  {
+    "post": "Financial_Express/3080627",
+    "datetime": "2026-04-08T22:00:18+00:00",
+    "views": "13",
+    "text": "纽约期银突破 75 美元/盎司，日内跌 1.56%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080627"
+  },
+  {
+    "post": "Financial_Express/3080625",
+    "datetime": "2026-04-08T22:00:17+00:00",
+    "views": "14",
+    "text": "WTI 原油日内涨 2%，现报 96.70 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080625"
+  },
+  {
+    "post": "Financial_Express/3080624",
+    "datetime": "2026-04-08T21:59:17+00:00",
+    "views": "30",
+    "text": "伊藤忠商事和三急电铁计划拓展在东南亚的业务，并进军拥有石油工厂的中东市场。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080624"
+  },
+  {
     "post": "Financial_Express/3080623",
     "datetime": "2026-04-08T21:58:17+00:00",
-    "views": "19",
+    "views": "41",
     "text": "日本伊藤忠商事和三急电铁将收购新加坡工厂维修公司 SWTS。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3080622",
     "datetime": "2026-04-08T21:57:33+00:00",
-    "views": "31",
+    "views": "50",
     "text": "美国考虑取消针对委内瑞拉央行的制裁，从而解锁石油供应。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3080621",
     "datetime": "2026-04-08T21:57:18+00:00",
-    "views": "34",
+    "views": "52",
     "text": "美国考虑解除对委内瑞拉央行的制裁以开放石油市场。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3080620",
     "datetime": "2026-04-08T21:56:55+00:00",
-    "views": "37",
+    "views": "53",
     "text": "美国华盛顿特区一家联邦上诉法院拒绝现在就“驳回五角大楼封杀 Anthropic”的请求。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3080619",
     "datetime": "2026-04-08T21:51:58+00:00",
-    "views": "83",
+    "views": "94",
     "text": "美国法院文件显示：法院暂未批准阻止五角大楼将 Anthropic 列入黑名单的申请。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3080618",
     "datetime": "2026-04-08T21:49:05+00:00",
-    "views": "100",
+    "views": "108",
     "text": "周三（4 月 8 日）纽约尾盘，欧元兑美元涨 0.59%，报 1.1663；\n英镑兑美元涨 0.81%，报 1.3398；\n美元兑瑞郎跌 0.84%，报 0.7913。\n商品货币对中，澳元兑美元涨 0.97%，纽元兑美元涨 1.66%，美元兑加元跌 0.29%。\n瑞典克朗兑美元涨 1.68%，挪威克朗兑美元涨 0.69%，丹麦克朗兑美元涨 0.59%。\n波兰兹罗提兑美元涨 1.01%，匈牙利福林兑美元涨 1.75%。\n土耳其里拉兑美元涨 0.2%，南非兰特兑美元涨 2.35%，墨西哥比索兑美元涨 1.49%，巴西雷亚尔兑美元涨 1.06%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3080617",
     "datetime": "2026-04-08T21:46:57+00:00",
-    "views": "112",
+    "views": "119",
     "text": "英国唐宁街：首相斯塔默承诺将继续支持沙特阿拉伯，视其为可靠盟友。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3080615",
     "datetime": "2026-04-08T21:46:38+00:00",
-    "views": "113",
+    "views": "118",
     "text": "英国首相府：英国首相斯塔默今日在吉达会见了沙特王储本·萨勒曼。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3080616",
     "datetime": "2026-04-08T21:46:38+00:00",
-    "views": "114",
+    "views": "120",
     "text": "英国首相府：首相承诺将继续支持沙特这一坚定盟友。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3080614",
     "datetime": "2026-04-08T21:46:17+00:00",
-    "views": "112",
+    "views": "116",
     "text": "英国唐宁街：首相斯塔默今日在吉达会见了沙特阿拉伯王储穆罕默德·本·萨勒曼。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3080613",
     "datetime": "2026-04-08T21:44:55+00:00",
-    "views": "120",
+    "views": "124",
     "text": "当地时间 8 日晚，据伊拉克总理媒体办公室声明，伊拉克总理苏达尼当天与法国总统马克龙通电话。苏达尼在通话中表示，伊拉克安全部门已逮捕涉嫌在伊库区埃尔比勒发动无人机袭击致一名法国军人死亡的嫌疑人。（央视）",
     "media_only": false,
     "image_url": null,
@@ -70819,23 +70900,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3072675"
-  },
-  {
-    "post": "Financial_Express/3072674",
-    "datetime": "2026-04-06T22:00:38+00:00",
-    "views": "103",
-    "text": "纽约期金突破 4680 美元/盎司，日内跌 0.11%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072674"
-  },
-  {
-    "post": "Financial_Express/3072673",
-    "datetime": "2026-04-06T21:59:57+00:00",
-    "views": "114",
-    "text": "伊朗导弹击中了沙特阿拉伯的朱拜勒，引发大火。朱拜勒是中东最大的工业中心，拥有多家大型石化与能源设施。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072673"
   }
 ]
