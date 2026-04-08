@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3076620",
+    "datetime": "2026-04-08T00:26:38+00:00",
+    "views": "1",
+    "text": "科威特、沙特和巴林报告遭袭或拉响警报\n科威特军方在 X 上发帖表示，科威特防空系统目前正面临敌方导弹和无人机袭击。军方称，如果听到爆炸声，那是防空系统拦截攻击所致。另外，沙特阿拉伯报告利雅得存在潜在危险。据另一篇 X 帖子，巴林方面称已拉响警报。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076620"
+  },
+  {
+    "post": "Financial_Express/3076619",
+    "datetime": "2026-04-08T00:25:57+00:00",
+    "views": "1",
+    "text": "受美伊停火协议提振，欧元区斯托克 50 指数期货上涨 5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3076619"
+  },
+  {
     "post": "Financial_Express/3076618",
     "datetime": "2026-04-08T00:23:17+00:00",
-    "views": "34",
+    "views": "64",
     "text": "德国 DAX 期货大涨 4.2%，英国富时期货上涨 2.4%。",
     "media_only": false,
     "image_url": null,
@@ -11,8 +29,8 @@
   {
     "post": "Financial_Express/3076617",
     "datetime": "2026-04-08T00:23:03+00:00",
-    "views": "34",
-    "text": "德国 DAX 指数期货上涨 4.2%，英国富时 100 指数期货上涨 2.4%。",
+    "views": "64",
+    "text": "受美伊停火协议提振，欧元区斯托克 50 指数期货上涨 5%，德国 DAX 指数期货上涨 4.2%，英国富时 100 指数期货上涨 2.4%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3076617"
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3076616",
     "datetime": "2026-04-08T00:22:57+00:00",
-    "views": "34",
+    "views": "64",
     "text": "澳大利亚天然气生产商 Santos 预计于 4 月 18 日左右重启巴罗萨天然气生产\n4 月 8 日，根据澳大利亚证券交易所的一份文件，澳大利亚天然气生产商 Santos 正在推进巴罗萨天然气项目，以恢复生产并实现满负荷产量。该公司预计将在 4 月 18 日左右重新启动生产。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3076615",
     "datetime": "2026-04-08T00:22:38+00:00",
-    "views": "34",
+    "views": "64",
     "text": "德国 DAX 指数期货大涨 4.2%，英国富时 100 指数期货上涨 2.4%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3076614",
     "datetime": "2026-04-08T00:22:18+00:00",
-    "views": "34",
+    "views": "64",
     "text": "中信证券：建议关注云产业链及算力租赁相关标的\n中信证券指出，伴随 Agent 应用和多模态生态的爆发，资本开支与算力需求错配，全球 Token 用量正迎来新一轮加速增长，近两年云产业链有望进入量价齐升的发展大年。云产业链方面，需求推升价格水平，云产业链进入量价齐升周期。算力租赁方面，优质算力芯片供给偏紧，头部算力租赁厂商卡位优势突出，较高杠杆提升高增确定性。建议关注云产业链及算力租赁相关标的。（人民财讯）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3076613",
     "datetime": "2026-04-08T00:22:17+00:00",
-    "views": "33",
+    "views": "63",
     "text": "中信证券：看好二季度煤价表现 板块有望启动新一轮行情\n中信证券指出，据跟踪的样本煤炭上市公司，2026 年一季度净利润加总口径同比或增长 2.2%，动力煤公司整体同比或微增，冶金煤公司整体同比有望快速改善。中信证券看好二季度煤价表现，即便中东冲突缓和，能源供应恢复也需要时间，叠加北半球夏季旺季需求释放，国内外煤价在二季度中后期或形成共振，煤、化价格上涨的效应在二季度也有望充分体现，待市场对煤价预期形成新的催化剂，板块有望启动新一轮行情。（人民财讯）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3076611",
     "datetime": "2026-04-08T00:21:58+00:00",
-    "views": "62",
+    "views": "63",
     "text": "沙特民防部门表示，已针对北部边境地区潜在危险发布预警。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3076612",
     "datetime": "2026-04-08T00:21:58+00:00",
-    "views": "62",
+    "views": "63",
     "text": "马币兑美元上涨 0.8%至 3.9960，为 3 月 27 日以来最高。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3076610",
     "datetime": "2026-04-08T00:21:57+00:00",
-    "views": "62",
+    "views": "93",
     "text": "沙特民防部门表示，已就北部边境地区可能出现的危险发布预警。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3076609",
     "datetime": "2026-04-08T00:20:17+00:00",
-    "views": "63",
+    "views": "93",
     "text": "医渡科技中标北京肿瘤医院 488 万大模型项目\n4 月 8 日，医渡科技发布自愿性公告，公司中标北京肿瘤医院人工智能建设银医合作项目，项目总金额约为 488 万元。该项目被视为医渡科技在医疗人工智能大模型领域的又一突破性实践，未来将以北京大学肿瘤医院为标杆场景，为后续大模型业务的全面拓展树立示范案例。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3076606",
     "datetime": "2026-04-08T00:19:58+00:00",
-    "views": "63",
+    "views": "93",
     "text": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日有新西兰联储利率决定、美国 EIA 原油库存。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3076607",
     "datetime": "2026-04-08T00:19:58+00:00",
-    "views": "63",
+    "views": "93",
     "text": "卡塔尔国防部表示，该国武装部队拦截了一次针对卡塔尔的导弹袭击。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3076603",
     "datetime": "2026-04-08T00:18:18+00:00",
-    "views": "189",
+    "views": "219",
     "text": "布伦特暴跌 16% 此前美国和伊朗同意停火两周\n在美国和伊朗同意停火两周后，布伦特原油价格暴跌至每桶 100 美元以下。美国与以色列料将停止军事行动，以换取德黑兰重新开放霍尔木兹海峡。布伦特原油期货价格一度下跌 16%，至每桶 91.70 美元。",
     "media_only": false,
     "image_url": null,
@@ -52729,41 +52747,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3070706"
-  },
-  {
-    "post": "Financial_Express/3070705",
-    "datetime": "2026-04-06T00:26:37+00:00",
-    "views": "124",
-    "text": "伊朗议长指责特朗普将美国拖入地狱\n伊朗伊斯兰议会议长卡利巴夫 5 日在社交媒体上发文说，美国总统特朗普的鲁莽举动正将美国拖入地狱，每个家庭都深受其害，而整个中东地区也将因为特朗普执意听从以色列总理内塔尼亚胡的命令而陷入战火。 卡利巴夫表示，特朗普无法从战争罪行中获得任何好处。并称唯一真正的解决办法是尊重伊朗人民的权利，结束这场危险的游戏。（新华国际）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070705"
-  },
-  {
-    "post": "Financial_Express/3070704",
-    "datetime": "2026-04-06T00:25:58+00:00",
-    "views": "127",
-    "text": "伊朗方面称一枚炮弹击中位于伊拉克的美国领事馆\n据伊朗方面 6 日消息，一枚炮弹击中了位于伊拉克埃尔比勒的美国领事馆。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070704"
-  },
-  {
-    "post": "Financial_Express/3070703",
-    "datetime": "2026-04-06T00:25:37+00:00",
-    "views": "128",
-    "text": "日本首相高市早苗：我们要求伊朗确保所有船只的安全，包括来自日本的船只。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070703"
-  },
-  {
-    "post": "Financial_Express/3070702",
-    "datetime": "2026-04-06T00:24:57+00:00",
-    "views": "129",
-    "text": "伊朗向特拉维夫及以色列中部地区发射导弹。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3070702"
   }
 ]
