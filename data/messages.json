@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3080223",
+    "datetime": "2026-04-08T18:04:17+00:00",
+    "views": "1",
+    "text": "美联储会议纪要：官员们认为伊朗局势加剧了经济风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080223"
+  },
+  {
+    "post": "Financial_Express/3080224",
+    "datetime": "2026-04-08T18:04:17+00:00",
+    "views": "1",
+    "text": "5 月份从杰伊汉港口出口的阿塞拜疆 BTC 原油量定为 1567 万桶，4 月份为 1638 万桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080224"
+  },
+  {
+    "post": "Financial_Express/3080222",
+    "datetime": "2026-04-08T18:03:38+00:00",
+    "views": "33",
+    "text": "现货黄金在美联储会议纪要公布后维持涨势，最新上涨 0.7%，报每盎司 4735.27 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080222"
+  },
+  {
+    "post": "Financial_Express/3080220",
+    "datetime": "2026-04-08T18:03:37+00:00",
+    "views": "34",
+    "text": "美联储会议纪要：倾向于采用双向政策指引的官员群体有所扩大。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080220"
+  },
+  {
+    "post": "Financial_Express/3080221",
+    "datetime": "2026-04-08T18:03:37+00:00",
+    "views": "33",
+    "text": "美联储会议纪要：有几位与会者将其对降息时点的判断进一步推迟至更远的未来。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080221"
+  },
+  {
+    "post": "Financial_Express/3080218",
+    "datetime": "2026-04-08T18:03:18+00:00",
+    "views": "34",
+    "text": "美联储会议纪要：多数官员认为，战争带来的经济风险日后可能成为降息的理由。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080218"
+  },
+  {
+    "post": "Financial_Express/3080219",
+    "datetime": "2026-04-08T18:03:18+00:00",
+    "views": "34",
+    "text": "美联储会议纪要：多数与会者认为，中东局势发展令风险上行。通胀上行风险与就业下行风险仍处于高位，中东局势发展带来的风险已经上升。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080219"
+  },
+  {
+    "post": "Financial_Express/3080217",
+    "datetime": "2026-04-08T18:03:17+00:00",
+    "views": "34",
+    "text": "美联储会议纪要：多位与会者认为，若通胀按预期下行，降息或将变得适宜。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080217"
+  },
+  {
     "post": "Financial_Express/3080216",
     "datetime": "2026-04-08T18:03:07+00:00",
-    "views": "1",
+    "views": "34",
     "text": "美联储会议纪要：许多官员称，（若）通胀长期偏高会要求加息。\n某些官员认为，在利率路径上出现“双向”措辞的“可能性很高”。\n大部分官员说，战争可能会冲击到就业，保证降息。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3080214",
     "datetime": "2026-04-08T18:02:57+00:00",
-    "views": "1",
+    "views": "34",
     "text": "美联储会议纪要：绝大多数与会官员指出，朝着 2%通胀目标取得的进展可能慢于预期，且认为通胀持续高于目标的风险有所上升。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3080215",
     "datetime": "2026-04-08T18:02:57+00:00",
-    "views": "1",
+    "views": "34",
     "text": "美联储会议纪要：工作人员经济展望预测，经济活动将弱于 1 月会议时的展望预期。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3080213",
     "datetime": "2026-04-08T18:02:37+00:00",
-    "views": "32",
+    "views": "34",
     "text": "美联储工作人员此前已估定，冲突导致股价下跌、原油价格上涨对经济活动仅会产生小幅影响。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3080212",
     "datetime": "2026-04-08T18:02:19+00:00",
-    "views": "33",
+    "views": "65",
     "text": "美联储会议纪要：多位与会者认为，若通胀降幅符合预期，那么下调利率可能会是合适之举。两名与会官员将降息时点预期进一步延后。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3080210",
     "datetime": "2026-04-08T18:02:18+00:00",
-    "views": "33",
+    "views": "65",
     "text": "美联储会议纪要：绝大多数与会者指出，通胀向 2%目标迈进的进程可能慢于预期，同时认为通胀持续高于目标的风险有所上升。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3080211",
     "datetime": "2026-04-08T18:02:18+00:00",
-    "views": "33",
+    "views": "65",
     "text": "美联储会议纪要：多数与会官员认为，中东局势发展已使经济风险上升。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3080209",
     "datetime": "2026-04-08T18:02:17+00:00",
-    "views": "34",
+    "views": "36",
     "text": "美联储会议纪要：多数与会者担忧，旷日持久的冲突可能导致劳动力市场进一步走软，进而可能需要进一步降息。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3080208",
     "datetime": "2026-04-08T18:01:58+00:00",
-    "views": "34",
+    "views": "66",
     "text": "美联储 3 月 17 日至 18 日货币政策会议纪要显示，越来越多政策制定者认为，未来利率决策非常适合采用“双向”表述。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3080207",
     "datetime": "2026-04-08T18:01:57+00:00",
-    "views": "34",
+    "views": "66",
     "text": "美联储会议纪要：多位与会者认为，如果通胀按预期回落，那么下调利率或将变得适宜。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3080205",
     "datetime": "2026-04-08T18:01:38+00:00",
-    "views": "34",
+    "views": "66",
     "text": "美联储会议纪要：多数与会者表示，目前判断中东局势发展将对美国经济造成何种影响还为时过早。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3080206",
     "datetime": "2026-04-08T18:01:38+00:00",
-    "views": "34",
+    "views": "66",
     "text": "美联储会议纪要：几乎所有参会官员都支持 3 月会议不降息。",
     "media_only": false,
     "image_url": null,
@@ -70666,32 +70738,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3072286"
-  },
-  {
-    "post": "Financial_Express/3072285",
-    "datetime": "2026-04-06T18:04:37+00:00",
-    "views": "64",
-    "text": "特朗普：在伊朗被击落的无人机是被肩扛式导弹击中的。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072285"
-  },
-  {
-    "post": "Financial_Express/3072284",
-    "datetime": "2026-04-06T18:03:58+00:00",
-    "views": "94",
-    "text": "伊朗军方称击落两架美以无人机\n当地时间 6 日，伊朗伊斯兰革命卫队表示，一架美军 MQ-9 无人机刚刚在伊朗格什姆岛上空被击毁。此外，革命卫队航空航天部队的防空系统在安迪梅什克上空对一架以色列“赫尔墨斯-900”无人机实施跟踪并成功将其击毁。截至目前，美以方面暂无回应。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072284"
-  },
-  {
-    "post": "Financial_Express/3072283",
-    "datetime": "2026-04-06T18:03:57+00:00",
-    "views": "124",
-    "text": "伊朗军方称击落两架美以无人机\n金十数据 4 月 7 日讯，当地时间 6 日，伊朗伊斯兰革命卫队表示，一架美军 MQ-9 无人机刚刚在伊朗格什姆岛上空被击毁。此外，革命卫队航空航天部队的防空系统在安迪梅什克上空对一架以色列“赫尔墨斯-900”无人机实施跟踪并成功将其击毁。截至目前，美以方面暂无回应。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072283"
   }
 ]
