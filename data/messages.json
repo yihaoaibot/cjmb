@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3080638",
+    "datetime": "2026-04-08T22:01:58+00:00",
+    "views": "15",
+    "text": "标普 500 指数期货早盘接近持平，纳斯达克指数期货下跌 0.07%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080638"
+  },
+  {
+    "post": "Financial_Express/3080637",
+    "datetime": "2026-04-08T22:01:57+00:00",
+    "views": "15",
+    "text": "法国总统马克龙：将黎巴嫩加入美伊停火协议对于持久和平至关重要。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080637"
+  },
+  {
+    "post": "Financial_Express/3080636",
+    "datetime": "2026-04-08T22:01:37+00:00",
+    "views": "20",
+    "text": "美股股指期货周四开盘微跌，WTI 原油微涨，现货黄金高开 0.15%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080636"
+  },
+  {
+    "post": "Financial_Express/3080635",
+    "datetime": "2026-04-08T22:01:28+00:00",
+    "views": "20",
+    "text": "周四亚太盘初，WTI 原油日内涨幅达 2.5%，报 96.85 美元/桶。\n纽约金日内跌幅达 0.5%，报 4746.8 美元/盎司。\n三大股指期货至多跌 0.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080635"
+  },
+  {
+    "post": "Financial_Express/3080634",
+    "datetime": "2026-04-08T22:00:58+00:00",
+    "views": "26",
+    "text": "WTI 原油开盘上涨 2.6%，至每桶 96.83 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080634"
+  },
+  {
+    "post": "Financial_Express/3080633",
+    "datetime": "2026-04-08T22:00:57+00:00",
+    "views": "27",
+    "text": "美国印第安纳州宣布将暂停该州对燃油征收的 7%使用税，为期 30 天。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3080633"
+  },
+  {
     "post": "Financial_Express/3080632",
     "datetime": "2026-04-08T22:00:41+00:00",
-    "views": "8",
+    "views": "31",
     "text": "现货黄金突破 4730 美元/盎司，日内涨 0.26%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3080630",
     "datetime": "2026-04-08T22:00:40+00:00",
-    "views": "9",
+    "views": "32",
     "text": "现货白银突破 75 美元/盎司，日内涨 0.08%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3080628",
     "datetime": "2026-04-08T22:00:19+00:00",
-    "views": "13",
+    "views": "33",
     "text": "日本伊藤忠商事和三急电铁的收购价格未予披露，金额或达数百亿日元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3080629",
     "datetime": "2026-04-08T22:00:19+00:00",
-    "views": "13",
+    "views": "33",
     "text": "纽约期金突破 4750 美元/盎司，日内跌 0.57%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3080626",
     "datetime": "2026-04-08T22:00:18+00:00",
-    "views": "14",
+    "views": "34",
     "text": "纽约期银日内跌 1%，现报 74.25 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3080627",
     "datetime": "2026-04-08T22:00:18+00:00",
-    "views": "13",
+    "views": "33",
     "text": "纽约期银突破 75 美元/盎司，日内跌 1.56%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3080625",
     "datetime": "2026-04-08T22:00:17+00:00",
-    "views": "14",
+    "views": "34",
     "text": "WTI 原油日内涨 2%，现报 96.70 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3080624",
     "datetime": "2026-04-08T21:59:17+00:00",
-    "views": "30",
+    "views": "49",
     "text": "伊藤忠商事和三急电铁计划拓展在东南亚的业务，并进军拥有石油工厂的中东市场。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3080623",
     "datetime": "2026-04-08T21:58:17+00:00",
-    "views": "41",
+    "views": "59",
     "text": "日本伊藤忠商事和三急电铁将收购新加坡工厂维修公司 SWTS。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3080622",
     "datetime": "2026-04-08T21:57:33+00:00",
-    "views": "50",
+    "views": "64",
     "text": "美国考虑取消针对委内瑞拉央行的制裁，从而解锁石油供应。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3080621",
     "datetime": "2026-04-08T21:57:18+00:00",
-    "views": "52",
+    "views": "65",
     "text": "美国考虑解除对委内瑞拉央行的制裁以开放石油市场。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3080620",
     "datetime": "2026-04-08T21:56:55+00:00",
-    "views": "53",
+    "views": "66",
     "text": "美国华盛顿特区一家联邦上诉法院拒绝现在就“驳回五角大楼封杀 Anthropic”的请求。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3080619",
     "datetime": "2026-04-08T21:51:58+00:00",
-    "views": "94",
+    "views": "102",
     "text": "美国法院文件显示：法院暂未批准阻止五角大楼将 Anthropic 列入黑名单的申请。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +182,7 @@
   {
     "post": "Financial_Express/3080618",
     "datetime": "2026-04-08T21:49:05+00:00",
-    "views": "108",
+    "views": "116",
     "text": "周三（4 月 8 日）纽约尾盘，欧元兑美元涨 0.59%，报 1.1663；\n英镑兑美元涨 0.81%，报 1.3398；\n美元兑瑞郎跌 0.84%，报 0.7913。\n商品货币对中，澳元兑美元涨 0.97%，纽元兑美元涨 1.66%，美元兑加元跌 0.29%。\n瑞典克朗兑美元涨 1.68%，挪威克朗兑美元涨 0.69%，丹麦克朗兑美元涨 0.59%。\n波兰兹罗提兑美元涨 1.01%，匈牙利福林兑美元涨 1.75%。\n土耳其里拉兑美元涨 0.2%，南非兰特兑美元涨 2.35%，墨西哥比索兑美元涨 1.49%，巴西雷亚尔兑美元涨 1.06%。",
     "media_only": false,
     "image_url": null,
@@ -70855,50 +70909,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3072680"
-  },
-  {
-    "post": "Financial_Express/3072679",
-    "datetime": "2026-04-06T22:02:17+00:00",
-    "views": "101",
-    "text": "巴林称已启动警报，敦促民众“前往最近的安全地点”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072679"
-  },
-  {
-    "post": "Financial_Express/3072678",
-    "datetime": "2026-04-06T22:02:05+00:00",
-    "views": "99",
-    "text": "新西兰经济研究所（NZIER）影子委员会建议新西兰联储维持官方现金利率（OCR）不变。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072678"
-  },
-  {
-    "post": "Financial_Express/3072676",
-    "datetime": "2026-04-06T22:01:18+00:00",
-    "views": "100",
-    "text": "现货黄金突破 4660 美元/盎司，日内涨 0.24%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072676"
-  },
-  {
-    "post": "Financial_Express/3072677",
-    "datetime": "2026-04-06T22:01:18+00:00",
-    "views": "99",
-    "text": "巴林称已拉响警报，敦促民众“前往最近的安全地点”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072677"
-  },
-  {
-    "post": "Financial_Express/3072675",
-    "datetime": "2026-04-06T22:01:17+00:00",
-    "views": "102",
-    "text": "纽约期金突破 4690 美元/盎司，日内涨 0.13%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3072675"
   }
 ]
