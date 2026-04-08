@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3077651",
+    "datetime": "2026-04-08T06:00:59+00:00",
+    "views": "1",
+    "text": "我国发布全球首个全景式碳排放核算系统\n金十数据 4 月 8 日讯，今天（8 日），由中国科学院上海高等研究院牵头打造的“磐石·禹衡碳核算大模型”发布。该大模型通过生成式人工智能重构碳核算领域范式，动态刻画全球碳流动与碳溯源，是全球首个覆盖生产端、消费端及自然源的全景式碳排放核算系统，精准服务国家应对气候变化需求。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077651"
+  },
+  {
+    "post": "Financial_Express/3077652",
+    "datetime": "2026-04-08T06:00:59+00:00",
+    "views": "1",
+    "text": "台币兑美元上涨 0.6%至 31.774。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077652"
+  },
+  {
+    "post": "Financial_Express/3077650",
+    "datetime": "2026-04-08T06:00:37+00:00",
+    "views": "1",
+    "text": "特斯拉推送 FSD V14.3 版本：反应速度提升 20%\n特斯拉宣布，FSD V14.3 版本现已开始推送，其使用 MLIR（多级中间表示）将 AI 编译器和运行环境从底层进行重写，从而将反应速度提升 20%，并提高了模型迭代速度。此外，该版本升级了神经网络视觉编码器，提高了在低能见度场景下的理解能力，增强了 3D 几何理解能力，并扩展了对交通标志的理解。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077650"
+  },
+  {
+    "post": "Financial_Express/3077649",
+    "datetime": "2026-04-08T06:00:22+00:00",
+    "views": "3",
+    "text": "整点回顾：市场午后继续走强，沪指逼近 4000 点关口，创业板指大涨超 5%，贵金属、AI 应用、算力硬件、半导体芯片等方向领涨，沪深京三市上涨个股近 5100 只，成交达 2 万亿，较上日此时放量超 6700 亿。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077649"
+  },
+  {
+    "post": "Financial_Express/3077648",
+    "datetime": "2026-04-08T06:00:18+00:00",
+    "views": "3",
+    "text": "德国 2 月季调后制造业订单月率 0.9%，预期 2.00%，前值-11.10%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077648"
+  },
+  {
+    "post": "Financial_Express/3077646",
+    "datetime": "2026-04-08T06:00:05+00:00",
+    "views": "4",
+    "text": "德国 2 月季调后工厂订单环比 0.9%，预期 3%，前值 -11.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077646"
+  },
+  {
+    "post": "Financial_Express/3077647",
+    "datetime": "2026-04-08T06:00:05+00:00",
+    "views": "4",
+    "text": "德国 2 月季调后工厂订单同比 3.5%，预期 5.6%，前值 3.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077647"
+  },
+  {
+    "post": "Financial_Express/3077645",
+    "datetime": "2026-04-08T05:59:58+00:00",
+    "views": "5",
+    "text": "半导体板块持续走强，锴威特触及“20cm”涨停\n半导体板块持续走强，锴威特触及“20cm”涨停，臻镭科技、华润微、盛科通信-U、华海诚科、杰华特、聚辰股份等跟涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077645"
+  },
+  {
+    "post": "Financial_Express/3077644",
+    "datetime": "2026-04-08T05:59:49+00:00",
+    "views": "36",
+    "text": "沪深京三市成交额突破 2 万亿，较上日此时放量近 6700 亿。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3077644"
+  },
+  {
     "post": "Financial_Express/3077642",
     "datetime": "2026-04-08T05:58:18+00:00",
-    "views": "7",
+    "views": "41",
     "text": "美伊停火后，德商银行和德意志银行股价盘前上涨 6.3%-7.4%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3077643",
     "datetime": "2026-04-08T05:58:18+00:00",
-    "views": "7",
+    "views": "41",
     "text": "韩元兑美元汇率上涨 2%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3077641",
     "datetime": "2026-04-08T05:57:58+00:00",
-    "views": "10",
+    "views": "42",
     "text": "伊朗停火消息放出后，德国商业银行与德意志银行股价盘前交易上涨 6.3%至 7.4%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3077640",
     "datetime": "2026-04-08T05:57:57+00:00",
-    "views": "10",
+    "views": "42",
     "text": "谢里夫将向内阁汇报巴基斯坦在美伊停火协议中的作用。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3077639",
     "datetime": "2026-04-08T05:57:17+00:00",
-    "views": "42",
+    "views": "74",
     "text": "摩根士丹利将阿斯利康目标股价从 16000 便士上调至 16500 便士。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3077637",
     "datetime": "2026-04-08T05:56:37+00:00",
-    "views": "43",
+    "views": "75",
     "text": "美伊停火两周，欧洲斯托克 50 指数期货上涨 5.3%，德国 DAX 指数期货上涨 5.2%，富时 100 指数期货上涨 2.9%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3077636",
     "datetime": "2026-04-08T05:56:18+00:00",
-    "views": "43",
+    "views": "75",
     "text": "欧洲斯托克 50 指数期货上涨 5.3%，德国 DAX 指数期货上涨 5.2%，富时指数期货上涨 2.9%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3077635",
     "datetime": "2026-04-08T05:56:17+00:00",
-    "views": "43",
+    "views": "75",
     "text": "越南在国债拍卖中筹集 1.33 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3077634",
     "datetime": "2026-04-08T05:55:09+00:00",
-    "views": "80",
+    "views": "82",
     "text": "在伊朗停火消息发布后，欧洲斯托克 50 指数期货上涨 5.3%，德国 DAX 指数期货上涨 5.2%，英国富时 100 指数期货上涨 2.9%。\n德国商业银行、德意志银行股价在盘前交易中上涨 6.3%-7.4%。\n保时捷、梅赛德斯-奔驰、大众汽车、宝马股价在盘前交易中上涨 3.4%-5.4%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3077633",
     "datetime": "2026-04-08T05:54:57+00:00",
-    "views": "80",
+    "views": "82",
     "text": "巴基斯坦总理谢里夫将于周三召开内阁会议。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3077632",
     "datetime": "2026-04-08T05:54:18+00:00",
-    "views": "80",
+    "views": "112",
     "text": "欧股迎来强劲反弹预期 或创 2022 年以来最大涨幅\n金十数据 4 月 8 日讯，在美国和伊朗达成两周停火协议后，欧洲股市有望创下自 2022 年以来的最大涨幅。截至巴黎时间周三上午 7 点 27 分，欧洲斯托克 50 指数期货飙升 5.2%。百达集团高级投资顾问克里斯托弗·登比克表示：“市场显然对这一消息做出了上涨反应，预计交易员将在开盘时卖出石油和国防类股，并买入在危机期间遭受打击最严重的板块，如金融和原材料类股。”自 2 月底以来，斯托克 600 指数已下跌 6.8%，今年迄今几乎持平。登比克表示：“对金融市场来说，这可能是一个阶段的结束，但对全球经济来说，通胀冲击才刚刚开始，尤其是对食品和原材料而言。”",
     "media_only": false,
     "image_url": null,
@@ -58372,23 +58453,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3071099"
-  },
-  {
-    "post": "Financial_Express/3071098",
-    "datetime": "2026-04-06T06:00:18+00:00",
-    "views": "118",
-    "text": "LTIMindtree 将携手 UpGrad 企业服务部，为其员工推出麻省理工学院开放式学习的通用人工智能产品。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3071098"
-  },
-  {
-    "post": "Financial_Express/3071097",
-    "datetime": "2026-04-06T05:59:17+00:00",
-    "views": "121",
-    "text": "沙特因战争扰动市场，将油价溢价上调至历史高位\n随着伊朗近乎封锁霍尔木兹海峡，导致地区能源运输受阻，且冲突持续时间的不确定性引发市场剧烈震荡，沙特阿拉伯上调了销往亚洲的主力原油价格，创下历史新高。据一份价目表显示，国有石油生产商沙特阿美将 5 月份销往亚洲炼油商的旗舰产品阿拉伯轻质原油溢价上调至较基准油价高出 19.50 美元。这一涨幅低于机构调查中交易员与炼油商预期的每桶 40 美元溢价。美国与以色列针对伊朗的军事行动已颠覆全球能源市场。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3071097"
   }
 ]
