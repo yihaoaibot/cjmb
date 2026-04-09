@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3083041",
+    "datetime": "2026-04-09T12:32:47+00:00",
+    "views": "1",
+    "text": "大疆 pocket4 将于 4 月 16 日发布。（硬评测）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083041"
+  },
+  {
+    "post": "Financial_Express/3083040",
+    "datetime": "2026-04-09T12:32:18+00:00",
+    "views": "5",
+    "text": "数据公布后美国国债收益率小幅上行；10 年期美国国债收益率最新上涨 0.8 个基点，报 4.299%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083040"
+  },
+  {
+    "post": "Financial_Express/3083038",
+    "datetime": "2026-04-09T12:31:18+00:00",
+    "views": "47",
+    "text": "美国第四季度实际 GDP 年化季率终值 0.5%，预期 0.7%，前值 0.70%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083038"
+  },
+  {
+    "post": "Financial_Express/3083039",
+    "datetime": "2026-04-09T12:31:18+00:00",
+    "views": "47",
+    "text": "美国四季度个人消费支出(PCE)年化季环比终值 1.9%，预期 2%，初值 2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083039"
+  },
+  {
+    "post": "Financial_Express/3083037",
+    "datetime": "2026-04-09T12:31:03+00:00",
+    "views": "49",
+    "text": "美国 2 月个人支出月率 0.4%，预期 0.5%，前值 0.40%。\n美国至 4 月 4 日当周初请失业金人数 21.9 万人，预期 21 万人，前值由 20.2 万人修正为 20.3 万人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083037"
+  },
+  {
+    "post": "Financial_Express/3083036",
+    "datetime": "2026-04-09T12:31:02+00:00",
+    "views": "50",
+    "text": "美国核心 PCE 年率小幅回落， 月率维持不变\n金十数据 4 月 9 日讯，美国 2 月核心 PCE 物价指数年率录得 3.0%，低于上月的 3.1%，符合预期。美国 2 月核心 PCE 物价指数月率维持在 0.4%不变，符号预期。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083036"
+  },
+  {
     "post": "Financial_Express/3083035",
     "datetime": "2026-04-09T12:30:29+00:00",
-    "views": "11",
+    "views": "56",
     "text": "美国四季度实际 GDP 年化季环比终值 0.5%，预期 0.7%，初值 0.7%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3083034",
     "datetime": "2026-04-09T12:30:28+00:00",
-    "views": "11",
+    "views": "56",
     "text": "美国四季度核心个人消费支出(PCE)物价指数年化季环比终值 2.7%，预期 2.7%，初值 2.7%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3083032",
     "datetime": "2026-04-09T12:30:24+00:00",
-    "views": "11",
+    "views": "56",
     "text": "美国 2 月个人消费支出(PCE)环比 0.5%，预期 0.6%，前值 0.4%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3083033",
     "datetime": "2026-04-09T12:30:24+00:00",
-    "views": "11",
+    "views": "56",
     "text": "美国 2 月实际个人消费支出月率 0.1%，前值由 0.10%修正为 0%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3083029",
     "datetime": "2026-04-09T12:30:23+00:00",
-    "views": "12",
+    "views": "55",
     "text": "美国 2 月 PCE 物价指数年率 2.8%，预期 2.8%，前值 2.80%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3083030",
     "datetime": "2026-04-09T12:30:23+00:00",
-    "views": "12",
+    "views": "55",
     "text": "美国 2 月 PCE 物价指数环比 0.4%，预期 0.4%，前值 0.3%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3083031",
     "datetime": "2026-04-09T12:30:23+00:00",
-    "views": "11",
+    "views": "55",
     "text": "美国 2 月个人收入月率 -0.1%，预期 0.3%，前值 0.40%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3083027",
     "datetime": "2026-04-09T12:30:19+00:00",
-    "views": "15",
+    "views": "57",
     "text": "美国第四季度最终销售年化季率终值 0.3%，前值 0.4%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3083028",
     "datetime": "2026-04-09T12:30:19+00:00",
-    "views": "15",
+    "views": "57",
     "text": "美国 2 月 PCE 物价指数月率 0.4%，预期 0.4%，前值 0.30%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3083025",
     "datetime": "2026-04-09T12:30:18+00:00",
-    "views": "17",
+    "views": "55",
     "text": "美国至 3 月 28 日当周续请失业金人数 179.4 万人，预期 184 万人，前值由 184.1 万人修正为 183.2 万人。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3083026",
     "datetime": "2026-04-09T12:30:18+00:00",
-    "views": "17",
+    "views": "57",
     "text": "美国第四季度 PCE 物价指数年化季率终值 2.9%，前值 2.9%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3083024",
     "datetime": "2026-04-09T12:30:17+00:00",
-    "views": "16",
+    "views": "53",
     "text": "美国至 4 月 4 日当周初请失业金人数四周均值 20.95 万人，前值由 20.775 万人修正为 20.8 万人。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3083023",
     "datetime": "2026-04-09T12:30:15+00:00",
-    "views": "15",
+    "views": "51",
     "text": "美国 2 月 PCE 物价指数同比 2.8%，预期 2.8%，前值 2.8%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +182,7 @@
   {
     "post": "Financial_Express/3083022",
     "datetime": "2026-04-09T12:30:14+00:00",
-    "views": "15",
+    "views": "50",
     "text": "美国 2 月个人收入环比 -0.1%，预期 0.3%，前值 0.4%。",
     "media_only": false,
     "image_url": null,
@@ -71656,50 +71710,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3075009"
-  },
-  {
-    "post": "Financial_Express/3075008",
-    "datetime": "2026-04-07T12:32:38+00:00",
-    "views": "64",
-    "text": "美联储威廉姆斯：伊朗战争影响将推高总体通胀。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3075008"
-  },
-  {
-    "post": "Financial_Express/3075007",
-    "datetime": "2026-04-07T12:32:37+00:00",
-    "views": "64",
-    "text": "智利 3 月份贸易顺差为 30.61 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3075007"
-  },
-  {
-    "post": "Financial_Express/3075006",
-    "datetime": "2026-04-07T12:31:58+00:00",
-    "views": "66",
-    "text": "智利 3 月外汇储备总额达 507 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3075006"
-  },
-  {
-    "post": "Financial_Express/3075005",
-    "datetime": "2026-04-07T12:31:38+00:00",
-    "views": "66",
-    "text": "智利 3 月份铜出口额增至 51.6 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3075005"
-  },
-  {
-    "post": "Financial_Express/3075004",
-    "datetime": "2026-04-07T12:30:58+00:00",
-    "views": "97",
-    "text": "中国地震台网正式测定：04 月 07 日 20 时 24 分在新疆阿克苏地区沙雅县发生 3.3 级地震，震源深度 27 千米。​​​",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3075004"
   }
 ]
