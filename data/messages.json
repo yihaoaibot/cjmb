@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3083720",
+    "datetime": "2026-04-09T16:02:22+00:00",
+    "views": "2",
+    "text": "房地美：美国上周 30 年期按揭贷款/抵押贷款利率 6.37%，前值 6.46%——为连续第五周上涨、创 2025 年 9 月份以来最高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083720"
+  },
+  {
+    "post": "Financial_Express/3083719",
+    "datetime": "2026-04-09T16:02:17+00:00",
+    "views": "2",
+    "text": "谷歌：Gemini 应用现已可生成交互式模拟与模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083719"
+  },
+  {
+    "post": "Financial_Express/3083718",
+    "datetime": "2026-04-09T16:01:58+00:00",
+    "views": "33",
+    "text": "布伦特原油失守 96 美元/桶，日内涨 1.27%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083718"
+  },
+  {
+    "post": "Financial_Express/3083717",
+    "datetime": "2026-04-09T16:01:52+00:00",
+    "views": "33",
+    "text": "美国股指刷新日高，标普 500 指数涨 0.5%，道指涨 0.5%，纳指涨 0.6%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083717"
+  },
+  {
+    "post": "Financial_Express/3083716",
+    "datetime": "2026-04-09T16:01:38+00:00",
+    "views": "33",
+    "text": "纽约期银日内涨 1%，现报 76.15 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083716"
+  },
+  {
+    "post": "Financial_Express/3083714",
+    "datetime": "2026-04-09T16:01:17+00:00",
+    "views": "33",
+    "text": "美国农业部（USDA）：预计美国期末棉花库存 440 万捆，分析师预期 436 万捆，USDA 之前预计 440 万捆。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083714"
+  },
+  {
+    "post": "Financial_Express/3083715",
+    "datetime": "2026-04-09T16:01:17+00:00",
+    "views": "33",
+    "text": "美国农业部（USDA）：阿根廷 2025/26 年度大豆产量为 4800 万吨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083715"
+  },
+  {
+    "post": "Financial_Express/3083713",
+    "datetime": "2026-04-09T16:00:58+00:00",
+    "views": "64",
+    "text": "阿根廷 2025/26 年度玉米产量为 5200 万吨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083713"
+  },
+  {
+    "post": "Financial_Express/3083712",
+    "datetime": "2026-04-09T16:00:57+00:00",
+    "views": "64",
+    "text": "房地美：截至 4 月 9 日当周，美国 30 年期固定抵押贷款平均利率为 6.37%，前值为 6.46%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083712"
+  },
+  {
+    "post": "Financial_Express/3083711",
+    "datetime": "2026-04-09T16:00:54+00:00",
+    "views": "64",
+    "text": "美国农业部（USDA）：预计美国期末小麦总库存 9.38 亿蒲式耳，分析师预期 9.2314 亿蒲式耳，USDA 之前预计 9.31 亿蒲式耳。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3083711"
+  },
+  {
     "post": "Financial_Express/3083710",
     "datetime": "2026-04-09T16:00:38+00:00",
-    "views": "2",
+    "views": "64",
     "text": "大众将停止在美国生产其旗舰电动车型。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3083709",
     "datetime": "2026-04-09T16:00:34+00:00",
-    "views": "2",
+    "views": "64",
     "text": "美国农业部（USDA）：预计美国期末玉米库存 21.27 亿蒲式耳，分析师预期 21.3086 亿蒲式耳，USDA 之前预计 21.27 亿蒲式耳。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3083708",
     "datetime": "2026-04-09T16:00:23+00:00",
-    "views": "2",
+    "views": "64",
     "text": "美国农业部（USDA）：预计美国期末大豆库存 3.50 亿蒲式耳，分析师预期 3.4941 亿蒲式耳，USDA 之前预计 3.50 亿蒲式耳。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3083707",
     "datetime": "2026-04-09T16:00:19+00:00",
-    "views": "2",
+    "views": "64",
     "text": "美国抵押贷款利率自伊朗战争以来首次下降至 6.37%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3083705",
     "datetime": "2026-04-09T16:00:18+00:00",
-    "views": "2",
+    "views": "63",
     "text": "黎巴嫩向纳哈里亚市发射 5 枚火箭。以色列国防军表示，从黎巴嫩发射的火箭击中了空旷地区。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3083706",
     "datetime": "2026-04-09T16:00:18+00:00",
-    "views": "2",
+    "views": "64",
     "text": "达拉斯联储修剪平均 PCE 物价指数 2 月经折年化后环比上涨 1.8%，1 月该数据为上涨 2.7%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3083704",
     "datetime": "2026-04-09T15:59:24+00:00",
-    "views": "34",
+    "views": "65",
     "text": "巴基斯坦总理办公室 9 日发表声明说，巴总理夏巴兹当天同黎巴嫩总理萨拉姆通电话。萨拉姆在通话中寻求巴方支持，推动立即停止针对黎巴嫩及其人民的袭击。\n声明说，夏巴兹在通话中强烈谴责以色列持续对黎巴嫩发动袭击，并对冲突造成大量人员伤亡表示哀悼。巴基斯坦正为推动地区和平作出真诚努力。声明还说，萨拉姆感谢夏巴兹为和平所作努力，双方同意继续保持联系。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3083703",
     "datetime": "2026-04-09T15:59:19+00:00",
-    "views": "34",
+    "views": "65",
     "text": "北约秘书长吕特： 我认为乌克兰加入北约的问题无法在短期内解决。 我不认为这在政治上会很快发生——这是我公正的评估。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3083702",
     "datetime": "2026-04-09T15:59:18+00:00",
-    "views": "34",
+    "views": "65",
     "text": "据以色列媒体称，真主党不久前向边境城市纳哈里亚发射了几枚火箭。以色列国防军表示，从黎巴嫩发射的火箭击中了空旷地区。目前没有伤亡的报告。根据军方数据，今天真主党从黎巴嫩向以色列北部发射了大约 70 枚火箭。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3083701",
     "datetime": "2026-04-09T15:58:57+00:00",
-    "views": "34",
+    "views": "65",
     "text": "哥伦比亚颁布法令，强制养老金机构加大本地投资力度。",
     "media_only": false,
     "image_url": null,
@@ -72700,77 +72790,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3075568"
-  },
-  {
-    "post": "Financial_Express/3075565",
-    "datetime": "2026-04-07T16:02:38+00:00",
-    "views": "9",
-    "text": "美国能源信息署（EIA）预计 2026 年西得克萨斯中质原油（WTI）均价为每桶 87.41 美元，此前预测为每桶 73.61 美元；2027 年 WTI 均价预测为每桶 72.43 美元，此前预测为每桶 60.81 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3075565"
-  },
-  {
-    "post": "Financial_Express/3075566",
-    "datetime": "2026-04-07T16:02:38+00:00",
-    "views": "16",
-    "text": "美国能源信息署（EIA）预计，2026 年全球石油需求量将为 1.046 亿桶/日，低于此前预测的 1.052 亿桶/日；预计 2027 年需求量为 1.062 亿桶/日，此前预测为 1.066 亿桶/日。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3075566"
-  },
-  {
-    "post": "Financial_Express/3075564",
-    "datetime": "2026-04-07T16:02:37+00:00",
-    "views": "7",
-    "text": "美国能源信息署（EIA）预计 2026 年布伦特原油平均价格为每桶 96 美元，此前预测为每桶 78.84 美元；2027 年预测为每桶 76.09 美元，此前预测为每桶 64.47 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3075564"
-  },
-  {
-    "post": "Financial_Express/3075563",
-    "datetime": "2026-04-07T16:02:26+00:00",
-    "views": "6",
-    "text": "纳斯达克 100 指数跌幅收窄至不足 1%。\nWTI 原油 5 分钟内下跌 0.52 美元/桶，报 114.61 美元/桶。\n布伦特原油 5 分钟内下跌 0.51 美元/桶，报 109.6 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3075563"
-  },
-  {
-    "post": "Financial_Express/3075562",
-    "datetime": "2026-04-07T16:02:17+00:00",
-    "views": "6",
-    "text": "声明显示：伊拉克内阁授权伊拉克石油运输公司在无法销售石油时，租赁海湾地区可用的油轮用于储存或其他用途，以延长炼油厂的运营。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3075562"
-  },
-  {
-    "post": "Financial_Express/3075560",
-    "datetime": "2026-04-07T16:01:39+00:00",
-    "views": "4",
-    "text": "阿尔斯通：合同延期，价值约为 1.4 亿欧元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3075560"
-  },
-  {
-    "post": "Financial_Express/3075558",
-    "datetime": "2026-04-07T16:01:18+00:00",
-    "views": "5",
-    "text": "巴林外交部长：联合国安理会未能通过霍尔木兹海峡决议草案，传递出错误信号——即对航行安全的威胁可以在没有强硬应对的情况下不了了之。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3075558"
-  },
-  {
-    "post": "Financial_Express/3075559",
-    "datetime": "2026-04-07T16:01:18+00:00",
-    "views": "5",
-    "text": "阿尔斯通已将其负责运营维护的美国亚特兰大哈茨菲尔德-杰克逊国际机场捷运系统合同延长五年。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3075559"
   }
 ]
