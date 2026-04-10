@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3085138",
+    "datetime": "2026-04-10T03:04:57+00:00",
+    "views": "5",
+    "text": "李昌镛：进行外汇干预时，有效性也是需要考虑的因素。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3085138"
+  },
+  {
+    "post": "Financial_Express/3085137",
+    "datetime": "2026-04-10T03:04:38+00:00",
+    "views": "8",
+    "text": "李昌镛：政策应关注外汇与美元指数，而非汇率水平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3085137"
+  },
+  {
+    "post": "Financial_Express/3085136",
+    "datetime": "2026-04-10T03:04:10+00:00",
+    "views": "45",
+    "text": "习近平总书记会见中国国民党主席郑丽文。（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3085136"
+  },
+  {
+    "post": "Financial_Express/3085135",
+    "datetime": "2026-04-10T03:04:04+00:00",
+    "views": "41",
+    "text": "隔夜 SHIBOR 报 1.2220%，下降 0.10 个基点。\n7 天 SHIBOR 报 1.3190%，下降 0.10 个基点。\n3 个月 SHIBOR 报 1.4715%，下降 0.45 个基点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3085135"
+  },
+  {
     "post": "Financial_Express/3085134",
     "datetime": "2026-04-10T03:02:37+00:00",
-    "views": "3",
+    "views": "75",
     "text": "印尼 3 月份消费者信心指数跌至 122.9。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3085133",
     "datetime": "2026-04-10T03:01:58+00:00",
-    "views": "34",
+    "views": "75",
     "text": "A 股欧菲光盘中异动拉升，现涨超 5%；消息面上，华为即将发布的 AI 眼镜摄像头模组由欧菲光独供。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3085132",
     "datetime": "2026-04-10T03:01:38+00:00",
-    "views": "36",
+    "views": "77",
     "text": "辽宁省大连市交通运输局原局长王少成接受审查调查\n中央纪委国家监委网站 4 月 10 日通报，据大连市纪委监委消息：辽宁省大连市交通运输局原党组书记、局长王少成涉嫌严重违纪违法，目前正接受大连市纪委监委纪律审查和监察调查。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3085131",
     "datetime": "2026-04-10T03:01:37+00:00",
-    "views": "36",
+    "views": "77",
     "text": "中共中央总书记习近平 4 月 10 日上午在北京会见中国国民党主席郑丽文。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3085130",
     "datetime": "2026-04-10T03:00:57+00:00",
-    "views": "73",
+    "views": "112",
     "text": "欧菲光盘中异动拉升，一度涨超 6%\n4 月 10 日上午，欧菲光盘中异动拉升，一度涨超 6%。消息面上，从产业链获悉，华为即将发布的 AI 眼镜摄像头模组由欧菲光独供。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3085129",
     "datetime": "2026-04-10T03:00:17+00:00",
-    "views": "77",
+    "views": "114",
     "text": "中共中央总书记习近平 10 日上午在北京会见中国国民党主席郑丽文。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3085128",
     "datetime": "2026-04-10T03:00:11+00:00",
-    "views": "79",
+    "views": "115",
     "text": "整点回顾：市场早间高开高走，沪指盘中涨超 1%，创业板指涨超 3%，液冷概念股持续活跃，英维克触及涨停，创新药概念异动，昊帆生物涨近 10%，个股呈现普涨态势，沪深京三市近 4700 股飘红，开盘一个半小时成交 1.34 万亿，较上日此时放量超 600 亿。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3085127",
     "datetime": "2026-04-10T02:59:57+00:00",
-    "views": "80",
+    "views": "115",
     "text": "国家网络安全通报中心：近期集中爆发多起供应链投毒攻击事件，涉及两大核心供应链场景\n据国家网络安全通报中心消息，国家通报中心监测发现，近期集中爆发多起供应链投毒攻击事件，攻击目标包括 API 研发工具 Apifox、Python 开发库 LiteLLM 以及 JavaScript HTTP 库 Axios，涉及开源软件仓库和商用工具两大核心供应链场景。其中，Axios 投毒事件因 OpenClaw 等大量 AI 应用及插件生态直接依赖该库，导致风险通过依赖链向终端用户进一步蔓延。三起供应链投毒事件呈现攻击隐蔽性强、影响范围广、危害程度高和传播速度快的共性特征，可造成凭据遭窃取、远程代码执行和敏感数据泄露等严重危害。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3085126",
     "datetime": "2026-04-10T02:59:38+00:00",
-    "views": "79",
+    "views": "113",
     "text": "伊朗副外长：美国“必须在战争与停火之间作出选择”\n伊朗副外长赛义德·哈提卜扎德 9 日在接受英国广播公司采访时表示，以色列 8 日对黎巴嫩发动的空袭“严重违反”有关停火安排。停火安排应涵盖黎巴嫩，但美国和以色列对此持不同说法，美国“必须在战争与停火之间作出选择”。 哈提卜扎德说，伊朗已于 8 日晚些时候向白宫发出非常明确的信息，称美国不能一边要求停火，一边放任盟友“开始一场屠杀”。他说，伊朗、美国及其各自盟友都应遵守停火，而黎巴嫩真主党“确实遵守了这一安排”。 哈提卜扎德还表示，伊朗希望霍尔木兹海峡保持和平。但他同时说，伊朗需要与阿曼及国际社会就安全通行机制进行合作，以确保这一通道不被军舰“滥用”。 美国和伊朗在美国东部时间 7 日晚宣布停火并将开启为期两周的谈判。 以色列国防军 8 日发表声明称，以军在黎巴嫩多地实施大规模空袭，打击超过 100 个真主党指挥中心及军事目标，并称这是本次美以伊战事中规模最大的一次打击。据黎巴嫩国家通讯社 9 日报道，黎巴嫩卫生部长说，以色列 8 日对黎巴嫩发动的袭击已造成 203 人死亡、1000 多人受伤。(新华社)",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3085125",
     "datetime": "2026-04-10T02:58:37+00:00",
-    "views": "80",
+    "views": "113",
     "text": "华为即将发布的 AI 眼镜摄像头模组由欧菲光独供\n从产业链获悉，华为即将发布的 AI 眼镜摄像头模组由欧菲光独供。日前，华为终端 BG 的 CEO 何刚通过微博发布一张带有“HUAWEI AI Glasses”水印的第一视角图片，并配文“亮点自寻，敬请期待”，引发市场对于华为 AI 眼镜新品的关注。（财联社）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3085124",
     "datetime": "2026-04-10T02:58:08+00:00",
-    "views": "81",
+    "views": "114",
     "text": "10 点 58 分，24 产融 04（240563.SH）上证固收显示成交价 90.00 元，较昨收价 70.302 元上涨 28.02%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3085123",
     "datetime": "2026-04-10T02:57:59+00:00",
-    "views": "82",
+    "views": "115",
     "text": "SK 海力士新厂 M15X 扩大最先进 DRAM 的量产规模\nSK 海力士将于近日在位于韩国清州的新厂 M15X 正式扩大最先进 DRAM 的量产规模。业界预测，M15X 将成为 SK 海力士 2027 年前持续扩大高带宽存储器（HBM）产量的核心据点。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3085122",
     "datetime": "2026-04-10T02:57:58+00:00",
-    "views": "81",
+    "views": "114",
     "text": "A 股液冷服务器板块震荡走高，英维克触及涨停，南方泵业涨超 10%，圣阳股份、申菱环境、曙光数创等跟涨。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3085121",
     "datetime": "2026-04-10T02:57:38+00:00",
-    "views": "80",
+    "views": "112",
     "text": "李昌镛：在美元整体波动的背景下不应过度解读韩元走势。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3085120",
     "datetime": "2026-04-10T02:57:37+00:00",
-    "views": "76",
+    "views": "108",
     "text": "金十图示：2026 年 04 月 10 日（周五）全球主要科技与互联网公司市值变化",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3085119",
     "datetime": "2026-04-10T02:57:32+00:00",
-    "views": "105",
+    "views": "107",
     "text": "韩国央行行长李昌镛：在美元更大的波动中，不应过度解读韩元的走势。",
     "media_only": false,
     "image_url": null,
@@ -71377,59 +71413,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3077136"
-  },
-  {
-    "post": "Financial_Express/3077135",
-    "datetime": "2026-04-08T03:05:00+00:00",
-    "views": "51",
-    "text": "近日，微盟正式推出首个面向零售行业的专属 AI Skill——“Weimob Admin Skills”，并接入 OpenClaw（“龙虾”）生态。这款 Skill 将在微盟官网开放入口，可适配包括 QClaw 在内各大厂商推出的“本地版龙虾”，这是中国 SaaS 行业首个面向垂直领域的 AI Skill。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3077135"
-  },
-  {
-    "post": "Financial_Express/3077133",
-    "datetime": "2026-04-08T03:04:18+00:00",
-    "views": "88",
-    "text": "美官员称特朗普宣布停火前与巴基斯坦、以色列高层通话\n金十数据 4 月 8 日讯，据美国方面 7 日消息，两名美国官员表示，美国总统特朗普在宣布与伊朗停火前，分别同巴基斯坦陆军参谋长穆尼尔和以色列总理内塔尼亚胡通电话。消息没有披露通话具体内容。据悉，穆尼尔是美国和伊朗之间的关键联络人。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3077133"
-  },
-  {
-    "post": "Financial_Express/3077134",
-    "datetime": "2026-04-08T03:04:18+00:00",
-    "views": "88",
-    "text": "截至 4 月 4 日当周，日本炼油厂开工率为 74.3%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3077134"
-  },
-  {
-    "post": "Financial_Express/3077132",
-    "datetime": "2026-04-08T03:03:57+00:00",
-    "views": "90",
-    "text": "国台办：欢迎更多台湾优质产品进入大陆市场\n8 日上午，国台办举行例行新闻发布会。会上，国台办发言人朱凤莲表示，第六届中国国际消费品博览会将于 4 月 13 日至 18 日在海南省海口市举办。据了解，本届消博会首次设立台湾特色展区，20 家台企将带来特色文创、生技健康、时尚好物、甄选美食等优质产品。14 亿多人口的大陆市场足够大，是全球最具潜力的消费市场。我们欢迎更多台湾优质产品进入大陆市场，也将持续为广大台商台企共享大陆发展机遇、扎根大陆发展搭建更多市场化、专业化平台。(中国新闻网)",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3077132"
-  },
-  {
-    "post": "Financial_Express/3077130",
-    "datetime": "2026-04-08T03:03:39+00:00",
-    "views": "91",
-    "text": "新西兰储备银行行长布雷曼：货币政策委员会密切关注通胀压力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3077130"
-  },
-  {
-    "post": "Financial_Express/3077131",
-    "datetime": "2026-04-08T03:03:39+00:00",
-    "views": "91",
-    "text": "严厉打击非法采砂 水利部批复新一轮大江大河采砂管理规划\n记者从水利部了解到，近日，水利部批复长江、黄河、淮河、珠江、松花江和辽河流域重要河段河道采砂管理规划（2026—2030 年），划定大江大河重要河段河道采砂的禁采区、可采区和保留区，明确控制开采高程、禁采期、作业方式等关键指标。全面实行河道砂石采运电子管理单，加强北斗定位、电子围栏、视频监控、无人机巡查等技术应用，严厉打击非法采砂行为。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3077131"
   }
 ]
