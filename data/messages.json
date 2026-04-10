@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3086309",
+    "datetime": "2026-04-10T10:04:36+00:00",
+    "views": "3",
+    "text": "4 月 10 日，据 DesignArena 最新发布的排行榜，在 Video to Video 功能上，阿里巴巴最新发布的大模型 Wan2.7 以 1334Elo 评分高居榜首，领先第二名 Grok Imagine（1266 分），优势达 68 分。一周前，Wan2.7-Video 视频生成系列模型刚刚发布，涵盖文生视频、图生视频、参考生视频和视频编辑四大模型，拥有全面的创作控制力，一句话即可对视频进行局部或整体修改。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3086309"
+  },
+  {
+    "post": "Financial_Express/3086308",
+    "datetime": "2026-04-10T10:04:17+00:00",
+    "views": "5",
+    "text": "印度卢比收跌 0.1%，报 1 美元兑 92.7275 卢比；前收盘价为 1 美元兑 92.6575 卢比。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3086308"
+  },
+  {
+    "post": "Financial_Express/3086307",
+    "datetime": "2026-04-10T10:03:39+00:00",
+    "views": "8",
+    "text": "永信至诚：公司银行账户被冻结 8130 万元\n永信至诚公告，近日收到江苏省苏州市中级人民法院送达的《民事起诉状》等相关材料。原告昆山九华电子设备厂与公司就技术合同纠纷案已立案，尚未开庭审理。原告请求判令解除合同并支付赔偿金 8130.54 万元。公司对原告的诉讼主张不予认可，已委托专业律师团队积极应诉。公司 1 个银行账户被冻结资金 8130 万元，占公司最近一期经审计总资产的 6.67%，占公司最近一期经审计货币资金的 16.60%。公司整体资金储备充足、现金流稳定，本次冻结不会对公司日常生产经营产生重大不利影响。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3086307"
+  },
+  {
     "post": "Financial_Express/3086306",
     "datetime": "2026-04-10T10:03:08+00:00",
-    "views": "1",
+    "views": "8",
     "text": "国家互联网信息办公室、工业和信息化部、公安部印发《网络安全标识管理办法》。网络安全标识对应的网络安全能力由低到高依次为基础级、增强级、领先级，相应的标识等级分别用一星、二星、三星表示。基础级要求产品应当满足相关国家标准的基本安全要求，如不存在弱口令或通用默认口令、建立漏洞管理机制并动态修复漏洞、保持软件更新等；增强级要求产品网络安全能力达到同类产品先进水平；领先级要求产品网络安全能力达到同类产品领先水平，同时还应通过渗透性测试方法，检测抵御高级别网络攻击的能力。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3086305",
     "datetime": "2026-04-10T10:02:38+00:00",
-    "views": "3",
+    "views": "7",
     "text": "俄罗斯副总理诺瓦克：政府正在考虑增加国内市场的燃料供应。预计到 2026 年，俄罗斯的液体碳氢化合物产量将达到约 5.15 亿吨。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3086304",
     "datetime": "2026-04-10T10:02:37+00:00",
-    "views": "3",
+    "views": "5",
     "text": "浙江医药：2025 年净利润 8.73 亿元，同比下降 24.74%\n金十数据 4 月 10 日讯，浙江医药公告，2025 年营业收入 88.81 亿元，同比下降 5.28%。净利润 8.73 亿元，同比下降 24.74%。公司拟向全体股东每股派发现金红利 0.28 元（含税）。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3086303",
     "datetime": "2026-04-10T10:02:27+00:00",
-    "views": "5",
+    "views": "6",
     "text": "当地时间 10 日，伊朗红新月会主席表示，美以在过去实施的袭击行动，针对的目标涵盖伊朗 32 所大学、857 所包括中小学在内的非高等教育学校及 20 个红新月会中心。多辆救护车和红新月会车辆在执行任务过程中直接遭到攻击。（央视）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3086301",
     "datetime": "2026-04-10T10:02:19+00:00",
-    "views": "5",
+    "views": "6",
     "text": "伊朗红新月会：美以袭击目标涵盖伊全国近 900 所大中小学\n当地时间 10 日，伊朗红新月会主席表示，美以在过去实施的袭击行动，针对的目标涵盖伊朗 32 所大学、857 所包括中小学在内的非高等教育学校及 20 个红新月会中心。多辆救护车和红新月会车辆在执行任务过程中直接遭到攻击。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3086302",
     "datetime": "2026-04-10T10:02:19+00:00",
-    "views": "5",
+    "views": "6",
     "text": "工信部发布关于公开征求《航空无线电导航台（站）电磁环境要求》强制性国家标准（征求意见稿）意见的公示。",
     "media_only": false,
     "image_url": null,
@@ -67957,50 +67984,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3078695"
-  },
-  {
-    "post": "Financial_Express/3078694",
-    "datetime": "2026-04-08T10:04:38+00:00",
-    "views": "31",
-    "text": "美伊同意停火后 首批船只通过霍尔木兹海峡\n金十数据 4 月 8 日讯，当地时间 4 月 8 日，船舶追踪网站 MarineTraffic 记录到美伊同意停火后首批通过霍尔木兹海峡的船舶活动。据了解，希腊籍散货船“NJ Earth”号于格林尼治时间 8 时 44 分通过海峡，悬挂利比里亚国旗的“Daytona Beach”号于格林尼治时间 6 时 59 分通过，此前该船于格林尼治时间 5 时 28 分离开阿巴斯港。根据 MarineTraffic 的数据，该地区仍有数百艘船舶，其中包括 426 艘油轮、34 艘液化石油气运输船和 19 艘液化天然气运输船。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3078694"
-  },
-  {
-    "post": "Financial_Express/3078693",
-    "datetime": "2026-04-08T10:04:18+00:00",
-    "views": "31",
-    "text": "特朗普政府或将伊朗战争的资金削减至 800 亿美元至 1000 亿美元之间。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3078693"
-  },
-  {
-    "post": "Financial_Express/3078692",
-    "datetime": "2026-04-08T10:03:44+00:00",
-    "views": "31",
-    "text": "伊朗石油部官方网站 Shana：伊朗拉万岛炼油厂于当地时间上午 10 点左右遭到袭击。\n正在进行灭火工作；暂无人员伤亡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3078692"
-  },
-  {
-    "post": "Financial_Express/3078691",
-    "datetime": "2026-04-08T10:03:37+00:00",
-    "views": "31",
-    "text": "特朗普政府拟大幅削减伊朗战争相关拨款申请。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3078691"
-  },
-  {
-    "post": "Financial_Express/3078690",
-    "datetime": "2026-04-08T10:03:17+00:00",
-    "views": "31",
-    "text": "印度卢比收涨 0.5%，报 1 美元兑 92.58 卢比；前一交易日收盘价为 93.0075。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3078690"
   }
 ]
