@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3087956",
+    "datetime": "2026-04-11T01:48:57+00:00",
+    "views": "1",
+    "text": "OpenAI：第三方安全事件未波及密码与 OpenAI API 密钥。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3087956"
+  },
+  {
+    "post": "Financial_Express/3087955",
+    "datetime": "2026-04-11T01:48:37+00:00",
+    "views": "9",
+    "text": "OpenAI：事件的根本原因是 GitHub Actions 工作流中的配置错误，已予以解决。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3087955"
+  },
+  {
+    "post": "Financial_Express/3087954",
+    "datetime": "2026-04-11T01:48:18+00:00",
+    "views": "14",
+    "text": "OpenAI：自 5 月 8 日起，较旧版本的 macOS 桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3087954"
+  },
+  {
+    "post": "Financial_Express/3087953",
+    "datetime": "2026-04-11T01:47:37+00:00",
+    "views": "48",
+    "text": "美国航空航天局：四名执行“阿耳忒弥斯 2 号”任务的宇航员安全出舱。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3087953"
+  },
+  {
     "post": "Financial_Express/3087952",
     "datetime": "2026-04-11T01:46:18+00:00",
-    "views": "11",
+    "views": "56",
     "text": "以色列对黎巴嫩南部泰勒杰尔镇发动突袭。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3087951",
     "datetime": "2026-04-11T01:46:17+00:00",
-    "views": "11",
+    "views": "56",
     "text": "OpenAI：未发现证据表明本公司系统或知识产权遭到泄露，亦未发现本公司软件遭到篡改。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3087950",
     "datetime": "2026-04-11T01:45:17+00:00",
-    "views": "48",
+    "views": "91",
     "text": "OpenAI 就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵\n金十数据 4 月 11 日讯，OpenAI 称识别出一项涉及第三方开发者库 Axios 的安全问题，该问题属于一起更广泛的行业事件的一部分。公司称，未发现任何证据表明 OpenAI 用户数据被访问、其系统遭到入侵或软件被篡改。出于高度审慎的考虑，OpenAI 正采取措施保护用于认证其 macOS 应用程序为合法 OpenAI 应用的流程。公司正在更新其安全认证，此举要求所有 macOS 用户将 OpenAI 应用程序更新至最新版本。OpenAI 表示，这将有助于防范任何（无论可能性多小）试图分发冒充 OpenAI 伪造应用的风险。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3087949",
     "datetime": "2026-04-11T01:44:58+00:00",
-    "views": "52",
+    "views": "93",
     "text": "OpenAI：自 5 月 8 日起，macOS 桌面端旧版本应用将不再获得更新与支持，且可能无法正常使用。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3087948",
     "datetime": "2026-04-11T01:44:57+00:00",
-    "views": "52",
+    "views": "92",
     "text": "能源情报集团记者阿蒙娜•巴克尔：拥有财力和技术资源的海湾国家将会建设替代管道以绕过霍尔木兹海峡。这的确需要时间并且耗资数十亿美元，但如果没有沙特的东西方管道和阿联酋的富查伊拉，目前的出口将会完全停滞。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3087947",
     "datetime": "2026-04-11T01:44:38+00:00",
-    "views": "53",
+    "views": "94",
     "text": "OpenAI：本次事件的根本原因是 GitHub Actions 工作流程存在配置错误，我们已修复该问题。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3087946",
     "datetime": "2026-04-11T01:43:37+00:00",
-    "views": "86",
+    "views": "96",
     "text": "OpenAI：更新安全证书，将要求 macOS 用户将 OpenAI 应用更新至最新版本。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3087945",
     "datetime": "2026-04-11T01:41:38+00:00",
-    "views": "124",
+    "views": "133",
     "text": "海南洋浦港一季度集装箱吞吐量超 98 万标箱 同比增长 94%\n金十数据 4 月 11 日讯，据洋浦交通运输和港航局，2026 年一季度，洋浦港集装箱吞吐量累计完成 98.37 万标箱，接近翻倍增长（同比增长 94.37%）；其中外贸集装箱吞吐量增速尤为迅猛，基本实现 2 倍增长（同比增长 199%），成功取得一季度港口生产的“开门红”。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3087944",
     "datetime": "2026-04-11T01:40:58+00:00",
-    "views": "125",
+    "views": "133",
     "text": "巴媒：巴基斯坦海军称接到一商船遇险求救信号，成功救起 18 名外籍船员\n据巴基斯坦《黎明报》、英国路透社等媒体报道，巴基斯坦海军 10 日发表声明称，在接到一艘商船的遇险求救信号后，巴海军在阿拉伯海展开行动，成功救起包括外国公民在内的 18 名船员。报道援引巴海军声明称，获救的外籍船员中包括中国、孟加拉国、缅甸、越南和印度尼西亚的公民。声明表示，此前这艘名为“金秋”号的商船在阿拉伯海北部距离巴基斯坦海岸约 200 海里（约 370 公里）处发出求救信号。巴海军声明称，“获救船员已被安全送往卡拉奇接受进一步治疗，随后将被送回各自国家。”（环球网）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3087942",
     "datetime": "2026-04-11T01:39:17+00:00",
-    "views": "133",
+    "views": "136",
     "text": "NASA： 阿耳忒弥斯 2 号的四位宇航员已安全出舱。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3087941",
     "datetime": "2026-04-11T01:38:58+00:00",
-    "views": "134",
+    "views": "137",
     "text": "海南洋浦港一季度集装箱吞吐量超 98 万标箱 同比增长 94%\n记者从洋浦交通运输和港航局获悉，2026 年一季度，洋浦港集装箱吞吐量累计完成 98.37 万标箱，接近翻倍增长（同比增长 94.37%）；其中外贸集装箱吞吐量增速尤为迅猛，基本实现 2 倍增长（同比增长 199%），成功取得一季度港口生产的“开门红”。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3087940",
     "datetime": "2026-04-11T01:38:17+00:00",
-    "views": "134",
+    "views": "137",
     "text": "科威特：过去 24 小时探测并拦截 7 架敌对无人机\n科威特国防部 10 日发表声明说，过去 24 小时内探测并拦截了 7 架进入科威特领空的敌对无人机。 声明还说，9 日晚对科威特国民警卫队设施的袭击是来自伊朗方面，袭击造成数人受伤，伤者正接受治疗，袭击还造成重大损失。 目前尚无任何一方宣称发动了上述袭击。 伊朗伊斯兰革命卫队公共关系部门 10 日凌晨发表声明说，停火以来，革命卫队从未向任何国家发射任何武器。如果外界媒体报道的相关袭击事件属实，那么肇事者无疑是以色列或美国。(新华社)",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3087939",
     "datetime": "2026-04-11T01:37:57+00:00",
-    "views": "135",
+    "views": "138",
     "text": "美国联邦航空管理局警告在美国南部边境 5 英里范围内飞行的飞行员：若未广播广播式自动相关监视外向(ADS-B OUT)信号，飞行员可能会受到反无人机系统的影响。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3087938",
     "datetime": "2026-04-11T01:37:38+00:00",
-    "views": "132",
+    "views": "135",
     "text": "荷兰率先批准特斯拉 FSD 自动驾驶软件上路 为欧盟首例\n金十数据 4 月 11 日讯，据荷兰监管机构消息，FSD 已在荷兰获得监管批准，在欧洲市场尚属 FSD 首次获批。特斯拉希望欧盟其他国家也能采取类似行动。FSD 的广泛采用是特斯拉增长战略的核心。该公司目前约 1 万亿美元估值中的很大一部分，取决于马斯克押注由人工智能驱动的自动驾驶软件及机器人出租车将成为公司未来主要收入来源。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3087937",
     "datetime": "2026-04-11T01:37:17+00:00",
-    "views": "133",
+    "views": "137",
     "text": "OpenAI：无证据表明 OpenAI 用户数据遭访问。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3087936",
     "datetime": "2026-04-11T01:36:57+00:00",
-    "views": "136",
+    "views": "140",
     "text": "OpenAI：发现涉及 Axios 的安全问题。",
     "media_only": false,
     "image_url": null,
@@ -61189,32 +61225,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3081097"
-  },
-  {
-    "post": "Financial_Express/3081096",
-    "datetime": "2026-04-09T01:48:57+00:00",
-    "views": "125",
-    "text": "霍尔木兹海峡再次关闭 伊朗：伊美还没开谈 3 项停战条款已遭违反\n金十数据 4 月 9 日讯，伊朗伊斯兰议会议长卡利巴夫 8 日经由社交媒体发表声明说，伊朗与美国的谈判尚未开始，伊方所提 10 项停战条款已有 3 项遭到违反。按照卡利巴夫的说法，遭到违反的内容，一是在黎巴嫩实现停火，二是禁止侵犯伊朗领空，三是接受伊朗铀浓缩活动。美国白宫新闻秘书莱维特 8 日在记者会上宣布，美伊将于当地时间 11 日上午在巴基斯坦首都伊斯兰堡举行首轮会谈。她称，美方接受的是伊朗经过修改后的新方案，而非最初提出的有关条款内容。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081096"
-  },
-  {
-    "post": "Financial_Express/3081094",
-    "datetime": "2026-04-09T01:47:38+00:00",
-    "views": "125",
-    "text": "泰国外交部确认海峡遇袭船员遇难\n金十数据 4 月 9 日讯，据 CNN 报道，泰国副总理兼外交部长 Sihasak Phuangketkeow 在新闻发布会上表示，上个月在霍尔木兹海峡遭到袭击的一艘悬挂泰国国旗的船只上，已有三名船员确认遇难。这艘长 180 米的散货船“马尤里·纳里”号于 3 月 11 日在穿越该水道时遭到袭击，当时船上有 23 名船员。阿曼当局随后展开救援行动，成功营救了其中的 20 名船员。Phuangketkeow 表示：“不幸的是，我们最终发现其余三名船员已在事故中丧生。”他表示，他将于本月晚些时候访问阿曼，对阿曼当局的营救工作表示感谢，并寻求该国政府的协助，以确保仍滞留在海峡内的九艘泰国船只能够安全通行。目前，阿曼当局一直与德黑兰方面保持联系。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081094"
-  },
-  {
-    "post": "Financial_Express/3081095",
-    "datetime": "2026-04-09T01:47:38+00:00",
-    "views": "125",
-    "text": "瑞穗：油价对日本 CPI 的影响或将于明年见顶\n瑞穗证券的经济学家表示，虽然中东冲突引发的油价强劲上行压力很大，但其对日本能源成本的大部分影响预计将被政府补贴所抵消。他们说，与此同时，对商品（主要是食品）的影响将逐步显现，这些类别的价格涨幅预计将在 2027 年春季至秋季之间见顶，滞后期为四到六个季度。他们补充说，由于预计霍尔木兹海峡的安全得到保障以及通行完全正常化需要时间，原油价格暂时可能保持高位。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081095"
   }
 ]
