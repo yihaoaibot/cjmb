@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3087952",
+    "datetime": "2026-04-11T01:46:18+00:00",
+    "views": "11",
+    "text": "以色列对黎巴嫩南部泰勒杰尔镇发动突袭。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3087952"
+  },
+  {
+    "post": "Financial_Express/3087951",
+    "datetime": "2026-04-11T01:46:17+00:00",
+    "views": "11",
+    "text": "OpenAI：未发现证据表明本公司系统或知识产权遭到泄露，亦未发现本公司软件遭到篡改。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3087951"
+  },
+  {
+    "post": "Financial_Express/3087950",
+    "datetime": "2026-04-11T01:45:17+00:00",
+    "views": "48",
+    "text": "OpenAI 就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵\n金十数据 4 月 11 日讯，OpenAI 称识别出一项涉及第三方开发者库 Axios 的安全问题，该问题属于一起更广泛的行业事件的一部分。公司称，未发现任何证据表明 OpenAI 用户数据被访问、其系统遭到入侵或软件被篡改。出于高度审慎的考虑，OpenAI 正采取措施保护用于认证其 macOS 应用程序为合法 OpenAI 应用的流程。公司正在更新其安全认证，此举要求所有 macOS 用户将 OpenAI 应用程序更新至最新版本。OpenAI 表示，这将有助于防范任何（无论可能性多小）试图分发冒充 OpenAI 伪造应用的风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3087950"
+  },
+  {
     "post": "Financial_Express/3087949",
     "datetime": "2026-04-11T01:44:58+00:00",
-    "views": "3",
+    "views": "52",
     "text": "OpenAI：自 5 月 8 日起，macOS 桌面端旧版本应用将不再获得更新与支持，且可能无法正常使用。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3087948",
     "datetime": "2026-04-11T01:44:57+00:00",
-    "views": "4",
+    "views": "52",
     "text": "能源情报集团记者阿蒙娜•巴克尔：拥有财力和技术资源的海湾国家将会建设替代管道以绕过霍尔木兹海峡。这的确需要时间并且耗资数十亿美元，但如果没有沙特的东西方管道和阿联酋的富查伊拉，目前的出口将会完全停滞。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3087947",
     "datetime": "2026-04-11T01:44:38+00:00",
-    "views": "7",
+    "views": "53",
     "text": "OpenAI：本次事件的根本原因是 GitHub Actions 工作流程存在配置错误，我们已修复该问题。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3087946",
     "datetime": "2026-04-11T01:43:37+00:00",
-    "views": "43",
+    "views": "86",
     "text": "OpenAI：更新安全证书，将要求 macOS 用户将 OpenAI 应用更新至最新版本。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3087945",
     "datetime": "2026-04-11T01:41:38+00:00",
-    "views": "86",
+    "views": "124",
     "text": "海南洋浦港一季度集装箱吞吐量超 98 万标箱 同比增长 94%\n金十数据 4 月 11 日讯，据洋浦交通运输和港航局，2026 年一季度，洋浦港集装箱吞吐量累计完成 98.37 万标箱，接近翻倍增长（同比增长 94.37%）；其中外贸集装箱吞吐量增速尤为迅猛，基本实现 2 倍增长（同比增长 199%），成功取得一季度港口生产的“开门红”。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3087944",
     "datetime": "2026-04-11T01:40:58+00:00",
-    "views": "87",
+    "views": "125",
     "text": "巴媒：巴基斯坦海军称接到一商船遇险求救信号，成功救起 18 名外籍船员\n据巴基斯坦《黎明报》、英国路透社等媒体报道，巴基斯坦海军 10 日发表声明称，在接到一艘商船的遇险求救信号后，巴海军在阿拉伯海展开行动，成功救起包括外国公民在内的 18 名船员。报道援引巴海军声明称，获救的外籍船员中包括中国、孟加拉国、缅甸、越南和印度尼西亚的公民。声明表示，此前这艘名为“金秋”号的商船在阿拉伯海北部距离巴基斯坦海岸约 200 海里（约 370 公里）处发出求救信号。巴海军声明称，“获救船员已被安全送往卡拉奇接受进一步治疗，随后将被送回各自国家。”（环球网）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3087942",
     "datetime": "2026-04-11T01:39:17+00:00",
-    "views": "128",
+    "views": "133",
     "text": "NASA： 阿耳忒弥斯 2 号的四位宇航员已安全出舱。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3087941",
     "datetime": "2026-04-11T01:38:58+00:00",
-    "views": "99",
+    "views": "134",
     "text": "海南洋浦港一季度集装箱吞吐量超 98 万标箱 同比增长 94%\n记者从洋浦交通运输和港航局获悉，2026 年一季度，洋浦港集装箱吞吐量累计完成 98.37 万标箱，接近翻倍增长（同比增长 94.37%）；其中外贸集装箱吞吐量增速尤为迅猛，基本实现 2 倍增长（同比增长 199%），成功取得一季度港口生产的“开门红”。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3087940",
     "datetime": "2026-04-11T01:38:17+00:00",
-    "views": "130",
+    "views": "134",
     "text": "科威特：过去 24 小时探测并拦截 7 架敌对无人机\n科威特国防部 10 日发表声明说，过去 24 小时内探测并拦截了 7 架进入科威特领空的敌对无人机。 声明还说，9 日晚对科威特国民警卫队设施的袭击是来自伊朗方面，袭击造成数人受伤，伤者正接受治疗，袭击还造成重大损失。 目前尚无任何一方宣称发动了上述袭击。 伊朗伊斯兰革命卫队公共关系部门 10 日凌晨发表声明说，停火以来，革命卫队从未向任何国家发射任何武器。如果外界媒体报道的相关袭击事件属实，那么肇事者无疑是以色列或美国。(新华社)",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3087939",
     "datetime": "2026-04-11T01:37:57+00:00",
-    "views": "102",
+    "views": "135",
     "text": "美国联邦航空管理局警告在美国南部边境 5 英里范围内飞行的飞行员：若未广播广播式自动相关监视外向(ADS-B OUT)信号，飞行员可能会受到反无人机系统的影响。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3087938",
     "datetime": "2026-04-11T01:37:38+00:00",
-    "views": "101",
+    "views": "132",
     "text": "荷兰率先批准特斯拉 FSD 自动驾驶软件上路 为欧盟首例\n金十数据 4 月 11 日讯，据荷兰监管机构消息，FSD 已在荷兰获得监管批准，在欧洲市场尚属 FSD 首次获批。特斯拉希望欧盟其他国家也能采取类似行动。FSD 的广泛采用是特斯拉增长战略的核心。该公司目前约 1 万亿美元估值中的很大一部分，取决于马斯克押注由人工智能驱动的自动驾驶软件及机器人出租车将成为公司未来主要收入来源。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3087937",
     "datetime": "2026-04-11T01:37:17+00:00",
-    "views": "101",
+    "views": "133",
     "text": "OpenAI：无证据表明 OpenAI 用户数据遭访问。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3087936",
     "datetime": "2026-04-11T01:36:57+00:00",
-    "views": "104",
+    "views": "136",
     "text": "OpenAI：发现涉及 Axios 的安全问题。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3087935",
     "datetime": "2026-04-11T01:36:51+00:00",
-    "views": "104",
+    "views": "136",
     "text": "09 点 36 分，24 特别国债 01（019742.SH）上交所显示成交价 115.12 元，较昨收价 105.118 元上涨 9.51%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3087934",
     "datetime": "2026-04-11T01:34:25+00:00",
-    "views": "127",
+    "views": "128",
     "text": "WTI 5 月原油期货收跌 1.30 美元，跌幅 1.33%，报 96.57 美元/桶，本周累计下跌超 13.42%，创 2020 年以来最大单周跌幅。\n布伦特 6 月原油期货收报 95.20 美元/桶，本周累计下跌超 12.68%。\nNYMEX 5 月天然气期货收报 2.6480 美元/百万英热单位，本周累跌将近 5.43%。\nNYMEX 5 月汽油期货收报 3.0373 美元/加仑，本周累跌超 7.62%；NYMEX 5 月取暖油期货收报 3.7616 美元/加仑，本周累跌超 13.82%。",
     "media_only": false,
     "image_url": null,
@@ -61189,77 +61216,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3081095"
-  },
-  {
-    "post": "Financial_Express/3081093",
-    "datetime": "2026-04-09T01:46:58+00:00",
-    "views": "124",
-    "text": "甲醇连续主力合约日内跌 4%，现报 3179.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081093"
-  },
-  {
-    "post": "Financial_Express/3081092",
-    "datetime": "2026-04-09T01:46:57+00:00",
-    "views": "124",
-    "text": "月壤“时间胶囊”揭示太阳系有机质演化史\n记者今天（4 月 9 日）从中国科学院地质与地球物理研究所获悉，该所与国内外科研机构组成的研究团队，近期首次在嫦娥五号和嫦娥六号返回月壤颗粒表面系统识别出多种含氮有机质，并揭示了其演化过程。研究表明，月球不仅记录了小行星和彗星向内太阳系输送有机质的历史，也保存了这些有机物在无大气天体表面进一步被撞击和辐照改造的证据。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081092"
-  },
-  {
-    "post": "Financial_Express/3081091",
-    "datetime": "2026-04-09T01:46:38+00:00",
-    "views": "124",
-    "text": "三井商船首席执行官：我们的首要任务是保障每艘船舶的安全。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081091"
-  },
-  {
-    "post": "Financial_Express/3081090",
-    "datetime": "2026-04-09T01:46:13+00:00",
-    "views": "124",
-    "text": "4 月 8 日，外交部部长助理蔡伟在北京同俄罗斯外交部副部长阿利莫夫举行中俄联合国和安理会事务磋商。双方重点就当前国际形势、联合国和安理会事务、国际地区热点问题等深入交换意见，一致同意共同捍卫多边主义，维护以联合国为核心的国际体系和以国际法为基础的国际秩序，为推动热点问题政治解决作出积极努力。（央视）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081090"
-  },
-  {
-    "post": "Financial_Express/3081089",
-    "datetime": "2026-04-09T01:45:57+00:00",
-    "views": "124",
-    "text": "三井商船首席执行官：伊朗局势每天都在变化，未来几天应该会有更清晰的进展。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081089"
-  },
-  {
-    "post": "Financial_Express/3081088",
-    "datetime": "2026-04-09T01:45:38+00:00",
-    "views": "124",
-    "text": "一个由约 30 个北大西洋公约组织成员国大使组成的代表团正在安排于 4 月中旬访问日本，预计将与日本官员讨论国防工业领域的合作。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081088"
-  },
-  {
-    "post": "Financial_Express/3081087",
-    "datetime": "2026-04-09T01:45:37+00:00",
-    "views": "124",
-    "text": "中俄举行联合国和安理会事务磋商\n金十数据 4 月 9 日讯，2026 年 4 月 8 日，外交部部长助理蔡伟在北京同俄罗斯外交部副部长阿利莫夫举行中俄联合国和安理会事务磋商。双方重点就当前国际形势、联合国和安理会事务、国际地区热点问题等深入交换意见，一致同意共同捍卫多边主义，维护以联合国为核心的国际体系和以国际法为基础的国际秩序，为推动热点问题政治解决作出积极努力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081087"
-  },
-  {
-    "post": "Financial_Express/3081086",
-    "datetime": "2026-04-09T01:45:18+00:00",
-    "views": "124",
-    "text": "苹果概念走强 博杰股份涨停\n苹果概念走强，博杰股份涨停，东山精密、水晶光电、恒铭达、蓝特光学等涨幅居前。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081086"
   }
 ]
