@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3087959",
     "datetime": "2026-04-11T01:50:37+00:00",
-    "views": "6",
+    "views": "54",
     "text": "北约代表团将大规模访日 专家：或为兵力调动提前布局\n总台军事观察员魏东旭：北约官员访问日本，说明这个军事集团试图将触角延伸到亚太，延伸到太平洋区域，这是为了配合美国提出的战略构想。现在美军认为在太平洋地区的兵力不足以和强大的对手抗衡，甚至在大规模军事行动的过程当中，美国及其地区盟友的军事力量即使整合到一起，可能也无法取胜，甚至面临惨败的可能性。在这种情况下，美军在亚太地区就需要更多的外援，不排除在美国的协调下，会有更多的北约成员国向亚太地区调派军事力量，所以他们就需要更多的后勤基础设施进行保障。未来北约其他成员国的兵力在亚太地区进行常态化的部署，日本方面可能会提供基地，所以现在北约和日本构建起防务合作机制，可能就是在为后续的兵力调动进行提前的布局。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3087957",
     "datetime": "2026-04-11T01:49:38+00:00",
-    "views": "13",
+    "views": "60",
     "text": "OpenAI：发现涉及 Axios 的安全问题。\n没有证据表明 OpenAI 用户数据被访问。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3087958",
     "datetime": "2026-04-11T01:49:38+00:00",
-    "views": "14",
+    "views": "60",
     "text": "工信部原副部长苏波：2030 年新能源汽车市场渗透率预计超过 70%\n4 月 11 日，智能电动汽车发展高层论坛（2026）举办，国家制造强国建设战略咨询委副主任、工信部原副部长苏波表示，“十五五”是我国由汽车大国建成汽车强国的决胜期，新能源汽车要承担制造强国、科技强国、交通强国、“双碳”目标的国家使命。到 2030 年，新能源汽车将成为汽车市场绝对主体，国内渗透率将超过 70%。到“十五五”末期，建成新能源汽车强国目标有望提前实现。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3087956",
     "datetime": "2026-04-11T01:48:57+00:00",
-    "views": "47",
+    "views": "91",
     "text": "OpenAI：第三方安全事件未波及密码与 OpenAI API 密钥。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3087955",
     "datetime": "2026-04-11T01:48:37+00:00",
-    "views": "51",
+    "views": "95",
     "text": "OpenAI：事件的根本原因是 GitHub Actions 工作流中的配置错误，已予以解决。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3087954",
     "datetime": "2026-04-11T01:48:18+00:00",
-    "views": "55",
+    "views": "97",
     "text": "OpenAI：自 5 月 8 日起，较旧版本的 macOS 桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3087953",
     "datetime": "2026-04-11T01:47:37+00:00",
-    "views": "58",
+    "views": "100",
     "text": "美国航空航天局：四名执行“阿耳忒弥斯 2 号”任务的宇航员安全出舱。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3087952",
     "datetime": "2026-04-11T01:46:18+00:00",
-    "views": "94",
+    "views": "105",
     "text": "以色列对黎巴嫩南部泰勒杰尔镇发动突袭。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3087951",
     "datetime": "2026-04-11T01:46:17+00:00",
-    "views": "94",
+    "views": "105",
     "text": "OpenAI：未发现证据表明本公司系统或知识产权遭到泄露，亦未发现本公司软件遭到篡改。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3087950",
     "datetime": "2026-04-11T01:45:17+00:00",
-    "views": "98",
+    "views": "107",
     "text": "OpenAI 就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵\n金十数据 4 月 11 日讯，OpenAI 称识别出一项涉及第三方开发者库 Axios 的安全问题，该问题属于一起更广泛的行业事件的一部分。公司称，未发现任何证据表明 OpenAI 用户数据被访问、其系统遭到入侵或软件被篡改。出于高度审慎的考虑，OpenAI 正采取措施保护用于认证其 macOS 应用程序为合法 OpenAI 应用的流程。公司正在更新其安全认证，此举要求所有 macOS 用户将 OpenAI 应用程序更新至最新版本。OpenAI 表示，这将有助于防范任何（无论可能性多小）试图分发冒充 OpenAI 伪造应用的风险。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3087949",
     "datetime": "2026-04-11T01:44:58+00:00",
-    "views": "101",
+    "views": "139",
     "text": "OpenAI：自 5 月 8 日起，macOS 桌面端旧版本应用将不再获得更新与支持，且可能无法正常使用。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3087948",
     "datetime": "2026-04-11T01:44:57+00:00",
-    "views": "100",
+    "views": "137",
     "text": "能源情报集团记者阿蒙娜•巴克尔：拥有财力和技术资源的海湾国家将会建设替代管道以绕过霍尔木兹海峡。这的确需要时间并且耗资数十亿美元，但如果没有沙特的东西方管道和阿联酋的富查伊拉，目前的出口将会完全停滞。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3087947",
     "datetime": "2026-04-11T01:44:38+00:00",
-    "views": "100",
+    "views": "136",
     "text": "OpenAI：本次事件的根本原因是 GitHub Actions 工作流程存在配置错误，我们已修复该问题。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3087946",
     "datetime": "2026-04-11T01:43:37+00:00",
-    "views": "132",
+    "views": "139",
     "text": "OpenAI：更新安全证书，将要求 macOS 用户将 OpenAI 应用更新至最新版本。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +128,7 @@
   {
     "post": "Financial_Express/3087945",
     "datetime": "2026-04-11T01:41:38+00:00",
-    "views": "136",
+    "views": "141",
     "text": "海南洋浦港一季度集装箱吞吐量超 98 万标箱 同比增长 94%\n金十数据 4 月 11 日讯，据洋浦交通运输和港航局，2026 年一季度，洋浦港集装箱吞吐量累计完成 98.37 万标箱，接近翻倍增长（同比增长 94.37%）；其中外贸集装箱吞吐量增速尤为迅猛，基本实现 2 倍增长（同比增长 199%），成功取得一季度港口生产的“开门红”。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3087944",
     "datetime": "2026-04-11T01:40:58+00:00",
-    "views": "135",
+    "views": "140",
     "text": "巴媒：巴基斯坦海军称接到一商船遇险求救信号，成功救起 18 名外籍船员\n据巴基斯坦《黎明报》、英国路透社等媒体报道，巴基斯坦海军 10 日发表声明称，在接到一艘商船的遇险求救信号后，巴海军在阿拉伯海展开行动，成功救起包括外国公民在内的 18 名船员。报道援引巴海军声明称，获救的外籍船员中包括中国、孟加拉国、缅甸、越南和印度尼西亚的公民。声明表示，此前这艘名为“金秋”号的商船在阿拉伯海北部距离巴基斯坦海岸约 200 海里（约 370 公里）处发出求救信号。巴海军声明称，“获救船员已被安全送往卡拉奇接受进一步治疗，随后将被送回各自国家。”（环球网）",
     "media_only": false,
     "image_url": null,
@@ -146,7 +146,7 @@
   {
     "post": "Financial_Express/3087942",
     "datetime": "2026-04-11T01:39:17+00:00",
-    "views": "138",
+    "views": "142",
     "text": "NASA： 阿耳忒弥斯 2 号的四位宇航员已安全出舱。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +155,7 @@
   {
     "post": "Financial_Express/3087941",
     "datetime": "2026-04-11T01:38:58+00:00",
-    "views": "139",
+    "views": "143",
     "text": "海南洋浦港一季度集装箱吞吐量超 98 万标箱 同比增长 94%\n记者从洋浦交通运输和港航局获悉，2026 年一季度，洋浦港集装箱吞吐量累计完成 98.37 万标箱，接近翻倍增长（同比增长 94.37%）；其中外贸集装箱吞吐量增速尤为迅猛，基本实现 2 倍增长（同比增长 199%），成功取得一季度港口生产的“开门红”。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -164,7 +164,7 @@
   {
     "post": "Financial_Express/3087940",
     "datetime": "2026-04-11T01:38:17+00:00",
-    "views": "139",
+    "views": "143",
     "text": "科威特：过去 24 小时探测并拦截 7 架敌对无人机\n科威特国防部 10 日发表声明说，过去 24 小时内探测并拦截了 7 架进入科威特领空的敌对无人机。 声明还说，9 日晚对科威特国民警卫队设施的袭击是来自伊朗方面，袭击造成数人受伤，伤者正接受治疗，袭击还造成重大损失。 目前尚无任何一方宣称发动了上述袭击。 伊朗伊斯兰革命卫队公共关系部门 10 日凌晨发表声明说，停火以来，革命卫队从未向任何国家发射任何武器。如果外界媒体报道的相关袭击事件属实，那么肇事者无疑是以色列或美国。(新华社)",
     "media_only": false,
     "image_url": null,
@@ -173,7 +173,7 @@
   {
     "post": "Financial_Express/3087939",
     "datetime": "2026-04-11T01:37:57+00:00",
-    "views": "139",
+    "views": "143",
     "text": "美国联邦航空管理局警告在美国南部边境 5 英里范围内飞行的飞行员：若未广播广播式自动相关监视外向(ADS-B OUT)信号，飞行员可能会受到反无人机系统的影响。",
     "media_only": false,
     "image_url": null,
@@ -61171,32 +61171,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3081106"
-  },
-  {
-    "post": "Financial_Express/3081105",
-    "datetime": "2026-04-09T01:52:57+00:00",
-    "views": "96",
-    "text": "三井商船 CEO：货运量有起有落。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081105"
-  },
-  {
-    "post": "Financial_Express/3081104",
-    "datetime": "2026-04-09T01:52:17+00:00",
-    "views": "126",
-    "text": "A 股光学光电子板块走高，水晶光电、蓝特光学盘中创新高，光智科技、彩虹股份、五方光电涨停，戈碧迦、沃格光电、永新光学、美迪凯、合力泰跟涨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081104"
-  },
-  {
-    "post": "Financial_Express/3081103",
-    "datetime": "2026-04-09T01:51:58+00:00",
-    "views": "126",
-    "text": "港股 AI 应用板块走强，智谱(02513.HK)涨超 5%，速腾聚创(02498.HK)涨近 5%，MINIMAX-W(00100.HK)、佑驾创新(02431.HK)等跟涨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3081103"
   }
 ]
