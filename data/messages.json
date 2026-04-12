@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3089812",
+    "datetime": "2026-04-12T22:09:57+00:00",
+    "views": "8",
+    "text": "市场资讯：美方认为军事打击或将成为打破和平谈判僵局的一种手段。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089812"
+  },
+  {
+    "post": "Financial_Express/3089811",
+    "datetime": "2026-04-12T22:09:22+00:00",
+    "views": "10",
+    "text": "谈判破裂后，特朗普考虑对伊朗进行有限打击。（华尔街日报）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089811"
+  },
+  {
     "post": "Financial_Express/3089810",
     "datetime": "2026-04-12T22:08:20+00:00",
-    "views": "10",
+    "views": "45",
     "text": "布伦特原油触及每桶 102.60 美元高位，美国原油期货触及 105.25 美元的日内高点。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3089809",
     "datetime": "2026-04-12T22:07:58+00:00",
-    "views": "10",
+    "views": "45",
     "text": "市场资讯：特朗普考虑在与伊朗谈判破裂后对伊朗进行有限打击。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3089808",
     "datetime": "2026-04-12T22:07:19+00:00",
-    "views": "13",
+    "views": "47",
     "text": "布油、WTI 原油期货开盘跳涨 8%，因美伊谈判陷入僵局。\n美股三大指数期货均低开逾 1%。\n美元指数上涨逾 0.4%。\n现货黄金、现货白银低开逾 2%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3089807",
     "datetime": "2026-04-12T22:05:37+00:00",
-    "views": "46",
+    "views": "50",
     "text": "WTI 原油日内涨 9%，现报 105.27 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3089806",
     "datetime": "2026-04-12T22:04:37+00:00",
-    "views": "48",
+    "views": "52",
     "text": "根据近乎完整的计票结果，毛焦尔所在政党蒂萨党在匈牙利议会选举中赢得三分之二多数席位。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3089805",
     "datetime": "2026-04-12T22:03:37+00:00",
-    "views": "49",
+    "views": "82",
     "text": "美联储 4 月维持利率不变的概率为 98.4%\n金十数据 4 月 13 日讯，据 CME“美联储观察”：美联储 4 月加息 25 个基点的概率为 1.6%，维持利率不变的概率为 98.4%。美联储到 6 月累计降息 25 个基点的概率降至 0%，维持利率不变的概率为 98.2%，累计加息 25 个基点的概率为 1.8%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3089804",
     "datetime": "2026-04-12T22:02:57+00:00",
-    "views": "84",
+    "views": "86",
     "text": "现货黄金突破 4690 美元/盎司，日内跌 1.23%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3089803",
     "datetime": "2026-04-12T22:02:38+00:00",
-    "views": "83",
+    "views": "84",
     "text": "现货黄金突破 4680 美元/盎司，日内跌 1.37%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3089802",
     "datetime": "2026-04-12T22:02:18+00:00",
-    "views": "84",
+    "views": "85",
     "text": "纽约期金突破 4710 美元/盎司，日内跌 1.56%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3089797",
     "datetime": "2026-04-12T22:01:19+00:00",
-    "views": "53",
+    "views": "83",
     "text": "纽约期金突破 4690 美元/盎司，日内跌 2.03%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3089795",
     "datetime": "2026-04-12T22:01:18+00:00",
-    "views": "53",
+    "views": "83",
     "text": "现货黄金突破 4650 美元/盎司，日内跌 2.04%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3089796",
     "datetime": "2026-04-12T22:01:18+00:00",
-    "views": "53",
+    "views": "83",
     "text": "现货黄金突破 4660 美元/盎司，日内跌 1.84%。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3089793",
     "datetime": "2026-04-12T22:00:57+00:00",
-    "views": "54",
+    "views": "84",
     "text": "现货白银日内跌 3%，现报 73.43 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3089794",
     "datetime": "2026-04-12T22:00:57+00:00",
-    "views": "54",
+    "views": "84",
     "text": "现货白银突破 74 美元/盎司，日内跌 3.18%。",
     "media_only": false,
     "image_url": null,
@@ -17791,50 +17809,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3087806"
-  },
-  {
-    "post": "Financial_Express/3087805",
-    "datetime": "2026-04-10T22:10:37+00:00",
-    "views": "92",
-    "text": "北向资金持股公布 高景气赛道获重点加仓\n2026 年一季度北向资金持股情况如期公布。根据万得数据，总体来看，与去年四季度末相比，北向资金持股规模呈现收缩态势，持股数量与持股市值双双下降。截至 2026 年一季度末，北向资金持股数量接近 1037 亿股，环比下降近 4%，持股数量创近 5 个季度新低；同期持股市值 2.58 万亿元，回落至近 3 个季度以来新低。在一季度市场环境下，北向资金整体操作趋于谨慎。（证券时报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3087805"
-  },
-  {
-    "post": "Financial_Express/3087804",
-    "datetime": "2026-04-10T22:10:17+00:00",
-    "views": "83",
-    "text": "34 家上市房企债务压降 8900 亿 好项目成“造血”关键\n截至去年底，累计有 21 家出险房企债务重组、重整获批，化债总规模约 1.2 万亿元，化债措施包括现金要约收购、以资抵债、全额长展期、债权转股权等。金科股份作为全国首家大型房地产上市公司重整代表，被纳入最高人民法院《2025 年度民商事典型案例》。（证券时报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3087804"
-  },
-  {
-    "post": "Financial_Express/3087803",
-    "datetime": "2026-04-10T22:10:11+00:00",
-    "views": "77",
-    "text": "美国食品药品监督管理局（FDA）第二次拒绝 Replimune 用于治疗晚期黑色素瘤的药物，理由是该公司提供的治疗数据“不足以断定其具有实质性的有效性证据”。Replimune 对 FDA 的决定表示反对，公司首席执行官（CEO）声称，鉴于支持该药物强效性和良好安全性的数据，FDA 未能行使监管灵活性以满足患者需求。\nReplimune（REPL）美股盘后盘后跌 60.92%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3087803"
-  },
-  {
-    "post": "Financial_Express/3087802",
-    "datetime": "2026-04-10T22:09:58+00:00",
-    "views": "69",
-    "text": "本周近九成调研股收涨 涨价链公司受关注\n财报季，机构调研热情维持高位。本周（4 月 5 日至 10 日），共有 315 家上市公司接待机构调研。从赚钱效应来看，近九成机构调研股实现正收益，光智科技周内涨幅超 40%，长源东谷周涨幅超过 30%，联动科技、德明利、东岳硅材、富春染织等涨幅超过 20%。（证券时报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3087802"
-  },
-  {
-    "post": "Financial_Express/3087801",
-    "datetime": "2026-04-10T22:09:37+00:00",
-    "views": "67",
-    "text": "时隔 3 年，北交所重启网下询价发行\n4 月 9 日晚，北交所网站显示，中科仪将采用网下询价方式发行。这标志着时隔 3 年，北交所正式重启询价发行机制。 接受记者采访的多位专家表示，此次询价发行重启，是北交所结合当前市场生态、适配科技型企业融资需求的重要改革举措，是北交所高质量发展的关键一步，将实现企业、交易所、投资者三方共赢。（证券时报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3087801"
   }
 ]
