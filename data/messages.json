@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3089540",
     "datetime": "2026-04-12T15:36:17+00:00",
-    "views": "3",
+    "views": "33",
     "text": "沙特外交部：沙特召见伊拉克大使，就“从伊拉克境内发射的、针对沙特王国的无人机威胁”一事提出严正交涉。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3089539",
     "datetime": "2026-04-12T15:36:00+00:00",
-    "views": "4",
+    "views": "34",
     "text": "沙特阿拉伯外交部：沙特召见伊拉克大使，抗议“从伊拉克领土发射无人机对沙特王国实施威胁”一事。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3089538",
     "datetime": "2026-04-12T15:35:19+00:00",
-    "views": "34",
+    "views": "64",
     "text": "沙特外交部召见伊拉克大使。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3089537",
     "datetime": "2026-04-12T15:35:17+00:00",
-    "views": "34",
+    "views": "64",
     "text": "匈牙利大选选民投票率在投票结束前两小时创下历史新高。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3089536",
     "datetime": "2026-04-12T15:34:57+00:00",
-    "views": "35",
+    "views": "65",
     "text": "沙特外交部召见伊拉克大使。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3089534",
     "datetime": "2026-04-12T15:33:54+00:00",
-    "views": "35",
+    "views": "65",
     "text": "据伊朗新闻电视台 12 日报道，伊朗第一副总统阿雷夫（Mohammad Reza Aref）表示，伊朗将在管控霍尔木兹海峡和追究美国、以色列赔偿问题上坚定捍卫国家权利。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3089533",
     "datetime": "2026-04-12T15:33:19+00:00",
-    "views": "67",
+    "views": "97",
     "text": "匈牙利选举委员会：匈牙利选举投票率在格林威治时间 15 时（北京时间 23:00）达到 74.23%，高于 2022 年的 62.92%。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +146,7 @@
   {
     "post": "Financial_Express/3089523",
     "datetime": "2026-04-12T15:24:58+00:00",
-    "views": "135",
+    "views": "165",
     "text": "国际货币基金组织（IMF）总裁格奥尔基耶娃：因伊朗冲突，国际货币基金组织将下调（其）2026 年经济增长预测。",
     "media_only": false,
     "image_url": null,
@@ -173,7 +173,7 @@
   {
     "post": "Financial_Express/3089520",
     "datetime": "2026-04-12T15:18:56+00:00",
-    "views": "231",
+    "views": "232",
     "text": "本周五（4 月 10 日）上海二手房单日网签成交量破千套，本周六（4 月 11 日）网签成交量为 1632 套，创近 5 年上海二手房单日网签成交量新高。综合机构的统计数据来看，上海二手房成交量继 3 月冲破 3 万套大关后，4 月以来继续走高。\n4 月前 11 天，累计成交达到 9037 套，较 2025 年同期上涨 32%。",
     "media_only": false,
     "image_url": null,
@@ -20059,14 +20059,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3087286"
-  },
-  {
-    "post": "Financial_Express/3087285",
-    "datetime": "2026-04-10T15:36:58+00:00",
-    "views": "172",
-    "text": "据福克斯新闻：白宫官员表示，特朗普对与伊朗达成协议持乐观态度。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3087285"
   }
 ]
