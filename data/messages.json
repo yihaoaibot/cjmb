@@ -1,8 +1,125 @@
 [
   {
+    "post": "Financial_Express/3089958",
+    "datetime": "2026-04-13T00:00:58+00:00",
+    "views": "3",
+    "text": "韩国首尔综指低开 2.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089958"
+  },
+  {
+    "post": "Financial_Express/3089959",
+    "datetime": "2026-04-13T00:00:58+00:00",
+    "views": "3",
+    "text": "日本五年期国债收益率上升 4.0 个基点，至 1.900%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089959"
+  },
+  {
+    "post": "Financial_Express/3089960",
+    "datetime": "2026-04-13T00:00:58+00:00",
+    "views": "3",
+    "text": "韩国综合股价指数（KOSPI）开盘下跌 2.1%，至 5737.28 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089960"
+  },
+  {
+    "post": "Financial_Express/3089956",
+    "datetime": "2026-04-13T00:00:38+00:00",
+    "views": "9",
+    "text": "韩国 4 月 1 日至 10 日进口额同比增长 12.7%。韩国 4 月 1 日至 10 日进口额同比增长 12.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089956"
+  },
+  {
+    "post": "Financial_Express/3089957",
+    "datetime": "2026-04-13T00:00:38+00:00",
+    "views": "9",
+    "text": "日经 225 指数上午开盘报 56421.46 点，跌幅 0.88%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089957"
+  },
+  {
+    "post": "Financial_Express/3089955",
+    "datetime": "2026-04-13T00:00:37+00:00",
+    "views": "9",
+    "text": "韩国海关：韩国 4 月 1 日至 10 日进口额同比增长 12.7%，韩国 4 月 1 日至 10 日出口同比增长 36.7%，韩国 4 月 1 日至 10 日贸易顺差为 31 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089955"
+  },
+  {
+    "post": "Financial_Express/3089954",
+    "datetime": "2026-04-13T00:00:36+00:00",
+    "views": "9",
+    "text": "韩国 4 月 1-10 日出口同比增长 36.7%，进口增长 12.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089954"
+  },
+  {
+    "post": "Financial_Express/3089953",
+    "datetime": "2026-04-13T00:00:17+00:00",
+    "views": "11",
+    "text": "大雾黄色预警：安徽浙江湖南等局地有能见度不足 200 米的强浓雾\n中央气象台 4 月 13 日 6 时继续发布大雾黄色预警：预计，13 日白天至夜间，黄海西南部海域、东海北部海域将有能见度不足 1 公里的大雾。此外，13 日早晨至上午，安徽南部、浙江东部、湖南南部、四川盆地东部等地的部分地区有大雾天气，局地有能见度不足 200 米的强浓雾。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089953"
+  },
+  {
+    "post": "Financial_Express/3089951",
+    "datetime": "2026-04-13T00:00:01+00:00",
+    "views": "42",
+    "text": "中国即将发行或正在发行的国债和政策性金融债",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089951"
+  },
+  {
+    "post": "Financial_Express/3089952",
+    "datetime": "2026-04-13T00:00:01+00:00",
+    "views": "41",
+    "text": "中国即将发行或正在发行的地方政府债",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089952"
+  },
+  {
+    "post": "Financial_Express/3089950",
+    "datetime": "2026-04-12T23:59:39+00:00",
+    "views": "47",
+    "text": "郭明錤：不存在“压缩 KV Cache 就能消除内存需求”的逻辑\n知名分析师郭明錤发文表示，最近发生的三件看似独立的事件正在从不同层面缓解内存瓶颈的影响。分别是：英伟达：通过 Groq 3 LPX 稳定低延迟输出以提升 Token 价值；谷歌：利用 TurboQuant 最大化基础设施利用率；Anthropic：支持长时间运行的有状态代理架构。郭明錤表示，不同参与者采用的方案多种多样，反映出内存密集型问题并非组件层面的问题，而是涉及硬件和软件的系统级挑战，上述方案彼此互补而不可替代，不存在“压缩键值缓存（KV Cache）就能消除内存需求”这种简单的逻辑。相反，必须在各个层面同时且持续地缓解内存密集型问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089950"
+  },
+  {
+    "post": "Financial_Express/3089949",
+    "datetime": "2026-04-12T23:59:38+00:00",
+    "views": "16",
+    "text": "银河证券：仍需重点关注原油价格走势对市场情绪和交易结构的影响\n银河证券指出，在不能排除后续走势的反复性与不确定性的情况之下，仍需重点关注原油价格走势对市场情绪和交易结构的影响。建议关注：一、反复博弈中仍可关注能源及替代性需求板块，关注煤炭、煤化工、新能源、航运港口、油气等；关注有色金属（贵金属、小金属）板块的修复空间。二、防御性资产，金融（银行）、公用事业、交通运输等。三、科技创新与自主可控板块，关注电力设备、储能、存储、半导体、算力、通信设备等。消费板块关注农林牧渔、食品饮料、家用电器等方向。若后续冲突出现缓和信号，可重点布局前期超跌板块的修复机会。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089949"
+  },
+  {
+    "post": "Financial_Express/3089948",
+    "datetime": "2026-04-12T23:59:17+00:00",
+    "views": "50",
+    "text": "俄罗斯准备在天然气供应存在余量的情况下继续向欧盟供气\n俄罗斯塔斯社(TASS)报道称，如果向替代市场供气后仍有剩余，俄罗斯准备继续向欧盟供应天然气。“目前天然气供应充足。但替代市场的需求非常旺盛，供气请求很多，”克里姆林宫发言人佩斯科夫被引述称。不过，佩斯科夫表示，即使俄罗斯不供应天然气，欧洲也会找到购气途径。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3089948"
+  },
+  {
     "post": "Financial_Express/3089947",
     "datetime": "2026-04-12T23:58:37+00:00",
-    "views": "3",
+    "views": "50",
     "text": "美国南方司令部称，五名男性“毒品恐怖分子”在袭击中被击毙。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +128,7 @@
   {
     "post": "Financial_Express/3089946",
     "datetime": "2026-04-12T23:57:58+00:00",
-    "views": "9",
+    "views": "52",
     "text": "中金：从中长期看，美元“货币锚”弱化可能继续主导市场前景，美元贬值趋势未变\n中金公司指出，在短期因素对美元的推升效果消退之后，全球货币秩序重构、美元霸权动摇的叙事可能重新主导市场方向：美国对外净负债持续累积，使其具有更强的美元贬值诉求；特朗普政策不确定性较高，美元“武器化”风险并未缓解，也在压低市场对美国资产的需求。新一届美联储主席沃什主张的“缩表”政策如果能够落地，客观上有助于修复美元信誉。但沃什的政策受到实体经济与金融市场承受力以及政治约束，且特朗普的外交、贸易与经济政策，仍在对美元信誉产生负面影响。通盘考虑沃什与特朗普政策的整体影响，无法得出美元信誉未来得以改善的结论。中金预期全球货币秩序可能继续重构，推动美元维持长期贬值趋势。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +137,7 @@
   {
     "post": "Financial_Express/3089945",
     "datetime": "2026-04-12T23:57:57+00:00",
-    "views": "8",
+    "views": "51",
     "text": "美军南方司令部：4 月 11 日，南方联合特遣队对两艘由指定恐怖组织运营的船只进行了两次致命打击。两名男性毒贩被击毙，一名毒贩在第一次打击中幸存。第二次打击中又有三名男性毒贩被击毙。没有美国军队人员受伤。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +146,7 @@
   {
     "post": "Financial_Express/3089944",
     "datetime": "2026-04-12T23:57:38+00:00",
-    "views": "42",
+    "views": "53",
     "text": "中金：建议关注在海外渠道布局领先、拥有高倍率锂电技术储备的优质标的\n中金指出，在全球 AI 单机柜功率密度攀升的趋势下，数据中心备电铅转锂已成为行业强共识。国内锂电厂商有望通过贴牌代工、LFP 出海替代三元及跟随 Colo 商借船出海等路径打破外资垄断格局。建议关注在海外渠道布局领先、拥有高倍率锂电技术储备的优质标的。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +155,7 @@
   {
     "post": "Financial_Express/3089943",
     "datetime": "2026-04-12T23:57:37+00:00",
-    "views": "42",
+    "views": "52",
     "text": "日本 10 年期国债收益率升至 1997 年以来最高水平\n受美国封锁霍尔木兹海峡导致伊朗局势紧张升级的影响，日本 10 年期国债收益率上涨 5.5 个基点至 2.49%，创 1997 年以来的最高水平。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +164,7 @@
   {
     "post": "Financial_Express/3089942",
     "datetime": "2026-04-12T23:56:37+00:00",
-    "views": "47",
+    "views": "87",
     "text": "美国：4 月 11 日打击了东太平洋两艘船只。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +173,7 @@
   {
     "post": "Financial_Express/3089941",
     "datetime": "2026-04-12T23:56:17+00:00",
-    "views": "50",
+    "views": "88",
     "text": "厄瓜多尔西部发生严重交通事故 造成 5 死 28 伤\n当地时间 12 日，厄瓜多尔西部圣埃伦娜省发生一起严重交通事故，造成 5 人死亡，28 人受伤。事发时一辆省际巴士和一辆小汽车相撞，汽车冲出道路。目前伤者已经被送往医院救治。（央视新闻）",
     "media_only": false,
     "image_url": null,
