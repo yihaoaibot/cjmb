@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3097224",
+    "datetime": "2026-04-14T21:38:17+00:00",
+    "views": "9",
+    "text": "博通与 Meta 扩大合作，推进数吉瓦级 AI 基础设施部署\n博通公司与 Meta 平台公司将合作期限延长至 2029 年，这家芯片厂商将为 Meta 首期超 1 吉瓦规模的 AI 部署提供支持。鉴于此次合作规模巨大，博通首席执行官陈福阳将辞去 Meta 董事职务。博通周二表示，陈福阳将以顾问身份为 Meta 提供服务，就其定制芯片路线图及未来基础设施投资提供指导。两家公司计划推出首款 2 纳米 AI 计算加速芯片。在合作期内，双方预计将投产数吉瓦级的 Meta 定制芯片——Meta 训练与推理加速器（MTIA）。在 Meta 推进 AI 数据中心部署过程中，博通将提供 XPU 及相关技术以支撑 MTIA 芯片运行。博通还将提供以太网网络解决方案，助力 Meta 在单个 MTIA 服务器机架内提升计算带宽规模。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3097224"
+  },
+  {
+    "post": "Financial_Express/3097223",
+    "datetime": "2026-04-14T21:37:18+00:00",
+    "views": "12",
+    "text": "加拿大财长：4 月 28 日将发布首个春季经济更新。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3097223"
+  },
+  {
     "post": "Financial_Express/3097221",
     "datetime": "2026-04-14T21:35:17+00:00",
-    "views": "14",
+    "views": "22",
     "text": "美国财长贝森特：关税可能到 7 月份将恢复至之前的水平。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3097222",
     "datetime": "2026-04-14T21:35:17+00:00",
-    "views": "14",
+    "views": "22",
     "text": "美国全国有色人种协进会（NAACP）就孟菲斯数据中心的空气污染问题起诉马斯克旗下 xAI 公司。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3097219",
     "datetime": "2026-04-14T21:31:59+00:00",
-    "views": "27",
+    "views": "33",
     "text": "欧洲央行行长拉加德：欧洲央行不会让通胀预期脱离锚定。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3097220",
     "datetime": "2026-04-14T21:31:59+00:00",
-    "views": "27",
+    "views": "33",
     "text": "美国财长贝森特：今年经济增长率仍很容易突破 3%乃至 3.5%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3097218",
     "datetime": "2026-04-14T21:31:58+00:00",
-    "views": "28",
+    "views": "34",
     "text": "美国财长贝森特：关税可能在 7 月初恢复到此前水平。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3097216",
     "datetime": "2026-04-14T21:31:38+00:00",
-    "views": "30",
+    "views": "35",
     "text": "欧洲央行行长拉加德：不会允许通胀预期脱锚。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3097217",
     "datetime": "2026-04-14T21:31:38+00:00",
-    "views": "30",
+    "views": "35",
     "text": "美国财长贝森特：关税可能在 7 月恢复到之前的水平。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3097215",
     "datetime": "2026-04-14T21:31:37+00:00",
-    "views": "30",
+    "views": "35",
     "text": "美国财长贝森特：今年经济增长仍可轻松超过 3%或 3.5%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3097214",
     "datetime": "2026-04-14T21:31:17+00:00",
-    "views": "31",
+    "views": "36",
     "text": "阿根廷总统米莱：从税收数据看，阿根廷经济在 3 月份出现反弹。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3097213",
     "datetime": "2026-04-14T21:31:11+00:00",
-    "views": "32",
+    "views": "36",
     "text": "美国海关与边境保护局 14 日表示，已基本完成向进口商大规模退款的报关系统新功能第一阶段研发，将于 20 日启动相关关税退款工作。\n该机构计划采用分阶段开发模式部署关税退款系统，在后续阶段将针对更复杂的业务场景增设更多功能。\n美国最高法院 2 月 20 日公布裁决，认定美国《国际紧急经济权力法》没有授权总统征收大规模关税。美国国际贸易法院法官 3 月 4 日作出裁决，要求海关与边境保护局在关税清算中不得依据《国际紧急经济权力法》征收关税。这意味着，此前依据该法征收的关税需退还。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3097212",
     "datetime": "2026-04-14T21:29:58+00:00",
-    "views": "40",
+    "views": "44",
     "text": "美国财长贝森特：美国经济依然强劲，战后将实现 “追赶式增长”。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3097211",
     "datetime": "2026-04-14T21:29:57+00:00",
-    "views": "38",
+    "views": "42",
     "text": "美国财长贝森特：经济基本面依然强劲。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3097210",
     "datetime": "2026-04-14T21:29:47+00:00",
-    "views": "39",
+    "views": "43",
     "text": "美国财长贝森特在华尔街日报一个活动上讲话：美国经济保持强劲状态，将在伊朗战争结束之后“追赶上来”。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3097208",
     "datetime": "2026-04-14T21:29:38+00:00",
-    "views": "39",
+    "views": "43",
     "text": "欧洲央行行长拉加德：说我们需要无视当前冲击将是错误的，现在得出这样的结论还为时过早。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3097209",
     "datetime": "2026-04-14T21:29:38+00:00",
-    "views": "38",
+    "views": "42",
     "text": "欧洲央行行长拉加德：声称我们应当对此次冲击不予理会是错误的，现在下这样的结论还为时过早。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3097207",
     "datetime": "2026-04-14T21:29:37+00:00",
-    "views": "40",
+    "views": "43",
     "text": "美特种军斥资 5000 万引入“AI 副驾驶” 助力决策优化与减负\n金十数据 4 月 15 日讯，据美媒报道，美国特种作战司令部已向航空技术公司 Beacon AI 授予了一份价值 5000 万美元的合同，作为推动军事飞行员更多地获取人工智能功能努力的一部分。这份为期四年的合同将整合 Beacon AI 的技术，该技术提取包括天气、航线和飞行员操作在内的大量飞机数据，并通过启用了人工智能的软件进行处理，以协助飞行员在飞行过程中做出更快速的决策。Beacon AI 首席执行官 Matt Cox 表示，通过与在极其恶劣环境下执行任务的特种作战飞行员合作，该技术旨在减少工作量和复杂性，并通过降低飞行员在超负荷、疲劳或复杂环境飞行时常犯的错误来提高安全性。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3097206",
     "datetime": "2026-04-14T21:29:13+00:00",
-    "views": "36",
+    "views": "39",
     "text": "根据周二的一份声明，美国芝加哥商品交易所集团（CME Group）已批准 Kodiak Warehouse LLC.的申请，允许其位于伊利诺伊州莱蒙特（Lemont）的仓库存储可用于 COMEX 期货合约交割的铜。\n声明显示，该仓库获批的容量为 5 万短吨。\n目前，该交易所在亚利桑那州、肯塔基州、路易斯安那州、马里兰州、密歇根州、得德克萨斯州和犹他州均设有铜交割仓库。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3097205",
     "datetime": "2026-04-14T21:28:57+00:00",
-    "views": "40",
+    "views": "42",
     "text": "美国海关 4 月 20 日将启动关税退款\n美国海关与边境保护局 14 日表示，已基本完成向进口商大规模退款的报关系统新功能第一阶段研发，将于 20 日启动相关关税退款工作。该机构计划采用分阶段开发模式部署关税退款系统，在后续阶段将针对更复杂的业务场景增设更多功能。美国最高法院 2 月 20 日公布裁决，认定美国《国际紧急经济权力法》没有授权总统征收大规模关税。美国国际贸易法院法官 3 月 4 日作出裁决，要求海关与边境保护局在关税清算中不得依据《国际紧急经济权力法》征收关税。这意味着，此前依据该法征收的关税需退还。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -66742,32 +66760,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3089771"
-  },
-  {
-    "post": "Financial_Express/3089770",
-    "datetime": "2026-04-12T21:38:57+00:00",
-    "views": "112",
-    "text": "日本三井住友银行将与路博迈共同发起规模 6.3 亿美元的基金。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3089770"
-  },
-  {
-    "post": "Financial_Express/3089769",
-    "datetime": "2026-04-12T21:37:57+00:00",
-    "views": "146",
-    "text": "俄罗斯总统特使德米特里耶夫就匈牙利选举表态：这只会加速欧盟的解体。四个月后再看我说得对不对。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3089769"
-  },
-  {
-    "post": "Financial_Express/3089768",
-    "datetime": "2026-04-12T21:37:18+00:00",
-    "views": "146",
-    "text": "俄罗斯特使德米特里耶夫：匈牙利的选举结果只会加速欧盟的崩溃。四个月后看看我是否正确。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3089768"
   }
 ]
