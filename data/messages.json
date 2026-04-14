@@ -1,8 +1,125 @@
 [
   {
+    "post": "Financial_Express/3096303",
+    "datetime": "2026-04-14T14:06:59+00:00",
+    "views": "1",
+    "text": "美财政部寻求接入 Anthropic 旗下 Mythos 模型，以发现系统漏洞\n据一位知情人士透露，美国财政部技术团队正寻求接入 Anthropic 公司的 Mythos 人工智能模型，以便开始寻找系统漏洞。该知情人士表示，美国财政部首席信息官萨姆·科科斯的目标是尽快（最早可能在本周）获得该模型的访问权限。Anthropic 公司一直仅向有限数量的机构开放该模型。知情人士称，科科斯上周已向财政部的网络安全团队介绍了该技术，并指示他们为强大人工智能系统可能带来的最终威胁做好准备。美国财长贝森特和美联储主席鲍威尔上周召集华尔街领导人召开紧急会议，担心 Mythos 模型将开启一个网络风险更高的时代。Anthropic 已发出警告，如果各公司不针对自身系统进行测试并在广泛发布前建立防御，该模型可能有能力支持网络攻击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3096303"
+  },
+  {
+    "post": "Financial_Express/3096301",
+    "datetime": "2026-04-14T14:06:58+00:00",
+    "views": "1",
+    "text": "土耳其财政部表示，已发售价值 17.59 吨黄金、以黄金计价的两年期债券。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3096301"
+  },
+  {
+    "post": "Financial_Express/3096302",
+    "datetime": "2026-04-14T14:06:58+00:00",
+    "views": "1",
+    "text": "欧洲央行行长拉加德：我们需依据数据采取行动，但我们会毫不犹豫地出手。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3096302"
+  },
+  {
+    "post": "Financial_Express/3096300",
+    "datetime": "2026-04-14T14:06:49+00:00",
+    "views": "1",
+    "text": "英伟达（NVIDIA）今日发布了全球首个开源量子 AI 模型系列 NVIDIA Ising，旨在帮助研究人员和企业构建能够运行实用应用程序的量子处理器。\n为了实现大规模的实用量子应用，量子处理器校准和量子纠错领域需要取得重大突破。AI 是将当今的量子处理器转变为大规模、可靠计算机的关键。开源模型使开发者能够构建高性能 AI，同时保持对其数据和基础设施的完全控制。\n该系列以一个极大地简化了对复杂物理系统理解的里程碑式数学模型（伊辛模型）命名。NVIDIA Ising 系列为量子纠错和校准提供了高性能、可扩展的 AI 工具——这是构建混合量子-经典系统中两个最严峻的挑战。\nIsing 模型运行着全球顶尖的量子处理器校准程序。通过在量子纠错所需的解码过程中提供高达 2.5 倍的性能提升和 3 倍的准确率，它使研究人员能够利用量子计算机解决更大、更复杂的问题。\n“AI 对于让量子计算走向实用至关重要，”英伟达创始人兼首席执行官黄仁勋（Jensen Huang）表示。“有了 Ising，AI 成为了控制平面——即量子机器的操作系统——将脆弱的量子比特转变为可扩展且可靠的‘量子-GPU’系统。”\n根据分析机构 Resonance 的数据，量子计算市场预计在 2030 年将超过 110 亿美元。这一增长轨迹高度依赖于在解决量子纠错和可扩展性等关键工程挑战方面取得的持续进展。\nNVIDIA Ising 包含了最先进的可定制模型、工具和数据，旨在加速量子处理器的发展：",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3096300"
+  },
+  {
+    "post": "Financial_Express/3096298",
+    "datetime": "2026-04-14T14:06:39+00:00",
+    "views": "1",
+    "text": "欧洲央行行长拉加德：需要数据才能采取行动，但我们不会犹豫。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3096298"
+  },
+  {
+    "post": "Financial_Express/3096299",
+    "datetime": "2026-04-14T14:06:39+00:00",
+    "views": "1",
+    "text": "城堡投资创始人格里芬：就在我们此刻交谈之际，一场典型的能源价格冲击正在全球范围内蔓延。当下对世界经济而言是一个凶险莫测的时刻。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3096299"
+  },
+  {
+    "post": "Financial_Express/3096297",
+    "datetime": "2026-04-14T14:06:22+00:00",
+    "views": "1",
+    "text": "英伟达 NVIDIA Ising 开源模型系列提供了全球顶尖的基于人工智能（AI）的量子处理器校准能力，其量子纠错解码速度比传统方法快达 2.5 倍，准确度高出 3 倍。\n采用 Ising 模型的领先量子企业、学术机构和研究实验室包括：中央研究院（Academia Sinica）、费米国家加速器实验室、哈佛大学约翰·保罗森工程与应用科学学院、Infleqtion、IQM Quantum Computers、劳伦斯伯克利国家实验室先进量子测试平台以及英国国家物理实验室（NPL）。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3096297"
+  },
+  {
+    "post": "Financial_Express/3096296",
+    "datetime": "2026-04-14T14:05:58+00:00",
+    "views": "2",
+    "text": "城堡投资创始人格里芬：当前是世界经济的危险时刻。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3096296"
+  },
+  {
+    "post": "Financial_Express/3096295",
+    "datetime": "2026-04-14T14:05:37+00:00",
+    "views": "32",
+    "text": "加拿大总理卡尼：我们正采取行动缓解短期成本压力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3096295"
+  },
+  {
+    "post": "Financial_Express/3096293",
+    "datetime": "2026-04-14T14:05:19+00:00",
+    "views": "33",
+    "text": "巴西总统卢拉：我认为前情报部门负责人拉马根会返回巴西，他有刑期需要在这里服刑。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3096293"
+  },
+  {
+    "post": "Financial_Express/3096294",
+    "datetime": "2026-04-14T14:05:19+00:00",
+    "views": "33",
+    "text": "惠誉：伊朗战争拖累伊斯兰债券（ESG Sukuk）发行放缓；油价波动或推动其增长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3096294"
+  },
+  {
+    "post": "Financial_Express/3096291",
+    "datetime": "2026-04-14T14:05:18+00:00",
+    "views": "33",
+    "text": "欧洲央行行长拉加德：我们必须完全保持灵活性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3096291"
+  },
+  {
+    "post": "Financial_Express/3096292",
+    "datetime": "2026-04-14T14:05:18+00:00",
+    "views": "33",
+    "text": "欧洲央行行长拉加德：我们必须以数据为导向。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3096292"
+  },
+  {
     "post": "Financial_Express/3096290",
     "datetime": "2026-04-14T14:04:58+00:00",
-    "views": "1",
+    "views": "33",
     "text": "富春环保：一季度净利润 1.03 亿元，同比增长 7.95%\n富春环保公告，2026 年第一季度营业收入 1,394,166,526.84 元，同比增长 24.14%。净利润 103,354,012.94 元，同比增长 7.95%。扣除非经常性损益后净利润 72,218,332.66 元，同比增长 51.49%。基本每股收益 0.12 元/股，同比增长 9.09%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +128,7 @@
   {
     "post": "Financial_Express/3096289",
     "datetime": "2026-04-14T14:04:57+00:00",
-    "views": "1",
+    "views": "33",
     "text": "加拿大总理卡尼：加拿大财政部长将于近日公布春季经济报告。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +137,7 @@
   {
     "post": "Financial_Express/3096287",
     "datetime": "2026-04-14T14:04:38+00:00",
-    "views": "1",
+    "views": "32",
     "text": "欧洲央行行长拉加德：我们必须保持完全的灵活性。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +146,7 @@
   {
     "post": "Financial_Express/3096288",
     "datetime": "2026-04-14T14:04:38+00:00",
-    "views": "1",
+    "views": "33",
     "text": "欧洲央行行长拉加德：我们必须依据数据制定政策。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +155,7 @@
   {
     "post": "Financial_Express/3096286",
     "datetime": "2026-04-14T14:04:37+00:00",
-    "views": "1",
+    "views": "32",
     "text": "欧洲央行行长拉加德：我们需要在每日关注数据的同时，关注中期形势。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +164,7 @@
   {
     "post": "Financial_Express/3096285",
     "datetime": "2026-04-14T14:04:32+00:00",
-    "views": "32",
+    "views": "33",
     "text": "据美国纽约联储数据，上个交易日（4 月 13 日）担保隔夜融资利率（SOFR）报 3.63%，之前一天报 3.61%。\n上个交易日有效的联邦基金利率报 3.64%，之前一天报 3.64%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +182,7 @@
   {
     "post": "Financial_Express/3096284",
     "datetime": "2026-04-14T14:04:18+00:00",
-    "views": "32",
+    "views": "33",
     "text": "加拿大总理卡尼：加拿大财长将在未来几周公布春季经济更新报告。",
     "media_only": false,
     "image_url": null,
@@ -61477,41 +61594,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3089425"
-  },
-  {
-    "post": "Financial_Express/3089424",
-    "datetime": "2026-04-12T14:06:58+00:00",
-    "views": "165",
-    "text": "特朗普：清理霍尔木兹海峡用不了多久。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3089424"
-  },
-  {
-    "post": "Financial_Express/3089423",
-    "datetime": "2026-04-12T14:06:57+00:00",
-    "views": "159",
-    "text": "特朗普谈霍尔木兹海峡：我们不需要这条海峡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3089423"
-  },
-  {
-    "post": "Financial_Express/3089422",
-    "datetime": "2026-04-12T14:06:17+00:00",
-    "views": "87",
-    "text": "特朗普：布设水雷是伊朗能采取的有限手段之一。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3089422"
-  },
-  {
-    "post": "Financial_Express/3089421",
-    "datetime": "2026-04-12T14:05:37+00:00",
-    "views": "121",
-    "text": "特朗普：伊朗不会拥有核武器，他们没有底牌。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3089421"
   }
 ]
