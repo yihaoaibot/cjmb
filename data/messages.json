@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3097253",
+    "datetime": "2026-04-14T22:12:57+00:00",
+    "views": "1",
+    "text": "据 The Information：Anthropic 将 Claude Enterprise 改为按使用量计费，导致重度用户成本上升。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3097253"
+  },
+  {
+    "post": "Financial_Express/3097252",
+    "datetime": "2026-04-14T22:12:37+00:00",
+    "views": "7",
+    "text": "人工智能公司 Anthropic 将 Claude 企业版转为按使用量计费模式，重度用户使用成本上升。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3097252"
+  },
+  {
     "post": "Financial_Express/3097251",
     "datetime": "2026-04-14T22:10:11+00:00",
-    "views": "17",
+    "views": "33",
     "text": "日本将赋予那些基于石油的产品“特别重要性”。（日经新闻）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3097250",
     "datetime": "2026-04-14T22:09:57+00:00",
-    "views": "19",
+    "views": "34",
     "text": "日本将把石油制品列为“特别重要物资”。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3097249",
     "datetime": "2026-04-14T22:09:37+00:00",
-    "views": "22",
+    "views": "36",
     "text": "华勤集团：全球发售项下香港发售股份数目为 590 万股 H 股，最高发售价为每股 77.70 港元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3097248",
     "datetime": "2026-04-14T22:09:27+00:00",
-    "views": "24",
+    "views": "36",
     "text": "一位知情人士称，美国财政部的技术团队正在寻求获取 Anthropic PBC 的 Mythos 人工智能模型访问权限，以便开始查找漏洞。美国财政部首席信息官 Sam Corcos 正争取最早于本周获得该模型的访问权限。Anthropic 目前仅向少数机构小范围发布这一模型。该人士还称，Corcos 上周已向财政部网络安全团队介绍该技术，并指示该团队为强大的人工智能系统可能带来的潜在威胁做好准备。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3097247",
     "datetime": "2026-04-14T22:08:37+00:00",
-    "views": "32",
+    "views": "43",
     "text": "截至 2026 年 04 月 14 日，全球最大的黄金 ETF SPDR Gold Trust 持仓量为 1049.48 吨，较前一个交易日增加 2.29 吨。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3097246",
     "datetime": "2026-04-14T22:08:30+00:00",
-    "views": "32",
+    "views": "43",
     "text": "Huaqin 申请香港 IPO。\n寻求发行 5850 万股股票。\n发行价指导区间顶端为每股 77.70 港元。\n预计股票将于 4 月 21 日定价，将从 4 月 23 日开始交易。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3097245",
     "datetime": "2026-04-14T22:05:57+00:00",
-    "views": "43",
+    "views": "52",
     "text": "现货黄金突破 4850 美元/盎司，日内涨 0.18%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3097244",
     "datetime": "2026-04-14T22:02:17+00:00",
-    "views": "64",
+    "views": "69",
     "text": "美联储 4 月维持利率不变的概率为 98.4%\n金十数据 4 月 15 日讯，据 CME“美联储观察”：美联储 4 月加息 25 个基点的概率为 1.6%，维持利率不变的概率为 98.4%。美联储到 6 月累计降息 25 个基点的概率为 1.6%，维持利率不变的概率为 96.9%，累计加息 25 个基点的概率为 1.5%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3097243",
     "datetime": "2026-04-14T22:00:53+00:00",
-    "views": "73",
+    "views": "77",
     "text": "WTI 原油日内涨幅达 1.0%，报 92.21 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3097242",
     "datetime": "2026-04-14T22:00:37+00:00",
-    "views": "74",
+    "views": "78",
     "text": "WTI 原油日内涨 1%，现报 92.20 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3097240",
     "datetime": "2026-04-14T21:58:33+00:00",
-    "views": "80",
+    "views": "84",
     "text": "The Information 援引一位知情人士报道，Anthropic 正准备推出下一代旗舰模型 Claude Opus 4.7，以及一款用于设计网站和演示文稿的 AI 工具。\n受该消息影响，设计相关公司股价下跌，GoDaddy 一度下跌 4.4%，Adobe 下跌 2.7%，Wix.com 下跌 6.7%，Figma 下跌 7.9%。\n👎1",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3097239",
     "datetime": "2026-04-14T21:58:17+00:00",
-    "views": "75",
+    "views": "79",
     "text": "德黑兰居民区遭美以袭击造成严重损失\n据伊朗伊斯兰共和国通讯社 14 日报道，伊朗政府发言人穆哈杰拉尼表示，战争赔偿问题是伊朗与美国之间的谈判以及在伊斯兰堡举行的相关磋商中的议题之一，初步估算伊朗损失达 2700 亿美元。美以袭击给居民区造成人员伤亡和严重财产损失，当地居民强烈谴责。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3097238",
     "datetime": "2026-04-14T21:56:36+00:00",
-    "views": "81",
+    "views": "85",
     "text": "据知情人士透露，卡特彼勒公司（Caterpillar Inc.）已收购自动驾驶电动拖拉机初创公司 Monarch Tractor。Monarch Tractor 在业务扩张过程中遭遇挑战，近几个月进行了裁员，其技术已被“一家大型全球设备制造商”收购。在被收购前，Monarch Tractor 总计筹集了 2.51 亿美元，投资者包括 Astanor Ventures、At One Ventures 以及富士康（Foxconn）旗下的关联基金 HH-CTBC Partnership L.P.。（路透）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3097237",
     "datetime": "2026-04-14T21:55:20+00:00",
-    "views": "80",
+    "views": "84",
     "text": "周二（4 月 14 日）纽约尾盘，欧元兑美元涨 0.28%，英镑兑美元涨 0.43%，美元兑瑞郎跌 0.34%。\n商品货币对中，澳元兑美元涨 0.38%，纽元兑美元涨 0.55%，美元兑加元跌 0.17%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3097236",
     "datetime": "2026-04-14T21:54:17+00:00",
-    "views": "84",
+    "views": "87",
     "text": "贝森特预计今年美国经济增速仍有望超过 3-3.5%\n美国财政部长斯科特·贝森特表示，尽管受到伊朗战争影响，他认为今年美国经济增速仍有望超过 3-3.5%。他表示，战争结束后会有“补偿性”增长。他还指出，目前无法“给出战争结束的确切时间”。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3097235",
     "datetime": "2026-04-14T21:46:17+00:00",
-    "views": "122",
+    "views": "124",
     "text": "美军上调对伊朗战事伤员人数：近 400 人\n美军中央司令部发言人 14 日说，美军自 2 月底对伊朗发起大规模军事行动以来，已有近 400 人在作战中受伤。据悉，截至当天，美军伤员人数为 399 人，其中 354 人已重返岗位。目前仍有 3 人被列为重伤员。两周前，中央司令部说，已有 348 名美军人员受伤，其中 315 人已重返岗位，6 人重伤。这名发言人解释称，伤员人数之所以出现上调，是因为部分人员的创伤性脑损伤症状出现滞后，且相关伤情报告存在延误。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3097234",
     "datetime": "2026-04-14T21:45:50+00:00",
-    "views": "121",
+    "views": "123",
     "text": "美国财长贝森特：Anthropic 的 AI 模型 Mythos 是能力方面的“一个功能变化”。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3097233",
     "datetime": "2026-04-14T21:45:37+00:00",
-    "views": "120",
+    "views": "121",
     "text": "美国财长贝森特：Anthropic 公司的人工智能工具 Mythos 在能力上实现了 “阶跃式变革”。",
     "media_only": false,
     "image_url": null,
