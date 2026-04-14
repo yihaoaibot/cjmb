@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3097100",
+    "datetime": "2026-04-14T20:28:37+00:00",
+    "views": "2",
+    "text": "据美国哥伦比亚广播公司（CBS）：白宫表示，有 103 艘空船正驶向美国港口装载石油。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3097100"
+  },
+  {
+    "post": "Financial_Express/3097099",
+    "datetime": "2026-04-14T20:28:17+00:00",
+    "views": "2",
+    "text": "美国白宫：103 艘空船正驶往美国港口装载石油。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3097099"
+  },
+  {
     "post": "Financial_Express/3097098",
     "datetime": "2026-04-14T20:26:46+00:00",
-    "views": "2",
+    "views": "33",
     "text": "周二（4 月 14 日），美股存储芯片与硬件供应链指数涨 2.42%，报 138.91 点，连续五个交易日创收盘历史新高。\n成分股美光科技涨 9.17%，Rambus 涨 7.57%，西部数据、希捷科技、拉姆研究至多涨 4.59%，应用材料、闪迪 SanDisk 则至多跌 0.84%，泰瑞达 TER 跌 1.25%。\n北美科技软件股指数 ETF 涨 0.99%，报 79.48 美元。\n信息科技指数涨 2.12%，人工智能（AI）赢家指数涨 2.94%，AI 软件先驱指数涨 0.80%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3097097",
     "datetime": "2026-04-14T20:26:38+00:00",
-    "views": "2",
+    "views": "3",
     "text": "美国铝业公司宣布拟全额赎回 2.19 亿美元 2028 年到期、票面利率 6.125%的未偿票据。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3097096",
     "datetime": "2026-04-14T20:26:17+00:00",
-    "views": "2",
+    "views": "3",
     "text": "星链是其即将进行 IPO 的核心王牌，相较于太空发射业务以及人工智能业务 xAI，星链贡献了 SpaceX 总营收的 60%以上。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3097089",
     "datetime": "2026-04-14T20:20:01+00:00",
-    "views": "36",
+    "views": "66",
     "text": "提醒：北京时间 04:30，美国石油协会（API）将发布行业版原油库存周报，非 API 会员最早可在 04:32 前后获得数据详情。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3097088",
     "datetime": "2026-04-14T20:19:05+00:00",
-    "views": "35",
+    "views": "65",
     "text": "标普 500 指数收涨 81.14 点，涨幅 1.18%，报 6967.38 点，整体持续上涨，逼近 1 月 28 日顶部 7002.28 点。\n道琼斯工业平均指数收涨 317.74 点，涨幅 0.66%，报 48535.99 点。\n纳斯达克综合指数（纳指）收涨 455.347 点，涨幅 1.96%，报 23639.083 点。\n纳斯达克 100 指数收涨 458.28 点，涨幅 1.81%，报 25841.996 点。\n费城半导体指数收涨 2.04%，报 9224.121 点，连续五个交易日创收盘历史新高。\n费城证交所 KBW 银行指数收跌 0.12%，报 166.93 点。\n道琼斯 KBW 地区银行指数收跌 0.31%，报 134.02 点。\n纳斯达克生物科技指数收涨 1.99%，报 6067.06 点。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3097087",
     "datetime": "2026-04-14T20:18:38+00:00",
-    "views": "35",
+    "views": "65",
     "text": "加拿大人工智能部长埃文·所罗门与 Anthropic 管理层举行会晤，他表示 Anthropic 公司优先与安全防护方开展合作的做法是负责任的。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3097086",
     "datetime": "2026-04-14T20:17:47+00:00",
-    "views": "34",
+    "views": "64",
     "text": "加拿大 AI 部长会见 Anthropic PBC 的领导层。",
     "media_only": false,
     "image_url": null,
@@ -66022,14 +66040,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3089727"
-  },
-  {
-    "post": "Financial_Express/3089726",
-    "datetime": "2026-04-12T20:28:57+00:00",
-    "views": "171",
-    "text": "伊朗外交部：伊朗与法国外长进行了电话交谈，双方就美以谈判的最新进展进行了讨论和交流。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3089726"
   }
 ]
