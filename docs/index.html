@@ -1,17 +1,41 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-04-15T11:15:13.817719+00:00","clsvipUpdated":"2026-04-15T11:15:20.607092+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">4月15日</h2><div class="feed"><article class="item" data-search="中工国际：股票交易异常波动 不存在应披露未披露事项
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-04-15T11:17:16.814544+00:00","clsvipUpdated":"2026-04-15T11:17:27.500889+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">4月15日</h2><div class="feed"><article class="item" data-search="华业香料：2025 年营收 3.72 亿元 净利润同比增长 36.79%
+华业香料公告称，2025 年公司实现营业收入 37,219.09 万元，同比增长 7.83%；净利润 3,021.73 万元，同比增长 36.79%。期末总资产 72,117.63 万元，所有者权益 59,020.03 万元，分别较期初增长 14.16%和 4.37%。2025 年董事会召开 6 次会议，审议通过 41 项议案；公司召开 3 次股东会，董事会严格执行股东会决议。此外，公司实施两次利润分配，2026 年将围绕战略规划推进经营、信息披露等工作。"><div class="time">19:16</div><div class="content"><div class="text" data-full="华业香料：2025 年营收 3.72 亿元 净利润同比增长 36.79%
+华业香料公告称，2025 年公司实现营业收入 37,219.09 万元，同比增长 7.83%；净利润 3,021.73 万元，同比增长 36.79%。期末总资产 72,117.63 万元，所有者权益 59,020.03 万元，分别较期初增长 14.16%和 4.37%。2025 年董事会召开 6 次会议，审议通过 41 项议案；公司召开 3 次股东会，董事会严格执行股东会决议。此外，公司实施两次利润分配，2026 年将围绕战略规划推进经营、信息披露等工作。" data-short="华业香料：2025 年营收 3.72 亿元 净利润同比增长 36.79%
+华业香料公告称，2025 年公司实现营业收入 37,219.09 万元，同比增长 7.83%；净利润 3,021.73 万元，同比增长 36.79%。期末总资产 72,117.63 万元，所有者权益 59,020.03 万元，分别较期初增长 14.16%和 4.37%。2025 年董事...">华业香料：2025 年营收 3.72 亿元 净利润同比增长 36.79%
+华业香料公告称，2025 年公司实现营业收入 37,219.09 万元，同比增长 7.83%；净利润 3,021.73 万元，同比增长 36.79%。期末总资产 72,117.63 万元，所有者权益 59,020.03 万元，分别较期初增长 14.16%和 4.37%。2025 年董事...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="特朗普谈美联储：我认为沃什上任后利率会下调。"><div class="time">19:16</div><div class="content"><div class="text" data-full="特朗普谈美联储：我认为沃什上任后利率会下调。" data-short="特朗普谈美联储：我认为沃什上任后利率会下调。">特朗普谈美联储：我认为沃什上任后利率会下调。</div></div></article><article class="item" data-search="据伊朗方面当地时间 15 日消息，伊朗南部航运和港口行业的信息显示，尽管美国声称对伊朗港口实施海上封锁，但伊朗的海上运输仍正常且持续进行，无任何中断。过去 24 小时内，伊朗商船按照既定计划驶向世界各地的不同目的地，进出口作业通过伊朗的港口顺利进行。"><div class="time">19:16</div><div class="content"><div class="text" data-full="据伊朗方面当地时间 15 日消息，伊朗南部航运和港口行业的信息显示，尽管美国声称对伊朗港口实施海上封锁，但伊朗的海上运输仍正常且持续进行，无任何中断。过去 24 小时内，伊朗商船按照既定计划驶向世界各地的不同目的地，进出口作业通过伊朗的港口顺利进行。" data-short="据伊朗方面当地时间 15 日消息，伊朗南部航运和港口行业的信息显示，尽管美国声称对伊朗港口实施海上封锁，但伊朗的海上运输仍正常且持续进行，无任何中断。过去 24 小时内，伊朗商船按照既定计划驶向世界各地的不同目的地，进出口作业通过伊朗的港口顺利进行。">据伊朗方面当地时间 15 日消息，伊朗南部航运和港口行业的信息显示，尽管美国声称对伊朗港口实施海上封锁，但伊朗的海上运输仍正常且持续进行，无任何中断。过去 24 小时内，伊朗商船按照既定计划驶向世界各地的不同目的地，进出口作业通过伊朗的港口顺利进行。</div></div></article><article class="item" data-search="雷蒙德詹姆斯将强生目标股价从 237 美元上调至 258 美元。"><div class="time">19:16</div><div class="content"><div class="text" data-full="雷蒙德詹姆斯将强生目标股价从 237 美元上调至 258 美元。" data-short="雷蒙德詹姆斯将强生目标股价从 237 美元上调至 258 美元。">雷蒙德詹姆斯将强生目标股价从 237 美元上调至 258 美元。</div></div></article><article class="item" data-search="伊朗称该国南部航运活动正常进行 无任何中断
+14 日有数艘船只通过霍尔木兹海峡。（央视新闻）"><div class="time">19:16</div><div class="content"><div class="text" data-full="伊朗称该国南部航运活动正常进行 无任何中断
+14 日有数艘船只通过霍尔木兹海峡。（央视新闻）" data-short="伊朗称该国南部航运活动正常进行 无任何中断
+14 日有数艘船只通过霍尔木兹海峡。（央视新闻）">伊朗称该国南部航运活动正常进行 无任何中断
+14 日有数艘船只通过霍尔木兹海峡。（央视新闻）</div></div></article><article class="item" data-search="美国总统特朗普：如果美联储主席鲍威尔不按时离职，将会被解雇。"><div class="time">19:16</div><div class="content"><div class="text" data-full="美国总统特朗普：如果美联储主席鲍威尔不按时离职，将会被解雇。" data-short="美国总统特朗普：如果美联储主席鲍威尔不按时离职，将会被解雇。">美国总统特朗普：如果美联储主席鲍威尔不按时离职，将会被解雇。</div></div></article><article class="item" data-search="特朗普表示：人工智能或为银行业带来非凡发展。"><div class="time">19:16</div><div class="content"><div class="text" data-full="特朗普表示：人工智能或为银行业带来非凡发展。" data-short="特朗普表示：人工智能或为银行业带来非凡发展。">特朗普表示：人工智能或为银行业带来非凡发展。</div></div></article><article class="item" data-search="科源制药：2025 年净利润 1655.3 万元，同比下降 72.62%
+科源制药公告，2025 年营业收入 3.98 亿元，同比下降 14.12%。净利润 1655.3 万元，同比下降 72.62%。公司经本次董事会审议通过的利润分配预案为：以 1.08 亿股为基数，向全体股东每 10 股派发现金红利 0.5 元（含税），送红股 0 股（含税），以资本公积金向全体股东每 10 股转增 0 股。"><div class="time">19:15</div><div class="content"><div class="text" data-full="科源制药：2025 年净利润 1655.3 万元，同比下降 72.62%
+科源制药公告，2025 年营业收入 3.98 亿元，同比下降 14.12%。净利润 1655.3 万元，同比下降 72.62%。公司经本次董事会审议通过的利润分配预案为：以 1.08 亿股为基数，向全体股东每 10 股派发现金红利 0.5 元（含税），送红股 0 股（含税），以资本公积金向全体股东每 10 股转增 0 股。" data-short="科源制药：2025 年净利润 1655.3 万元，同比下降 72.62%
+科源制药公告，2025 年营业收入 3.98 亿元，同比下降 14.12%。净利润 1655.3 万元，同比下降 72.62%。公司经本次董事会审议通过的利润分配预案为：以 1.08 亿股为基数，向全体股东每 10 股派发现金红利 0.5 元（含税），送红股 0 股（含税），以资本公积...">科源制药：2025 年净利润 1655.3 万元，同比下降 72.62%
+科源制药公告，2025 年营业收入 3.98 亿元，同比下降 14.12%。净利润 1655.3 万元，同比下降 72.62%。公司经本次董事会审议通过的利润分配预案为：以 1.08 亿股为基数，向全体股东每 10 股派发现金红利 0.5 元（含税），送红股 0 股（含税），以资本公积...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="惠丰钻石宣布，自 5 月 1 日起，对公司工业金刚石系列产品价格进行 8%至 12%的结构性上调。
+对此，惠丰钻石方面回应称，公司核心业务为金刚石微粉，此次上调主要是上游原材料涨价导致。公司原材料主要包括工业金刚石单晶，上游工业金刚石单晶涨价，下游微粉也会同步涨价。"><div class="time">19:15</div><div class="content"><div class="text" data-full="惠丰钻石宣布，自 5 月 1 日起，对公司工业金刚石系列产品价格进行 8%至 12%的结构性上调。
+对此，惠丰钻石方面回应称，公司核心业务为金刚石微粉，此次上调主要是上游原材料涨价导致。公司原材料主要包括工业金刚石单晶，上游工业金刚石单晶涨价，下游微粉也会同步涨价。" data-short="惠丰钻石宣布，自 5 月 1 日起，对公司工业金刚石系列产品价格进行 8%至 12%的结构性上调。
+对此，惠丰钻石方面回应称，公司核心业务为金刚石微粉，此次上调主要是上游原材料涨价导致。公司原材料主要包括工业金刚石单晶，上游工业金刚石单晶涨价，下游微粉也会同步涨价。">惠丰钻石宣布，自 5 月 1 日起，对公司工业金刚石系列产品价格进行 8%至 12%的结构性上调。
+对此，惠丰钻石方面回应称，公司核心业务为金刚石微粉，此次上调主要是上游原材料涨价导致。公司原材料主要包括工业金刚石单晶，上游工业金刚石单晶涨价，下游微粉也会同步涨价。</div></div></article><article class="item" data-search="顶点软件：2025 年净利润 1.78 亿元，同比下降 8.14%
+顶点软件公告，2025 年实现营业收入 5.82 亿元，同比下降 12.38%；净利润 1.78 亿元，同比下降 8.14%。拟向全体股东每 10 股派发现金红利 6 元（含税）。"><div class="time">19:15</div><div class="content"><div class="text" data-full="顶点软件：2025 年净利润 1.78 亿元，同比下降 8.14%
+顶点软件公告，2025 年实现营业收入 5.82 亿元，同比下降 12.38%；净利润 1.78 亿元，同比下降 8.14%。拟向全体股东每 10 股派发现金红利 6 元（含税）。" data-short="顶点软件：2025 年净利润 1.78 亿元，同比下降 8.14%
+顶点软件公告，2025 年实现营业收入 5.82 亿元，同比下降 12.38%；净利润 1.78 亿元，同比下降 8.14%。拟向全体股东每 10 股派发现金红利 6 元（含税）。">顶点软件：2025 年净利润 1.78 亿元，同比下降 8.14%
+顶点软件公告，2025 年实现营业收入 5.82 亿元，同比下降 12.38%；净利润 1.78 亿元，同比下降 8.14%。拟向全体股东每 10 股派发现金红利 6 元（含税）。</div></div></article><article class="item" data-search="中工国际：股票交易异常波动 不存在应披露未披露事项
 中工国际公告称，公司股票于 2026 年 4 月 14 日、4 月 15 日连续两个交易日内日收盘价格涨幅偏离值累计达 20.23%，属于异常波动。经核实，公司前期披露信息无更正、补充；未发现传媒报道未公开重大信息；近期经营及内外部环境无重大变化；公司、控股股东和实控人无应披露未披露重大事项，异常波动期间控股股东、实控人未买卖公司股票。公司提醒投资者理性投资，注意风险。"><div class="time">19:14</div><div class="content"><div class="text" data-full="中工国际：股票交易异常波动 不存在应披露未披露事项
 中工国际公告称，公司股票于 2026 年 4 月 14 日、4 月 15 日连续两个交易日内日收盘价格涨幅偏离值累计达 20.23%，属于异常波动。经核实，公司前期披露信息无更正、补充；未发现传媒报道未公开重大信息；近期经营及内外部环境无重大变化；公司、控股股东和实控人无应披露未披露重大事项，异常波动期间控股股东、实控人未买卖公司股票。公司提醒投资者理性投资，注意风险。" data-short="中工国际：股票交易异常波动 不存在应披露未披露事项
 中工国际公告称，公司股票于 2026 年 4 月 14 日、4 月 15 日连续两个交易日内日收盘价格涨幅偏离值累计达 20.23%，属于异常波动。经核实，公司前期披露信息无更正、补充；未发现传媒报道未公开重大信息；近期经营及内外部环境无重大变化；公司、控股股东和实控人无应披露未披露重大事项，异常波动期间控...">中工国际：股票交易异常波动 不存在应披露未披露事项
 中工国际公告称，公司股票于 2026 年 4 月 14 日、4 月 15 日连续两个交易日内日收盘价格涨幅偏离值累计达 20.23%，属于异常波动。经核实，公司前期披露信息无更正、补充；未发现传媒报道未公开重大信息；近期经营及内外部环境无重大变化；公司、控股股东和实控人无应披露未披露重大事项，异常波动期间控...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="中韩半导体 etf 华泰柏瑞(513310)将于 2026 年 4 月 16 日开市起至当日 10:30 停牌。"><div class="time">19:14</div><div class="content"><div class="text" data-full="中韩半导体 ETF 华泰柏瑞(513310)将于 2026 年 4 月 16 日开市起至当日 10:30 停牌。" data-short="中韩半导体 ETF 华泰柏瑞(513310)将于 2026 年 4 月 16 日开市起至当日 10:30 停牌。">中韩半导体 ETF 华泰柏瑞(513310)将于 2026 年 4 月 16 日开市起至当日 10:30 停牌。</div></div></article><article class="item" data-search="特朗普谈美联储主席鲍威尔：如果他不主动下台，我就只能解雇他。"><div class="time">19:14</div><div class="content"><div class="text" data-full="特朗普谈美联储主席鲍威尔：如果他不主动下台，我就只能解雇他。" data-short="特朗普谈美联储主席鲍威尔：如果他不主动下台，我就只能解雇他。">特朗普谈美联储主席鲍威尔：如果他不主动下台，我就只能解雇他。</div></div></article><article class="item" data-search="南方原油 lof(501018)将于 2026 年 4 月 16 日开市起至当日 10:30 停牌，自 2026 年 4 月 16 日 10:30 复牌。"><div class="time">19:13</div><div class="content"><div class="text" data-full="南方原油 LOF(501018)将于 2026 年 4 月 16 日开市起至当日 10:30 停牌，自 2026 年 4 月 16 日 10:30 复牌。" data-short="南方原油 LOF(501018)将于 2026 年 4 月 16 日开市起至当日 10:30 停牌，自 2026 年 4 月 16 日 10:30 复牌。">南方原油 LOF(501018)将于 2026 年 4 月 16 日开市起至当日 10:30 停牌，自 2026 年 4 月 16 日 10:30 复牌。</div></div></article><article class="item" data-search="美国总统特朗普：anthropic 的威胁并非系统性的。
 希望沃什能得到确认成为美联储主席。
-不打算放弃对鲍威尔的调查。"><div class="time">19:13</div><div class="content"><div class="text" data-full="美国总统特朗普：Anthropic 的威胁并非系统性的。
+不打算放弃对鲍威尔的调查。
+如果鲍威尔不按时离职，他将被解雇。"><div class="time">19:13</div><div class="content"><div class="text" data-full="美国总统特朗普：Anthropic 的威胁并非系统性的。
 希望沃什能得到确认成为美联储主席。
-不打算放弃对鲍威尔的调查。" data-short="美国总统特朗普：Anthropic 的威胁并非系统性的。
+不打算放弃对鲍威尔的调查。
+如果鲍威尔不按时离职，他将被解雇。" data-short="美国总统特朗普：Anthropic 的威胁并非系统性的。
 希望沃什能得到确认成为美联储主席。
-不打算放弃对鲍威尔的调查。">美国总统特朗普：Anthropic 的威胁并非系统性的。
+不打算放弃对鲍威尔的调查。
+如果鲍威尔不按时离职，他将被解雇。">美国总统特朗普：Anthropic 的威胁并非系统性的。
 希望沃什能得到确认成为美联储主席。
-不打算放弃对鲍威尔的调查。</div></div></article><article class="item" data-search="美媒：美伊原则上同意延长停火
+不打算放弃对鲍威尔的调查。
+如果鲍威尔不按时离职，他将被解雇。</div></div></article><article class="item" data-search="美媒：美伊原则上同意延长停火
 金十数据 4 月 15 日讯，据美联社今天（4 月 15 日）报道，调解方正接近就延长美国与伊朗之间的临时停火达成一致，并推动重启谈判。消息人士称，双方已“原则上同意”延长将于 4 月 22 日到期的停火协议，以争取更多外交时间。报道称，美国对伊朗港口的封锁及伊朗方面的威胁使停火前景面临不确定性。当前各方正就伊朗核计划、霍尔木兹海峡及战时赔偿等关键分歧寻求妥协。"><div class="time">19:13</div><div class="content"><div class="text" data-full="美媒：美伊原则上同意延长停火
 金十数据 4 月 15 日讯，据美联社今天（4 月 15 日）报道，调解方正接近就延长美国与伊朗之间的临时停火达成一致，并推动重启谈判。消息人士称，双方已“原则上同意”延长将于 4 月 22 日到期的停火协议，以争取更多外交时间。报道称，美国对伊朗港口的封锁及伊朗方面的威胁使停火前景面临不确定性。当前各方正就伊朗核计划、霍尔木兹海峡及战时赔偿等关键分歧寻求妥协。" data-short="美媒：美伊原则上同意延长停火
 金十数据 4 月 15 日讯，据美联社今天（4 月 15 日）报道，调解方正接近就延长美国与伊朗之间的临时停火达成一致，并推动重启谈判。消息人士称，双方已“原则上同意”延长将于 4 月 22 日到期的停火协议，以争取更多外交时间。报道称，美国对伊朗港口的封锁及伊朗方面的威胁使停火前景面临不确定性。当前各方正就伊朗核计划、霍尔木兹...">美媒：美伊原则上同意延长停火
@@ -715,19 +739,21 @@ SNAP 盘前直线拉升，现涨逾 9%，预计 2026 年第一季度营收为 15
 金十数据 4 月 15 日讯，当地时间 15 日，伊朗情报部门发表声明称，近期通过持续行动并结合民众提供的线索，已在全国 6 个省份识别并逮捕 35 名涉恐分子、分裂主义人员、武器走私者以及与美以情报机构有关联的人员。"><div class="time">18:02</div><div class="content"><div class="text" data-full="伊朗逮捕美以情报机构关联人员等 35 人
 金十数据 4 月 15 日讯，当地时间 15 日，伊朗情报部门发表声明称，近期通过持续行动并结合民众提供的线索，已在全国 6 个省份识别并逮捕 35 名涉恐分子、分裂主义人员、武器走私者以及与美以情报机构有关联的人员。" data-short="伊朗逮捕美以情报机构关联人员等 35 人
 金十数据 4 月 15 日讯，当地时间 15 日，伊朗情报部门发表声明称，近期通过持续行动并结合民众提供的线索，已在全国 6 个省份识别并逮捕 35 名涉恐分子、分裂主义人员、武器走私者以及与美以情报机构有关联的人员。">伊朗逮捕美以情报机构关联人员等 35 人
-金十数据 4 月 15 日讯，当地时间 15 日，伊朗情报部门发表声明称，近期通过持续行动并结合民众提供的线索，已在全国 6 个省份识别并逮捕 35 名涉恐分子、分裂主义人员、武器走私者以及与美以情报机构有关联的人员。</div></div></article><article class="item" data-search="新力金融：2026 年第一季度净利润 2028.17 万元，同比增长 16.37%
-新力金融公告，2026 年第一季度营业收入 9044.6 万元，同比增长 0.63%。净利润 2028.17 万元，同比增长 16.37%。"><div class="time">18:01</div><div class="content"><div class="text" data-full="新力金融：2026 年第一季度净利润 2028.17 万元，同比增长 16.37%
-新力金融公告，2026 年第一季度营业收入 9044.6 万元，同比增长 0.63%。净利润 2028.17 万元，同比增长 16.37%。" data-short="新力金融：2026 年第一季度净利润 2028.17 万元，同比增长 16.37%
-新力金融公告，2026 年第一季度营业收入 9044.6 万元，同比增长 0.63%。净利润 2028.17 万元，同比增长 16.37%。">新力金融：2026 年第一季度净利润 2028.17 万元，同比增长 16.37%
-新力金融公告，2026 年第一季度营业收入 9044.6 万元，同比增长 0.63%。净利润 2028.17 万元，同比增长 16.37%。</div></div></article><article class="item" data-search="美国阿拉伯和非洲事务高级顾问在苏丹会议上表示，我们不偏袒任何一方，我们唯一关心的是人道主义问题。"><div class="time">18:01</div><div class="content"><div class="text" data-full="美国阿拉伯和非洲事务高级顾问在苏丹会议上表示，我们不偏袒任何一方，我们唯一关心的是人道主义问题。" data-short="美国阿拉伯和非洲事务高级顾问在苏丹会议上表示，我们不偏袒任何一方，我们唯一关心的是人道主义问题。">美国阿拉伯和非洲事务高级顾问在苏丹会议上表示，我们不偏袒任何一方，我们唯一关心的是人道主义问题。</div></div></article><article class="item" data-search="沃尔玛公司：门店改造将分阶段在未来两年推出，首轮从咸味零食品类开始。"><div class="time">18:01</div><div class="content"><div class="text" data-full="沃尔玛公司：门店改造将分阶段在未来两年推出，首轮从咸味零食品类开始。" data-short="沃尔玛公司：门店改造将分阶段在未来两年推出，首轮从咸味零食品类开始。">沃尔玛公司：门店改造将分阶段在未来两年推出，首轮从咸味零食品类开始。</div></div></article><article class="item" data-search="新里程：拟签署收购框架协议 拟间接收购太原中化二建医院有限公司 65%的股权
-新里程公告，公司与北京新里程健康产业集团有限公司签署《关于太原中化二建医院有限公司之收购框架协议》，拟间接收购太原中化二建医院有限公司 65%的股权。具体收购方案为：由公司控股股东新里程集团和/或其控制的主体设立一家有限责任公司（spv），spv 将先行收购北京弘慈医疗投资管理有限公司持有的化二建医院公司 65%的股权，公司和/或其子公司将收购 spv 的 100%股权并间接收购化二建医院公司 65%的股权。化二建医院公司为中化二建集团医院的举办单位，化二建医院经营性质变更为营利性，已取得太原市卫生健康委员会同意。本次签署的《框架协议》仅为股权收购的框架性协议，属于各方合作意向性约定，本次收购事项尚需进行审计和评估等工作，且正式股权转让协议的签署和交易的实施需履行必要的决策和审议程序，最终交易能否达成尚存在不确定因素。"><div class="time">18:01</div><div class="content"><div class="text" data-full="新里程：拟签署收购框架协议 拟间接收购太原中化二建医院有限公司 65%的股权
-新里程公告，公司与北京新里程健康产业集团有限公司签署《关于太原中化二建医院有限公司之收购框架协议》，拟间接收购太原中化二建医院有限公司 65%的股权。具体收购方案为：由公司控股股东新里程集团和/或其控制的主体设立一家有限责任公司（SPV），SPV 将先行收购北京弘慈医疗投资管理有限公司持有的化二建医院公司 65%的股权，公司和/或其子公司将收购 SPV 的 100%股权并间接收购化二建医院公司 65%的股权。化二建医院公司为中化二建集团医院的举办单位，化二建医院经营性质变更为营利性，已取得太原市卫生健康委员会同意。本次签署的《框架协议》仅为股权收购的框架性协议，属于各方合作意向性约定，本次收购事项尚需进行审计和评估等工作，且正式股权转让协议的签署和交易的实施需履行必要的决策和审议程序，最终交易能否达成尚存在不确定因素。" data-short="新里程：拟签署收购框架协议 拟间接收购太原中化二建医院有限公司 65%的股权
-新里程公告，公司与北京新里程健康产业集团有限公司签署《关于太原中化二建医院有限公司之收购框架协议》，拟间接收购太原中化二建医院有限公司 65%的股权。具体收购方案为：由公司控股股东新里程集团和/或其控制的主体设立一家有限责任公司（SPV），SPV 将先行收购北京弘慈医疗投资管理有限...">新里程：拟签署收购框架协议 拟间接收购太原中化二建医院有限公司 65%的股权
-新里程公告，公司与北京新里程健康产业集团有限公司签署《关于太原中化二建医院有限公司之收购框架协议》，拟间接收购太原中化二建医院有限公司 65%的股权。具体收购方案为：由公司控股股东新里程集团和/或其控制的主体设立一家有限责任公司（SPV），SPV 将先行收购北京弘慈医疗投资管理有限...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="ibm 宣布新的网络安全措施，帮助企业识别并衡量前沿 ai 模型带来的新风险。"><div class="time">18:01</div><div class="content"><div class="text" data-full="IBM 宣布新的网络安全措施，帮助企业识别并衡量前沿 AI 模型带来的新风险。" data-short="IBM 宣布新的网络安全措施，帮助企业识别并衡量前沿 AI 模型带来的新风险。">IBM 宣布新的网络安全措施，帮助企业识别并衡量前沿 AI 模型带来的新风险。</div></div></article><article class="item" data-search="化二建医院将实施营利性改制，化二建医院公司未来承接化二建医院的全部资产、人员、资质、债权债务等，化二建医院公司将作为营利性医院开展业务。由公司控股股东新里程集团和/或其控制的主体设立一家有限责任公司，spv 将先行收购北京弘慈医疗投资管理有限公司持有的化二建医院公司 65%的股权，公司和/或其子公司将收购 spv 的 100%股权并间接收购化二建医院公司 65%的股权。"><div class="time">18:00</div><div class="content"><div class="text" data-full="化二建医院将实施营利性改制，化二建医院公司未来承接化二建医院的全部资产、人员、资质、债权债务等，化二建医院公司将作为营利性医院开展业务。由公司控股股东新里程集团和/或其控制的主体设立一家有限责任公司，SPV 将先行收购北京弘慈医疗投资管理有限公司持有的化二建医院公司 65%的股权，公司和/或其子公司将收购 SPV 的 100%股权并间接收购化二建医院公司 65%的股权。" data-short="化二建医院将实施营利性改制，化二建医院公司未来承接化二建医院的全部资产、人员、资质、债权债务等，化二建医院公司将作为营利性医院开展业务。由公司控股股东新里程集团和/或其控制的主体设立一家有限责任公司，SPV 将先行收购北京弘慈医疗投资管理有限公司持有的化二建医院公司 65%的股权，公司和/或其子公司将收购 SPV 的 100%股权并间接收购化二建医院公司 6...">化二建医院将实施营利性改制，化二建医院公司未来承接化二建医院的全部资产、人员、资质、债权债务等，化二建医院公司将作为营利性医院开展业务。由公司控股股东新里程集团和/或其控制的主体设立一家有限责任公司，SPV 将先行收购北京弘慈医疗投资管理有限公司持有的化二建医院公司 65%的股权，公司和/或其子公司将收购 SPV 的 100%股权并间接收购化二建医院公司 6...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="乌克兰总参谋长表示，乌克兰军队 3 月份从俄军手中收复了近 50 平方公里的领土。"><div class="time">18:00</div><div class="content"><div class="text" data-full="乌克兰总参谋长表示，乌克兰军队 3 月份从俄军手中收复了近 50 平方公里的领土。" data-short="乌克兰总参谋长表示，乌克兰军队 3 月份从俄军手中收复了近 50 平方公里的领土。">乌克兰总参谋长表示，乌克兰军队 3 月份从俄军手中收复了近 50 平方公里的领土。</div></div></article><article class="item" data-search="印度外交部发言人：印度将继续从多元化渠道采购石油。"><div class="time">18:00</div><div class="content"><div class="text" data-full="印度外交部发言人：印度将继续从多元化渠道采购石油。" data-short="印度外交部发言人：印度将继续从多元化渠道采购石油。">印度外交部发言人：印度将继续从多元化渠道采购石油。</div></div></article><article class="item" data-search="2026/04/15 信用债跌幅榜（前十名）"><div class="time">18:00</div><div class="content"><div class="text" data-full="2026/04/15 信用债跌幅榜（前十名）" data-short="2026/04/15 信用债跌幅榜（前十名）">2026/04/15 信用债跌幅榜（前十名）</div></div></article><article class="item" data-search="10 年期国开债活跃券“25 国开 20”收盘报 1.8900%，较前一交易日下行 0.25 个基点，日内成交笔数 2441；
-10 年期国债活跃券“26 附息国债 05”收盘报 1.7740%，较前一交易日下行 0.6 个基点，日内成交笔数 579。"><div class="time">18:00</div><div class="content"><div class="text" data-full="10 年期国开债活跃券“25 国开 20”收盘报 1.8900%，较前一交易日下行 0.25 个基点，日内成交笔数 2441；
-10 年期国债活跃券“26 附息国债 05”收盘报 1.7740%，较前一交易日下行 0.6 个基点，日内成交笔数 579。" data-short="10 年期国开债活跃券“25 国开 20”收盘报 1.8900%，较前一交易日下行 0.25 个基点，日内成交笔数 2441；
-10 年期国债活跃券“26 附息国债 05”收盘报 1.7740%，较前一交易日下行 0.6 个基点，日内成交笔数 579。">10 年期国开债活跃券“25 国开 20”收盘报 1.8900%，较前一交易日下行 0.25 个基点，日内成交笔数 2441；
-10 年期国债活跃券“26 附息国债 05”收盘报 1.7740%，较前一交易日下行 0.6 个基点，日内成交笔数 579。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">4月15日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">19:14</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【机构龙虎榜解读】算力租赁+光模块+一季报预增，增资进入光芯片、光模块赛道，完善“智能终端+云算力+光器件”全产业链布局，前期布局的多个算力集群项目陆续完成交付并进入计费阶段，这家公司获净买入
+金十数据 4 月 15 日讯，当地时间 15 日，伊朗情报部门发表声明称，近期通过持续行动并结合民众提供的线索，已在全国 6 个省份识别并逮捕 35 名涉恐分子、分裂主义人员、武器走私者以及与美以情报机构有关联的人员。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">4月15日 · VIP</h2> <div class="feed"> <article class="item" data-search="【电报解读】open ai infra社区“兆瓦级算力系统”项目发布！机构称hvdc正逐步成为大型及超大型数据中心主流技术路线，有望迎来渗透增长拐点，这家公司核心产品可适配hvdc的高压架构
+
+#中熔电气
+#科华数据"> <div class="time">19:16</div> <div class="content"> <div class="text">【电报解读】Open AI Infra社区“兆瓦级算力系统”项目发布！机构称HVDC正逐步成为大型及超大型数据中心主流技术路线，有望迎来渗透增长拐点，这家公司核心产品可适配HVDC的高压架构
+
+#中熔电气
+#科华数据</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【风口研报·行业】全行业深度亏损后反转将至，历史数据显示当前已至左侧配置区间，优先布局低成本龙头；另有一国产高端铸件龙头已拓展至发电设备领域
+
+#牧原股份
+#温氏股份
+#联德股份"> <div class="time">19:15</div> <div class="content"> <div class="text">【风口研报·行业】全行业深度亏损后反转将至，历史数据显示当前已至左侧配置区间，优先布局低成本龙头；另有一国产高端铸件龙头已拓展至发电设备领域
+
+#牧原股份
+#温氏股份
+#联德股份</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">19:14</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【机构龙虎榜解读】算力租赁+光模块+一季报预增，增资进入光芯片、光模块赛道，完善“智能终端+云算力+光器件”全产业链布局，前期布局的多个算力集群项目陆续完成交付并进入计费阶段，这家公司获净买入
 
 #协创数据
 #中恒电气"> <div class="time">19:14</div> <div class="content"> <div class="text">【机构龙虎榜解读】算力租赁+光模块+一季报预增，增资进入光芯片、光模块赛道，完善“智能终端+云算力+光器件”全产业链布局，前期布局的多个算力集群项目陆续完成交付并进入计费阶段，这家公司获净买入
@@ -793,133 +819,7 @@ https://docs.google.com/document/d/13slgly--qsyuahrhirjzb-_cijlqql59whohgdg8mxk/
 ❤1"> <div class="time">09:30</div> <div class="content"> <div class="text">红宝书20260414
 
 https://docs.google.com/document/d/13SlGLY--QsyUAHRHIRjZB-_ciJLQQL59WhohgdG8mxk/edit?usp=sharing
-❤1</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="游资大v复盘文章汇总20260414（早上有更新）"> <div class="time">09:25</div> <div class="content"> <div class="text">游资大V复盘文章汇总20260414（早上有更新）</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">09:19</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">09:19</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="频道收费项目：频道vip
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大v收费群盘中消息同步：
-
-vip资讯
-环球资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-大成路旁的大成
-妖股刺客
-
-麦芽糖
-新生代龙头玩家
-邢者狩猎营
-g界孙悟空
-大师兄擒妖
-超级感悟
-浮光
-攀高
-天赢居
-
-源深路
-布莱德雷
-清北游资
-时冲
-主升真经
-天机短线
-爱尔兰画眉
-浅吸掘金
-震哥
-
-红旗大街发哥
-游资胖大叔
-大周先生
-姆爷
-付鹏
-游资混江龙
-徐小明
-老章
-天地同力
-
-大马路
-只做龙头
-诗诗复利游
-情绪流作手c神
-涨红阳
-a股通天宗
-上班族波段
-洛飞
-
-先知
-愿雨稠
-林荫大道
-超短小纯洁
-上海老梁
-贝贝后花园
-核心九儿
-趋势moo
-逻辑a哥
-
-生如夏花
-复盘哥
-鑫多多
-趋势和价值老李
-大将潘凤
-滴烛复盘的壮汉
-奶爸只做核心
-浮光知顶底
-
-借势而为
-来去由心
-苏三
-嗅嗅掘金
-钱塘李逍遥
-k神会
-向班长
-一线天渔哥
-林秘密
-
-费用：100元/月
-❤2"> <div class="time">09:19</div> <div class="content"> <div class="text">频道收费项目：频道VIP
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大V收费群盘中消息同步：
-
-VIP资讯
-环球资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-大成路旁的大成
-妖股刺客
-
-麦芽糖
-新生代龙头玩家
-邢者狩猎营
-G界孙悟空
-大师兄擒妖
-超级感悟...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【电报解读】最高达40%，多家高阶覆铜板厂商集体涨价，机构预计供需紧张格局将维持到2027年甚至更久，这家公司产品主要聚焦ai服务器、交换机、光模块等领域
-
-#华正新材
-#逸豪新材"> <div class="time">09:18</div> <div class="content"> <div class="text">【电报解读】最高达40%，多家高阶覆铜板厂商集体涨价，机构预计供需紧张格局将维持到2027年甚至更久，这家公司产品主要聚焦AI服务器、交换机、光模块等领域
-
-#华正新材
-#逸豪新材</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">4月14日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">23:26</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="游资大v复盘文章汇总20260414（早上有更新）"> <div class="time">23:26</div> <div class="content"> <div class="text">游资大V复盘文章汇总20260414（早上有更新）</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="脱水研报20260414
+❤1</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="游资大v复盘文章汇总20260414（早上有更新）"> <div class="time">09:25</div> <div class="content"> <div class="text">游资大V复盘文章汇总20260414（早上有更新）</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">09:19</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">09:19</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">4月14日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">23:26</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="游资大v复盘文章汇总20260414（早上有更新）"> <div class="time">23:26</div> <div class="content"> <div class="text">游资大V复盘文章汇总20260414（早上有更新）</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="脱水研报20260414
 ❤1"> <div class="time">23:25</div> <div class="content"> <div class="text">脱水研报20260414
 ❤1</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="徐小明收盘点评20260414
 
