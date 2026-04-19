@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3110841",
     "datetime": "2026-04-19T14:41:38+00:00",
-    "views": "127",
+    "views": "157",
     "text": "特朗普：若美伊达成协议 “很可能”前往伊斯兰堡\n金十数据 4 月 19 日讯，美国总统特朗普 19 日在接受美国《纽约邮报》采访时说，如果美国和伊朗能在巴基斯坦首都伊斯兰堡达成协议，他“很可能”会前往伊斯兰堡。当记者问特朗普是否会前往伊斯兰堡时，特朗普先是说：“我想可能会在稍晚一些的时候再说。我们得看看明天的情况如何。”当记者追问时，特朗普称，他不会在谈判取得进展前作决定，但“很可能会在晚些时候去”。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +164,7 @@
   {
     "post": "Financial_Express/3110830",
     "datetime": "2026-04-19T14:13:37+00:00",
-    "views": "228",
+    "views": "258",
     "text": "国投智能：公司已构建全链条 AI 安全能力体系\n国投智能 4 月 19 日在业绩说明会上表示，端侧 AI Agent 快速爆发带来系统性安全挑战，是规模化落地的关键瓶颈。公司已构建全链条 AI 安全能力体系，覆盖检测（美亚“慧眼”鉴真）、防护（“星盾”平台）、取证（OpenClaw 专项取证模块）、治理（研究“龙虾证”实现 AI 行为责任认定）全环节。",
     "media_only": false,
     "image_url": null,
@@ -21976,14 +21976,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3108385"
-  },
-  {
-    "post": "Financial_Express/3108384",
-    "datetime": "2026-04-17T15:01:19+00:00",
-    "views": "121",
-    "text": "Anthropic 推出全新 Anthropic Labs 产品 Claude Design，并已上线官网。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3108384"
   }
 ]
