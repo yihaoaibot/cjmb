@@ -1,5 +1,185 @@
 [
   {
+    "post": "Financial_Express/3115545",
+    "datetime": "2026-04-21T06:01:17+00:00",
+    "views": "2",
+    "text": "日本央行金融系统报告：日本金融系统整体保持稳定。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115545"
+  },
+  {
+    "post": "Financial_Express/3115543",
+    "datetime": "2026-04-21T06:00:58+00:00",
+    "views": "3",
+    "text": "瑞士 3 月贸易帐 31.77 亿瑞郎，前值 42.04 亿瑞郎。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115543"
+  },
+  {
+    "post": "Financial_Express/3115544",
+    "datetime": "2026-04-21T06:00:58+00:00",
+    "views": "3",
+    "text": "斯托克欧洲 50 指数期货上涨 0.4%，德国 DAX 指数期货上涨 0.43%，法国 CAC 40 指数期货上涨 0.35%，富时指数期货上涨 0.18%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115544"
+  },
+  {
+    "post": "Financial_Express/3115542",
+    "datetime": "2026-04-21T06:00:57+00:00",
+    "views": "3",
+    "text": "现货黄金失守 4780 美元/盎司，日内跌 0.85%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115542"
+  },
+  {
+    "post": "Financial_Express/3115541",
+    "datetime": "2026-04-21T06:00:56+00:00",
+    "views": "4",
+    "text": "日本央行：日本金融体系整体保持稳定。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115541"
+  },
+  {
+    "post": "Financial_Express/3115540",
+    "datetime": "2026-04-21T06:00:38+00:00",
+    "views": "6",
+    "text": "英国 3 月失业金申请人数变动 2.68 万人，前值 2.47 万人。\n英国 2 月三个月 ILO 失业率 4.9%，预期 5.2%，前值 5.2%。\n英国 3 月失业率 4.41%，前值 4.4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115540"
+  },
+  {
+    "post": "Financial_Express/3115539",
+    "datetime": "2026-04-21T06:00:27+00:00",
+    "views": "8",
+    "text": "整点回顾：市场午后震荡回升，三大指数盘中集体翻红，铜箔概念股持续走强，方邦股份、英联股份涨停，CPO 概念股回暖，东山精密逼近涨停，股价续创历史新高，个股依旧跌多涨少，沪深京三市约 3900 股飘绿，成交达 1.99 万亿，较上日此时缩量近 1700 亿。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115539"
+  },
+  {
+    "post": "Financial_Express/3115538",
+    "datetime": "2026-04-21T06:00:25+00:00",
+    "views": "8",
+    "text": "英国 2 月三个月不包括红利的平均工资同比 3.6%，预期 3.5%，前值 3.8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115538"
+  },
+  {
+    "post": "Financial_Express/3115537",
+    "datetime": "2026-04-21T06:00:24+00:00",
+    "views": "8",
+    "text": "英国 2 月三个月包括红利的平均工资同比 3.8%，预期 3.6%，前值 3.9%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115537"
+  },
+  {
+    "post": "Financial_Express/3115535",
+    "datetime": "2026-04-21T06:00:19+00:00",
+    "views": "9",
+    "text": "英国 3 月失业金申请人数增加 2.68 万人，为 2024 年 7 月以来最大增幅。英国 2 月三个月 ILO 失业率录得 4.9%，为 2025 年 8 月以来新低。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115535"
+  },
+  {
+    "post": "Financial_Express/3115536",
+    "datetime": "2026-04-21T06:00:19+00:00",
+    "views": "9",
+    "text": "纽约期金失守 4800 美元/盎司，日内跌 0.60%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115536"
+  },
+  {
+    "post": "Financial_Express/3115533",
+    "datetime": "2026-04-21T06:00:18+00:00",
+    "views": "9",
+    "text": "英国 2 月三个月剔除红利的平均工资年率 3.6%，预期 3.5%，前值 3.80%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115533"
+  },
+  {
+    "post": "Financial_Express/3115534",
+    "datetime": "2026-04-21T06:00:18+00:00",
+    "views": "9",
+    "text": "英国 2 月三个月 ILO 就业人数 2.5 万人，预期 3.5 万人，前值 8.4 万人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115534"
+  },
+  {
+    "post": "Financial_Express/3115532",
+    "datetime": "2026-04-21T06:00:17+00:00",
+    "views": "9",
+    "text": "英国 2 月三个月包括红利的平均工资年率 3.8%，预期 3.6%，前值由 3.90%修正为 4.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115532"
+  },
+  {
+    "post": "Financial_Express/3115531",
+    "datetime": "2026-04-21T06:00:11+00:00",
+    "views": "9",
+    "text": "瑞士第二大金融机构百达集团已聘请 Kelvin Tay 担任亚太区首席投资官，常驻新加坡。据知情人士称，Tay 将于 7 月加入这家总部位于日内瓦的财富和资产管理公司。Tay 之前在瑞银担任东南亚首席投资官，也是瑞银财富管理部门亚太投资委员会的成员。百达截至 2025 年底管理资产规模达到 7570 亿瑞士法郎（9710 亿美元）。（彭博）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115531"
+  },
+  {
+    "post": "Financial_Express/3115529",
+    "datetime": "2026-04-21T06:00:08+00:00",
+    "views": "9",
+    "text": "英国 2 月三个月 ILO 就业人数变动 2.4 万人，预期 3.5 万人，前值 8.4 万人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115529"
+  },
+  {
+    "post": "Financial_Express/3115530",
+    "datetime": "2026-04-21T06:00:08+00:00",
+    "views": "9",
+    "text": "英国 2 月三个月 ILO 失业率 4.9%，预期 5.2%，前值 5.2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115530"
+  },
+  {
+    "post": "Financial_Express/3115528",
+    "datetime": "2026-04-21T06:00:04+00:00",
+    "views": "10",
+    "text": "英国 3 月失业金申请人数变动 2.68 万人，前值 2.47 万人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115528"
+  },
+  {
+    "post": "Financial_Express/3115527",
+    "datetime": "2026-04-21T06:00:03+00:00",
+    "views": "9",
+    "text": "13 点 59 分，23 阳光人寿资本补充债 01（272380017.IB）外汇交易中心显示成交价 104.41 元，较前一交易日中债估值 110.31 元偏离-5.34%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115527"
+  },
+  {
+    "post": "Financial_Express/3115526",
+    "datetime": "2026-04-21T06:00:02+00:00",
+    "views": "10",
+    "text": "英国 3 月失业率 4.41%，前值 4.4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3115526"
+  },
+  {
     "post": "Financial_Express/3115520",
     "datetime": "2026-04-21T05:58:57+00:00",
     "views": "5",
