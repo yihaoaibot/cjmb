@@ -1,5 +1,33 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-04-22T11:49:04.268559+00:00","clsvipUpdated":"2026-04-22T11:49:15.345520+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">4月22日</h2><div class="feed"><article class="item" data-search="黎巴嫩官员 22 日向法新社透露，黎巴嫩将在与以色列的会谈中要求将停火期限延长一个月。（新华社）"><div class="time">19:48</div><div class="content"><div class="text" data-full="黎巴嫩官员 22 日向法新社透露，黎巴嫩将在与以色列的会谈中要求将停火期限延长一个月。（新华社）" data-short="黎巴嫩官员 22 日向法新社透露，黎巴嫩将在与以色列的会谈中要求将停火期限延长一个月。（新华社）">黎巴嫩官员 22 日向法新社透露，黎巴嫩将在与以色列的会谈中要求将停火期限延长一个月。（新华社）</div></div></article><article class="item" data-search="纽约商品交易所原油成交量：1,077,612 手，globex 电子交易平台成交量：1,054,069 手。"><div class="time">19:48</div><div class="content"><div class="text" data-full="纽约商品交易所原油成交量：1,077,612 手，Globex 电子交易平台成交量：1,054,069 手。" data-short="纽约商品交易所原油成交量：1,077,612 手，Globex 电子交易平台成交量：1,054,069 手。">纽约商品交易所原油成交量：1,077,612 手，Globex 电子交易平台成交量：1,054,069 手。</div></div></article><article class="item" data-search="尽管美国与伊朗迟迟未能达成和平协议，交易员仍在加码押注债券市场波动率将继续下行。在美国国债波动率一项关键指标回落至战前水平后，交易员继续大举布局，押注未来几周市场将维持较长时间的平稳状态，并推动美债收益率维持在窄幅区间内波动。（彭博）"><div class="time">19:48</div><div class="content"><div class="text" data-full="尽管美国与伊朗迟迟未能达成和平协议，交易员仍在加码押注债券市场波动率将继续下行。在美国国债波动率一项关键指标回落至战前水平后，交易员继续大举布局，押注未来几周市场将维持较长时间的平稳状态，并推动美债收益率维持在窄幅区间内波动。（彭博）" data-short="尽管美国与伊朗迟迟未能达成和平协议，交易员仍在加码押注债券市场波动率将继续下行。在美国国债波动率一项关键指标回落至战前水平后，交易员继续大举布局，押注未来几周市场将维持较长时间的平稳状态，并推动美债收益率维持在窄幅区间内波动。（彭博）">尽管美国与伊朗迟迟未能达成和平协议，交易员仍在加码押注债券市场波动率将继续下行。在美国国债波动率一项关键指标回落至战前水平后，交易员继续大举布局，押注未来几周市场将维持较长时间的平稳状态，并推动美债收益率维持在窄幅区间内波动。（彭博）</div></div></article><article class="item" data-search="youtube 与 siriusxm 达成音频广告协议。"><div class="time">19:48</div><div class="content"><div class="text" data-full="YouTube 与 SiriusXM 达成音频广告协议。" data-short="YouTube 与 SiriusXM 达成音频广告协议。">YouTube 与 SiriusXM 达成音频广告协议。</div></div></article><article class="item" data-search="中船汉光：第一季度净利润 2564.21 万元，同比下降 1.36%
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-04-22T11:51:07.364880+00:00","clsvipUpdated":"2026-04-22T11:51:18.007572+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">4月22日</h2><div class="feed"><article class="item" data-search="杰克科技：拟通过全资子公司以 1.4 亿欧元收购 comelz s.p.a. 100%股权
+杰克科技公告，拟通过全资子公司拓卡奔马机电科技有限公司以意大利全资子公司 bullmer italia s.r.l.以现金方式收购 comelz s.p.a. 100%股权。本次交易标的公司以“零现金零负债”为计算基础，企业价值为 1.4 亿欧元，最终收购价款将根据最终交割日财务报表中经审计的数据和《收购协议》的相关约定确定。根据标的公司 2025 年未经审计的财报初步测算，本次 100%股权交易价格约为 1.16 亿欧元。本次交易完成后，标的公司纳入上市公司的合并报表。"><div class="time">19:50</div><div class="content"><div class="text" data-full="杰克科技：拟通过全资子公司以 1.4 亿欧元收购 Comelz S.p.A. 100%股权
+杰克科技公告，拟通过全资子公司拓卡奔马机电科技有限公司以意大利全资子公司 Bullmer Italia S.r.l.以现金方式收购 Comelz S.p.A. 100%股权。本次交易标的公司以“零现金零负债”为计算基础，企业价值为 1.4 亿欧元，最终收购价款将根据最终交割日财务报表中经审计的数据和《收购协议》的相关约定确定。根据标的公司 2025 年未经审计的财报初步测算，本次 100%股权交易价格约为 1.16 亿欧元。本次交易完成后，标的公司纳入上市公司的合并报表。" data-short="杰克科技：拟通过全资子公司以 1.4 亿欧元收购 Comelz S.p.A. 100%股权
+杰克科技公告，拟通过全资子公司拓卡奔马机电科技有限公司以意大利全资子公司 Bullmer Italia S.r.l.以现金方式收购 Comelz S.p.A. 100%股权。本次交易标的公司以“零现金零负债”为计算基础，企业价值为 1.4 亿欧元，最终收购价款将根据最...">杰克科技：拟通过全资子公司以 1.4 亿欧元收购 Comelz S.p.A. 100%股权
+杰克科技公告，拟通过全资子公司拓卡奔马机电科技有限公司以意大利全资子公司 Bullmer Italia S.r.l.以现金方式收购 Comelz S.p.A. 100%股权。本次交易标的公司以“零现金零负债”为计算基础，企业价值为 1.4 亿欧元，最终收购价款将根据最...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="杰克科技：2025 年净利润 8.56 亿元，同比增长 5.38%
+杰克科技公告，2025 年实现营业收入 65.87 亿元，同比增长 8.10%；净利润 8.56 亿元，同比增长 5.38%。公司拟以实施权益分派股权登记日的总股本扣除股份回购专户中股份数量后的股份总数为基数，向全体股东每 10 股派发现金股利 4.5 元（含税），不送红股，不进行资本公积金转增股本。"><div class="time">19:50</div><div class="content"><div class="text" data-full="杰克科技：2025 年净利润 8.56 亿元，同比增长 5.38%
+杰克科技公告，2025 年实现营业收入 65.87 亿元，同比增长 8.10%；净利润 8.56 亿元，同比增长 5.38%。公司拟以实施权益分派股权登记日的总股本扣除股份回购专户中股份数量后的股份总数为基数，向全体股东每 10 股派发现金股利 4.5 元（含税），不送红股，不进行资本公积金转增股本。" data-short="杰克科技：2025 年净利润 8.56 亿元，同比增长 5.38%
+杰克科技公告，2025 年实现营业收入 65.87 亿元，同比增长 8.10%；净利润 8.56 亿元，同比增长 5.38%。公司拟以实施权益分派股权登记日的总股本扣除股份回购专户中股份数量后的股份总数为基数，向全体股东每 10 股派发现金股利 4.5 元（含税），不送红股，不进行资本公积金...">杰克科技：2025 年净利润 8.56 亿元，同比增长 5.38%
+杰克科技公告，2025 年实现营业收入 65.87 亿元，同比增长 8.10%；净利润 8.56 亿元，同比增长 5.38%。公司拟以实施权益分派股权登记日的总股本扣除股份回购专户中股份数量后的股份总数为基数，向全体股东每 10 股派发现金股利 4.5 元（含税），不送红股，不进行资本公积金...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="美银全球研究将 gitlab 公司评级从买入下调至中性，并将目标价从 58 美元下调至 27 美元。"><div class="time">19:50</div><div class="content"><div class="text" data-full="美银全球研究将 GitLab 公司评级从买入下调至中性，并将目标价从 58 美元下调至 27 美元。" data-short="美银全球研究将 GitLab 公司评级从买入下调至中性，并将目标价从 58 美元下调至 27 美元。">美银全球研究将 GitLab 公司评级从买入下调至中性，并将目标价从 58 美元下调至 27 美元。</div></div></article><article class="item" data-search="美国银行全球研究部将纳斯达克公司目标股价从 112 美元下调至 109 美元。"><div class="time">19:50</div><div class="content"><div class="text" data-full="美国银行全球研究部将纳斯达克公司目标股价从 112 美元下调至 109 美元。" data-short="美国银行全球研究部将纳斯达克公司目标股价从 112 美元下调至 109 美元。">美国银行全球研究部将纳斯达克公司目标股价从 112 美元下调至 109 美元。</div></div></article><article class="item" data-search="外媒：黎巴嫩将要求延长与以色列停火一个月
+黎巴嫩官员 22 日向法新社透露，黎巴嫩将在与以色列的会谈中要求将停火期限延长一个月。(新华社)"><div class="time">19:50</div><div class="content"><div class="text" data-full="外媒：黎巴嫩将要求延长与以色列停火一个月
+黎巴嫩官员 22 日向法新社透露，黎巴嫩将在与以色列的会谈中要求将停火期限延长一个月。(新华社)" data-short="外媒：黎巴嫩将要求延长与以色列停火一个月
+黎巴嫩官员 22 日向法新社透露，黎巴嫩将在与以色列的会谈中要求将停火期限延长一个月。(新华社)">外媒：黎巴嫩将要求延长与以色列停火一个月
+黎巴嫩官员 22 日向法新社透露，黎巴嫩将在与以色列的会谈中要求将停火期限延长一个月。(新华社)</div></div></article><article class="item" data-search="全国基层中医药工作示范市（县）创建工作启动
+记者从国家中医药管理局获悉，新的《全国基层中医药工作示范市（县）管理办法》日前印发，全国基层中医药工作示范市（县）创建工作启动。"><div class="time">19:49</div><div class="content"><div class="text" data-full="全国基层中医药工作示范市（县）创建工作启动
+记者从国家中医药管理局获悉，新的《全国基层中医药工作示范市（县）管理办法》日前印发，全国基层中医药工作示范市（县）创建工作启动。" data-short="全国基层中医药工作示范市（县）创建工作启动
+记者从国家中医药管理局获悉，新的《全国基层中医药工作示范市（县）管理办法》日前印发，全国基层中医药工作示范市（县）创建工作启动。">全国基层中医药工作示范市（县）创建工作启动
+记者从国家中医药管理局获悉，新的《全国基层中医药工作示范市（县）管理办法》日前印发，全国基层中医药工作示范市（县）创建工作启动。</div></div></article><article class="item" data-search="工大高科：2026 年第一季度净利润 30.27 万元，同比下降 86.59%
+工大高科公告，2026 年第一季度营业收入 2514.29 万元，同比下降 37.49%。净利润 30.27 万元，同比下降 86.59%。利润总额-28.98 万元，同比下降 114.92%。扣除非经常性损益后净利润-67.65 万元，同比下降 141.68%。"><div class="time">19:49</div><div class="content"><div class="text" data-full="工大高科：2026 年第一季度净利润 30.27 万元，同比下降 86.59%
+工大高科公告，2026 年第一季度营业收入 2514.29 万元，同比下降 37.49%。净利润 30.27 万元，同比下降 86.59%。利润总额-28.98 万元，同比下降 114.92%。扣除非经常性损益后净利润-67.65 万元，同比下降 141.68%。" data-short="工大高科：2026 年第一季度净利润 30.27 万元，同比下降 86.59%
+工大高科公告，2026 年第一季度营业收入 2514.29 万元，同比下降 37.49%。净利润 30.27 万元，同比下降 86.59%。利润总额-28.98 万元，同比下降 114.92%。扣除非经常性损益后净利润-67.65 万元，同比下降 141.68%。">工大高科：2026 年第一季度净利润 30.27 万元，同比下降 86.59%
+工大高科公告，2026 年第一季度营业收入 2514.29 万元，同比下降 37.49%。净利润 30.27 万元，同比下降 86.59%。利润总额-28.98 万元，同比下降 114.92%。扣除非经常性损益后净利润-67.65 万元，同比下降 141.68%。</div></div></article><article class="item" data-search="欧洲央行管委科赫尔：目前还无法预测下周的利率结果
+金十数据 4 月 22 日讯，欧洲央行管委科赫尔表示，由于伊朗战争局势存在不确定性，他目前还无法预测 4 月会议将会有怎样的结果。“鉴于中东地区局势的不断变化（每天都在发生新的情况），即便还有一周的时间，现在下结论也还为时过早，无法确定会做出何种决定。我们有一套明确的决策机制，即逐次会议进行决策。这意味着下周才会有最终决定，届时将依据所掌握的数据做出判断。”"><div class="time">19:49</div><div class="content"><div class="text" data-full="欧洲央行管委科赫尔：目前还无法预测下周的利率结果
+金十数据 4 月 22 日讯，欧洲央行管委科赫尔表示，由于伊朗战争局势存在不确定性，他目前还无法预测 4 月会议将会有怎样的结果。“鉴于中东地区局势的不断变化（每天都在发生新的情况），即便还有一周的时间，现在下结论也还为时过早，无法确定会做出何种决定。我们有一套明确的决策机制，即逐次会议进行决策。这意味着下周才会有最终决定，届时将依据所掌握的数据做出判断。”" data-short="欧洲央行管委科赫尔：目前还无法预测下周的利率结果
+金十数据 4 月 22 日讯，欧洲央行管委科赫尔表示，由于伊朗战争局势存在不确定性，他目前还无法预测 4 月会议将会有怎样的结果。“鉴于中东地区局势的不断变化（每天都在发生新的情况），即便还有一周的时间，现在下结论也还为时过早，无法确定会做出何种决定。我们有一套明确的决策机制，即逐次会议进行决策。这意味着下周...">欧洲央行管委科赫尔：目前还无法预测下周的利率结果
+金十数据 4 月 22 日讯，欧洲央行管委科赫尔表示，由于伊朗战争局势存在不确定性，他目前还无法预测 4 月会议将会有怎样的结果。“鉴于中东地区局势的不断变化（每天都在发生新的情况），即便还有一周的时间，现在下结论也还为时过早，无法确定会做出何种决定。我们有一套明确的决策机制，即逐次会议进行决策。这意味着下周...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="友好集团：2025 年净利润 1322.12 万元，同比增长 316.27%
+友好集团公告，2025 年营业收入 14.26 亿元，同比下降 10.93%。净利润 1322.12 万元，同比增长 316.27%。公司 2025 年年末未分配利润为-5.78 亿元，累计未弥补亏损金额为 5.78 亿元，公司目前尚不具备实施现金分红的条件，因此公司 2025 年度拟不进行利润分配。"><div class="time">19:49</div><div class="content"><div class="text" data-full="友好集团：2025 年净利润 1322.12 万元，同比增长 316.27%
+友好集团公告，2025 年营业收入 14.26 亿元，同比下降 10.93%。净利润 1322.12 万元，同比增长 316.27%。公司 2025 年年末未分配利润为-5.78 亿元，累计未弥补亏损金额为 5.78 亿元，公司目前尚不具备实施现金分红的条件，因此公司 2025 年度拟不进行利润分配。" data-short="友好集团：2025 年净利润 1322.12 万元，同比增长 316.27%
+友好集团公告，2025 年营业收入 14.26 亿元，同比下降 10.93%。净利润 1322.12 万元，同比增长 316.27%。公司 2025 年年末未分配利润为-5.78 亿元，累计未弥补亏损金额为 5.78 亿元，公司目前尚不具备实施现金分红的条件，因此公司 2025 年...">友好集团：2025 年净利润 1322.12 万元，同比增长 316.27%
+友好集团公告，2025 年营业收入 14.26 亿元，同比下降 10.93%。净利润 1322.12 万元，同比增长 316.27%。公司 2025 年年末未分配利润为-5.78 亿元，累计未弥补亏损金额为 5.78 亿元，公司目前尚不具备实施现金分红的条件，因此公司 2025 年...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="黎巴嫩官员 22 日向法新社透露，黎巴嫩将在与以色列的会谈中要求将停火期限延长一个月。（新华社）"><div class="time">19:48</div><div class="content"><div class="text" data-full="黎巴嫩官员 22 日向法新社透露，黎巴嫩将在与以色列的会谈中要求将停火期限延长一个月。（新华社）" data-short="黎巴嫩官员 22 日向法新社透露，黎巴嫩将在与以色列的会谈中要求将停火期限延长一个月。（新华社）">黎巴嫩官员 22 日向法新社透露，黎巴嫩将在与以色列的会谈中要求将停火期限延长一个月。（新华社）</div></div></article><article class="item" data-search="纽约商品交易所原油成交量：1,077,612 手，globex 电子交易平台成交量：1,054,069 手。"><div class="time">19:48</div><div class="content"><div class="text" data-full="纽约商品交易所原油成交量：1,077,612 手，Globex 电子交易平台成交量：1,054,069 手。" data-short="纽约商品交易所原油成交量：1,077,612 手，Globex 电子交易平台成交量：1,054,069 手。">纽约商品交易所原油成交量：1,077,612 手，Globex 电子交易平台成交量：1,054,069 手。</div></div></article><article class="item" data-search="尽管美国与伊朗迟迟未能达成和平协议，交易员仍在加码押注债券市场波动率将继续下行。在美国国债波动率一项关键指标回落至战前水平后，交易员继续大举布局，押注未来几周市场将维持较长时间的平稳状态，并推动美债收益率维持在窄幅区间内波动。（彭博）"><div class="time">19:48</div><div class="content"><div class="text" data-full="尽管美国与伊朗迟迟未能达成和平协议，交易员仍在加码押注债券市场波动率将继续下行。在美国国债波动率一项关键指标回落至战前水平后，交易员继续大举布局，押注未来几周市场将维持较长时间的平稳状态，并推动美债收益率维持在窄幅区间内波动。（彭博）" data-short="尽管美国与伊朗迟迟未能达成和平协议，交易员仍在加码押注债券市场波动率将继续下行。在美国国债波动率一项关键指标回落至战前水平后，交易员继续大举布局，押注未来几周市场将维持较长时间的平稳状态，并推动美债收益率维持在窄幅区间内波动。（彭博）">尽管美国与伊朗迟迟未能达成和平协议，交易员仍在加码押注债券市场波动率将继续下行。在美国国债波动率一项关键指标回落至战前水平后，交易员继续大举布局，押注未来几周市场将维持较长时间的平稳状态，并推动美债收益率维持在窄幅区间内波动。（彭博）</div></div></article><article class="item" data-search="youtube 与 siriusxm 达成音频广告协议。"><div class="time">19:48</div><div class="content"><div class="text" data-full="YouTube 与 SiriusXM 达成音频广告协议。" data-short="YouTube 与 SiriusXM 达成音频广告协议。">YouTube 与 SiriusXM 达成音频广告协议。</div></div></article><article class="item" data-search="中船汉光：第一季度净利润 2564.21 万元，同比下降 1.36%
 中船汉光公告，2026 年第一季度营业收入 2.88 亿元，同比下降 2.00%。净利润 2564.21 万元，同比下降 1.36%。"><div class="time">19:47</div><div class="content"><div class="text" data-full="中船汉光：第一季度净利润 2564.21 万元，同比下降 1.36%
 中船汉光公告，2026 年第一季度营业收入 2.88 亿元，同比下降 2.00%。净利润 2564.21 万元，同比下降 1.36%。" data-short="中船汉光：第一季度净利润 2564.21 万元，同比下降 1.36%
 中船汉光公告，2026 年第一季度营业收入 2.88 亿元，同比下降 2.00%。净利润 2564.21 万元，同比下降 1.36%。">中船汉光：第一季度净利润 2564.21 万元，同比下降 1.36%
@@ -11,7 +39,7 @@
 尽管美国与伊朗迟迟未能达成和平协议，交易员仍在加码押注债券市场波动率将继续下行。在美国国债波动率一项关键指标回落至战前水平后，交易员继续大举布局，押注未来几周市场将维持较长时间的平稳状态，并推动美债收益率维持在窄幅区间内波动。本月至今，美国 10 年期国债收益率的波动区间仅为 16 个基点。美国与伊朗达成的为期两周停火协议原定于周三到期，该协议帮助油价从多年高位回落。做空波动率策略的升温，也体现在市场对美国 10 年期国债所谓跨式和宽跨式结构空头仓位需求上升。"><div class="time">19:47</div><div class="content"><div class="text" data-full="交易员加码押注美债将延续平稳走势 料未来几周收益率窄幅波动
 尽管美国与伊朗迟迟未能达成和平协议，交易员仍在加码押注债券市场波动率将继续下行。在美国国债波动率一项关键指标回落至战前水平后，交易员继续大举布局，押注未来几周市场将维持较长时间的平稳状态，并推动美债收益率维持在窄幅区间内波动。本月至今，美国 10 年期国债收益率的波动区间仅为 16 个基点。美国与伊朗达成的为期两周停火协议原定于周三到期，该协议帮助油价从多年高位回落。做空波动率策略的升温，也体现在市场对美国 10 年期国债所谓跨式和宽跨式结构空头仓位需求上升。" data-short="交易员加码押注美债将延续平稳走势 料未来几周收益率窄幅波动
 尽管美国与伊朗迟迟未能达成和平协议，交易员仍在加码押注债券市场波动率将继续下行。在美国国债波动率一项关键指标回落至战前水平后，交易员继续大举布局，押注未来几周市场将维持较长时间的平稳状态，并推动美债收益率维持在窄幅区间内波动。本月至今，美国 10 年期国债收益率的波动区间仅为 16 个基点。美国与伊...">交易员加码押注美债将延续平稳走势 料未来几周收益率窄幅波动
-尽管美国与伊朗迟迟未能达成和平协议，交易员仍在加码押注债券市场波动率将继续下行。在美国国债波动率一项关键指标回落至战前水平后，交易员继续大举布局，押注未来几周市场将维持较长时间的平稳状态，并推动美债收益率维持在窄幅区间内波动。本月至今，美国 10 年期国债收益率的波动区间仅为 16 个基点。美国与伊...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="意大利财政部长对联合信贷银行提出的收购德国商业银行的提议持积极态度。"><div class="time">19:47</div><div class="content"><div class="text" data-full="意大利财政部长对联合信贷银行提出的收购德国商业银行的提议持积极态度。" data-short="意大利财政部长对联合信贷银行提出的收购德国商业银行的提议持积极态度。">意大利财政部长对联合信贷银行提出的收购德国商业银行的提议持积极态度。</div></div></article><article class="item" data-search="意大利财长对裕信银行收购德国商业银行的报价持利好认可态度。"><div class="time">19:47</div><div class="content"><div class="text" data-full="意大利财长对裕信银行收购德国商业银行的报价持利好认可态度。" data-short="意大利财长对裕信银行收购德国商业银行的报价持利好认可态度。">意大利财长对裕信银行收购德国商业银行的报价持利好认可态度。</div></div></article><article class="item" data-search="挖金客：2025 年净利润 4302.54 万元，同比下降 35.17%
+尽管美国与伊朗迟迟未能达成和平协议，交易员仍在加码押注债券市场波动率将继续下行。在美国国债波动率一项关键指标回落至战前水平后，交易员继续大举布局，押注未来几周市场将维持较长时间的平稳状态，并推动美债收益率维持在窄幅区间内波动。本月至今，美国 10 年期国债收益率的波动区间仅为 16 个基点。美国与伊...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="意大利财政部长对裕信银行收购德国商业银行的交易持正面看法。（彭博）"><div class="time">19:47</div><div class="content"><div class="text" data-full="意大利财政部长对裕信银行收购德国商业银行的交易持正面看法。（彭博）" data-short="意大利财政部长对裕信银行收购德国商业银行的交易持正面看法。（彭博）">意大利财政部长对裕信银行收购德国商业银行的交易持正面看法。（彭博）</div></div></article><article class="item" data-search="意大利财长对裕信银行收购德国商业银行的报价持利好认可态度。"><div class="time">19:47</div><div class="content"><div class="text" data-full="意大利财长对裕信银行收购德国商业银行的报价持利好认可态度。" data-short="意大利财长对裕信银行收购德国商业银行的报价持利好认可态度。">意大利财长对裕信银行收购德国商业银行的报价持利好认可态度。</div></div></article><article class="item" data-search="挖金客：2025 年净利润 4302.54 万元，同比下降 35.17%
 挖金客公告，2025 年营业收入 10.95 亿元，同比增长 11.02%。净利润 4302.54 万元，同比下降 35.17%。公司董事会审议通过的利润分配预案为：以 1.01 亿股为基数，向全体股东每 10 股派发现金红利 2 元（含税）。"><div class="time">19:46</div><div class="content"><div class="text" data-full="挖金客：2025 年净利润 4302.54 万元，同比下降 35.17%
 挖金客公告，2025 年营业收入 10.95 亿元，同比增长 11.02%。净利润 4302.54 万元，同比下降 35.17%。公司董事会审议通过的利润分配预案为：以 1.01 亿股为基数，向全体股东每 10 股派发现金红利 2 元（含税）。" data-short="挖金客：2025 年净利润 4302.54 万元，同比下降 35.17%
 挖金客公告，2025 年营业收入 10.95 亿元，同比增长 11.02%。净利润 4302.54 万元，同比下降 35.17%。公司董事会审议通过的利润分配预案为：以 1.01 亿股为基数，向全体股东每 10 股派发现金红利 2 元（含税）。">挖金客：2025 年净利润 4302.54 万元，同比下降 35.17%
@@ -733,35 +761,13 @@ S 佳通公告，2026 年第一季度营收为 11.03 亿元，同比下降 2.00%
 绿的谐波公告，2025 年营业收入 5.71 亿元，同比增长 47.31%。净利润 1.24 亿元，同比增长 121.42%。公司于 2026 年 4 月 22 日召开第三届董事会第十三次会议，审议通过了《关于 2025 年度利润分配的方案的议案》。公司 2025 年度的方案为：拟以实施权益分派的股权登记日的总股本为基数，向全体股东每 10 股派发现金红利人民币 2.1 元（含税）。"><div class="time">18:44</div><div class="content"><div class="text" data-full="绿的谐波：2025 年净利润 1.24 亿元，同比增长 121.42%
 绿的谐波公告，2025 年营业收入 5.71 亿元，同比增长 47.31%。净利润 1.24 亿元，同比增长 121.42%。公司于 2026 年 4 月 22 日召开第三届董事会第十三次会议，审议通过了《关于 2025 年度利润分配的方案的议案》。公司 2025 年度的方案为：拟以实施权益分派的股权登记日的总股本为基数，向全体股东每 10 股派发现金红利人民币 2.1 元（含税）。" data-short="绿的谐波：2025 年净利润 1.24 亿元，同比增长 121.42%
 绿的谐波公告，2025 年营业收入 5.71 亿元，同比增长 47.31%。净利润 1.24 亿元，同比增长 121.42%。公司于 2026 年 4 月 22 日召开第三届董事会第十三次会议，审议通过了《关于 2025 年度利润分配的方案的议案》。公司 2025 年度的方案为：拟以实施...">绿的谐波：2025 年净利润 1.24 亿元，同比增长 121.42%
-绿的谐波公告，2025 年营业收入 5.71 亿元，同比增长 47.31%。净利润 1.24 亿元，同比增长 121.42%。公司于 2026 年 4 月 22 日召开第三届董事会第十三次会议，审议通过了《关于 2025 年度利润分配的方案的议案》。公司 2025 年度的方案为：拟以实施...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="方一天任职华安基金党委副书记
-4 月 22 日，界面新闻从多方信源了解到，万家基金原董事长方一天已经入职华安基金，担任党委副书记一职，同时，他也被提名为总经理、董事。而现任华安基金总经理张霄龄自 2020 年担任这一职务，即将到龄退休。（界面新闻）"><div class="time">18:42</div><div class="content"><div class="text" data-full="方一天任职华安基金党委副书记
-4 月 22 日，界面新闻从多方信源了解到，万家基金原董事长方一天已经入职华安基金，担任党委副书记一职，同时，他也被提名为总经理、董事。而现任华安基金总经理张霄龄自 2020 年担任这一职务，即将到龄退休。（界面新闻）" data-short="方一天任职华安基金党委副书记
-4 月 22 日，界面新闻从多方信源了解到，万家基金原董事长方一天已经入职华安基金，担任党委副书记一职，同时，他也被提名为总经理、董事。而现任华安基金总经理张霄龄自 2020 年担任这一职务，即将到龄退休。（界面新闻）">方一天任职华安基金党委副书记
-4 月 22 日，界面新闻从多方信源了解到，万家基金原董事长方一天已经入职华安基金，担任党委副书记一职，同时，他也被提名为总经理、董事。而现任华安基金总经理张霄龄自 2020 年担任这一职务，即将到龄退休。（界面新闻）</div></div></article><article class="item" data-search="远方信息：一季度净利润 1033.66 万元，同比下降 8.37%
-远方信息公告，2026 年第一季度营收为 7283.95 万元，同比下降 9.42%；净利润为 1033.66 万元，同比下降 8.37%。"><div class="time">18:42</div><div class="content"><div class="text" data-full="远方信息：一季度净利润 1033.66 万元，同比下降 8.37%
-远方信息公告，2026 年第一季度营收为 7283.95 万元，同比下降 9.42%；净利润为 1033.66 万元，同比下降 8.37%。" data-short="远方信息：一季度净利润 1033.66 万元，同比下降 8.37%
-远方信息公告，2026 年第一季度营收为 7283.95 万元，同比下降 9.42%；净利润为 1033.66 万元，同比下降 8.37%。">远方信息：一季度净利润 1033.66 万元，同比下降 8.37%
-远方信息公告，2026 年第一季度营收为 7283.95 万元，同比下降 9.42%；净利润为 1033.66 万元，同比下降 8.37%。</div></div></article><article class="item" data-search="ge vernova 一季度营收、每股收益均好于市场预期
-4 月 22 日，ge vernova 公布一季度营收 93.4 亿美元，高于预期的 91.1 亿美元；第一季度每股收益 17.44 美元，去年同期为 0.91 美元；调整 ebitda 为 8.96 亿美元，高于预期的 7.911 亿美元；第一季度积压订单增至 1630 亿美元。"><div class="time">18:42</div><div class="content"><div class="text" data-full="GE Vernova 一季度营收、每股收益均好于市场预期
-4 月 22 日，GE Vernova 公布一季度营收 93.4 亿美元，高于预期的 91.1 亿美元；第一季度每股收益 17.44 美元，去年同期为 0.91 美元；调整 EBITDA 为 8.96 亿美元，高于预期的 7.911 亿美元；第一季度积压订单增至 1630 亿美元。" data-short="GE Vernova 一季度营收、每股收益均好于市场预期
-4 月 22 日，GE Vernova 公布一季度营收 93.4 亿美元，高于预期的 91.1 亿美元；第一季度每股收益 17.44 美元，去年同期为 0.91 美元；调整 EBITDA 为 8.96 亿美元，高于预期的 7.911 亿美元；第一季度积压订单增至 1630 亿美元。">GE Vernova 一季度营收、每股收益均好于市场预期
-4 月 22 日，GE Vernova 公布一季度营收 93.4 亿美元，高于预期的 91.1 亿美元；第一季度每股收益 17.44 美元，去年同期为 0.91 美元；调整 EBITDA 为 8.96 亿美元，高于预期的 7.911 亿美元；第一季度积压订单增至 1630 亿美元。</div></div></article><article class="item" data-search="巴克莱：将台积电(tsm.n) 目标价从 450 美元上调至 470 美元。"><div class="time">18:42</div><div class="content"><div class="text" data-full="巴克莱：将台积电(TSM.N) 目标价从 450 美元上调至 470 美元。" data-short="巴克莱：将台积电(TSM.N) 目标价从 450 美元上调至 470 美元。">巴克莱：将台积电(TSM.N) 目标价从 450 美元上调至 470 美元。</div></div></article><article class="item" data-search="西部数据盘前上涨 3.5%，巴克莱将其评级从持股观望上调至超配。"><div class="time">18:42</div><div class="content"><div class="text" data-full="西部数据盘前上涨 3.5%，巴克莱将其评级从持股观望上调至超配。" data-short="西部数据盘前上涨 3.5%，巴克莱将其评级从持股观望上调至超配。">西部数据盘前上涨 3.5%，巴克莱将其评级从持股观望上调至超配。</div></div></article><article class="item" data-search="云从科技：2025 年净利润亏损 5.56 亿元
-云从科技公告，2025 年营业收入 5.01 亿元，同比增长 25.88%。归属于上市公司股东的净利润为-5.56 亿元，扣除非经常性损益后归属于母公司股东的净利润亏损为-6.54 亿元。公司 2025 年度利润分配及资本公积转增股本方案为：不派发现金红利，不送红股，不以资本公积转增股本。"><div class="time">18:41</div><div class="content"><div class="text" data-full="云从科技：2025 年净利润亏损 5.56 亿元
-云从科技公告，2025 年营业收入 5.01 亿元，同比增长 25.88%。归属于上市公司股东的净利润为-5.56 亿元，扣除非经常性损益后归属于母公司股东的净利润亏损为-6.54 亿元。公司 2025 年度利润分配及资本公积转增股本方案为：不派发现金红利，不送红股，不以资本公积转增股本。" data-short="云从科技：2025 年净利润亏损 5.56 亿元
-云从科技公告，2025 年营业收入 5.01 亿元，同比增长 25.88%。归属于上市公司股东的净利润为-5.56 亿元，扣除非经常性损益后归属于母公司股东的净利润亏损为-6.54 亿元。公司 2025 年度利润分配及资本公积转增股本方案为：不派发现金红利，不送红股，不以资本公积转增股本。">云从科技：2025 年净利润亏损 5.56 亿元
-云从科技公告，2025 年营业收入 5.01 亿元，同比增长 25.88%。归属于上市公司股东的净利润为-5.56 亿元，扣除非经常性损益后归属于母公司股东的净利润亏损为-6.54 亿元。公司 2025 年度利润分配及资本公积转增股本方案为：不派发现金红利，不送红股，不以资本公积转增股本。</div></div></article><article class="item" data-search="云从科技：第一季度净亏损 1301.61 万元
-云从科技公告，2026 年第一季度营业收入 2323.12 万元，同比下降 37.61%。归属于上市公司股东的净利润-1301.61 万元，上年同期为-1.24 亿元。"><div class="time">18:41</div><div class="content"><div class="text" data-full="云从科技：第一季度净亏损 1301.61 万元
-云从科技公告，2026 年第一季度营业收入 2323.12 万元，同比下降 37.61%。归属于上市公司股东的净利润-1301.61 万元，上年同期为-1.24 亿元。" data-short="云从科技：第一季度净亏损 1301.61 万元
-云从科技公告，2026 年第一季度营业收入 2323.12 万元，同比下降 37.61%。归属于上市公司股东的净利润-1301.61 万元，上年同期为-1.24 亿元。">云从科技：第一季度净亏损 1301.61 万元
-云从科技公告，2026 年第一季度营业收入 2323.12 万元，同比下降 37.61%。归属于上市公司股东的净利润-1301.61 万元，上年同期为-1.24 亿元。</div></div></article><article class="item" data-search="时代出版：2025 年净利润 4.1 亿元，同比增长 2.56%
-时代出版公告，2025 年实现营业收入 66.64 亿元，同比下降 20.00%；净利润为 4.1 亿元，同比增长 2.56%。公司拟以 2025 年度利润分配方案实施时股权登记日的总股本为基数，向全体股东每 10 股派发现金股利人民币 2 元（含税）。"><div class="time">18:41</div><div class="content"><div class="text" data-full="时代出版：2025 年净利润 4.1 亿元，同比增长 2.56%
-时代出版公告，2025 年实现营业收入 66.64 亿元，同比下降 20.00%；净利润为 4.1 亿元，同比增长 2.56%。公司拟以 2025 年度利润分配方案实施时股权登记日的总股本为基数，向全体股东每 10 股派发现金股利人民币 2 元（含税）。" data-short="时代出版：2025 年净利润 4.1 亿元，同比增长 2.56%
-时代出版公告，2025 年实现营业收入 66.64 亿元，同比下降 20.00%；净利润为 4.1 亿元，同比增长 2.56%。公司拟以 2025 年度利润分配方案实施时股权登记日的总股本为基数，向全体股东每 10 股派发现金股利人民币 2 元（含税）。">时代出版：2025 年净利润 4.1 亿元，同比增长 2.56%
-时代出版公告，2025 年实现营业收入 66.64 亿元，同比下降 20.00%；净利润为 4.1 亿元，同比增长 2.56%。公司拟以 2025 年度利润分配方案实施时股权登记日的总股本为基数，向全体股东每 10 股派发现金股利人民币 2 元（含税）。</div></div></article><article class="item" data-search="一季度我国交通出行人数为 177.7 亿人次
-记者 4 月 22 日从交通运输部获悉，一季度，我国跨区域人员流动量为 177.7 亿人次，同比增长 2.2%。其中，公路人员流动量为 163.8 亿人次，同比增长 1.9%；水路客运量为 5856 万人次，同比增长 6.8%。 (新华社)"><div class="time">18:41</div><div class="content"><div class="text" data-full="一季度我国交通出行人数为 177.7 亿人次
-记者 4 月 22 日从交通运输部获悉，一季度，我国跨区域人员流动量为 177.7 亿人次，同比增长 2.2%。其中，公路人员流动量为 163.8 亿人次，同比增长 1.9%；水路客运量为 5856 万人次，同比增长 6.8%。 (新华社)" data-short="一季度我国交通出行人数为 177.7 亿人次
-记者 4 月 22 日从交通运输部获悉，一季度，我国跨区域人员流动量为 177.7 亿人次，同比增长 2.2%。其中，公路人员流动量为 163.8 亿人次，同比增长 1.9%；水路客运量为 5856 万人次，同比增长 6.8%。 (新华社)">一季度我国交通出行人数为 177.7 亿人次
-记者 4 月 22 日从交通运输部获悉，一季度，我国跨区域人员流动量为 177.7 亿人次，同比增长 2.2%。其中，公路人员流动量为 163.8 亿人次，同比增长 1.9%；水路客运量为 5856 万人次，同比增长 6.8%。 (新华社)</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">4月22日 · VIP</h2> <div class="feed"> <article class="item" data-search="【风口研报·公司】1.6t光模块+448g铜互连+机柜液冷+智能电源，这家公司ai算力及端侧硬件全面布局；一季度业绩超预期，且先行景气指标创历史新高，这家风电关键部件公司业绩进入加速兑现期
+绿的谐波公告，2025 年营业收入 5.71 亿元，同比增长 47.31%。净利润 1.24 亿元，同比增长 121.42%。公司于 2026 年 4 月 22 日召开第三届董事会第十三次会议，审议通过了《关于 2025 年度利润分配的方案的议案》。公司 2025 年度的方案为：拟以实施...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">4月22日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">19:49</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">19:49</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【机构龙虎榜解读】玻璃基板+半导体材料，为沃格光电玻璃基板封装提供掩膜版产品，产品成功导入国内几家知名光刻机研发厂商，细分领域国内唯一配套本土企业，机构大额净买入这家公司
+
+#纳百川
+#路维光电"> <div class="time">19:49</div> <div class="content"> <div class="text">【机构龙虎榜解读】玻璃基板+半导体材料，为沃格光电玻璃基板封装提供掩膜版产品，产品成功导入国内几家知名光刻机研发厂商，细分领域国内唯一配套本土企业，机构大额净买入这家公司
+
+#纳百川
+#路维光电</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【风口研报·公司】1.6t光模块+448g铜互连+机柜液冷+智能电源，这家公司ai算力及端侧硬件全面布局；一季度业绩超预期，且先行景气指标创历史新高，这家风电关键部件公司业绩进入加速兑现期
 
 #立讯精密
 #东方电缆"> <div class="time">19:48</div> <div class="content"> <div class="text">【风口研报·公司】1.6T光模块+448G铜互连+机柜液冷+智能电源，这家公司AI算力及端侧硬件全面布局；一季度业绩超预期，且先行景气指标创历史新高，这家风电关键部件公司业绩进入加速兑现期
@@ -823,127 +829,7 @@ https://docs.google.com/document/d/13SlGLY--QsyUAHRHIRjZB-_ciJLQQL59WhohgdG8mxk/
 #宝明科技"> <div class="time">10:19</div> <div class="content"> <div class="text">【盘中宝】行业巨头采用该新技术，其拥有提升安全性、降本等优势，相关产业从0到1趋势明确，未来市场空间或超百亿，这家企业成功开发新一代产品
 
 #光华科技
-#宝明科技</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">09:38</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">09:38</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">09:38</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">09:31</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">09:11</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="频道收费项目：频道vip
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大v收费群盘中消息同步：
-
-vip资讯
-环球资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-大成路旁的大成
-妖股刺客
-
-麦芽糖
-新生代龙头玩家
-邢者狩猎营
-g界孙悟空
-大师兄擒妖
-超级感悟
-浮光
-攀高
-天赢居
-
-源深路
-布莱德雷
-清北游资
-时冲
-主升真经
-天机短线
-爱尔兰画眉
-浅吸掘金
-震哥
-
-红旗大街发哥
-游资胖大叔
-大周先生
-姆爷
-付鹏
-游资混江龙
-徐小明
-老章
-天地同力
-
-大马路
-只做龙头
-诗诗复利游
-情绪流作手c神
-涨红阳
-a股通天宗
-上班族波段
-洛飞
-
-先知
-愿雨稠
-林荫大道
-超短小纯洁
-上海老梁
-贝贝后花园
-核心九儿
-趋势moo
-逻辑a哥
-
-生如夏花
-复盘哥
-鑫多多
-趋势和价值老李
-大将潘凤
-滴烛复盘的壮汉
-奶爸只做核心
-浮光知顶底
-
-借势而为
-来去由心
-苏三
-嗅嗅掘金
-钱塘李逍遥
-k神会
-向班长
-一线天渔哥
-林秘密
-
-费用：100元/月
-❤3"> <div class="time">09:11</div> <div class="content"> <div class="text">频道收费项目：频道VIP
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大V收费群盘中消息同步：
-
-VIP资讯
-环球资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-大成路旁的大成
-妖股刺客
-
-麦芽糖
-新生代龙头玩家
-邢者狩猎营
-G界孙悟空
-大师兄擒妖
-超级感悟...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">4月21日 · VIP</h2> <div class="feed"> <article class="item" data-search="游资大v复盘文章汇总20260421（早上有更新）"> <div class="time">23:00</div> <div class="content"> <div class="text">游资大V复盘文章汇总20260421（早上有更新）</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="g界孙悟空20260420：第三期中线票池
+#宝明科技</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">09:38</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">09:38</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">09:38</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">4月21日 · VIP</h2> <div class="feed"> <article class="item" data-search="游资大v复盘文章汇总20260421（早上有更新）"> <div class="time">23:00</div> <div class="content"> <div class="text">游资大V复盘文章汇总20260421（早上有更新）</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="g界孙悟空20260420：第三期中线票池
 
 徐小明收盘点评20260421
 
