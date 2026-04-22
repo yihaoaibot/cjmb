@@ -1,5 +1,47 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-04-22T22:28:48.928488+00:00","clsvipUpdated":"2026-04-22T22:29:00.540449+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">4月23日</h2><div class="feed"><article class="item" data-search="特斯拉 ceo 马斯克表示，我们长期的产量中大部分将是 cybercab（自动驾驶出租车）。
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-04-22T22:30:58.095647+00:00","clsvipUpdated":"2026-04-22T22:31:08.910622+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">4月23日</h2><div class="feed"><article class="item" data-search="① 07:00 韩国一季度 gdp 初值；
+② 08:30 日本 4 月制造业、服务业、综合 pmi 初值；
+③ 时间待定 2026 年中国航天大会；
+④ 13:00 印度 4 月制造业、服务业、综合 pmi 初值；
+⑤ 欧股开盘之前 诺基亚发布业绩报告；
+⑥ 时间待定 欧盟领导人非正式峰会，伊朗战争能源冲击是主要议程；欧洲央行（货币政策会议之前的）静默期开始；
+⑦ 14:30 菲律宾央行公布利率决议；
+⑧ 15:15 法国 4 月制造业、服务业、综合 pmi 初值；
+⑨ 15:30 德国 4 月制造业、服务业、综合 pmi 初值；
+⑩ 16:00 欧元区 4 月制造业、服务业、综合 pmi 初值；
+16:30 英国 4 月制造业、服务业、综合 pmi 初值；
+美股盘前 霍尼韦尔、洛克希德-马丁公司、自由港发布业绩报告；
+19:00 华为乾崑技术大会；
+20:30 美国 4 月 18 日当周首次申请失业救济人数；
+21:45 美国 4 月标普全球服务业、制造业、综合 pmi 初值；
+23:00 欧洲央行管委兼德国央行行长 nagel 讲话；
+美股盘后 英特尔发布业绩报告；"><div class="time">06:30</div><div class="content"><div class="text" data-full="① 07:00 韩国一季度 GDP 初值；
+② 08:30 日本 4 月制造业、服务业、综合 PMI 初值；
+③ 时间待定 2026 年中国航天大会；
+④ 13:00 印度 4 月制造业、服务业、综合 PMI 初值；
+⑤ 欧股开盘之前 诺基亚发布业绩报告；
+⑥ 时间待定 欧盟领导人非正式峰会，伊朗战争能源冲击是主要议程；欧洲央行（货币政策会议之前的）静默期开始；
+⑦ 14:30 菲律宾央行公布利率决议；
+⑧ 15:15 法国 4 月制造业、服务业、综合 PMI 初值；
+⑨ 15:30 德国 4 月制造业、服务业、综合 PMI 初值；
+⑩ 16:00 欧元区 4 月制造业、服务业、综合 PMI 初值；
+16:30 英国 4 月制造业、服务业、综合 PMI 初值；
+美股盘前 霍尼韦尔、洛克希德-马丁公司、自由港发布业绩报告；
+19:00 华为乾崑技术大会；
+20:30 美国 4 月 18 日当周首次申请失业救济人数；
+21:45 美国 4 月标普全球服务业、制造业、综合 PMI 初值；
+23:00 欧洲央行管委兼德国央行行长 Nagel 讲话；
+美股盘后 英特尔发布业绩报告；" data-short="① 07:00 韩国一季度 GDP 初值；
+② 08:30 日本 4 月制造业、服务业、综合 PMI 初值；
+③ 时间待定 2026 年中国航天大会；
+④ 13:00 印度 4 月制造业、服务业、综合 PMI 初值；
+⑤ 欧股开盘之前 诺基亚发布业绩报告；
+⑥ 时间待定 欧盟领导人非正式峰会，伊朗战争能源冲击是主要议程；欧洲央行（货币政策会议之前的）静默期开...">① 07:00 韩国一季度 GDP 初值；
+② 08:30 日本 4 月制造业、服务业、综合 PMI 初值；
+③ 时间待定 2026 年中国航天大会；
+④ 13:00 印度 4 月制造业、服务业、综合 PMI 初值；
+⑤ 欧股开盘之前 诺基亚发布业绩报告；
+⑥ 时间待定 欧盟领导人非正式峰会，伊朗战争能源冲击是主要议程；欧洲央行（货币政策会议之前的）静默期开...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="纽约期金失守 4750 美元/盎司，日内跌 0.06%。"><div class="time">06:29</div><div class="content"><div class="text" data-full="纽约期金失守 4750 美元/盎司，日内跌 0.06%。" data-short="纽约期金失守 4750 美元/盎司，日内跌 0.06%。">纽约期金失守 4750 美元/盎司，日内跌 0.06%。</div></div></article><article class="item" data-search="特斯拉 ceo 马斯克表示，我们长期的产量中大部分将是 cybercab（自动驾驶出租车）。
 长远来看，唯一保留人工驾驶的车型将是新款 roadster。
 新款 roadster 或许能在一个月左右首次亮相。"><div class="time">06:28</div><div class="content"><div class="text" data-full="特斯拉 CEO 马斯克表示，我们长期的产量中大部分将是 Cybercab（自动驾驶出租车）。
 长远来看，唯一保留人工驾驶的车型将是新款 Roadster。
@@ -509,19 +551,7 @@ ETF 中，ASHS 涨 2.2%，ASHR 涨 1.7%，CQQQ 涨 1.6%，KWEB 跌 0.5%。</div>
 当地时间 4 月 22 日，美国东南部的野火火势进一步加剧。此前，这些野火已在佐治亚州摧毁了近 50 处房屋，并导致部分社区人员疏散、学校停课。目前尚不清楚野火的确切起因，但长期的干旱以及强劲的风势等助长了火势蔓延。据悉，佐治亚州的两处最大规模野火合计已烧毁超过 31 平方英里（约 80 平方公里）的土地，此外该州还报告了至少四起规模较小的火灾。根据“美国干旱监测”的数据，该州受灾最严重的区域正处于“特大干旱”或“极端干旱”状态——即干旱等级中最为严峻的级别。（央视新闻）"><div class="time">03:36</div><div class="content"><div class="text" data-full="野火火势加剧 美国佐治亚州近 50 处房屋被毁
 当地时间 4 月 22 日，美国东南部的野火火势进一步加剧。此前，这些野火已在佐治亚州摧毁了近 50 处房屋，并导致部分社区人员疏散、学校停课。目前尚不清楚野火的确切起因，但长期的干旱以及强劲的风势等助长了火势蔓延。据悉，佐治亚州的两处最大规模野火合计已烧毁超过 31 平方英里（约 80 平方公里）的土地，此外该州还报告了至少四起规模较小的火灾。根据“美国干旱监测”的数据，该州受灾最严重的区域正处于“特大干旱”或“极端干旱”状态——即干旱等级中最为严峻的级别。（央视新闻）" data-short="野火火势加剧 美国佐治亚州近 50 处房屋被毁
 当地时间 4 月 22 日，美国东南部的野火火势进一步加剧。此前，这些野火已在佐治亚州摧毁了近 50 处房屋，并导致部分社区人员疏散、学校停课。目前尚不清楚野火的确切起因，但长期的干旱以及强劲的风势等助长了火势蔓延。据悉，佐治亚州的两处最大规模野火合计已烧毁超过 31 平方英里（约 80 平方公里）的土地，此外...">野火火势加剧 美国佐治亚州近 50 处房屋被毁
-当地时间 4 月 22 日，美国东南部的野火火势进一步加剧。此前，这些野火已在佐治亚州摧毁了近 50 处房屋，并导致部分社区人员疏散、学校停课。目前尚不清楚野火的确切起因，但长期的干旱以及强劲的风势等助长了火势蔓延。据悉，佐治亚州的两处最大规模野火合计已烧毁超过 31 平方英里（约 80 平方公里）的土地，此外...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="周三（4 月 22 日）纽约尾盘，美国 10 年期国债收益率持平，报 4.2916%，北京时间 20:22 跌至 4.2619%刷新日低，16:00 以来整体呈现出 v 形走势。"><div class="time">03:36</div><div class="content"><div class="text" data-full="周三（4 月 22 日）纽约尾盘，美国 10 年期国债收益率持平，报 4.2916%，北京时间 20:22 跌至 4.2619%刷新日低，16:00 以来整体呈现出 V 形走势。" data-short="周三（4 月 22 日）纽约尾盘，美国 10 年期国债收益率持平，报 4.2916%，北京时间 20:22 跌至 4.2619%刷新日低，16:00 以来整体呈现出 V 形走势。">周三（4 月 22 日）纽约尾盘，美国 10 年期国债收益率持平，报 4.2916%，北京时间 20:22 跌至 4.2619%刷新日低，16:00 以来整体呈现出 V 形走势。</div></div></article><article class="item" data-search="白宫：特朗普认为伊朗扣押船只并不违反停火
-金十数据 4 月 23 日讯，白宫新闻秘书卡罗琳·莱维特称，美国总统特朗普不认为伊朗扣押“mscfrancesca”号和“epaminodes”号船只的行为违反了停火框架，理由是这些船只并非美国或以色列船只。她还补充说，此类行为只算是海盗行为。
-😁1"><div class="time">03:35</div><div class="content"><div class="text" data-full="白宫：特朗普认为伊朗扣押船只并不违反停火
-金十数据 4 月 23 日讯，白宫新闻秘书卡罗琳·莱维特称，美国总统特朗普不认为伊朗扣押“MSCFrancesca”号和“Epaminodes”号船只的行为违反了停火框架，理由是这些船只并非美国或以色列船只。她还补充说，此类行为只算是海盗行为。
-😁1" data-short="白宫：特朗普认为伊朗扣押船只并不违反停火
-金十数据 4 月 23 日讯，白宫新闻秘书卡罗琳·莱维特称，美国总统特朗普不认为伊朗扣押“MSCFrancesca”号和“Epaminodes”号船只的行为违反了停火框架，理由是这些船只并非美国或以色列船只。她还补充说，此类行为只算是海盗行为。
-😁1">白宫：特朗普认为伊朗扣押船只并不违反停火
-金十数据 4 月 23 日讯，白宫新闻秘书卡罗琳·莱维特称，美国总统特朗普不认为伊朗扣押“MSCFrancesca”号和“Epaminodes”号船只的行为违反了停火框架，理由是这些船只并非美国或以色列船只。她还补充说，此类行为只算是海盗行为。
-😁1</div></div></article><article class="item" data-search="苹果修复漏洞 美国警方曾借此漏洞提取苹果手机内已删除聊天记录
-苹果公司本周三为 iphone、ipad 推送软件更新，修复了一处安全漏洞。美国执法部门此前可利用该漏洞，提取通讯应用内已手动删除、或是自动消失的聊天信息。漏洞成因在于：显示消息内容的通知信息，会在设备本地缓存长达一个月。 苹果在官网发布的安全公告中表示，该漏洞会导致本应标记删除的通知内容，意外残留在设备当中。 此事明显关联本月初 404media 媒体曝光的一则事件。该独立媒体披露，美国联邦调查局（fbi）借助电子取证工具，能够从苹果手机中提取用户在 signal 应用里已删除的消息。原因是消息曾在手机通知栏展示过内容，即便用户在应用内删除消息，相关内容仍会存入手机本地数据库。 消息曝光后，加密通讯应用 signal 总裁梅雷迪思・惠特克表示，该应用方已要求苹果解决此问题。 惠特克在社交平台 bluesky 发文称：已删除消息的通知内容，不该留存于任何操作系统的通知数据库中。"><div class="time">03:34</div><div class="content"><div class="text" data-full="苹果修复漏洞 美国警方曾借此漏洞提取苹果手机内已删除聊天记录
-苹果公司本周三为 iPhone、iPad 推送软件更新，修复了一处安全漏洞。美国执法部门此前可利用该漏洞，提取通讯应用内已手动删除、或是自动消失的聊天信息。漏洞成因在于：显示消息内容的通知信息，会在设备本地缓存长达一个月。 苹果在官网发布的安全公告中表示，该漏洞会导致本应标记删除的通知内容，意外残留在设备当中。 此事明显关联本月初 404Media 媒体曝光的一则事件。该独立媒体披露，美国联邦调查局（FBI）借助电子取证工具，能够从苹果手机中提取用户在 Signal 应用里已删除的消息。原因是消息曾在手机通知栏展示过内容，即便用户在应用内删除消息，相关内容仍会存入手机本地数据库。 消息曝光后，加密通讯应用 Signal 总裁梅雷迪思・惠特克表示，该应用方已要求苹果解决此问题。 惠特克在社交平台 Bluesky 发文称：已删除消息的通知内容，不该留存于任何操作系统的通知数据库中。" data-short="苹果修复漏洞 美国警方曾借此漏洞提取苹果手机内已删除聊天记录
-苹果公司本周三为 iPhone、iPad 推送软件更新，修复了一处安全漏洞。美国执法部门此前可利用该漏洞，提取通讯应用内已手动删除、或是自动消失的聊天信息。漏洞成因在于：显示消息内容的通知信息，会在设备本地缓存长达一个月。 苹果在官网发布的安全公告中表示，该漏洞会导致本应标记删除的通知内容，意外残...">苹果修复漏洞 美国警方曾借此漏洞提取苹果手机内已删除聊天记录
-苹果公司本周三为 iPhone、iPad 推送软件更新，修复了一处安全漏洞。美国执法部门此前可利用该漏洞，提取通讯应用内已手动删除、或是自动消失的聊天信息。漏洞成因在于：显示消息内容的通知信息，会在设备本地缓存长达一个月。 苹果在官网发布的安全公告中表示，该漏洞会导致本应标记删除的通知内容，意外残...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">4月22日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">23:07</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【公告全知道】光纤+cpo+芯片+智能电网+机器人！这家光纤龙头可提供1.6t高速光模块产品
+当地时间 4 月 22 日，美国东南部的野火火势进一步加剧。此前，这些野火已在佐治亚州摧毁了近 50 处房屋，并导致部分社区人员疏散、学校停课。目前尚不清楚野火的确切起因，但长期的干旱以及强劲的风势等助长了火势蔓延。据悉，佐治亚州的两处最大规模野火合计已烧毁超过 31 平方英里（约 80 平方公里）的土地，此外...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="周三（4 月 22 日）纽约尾盘，美国 10 年期国债收益率持平，报 4.2916%，北京时间 20:22 跌至 4.2619%刷新日低，16:00 以来整体呈现出 v 形走势。"><div class="time">03:36</div><div class="content"><div class="text" data-full="周三（4 月 22 日）纽约尾盘，美国 10 年期国债收益率持平，报 4.2916%，北京时间 20:22 跌至 4.2619%刷新日低，16:00 以来整体呈现出 V 形走势。" data-short="周三（4 月 22 日）纽约尾盘，美国 10 年期国债收益率持平，报 4.2916%，北京时间 20:22 跌至 4.2619%刷新日低，16:00 以来整体呈现出 V 形走势。">周三（4 月 22 日）纽约尾盘，美国 10 年期国债收益率持平，报 4.2916%，北京时间 20:22 跌至 4.2619%刷新日低，16:00 以来整体呈现出 V 形走势。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">4月22日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">23:07</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【公告全知道】光纤+cpo+芯片+智能电网+机器人！这家光纤龙头可提供1.6t高速光模块产品
 
 #长飞光纤
 #天孚通信
