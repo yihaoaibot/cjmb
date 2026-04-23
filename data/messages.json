@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3126203",
+    "datetime": "2026-04-23T20:40:37+00:00",
+    "views": "2",
+    "text": "贝佐斯旗下实体人工智能实验室完成新一轮融资，估值达 380 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3126203"
+  },
+  {
     "post": "Financial_Express/3126202",
     "datetime": "2026-04-23T20:40:17+00:00",
-    "views": "1",
+    "views": "2",
     "text": "芝加哥商业交易所（CME）将其纽约商品交易所（COMEX）5000 盎司白银期货的初始保证金从 14%下调至 11%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3126201",
     "datetime": "2026-04-23T20:39:57+00:00",
-    "views": "1",
+    "views": "2",
     "text": "杜克能源：运营许可再延长 20 年。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3126200",
     "datetime": "2026-04-23T20:39:39+00:00",
-    "views": "3",
+    "views": "4",
     "text": "杜克能源：罗宾逊核电站获得美国核管理委员会批准。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3126197",
     "datetime": "2026-04-23T20:39:38+00:00",
-    "views": "4",
+    "views": "5",
     "text": "黎巴嫩真主党：于 4 月 23 日（当地时间）23:15 对 Bint Jbeil 的 Shatula 定居点发射了一枚火箭弹。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3126198",
     "datetime": "2026-04-23T20:39:38+00:00",
-    "views": "3",
+    "views": "4",
     "text": "纽蒙特矿业承诺：黄金价格出现史无前例的上涨行情，公司打算回购 60 亿美元股票。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3126199",
     "datetime": "2026-04-23T20:39:38+00:00",
-    "views": "3",
+    "views": "4",
     "text": "芝加哥商业交易所（CME）将其纽约商品交易所（COMEX）100 盎司黄金期货的初始保证金比例从 7%下调至 6%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3126196",
     "datetime": "2026-04-23T20:38:57+00:00",
-    "views": "4",
+    "views": "5",
     "text": "秘鲁总统任命卡洛斯・帕雷哈为新任外交部长。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3126195",
     "datetime": "2026-04-23T20:38:18+00:00",
-    "views": "4",
+    "views": "5",
     "text": "通信片上系统（SOC）供应商 MaxLinear 美股盘后涨 29%，该公司二季度营收指引超过市场预期。该公司一季度净营收 1.372 亿美元，分析师预期 1.345 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3126190",
     "datetime": "2026-04-23T20:36:17+00:00",
-    "views": "4",
+    "views": "34",
     "text": "CME 下调金银期货合约保证金比例要求\n金十数据 4 月 24 日讯，芝商所（CME）下调部分白银及黄金期货合约保证金比例要求，调整将于当地时间周五收盘后生效。",
     "media_only": false,
     "image_url": null,
@@ -68569,14 +68578,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3118454"
-  },
-  {
-    "post": "Financial_Express/3118453",
-    "datetime": "2026-04-21T20:40:32+00:00",
-    "views": "137",
-    "text": "上周，美国 API 原油库存 -447 万桶，之前一周 +610.1 万桶。\n上周 API 库欣原油库存 +67.8 万桶，前值 -168.4 万桶。\n上周 API 成品油汽油库存 -516.5 万桶（前值 +62.6 万桶）、馏分油库存 -459 万桶（前值 -336.3 万桶）。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3118453"
   }
 ]
