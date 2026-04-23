@@ -1,9 +1,54 @@
 [
   {
+    "post": "Financial_Express/3125607",
+    "datetime": "2026-04-23T15:32:19+00:00",
+    "views": "2",
+    "text": "美国至 4 月 23 日 4 周国债竞拍-投标倍数 2.98，前值 3.12。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3125607"
+  },
+  {
+    "post": "Financial_Express/3125604",
+    "datetime": "2026-04-23T15:32:18+00:00",
+    "views": "2",
+    "text": "美国财政部拍卖四周期国债，得标利率 3.595%，投标倍数 2.98。\n拍卖八周期国债，得标利率 3.605%，投标倍数 2.91。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3125604"
+  },
+  {
+    "post": "Financial_Express/3125605",
+    "datetime": "2026-04-23T15:32:18+00:00",
+    "views": "2",
+    "text": "美国至 4 月 23 日 4 周国债竞拍-得标利率 3.595%，前值 3.595%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3125605"
+  },
+  {
+    "post": "Financial_Express/3125606",
+    "datetime": "2026-04-23T15:32:18+00:00",
+    "views": "2",
+    "text": "美国至 4 月 23 日 4 周国债竞拍-得标利率配置百分比 75.02%，前值 73.45%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3125606"
+  },
+  {
+    "post": "Financial_Express/3125603",
+    "datetime": "2026-04-23T15:31:58+00:00",
+    "views": "4",
+    "text": "欧洲央行管委 Nagel 称特朗普对美联储的攻击引发了避险行为\n欧洲央行管理委员会成员 Joachim Nagel 表示，特朗普对美联储的反复攻击正在产生反作用，导致人们对美国机构失去信任，并导致资金从美国资产和美元中流出。Nagel 周四在法兰克福发表讲话，引用了德国央行最近一项考察了自 2025 年初以来情况的研究。研究表明，特朗普向美联储施压并没有导致通胀预期上升，反而导致美国国债收益率下降、美股下跌、黄金价格飙升和美元走弱。Nagel 表示，“作者将此解读为两个层面的风险重新定价。首先，在美国市场内部，投资者从股票转向国债——这是一种国内避险行为。其次，美元走软和金价上涨表明投资者正在撤出美国资产——这是一种美国境外避险行为。”Nagel 表示，这表明“投资者不仅仅是期待宽松的货币政策——他们还担心美国机构的诚信，以及诚信丧失可能带来的深远后果”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3125603"
+  },
+  {
     "post": "Financial_Express/3125602",
     "datetime": "2026-04-23T15:30:37+00:00",
-    "views": "1",
-    "text": "伊朗塔斯尼姆通讯社 23 日援引一家油轮监测网站数据报道，过去两天内，已有 4 艘伊朗油轮突破美军封锁进入伊朗海域。（新华社）",
+    "views": "35",
+    "text": "伊媒：过去两天有 4 艘伊朗油轮突破美军封锁\n伊朗塔斯尼姆通讯社 23 日援引一家油轮监测网站数据报道，过去两天内，已有 4 艘伊朗油轮突破美军封锁进入伊朗海域。（新华社）",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3125602"
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3125601",
     "datetime": "2026-04-23T15:30:21+00:00",
-    "views": "3",
+    "views": "35",
     "text": "德国 DAX 30 指数初步收跌 0.11%，报 24167.66 点。\n法国股指初步收涨 0.93%，意大利股指初步收涨 0.34%、银行指数跌 0.89%，英国股指初步收跌 0.12%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3125599",
     "datetime": "2026-04-23T15:30:19+00:00",
-    "views": "3",
+    "views": "35",
     "text": "据 CNBC：微软(MSFT.O)将向 7%的美国员工提供自愿退休方案。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3125600",
     "datetime": "2026-04-23T15:30:19+00:00",
-    "views": "3",
+    "views": "35",
     "text": "欧盟委员会主席冯德莱恩：我们今天在塞浦路斯与泽连斯基进行了一次出色的会晤。鉴于乌克兰持续的改革努力，乌克兰入盟谈判应立即启动。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3125598",
     "datetime": "2026-04-23T15:30:12+00:00",
-    "views": "3",
+    "views": "35",
     "text": "欧洲 STOXX 600 指数初步收涨 0.10%，报 614.48 点。\n欧元区 STOXX 50 指数初步收跌 0.10%，报 5900.20 点。\n富时泛欧绩优 300 指数初步收涨 0.18%，报 2448.36 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3125596",
     "datetime": "2026-04-23T15:29:18+00:00",
-    "views": "34",
+    "views": "66",
     "text": "普京：俄罗斯愿与感兴趣的国家在北极开展合作\n金十数据 4 月 23 日讯，俄罗斯总统普京 23 日表示，俄罗斯愿与所有感兴趣的国家在北极地区开展合作，但同时也将捍卫自身在该地区的国家利益。普京当天通过视频连线方式与政府成员召开会议，讨论俄北极地区发展问题。他在会议上说：“我们愿与所有感兴趣的国家开展合作——不是竞争或对抗，而是合作。当然，我们会保护并捍卫我们在北极地区的国家利益。”普京还指出，地缘政治竞争和围绕北极地区的争夺正在加剧。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3125597",
     "datetime": "2026-04-23T15:29:18+00:00",
-    "views": "33",
+    "views": "65",
     "text": "微软本次一次性退休计划面向美国地区总监级及以下员工开放申请，申请条件为员工工龄与年龄之和达到 70 及以上。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3125595",
     "datetime": "2026-04-23T15:28:58+00:00",
-    "views": "34",
+    "views": "66",
     "text": "欧盟委员会主席冯德莱恩：乌克兰入盟谈判应立即启动。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3125594",
     "datetime": "2026-04-23T15:28:28+00:00",
-    "views": "39",
+    "views": "71",
     "text": "微软将提议让 7%的美国劳工自愿退休。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3125593",
     "datetime": "2026-04-23T15:27:57+00:00",
-    "views": "74",
+    "views": "76",
     "text": "据 CNBC：微软(MSFT.O)一次性退休计划将面向美国员工开放，适用于高级总监及以下级别、且其工龄与年龄之和达到 70 岁或以上的员工。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3125592",
     "datetime": "2026-04-23T15:27:44+00:00",
-    "views": "78",
+    "views": "80",
     "text": "爱尔眼科公告，公司于 4 月 23 日召开第七届董事会第五次会议，审议通过了《关于公司发行 H 股股票并在香港联合交易所有限公司上市的议案》《关于公司发行 H 股股票并在香港联合交易所有限公司上市方案的议案》等相关议案。为深入推进全球化战略，打造国际化平台，实现实业布局与资本结构的联动发展，经公司充分研究论证，公司拟发行境外上市外资股（H 股）股票并在香港联合交易所有限公司主板挂牌上市。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3125591",
     "datetime": "2026-04-23T15:27:18+00:00",
-    "views": "79",
+    "views": "81",
     "text": "普京：俄罗斯愿与感兴趣的国家在北极开展合作\n俄罗斯总统普京 23 日表示，俄罗斯愿与所有感兴趣的国家在北极地区开展合作，但同时也将捍卫自身在该地区的国家利益。普京当天通过视频连线方式与政府成员召开会议，讨论俄北极地区发展问题。他在会议上说：“我们愿与所有感兴趣的国家开展合作——不是竞争或对抗，而是合作。当然，我们会保护并捍卫我们在北极地区的国家利益。”普京还指出，地缘政治竞争和围绕北极地区的争夺正在加剧。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3125590",
     "datetime": "2026-04-23T15:27:17+00:00",
-    "views": "78",
+    "views": "79",
     "text": "爱尔眼科：拟发行 H 股股票并在香港联交所主板挂牌上市\n金十数据 4 月 23 日讯，4 月 23 日，爱尔眼科公告，公司于 2026 年 4 月 23 日召开第七届董事会第五次会议，审议通过了《关于公司发行 H 股股票并在香港联合交易所有限公司上市的议案》《关于公司发行 H 股股票并在香港联合交易所有限公司上市方案的议案》等相关议案。为深入推进全球化战略，打造国际化平台，实现实业布局与资本结构的联动发展，经公司充分研究论证，公司拟发行境外上市外资股（H 股）股票并在香港联合交易所有限公司主板挂牌上市。",
     "media_only": false,
     "image_url": null,
@@ -70171,86 +70216,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3117735"
-  },
-  {
-    "post": "Financial_Express/3117734",
-    "datetime": "2026-04-21T15:32:18+00:00",
-    "views": "46",
-    "text": "美联储主席提名人沃什：价格变动与通货膨胀并非一回事。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3117734"
-  },
-  {
-    "post": "Financial_Express/3117733",
-    "datetime": "2026-04-21T15:32:17+00:00",
-    "views": "44",
-    "text": "美联储主席提名人沃什：美国人受到油价上涨的影响。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3117733"
-  },
-  {
-    "post": "Financial_Express/3117732",
-    "datetime": "2026-04-21T15:31:59+00:00",
-    "views": "34",
-    "text": "欧盟外交政策负责人卡拉斯：目前成员国当中不足以达成多数支持暂停以色列联系协定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3117732"
-  },
-  {
-    "post": "Financial_Express/3117730",
-    "datetime": "2026-04-21T15:31:58+00:00",
-    "views": "34",
-    "text": "欧盟外交与安全政策高级代表卡拉斯就红海 Aspides 海军任务表示，已要求各成员国部长提供更多资产支持。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3117730"
-  },
-  {
-    "post": "Financial_Express/3117731",
-    "datetime": "2026-04-21T15:31:58+00:00",
-    "views": "34",
-    "text": "美联储主席提名人沃什：当汽油价格朝着错误的方向发展时，美国人会受到伤害。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3117731"
-  },
-  {
-    "post": "Financial_Express/3117729",
-    "datetime": "2026-04-21T15:31:37+00:00",
-    "views": "33",
-    "text": "欧盟外交政策负责人卡拉斯谈及阿斯庇德斯海上护航任务：已要求各成员国部长调拨更多军事资源予以支援。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3117729"
-  },
-  {
-    "post": "Financial_Express/3117728",
-    "datetime": "2026-04-21T15:31:03+00:00",
-    "views": "33",
-    "text": "德国 DAX 30 指数初步收跌 0.45%，报 24307.25 点。\n法国股指初步收跌 1.06%，意大利股指初步收跌 0.46%、银行指数跌 0.63%，英国股指初步收跌 1.01%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3117728"
-  },
-  {
-    "post": "Financial_Express/3117727",
-    "datetime": "2026-04-21T15:31:00+00:00",
-    "views": "33",
-    "text": "欧洲 STOXX 600 指数初步收跌 0.82%，报 616.36 点。\n欧元区 STOXX 50 指数初步收跌 0.69%，报 5941.05 点。\n富时泛欧绩优 300 指数初步收跌 0.81%，报 2455.29 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3117727"
-  },
-  {
-    "post": "Financial_Express/3117726",
-    "datetime": "2026-04-21T15:30:58+00:00",
-    "views": "33",
-    "text": "美国能源部长赖特：阿拉斯加液化天然气是美国能源基础设施的首要任务。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3117726"
   }
 ]
