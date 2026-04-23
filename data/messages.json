@@ -1,8 +1,134 @@
 [
   {
+    "post": "Financial_Express/3126007",
+    "datetime": "2026-04-23T19:48:18+00:00",
+    "views": "5",
+    "text": "美国商务部长卢特尼克：预计芯片制造厂规模将达到 1 万亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3126007"
+  },
+  {
+    "post": "Financial_Express/3126006",
+    "datetime": "2026-04-23T19:48:17+00:00",
+    "views": "5",
+    "text": "美国总统特朗普：所有芯片公司都要回到美国了。（美国）很快将占据接近 50%的芯片市场。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3126006"
+  },
+  {
+    "post": "Financial_Express/3126005",
+    "datetime": "2026-04-23T19:47:57+00:00",
+    "views": "8",
+    "text": "再生元制药：未来在美国市场的药品定价将与一组特定国家的定价保持一致。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3126005"
+  },
+  {
+    "post": "Financial_Express/3126004",
+    "datetime": "2026-04-23T19:47:38+00:00",
+    "views": "11",
+    "text": "再生元制药公司：将获得三年关税减免，并豁免于未来定价强制规定。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3126004"
+  },
+  {
+    "post": "Financial_Express/3126003",
+    "datetime": "2026-04-23T19:47:35+00:00",
+    "views": "11",
+    "text": "特朗普：韩国芯片公司进入美国。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3126003"
+  },
+  {
+    "post": "Financial_Express/3126002",
+    "datetime": "2026-04-23T19:47:18+00:00",
+    "views": "12",
+    "text": "特朗普：芯片公司正进入美国。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3126002"
+  },
+  {
+    "post": "Financial_Express/3126001",
+    "datetime": "2026-04-23T19:47:17+00:00",
+    "views": "12",
+    "text": "特朗普将美国芯片制造业的崛起归功于关税。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3126001"
+  },
+  {
+    "post": "Financial_Express/3126000",
+    "datetime": "2026-04-23T19:47:09+00:00",
+    "views": "14",
+    "text": "周四（4 月 23 日）纽约尾盘，美国 10 年期国债收益率涨 1.99 个基点，报 4.3200%，北京时间 00:58 出现一波短线拉升行情——从 4.29%附近涨向 4.35%。\n两年期美债收益率涨 2.52 个基点，报 3.8231%，也一度从 3.8%下方拉升至 3.8443%；30 年期美债收益率涨 1.53 个基点，报 4.9193%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3126000"
+  },
+  {
+    "post": "Financial_Express/3125999",
+    "datetime": "2026-04-23T19:46:58+00:00",
+    "views": "14",
+    "text": "美国联邦存款保险公司（FDIC）：新规将把社区银行杠杆率要求从 9%下调至 8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3125999"
+  },
+  {
+    "post": "Financial_Express/3125998",
+    "datetime": "2026-04-23T19:46:57+00:00",
+    "views": "14",
+    "text": "再生元制药宣布与美国政府达成协议，帮助降低美国患者的用药成本，并将在美国免费提供创新型新型基因疗法。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3125998"
+  },
+  {
+    "post": "Financial_Express/3125997",
+    "datetime": "2026-04-23T19:46:39+00:00",
+    "views": "46",
+    "text": "特朗普：美国在人工智能领域领先中国。\n中国台湾与韩国的芯片公司进入美国。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3125997"
+  },
+  {
+    "post": "Financial_Express/3125995",
+    "datetime": "2026-04-23T19:46:38+00:00",
+    "views": "46",
+    "text": "特朗普：芯片公司也在回归美国。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3125995"
+  },
+  {
+    "post": "Financial_Express/3125996",
+    "datetime": "2026-04-23T19:46:38+00:00",
+    "views": "46",
+    "text": "白宫发布再生元交易情况说明书。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3125996"
+  },
+  {
+    "post": "Financial_Express/3125994",
+    "datetime": "2026-04-23T19:46:37+00:00",
+    "views": "46",
+    "text": "美国联邦存款保险公司：社区银行杠杆比率新规将杠杆率从 9%降至 8%，变更将于 7 月 1 日生效。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3125994"
+  },
+  {
     "post": "Financial_Express/3125992",
     "datetime": "2026-04-23T19:46:18+00:00",
-    "views": "2",
+    "views": "48",
     "text": "特朗普：各大车企正从加拿大、墨西哥、日本回迁美国。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +146,7 @@
   {
     "post": "Financial_Express/3125991",
     "datetime": "2026-04-23T19:45:37+00:00",
-    "views": "7",
+    "views": "52",
     "text": "特朗普大肆宣传礼来制药工厂投资项目。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +155,7 @@
   {
     "post": "Financial_Express/3125990",
     "datetime": "2026-04-23T19:45:18+00:00",
-    "views": "8",
+    "views": "51",
     "text": "特朗普赞扬礼来和辉瑞在美国的建设。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +164,7 @@
   {
     "post": "Financial_Express/3125989",
     "datetime": "2026-04-23T19:45:17+00:00",
-    "views": "8",
+    "views": "51",
     "text": "特朗普急于从伊朗战争抽身 新核协议约束力或弱于前一版\n美国总统唐纳德·特朗普多次表示，其对伊朗发动战争是为了防止德黑兰获得核武器。但在关键的核问题上，他最终可能达成的协议可能比其首个任期内放弃的协议更糟。知情人士透露，在美伊停火谈判暂时搁置之际，特朗普政府急于寻找替代方案，以避免重启这场扰乱市场并引发盟友批评的战争。这些人士表示，随着达成协议的紧迫性不断上升，他们怀疑政府没有时间或筹码坚持要求类似 2015 年伊核协议(JCPOA)中那种复杂且细致的监督机制。特朗普的国安团队最终可能接受一项纸面上看似更雄心勃勃、但实际执行不如 2015 年 JCPOA 有约束力的核协议，尽管特朗普曾多次将 JCPOA 称为“历史上最糟糕的协议”。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +173,7 @@
   {
     "post": "Financial_Express/3125988",
     "datetime": "2026-04-23T19:44:58+00:00",
-    "views": "9",
+    "views": "49",
     "text": "美国商务部长卢特尼克：再生元公司已同意将制药生产迁回美国本土。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +182,7 @@
   {
     "post": "Financial_Express/3125987",
     "datetime": "2026-04-23T19:44:37+00:00",
-    "views": "40",
+    "views": "49",
     "text": "欧盟警告：美方拟议修改条款，美欧贸易协议恐面临破裂风险。",
     "media_only": false,
     "image_url": null,
@@ -67498,32 +67624,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3118366"
-  },
-  {
-    "post": "Financial_Express/3118365",
-    "datetime": "2026-04-21T19:48:17+00:00",
-    "views": "91",
-    "text": "消息人士称伊朗不会参加 22 日的美伊谈判\n金十数据 4 月 22 日讯，伊朗谈判团队已通过巴基斯坦中间人向美方宣布，出于种种原因，他们 22 日不会前往巴基斯坦伊斯兰堡，目前也没有参加谈判的可能。相关消息人士指出，在巴基斯坦介入调解并请求美国停火后，伊朗接受了停火协议，并同意基于其提出的、已被美国接受的十点框架进行后续结束战争的谈判。巴基斯坦也明确宣布了美国接受这一框架。但此后几天，美国就开始违背承诺。此外，在伊斯兰堡举行的首轮谈判中，美国提出了许多过分的要求，实际上违反了最初的框架，导致该轮谈判陷入僵局。消息人士还表示，在过去几天的交流中，美国方面坚持其过分的要求，这些要求侵犯了伊朗人民的绝对权利，双方的交流并未取得任何实质性进展。因此，伊朗今天最终宣布，在这种情况下，参与谈判是浪费时间，因为美国正在阻止达成任何实质性协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3118365"
-  },
-  {
-    "post": "Financial_Express/3118364",
-    "datetime": "2026-04-21T19:47:58+00:00",
-    "views": "92",
-    "text": "美国国债收益率延续上行走势，2 年期美债收益率上行 8.4 个基点，报 3.80%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3118364"
-  },
-  {
-    "post": "Financial_Express/3118363",
-    "datetime": "2026-04-21T19:47:37+00:00",
-    "views": "93",
-    "text": "消息人士称伊朗不会参加 22 日的美伊谈判\n当地时间 4 月 21 日晚，伊朗谈判团队已通过巴基斯坦中间人向美方宣布，出于种种原因，他们 22 日不会前往巴基斯坦伊斯兰堡，目前也没有参加谈判的可能。相关消息人士指出，在巴基斯坦介入调解并请求美国停火后，伊朗接受了停火协议，并同意基于其提出的、已被美国接受的十点框架进行后续结束战争的谈判。巴基斯坦也明确宣布了美国接受这一框架。但此后几天，美国就开始违背承诺。此外，在伊斯兰堡举行的首轮谈判中，美国提出了许多过分的要求，实际上违反了最初的框架，导致该轮谈判陷入僵局。消息人士还表示，在过去几天的交流中，美国方面坚持其过分的要求，这些要求侵犯了伊朗人民的绝对权利，双方的交流并未取得任何实质性进展。因此，伊朗今天最终宣布，在这种情况下，参与谈判是浪费时间，因为美国正在阻止达成任何实质性协议。目前此消息尚未获得伊朗官方证实。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3118363"
   }
 ]
