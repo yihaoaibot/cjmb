@@ -1,5 +1,14 @@
 [
   {
+    "post": "Financial_Express/3129895",
+    "datetime": "2026-04-24T16:58:19+00:00",
+    "views": "1",
+    "text": "欧盟委员会副主席塞夫科维奇：已在与贝森特的会谈中提出美国放宽俄罗斯石油制裁的相关问题，我方了解此类情况未来不会再发生。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3129895"
+  },
+  {
     "post": "Financial_Express/3129894",
     "datetime": "2026-04-24T16:55:02+00:00",
     "views": "31",
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3129891",
     "datetime": "2026-04-24T16:53:37+00:00",
-    "views": "32",
+    "views": "62",
     "text": "欧盟委员会副主席塞夫科维奇：预计很快会提出几个关键矿产方面的试点项目建议。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3129889",
     "datetime": "2026-04-24T16:53:18+00:00",
-    "views": "32",
+    "views": "62",
     "text": "Anthropic：谷歌(GOOG.O)今天将按公司当前估值投资 100 亿美元，另有 300 亿美元的投资将取决于是否达成特定的业绩里程碑。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3129890",
     "datetime": "2026-04-24T16:53:18+00:00",
-    "views": "32",
+    "views": "62",
     "text": "BOOZ ALLEN 股价受美国太空军合同落地提振转涨。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3129888",
     "datetime": "2026-04-24T16:53:09+00:00",
-    "views": "32",
+    "views": "62",
     "text": "LME 期铜收跌 46 美元，报 13310 美元/吨。\nLME 期铝收跌 29 美元，报 3591 美元/吨。\nLME 期锌收涨 20 美元，报 3472 美元/吨。\nLME 期铅收涨 8 美元，报 1962 美元/吨。\nLME 期镍收涨 278 美元，报 19015 美元/吨。\nLME 期锡收涨 116 美元，报 50331 美元/吨。\nLME 期钴收平，报 56290 美元/吨。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3129887",
     "datetime": "2026-04-24T16:52:58+00:00",
-    "views": "32",
+    "views": "62",
     "text": "欧盟委员会副主席塞夫科维奇：预计很快将推出若干关键矿产试点项目。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3129886",
     "datetime": "2026-04-24T16:52:37+00:00",
-    "views": "32",
+    "views": "92",
     "text": "Anthropic：谷歌今日按该公司当前估值投资 100 亿美元，后续 300 亿美元投资将以达到特定业绩里程碑为前提条件。",
     "media_only": false,
     "image_url": null,
@@ -69946,59 +69955,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3122000"
-  },
-  {
-    "post": "Financial_Express/3121999",
-    "datetime": "2026-04-22T16:58:17+00:00",
-    "views": "33",
-    "text": "美债收益率上升，2 年期收益率上升 2.3 个基点至 3.802%；10 年期收益率上涨 1 个基点至 4.302%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3121999"
-  },
-  {
-    "post": "Financial_Express/3121998",
-    "datetime": "2026-04-22T16:57:37+00:00",
-    "views": "63",
-    "text": "美国国债收益率转升；10 年期国债收益率上涨 1 个基点，报 4.302%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3121998"
-  },
-  {
-    "post": "Financial_Express/3121997",
-    "datetime": "2026-04-22T16:57:30+00:00",
-    "views": "63",
-    "text": "清除霍尔木兹海峡的水雷可能会耗时六个月。\n伊朗可能已经在霍尔木兹海峡周边部署了至少 20 枚水雷。（华盛顿邮报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3121997"
-  },
-  {
-    "post": "Financial_Express/3121996",
-    "datetime": "2026-04-22T16:57:20+00:00",
-    "views": "63",
-    "text": "小米宣布 Xiaomi MiMo-V2.5 系列模型正式开启公测\n小米宣布，Xiaomi MiMo-V2.5 系列模型正式开启公测。 Xiaomi MiMo-V2.5 系列包含 MiMo-V2.5、V2.5-Pro 、V2.5-TTS Series 、V2.5-ASR。 更强的推理，更稳的 Agent ，更长的上下文，更强的指令遵循与模糊指令理解，更好的全模态感知和理解 ——这是一次从“能用”到“好用”的全面跨越。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3121996"
-  },
-  {
-    "post": "Financial_Express/3121995",
-    "datetime": "2026-04-22T16:57:19+00:00",
-    "views": "62",
-    "text": "五角大楼：清除霍尔木兹海峡水雷或需 6 个月\n金十数据 4 月 23 日讯，五角大楼已通知国会，彻底清除伊朗军方在霍尔木兹海峡布设的水雷可能需要 6 个月时间，而且任何此类行动在美国与伊朗的战争结束前都不太可能进行。这一评估意味着冲突的经济影响可能会延续到今年晚些时候或更久。据透露，一名国防部高级官员周二在向众议院军事委员会成员举行的机密简报会上分享了这个此前未被报道过的估计时间。其中两位人士表示，这一时间表令民主党和共和党人都感到沮丧，这或许是最明确的信号，表明即使在达成任何和平协议之后，汽油和石油价格仍可能长期保持高位。除了经济影响之外，这样的结果也可能对美国国内政治，尤其是对共和党人，产生重大影响，因为 11 月的中期选举日益临近。议员们被告知，伊朗可能在霍尔木兹海峡及其周边地区布设了 20 枚或更多的水雷。其中一些水雷是使用 GPS 技术远程布设的，这使得美军难以探测到正在布设的水雷。据信，其他水雷是由伊朗军队使用小型船只布设的。白宫和五角大楼周三均未回应有关军方关于扫雷可能需要多长时间的评估的提问。美国中央司令部拒绝置评。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3121995"
-  },
-  {
-    "post": "Financial_Express/3121994",
-    "datetime": "2026-04-22T16:56:54+00:00",
-    "views": "63",
-    "text": "委内瑞拉向秘鲁出口石油，为 2009 年以来首次。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3121994"
   }
 ]
