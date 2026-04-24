@@ -1,5 +1,37 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-04-24T01:26:27.502818+00:00","clsvipUpdated":"2026-04-24T01:26:35.603123+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">4月24日</h2><div class="feed"><article class="item" data-search="三大股指低开，沪指跌 0.3％，深成指跌 0.61％，创业板跌 1.01％。"><div class="time">09:26</div><div class="content"><div class="text" data-full="三大股指低开，沪指跌 0.3％，深成指跌 0.61％，创业板跌 1.01％。" data-short="三大股指低开，沪指跌 0.3％，深成指跌 0.61％，创业板跌 1.01％。">三大股指低开，沪指跌 0.3％，深成指跌 0.61％，创业板跌 1.01％。</div></div></article><article class="item" data-search="新易盛低开 9.1%，此前发布一季度财报。"><div class="time">09:26</div><div class="content"><div class="text" data-full="新易盛低开 9.1%，此前发布一季度财报。" data-short="新易盛低开 9.1%，此前发布一季度财报。">新易盛低开 9.1%，此前发布一季度财报。</div></div></article><article class="item" data-search="a 股开盘，上证指数开跌 0.3%，深证成指开跌 0.61%，创业板指开跌 1.01%。"><div class="time">09:25</div><div class="content"><div class="text" data-full="A 股开盘，上证指数开跌 0.3%，深证成指开跌 0.61%，创业板指开跌 1.01%。" data-short="A 股开盘，上证指数开跌 0.3%，深证成指开跌 0.61%，创业板指开跌 1.01%。">A 股开盘，上证指数开跌 0.3%，深证成指开跌 0.61%，创业板指开跌 1.01%。</div></div></article><article class="item" data-search="新易盛开盘大跌超 9%，公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。"><div class="time">09:25</div><div class="content"><div class="text" data-full="新易盛开盘大跌超 9%，公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。" data-short="新易盛开盘大跌超 9%，公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。">新易盛开盘大跌超 9%，公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。</div></div></article><article class="item" data-search="三大指数集体低开，沪指低开 0.3%，深成指低开 0.61%，创业板指低开 1.01%。"><div class="time">09:25</div><div class="content"><div class="text" data-full="三大指数集体低开，沪指低开 0.3%，深成指低开 0.61%，创业板指低开 1.01%。" data-short="三大指数集体低开，沪指低开 0.3%，深成指低开 0.61%，创业板指低开 1.01%。">三大指数集体低开，沪指低开 0.3%，深成指低开 0.61%，创业板指低开 1.01%。</div></div></article><article class="item" data-search="机构：新兴电视操作系统平台预计 2030 年将占据 30%欧洲市场
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-04-24T01:28:27.249905+00:00","clsvipUpdated":"2026-04-24T01:28:38.055968+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">4月24日</h2><div class="feed"><article class="item" data-search="液化石油气连续主力合约日内涨 5%，现报 5742.00 元。"><div class="time">09:28</div><div class="content"><div class="text" data-full="液化石油气连续主力合约日内涨 5%，现报 5742.00 元。" data-short="液化石油气连续主力合约日内涨 5%，现报 5742.00 元。">液化石油气连续主力合约日内涨 5%，现报 5742.00 元。</div></div></article><article class="item" data-search="新易盛开盘大跌超 9%
+金十数据 4 月 24 日讯，a 股新易盛开跌超 9%，日前公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。"><div class="time">09:27</div><div class="content"><div class="text" data-full="新易盛开盘大跌超 9%
+金十数据 4 月 24 日讯，A 股新易盛开跌超 9%，日前公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。" data-short="新易盛开盘大跌超 9%
+金十数据 4 月 24 日讯，A 股新易盛开跌超 9%，日前公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。">新易盛开盘大跌超 9%
+金十数据 4 月 24 日讯，A 股新易盛开跌超 9%，日前公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。</div></div></article><article class="item" data-search="a 股新股 n 联讯上市首日高开 800%
+a 股新股 n 联讯上市首日高开 800%，报 736.92 元。"><div class="time">09:26</div><div class="content"><div class="text" data-full="A 股新股 N 联讯上市首日高开 800%
+A 股新股 N 联讯上市首日高开 800%，报 736.92 元。" data-short="A 股新股 N 联讯上市首日高开 800%
+A 股新股 N 联讯上市首日高开 800%，报 736.92 元。">A 股新股 N 联讯上市首日高开 800%
+A 股新股 N 联讯上市首日高开 800%，报 736.92 元。</div></div></article><article class="item" data-search="小鹏汽车：小鹏集团以 ai 汽车、飞行汽车、ai 机器人作为三大物理 ai 载体，推动行业从“汽车搭载 ai”进入“ai 定义汽车”阶段，全面引领物理 ai 时代的出行变革。 在本届北京车展上，小鹏集团以“ai 改变世界”为主题，集中展示以上战略成果。其中，飞行汽车“陆地航母”已获 7000 台订单，计划今年量产；人形机器人 iron 也同步亮相，同样有望在今年实现量产。"><div class="time">09:26</div><div class="content"><div class="text" data-full="小鹏汽车：小鹏集团以 AI 汽车、飞行汽车、AI 机器人作为三大物理 AI 载体，推动行业从“汽车搭载 AI”进入“AI 定义汽车”阶段，全面引领物理 AI 时代的出行变革。 在本届北京车展上，小鹏集团以“AI 改变世界”为主题，集中展示以上战略成果。其中，飞行汽车“陆地航母”已获 7000 台订单，计划今年量产；人形机器人 IRON 也同步亮相，同样有望在今年实现量产。" data-short="小鹏汽车：小鹏集团以 AI 汽车、飞行汽车、AI 机器人作为三大物理 AI 载体，推动行业从“汽车搭载 AI”进入“AI 定义汽车”阶段，全面引领物理 AI 时代的出行变革。 在本届北京车展上，小鹏集团以“AI 改变世界”为主题，集中展示以上战略成果。其中，飞行汽车“陆地航母”已获 7000 台订单，计划今年量产；人形机器人 IRON 也同步亮相，同样有望在...">小鹏汽车：小鹏集团以 AI 汽车、飞行汽车、AI 机器人作为三大物理 AI 载体，推动行业从“汽车搭载 AI”进入“AI 定义汽车”阶段，全面引领物理 AI 时代的出行变革。 在本届北京车展上，小鹏集团以“AI 改变世界”为主题，集中展示以上战略成果。其中，飞行汽车“陆地航母”已获 7000 台订单，计划今年量产；人形机器人 IRON 也同步亮相，同样有望在...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="新易盛开盘大跌超 9%，公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。"><div class="time">09:26</div><div class="content"><div class="text" data-full="新易盛开盘大跌超 9%，公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。" data-short="新易盛开盘大跌超 9%，公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。">新易盛开盘大跌超 9%，公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。</div></div></article><article class="item" data-search="上证指数开盘报 4081.03 点，跌 0.30%。
+深证成指开盘报 14951.74 点，跌 0.61%。
+创业板指开盘报 3682.50 点，跌 1.01%。
+沪深 300 开盘报 4771.73 点，跌 0.30%。
+科创 50 开盘报 1443.04 点，涨 0.73%。
+中证 500 开盘报 8244.78 点，跌 0.61%。
+中证 1000 开盘报 8318.60 点，跌 0.53%。"><div class="time">09:26</div><div class="content"><div class="text" data-full="上证指数开盘报 4081.03 点，跌 0.30%。
+深证成指开盘报 14951.74 点，跌 0.61%。
+创业板指开盘报 3682.50 点，跌 1.01%。
+沪深 300 开盘报 4771.73 点，跌 0.30%。
+科创 50 开盘报 1443.04 点，涨 0.73%。
+中证 500 开盘报 8244.78 点，跌 0.61%。
+中证 1000 开盘报 8318.60 点，跌 0.53%。" data-short="上证指数开盘报 4081.03 点，跌 0.30%。
+深证成指开盘报 14951.74 点，跌 0.61%。
+创业板指开盘报 3682.50 点，跌 1.01%。
+沪深 300 开盘报 4771.73 点，跌 0.30%。
+科创 50 开盘报 1443.04 点，涨 0.73%。
+中证 500 开盘报 8244.78 点，跌 0.61%。
+中证 1000 开...">上证指数开盘报 4081.03 点，跌 0.30%。
+深证成指开盘报 14951.74 点，跌 0.61%。
+创业板指开盘报 3682.50 点，跌 1.01%。
+沪深 300 开盘报 4771.73 点，跌 0.30%。
+科创 50 开盘报 1443.04 点，涨 0.73%。
+中证 500 开盘报 8244.78 点，跌 0.61%。
+中证 1000 开...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="三大股指低开，沪指跌 0.3％，深成指跌 0.61％，创业板跌 1.01％。"><div class="time">09:26</div><div class="content"><div class="text" data-full="三大股指低开，沪指跌 0.3％，深成指跌 0.61％，创业板跌 1.01％。" data-short="三大股指低开，沪指跌 0.3％，深成指跌 0.61％，创业板跌 1.01％。">三大股指低开，沪指跌 0.3％，深成指跌 0.61％，创业板跌 1.01％。</div></div></article><article class="item" data-search="新易盛低开 9.1%，此前发布一季度财报。"><div class="time">09:26</div><div class="content"><div class="text" data-full="新易盛低开 9.1%，此前发布一季度财报。" data-short="新易盛低开 9.1%，此前发布一季度财报。">新易盛低开 9.1%，此前发布一季度财报。</div></div></article><article class="item" data-search="a 股开盘，上证指数开跌 0.3%，深证成指开跌 0.61%，创业板指开跌 1.01%。"><div class="time">09:25</div><div class="content"><div class="text" data-full="A 股开盘，上证指数开跌 0.3%，深证成指开跌 0.61%，创业板指开跌 1.01%。" data-short="A 股开盘，上证指数开跌 0.3%，深证成指开跌 0.61%，创业板指开跌 1.01%。">A 股开盘，上证指数开跌 0.3%，深证成指开跌 0.61%，创业板指开跌 1.01%。</div></div></article><article class="item" data-search="新易盛低开超 9%，公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。"><div class="time">09:25</div><div class="content"><div class="text" data-full="新易盛低开超 9%，公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。" data-short="新易盛低开超 9%，公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。">新易盛低开超 9%，公司第一季度实现营业收入 83.38 亿元，同比增长 105.76%，第一季度归属于上市公司股东的净利润为 27.80 亿元，同比增长 76.80%。</div></div></article><article class="item" data-search="三大指数集体低开，沪指低开 0.3%，深成指低开 0.61%，创业板指低开 1.01%。"><div class="time">09:25</div><div class="content"><div class="text" data-full="三大指数集体低开，沪指低开 0.3%，深成指低开 0.61%，创业板指低开 1.01%。" data-short="三大指数集体低开，沪指低开 0.3%，深成指低开 0.61%，创业板指低开 1.01%。">三大指数集体低开，沪指低开 0.3%，深成指低开 0.61%，创业板指低开 1.01%。</div></div></article><article class="item" data-search="机构：新兴电视操作系统平台预计 2030 年将占据 30%欧洲市场
 omdia 最新发布的《电视设计与功能追踪报告》 指出，在 2022 年尚不存在的电视操作系统（tv os），预计将在 2030 年占据欧洲电视操作系统市场的 30%份额，高于 2025 年的 21%。这一快速变化凸显出，电视品牌正越来越重视通过操作系统获取广告收入，而不仅仅依赖传统的硬件销售。"><div class="time">09:25</div><div class="content"><div class="text" data-full="机构：新兴电视操作系统平台预计 2030 年将占据 30%欧洲市场
 Omdia 最新发布的《电视设计与功能追踪报告》 指出，在 2022 年尚不存在的电视操作系统（TV OS），预计将在 2030 年占据欧洲电视操作系统市场的 30%份额，高于 2025 年的 21%。这一快速变化凸显出，电视品牌正越来越重视通过操作系统获取广告收入，而不仅仅依赖传统的硬件销售。" data-short="机构：新兴电视操作系统平台预计 2030 年将占据 30%欧洲市场
 Omdia 最新发布的《电视设计与功能追踪报告》 指出，在 2022 年尚不存在的电视操作系统（TV OS），预计将在 2030 年占据欧洲电视操作系统市场的 30%份额，高于 2025 年的 21%。这一快速变化凸显出，电视品牌正越来越重视通过操作系统获取广告收入，而不仅仅依赖传统的硬件销...">机构：新兴电视操作系统平台预计 2030 年将占据 30%欧洲市场
@@ -859,15 +891,132 @@ Sap ADR 美股盘后涨 11%。" data-short="德国思爱普 Sap 一季度非 IFR
 美国总统唐纳德·特朗普表示，他正在考虑让美国政府收购 spirit airlines，表示这对联邦政府来说可能是一项不错的投资。特朗普发表上述言论之际，针对这家陷入困境的航空公司，政府已经在权衡一项潜在救助方案。“我们在考虑这么做，帮助他们，也就是救助他们，或者买下它。我们会把它买下来，”特朗普周四对记者表示，“我们将把它拿下来，几乎没有债务负担。他们有一些不错的飞机和优质资产。”特朗普提出，美国可以在“油价下跌时”出售这家航空公司，从而获利。他还称，此举将有助于保护该航空公司员工的就业岗位。"><div class="time">06:16</div><div class="content"><div class="text" data-full="特朗普称正考虑由美国政府收购 Spirit Airlines
 美国总统唐纳德·特朗普表示，他正在考虑让美国政府收购 Spirit Airlines，表示这对联邦政府来说可能是一项不错的投资。特朗普发表上述言论之际，针对这家陷入困境的航空公司，政府已经在权衡一项潜在救助方案。“我们在考虑这么做，帮助他们，也就是救助他们，或者买下它。我们会把它买下来，”特朗普周四对记者表示，“我们将把它拿下来，几乎没有债务负担。他们有一些不错的飞机和优质资产。”特朗普提出，美国可以在“油价下跌时”出售这家航空公司，从而获利。他还称，此举将有助于保护该航空公司员工的就业岗位。" data-short="特朗普称正考虑由美国政府收购 Spirit Airlines
 美国总统唐纳德·特朗普表示，他正在考虑让美国政府收购 Spirit Airlines，表示这对联邦政府来说可能是一项不错的投资。特朗普发表上述言论之际，针对这家陷入困境的航空公司，政府已经在权衡一项潜在救助方案。“我们在考虑这么做，帮助他们，也就是救助他们，或者买下它。我们会把它买下来，”特朗普周...">特朗普称正考虑由美国政府收购 Spirit Airlines
-美国总统唐纳德·特朗普表示，他正在考虑让美国政府收购 Spirit Airlines，表示这对联邦政府来说可能是一项不错的投资。特朗普发表上述言论之际，针对这家陷入困境的航空公司，政府已经在权衡一项潜在救助方案。“我们在考虑这么做，帮助他们，也就是救助他们，或者买下它。我们会把它买下来，”特朗普周...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="科威特航空和捷达航空将于本周日恢复航班。"><div class="time">06:16</div><div class="content"><div class="text" data-full="科威特航空和捷达航空将于本周日恢复航班。" data-short="科威特航空和捷达航空将于本周日恢复航班。">科威特航空和捷达航空将于本周日恢复航班。</div></div></article><article class="item" data-search="今年 1.3 万亿元超长期特别国债发行开启，分析称 5 月至 6 月将迎来发行高峰
-今年 1.3 万亿元超长期特别国债发行开启。根据安排，财政部 4 月 24 日将分别发行 20 年期 340 亿元和 30 年期 850 亿元超长期特别国债，合计发债规模 1190 亿元。金融街证券首席经济学家张一表示，总体来看，2026 年超长期国债发行节奏与 2025 年保持一致。为配合 6 月底前资金下达，5 月至 6 月将迎来发行高峰，预计上半年完成约 5500 亿元发行额。今年超长期特别国债发行计划依然采用 20 年、30 年、50 年三个期限品种，共发行 23 期，其中 30 年期限的较 2025 年多出 1 期。（上证报）"><div class="time">06:14</div><div class="content"><div class="text" data-full="今年 1.3 万亿元超长期特别国债发行开启，分析称 5 月至 6 月将迎来发行高峰
-今年 1.3 万亿元超长期特别国债发行开启。根据安排，财政部 4 月 24 日将分别发行 20 年期 340 亿元和 30 年期 850 亿元超长期特别国债，合计发债规模 1190 亿元。金融街证券首席经济学家张一表示，总体来看，2026 年超长期国债发行节奏与 2025 年保持一致。为配合 6 月底前资金下达，5 月至 6 月将迎来发行高峰，预计上半年完成约 5500 亿元发行额。今年超长期特别国债发行计划依然采用 20 年、30 年、50 年三个期限品种，共发行 23 期，其中 30 年期限的较 2025 年多出 1 期。（上证报）" data-short="今年 1.3 万亿元超长期特别国债发行开启，分析称 5 月至 6 月将迎来发行高峰
-今年 1.3 万亿元超长期特别国债发行开启。根据安排，财政部 4 月 24 日将分别发行 20 年期 340 亿元和 30 年期 850 亿元超长期特别国债，合计发债规模 1190 亿元。金融街证券首席经济学家张一表示，总体来看，2026 年超长期国债发行节奏与 2025 年...">今年 1.3 万亿元超长期特别国债发行开启，分析称 5 月至 6 月将迎来发行高峰
-今年 1.3 万亿元超长期特别国债发行开启。根据安排，财政部 4 月 24 日将分别发行 20 年期 340 亿元和 30 年期 850 亿元超长期特别国债，合计发债规模 1190 亿元。金融街证券首席经济学家张一表示，总体来看，2026 年超长期国债发行节奏与 2025 年...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="polymarket：我方发现一名用户利用涉密政府信息进行交易，已将该事项移交美国司法部，并配合调查工作。"><div class="time">06:14</div><div class="content"><div class="text" data-full="Polymarket：我方发现一名用户利用涉密政府信息进行交易，已将该事项移交美国司法部，并配合调查工作。" data-short="Polymarket：我方发现一名用户利用涉密政府信息进行交易，已将该事项移交美国司法部，并配合调查工作。">Polymarket：我方发现一名用户利用涉密政府信息进行交易，已将该事项移交美国司法部，并配合调查工作。</div></div></article><article class="item" data-search="polymarket：我们发现一名用户在交易机密政府信息，已将此事移交给美国司法部并配合调查。"><div class="time">06:14</div><div class="content"><div class="text" data-full="Polymarket：我们发现一名用户在交易机密政府信息，已将此事移交给美国司法部并配合调查。" data-short="Polymarket：我们发现一名用户在交易机密政府信息，已将此事移交给美国司法部并配合调查。">Polymarket：我们发现一名用户在交易机密政府信息，已将此事移交给美国司法部并配合调查。</div></div></article><article class="item" data-search="美航母驶向中东 特朗普下达“击沉令” 伊朗亮出七条反击方案
-当地时间 23 日，随着美伊在霍尔木兹海峡对峙升级，美军“布什”号核动力航母正驶向中东海域。眼下，美伊停火状态虽得以维持，但新一轮谈判何时启动仍不明朗。巴基斯坦外交官称，美伊谈判已“陷入僵局”，美国总统特朗普则称“伊朗没有时间了”，并下令美军可击沉任何在霍尔木兹海峡布设水雷的船只。以防长表示已做好重启战事准备，正等待美方“开绿灯”。与此同时，鉴于对美方的谈判诚意丧失信任，伊朗已针对美及其盟友“可能的”军事行动制定了针对性反击方案。（央视新闻）"><div class="time">06:14</div><div class="content"><div class="text" data-full="美航母驶向中东 特朗普下达“击沉令” 伊朗亮出七条反击方案
-当地时间 23 日，随着美伊在霍尔木兹海峡对峙升级，美军“布什”号核动力航母正驶向中东海域。眼下，美伊停火状态虽得以维持，但新一轮谈判何时启动仍不明朗。巴基斯坦外交官称，美伊谈判已“陷入僵局”，美国总统特朗普则称“伊朗没有时间了”，并下令美军可击沉任何在霍尔木兹海峡布设水雷的船只。以防长表示已做好重启战事准备，正等待美方“开绿灯”。与此同时，鉴于对美方的谈判诚意丧失信任，伊朗已针对美及其盟友“可能的”军事行动制定了针对性反击方案。（央视新闻）" data-short="美航母驶向中东 特朗普下达“击沉令” 伊朗亮出七条反击方案
-当地时间 23 日，随着美伊在霍尔木兹海峡对峙升级，美军“布什”号核动力航母正驶向中东海域。眼下，美伊停火状态虽得以维持，但新一轮谈判何时启动仍不明朗。巴基斯坦外交官称，美伊谈判已“陷入僵局”，美国总统特朗普则称“伊朗没有时间了”，并下令美军可击沉任何在霍尔木兹海峡布设水雷的船只。以防长表示已做好重...">美航母驶向中东 特朗普下达“击沉令” 伊朗亮出七条反击方案
-当地时间 23 日，随着美伊在霍尔木兹海峡对峙升级，美军“布什”号核动力航母正驶向中东海域。眼下，美伊停火状态虽得以维持，但新一轮谈判何时启动仍不明朗。巴基斯坦外交官称，美伊谈判已“陷入僵局”，美国总统特朗普则称“伊朗没有时间了”，并下令美军可击沉任何在霍尔木兹海峡布设水雷的船只。以防长表示已做好重...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="今年 1.3 万亿元超长期特别国债发行开启。根据安排，财政部 4 月 24 日将分别发行 20 年期 340 亿元和 30 年期 850 亿元超长期特别国债，合计发债规模 1190 亿元。金融街证券首席经济学家张一表示，总体来看，2026 年超长期国债发行节奏与 2025 年保持一致。为配合 6 月底前资金下达，5 月至 6 月将迎来发行高峰，预计上半年完成约 5500 亿元发行额。"><div class="time">06:14</div><div class="content"><div class="text" data-full="今年 1.3 万亿元超长期特别国债发行开启。根据安排，财政部 4 月 24 日将分别发行 20 年期 340 亿元和 30 年期 850 亿元超长期特别国债，合计发债规模 1190 亿元。金融街证券首席经济学家张一表示，总体来看，2026 年超长期国债发行节奏与 2025 年保持一致。为配合 6 月底前资金下达，5 月至 6 月将迎来发行高峰，预计上半年完成约 5500 亿元发行额。" data-short="今年 1.3 万亿元超长期特别国债发行开启。根据安排，财政部 4 月 24 日将分别发行 20 年期 340 亿元和 30 年期 850 亿元超长期特别国债，合计发债规模 1190 亿元。金融街证券首席经济学家张一表示，总体来看，2026 年超长期国债发行节奏与 2025 年保持一致。为配合 6 月底前资金下达，5 月至 6 月将迎来发行高峰，预计上半年完成...">今年 1.3 万亿元超长期特别国债发行开启。根据安排，财政部 4 月 24 日将分别发行 20 年期 340 亿元和 30 年期 850 亿元超长期特别国债，合计发债规模 1190 亿元。金融街证券首席经济学家张一表示，总体来看，2026 年超长期国债发行节奏与 2025 年保持一致。为配合 6 月底前资金下达，5 月至 6 月将迎来发行高峰，预计上半年完成...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="美国钨锑有限公司加入美国国防工业基地联盟。"><div class="time">06:12</div><div class="content"><div class="text" data-full="美国钨锑有限公司加入美国国防工业基地联盟。" data-short="美国钨锑有限公司加入美国国防工业基地联盟。">美国钨锑有限公司加入美国国防工业基地联盟。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">4月24日 · VIP</h2> <div class="feed"> <article class="item" data-search="【点金互动易】覆铜板+ai服务器，高速覆铜板主要聚焦在ai服务器、光模块等领域，多款极低损耗覆铜板已获国内头部终端认证，这家公司在算力芯片等应用场景已形成系列产品
+美国总统唐纳德·特朗普表示，他正在考虑让美国政府收购 Spirit Airlines，表示这对联邦政府来说可能是一项不错的投资。特朗普发表上述言论之际，针对这家陷入困境的航空公司，政府已经在权衡一项潜在救助方案。“我们在考虑这么做，帮助他们，也就是救助他们，或者买下它。我们会把它买下来，”特朗普周...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="科威特航空和捷达航空将于本周日恢复航班。"><div class="time">06:16</div><div class="content"><div class="text" data-full="科威特航空和捷达航空将于本周日恢复航班。" data-short="科威特航空和捷达航空将于本周日恢复航班。">科威特航空和捷达航空将于本周日恢复航班。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">4月24日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">09:28</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="频道收费项目：频道vip
+
+包括内容：
+
+红宝书
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大v收费群盘中消息同步：
+
+vip资讯
+环球资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+大成路旁的大成
+妖股刺客
+
+麦芽糖
+新生代龙头玩家
+邢者狩猎营
+g界孙悟空
+大师兄擒妖
+超级感悟
+浮光
+攀高
+天赢居
+
+源深路
+布莱德雷
+清北游资
+时冲
+主升真经
+天机短线
+爱尔兰画眉
+浅吸掘金
+震哥
+
+红旗大街发哥
+游资胖大叔
+大周先生
+姆爷
+付鹏
+游资混江龙
+徐小明
+老章
+天地同力
+
+大马路
+只做龙头
+诗诗复利游
+情绪流作手c神
+涨红阳
+a股通天宗
+上班族波段
+洛飞
+
+先知
+愿雨稠
+林荫大道
+超短小纯洁
+上海老梁
+贝贝后花园
+核心九儿
+趋势moo
+逻辑a哥
+
+生如夏花
+复盘哥
+鑫多多
+趋势和价值老李
+大将潘凤
+滴烛复盘的壮汉
+奶爸只做核心
+浮光知顶底
+
+借势而为
+来去由心
+苏三
+嗅嗅掘金
+钱塘李逍遥
+k神会
+向班长
+一线天渔哥
+林秘密
+
+费用：100元/月"> <div class="time">09:28</div> <div class="content"> <div class="text">频道收费项目：频道VIP
+
+包括内容：
+
+红宝书
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大V收费群盘中消息同步：
+
+VIP资讯
+环球资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+大成路旁的大成
+妖股刺客
+
+麦芽糖
+新生代龙头玩家
+邢者狩猎营
+G界孙悟空
+大师兄擒妖
+超级感悟...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【电报解读】openai正式发布gpt-5.5，海内外大模型持续迭代将推动ai推理需求爆发，这家公司产品广泛用于大模型训练及推理、商业计算等应用领域
+
+#海光信息
+#飞龙股份"> <div class="time">09:27</div> <div class="content"> <div class="text">【电报解读】OpenAI正式发布GPT-5.5，海内外大模型持续迭代将推动AI推理需求爆发，这家公司产品广泛用于大模型训练及推理、商业计算等应用领域
+
+#海光信息
+#飞龙股份</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【九点特供】台积电将量产1.3纳米半导体，机构称电子行业正处于“国产算力崛起+半导体设备材料加速替代+供应链涨价预期”三重逻辑交织的阶段，这家公司核心技术自主化率100%，产品打破国外厂商垄断"> <div class="time">09:26</div> <div class="content"> <div class="text">【九点特供】台积电将量产1.3纳米半导体，机构称电子行业正处于“国产算力崛起+半导体设备材料加速替代+供应链涨价预期”三重逻辑交织的阶段，这家公司核心技术自主化率100%，产品打破国外厂商垄断</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【点金互动易】覆铜板+ai服务器，高速覆铜板主要聚焦在ai服务器、光模块等领域，多款极低损耗覆铜板已获国内头部终端认证，这家公司在算力芯片等应用场景已形成系列产品
 
 #华正新材
 #锐科激光"> <div class="time">09:26</div> <div class="content"> <div class="text">【点金互动易】覆铜板+AI服务器，高速覆铜板主要聚焦在AI服务器、光模块等领域，多款极低损耗覆铜板已获国内头部终端认证，这家公司在算力芯片等应用场景已形成系列产品
