@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3127028",
+    "datetime": "2026-04-24T03:04:32+00:00",
+    "views": "1",
+    "text": "隔夜 SHIBOR 报 1.2190%，上涨 0.00 个基点。\n7 天 SHIBOR 报 1.3240%，下降 0.50 个基点。\n3 个月 SHIBOR 报 1.4275%，下降 0.70 个基点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3127028"
+  },
+  {
+    "post": "Financial_Express/3127027",
+    "datetime": "2026-04-24T03:03:38+00:00",
+    "views": "1",
+    "text": "晨星中国董事长陈鹏：中国基金行业已经跨过买方投顾时代的拐点\n“2026 晨星（中国）投资年会”在上海召开，晨星中国董事长陈鹏表示，中国基金行业的卖方模式已经过时，买方投顾时代的行业拐点已经到来，甚至已经跨过拐点进入加速转型阶段。他认为，买方投顾时代不止需要传统的“三分投，七分顾”，更需要基金行业具备“十分投，十分顾”的能力，资管机构输出投研赋能、财富机构输出顾问服务，专业分工整合，共同服务投资者。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3127027"
+  },
+  {
     "post": "Financial_Express/3127026",
     "datetime": "2026-04-24T03:02:18+00:00",
-    "views": "1",
+    "views": "31",
     "text": "搭载华为乾崑智驾整车突破 170 万辆\n截止 3 月底华为乾崑已与 25 个车型品牌、超过 50 款车型合作，华为乾崑智驾 ADS 的累计整车搭载量突破了 170 万辆。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3127025",
     "datetime": "2026-04-24T03:01:57+00:00",
-    "views": "1",
+    "views": "31",
     "text": "金十图示：2026 年 04 月 24 日（周五）全球富豪榜",
     "media_only": false,
     "image_url": null,
@@ -20,8 +38,8 @@
   {
     "post": "Financial_Express/3127024",
     "datetime": "2026-04-24T03:01:56+00:00",
-    "views": "1",
-    "text": "据 DeepSeek 微信公众号，DeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和推理性能上均实现国内与开源领域的领先。API 服务已同步更新，通过修改 model_name 为 deepseek-v4-pro 或 deepseek-v4-flash 即可调用。在 Agentic Coding 评测中，V4-Pro 已达到当前开源模型最佳水平，并在其他 Agent 相关评测中同样表现优异。目前 DeepSeek-V4 已成为公司内部员工使用的 Agentic Coding 模型，据评测反馈使用体验优于 Sonnet 4.5，交付质量接近 Opus 4.6 非思考模式，但仍与 Opus 4.6 思考模式存在一定差距。",
+    "views": "31",
+    "text": "据 DeepSeek 微信公众号，DeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和推理性能上均实现国内与开源领域的领先。API 服务已同步更新，通过修改 model_name 为 deepseek-v4-pro 或 deepseek-v4-flash 即可调用。\n在 Agentic Coding 评测中，V4-Pro 已达到当前开源模型最佳水平，并在其他 Agent 相关评测中同样表现优异。目前 DeepSeek-V4 已成为公司内部员工使用的 Agentic Coding 模型，据评测反馈使用体验优于 Sonnet 4.5，交付质量接近 Opus 4.6 非思考模式，但仍与 Opus 4.6 思考模式存在一定差距。\nDeepSeek-V4 开创了一种全新的注意力机制，在 token 维度进行压缩，结合 DSA 稀疏注意力（DeepSeek Sparse Attention），实现了全球领先的长上下文能力，并且相比于传统方法大幅降低了对计算和显存的需求。从现在开始，1M（一百万）上下文将是 DeepSeek 所有官方服务的标配。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3127024"
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3127022",
     "datetime": "2026-04-24T03:00:50+00:00",
-    "views": "31",
+    "views": "61",
     "text": "整点回顾：市场早间震荡调整，创业板指盘中跌超 2%，锂矿股逆势拉升，融捷股份等多股封板，芯片产业链持续走强，深圳华强涨停，个股跌多涨少，沪深京三市超 3700 股飘绿，开盘一个半小时成交达 1.52 万亿，较上日此时缩量超 2300 亿。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3127021",
     "datetime": "2026-04-24T03:00:38+00:00",
-    "views": "31",
+    "views": "61",
     "text": "梅赛德斯奔驰表示，预计其产品在中国市场的需求将长期低迷。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3127019",
     "datetime": "2026-04-24T02:59:58+00:00",
-    "views": "31",
+    "views": "61",
     "text": "全新系列模型 DeepSeek-V4 预览版本正式上线并同步开源\nDeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和推理性能上均实现国内与开源领域的领先。即日起登录官网 chat.deepseek.com 或官方 App，即可与最新的 DeepSeek-V4 对话，探索 1M 超长上下文记忆的全新体验。API 服务已同步更新，通过修改 model_name 为 deepseek-v4-pro 或 deepseek-v4-flash 即可调用。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3127020",
     "datetime": "2026-04-24T02:59:58+00:00",
-    "views": "31",
+    "views": "61",
     "text": "沪深两市成交额超 1.5 万亿元，较上日此时缩量 2302 亿元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3127018",
     "datetime": "2026-04-24T02:59:38+00:00",
-    "views": "31",
+    "views": "61",
     "text": "金十图示：2026 年 04 月 24 日（周五）全球主要科技与互联网公司市值变化",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3127017",
     "datetime": "2026-04-24T02:58:57+00:00",
-    "views": "61",
+    "views": "91",
     "text": "金十图示：2026 年 04 月 24 日（周五）中国科技互联网公司市值排行 TOP50",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3127016",
     "datetime": "2026-04-24T02:58:52+00:00",
-    "views": "61",
+    "views": "91",
     "text": "芯片产业链持续走强，深圳华强涨停，富瀚微、众合科技、综艺股份此前封板，华虹公司涨近 9%，香农芯创、海光信息、圣邦股份等涨幅靠前。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3127015",
     "datetime": "2026-04-24T02:58:18+00:00",
-    "views": "61",
+    "views": "91",
     "text": "Deepseek 官网公布 deepseek-v4 接口文档\n金十数据 4 月 24 日讯，Deepseek 官网上线 deepseek-v4 接口和模型介绍，包括 deepseek-v4-flash 和 deepseek-v4-pro。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3127013",
     "datetime": "2026-04-24T02:57:58+00:00",
-    "views": "61",
+    "views": "91",
     "text": "前美驻巴林大使：伊朗生存韧性或超特朗普 美国国内政治是一大变量\n金十数据 4 月 24 日讯，据半岛电视台报道，美国前驻巴林大使 Adam Ereli 称：“虽然美国对伊朗港口的封锁和扣押运载伊朗石油的船只作为一项政策‘有其道理’，但由于美国国内政治考虑，它可能无法达到预期效果。伊朗人已经为这种可能性做好了准备。他们有自己的计划。他们有替代方法来储存或出售他们的石油，即使他们的石油用完了，他们也有办法在非常严厉的封锁和制裁制度下生存下来。坦率地说，我认为伊朗会比特朗普的耐心和美国人民的耐心更持久。请记住，这场战争不仅仅是关于在地图上调动士兵、舰船和飞机。这还涉及美国国内的政治因素。特朗普对政治风向极为敏感。出于这个原因，我认为，特朗普目前一方面推行这项伊朗战略，另一方面又面临选举战略，问题在于他会在哪一个问题上先让步？”",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3127014",
     "datetime": "2026-04-24T02:57:58+00:00",
-    "views": "61",
+    "views": "91",
     "text": "以军空袭致 3 人死亡 黎真主党发射火箭弹回击\n自 3 月 2 日以来，以军在黎巴嫩发动的袭击已造成 2483 人死亡，另有 7707 人受伤。同一天，黎巴嫩真主党表示，作为对以军空袭的回应，黎真主党武装人员于当天向以色列北部定居点发射多枚火箭弹。对此，以军发表声明称，黎真主党当晚发射的数枚火箭弹在越界后被拦截。以媒称袭击未造成人员伤亡。",
     "media_only": false,
     "image_url": null,
@@ -70045,50 +70063,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3119116"
-  },
-  {
-    "post": "Financial_Express/3119115",
-    "datetime": "2026-04-22T03:04:57+00:00",
-    "views": "134",
-    "text": "金十图示：2026 年 04 月 22 日（周三）全球主要科技与互联网公司市值变化",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119115"
-  },
-  {
-    "post": "Financial_Express/3119114",
-    "datetime": "2026-04-22T03:04:41+00:00",
-    "views": "134",
-    "text": "近日，有消息称，肯德基不再免费提供产品标配外的糖醋酱和甜辣酱。4 月 21 日，记者从肯德基门店方面获悉，肯德基免费的“方形酱”将按照产品标配提供，原则上超出部分按规定付费购买。不过，消费者也可通过到店说明、外送订单备注等方式合理申请额外免费酱，门店会酌情提供。而肯德基小程序页面显示的“圆形酱”，一直以来都是收费产品，售价为 1.2 元/个。此次酱料收费举措主要是为了避免食物浪费。（澎湃）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119114"
-  },
-  {
-    "post": "Financial_Express/3119113",
-    "datetime": "2026-04-22T03:04:02+00:00",
-    "views": "130",
-    "text": "美军中央司令部 21 日在社交媒体上发表声明称，自美军对船只进出伊朗港口实施封锁以来，已经有 28 艘船只按照美军指示掉头或返回伊朗港口。（央视）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119113"
-  },
-  {
-    "post": "Financial_Express/3119112",
-    "datetime": "2026-04-22T03:03:37+00:00",
-    "views": "130",
-    "text": "两项气象防灾减灾领域国家标准获批发布\n金十数据 4 月 22 日讯，近日，市场监管总局（国家标准委）批准发布《沙尘天气预警等级》（GB/T28593—2026）与《公众气象灾害防御行为指南雷电》（GB/T47319—2026）两项气象防灾减灾领域国家标准，进一步强化全社会气象防灾韧性，构建完善全民气象安全防线，切实保障公众生命财产安全，维护社会安全稳定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119112"
-  },
-  {
-    "post": "Financial_Express/3119111",
-    "datetime": "2026-04-22T03:02:57+00:00",
-    "views": "101",
-    "text": "PTA 连续主力合约日内涨 2%，现报 6394.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119111"
   }
 ]
