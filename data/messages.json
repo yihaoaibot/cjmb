@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3127022",
+    "datetime": "2026-04-24T03:00:50+00:00",
+    "views": "1",
+    "text": "整点回顾：市场早间震荡调整，创业板指盘中跌超 2%，锂矿股逆势拉升，融捷股份等多股封板，芯片产业链持续走强，深圳华强涨停，个股跌多涨少，沪深京三市超 3700 股飘绿，开盘一个半小时成交达 1.52 万亿，较上日此时缩量超 2300 亿。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3127022"
+  },
+  {
+    "post": "Financial_Express/3127021",
+    "datetime": "2026-04-24T03:00:38+00:00",
+    "views": "1",
+    "text": "梅赛德斯奔驰表示，预计其产品在中国市场的需求将长期低迷。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3127021"
+  },
+  {
+    "post": "Financial_Express/3127019",
+    "datetime": "2026-04-24T02:59:58+00:00",
+    "views": "1",
+    "text": "全新系列模型 DeepSeek-V4 预览版本正式上线并同步开源\nDeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和推理性能上均实现国内与开源领域的领先。即日起登录官网 chat.deepseek.com 或官方 App，即可与最新的 DeepSeek-V4 对话，探索 1M 超长上下文记忆的全新体验。API 服务已同步更新，通过修改 model_name 为 deepseek-v4-pro 或 deepseek-v4-flash 即可调用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3127019"
+  },
+  {
+    "post": "Financial_Express/3127020",
+    "datetime": "2026-04-24T02:59:58+00:00",
+    "views": "1",
+    "text": "沪深两市成交额超 1.5 万亿元，较上日此时缩量 2302 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3127020"
+  },
+  {
+    "post": "Financial_Express/3127018",
+    "datetime": "2026-04-24T02:59:38+00:00",
+    "views": "31",
+    "text": "金十图示：2026 年 04 月 24 日（周五）全球主要科技与互联网公司市值变化",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3127018"
+  },
+  {
     "post": "Financial_Express/3127017",
     "datetime": "2026-04-24T02:58:57+00:00",
-    "views": "1",
+    "views": "31",
     "text": "金十图示：2026 年 04 月 24 日（周五）中国科技互联网公司市值排行 TOP50",
     "media_only": false,
     "image_url": null,
@@ -11,8 +56,8 @@
   {
     "post": "Financial_Express/3127016",
     "datetime": "2026-04-24T02:58:52+00:00",
-    "views": "1",
-    "text": "芯片产业链持续走强，深圳华强涨停，华虹公司涨近 9%，此前富瀚微、众合科技、综艺股份涨停，香农芯创、海光信息、C 盛合、圣邦股份等涨幅靠前。",
+    "views": "31",
+    "text": "芯片产业链持续走强，深圳华强涨停，富瀚微、众合科技、综艺股份此前封板，华虹公司涨近 9%，香农芯创、海光信息、圣邦股份等涨幅靠前。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3127016"
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3127015",
     "datetime": "2026-04-24T02:58:18+00:00",
-    "views": "1",
+    "views": "31",
     "text": "Deepseek 官网公布 deepseek-v4 接口文档\n金十数据 4 月 24 日讯，Deepseek 官网上线 deepseek-v4 接口和模型介绍，包括 deepseek-v4-flash 和 deepseek-v4-pro。",
     "media_only": false,
     "image_url": null,
@@ -65,8 +110,8 @@
   {
     "post": "Financial_Express/3127010",
     "datetime": "2026-04-24T02:57:00+00:00",
-    "views": "31",
-    "text": "DeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和推理性能上均实现国内与开源领域的领先。即日起登录官网 chat.deepseek.com 或官方 App，即可与最新的 DeepSeek-V4 对话，探索 1M 超长上下文记忆的全新体验。API 服务已同步更新，通过修改 model_name 为 deepseek-v4-pro 或 deepseek-v4-flash 即可调用。",
+    "views": "61",
+    "text": "据 DeepSeek 微信公众号，DeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和推理性能上均实现国内与开源领域的领先。API 服务已同步更新，通过修改 model_name 为 deepseek-v4-pro 或 deepseek-v4-flash 即可调用。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3127010"
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3127009",
     "datetime": "2026-04-24T02:56:58+00:00",
-    "views": "31",
+    "views": "61",
     "text": "摩根大通将信实集团目标股价从 340 美元上调至 345 美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3127008",
     "datetime": "2026-04-24T02:56:18+00:00",
-    "views": "31",
+    "views": "61",
     "text": "美加墨世界杯在即 美国多个民权组织发布旅行警告\n美国多个民权组织 23 日联合发布旅行警告，提醒赴美观看 2026 年足球世界杯（美加墨世界杯）的外国游客可能面临任意拘留、驱逐出境、种族定性等风险。(新华社)",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3127007",
     "datetime": "2026-04-24T02:56:17+00:00",
-    "views": "31",
+    "views": "61",
     "text": "摩根大通将黑石目标股价从 142 美元下调至 136 美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3127006",
     "datetime": "2026-04-24T02:55:57+00:00",
-    "views": "31",
+    "views": "61",
     "text": "纽约期金失守 4690 美元/盎司，日内跌 0.72%。",
     "media_only": false,
     "image_url": null,
@@ -70054,86 +70099,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3119106"
-  },
-  {
-    "post": "Financial_Express/3119105",
-    "datetime": "2026-04-22T03:00:57+00:00",
-    "views": "88",
-    "text": "A 股小金属板块震荡走高，云南锗业逼近涨停，翔鹭钨业、锡业股份、章源钨业、厦门钨业、金钼股份跟涨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119105"
-  },
-  {
-    "post": "Financial_Express/3119104",
-    "datetime": "2026-04-22T03:00:42+00:00",
-    "views": "88",
-    "text": "整点回顾：市场早间低开回升，三大指数集体翻红，大金融股局部异动，金证股份涨停，华为算力概念拉升，恒为科技封板，个股依旧跌多涨少，沪深京三市近 3100 股飘绿，开盘一个半小时成交 1.4 万亿，较上日此时缩量超 200 亿。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119104"
-  },
-  {
-    "post": "Financial_Express/3119102",
-    "datetime": "2026-04-22T03:00:18+00:00",
-    "views": "52",
-    "text": "应急管理部：今年汛期北方地区暴雨洪涝风险突出\n金十数据 4 月 22 日讯，从应急管理部今天召开的季度例行新闻发布会上获悉，4 月 1 日，我国正式入汛。据预测，今年汛期我国天气形势偏差，极端天气事件偏多，北方地区暴雨洪涝风险突出，台风登陆偏多偏强并可能北上影响内陆。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119102"
-  },
-  {
-    "post": "Financial_Express/3119103",
-    "datetime": "2026-04-22T03:00:18+00:00",
-    "views": "52",
-    "text": "应急管理部：今年汛期北方地区暴雨洪涝风险突出\n从应急管理部今天召开的季度例行新闻发布会上获悉，4 月 1 日，我国正式入汛。据预测，今年汛期我国天气形势偏差，极端天气事件偏多，北方地区暴雨洪涝风险突出，台风登陆偏多偏强并可能北上影响内陆。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119103"
-  },
-  {
-    "post": "Financial_Express/3119101",
-    "datetime": "2026-04-22T02:59:58+00:00",
-    "views": "83",
-    "text": "据报道，美国财政部阻止向伊拉克交付价值 5 亿美元的美元钞票。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119101"
-  },
-  {
-    "post": "Financial_Express/3119100",
-    "datetime": "2026-04-22T02:59:38+00:00",
-    "views": "80",
-    "text": "美国暂停美元运输施压 伊拉克民兵武装成博弈焦点\n金十数据 4 月 22 日讯，据华尔街日报报道，多位伊拉克和美国官员表示，特朗普政府已暂停对伊拉克的美元运输，并冻结了与伊拉克军方的安全合作项目，从而加大了对巴格达的压力，迫使其解散强大的伊朗支持民兵武装。其中一些官员称，一批载有近 5 亿美元美国纸币的货机运输——这些资金来自伊拉克石油销售在纽约联邦储备银行账户中的收入——近日被财政部官员拦截，原因是美国对这些民兵武装感到担忧。美伊两国官员表示，这是自 2 月底伊朗战争爆发以来，美国第二次推迟向伊拉克央行运送美元的计划。此前数周，民兵武装为表示对德黑兰的支持，对美国在伊拉克及邻国的设施发动了袭击。美伊两国官员称，美国已通知巴格达方面，还将暂停部分反恐和武装部队训练项目的资金支持，直到民兵袭击停止且伊拉克官员采取措施解散这些武装组织。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119100"
-  },
-  {
-    "post": "Financial_Express/3119099",
-    "datetime": "2026-04-22T02:59:37+00:00",
-    "views": "82",
-    "text": "中国摩托车商会：一季度摩托车出口 462.68 万辆\n金十数据 4 月 22 日讯，根据海关数据统计分析，2026 年 1-3 月，我国摩托车整车出口量为 462.68 万辆，较去年同期增长 13.49%，出口额为 30.14 亿美元，较去年同期增长 16.93%。拉丁美洲出口最多，出口量为 148.12 万辆，同比下降 8.47%，出口额为 9.63 亿美元，同比下降 0.99%。非洲出口涨幅最大，出口量为 175.30 万辆，同比增长 44.95%，出口额为 9.49 亿美元，同比增长 48.01%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119099"
-  },
-  {
-    "post": "Financial_Express/3119098",
-    "datetime": "2026-04-22T02:59:20+00:00",
-    "views": "82",
-    "text": "美国已暂停向伊拉克运送美元现钞，美国已冻结与伊拉克军队的安全合作项目。此举标志着美国正加大对伊拉克政府的施压力度，旨在促使其拆解伊拉克境内、由伊朗支持的民兵组织。（华尔街日报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119098"
-  },
-  {
-    "post": "Financial_Express/3119097",
-    "datetime": "2026-04-22T02:59:18+00:00",
-    "views": "82",
-    "text": "塑料连续主力合约日内涨 2%，现报 8103.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3119097"
   }
 ]
