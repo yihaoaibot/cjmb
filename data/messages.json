@@ -1,5 +1,14 @@
 [
   {
+    "post": "Financial_Express/3130174",
+    "datetime": "2026-04-24T19:58:18+00:00",
+    "views": "2",
+    "text": "恒指期货夜盘收涨 0.29%，报 26041 点，高水 63 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3130174"
+  },
+  {
     "post": "Financial_Express/3130173",
     "datetime": "2026-04-24T19:53:57+00:00",
     "views": "35",
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3130171",
     "datetime": "2026-04-24T19:51:19+00:00",
-    "views": "35",
+    "views": "95",
     "text": "周五（4 月 24 日）纽约尾盘，欧元兑美元涨 0.29%，报 1.1717，本周累计下跌 0.41%。\n英镑兑美元涨 0.47%，报 1.3530，北京时间 12:00 以来平滑地持续地走高，本周累涨 0.12%。\n美元兑瑞郎跌 0.15%，报 0.7852，本周累涨 0.50%。\n商品货币对中，澳元兑美元涨 0.31%，报 0.7151，本周累跌 0.32%；纽元兑美元涨 0.46%，报 0.5881，本周累跌 0.03%；美元兑加元跌 0.26%，报 1.3665，本周累跌 0.20%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3130170",
     "datetime": "2026-04-24T19:50:57+00:00",
-    "views": "35",
+    "views": "95",
     "text": "特朗普：只要半句话，美国就能省下 1590 亿美元\n金十数据 4 月 25 日讯，美国总统特朗普在社交平台上发帖称：“那些几十年来一直在占我们国家便宜的人和公司，如今竟然要拿回 1590 亿美元，这都源于美国最高法院在关税问题上作出的糟糕且荒谬的裁决。他们当时只要加上短短半句话——“美国不必退还已经支付的款项”，我们的国家就会多出 1590 亿美元。这比大多数国家的全部价值还要高！想一想，只要半句话，我们本来就能省下 1590 亿美元。难道他们就不能为了我们的国家这么做吗？”",
     "media_only": false,
     "image_url": null,
@@ -69316,23 +69325,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3122348"
-  },
-  {
-    "post": "Financial_Express/3122347",
-    "datetime": "2026-04-22T19:58:17+00:00",
-    "views": "9",
-    "text": "谷歌首席执行官皮查伊发文：TPU 8t，专为模型训练优化；TPU 8i，专为模型推理优化。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3122347"
-  },
-  {
-    "post": "Financial_Express/3122346",
-    "datetime": "2026-04-22T19:56:37+00:00",
-    "views": "97",
-    "text": "马斯克：张量处理单元（TPU）一直被低估了。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3122346"
   }
 ]
