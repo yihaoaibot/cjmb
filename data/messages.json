@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3129485",
+    "datetime": "2026-04-24T14:14:37+00:00",
+    "views": "1",
+    "text": "小米集团董事长兼 CEO 雷军在社交媒体上表示，新一代小米 su7 汽车发布 30 多天，已经交付 2.6 万台。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3129485"
+  },
+  {
+    "post": "Financial_Express/3129484",
+    "datetime": "2026-04-24T14:14:18+00:00",
+    "views": "5",
+    "text": "美国财政部长贝森特表示：与包括海湾地区及亚洲盟友在内的各国讨论美元互换额度，是日常例行沟通的一部分。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3129484"
+  },
+  {
+    "post": "Financial_Express/3129483",
+    "datetime": "2026-04-24T14:14:17+00:00",
+    "views": "5",
+    "text": "美国华盛顿特区检察官皮罗：将停止对美联储主席鲍威尔的美联储建筑成本调查。美联储监察长被要求审查美联储开支。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3129483"
+  },
+  {
+    "post": "Financial_Express/3129482",
+    "datetime": "2026-04-24T14:12:58+00:00",
+    "views": "42",
+    "text": "道明：美联储决议对美元的影响可能不大\n道明证券策略师在一份报告中称，如果美联储在周三维持利率不变，并重申对未来举措保持耐心的信息，那么美元的反应可能不大。他们表示：“鉴于地缘政治不确定性依然高企，且数据也未表明美联储有必要立即采取行动，市场对此次美联储会议和声明的反应应该会平淡。“焦点将是美联储主席杰罗姆·鲍威尔的新闻发布会，以及他如何回应有关其任期和在过渡期留任可能性的任何问题。他们说，在由美联储主席提名人凯文·沃什主导的过渡下，多数情境都将温和利空美元，因为与鲍威尔相比，沃什的独立性存在挥之不去的疑问。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3129482"
+  },
+  {
+    "post": "Financial_Express/3129480",
+    "datetime": "2026-04-24T14:12:39+00:00",
+    "views": "42",
+    "text": "欧盟委员会主席冯德莱恩：对伊朗的制裁解除只有在制裁原因消失的情况下才有可能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3129480"
+  },
+  {
+    "post": "Financial_Express/3129481",
+    "datetime": "2026-04-24T14:12:39+00:00",
+    "views": "42",
+    "text": "2 年期美国国债收益率延续当日跌势，回落至 3.8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3129481"
+  },
+  {
+    "post": "Financial_Express/3129479",
+    "datetime": "2026-04-24T14:12:38+00:00",
+    "views": "42",
+    "text": "2 年期美债收益率继续下跌，回落至 3.8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3129479"
+  },
+  {
     "post": "Financial_Express/3129478",
     "datetime": "2026-04-24T14:12:28+00:00",
-    "views": "3",
+    "views": "43",
     "text": "山东道普安制动材料有限公司发布价格调整通知函：近期，受全球原材料价格持续上涨（如碳纤维等）以及能源成本增加等多重因素影响。在充分评估成本变化及整体市场环境后，道普安决定对碳陶制动盘系列产品的销售价格进行温和且必要的调整。本次调整将于 2026 年 5 月 1 日起陆续生效。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3129476",
     "datetime": "2026-04-24T14:12:19+00:00",
-    "views": "4",
+    "views": "40",
     "text": "纽约期金突破 4750 美元/盎司，日内涨 0.55%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3129477",
     "datetime": "2026-04-24T14:12:19+00:00",
-    "views": "4",
+    "views": "41",
     "text": "欧盟官员科斯塔：现在谈论解除任何对伊朗制裁都为时过早。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3129475",
     "datetime": "2026-04-24T14:12:18+00:00",
-    "views": "4",
+    "views": "40",
     "text": "钯金期货日内涨 1%，现报 1509.00 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3129474",
     "datetime": "2026-04-24T14:12:17+00:00",
-    "views": "4",
+    "views": "39",
     "text": "欧洲理事会主席科斯塔：谈论解除对伊朗制裁还为时尚早。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3129473",
     "datetime": "2026-04-24T14:11:57+00:00",
-    "views": "4",
+    "views": "38",
     "text": "冯德莱恩：只有导致伊朗被制裁的原因不复存在，才有可能解除对伊朗的制裁。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3129472",
     "datetime": "2026-04-24T14:11:37+00:00",
-    "views": "6",
+    "views": "39",
     "text": "诺和诺德股价午盘上涨 5.8%。",
     "media_only": false,
     "image_url": null,
@@ -65,8 +128,8 @@
   {
     "post": "Financial_Express/3129471",
     "datetime": "2026-04-24T14:11:34+00:00",
-    "views": "7",
-    "text": "预计美国司法部最快将于 4 月 24 日就撤销针对美联储主席鲍威尔的刑事调查。（ABC）",
+    "views": "40",
+    "text": "据 ABC 报道，预计美国司法部最快将于 4 月 24 日就撤销针对美联储主席鲍威尔的刑事调查。\n美国检察官 Pirro 声称，要求美联储检察长审查美联储（在翻修大楼方面）的成本。\n美国两年期国债收益率跌幅扩大，目前报 3.8%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3129471"
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3129470",
     "datetime": "2026-04-24T14:11:06+00:00",
-    "views": "38",
+    "views": "40",
     "text": "中国海警局东海分局新闻发言人朱安庆表示，4 月 24 日，福建海警位金门附近海域依法开展常态执法巡查。4 月以来，福建海警组织舰艇编队持续加强金门附近海域执法巡查，进一步强化有关海域管控力度，切实维护包括台湾地区在内的中国渔民合法正当权益和生命财产安全，有力保障厦金海域正常航行和作业秩序。（央视）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3129469",
     "datetime": "2026-04-24T14:10:40+00:00",
-    "views": "41",
+    "views": "42",
     "text": "华发股份：2025 年净利润亏损 94.96 亿元\n华发股份公告，2025 年营业收入 834.26 亿元，同比增长 38.85%。净利润亏损 94.96 亿元，上年同期净利润 9.54 亿元。公司董事会决议通过的 2025 年度利润分配预案为：不派发现金红利，不送红股，不以公积金转增股本。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3129468",
     "datetime": "2026-04-24T14:10:39+00:00",
-    "views": "41",
+    "views": "42",
     "text": "朗姿股份：2025 年净利润 2.61 亿元，同比增长 283.41%\n朗姿股份公告，2025 年营业收入 60.03 亿元，同比增长 2.85%。净利润 2.61 亿元，同比增长 283.41%。公司第五届董事会第三十四次会议及公司 2025 年第二次临时股东会审议通过了以上事项。重庆米兰已于 2025 年三季度纳入公司合并报表。",
     "media_only": false,
     "image_url": null,
@@ -70756,41 +70819,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3121490"
-  },
-  {
-    "post": "Financial_Express/3121489",
-    "datetime": "2026-04-22T14:14:38+00:00",
-    "views": "104",
-    "text": "土耳其总统府：土耳其总统埃尔多安向北约秘书长吕特表示，土耳其正在努力恢复俄罗斯与乌克兰的谈判，并促成两国领导人会晤。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3121489"
-  },
-  {
-    "post": "Financial_Express/3121487",
-    "datetime": "2026-04-22T14:13:57+00:00",
-    "views": "66",
-    "text": "希腊外长：一艘与希腊有关的货船在霍尔木兹海峡附近遭到袭击，但目前尚不清楚该船是否已被伊朗扣押。敦促所有希腊船只避免通过霍尔木兹海峡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3121487"
-  },
-  {
-    "post": "Financial_Express/3121488",
-    "datetime": "2026-04-22T14:13:57+00:00",
-    "views": "73",
-    "text": "伊朗战争凸显航油短缺风险，欧盟拟加强管控\n4 月 22 日，欧盟能源政策负责人表示，随着对伊朗战争可能引发燃料短缺的担忧加剧，欧盟正在考虑要求成员国储备航空燃油，并可能根据各地区的需求和短缺情况进行重新分配。欧盟委员会提出了一系列措施，以应对美国-以色列与伊朗战争带来的能源连锁反应，其中包括在全欧盟范围内监测炼油厂的产量，以努力最大化产能。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3121488"
-  },
-  {
-    "post": "Financial_Express/3121486",
-    "datetime": "2026-04-22T14:13:33+00:00",
-    "views": "65",
-    "text": "4 月 22 日，欧盟能源政策负责人表示，随着对伊朗战争可能引发燃料短缺的担忧加剧，欧盟正在考虑要求成员国储备航空燃油，并可能根据各地区的需求和短缺情况进行重新分配。\n欧盟委员会提出了一系列措施，以应对美国-以色列与伊朗战争带来的能源连锁反应，其中包括在全欧盟范围内监测炼油厂的产量，以努力最大化产能。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3121486"
   }
 ]
