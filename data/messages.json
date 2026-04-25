@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3131008",
+    "datetime": "2026-04-25T21:47:57+00:00",
+    "views": "9",
+    "text": "Anthropic 搭建了智能体间交易的测试交易市场\n在近期一项实验中，Anthropic 打造了一个内部封闭交易市场，由人工智能智能体分别扮演买方与卖方，围绕实物商品完成真实交易并使用真实资金结算。该公司表示，这项名为「交易计划」的测试仅为试点实验，参与者为自主报名的 69 名公司员工；每人获得 100 美元预算（以礼品卡形式发放），用于和同事互相交易物品。即便如此，Anthropic 称「交易计划的运行效果远超预期」，实验期间共达成 186 笔交易，总交易金额超 4000 美元。企业一共开设四个独立交易市场，搭载不同 AI 模型：其中一个为真实交易场，全部参与者由该公司最高阶 AI 智能体代理，实验结束后所有交易均实际履约；另外三个仅用作对照研究。Anthropic 指出，用户由高阶 AI 智能体代理时，能获得客观更优的交易结果。但使用者几乎察觉不到这种差距，这意味着或将长期存在「智能体能力落差」问题——处于交易劣势的一方，往往无法意识到自身利益受损。此外，研究发现，给到 AI 智能体的初始指令，并不会显著影响成交概率与最终议价价格。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3131008"
+  },
+  {
     "post": "Financial_Express/3131007",
     "datetime": "2026-04-25T21:46:17+00:00",
-    "views": "8",
+    "views": "20",
     "text": "Anthropic 搭建了智能体间交易的测试市场。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3131006",
     "datetime": "2026-04-25T21:39:57+00:00",
-    "views": "39",
+    "views": "45",
     "text": "伊朗克尔曼沙赫拉响防空警报，原因不明。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3131005",
     "datetime": "2026-04-25T21:32:37+00:00",
-    "views": "58",
+    "views": "63",
     "text": "以色列军方对黎巴嫩南部的巴祖里耶与沙伊提耶地区实施空袭，再度违反停火协议。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3131004",
     "datetime": "2026-04-25T21:27:57+00:00",
-    "views": "81",
+    "views": "86",
     "text": "美军称将继续对进出伊朗港口船只实施全面封锁\n当地时间 25 日，美国中央司令部在社交媒体发布声明称，美国海军“平克尼”号导弹驱逐舰当天在阿拉伯海出动武装直升机拦截一艘商船，该商船随后遵照美军指示并在美军舰护送下返回伊朗。声明还表示，美军将继续对进出伊朗港口的船只实施全面封锁。自封锁开始以来，已有 37 艘船只被迫改道。美国总统特朗普 4 月 13 日称，美方已于美国东部时间当日 10 时起，对所有进出伊朗港口的船只实施封锁。伊朗方面则表示，美国此举属于战争行为，违反停火协议。（央视新闻）\n❤1",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3131003",
     "datetime": "2026-04-25T21:24:37+00:00",
-    "views": "93",
+    "views": "94",
     "text": "伊朗外交部长阿拉格齐与埃及外交部长通电话，就其伊斯兰堡之行后的最新局势进展展开磋商。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3131002",
     "datetime": "2026-04-25T21:23:57+00:00",
-    "views": "95",
+    "views": "96",
     "text": "伊朗：不停止敌对行动，就无法建立互信。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3131001",
     "datetime": "2026-04-25T21:14:58+00:00",
-    "views": "109",
+    "views": "110",
     "text": "俄罗斯国家杜马主席将出席朝鲜军人纪念设施落成仪式。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3131000",
     "datetime": "2026-04-25T21:13:57+00:00",
-    "views": "111",
+    "views": "112",
     "text": "以军空袭黎南部致 6 死 17 伤\n黎巴嫩卫生部 25 日发表声明说，以色列军方当天对黎南部多地发动袭击，造成 6 人死亡、17 人受伤。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3130999",
     "datetime": "2026-04-25T21:12:57+00:00",
-    "views": "107",
+    "views": "108",
     "text": "伊朗总统：不会在压力、威胁和封锁下进行谈判\n当地时间 25 日，伊朗总统府表示，伊朗总统佩泽希齐扬当天与巴基斯坦总理夏巴兹通电话。佩泽希齐扬在通话中表示，伊朗不会在压力、威胁和封锁下进行谈判。佩泽希齐扬指出，美国对伊朗实施的海上封锁等措施阻碍了双方建立互信，而在谈判进程推进的同时，压力与对抗不断升级，也进一步削弱了相互信任。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3130998",
     "datetime": "2026-04-25T21:11:57+00:00",
-    "views": "103",
+    "views": "104",
     "text": "俄罗斯国家杜马主席访问平壤。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3130997",
     "datetime": "2026-04-25T21:06:58+00:00",
-    "views": "114",
+    "views": "115",
     "text": "伊拉克库区在美以伊冲突期间遭逾 800 次袭击\n伊拉克库尔德自治区（库区）政府 25 日表示，该地区自 2 月 28 日至 4 月 20 日共遭受 809 次袭击，造成 20 名平民死亡、123 人受伤。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3130990",
     "datetime": "2026-04-25T20:51:17+00:00",
-    "views": "145",
+    "views": "147",
     "text": "美国中央司令部：昨日，“塞万”号货轮与其他 19 艘“影子船队”船只一同被美国财政部制裁。原因是这类船只长期从事相关活动，向海外市场运输价值数十亿美元的伊朗能源、石油及天然气产品。今日早些时候，美国海军平克尼号导弹驱逐舰（DDG-91）出动舰载直升机，在阿拉伯海拦截了“塞万”号货轮。目前该商船已服从美军指令，在护送下返航伊朗。美军将持续执行美国制裁法案，全面落实针对进出伊朗港口船只的封锁措施。自封锁实施以来，已有 37 艘船只被勒令改道。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +173,7 @@
   {
     "post": "Financial_Express/3130989",
     "datetime": "2026-04-25T20:49:38+00:00",
-    "views": "140",
+    "views": "142",
     "text": "伊朗官员称美伊可能在未来几天举行第二轮谈判\n当地时间 25 日，一位伊朗外交官员表示，伊朗与美国代表团可能在未来几天举行第二轮谈判。据了解，伊朗方面已向美方传递信息，要求美国总统特朗普减少带有威胁性的言论，并表示若美方立场趋于缓和，伊朗国内强硬派将更有可能对参与谈判持支持态度。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -41227,104 +41236,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3126402"
-  },
-  {
-    "post": "Financial_Express/3126401",
-    "datetime": "2026-04-23T21:48:38+00:00",
-    "views": "60",
-    "text": "特朗普：若英国不取消数字服务税，我将对英国加征关税。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3126401"
-  },
-  {
-    "post": "Financial_Express/3126400",
-    "datetime": "2026-04-23T21:48:37+00:00",
-    "views": "59",
-    "text": "一美军士兵押注马杜罗被捕获利超 40 万美元\n金十数据 4 月 24 日讯，美国 ABC 新闻援引知情人士的话报道称，美国联邦当局周四逮捕了一名参与逮捕委内瑞拉总统马杜罗的特种部队士兵，该士兵涉嫌通过押注马杜罗下台获利逾 40 万美元。知情人士称，联邦调查人员认为，这名突击队员在特朗普总统 1 月份宣布抓获马杜罗的几小时前，在预测市场 Polymarket 上押注了逾 3.3 万美元。这一系列押注获利逾 40.9 万美元，立即引发了预测市场内部的审查，展开了一场长达数月的内幕交易调查。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3126400"
-  },
-  {
-    "post": "Financial_Express/3126399",
-    "datetime": "2026-04-23T21:48:17+00:00",
-    "views": "3",
-    "text": "特朗普：如果英国不取消关税，将加征高额关税。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3126399"
-  },
-  {
-    "post": "Financial_Express/3126398",
-    "datetime": "2026-04-23T21:47:58+00:00",
-    "views": "58",
-    "text": "特朗普：可能对英国征收高额关税。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3126398"
-  },
-  {
-    "post": "Financial_Express/3126397",
-    "datetime": "2026-04-23T21:47:57+00:00",
-    "views": "58",
-    "text": "美国总统特朗普：我们正在考虑帮助精神航空公司，可能会收购。正在寻找是否能以合适的价格收购这家公司。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3126397"
-  },
-  {
-    "post": "Financial_Express/3126396",
-    "datetime": "2026-04-23T21:47:38+00:00",
-    "views": "58",
-    "text": "特朗普：精神航空拥有优质航权时刻，这些资源价值极高。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3126396"
-  },
-  {
-    "post": "Financial_Express/3126395",
-    "datetime": "2026-04-23T21:47:18+00:00",
-    "views": "58",
-    "text": "特朗普：只要精神航空运营得当、票价下调，就是优质资产。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3126395"
-  },
-  {
-    "post": "Financial_Express/3126394",
-    "datetime": "2026-04-23T21:47:17+00:00",
-    "views": "57",
-    "text": "特朗普：已有意向人士愿意接手运营精神航空。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3126394"
-  },
-  {
-    "post": "Financial_Express/3126393",
-    "datetime": "2026-04-23T21:47:06+00:00",
-    "views": "58",
-    "text": "特朗普：美国不存在石油供应短缺。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3126393"
-  },
-  {
-    "post": "Financial_Express/3126392",
-    "datetime": "2026-04-23T21:46:58+00:00",
-    "views": "61",
-    "text": "美国国务卿鲁比奥：美国方面没有任何迹象表明伊朗的国际足联代表队不能参赛。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3126392"
-  },
-  {
-    "post": "Financial_Express/3126391",
-    "datetime": "2026-04-23T21:46:57+00:00",
-    "views": "56",
-    "text": "美国国务卿鲁比奥：伊朗不得将伊朗革命卫队恐怖分子带入世界杯赛事期间活动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3126391"
   }
 ]
