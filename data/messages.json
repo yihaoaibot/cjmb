@@ -1,5 +1,14 @@
 [
   {
+    "post": "Financial_Express/3132870",
+    "datetime": "2026-04-27T05:47:38+00:00",
+    "views": "2",
+    "text": "菲律宾能源部长表示，尽管中东冲突期间有人呼吁降低电力成本，但政府表示，冻结新建燃煤电厂的政策将继续执行。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3132870"
+  },
+  {
     "post": "Financial_Express/3132869",
     "datetime": "2026-04-27T05:46:19+00:00",
     "views": "2",
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3132865",
     "datetime": "2026-04-27T05:44:17+00:00",
-    "views": "4",
+    "views": "34",
     "text": "双象股份：足球革产品对公司业绩有一定贡献 但占营收比重较小\n双象股份(002395)近日在业绩说明会上表示，足球革产品对公司业绩有一定的贡献，但占公司营收的比重较小。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3132858",
     "datetime": "2026-04-27T05:38:57+00:00",
-    "views": "46",
+    "views": "76",
     "text": "沪深两市成交额连续第 14 个交易日突破 2 万亿元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3132857",
     "datetime": "2026-04-27T05:38:38+00:00",
-    "views": "49",
+    "views": "79",
     "text": "沪深两市成交额超 2 万亿元，较上日此时缩量 370 亿元。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3132852",
     "datetime": "2026-04-27T05:37:16+00:00",
-    "views": "42",
+    "views": "72",
     "text": "沪深京三市成交额超 2 万亿元，较上日此时缩量 378 亿元。",
     "media_only": false,
     "image_url": null,
@@ -21391,14 +21400,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3130486"
-  },
-  {
-    "post": "Financial_Express/3130485",
-    "datetime": "2026-04-25T05:48:37+00:00",
-    "views": "139",
-    "text": "元戎首发“物理 AI”架构：前 DeepSeek 研发负责人阮翀亮相\n4 月 25 日，北京车展现场，元戎启行首席科学家阮翀（前 DeepSeek 研发负责人）发表首次公开演讲。阮翀指出，传统小模型路径在复杂长尾场景中容易出现能力波动，元戎提出以基座模型为核心的新一代技术路径。该模型统一了驾驶决策、场景理解与行为评估，并将数据闭环迭代周期从约 5 天压缩至 12 小时。他还透露，基座模型正在渗透至组织层面，从知识库问答、代码生成到跨部门协作与实验分析，AI 正在重塑公司的研发与管理流程。发布会上，元戎还展示了舱驾一体 Agent 功能预告，该功能定位为“AI 大脑”，核心在于理解用户需求并主动响应复杂场景。（新浪科技）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3130485"
   }
 ]
