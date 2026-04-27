@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3132249",
+    "datetime": "2026-04-27T01:02:37+00:00",
+    "views": "3",
+    "text": "SK 海力士股价大涨 5.4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3132249"
+  },
+  {
+    "post": "Financial_Express/3132248",
+    "datetime": "2026-04-27T01:02:18+00:00",
+    "views": "4",
+    "text": "MSCI 新兴市场股票指数攀升至历史新高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3132248"
+  },
+  {
+    "post": "Financial_Express/3132247",
+    "datetime": "2026-04-27T01:01:57+00:00",
+    "views": "34",
+    "text": "伊朗向美国提交了一项新协议提案，拟先开放霍尔木兹海峡、解除海上封锁，推迟至后续阶段再进行核谈判。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3132247"
+  },
+  {
+    "post": "Financial_Express/3132246",
+    "datetime": "2026-04-27T01:01:37+00:00",
+    "views": "34",
+    "text": "伊朗通过巴基斯坦调解人向美国提出了新的方案。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3132246"
+  },
+  {
+    "post": "Financial_Express/3132245",
+    "datetime": "2026-04-27T01:01:02+00:00",
+    "views": "34",
+    "text": "商品期货开盘，沪镍、氧化铝主力合约涨超 2%，燃料油涨超 1%，多晶硅跌超 4%，生猪跌超 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3132245"
+  },
+  {
     "post": "Financial_Express/3132244",
     "datetime": "2026-04-27T01:00:58+00:00",
-    "views": "1",
+    "views": "34",
     "text": "MSCI 亚太指数上涨 1%至 258.20 点。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3132243",
     "datetime": "2026-04-27T01:00:52+00:00",
-    "views": "1",
+    "views": "34",
     "text": "富时中国 A50 指数期货盘初涨 0.03%，上一个交易日夜盘收涨 0.17%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3132242",
     "datetime": "2026-04-27T01:00:40+00:00",
-    "views": "1",
+    "views": "64",
     "text": "台湾证交所加权股价指数盘初上涨 2.6%至 39,954.64 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3132241",
     "datetime": "2026-04-27T01:00:38+00:00",
-    "views": "1",
+    "views": "64",
     "text": "不锈钢连续主力合约日内涨 3%，现报 15580.00 元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3132240",
     "datetime": "2026-04-27T01:00:37+00:00",
-    "views": "1",
+    "views": "64",
     "text": "台湾证交所加权股价指数开高 2.4%报 39,858.19。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3132239",
     "datetime": "2026-04-27T01:00:19+00:00",
-    "views": "31",
+    "views": "64",
     "text": "PTA 连续主力合约日内涨 1%，现报 6558.00 元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3132236",
     "datetime": "2026-04-27T01:00:18+00:00",
-    "views": "31",
+    "views": "64",
     "text": "富时中国 A50 指数期货开盘上涨 0.10%。",
     "media_only": false,
     "image_url": null,
@@ -65,8 +110,8 @@
   {
     "post": "Financial_Express/3132237",
     "datetime": "2026-04-27T01:00:18+00:00",
-    "views": "31",
-    "text": "商品期货开盘\n多晶硅连续跌 4.47%，镍连续涨 2.84%，碳酸锂连续涨 2.67%，不锈钢连续涨 2.45%，氧化铝连续涨 2.09%。",
+    "views": "64",
+    "text": "期市早盘开盘，国内期货主力合约多数下跌。跌幅方面，多晶硅跌超 4%，生猪跌超 1%。涨幅方面，沪镍、碳酸锂、不锈钢、氧化铝涨超 2%，燃油涨超 1%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3132237"
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3132238",
     "datetime": "2026-04-27T01:00:18+00:00",
-    "views": "31",
+    "views": "64",
     "text": "多晶硅连续主力合约日内跌 4%，现报 40060.00 元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3132235",
     "datetime": "2026-04-27T01:00:17+00:00",
-    "views": "31",
+    "views": "64",
     "text": "富时中国 A50 指数期货开涨 0.12%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3132234",
     "datetime": "2026-04-27T00:58:18+00:00",
-    "views": "63",
+    "views": "66",
     "text": "中金财富期货：黄金反弹高度依赖美伊冲突的解决\n随着霍尔木兹海峡封锁继续，甚至伊朗已经形成一套完整的收费体系，原油短缺的窘境不可能被经济完全忽视，全球通胀上行的风险对黄金的影响非常直接，黄金继续维持震荡偏弱的走势，预计其反弹高度依赖美伊冲突的解决，目前位置参与价值不大。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3132233",
     "datetime": "2026-04-27T00:56:17+00:00",
-    "views": "75",
+    "views": "138",
     "text": "大东南：目前未针对太空算力相关膜材开展布局\n大东南(002263)4 月 27 日在互动平台表示，公司目前未针对太空算力相关膜材开展布局，后续公司将密切关注该领域的市场需求与技术发展方向，若相关市场条件成熟，公司会结合自身发展战略、技术积累以及经营实际，统筹考虑相关业务布局与资源投入安排，不断优化业务结构，提升公司整体盈利水平。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3132232",
     "datetime": "2026-04-27T00:55:57+00:00",
-    "views": "75",
+    "views": "107",
     "text": "4 月 24 日 495 股获融资买入超亿元 新易盛获买入 76.94 亿元居首\n4 月 24 日共有 3499 只个股获融资资金买入，有 495 股买入金额超亿元。其中，新易盛、中际旭创、东山精密融资买入金额排名前三，分别获买入 76.94 亿元、46.42 亿元、31.04 亿元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3132231",
     "datetime": "2026-04-27T00:55:38+00:00",
-    "views": "74",
+    "views": "106",
     "text": "比特币升破 79000 美元，日内涨 0.45%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3132230",
     "datetime": "2026-04-27T00:54:37+00:00",
-    "views": "73",
+    "views": "134",
     "text": "日本首相：目前无需编制额外预算\n日本首相高市早苗周一表示，现阶段暂无必要编制补充预算，以缓解中东冲突带来的经济冲击。高市早苗在国会发言时还指出，尽管霍尔木兹海峡实质封锁或导致日本原油及石油制品供应短缺，但政府不应出台抑制经济活动的相关举措。日本目前已通过补贴机制平抑汽油价格，且未推出燃油管控措施，体现出其以扶持脆弱经济复苏为核心的施政导向。",
     "media_only": false,
     "image_url": null,
@@ -17080,23 +17125,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3130342"
-  },
-  {
-    "post": "Financial_Express/3130341",
-    "datetime": "2026-04-25T01:02:18+00:00",
-    "views": "188",
-    "text": "铂科新材：AI 芯片出货量持续提升，给公司所处的产业链带来显著影响\n铂科新材 4 月 23 日在机构调研时表示，公司持续着力打造金属软磁粉芯、芯片电感、金属软磁粉末三条增长曲线，经营工作稳步推进。另外，关于“如何看待 AI GPU 与 ASIC 之后的技术趋势，以及对公司有何影响”的问题，铂科新材表示，ASIC 芯片更多用于高效率的专项训练，而 AI GPU 芯片则更多用于大模型训练，其功率增长可能更大。公司观察来看，一是行业发展带来数量上的变化，如果芯片出货量增加，对应的产业链以及公司的出货量也会收益。二是技术升级带来的性能要求提升，包含密度、效率和散热等方面，芯片功率增大意味着单芯片的供电要求更高和更多，电感用量可能增加；目前来看，AI 芯片出货量持续提升，给公司所处的产业链带来了显著影响。未来的技术趋势主要由下游终端市场需求决定，公司的核心任务是做好本职工作，即在生产工艺和产品指标上做好功课，快速响应客户需求，在交期和样品交付上做到快速爬坡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3130341"
-  },
-  {
-    "post": "Financial_Express/3130340",
-    "datetime": "2026-04-25T01:01:57+00:00",
-    "views": "39",
-    "text": "美军表示，今日在东太平洋海域打击一艘船只，致两人身亡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3130340"
   }
 ]
