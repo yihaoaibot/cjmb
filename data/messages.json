@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3135300",
+    "datetime": "2026-04-27T15:40:38+00:00",
+    "views": "2",
+    "text": "印尼列车相撞事故已造成至少两人死亡。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3135300"
+  },
+  {
+    "post": "Financial_Express/3135299",
+    "datetime": "2026-04-27T15:39:53+00:00",
+    "views": "32",
+    "text": "明晟公司 MSCI 北欧国家指数跌 0.2%，连续六个交易日走低，报 382.36 点，创 4 月 10 日以来收盘新低。\n在十个板块中，北欧工业板块跌幅最大。\nVerisure Plc.跌 5.9%，在一众北欧个股里表现最差。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3135299"
+  },
+  {
+    "post": "Financial_Express/3135298",
+    "datetime": "2026-04-27T15:39:18+00:00",
+    "views": "32",
+    "text": "阿富汗称遭巴基斯坦袭击 4 死 70 伤\n阿富汗政府副发言人哈姆杜拉·菲特拉特 27 日在社交媒体上说，巴基斯坦当天用迫击炮和火箭弹袭击了阿富汗东部库纳尔省，导致 4 人死亡、70 人受伤。（新华社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3135298"
+  },
+  {
     "post": "Financial_Express/3135297",
     "datetime": "2026-04-27T15:38:38+00:00",
-    "views": "1",
+    "views": "33",
     "text": "伊朗战争期间，以色列曾向阿联酋部署铁穹防空系统及地面部队。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3135296",
     "datetime": "2026-04-27T15:38:37+00:00",
-    "views": "1",
+    "views": "33",
     "text": "伊朗外交部：伊朗外长告诉俄罗斯总统普京，美国的“破坏性习惯”、“不合理要求”以及频繁的立场变化正在拖慢外交进展。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +47,8 @@
   {
     "post": "Financial_Express/3135295",
     "datetime": "2026-04-27T15:37:17+00:00",
-    "views": "32",
-    "text": "美国至 4 月 27 日 2 年期国债竞拍-得标利率配置百分比 4.28%，前值 20.78%。",
+    "views": "64",
+    "text": "美国至 4 月 27 日 2 年期国债竞拍-得标利率配置百分比 4.28%，前值 20.78%。\n❤1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3135295"
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3135293",
     "datetime": "2026-04-27T15:36:39+00:00",
-    "views": "32",
+    "views": "64",
     "text": "美国至 4 月 27 日 2 年期国债竞拍-得标利率 3.812%，前值 3.94%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3135294",
     "datetime": "2026-04-27T15:36:39+00:00",
-    "views": "33",
+    "views": "65",
     "text": "美国至 4 月 27 日 2 年期国债竞拍-投标倍数 2.65，前值 2.44。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3135292",
     "datetime": "2026-04-27T15:36:18+00:00",
-    "views": "32",
+    "views": "64",
     "text": "摩尔线程 S5000 完成中国移动九天 35B 大模型适配\n摩尔线程基于旗舰 GPU MTT S5000，完成中国移动自研九天 35B 通用大模型的全流程适配与推理验证，这是国产 GPU 首次支撑央企大模型规模化落地。实测显示，MTT S5000 通过 MUSA 软件栈优化，可稳定支持高并发推理请求，满足各行业对大模型低时延、高可靠的部署要求。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3135290",
     "datetime": "2026-04-27T15:34:47+00:00",
-    "views": "34",
+    "views": "64",
     "text": "智飞生物：2026 年 Q1 公司净亏损 3.88 亿元，去年同期净亏损 3.27 亿元，同比亏损扩大。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3135291",
     "datetime": "2026-04-27T15:34:47+00:00",
-    "views": "34",
+    "views": "64",
     "text": "市场资讯：多项最新研究表明，特朗普政府取消新生儿出生 24 小时内接种乙肝疫苗这一长期防疫建议，或将导致新增感染病例，并额外产生数百万美元的医疗开支。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3135280",
     "datetime": "2026-04-27T15:32:19+00:00",
-    "views": "38",
+    "views": "68",
     "text": "美国至 4 月 27 日 6 个月国债竞拍-投标倍数 2.95，前值 2.89。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +182,7 @@
   {
     "post": "Financial_Express/3135281",
     "datetime": "2026-04-27T15:32:19+00:00",
-    "views": "39",
+    "views": "69",
     "text": "伊朗外交部：伊朗外长阿拉格齐率领外交代表团于周一晚间与俄罗斯总统普京会晤，讨论了双边伊朗-俄罗斯关系及国际形势。",
     "media_only": false,
     "image_url": null,
@@ -39751,14 +39778,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3130864"
-  },
-  {
-    "post": "Financial_Express/3130863",
-    "datetime": "2026-04-25T15:39:57+00:00",
-    "views": "259",
-    "text": "消息人士称伊朗外长或在未来率团返回伊斯兰堡\n巴基斯坦消息人士 25 日称，如果相关接触进展顺利，伊朗外交部长阿拉格齐或在未来率团返回巴首都伊斯兰堡。伊朗外长阿拉格齐于当地时间 24 日晚率伊朗代表团抵达伊斯兰堡，于 25 日离开。访问期间，阿拉格齐同巴基斯坦总理及陆军参谋长等高级领导人举行了会谈，讨论地区最新局势和推动地区和平稳定的持续努力。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3130863"
   }
 ]
