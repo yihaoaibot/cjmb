@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3132161",
+    "datetime": "2026-04-27T00:05:47+00:00",
+    "views": "9",
+    "text": "日经 225 指数升至纪录新高。\n韩国首尔综指上涨逾 1%，至纪录高位。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3132161"
+  },
+  {
+    "post": "Financial_Express/3132160",
+    "datetime": "2026-04-27T00:05:17+00:00",
+    "views": "40",
+    "text": "美国已指示 38 艘船只掉头或返回港口。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3132160"
+  },
+  {
+    "post": "Financial_Express/3132159",
+    "datetime": "2026-04-27T00:05:07+00:00",
+    "views": "40",
+    "text": "日经 225 指数高开 0.2%，韩国首尔综指高开 0.9%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3132159"
+  },
+  {
     "post": "Financial_Express/3132158",
     "datetime": "2026-04-27T00:04:38+00:00",
-    "views": "1",
+    "views": "43",
     "text": "首尔股市综合指数（KOSPI）上涨超 1%，创下历史新高。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3132157",
     "datetime": "2026-04-27T00:04:37+00:00",
-    "views": "1",
+    "views": "42",
     "text": "日本日经股价平均指数创下历史新高。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3132156",
     "datetime": "2026-04-27T00:03:57+00:00",
-    "views": "5",
+    "views": "45",
     "text": "华泰证券：DeepSeek-V4 长上下文降本带来需求扩张\n华泰证券研报称，4 月 24 日 DeepSeek 发布 V4 系列模型及论文，核心变化是围绕 1M token 上下文的低成本实用化，对模型架构、训练流程与基础设施进行系统性升级。华泰证券认为，市场容易将 V4 理解为“降本压低算力、存储需求”，但更重要的边际变化在于长上下文成本下降后，复杂 Agent、多文档分析、长周期任务、在线学习等场景可用性提升，推理调用量与存储访问频次有望扩张。潜在催化剂包括国产算力 Day0 适配、昇腾 950 超节点后续放量、DeepSeek 多模态与 Engram 路线推进，以及国内开源模型算法互通带来的产业发展。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3132155",
     "datetime": "2026-04-27T00:03:17+00:00",
-    "views": "12",
+    "views": "49",
     "text": "特朗普称一度不愿撤离白宫记协晚宴\n当地时间 4 月 26 日下午播出的美国哥伦比亚广播公司《60 分钟》专访节目中，美国总统特朗普详细回顾了此前一天白宫记协晚宴枪击事件发生时的现场情况。特朗普表示，枪声最初响起时，他并未立即意识到威胁的严重性，“并不担心”，而是打算先观察现场情况。他称自己当时一度没有配合特勤局迅速撤离，“想看看发生了什么”，并承认这一行为可能在一定程度上放慢了特勤局人员的应对节奏。 随着局势逐渐明朗，特勤局要求其立即采取防护措施。特朗普表示，在特勤局人员指示下，他与总统夫人梅拉尼娅一同趴下避险，随后被护送离开宴会区域并转移至安全地点。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3132154",
     "datetime": "2026-04-27T00:02:37+00:00",
-    "views": "45",
+    "views": "51",
     "text": "罗姆半导体股价因卖单过剩暂未交易，预计下跌；电装考虑放弃竞购。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3132152",
     "datetime": "2026-04-27T00:01:03+00:00",
-    "views": "52",
+    "views": "57",
     "text": "中国央行公开市场本周共 170 亿元逆回购到期，其中周一到周五分别到期 5 亿、50 亿、60 亿、5 亿和 50 亿元。周一另有 6000 亿元中期借贷便利(MLF)到期，周一央行将开展 4000 亿元 1 年期 MLF 操作，净回笼 2000 亿元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3132151",
     "datetime": "2026-04-27T00:00:59+00:00",
-    "views": "52",
+    "views": "57",
     "text": "华天科技：公司 CPO 封装技术关键单元工艺开发正在进行中\n有投资者在互动平台询问华天科技(002185)：公司共封装光学（CPO）技术研发进入到什么阶段了？华天科技回复，公司 CPO 封装技术关键单元工艺开发正在进行之中。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3132150",
     "datetime": "2026-04-27T00:00:58+00:00",
-    "views": "52",
+    "views": "57",
     "text": "韩国综合股价指数（KOSPI）开盘上涨 0.9%，至 6533.60 点。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3132149",
     "datetime": "2026-04-27T00:00:38+00:00",
-    "views": "51",
+    "views": "85",
     "text": "现代重工集团获得韩国首份海外破冰船订单。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3132148",
     "datetime": "2026-04-27T00:00:37+00:00",
-    "views": "51",
+    "views": "85",
     "text": "日经 225 指数上午开盘报 59880.71 点，涨幅 0.28%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3132147",
     "datetime": "2026-04-27T00:00:18+00:00",
-    "views": "52",
+    "views": "85",
     "text": "中信证券：建议关注港股科技板块的投资机会\n中信证券指出，本周港股受地缘避险情绪升温、韩国市场资金虹吸影响出现回调，外资短期流出明显。伴随国产大模型 DeepSeek-V4 预览版发布、阿里汽车 AI 生态推进，国产 AI 产业有望迎来持续催化。当前恒科业绩预期下修节奏放缓，基本面调整或接近尾声。与此同时，随着南向资金恢复流入，被动资金持续托市，主动外资修复可期，港股市场流动性有望改善。我们建议关注港股科技板块的投资机会。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3132146",
     "datetime": "2026-04-27T00:00:17+00:00",
-    "views": "51",
+    "views": "82",
     "text": "白宫记者晚宴枪手周一将被传讯 曾在宣言中斥特朗普为“叛徒”\n据媒体所见执法部门情报档案，被指冲击白宫记者晚宴的男子用了几年时间悄然攒下武器。档案显示，31 岁的 Cole Tomas Allen 于 2025 年 8 月在加州托伦斯的 Turner’s Outdoorsman 购买了一把 Maverick 12 口径泵动式霰弹枪，并于 2023 年 10 月在劳恩代尔的 CAP Tactical Firearms 购入一把 Armscor 半自动手枪。嫌疑人的具体目标和动机尚不清楚，但他确实发给了家人一份长篇宣言；在媒体看到的这篇宣言中，他看起来批判总统唐纳德·特朗普是犯下罪行的“叛徒”。他说为了尽量减少伤亡，他会使用鹿弹而不是独头弹。他在文上署名“友好的联邦刺客”。特朗普周日告诉福克斯新闻：“他心中积压了很久、很多仇恨。这是一种宗教仇恨，是强烈的反基督教情绪。”",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3132143",
     "datetime": "2026-04-26T23:57:57+00:00",
-    "views": "85",
+    "views": "86",
     "text": "太阳制药将以每股 14 美元现金收购欧加农\n太阳制药将以全现金方式，按每股 14 美元价格收购欧加农全部流通股份，本次交易企业估值达 117.5 亿美元。该交易已获得太阳制药与欧加农双方董事会批准。太阳制药计划结合自有流动资金及银行承诺融资，为本次收购提供资金。交易预计于 2027 年初完成，尚需通过监管审批、欧加农股东投票等常规成交条件。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3132142",
     "datetime": "2026-04-26T23:56:37+00:00",
-    "views": "86",
+    "views": "87",
     "text": "电装公司称正考虑撤回对罗姆的收购要约\n日本电装株式会社表示，正评估多项方案，其中包括撤回针对罗姆的全盘收购要约。电装承认，目前尚未就股份收购事宜获得罗姆方面同意。现阶段暂无最终决议。另据罗姆方面证实，其并未作出同意表态，并称电装正在斟酌后续应对方案。",
     "media_only": false,
     "image_url": null,
@@ -16630,14 +16657,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3130304"
-  },
-  {
-    "post": "Financial_Express/3130303",
-    "datetime": "2026-04-25T00:06:37+00:00",
-    "views": "105",
-    "text": "美国法官驳回马斯克针对 OpenAI 和 OpenAI 创始人奥尔特曼的诉讼中提出的欺诈指控，计划继续就马斯克的其他指控进行庭审。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3130303"
   }
 ]
