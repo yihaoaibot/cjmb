@@ -1,8 +1,107 @@
 [
   {
+    "post": "Financial_Express/3139578",
+    "datetime": "2026-04-28T17:02:37+00:00",
+    "views": "1",
+    "text": "美国财政部拍卖 440 亿美元七年期国债，得标利率 4.175%（3 月 26 日为 4.255），投标倍数 2.51。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139578"
+  },
+  {
+    "post": "Financial_Express/3139576",
+    "datetime": "2026-04-28T17:02:18+00:00",
+    "views": "1",
+    "text": "美国至 4 月 28 日 7 年期国债竞拍-得标利率 4.175%，前值 4.26%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139576"
+  },
+  {
+    "post": "Financial_Express/3139577",
+    "datetime": "2026-04-28T17:02:18+00:00",
+    "views": "1",
+    "text": "美国至 4 月 28 日 7 年期国债竞拍-投标倍数 2.51，前值 2.43。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139577"
+  },
+  {
+    "post": "Financial_Express/3139575",
+    "datetime": "2026-04-28T17:02:17+00:00",
+    "views": "1",
+    "text": "美国至 4 月 28 日 7 年期国债竞拍-得标利率配置百分比 1.89%，前值 24.47%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139575"
+  },
+  {
+    "post": "Financial_Express/3139574",
+    "datetime": "2026-04-28T17:02:11+00:00",
+    "views": "1",
+    "text": "美国财政部拍卖 440 亿美元七年期国债，得标利率 4.175%（3 月 26 日为 4.255），投标倍数 2.51（前次为 2.43）。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139574"
+  },
+  {
+    "post": "Financial_Express/3139572",
+    "datetime": "2026-04-28T17:01:58+00:00",
+    "views": "1",
+    "text": "在给黎巴嫩的两周期限到期后，以色列可能恢复战斗。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139572"
+  },
+  {
+    "post": "Financial_Express/3139573",
+    "datetime": "2026-04-28T17:01:58+00:00",
+    "views": "1",
+    "text": "美国中央司令部：美军海军陆战队于周二在阿拉伯海域登临 “蓝星三号” 商船。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139573"
+  },
+  {
+    "post": "Financial_Express/3139571",
+    "datetime": "2026-04-28T17:01:37+00:00",
+    "views": "2",
+    "text": "谷歌晋级后退出五角大楼无人机蜂群项目竞标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139571"
+  },
+  {
+    "post": "Financial_Express/3139570",
+    "datetime": "2026-04-28T17:01:27+00:00",
+    "views": "2",
+    "text": "国际铜夜盘收跌 1.24%，沪铜收跌 1.15%，沪铝收跌 0.43%，沪锌收跌 0.40%，沪铅收跌 0.18%，沪镍收涨 1.70%，沪锡收跌 0.52%。\n氧化铝夜盘收跌 1.08%，铝合金收跌 0.80%。\n不锈钢夜盘收涨 0.03%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139570"
+  },
+  {
+    "post": "Financial_Express/3139569",
+    "datetime": "2026-04-28T17:00:58+00:00",
+    "views": "33",
+    "text": "美媒：伊朗或向巴基斯坦提交调整版方案\n知情人士 28 日向美国媒体披露，由于美国总统特朗普不满意伊朗提出的新谈判方案，伊朗可能会在接下来几天内向斡旋方巴基斯坦提交一份调整版方案。(新华社)",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139569"
+  },
+  {
+    "post": "Financial_Express/3139568",
+    "datetime": "2026-04-28T17:00:57+00:00",
+    "views": "33",
+    "text": "以色列已设定两周期限，要求黎巴嫩政府达成协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139568"
+  },
+  {
     "post": "Financial_Express/3139567",
     "datetime": "2026-04-28T17:00:31+00:00",
-    "views": "5",
+    "views": "36",
     "text": "亚马逊将销售 OpenAI 的技术。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +110,7 @@
   {
     "post": "Financial_Express/3139566",
     "datetime": "2026-04-28T17:00:18+00:00",
-    "views": "5",
+    "views": "36",
     "text": "据 Al Arabiya：以色列广播管理局表示，若未能在两周期限内与黎巴嫩达成协议，以色列或将重启战事。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +119,7 @@
   {
     "post": "Financial_Express/3139565",
     "datetime": "2026-04-28T17:00:17+00:00",
-    "views": "5",
+    "views": "36",
     "text": "夜盘期货收盘\n国际铜夜盘收跌 1.24%，沪铜收跌 1.15%，沪铝收跌 0.43%，沪锌收跌 0.40%，沪铅收跌 0.18%，沪镍收涨 1.70%，沪锡收跌 0.52%。氧化铝夜盘收跌 1.08%，铝合金收跌 0.80%。不锈钢夜盘收涨 0.03%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +128,7 @@
   {
     "post": "Financial_Express/3139564",
     "datetime": "2026-04-28T16:59:57+00:00",
-    "views": "6",
+    "views": "37",
     "text": "美国汽油价格升至近四年来最高水平\n美国汽油平均价格已升至每加仑 4.18 美元，为 2022 年 4 月以来的最高水平。当日 1.6%的涨幅也创下一个多月以来的单日最大百分比增幅。在过去七个交易日中，作为国际基准的布伦特原油录得六次上涨，目前价格仍比 2 月下旬美以对伊朗发动打击前的水平高出 40%以上。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +137,7 @@
   {
     "post": "Financial_Express/3139563",
     "datetime": "2026-04-28T16:59:18+00:00",
-    "views": "36",
+    "views": "37",
     "text": "白宫贸易顾问纳瓦罗发文，公布政府针对肉类加工企业的行政举措，追究四大肉类加工巨头责任。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +146,7 @@
   {
     "post": "Financial_Express/3139562",
     "datetime": "2026-04-28T16:58:17+00:00",
-    "views": "37",
+    "views": "38",
     "text": "据报道：特朗普撤回索查的国家公园管理局局长提名。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +155,7 @@
   {
     "post": "Financial_Express/3139561",
     "datetime": "2026-04-28T16:57:26+00:00",
-    "views": "37",
+    "views": "68",
     "text": "最近 24 小时，MarketVectorTM 数字资产 100 小盘指数跌 0.59%，暂报 2633.22 点，北京时间 07:55 刷新日高至 2688.46 点，随后逐步下挫。\nMarketVectorTM 数字资产 100 中盘指数跌 0.65%，报 2834.73 点。\nMarketVector 数字资产 100 指数跌 0.52%，报 15047.93 点，08:48 刷新日高至 15274.89 点，之后也逐步下挫。\n目前，Solana 跌 0.70%，狗狗币涨 1.97%，XRP 涨 1.11%。\n比特币跌 0.89%，暂报 76078.21 美元；以太坊跌 0.02%，暂报 2285.45 美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +164,7 @@
   {
     "post": "Financial_Express/3139560",
     "datetime": "2026-04-28T16:57:17+00:00",
-    "views": "37",
+    "views": "68",
     "text": "黎巴嫩外交部长证实，贝鲁特方面将与以色列展开直接谈判。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +173,7 @@
   {
     "post": "Financial_Express/3139559",
     "datetime": "2026-04-28T16:56:38+00:00",
-    "views": "37",
+    "views": "68",
     "text": "黎巴嫩外交部长确认该国将与以色列进行直接对话。",
     "media_only": false,
     "image_url": null,
@@ -67516,23 +67615,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3131911"
-  },
-  {
-    "post": "Financial_Express/3131910",
-    "datetime": "2026-04-26T17:01:39+00:00",
-    "views": "250",
-    "text": "白宫记者协会主席：发生枪击事件后，协会将召开会议，讨论后续的行动方案。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3131910"
-  },
-  {
-    "post": "Financial_Express/3131909",
-    "datetime": "2026-04-26T17:00:57+00:00",
-    "views": "247",
-    "text": "美国白宫记者协会将召开会议评估后续安排\n金十数据 4 月 27 日讯，据美国全国广播公司（NBC）报道，白宫记者协会（WHCA）主席今日发表声明称，在该协会年度晚宴发生枪击事件后，协会董事会将召开会议，讨论后续的行动方案。她在声明中表示：“昨晚在华盛顿希尔顿酒店发生的枪击事件，对所有在场人员来说都是一个惊险的时刻。”她同时赞扬了特勤局和执法部门“保护了数千名宾客”，并向在执勤中受伤的警官表达了祝愿，希望其能完全并迅速康复。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3131909"
   }
 ]
