@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3139639",
+    "datetime": "2026-04-28T17:46:37+00:00",
+    "views": "5",
+    "text": "香港天文台发布黄色暴雨警告。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139639"
+  },
+  {
+    "post": "Financial_Express/3139638",
+    "datetime": "2026-04-28T17:46:31+00:00",
+    "views": "6",
+    "text": "Citadel（城堡）创始人肯·格里芬（Ken Griffin）正计划与纽约州州长 Kathy Hochul 会面，讨论纽约市的未来发展方向。此前，格里芬因其曼哈顿顶层豪宅问题与市长马姆达尼（Zohran Mamdani）产生了分歧。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139638"
+  },
+  {
+    "post": "Financial_Express/3139637",
+    "datetime": "2026-04-28T17:45:37+00:00",
+    "views": "43",
+    "text": "黎巴嫩民防部门发表声明称，在黎巴嫩南部的一次救援行动中，其三名成员在以色列的袭击后被困于废墟之下。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139637"
+  },
+  {
+    "post": "Financial_Express/3139636",
+    "datetime": "2026-04-28T17:45:17+00:00",
+    "views": "48",
+    "text": "黎巴嫩民防部门：该部门三名成员在黎巴嫩南部开展救援行动期间遭遇以色列空袭，目前被困于废墟之下。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139636"
+  },
+  {
+    "post": "Financial_Express/3139635",
+    "datetime": "2026-04-28T17:45:14+00:00",
+    "views": "48",
+    "text": "黎巴嫩民防部门发表声明称，在黎巴嫩南部的一次救援行动中，三名成员在以军空袭后被困于废墟之下。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3139635"
+  },
+  {
     "post": "Financial_Express/3139634",
     "datetime": "2026-04-28T17:44:04+00:00",
-    "views": "12",
+    "views": "59",
     "text": "英伟达在公司博客宣布，推出名为 Nemotron 3 Nano Omni 的全新开源模型，主打“原生全模态理解+高效推理”，试图为企业级 AI Agent 提供一体化基础模型底座。英伟达介绍，这款业内领先的开源全模态推理模型融合了视觉、音频与语言能力，将帮助 AI 智能体实现高达 9 倍的效率提升。\n据英伟达介绍，已有一批 AI 与软件领域的公司率先采用了 Nemotron 3 Nano Omni，包括 Aible、Applied Scientific Intelligence (ASI)、Eka Care、富士康、H Company、Palantir 和 Pyler。此外，戴尔、DocuSign、Infosys、K-Dense、Lila、甲骨文和 Zefr 正在对该模型进行评估。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3139633",
     "datetime": "2026-04-28T17:43:13+00:00",
-    "views": "37",
+    "views": "51",
     "text": "欧洲 STOXX 600 指数收跌 0.37%，报 606.58 点。\n欧元区 STOXX 50 指数收跌 0.41%，报 5836.10 点，北京时间 17:20 刷新日高至 5885.15 点、随后出现一波显著的下次行情。\n富时泛欧绩优 300 指数收跌 0.33%，报 2418.66 点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3139632",
     "datetime": "2026-04-28T17:42:58+00:00",
-    "views": "37",
+    "views": "51",
     "text": "俄罗斯总统普京：最新例子是对图阿普塞的攻击。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3139631",
     "datetime": "2026-04-28T17:42:57+00:00",
-    "views": "36",
+    "views": "50",
     "text": "俄罗斯总统普京：乌克兰加大对俄罗斯平民目标的攻击。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3139630",
     "datetime": "2026-04-28T17:42:37+00:00",
-    "views": "36",
+    "views": "49",
     "text": "普京：最新例证即为图阿普谢遇袭事件。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3139629",
     "datetime": "2026-04-28T17:42:17+00:00",
-    "views": "37",
+    "views": "79",
     "text": "普京：乌克兰正加大对俄罗斯民用目标的袭击力度。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3139628",
     "datetime": "2026-04-28T17:41:58+00:00",
-    "views": "37",
+    "views": "78",
     "text": "美国司法部第二次起诉前 FBI 局长科米。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3139627",
     "datetime": "2026-04-28T17:40:38+00:00",
-    "views": "37",
+    "views": "78",
     "text": "以军称在黎南部摧毁两条隶属真主党的地下隧道\n当地时间 28 日，以色列国防军发表声明称，以军于当天下午在黎巴嫩南部坎塔拉镇（Qantara）摧毁了两条隶属于黎真主党的地下隧道。以军称，这两条地道总长度约 2 公里，最深处约 25 米，由伊朗方面出资建造，是迄今为止以军在黎巴嫩发现的最重要、规模最大的地下隧道之一。在拆除过程中，以军使用了超过 450 吨炸药。据悉，现场升腾起两团巨大烟柱，该地区全境均能听到巨大的爆炸声。以色列国防部长卡茨对此表示，他与以总理内塔尼亚胡已指示军方，在黎南部军事缓冲区内直至“蓝线”一带，对地上和地下的相关基础设施进行清除，“就像在加沙所采取的行动一样”。目前，黎真主党方面对此暂无回应。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3139626",
     "datetime": "2026-04-28T17:39:57+00:00",
-    "views": "36",
+    "views": "75",
     "text": "印度航空企业：战争推高燃油成本，航班可能暂停\n金十数据 4 月 29 日讯，印度各大航空公司发出警告称，除非政府下调航空燃油价格，否则可能暂停服务。信函显示，代表靛蓝航空公司（IndiGo）、印度航空（Air India）和香料航空（SpiceJet）等航空公司的“印度航空公司联合会”在致印度民航部的信中表示：“印度航空业正承受着极度的压力，已濒临倒闭或停止运营的边缘。”他们要求恢复疫情期间对航空燃料设定的价格上限，并减免或延期缴纳税款。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3139625",
     "datetime": "2026-04-28T17:38:11+00:00",
-    "views": "96",
+    "views": "103",
     "text": "周二（4 月 28 日），韩元兑美元最终涨 0.13%，报 1472.56 韩元，北京时间 19:57 曾跌至 1478.81 韩元刷新日低。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3139624",
     "datetime": "2026-04-28T17:35:58+00:00",
-    "views": "96",
+    "views": "133",
     "text": "英国议会下院议长 28 日表示，经投票表决，下院决定不对首相斯塔默是否曾就任命曼德尔森出任英国驻美大使的程序问题“误导议会”展开调查。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3139623",
     "datetime": "2026-04-28T17:35:57+00:00",
-    "views": "96",
+    "views": "133",
     "text": "英国下院决定不调查首相斯塔默是否误导议会\n英国议会下院议长 28 日表示，经投票表决，下院决定不对首相斯塔默是否曾就任命曼德尔森出任英国驻美大使的程序问题“误导议会”展开调查。(新华社)",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3139622",
     "datetime": "2026-04-28T17:35:24+00:00",
-    "views": "96",
+    "views": "133",
     "text": "美国财政部要求银行业与茶壶炼油厂划清界限。（Semafor）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3139621",
     "datetime": "2026-04-28T17:34:52+00:00",
-    "views": "96",
+    "views": "132",
     "text": "据知情人士透露，黑石集团旗下 QTS 要求银行业提供 20 亿美元资金，用于保障（来自公用事业行业）AI 电力供应。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3139620",
     "datetime": "2026-04-28T17:34:17+00:00",
-    "views": "126",
+    "views": "131",
     "text": "据美媒 Bulwark 和福克斯新闻报道，美国国务院正在敲定将特朗普的头像印在美国护照上的计划。",
     "media_only": false,
     "image_url": null,
