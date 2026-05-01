@@ -1,5 +1,122 @@
 [
   {
+    "post": "Financial_Express/3150129",
+    "datetime": "2026-05-01T14:00:58+00:00",
+    "views": "1",
+    "text": "纳斯达克 100 指数涨 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150129"
+  },
+  {
+    "post": "Financial_Express/3150130",
+    "datetime": "2026-05-01T14:00:58+00:00",
+    "views": "1",
+    "text": "纽约期银日内涨 4%，现报 76.99 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150130"
+  },
+  {
+    "post": "Financial_Express/3150127",
+    "datetime": "2026-05-01T14:00:57+00:00",
+    "views": "1",
+    "text": "美国 4 月 ISM 库存指数 49，前值 47.1。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150127"
+  },
+  {
+    "post": "Financial_Express/3150128",
+    "datetime": "2026-05-01T14:00:57+00:00",
+    "views": "1",
+    "text": "美国 4 月 ISM 产出指数 53.4，前值 55.1。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150128"
+  },
+  {
+    "post": "Financial_Express/3150125",
+    "datetime": "2026-05-01T14:00:18+00:00",
+    "views": "5",
+    "text": "美股延续涨势，纳指涨 1%，道指涨 0.53%，标普 500 指数涨 0.78%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150125"
+  },
+  {
+    "post": "Financial_Express/3150126",
+    "datetime": "2026-05-01T14:00:18+00:00",
+    "views": "5",
+    "text": "美国 4 月 ISM 就业指数 46.4，预期 49，前值 48.7；\n美国 4 月 ISM 制造业 PMI 52.7，预期 53，前值 52.7。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150126"
+  },
+  {
+    "post": "Financial_Express/3150123",
+    "datetime": "2026-05-01T14:00:17+00:00",
+    "views": "5",
+    "text": "美国 4 月 ISM 新订单指数 54.1，预期 54.7，前值 53.5。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150123"
+  },
+  {
+    "post": "Financial_Express/3150124",
+    "datetime": "2026-05-01T14:00:17+00:00",
+    "views": "5",
+    "text": "美国 4 月 ISM 就业指数 46.4，预期 49，前值 48.7。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150124"
+  },
+  {
+    "post": "Financial_Express/3150121",
+    "datetime": "2026-05-01T14:00:02+00:00",
+    "views": "6",
+    "text": "美国 4 月 ISM 制造业就业指数 46.4，预期 48.8，前值 48.7。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150121"
+  },
+  {
+    "post": "Financial_Express/3150122",
+    "datetime": "2026-05-01T14:00:02+00:00",
+    "views": "6",
+    "text": "美国 4 月 ISM 制造业物价支付指数 84.6，预期 80，前值 78.3。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150122"
+  },
+  {
+    "post": "Financial_Express/3150120",
+    "datetime": "2026-05-01T14:00:01+00:00",
+    "views": "6",
+    "text": "美国 4 月 ISM 制造业指数 52.7，预期 53.2，前值 52.7。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150120"
+  },
+  {
+    "post": "Financial_Express/3150119",
+    "datetime": "2026-05-01T14:00:00+00:00",
+    "views": "6",
+    "text": "美国 4 月 ISM 制造业新订单指数 54.1，预期 54.5，前值 53.5。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150119"
+  },
+  {
+    "post": "Financial_Express/3150118",
+    "datetime": "2026-05-01T13:59:37+00:00",
+    "views": "8",
+    "text": "纳指涨 1.00%，现报 25142.101 点；道指涨 0.52%，现报 49911.551 点；标普 500 指数涨 0.75%，现报 7263.260 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150118"
+  },
+  {
     "post": "Financial_Express/3150115",
     "datetime": "2026-05-01T13:58:18+00:00",
     "views": "4",
@@ -11,7 +128,7 @@
   {
     "post": "Financial_Express/3150116",
     "datetime": "2026-05-01T13:58:18+00:00",
-    "views": "4",
+    "views": "43",
     "text": "埃克森美孚首席执行官表示，公司将继续关注委内瑞拉的投资机会。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +137,7 @@
   {
     "post": "Financial_Express/3150114",
     "datetime": "2026-05-01T13:58:17+00:00",
-    "views": "4",
+    "views": "43",
     "text": "德副总理：德国不需要特朗普的“指点”\n金十数据 5 月 1 日讯，针对此前美国总统特朗普对德国政府和德国总理的批评，德国副总理兼财政部长克林拜尔 5 月 1 日表示，德国不需要特朗普的“指点”。据德新社报道，克林拜尔当天在德国北威州贝格卡门市举行的一个活动上表示，德国“真的不需要特朗普的指点。他应该看看自己造成了哪些烂摊子。他应该确保现在能与伊朗进行严肃的和平谈判”。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +146,7 @@
   {
     "post": "Financial_Express/3150112",
     "datetime": "2026-05-01T13:56:38+00:00",
-    "views": "39",
+    "views": "46",
     "text": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐向地区各国外长通报了伊朗关于结束战争的立场。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +155,7 @@
   {
     "post": "Financial_Express/3150113",
     "datetime": "2026-05-01T13:56:38+00:00",
-    "views": "39",
+    "views": "76",
     "text": "瑞银获得劳工机构许可，获准开展退休基金管理业务。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +164,7 @@
   {
     "post": "Financial_Express/3150111",
     "datetime": "2026-05-01T13:55:58+00:00",
-    "views": "41",
+    "views": "48",
     "text": "布伦特原油失守 108 美元/桶，日内跌 2.19%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +173,7 @@
   {
     "post": "Financial_Express/3150110",
     "datetime": "2026-05-01T13:55:55+00:00",
-    "views": "42",
+    "views": "79",
     "text": "WTI 原油日内跌幅达 4.0%，报 100.78 美元/桶。\n布伦特原油日内跌幅达 2.0%，报 108 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +191,7 @@
   {
     "post": "Financial_Express/3150109",
     "datetime": "2026-05-01T13:55:39+00:00",
-    "views": "42",
+    "views": "48",
     "text": "布伦特原油日内跌 2%，现报 108.06 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -39157,176 +39274,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3143328"
-  },
-  {
-    "post": "Financial_Express/3143327",
-    "datetime": "2026-04-29T14:01:00+00:00",
-    "views": "56",
-    "text": "标准普尔维持韩国信用评级 AA 不变\n国际信用评级机构标准普尔（S&P）29 日发布称，维持韩国长期主权信用评级“AA”不变，短期主权信用评级维持“A-1+”，评级展望也维持“稳定”。标准普尔表示，全球能源市场的波动成为 2026 年韩国经济的风险因素，但预计韩国将凭借电子领域的高度竞争力，以及政府实施的财政政策以提振经济，相关风险有望得到有效控制。标准普尔认为韩国今后 3 至 4 年的平均经济增长率有望高于多数高收入国家。标准普尔提到了韩国在半导体等 IT 产业和造船业的竞争力，并预计在 2029 年韩国人均国内生产总值（GDP）有望突破 4.4 万美元。今年韩国一般行政财政收支赤字在 GDP 中的占比为-1.4%，明年将降至-1.1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143327"
-  },
-  {
-    "post": "Financial_Express/3143326",
-    "datetime": "2026-04-29T14:00:59+00:00",
-    "views": "53",
-    "text": "黎巴嫩总统：以色列必须先落实停火才能进行谈判。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143326"
-  },
-  {
-    "post": "Financial_Express/3143325",
-    "datetime": "2026-04-29T14:00:50+00:00",
-    "views": "51",
-    "text": "北信源：公司股票自 2026 年 5 月 6 日开市起被实施其他风险警示，公司股票简称由“北信源”变更为“ST 信源”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143325"
-  },
-  {
-    "post": "Financial_Express/3143324",
-    "datetime": "2026-04-29T14:00:18+00:00",
-    "views": "51",
-    "text": "加拿大国家铁路公司：根据美国证券交易委员会文件，已提交债务上架发行申请，发行规模未披露。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143324"
-  },
-  {
-    "post": "Financial_Express/3143323",
-    "datetime": "2026-04-29T14:00:17+00:00",
-    "views": "52",
-    "text": "太极股份：2026 年一季度净亏损 1.2 亿元\n太极股份公告，2026 年第一季度营业收入 8.86 亿元，同比下降 27.54%。归属于上市公司股东的净利润-1.2 亿元，同比下降 4,650.97%。基本每股收益-0.192 元／股，同比下降 4,671.43%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143323"
-  },
-  {
-    "post": "Financial_Express/3143322",
-    "datetime": "2026-04-29T13:59:59+00:00",
-    "views": "53",
-    "text": "国际原子能机构已与俄罗斯及其他相关方就接收伊朗高丰度浓缩铀一事展开磋商。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143322"
-  },
-  {
-    "post": "Financial_Express/3143321",
-    "datetime": "2026-04-29T13:59:56+00:00",
-    "views": "54",
-    "text": "中设股份：公司股票交易自 2026 年 5 月 6 日起被实施退市风险警示，股票简称由“中设股份”变更为“*ST 中设”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143321"
-  },
-  {
-    "post": "Financial_Express/3143320",
-    "datetime": "2026-04-29T13:59:40+00:00",
-    "views": "54",
-    "text": "北信源：公司股票将于 2026 年 5 月 6 日开市起被实施其他风险警示\n北信源公告，审计机构中兴华会计师事务所对 2025 年度内部控制报告出具了否定意见。根据相关规定，公司股票将于 2026 年 4 月 30 日开市起停牌一天，并于 2026 年 5 月 6 日开市起复牌。自 2026 年 5 月 6 日开市起被实施其他风险警示，股票简称变更为“ST 信源”，股票代码仍为“300352”，日涨跌幅限制仍为 20%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143320"
-  },
-  {
-    "post": "Financial_Express/3143318",
-    "datetime": "2026-04-29T13:59:39+00:00",
-    "views": "52",
-    "text": "北信源：2025 年净亏损 3.38 亿元\n北信源公告，2025 年营业收入 3.06 亿元，同比下降 40.81%。归属于上市公司股东的净亏损 3.38 亿元，上年同期净亏损 1.45 亿元。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143318"
-  },
-  {
-    "post": "Financial_Express/3143319",
-    "datetime": "2026-04-29T13:59:39+00:00",
-    "views": "53",
-    "text": "中设股份：一季度净利润 102.25 万元，同比增长 115.31%\n中设股份公告，2026 年第一季度营收为 7185.96 万元，同比增长 18.13%；净利润为 102.25 万元，同比增长 115.31%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143319"
-  },
-  {
-    "post": "Financial_Express/3143317",
-    "datetime": "2026-04-29T13:59:38+00:00",
-    "views": "52",
-    "text": "北信源：2026 年一季度净利润亏损 4986.61 万元\n北信源公告，2026 年第一季度营收为 4630.94 万元，同比下降 24.87%；净亏损 4986.61 万元，上年同期净亏损 5282.25 万元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143317"
-  },
-  {
-    "post": "Financial_Express/3143316",
-    "datetime": "2026-04-29T13:59:19+00:00",
-    "views": "51",
-    "text": "中设股份：公司股票将于 5 月 6 日被实施退市风险警示\n中设股份公告，公司 2025 年度经审计的营业收入为 3.7 亿元，扣除非经常性损益后的净利润为-3394.04 万元，利润总额为-2482.54 万元。根据相关规定，公司股票交易将被深圳证券交易所实施退市风险警示。公司股票自 2026 年 4 月 30 日开市起停牌一天，并于 2026 年 5 月 6 日开市起复牌。自 2026 年 5 月 6 日起，公司股票简称变更为“*ST 中设”，日涨跌幅比例限制为 5%。根据 2026 年 7 月 6 日开始施行的《深圳证券交易所交易规则（2026 年修订）》相关规定，公司股票交易价格的日涨跌幅比例限制自该规则施行起将恢复为 10%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143316"
-  },
-  {
-    "post": "Financial_Express/3143314",
-    "datetime": "2026-04-29T13:59:18+00:00",
-    "views": "48",
-    "text": "墨西哥经济部长埃布拉德：墨西哥将增加对本地钢铁的采购。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143314"
-  },
-  {
-    "post": "Financial_Express/3143315",
-    "datetime": "2026-04-29T13:59:18+00:00",
-    "views": "49",
-    "text": "纳斯达克中国金龙指数跌超 0.5%，大全新能源跌 11.66%，金生游乐跌 7.32%，亿航跌 5.17%，海天网络跌 5.13%，百度跌 4.64%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143315"
-  },
-  {
-    "post": "Financial_Express/3143313",
-    "datetime": "2026-04-29T13:59:03+00:00",
-    "views": "41",
-    "text": "加拿大央行：伊朗冲突对加拿大 GDP 增长的影响预计会很小。\n密切关注通胀广度和长期预期。\n冲突推高加拿大石油价值，但挤压消费者和企业。\n货币政策取决于美墨加协定谈判及中东冲突。\n预计 2026 年加拿大经济增长 1.2%，2027 年增长 1.6%，2028 年增长 1.7%。\n预计加拿大中性利率维持在 2.25%-3.25%不变。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143313"
-  },
-  {
-    "post": "Financial_Express/3143312",
-    "datetime": "2026-04-29T13:59:00+00:00",
-    "views": "41",
-    "text": "卓然股份：公司无法在法定期限完成《2025 年年度报告》的披露工作，又因期初数无法确定，亦无法按期披露《2026 年第一季度报告》。公司股票将自法定披露期限届满后次一交易日（2026 年 5 月 6 日）起停牌。若公司在股票停牌后 2 个月内仍未完成披露《2025 年年度报告》，公司股票将被实施退市风险警示。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143312"
-  },
-  {
-    "post": "Financial_Express/3143310",
-    "datetime": "2026-04-29T13:58:58+00:00",
-    "views": "40",
-    "text": "德国总理：我们希望能在德国主导下顺利完成 F-126 护卫舰项目。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143310"
-  },
-  {
-    "post": "Financial_Express/3143311",
-    "datetime": "2026-04-29T13:58:58+00:00",
-    "views": "40",
-    "text": "墨西哥外长埃布拉德：墨西哥将增加本土钢材采购量。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143311"
-  },
-  {
-    "post": "Financial_Express/3143309",
-    "datetime": "2026-04-29T13:58:57+00:00",
-    "views": "40",
-    "text": "德国总理默茨：我们希望 F-126 护卫舰项目能在德国的领导下成功完成。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143309"
   }
 ]
