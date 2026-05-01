@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3150269",
+    "datetime": "2026-05-01T15:06:37+00:00",
+    "views": "2",
+    "text": "印度央行行长：在外部层面，经常账户赤字处于可持续区间。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150269"
+  },
+  {
+    "post": "Financial_Express/3150268",
+    "datetime": "2026-05-01T15:06:19+00:00",
+    "views": "3",
+    "text": "巴西国家石油公司（Petrobras）当地时间 5 月 1 日宣布，将经销商的航空煤油平均售价上调 18%，即每升提高 1 雷亚尔。这是该公司连续第三个月上调该燃料价格。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150268"
+  },
+  {
+    "post": "Financial_Express/3150266",
+    "datetime": "2026-05-01T15:06:18+00:00",
+    "views": "3",
+    "text": "印度央行行长：随着近期金融资产估值的回调，我们预计资金回流将有所放缓。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150266"
+  },
+  {
+    "post": "Financial_Express/3150267",
+    "datetime": "2026-05-01T15:06:18+00:00",
+    "views": "3",
+    "text": "印度央行行长：印度的宏观经济和金融基本面依然强劲。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150267"
+  },
+  {
+    "post": "Financial_Express/3150265",
+    "datetime": "2026-05-01T15:05:58+00:00",
+    "views": "4",
+    "text": "据消息人士透露，英国石油北海资产全部出售后估值可能高达 20 亿英镑。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150265"
+  },
+  {
+    "post": "Financial_Express/3150264",
+    "datetime": "2026-05-01T15:05:38+00:00",
+    "views": "35",
+    "text": "英国石油公司将审查其在英国北海的资产，新任首席执行官正考虑出售资产。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150264"
+  },
+  {
+    "post": "Financial_Express/3150263",
+    "datetime": "2026-05-01T15:05:37+00:00",
+    "views": "36",
+    "text": "精神航空准备停止运营\n金十数据 5 月 1 日讯，据华尔街日报报道，廉航精神航空原本希望在资金耗尽之前，从美国政府获得 5 亿美元的紧急援助。知情人士透露，该公司在某些债券持有人与政府之间未能获得足够支持，以争取到维持运营所需的资金。在有关报道传出后，该公司场外交易股价重挫 70%，跌至 0.42 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150263"
+  },
+  {
     "post": "Financial_Express/3150262",
     "datetime": "2026-05-01T15:04:38+00:00",
-    "views": "6",
+    "views": "42",
     "text": "印度央行行长：我国外汇储备保持充裕，进口保障期达 11 个月。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3150261",
     "datetime": "2026-05-01T15:04:17+00:00",
-    "views": "7",
+    "views": "41",
     "text": "美国 4 月罢工工人人数达 1400 人。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3150260",
     "datetime": "2026-05-01T15:03:37+00:00",
-    "views": "24",
+    "views": "58",
     "text": "受《华尔街日报》报道影响，精神航空盘中股价跌幅扩大至 72%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3150259",
     "datetime": "2026-05-01T15:02:02+00:00",
-    "views": "51",
+    "views": "85",
     "text": "英特尔股价上涨 6%，一度站上 100 美元，盘中市值超 5000 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3150258",
     "datetime": "2026-05-01T15:02:00+00:00",
-    "views": "51",
+    "views": "85",
     "text": "高盛：股东选举产生 13 名董事，任期一年，至 2027 年年度股东大会届满。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3150257",
     "datetime": "2026-05-01T15:01:37+00:00",
-    "views": "59",
+    "views": "63",
     "text": "救援交易告吹，精神航空准备停业。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3150256",
     "datetime": "2026-05-01T15:01:18+00:00",
-    "views": "70",
+    "views": "105",
     "text": "英特尔(INTC.O)一度涨 6%站上 100 美元，股价续创记录新高。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3150255",
     "datetime": "2026-05-01T15:00:58+00:00",
-    "views": "70",
+    "views": "75",
     "text": "精神航空盘中股价迅速跌至当日低点，下跌 57%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3150254",
     "datetime": "2026-05-01T15:00:18+00:00",
-    "views": "89",
+    "views": "93",
     "text": "英特尔股价触及 100 美元 总市值飙升至 5000 亿美元\n英特尔股价上涨 6%，一度站上 100 美元/股，现报 99.780 美元/股，总市值报 5015 亿美元，刷新记录新高。英特尔股价在 4 月份累计大涨 114%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3150253",
     "datetime": "2026-05-01T15:00:17+00:00",
-    "views": "83",
+    "views": "85",
     "text": "富国银行将苹果公司目标价从 300.00 美元上调至 310.00 美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3150252",
     "datetime": "2026-05-01T15:00:07+00:00",
-    "views": "84",
+    "views": "86",
     "text": "精神航空公司（Spirit Airlines）准备关闭。（华尔街日报）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3150251",
     "datetime": "2026-05-01T14:59:37+00:00",
-    "views": "93",
+    "views": "94",
     "text": "精神航空与美国联邦政府的救助协议已破裂。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3150250",
     "datetime": "2026-05-01T14:59:19+00:00",
-    "views": "96",
+    "views": "97",
     "text": "精神航空准备停运倒闭，其债券持有人不支持救助重组方案。",
     "media_only": false,
     "image_url": null,
@@ -38248,77 +38311,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3143579"
-  },
-  {
-    "post": "Financial_Express/3143578",
-    "datetime": "2026-04-29T15:06:37+00:00",
-    "views": "84",
-    "text": "乌克兰能源部长：乌克兰将从美国获得 1 亿美元用于修复切尔诺贝利核电站的防护罩。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143578"
-  },
-  {
-    "post": "Financial_Express/3143577",
-    "datetime": "2026-04-29T15:06:31+00:00",
-    "views": "9",
-    "text": "低硫燃油夜盘收涨约 4.1%，燃油涨约 3.4%，合成橡胶、焦煤、LPG、焦炭至少涨约 1%。\n瓶片、PVC、PTA 等夜盘至多收跌 0.71%，玻璃跌 0.96%，纯碱跌 1.05%，烧碱跌 1.81%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143577"
-  },
-  {
-    "post": "Financial_Express/3143576",
-    "datetime": "2026-04-29T15:06:20+00:00",
-    "views": "82",
-    "text": "自然人陈发树新进成为伊利股份第九大股东\n据伊利股份一季报显示，自然人陈发树新进成为第九大股东，持有 6043.81 万股，占总股本比例 0.96%。陈发树为新华都实控人。据伊利股份今日收盘价 26.57 元/股计算，陈发树持有的 6043.81 万股总价值约 16 亿元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143576"
-  },
-  {
-    "post": "Financial_Express/3143575",
-    "datetime": "2026-04-29T15:05:58+00:00",
-    "views": "50",
-    "text": "加拿大央行副行长罗杰斯：不存在某一个通胀数据会让我们彻底改变自身观点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143575"
-  },
-  {
-    "post": "Financial_Express/3143574",
-    "datetime": "2026-04-29T15:05:57+00:00",
-    "views": "47",
-    "text": "加拿大央行高级副行长罗杰斯：某个单一的通胀数据不会让我们彻底改变看法。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143574"
-  },
-  {
-    "post": "Financial_Express/3143573",
-    "datetime": "2026-04-29T15:05:19+00:00",
-    "views": "45",
-    "text": "据伊利股份一季报显示，自然人陈发树新进成为第九大股东，持有 6043.81 万股，占总股本比例 0.96%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143573"
-  },
-  {
-    "post": "Financial_Express/3143572",
-    "datetime": "2026-04-29T15:05:17+00:00",
-    "views": "47",
-    "text": "乌克兰能源部长：美国将向乌克兰提供 1 亿美元，用于切尔诺贝利隔离设施修缮工程。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143572"
-  },
-  {
-    "post": "Financial_Express/3143570",
-    "datetime": "2026-04-29T15:04:58+00:00",
-    "views": "48",
-    "text": "28 日发表在《细胞》杂志上的一项新研究说，美国科研团队首次绘制出鼻腔嗅觉受体的详细空间分布图谱，填补了嗅觉机制研究中的重要空白。图谱显示，嗅觉受体在鼻腔中按类型高度有序分布。新发现为研发嗅觉丧失相关疗法提供了重要基础信息。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143570"
   }
 ]
