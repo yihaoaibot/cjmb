@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3150065",
+    "datetime": "2026-05-01T13:36:57+00:00",
+    "views": "2",
+    "text": "美银全球研究将苹果目标股价从 325 美元上调至 330 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150065"
+  },
+  {
+    "post": "Financial_Express/3150064",
+    "datetime": "2026-05-01T13:36:17+00:00",
+    "views": "13",
+    "text": "美国汽车工人联合会计划在斯特兰蒂斯密歇根州 Ram 1500 皮卡工厂举行罢工投票。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150064"
+  },
+  {
+    "post": "Financial_Express/3150063",
+    "datetime": "2026-05-01T13:35:58+00:00",
+    "views": "18",
+    "text": "高乐氏股价下跌 10%，创 2022 年以来最大单日跌幅。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150063"
+  },
+  {
+    "post": "Financial_Express/3150062",
+    "datetime": "2026-05-01T13:35:45+00:00",
+    "views": "22",
+    "text": "提醒：北京时间 21:45，将公布美国 4 月标普全球制造业 PMI 终值。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150062"
+  },
+  {
+    "post": "Financial_Express/3150060",
+    "datetime": "2026-05-01T13:34:58+00:00",
+    "views": "34",
+    "text": "2026 五一档档期票房破 2 亿\n据猫眼专业版数据， 截至 5 月 1 日 13 时 14 分，2026 年五一档（5 月 1 日-5 月 5 日）总票房破亿，《寒战 1994》《消失的人》《穿普拉达的女王 2》分列档期票房榜前三位。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150060"
+  },
+  {
+    "post": "Financial_Express/3150061",
+    "datetime": "2026-05-01T13:34:58+00:00",
+    "views": "33",
+    "text": "莫德纳股价在发布第一季度业绩后下跌 3.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150061"
+  },
+  {
+    "post": "Financial_Express/3150059",
+    "datetime": "2026-05-01T13:34:57+00:00",
+    "views": "34",
+    "text": "芝加哥期权交易所（CBOE）涨超 8%，第一季度利润上涨，公司计划裁员 20%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150059"
+  },
+  {
     "post": "Financial_Express/3150058",
     "datetime": "2026-05-01T13:34:17+00:00",
-    "views": "14",
+    "views": "41",
     "text": "芝加哥期权交易所全球市场公司股价在一季度利润增长、计划裁员 20%后创历史新高，最新上涨 8.3%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3150057",
     "datetime": "2026-05-01T13:33:59+00:00",
-    "views": "17",
+    "views": "42",
     "text": "高露洁-棕榄第一季度业绩超预期，股价上涨约 2%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3150056",
     "datetime": "2026-05-01T13:33:38+00:00",
-    "views": "23",
+    "views": "45",
     "text": "WTI 原油日内跌 3%，现报 101.90 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3150055",
     "datetime": "2026-05-01T13:33:37+00:00",
-    "views": "23",
+    "views": "45",
     "text": "费城半导体指数跌近 1%。英伟达(NVDA.O)涨 1.67%，台积电(TSM.N)跌 0.82%，博通(AVGO.O)跌 0.29%，美光科技(MU.O)跌 0.6%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3150053",
     "datetime": "2026-05-01T13:33:18+00:00",
-    "views": "26",
+    "views": "46",
     "text": "ROBLOX 股价暴跌 24%，创下 2022 年 2 月以来最大单日跌幅。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3150054",
     "datetime": "2026-05-01T13:33:18+00:00",
-    "views": "26",
+    "views": "46",
     "text": "WTI 原油失守 102 美元/桶，日内跌 2.98%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3150051",
     "datetime": "2026-05-01T13:33:17+00:00",
-    "views": "26",
+    "views": "46",
     "text": "布伦特原油失守 109 美元/桶，日内跌 1.28%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3150052",
     "datetime": "2026-05-01T13:33:17+00:00",
-    "views": "26",
+    "views": "47",
     "text": "纳斯达克综合指数首次突破 25000 点。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3150050",
     "datetime": "2026-05-01T13:32:58+00:00",
-    "views": "27",
+    "views": "46",
     "text": "标普 500 指数、纳斯达克综合指数盘初涨 0.37%、0.54%，二者同创记录新高。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3150049",
     "datetime": "2026-05-01T13:32:57+00:00",
-    "views": "27",
+    "views": "46",
     "text": "费城半导体指数开盘走低，最新下跌近 1%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3150048",
     "datetime": "2026-05-01T13:32:38+00:00",
-    "views": "30",
+    "views": "46",
     "text": "巴基斯坦官员：伊朗针对美方和平协议条款的最新答复已送达美方\n巴基斯坦官员称，伊朗针对美方和平协议条款的最新答复已送达美方官员手中。巴基斯坦官员周五向哥伦比亚广播公司（CBS）透露，伊朗针对美方最新停战条件给出了修订版回应，并已转达给美国官方。这也印证了伊朗官方媒体的报道：伊朗已提出新方案，至少愿意举行第二轮直接和平谈判。巴方官员表示，德黑兰通过巴基斯坦斡旋方，就美方在停战协议上提出的最新修改条件，向美方递交了一份修订答复。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3150047",
     "datetime": "2026-05-01T13:32:18+00:00",
-    "views": "31",
+    "views": "45",
     "text": "苹果股价上涨 3.9%，此前公司公布第三季度销售额预测高于市场预期。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3150046",
     "datetime": "2026-05-01T13:31:57+00:00",
-    "views": "35",
+    "views": "48",
     "text": "标普 500 指数高开 25.53 点，涨幅 0.35%，报 7234.54 点；\n道琼斯工业平均指数高开 180.43 点，涨幅 0.36%，报 49832.57 点；\n纳斯达克综合指数高开 85.48 点，涨幅 0.34%，报 24977.79 点。",
     "media_only": false,
     "image_url": null,
@@ -39715,95 +39778,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3143208"
-  },
-  {
-    "post": "Financial_Express/3143207",
-    "datetime": "2026-04-29T13:36:57+00:00",
-    "views": "41",
-    "text": "燃料电池概念股 Bloom Energy 开盘暴涨超 26%，续创历史新高。公司一季报大超预期，并因数据中心需求上调指引。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143207"
-  },
-  {
-    "post": "Financial_Express/3143206",
-    "datetime": "2026-04-29T13:36:34+00:00",
-    "views": "41",
-    "text": "布伦特原油日内涨幅达 5.0%，报 109.63 美元/桶；WTI 原油日内涨幅达 4.5%，报 104.43 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143206"
-  },
-  {
-    "post": "Financial_Express/3143205",
-    "datetime": "2026-04-29T13:36:17+00:00",
-    "views": "41",
-    "text": "网宿科技：CDN 调价前已与主要客户充分沟通 目前核心客户续签情况整体平稳\n网宿科技(300017)今日在业绩说明会上就问题“公司 CDN 业务提价后，是否会影响客户续签合同？”回复称，公司 CDN 调价基于行业带宽、运维及资源成本上行的市场化调整，调价前已与主要客户充分沟通，目前核心客户续签情况整体平稳。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143205"
-  },
-  {
-    "post": "Financial_Express/3143204",
-    "datetime": "2026-04-29T13:36:07+00:00",
-    "views": "41",
-    "text": "4 月 29 日，多位用户发现 DeepSeek 开启图片理解功能的灰度测试。具体来看，被灰度测试选中的用户的 DeepSeek 首页上会出现“识图模式”入口，当光标移动到该选项时，会出现“图片理解功能内测中”的字样。记者注意到，DeepSeek 研究员陈德里在其个人社交媒体上表示，“Now，we see you”（现在，我们看见你了）。(新京报)",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143204"
-  },
-  {
-    "post": "Financial_Express/3143203",
-    "datetime": "2026-04-29T13:36:05+00:00",
-    "views": "40",
-    "text": "美股盘初，主要行业 ETF 涨跌不一，全球航空业 ETF 跌超 1%，医疗业 ETF 跌近 1%，能源业 ETF 涨近 1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143203"
-  },
-  {
-    "post": "Financial_Express/3143202",
-    "datetime": "2026-04-29T13:36:00+00:00",
-    "views": "40",
-    "text": "美媒：伊朗战争 60 天“法律大限”临近，共和党拟讨论战争授权\n金十数据 4 月 29 日讯，据美国财经媒体 Semafor 报道，伊朗战争将在本周五（5 月 1 日）迎来 60 天战争权的关键节点。这令美国国会共和党人感到焦虑，他们正考虑就特朗普的战争权力进行重大公开辩论。部分共和党人厌倦了立法部门在行政部门面前退居次位，开始讨论是否依据《战争权力法》正式授权这场战争。犹他州参议员柯蒂斯表示：“这是大事。我们正在讨论如何回应。国会必须认识到自己的责任。”共和党人不会突然支持民主党停止敌对行动的提案，但认为国会不应继续袖手旁观。一位共和党参议员称：“许多人开始感到不安。”证据之一是四位共和党参议员周二提案削减摩洛哥化肥关税，以应对霍尔木兹海峡关闭导致的化肥涨价。缅因州参议员柯林斯强调：“60 天是触发点，《战争权力法》要求国会授权进一步军事行动。”美国政府可采取多种方式应对：启动 30 天撤军期争取时间（这实际上可以为政府争取到 6 月），辩称无需遵守法律条文，或主张停火不计入 60 天期限。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143202"
-  },
-  {
-    "post": "Financial_Express/3143200",
-    "datetime": "2026-04-29T13:35:38+00:00",
-    "views": "7",
-    "text": "以色列总理办公室：内塔尼亚胡总理预计下周不会前往美国，他正与好友特朗普总统保持频繁沟通。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143200"
-  },
-  {
-    "post": "Financial_Express/3143201",
-    "datetime": "2026-04-29T13:35:38+00:00",
-    "views": "8",
-    "text": "受美国将延长对伊朗港口封锁的消息影响，近月荷兰批发天然气价格上涨 5.52%，报每兆瓦时 46.00 欧元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143201"
-  },
-  {
-    "post": "Financial_Express/3143199",
-    "datetime": "2026-04-29T13:35:18+00:00",
-    "views": "7",
-    "text": "星巴克(SBUX.O)涨 4%，公司上调年度预测。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143199"
-  },
-  {
-    "post": "Financial_Express/3143198",
-    "datetime": "2026-04-29T13:35:06+00:00",
-    "views": "38",
-    "text": "兴化股份：股票被实施其他风险警示，公司股票自 2026 年 4 月 30 日开市起停牌一天，并于 2026 年 5 月 6 日开市起复牌，股票简称由“兴化股份”变更为“ST 兴化”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143198"
   }
 ]
