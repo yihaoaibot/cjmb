@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3150316",
+    "datetime": "2026-05-01T15:24:50+00:00",
+    "views": "1",
+    "text": "雪佛龙：公司因油价上涨而在委内瑞拉加速收回债务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150316"
+  },
+  {
+    "post": "Financial_Express/3150315",
+    "datetime": "2026-05-01T15:24:38+00:00",
+    "views": "3",
+    "text": "雪佛龙(CVX.N)CEO：由于油价上涨，公司在委内瑞拉的债务回收速度正在加快。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150315"
+  },
+  {
+    "post": "Financial_Express/3150314",
+    "datetime": "2026-05-01T15:24:19+00:00",
+    "views": "3",
+    "text": "美国将关闭其位于加沙的军民协调中心。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150314"
+  },
+  {
+    "post": "Financial_Express/3150312",
+    "datetime": "2026-05-01T15:24:18+00:00",
+    "views": "3",
+    "text": "文件显示，美国反垄断监管机构批准英特尔(INTC.O)收购 Sambanova Systems 交易。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150312"
+  },
+  {
+    "post": "Financial_Express/3150313",
+    "datetime": "2026-05-01T15:24:18+00:00",
+    "views": "3",
+    "text": "雪佛龙首席执行官：受油价上涨推动，公司正以更快速度收回在委内瑞拉的债务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150313"
+  },
+  {
+    "post": "Financial_Express/3150311",
+    "datetime": "2026-05-01T15:23:57+00:00",
+    "views": "3",
+    "text": "文件显示：美国反垄断监管机构批准英特尔收购 Sambanova Systems 交易。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150311"
+  },
+  {
+    "post": "Financial_Express/3150310",
+    "datetime": "2026-05-01T15:23:55+00:00",
+    "views": "3",
+    "text": "Shield AI Inc.融资 5.918 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150310"
+  },
+  {
+    "post": "Financial_Express/3150309",
+    "datetime": "2026-05-01T15:23:18+00:00",
+    "views": "34",
+    "text": "以色列国防军：以色列空军成功拦截了一枚向黎巴嫩南部以色列国防军士兵作战区域发射的火箭弹。根据协议，在空旷地区拉响了警报。在另一事件中，向黎巴嫩南部以色列国防军士兵作战区域识别到的可疑空中目标发射了一枚拦截导弹。拦截结果正在审查中。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3150309"
+  },
+  {
     "post": "Financial_Express/3150308",
     "datetime": "2026-05-01T15:21:17+00:00",
-    "views": "33",
+    "views": "66",
     "text": "美国制裁三个伊朗货币交易所。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3150307",
     "datetime": "2026-05-01T15:21:00+00:00",
-    "views": "33",
+    "views": "66",
     "text": "哈尔克岛：伊朗正向油轮装载原油，在该岛进行囤油储存。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +92,8 @@
   {
     "post": "Financial_Express/3150306",
     "datetime": "2026-05-01T15:20:22+00:00",
-    "views": "34",
-    "text": "甲骨文涨 6%，刷新日高。美国五角大楼称，甲骨文将加入 AI 计划。",
+    "views": "67",
+    "text": "甲骨文涨幅扩大至超过 6.3%，刷新日高至 171.49 美元。美国五角大楼称，甲骨文将加入 AI 计划。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3150306"
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3150305",
     "datetime": "2026-05-01T15:20:18+00:00",
-    "views": "34",
+    "views": "67",
     "text": "美国国防部发布关于 X 的帖子后，甲骨文股价攀升至盘中最高点 6%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3150304",
     "datetime": "2026-05-01T15:19:57+00:00",
-    "views": "34",
+    "views": "67",
     "text": "美国国防部在 X 平台发文，宣布甲骨文加入人工智能合作项目。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3150303",
     "datetime": "2026-05-01T15:19:18+00:00",
-    "views": "64",
+    "views": "67",
     "text": "美国财政部制裁伊朗人士 Mohammad Rezaei。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3150302",
     "datetime": "2026-05-01T15:17:38+00:00",
-    "views": "65",
+    "views": "127",
     "text": "阿塞拜疆国民议会停止与欧洲议会合作\n据阿塞拜疆国家新闻社报道，阿塞拜疆国民议会全体会议 5 月 1 日通过决议，停止与欧洲议会所有双边和多边议会间合作。报道说，阿塞拜疆国民议会已启动终止欧洲议会与东部伙伴关系国的议会间交往机制的程序。阿塞拜疆“报道”通讯社发布的阿国民议会决议指出，欧洲议会持续推行反阿塞拜疆政策，其立场已成为阿塞拜疆与其发展双边及多边合作关系的主要障碍。欧洲议会 4 月 30 日通过一项决议，重申支持纳戈尔诺－卡拉巴赫（纳卡）地区亚美尼亚人的权利，谴责阿塞拜疆扣押亚美尼亚人员。苏联解体后，阿塞拜疆和亚美尼亚因纳卡地区归属问题爆发战争。2023 年 12 月，双方发表联合声明，重申有意在尊重主权和领土完整原则基础上实现关系正常化并达成和平协议。2025 年 8 月，阿亚两国草签了《阿塞拜疆和亚美尼亚关于建立和平与国家间关系的协议》文本。此后，两国关系不断改善。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3150301",
     "datetime": "2026-05-01T15:17:31+00:00",
-    "views": "64",
+    "views": "97",
     "text": "美国警告航运公司：支付霍尔木兹海峡通行费将面临制裁风险。\n支付霍尔木兹海峡的通行费（即使是以慈善名义）将使其面临被制裁的风险。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3150300",
     "datetime": "2026-05-01T15:16:38+00:00",
-    "views": "94",
+    "views": "97",
     "text": "美国警告航运企业：即便以慈善形式缴纳通行费以获准通过霍尔木兹海峡，也会令其面临被制裁的风险。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3150299",
     "datetime": "2026-05-01T15:16:18+00:00",
-    "views": "94",
+    "views": "127",
     "text": "尽管印度曾请求特朗普政府不要采取相关行动，美国仍同意为巴基斯坦空军的 F-16 战机中队进行升级改造。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3150298",
     "datetime": "2026-05-01T15:15:58+00:00",
-    "views": "94",
+    "views": "127",
     "text": "白宫拒评有关伊朗回应细节\n金十数据 5 月 1 日讯，白宫：（在被问及伊朗向巴基斯坦提交提议一事时）我们不会透露私下外交对话的细节，谈判仍在继续。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3150297",
     "datetime": "2026-05-01T15:14:58+00:00",
-    "views": "96",
+    "views": "127",
     "text": "伊朗消息人士：伊朗对美国仍深感不信任\n据伊朗消息人士透露，目前尚不清楚伊朗最新的提议是否足以让双方重返谈判桌。如果美国解除对伊朗港口的封锁，并且伊朗完全重新开放霍尔木兹海峡，德黑兰可能会看到谈判重新启动。美国已明确表示，伊朗应无条件允许任何船只通过该海峡；目前尚不清楚伊朗最新的提议是否会做到这一步。",
     "media_only": false,
     "image_url": null,
@@ -38320,32 +38392,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3143619"
-  },
-  {
-    "post": "Financial_Express/3143618",
-    "datetime": "2026-04-29T15:24:17+00:00",
-    "views": "98",
-    "text": "美官员称美军在伊朗战事支出约为 250 亿美元\n当地时间 4 月 29 日，美国国防部官员表示，截至目前，美国在对伊朗战事中的支出约为 250 亿美元。负责财务的美国国防部代理副部长朱尔斯·赫斯特在众议院军事委员会听证会上表示，大部分开支用于弹药消耗，同时也包括作战行动支出及装备补充成本。他还指出，美国政府将在全面评估冲突成本后，通过白宫向国会提交追加预算申请。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143618"
-  },
-  {
-    "post": "Financial_Express/3143616",
-    "datetime": "2026-04-29T15:23:38+00:00",
-    "views": "94",
-    "text": "五角大楼称伊朗战事迄今“烧掉”250 亿美元\n金十数据 4 月 29 日讯，当地时间周三，五角大楼方面称，美国在伊朗冲突上已花费约 250 亿美元。在美众议院军事委员会的听证会上，美国国防部代理审计长赫斯特公布了这一迄今为止最完整的成本估算，并告知议员这笔钱大部分用于弹药。美国国防部长赫格塞思一同出席听证会作证词。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143616"
-  },
-  {
-    "post": "Financial_Express/3143617",
-    "datetime": "2026-04-29T15:23:38+00:00",
-    "views": "97",
-    "text": "日辰股份：股东拟减持不超 1%公司股份\n日辰股份(603755)4 月 29 日公告，股东浙江君弘资产管理有限公司-君弘钱江二十七期私募证券投资基金持有公司 5.02%股份，计划以集中竞价方式减持公司股份，减持数量不超过 98.61 万股，不超过公司总股本的 1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3143617"
   }
 ]
