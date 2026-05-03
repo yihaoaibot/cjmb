@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3152472",
+    "datetime": "2026-05-03T22:02:38+00:00",
+    "views": "10",
+    "text": "周一开盘，现货黄金高开 10 美元，报 4624.39 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152472"
+  },
+  {
+    "post": "Financial_Express/3152473",
+    "datetime": "2026-05-03T22:02:38+00:00",
+    "views": "10",
+    "text": "美国 10 年期国债期货上涨 5 个基点，30 年期国债期货上涨 8 个基点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152473"
+  },
+  {
+    "post": "Financial_Express/3152470",
+    "datetime": "2026-05-03T22:02:17+00:00",
+    "views": "13",
+    "text": "布伦特原油日内跌 2%，现报 105.99 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152470"
+  },
+  {
+    "post": "Financial_Express/3152471",
+    "datetime": "2026-05-03T22:02:17+00:00",
+    "views": "13",
+    "text": "纽约期金突破 4640 美元/盎司，日内跌 0.11%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152471"
+  },
+  {
+    "post": "Financial_Express/3152469",
+    "datetime": "2026-05-03T22:01:57+00:00",
+    "views": "16",
+    "text": "WTI 原油周一跳空低开 2.7%，最新报 101.02 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152469"
+  },
+  {
+    "post": "Financial_Express/3152468",
+    "datetime": "2026-05-03T22:01:37+00:00",
+    "views": "18",
+    "text": "WTI 原油日内跌 2%，现报 99.89 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152468"
+  },
+  {
+    "post": "Financial_Express/3152467",
+    "datetime": "2026-05-03T22:01:34+00:00",
+    "views": "19",
+    "text": "周一亚太盘初，布伦特原油期货跌 2.4%，WTI 原油期货跌 1.6%，美国打算引导船只通过霍尔木兹海峡。\n白银跌 0.9%，黄金跌 0.5%。\n美国三大股指期货涨 0.2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152467"
+  },
+  {
+    "post": "Financial_Express/3152465",
+    "datetime": "2026-05-03T22:01:18+00:00",
+    "views": "22",
+    "text": "WTI 原油日内跌 1%，现报 100.06 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152465"
+  },
+  {
+    "post": "Financial_Express/3152466",
+    "datetime": "2026-05-03T22:01:18+00:00",
+    "views": "22",
+    "text": "布伦特原油日内跌 1%，现报 106.18 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152466"
+  },
+  {
     "post": "Financial_Express/3152464",
     "datetime": "2026-05-03T22:00:57+00:00",
-    "views": "3",
+    "views": "22",
     "text": "布伦特原油价格下跌 2.4%，因美国计划引导船舶通过霍尔木兹海峡。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3152462",
     "datetime": "2026-05-03T22:00:17+00:00",
-    "views": "8",
+    "views": "23",
     "text": "美国联合航空一架客机在新泽西州纽瓦克机场降落前夕撞上一辆卡车。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3152461",
     "datetime": "2026-05-03T21:55:17+00:00",
-    "views": "49",
+    "views": "61",
     "text": "伊朗外交部发言人巴加埃表示，伊朗并未与美国讨论在霍尔木兹海峡联合排雷的相关问题，此类报道是媒体的“臆想”。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3152460",
     "datetime": "2026-05-03T21:53:17+00:00",
-    "views": "57",
+    "views": "68",
     "text": "欧洲天然气价格在交易周开始时下跌 2.8%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3152459",
     "datetime": "2026-05-03T21:52:43+00:00",
-    "views": "58",
+    "views": "68",
     "text": "欧洲天然气期货跌 2.8%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3152458",
     "datetime": "2026-05-03T21:52:37+00:00",
-    "views": "58",
+    "views": "67",
     "text": "德国总理默茨表示，德国与美国有着共同目标，绝不允许伊朗拥有核武器。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3152457",
     "datetime": "2026-05-03T21:43:24+00:00",
-    "views": "90",
+    "views": "95",
     "text": "美元兑日元跌超 0.2%，刷新日低至 156.70 日元下方。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3152456",
     "datetime": "2026-05-03T21:39:37+00:00",
-    "views": "95",
+    "views": "100",
     "text": "美国共和党参议员格雷厄姆：再次强调，我希望这场冲突能够通过外交手段结束，但现在是时候恢复航行自由，并在伊朗坚持恐怖行为时采取强硬回应。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3152455",
     "datetime": "2026-05-03T21:38:57+00:00",
-    "views": "98",
+    "views": "103",
     "text": "美国共和党参议员格雷厄姆：我很清楚，伊朗在谈判中玩弄把戏，因为他们就结束冲突的最后提议简直荒谬。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3152454",
     "datetime": "2026-05-03T21:37:57+00:00",
-    "views": "99",
+    "views": "103",
     "text": "美国共和党参议员格雷厄姆：我完全支持特朗普总统启动“自由计划”的决定，其目的是恢复霍尔木兹海峡的航行自由，这条通道对全球经济至关重要，但却被伊朗“恐怖主义”锁住。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +182,7 @@
   {
     "post": "Financial_Express/3152453",
     "datetime": "2026-05-03T21:33:37+00:00",
-    "views": "108",
+    "views": "111",
     "text": "英国政府：准备就加入欧盟向乌克兰提供的 780 亿英镑贷款计划展开磋商。",
     "media_only": false,
     "image_url": null,
@@ -14506,14 +14587,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3150840"
-  },
-  {
-    "post": "Financial_Express/3150839",
-    "datetime": "2026-05-01T22:01:56+00:00",
-    "views": "131",
-    "text": "纳斯达克生物科技指数收跌 1.09%，成分股 Summit Therapeutics Plc.收跌 24.91%，Syndax Pharmaceuticals 跌 10.83%，Oruka Therapeutics 跌 8.54%，Spyre Therapeutics 跌 6.76%。\nNovocure 则收涨 9.27%，Mineralys Therapeutics 涨 9.83%，Eton Pharmaceuticals 涨 19.82%，Esperion 涨 55.50%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3150839"
   }
 ]
