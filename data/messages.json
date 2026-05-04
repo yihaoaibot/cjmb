@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3154129",
+    "datetime": "2026-05-04T14:06:20+00:00",
+    "views": "8",
+    "text": "特斯拉在欧洲的反弹势头在 4 月份依然延续\n金十数据 5 月 4 日讯，4 月份，特斯拉(TSLA.O)汽车在多个欧洲市场的新车注册量延续了复苏势头：在瑞典、法国和丹麦，注册量翻了一倍以上；在荷兰也有所增长；但在挪威和西班牙则大幅下滑。在经历了连续两年的年度下滑之后，特斯拉今年迄今在欧洲的销量强劲反弹。这得益于较低的基数效应，以及在受伊朗战争引发的汽油价格飙升之后，消费者对燃油车替代品的兴趣日益浓厚。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3154129"
+  },
+  {
+    "post": "Financial_Express/3154128",
+    "datetime": "2026-05-04T14:05:56+00:00",
+    "views": "13",
+    "text": "美股存储概念股涨幅扩大，美光科技涨超 8％，闪迪涨 5％，西部数据涨超 3％。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3154128"
+  },
+  {
+    "post": "Financial_Express/3154127",
+    "datetime": "2026-05-04T14:05:38+00:00",
+    "views": "46",
+    "text": "中信建投：Agentic AI 重塑通用计算价值\n中信建投发布研报称，从预训练到强化学习与 Agentic AI，人工智能的范式演进推动了 CPU 需求量的显著提升。当 Agent 并发量超过传统 CPU 承载上限时，会出现请求队列堆积、工具调用超时、多轮推理循环延迟飙升等问题，在不同类型智能体任务中，CPU 在运行耗时和能耗占比上相较于 GPU 占据较高比重，成为 Agent 运行的主要瓶颈。过去在算力产业链价值分配上，CPU 被持续边缘化，而随着 AgenticAI 带来的 CPU 需求激增，叠加上游涨价与产能受限，导致今年以来全球 CPU 市场涨价及缺货持续加剧。Arm CEO Haas 指出，传统 AI 负载在每 GW 的数据中心容量下约需 3000 万个 CPU 核心，而在 Agentic AI 时代 CPU 核心需求将激增至每 GW 一亿两千万颗。同时在 Intel 在 2026Q1 财报电话会上表示未来的 CPU 与 GPU 配比将从现在的 8:1 提升至 1:1。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3154127"
+  },
+  {
     "post": "Financial_Express/3154126",
     "datetime": "2026-05-04T14:05:17+00:00",
-    "views": "1",
+    "views": "47",
     "text": "美国 3 月扣除飞机的非国防资本货物订单修正后为增长 3.4%；3 月装运数据维持初值，增长 1.2%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3154125",
     "datetime": "2026-05-04T14:04:59+00:00",
-    "views": "3",
+    "views": "48",
     "text": "美国 3 月计算机/电子产品订单增长 3.6%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3154124",
     "datetime": "2026-05-04T14:04:17+00:00",
-    "views": "38",
+    "views": "51",
     "text": "摩根大通最新调查显示，大多数小企业主未做好继任规划。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3154123",
     "datetime": "2026-05-04T14:03:18+00:00",
-    "views": "43",
+    "views": "55",
     "text": "印度信实工业表示，其烷基化装置目前正降负荷运行，以减少烷基化油出口。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3154122",
     "datetime": "2026-05-04T14:02:57+00:00",
-    "views": "44",
+    "views": "56",
     "text": "加拿大推出 10 亿加元贷款计划，援助受关税冲击的产业\n金十数据 5 月 4 日讯，加拿大政府周一宣布了一项总额达 10 亿加元（约合 7.3465 亿美元）的贷款计划，旨在向受美国关税影响的产业提供援助。政府在一份声明中表示：“该计划将面向那些生产并出口含有钢铁、铝或铜成分产品的产业。”声明还补充道，这笔贷款将通过加拿大开发银行发放。此外，政府还宣布向各区域发展机构拨款 5 亿加元，以支持所有受关税影响的行业。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3154121",
     "datetime": "2026-05-04T14:02:38+00:00",
-    "views": "47",
+    "views": "59",
     "text": "欧洲央行银行监管委员会主席布赫：降低资本要求可能只是导致对股东的分配增加，而不是更多的贷款。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3154120",
     "datetime": "2026-05-04T14:02:18+00:00",
-    "views": "49",
+    "views": "90",
     "text": "美国艺电：Visa 与 EA SPORTS FC 及 EA SPORTS 大学橄榄球达成合作，推出游戏内奖励。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3154119",
     "datetime": "2026-05-04T14:01:57+00:00",
-    "views": "48",
+    "views": "89",
     "text": "CIRCLE 公告：法国 Circle 已获批准可在欧盟提供加密资产服务。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3154118",
     "datetime": "2026-05-04T14:01:37+00:00",
-    "views": "48",
+    "views": "89",
     "text": "艺电与维萨合作聚焦 EA 体育系列业务。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3154117",
     "datetime": "2026-05-04T14:01:17+00:00",
-    "views": "48",
+    "views": "89",
     "text": "泰森食品首席执行官：我们正处于牛供应下滑的谷底，对此我们无能为力。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3154116",
     "datetime": "2026-05-04T14:01:00+00:00",
-    "views": "49",
+    "views": "88",
     "text": "印度信实工业表示，目前其液化石油气（LPG）产量已实现最大化，较伊朗冲突前水平提升了两倍多。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3154113",
     "datetime": "2026-05-04T14:00:59+00:00",
-    "views": "49",
+    "views": "54",
     "text": "金十图示：2026 年 05 月 04 日（周一）全球股市指数-美洲市场（盘初）",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3154114",
     "datetime": "2026-05-04T14:00:59+00:00",
-    "views": "49",
+    "views": "87",
     "text": "艺电与维萨合作推出新伙伴关系。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3154115",
     "datetime": "2026-05-04T14:00:59+00:00",
-    "views": "49",
+    "views": "88",
     "text": "艺电（EA）与维萨（Visa）达成战略合作。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3154112",
     "datetime": "2026-05-04T14:00:58+00:00",
-    "views": "47",
+    "views": "52",
     "text": "美国 3 月扣除国防的工厂订单月率 0.9%，前值 0.1%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3154111",
     "datetime": "2026-05-04T14:00:37+00:00",
-    "views": "48",
+    "views": "52",
     "text": "美国 3 月工厂订单月率 1.5%，预期 0.5%，前值由 0.00%修正为 0.3%。\n美国 3 月扣除运输的工厂订单月率 1.6%，前值由 1.20%修正为 1.6%。\n美国 3 月耐用品订单月率终值 0.8%，前值 0.80%。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +182,7 @@
   {
     "post": "Financial_Express/3154110",
     "datetime": "2026-05-04T14:00:18+00:00",
-    "views": "48",
+    "views": "52",
     "text": "美国 3 月耐用品订单月率终值 0.8%，前值 0.80%。",
     "media_only": false,
     "image_url": null,
@@ -24766,14 +24793,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3151364"
-  },
-  {
-    "post": "Financial_Express/3151363",
-    "datetime": "2026-05-02T14:06:19+00:00",
-    "views": "115",
-    "text": "忠实航空旅行公司：对与精神航空航线重叠的航班实施临时票价冻结。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3151363"
   }
 ]
