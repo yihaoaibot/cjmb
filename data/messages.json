@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3153812",
+    "datetime": "2026-05-04T12:11:18+00:00",
+    "views": "1",
+    "text": "特朗普政府担忧涉密 AI 产能不足 拟加快谷歌 TPU 安全审批流程\n谷歌母公司 Alphabet 首席执行官桑达尔・皮查伊于周四到访白宫，与特朗普政府多名高层官员举行了一系列高规格关键会晤。 据报道，会晤背后另有核心议题：美方担忧人工智能算力产能不足，政府难以储备充足的人工智能运算资源以维系自身国防安全体系。 此番担忧源于人工智能公司 Anthropic 推出的 Claude Mythos 前瞻大模型，该模型仅向数十家企业及政府机构开放使用权限。Anthropic 称限量发布是出于安全优先考量，但此举却引发了美国政界及华府圈层的普遍不安。这也为谷歌、OpenAI 等企业带来了契机。尽管政府看似在缓和与 Anthropic 的关系，但同时希望借助谷歌双子座大模型、OpenAI 的 GPT 系列模型及其他前沿人工智能技术，降低对 Claude 模型的依赖。据了解，谷歌目前面临一大难题：其自研人工智能处理芯片张量处理器（TPU）无法适配部分涉密业务场景。而 Anthropic 之所以成为政府的便捷选择，核心在于其模型大多运行在亚马逊云科技平台上；亚马逊已投入数十亿美元，拿下业内最高等级的 6 级安全认证资质。 当前美国政府正多方寻求路径，为谷歌张量处理器加速推进同等安全资质审批流程。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3153812"
+  },
+  {
+    "post": "Financial_Express/3153811",
+    "datetime": "2026-05-04T12:09:58+00:00",
+    "views": "8",
+    "text": "礼来公司股价盘前下跌 3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3153811"
+  },
+  {
     "post": "Financial_Express/3153809",
     "datetime": "2026-05-04T12:08:39+00:00",
-    "views": "4",
+    "views": "39",
     "text": "黎巴嫩议会议长拒绝与以色列进行谈判，除非战争结束。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3153810",
     "datetime": "2026-05-04T12:08:39+00:00",
-    "views": "4",
+    "views": "39",
     "text": "黎巴嫩议长拒绝在战争停止前与以色列进行谈判。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3153808",
     "datetime": "2026-05-04T12:07:58+00:00",
-    "views": "5",
+    "views": "39",
     "text": "欧莱雅与 Adeia 签署多年许可协议。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3153807",
     "datetime": "2026-05-04T12:05:37+00:00",
-    "views": "37",
+    "views": "40",
     "text": "应用数字公司宣布获得 3 亿美元高级担保过渡融资授信，设立过渡贷款额度，用于投建第三座人工智能数据中心。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3153806",
     "datetime": "2026-05-04T12:04:18+00:00",
-    "views": "49",
+    "views": "51",
     "text": "礼来加拿大公司旗下 Kisunla 药物获加拿大卫生部批准上市。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3153805",
     "datetime": "2026-05-04T12:04:17+00:00",
-    "views": "49",
+    "views": "51",
     "text": "礼来加拿大公司获加拿大卫生部批准，推出 Kisunla。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3153804",
     "datetime": "2026-05-04T12:03:58+00:00",
-    "views": "54",
+    "views": "56",
     "text": "埃及旅游部长：2026 年一季度埃及入境游客人数达 650 万人次。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3153803",
     "datetime": "2026-05-04T12:03:57+00:00",
-    "views": "54",
+    "views": "56",
     "text": "埃及 2026 年第一季度游客到达量为 650 万。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3153802",
     "datetime": "2026-05-04T12:03:20+00:00",
-    "views": "59",
+    "views": "61",
     "text": "Alphabet 与美国官员周四会谈中讨论了人工智能“产能”。（纽约时报）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3153801",
     "datetime": "2026-05-04T12:02:51+00:00",
-    "views": "70",
+    "views": "72",
     "text": "eBay 确认收到 GameStop 主动发起的收购要约。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3153799",
     "datetime": "2026-05-04T12:02:38+00:00",
-    "views": "39",
+    "views": "71",
     "text": "eBay：在收到提案前，从未与游戏驿站进行任何谈判及接触沟通。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3153800",
     "datetime": "2026-05-04T12:02:38+00:00",
-    "views": "40",
+    "views": "72",
     "text": "Strategy：截至 5 月 3 日，持有 818,334 枚比特币，总收购成本为 618.1 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3153798",
     "datetime": "2026-05-04T12:02:37+00:00",
-    "views": "41",
+    "views": "73",
     "text": "美国政府正在寻求方法，以帮助加快对谷歌 TPU 的类似审批流程。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3153796",
     "datetime": "2026-05-04T12:01:38+00:00",
-    "views": "50",
+    "views": "82",
     "text": "eBay：建议股东目前暂不采取任何行动。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3153797",
     "datetime": "2026-05-04T12:01:38+00:00",
-    "views": "49",
+    "views": "81",
     "text": "美国正寻求为谷歌 TPU 芯片加速审批流程。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3153795",
     "datetime": "2026-05-04T12:01:37+00:00",
-    "views": "49",
+    "views": "81",
     "text": "Alphabet(GOOG.O)在上周四的会议中与政府官员会面，以解决华盛顿日益关注的问题，即人工智能计算能力不足。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3153794",
     "datetime": "2026-05-04T12:01:18+00:00",
-    "views": "48",
+    "views": "80",
     "text": "Strategy 未在 4 月 27 日至 5 月 3 日期间购入比特币。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3153793",
     "datetime": "2026-05-04T12:00:57+00:00",
-    "views": "51",
+    "views": "83",
     "text": "eBay：董事会将评估相关提案，重点考量对股东的价值回报。",
     "media_only": false,
     "image_url": null,
@@ -22705,32 +22723,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3151276"
-  },
-  {
-    "post": "Financial_Express/3151275",
-    "datetime": "2026-05-02T12:10:37+00:00",
-    "views": "59",
-    "text": "伯克希尔哈撒韦 A(BRK.A.N)：截至 2026 年 3 月 31 日，保险浮存金约为 1,769 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3151275"
-  },
-  {
-    "post": "Financial_Express/3151274",
-    "datetime": "2026-05-02T12:09:57+00:00",
-    "views": "61",
-    "text": "伯克希尔哈撒韦 A(BRK.A.N)：截至 2026 年 3 月 31 日，已发行 A 类股等值股份为 1,437,903 股。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3151274"
-  },
-  {
-    "post": "Financial_Express/3151273",
-    "datetime": "2026-05-02T12:09:37+00:00",
-    "views": "61",
-    "text": "伯克希尔截至 2026 年 3 月 31 日，公司流通在外的 A 类等价股份共计 1,437,903 股。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3151273"
   }
 ]
