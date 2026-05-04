@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3154134",
+    "datetime": "2026-05-04T14:08:59+00:00",
+    "views": "3",
+    "text": "一艘韩国籍船只在霍尔木兹海峡发生爆炸并起火。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3154134"
+  },
+  {
+    "post": "Financial_Express/3154133",
+    "datetime": "2026-05-04T14:08:58+00:00",
+    "views": "3",
+    "text": "巴西财长杜里甘：政府的债务重组计划将涵盖消费者、学生、农村和企业债务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3154133"
+  },
+  {
+    "post": "Financial_Express/3154132",
+    "datetime": "2026-05-04T14:08:17+00:00",
+    "views": "6",
+    "text": "Jazwares 首席执行官 David Neustein 接受采访时表示，尽管宏观经济存在不确定性，但公司正通过创新和 AI 技术驱动增长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3154132"
+  },
+  {
+    "post": "Financial_Express/3154131",
+    "datetime": "2026-05-04T14:07:39+00:00",
+    "views": "39",
+    "text": "巴西财长：政府债务重组计划将涵盖消费者债务、学生债务、农村债务与企业债务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3154131"
+  },
+  {
+    "post": "Financial_Express/3154130",
+    "datetime": "2026-05-04T14:07:38+00:00",
+    "views": "41",
+    "text": "西班牙官员：若美方违反贸易协定，欧盟将予以对等反击\n金十数据 5 月 4 日讯，西班牙经济大臣周一表示，对于去年夏天与美国签署的贸易协定中出现的任何违约行为，欧盟保留动用其所掌握的一切手段予以反击的权利。在布鲁塞尔举行的欧元集团财长会议召开前夕，卡洛斯·库埃尔波表示，他希望华盛顿方面能信守 2025 年的贸易协定承诺。美国总统特朗普于上周五宣称，他将把针对欧洲进口汽车和卡车的关税税率从此前商定的 15%上调至 25%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3154130"
+  },
+  {
     "post": "Financial_Express/3154129",
     "datetime": "2026-05-04T14:06:20+00:00",
-    "views": "8",
+    "views": "46",
     "text": "特斯拉在欧洲的反弹势头在 4 月份依然延续\n金十数据 5 月 4 日讯，4 月份，特斯拉(TSLA.O)汽车在多个欧洲市场的新车注册量延续了复苏势头：在瑞典、法国和丹麦，注册量翻了一倍以上；在荷兰也有所增长；但在挪威和西班牙则大幅下滑。在经历了连续两年的年度下滑之后，特斯拉今年迄今在欧洲的销量强劲反弹。这得益于较低的基数效应，以及在受伊朗战争引发的汽油价格飙升之后，消费者对燃油车替代品的兴趣日益浓厚。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3154128",
     "datetime": "2026-05-04T14:05:56+00:00",
-    "views": "13",
+    "views": "50",
     "text": "美股存储概念股涨幅扩大，美光科技涨超 8％，闪迪涨 5％，西部数据涨超 3％。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3154127",
     "datetime": "2026-05-04T14:05:38+00:00",
-    "views": "46",
+    "views": "53",
     "text": "中信建投：Agentic AI 重塑通用计算价值\n中信建投发布研报称，从预训练到强化学习与 Agentic AI，人工智能的范式演进推动了 CPU 需求量的显著提升。当 Agent 并发量超过传统 CPU 承载上限时，会出现请求队列堆积、工具调用超时、多轮推理循环延迟飙升等问题，在不同类型智能体任务中，CPU 在运行耗时和能耗占比上相较于 GPU 占据较高比重，成为 Agent 运行的主要瓶颈。过去在算力产业链价值分配上，CPU 被持续边缘化，而随着 AgenticAI 带来的 CPU 需求激增，叠加上游涨价与产能受限，导致今年以来全球 CPU 市场涨价及缺货持续加剧。Arm CEO Haas 指出，传统 AI 负载在每 GW 的数据中心容量下约需 3000 万个 CPU 核心，而在 Agentic AI 时代 CPU 核心需求将激增至每 GW 一亿两千万颗。同时在 Intel 在 2026Q1 财报电话会上表示未来的 CPU 与 GPU 配比将从现在的 8:1 提升至 1:1。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3154126",
     "datetime": "2026-05-04T14:05:17+00:00",
-    "views": "47",
+    "views": "53",
     "text": "美国 3 月扣除飞机的非国防资本货物订单修正后为增长 3.4%；3 月装运数据维持初值，增长 1.2%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3154125",
     "datetime": "2026-05-04T14:04:59+00:00",
-    "views": "48",
+    "views": "54",
     "text": "美国 3 月计算机/电子产品订单增长 3.6%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3154124",
     "datetime": "2026-05-04T14:04:17+00:00",
-    "views": "51",
+    "views": "86",
     "text": "摩根大通最新调查显示，大多数小企业主未做好继任规划。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3154123",
     "datetime": "2026-05-04T14:03:18+00:00",
-    "views": "55",
+    "views": "89",
     "text": "印度信实工业表示，其烷基化装置目前正降负荷运行，以减少烷基化油出口。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3154122",
     "datetime": "2026-05-04T14:02:57+00:00",
-    "views": "56",
+    "views": "90",
     "text": "加拿大推出 10 亿加元贷款计划，援助受关税冲击的产业\n金十数据 5 月 4 日讯，加拿大政府周一宣布了一项总额达 10 亿加元（约合 7.3465 亿美元）的贷款计划，旨在向受美国关税影响的产业提供援助。政府在一份声明中表示：“该计划将面向那些生产并出口含有钢铁、铝或铜成分产品的产业。”声明还补充道，这笔贷款将通过加拿大开发银行发放。此外，政府还宣布向各区域发展机构拨款 5 亿加元，以支持所有受关税影响的行业。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3154121",
     "datetime": "2026-05-04T14:02:38+00:00",
-    "views": "59",
+    "views": "91",
     "text": "欧洲央行银行监管委员会主席布赫：降低资本要求可能只是导致对股东的分配增加，而不是更多的贷款。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3154120",
     "datetime": "2026-05-04T14:02:18+00:00",
-    "views": "90",
+    "views": "92",
     "text": "美国艺电：Visa 与 EA SPORTS FC 及 EA SPORTS 大学橄榄球达成合作，推出游戏内奖励。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3154119",
     "datetime": "2026-05-04T14:01:57+00:00",
-    "views": "89",
+    "views": "92",
     "text": "CIRCLE 公告：法国 Circle 已获批准可在欧盟提供加密资产服务。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3154118",
     "datetime": "2026-05-04T14:01:37+00:00",
-    "views": "89",
+    "views": "92",
     "text": "艺电与维萨合作聚焦 EA 体育系列业务。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3154117",
     "datetime": "2026-05-04T14:01:17+00:00",
-    "views": "89",
+    "views": "91",
     "text": "泰森食品首席执行官：我们正处于牛供应下滑的谷底，对此我们无能为力。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3154116",
     "datetime": "2026-05-04T14:01:00+00:00",
-    "views": "88",
+    "views": "90",
     "text": "印度信实工业表示，目前其液化石油气（LPG）产量已实现最大化，较伊朗冲突前水平提升了两倍多。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +191,7 @@
   {
     "post": "Financial_Express/3154115",
     "datetime": "2026-05-04T14:00:59+00:00",
-    "views": "88",
+    "views": "90",
     "text": "艺电（EA）与维萨（Visa）达成战略合作。",
     "media_only": false,
     "image_url": null,
@@ -24784,14 +24829,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3151365"
-  },
-  {
-    "post": "Financial_Express/3151364",
-    "datetime": "2026-05-02T14:07:18+00:00",
-    "views": "118",
-    "text": "Allegiant Travel Co.：截至 5 月 12 日，精神航空客户预订符合活动要求的忠实航空产品，可通过 Allways 奖励计划获得 50%返还积分。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3151364"
   }
 ]
