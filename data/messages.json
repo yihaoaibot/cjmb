@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3152585",
+    "datetime": "2026-05-04T00:32:38+00:00",
+    "views": "4",
+    "text": "三星电子：更换电视部门负责人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152585"
+  },
+  {
+    "post": "Financial_Express/3152584",
+    "datetime": "2026-05-04T00:32:17+00:00",
+    "views": "5",
+    "text": "游戏驿站正式宣布，出价每股 125 美元收购 eBay。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152584"
+  },
+  {
+    "post": "Financial_Express/3152583",
+    "datetime": "2026-05-04T00:32:15+00:00",
+    "views": "5",
+    "text": "游戏驿站（GameStop）：提议以每股 125 美元的价格收购 eBay，收购方式为现金加股票。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152583"
+  },
+  {
+    "post": "Financial_Express/3152582",
+    "datetime": "2026-05-04T00:31:37+00:00",
+    "views": "9",
+    "text": "机器人初创企业灵心巧手(Linkerbot)表示，公司将在下一轮融资中寻求 60 亿美元的估值，是刚刚完成的融资轮估值的两倍。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152582"
+  },
+  {
+    "post": "Financial_Express/3152581",
+    "datetime": "2026-05-04T00:31:17+00:00",
+    "views": "10",
+    "text": "标普全球韩国 4 月制造业采购经理人指数升至 2022 年 2 月以来最高水平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3152581"
+  },
+  {
     "post": "Financial_Express/3152580",
     "datetime": "2026-05-04T00:30:58+00:00",
-    "views": "6",
+    "views": "14",
     "text": "标普全球印尼 4 月制造业采购经理人指数（PMI）为 49.1，低于 3 月的 50.1。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3152579",
     "datetime": "2026-05-04T00:30:57+00:00",
-    "views": "6",
+    "views": "14",
     "text": "标普全球马来西亚 4 月制造业采购经理人指数（PMI）为 51.6，高于 3 月的 50.7。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3152578",
     "datetime": "2026-05-04T00:30:39+00:00",
-    "views": "9",
+    "views": "15",
     "text": "标普全球菲律宾 4 月制造业采购经理人指数（PMI）为 48.3，低于 3 月的 51.3。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3152577",
     "datetime": "2026-05-04T00:30:38+00:00",
-    "views": "9",
+    "views": "15",
     "text": "标普全球越南 4 月制造业采购经理人指数（PMI）为 50.5，低于 3 月的 51.2。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3152574",
     "datetime": "2026-05-04T00:30:18+00:00",
-    "views": "11",
+    "views": "46",
     "text": "中国台湾 4 月日经制造业 PMI 55.3，前值 53.3。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3152575",
     "datetime": "2026-05-04T00:30:18+00:00",
-    "views": "11",
+    "views": "46",
     "text": "越南 4 月标普全球越南制造业 PMI\n 50.5，前值 51.2。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3152576",
     "datetime": "2026-05-04T00:30:18+00:00",
-    "views": "11",
+    "views": "46",
     "text": "标普全球韩国 4 月制造业采购经理人指数（PMI）为 53.6，高于 3 月的 52.6。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3152573",
     "datetime": "2026-05-04T00:30:17+00:00",
-    "views": "11",
+    "views": "46",
     "text": "韩国 4 月汇丰制造业 PMI 53.6，前值 52.6。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3152571",
     "datetime": "2026-05-04T00:30:00+00:00",
-    "views": "11",
+    "views": "46",
     "text": "韩国 4 月制造业 PMI 53.6，前值 52.6。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3152572",
     "datetime": "2026-05-04T00:30:00+00:00",
-    "views": "11",
+    "views": "46",
     "text": "越南 4 月制造业 PMI 50.5，前值 51.2。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3152570",
     "datetime": "2026-05-04T00:28:58+00:00",
-    "views": "44",
+    "views": "48",
     "text": "中国机器人初创公司灵心巧手（Linkerbot）计划在上周的融资轮中将其估值从 30 亿美元增加一倍。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3152569",
     "datetime": "2026-05-04T00:28:57+00:00",
-    "views": "44",
+    "views": "48",
     "text": "大和资本市场将三星电子目标股价从 24.5 万韩元上调至 32.5 万韩元 。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3152568",
     "datetime": "2026-05-04T00:27:17+00:00",
-    "views": "52",
+    "views": "56",
     "text": "ASMPT 将以 1.2 亿美元的价格把 ASMPT NEXX 出售给应用材料公司。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3152567",
     "datetime": "2026-05-04T00:26:38+00:00",
-    "views": "59",
+    "views": "62",
     "text": "中钢协：4 月下旬 21 个城市 5 大品种钢材社会库存 1022 万吨，下降 3.6%\n据中钢协报告，4 月下旬，21 个城市 5 大品种钢材社会库存 1022 万吨，环比减少 38 万吨，下降 3.6%，库存继续下降；比年初增加 301 万吨，上升 41.7%；比上年同期增加 137 万吨，上升 15.5%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3152566",
     "datetime": "2026-05-04T00:26:00+00:00",
-    "views": "74",
+    "views": "76",
     "text": "五一假期最后两天（5 月 4 日至 5 日），我国大部降水较少，利于假期返程，华南部分地区降雨频繁，公众雨天出行留意交通安全。随着降雨减少、冷空气影响结束，未来三天，我国中东部等地将开启升温进程，多地将现今年首个 30℃，热意冒头。（央视）",
     "media_only": false,
     "image_url": null,
@@ -14938,23 +14983,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3150908"
-  },
-  {
-    "post": "Financial_Express/3150907",
-    "datetime": "2026-05-02T00:31:58+00:00",
-    "views": "101",
-    "text": "特朗普谈伊朗问题：或许不达成协议更好。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3150907"
-  },
-  {
-    "post": "Financial_Express/3150906",
-    "datetime": "2026-05-02T00:31:57+00:00",
-    "views": "100",
-    "text": "美国批准向中东国家出售近 90 亿美元武器\n美国国务卿鲁比奥批准向以色列、科威特、卡塔尔和阿联酋快速转让武器，绕过国会的标准审查程序，将防空导弹和激光制导系统等武器迅速运往中东，因为伊朗冲突停火似乎越来越脆弱。据美国国务院称，这些协议总额接近 90 亿美元。该部门批准向以色列出售多达 10,000 发先进精确杀伤武器系统-II 型全效弹药，价值 9.924 亿美元；向科威特出售价值高达 25 亿美元的综合作战指挥系统及相关设备。；向卡塔尔出售至多 200 枚“爱国者”先进能力-2 型（PAC-2）制导增强型导弹战术拦截器（GEM-T）和 300 枚 PAC-3 导弹段增强型拦截器及相关设备，总价值高达 40.1 亿美元；向卡塔尔出售 10000 枚 APKWS-II 全套先进弹药（单一型号）及相关设备，最高潜在价值为 9.924 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3150906"
   }
 ]
