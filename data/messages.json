@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3153614",
+    "datetime": "2026-05-04T10:22:38+00:00",
+    "views": "4",
+    "text": "裕信银行股东批准增资，为收购德国商业银行铺路。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3153614"
+  },
+  {
+    "post": "Financial_Express/3153612",
+    "datetime": "2026-05-04T10:22:37+00:00",
+    "views": "4",
+    "text": "WTI 原油日内涨 6.00%，现报 108.28 美元/桶。此前有报道称伊朗袭击美国军舰。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3153612"
+  },
+  {
+    "post": "Financial_Express/3153613",
+    "datetime": "2026-05-04T10:22:37+00:00",
+    "views": "4",
+    "text": "纽约期金失守 4540 美元/盎司，日内跌 2.25%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3153613"
+  },
+  {
+    "post": "Financial_Express/3153611",
+    "datetime": "2026-05-04T10:22:18+00:00",
+    "views": "5",
+    "text": "纽约期银失守 73 美元/盎司，日内跌 4.73%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3153611"
+  },
+  {
+    "post": "Financial_Express/3153610",
+    "datetime": "2026-05-04T10:22:17+00:00",
+    "views": "5",
+    "text": "意大利两年期国债收益率上涨 9 个基点，至 2.94%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3153610"
+  },
+  {
+    "post": "Financial_Express/3153609",
+    "datetime": "2026-05-04T10:21:58+00:00",
+    "views": "8",
+    "text": "斯里兰卡 4 月份游客到访量同比下降 22.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3153609"
+  },
+  {
+    "post": "Financial_Express/3153607",
+    "datetime": "2026-05-04T10:21:38+00:00",
+    "views": "10",
+    "text": "斯里兰卡四月游客到访量为 135,643 人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3153607"
+  },
+  {
+    "post": "Financial_Express/3153608",
+    "datetime": "2026-05-04T10:21:38+00:00",
+    "views": "10",
+    "text": "WTI 原油日内涨 5%，现报 107.04 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3153608"
+  },
+  {
+    "post": "Financial_Express/3153606",
+    "datetime": "2026-05-04T10:21:37+00:00",
+    "views": "10",
+    "text": "布伦特原油突破 114 美元/桶，日内涨 5.39%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3153606"
+  },
+  {
     "post": "Financial_Express/3153605",
     "datetime": "2026-05-04T10:20:58+00:00",
-    "views": "2",
+    "views": "41",
     "text": "WTI 原油突破 107 美元/桶，日内涨 4.96%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3153604",
     "datetime": "2026-05-04T10:20:57+00:00",
-    "views": "2",
+    "views": "41",
     "text": "特朗普威胁上调欧盟关税 欧方称此举针对德国车企\n金十数据 5 月 4 日讯，当地时间 4 日，针对美国总统特朗普威胁在本周提高欧盟输美汽车关税，欧洲议会贸易委员会主席贝恩德·朗格表示，特朗普决定对欧盟汽车征收 25%的关税是出于政治动机，并且直接针对德国汽车制造商。朗格表示：“这些关税既没有法律依据，也没有经济理由。这完全是出于政治目的，针对的是德国。目标就是德国汽车制造商。”",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3153603",
     "datetime": "2026-05-04T10:20:39+00:00",
-    "views": "3",
+    "views": "42",
     "text": "佛得角卫生部门：已筹备所有必要预防措施，其中包括安排医疗救援飞机转运接受医学观察患者的空中医疗后送预案。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3153601",
     "datetime": "2026-05-04T10:20:38+00:00",
-    "views": "3",
+    "views": "42",
     "text": "波兰总理图斯克：英波条约旨在深化双边关系，尤其聚焦安全领域合作。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3153602",
     "datetime": "2026-05-04T10:20:38+00:00",
-    "views": "3",
+    "views": "42",
     "text": "彭博美元现货指数上涨 0.2%，创日内新高。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3153600",
     "datetime": "2026-05-04T10:20:18+00:00",
-    "views": "4",
+    "views": "43",
     "text": "德国两年期国债收益率上涨 7.5 个基点，至 2.71%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3153599",
     "datetime": "2026-05-04T10:20:17+00:00",
-    "views": "4",
+    "views": "43",
     "text": "泽连斯基：今年夏天将是普京决定下一步行动的时刻：是扩大战争还是转向外交。我们必须推动他走向外交。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3153598",
     "datetime": "2026-05-04T10:19:57+00:00",
-    "views": "5",
+    "views": "44",
     "text": "德国两年期国债收益率上升 7.5 个基点，至 2.71%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3153597",
     "datetime": "2026-05-04T10:19:37+00:00",
-    "views": "36",
+    "views": "45",
     "text": "花旗集团将 Roblox 目标股价从 90 美元下调至 70 美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3153595",
     "datetime": "2026-05-04T10:19:19+00:00",
-    "views": "38",
+    "views": "47",
     "text": "佛得角卫生部门：正在准备一架空中救护飞机，以备在需要医疗转运时使用。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +182,7 @@
   {
     "post": "Financial_Express/3153596",
     "datetime": "2026-05-04T10:19:19+00:00",
-    "views": "38",
+    "views": "47",
     "text": "Rallybio 股价在盘前交易中大涨 50.5%，报 14.14 美元，此前优时比提出以 22 亿美元收购该公司一款在研药物。",
     "media_only": false,
     "image_url": null,
