@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3154659",
+    "datetime": "2026-05-04T19:00:57+00:00",
+    "views": "4",
+    "text": "美国汽车工人联合会：凯斯纽荷兰拉辛工厂的联合会成员已达成临时协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3154659"
+  },
+  {
+    "post": "Financial_Express/3154658",
+    "datetime": "2026-05-04T19:00:37+00:00",
+    "views": "5",
+    "text": "美国参议员沃伦：参议院下周不应投票确认凯文·沃什的任命。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3154658"
+  },
+  {
+    "post": "Financial_Express/3154657",
+    "datetime": "2026-05-04T19:00:34+00:00",
+    "views": "5",
+    "text": "恒生指数主连夜盘收跌 0.47%，报 25885 点。\n恒生科技指数主连夜盘收跌 0.26%，报 4972 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3154657"
+  },
+  {
+    "post": "Financial_Express/3154656",
+    "datetime": "2026-05-04T19:00:17+00:00",
+    "views": "6",
+    "text": "恒指期货夜盘收跌 0.29%，报 25819.90 点，低水 275.98 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3154656"
+  },
+  {
+    "post": "Financial_Express/3154655",
+    "datetime": "2026-05-04T18:59:45+00:00",
+    "views": "42",
+    "text": "美国参议院民主党成员 Warren：参议院下周应当全体表决凯文·沃什的美联储主席提名资格。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3154655"
+  },
+  {
     "post": "Financial_Express/3154654",
     "datetime": "2026-05-04T18:58:47+00:00",
-    "views": "10",
+    "views": "51",
     "text": "伊朗塔斯尼姆通讯社当地时间 5 月 4 日晚援引一名伊朗军方消息人士的话报道说，“如果阿联酋成为以色列的‘棋子’，犯下错误，他们将得到永远不会忘记的教训。”这名消息人士强调，如果阿联酋“采取不理智的行动”，其所有利益“都将成为伊朗的目标”，任何阿联酋设施“都不会安全”。 (CCTV 国际时讯)",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3154653",
     "datetime": "2026-05-04T18:58:22+00:00",
-    "views": "18",
+    "views": "55",
     "text": "美联储威廉姆斯：通胀走高，推迟了 FOMC 降息。\n利率在某时需要下调。\n没有看到任何加息理由。\n对 FOMC 利率决议声明的措辞“非常放心”。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3154652",
     "datetime": "2026-05-04T18:57:57+00:00",
-    "views": "48",
+    "views": "55",
     "text": "伊朗警告阿联酋勿当以色列棋子\n金十数据 5 月 5 日讯，伊朗塔斯尼姆通讯社当地时间 5 月 4 日晚援引一名伊朗军方消息人士的话报道说，“如果阿联酋成为以色列的‘棋子’，犯下错误，他们将得到永远不会忘记的教训。”这名消息人士强调，如果阿联酋“采取不理智的行动”，其所有利益“都将成为伊朗的目标”，任何阿联酋设施“都不会安全”。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3154651",
     "datetime": "2026-05-04T18:57:37+00:00",
-    "views": "49",
+    "views": "57",
     "text": "美联储威廉姆斯：对联邦公开市场委员会声明中的措辞“非常放心”。美联储倾向宽松主要反映可能的长期政策趋势。长期展望仍然表明最终将会降息。意见分歧扩大反映经济不确定性。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3154650",
     "datetime": "2026-05-04T18:56:57+00:00",
-    "views": "54",
+    "views": "60",
     "text": "美联储威廉姆斯拒绝就美联储掉期额度扩张发表评论。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3154649",
     "datetime": "2026-05-04T18:56:38+00:00",
-    "views": "55",
+    "views": "59",
     "text": "美联储威廉姆斯：没看到任何支持加息的理由。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3154648",
     "datetime": "2026-05-04T18:56:37+00:00",
-    "views": "55",
+    "views": "59",
     "text": "美联储威廉姆斯：美联储倾向宽松主要反映可能的长期政策趋势。长期展望仍然表明最终将会降息。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3154647",
     "datetime": "2026-05-04T18:56:17+00:00",
-    "views": "55",
+    "views": "59",
     "text": "美联储威廉姆斯：对利率决策委员会当前的政策措辞“非常满意”。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3154646",
     "datetime": "2026-05-04T18:55:59+00:00",
-    "views": "56",
+    "views": "60",
     "text": "美联储威廉姆斯：通胀走高推迟了降息。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3154645",
     "datetime": "2026-05-04T18:55:58+00:00",
-    "views": "56",
+    "views": "60",
     "text": "美联储威廉姆斯：目前没有必要开始考虑加息。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3154644",
     "datetime": "2026-05-04T18:55:17+00:00",
-    "views": "59",
+    "views": "92",
     "text": "美国总统特朗普：“太迟先生”（即美联储主席鲍威尔）对美国来说是一个灾难！利率太高！",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3154642",
     "datetime": "2026-05-04T18:53:37+00:00",
-    "views": "95",
+    "views": "97",
     "text": "中国驻阿联酋使领馆提醒在阿中国公民加强安全防范\n金十数据 5 月 5 日讯，当地时间 5 月 4 日，中国驻阿联酋使领馆发文，提醒在阿中国公民加强安全防范。5 月 4 日，阿联酋再次遭受伊朗空袭，全国多地响起警报。阿有关政府部门要求民众在警报响起时遵守有关安全指示，从官方渠道获取信息。中国驻阿联酋使领馆提醒在阿中国公民增强安全防范意识，密切关注当地安全形势和阿有关政府部门发布的相关公告和警报，远离军事基地和可能遭受打击的敏感设施，并严格遵守当地法律法规和政府相关要求，切勿拍摄发布袭击事件现场或机场、港口、军事设施等敏感区域的视频和照片。如遇紧急情况，请第一时间报警并与中国驻阿使领馆联系。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3154641",
     "datetime": "2026-05-04T18:53:18+00:00",
-    "views": "95",
+    "views": "100",
     "text": "中国驻阿联酋使领馆提醒在阿中国公民加强安全防范\n当地时间 5 月 4 日，中国驻阿联酋使领馆发文，提醒在阿中国公民加强安全防范。全文如下：5 月 4 日，阿联酋再次遭受伊朗空袭，全国多地响起警报。阿有关政府部门要求民众在警报响起时遵守有关安全指示，从官方渠道获取信息。中国驻阿联酋使领馆提醒在阿中国公民增强安全防范意识，密切关注当地安全形势和阿有关政府部门发布的相关公告和警报，远离军事基地和可能遭受打击的敏感设施，并严格遵守当地法律法规和政府相关要求，切勿拍摄发布袭击事件现场或机场、港口、军事设施等敏感区域的视频和照片。如遇紧急情况，请第一时间报警并与中国驻阿使领馆联系。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3154640",
     "datetime": "2026-05-04T18:52:57+00:00",
-    "views": "95",
+    "views": "99",
     "text": "据伊朗 Mizan 新闻社：伊朗资深安全消息人士表示，伊朗的立场十分明确，若美军在霍尔木兹海峡采取行动，美方人员将成为打击目标。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +182,7 @@
   {
     "post": "Financial_Express/3154639",
     "datetime": "2026-05-04T18:50:18+00:00",
-    "views": "105",
+    "views": "106",
     "text": "乌克兰总统泽连斯基：宣布自 5 月 5 日至 6 日零点起实行停火。",
     "media_only": false,
     "image_url": null,
