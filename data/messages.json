@@ -1,8 +1,107 @@
 [
   {
+    "post": "Financial_Express/3156933",
+    "datetime": "2026-05-05T15:35:25+00:00",
+    "views": "1",
+    "text": "美国电力公司（American Electric Power, AEP）将其五年期资本投资计划提高至 780 亿美元，较三个月前发布的计划增加了 8%，主要受 PJM 和 SPP 地区新获批的输电投资以及印第安纳州新天然气发电项目的推动。目前，数据中心的激增正促使这家美国电力公用事业公司扩建其系统。\n随着大型科技公司建立耗电量巨大的数据中心以支持人工智能（AI）发展，美国的电力需求正创下历史新高，这促使公用事业公司加大在发电和输电基础设施方面的投资。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3156933"
+  },
+  {
+    "post": "Financial_Express/3156932",
+    "datetime": "2026-05-05T15:35:17+00:00",
+    "views": "1",
+    "text": "美国至 5 月 5 日 6 周国债竞拍-得标利率 3.595%，前值 3.59%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3156932"
+  },
+  {
+    "post": "Financial_Express/3156929",
+    "datetime": "2026-05-05T15:34:59+00:00",
+    "views": "1",
+    "text": "美国至 5 月 5 日 6 周国债竞拍-投标倍数 3.07，前值 3.14。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3156929"
+  },
+  {
+    "post": "Financial_Express/3156930",
+    "datetime": "2026-05-05T15:34:59+00:00",
+    "views": "1",
+    "text": "标普全球公司股价迅速转跌。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3156930"
+  },
+  {
+    "post": "Financial_Express/3156931",
+    "datetime": "2026-05-05T15:34:59+00:00",
+    "views": "1",
+    "text": "美国防长赫格塞思表示，美国正在确保对霍尔木兹海峡的控制。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3156931"
+  },
+  {
+    "post": "Financial_Express/3156927",
+    "datetime": "2026-05-05T15:34:40+00:00",
+    "views": "1",
+    "text": "埃克森美孚勘探副总裁约翰·阿迪尔：中东冲突对供应中断造成的全面影响尚未显现。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3156927"
+  },
+  {
+    "post": "Financial_Express/3156928",
+    "datetime": "2026-05-05T15:34:40+00:00",
+    "views": "1",
+    "text": "Anthropic 首席执行官表示，政府应当出台规则约束人工智能模型的发布。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3156928"
+  },
+  {
+    "post": "Financial_Express/3156926",
+    "datetime": "2026-05-05T15:34:39+00:00",
+    "views": "1",
+    "text": "埃克森美孚勘探副总裁约翰·阿迪尔：阿拉斯加地区的盈亏平衡生产油价约为每桶 45 美元，而其他地区为每桶 30 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3156926"
+  },
+  {
+    "post": "Financial_Express/3156925",
+    "datetime": "2026-05-05T15:34:18+00:00",
+    "views": "9",
+    "text": "埃克森美孚勘探副总裁约翰·阿代尔：阿拉斯加的开采成本高于二叠纪盆地与圭亚那，这带来了开发挑战。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3156925"
+  },
+  {
+    "post": "Financial_Express/3156924",
+    "datetime": "2026-05-05T15:34:17+00:00",
+    "views": "10",
+    "text": "马拉松石油：预计二季度航空煤油 - 柴油裂解价差将维持高位。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3156924"
+  },
+  {
+    "post": "Financial_Express/3156923",
+    "datetime": "2026-05-05T15:33:58+00:00",
+    "views": "7",
+    "text": "美国国防部长赫格塞思：“自由计划”正在进行中。伊朗面临选择，希望他们做出明智的决定。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3156923"
+  },
+  {
     "post": "Financial_Express/3156922",
     "datetime": "2026-05-05T15:33:19+00:00",
-    "views": "1",
+    "views": "43",
     "text": "欧盟就发债计划下后续资金需求发布招标建议书（RFP）。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +110,7 @@
   {
     "post": "Financial_Express/3156921",
     "datetime": "2026-05-05T15:32:58+00:00",
-    "views": "1",
+    "views": "44",
     "text": "欧洲央行管委维勒鲁瓦：若出现第二轮通胀效应，欧洲央行将启动加息。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +119,7 @@
   {
     "post": "Financial_Express/3156918",
     "datetime": "2026-05-05T15:32:02+00:00",
-    "views": "7",
+    "views": "46",
     "text": "Anthropic 首席执行官：美国其他主要 AI 实验室的能力可能落后于公司 1 到 3 个月。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +128,7 @@
   {
     "post": "Financial_Express/3156919",
     "datetime": "2026-05-05T15:32:02+00:00",
-    "views": "6",
+    "views": "46",
     "text": "欧洲央行管委维勒鲁瓦：目前尚未看到足以支持加息的充分迹象。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +137,7 @@
   {
     "post": "Financial_Express/3156920",
     "datetime": "2026-05-05T15:32:02+00:00",
-    "views": "39",
+    "views": "44",
     "text": "道达尔能源首席执行官：暴利税将导致我们无法再维持法国加油站的燃油价格上限。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +146,7 @@
   {
     "post": "Financial_Express/3156917",
     "datetime": "2026-05-05T15:31:39+00:00",
-    "views": "9",
+    "views": "47",
     "text": "欧洲主要股指收盘涨跌不一\n欧洲斯托克 600 指数上涨 0.68%。法国 CAC 40 指数上涨 1.05%，西班牙 IBEX 指数上涨 1.62%，英国富时 100 指数下跌 1.39%，德国 DAX 指数上涨 1.67%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +155,7 @@
   {
     "post": "Financial_Express/3156916",
     "datetime": "2026-05-05T15:31:23+00:00",
-    "views": "12",
+    "views": "49",
     "text": "马拉松石油：即便霍尔木兹海峡能够立即恢复正常，全球燃料供应仍然恢复需要时间。\n4 月加拿大供应量将创系统范围的历史最高水平。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +164,7 @@
   {
     "post": "Financial_Express/3156915",
     "datetime": "2026-05-05T15:31:00+00:00",
-    "views": "43",
+    "views": "50",
     "text": "无线传输设备制造商 Aviat Networks 周二股价暴跌，因公司大幅下调全年业绩指引，并将原因归咎于中东冲突导致的项目延迟及部分一级客户需求疲软。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +182,7 @@
   {
     "post": "Financial_Express/3156914",
     "datetime": "2026-05-05T15:30:59+00:00",
-    "views": "45",
+    "views": "50",
     "text": "精神航空律师：法庭听证会上称，高昂航燃油价导致破产“别无选择”。",
     "media_only": false,
     "image_url": null,
@@ -41803,32 +41902,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3152222"
-  },
-  {
-    "post": "Financial_Express/3152220",
-    "datetime": "2026-05-03T15:34:19+00:00",
-    "views": "158",
-    "text": "德国经济部：我们注意到特朗普关于提高汽车关税的声明，将在欧盟内部密切协调下一步行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152220"
-  },
-  {
-    "post": "Financial_Express/3152221",
-    "datetime": "2026-05-03T15:34:19+00:00",
-    "views": "166",
-    "text": "美国检察官皮罗表示，对鲍威尔的调查下一步将如何推进，将由美联储监察长的调查结果决定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152221"
-  },
-  {
-    "post": "Financial_Express/3152219",
-    "datetime": "2026-05-03T15:33:58+00:00",
-    "views": "154",
-    "text": "德国经济部：我们已注意到特朗普宣布上调汽车关税的消息，下一步将与欧盟内部密切协调行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152219"
   }
 ]
