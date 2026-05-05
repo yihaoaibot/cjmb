@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3157606",
+    "datetime": "2026-05-05T21:16:57+00:00",
+    "views": "9",
+    "text": "AMD(AMD.O)：由于内存和零部件成本上涨，公司预计下半年 PC 出货量将有所下降。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3157606"
+  },
+  {
+    "post": "Financial_Express/3157605",
+    "datetime": "2026-05-05T21:16:49+00:00",
+    "views": "10",
+    "text": "富时 A50 期指连续夜盘收涨 0.31%，报 15679 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3157605"
+  },
+  {
+    "post": "Financial_Express/3157604",
+    "datetime": "2026-05-05T21:16:18+00:00",
+    "views": "12",
+    "text": "AMD(AMD.O)：数据中心现已成为推动营收和利润增长的主要动力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3157604"
+  },
+  {
+    "post": "Financial_Express/3157603",
+    "datetime": "2026-05-05T21:15:58+00:00",
+    "views": "15",
+    "text": "伊朗媒体消息：伊朗中部阿拉克市米坎湿地火情已得到控制，起火原因正在调查中。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3157603"
+  },
+  {
+    "post": "Financial_Express/3157602",
+    "datetime": "2026-05-05T21:15:57+00:00",
+    "views": "15",
+    "text": "AMD(AMD.O)：公司不仅看到短期需求更加强劲，在长期产能规划方面与客户的合作也更加深入。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3157602"
+  },
+  {
     "post": "Financial_Express/3157601",
     "datetime": "2026-05-05T21:15:17+00:00",
-    "views": "2",
+    "views": "24",
     "text": "AMD(AMD.O)：公司正与供应链合作伙伴“紧密合作”，以增加晶圆和后端生产能力。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3157598",
     "datetime": "2026-05-05T21:14:58+00:00",
-    "views": "6",
+    "views": "25",
     "text": "惠誉：预计阿根廷经济将在 2026 年增长 3.2%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3157599",
     "datetime": "2026-05-05T21:14:58+00:00",
-    "views": "6",
+    "views": "25",
     "text": "百事公司：到 2030 年，Fertiberia 将每年向该公司提供高达 15 万吨的零影响作物营养解决方案。预计到 2030 年，合作将使该公司欧洲供应链中使用的化肥约 50%来自低碳来源。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3157597",
     "datetime": "2026-05-05T21:14:17+00:00",
-    "views": "17",
+    "views": "33",
     "text": "惠誉：将阿根廷评级上调至“B-”；展望为稳定。预计阿根廷今年经常账户赤字将小幅收窄至 GDP 的 1%。对阿根廷的评级反映了其财政和对外收支的结构性改善、改革取得的进展以及外汇储备积累前景的向好。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3157596",
     "datetime": "2026-05-05T21:13:57+00:00",
-    "views": "22",
+    "views": "37",
     "text": "AMD：由于内存和组件成本上涨，公司预计下半年 PC 出货量将有所下降。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3157595",
     "datetime": "2026-05-05T21:13:38+00:00",
-    "views": "23",
+    "views": "38",
     "text": "AMD：预计数据中心长期增长目标将超额完成 80%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3157593",
     "datetime": "2026-05-05T21:12:57+00:00",
-    "views": "25",
+    "views": "40",
     "text": "惠誉：对阿根廷的评级反映了其财政和对外收支的结构性改善、改革取得的进展以及外汇储备积累前景的向好。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3157594",
     "datetime": "2026-05-05T21:12:57+00:00",
-    "views": "25",
+    "views": "39",
     "text": "AMD：对 2027 年价值数百亿美元的 AI 数据中心目标充满信心。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3157592",
     "datetime": "2026-05-05T21:12:37+00:00",
-    "views": "30",
+    "views": "43",
     "text": "超微电脑：超微数据中心构建模块解决方案将在未来几年贡献超过 25%的总利润。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3157591",
     "datetime": "2026-05-05T21:11:18+00:00",
-    "views": "42",
+    "views": "51",
     "text": "AMD(AMD.O)：预计公司第二季度 CPU 收入增长超过 70%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3157589",
     "datetime": "2026-05-05T21:11:17+00:00",
-    "views": "44",
+    "views": "52",
     "text": "惠誉：预计阿根廷今年经常账户赤字将小幅收窄至 GDP 的 1%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3157590",
     "datetime": "2026-05-05T21:11:17+00:00",
-    "views": "44",
+    "views": "52",
     "text": "AMD(AMD.O)：预计到 2030 年，CPU 市场年增长超过 35%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3157588",
     "datetime": "2026-05-05T21:10:37+00:00",
-    "views": "45",
+    "views": "53",
     "text": "AMD：面向 Meta 的芯片出货按计划将于今年下半年启动。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3157587",
     "datetime": "2026-05-05T21:10:17+00:00",
-    "views": "46",
+    "views": "52",
     "text": "惠誉：将阿根廷评级上调至“B-”；展望为稳定。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +182,7 @@
   {
     "post": "Financial_Express/3157586",
     "datetime": "2026-05-05T21:09:57+00:00",
-    "views": "49",
+    "views": "54",
     "text": "AMD 高管：预计第二季度服务器 CPU 收入将同比增长超过 70%。",
     "media_only": false,
     "image_url": null,
@@ -45916,14 +45961,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3152441"
-  },
-  {
-    "post": "Financial_Express/3152440",
-    "datetime": "2026-05-03T21:17:18+00:00",
-    "views": "84",
-    "text": "美国民主党资深参议员杰克·里德表示，美国在伊朗问题上正处于处境糟糕得多的局面，并指责特朗普缺乏清晰战略规划。\n他表示：“这只是一次战术层面的实力秀肌肉，却并未达成总统此前宣称的战略目标。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152440"
   }
 ]
