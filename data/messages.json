@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3160522",
+    "datetime": "2026-05-06T16:18:39+00:00",
+    "views": "1",
+    "text": "Anthropic：与 SpaceX 达成的协议将使公司在本月内获得超 300 兆瓦的新增算力容量。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160522"
+  },
+  {
+    "post": "Financial_Express/3160521",
+    "datetime": "2026-05-06T16:18:18+00:00",
+    "views": "3",
+    "text": "Anthropic：已与 SpaceX 签署协议，将使用其 Colossus 1 数据中心的全部计算能力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160521"
+  },
+  {
+    "post": "Financial_Express/3160520",
+    "datetime": "2026-05-06T16:18:17+00:00",
+    "views": "3",
+    "text": "Anthropic：将 Claude 代码的五小时限额翻倍，适用于专业版、最大版、团队版和基于座位的企业计划。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160520"
+  },
+  {
+    "post": "Financial_Express/3160519",
+    "datetime": "2026-05-06T16:17:34+00:00",
+    "views": "33",
+    "text": "马斯克旗下初创公司 xAI 称，与 Anthropic PBC 建立新的计算合作伙伴关系。\nSpaceXAI 已与 Anthropic 签署协议，将提供 Colossus1 的访问权限。\nAnthropic 计划利用这额外的计算能力直接提升 Claude Pro 和 Claude Max 用户的服务能力。\nAnthropic 也表示，已与 SpaceX 达成合作伙伴关系，这将大幅提升我们的计算能力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160519"
+  },
+  {
+    "post": "Financial_Express/3160518",
+    "datetime": "2026-05-06T16:16:58+00:00",
+    "views": "33",
+    "text": "Anthropic：亦有意与 SpaceX 合作，开发数吉瓦级在轨人工智能算力资源。将 Claude Code 五小时调用速率上限翻倍，涵盖 Pro、Max、团队版及按席位计费的企业版套餐。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160518"
+  },
+  {
+    "post": "Financial_Express/3160517",
+    "datetime": "2026-05-06T16:16:57+00:00",
+    "views": "33",
+    "text": "Anthropic：已与 SpaceX 达成合作伙伴关系，这将大幅提升我们的计算能力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160517"
+  },
+  {
+    "post": "Financial_Express/3160516",
+    "datetime": "2026-05-06T16:16:38+00:00",
+    "views": "33",
+    "text": "Anthropic：已同意与 SpaceX 建立合作伙伴关系，这将大幅提升我们的算力规模。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160516"
+  },
+  {
     "post": "Financial_Express/3160515",
     "datetime": "2026-05-06T16:16:18+00:00",
-    "views": "1",
+    "views": "33",
     "text": "xAI：Anthropic 计划利用这额外的计算能力直接提升 Claude Pro 和 Claude Max 用户的服务能力。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3160514",
     "datetime": "2026-05-06T16:15:59+00:00",
-    "views": "1",
+    "views": "33",
     "text": "xAI：SpaceXAI 已与 Anthropic 签署协议，将提供 Colossus1 的访问权限。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3160513",
     "datetime": "2026-05-06T16:15:37+00:00",
-    "views": "1",
+    "views": "33",
     "text": "xAI：Anthropic 计划利用新增算力，直接提升 Claude Pro 与 Claude Max 订阅用户的服务承载能力。",
     "media_only": false,
     "image_url": null,
@@ -29,8 +92,8 @@
   {
     "post": "Financial_Express/3160512",
     "datetime": "2026-05-06T16:15:18+00:00",
-    "views": "1",
-    "text": "XAI：SpaceX AI 已与 Anthropic 签署协议，开放 Colossus 1 模型的访问权限。",
+    "views": "33",
+    "text": "xAI：SpaceX AI 已与 Anthropic 签署协议，开放 Colossus 1 模型的访问权限。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3160512"
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3160511",
     "datetime": "2026-05-06T16:15:17+00:00",
-    "views": "1",
+    "views": "33",
     "text": "xAI：与 Anthropic 建立新的计算合作伙伴关系。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3160510",
     "datetime": "2026-05-06T16:15:15+00:00",
-    "views": "1",
+    "views": "32",
     "text": "欧洲半导体概念股涨跌各异，阿斯麦控股收涨 6.18%，ASM 国际涨 3.32%，英飞凌则收跌 2.10%，德国爱思强跌 2.80%，Soitec 跌 7%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3160509",
     "datetime": "2026-05-06T16:14:39+00:00",
-    "views": "32",
+    "views": "33",
     "text": "据 CBS：白宫官员透露称，美国反恐官员将于周五与国际合作伙伴举行会谈，商讨盟友可如何加大力度应对恐怖主义威胁，重点针对伊朗相关威胁及霍尔木兹海峡区域安全风险。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3160508",
     "datetime": "2026-05-06T16:10:30+00:00",
-    "views": "74",
+    "views": "75",
     "text": "周三（5 月 6 日），欧股“十一罗汉”几乎全面收涨，阿斯麦控股涨 6.18%，LVMH 集团涨 5.11%，欧莱雅涨 3.33%，诺和诺德在业绩报告发布后涨 2.48%，德国思爱普 Sap 则收跌 0.32%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3160507",
     "datetime": "2026-05-06T16:09:38+00:00",
-    "views": "76",
+    "views": "77",
     "text": "有报道称，霍尔木兹海峡一艘船只遭到导弹袭击。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3160506",
     "datetime": "2026-05-06T16:08:57+00:00",
-    "views": "79",
+    "views": "110",
     "text": "伊朗常驻联合国代表团表示，霍尔木兹海峡问题的唯一可行解决方案很明确：永久结束战争、解除海上封锁、恢复正常通航。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3160505",
     "datetime": "2026-05-06T16:07:18+00:00",
-    "views": "81",
+    "views": "112",
     "text": "法国精炼油销售毛利润已经恢复至危机爆发之前的水平。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3160504",
     "datetime": "2026-05-06T16:05:19+00:00",
-    "views": "118",
+    "views": "119",
     "text": "报道：俄罗斯石油公司就施韦特炼油厂再次对德国采取法律行动\n俄罗斯石油公司（Rosneft）已再次向德国当地法院提起诉讼，反对德国政府对其德国子公司的托管。这些子公司拥有 PCK 施韦特（PCK Schwedt）炼油厂的多数股权。 柏林-勃兰登堡高等行政法院未能立即就此发表评论。德国经济部目前未通过电话进行即时置评。德国法院发言人称，俄罗斯石油公司于 3 月 30 日提起诉讼，以赶在截止日期前对德国经济部 2 月底发布的命令作出回应。该命令将这家俄罗斯公司的在德分支机构置于托管状态。德国政府决定将其置于托管状态，是为建立长期控制权而做出的努力的一部分；在此之前的框架要求每六个月重新延长一次国家控制权。俄罗斯石油公司曾在 2022 年针对之前的托管安排提起过诉讼，但未能成功。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3160503",
     "datetime": "2026-05-06T16:04:35+00:00",
-    "views": "87",
+    "views": "119",
     "text": "俄罗斯石油公司（Rosneft）已再次向德国当地法院提起诉讼，反对德国政府对其德国子公司的托管。这些子公司拥有 PCK 施韦特（PCK Schwedt）炼油厂的多数股权。",
     "media_only": false,
     "image_url": null,
@@ -54241,41 +54304,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3154412"
-  },
-  {
-    "post": "Financial_Express/3154411",
-    "datetime": "2026-05-04T16:18:23+00:00",
-    "views": "93",
-    "text": "据伊朗国家媒体报道，伊朗高级军官称，伊朗无意针对阿联酋。\nWTI 原油 5 分钟内下跌 0.85 美元/桶，报 105.42 美元/桶。\n纽约金 5 分钟内上涨 5.8 美元/盎司，报 4520.4 美元/盎司。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154411"
-  },
-  {
-    "post": "Financial_Express/3154410",
-    "datetime": "2026-05-04T16:18:19+00:00",
-    "views": "93",
-    "text": "伊朗国家媒体援引高级军方官员消息称：伊朗没有针对阿联酋的袭击计划。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154410"
-  },
-  {
-    "post": "Financial_Express/3154409",
-    "datetime": "2026-05-04T16:18:18+00:00",
-    "views": "93",
-    "text": "伊朗国家媒体援引伊朗高级军事官员的话称，伊朗没有针对阿联酋的打击计划。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154409"
-  },
-  {
-    "post": "Financial_Express/3154408",
-    "datetime": "2026-05-04T16:16:38+00:00",
-    "views": "93",
-    "text": "据航班追踪网站 Flightradar24 消息，受阿联酋地区遭遇袭击相关消息影响，多架飞往阿联酋的航班改道备降马斯喀特。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154408"
   }
 ]
