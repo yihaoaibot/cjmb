@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3160527",
+    "datetime": "2026-05-06T16:21:57+00:00",
+    "views": "3",
+    "text": "Anthropic：取消 Pro 和 Max 账户在 Claude Code 上的高峰期额度削减；同时提高 Claude Opus 模型的 API 速率限制。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160527"
+  },
+  {
+    "post": "Financial_Express/3160526",
+    "datetime": "2026-05-06T16:21:19+00:00",
+    "views": "33",
+    "text": "Anthropic：取消 Pro 及 Max 账号下 Claude Code 的高峰期限流下调规则；同时上调 Claude Opus 系列模型的 API 调用速率上限。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160526"
+  },
+  {
     "post": "Financial_Express/3160525",
     "datetime": "2026-05-06T16:20:37+00:00",
-    "views": "1",
+    "views": "33",
     "text": "美国联邦航空管理局局长将于 5 月 19 日就 2025 年 1 月致命撞机事故，出席参议院改革委员会听证会并作证。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3160524",
     "datetime": "2026-05-06T16:19:33+00:00",
-    "views": "2",
+    "views": "34",
     "text": "欧洲军工股普遍收涨，赛峰涨 8.96%，CSG 涨 7.18%，空客、蒂森克虏伯、Kongsberg Gruppen、莱昂纳多至多涨 5.98%，Kongsberg Maritime 则跌 5.79%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3160523",
     "datetime": "2026-05-06T16:19:18+00:00",
-    "views": "3",
+    "views": "35",
     "text": "Anthropic：与 SpaceX 达成协议，使公司能在本月内获得超过 300 兆瓦的新增电力容量。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3160522",
     "datetime": "2026-05-06T16:18:39+00:00",
-    "views": "33",
+    "views": "35",
     "text": "Anthropic：与 SpaceX 达成的协议将使公司在本月内获得超 300 兆瓦的新增算力容量。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3160521",
     "datetime": "2026-05-06T16:18:18+00:00",
-    "views": "33",
+    "views": "65",
     "text": "Anthropic：已与 SpaceX 签署协议，将使用其 Colossus 1 数据中心的全部计算能力。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3160520",
     "datetime": "2026-05-06T16:18:17+00:00",
-    "views": "33",
+    "views": "65",
     "text": "Anthropic：将 Claude 代码的五小时限额翻倍，适用于专业版、最大版、团队版和基于座位的企业计划。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3160519",
     "datetime": "2026-05-06T16:17:34+00:00",
-    "views": "33",
+    "views": "66",
     "text": "马斯克旗下初创公司 xAI 称，与 Anthropic PBC 建立新的计算合作伙伴关系。\nSpaceXAI 已与 Anthropic 签署协议，将提供 Colossus1 的访问权限。\nAnthropic 计划利用这额外的计算能力直接提升 Claude Pro 和 Claude Max 用户的服务能力。\nAnthropic 也表示，已与 SpaceX 达成合作伙伴关系，这将大幅提升我们的计算能力。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3160518",
     "datetime": "2026-05-06T16:16:58+00:00",
-    "views": "33",
+    "views": "66",
     "text": "Anthropic：亦有意与 SpaceX 合作，开发数吉瓦级在轨人工智能算力资源。将 Claude Code 五小时调用速率上限翻倍，涵盖 Pro、Max、团队版及按席位计费的企业版套餐。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3160517",
     "datetime": "2026-05-06T16:16:57+00:00",
-    "views": "33",
+    "views": "66",
     "text": "Anthropic：已与 SpaceX 达成合作伙伴关系，这将大幅提升我们的计算能力。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3160516",
     "datetime": "2026-05-06T16:16:38+00:00",
-    "views": "33",
+    "views": "66",
     "text": "Anthropic：已同意与 SpaceX 建立合作伙伴关系，这将大幅提升我们的算力规模。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3160515",
     "datetime": "2026-05-06T16:16:18+00:00",
-    "views": "33",
+    "views": "66",
     "text": "xAI：Anthropic 计划利用这额外的计算能力直接提升 Claude Pro 和 Claude Max 用户的服务能力。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3160514",
     "datetime": "2026-05-06T16:15:59+00:00",
-    "views": "33",
+    "views": "66",
     "text": "xAI：SpaceXAI 已与 Anthropic 签署协议，将提供 Colossus1 的访问权限。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3160513",
     "datetime": "2026-05-06T16:15:37+00:00",
-    "views": "63",
+    "views": "66",
     "text": "xAI：Anthropic 计划利用新增算力，直接提升 Claude Pro 与 Claude Max 订阅用户的服务承载能力。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3160512",
     "datetime": "2026-05-06T16:15:18+00:00",
-    "views": "63",
+    "views": "66",
     "text": "xAI：SpaceX AI 已与 Anthropic 签署协议，开放 Colossus 1 模型的访问权限。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3160511",
     "datetime": "2026-05-06T16:15:17+00:00",
-    "views": "63",
+    "views": "66",
     "text": "xAI：与 Anthropic 建立新的计算合作伙伴关系。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3160510",
     "datetime": "2026-05-06T16:15:15+00:00",
-    "views": "62",
+    "views": "65",
     "text": "欧洲半导体概念股涨跌各异，阿斯麦控股收涨 6.18%，ASM 国际涨 3.32%，英飞凌则收跌 2.10%，德国爱思强跌 2.80%，Soitec 跌 7%。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3160509",
     "datetime": "2026-05-06T16:14:39+00:00",
-    "views": "63",
+    "views": "66",
     "text": "据 CBS：白宫官员透露称，美国反恐官员将于周五与国际合作伙伴举行会谈，商讨盟友可如何加大力度应对恐怖主义威胁，重点针对伊朗相关威胁及霍尔木兹海峡区域安全风险。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3160508",
     "datetime": "2026-05-06T16:10:30+00:00",
-    "views": "75",
+    "views": "137",
     "text": "周三（5 月 6 日），欧股“十一罗汉”几乎全面收涨，阿斯麦控股涨 6.18%，LVMH 集团涨 5.11%，欧莱雅涨 3.33%，诺和诺德在业绩报告发布后涨 2.48%，德国思爱普 Sap 则收跌 0.32%。",
     "media_only": false,
     "image_url": null,
@@ -54250,59 +54268,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3154421"
-  },
-  {
-    "post": "Financial_Express/3154420",
-    "datetime": "2026-05-04T16:22:40+00:00",
-    "views": "125",
-    "text": "德国莱比锡发生汽车冲撞人群事件 已致 2 死多伤\n当地时间 4 日，德国东部城市莱比锡发生汽车冲撞人群事件。据莱比锡当地警方称，4 日下午，一辆汽车撞向人群。德国方面有消息称，事件造成 2 人死亡，多人受伤。目前涉事司机已被警方逮捕，事件发生的具体原因暂不清楚。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154420"
-  },
-  {
-    "post": "Financial_Express/3154419",
-    "datetime": "2026-05-04T16:22:18+00:00",
-    "views": "125",
-    "text": "美军中央司令部司令布拉德·库珀：伊朗曾试图通过向商业航运船只开火实施干扰，但行动已失败。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154419"
-  },
-  {
-    "post": "Financial_Express/3154418",
-    "datetime": "2026-05-04T16:22:00+00:00",
-    "views": "125",
-    "text": "阿曼北部一栋居民楼遭袭，导致两名外籍人士受中度伤。\nWTI 原油跌破 105 美元/桶关口，报 104.93 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154418"
-  },
-  {
-    "post": "Financial_Express/3154416",
-    "datetime": "2026-05-04T16:21:18+00:00",
-    "views": "125",
-    "text": "美军中央司令部司令布拉德·库珀：美国已在霍尔木兹海峡“开辟自由通行通道”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154416"
-  },
-  {
-    "post": "Financial_Express/3154417",
-    "datetime": "2026-05-04T16:21:18+00:00",
-    "views": "125",
-    "text": "阿曼北部一栋居民楼遭袭击，两名外籍人员受中度伤势。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154417"
-  },
-  {
-    "post": "Financial_Express/3154415",
-    "datetime": "2026-05-04T16:21:17+00:00",
-    "views": "125",
-    "text": "阿曼北部一处住宅楼遭到袭击，导致两名外籍人士轻伤。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154415"
   }
 ]
