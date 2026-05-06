@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3160751",
+    "datetime": "2026-05-06T19:08:59+00:00",
+    "views": "7",
+    "text": "联合包裹（UPS）：截至 2026 年 3 月 31 日，此前已缴纳的潜在关税退还款相关款项尚未入账确认。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160751"
+  },
+  {
+    "post": "Financial_Express/3160750",
+    "datetime": "2026-05-06T19:08:58+00:00",
+    "views": "7",
+    "text": "联合包裹（UPS）已开始就第一阶段协议下符合退款条件的进口货物，就已缴纳的约 5 亿美元《出口管制改革法案》（IEEPA）关税提交退款申请。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160750"
+  },
+  {
+    "post": "Financial_Express/3160749",
+    "datetime": "2026-05-06T19:08:37+00:00",
+    "views": "13",
+    "text": "OpenAI：我们推出 B2B Signals，这是 OpenAI Signals 的商业扩展版。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160749"
+  },
+  {
+    "post": "Financial_Express/3160747",
+    "datetime": "2026-05-06T19:07:58+00:00",
+    "views": "23",
+    "text": "芝商所集团：自 5 月 29 日起，加密货币期货与期权将提供每周 7 天 24 小时不间断交易服务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160747"
+  },
+  {
+    "post": "Financial_Express/3160748",
+    "datetime": "2026-05-06T19:07:58+00:00",
+    "views": "23",
+    "text": "OpenAI：推出 B2B 信号工具，这是 OpenAI 信号面向企业端的延伸产品。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160748"
+  },
+  {
+    "post": "Financial_Express/3160746",
+    "datetime": "2026-05-06T19:07:57+00:00",
+    "views": "23",
+    "text": "美国总统特朗普：伊朗拥有核武器将使世界面临被“挟持”的风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3160746"
+  },
+  {
     "post": "Financial_Express/3160745",
     "datetime": "2026-05-06T19:06:57+00:00",
-    "views": "1",
+    "views": "50",
     "text": "特朗普：伊朗一旦拥有核武器，将使全球面临被挟持的风险。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3160744",
     "datetime": "2026-05-06T19:06:18+00:00",
-    "views": "30",
+    "views": "62",
     "text": "特朗普谈及伊朗谈判：没有最后期限，终会达成协议。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3160743",
     "datetime": "2026-05-06T19:05:57+00:00",
-    "views": "44",
+    "views": "71",
     "text": "乌克兰首席谈判代表鲁斯特姆·乌梅罗夫预计将前往迈阿密，与美国总统特使威特科夫会面。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3160742",
     "datetime": "2026-05-06T19:05:37+00:00",
-    "views": "50",
+    "views": "73",
     "text": "消息人士称，巴西亿万富翁巴蒂斯塔促成了巴西总统卢拉与特朗普的会面。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3160741",
     "datetime": "2026-05-06T19:04:58+00:00",
-    "views": "61",
+    "views": "80",
     "text": "特朗普称美国过去 24 小时与伊朗进行了非常好的会谈\n美国总统特朗普周三告诉记者，美国过去 24 小时与伊朗进行了非常好的会谈，并补充说，华盛顿和德黑兰很有可能达成协议。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3160740",
     "datetime": "2026-05-06T19:04:17+00:00",
-    "views": "66",
+    "views": "83",
     "text": "美国总统特朗普：我们希望所有伊朗人都能活着。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3160739",
     "datetime": "2026-05-06T19:03:39+00:00",
-    "views": "74",
+    "views": "89",
     "text": "特朗普：伊朗不会拥有核武器，他们已经同意了。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3160737",
     "datetime": "2026-05-06T19:03:38+00:00",
-    "views": "75",
+    "views": "88",
     "text": "美国总统特朗普：昨晚与埃克森美孚董事长会面。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3160738",
     "datetime": "2026-05-06T19:03:38+00:00",
-    "views": "75",
+    "views": "89",
     "text": "美国总统特朗普：埃克森美孚和雪佛龙的董事会主席周二晚上在白宫出席了会议。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3160736",
     "datetime": "2026-05-06T19:03:07+00:00",
-    "views": "82",
+    "views": "95",
     "text": "WTI 6 月原油期货收跌 7.19 美元，跌幅 7.03%，报 95.08 美元/桶。\n布伦特 7 月原油期货收跌 8.60 美元，跌幅 7.83%，报 101.27 美元/桶。\nNYMEX 6 月天然气期货收跌 2.1%，报 2.73 美元/百万英热单位，创 4 月 29 日以来收盘新低。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3160734",
     "datetime": "2026-05-06T19:02:58+00:00",
-    "views": "81",
+    "views": "95",
     "text": "意大利能源巨头埃尼公司股东批准了由意大利政府提名的董事会成员名单，为现年 71 岁的首席执行官克劳迪奥·德斯卡尔齐开启创纪录的第五个任期扫清了障碍。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3160735",
     "datetime": "2026-05-06T19:02:58+00:00",
-    "views": "82",
+    "views": "95",
     "text": "特朗普：埃克森美孚与雪佛龙董事长周二晚间到访白宫。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3160733",
     "datetime": "2026-05-06T19:02:57+00:00",
-    "views": "79",
+    "views": "92",
     "text": "特朗普：昨晚会见了埃克森美孚董事长。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +182,7 @@
   {
     "post": "Financial_Express/3160732",
     "datetime": "2026-05-06T19:02:18+00:00",
-    "views": "89",
+    "views": "103",
     "text": "记者：你面对的伊朗对手一直拒绝屈服。\n特朗普：你凭什么说他们拒绝屈服？你并不清楚实情。\n记者：几天前他们还向美军舰艇开火。\n特朗普：几天前已经是很久以前的事了。他们迫切希望达成协议。",
     "media_only": false,
     "image_url": null,
@@ -53890,50 +53944,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3154683"
-  },
-  {
-    "post": "Financial_Express/3154682",
-    "datetime": "2026-05-04T19:09:03+00:00",
-    "views": "55",
-    "text": "美国总统特朗普：一枚伊朗导弹进入阿联酋，但并未造成巨大损失。（ABC）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154682"
-  },
-  {
-    "post": "Financial_Express/3154681",
-    "datetime": "2026-05-04T19:08:57+00:00",
-    "views": "55",
-    "text": "伊朗消息人士：阿联酋富查伊拉能源设施发生火灾，根源是美国的军事冒险行为\n伊朗国家广播电视台（IRIB）援引一名军方消息人士的话报道称，阿联酋富查伊拉能源设施发生火灾，根源是美国的军事冒险行为，伊朗并未策划针对该地点的袭击行动。该消息人士表示，此次事件源于 “美方采取军事行动，试图为船只经霍尔木兹海峡受限航线非法通行开辟通道”。消息人士补充称，美方官员应当摒弃以武力开展外交的做法，停止在这一敏感石油产区进行军事冒险。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154681"
-  },
-  {
-    "post": "Financial_Express/3154680",
-    "datetime": "2026-05-04T19:08:17+00:00",
-    "views": "57",
-    "text": "Calamos 投资公司宣布，旗下封闭式基金 Calamos 动态可转债与收益基金（CCD）将进行月度股息派发。根据公司公告，CCD 基金将于 2026 年 5 月 21 日向股东派发每股 0.195 美元的现金股息，股权登记日及除息日均为 5 月 14 日。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154680"
-  },
-  {
-    "post": "Financial_Express/3154679",
-    "datetime": "2026-05-04T19:07:58+00:00",
-    "views": "58",
-    "text": "特朗普对美国广播公司表示：一枚伊朗导弹射入阿联酋，但并未造成巨大损失。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154679"
-  },
-  {
-    "post": "Financial_Express/3154678",
-    "datetime": "2026-05-04T19:07:44+00:00",
-    "views": "58",
-    "text": "欧盟 Dombrovskis：欧洲面临滞胀冲击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3154678"
   }
 ]
