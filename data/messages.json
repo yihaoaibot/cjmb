@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3157853",
+    "datetime": "2026-05-06T00:31:18+00:00",
+    "views": "4",
+    "text": "CFETS：4 月 30 日人民币汇率指数按周涨 0.09 至 100.17.",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3157853"
+  },
+  {
+    "post": "Financial_Express/3157852",
+    "datetime": "2026-05-06T00:30:17+00:00",
+    "views": "18",
+    "text": "中国香港 4 月标普全球制造业 PMI 48.6，前值 49.3。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3157852"
+  },
+  {
+    "post": "Financial_Express/3157851",
+    "datetime": "2026-05-06T00:29:57+00:00",
+    "views": "25",
+    "text": "Rivian 称投入数亿美元自研芯片\nRivian 首席执行官 RJ Scaringe 接受采访时透露，该公司正在为其定制芯片项目投入“数亿美元”，该项目的首款芯片，内部称为 Rivian 自动驾驶处理器或 RAP-1，将于今年问世。Scaringe 表示，该公司计划“每隔几年”发布一款新芯片，RAP-2 和 RAP-3 将是首款芯片的后续产品，采用比 RAP-1 所用的台积电 5 纳米制程工艺“更强大”的芯片技术。“这不像投资几亿美元就万事大吉了，”Scaringe 说，“我们组建了一支团队。这支团队将继续开发该平台的未来版本。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3157851"
+  },
+  {
     "post": "Financial_Express/3157850",
     "datetime": "2026-05-06T00:28:38+00:00",
-    "views": "20",
+    "views": "41",
     "text": "Rivian 考虑自研激光雷达传感器，可能与中国公司合作\n美国电动汽车制造商 Rivian 首席执行官 RJ Scaringe 在当地时间周二接受采访时表示，该公司正在考虑生产自己的激光雷达传感器，并可能与一家中国公司合作生产。Rivian 正在考虑利用中国技术在美国自行生产激光雷达传感器，而不是直接从中国供应商采购。Scaringe 表示，他们可能会通过合资企业来实现这一目标，并指出，对于 Rivian 等汽车制造商所需的“价格在几百美元低位”的传感器而言，“所有真正的选择都来自中国”。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3157849",
     "datetime": "2026-05-06T00:28:37+00:00",
-    "views": "20",
+    "views": "41",
     "text": "布伦特原油突破 109 美元/桶，日内跌 0.79%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3157847",
     "datetime": "2026-05-06T00:27:18+00:00",
-    "views": "14",
+    "views": "29",
     "text": "金建希案法官疑似坠亡\n据多家韩国媒体报道，韩国前总统尹锡悦的夫人金建希涉嫌股价操纵等案二审主审法官今天（5 月 6 日）凌晨被发现死于法院内。据报道，经初步调查，现场“基本排除他杀嫌疑”，该法官“疑似坠亡”。韩国警方正就其具体死因等进行调查。 4 月 28 日，韩国高等法院就金建希所涉案件进行二审宣判，主审法官宣布判处金建希 4 年刑期，罚款 5000 万韩元（约合 23 万元人民币），超过一审 1 年零 8 个月刑期的量刑结果。与一审仅认定部分受贿嫌疑不同，二审认定金建希的股价操纵嫌疑构成有罪。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3157848",
     "datetime": "2026-05-06T00:27:18+00:00",
-    "views": "16",
+    "views": "32",
     "text": "中信证券：一季度电子行业基金配置略有回落 超配比例仍处历史高位\n中信证券研报指出，2026 年一季度公募基金季报披露完毕，电子行业配置比例自 2025 年四季度历史高位环比略降，但仍处高位区间：2026 年一季度电子行业基金重仓股市值规模合计为 6200.15 亿元，环比-6.41%。子行业而言，半导体在电子行业内部占比提升，消费电子、元器件在电子行业内部占比略降。预计 2026 年二季度的 AI 行情开始发散，建议投资人关注 AI 业务相关公司。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3157846",
     "datetime": "2026-05-06T00:26:58+00:00",
-    "views": "13",
+    "views": "24",
     "text": "中信证券：一线城市销售端筑底信号初显，有望于 2027 年企稳，上海有望成为一线城市中率先企稳的城市\n中信证券研报指出，2026 年以来，我国房地产市场延续结构性分化行情，一线城市成为本轮市场修复的核心主线。“小阳春”期间，国内各线城市房地产市场表现明显分化，一线城市在二手房、新房成交、库存去化及价格修复等方面全面领跑，二三线城市则相对滞后。从长期数据观察，一线城市销售端筑底信号初显、库存端持续出清、开发端边际修复，有望于 2027 年企稳，上海有望成为一线城市中率先企稳的城市。债市方面，下行空间仍存，预计区间震荡为主。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3157845",
     "datetime": "2026-05-06T00:26:37+00:00",
-    "views": "44",
+    "views": "53",
     "text": "金建希案法官疑似坠亡\n金十数据 5 月 6 日讯，据多家韩国媒体报道，韩国前总统尹锡悦的夫人金建希涉嫌股价操纵等案二审主审法官今天（5 月 6 日）凌晨被发现死于法院内。据报道，经初步调查，现场“基本排除他杀嫌疑”，该法官“疑似坠亡”。韩国警方正就其具体死因等进行调查。\n😱1",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3157844",
     "datetime": "2026-05-06T00:25:57+00:00",
-    "views": "41",
+    "views": "49",
     "text": "美国南方司令部：5 月 5 日，对一艘船只进行了致命打击。情报确认该船正在东太平洋已知的毒品走私路线航行，并参与毒品走私活动。在此次行动中，三名男性毒品恐怖分子被击毙。没有美军人员受伤。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3157843",
     "datetime": "2026-05-06T00:25:38+00:00",
-    "views": "42",
+    "views": "52",
     "text": "中信证券：沃什在 5 月通过美国参议院全院投票、得到正式任命的概率较高\n中信证券研报指出，随着美国司法部结束对于鲍威尔的刑事调查，我们判断当前沃什在 5 月通过美国参议院全院投票、得到正式任命的概率较高。整体而言，在货币政策框架与美联储对外沟通方面，沃什相较于伯南克、耶伦和鲍威尔更加传统、谨慎。沃什对资产负债表工具持谨慎态度，主张以政策利率作为主要工具以及缓慢缩表，并且沃什主张货币政策决策更多依据实时数据而非预先承诺的路径，认为过度依赖前瞻性指引会削弱政策灵活性。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3157842",
     "datetime": "2026-05-06T00:23:57+00:00",
-    "views": "44",
+    "views": "50",
     "text": "美国：南方突击队在一次袭击中击毙 3 名“毒品恐怖分子”。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3157841",
     "datetime": "2026-05-06T00:23:37+00:00",
-    "views": "105",
+    "views": "111",
     "text": "现货黄金突破 4600 美元/盎司，日内涨 0.94%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3157840",
     "datetime": "2026-05-06T00:22:33+00:00",
-    "views": "75",
+    "views": "110",
     "text": "现货黄金盘中涨至 4600.22 美元/盎司，日内涨近 1%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3157839",
     "datetime": "2026-05-06T00:22:17+00:00",
-    "views": "74",
+    "views": "109",
     "text": "中信证券：关注猪周期上行时点\n中信证券研报表示，2026 年 4 月 28 日，政治局会议再度点名稳定价格，4 月中旬，猪肉批发价跌破 14.5 元/公斤，为 2008 年后最低值。供给过剩叠加中长期需求量的下降，共同导致了本轮猪价的降幅超预期，同时行业集中度上升带来的厂商博弈以及养殖效率改善导致的去产能困难使得涨价周期愈发不明显。向后看，当前仍处于猪肉去产能的开端，去产能节奏较慢，周期较长，从存栏数量推断，二季度猪肉供给仍偏宽，三季度之后或出现供给的有效边际下降。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3157838",
     "datetime": "2026-05-06T00:21:39+00:00",
-    "views": "104",
+    "views": "109",
     "text": "银河证券：能源、通信服务和现金流稳定资产仍具相对优势\n银河证券指出，若美伊停火继续延长、霍尔木兹海峡通行逐步恢复，前期由战争升级带来的极端避险需求或边际回落，黄金可能由单边上行转向高位震荡，权益市场风险偏好也有修复空间。但由于伊朗核问题、制裁解除、港口封锁等核心分歧尚未解决，原油仍将是全球通胀与风险偏好的关键变量。同时，阿联酋退出欧佩克+意味着产油国供给纪律边际松动，或限制油价进一步单边上行。对利率而言，油价与关税若继续推升成本型通胀，美联储降息窗口仍将后移，美债收益率下行空间受限，全球权益估值扩张也将受到压制。结构上，能源、通信服务和现金流稳定资产仍具相对优势。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3157837",
     "datetime": "2026-05-06T00:21:38+00:00",
-    "views": "44",
+    "views": "80",
     "text": "三星电子市值达万亿美元 成台积电之后第二家达到该规模的亚洲公司\n三星电子市值达到 1 万亿美元，随着人工智能 AI 芯片的需求激增，这家全球最大的存储器制造商股价在过去一年里上涨了三倍多。周三早盘这家韩国公司的股价一度上涨 11%，使其成为继台积电之后第二家达到万亿美元里程碑的亚洲公司。三星电子和同行 SK 海力士、台积电处于一场变革的核心，在这期间亚洲成为全球 AI 生态系统的基石。这一转变推动区域科技股强劲上涨——SK 海力士和台积电本月也创下纪录新高，投资者押注对先进芯片和算力的持续需求。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3157836",
     "datetime": "2026-05-06T00:21:36+00:00",
-    "views": "41",
+    "views": "48",
     "text": "中信证券指出，2025 年，受煤价继续下行的影响，板块盈利继续下滑，公司自由现金流也有显著收缩，但 2026 年一季度部分公司已出现环比业绩改善。看好二季度煤价表现，即便中东冲突缓和，能源供应恢复也需要时间，叠加气候因素影响，国内外煤价在二季度中后期或形成共振，煤、化价格上涨的效应在二季度也有望充分体现，中信证券认为，目前板块催化因素充分，旺季行情可期。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3157835",
     "datetime": "2026-05-06T00:20:38+00:00",
-    "views": "40",
+    "views": "46",
     "text": "纽约期金突破 4610 美元/盎司，日内涨 0.91%。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3157834",
     "datetime": "2026-05-06T00:20:37+00:00",
-    "views": "40",
+    "views": "46",
     "text": "新世界发展称有潜在买家不时接洽，惟公司尚未就任何出售资产订立协议.",
     "media_only": false,
     "image_url": null,
@@ -46879,104 +46906,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3152582"
-  },
-  {
-    "post": "Financial_Express/3152581",
-    "datetime": "2026-05-04T00:31:17+00:00",
-    "views": "98",
-    "text": "标普全球韩国 4 月制造业采购经理人指数升至 2022 年 2 月以来最高水平。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152581"
-  },
-  {
-    "post": "Financial_Express/3152580",
-    "datetime": "2026-05-04T00:30:58+00:00",
-    "views": "97",
-    "text": "标普全球印尼 4 月制造业采购经理人指数（PMI）为 49.1，低于 3 月的 50.1。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152580"
-  },
-  {
-    "post": "Financial_Express/3152579",
-    "datetime": "2026-05-04T00:30:57+00:00",
-    "views": "96",
-    "text": "标普全球马来西亚 4 月制造业采购经理人指数（PMI）为 51.6，高于 3 月的 50.7。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152579"
-  },
-  {
-    "post": "Financial_Express/3152578",
-    "datetime": "2026-05-04T00:30:39+00:00",
-    "views": "94",
-    "text": "标普全球菲律宾 4 月制造业采购经理人指数（PMI）为 48.3，低于 3 月的 51.3。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152578"
-  },
-  {
-    "post": "Financial_Express/3152577",
-    "datetime": "2026-05-04T00:30:38+00:00",
-    "views": "61",
-    "text": "标普全球越南 4 月制造业采购经理人指数（PMI）为 50.5，低于 3 月的 51.2。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152577"
-  },
-  {
-    "post": "Financial_Express/3152574",
-    "datetime": "2026-05-04T00:30:18+00:00",
-    "views": "59",
-    "text": "中国台湾 4 月日经制造业 PMI 55.3，前值 53.3。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152574"
-  },
-  {
-    "post": "Financial_Express/3152575",
-    "datetime": "2026-05-04T00:30:18+00:00",
-    "views": "60",
-    "text": "越南 4 月标普全球越南制造业 PMI\n 50.5，前值 51.2。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152575"
-  },
-  {
-    "post": "Financial_Express/3152576",
-    "datetime": "2026-05-04T00:30:18+00:00",
-    "views": "61",
-    "text": "标普全球韩国 4 月制造业采购经理人指数（PMI）为 53.6，高于 3 月的 52.6。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152576"
-  },
-  {
-    "post": "Financial_Express/3152573",
-    "datetime": "2026-05-04T00:30:17+00:00",
-    "views": "55",
-    "text": "韩国 4 月汇丰制造业 PMI 53.6，前值 52.6。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152573"
-  },
-  {
-    "post": "Financial_Express/3152571",
-    "datetime": "2026-05-04T00:30:00+00:00",
-    "views": "54",
-    "text": "韩国 4 月制造业 PMI 53.6，前值 52.6。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152571"
-  },
-  {
-    "post": "Financial_Express/3152572",
-    "datetime": "2026-05-04T00:30:00+00:00",
-    "views": "54",
-    "text": "越南 4 月制造业 PMI 50.5，前值 51.2。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3152572"
   }
 ]
