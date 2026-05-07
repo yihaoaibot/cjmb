@@ -1,5 +1,14 @@
 [
   {
+    "post": "Financial_Express/3164264",
+    "datetime": "2026-05-07T18:20:37+00:00",
+    "views": "1",
+    "text": "苹果带摄像头 AI 版 AirPods 进入高级测试阶段。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164264"
+  },
+  {
     "post": "Financial_Express/3164263",
     "datetime": "2026-05-07T18:18:58+00:00",
     "views": "1",
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3164262",
     "datetime": "2026-05-07T18:17:08+00:00",
-    "views": "1",
+    "views": "31",
     "text": "OpenAI 与博通的 AI 芯片交易遭遇 180 亿美元融资障碍。（The Information）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3164261",
     "datetime": "2026-05-07T18:16:37+00:00",
-    "views": "1",
+    "views": "31",
     "text": "美国疾病控制与预防中心（CDC）：四州共五名儿童因同一株沙门氏菌感染患病，此次疫情已查明源头为宠物高冠变色龙。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3164260",
     "datetime": "2026-05-07T18:16:18+00:00",
-    "views": "1",
+    "views": "31",
     "text": "墨西哥比索回吐早盘涨幅，股市转跌。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3164257",
     "datetime": "2026-05-07T18:14:58+00:00",
-    "views": "1",
+    "views": "31",
     "text": "报道：OpenAI 与博通 AI 芯片合作陷入融资僵局\n去年秋季，OpenAI 与芯片设计厂商博通官宣联合研发定制人工智能芯片时，双方曾将这笔合作视作板上钉钉的既定交易。数月过后，据一份内部备忘录及两名参与谈判的知情人士透露，双方正协商由博通出资推进芯片生产第一阶段建设。该阶段需消耗 1.3 吉瓦的数据中心算力容量，造价约 180 亿美元。按此成本测算，代号为 “Nexus”、总规模 10 吉瓦的完整项目，仅芯片生产环节成本就高达 1800 亿美元，还未计入数据中心建设及其他配套开支。落实这笔融资对 OpenAI 至关重要。这家 ChatGPT 开发企业预计，到 2029 年其运营资金消耗将超 2000 亿美元。自研芯片是 OpenAI 降低服务器成本、提升毛利率战略的核心一环。但目前谈判已陷入潜在僵局。一名 OpenAI 高管在上月的内部备忘录中向同事透露，博通明确表示，只有微软同意采购约 40% 的芯片产能，才会为项目首期提供融资。微软将把这批芯片部署至自有数据中心，再向 OpenAI 租赁算力使用。参与谈判的知情人士称，微软拥有数十年数据中心运营经验、也是全球信用资质顶尖的企业，一旦作出采购承诺，将让博通确信自身投资能够回本。备忘录同时指出，微软也有可能拒绝采购这批定制芯片，这将直接改写项目的融资条款。据备忘录及两名谈判知情人士透露，拟定中的芯片合作协议已增设条款：若微软实际采购量未达标，OpenAI 必须自行寻找其他接盘采购方。",
     "media_only": false,
     "image_url": null,
@@ -62071,32 +62080,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3157312"
-  },
-  {
-    "post": "Financial_Express/3157311",
-    "datetime": "2026-05-05T18:20:37+00:00",
-    "views": "115",
-    "text": "美国国务院批准向加拿大潜在销售 C-17 维护保障服务及相关设备，估计金额为 5.4 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157311"
-  },
-  {
-    "post": "Financial_Express/3157310",
-    "datetime": "2026-05-05T18:19:37+00:00",
-    "views": "145",
-    "text": "美国国务院批准了加拿大拟采购 C-17 运输机维持保障服务及相关装备的潜在军售项目，预估金额为 5.4 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157310"
-  },
-  {
-    "post": "Financial_Express/3157309",
-    "datetime": "2026-05-05T18:19:17+00:00",
-    "views": "146",
-    "text": "美国内外科医师协会：美国内外科医师协会简报指出，与医师进行面对面门诊能强化知情同意程序。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157309"
   }
 ]
