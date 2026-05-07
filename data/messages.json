@@ -1,5 +1,23 @@
 [
   {
+    "post": "Financial_Express/3164373",
+    "datetime": "2026-05-07T19:26:17+00:00",
+    "views": "1",
+    "text": "美国养老基金威胁减持道达尔能源股份，因其退出海上风电业务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164373"
+  },
+  {
+    "post": "Financial_Express/3164372",
+    "datetime": "2026-05-07T19:25:23+00:00",
+    "views": "1",
+    "text": "在岸人民币兑美元（CNY）北京时间 03:00 收报 6.8068 元，较周三夜盘收盘涨 65 点。成交量 565.98 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164372"
+  },
+  {
     "post": "Financial_Express/3164371",
     "datetime": "2026-05-07T19:24:57+00:00",
     "views": "1",
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3164370",
     "datetime": "2026-05-07T19:24:42+00:00",
-    "views": "1",
+    "views": "31",
     "text": "伊朗格什姆岛的巴赫曼码头在“伊朗武装部队与敌方交火”后遭到袭击。（法尔斯通讯社）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3164369",
     "datetime": "2026-05-07T19:24:38+00:00",
-    "views": "1",
+    "views": "31",
     "text": "巴西总统卢拉：我们在巩固巴美关系上迈出了重要一步。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3164368",
     "datetime": "2026-05-07T19:24:37+00:00",
-    "views": "1",
+    "views": "31",
     "text": "巴西总统卢拉：我们已迈出了巩固巴西与美国关系的重要一步。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3164367",
     "datetime": "2026-05-07T19:23:17+00:00",
-    "views": "6",
+    "views": "36",
     "text": "据法尔斯通讯社报道，伊朗格什姆岛的巴赫曼码头在“伊朗武装部队与敌方交火”后遭到袭击。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3164366",
     "datetime": "2026-05-07T19:21:38+00:00",
-    "views": "7",
+    "views": "37",
     "text": "以色列方面报道：以色列否认与此次爆炸事件存在任何关联。",
     "media_only": false,
     "image_url": null,
@@ -66,7 +84,7 @@
     "post": "Financial_Express/3164364",
     "datetime": "2026-05-07T19:19:57+00:00",
     "views": "37",
-    "text": "法尔斯通讯社：霍尔木兹海峡一处港口设施部分受损。",
+    "text": "法尔斯通讯社：霍尔木兹海峡一处港口设施部分成为袭击目标。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3164364"
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3164363",
     "datetime": "2026-05-07T19:18:58+00:00",
-    "views": "72",
+    "views": "102",
     "text": "法尔斯通讯社：伊朗军队在阿巴斯港附近与敌方交火。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3164361",
     "datetime": "2026-05-07T19:16:00+00:00",
-    "views": "68",
+    "views": "98",
     "text": "WTI 6 月原油期货收跌 0.27 美元，跌幅 0.28%，报 94.81 美元/桶。\n布伦特 7 月原油期货收跌 1.21 美元，跌幅 1.19%，报 100.06 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -62188,41 +62206,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3157407"
-  },
-  {
-    "post": "Financial_Express/3157406",
-    "datetime": "2026-05-05T19:26:17+00:00",
-    "views": "53",
-    "text": "美国国务卿鲁比奥：古巴没有石油封锁。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157406"
-  },
-  {
-    "post": "Financial_Express/3157405",
-    "datetime": "2026-05-05T19:25:57+00:00",
-    "views": "51",
-    "text": "Meta 计划推出 AI 助手对标 OpenClaw\n金十数据 5 月 6 日讯，据英国金融时报报道，Meta Platforms(META.O)正在构建一个高度个性化的 AI 助手，以执行日常任务。与此同时，该公司因其不断飙升的 AI 支出正面临投资者的审视。据知情人士透露，该公司正在为其超过 30 亿用户构建代理型工具，其中包括一个将由新款 Muse Spark AI 模型驱动的高级数字助手。一位了解该项目的人士表示，该助手正在由一群员工进行内部测试。另一位内部人士表示，其目标是开发一款类似于 OpenClaw 的产品，后者允许用户创建被称为“代理”的 AI 机器人，自主代表用户完成任务。一位熟悉该项目的人士表示，Meta 希望允许用户在选择共享时，向其中小助手提供高度敏感的信息，如健康和财务数据。然而，一些人质疑消费者是否愿意这样做。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157405"
-  },
-  {
-    "post": "Financial_Express/3157404",
-    "datetime": "2026-05-05T19:25:18+00:00",
-    "views": "49",
-    "text": "标普 500 指数涨 1.00%，现报 7272.770 点；道指涨 0.80%，现报 49334.969 点；纳指涨 1.16%，现报 25358.279 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157404"
-  },
-  {
-    "post": "Financial_Express/3157403",
-    "datetime": "2026-05-05T19:25:17+00:00",
-    "views": "49",
-    "text": "美国国务卿鲁比奥：我们必须就伊朗愿意谈判的议题达成一致。如果存在真正的外交途径，那可能会引导伊朗走向繁荣。但我不确定是否会存在真正的外交途径。美国掌握着所有的牌。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157403"
   }
 ]
