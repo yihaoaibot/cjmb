@@ -1,5 +1,13 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-05-07T01:00:53.936417+00:00","clsvipUpdated":"2026-05-07T01:01:04.552641+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">5月7日</h2><div class="feed"><article class="item" data-search="台湾证交所加权股价指数上涨 2.3%至 42,071.52 点。"><div class="time">09:00</div><div class="content"><div class="text" data-full="台湾证交所加权股价指数上涨 2.3%至 42,071.52 点。" data-short="台湾证交所加权股价指数上涨 2.3%至 42,071.52 点。">台湾证交所加权股价指数上涨 2.3%至 42,071.52 点。</div></div></article><article class="item" data-search="msci 亚太指数上涨 1.2%至 270.79 点。"><div class="time">09:00</div><div class="content"><div class="text" data-full="MSCI 亚太指数上涨 1.2%至 270.79 点。" data-short="MSCI 亚太指数上涨 1.2%至 270.79 点。">MSCI 亚太指数上涨 1.2%至 270.79 点。</div></div></article><article class="item" data-search="富时中国 a50 指数期货开盘涨 0.39%。"><div class="time">09:00</div><div class="content"><div class="text" data-full="富时中国 A50 指数期货开盘涨 0.39%。" data-short="富时中国 A50 指数期货开盘涨 0.39%。">富时中国 A50 指数期货开盘涨 0.39%。</div></div></article><article class="item" data-search="台湾证交所加权股价指数开高 0.3%报 41,259.96。"><div class="time">09:00</div><div class="content"><div class="text" data-full="台湾证交所加权股价指数开高 0.3%报 41,259.96。" data-short="台湾证交所加权股价指数开高 0.3%报 41,259.96。">台湾证交所加权股价指数开高 0.3%报 41,259.96。</div></div></article><article class="item" data-search="富时中国 a50 指数期货盘初涨 0.46%，上一个交易日夜盘收涨 0.46%。"><div class="time">09:00</div><div class="content"><div class="text" data-full="富时中国 A50 指数期货盘初涨 0.46%，上一个交易日夜盘收涨 0.46%。" data-short="富时中国 A50 指数期货盘初涨 0.46%，上一个交易日夜盘收涨 0.46%。">富时中国 A50 指数期货盘初涨 0.46%，上一个交易日夜盘收涨 0.46%。</div></div></article><article class="item" data-search="商品期货开盘，原油主力合约跌超 4%，lu 燃油跌超 3%，苯乙烯、沪镍、甲醇、液化气、乙二醇、塑料、燃料油、br 橡胶跌超 2%。沪锡涨超 4%，铂、沪银涨超 2%。"><div class="time">09:00</div><div class="content"><div class="text" data-full="商品期货开盘，原油主力合约跌超 4%，LU 燃油跌超 3%，苯乙烯、沪镍、甲醇、液化气、乙二醇、塑料、燃料油、BR 橡胶跌超 2%。沪锡涨超 4%，铂、沪银涨超 2%。" data-short="商品期货开盘，原油主力合约跌超 4%，LU 燃油跌超 3%，苯乙烯、沪镍、甲醇、液化气、乙二醇、塑料、燃料油、BR 橡胶跌超 2%。沪锡涨超 4%，铂、沪银涨超 2%。">商品期货开盘，原油主力合约跌超 4%，LU 燃油跌超 3%，苯乙烯、沪镍、甲醇、液化气、乙二醇、塑料、燃料油、BR 橡胶跌超 2%。沪锡涨超 4%，铂、沪银涨超 2%。</div></div></article><article class="item" data-search="上海原油连续主力合约日内跌 4%，现报 637.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="上海原油连续主力合约日内跌 4%，现报 637.00 元。" data-short="上海原油连续主力合约日内跌 4%，现报 637.00 元。">上海原油连续主力合约日内跌 4%，现报 637.00 元。</div></div></article><article class="item" data-search="玉米连续主力合约日内跌 1%，现报 2379.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="玉米连续主力合约日内跌 1%，现报 2379.00 元。" data-short="玉米连续主力合约日内跌 1%，现报 2379.00 元。">玉米连续主力合约日内跌 1%，现报 2379.00 元。</div></div></article><article class="item" data-search="锡连续主力合约日内涨 4%，现报 424730.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="锡连续主力合约日内涨 4%，现报 424730.00 元。" data-short="锡连续主力合约日内涨 4%，现报 424730.00 元。">锡连续主力合约日内涨 4%，现报 424730.00 元。</div></div></article><article class="item" data-search="富时中国 a50 指数期货开盘上涨 0.45%。"><div class="time">09:00</div><div class="content"><div class="text" data-full="富时中国 A50 指数期货开盘上涨 0.45%。" data-short="富时中国 A50 指数期货开盘上涨 0.45%。">富时中国 A50 指数期货开盘上涨 0.45%。</div></div></article><article class="item" data-search="商品期货开盘
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-05-07T01:02:58.432114+00:00","clsvipUpdated":"2026-05-07T01:03:06.477519+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">5月7日</h2><div class="feed"><article class="item" data-search="立讯精密 5 月 6 日在业绩说明会上表示，ai 算力的业务机会挑战并存。ai 端侧的产品百花齐放，但都还没有看到千万级的大批量机会，公司一直积极配合海内外客户的需求。"><div class="time">09:02</div><div class="content"><div class="text" data-full="立讯精密 5 月 6 日在业绩说明会上表示，AI 算力的业务机会挑战并存。AI 端侧的产品百花齐放，但都还没有看到千万级的大批量机会，公司一直积极配合海内外客户的需求。" data-short="立讯精密 5 月 6 日在业绩说明会上表示，AI 算力的业务机会挑战并存。AI 端侧的产品百花齐放，但都还没有看到千万级的大批量机会，公司一直积极配合海内外客户的需求。">立讯精密 5 月 6 日在业绩说明会上表示，AI 算力的业务机会挑战并存。AI 端侧的产品百花齐放，但都还没有看到千万级的大批量机会，公司一直积极配合海内外客户的需求。</div></div></article><article class="item" data-search="韩国 kospi 指数扭转早盘涨势；最新报 7307.90 点，下跌 1.0%。"><div class="time">09:02</div><div class="content"><div class="text" data-full="韩国 KOSPI 指数扭转早盘涨势；最新报 7307.90 点，下跌 1.0%。" data-short="韩国 KOSPI 指数扭转早盘涨势；最新报 7307.90 点，下跌 1.0%。">韩国 KOSPI 指数扭转早盘涨势；最新报 7307.90 点，下跌 1.0%。</div></div></article><article class="item" data-search="imf：欧盟能源补贴政策应更具针对性
+欧洲媒体 6 日报道，国际货币基金组织（imf）欧洲部副主任黑尔格·贝格尔说，面对中东战事引发能源价格上涨，欧盟应采取更有针对性的纾困措施，把重点放在帮扶脆弱家庭等方面。据欧洲新闻台报道，贝格尔认为，如果能源价格高企局面持续，许多欧洲国家政府需要把纾困措施设计得更加精准。他说，能源价格上涨会向市场释放节约能源和转向替代能源的信号，政府不应过度削弱这一价格信号，而应通过定向补贴等方式帮助最需要扶持的群体。随着中东战事延宕，欧洲因能源价格高企而受到的冲击愈加明显。欧元集团主席基里亚科斯·皮埃拉卡基斯此前表示，眼下危机带来的影响并不均衡，能源净进口国以及财政空间有限的经济体面临更大压力。imf 预测，受中东局势引发的能源危机影响，2026 年欧洲经济增长将放缓，通胀也将上升。如果负面影响持续，欧盟经济可能濒临衰退。(新华社)"><div class="time">09:01</div><div class="content"><div class="text" data-full="IMF：欧盟能源补贴政策应更具针对性
+欧洲媒体 6 日报道，国际货币基金组织（IMF）欧洲部副主任黑尔格·贝格尔说，面对中东战事引发能源价格上涨，欧盟应采取更有针对性的纾困措施，把重点放在帮扶脆弱家庭等方面。据欧洲新闻台报道，贝格尔认为，如果能源价格高企局面持续，许多欧洲国家政府需要把纾困措施设计得更加精准。他说，能源价格上涨会向市场释放节约能源和转向替代能源的信号，政府不应过度削弱这一价格信号，而应通过定向补贴等方式帮助最需要扶持的群体。随着中东战事延宕，欧洲因能源价格高企而受到的冲击愈加明显。欧元集团主席基里亚科斯·皮埃拉卡基斯此前表示，眼下危机带来的影响并不均衡，能源净进口国以及财政空间有限的经济体面临更大压力。IMF 预测，受中东局势引发的能源危机影响，2026 年欧洲经济增长将放缓，通胀也将上升。如果负面影响持续，欧盟经济可能濒临衰退。(新华社)" data-short="IMF：欧盟能源补贴政策应更具针对性
+欧洲媒体 6 日报道，国际货币基金组织（IMF）欧洲部副主任黑尔格·贝格尔说，面对中东战事引发能源价格上涨，欧盟应采取更有针对性的纾困措施，把重点放在帮扶脆弱家庭等方面。据欧洲新闻台报道，贝格尔认为，如果能源价格高企局面持续，许多欧洲国家政府需要把纾困措施设计得更加精准。他说，能源价格上涨会向市场释放节约能源和转向替代能...">IMF：欧盟能源补贴政策应更具针对性
+欧洲媒体 6 日报道，国际货币基金组织（IMF）欧洲部副主任黑尔格·贝格尔说，面对中东战事引发能源价格上涨，欧盟应采取更有针对性的纾困措施，把重点放在帮扶脆弱家庭等方面。据欧洲新闻台报道，贝格尔认为，如果能源价格高企局面持续，许多欧洲国家政府需要把纾困措施设计得更加精准。他说，能源价格上涨会向市场释放节约能源和转向替代能...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="新加坡海峡时报指数开盘上涨 0.6%，至 4957.90 点。马来西亚吉隆坡综合指数开盘上涨 0.3%，至 1762.81 点。"><div class="time">09:01</div><div class="content"><div class="text" data-full="新加坡海峡时报指数开盘上涨 0.6%，至 4957.90 点。马来西亚吉隆坡综合指数开盘上涨 0.3%，至 1762.81 点。" data-short="新加坡海峡时报指数开盘上涨 0.6%，至 4957.90 点。马来西亚吉隆坡综合指数开盘上涨 0.3%，至 1762.81 点。">新加坡海峡时报指数开盘上涨 0.6%，至 4957.90 点。马来西亚吉隆坡综合指数开盘上涨 0.3%，至 1762.81 点。</div></div></article><article class="item" data-search="立讯精密：受内存供应影响 公司近期放缓 odm 手机业务推进
+立讯精密(002475)5 月 6 日在业绩说明会上表示，由于受内存供应影响，公司近期放缓 odm 手机业务推进，将资源转到 ai pc。"><div class="time">09:01</div><div class="content"><div class="text" data-full="立讯精密：受内存供应影响 公司近期放缓 ODM 手机业务推进
+立讯精密(002475)5 月 6 日在业绩说明会上表示，由于受内存供应影响，公司近期放缓 ODM 手机业务推进，将资源转到 AI PC。" data-short="立讯精密：受内存供应影响 公司近期放缓 ODM 手机业务推进
+立讯精密(002475)5 月 6 日在业绩说明会上表示，由于受内存供应影响，公司近期放缓 ODM 手机业务推进，将资源转到 AI PC。">立讯精密：受内存供应影响 公司近期放缓 ODM 手机业务推进
+立讯精密(002475)5 月 6 日在业绩说明会上表示，由于受内存供应影响，公司近期放缓 ODM 手机业务推进，将资源转到 AI PC。</div></div></article><article class="item" data-search="期市早盘开盘，国内期货主力合约多数下跌。跌幅方面，原油跌超 4％，低硫燃油跌超 3％，燃油、乙二醇、丙烯、lpg、对二甲苯、甲醇、沪镍、苯乙烯跌超 2％。涨幅方面，沪锡涨超 4％，铂涨超 3％，沪银涨超 2％，钯、碳酸锂、欧线集运、烧碱、氧化铝涨超 1％。"><div class="time">09:01</div><div class="content"><div class="text" data-full="期市早盘开盘，国内期货主力合约多数下跌。跌幅方面，原油跌超 4％，低硫燃油跌超 3％，燃油、乙二醇、丙烯、LPG、对二甲苯、甲醇、沪镍、苯乙烯跌超 2％。涨幅方面，沪锡涨超 4％，铂涨超 3％，沪银涨超 2％，钯、碳酸锂、欧线集运、烧碱、氧化铝涨超 1％。" data-short="期市早盘开盘，国内期货主力合约多数下跌。跌幅方面，原油跌超 4％，低硫燃油跌超 3％，燃油、乙二醇、丙烯、LPG、对二甲苯、甲醇、沪镍、苯乙烯跌超 2％。涨幅方面，沪锡涨超 4％，铂涨超 3％，沪银涨超 2％，钯、碳酸锂、欧线集运、烧碱、氧化铝涨超 1％。">期市早盘开盘，国内期货主力合约多数下跌。跌幅方面，原油跌超 4％，低硫燃油跌超 3％，燃油、乙二醇、丙烯、LPG、对二甲苯、甲醇、沪镍、苯乙烯跌超 2％。涨幅方面，沪锡涨超 4％，铂涨超 3％，沪银涨超 2％，钯、碳酸锂、欧线集运、烧碱、氧化铝涨超 1％。</div></div></article><article class="item" data-search="台湾证交所加权股价指数盘初涨逾 2%。"><div class="time">09:01</div><div class="content"><div class="text" data-full="台湾证交所加权股价指数盘初涨逾 2%。" data-short="台湾证交所加权股价指数盘初涨逾 2%。">台湾证交所加权股价指数盘初涨逾 2%。</div></div></article><article class="item" data-search="当地时间 5 月 6 日，据美国方面消息，美国官员当日表示，有来自美国三个州的居民目前正接受健康监测，以排查潜在的汉坦病毒感染风险。此前，他们曾搭乘一艘荷兰邮轮，而该邮轮上曾暴发过致死性的汉坦病毒疫情。官员们称，目前所有接受监测的人员均未出现患病迹象。（央视）"><div class="time">09:01</div><div class="content"><div class="text" data-full="当地时间 5 月 6 日，据美国方面消息，美国官员当日表示，有来自美国三个州的居民目前正接受健康监测，以排查潜在的汉坦病毒感染风险。此前，他们曾搭乘一艘荷兰邮轮，而该邮轮上曾暴发过致死性的汉坦病毒疫情。官员们称，目前所有接受监测的人员均未出现患病迹象。（央视）" data-short="当地时间 5 月 6 日，据美国方面消息，美国官员当日表示，有来自美国三个州的居民目前正接受健康监测，以排查潜在的汉坦病毒感染风险。此前，他们曾搭乘一艘荷兰邮轮，而该邮轮上曾暴发过致死性的汉坦病毒疫情。官员们称，目前所有接受监测的人员均未出现患病迹象。（央视）">当地时间 5 月 6 日，据美国方面消息，美国官员当日表示，有来自美国三个州的居民目前正接受健康监测，以排查潜在的汉坦病毒感染风险。此前，他们曾搭乘一艘荷兰邮轮，而该邮轮上曾暴发过致死性的汉坦病毒疫情。官员们称，目前所有接受监测的人员均未出现患病迹象。（央视）</div></div></article><article class="item" data-search="低硫燃料油连续主力合约日内跌 4%，现报 5012.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="低硫燃料油连续主力合约日内跌 4%，现报 5012.00 元。" data-short="低硫燃料油连续主力合约日内跌 4%，现报 5012.00 元。">低硫燃料油连续主力合约日内跌 4%，现报 5012.00 元。</div></div></article><article class="item" data-search="台湾证交所加权股价指数上涨 2.3%至 42,071.52 点。"><div class="time">09:00</div><div class="content"><div class="text" data-full="台湾证交所加权股价指数上涨 2.3%至 42,071.52 点。" data-short="台湾证交所加权股价指数上涨 2.3%至 42,071.52 点。">台湾证交所加权股价指数上涨 2.3%至 42,071.52 点。</div></div></article><article class="item" data-search="msci 亚太指数上涨 1.2%至 270.79 点。"><div class="time">09:00</div><div class="content"><div class="text" data-full="MSCI 亚太指数上涨 1.2%至 270.79 点。" data-short="MSCI 亚太指数上涨 1.2%至 270.79 点。">MSCI 亚太指数上涨 1.2%至 270.79 点。</div></div></article><article class="item" data-search="富时中国 a50 指数期货开盘涨 0.39%。"><div class="time">09:00</div><div class="content"><div class="text" data-full="富时中国 A50 指数期货开盘涨 0.39%。" data-short="富时中国 A50 指数期货开盘涨 0.39%。">富时中国 A50 指数期货开盘涨 0.39%。</div></div></article><article class="item" data-search="台湾证交所加权股价指数开高 0.3%报 41,259.96。"><div class="time">09:00</div><div class="content"><div class="text" data-full="台湾证交所加权股价指数开高 0.3%报 41,259.96。" data-short="台湾证交所加权股价指数开高 0.3%报 41,259.96。">台湾证交所加权股价指数开高 0.3%报 41,259.96。</div></div></article><article class="item" data-search="富时中国 a50 指数期货盘初涨 0.46%，上一个交易日夜盘收涨 0.46%。"><div class="time">09:00</div><div class="content"><div class="text" data-full="富时中国 A50 指数期货盘初涨 0.46%，上一个交易日夜盘收涨 0.46%。" data-short="富时中国 A50 指数期货盘初涨 0.46%，上一个交易日夜盘收涨 0.46%。">富时中国 A50 指数期货盘初涨 0.46%，上一个交易日夜盘收涨 0.46%。</div></div></article><article class="item" data-search="商品期货开盘，原油主力合约跌超 4%，lu 燃油跌超 3%，苯乙烯、沪镍、甲醇、液化气、乙二醇、塑料、燃料油、br 橡胶跌超 2%。沪锡涨超 4%，铂、沪银涨超 2%。"><div class="time">09:00</div><div class="content"><div class="text" data-full="商品期货开盘，原油主力合约跌超 4%，LU 燃油跌超 3%，苯乙烯、沪镍、甲醇、液化气、乙二醇、塑料、燃料油、BR 橡胶跌超 2%。沪锡涨超 4%，铂、沪银涨超 2%。" data-short="商品期货开盘，原油主力合约跌超 4%，LU 燃油跌超 3%，苯乙烯、沪镍、甲醇、液化气、乙二醇、塑料、燃料油、BR 橡胶跌超 2%。沪锡涨超 4%，铂、沪银涨超 2%。">商品期货开盘，原油主力合约跌超 4%，LU 燃油跌超 3%，苯乙烯、沪镍、甲醇、液化气、乙二醇、塑料、燃料油、BR 橡胶跌超 2%。沪锡涨超 4%，铂、沪银涨超 2%。</div></div></article><article class="item" data-search="上海原油连续主力合约日内跌 4%，现报 637.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="上海原油连续主力合约日内跌 4%，现报 637.00 元。" data-short="上海原油连续主力合约日内跌 4%，现报 637.00 元。">上海原油连续主力合约日内跌 4%，现报 637.00 元。</div></div></article><article class="item" data-search="玉米连续主力合约日内跌 1%，现报 2379.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="玉米连续主力合约日内跌 1%，现报 2379.00 元。" data-short="玉米连续主力合约日内跌 1%，现报 2379.00 元。">玉米连续主力合约日内跌 1%，现报 2379.00 元。</div></div></article><article class="item" data-search="锡连续主力合约日内涨 4%，现报 424730.00 元。"><div class="time">09:00</div><div class="content"><div class="text" data-full="锡连续主力合约日内涨 4%，现报 424730.00 元。" data-short="锡连续主力合约日内涨 4%，现报 424730.00 元。">锡连续主力合约日内涨 4%，现报 424730.00 元。</div></div></article><article class="item" data-search="富时中国 a50 指数期货开盘上涨 0.45%。"><div class="time">09:00</div><div class="content"><div class="text" data-full="富时中国 A50 指数期货开盘上涨 0.45%。" data-short="富时中国 A50 指数期货开盘上涨 0.45%。">富时中国 A50 指数期货开盘上涨 0.45%。</div></div></article><article class="item" data-search="商品期货开盘
 锡连续涨 4.96%，上海原油连续跌 4.66%，低硫燃料油连续跌 3.79%，苯乙烯连续跌 2.91%，镍连续跌 2.70%。"><div class="time">09:00</div><div class="content"><div class="text" data-full="商品期货开盘
 锡连续涨 4.96%，上海原油连续跌 4.66%，低硫燃料油连续跌 3.79%，苯乙烯连续跌 2.91%，镍连续跌 2.70%。" data-short="商品期货开盘
 锡连续涨 4.96%，上海原油连续跌 4.66%，低硫燃料油连续跌 3.79%，苯乙烯连续跌 2.91%，镍连续跌 2.70%。">商品期货开盘
@@ -743,35 +751,126 @@ Arm AGI CPU 需求强劲，预计 2027-28 年规模将超过 20 亿美元。
 金十数据 5 月 7 日讯，据美国媒体 6 日报道，数十名民主党籍联邦众议员日前致信国务卿鲁比奥，要求特朗普政府披露“以色列核武器计划详情”，表示政府不应在核不扩散问题上搞双重标准。这份日期为 5 月 4 日的信写道，美国正在与一个它拒绝正式承认有潜在核武器计划的国家并肩作战。在此情况下，误判、局势升级和使用核武器的风险并非纸上谈兵。“国会有宪法赋予的责任充分了解中东的核平衡、冲突的任何一方让局势升级的风险，以及政府针对此类情况制定的计划和应急措施。我们不认为收到了那些信息”。"><div class="time">06:20</div><div class="content"><div class="text" data-full="美国民主党议员要求政府披露“以色列核武详情”
 金十数据 5 月 7 日讯，据美国媒体 6 日报道，数十名民主党籍联邦众议员日前致信国务卿鲁比奥，要求特朗普政府披露“以色列核武器计划详情”，表示政府不应在核不扩散问题上搞双重标准。这份日期为 5 月 4 日的信写道，美国正在与一个它拒绝正式承认有潜在核武器计划的国家并肩作战。在此情况下，误判、局势升级和使用核武器的风险并非纸上谈兵。“国会有宪法赋予的责任充分了解中东的核平衡、冲突的任何一方让局势升级的风险，以及政府针对此类情况制定的计划和应急措施。我们不认为收到了那些信息”。" data-short="美国民主党议员要求政府披露“以色列核武详情”
 金十数据 5 月 7 日讯，据美国媒体 6 日报道，数十名民主党籍联邦众议员日前致信国务卿鲁比奥，要求特朗普政府披露“以色列核武器计划详情”，表示政府不应在核不扩散问题上搞双重标准。这份日期为 5 月 4 日的信写道，美国正在与一个它拒绝正式承认有潜在核武器计划的国家并肩作战。在此情况下，误判、局势升级和使用核武...">美国民主党议员要求政府披露“以色列核武详情”
-金十数据 5 月 7 日讯，据美国媒体 6 日报道，数十名民主党籍联邦众议员日前致信国务卿鲁比奥，要求特朗普政府披露“以色列核武器计划详情”，表示政府不应在核不扩散问题上搞双重标准。这份日期为 5 月 4 日的信写道，美国正在与一个它拒绝正式承认有潜在核武器计划的国家并肩作战。在此情况下，误判、局势升级和使用核武...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="半导体芯片正在成为公募基金强力布局的方向。从最新动向看，在产品端密集上新的同时，基金经理还在密集调研寻找机会。在机构看来，在 ai 产业浪潮强力发展的背景下，叠加国产自主可控的持续推进，半导体芯片板块正在迎来双重机遇，看好后市投资机会。（上证报）"><div class="time">06:20</div><div class="content"><div class="text" data-full="半导体芯片正在成为公募基金强力布局的方向。从最新动向看，在产品端密集上新的同时，基金经理还在密集调研寻找机会。在机构看来，在 AI 产业浪潮强力发展的背景下，叠加国产自主可控的持续推进，半导体芯片板块正在迎来双重机遇，看好后市投资机会。（上证报）" data-short="半导体芯片正在成为公募基金强力布局的方向。从最新动向看，在产品端密集上新的同时，基金经理还在密集调研寻找机会。在机构看来，在 AI 产业浪潮强力发展的背景下，叠加国产自主可控的持续推进，半导体芯片板块正在迎来双重机遇，看好后市投资机会。（上证报）">半导体芯片正在成为公募基金强力布局的方向。从最新动向看，在产品端密集上新的同时，基金经理还在密集调研寻找机会。在机构看来，在 AI 产业浪潮强力发展的背景下，叠加国产自主可控的持续推进，半导体芯片板块正在迎来双重机遇，看好后市投资机会。（上证报）</div></div></article><article class="item" data-search="现货黄金突破 4700 美元/盎司，日内涨 0.19%。"><div class="time">06:19</div><div class="content"><div class="text" data-full="现货黄金突破 4700 美元/盎司，日内涨 0.19%。" data-short="现货黄金突破 4700 美元/盎司，日内涨 0.19%。">现货黄金突破 4700 美元/盎司，日内涨 0.19%。</div></div></article><article class="item" data-search="媒体援引知情人士报道称，特朗普政府正研究利用美国军事基地及国防部其他场所地下的石油资源，以帮助补充大幅消耗的应急储备。因讨论未公开消息而要求匿名的这位知情人士表示，尚未就这项可能的举措做出任何决定。此举正值政府承诺寻找“创新方式”来补充战略石油储备。"><div class="time">06:18</div><div class="content"><div class="text" data-full="媒体援引知情人士报道称，特朗普政府正研究利用美国军事基地及国防部其他场所地下的石油资源，以帮助补充大幅消耗的应急储备。因讨论未公开消息而要求匿名的这位知情人士表示，尚未就这项可能的举措做出任何决定。此举正值政府承诺寻找“创新方式”来补充战略石油储备。" data-short="媒体援引知情人士报道称，特朗普政府正研究利用美国军事基地及国防部其他场所地下的石油资源，以帮助补充大幅消耗的应急储备。因讨论未公开消息而要求匿名的这位知情人士表示，尚未就这项可能的举措做出任何决定。此举正值政府承诺寻找“创新方式”来补充战略石油储备。">媒体援引知情人士报道称，特朗普政府正研究利用美国军事基地及国防部其他场所地下的石油资源，以帮助补充大幅消耗的应急储备。因讨论未公开消息而要求匿名的这位知情人士表示，尚未就这项可能的举措做出任何决定。此举正值政府承诺寻找“创新方式”来补充战略石油储备。</div></div></article><article class="item" data-search="空客斩获 190 亿美元订单，创下加拿大史上最大单笔飞机交易纪录。"><div class="time">06:17</div><div class="content"><div class="text" data-full="空客斩获 190 亿美元订单，创下加拿大史上最大单笔飞机交易纪录。" data-short="空客斩获 190 亿美元订单，创下加拿大史上最大单笔飞机交易纪录。">空客斩获 190 亿美元订单，创下加拿大史上最大单笔飞机交易纪录。</div></div></article><article class="item" data-search="美国国家信用合作社管理局：已将位于密西西比州杰克逊的杰克逊地区联邦信用合作社交由接管管理。"><div class="time">06:16</div><div class="content"><div class="text" data-full="美国国家信用合作社管理局：已将位于密西西比州杰克逊的杰克逊地区联邦信用合作社交由接管管理。" data-short="美国国家信用合作社管理局：已将位于密西西比州杰克逊的杰克逊地区联邦信用合作社交由接管管理。">美国国家信用合作社管理局：已将位于密西西比州杰克逊的杰克逊地区联邦信用合作社交由接管管理。</div></div></article><article class="item" data-search="纽约期银日内涨 1%，现报 78.08 美元/盎司。"><div class="time">06:14</div><div class="content"><div class="text" data-full="纽约期银日内涨 1%，现报 78.08 美元/盎司。" data-short="纽约期银日内涨 1%，现报 78.08 美元/盎司。">纽约期银日内涨 1%，现报 78.08 美元/盎司。</div></div></article><article class="item" data-search="法国：前总统萨科齐获得假释。"><div class="time">06:13</div><div class="content"><div class="text" data-full="法国：前总统萨科齐获得假释。" data-short="法国：前总统萨科齐获得假释。">法国：前总统萨科齐获得假释。</div></div></article><article class="item" data-search="“辛苦赚来的利润，一个季度就被汇率波动‘吃掉’了。”——这或许是今年一季报中，不少上市公司的心声。三一重工产生约 8 亿元汇兑损失，莱克电气归母净利润同比骤降逾九成……在近期密集出炉的一季报中，汇兑损益已成为左右部分上市公司利润表的核心变量。“增收不增利”的现状，拷问着经营主体的汇率风险管理能力。多位专家强调，在人民币汇率双向波动常态化的背景下，汇率风险管理已成为中国出海企业的“必修课”。（上证报）"><div class="time">06:13</div><div class="content"><div class="text" data-full="“辛苦赚来的利润，一个季度就被汇率波动‘吃掉’了。”——这或许是今年一季报中，不少上市公司的心声。三一重工产生约 8 亿元汇兑损失，莱克电气归母净利润同比骤降逾九成……在近期密集出炉的一季报中，汇兑损益已成为左右部分上市公司利润表的核心变量。“增收不增利”的现状，拷问着经营主体的汇率风险管理能力。多位专家强调，在人民币汇率双向波动常态化的背景下，汇率风险管理已成为中国出海企业的“必修课”。（上证报）" data-short="“辛苦赚来的利润，一个季度就被汇率波动‘吃掉’了。”——这或许是今年一季报中，不少上市公司的心声。三一重工产生约 8 亿元汇兑损失，莱克电气归母净利润同比骤降逾九成……在近期密集出炉的一季报中，汇兑损益已成为左右部分上市公司利润表的核心变量。“增收不增利”的现状，拷问着经营主体的汇率风险管理能力。多位专家强调，在人民币汇率双向波动常态化的背景下，汇率风险管理...">“辛苦赚来的利润，一个季度就被汇率波动‘吃掉’了。”——这或许是今年一季报中，不少上市公司的心声。三一重工产生约 8 亿元汇兑损失，莱克电气归母净利润同比骤降逾九成……在近期密集出炉的一季报中，汇兑损益已成为左右部分上市公司利润表的核心变量。“增收不增利”的现状，拷问着经营主体的汇率风险管理能力。多位专家强调，在人民币汇率双向波动常态化的背景下，汇率风险管理...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="伊朗正在审议美国提出的结束冲突方案，但其核心诉求并未得到回应。"><div class="time">06:12</div><div class="content"><div class="text" data-full="伊朗正在审议美国提出的结束冲突方案，但其核心诉求并未得到回应。" data-short="伊朗正在审议美国提出的结束冲突方案，但其核心诉求并未得到回应。">伊朗正在审议美国提出的结束冲突方案，但其核心诉求并未得到回应。</div></div></article><article class="item" data-search="美国据悉考虑利用军事基地地下的石油资源 以补充战略储备
-据知情人士透露，特朗普政府正研究利用美国军事基地及国防部其他场所地下的石油资源，以帮助补充大幅消耗的应急储备，但尚未就这项可能的举措做出任何决定。此举正值政府承诺寻找“创新方式”来补充战略石油储备。"><div class="time">06:11</div><div class="content"><div class="text" data-full="美国据悉考虑利用军事基地地下的石油资源 以补充战略储备
-据知情人士透露，特朗普政府正研究利用美国军事基地及国防部其他场所地下的石油资源，以帮助补充大幅消耗的应急储备，但尚未就这项可能的举措做出任何决定。此举正值政府承诺寻找“创新方式”来补充战略石油储备。" data-short="美国据悉考虑利用军事基地地下的石油资源 以补充战略储备
-据知情人士透露，特朗普政府正研究利用美国军事基地及国防部其他场所地下的石油资源，以帮助补充大幅消耗的应急储备，但尚未就这项可能的举措做出任何决定。此举正值政府承诺寻找“创新方式”来补充战略石油储备。">美国据悉考虑利用军事基地地下的石油资源 以补充战略储备
-据知情人士透露，特朗普政府正研究利用美国军事基地及国防部其他场所地下的石油资源，以帮助补充大幅消耗的应急储备，但尚未就这项可能的举措做出任何决定。此举正值政府承诺寻找“创新方式”来补充战略石油储备。</div></div></article><article class="item" data-search="纳斯达克金龙中国指数收涨 3.45%，报 7127.47 点。利弗莫尔中概股龙头指数收涨 4.98%。
-热门中概股里，百度收涨 11.37%，金山云涨 8.41%，阿里巴巴涨 6.94%，世纪互联涨 6.25%，腾讯音乐涨 5.57%，新东方、唯品会、老虎证券至多涨 4.71%，携程、boss 直聘、b 站、亿航智能、贝壳、京东涨 3.91%-3.40%，网易涨 2.84%，亚朵、万国数据、中通快递至多涨 2.34%，名创优品涨 1.37%，文远知行涨 1.05%，小鹏、小马智行、百胜中国、阿特斯太阳能涨 0.70%-0.48%。
-蔚来收平，华住、理想至多跌 0.34%，大全新能源跌 3.30%，晶科能源跌 3.70%。
-此外，拼多多涨 5.75%，小米集团 adr 涨 3.19%，美团 adr 涨 1.22%，腾讯控股 adr 涨 0.76%，比亚迪 adr 跌 1.46%。
-etf 中，中国科技指数 etf（cqqq）收涨 4.94%，中概互联网指数 etf（kweb）收涨 4.31%。
-msci 新兴市场 ex 中国 etf（emxc）收涨 3.46%，德银嘉实沪深 300 指数 etf（ashr）收涨 2.73%，xtrackersharvest 中证 50（ashs）收涨 1.84%。"><div class="time">06:11</div><div class="content"><div class="text" data-full="纳斯达克金龙中国指数收涨 3.45%，报 7127.47 点。利弗莫尔中概股龙头指数收涨 4.98%。
-热门中概股里，百度收涨 11.37%，金山云涨 8.41%，阿里巴巴涨 6.94%，世纪互联涨 6.25%，腾讯音乐涨 5.57%，新东方、唯品会、老虎证券至多涨 4.71%，携程、Boss 直聘、B 站、亿航智能、贝壳、京东涨 3.91%-3.40%，网易涨 2.84%，亚朵、万国数据、中通快递至多涨 2.34%，名创优品涨 1.37%，文远知行涨 1.05%，小鹏、小马智行、百胜中国、阿特斯太阳能涨 0.70%-0.48%。
-蔚来收平，华住、理想至多跌 0.34%，大全新能源跌 3.30%，晶科能源跌 3.70%。
-此外，拼多多涨 5.75%，小米集团 ADR 涨 3.19%，美团 ADR 涨 1.22%，腾讯控股 ADR 涨 0.76%，比亚迪 ADR 跌 1.46%。
-ETF 中，中国科技指数 ETF（CQQQ）收涨 4.94%，中概互联网指数 ETF（KWEB）收涨 4.31%。
-MSCI 新兴市场 ex 中国 ETF（EMXC）收涨 3.46%，德银嘉实沪深 300 指数 ETF（ASHR）收涨 2.73%，XtrackersHarvest 中证 50（ASHS）收涨 1.84%。" data-short="纳斯达克金龙中国指数收涨 3.45%，报 7127.47 点。利弗莫尔中概股龙头指数收涨 4.98%。
-热门中概股里，百度收涨 11.37%，金山云涨 8.41%，阿里巴巴涨 6.94%，世纪互联涨 6.25%，腾讯音乐涨 5.57%，新东方、唯品会、老虎证券至多涨 4.71%，携程、Boss 直聘、B 站、亿航智能、贝壳、京东涨 3.91%-3.40%，网...">纳斯达克金龙中国指数收涨 3.45%，报 7127.47 点。利弗莫尔中概股龙头指数收涨 4.98%。
-热门中概股里，百度收涨 11.37%，金山云涨 8.41%，阿里巴巴涨 6.94%，世纪互联涨 6.25%，腾讯音乐涨 5.57%，新东方、唯品会、老虎证券至多涨 4.71%，携程、Boss 直聘、B 站、亿航智能、贝壳、京东涨 3.91%-3.40%，网...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="纳斯达克金龙中国指数收涨 3.45%，报 7127.47 点。利弗莫尔中概股龙头指数收涨 4.98%。
-etf 中，中国科技指数 etf（cqqq）收涨 4.94%，中概互联网指数 etf（kweb）收涨 4.31%。
-msci 新兴市场 ex 中国 etf（emxc）收涨 3.46%，德银嘉实沪深 300 指数 etf（ashr）收涨 2.73%，xtrackersharvest 中证 50（ashs）收涨 1.84%。"><div class="time">06:10</div><div class="content"><div class="text" data-full="纳斯达克金龙中国指数收涨 3.45%，报 7127.47 点。利弗莫尔中概股龙头指数收涨 4.98%。
-ETF 中，中国科技指数 ETF（CQQQ）收涨 4.94%，中概互联网指数 ETF（KWEB）收涨 4.31%。
-MSCI 新兴市场 ex 中国 ETF（EMXC）收涨 3.46%，德银嘉实沪深 300 指数 ETF（ASHR）收涨 2.73%，XtrackersHarvest 中证 50（ASHS）收涨 1.84%。" data-short="纳斯达克金龙中国指数收涨 3.45%，报 7127.47 点。利弗莫尔中概股龙头指数收涨 4.98%。
-ETF 中，中国科技指数 ETF（CQQQ）收涨 4.94%，中概互联网指数 ETF（KWEB）收涨 4.31%。
-MSCI 新兴市场 ex 中国 ETF（EMXC）收涨 3.46%，德银嘉实沪深 300 指数 ETF（ASHR）收涨 2.73%，Xtra...">纳斯达克金龙中国指数收涨 3.45%，报 7127.47 点。利弗莫尔中概股龙头指数收涨 4.98%。
-ETF 中，中国科技指数 ETF（CQQQ）收涨 4.94%，中概互联网指数 ETF（KWEB）收涨 4.31%。
-MSCI 新兴市场 ex 中国 ETF（EMXC）收涨 3.46%，德银嘉实沪深 300 指数 ETF（ASHR）收涨 2.73%，Xtra...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="智利：各大主流电视频道对谷歌提起诉讼。"><div class="time">06:09</div><div class="content"><div class="text" data-full="智利：各大主流电视频道对谷歌提起诉讼。" data-short="智利：各大主流电视频道对谷歌提起诉讼。">智利：各大主流电视频道对谷歌提起诉讼。</div></div></article><article class="item" data-search="消息人士：美国要求伊朗移交所有浓缩核材料，而非仅交出高丰度浓缩铀部分。"><div class="time">06:08</div><div class="content"><div class="text" data-full="消息人士：美国要求伊朗移交所有浓缩核材料，而非仅交出高丰度浓缩铀部分。" data-short="消息人士：美国要求伊朗移交所有浓缩核材料，而非仅交出高丰度浓缩铀部分。">消息人士：美国要求伊朗移交所有浓缩核材料，而非仅交出高丰度浓缩铀部分。</div></div></article><article class="item" data-search="距离达成停战协议还有多远？美称非常乐观 伊朗说还在审阅
-金十数据 5 月 7 日讯，近日，美方持续释放关于结束伊朗战事的信号。美国总统特朗普 6 日数次表示，对美国同伊朗达成协议表示乐观，并称可能达成的协议包括伊朗将其高浓缩铀运送至美国。对此，伊朗方面称，为了掩盖美国“自由计划”的失败，美国媒体近几个小时以来一直在发布猜测性报道和虚假新闻，“试图歪曲事实”。伊朗外交部发言人巴加埃强调，针对美国对伊朗 14 点提议的看法，伊朗尚未向斡旋方巴基斯坦回复伊方意见。"><div class="time">06:07</div><div class="content"><div class="text" data-full="距离达成停战协议还有多远？美称非常乐观 伊朗说还在审阅
-金十数据 5 月 7 日讯，近日，美方持续释放关于结束伊朗战事的信号。美国总统特朗普 6 日数次表示，对美国同伊朗达成协议表示乐观，并称可能达成的协议包括伊朗将其高浓缩铀运送至美国。对此，伊朗方面称，为了掩盖美国“自由计划”的失败，美国媒体近几个小时以来一直在发布猜测性报道和虚假新闻，“试图歪曲事实”。伊朗外交部发言人巴加埃强调，针对美国对伊朗 14 点提议的看法，伊朗尚未向斡旋方巴基斯坦回复伊方意见。" data-short="距离达成停战协议还有多远？美称非常乐观 伊朗说还在审阅
-金十数据 5 月 7 日讯，近日，美方持续释放关于结束伊朗战事的信号。美国总统特朗普 6 日数次表示，对美国同伊朗达成协议表示乐观，并称可能达成的协议包括伊朗将其高浓缩铀运送至美国。对此，伊朗方面称，为了掩盖美国“自由计划”的失败，美国媒体近几个小时以来一直在发布猜测性报道和虚假新闻，“试图歪曲事实”。...">距离达成停战协议还有多远？美称非常乐观 伊朗说还在审阅
-金十数据 5 月 7 日讯，近日，美方持续释放关于结束伊朗战事的信号。美国总统特朗普 6 日数次表示，对美国同伊朗达成协议表示乐观，并称可能达成的协议包括伊朗将其高浓缩铀运送至美国。对此，伊朗方面称，为了掩盖美国“自由计划”的失败，美国媒体近几个小时以来一直在发布猜测性报道和虚假新闻，“试图歪曲事实”。...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="wti 原油期货涨超 1 美元，至 96.33 美元/桶。"><div class="time">06:07</div><div class="content"><div class="text" data-full="WTI 原油期货涨超 1 美元，至 96.33 美元/桶。" data-short="WTI 原油期货涨超 1 美元，至 96.33 美元/桶。">WTI 原油期货涨超 1 美元，至 96.33 美元/桶。</div></div></article><article class="item" data-search="美国原油期货开盘上涨超 1 美元，报每桶 96.33 美元，目前投资者正在评估中东和平协议的前景。"><div class="time">06:06</div><div class="content"><div class="text" data-full="美国原油期货开盘上涨超 1 美元，报每桶 96.33 美元，目前投资者正在评估中东和平协议的前景。" data-short="美国原油期货开盘上涨超 1 美元，报每桶 96.33 美元，目前投资者正在评估中东和平协议的前景。">美国原油期货开盘上涨超 1 美元，报每桶 96.33 美元，目前投资者正在评估中东和平协议的前景。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">5月7日 · VIP</h2> <div class="feed"> <article class="item" data-search="【电报解读】spacex与anthropic对太空数据中心合作意向表态，机构称太空算力有望系统性破解地面算力发展的三大核心痛点，这家公司参股企业通过组建太空数据中心为客户提供算力服务
+金十数据 5 月 7 日讯，据美国媒体 6 日报道，数十名民主党籍联邦众议员日前致信国务卿鲁比奥，要求特朗普政府披露“以色列核武器计划详情”，表示政府不应在核不扩散问题上搞双重标准。这份日期为 5 月 4 日的信写道，美国正在与一个它拒绝正式承认有潜在核武器计划的国家并肩作战。在此情况下，误判、局势升级和使用核武...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="半导体芯片正在成为公募基金强力布局的方向。从最新动向看，在产品端密集上新的同时，基金经理还在密集调研寻找机会。在机构看来，在 ai 产业浪潮强力发展的背景下，叠加国产自主可控的持续推进，半导体芯片板块正在迎来双重机遇，看好后市投资机会。（上证报）"><div class="time">06:20</div><div class="content"><div class="text" data-full="半导体芯片正在成为公募基金强力布局的方向。从最新动向看，在产品端密集上新的同时，基金经理还在密集调研寻找机会。在机构看来，在 AI 产业浪潮强力发展的背景下，叠加国产自主可控的持续推进，半导体芯片板块正在迎来双重机遇，看好后市投资机会。（上证报）" data-short="半导体芯片正在成为公募基金强力布局的方向。从最新动向看，在产品端密集上新的同时，基金经理还在密集调研寻找机会。在机构看来，在 AI 产业浪潮强力发展的背景下，叠加国产自主可控的持续推进，半导体芯片板块正在迎来双重机遇，看好后市投资机会。（上证报）">半导体芯片正在成为公募基金强力布局的方向。从最新动向看，在产品端密集上新的同时，基金经理还在密集调研寻找机会。在机构看来，在 AI 产业浪潮强力发展的背景下，叠加国产自主可控的持续推进，半导体芯片板块正在迎来双重机遇，看好后市投资机会。（上证报）</div></div></article><article class="item" data-search="现货黄金突破 4700 美元/盎司，日内涨 0.19%。"><div class="time">06:19</div><div class="content"><div class="text" data-full="现货黄金突破 4700 美元/盎司，日内涨 0.19%。" data-short="现货黄金突破 4700 美元/盎司，日内涨 0.19%。">现货黄金突破 4700 美元/盎司，日内涨 0.19%。</div></div></article><article class="item" data-search="媒体援引知情人士报道称，特朗普政府正研究利用美国军事基地及国防部其他场所地下的石油资源，以帮助补充大幅消耗的应急储备。因讨论未公开消息而要求匿名的这位知情人士表示，尚未就这项可能的举措做出任何决定。此举正值政府承诺寻找“创新方式”来补充战略石油储备。"><div class="time">06:18</div><div class="content"><div class="text" data-full="媒体援引知情人士报道称，特朗普政府正研究利用美国军事基地及国防部其他场所地下的石油资源，以帮助补充大幅消耗的应急储备。因讨论未公开消息而要求匿名的这位知情人士表示，尚未就这项可能的举措做出任何决定。此举正值政府承诺寻找“创新方式”来补充战略石油储备。" data-short="媒体援引知情人士报道称，特朗普政府正研究利用美国军事基地及国防部其他场所地下的石油资源，以帮助补充大幅消耗的应急储备。因讨论未公开消息而要求匿名的这位知情人士表示，尚未就这项可能的举措做出任何决定。此举正值政府承诺寻找“创新方式”来补充战略石油储备。">媒体援引知情人士报道称，特朗普政府正研究利用美国军事基地及国防部其他场所地下的石油资源，以帮助补充大幅消耗的应急储备。因讨论未公开消息而要求匿名的这位知情人士表示，尚未就这项可能的举措做出任何决定。此举正值政府承诺寻找“创新方式”来补充战略石油储备。</div></div></article><article class="item" data-search="空客斩获 190 亿美元订单，创下加拿大史上最大单笔飞机交易纪录。"><div class="time">06:17</div><div class="content"><div class="text" data-full="空客斩获 190 亿美元订单，创下加拿大史上最大单笔飞机交易纪录。" data-short="空客斩获 190 亿美元订单，创下加拿大史上最大单笔飞机交易纪录。">空客斩获 190 亿美元订单，创下加拿大史上最大单笔飞机交易纪录。</div></div></article><article class="item" data-search="美国国家信用合作社管理局：已将位于密西西比州杰克逊的杰克逊地区联邦信用合作社交由接管管理。"><div class="time">06:16</div><div class="content"><div class="text" data-full="美国国家信用合作社管理局：已将位于密西西比州杰克逊的杰克逊地区联邦信用合作社交由接管管理。" data-short="美国国家信用合作社管理局：已将位于密西西比州杰克逊的杰克逊地区联邦信用合作社交由接管管理。">美国国家信用合作社管理局：已将位于密西西比州杰克逊的杰克逊地区联邦信用合作社交由接管管理。</div></div></article><article class="item" data-search="纽约期银日内涨 1%，现报 78.08 美元/盎司。"><div class="time">06:14</div><div class="content"><div class="text" data-full="纽约期银日内涨 1%，现报 78.08 美元/盎司。" data-short="纽约期银日内涨 1%，现报 78.08 美元/盎司。">纽约期银日内涨 1%，现报 78.08 美元/盎司。</div></div></article><article class="item" data-search="法国：前总统萨科齐获得假释。"><div class="time">06:13</div><div class="content"><div class="text" data-full="法国：前总统萨科齐获得假释。" data-short="法国：前总统萨科齐获得假释。">法国：前总统萨科齐获得假释。</div></div></article><article class="item" data-search="“辛苦赚来的利润，一个季度就被汇率波动‘吃掉’了。”——这或许是今年一季报中，不少上市公司的心声。三一重工产生约 8 亿元汇兑损失，莱克电气归母净利润同比骤降逾九成……在近期密集出炉的一季报中，汇兑损益已成为左右部分上市公司利润表的核心变量。“增收不增利”的现状，拷问着经营主体的汇率风险管理能力。多位专家强调，在人民币汇率双向波动常态化的背景下，汇率风险管理已成为中国出海企业的“必修课”。（上证报）"><div class="time">06:13</div><div class="content"><div class="text" data-full="“辛苦赚来的利润，一个季度就被汇率波动‘吃掉’了。”——这或许是今年一季报中，不少上市公司的心声。三一重工产生约 8 亿元汇兑损失，莱克电气归母净利润同比骤降逾九成……在近期密集出炉的一季报中，汇兑损益已成为左右部分上市公司利润表的核心变量。“增收不增利”的现状，拷问着经营主体的汇率风险管理能力。多位专家强调，在人民币汇率双向波动常态化的背景下，汇率风险管理已成为中国出海企业的“必修课”。（上证报）" data-short="“辛苦赚来的利润，一个季度就被汇率波动‘吃掉’了。”——这或许是今年一季报中，不少上市公司的心声。三一重工产生约 8 亿元汇兑损失，莱克电气归母净利润同比骤降逾九成……在近期密集出炉的一季报中，汇兑损益已成为左右部分上市公司利润表的核心变量。“增收不增利”的现状，拷问着经营主体的汇率风险管理能力。多位专家强调，在人民币汇率双向波动常态化的背景下，汇率风险管理...">“辛苦赚来的利润，一个季度就被汇率波动‘吃掉’了。”——这或许是今年一季报中，不少上市公司的心声。三一重工产生约 8 亿元汇兑损失，莱克电气归母净利润同比骤降逾九成……在近期密集出炉的一季报中，汇兑损益已成为左右部分上市公司利润表的核心变量。“增收不增利”的现状，拷问着经营主体的汇率风险管理能力。多位专家强调，在人民币汇率双向波动常态化的背景下，汇率风险管理...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">5月7日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">09:01</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="频道收费项目：频道vip
+
+包括内容：
+
+红宝书
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大v收费群盘中消息同步：
+
+vip资讯
+环球资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+大成路旁的大成
+妖股刺客
+
+麦芽糖
+新生代龙头玩家
+邢者狩猎营
+g界孙悟空
+大师兄擒妖
+超级感悟
+浮光
+攀高
+天赢居
+
+源深路
+布莱德雷
+清北游资
+时冲
+主升真经
+天机短线
+爱尔兰画眉
+浅吸掘金
+震哥
+
+红旗大街发哥
+游资胖大叔
+大周先生
+姆爷
+付鹏
+游资混江龙
+徐小明
+老章
+天地同力
+
+大马路
+只做龙头
+诗诗复利游
+情绪流作手c神
+涨红阳
+a股通天宗
+上班族波段
+洛飞
+
+先知
+愿雨稠
+林荫大道
+超短小纯洁
+上海老梁
+贝贝后花园
+核心九儿
+趋势moo
+逻辑a哥
+
+生如夏花
+复盘哥
+鑫多多
+趋势和价值老李
+大将潘凤
+滴烛复盘的壮汉
+奶爸只做核心
+浮光知顶底
+
+借势而为
+来去由心
+苏三
+嗅嗅掘金
+钱塘李逍遥
+k神会
+向班长
+一线天渔哥
+林秘密
+
+费用：100元/月"> <div class="time">09:01</div> <div class="content"> <div class="text">频道收费项目：频道VIP
+
+包括内容：
+
+红宝书
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大V收费群盘中消息同步：
+
+VIP资讯
+环球资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+大成路旁的大成
+妖股刺客
+
+麦芽糖
+新生代龙头玩家
+邢者狩猎营
+G界孙悟空
+大师兄擒妖
+超级感悟...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【电报解读】spacex与anthropic对太空数据中心合作意向表态，机构称太空算力有望系统性破解地面算力发展的三大核心痛点，这家公司参股企业通过组建太空数据中心为客户提供算力服务
 
 #普天科技
 #顺灏股份"> <div class="time">09:00</div> <div class="content"> <div class="text">【电报解读】SpaceX与Anthropic对太空数据中心合作意向表态，机构称太空算力有望系统性破解地面算力发展的三大核心痛点，这家公司参股企业通过组建太空数据中心为客户提供算力服务
