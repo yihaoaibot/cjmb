@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3164375",
+    "datetime": "2026-05-07T19:28:57+00:00",
+    "views": "1",
+    "text": "巴西总统卢拉：已告知特朗普，巴西愿与拉美各国成立工作组，共同打击有组织犯罪。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164375"
+  },
+  {
+    "post": "Financial_Express/3164374",
+    "datetime": "2026-05-07T19:28:37+00:00",
+    "views": "1",
+    "text": "法尔斯通讯社：部分消息来源（含以色列消息人士）声称，阿联酋战斗机轰炸了格什姆岛巴赫曼码头。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164374"
+  },
+  {
     "post": "Financial_Express/3164373",
     "datetime": "2026-05-07T19:26:17+00:00",
-    "views": "1",
+    "views": "2",
     "text": "美国养老基金威胁减持道达尔能源股份，因其退出海上风电业务。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3164372",
     "datetime": "2026-05-07T19:25:23+00:00",
-    "views": "1",
+    "views": "32",
     "text": "在岸人民币兑美元（CNY）北京时间 03:00 收报 6.8068 元，较周三夜盘收盘涨 65 点。成交量 565.98 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3164371",
     "datetime": "2026-05-07T19:24:57+00:00",
-    "views": "1",
+    "views": "32",
     "text": "美国务卿批准向中东国家出售价值 258 亿美元的武器\n当地时间 5 月 7 日，美国国务卿鲁比奥批准向中东伙伴国出售数百枚防空拦截弹及其他武器，相关交易总额达 258 亿美元。据悉，这一数字是上周政府宣布达成这些协议时所披露金额的三倍。据美国国务院发言人透露，鲁比奥于 5 月 1 日紧急批准了向巴林、以色列、科威特、卡塔尔和阿拉伯联合酋长国进行的上述武器销售。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3164370",
     "datetime": "2026-05-07T19:24:42+00:00",
-    "views": "31",
+    "views": "32",
     "text": "伊朗格什姆岛的巴赫曼码头在“伊朗武装部队与敌方交火”后遭到袭击。（法尔斯通讯社）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3164369",
     "datetime": "2026-05-07T19:24:38+00:00",
-    "views": "31",
+    "views": "32",
     "text": "巴西总统卢拉：我们在巩固巴美关系上迈出了重要一步。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3164368",
     "datetime": "2026-05-07T19:24:37+00:00",
-    "views": "31",
+    "views": "32",
     "text": "巴西总统卢拉：我们已迈出了巩固巴西与美国关系的重要一步。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3164365",
     "datetime": "2026-05-07T19:20:18+00:00",
-    "views": "71",
+    "views": "131",
     "text": "据阿拉伯电视台：以色列官员称，以色列与伊朗传出的爆炸声无关。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3164362",
     "datetime": "2026-05-07T19:18:58+00:00",
-    "views": "38",
+    "views": "68",
     "text": "巴西贸易部长：美国贸易代表与巴西官员将在未来几周再次会谈，讨论结束关税问题。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3164363",
     "datetime": "2026-05-07T19:18:58+00:00",
-    "views": "102",
+    "views": "132",
     "text": "法尔斯通讯社：伊朗军队在阿巴斯港附近与敌方交火。",
     "media_only": false,
     "image_url": null,
@@ -62125,86 +62143,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3157416"
-  },
-  {
-    "post": "Financial_Express/3157415",
-    "datetime": "2026-05-05T19:29:08+00:00",
-    "views": "52",
-    "text": "美国芝加哥 BondBloxx 投资管理公司合伙人兼高级投资策略师 JoAnne Bianco：目前确实缺乏足以推动市场大幅单边波动的重大消息，但我们的利率水平确实已达到年初——即美伊冲突爆发前——未曾预料的高度。\n自 3 月初以来，这确实是一次大幅波动，因此我们目前处于更高的水平。看起来，如果布伦特原油价格继续按照每天 3-5 美元的速度上涨，利率可能会上升，但这也开始使固定收益资产更具吸引力，特别是在收益率曲线的中段。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157415"
-  },
-  {
-    "post": "Financial_Express/3157412",
-    "datetime": "2026-05-05T19:28:40+00:00",
-    "views": "52",
-    "text": "美国国务卿鲁比奥：“自由计划”将营救被困在波斯湾的来自 87 个不同国家的近 23000 名平民。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157412"
-  },
-  {
-    "post": "Financial_Express/3157413",
-    "datetime": "2026-05-05T19:28:40+00:00",
-    "views": "52",
-    "text": "美国国务卿鲁比奥：（谈及与教皇会面）双方在宗教自由问题上有着共同关切。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157413"
-  },
-  {
-    "post": "Financial_Express/3157414",
-    "datetime": "2026-05-05T19:28:40+00:00",
-    "views": "52",
-    "text": "美国国务卿鲁比奥：美国愿向古巴提供更多援助，并通过教会分发这些援助。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157414"
-  },
-  {
-    "post": "Financial_Express/3157411",
-    "datetime": "2026-05-05T19:27:38+00:00",
-    "views": "57",
-    "text": "美国国务卿鲁比奥：（谈及梵蒂冈之行）此次出访早已提前规划。\n❤1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157411"
-  },
-  {
-    "post": "Financial_Express/3157410",
-    "datetime": "2026-05-05T19:27:37+00:00",
-    "views": "56",
-    "text": "美国国务卿鲁比奥：（关于梵蒂冈之行）这是一次事先计划好的行程。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157410"
-  },
-  {
-    "post": "Financial_Express/3157409",
-    "datetime": "2026-05-05T19:27:18+00:00",
-    "views": "57",
-    "text": "美国国务卿鲁比奥：（古巴）现状令人无法接受，将会着手解决相关问题，但并非今日采取行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157409"
-  },
-  {
-    "post": "Financial_Express/3157408",
-    "datetime": "2026-05-05T19:27:17+00:00",
-    "views": "57",
-    "text": "美国国务卿鲁比奥：（关于古巴）现状不可接受，将会着手处理，但不是今天。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157408"
-  },
-  {
-    "post": "Financial_Express/3157407",
-    "datetime": "2026-05-05T19:27:10+00:00",
-    "views": "57",
-    "text": "Meta Platforms 正在构建一个高度个性化的 AI 助手，以执行日常任务。与此同时，该公司因其不断飙升的 AI 支出正面临投资者的审视。据知情人士透露，该公司正在为其超过 30 亿用户构建代理型工具，其中包括一个将由新款 Muse Spark AI 模型驱动的高级数字助手。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157407"
   }
 ]
