@@ -1,5 +1,32 @@
 [
   {
+    "post": "Financial_Express/3164293",
+    "datetime": "2026-05-07T18:32:37+00:00",
+    "views": "1",
+    "text": "美联储哈玛克：鉴于当前的不确定性，我需要对下一项政策举措保持开放态度。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164293"
+  },
+  {
+    "post": "Financial_Express/3164292",
+    "datetime": "2026-05-07T18:31:37+00:00",
+    "views": "1",
+    "text": "美联储哈马克：鉴于不确定性，我需要对下一步政策举措保持开放态度。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164292"
+  },
+  {
+    "post": "Financial_Express/3164291",
+    "datetime": "2026-05-07T18:31:18+00:00",
+    "views": "1",
+    "text": "博通股价在成交量骤升后走低，此前有报道称其与 OpenAI 的交易遭遇融资障碍，博通最新下跌 4%，报 408 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164291"
+  },
+  {
     "post": "Financial_Express/3164290",
     "datetime": "2026-05-07T18:31:17+00:00",
     "views": "1",
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3164286",
     "datetime": "2026-05-07T18:30:17+00:00",
-    "views": "1",
+    "views": "31",
     "text": "上期所原油期货夜盘收跌 0.88%，报 629.10 元人民币/桶。沪金夜盘收涨 0.12%，沪银收涨 2.49%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3164285",
     "datetime": "2026-05-07T18:30:15+00:00",
-    "views": "1",
+    "views": "31",
     "text": "上期所原油期货 2606 合约夜盘收跌 0.88%，报 629.10 元人民币/桶。\n沪金夜盘收涨 0.12%，沪银收涨 2.49%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3164283",
     "datetime": "2026-05-07T18:28:21+00:00",
-    "views": "1",
+    "views": "31",
     "text": "美国总统特朗普：会见巴西总统卢拉的情况非常不错。",
     "media_only": false,
     "image_url": null,
@@ -62206,23 +62233,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3157324"
-  },
-  {
-    "post": "Financial_Express/3157323",
-    "datetime": "2026-05-05T18:31:57+00:00",
-    "views": "148",
-    "text": "OpenAI 2026 年将投入 500 亿美元用于算力建设\nOpenAI 联合创始人兼总裁格雷格·布罗克曼表示，公司预计今年投入 500 亿美元购置算力，为其人工智能软件提供支撑。布罗克曼于周二表态称，随着公司研发更先进的人工智能模型、服务更广的用户群体，这家 ChatGPT 开发商的算力成本已从 2017 年约 3000 万美元飙升至今年的数百亿美元。此番发言正值他在 OpenAI 与埃隆·马斯克备受关注的法庭纠纷中出庭作证的第二天。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157323"
-  },
-  {
-    "post": "Financial_Express/3157322",
-    "datetime": "2026-05-05T18:31:18+00:00",
-    "views": "141",
-    "text": "美国原油期货收于每桶 102.27 美元，下跌 4.15 美元，跌幅 3.90%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157322"
   }
 ]
