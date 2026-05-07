@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3163390",
+    "datetime": "2026-05-07T13:04:18+00:00",
+    "views": "1",
+    "text": "PLANET LABS 德国分部：与希腊政府达成为期两年、金额达七位数的协议，助力该国国家卫星航天项目。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3163390"
+  },
+  {
+    "post": "Financial_Express/3163389",
+    "datetime": "2026-05-07T13:04:17+00:00",
+    "views": "2",
+    "text": "星际战机公司：何塞・阿里亚斯出任太空运营副总裁。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3163389"
+  },
+  {
+    "post": "Financial_Express/3163388",
+    "datetime": "2026-05-07T13:03:38+00:00",
+    "views": "20",
+    "text": "亚马逊：美国银行将借助亚马逊云科技人工智能开展欺诈检测与合规工作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3163388"
+  },
+  {
+    "post": "Financial_Express/3163387",
+    "datetime": "2026-05-07T13:03:18+00:00",
+    "views": "29",
+    "text": "亚马逊：美国合众银行将借助亚马逊 Bedrock 平台与 Nova Sonic 部署生成式人工智能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3163387"
+  },
+  {
+    "post": "Financial_Express/3163386",
+    "datetime": "2026-05-07T13:03:17+00:00",
+    "views": "29",
+    "text": "燃料油连续主力合约日内跌 4%，现报 4166.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3163386"
+  },
+  {
     "post": "Financial_Express/3163385",
     "datetime": "2026-05-07T13:02:57+00:00",
-    "views": "9",
+    "views": "34",
     "text": "PTA 连续主力合约日内跌 3%，现报 6390.00 元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3163384",
     "datetime": "2026-05-07T13:02:39+00:00",
-    "views": "18",
+    "views": "39",
     "text": "汇丰银行将充当沙特政府债务与外国投资者之间的桥梁纽带。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3163383",
     "datetime": "2026-05-07T13:01:58+00:00",
-    "views": "33",
+    "views": "57",
     "text": "苹果公司提高 2026 年 MacBook Neo 产量目标至 1000 万台\n金十数据 5 月 7 日讯，据报道，苹果公司已要求供应商将 2026 年 MacBook Neo 笔记本电脑产量目标，由最初的 500 万至 600 万台大幅上调至 1000 万台，以缓解当前市场供应紧张局面，即使该公司不得不向台积电支付巨额溢价以确保 A18 Pro 芯片的供应。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3163382",
     "datetime": "2026-05-07T13:00:23+00:00",
-    "views": "47",
+    "views": "63",
     "text": "甲醇连续主力合约日内跌 3%，现报 2842.00 元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3163380",
     "datetime": "2026-05-07T13:00:19+00:00",
-    "views": "50",
+    "views": "66",
     "text": "乙二醇连续主力合约日内跌 3%，现报 4794.00 元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3163381",
     "datetime": "2026-05-07T13:00:19+00:00",
-    "views": "50",
+    "views": "66",
     "text": "国内期货夜盘开盘\n低硫燃料油连续跌 4.20%，白银连续涨 4.17%，燃料油连续跌 3.94%，上海原油连续跌 3.73%，多晶硅连续涨 3.53%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3163378",
     "datetime": "2026-05-07T13:00:18+00:00",
-    "views": "51",
+    "views": "62",
     "text": "低硫燃料油连续主力合约日内跌 4%，现报 4580.00 元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3163379",
     "datetime": "2026-05-07T13:00:18+00:00",
-    "views": "51",
+    "views": "66",
     "text": "PTA 连续主力合约日内跌 2%，现报 6400.00 元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3163377",
     "datetime": "2026-05-07T13:00:17+00:00",
-    "views": "50",
+    "views": "61",
     "text": "PVC 连续主力合约日内跌 1%，现报 5130.00 元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3163376",
     "datetime": "2026-05-07T13:00:07+00:00",
-    "views": "53",
+    "views": "63",
     "text": "夜盘期货开盘，燃油、低硫燃油、原油跌逾 4%，纯苯、甲醇、乙二醇、对二甲苯跌逾 3%，苯乙烯、PTA、塑料、液化石油气、沥青、聚丙烯跌逾 2%；沪银涨逾 4%，沪锡涨逾 1%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3163375",
     "datetime": "2026-05-07T12:59:58+00:00",
-    "views": "56",
+    "views": "64",
     "text": "5 月 6 日美国有效联邦基金利率为 3.64%，当日成交规模为 1180 亿美元；5 月 5 日有效利率同样为 3.64%，当日成交规模为 1130 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3163374",
     "datetime": "2026-05-07T12:59:40+00:00",
-    "views": "59",
+    "views": "66",
     "text": "“拉索”在银河系捕捉到新的超级粒子加速器\n记者 5 月 7 日从天府宇宙线研究中心获悉，近期国家重大科技基础设施高海拔宇宙线观测站“拉索”（LHAASO）在探索极端宇宙方面取得突破。由中国科学院高能物理研究所牵头，上海天文台等单位共同参与的科研团队首次探测到来自银河系内伽马射线双星 LS I +61° 303 的超高能（>100 TeV，即 100 万亿电子伏特）伽马射线信号。相关成果于 5 月 6 日在线发表于《物理评论快报》上。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3163373",
     "datetime": "2026-05-07T12:59:39+00:00",
-    "views": "56",
+    "views": "62",
     "text": "韩国派专家组调查船只在霍尔木兹海峡起火原因\n韩国政府 7 日说，已派遣一个专家组前往阿联酋迪拜，以调查韩国公司所运营船只此前在霍尔木兹海峡起火的原因。韩联社援引韩国政府官员的话报道，专家组由 7 人组成，其中 3 人为海洋水产部下属海洋安全审判院的调查人员，另外 4 人为消防厅相关专家。专家组已于 6 日晚乘机前往迪拜，将在涉事船只被拖曳至迪拜一处港口后展开调查。韩国船级社迪拜分支机构人员、船只运营方也将参与调查。目前，韩国政府对船只起火原因持谨慎态度。韩国外交部一名官员 7 日说：“现阶段首先要查明事实、确定原因，这就是我们为什么向现场派遣专家组。后续应对措施将在调查后再决定。”4 日，这艘船在霍尔木兹海峡内侧、阿联酋附近海域停泊时发生爆炸并引发火灾。火势随后被扑灭，未有船员受伤。事发后，美国总统特朗普在社交媒体发文称，伊朗向包括一艘韩国货船在内的船只开火。伊朗则否认与这一事件有关。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3163372",
     "datetime": "2026-05-07T12:58:38+00:00",
-    "views": "59",
+    "views": "64",
     "text": "蔚来能源 2026 年“五一”假期完成超百万次换电\n蔚来能源 2026 年“五一”假期用户加电报告发布，5 月 1 日至 5 月 5 日，蔚来能源在高速公路累计提供超 1543 万 kWh 充换电量，占全国高速公路充换电总量 16.3%。长假期间，蔚来全国 3839 座换电站累计提供 103 万次换电服务，5 月 1 日单日换电总量达 170585 次，平均 0.51 秒就有一辆车完成换电。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3163371",
     "datetime": "2026-05-07T12:58:17+00:00",
-    "views": "60",
+    "views": "63",
     "text": "沙特阿拉伯任命汇丰银行担任国际一级交易商。",
     "media_only": false,
     "image_url": null,
@@ -61144,32 +61189,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3156504"
-  },
-  {
-    "post": "Financial_Express/3156502",
-    "datetime": "2026-05-05T13:04:19+00:00",
-    "views": "8",
-    "text": "日产将在全球重组中裁减 10%的欧洲员工。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3156502"
-  },
-  {
-    "post": "Financial_Express/3156501",
-    "datetime": "2026-05-05T13:03:18+00:00",
-    "views": "46",
-    "text": "博通宣布推出 VMware Cloud Foundation 9.1 版本。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3156501"
-  },
-  {
-    "post": "Financial_Express/3156500",
-    "datetime": "2026-05-05T13:03:17+00:00",
-    "views": "46",
-    "text": "博通宣布推出 VMware Cloud Foundation 9.1。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3156500"
   }
 ]
