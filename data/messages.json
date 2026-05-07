@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3164127",
+    "datetime": "2026-05-07T17:24:58+00:00",
+    "views": "1",
+    "text": "美联储戴利表示，目前尚无迹象表明能源价格飙升正在推高中期或更长期通胀预期。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164127"
+  },
+  {
+    "post": "Financial_Express/3164126",
+    "datetime": "2026-05-07T17:24:57+00:00",
+    "views": "1",
+    "text": "美联储戴利：当前货币政策“略显紧缩”，若美国与伊朗的冲突得以解决，将对通胀形成下行压力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164126"
+  },
+  {
+    "post": "Financial_Express/3164125",
+    "datetime": "2026-05-07T17:24:38+00:00",
+    "views": "4",
+    "text": "俄罗斯外交部告知亚美尼亚驻俄使节，为乌克兰总统泽连斯基“提供平台发表针对俄罗斯的恐怖主义威胁言论”是不可接受的。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164125"
+  },
+  {
+    "post": "Financial_Express/3164124",
+    "datetime": "2026-05-07T17:24:17+00:00",
+    "views": "8",
+    "text": "美联储戴利表示，当前货币政策处于“轻度限制性”水平，若美国与伊朗的战争平息，通胀将面临下行压力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164124"
+  },
+  {
+    "post": "Financial_Express/3164123",
+    "datetime": "2026-05-07T17:23:57+00:00",
+    "views": "11",
+    "text": "美联储卡什卡利：通胀水平依然过高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164123"
+  },
+  {
+    "post": "Financial_Express/3164122",
+    "datetime": "2026-05-07T17:23:19+00:00",
+    "views": "16",
+    "text": "美联储戴利：致力于将通胀回落至美联储 2%的目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164122"
+  },
+  {
+    "post": "Financial_Express/3164121",
+    "datetime": "2026-05-07T17:23:18+00:00",
+    "views": "17",
+    "text": "周四（5 月 7 日），美联储隔夜逆回购协议（RRP）使用规模为 7.73 亿美元，上个交易日报 16.33 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3164121"
+  },
+  {
     "post": "Financial_Express/3164120",
     "datetime": "2026-05-07T17:22:57+00:00",
-    "views": "3",
+    "views": "48",
     "text": "俄罗斯外交部称已召见亚美尼亚驻俄使节。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3164119",
     "datetime": "2026-05-07T17:22:37+00:00",
-    "views": "4",
+    "views": "48",
     "text": "美联储戴利：致力于将通胀率恢复到美联储的 2%目标。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3164118",
     "datetime": "2026-05-07T17:22:35+00:00",
-    "views": "4",
+    "views": "48",
     "text": "美国旧金山联储主席戴利（2027 年 FOMC 票委）：将在压低美国通胀至 2%方面恪守承诺。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3164117",
     "datetime": "2026-05-07T17:22:08+00:00",
-    "views": "11",
+    "views": "52",
     "text": "OpenAI 称，GPT-Realtime-2 的定价为音频输入每百万 token 32 美元，音频输出每百万 token 64 美元；GPT-Realtime-Translate 的定价为每分钟 0.034 美元；GPT-Realtime-Whisper 的定价为每分钟 0.017 美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3164116",
     "datetime": "2026-05-07T17:21:37+00:00",
-    "views": "14",
+    "views": "53",
     "text": "OpenAI：GPT-Realtime-Whisper：音频边流式传输边实时转写，即时生成字幕与会议笔记。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3164115",
     "datetime": "2026-05-07T17:21:17+00:00",
-    "views": "46",
+    "views": "55",
     "text": "美联储卡什卡利：通胀水平依旧居高不下。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3164113",
     "datetime": "2026-05-07T17:20:58+00:00",
-    "views": "48",
+    "views": "56",
     "text": "美联储在固定利率逆回购操作中总计接纳了 6 个对手方的 7.73 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3164114",
     "datetime": "2026-05-07T17:20:58+00:00",
-    "views": "48",
+    "views": "57",
     "text": "卡塔尔大使表示，保障霍尔木兹海峡航行安全是国际共同责任。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3164112",
     "datetime": "2026-05-07T17:20:57+00:00",
-    "views": "48",
+    "views": "56",
     "text": "OpenAI：GPT-Realtime-2 的定价为音频输入每百万 token 32 美元，音频输出每百万 token 64 美元；GPT-Realtime-Translate 的定价为每分钟 0.034 美元；GPT-Realtime-Whisper 的定价为每分钟 0.017 美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3164111",
     "datetime": "2026-05-07T17:20:38+00:00",
-    "views": "51",
+    "views": "59",
     "text": "OpenAI： GPT-Realtime-2 可构建可直接投入商用的语音智能体，具备更强推理能力、支持主动执行操作、可处理对话打断，并保持对话流畅接续。 GPT-Realtime-Translate 流式实时翻译，支持 70 余种输入语言、13 种输出语言，打破语言壁垒，实现更自然的跨语言沟通。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3164110",
     "datetime": "2026-05-07T17:17:58+00:00",
-    "views": "62",
+    "views": "98",
     "text": "以色列军方周四表示，已于前一日在贝鲁特南郊的一次空袭中击毙一名真主党高级指挥官，这也是自上月美国斡旋达成停火协议以来，黎巴嫩首都周边遭遇的首次袭击。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3164109",
     "datetime": "2026-05-07T17:16:38+00:00",
-    "views": "97",
+    "views": "103",
     "text": "OpenAI：通过 API 中的新模型推动语音智能发展。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3164108",
     "datetime": "2026-05-07T17:16:17+00:00",
-    "views": "98",
+    "views": "104",
     "text": "OpenAI： GPT-实时翻译（GPT‑REALTIME‑TRANSLATE）定价为每分钟 0.034 美元； GPT-实时 Whisper 语音转写（GPT‑REALTIME‑WHISPER）定价为每分钟 0.017 美元。",
     "media_only": false,
     "image_url": null,
@@ -61648,50 +61711,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3157218"
-  },
-  {
-    "post": "Financial_Express/3157217",
-    "datetime": "2026-05-05T17:25:00+00:00",
-    "views": "97",
-    "text": "伊朗外交部发言人巴加埃 5 日在社交媒体平台 X 发文说，X 平台继取消伊朗外交部及外交部长在该平台账号的认证标识后，现在又移除伊朗外交部发言人账号的认证标识。巴加埃指出，伊方已足额缴纳相关服务费用，而 X 平台随意取消认证的做法体现出其选择性审查以及“美式数字霸权”，意在限制有关美国对伊朗军事行动“真相”的信息传播。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157217"
-  },
-  {
-    "post": "Financial_Express/3157215",
-    "datetime": "2026-05-05T17:24:38+00:00",
-    "views": "101",
-    "text": "苹果(AAPL.O)：计划让用户在 iOS 27 系统中自行选择使用竞争对手的人工智能模型。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157215"
-  },
-  {
-    "post": "Financial_Express/3157216",
-    "datetime": "2026-05-05T17:24:38+00:00",
-    "views": "96",
-    "text": "苹果(AAPL.O)：将在今年秋季发布的 iOS 27 中提供更灵活的人工智能方案。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157216"
-  },
-  {
-    "post": "Financial_Express/3157214",
-    "datetime": "2026-05-05T17:24:17+00:00",
-    "views": "96",
-    "text": "以色列官员：伊朗对阿联酋的袭击是警告，袭击旨在向美国展示其能力。预计伊朗不会升级事态，将遵守游戏规则。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157214"
-  },
-  {
-    "post": "Financial_Express/3157213",
-    "datetime": "2026-05-05T17:23:57+00:00",
-    "views": "92",
-    "text": "OpenAI 更新 ChatGPT 默认模型 提升准确性与个性化\n金十数据 5 月 6 日讯，OpenAI 周二表示，已更新 ChatGPT 默认模型，使其响应更准确、更个性化，并减少不必要的表情符号使用。GPT-5.5Instant 正在向所有 ChatGPT 用户及 API 推出，增强个性化功能初期仅供网页端 Plus 和 Pro 用户使用。新模型将更多利用用户上下文信息，包括过往聊天、上传的文件以及连接的 Gmail。OpenAI 同时增加了“记忆来源”控制功能，向用户展示 ChatGPT 用于个性化回答的部分上下文信息，用户可删除或更正过时记忆，并使用不调用或更新记忆的临时聊天。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3157213"
   }
 ]
