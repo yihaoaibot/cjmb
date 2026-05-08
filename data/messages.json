@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3167540",
+    "datetime": "2026-05-08T19:00:18+00:00",
+    "views": "6",
+    "text": "恒指期货夜盘收跌 0.11%，报 26126.95 点，低水 266.76 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167540"
+  },
+  {
+    "post": "Financial_Express/3167539",
+    "datetime": "2026-05-08T18:59:17+00:00",
+    "views": "41",
+    "text": "AI 芯片厂商 Cerebras 据悉计划于周一上调 IPO 发行价。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167539"
+  },
+  {
     "post": "Financial_Express/3167538",
     "datetime": "2026-05-08T18:56:37+00:00",
-    "views": "45",
+    "views": "75",
     "text": "世界卫生组织总干事将前往加那利群岛，推进汉坦病毒防疫应对工作。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3167537",
     "datetime": "2026-05-08T18:49:17+00:00",
-    "views": "79",
+    "views": "93",
     "text": "据国际文传电讯社：克里姆林宫称，俄罗斯同意特朗普提出的 5 月 9 日至 11 日的停火计划；俄罗斯也同意进行战俘交换。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3167536",
     "datetime": "2026-05-08T18:46:58+00:00",
-    "views": "116",
+    "views": "130",
     "text": "据 IFX： 俄罗斯同意特朗普提出的 5 月 9 日至 11 日停火计划。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3167535",
     "datetime": "2026-05-08T18:46:18+00:00",
-    "views": "118",
+    "views": "132",
     "text": "谷歌(GOOG.O)旗下的 Isomorphic Labs 将筹集超过 20 亿美元的新资金。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3167534",
     "datetime": "2026-05-08T18:42:17+00:00",
-    "views": "124",
+    "views": "136",
     "text": "美联储古尔斯比：美联储资产负债表可以缩小，但是否必须缩小尚不明确。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3167533",
     "datetime": "2026-05-08T18:41:57+00:00",
-    "views": "125",
+    "views": "137",
     "text": "乌克兰总统泽连斯基签署法令，默许莫斯科胜利日阅兵照常举行，并确保不会有武器瞄准红场。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3167531",
     "datetime": "2026-05-08T18:41:18+00:00",
-    "views": "127",
+    "views": "138",
     "text": "美联储古尔斯比：愿意考虑沃什关于调整美联储沟通策略的建议。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3167532",
     "datetime": "2026-05-08T18:41:18+00:00",
-    "views": "127",
+    "views": "139",
     "text": "美联储古尔斯比：美联储资产负债表具备缩减空间，但是否有必要缩减尚不明确。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3167530",
     "datetime": "2026-05-08T18:41:17+00:00",
-    "views": "127",
+    "views": "137",
     "text": "特朗普称俄乌 9 日起停火三天并交换战俘\n金十数据 5 月 9 日讯，美国总统特朗普 8 日在社交媒体发文称，俄罗斯和乌克兰将从 9 日开始停火三天，双方还将相互交换 1000 名战俘。特朗普所说停火日期与俄乌先前各自发布的停火安排有所出入。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3167529",
     "datetime": "2026-05-08T18:40:57+00:00",
-    "views": "126",
+    "views": "135",
     "text": "美联储古尔斯比：愿意考虑沃什提出的改革美联储沟通机制相关建议。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3167528",
     "datetime": "2026-05-08T18:39:37+00:00",
-    "views": "124",
+    "views": "132",
     "text": "谷歌旗下 Isomorphic Labs 拟募资 20 亿美元新一轮融资。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3167527",
     "datetime": "2026-05-08T18:38:58+00:00",
-    "views": "153",
+    "views": "161",
     "text": "美联储古尔斯比：滞胀冲击是美联储最难应对的情况之一。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3167526",
     "datetime": "2026-05-08T18:36:58+00:00",
-    "views": "147",
+    "views": "154",
     "text": "美联储古尔斯比：当物价压力不断升温时，我们必须关注通胀率。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3167525",
     "datetime": "2026-05-08T18:36:57+00:00",
-    "views": "145",
+    "views": "151",
     "text": "美联储古尔斯比：当价格压力加剧时，我们必须关注通胀率。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3167524",
     "datetime": "2026-05-08T18:36:38+00:00",
-    "views": "145",
+    "views": "152",
     "text": "美联储古尔斯比：若认为美联储眼前只剩降息一条路径，这种看法是错误的。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3167523",
     "datetime": "2026-05-08T18:36:37+00:00",
-    "views": "145",
+    "views": "152",
     "text": "美联储古尔斯比：仅仅认为美联储面前只有降息是不对的。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3167522",
     "datetime": "2026-05-08T18:34:23+00:00",
-    "views": "147",
+    "views": "152",
     "text": "WTI 6 月原油期货收涨 0.61 美元，涨幅 0.64%，报 95.42 美元/桶。\n中东 Abu Dhabi Murban 原油期货涨 2.78%，报 99.35 美元/桶，本周累跌 4.25%。\nNYMEX 6 月天然气期货收报 2.7570 美元/百万英热单位。\nNYMEX 6 月汽油期货收报 3.5267 美元/加仑，NYMEX 6 月取暖油期货收报 3.8991 美元/加仑。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3167521",
     "datetime": "2026-05-08T18:33:57+00:00",
-    "views": "147",
+    "views": "152",
     "text": "美联储古尔斯比：通胀是当下最受关注的议题。",
     "media_only": false,
     "image_url": null,
@@ -60973,41 +60991,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3160723"
-  },
-  {
-    "post": "Financial_Express/3160722",
-    "datetime": "2026-05-06T19:00:17+00:00",
-    "views": "65",
-    "text": "恒指期货夜盘收涨 1.10%，报 26304.53 点，高水 90.75 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3160722"
-  },
-  {
-    "post": "Financial_Express/3160721",
-    "datetime": "2026-05-06T19:00:12+00:00",
-    "views": "51",
-    "text": "恒生指数主连夜盘收涨 1.12%，报 26423 点。\n恒生科技指数主连夜盘收涨 1.79%，报 5064 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3160721"
-  },
-  {
-    "post": "Financial_Express/3160720",
-    "datetime": "2026-05-06T18:59:02+00:00",
-    "views": "58",
-    "text": "Gaztransport & Technigaz 北美区总经理 Patrice Brossard：随着液化天然气（LNG）出口的增长，航运业有望每年建造 100 艘运载船，且新船的运载量将比现有油轮多出 15%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3160720"
-  },
-  {
-    "post": "Financial_Express/3160719",
-    "datetime": "2026-05-06T18:58:57+00:00",
-    "views": "62",
-    "text": "NextDecade 认为：中东冲突将推动 LNG 船长期租赁业务\nNextDecade 航运副总裁 Peter Fitzpatrick 在美国得州休斯顿举行的一场活动上表示，持续的中东冲突和其他干扰因素，将导致更多公司通过长期合同而非现货市场租赁液化天然气（LNG）船。Fitzpatrick 表示，在燃料供应过剩时期，LNG 行业习惯于在现货市场租赁船舶，因此在 2024-25 年期间达成的长期协议极少。然而，市场正开始意识到波动性将会增加，并正在开始适应。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3160719"
   }
 ]
