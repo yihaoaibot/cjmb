@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3167428",
+    "datetime": "2026-05-08T17:04:38+00:00",
+    "views": "7",
+    "text": "俄罗斯总统普京：此事可能会危及民用航空器的飞行安全。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167428"
+  },
+  {
+    "post": "Financial_Express/3167427",
+    "datetime": "2026-05-08T17:03:58+00:00",
+    "views": "15",
+    "text": "俄罗斯总统普京： 乌克兰袭击了顿河畔罗斯托夫地区空中交通管制中心。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167427"
+  },
+  {
+    "post": "Financial_Express/3167426",
+    "datetime": "2026-05-08T17:03:36+00:00",
+    "views": "17",
+    "text": "国际铜夜盘收涨 0.48%，沪铜收涨 0.53%，沪铝收跌 0.16%，沪锌收跌 1.19%，沪铅收跌 0.15%，沪镍收跌 0.67%，沪锡收跌 1.13%。\n氧化铝夜盘收跌 1.37%，铝合金收跌 0.09%。\n不锈钢夜盘收跌 1.05%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167426"
+  },
+  {
+    "post": "Financial_Express/3167425",
+    "datetime": "2026-05-08T17:02:58+00:00",
+    "views": "20",
+    "text": "美国至 5 月 8 日当周石油钻井总数 410 口，前值 408 口。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167425"
+  },
+  {
     "post": "Financial_Express/3167423",
     "datetime": "2026-05-08T17:02:18+00:00",
-    "views": "6",
+    "views": "53",
     "text": "惠誉：OPEC 可能会按接近充分产能的水平生产，从而抵消霍尔木兹海峡关闭造成的供应损失。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3167424",
     "datetime": "2026-05-08T17:02:18+00:00",
-    "views": "6",
+    "views": "53",
     "text": "惠誉：欧佩克或将开足最大产能进行生产，以弥补霍尔木兹海峡停运造成的原油供应缺口。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3167421",
     "datetime": "2026-05-08T17:02:17+00:00",
-    "views": "6",
+    "views": "53",
     "text": "美国至 5 月 8 日当周总钻井总数 548 口，前值 547 口。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3167422",
     "datetime": "2026-05-08T17:02:17+00:00",
-    "views": "6",
+    "views": "53",
     "text": "美国至 5 月 8 日当周天然气钻井总数 129 口，前值 130 口。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3167419",
     "datetime": "2026-05-08T17:01:16+00:00",
-    "views": "12",
+    "views": "56",
     "text": "美国 5 月 8 日当周天然气钻井数 129，前值 130。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3167420",
     "datetime": "2026-05-08T17:01:16+00:00",
-    "views": "12",
+    "views": "56",
     "text": "美国 5 月 8 日当周石油钻井数 410，前值 408。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3167418",
     "datetime": "2026-05-08T17:01:15+00:00",
-    "views": "12",
+    "views": "56",
     "text": "据知情人士透露，美国 Freeport LNG 因非计划维护将削减产量。\n该公司的维护可能会持续到 5 月底，在维护期间取消了三批既定货运。（路透）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3167417",
     "datetime": "2026-05-08T17:00:37+00:00",
-    "views": "15",
+    "views": "56",
     "text": "消息人士称，弗里波特液化天然气（Freeport LNG）检修工作或将持续至整个 5 月。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3167416",
     "datetime": "2026-05-08T17:00:33+00:00",
-    "views": "15",
+    "views": "56",
     "text": "美国 5 月 8 日当周总钻井数 548，前值 547。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3167415",
     "datetime": "2026-05-08T17:00:19+00:00",
-    "views": "17",
+    "views": "57",
     "text": "惠誉关于原油及欧洲天然气价格预期：预计非欧佩克原油供应量将每日增加约 300 万桶。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3167413",
     "datetime": "2026-05-08T17:00:18+00:00",
-    "views": "17",
+    "views": "56",
     "text": "惠誉：（关于石油与欧洲天然气价格假设）预计非欧佩克供应增长约为 300 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3167414",
     "datetime": "2026-05-08T17:00:18+00:00",
-    "views": "17",
+    "views": "57",
     "text": "夜盘期货收盘\n国际铜夜盘收涨 0.48%，沪铜收涨 0.53%，沪铝收跌 0.16%，沪锌收跌 1.19%，沪铅收跌 0.15%，沪镍收跌 0.67%，沪锡收跌 1.13%。氧化铝夜盘收跌 1.37%，铝合金收跌 0.24%。不锈钢夜盘收跌 1.05%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3167411",
     "datetime": "2026-05-08T16:59:58+00:00",
-    "views": "49",
+    "views": "57",
     "text": "最近 24 小时，MarketVectorTM 数字资产 100 小盘指数涨 4.12%，暂报 2925.65 点，整体持续走高，上周五结束交易以来（7*24）累计上涨 11.61%，5 月 4 日以来持续上涨。\nMarketVectorTM 数字资产 100 中盘指数涨 3.20%，报 3215.11 点，期内累涨 15.50%。\nMarketVector 数字资产 100 指数涨 0.29%，报 15745.98 点，期内累涨 2.47%，5 月 6 日美股盘前达到 16290.29 点，随后回吐涨幅。\n目前，Solana 涨 1.26%、最近七天迄今累涨 7.33%，狗狗币跌 0.59%、最近七天迄今累跌 0.99%、整体冲高回落、5 月 6 日美股盘前曾涨至 0.1170 美元，XRP 涨 0.47%、最近七天迄今累涨 0.61%、整体冲高回落。\n比特币跌 0.37%，暂报 79797.37 美元，最近七天迄今累涨 2.29%，5 月 6 日北京时间 19:00 也曾涨至 82807.12 美元；以太坊跌 0.16%，暂报 2289.61 美元，最近七天迄今累跌 0.02%，5 月 6 日 19:00 曾涨至 2423.405 美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3167412",
     "datetime": "2026-05-08T16:59:58+00:00",
-    "views": "48",
+    "views": "56",
     "text": "惠誉：（关于石油和欧洲天然气价格假设）预计市场供应过剩将压低价格。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3167410",
     "datetime": "2026-05-08T16:59:57+00:00",
-    "views": "16",
+    "views": "52",
     "text": "苹果与英特尔达成芯片制造初步协议\n金十数据 5 月 9 日讯，据华尔街日报报道，知情人士透露，苹果(AAPL.O)与英特尔(INTC.O)已达成一项初步协议，由英特尔为苹果设备生产部分芯片。知情人士表示，两家公司之间密集的谈判已持续一年多，并于近几个月敲定了正式协议。目前尚不清楚英特尔将为哪些苹果产品生产芯片。苹果每年出货超过 2 亿部 iPhone，以及数百万台 iPad 和 Mac 电脑。英特尔主要业务为芯片设计与代工（含自身与外部客户）。在陈立武去年春天接任 CEO 前，两项业务长期低迷。特朗普政府去年夏天将近 90 亿美元联邦拨款转为英特尔股票，持股 10%，促成苹果参与谈判。消息称，美国商务部长卢特尼克过去一年多次会见苹果 CEO 库克、特斯拉 CEO 埃隆·马斯克、英伟达 CEO 黄仁勋，试图说服他们与英特尔合作。随着苹果加入，英特尔已与上述三家公司均建立合作。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3167409",
     "datetime": "2026-05-08T16:58:59+00:00",
-    "views": "52",
+    "views": "57",
     "text": "惠誉关于原油及欧洲天然气价格预期：预计市场供应过剩将压低价格。",
     "media_only": false,
     "image_url": null,
@@ -61126,14 +61162,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3160592"
-  },
-  {
-    "post": "Financial_Express/3160591",
-    "datetime": "2026-05-06T17:03:33+00:00",
-    "views": "78",
-    "text": "国际铜夜盘收涨 0.85%，沪铜收涨 0.68%，沪铝收跌 0.77%，沪锌收涨 0.41%，沪铅收跌 0.18%，沪镍收跌 2.68%，沪锡收涨 5.01%。\n氧化铝夜盘收涨 1.13%，铝合金收跌 1.03%。\n不锈钢夜盘收跌 1.15%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3160591"
   }
 ]
