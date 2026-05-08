@@ -1,8 +1,107 @@
 [
   {
+    "post": "Financial_Express/3167609",
+    "datetime": "2026-05-08T19:32:18+00:00",
+    "views": "1",
+    "text": "美国邮政服务公司公布季度净亏损为 19.5 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167609"
+  },
+  {
+    "post": "Financial_Express/3167608",
+    "datetime": "2026-05-08T19:31:57+00:00",
+    "views": "5",
+    "text": "美国商品期货交易委员会（CFTC）数据显示：截至 2026 年 5 月 5 日当周，英镑净空头头寸为-63,908 张合约；欧元净多头头寸为 32202 手合约；日元净空头持仓为 61,738 手合约；瑞郎净空头头寸为-34521 手合约。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167608"
+  },
+  {
+    "post": "Financial_Express/3167606",
+    "datetime": "2026-05-08T19:31:38+00:00",
+    "views": "7",
+    "text": "截至 5 月 5 日当周，洲际交易所（ICE）咖啡投机客将净多头头寸增加 1644 手，至 18271 手。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167606"
+  },
+  {
+    "post": "Financial_Express/3167607",
+    "datetime": "2026-05-08T19:31:38+00:00",
+    "views": "7",
+    "text": "截至 5 月 5 日当周，洲际交易所原糖市场投机者将净空头头寸削减 39185 手，至 102448 手。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167607"
+  },
+  {
+    "post": "Financial_Express/3167605",
+    "datetime": "2026-05-08T19:31:37+00:00",
+    "views": "7",
+    "text": "美国商品期货交易委员会（CFTC）：截至 5 月 5 日当周，原油投机者将 WTI 净多头头寸减少 2,220 手，至 106,278 手。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167605"
+  },
+  {
+    "post": "Financial_Express/3167603",
+    "datetime": "2026-05-08T19:31:18+00:00",
+    "views": "11",
+    "text": "截至 5 月 5 日当周，芝加哥期货交易所（CBOT）玉米投机商将净多头头寸增加 77,572 手，至 206,559 手；大豆投机客将净多头头寸增加 31638 手，至 143245 手。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167603"
+  },
+  {
+    "post": "Financial_Express/3167604",
+    "datetime": "2026-05-08T19:31:18+00:00",
+    "views": "11",
+    "text": "美国商品期货交易委员会（CFTC）：截至 5 月 5 日当周，洲际交易所（ICE）棉花投机客将净多头头寸增加 12977 手，至 79676 手；洲际交易所（ICE）可可市场投机客将净空头头寸削减 3685 手，至 32668 手。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167604"
+  },
+  {
+    "post": "Financial_Express/3167602",
+    "datetime": "2026-05-08T19:31:17+00:00",
+    "views": "11",
+    "text": "美国商品期货交易委员会（CFTC）：截至 5 月 5 日当周，COMEX 白银投机者净多头头寸增加 196 手，达到 10,941 手。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167602"
+  },
+  {
+    "post": "Financial_Express/3167601",
+    "datetime": "2026-05-08T19:30:42+00:00",
+    "views": "15",
+    "text": "美国商品期货交易委员会（CFTC）：5 月 5 日当周，投机者所持 WTI 原油净多头头寸减少 2,220 手合约，至 106,278 手合约。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167601"
+  },
+  {
+    "post": "Financial_Express/3167599",
+    "datetime": "2026-05-08T19:30:37+00:00",
+    "views": "15",
+    "text": "美国商品期货交易委员会（CFTC）：截至 5 月 5 日当周，COMEX 黄金投机者净多头头寸增加 4,090 手，达到 95,664 手。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167599"
+  },
+  {
+    "post": "Financial_Express/3167600",
+    "datetime": "2026-05-08T19:30:37+00:00",
+    "views": "15",
+    "text": "在截至 2026 年 5 月 5 日当周，比特币净多头头寸为 1441 张合约。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167600"
+  },
+  {
     "post": "Financial_Express/3167596",
     "datetime": "2026-05-08T19:30:18+00:00",
-    "views": "2",
+    "views": "17",
     "text": "美国商品期货交易委员会（CFTC）：截至 5 月 5 日当周，原油投机者将西得克萨斯中质原油（WTI）的净多头头寸削减 2220 手，至 106278 手。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +110,7 @@
   {
     "post": "Financial_Express/3167597",
     "datetime": "2026-05-08T19:30:18+00:00",
-    "views": "2",
+    "views": "17",
     "text": "截至 5 月 5 日当周，天然气投机者在纽约商品交易所（NYMEX）与洲际交易所（ICE）四大主要市场中，将净空头头寸削减 2466 手，至 8652 手。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +119,7 @@
   {
     "post": "Financial_Express/3167598",
     "datetime": "2026-05-08T19:30:18+00:00",
-    "views": "2",
+    "views": "17",
     "text": "截至 5 月 5 日当周，股票基金投机客将芝加哥商品交易所（CME）标普 500 净空头头寸削减 6871 手，至 389571 手。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +128,7 @@
   {
     "post": "Financial_Express/3167595",
     "datetime": "2026-05-08T19:30:17+00:00",
-    "views": "2",
+    "views": "17",
     "text": "美国商品期货交易委员会（CFTC）：截至 5 月 5 日当周，COMEX 铜期货投机者净多头头寸增加 2,348 手，达到 63,144 手。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +137,7 @@
   {
     "post": "Financial_Express/3167594",
     "datetime": "2026-05-08T19:30:05+00:00",
-    "views": "2",
+    "views": "15",
     "text": "在截至 5 月 5 日的当周，纽约商品交易所（COMEX）黄金投机客将净多头头寸增加 4090 手，至 95664 手。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +146,7 @@
   {
     "post": "Financial_Express/3167593",
     "datetime": "2026-05-08T19:29:59+00:00",
-    "views": "3",
+    "views": "15",
     "text": "截至 5 月 5 日当周，纽约商品交易所（COMEX）白银投机客将净多头头寸增加 196 手，至 10941 手。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +155,7 @@
   {
     "post": "Financial_Express/3167590",
     "datetime": "2026-05-08T19:29:58+00:00",
-    "views": "4",
+    "views": "14",
     "text": "在截至 5 月 5 日当周，投机者将芝加哥期货交易所（CBOT）美国 5 年期国债期货的净空头头寸削减了 100106 手，至 1421299 手。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +164,7 @@
   {
     "post": "Financial_Express/3167591",
     "datetime": "2026-05-08T19:29:58+00:00",
-    "views": "4",
+    "views": "14",
     "text": "美国商品期货交易委员会（CFTC）：5 月 5 日当周，投机者所持黄金净多头头寸增加 4,090 手合约，至 95,664 手合约。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +173,7 @@
   {
     "post": "Financial_Express/3167592",
     "datetime": "2026-05-08T19:29:58+00:00",
-    "views": "3",
+    "views": "13",
     "text": "在截至 5 月 5 日的当周，纽约商品交易所（COMEX）铜投机客将净多头头寸增加 2348 手，至 63144 手。",
     "media_only": false,
     "image_url": null,
@@ -60910,32 +61009,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3160791"
-  },
-  {
-    "post": "Financial_Express/3160790",
-    "datetime": "2026-05-06T19:32:17+00:00",
-    "views": "87",
-    "text": "特朗普再称对美伊达成协议表示乐观\n金十数据 5 月 7 日讯，当地时间 5 月 6 日，美国总统特朗普表示，他对与伊朗达成框架协议持乐观态度，认为它“有望带来成果”。当被问及（达成协议的）具体时间框架时，特朗普称预估“一周”。特朗普当天接受采访时，对美国同伊朗达成协议的前景表示乐观，称可能达成的协议包括伊朗将其高丰度浓缩铀运送至美国。特朗普说，他感到美国正日益接近达成协议，“我认为达成协议的几率非常大”，双方有可能下周达成协议以结束这场战事。但他同时威胁称：“如果他们不同意，那我们就实施轰炸。”被问及可能达成的协议是否包括伊朗将其高丰度浓缩铀转运出境、或许运往美国时，特朗普回答道：“是的，不是‘或许’，它会被运往美国。”特朗普还说，伊朗还将承诺不运行地下核设施，并“将在相当长一段时间内本着善意遵守这一安排”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3160790"
-  },
-  {
-    "post": "Financial_Express/3160789",
-    "datetime": "2026-05-06T19:31:23+00:00",
-    "views": "84",
-    "text": "周三（5 月 6 日）纽约尾盘，美元兑日元跌 0.96%，报 156.36 日元，日内交投区间为 157.93-155.02 日元，亚太午盘曾显著跳水——从 157.90 日元附近快速下跌并刷新日低。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3160789"
-  },
-  {
-    "post": "Financial_Express/3160788",
-    "datetime": "2026-05-06T19:31:17+00:00",
-    "views": "81",
-    "text": "特朗普再称对美伊达成协议表示乐观\n当地时间 5 月 6 日，美国总统特朗普表示，他对与伊朗达成框架协议持乐观态度，认为它“有望带来成果”。当被问及（达成协议的）具体时间框架时，特朗普称预估“一周”。特朗普当天接受采访时，对美国同伊朗达成协议的前景表示乐观，称可能达成的协议包括伊朗将其高丰度浓缩铀运送至美国。特朗普说，他感到美国正日益接近达成协议，“我认为达成协议的几率非常大”，双方有可能下周达成协议以结束这场战事。但他同时威胁称：“如果他们不同意，那我们就实施轰炸。”被问及可能达成的协议是否包括伊朗将其高丰度浓缩铀转运出境、或许运往美国时，特朗普回答道：“是的，不是‘或许’，它会被运往美国。”（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3160788"
   }
 ]
