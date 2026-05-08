@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3167825",
+    "datetime": "2026-05-08T22:05:25+00:00",
+    "views": "13",
+    "text": "美国财长贝森特将于下周前往韩国，预计将与韩国财长讨论外汇问题。（韩联社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167825"
+  },
+  {
+    "post": "Financial_Express/3167824",
+    "datetime": "2026-05-08T22:04:57+00:00",
+    "views": "20",
+    "text": "美国财长贝森特预计将与韩国财政部长会面，讨论外汇问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3167824"
+  },
+  {
     "post": "Financial_Express/3167823",
     "datetime": "2026-05-08T22:02:14+00:00",
-    "views": "25",
+    "views": "42",
     "text": "亚马逊云服务（AWS）自周四晚间出现运行故障，起因是美国弗吉尼亚州一处设施发生散热温控异常。\n这家头部云服务商的宕机事故，波及主流交易平台 FanDuel 与 Coinbase。“目前正紧急扩容上线额外冷却系统，待制冷能力到位后，将逐步恢复故障可用区内剩余受影响硬件。”AWS 在最新通报中表示：整体完全恢复仍需数小时。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3167821",
     "datetime": "2026-05-08T21:57:57+00:00",
-    "views": "52",
+    "views": "65",
     "text": "美国财长贝森特将于下周访问韩国。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3167820",
     "datetime": "2026-05-08T21:57:17+00:00",
-    "views": "56",
+    "views": "69",
     "text": "美国国务卿鲁比奥对盟友未支持美国针对伊朗的军事行动提出质疑。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3167819",
     "datetime": "2026-05-08T21:56:37+00:00",
-    "views": "63",
+    "views": "76",
     "text": "世界卫生组织：全部 6 例实验室确诊病例，均经病毒特异性聚合酶链式反应（PCR）或基因测序检测，确认为安第斯病毒感染。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3167818",
     "datetime": "2026-05-08T21:55:31+00:00",
-    "views": "71",
+    "views": "84",
     "text": "当地时间 8 日，伊朗外长阿拉格齐与土耳其外长费丹通话讨论地区局势。在谈及美国近期在波斯湾的冒险举动以及该国官员的一些言论时，阿拉格齐称美方的破坏性做法正在削弱外交进程，并加深伊朗民众对美国意图的怀疑。（央视）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3167817",
     "datetime": "2026-05-08T21:55:17+00:00",
-    "views": "72",
+    "views": "85",
     "text": "世界卫生组织：截至 5 月 8 日，已报告 6 例汉坦病毒确诊病例和 2 例疑似病例。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3167816",
     "datetime": "2026-05-08T21:55:04+00:00",
-    "views": "71",
+    "views": "84",
     "text": "黎巴嫩总理萨拉姆 8 日接受卡塔尔半岛电视台采访时表示，如果以色列继续发动袭击，黎以会谈的首要议题将是巩固停火。当天，以色列继续空袭黎南部，造成至少 18 人死亡。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3167815",
     "datetime": "2026-05-08T21:54:58+00:00",
-    "views": "72",
+    "views": "85",
     "text": "利比亚西部爆发武装冲突 至少 5 人死亡\n据利比亚媒体报道，利比亚西部城市扎维耶 8 日爆发激烈武装冲突，造成至少 5 人死亡。报道说，多个武装团体卷入当天凌晨发生在扎维耶市中心及其周边地区的冲突，造成 5 人死亡，其中包括扎维耶炼油厂一名安保人员。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3167814",
     "datetime": "2026-05-08T21:54:38+00:00",
-    "views": "68",
+    "views": "78",
     "text": "黎方强调首先巩固停火 以军空袭黎南部致死 18 人\n黎巴嫩总理萨拉姆 8 日接受卡塔尔半岛电视台采访时表示，如果以色列继续发动袭击，黎以会谈的首要议题将是巩固停火。当天，以色列继续空袭黎南部，造成至少 18 人死亡。萨拉姆说，黎方将在与以色列的会谈中要求以方停止袭击、释放在押人员、设定撤军时间表，允许流离失所的黎巴嫩民众返回并重建家园。黎巴嫩总统府发表声明说，黎总统奥恩当天会见黎方谈判代表团团长、黎前驻美国大使西蒙·卡拉姆，讨论下周在美国首都华盛顿举行黎以美三方会谈的准备工作。奥恩向卡拉姆阐述了黎方在谈判中的原则和立场。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3167813",
     "datetime": "2026-05-08T21:54:37+00:00",
-    "views": "66",
+    "views": "75",
     "text": "伊朗外长：美国破坏性做法正在削弱外交进程\n当地时间 8 日，伊朗外长阿拉格齐与土耳其外长费丹通话讨论地区局势。在谈及美国近期在波斯湾的冒险举动以及该国官员的一些言论时，阿拉格齐称美方的破坏性做法正在削弱外交进程，并加深伊朗民众对美国意图的怀疑。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3167812",
     "datetime": "2026-05-08T21:47:31+00:00",
-    "views": "87",
+    "views": "92",
     "text": "花旗表示，若美伊谈判持续陷入僵局，油价或将进一步上涨；尽管原油库存下降、美国战略石油储备投放、需求走弱以及局势阶段性缓和，已起到缓冲冲击的作用。\n花旗称，基准情景仍预判霍尔木兹海峡的供应扰动将于 5 月底有所缓解，但美伊达成协议的难度加大，令油价短期上行风险上升。\n该行维持布伦特原油未来 0 至 3 个月油价预期为每桶 120 美元；预计二季度布伦特原油均价为每桶 110 美元，三季度回落至 95 美元/桶，四季度进一步降至 80 美元/桶。\n不过花旗指出：“我们仍认为，原油市场目前低估了风险持续时间与尾部极端风险。”",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3167811",
     "datetime": "2026-05-08T21:45:17+00:00",
-    "views": "90",
+    "views": "94",
     "text": "美国财政部：仍然准备针对伊朗军工基地采取经济（制裁）行动。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3167810",
     "datetime": "2026-05-08T21:42:07+00:00",
-    "views": "96",
+    "views": "100",
     "text": "贝莱德计划为那些将资金存放在稳定币而非银行账户的投资者推出两只货币市场基金。\n这些基金包括：挂钩贝莱德精选国债流动性基金（BlackRock Select Treasury Based Liquidity Fund）的数字份额类别，以及新创建的代币化货币市场基金——贝莱德每日再投资稳定币储备工具（BlackRock Daily Reinvestment Stablecoin Reserve Vehicle）。\n随着《天才法案》（Genius Act）的通过，建立起美元挂钩稳定币的联邦框架，市场对区块链原生储备资产的需求正加速增长。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3167809",
     "datetime": "2026-05-08T21:41:38+00:00",
-    "views": "87",
+    "views": "91",
     "text": "美国财政部表示，其也准备对任何支持伊朗非法商贸活动的外国企业采取行动，其中包括外国航空公司。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3167808",
     "datetime": "2026-05-08T21:41:17+00:00",
-    "views": "83",
+    "views": "88",
     "text": "美国以协助伊朗武器领域为由对 10 名个人及实体实施制裁。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3167807",
     "datetime": "2026-05-08T21:41:06+00:00",
-    "views": "87",
+    "views": "92",
     "text": "Motorola Solutions Inc.（MSI）收跌 11%，创 2020 年以来最大单日跌幅。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3167806",
     "datetime": "2026-05-08T21:40:18+00:00",
-    "views": "89",
+    "views": "94",
     "text": "标普确认危地马拉评级为 BB+。",
     "media_only": false,
     "image_url": null,
@@ -173,7 +191,7 @@
   {
     "post": "Financial_Express/3167804",
     "datetime": "2026-05-08T21:39:57+00:00",
-    "views": "88",
+    "views": "93",
     "text": "标普评危地马拉：我们认为美国关税带来的负面影响将是有限的。",
     "media_only": false,
     "image_url": null,
@@ -60901,23 +60919,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3161017"
-  },
-  {
-    "post": "Financial_Express/3161016",
-    "datetime": "2026-05-06T22:05:37+00:00",
-    "views": "72",
-    "text": "市场资讯：美的集团发行 22 亿美元双期限可转换债券。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3161016"
-  },
-  {
-    "post": "Financial_Express/3161015",
-    "datetime": "2026-05-06T22:05:17+00:00",
-    "views": "71",
-    "text": "美元/瑞郎价格预测：跌破 0.7800 关口，空头目标看向 0.7750。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3161015"
   }
 ]
