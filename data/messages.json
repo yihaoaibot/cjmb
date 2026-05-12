@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3176514",
+    "datetime": "2026-05-12T19:36:16+00:00",
+    "views": "4",
+    "text": "Anthropic PBC 正采取措施帮助法律专业人士通过 Claude 聊天机器人完成更多任务。5 月 12 日，该公司宣布推出十多款面向律师、法学院学生及其他法律从业者的新工具（或插件）。其中一项名为“商业法律顾问”(commercial counsel)的功能可帮助使用者审阅供应商协议，另一项工具则用于帮助备考律师资格考试。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3176514"
+  },
+  {
+    "post": "Financial_Express/3176513",
+    "datetime": "2026-05-12T19:35:58+00:00",
+    "views": "9",
+    "text": "Anthropic 进一步拓展法律行业 新工具可协助准备司法考试\nAnthropic PBC 正采取措施帮助法律专业人士通过 Claude 聊天机器人完成更多任务。该公司周二宣布推出十多款面向律师、法学院学生及其他法律从业者的新工具（或插件）。其中一项名为“商业法律顾问”(commercial counsel)的功能可帮助使用者审阅供应商协议，另一项工具则用于帮助备考律师资格考试。该公司还宣布，将其 Claude 聊天机器人与法律行业常用的其他软件打通，包括 DocuSign、汤森路透以及 Harvey。相关法律功能将通过 Claude Cowork 提供给付费用户，同时也可通过基于 Claude 构建的第三方服务使用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3176513"
+  },
+  {
     "post": "Financial_Express/3176512",
     "datetime": "2026-05-12T19:34:30+00:00",
-    "views": "2",
+    "views": "19",
     "text": "周二（5 月 12 日）纽约尾盘，美元兑日元涨 0.25%，报 157.58 日元，日内交投区间为 156.78-157.76 日元，北京时间 13:54 出现一波瞬间跳水行情、13:56 刷新日低。\n欧元兑日元跌 0.09%，报 185.03 日元，13:48 刷新日高至 185.46 日元后跳水、13:56 刷新日低至 184.74 日元；英镑兑日元跌 0.29%，报 213.324 日元，亚太午盘也显著跳水。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3176511",
     "datetime": "2026-05-12T19:31:33+00:00",
-    "views": "54",
+    "views": "60",
     "text": "伊朗最高环保官员周二表示，近期在伊朗哈尔克岛（Kharg Island）附近海域发现的疑似溢油事件，极有可能是由油轮排放废水引起的，而非石油设施泄漏所致。\n此前，卫星图像显示在伊朗主要的石油出口枢纽哈尔克岛附近，疑似出现了覆盖数十平方公里的海面溢油。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3176510",
     "datetime": "2026-05-12T19:30:40+00:00",
-    "views": "58",
+    "views": "62",
     "text": "美国联邦检察官宣布，对 2024 年摧毁巴尔的摩弗朗西斯·斯科特·基大桥（Francis Scott Key Bridge）的“达利号”（M/V Dali）集装箱船灾难案提起刑事诉讼。\n被起诉方包括总部位于新加坡的 Synergy Marine Pte、总部位于印度的 Synergy Maritime Pte，以及“达利号”的技术主管拉达克里希南·卡蒂克·奈尔（Radhakrishnan Karthik Nair），指控罪名包括串谋欺诈美国及其他罪行。\n起诉书指称，由于运营商依赖一个无法自动重启的冲洗泵，导致船舶失去动力；此外，被告在事故调查中故意误导调查人员。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3176509",
     "datetime": "2026-05-12T19:30:17+00:00",
-    "views": "60",
+    "views": "64",
     "text": "美国总统特朗普：凯尔·迪阿曼塔斯将以代理身份接替马卡里担任美国食品药品监督管理局（FDA）局长。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3176508",
     "datetime": "2026-05-12T19:28:57+00:00",
-    "views": "64",
+    "views": "97",
     "text": "特朗普：马卡里将继续深耕医学界职业生涯。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3176507",
     "datetime": "2026-05-12T19:28:37+00:00",
-    "views": "64",
+    "views": "96",
     "text": "特朗普：凯尔・迪亚曼塔斯将出任美国食品药品监督管理局（FDA）代理局长。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3176505",
     "datetime": "2026-05-12T19:27:42+00:00",
-    "views": "97",
+    "views": "99",
     "text": "印度政府命令：修订黄金、白银进口关税。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3176504",
     "datetime": "2026-05-12T19:27:37+00:00",
-    "views": "97",
+    "views": "99",
     "text": "印度修订黄金、白银进口关税。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3176503",
     "datetime": "2026-05-12T19:27:20+00:00",
-    "views": "98",
+    "views": "100",
     "text": "TS Lombard 首席中国经济学家 Rory Green：人民币兑美元涨穿 6 指日可待。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3176502",
     "datetime": "2026-05-12T19:27:17+00:00",
-    "views": "98",
+    "views": "100",
     "text": "印度政府调整黄金和白银进口关税。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3176501",
     "datetime": "2026-05-12T19:26:39+00:00",
-    "views": "99",
+    "views": "101",
     "text": "美国国务院周二表示，中美两国高级官员一致认为，绝不能允许任何国家在霍尔木兹海峡收取过境费，显示双方正试图在施压伊朗放弃对这一重要水道控制权的问题上寻求共识。（路透）",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3176500",
     "datetime": "2026-05-12T19:25:57+00:00",
-    "views": "98",
+    "views": "100",
     "text": "花旗集团聘请德意志银行的奥德（Ord）出任英国并购业务主管。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3176499",
     "datetime": "2026-05-12T19:25:37+00:00",
-    "views": "100",
+    "views": "102",
     "text": "通用汽车俄亥俄州电池工厂的复工日期尚不确定\n通用汽车的一家合资电池公司本月将让少量员工重返俄亥俄州一家停产的电动汽车电池工厂，但关于召回该厂数百名被裁员工的计划仍不确定。鉴于电动汽车需求疲软，通用汽车及其工厂合作伙伴韩国 LG 能源解决方案于今年 1 月将该工厂停产六个月。这意味着约 850 名员工预计将于 6 月某时重返岗位。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3176498",
     "datetime": "2026-05-12T19:23:32+00:00",
-    "views": "105",
+    "views": "107",
     "text": "周二（5 月 12 日）纽约尾盘，ICE 美元指数涨 0.33%，报 98.275 点，全天处于上涨状态，日内交投区间为 97.951-98.460 点，于持续上涨行情中，北京时间 23:25 刷新日高。\n彭博美元指数涨 0.29%，报 1192.70 点，日内交投区间为 1188.72-1194.76 点。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3176497",
     "datetime": "2026-05-12T19:20:17+00:00",
-    "views": "112",
+    "views": "113",
     "text": "美国阿拉巴马州州长定于 8 月 11 日举行众议院特别选举。",
     "media_only": false,
     "image_url": null,
@@ -58867,23 +58885,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3169790"
-  },
-  {
-    "post": "Financial_Express/3169789",
-    "datetime": "2026-05-10T19:36:18+00:00",
-    "views": "73",
-    "text": "伊朗塔斯尼姆通讯社：《华尔街日报》有关德黑兰对美方回应的详细报道基本失实。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3169789"
-  },
-  {
-    "post": "Financial_Express/3169788",
-    "datetime": "2026-05-10T19:34:37+00:00",
-    "views": "91",
-    "text": "西班牙卫生部长：因汉坦病毒暴发而撤离邮轮乘客的最后两架航班，将于周一下午起飞。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3169788"
   }
 ]
