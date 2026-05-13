@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3179729",
+    "datetime": "2026-05-13T16:10:18+00:00",
+    "views": "1",
+    "text": "现货白银上涨 3%，报每盎司 89.11 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3179729"
+  },
+  {
+    "post": "Financial_Express/3179727",
+    "datetime": "2026-05-13T16:09:18+00:00",
+    "views": "2",
+    "text": "美联储柯林斯：失业率目前保持相对较低。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3179727"
+  },
+  {
+    "post": "Financial_Express/3179728",
+    "datetime": "2026-05-13T16:09:18+00:00",
+    "views": "2",
+    "text": "美联储柯林斯：预期将持续看到持续的生产力提升，这不仅仅是由人工智能驱动的。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3179728"
+  },
+  {
+    "post": "Financial_Express/3179726",
+    "datetime": "2026-05-13T16:08:57+00:00",
+    "views": "2",
+    "text": "美联储柯林斯：近期出现了许多供应冲击，十分关注供应端问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3179726"
+  },
+  {
+    "post": "Financial_Express/3179725",
+    "datetime": "2026-05-13T16:08:49+00:00",
+    "views": "2",
+    "text": "美国参议院共和党成员 Kennedy 将支持加密货币立法草案。（PunchBowl）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3179725"
+  },
+  {
+    "post": "Financial_Express/3179724",
+    "datetime": "2026-05-13T16:08:40+00:00",
+    "views": "33",
+    "text": "纽约期银日内涨 5%，现报 89.88 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3179724"
+  },
+  {
     "post": "Financial_Express/3179723",
     "datetime": "2026-05-13T16:05:58+00:00",
-    "views": "5",
+    "views": "35",
     "text": "美联储柯林斯：预计生产率将持续增长，但这并非完全归功于人工智能。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3179716",
     "datetime": "2026-05-13T16:02:58+00:00",
-    "views": "35",
+    "views": "65",
     "text": "Anthropic：面向小型企业推出 Claude 大模型。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3179717",
     "datetime": "2026-05-13T16:02:58+00:00",
-    "views": "36",
+    "views": "66",
     "text": "Meta：Instagram Threads 的“实时帖（Instants）”功能今日起在全球上线，相关独立应用将在部分国家推出。",
     "media_only": false,
     "image_url": null,
@@ -59839,41 +59893,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3172866"
-  },
-  {
-    "post": "Financial_Express/3172865",
-    "datetime": "2026-05-11T16:10:18+00:00",
-    "views": "140",
-    "text": "特朗普：我愿意——这话听着很沉重——以身赴难、为国挡子弹。这种说法本身就让人心情沉重，尤其从我口中说出更是如此，但我确实愿意为国家挺身而出、甘愿付出一切。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3172865"
-  },
-  {
-    "post": "Financial_Express/3172864",
-    "datetime": "2026-05-11T16:09:37+00:00",
-    "views": "138",
-    "text": "特朗普谈及伊朗：伊朗领导层这群人毫无信誉可言。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3172864"
-  },
-  {
-    "post": "Financial_Express/3172863",
-    "datetime": "2026-05-11T16:09:21+00:00",
-    "views": "139",
-    "text": "美国白宫记者协会晚宴枪击案嫌疑人科尔·艾伦 11 日在哥伦比亚特区联邦地区法院出庭，对试图刺杀美国总统特朗普等所有指控均不认罪。\n艾伦在短暂的庭审过程中没有发言，其律师代替其进行答辩。艾伦被指控的罪名包括企图刺杀总统、袭击联邦官员和非法持有枪支等。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3172863"
-  },
-  {
-    "post": "Financial_Express/3172862",
-    "datetime": "2026-05-11T16:08:38+00:00",
-    "views": "131",
-    "text": "美国总统特朗普：伊朗谈判代表不断改变看法，他们真的完全缺乏诚信。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3172862"
   }
 ]
