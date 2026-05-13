@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3180004",
+    "datetime": "2026-05-13T18:19:57+00:00",
+    "views": "10",
+    "text": "美国佐治亚州议员将于 7 月 17 日开始审议选区重划事宜。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180004"
+  },
+  {
+    "post": "Financial_Express/3180002",
+    "datetime": "2026-05-13T18:19:37+00:00",
+    "views": "13",
+    "text": "巴西雷亚尔兑美元贬值 2%，现货交易报 4.99。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180002"
+  },
+  {
+    "post": "Financial_Express/3180003",
+    "datetime": "2026-05-13T18:19:37+00:00",
+    "views": "13",
+    "text": "巴西雷亚尔兑美元贬值 2%，现货交易汇率跌至 1 美元兑 4.99 雷亚尔。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180003"
+  },
+  {
+    "post": "Financial_Express/3180001",
+    "datetime": "2026-05-13T18:18:42+00:00",
+    "views": "19",
+    "text": "摩根大通推出第二款代币化货币基金，针对的是以太坊（以太币）。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180001"
+  },
+  {
+    "post": "Financial_Express/3180000",
+    "datetime": "2026-05-13T18:18:37+00:00",
+    "views": "19",
+    "text": "OpenAI 首席执行官奥特曼：如果不用当前最顶尖的模型和最优设置，我会感到些许不安。但有时候，即便响应速度很慢，我也并不在意。我在想，我们是否应该更多侧重价格与速度的权衡，而非一味纠结价格与智能水平的取舍。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180000"
+  },
+  {
     "post": "Financial_Express/3179999",
     "datetime": "2026-05-13T18:18:17+00:00",
-    "views": "3",
+    "views": "21",
     "text": "伊朗总统为伊朗男足壮行\n5 月 13 日，伊朗总统佩泽希齐扬在德黑兰会见了正备战世界杯的伊朗国家男子足球队。当晚，伊朗球迷还在德黑兰市中心的恩格拉布广场为球队举行了欢送仪式。据了解，伊朗男足将先前往土耳其进行训练和友谊赛，然后再启程参赛美加墨世界杯。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3179998",
     "datetime": "2026-05-13T18:17:38+00:00",
-    "views": "12",
+    "views": "54",
     "text": "交易员：巴西新闻媒体 Intercept Brasil 曝出右翼总统热门人选弗拉维奥・博索纳罗与马斯特银行所有者沃尔卡罗存在关联后，巴西本币汇率走弱。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3179997",
     "datetime": "2026-05-13T18:17:28+00:00",
-    "views": "13",
+    "views": "54",
     "text": "中东战事不仅推高了石油、天然气的价格，还加剧了全球工业氦气的供应短缺。由于氦气是半导体制造不可或缺的原料，霍尔木兹海峡运输长期受阻可能危及全球半导体行业的发展。卡塔尔是全球第二大氦气生产国，其氦气产量约占全球产量的三分之一。霍尔木兹海峡航运受阻，导致卡塔尔生产的氦气无法运出。如果氦气供应短缺情况持续，将导致半导体产能缩减。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3179996",
     "datetime": "2026-05-13T18:16:57+00:00",
-    "views": "15",
+    "views": "53",
     "text": "摩根大通资产管理公司在以太坊上推出第二只代币化货币市场基金。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3179994",
     "datetime": "2026-05-13T18:16:37+00:00",
-    "views": "16",
+    "views": "53",
     "text": "英国央行货币政策委员曼恩在被问及近期金边债券走势时表示，金融环境对利率决策具有重要影响。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3179993",
     "datetime": "2026-05-13T18:15:17+00:00",
-    "views": "53",
+    "views": "59",
     "text": "英国央行货币政策委员曼恩：近期国债波动与利率决策密切相关。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3179992",
     "datetime": "2026-05-13T18:14:58+00:00",
-    "views": "52",
+    "views": "58",
     "text": "美国佐治亚州州长召开特别会议，审议选区重划事宜。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3179991",
     "datetime": "2026-05-13T18:14:37+00:00",
-    "views": "54",
+    "views": "59",
     "text": "据 Politico：三位消息人士称，英国首相斯塔默今晚召集部长们召开了两次临时会议。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3179989",
     "datetime": "2026-05-13T18:11:57+00:00",
-    "views": "90",
+    "views": "94",
     "text": "印度政府令：出口至欧盟与美国、符合 CXL 配额（优惠贸易安排项下配额）及关税配额（TRQ）规定的食糖，不适用食糖出口禁令。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3179987",
     "datetime": "2026-05-13T18:11:38+00:00",
-    "views": "94",
+    "views": "98",
     "text": "美国副总统万斯：美国政府将推迟对加利福尼亚州 13 亿美元的医疗补助资金。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3179988",
     "datetime": "2026-05-13T18:11:38+00:00",
-    "views": "94",
+    "views": "98",
     "text": "美国副总统万斯：美国政府将向加州延迟拨付 13 亿美元医疗补助计划资金。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3179986",
     "datetime": "2026-05-13T18:10:37+00:00",
-    "views": "74",
+    "views": "108",
     "text": "印度政府令称，即日起至 2026 年 9 月 30 日禁止食糖出口，若提前发布新命令则以新命令生效时间为准。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3179985",
     "datetime": "2026-05-13T18:10:17+00:00",
-    "views": "77",
+    "views": "109",
     "text": "EIA 称上季度霍尔木兹海峡石油流量骤降近 30%\n通过霍尔木兹海峡的原油及燃料流量在第一季度每日减少近 600 万桶，这场巨大的能源冲击颠覆了全球供应体系并导致价格飙升。根据美国能源信息管理局(EIA)周三发布的数据，今年前三个月，每日通过霍尔木兹海峡的原油及石油液体约为 1460 万桶。这远低于去年同期的 2040 万桶，也低于 2025 年第四季度的 2070 万桶。霍尔木兹海峡的航运在伊朗战争爆发后基本陷入瘫痪状态，阻碍了全球约四分之一海运石油运输。全球基准布伦特自冲突爆发以来已飙升逾 45%。在美国，全国零售汽油均价已突破每加仑 4.5 美元，在 2022 年以来的高点附近徘徊。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3179984",
     "datetime": "2026-05-13T18:08:37+00:00",
-    "views": "85",
+    "views": "88",
     "text": "英伟达现涨 2.5%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +182,7 @@
   {
     "post": "Financial_Express/3179983",
     "datetime": "2026-05-13T18:08:26+00:00",
-    "views": "88",
+    "views": "91",
     "text": "又一艘邮轮暴发聚集性病例：出现“数十例疑似肠胃炎病例”\n5 月 13 日，法国西南部新阿基坦大区政府禁止一艘停靠波尔多的邮轮上人员下船。据了解，这艘邮轮上出现了“数十例疑似肠胃炎病例”。新阿基坦大区卫生部门在声明中表示，禁止乘客和船员下船的措施是临时性的，目前在等待医学检测结果——不过“没有理由将其与近日‘洪迪厄斯’邮轮上出现的汉坦病毒聚集性病例联系起来”。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -60352,68 +60397,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3173081"
-  },
-  {
-    "post": "Financial_Express/3173080",
-    "datetime": "2026-05-11T18:19:37+00:00",
-    "views": "101",
-    "text": "据路透社/益普索调查：特朗普支持率在触及任内最低水平后，从 34%升至 36%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173080"
-  },
-  {
-    "post": "Financial_Express/3173077",
-    "datetime": "2026-05-11T18:19:18+00:00",
-    "views": "97",
-    "text": "路透社与益普索联合民调显示：66%的美国人称特朗普尚未明确说明美国对伊朗动武的目标。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173077"
-  },
-  {
-    "post": "Financial_Express/3173078",
-    "datetime": "2026-05-11T18:19:18+00:00",
-    "views": "99",
-    "text": "路透社与益普索联合民调显示，特朗普支持率在跌至任期最低点后，从 34%回升至 36%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173078"
-  },
-  {
-    "post": "Financial_Express/3173079",
-    "datetime": "2026-05-11T18:19:18+00:00",
-    "views": "100",
-    "text": "路透社与益普索联合民调显示：63%的美国人称汽油价格上涨已经损害了其家庭财务状况，该比例较 3 月的 55%有所上升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173079"
-  },
-  {
-    "post": "Financial_Express/3173076",
-    "datetime": "2026-05-11T18:19:17+00:00",
-    "views": "97",
-    "text": "据路透社/益普索调查：66%的美国人表示特朗普没有清楚解释美国在伊朗战争中的目标。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173076"
-  },
-  {
-    "post": "Financial_Express/3173075",
-    "datetime": "2026-05-11T18:19:05+00:00",
-    "views": "97",
-    "text": "Payward 按 200 亿美元估值融资。（Coindesk）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173075"
-  },
-  {
-    "post": "Financial_Express/3173074",
-    "datetime": "2026-05-11T18:18:58+00:00",
-    "views": "98",
-    "text": "据路透社/益普索调查：63%的美国人表示，油价上涨对家庭财务造成了影响，较 3 月份的 55%有所上升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173074"
   }
 ]
