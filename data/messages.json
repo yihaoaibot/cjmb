@@ -1,9 +1,90 @@
 [
   {
+    "post": "Financial_Express/3180670",
+    "datetime": "2026-05-14T02:14:17+00:00",
+    "views": "1",
+    "text": "台积电：德国晶圆厂目前正在建设中，并按计划推进。计划首先提供 28 纳米和 22 纳米制程，随后将推出 16 纳米和 12 纳米制程。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180670"
+  },
+  {
+    "post": "Financial_Express/3180669",
+    "datetime": "2026-05-14T02:13:57+00:00",
+    "views": "6",
+    "text": "台积电：在日本的第一座晶圆厂目前已开始量产 22 纳米和 28 纳米产品。由于市场需求强劲，第二座晶圆厂的计划已升级为 3 纳米制程。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180669"
+  },
+  {
+    "post": "Financial_Express/3180667",
+    "datetime": "2026-05-14T02:13:39+00:00",
+    "views": "10",
+    "text": "台积电：在美国亚利桑那州的第一座晶圆厂已投产。第二座晶圆厂的设备搬迁计划于 2026 年下半年进行。第三座晶圆厂的建设正在进行中。第四座晶圆厂以及该厂的首座先进封装设施预计将于今年开工建设。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180667"
+  },
+  {
+    "post": "Financial_Express/3180668",
+    "datetime": "2026-05-14T02:13:39+00:00",
+    "views": "10",
+    "text": "台积电预计，到 2026 年，亚利桑那州的产量将同比增长 1.8 倍，良率与台湾的产量相当。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180668"
+  },
+  {
+    "post": "Financial_Express/3180666",
+    "datetime": "2026-05-14T02:13:38+00:00",
+    "views": "10",
+    "text": "台积电：因 AI 驱动增长，2030 年全球芯片市场规模将达 1.5 万亿美元\n金十数据 5 月 14 日讯，台积电在一场技术研讨会前发布的演示材料显示，该公司预计到 2030 年，全球半导体市场规模将突破 1.5 万亿美元，这一数字已超越其此前预测的 1 万亿美元。据台积电预测，在上述 1.5 万亿美元的市场规模中，人工智能（AI）和高性能计算（HPC）领域预计将占据 55%的份额；紧随其后的是智能手机领域，占比 20%；汽车应用领域则占比 10%。台积电表示，公司正加快 2025 年和 2026 年的产能扩充步伐，并计划于 2026 年新建九座晶圆厂及先进封装设施。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180666"
+  },
+  {
+    "post": "Financial_Express/3180665",
+    "datetime": "2026-05-14T02:13:37+00:00",
+    "views": "10",
+    "text": "A 股猪肉板块震荡走高，天域生物涨停，天邦食品涨超 9%，巨星农牧涨超 5%，华统股份、海大集团跟涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180665"
+  },
+  {
+    "post": "Financial_Express/3180664",
+    "datetime": "2026-05-14T02:12:57+00:00",
+    "views": "44",
+    "text": "台积电：预计 2022 年至 2026 年间，人工智能加速器晶圆的需求将增长 11 倍。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180664"
+  },
+  {
+    "post": "Financial_Express/3180663",
+    "datetime": "2026-05-14T02:12:38+00:00",
+    "views": "48",
+    "text": "台积电表示，其先进封装技术 CoWoS（芯片封装于晶圆基板上）的产能复合年增长率预计在 2022 年至 2027 年间将超过 80%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180663"
+  },
+  {
+    "post": "Financial_Express/3180662",
+    "datetime": "2026-05-14T02:12:37+00:00",
+    "views": "48",
+    "text": "光纤概念反复活跃 长盈通涨超 15%\n光纤概念反复活跃，长盈通涨超 15%，此前中利集团涨停，永鼎股份、中天科技、特发信息、长飞光纤跟涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180662"
+  },
+  {
     "post": "Financial_Express/3180661",
     "datetime": "2026-05-14T02:11:58+00:00",
-    "views": "10",
-    "text": "光纤概念反复活跃，长盈通涨超 15%，此前中利集团涨停，永鼎股份、中天科技、特发信息、长飞光纤跟涨。",
+    "views": "55",
+    "text": "光纤概念反复活跃，长盈通涨超 15%，中利集团此前涨停，永鼎股份、中天科技、特发信息、长飞光纤跟涨。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3180661"
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3180660",
     "datetime": "2026-05-14T02:11:37+00:00",
-    "views": "43",
+    "views": "87",
     "text": "荣耀 600 系列发布会定档 5 月 25 日\n5 月 14 日，据荣耀手机消息，荣耀全新数字系列新品荣耀 600 系列将于 5 月 25 日正式发布，将新增“幸运星”配色，肖战继续担任荣耀数字手机全球代言人。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3180659",
     "datetime": "2026-05-14T02:11:22+00:00",
-    "views": "43",
+    "views": "87",
     "text": "A 股猪肉股震荡反弹，天域生物涨停，天邦食品涨近 8%，巨星农牧、海大集团、华统股份、正邦科技跟涨。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3180658",
     "datetime": "2026-05-14T02:11:00+00:00",
-    "views": "44",
+    "views": "85",
     "text": "一艘悬挂巴拿马国旗、由日本大型石油企业 ENEOS 运营的原油油轮已通过霍尔木兹海峡。（央视）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3180657",
     "datetime": "2026-05-14T02:10:52+00:00",
-    "views": "46",
+    "views": "87",
     "text": "猪肉股震荡反弹，天域生物涨停，天邦食品涨近 8%，巨星农牧、海大集团、华统股份、正邦科技跟涨。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3180656",
     "datetime": "2026-05-14T02:10:26+00:00",
-    "views": "78",
+    "views": "88",
     "text": "openEuler 官微消息，近日，基于 openEuler 的宇航级嵌入式操作系统搭载某星座实验卫星成功发射并在轨稳定工作，这是基于 openEuler 的嵌入式操作系统首次在商业卫星载荷领域实现实际在轨运行，标志着基于 openEuler 的星载操作系统已具备支撑宇航级场景的硬核实力，标志着基于 openEuler 的星载操作系统在高可靠、强实时的空间智能场景中迈出里程碑式一步。长期以来，高端星载操作系统多依赖国外系统。此次基于 openEuler 的宇航级嵌入式操作系统在轨运行，实现自研操作系统在星载载荷领域的突破。另外，依托 openEuler 全球开源生态，降低商业卫星研发门槛与成本。统一的软件栈标准，实现不同卫星载荷的兼容适配，助力商业卫星星座批量制造与快速部署。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3180655",
     "datetime": "2026-05-14T02:10:18+00:00",
-    "views": "79",
+    "views": "90",
     "text": "猪肉股震荡走高，天域生物涨停\n猪肉股震荡走高，天域生物涨停，天邦食品、巨星农牧、海大集团、华统股份、正邦科技跟涨。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3180654",
     "datetime": "2026-05-14T02:10:17+00:00",
-    "views": "79",
+    "views": "90",
     "text": "台积电预计全球芯片市场规模到 2030 年将达到 1.5 万亿美元\n台积电在周四举行的技术研讨会前发布的演示材料中表示，预计到 2030 年，全球半导体市场规模将超过 1.5 万亿美元，高于此前预测的 1 万亿美元。 台积电预计，人工智能和高性能计算将占 1.5 万亿美元市场的 55%，其次是智能手机（20%）和汽车应用（10%）。 台积电表示，公司在 2025 年和 2026 年加快了产能扩张速度，并计划在 2026 年建设九期晶圆厂和先进封装设施。 预计台积电将大幅提升其最先进的 2 纳米芯片和下一代 A16 芯片的产能，2026 年至 2028 年的复合年增长率 (CAGR) 将达到 70%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3180653",
     "datetime": "2026-05-14T02:09:37+00:00",
-    "views": "83",
+    "views": "91",
     "text": "一艘日企运营油轮通过霍尔木兹海峡\n金十数据 5 月 14 日讯，当地时间 14 日获悉，一艘悬挂巴拿马国旗、由日本大型石油企业 ENEOS 运营的原油油轮已通过霍尔木兹海峡。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3180652",
     "datetime": "2026-05-14T02:08:12+00:00",
-    "views": "88",
+    "views": "123",
     "text": "特朗普在习近平陪同下检阅中国人民解放军仪仗队。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3180651",
     "datetime": "2026-05-14T02:07:58+00:00",
-    "views": "88",
+    "views": "123",
     "text": "特朗普在习近平陪同下检阅中国人民解放军仪仗队。",
     "media_only": false,
     "image_url": null,
@@ -60397,32 +60478,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3173736"
-  },
-  {
-    "post": "Financial_Express/3173734",
-    "datetime": "2026-05-12T02:13:57+00:00",
-    "views": "149",
-    "text": "韩国 KOSPI 指数跌幅收窄至 1.5%，此前一度跌逾 5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173734"
-  },
-  {
-    "post": "Financial_Express/3173733",
-    "datetime": "2026-05-12T02:13:37+00:00",
-    "views": "150",
-    "text": "A 股航天装备板块持续走低，理工导航跌超 8%，中天火箭、中国卫星、航天电子、电科蓝天等跟跌。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173733"
-  },
-  {
-    "post": "Financial_Express/3173732",
-    "datetime": "2026-05-12T02:12:57+00:00",
-    "views": "153",
-    "text": "航天装备板块持续走低\n航天装备板块持续走低，理工导航跌超 8%，中天火箭、中国卫星、航天电子、电科蓝天等跟跌。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173732"
   }
 ]
