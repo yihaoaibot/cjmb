@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3183190",
+    "datetime": "2026-05-14T20:13:48+00:00",
+    "views": "3",
+    "text": "周四（5 月 14 日），美股行业 ETF 普遍收涨，科技行业涨 1.50%，全球科技股指数 ETF 涨 1.41%，网络股指数 ETF 涨 1.37%，半导体 ETF 涨 1.03%，银行业 ETF、区域银行 ETF 至少涨 0.89%，能源业 ETF 涨 0.76%，生物科技指数 ETF 跌 0.76%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3183190"
+  },
+  {
     "post": "Financial_Express/3183189",
     "datetime": "2026-05-14T20:12:17+00:00",
-    "views": "2",
+    "views": "3",
     "text": "国际油价 14 日微涨\n截至当天收盘，纽约商品交易所 6 月交货的轻质原油期货价格上涨 15 美分，收于每桶 101.17 美元，涨幅为 0.15%；7 月交货的伦敦布伦特原油期货价格上涨 9 美分，收于每桶 105.72 美元，涨幅为 0.09%。（澎湃）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3183183",
     "datetime": "2026-05-14T20:10:17+00:00",
-    "views": "4",
+    "views": "34",
     "text": "美国中美国中央司令部：已在霍尔木兹海峡封锁行动中对 72 艘商船实施航线改道。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3183179",
     "datetime": "2026-05-14T20:08:17+00:00",
-    "views": "36",
+    "views": "66",
     "text": "微软宣布任命卡明・迪・西比奥为公司董事。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3183178",
     "datetime": "2026-05-14T20:07:57+00:00",
-    "views": "36",
+    "views": "66",
     "text": "OpenAI：CODEX 模型将接入 ChatGPT 移动应用程序。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3183177",
     "datetime": "2026-05-14T20:07:18+00:00",
-    "views": "36",
+    "views": "66",
     "text": "应用材料第二财季净销售 79.1 亿美元，高于市场预期\n应用材料第二财季净销售 79.1 亿美元，分析师预期 76.7 亿美元；第二财季半导体系统净销售 59.7 亿美元，符合分析师预期；预计第三财季净销售 84.5 亿-94.5 亿美元，分析师预期 81.5 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3183176",
     "datetime": "2026-05-14T20:06:22+00:00",
-    "views": "36",
+    "views": "66",
     "text": "阿根廷 4 月消费者价格指数环比上升 2.6%，同比升幅 32.4%（上年同期 32.6%）——为最近 11 个月首次放缓。",
     "media_only": false,
     "image_url": null,
@@ -58921,14 +58930,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3176566"
-  },
-  {
-    "post": "Financial_Express/3176565",
-    "datetime": "2026-05-12T20:13:29+00:00",
-    "views": "60",
-    "text": "周二（5 月 12 日），彭博电动汽车价格回报指数跌 1.77%，报 4125.69 点。\n亚太早盘微幅高开，随后持续下跌，北京时间 12:00-22:00 持续交投于 4150.40 点附近，之后又扩大跌幅。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3176565"
   }
 ]
