@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3180407",
+    "datetime": "2026-05-14T00:01:19+00:00",
+    "views": "12",
+    "text": "日本日经股票平均指数升至历史新高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180407"
+  },
+  {
+    "post": "Financial_Express/3180406",
+    "datetime": "2026-05-14T00:01:18+00:00",
+    "views": "12",
+    "text": "中信证券全球宏观配置：地缘扰动缓和，重回基本面\n中信证券研报称，中国方面，一季度 GDP 增速超预期，经济总体实现“开门红”，出口和 PPI 是最大的结构性特征；预计总量性政策暂无加码必要性，结构性政策重点支持科技创新、“反内卷”等。海外方面，美国经济继续降温，欧洲能源冲击改变增长预期，日本输入性通胀带来经济不确定性。预计沃什 5 月就任美联储主席后下半年有一次降息，日本央行或在 6 月加息 25bps。资产配置方面，A 股市场科技和能化等行业景气度有望保持高位，国债利率或低位震荡，对海外债券建议保持谨慎。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180406"
+  },
+  {
+    "post": "Financial_Express/3180405",
+    "datetime": "2026-05-14T00:01:16+00:00",
+    "views": "13",
+    "text": "日经 225 指数高开 0.14%，韩国首尔综指高开 0.4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180405"
+  },
+  {
+    "post": "Financial_Express/3180404",
+    "datetime": "2026-05-14T00:00:57+00:00",
+    "views": "14",
+    "text": "韩国综合股价指数（KOSPI）开盘上涨 0.4%，至 7873.91 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180404"
+  },
+  {
+    "post": "Financial_Express/3180403",
+    "datetime": "2026-05-14T00:00:37+00:00",
+    "views": "46",
+    "text": "日经 225 指数上午开盘报 63263.46 点，跌幅 0.01%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3180403"
+  },
+  {
     "post": "Financial_Express/3180402",
     "datetime": "2026-05-14T00:00:01+00:00",
-    "views": "5",
+    "views": "50",
     "text": "中国即将发行或正在发行的地方政府债",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3180401",
     "datetime": "2026-05-13T23:59:58+00:00",
-    "views": "5",
+    "views": "50",
     "text": "据英国金融时报：游戏驿站(GME.N)首席执行官瑞安·科恩威胁称，将把对 eBay 提出的 560 亿美元收购提议直接提交给股东。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3180400",
     "datetime": "2026-05-13T23:59:17+00:00",
-    "views": "5",
+    "views": "50",
     "text": "英科医疗：6 月接单已至尾声 价格与 5 月基本持平\n英科医疗(300677)5 月 13 日在电话会议上表示，目前，6 月接单已至尾声，价格与 5 月基本持平。因观望原材料价格波动和供给变化，目前 7 月尚未定价和接单。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3180399",
     "datetime": "2026-05-13T23:58:58+00:00",
-    "views": "7",
+    "views": "50",
     "text": "英伟达 CEO 基金会 1.08 亿美元购 AI 算力捐赠研究机构\n据一份文件显示，英伟达首席执行官黄仁勋及其妻子洛里（Lori）创立的基金会，正从 CoreWeave 购入计算资源，并将其捐赠给大学及其他非营利机构。该文件显示，截至目前，这笔捐赠的价值已达 1.083 亿美元。根据周二提交的文件，这些计算资源将用于科学和人工智能研究。英伟达在文件中表示，计划向部分受赠机构提供免费的工程服务。此次捐赠不仅彰显了黄仁勋的慷慨，也体现了英伟达对 CoreWeave 的又一支持举措——CoreWeave 是一家专注于人工智能应用的云计算公司。英伟达设计了 CoreWeave 向客户提供的图形处理单元（GPU）。今年 1 月，英伟达向 CoreWeave 投资 20 亿美元 ，成为该公司当时第二大股东。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3180398",
     "datetime": "2026-05-13T23:58:57+00:00",
-    "views": "6",
+    "views": "52",
     "text": "中信证券：算力期货或将年内落地，算力金融化元年开启\n金十数据 5 月 14 日讯，中信证券研报称，芝商所与 Silicon Data 计划于 2026 年内推出全球首个锚定 GPU 算力租赁费率的现金结算期货，标志着算力作为“21 世纪的新石油”，或将迈向资产化与金融化的关键里程碑。当前全球算力市场已具备衍生品市场成立的三大核心前提：万亿级的市场规模、供需错配下的剧烈价格波动以及产业链上下游庞大的风险暴露主体，算力期货的推出恰逢其时，将有效解决行业长期缺乏价格对冲工具的痛点。尽管该产品仍面临算力标准统一、现货定价透明化及交割确权等挑战，但其一旦落地，料将从套期保值、价格发现、资源配置优化及生态繁荣四个维度重塑 AI 产业链金融生态，系统性提升全产业链的资产质量与盈利确定性。投资层面，算力金融化料将利好云厂商、AI 应用、算力租赁及 AI 算力硬件四大核心环节。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3180397",
     "datetime": "2026-05-13T23:57:18+00:00",
-    "views": "37",
+    "views": "44",
     "text": "中国生物制药：减重药 TQF6422 临床前研究展现更优减脂效果，支持更长给药间隔。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3180396",
     "datetime": "2026-05-13T23:56:57+00:00",
-    "views": "45",
+    "views": "51",
     "text": "人工智能芯片制造商 Cerebras Systems 的 IPO 定价为每股 185 美元 募资 55.5 亿美元 IPO 规模为今年迄今最大\n本次 IPO 为今年迄今规模最大。若埃隆・马斯克旗下太空探索公司 SpaceX 按目标募资 750 亿美元并于今夏上市，有望创下史上最大 IPO 纪录，而 Cerebras 此次新股发行已先行落地。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3180395",
     "datetime": "2026-05-13T23:55:37+00:00",
-    "views": "55",
+    "views": "60",
     "text": "国际复材：低介电石英产品已纳入公司研产体系 正处于研发阶段\n国际复材(301526)5 月 13 日在业绩说明会表示，公司自主研发、拥有独立知识产权的 5G 用低介电玻璃纤维已实现批量生产，并在高端手机、5G 高频通信用关键透波制品等产品上得到应用，低介电石英产品已纳入公司研产体系，目前正处于研发阶段。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3180394",
     "datetime": "2026-05-13T23:54:56+00:00",
-    "views": "64",
+    "views": "69",
     "text": "印度政府公告：禁止糖出口至 9 月 30 日。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3180393",
     "datetime": "2026-05-13T23:54:38+00:00",
-    "views": "65",
+    "views": "70",
     "text": "联黎部队称多起无人机爆炸危及维和人员安全\n联合国驻黎巴嫩临时部队（联黎部队）13 日发表声明说，近期黎南部联黎部队驻地及附近发生多起无人机爆炸事件，危及维和人员安全并造成设施受损。声明说，疑似由黎巴嫩真主党发射的多架无人机于 11 日和 12 日在联黎部队位于黎南部纳古拉镇的总部附近发生爆炸，当时以色列部队可能在该区域活动。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3180392",
     "datetime": "2026-05-13T23:52:37+00:00",
-    "views": "86",
+    "views": "89",
     "text": "英媒：小鹏汽车正与大众汽车就收购欧洲工厂进行洽谈\n金十数据 5 月 14 日讯，据英国金融时报报道，小鹏汽车(XPEV.N)正与大众汽车及其他汽车制造商就收购欧洲一家工厂进行磋商。此前数日，大众集团首席执行官奥博穆(Oliver Blume)表示，公司可能将在中国研发的车款引入欧洲市场，甚至与中国合作伙伴在欧洲共享产能。小鹏汽车东北欧地区负责人程晓光表示，小鹏汽车正与大众汽车洽谈，以探讨“我们是否有可能在欧洲找到一个地点”。大众汽车持有小鹏汽车的股份，并在中国拥有三家合资伙伴——上汽集团 、一汽集团和江淮汽车。但这些合作伙伴目前在欧洲均不具备生产能力。报道称，小鹏汽车也将考虑在欧洲新建工厂。“我们认为，并非所有工厂都能满足我们最新或未来产品的需求，”程晓光表示，并补充说大众汽车的工厂“有些陈旧”。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3180391",
     "datetime": "2026-05-13T23:51:58+00:00",
-    "views": "78",
+    "views": "81",
     "text": "南太平洋岛国纽埃总理赢得连任\n当地时间 13 日，南太平洋岛国纽埃议会举行总理选举，现任总理多尔顿·塔格拉吉成功连任新一届纽埃总理。纽埃位于南太平洋中部，面积为 260 平方公里，全国常住人口 1564 人（2022 年），是世界上人口最少的国家之一。纽埃于 1974 年实行内部自治，同新西兰保持自由联系。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3180390",
     "datetime": "2026-05-13T23:51:37+00:00",
-    "views": "76",
+    "views": "79",
     "text": "日本 5 月 8 日当周外资净买进日本股票 14375 亿日元，前值 8079 亿日元。日本 5 月 8 日当周外资净买进日本债券 1062 亿日元，前值 -7869 亿日元。日本 5 月 8 日当周净买进国外股票 -5936 亿日元，前值 412 亿日元。日本 5 月 8 日当周净买进国外债券 16407 亿日元，前值 -8877 亿日元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3180389",
     "datetime": "2026-05-13T23:51:18+00:00",
-    "views": "74",
+    "views": "75",
     "text": "日本至 5 月 8 日当周买进外国股票 -5936 亿日元，前值 412 亿日元。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3180388",
     "datetime": "2026-05-13T23:51:17+00:00",
-    "views": "73",
+    "views": "74",
     "text": "日本至 5 月 8 日当周外资买进日债 1062 亿日元，前值由-7869 亿日元修正为-7863 亿日元。",
     "media_only": false,
     "image_url": null,
@@ -60613,50 +60658,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3173450"
-  },
-  {
-    "post": "Financial_Express/3173449",
-    "datetime": "2026-05-12T00:02:17+00:00",
-    "views": "96",
-    "text": "汇丰银行：预计证券将获准纳入爱尔兰证券交易所全球交易市场（GEM）正式名单并进行交易。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173449"
-  },
-  {
-    "post": "Financial_Express/3173448",
-    "datetime": "2026-05-12T00:01:37+00:00",
-    "views": "96",
-    "text": "汇丰拟发行 15 亿美元、票息 6.750%的永续次级或有可转换债券。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173448"
-  },
-  {
-    "post": "Financial_Express/3173447",
-    "datetime": "2026-05-12T00:01:07+00:00",
-    "views": "96",
-    "text": "日经 225 指数高开 0.2%，韩国首尔综指高开 1.8%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173447"
-  },
-  {
-    "post": "Financial_Express/3173446",
-    "datetime": "2026-05-12T00:00:57+00:00",
-    "views": "96",
-    "text": "韩国综合股价指数（KOSPI）开盘报 7953.41 点，上涨 1.7%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173446"
-  },
-  {
-    "post": "Financial_Express/3173445",
-    "datetime": "2026-05-12T00:00:37+00:00",
-    "views": "96",
-    "text": "日经 225 指数上午开盘报 62618.72 点，涨幅 0.32%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3173445"
   }
 ]
