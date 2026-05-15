@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3184222",
+    "datetime": "2026-05-15T05:14:58+00:00",
+    "views": "1",
+    "text": "韩元兑美元汇率跌破 1500。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3184222"
+  },
+  {
+    "post": "Financial_Express/3184221",
+    "datetime": "2026-05-15T05:14:38+00:00",
+    "views": "2",
+    "text": "机构：预计 Micro LED CPO 光收发模块市场产值将于 2030 年达 8.48 亿美元\n金十数据 5 月 15 日讯，根据 TrendForce 集邦咨询最新 Micro LED 产业研究，生成式 AI 驱动高速光通信需求急速攀升，由于 Micro LED 具备仅 1-2 pJ/bit 的能耗，以及具有低于百亿分之一的误码率(Bit Error Rate, BER)，有望在垂直扩展(Scale-Up)的数据中心网络中，与 AEC（主动式电缆）及 VCSEL NPO（垂直共振腔面射型雷射近封装光学）并列为机柜内(Intra-Rack)三大短距高速传输方案。因此，TrendForce 集邦咨询预估，Micro LED CPO 光收发模块市场产值将于 2030 年达 8.48 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3184221"
+  },
+  {
+    "post": "Financial_Express/3184220",
+    "datetime": "2026-05-15T05:14:18+00:00",
+    "views": "3",
+    "text": "金山云旗下云界瞬联科技公司增资至 8.9 亿\n天眼查 App 显示，近日，庆阳云界瞬联科技有限公司发生工商变更，注册资本由约 5.1 亿人民币增至约 8.9 亿人民币。该公司成立于 2026 年 1 月，法定代表人为宋伟，经营范围包括数字技术服务、计算机系统服务、软件开发、软件销售等，由金山云旗下宁波凌穹瞬联网络技术有限公司全资持股。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3184220"
+  },
+  {
     "post": "Financial_Express/3184219",
     "datetime": "2026-05-15T05:12:58+00:00",
-    "views": "1",
+    "views": "34",
     "text": "韩国政府表示，目前暂不考虑对三星电子罢工启动紧急仲裁。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3184218",
     "datetime": "2026-05-15T05:12:18+00:00",
-    "views": "2",
+    "views": "34",
     "text": "日本将私营石油储备削减规定延长至 6 月 15 日。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3184217",
     "datetime": "2026-05-15T05:11:38+00:00",
-    "views": "32",
+    "views": "34",
     "text": "现货黄金失守 4590 美元/盎司，日内跌 1.36%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3184216",
     "datetime": "2026-05-15T05:11:37+00:00",
-    "views": "32",
+    "views": "34",
     "text": "韩国政府：目前暂不考虑对三星电子罢工启动紧急仲裁。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3184215",
     "datetime": "2026-05-15T05:11:17+00:00",
-    "views": "32",
+    "views": "34",
     "text": "小摩：上调阿里巴巴 H 股目标价至 200 港元，上调经调整每股盈利预测\n摩根大通发表报告指，对阿里巴巴未来 12 个月结构性增长信心升级。阿里披露 3 月底止末财季云端外部收入增长加速至 40%，模型即服务(MaaS)的年度运行率(ARR)从超过 80 亿元，有望在年底达到 300 亿元。云端业务 EBITA 利润率指引将在未来一至两个季度从 9%提升至双位数，确立阿里云作为中国最大的 AI 及云端特许经营商地位，但市场现时仍以经典电商公司对阿里定价，意味阿里云业务价值尚未被充分定价。该行将阿里巴巴 2027 及 2028 财年经调整每股盈利预测分别上调 4%及 3%，以反映云端利润率前景改善，将阿里 H 股目标价由 195 港元上调至 200 港元，美股目标价则由 200 美元上调至 205 美元，均维持“增持”评级。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3184214",
     "datetime": "2026-05-15T05:09:37+00:00",
-    "views": "38",
+    "views": "70",
     "text": "长飞光纤光缆港股跌超 10%\n长飞光纤光缆港股跌 10.88%，报 226.40 港元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3184213",
     "datetime": "2026-05-15T05:08:17+00:00",
-    "views": "74",
+    "views": "76",
     "text": "纽约期金失守 4600 美元/盎司，日内跌 1.85%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3184212",
     "datetime": "2026-05-15T05:07:58+00:00",
-    "views": "74",
+    "views": "76",
     "text": "A 股工程机械板块短线走高，建设机械涨停，恒立液压、万达轴承、艾迪精密、浙江鼎力、海伦哲跟涨。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3184211",
     "datetime": "2026-05-15T05:07:39+00:00",
-    "views": "74",
+    "views": "76",
     "text": "工程机械板块短线走高，建设机械涨停\n工程机械板块短线走高，建设机械涨停，恒立液压、万达轴承、艾迪精密、浙江鼎力、海伦哲跟涨。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3184210",
     "datetime": "2026-05-15T05:06:57+00:00",
-    "views": "75",
+    "views": "77",
     "text": "中际旭创成交额达 200 亿元，现跌 1.49%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3184209",
     "datetime": "2026-05-15T05:05:57+00:00",
-    "views": "76",
+    "views": "78",
     "text": "韩国 KOSPI 科技板块净流出资金超过 25 亿美元\n金十数据 5 月 15 日讯，随着全球资金继续削减仓位，韩国股市基准指数大幅下跌。周五，韩国综合股价指数（KOSPI）在短暂触及 8000 点这一里程碑后随即掉头下挫，跌幅约为 5%。海外投资者延续了此前的抛售势头，主要集中减持科技类股票。KOSPI 指数中的科技板块首当其冲，净流出资金超过 25 亿美元。三星电子和 SK 海力士——这两家公司贡献了今年 KOSPI 指数约 80%的涨幅——周五股价均下跌逾 7%。尽管如此，自年初以来，它们的股价仍已翻了一倍以上。作为 SK 海力士的关联公司，SK Square Co.股价也暴跌超过 5%，进一步加剧了该指数的跌幅。First Eagle 投资组合经理 Christian Heck 表示：“尽管从盈利角度来看，KOSPI 指数的估值仍低于美国主要股指，但若与其自身的历史水平相比，其估值已显得昂贵。更关键的一点在于，KOSPI 在很大程度上已演变成了一场‘押注’，市场押注于该指数中权重合计约占半壁江山的这两家大型存储半导体公司。”",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3184208",
     "datetime": "2026-05-15T05:05:38+00:00",
-    "views": "79",
+    "views": "81",
     "text": "南向资金净买入额达 80 亿港元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3184207",
     "datetime": "2026-05-15T05:05:37+00:00",
-    "views": "79",
+    "views": "81",
     "text": "纽约期银失守 81 美元/盎司，日内跌 5.12%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3184206",
     "datetime": "2026-05-15T05:05:32+00:00",
-    "views": "79",
+    "views": "81",
     "text": "现货黄金失守 4600 美元/盎司，日内跌超 1%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3184205",
     "datetime": "2026-05-15T05:05:18+00:00",
-    "views": "78",
+    "views": "80",
     "text": "斯巴鲁首席执行官：已推迟原计划于 2028 年推出的自研电动汽车项目，将开发资源调配至燃油车业务。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3184203",
     "datetime": "2026-05-15T05:04:57+00:00",
-    "views": "77",
+    "views": "78",
     "text": "俄罗斯国防部表示，夜间击落了 355 架乌克兰无人机。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3184204",
     "datetime": "2026-05-15T05:04:57+00:00",
-    "views": "78",
+    "views": "80",
     "text": "俄罗斯国防部称，一夜之间击落了 355 架乌克兰无人机。",
     "media_only": false,
     "image_url": null,
@@ -59092,23 +59119,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3177579"
-  },
-  {
-    "post": "Financial_Express/3177578",
-    "datetime": "2026-05-13T05:14:59+00:00",
-    "views": "79",
-    "text": "韩国总统国家安全顾问：我方正考虑参与美国牵头的霍尔木兹海峡海上航行自由倡议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3177578"
-  },
-  {
-    "post": "Financial_Express/3177577",
-    "datetime": "2026-05-13T05:14:58+00:00",
-    "views": "80",
-    "text": "深证成指涨 1.01%，现报 15984.132 点；上证指数涨 0.31%，现报 4227.432 点；创业板指涨 1.52%，现报 3994.597 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3177577"
   }
 ]
