@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3187418",
     "datetime": "2026-05-17T00:03:18+00:00",
-    "views": "132",
+    "views": "162",
     "text": "世界卫生组织：由本迪布焦病毒引发的埃博拉疾病在刚果民主共和国和乌干达暴发，已被认定为“国际关注的突发公共卫生事件”。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3187419",
     "datetime": "2026-05-17T00:03:18+00:00",
-    "views": "132",
+    "views": "162",
     "text": "声明显示，与委内瑞拉前总统马杜罗有关联的哥伦比亚商人亚历克斯·萨博（Alex Saab）已被委内瑞拉驱逐出境。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3187413",
     "datetime": "2026-05-16T23:58:25+00:00",
-    "views": "102",
+    "views": "132",
     "text": "九峰山实验室“超级开关”刷新世界纪录\n5 月 14 日，湖北九峰山实验室宣称，其功率器件研发团队今年 3 月研制出耐压水平达到 9.02 千伏的氧化镓“电子开关”，刷新了世界纪录。短短一个多月来，全国已有 10 多家企业、科研单位前来沟通合作。9000 伏，相当于普通家庭用电电压的 40 多倍。在特高压输电、高铁牵引供电、大型 AI 数据中心等场景中，都需要能安全切断高压电流的开关。电压等级越高，对材料和工艺的挑战就越大。如今主流应用的独立功率器件受限于材料，要抗 9000 伏高压，得配上占地两平方米的设备机柜，所需面积、功耗均大。“打个比方，同样建一座调控电流的‘水坝’，氧化镓材料可以将它修得更薄、更小。”九峰山实验室功率器件研发工程师彭若诗说，氧化镓理论上可在满足独立功率器件同等耐压水平时，芯片面积、能耗均降至其几十分之一，“未来一旦实现量产，将极具成本优势”。（湖北日报）",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3187409",
     "datetime": "2026-05-16T23:48:18+00:00",
-    "views": "95",
+    "views": "125",
     "text": "中国国航将开通北京至比什凯克航线\n5 月 17 日，据中国国航消息，2026 年 7 月 17 日起，国航将开通北京首都-比什凯克航线，航班号为 CA893/4，班期为每周一、五、日，由空客 A321 客机执飞。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3187408",
     "datetime": "2026-05-16T23:47:58+00:00",
-    "views": "94",
+    "views": "124",
     "text": "招商策略：景气高增领域有化学纤维、半导体、贵金属、风电设备、地面兵装等\n招商策略发布研报《从财报看行业周期阶段与供需格局变化——A 股 2025 年报及 2026 年一季报业绩深度分析之二》。研报指出基于财务指标的三梯队推荐:1）景气高增领域，如化学纤维、半导体、贵金属、风电设备、地面兵装等；2）供需格局有所改善，如装修建材、化学制药、造纸、自动化设备、电池、化学原料等；3）现金流较为稳健的方向，如调味品、航空机场、航运港口、工业金属、煤炭、贵金属等。",
     "media_only": false,
     "image_url": null,
@@ -33370,32 +33370,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3183587"
-  },
-  {
-    "post": "Financial_Express/3183586",
-    "datetime": "2026-05-15T00:27:54+00:00",
-    "views": "94",
-    "text": "Anthropic 已就一轮 300 亿美元融资达成条款协议，该轮融资将使公司估值达到 9000 亿美元，交易预计最快将于本月完成。（英国金融时报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3183586"
-  },
-  {
-    "post": "Financial_Express/3183585",
-    "datetime": "2026-05-15T00:27:37+00:00",
-    "views": "89",
-    "text": "Anthropic 本轮融资的联合领投方预计将各自投资 20 亿美元或更多。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3183585"
-  },
-  {
-    "post": "Financial_Express/3183584",
-    "datetime": "2026-05-15T00:27:17+00:00",
-    "views": "89",
-    "text": "投资方 Dragoneer）、Greenoaks、红杉资本以及 Altimeter Capital 已同意联合领投 Anthropic 的这轮融资。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3183584"
   }
 ]
