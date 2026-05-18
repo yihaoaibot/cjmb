@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3191137",
+    "datetime": "2026-05-18T21:28:58+00:00",
+    "views": "1",
+    "text": "花旗预计，在乐观情景下，2027 年铝的平均价格将达到 5350 美元/吨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3191137"
+  },
+  {
+    "post": "Financial_Express/3191138",
+    "datetime": "2026-05-18T21:28:58+00:00",
+    "views": "1",
+    "text": "花旗认为，若需求疲弱仍不足以抵消供应受限的影响，未来 0 至 3 个月铝价有望达到每吨 4000 美元，这一走势路径具备合理性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3191138"
+  },
+  {
+    "post": "Financial_Express/3191136",
+    "datetime": "2026-05-18T21:28:57+00:00",
+    "views": "1",
+    "text": "花旗预计，如果需求下降不足以抵消供应紧张，未来 3 个月内铝价有望达到 4000 美元/吨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3191136"
+  },
+  {
+    "post": "Financial_Express/3191135",
+    "datetime": "2026-05-18T21:28:39+00:00",
+    "views": "3",
+    "text": "花旗预计，即使在需求低迷的情况下，今年也将出现近 270 万吨的缺口。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3191135"
+  },
+  {
+    "post": "Financial_Express/3191134",
+    "datetime": "2026-05-18T21:28:38+00:00",
+    "views": "3",
+    "text": "花旗在其乐观情境预测中认为，2027 年铝的均价将达到每吨 5350 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3191134"
+  },
+  {
+    "post": "Financial_Express/3191133",
+    "datetime": "2026-05-18T21:28:17+00:00",
+    "views": "6",
+    "text": "Anthropic 开放 Mythos 用户共享网络威胁情报\n出于担忧信息权限受限会损害中小型企业利益，Anthropic 近期调整原有立场，正式允许其高性能人工智能模型 Mythos 的使用者，向其他存在同类安全漏洞风险的机构共享网络安全威胁相关情报。这项新规凸显出一众头部 AI 企业在严控顶尖模型使用权限过程中遭遇的现实困境。此前，Anthropic 通过名为玻璃翼计划的项目，仅向约 50 家负责核心数字基础设施的大型企业与机构开放 Mythos 权限。该模型发掘软件漏洞的效率远超人工排查，项目初衷是让这些企业及政府机构提前处置网络安全隐患，再逐步放开使用范围、推出性能更强的 AI 模型。Anthropic 发言人表示，Mythos 首批使用者此前均签署保密协议，严禁对外泄露自身掌握的网络安全风险信息。而上周，Anthropic 正式通知合作企业，在秉持合规审慎原则的前提下，可与其他机构互通网络威胁情报以及 Mythos 模型排查得出的安全隐患结果。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3191133"
+  },
+  {
+    "post": "Financial_Express/3191132",
+    "datetime": "2026-05-18T21:27:57+00:00",
+    "views": "7",
+    "text": "花旗预计，即使在需求疲软的情况下，今年仍铝市场将出现近 270 万吨的供应短缺。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3191132"
+  },
+  {
     "post": "Financial_Express/3191131",
     "datetime": "2026-05-18T21:25:58+00:00",
-    "views": "7",
+    "views": "12",
     "text": "花旗预计，未来 6 至 12 个月铝库存将降至全新历史低位。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3191130",
     "datetime": "2026-05-18T21:25:37+00:00",
-    "views": "9",
+    "views": "14",
     "text": "Anthropic 调整 Mythos 模型，支持网络威胁情报共享。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3191129",
     "datetime": "2026-05-18T21:24:38+00:00",
-    "views": "17",
+    "views": "22",
     "text": "特朗普向爱彼迎联合创始人乔・格比亚致谢。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3191128",
     "datetime": "2026-05-18T21:24:18+00:00",
-    "views": "17",
+    "views": "22",
     "text": "美国证券交易委员会正筹备股票通证化交易相关方案。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3191127",
     "datetime": "2026-05-18T21:24:17+00:00",
-    "views": "17",
+    "views": "21",
     "text": "美国证券交易委员会预计最快于本周出台针对通证化股票的创新豁免政策。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3191126",
     "datetime": "2026-05-18T21:22:57+00:00",
-    "views": "26",
+    "views": "30",
     "text": "特朗普在医药平台活动上致谢亚马逊药房与古德低价药平台。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3191125",
     "datetime": "2026-05-18T21:22:17+00:00",
-    "views": "27",
+    "views": "31",
     "text": "特朗普在特朗普医药平台活动上致谢亿万富翁马克·库班。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3191124",
     "datetime": "2026-05-18T21:21:17+00:00",
-    "views": "32",
+    "views": "35",
     "text": "特朗普：平台将新增 600 余种仿制药。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3191123",
     "datetime": "2026-05-18T21:20:57+00:00",
-    "views": "33",
+    "views": "36",
     "text": "特朗普：特朗普处方药网站将纳入仿制药。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3191122",
     "datetime": "2026-05-18T21:20:38+00:00",
-    "views": "33",
+    "views": "36",
     "text": "特朗普：药品供应量将增加七倍。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3191121",
     "datetime": "2026-05-18T21:20:17+00:00",
-    "views": "34",
+    "views": "37",
     "text": "美国总统特朗普宣布扩大折扣药品定价计划。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3191120",
     "datetime": "2026-05-18T21:19:57+00:00",
-    "views": "34",
+    "views": "37",
     "text": "格陵兰岛自治政府总理见美特使 重申“不卖岛”\n金十数据 5 月 19 日讯，丹麦海外领地格陵兰岛自治政府总理延斯-弗雷德里克·尼尔森 18 日表示，他在会见美国总统特朗普任命的“格陵兰岛特使”、路易斯安那州长杰夫·兰德里时，明确表示格陵兰岛“不出售”。尼尔森强调，美方若要在格陵兰岛开展活动，不应先由媒体报道炒作或通过舆论施压，而应通过正式、合适的官方渠道沟通。在听到特朗普有关希望“拥有”格陵兰岛的言论后，他认为双方更有必要通过工作组机制协商相关问题。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3191119",
     "datetime": "2026-05-18T21:16:57+00:00",
-    "views": "44",
+    "views": "48",
     "text": "达尔萨纳资本所管理的资金中近六成仓位投向 SpaceX\n若马斯克旗下 SpaceX 按市场普遍预期估值完成首次公开募股，达尔萨纳资本合伙公司或将斩获超 100 亿美元账面浮盈。SpaceX 筹备上市一事，预计将为一众前瞻投资者与风投机构带来巨额收益。知情人士透露，达尔萨纳资本合伙公司早在 2019 年便首次投资 SpaceX，彼时这家火箭企业估值约 3000 亿美元，此后又多次追加投资。若该公司下月如期上市，且估值达到市场预期的 1.5 万亿美元及以上，达尔萨纳这笔投资的账面浮盈或将突破 100 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -33775,14 +33838,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3187363"
-  },
-  {
-    "post": "Financial_Express/3187362",
-    "datetime": "2026-05-16T21:27:57+00:00",
-    "views": "161",
-    "text": "精神航空本月早些时候宣布将永久停止运营后，这家廉价航空公司正面临一起拟议中的集体诉讼。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3187362"
   }
 ]
