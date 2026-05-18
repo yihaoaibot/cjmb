@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3190901",
+    "datetime": "2026-05-18T17:38:38+00:00",
+    "views": "23",
+    "text": "苹果 iOS 27 将引入 AI 写作与新的快捷功能\n金十数据 5 月 19 日讯，苹果(AAPL.O)正为其下一代 iPhone 和 iPad 操作系统准备一系列 AI 功能，包括语法检查器以及新的快捷操作选项，以缩小与竞争对手设备在功能上的差距。据知情人士透露，这些功能计划包含在 iOS 27 和 iPad OS 27 中。新增内容包括：AI 驱动的写作工具、通过自然语言创建系统级快捷指令的能力，以及自定义壁纸生成等。苹果将在 6 月举行的全球开发者大会（WWDC）上发布新操作系统，并预计于 9 月向公众正式推出。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190901"
+  },
+  {
     "post": "Financial_Express/3190900",
     "datetime": "2026-05-18T17:35:58+00:00",
-    "views": "34",
+    "views": "60",
     "text": "日本财务大臣片山皋月： 七国集团将在下月峰会前夕，商讨应对 Mythos 相关风险的具体举措。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3190899",
     "datetime": "2026-05-18T17:35:17+00:00",
-    "views": "42",
+    "views": "67",
     "text": "日本财务大臣片山皋月：七国集团将在下个月的峰会前讨论与 Mythos 相关风险的具体措施。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3190898",
     "datetime": "2026-05-18T17:33:57+00:00",
-    "views": "57",
+    "views": "79",
     "text": "惠誉：4 月美国私募信贷违约率\n根据惠誉评级周一发布的一份报告，截至 4 月 30 日的 12 个月内，美国私募信贷贷款违约率达到创纪录的 6%。在此期间发生的 99 起违约事件中，有 81 名借款方是首次违约。这是自惠誉 2024 年 8 月开始追踪以来的最高数字。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3190897",
     "datetime": "2026-05-18T17:33:18+00:00",
-    "views": "67",
+    "views": "87",
     "text": "法官驳回埃隆·马斯克对 OpenAI 及其 CEO 奥尔特曼的诉讼\n金十数据 5 月 19 日讯，OpenAI 及其 CEO 奥尔特曼被美国陪审团裁定无需对埃隆·马斯克承担责任，原因是马斯克提起诉讼时间过晚。陪审团认为，OpenAI 偏离“慈善使命”的指控在法律时效上已过期，因此不构成可追责事项。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3190896",
     "datetime": "2026-05-18T17:32:37+00:00",
-    "views": "76",
+    "views": "94",
     "text": "日本财务大臣片山皋月：将根据需要对汇率进行适当应对。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3190895",
     "datetime": "2026-05-18T17:31:58+00:00",
-    "views": "87",
+    "views": "104",
     "text": "法官确认裁决结果，驳回马斯克对 OpenAI 的诉讼。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3190894",
     "datetime": "2026-05-18T17:31:37+00:00",
-    "views": "89",
+    "views": "106",
     "text": "日本财务大臣片山皋月：将对外汇波动采取适当措施。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3190893",
     "datetime": "2026-05-18T17:31:17+00:00",
-    "views": "92",
+    "views": "109",
     "text": "日本财务大臣片山皋月：七国集团财长公报可能包括关于关键矿产定价的声明。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3190892",
     "datetime": "2026-05-18T17:30:57+00:00",
-    "views": "100",
+    "views": "116",
     "text": "日本财务大臣片山皋月：对日本是否干预外汇市场不予置评。",
     "media_only": false,
     "image_url": null,
@@ -83,8 +92,8 @@
   {
     "post": "Financial_Express/3190891",
     "datetime": "2026-05-18T17:30:38+00:00",
-    "views": "103",
-    "text": "美国陪审团裁定：OpenAI 及其首席执行官山姆・奥尔特曼无需因偏离公益初心向埃隆・马斯克承担相关责任，理由是马斯克提起诉讼已远超时效。",
+    "views": "118",
+    "text": "马斯克败诉\n美国陪审团裁定：OpenAI 及其首席执行官山姆・奥尔特曼无需因偏离公益初心向埃隆・马斯克承担相关责任，理由是马斯克提起诉讼已远超时效。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3190891"
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3190890",
     "datetime": "2026-05-18T17:30:18+00:00",
-    "views": "108",
+    "views": "121",
     "text": "苹果拟于 6 月开发者大会正式发布 iOS 27 系统，苹果计划为 iOS 27 推出 AI 写作助手、快捷指令新功能及自定义壁纸功能。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3190889",
     "datetime": "2026-05-18T17:30:17+00:00",
-    "views": "106",
+    "views": "118",
     "text": "日本财务大臣片山皋月：七国集团不考虑对债券抛售采取协调行动，各国需对自身市场状况负责。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3190888",
     "datetime": "2026-05-18T17:29:37+00:00",
-    "views": "109",
+    "views": "119",
     "text": "日本财务大臣片山皋月：  七国集团财长公报或将纳入关键矿产定价相关表态。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3190887",
     "datetime": "2026-05-18T17:28:17+00:00",
-    "views": "118",
+    "views": "127",
     "text": "日本财务大臣片山皋月： 七国集团暂不考虑就债券抛售采取协同行动，各国自行负责本国市场局势。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3190886",
     "datetime": "2026-05-18T17:27:58+00:00",
-    "views": "116",
+    "views": "122",
     "text": "伊朗方面称有权对霍尔木兹海峡海底光缆收“管理费”\n金十数据 5 月 19 日讯，伊朗伊斯兰革命卫队 18 日在社交媒体发布消息称，在伊方对霍尔木兹海峡“实施管理”后，“可宣布所有经过该水道的光纤电缆必须接受许可、监管并缴纳主权性费用”。伊朗伊斯兰革命卫队宣称，依据 1982 年《联合国海洋法公约》，伊朗可基于其对领海海床及底土的主权，对经过霍尔木兹海峡的海底光缆实施许可、监管、收费等管理措施。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3190885",
     "datetime": "2026-05-18T17:26:57+00:00",
-    "views": "120",
+    "views": "126",
     "text": "法官通报：埃隆・马斯克起诉 OpenAI 一案陪审团已作出裁决。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3190884",
     "datetime": "2026-05-18T17:26:18+00:00",
-    "views": "119",
+    "views": "124",
     "text": "广西柳州市启动洪水防御四级应急响应\n5 月 17 日以来，广西柳州市柳南区已发生多次地震。据柳州市气象部门预报，5 月 14 日以来，柳州市部分地区出现中到大雨、局地暴雨或大暴雨。预计 17 日到 20 日，柳州市仍多降雨，局地有暴雨或大暴雨，强降雨雨区与前期部分重叠，致灾风险增高。根据《柳州市水利局洪水防御工作预案》规定，经会商，决定于 2026 年 5 月 19 日 0 时启动柳州市水利局洪水防御四级应急响应。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3190883",
     "datetime": "2026-05-18T17:26:17+00:00",
-    "views": "107",
+    "views": "114",
     "text": "伊朗方面称有权对霍尔木兹海峡海底光缆收“管理费”\n伊朗伊斯兰革命卫队 18 日在社交媒体发布消息称，在伊方对霍尔木兹海峡“实施管理”后，“可宣布所有经过该水道的光纤电缆必须接受许可、监管并缴纳主权性费用”。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -164,7 +173,7 @@
   {
     "post": "Financial_Express/3190882",
     "datetime": "2026-05-18T17:24:38+00:00",
-    "views": "113",
+    "views": "118",
     "text": "日本财务大臣片山皋月：首相指示我研究如何为追加预算筹措资金，同时做好风险防控。",
     "media_only": false,
     "image_url": null,
@@ -32281,23 +32290,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3187298"
-  },
-  {
-    "post": "Financial_Express/3187297",
-    "datetime": "2026-05-16T17:38:58+00:00",
-    "views": "120",
-    "text": "市场资讯：美国官员怀疑，一系列针对多个州加油站储油监测系统的入侵事件，可能是伊朗黑客所为。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3187297"
-  },
-  {
-    "post": "Financial_Express/3187296",
-    "datetime": "2026-05-16T17:37:57+00:00",
-    "views": "131",
-    "text": "美国怀疑伊朗黑客入侵多州加油站燃油监测系统\n金十数据 5 月 17 日讯，据 CNN，多位知情人士透露，美国官员怀疑，一系列针对多个州加油站储油监测系统的入侵事件背后，可能是伊朗黑客所为。消息人士称，相关黑客利用了自动油罐测量（ATG）系统存在的安全漏洞，这些系统直接联网且没有密码保护，黑客因此得以进入系统，在某些情况下甚至能够篡改油罐显示数据，但并未改变油罐中的实际燃油储量。目前尚无迹象表明这些网络入侵造成了实际物理破坏或人员伤害。但私人安全专家和美国官员表示，这些事件已经引发安全担忧，因为理论上，一旦黑客获得 ATG 系统访问权限，就可能让燃油泄漏无法被及时发现。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3187296"
   }
 ]
