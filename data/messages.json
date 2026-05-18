@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3190651",
+    "datetime": "2026-05-18T14:36:59+00:00",
+    "views": "1",
+    "text": "纳斯达克 100 指数持续下跌，跌幅 0.8%，创下盘中新低。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190651"
+  },
+  {
+    "post": "Financial_Express/3190650",
+    "datetime": "2026-05-18T14:36:58+00:00",
+    "views": "1",
+    "text": "摩尔线程：发布首款家庭 AI 中枢 MTT AICUBE\n摩尔线程举办 2026 产品发布会，正式宣布全面深化端侧 AI 战略布局，并发布首款面向家庭场景的消费级产品——MTT AICUBE。据介绍，为满足词元（Token）时代爆发的端侧算力需求，摩尔线程立足自研“长江”智能 SoC，实现了算力从云端智算集群向边缘和终端的延伸，赋能更为普惠的家庭智能场景。（证券时报）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190650"
+  },
+  {
+    "post": "Financial_Express/3190649",
+    "datetime": "2026-05-18T14:36:57+00:00",
+    "views": "1",
+    "text": "德国外交部长：土耳其有潜力对乌克兰战争、伊朗局势冲突发挥相当大的影响力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190649"
+  },
+  {
+    "post": "Financial_Express/3190648",
+    "datetime": "2026-05-18T14:36:38+00:00",
+    "views": "2",
+    "text": "德国外长：土耳其在乌克兰冲突和伊朗战争中有潜力发挥重要影响。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190648"
+  },
+  {
     "post": "Financial_Express/3190647",
     "datetime": "2026-05-18T14:34:38+00:00",
-    "views": "2",
+    "views": "33",
     "text": "伊朗消息称美方展现灵活性 伊方重申核心立场\n总台记者当地时间 18 日获悉，一位伊朗高级消息人士称，美国在允许伊朗在国际原子能机构的监督下维持有限的和平核活动方面展现了灵活性。但在伊朗被冻结资产的问题上，华盛顿只同意按照分阶段的时间表解冻其中四分之一的资产。消息人士表示，伊朗希望美国重新考虑针对以上问题的相关立场。该消息人士称，伊朗在其新提案中再次强调结束战争、重新开放霍尔木兹海峡以及解除海上制裁的要求。消息还称，伊朗核计划和铀浓缩等问题仍然是美伊谈判中最棘手的部分，已被推迟到后续几轮谈判中讨论。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3190646",
     "datetime": "2026-05-18T14:34:18+00:00",
-    "views": "4",
+    "views": "35",
     "text": "标普 500 指数再次转跌。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3190645",
     "datetime": "2026-05-18T14:33:59+00:00",
-    "views": "4",
+    "views": "35",
     "text": "德国外长与到访的土耳其外长在柏林发表联合讲话。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3190644",
     "datetime": "2026-05-18T14:33:22+00:00",
-    "views": "34",
+    "views": "35",
     "text": "涨价函闹“乌龙”，天微电子回应\n5 月 18 日，有消息称，天微电子发布了《关于产品价格上调的说明函》，称因晶圆原材料价格大幅上涨，公司全系列产品价格最高上调 30%。对此，天微电子方面回应中国证券报记者称，经查，此次发布产品调价相关信息的主体为深圳市天微电子股份有限公司，与上市公司天微电子（全称为“四川天微电子股份有限公司”）无任何业务及股权关联，公司从未发布任何产品调价公告及相关通知。(中国证券报)",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3190643",
     "datetime": "2026-05-18T14:32:58+00:00",
-    "views": "34",
+    "views": "65",
     "text": "纳斯达克 100 指数跌至盘中低点 0.3%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3190642",
     "datetime": "2026-05-18T14:32:37+00:00",
-    "views": "34",
+    "views": "65",
     "text": "墨西哥总统证实，正接受美国调查的前官员的银行账户已被冻结。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3190641",
     "datetime": "2026-05-18T14:31:38+00:00",
-    "views": "37",
+    "views": "68",
     "text": "墨西哥总统辛鲍姆：美国国土安全部部长将于周四访问墨西哥。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3190640",
     "datetime": "2026-05-18T14:30:58+00:00",
-    "views": "41",
+    "views": "72",
     "text": "立昂微：VCSEL 芯片已实现规模出货 预计今年出货量会有进一步快速增长\n金十数据 5 月 18 日讯，立昂微近日接受机构调研时表示，立昂东芯 VCSEL 芯片技术居全球第一梯队，二维可寻址大功率 VCSEL 工艺技术已深度赋能车载激光雷达、智能视觉传感领域，已实现规模出货，预计 2026 年出货量会有进一步的快速增长。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3190639",
     "datetime": "2026-05-18T14:30:37+00:00",
-    "views": "40",
+    "views": "71",
     "text": "俄罗斯国防部：执勤防空系统拦截并摧毁了 91 架乌克兰飞机型无人机。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3190637",
     "datetime": "2026-05-18T14:30:18+00:00",
-    "views": "40",
+    "views": "71",
     "text": "广西启动洪水防御四级应急响应\n金十数据 5 月 18 日讯，5 月 18 日至 21 日，广西强降雨天气过程仍将持续，部分降雨落区重叠，山洪致灾风险较高。鉴于本轮降雨过程局地雨强雨量大、突发性强，落区难以预测，部分河流可能出现超警戒水位洪水，根据自治区水利厅洪水防御工作预案，自治区水利厅决定自 5 月 18 日 18 时启动洪水防御四级应急响应。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3190638",
     "datetime": "2026-05-18T14:30:18+00:00",
-    "views": "40",
+    "views": "71",
     "text": "广西启动洪水防御四级应急响应\n5 月 18 日至 21 日，广西强降雨天气过程仍将持续，部分降雨落区重叠，山洪致灾风险较高。鉴于本轮降雨过程局地雨强雨量大、突发性强，落区难以预测，部分河流可能出现超警戒水位洪水，根据自治区水利厅洪水防御工作预案，自治区水利厅决定自 5 月 18 日 18 时启动洪水防御四级应急响应。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3190636",
     "datetime": "2026-05-18T14:29:59+00:00",
-    "views": "43",
+    "views": "74",
     "text": "以色列总理内塔尼亚胡今晚将举行一系列安全讨论。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3190634",
     "datetime": "2026-05-18T14:28:20+00:00",
-    "views": "46",
+    "views": "77",
     "text": "Alphabet 股价大涨 2.7%，创下历史新高，此前伯克希尔哈撒韦将 Alphabet 持仓增至三倍以上。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3190635",
     "datetime": "2026-05-18T14:28:20+00:00",
-    "views": "47",
+    "views": "78",
     "text": "埃拉克托尔集团称其持有的摩多石油股份占比从 22.4% 降至 10.4%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3190632",
     "datetime": "2026-05-18T14:27:58+00:00",
-    "views": "46",
+    "views": "77",
     "text": "据伊朗塔斯尼姆通讯社：接近谈判团队的消息人士称，伊朗表示，尽管美方在新文件中有了一些变化，但由于美国的贪婪和缺乏现实主义，实质性分歧依然存在。伊朗坚决要求美国支付因战争造成的赔偿。伊朗被冻结的资产必须以明确且确凿的方式归还给伊朗人民。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3190633",
     "datetime": "2026-05-18T14:27:58+00:00",
-    "views": "76",
+    "views": "77",
     "text": "T1 能源股价上涨 17.8%，报每股 6.68 美元；态势感知公司披露在该股中新建持仓。",
     "media_only": false,
     "image_url": null,
@@ -30976,32 +31012,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3187192"
-  },
-  {
-    "post": "Financial_Express/3187191",
-    "datetime": "2026-05-16T14:36:58+00:00",
-    "views": "135",
-    "text": "前英国卫生大臣斯特里廷：我将参选任何接替基尔・斯塔默的党首竞选。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3187191"
-  },
-  {
-    "post": "Financial_Express/3187190",
-    "datetime": "2026-05-16T14:35:57+00:00",
-    "views": "134",
-    "text": "伊朗副总统：敌方在上一轮冲突中针对本国经济与科研基础设施发起打击，企图削弱我方实力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3187190"
-  },
-  {
-    "post": "Financial_Express/3187189",
-    "datetime": "2026-05-16T14:35:20+00:00",
-    "views": "134",
-    "text": "黎巴嫩报告称，自 3 月以来，以色列的袭击已造成 2969 人死亡，9112 人受伤。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3187189"
   }
 ]
