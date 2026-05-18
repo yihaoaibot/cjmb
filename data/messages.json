@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3190851",
+    "datetime": "2026-05-18T17:03:18+00:00",
+    "views": "7",
+    "text": "戴尔：谷歌与戴尔达成合作，在戴尔 PowerEdge XE9780 服务器上，部署谷歌分布式云端的 Gemini 3 Flash 系列模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190851"
+  },
+  {
+    "post": "Financial_Express/3190850",
+    "datetime": "2026-05-18T17:03:17+00:00",
+    "views": "8",
+    "text": "据纽约邮报：美国总统特朗普称，不会对伊朗做出让步。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190850"
+  },
+  {
+    "post": "Financial_Express/3190849",
+    "datetime": "2026-05-18T17:02:57+00:00",
+    "views": "26",
+    "text": "戴尔： SpaceX 旗下 AI 部门携手戴尔，将 Grok 高阶推理与多模态能力落地，打造安全性更强的企业级智能助手。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190849"
+  },
+  {
+    "post": "Financial_Express/3190848",
+    "datetime": "2026-05-18T17:02:38+00:00",
+    "views": "34",
+    "text": "戴尔：英伟达面向戴尔人工智能算力工厂推出 OpenShell 与 NVIDIA AI-Q 2.0，同步上线英伟达及戴尔联合打造的 AI-Q 2.0 参考架构，现已正式推出。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190848"
+  },
+  {
+    "post": "Financial_Express/3190847",
+    "datetime": "2026-05-18T17:02:18+00:00",
+    "views": "41",
+    "text": "戴尔：谷歌与戴尔合作，在戴尔 PowerEdge XE9780 服务器上通过谷歌分布式云推出 Gemini 3 闪存模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190847"
+  },
+  {
+    "post": "Financial_Express/3190846",
+    "datetime": "2026-05-18T17:02:17+00:00",
+    "views": "41",
+    "text": "据纽约邮报：美国总统特朗普表示，伊朗知道即将要发生什么。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190846"
+  },
+  {
+    "post": "Financial_Express/3190845",
+    "datetime": "2026-05-18T17:01:57+00:00",
+    "views": "48",
+    "text": "戴尔：拓展与 Mistral AI 的合作，将其语言与推理模型及编排工具引入戴尔 AI 工厂。Mistral AI 采用戴尔人工智能基础设施，支持大语言模型的规模化训练与部署。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190845"
+  },
+  {
+    "post": "Financial_Express/3190844",
+    "datetime": "2026-05-18T17:01:38+00:00",
+    "views": "54",
+    "text": "戴尔：礼来制药借助戴尔方案规模化推进人工智能赋能的药物研发与生产。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190844"
+  },
+  {
+    "post": "Financial_Express/3190843",
+    "datetime": "2026-05-18T17:01:37+00:00",
+    "views": "54",
+    "text": "戴尔正携手三星电子，共建人工智能驱动型半导体制造基础设施。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3190843"
+  },
+  {
     "post": "Financial_Express/3190842",
     "datetime": "2026-05-18T17:01:19+00:00",
-    "views": "1",
+    "views": "57",
     "text": "戴尔：已有超 5000 家客户部署戴尔人工智能算力工厂。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3190841",
     "datetime": "2026-05-18T17:01:18+00:00",
-    "views": "1",
+    "views": "58",
     "text": "戴尔宣布与英伟达合作，推出一系列戴尔人工智能工厂的重大进展。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +101,8 @@
   {
     "post": "Financial_Express/3190840",
     "datetime": "2026-05-18T17:00:37+00:00",
-    "views": "29",
-    "text": "美国总统特朗普：伊朗知道“很快会发生什么”。（纽约邮报）",
+    "views": "71",
+    "text": "美国总统特朗普：伊朗知道“很快会发生什么”。不会对伊朗做出让步。（纽约邮报）",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3190840"
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3190839",
     "datetime": "2026-05-18T17:00:18+00:00",
-    "views": "34",
+    "views": "72",
     "text": "夜盘期货收盘\n国际铜夜盘收涨 0.50%，沪铜收涨 0.51%，沪铝收涨 0.48%，沪锌收涨 0.10%，沪铅收涨 0.18%，沪镍收涨 0.42%，沪锡收涨 0.98%。氧化铝夜盘收跌 1.02%，铝合金收涨 0.59%。不锈钢夜盘收跌 0.61%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3190838",
     "datetime": "2026-05-18T16:59:17+00:00",
-    "views": "55",
+    "views": "83",
     "text": "Datashapes AI 与 L3Harris 达成合作， 联合推出搭载人工智能技术、可侦测并应对无人机的智能无线电设备。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3190837",
     "datetime": "2026-05-18T16:58:17+00:00",
-    "views": "70",
+    "views": "92",
     "text": "土耳其外长：美伊应通过谈判化解分歧\n当地时间 18 日，正在德国访问的土耳其外长费丹就当前伊朗局势及美伊关系发表讲话。费丹强调，当前各方的首要任务是全力维护来之不易的停火状态，避免爆发直接军事冲突。费丹警告称，一旦中东战火重燃，将给该地区乃至全球带来极其严重的经济和政治后果。土方倾向于相信，美国和伊朗双方都已充分意识到这一风险，并具备达成持久协议的政治意愿。在谈到备受关注的伊核协议谈判时，费丹表示，从技术和原则层面上看，伊朗方面同意履行核谈判中必要条件的意愿没有原则性障碍。目前各方的主要分歧并不在“要不要谈”，而是在于“作为回报能得到什么”和“以何种方式和顺序兑现承诺”，以及“谈判是否会捆绑其他附加条件”。费丹透露，当前除了土耳其在积极奔走外，卡塔尔、沙特阿拉伯和埃及等地区重要国家也在为彻底结束冲突而共同努力。土耳其目前正与有关各方及斡旋方保持密切的外交接触，全力阻止局势进一步恶化。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3190836",
     "datetime": "2026-05-18T16:57:57+00:00",
-    "views": "74",
+    "views": "90",
     "text": "沃什周五将宣誓就任美联储主席 宣誓仪式由特朗普主持\n金十数据 5 月 19 日讯，据福克斯商业频道周一援引白宫官员的话报道称，沃什将于周五在白宫举行的仪式上宣誓就任美联储主席，仪式将由特朗普主持。美国参议院周三批准沃什出任美联储主席，这位 56 岁的律师兼金融家将执掌美国央行。当前美联储正面临日益加剧的通胀压力 ，这可能使特朗普所要求的降息举措难以推行。作为特朗普提名的美联储主席人选，沃什的上任有望为特朗普政府与美联储的关系带来新开端。此前八年间，白宫与美联储之间摩擦不断，又经历了全球疫情和与高通胀的斗争。沃什将从鲍威尔手中接过领导权。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3190835",
     "datetime": "2026-05-18T16:53:37+00:00",
-    "views": "94",
+    "views": "106",
     "text": "白宫官员：美国总统特朗普将于周五举行美联储主席提名人沃什的宣誓就职仪式。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3190834",
     "datetime": "2026-05-18T16:52:17+00:00",
-    "views": "120",
+    "views": "130",
     "text": "LME 期铜收涨 32 美元，报 13588 美元/吨。LME 期铝收涨 6 美元，报 3569 美元/吨。LME 期锌收跌 10 美元，报 3524 美元/吨。LME 期铅收涨 4 美元，报 1982 美元/吨。LME 期镍收涨 70 美元，报 18567 美元/吨。LME 期锡收涨 216 美元，报 52563 美元/吨。LME 期钴收平，报 56290 美元/吨。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3190833",
     "datetime": "2026-05-18T16:51:58+00:00",
-    "views": "120",
+    "views": "130",
     "text": "戴尔在本季度出售了 1,000 台搭载英伟达芯片的人工智能服务器。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3190832",
     "datetime": "2026-05-18T16:51:38+00:00",
-    "views": "119",
+    "views": "127",
     "text": "伦敦金属交易所：确认将把铅和锌直接合约（Outright Contract）在所有交易平台上的单日价格涨跌幅限制，从 15%下调至 12%，新规将于 6 月 8 日起生效。",
     "media_only": false,
     "image_url": null,
@@ -31921,41 +32002,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3187281"
-  },
-  {
-    "post": "Financial_Express/3187280",
-    "datetime": "2026-05-16T17:03:18+00:00",
-    "views": "133",
-    "text": "太离谱 斯沃琪联名表原价 2700 元炒到近 7 万 深圳有人通宵排队\n金十数据 5 月 17 日讯，一块联名表居然一表难求，有人为它提前 3 天排队，有人愿意 3 倍溢价买单，居然还会有价无市？5 月 16 日，瑞士斯沃琪（Swatch）与顶级制表品牌爱彼（Audemars Piguet）跨界合作，推出全新联名系列“Royal Pop”，消息一经发布，引发了全球时尚爱好者关注。线下火爆异常，上海、深圳、宁波等多地门店排起长队。从官网了解到，虽然官方售价为 400 美元（约合人民币 2716 元），但在转售市场上，这款联名表的价格已经被迅速炒高。部分转售网站上甚至曾一度出现接近 1 万美元（约合人民币 67800 元）的挂牌价格，但目前该页面已经被撤掉。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3187280"
-  },
-  {
-    "post": "Financial_Express/3187279",
-    "datetime": "2026-05-16T17:02:38+00:00",
-    "views": "125",
-    "text": "印度外交部：印度总理与荷兰总理呼吁尽早签署印度-欧盟自由贸易协定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3187279"
-  },
-  {
-    "post": "Financial_Express/3187278",
-    "datetime": "2026-05-16T17:02:37+00:00",
-    "views": "122",
-    "text": "印度外交部：印度与荷兰领导人呼吁尽早实施《印度—欧盟自由贸易协定》。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3187278"
-  },
-  {
-    "post": "Financial_Express/3187277",
-    "datetime": "2026-05-16T17:01:38+00:00",
-    "views": "120",
-    "text": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3187277"
   }
 ]
