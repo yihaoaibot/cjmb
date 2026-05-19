@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3193896",
+    "datetime": "2026-05-19T18:30:58+00:00",
+    "views": "13",
+    "text": "美国原油期货结算价报每桶 107.77 美元，下跌 89 美分，跌幅 0.82%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3193896"
+  },
+  {
+    "post": "Financial_Express/3193895",
+    "datetime": "2026-05-19T18:30:37+00:00",
+    "views": "9",
+    "text": "据华尔街日报：调解方认为美伊谈判几乎进展甚微。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3193895"
+  },
+  {
     "post": "Financial_Express/3193894",
     "datetime": "2026-05-19T18:30:17+00:00",
-    "views": "1",
+    "views": "16",
     "text": "上期所原油期货夜盘收涨 2.40%，报 690.00 元人民币/桶。沪金夜盘收跌 1.09%，沪银收跌 3.44%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3193893",
     "datetime": "2026-05-19T18:29:57+00:00",
-    "views": "1",
+    "views": "16",
     "text": "美国民主党参议员沃纳称特朗普手机品牌发布误导性声明，并就其商业行为提出质疑。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3193892",
     "datetime": "2026-05-19T18:29:38+00:00",
-    "views": "1",
+    "views": "14",
     "text": "特朗普下令鼓励美联储扩大金融科技准入。",
     "media_only": false,
     "image_url": null,
@@ -29,8 +47,8 @@
   {
     "post": "Financial_Express/3193891",
     "datetime": "2026-05-19T18:29:17+00:00",
-    "views": "9",
-    "text": "特朗普将签署行政令，要求银行提交公民身份相关信息。",
+    "views": "50",
+    "text": "特朗普将签署行政令，要求银行收集客户公民身份信息。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3193891"
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3193890",
     "datetime": "2026-05-19T18:28:57+00:00",
-    "views": "10",
+    "views": "52",
     "text": "美国副总统万斯：我与特朗普支持禁止国会议员进行股票交易。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3193889",
     "datetime": "2026-05-19T18:28:37+00:00",
-    "views": "12",
+    "views": "53",
     "text": "美国副总统万斯：特朗普本人并未进行股票交易。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3193888",
     "datetime": "2026-05-19T18:26:17+00:00",
-    "views": "52",
+    "views": "57",
     "text": "谷歌 Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3193887",
     "datetime": "2026-05-19T18:24:37+00:00",
-    "views": "56",
+    "views": "91",
     "text": "英国部分放开“第三国加工俄原油”成品油进口\n英国政府 19 日发布一项通用贸易许可证，正式允许进口由第三国使用俄罗斯原油加工制成的柴油和航空燃油。这项许可由英国商业贸易部颁发，适用对象为俄罗斯境外以俄原油为原料炼制的特定柴油、航空燃油产品，同时许可与这类油品进口相关的配套服务及相关业务操作。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3193886",
     "datetime": "2026-05-19T18:23:57+00:00",
-    "views": "88",
+    "views": "93",
     "text": "美国副总统万斯：我们要么和伊朗达成协议，要么谈不成。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3193885",
     "datetime": "2026-05-19T18:23:37+00:00",
-    "views": "89",
+    "views": "93",
     "text": "美国在印度洋扣押了一艘与伊朗有关的油轮。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3193884",
     "datetime": "2026-05-19T18:22:58+00:00",
-    "views": "90",
+    "views": "94",
     "text": "谷歌 Gemini：上个月我们发布了适用于 macOS 的 Gemini 应用。在接下来的几周里，我们将把 Gemini Spar 引入 Gemini 桌面应用，以帮助处理本地文件整理或将 PDF 数据直接提取到 Google Sheets 中。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3193883",
     "datetime": "2026-05-19T18:21:38+00:00",
-    "views": "92",
+    "views": "96",
     "text": "美国副总统万斯：我们理顺中东事务后，物价将会回落。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3193882",
     "datetime": "2026-05-19T18:20:58+00:00",
-    "views": "93",
+    "views": "97",
     "text": "美国副总统万斯：无论特朗普对伊朗做出何种决定，都不会永远持续下去。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3193881",
     "datetime": "2026-05-19T18:20:57+00:00",
-    "views": "92",
+    "views": "95",
     "text": "美国副总统万斯：无论美国总统特朗普对伊朗做出什么决定，这种情况不会永远持续。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3193880",
     "datetime": "2026-05-19T18:20:18+00:00",
-    "views": "92",
+    "views": "95",
     "text": "特朗普听取对伊朗军事行动方案\n金十数据 5 月 20 日讯，据美国“阿克西奥斯新闻网（Axios）”当地时间 5 月 19 日报道，美国总统特朗普已于当地时间 5 月 18 日晚召集国家安全团队开会，听取了针对伊朗的军事行动方案简报。报道援引两名美国官员消息称，会议重点讨论了对伊朗战事的下一步方向、外交谈判进展，以及美国可能采取的军事行动。据称，此次简报会显示出特朗普“正认真考虑恢复对伊朗军事行动”。报道援引知情人士消息称，部分主张对伊朗采取强硬立场的相关人士认为，特朗普目前“有种想狠狠一击、迫使伊朗在谈判中让步的情绪”。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3193879",
     "datetime": "2026-05-19T18:16:57+00:00",
-    "views": "78",
+    "views": "79",
     "text": "美国内政部长称限制美国石油出口“从各方面看都不是好事”\n尽管全球依赖美国原油来填补伊朗战争造成的供应缺口，导致外界对美国国内库存不断下降的担忧加剧，特朗普政府官员仍坚决反对限制美国石油和汽油出口。“从经济、地缘政治和可负担性来看，这从各方面看都不是好事，”美国内政部长道格·伯格姆在接受采访时表示。",
     "media_only": false,
     "image_url": null,
@@ -51613,23 +51631,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3188138"
-  },
-  {
-    "post": "Financial_Express/3188137",
-    "datetime": "2026-05-17T18:31:57+00:00",
-    "views": "180",
-    "text": "地区局势紧张之际，黎巴嫩总统与科威特埃米尔重申双方团结一致。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3188137"
-  },
-  {
-    "post": "Financial_Express/3188136",
-    "datetime": "2026-05-17T18:30:58+00:00",
-    "views": "173",
-    "text": "据伊朗 Press TV：伊朗副总统表示，伊朗将不再允许敌方的军事装备通过霍尔木兹海峡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3188136"
   }
 ]
