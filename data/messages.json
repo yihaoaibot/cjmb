@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3193786",
     "datetime": "2026-05-19T17:27:57+00:00",
-    "views": "35",
+    "views": "65",
     "text": "美股跌幅收窄，标普 500 指数下跌 0.15%，纳斯达克指数下跌 0.25%，道琼斯指数下跌 0.21%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3193785",
     "datetime": "2026-05-19T17:26:59+00:00",
-    "views": "36",
+    "views": "66",
     "text": "以色列总理内塔尼亚胡在收到一份机密文件后，其庭审已连续三日取消。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3193784",
     "datetime": "2026-05-19T17:26:58+00:00",
-    "views": "37",
+    "views": "67",
     "text": "谷歌推出 Gemini 3.5 系列模型\n金十数据 5 月 20 日讯，谷歌宣布推出 Gemini 3.5 Flash 模型，称这是谷歌迄今为止最快、最有效的模型。 无论用户需要日常任务的帮助，还是多步骤的创意项目，Gemini 3.5 Flash 都能应对现实世界的复杂性，助用户迅速行动。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3193783",
     "datetime": "2026-05-19T17:25:57+00:00",
-    "views": "67",
+    "views": "97",
     "text": "谷歌正式推出 Gemini 3.5 系列模型，首发版本为 Gemini 3.5 Flash。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3193782",
     "datetime": "2026-05-19T17:24:57+00:00",
-    "views": "68",
+    "views": "98",
     "text": "谷歌 I/O 大会直击：Gemini 月活逼近 9 亿，AI 搜索横扫 25 亿用户\n在刚开幕的谷歌 I/O 大会上，谷歌 CEO 皮查伊向全球开发者展示了谷歌在 AI 时代交出的一份极其亮眼的成绩单。 皮查伊在演讲中宣布，作为谷歌核心的 AI 产品，GeminiApp 的月活跃用户数在过去一年内迎来了爆发式增长，从 2025 年 5 月的 4 亿一路飙升，截至 2026 年 4 月已突破 9 亿大关。同时，AI 技术与谷歌核心搜索业务的融合也取得了史无前例的成功：搜索中的“AI 模式”（AIMode）月活跃用户已突破 10 亿，而广受欢迎的“AI 概述”（AIOverviews）月活跃用户更是席卷了全球超过 25 亿人。（新浪科技）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3193780",
     "datetime": "2026-05-19T17:22:58+00:00",
-    "views": "98",
+    "views": "128",
     "text": "美国天然气期货涨超 3.00%，现报 3.115 美元/百万英热。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3193779",
     "datetime": "2026-05-19T17:22:17+00:00",
-    "views": "97",
+    "views": "127",
     "text": "国际原子能机构：机构国际专家小组确认，萨尔瓦多在搭建相关配套体系方面取得显著进展，足以支撑该国就引入核电项目作出理性决策。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3193778",
     "datetime": "2026-05-19T17:21:57+00:00",
-    "views": "96",
+    "views": "126",
     "text": "伊朗官员：特朗普只听得懂强权话语。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3193775",
     "datetime": "2026-05-19T17:18:17+00:00",
-    "views": "112",
+    "views": "142",
     "text": "谷歌在发布会上推出可用于视频生成与编辑的 Gemini Omni 模型。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +164,7 @@
   {
     "post": "Financial_Express/3193768",
     "datetime": "2026-05-19T17:10:58+00:00",
-    "views": "158",
+    "views": "188",
     "text": "谷歌首席执行官：今夏将在美国上线 YouTube 智能问答搜索功能。",
     "media_only": false,
     "image_url": null,
@@ -51082,14 +51082,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3188089"
-  },
-  {
-    "post": "Financial_Express/3188088",
-    "datetime": "2026-05-17T17:31:37+00:00",
-    "views": "131",
-    "text": "黎巴嫩真主党称对黎巴嫩南部的以色列士兵发动了无人机袭击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3188088"
   }
 ]
