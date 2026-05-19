@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3193966",
     "datetime": "2026-05-19T19:55:38+00:00",
-    "views": "12",
+    "views": "24",
     "text": "美国能源部长赖特：霍尔木兹海峡将在不久的将来恢复通航。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3193965",
     "datetime": "2026-05-19T19:55:37+00:00",
-    "views": "12",
+    "views": "24",
     "text": "xAI 允许在 OpenClaw 中使用 Grok。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3193964",
     "datetime": "2026-05-19T19:53:18+00:00",
-    "views": "59",
+    "views": "63",
     "text": "美国能源部长赖特：霍尔木兹海峡将在不久的将来恢复通行。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3193963",
     "datetime": "2026-05-19T19:53:17+00:00",
-    "views": "59",
+    "views": "63",
     "text": "xAI：SuperGrok 或 X 高级订阅（X Premium）均可在 OpenClaw 中使用。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3193962",
     "datetime": "2026-05-19T19:52:37+00:00",
-    "views": "62",
+    "views": "64",
     "text": "美国能源部长赖特： 美国将持续增加自委内瑞拉的石油供应量。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3193961",
     "datetime": "2026-05-19T19:52:18+00:00",
-    "views": "63",
+    "views": "65",
     "text": "美国能源部长赖特：高昂油价是我们所有人都必须承受的代价。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3193960",
     "datetime": "2026-05-19T19:51:57+00:00",
-    "views": "63",
+    "views": "65",
     "text": "美国能源部长赖特：我们不会耗尽汽油。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3193958",
     "datetime": "2026-05-19T19:51:37+00:00",
-    "views": "63",
+    "views": "65",
     "text": "高通 CFO 谈及供应紧缺问题：依托自身业务规模，公司在各类产品线间具备调配空间，可借此获得供应商供货保障。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3193957",
     "datetime": "2026-05-19T19:48:57+00:00",
-    "views": "71",
+    "views": "72",
     "text": "OpenAI 推出按消费额度划分的专属算力保障服务。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3193955",
     "datetime": "2026-05-19T19:47:38+00:00",
-    "views": "73",
+    "views": "104",
     "text": "万斯：美伊谈判进展很大 但美方也预备了“B 方案”\n美国副总统万斯 19 日在白宫记者会上称，美国与伊朗的谈判已取得“很大进展”，但美方也准备了重启军事行动的“B 方案”。万斯表示，目前“只有两个选项”，要么“达成一个好的协议”，要么回到军事行动。显然，美国总统特朗普希望达成协议，伊朗方面也倾向于达成协议。同时，美方也准备可以重启军事行动的“B 方案”。特朗普刚刚告诉他，“我们已经严阵以待”。“我们不希望走到那一步，但如有必要，总统愿意也有能力走那条路。”万斯强调，伊朗绝不能拥有核武器，这是美方“红线”。美国希望伊朗能与美方合作，建立一套行之有效的机制，从而确保伊朗无法重建其核能力，“这正是我们在谈判中全力争取实现的目标”。他同时表示，在美方看来，伊方仍未明确谈判立场，“有时候难以弄清楚伊朗人究竟想通过谈判实现什么目的”。有记者问美伊谈判内容是否涉及由俄罗斯接管伊朗的浓缩铀，万斯说：“这不是美国政府目前的计划。伊朗方面也没有提出过。”（新华社）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3193956",
     "datetime": "2026-05-19T19:47:38+00:00",
-    "views": "73",
+    "views": "104",
     "text": "OpenAI 现已推出算力保障服务。",
     "media_only": false,
     "image_url": null,
@@ -51865,14 +51865,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3188182"
-  },
-  {
-    "post": "Financial_Express/3188181",
-    "datetime": "2026-05-17T19:57:37+00:00",
-    "views": "121",
-    "text": "伊朗警察总长艾哈迈德礼萨・拉丹：自 2 月 28 日与美以爆发冲突以来，安保力量已逮捕 6500 名叛徒与间谍。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3188181"
   }
 ]
