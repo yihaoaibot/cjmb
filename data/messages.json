@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3193811",
+    "datetime": "2026-05-19T17:43:57+00:00",
+    "views": "9",
+    "text": "谷歌推出全天候 AI 代理 Gemini Spark 可后台执行任务\n金十数据 5 月 20 日讯，谷歌(GOOG.O)介绍称，Gemini Spark 是全天候个人 AI 代理，能够帮助管理数字生活，并在指令下代执行任务。该模型运行在 Gemini 3.5 之上，并基于 Google Antigravity 构建，因此可以轻松在后台执行长时间运行的任务。由于运行在谷歌云的专用虚拟机上，用户甚至不需要保持电脑开机。Spark 将与谷歌各类工具无缝集成，并很快通过 MCP 与第三方应用连接。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3193811"
+  },
+  {
+    "post": "Financial_Express/3193810",
+    "datetime": "2026-05-19T17:43:17+00:00",
+    "views": "17",
+    "text": "美国副总统万斯：帕克斯顿在得克萨斯州参议院选举中赢得了特朗普的支持。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3193810"
+  },
+  {
+    "post": "Financial_Express/3193809",
+    "datetime": "2026-05-19T17:42:58+00:00",
+    "views": "48",
+    "text": "美国副总统万斯：帕克斯顿将成为德克萨斯州一位优秀的参议员。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3193809"
+  },
+  {
+    "post": "Financial_Express/3193808",
+    "datetime": "2026-05-19T17:42:37+00:00",
+    "views": "48",
+    "text": "谷歌在开发者大会宣布将每月 250 美元的 AI 超级套餐下调至 200 美元，并新增 100 美元档位。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3193808"
+  },
+  {
     "post": "Financial_Express/3193807",
     "datetime": "2026-05-19T17:41:57+00:00",
-    "views": "8",
+    "views": "51",
     "text": "美国副总统万斯：我们不希望达成任何让伊朗拥有核武器的协议。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3193806",
     "datetime": "2026-05-19T17:41:38+00:00",
-    "views": "11",
+    "views": "53",
     "text": "谷歌称 Gemini 3.5 Flash 可助客户年省超 10 亿美元\n谷歌表示，Gemini 3.5 Flash 是其面向大规模生产环境的模型。目前，顶级谷歌云客户每天处理约 1 万亿个 token。如果这些客户将 80%的工作负载从其他前沿模型迁移到 3.5 Flash，每年可节省超过 10 亿美元。这些是真实的成本节约，可以重新投入到企业发展中。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3193804",
     "datetime": "2026-05-19T17:41:18+00:00",
-    "views": "12",
+    "views": "54",
     "text": "美国副总统万斯：我们可以重新启动军事行动，但这并不是特朗普或伊朗所希望的。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3193805",
     "datetime": "2026-05-19T17:41:18+00:00",
-    "views": "12",
+    "views": "54",
     "text": "美国副总统万斯：方案 B 是重启对伊朗的军事行动，特朗普不想在伊朗问题上采取 B 方案。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3193803",
     "datetime": "2026-05-19T17:41:17+00:00",
-    "views": "12",
+    "views": "54",
     "text": "美国副总统万斯：我们在伊朗问题上取得了很大进展。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3193801",
     "datetime": "2026-05-19T17:40:58+00:00",
-    "views": "14",
+    "views": "56",
     "text": "美国副总统万斯：我们认为在与伊朗的关系上取得了很大进展。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3193802",
     "datetime": "2026-05-19T17:40:58+00:00",
-    "views": "14",
+    "views": "56",
     "text": "美国副总统万斯：我们可以重启军事行动。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3193800",
     "datetime": "2026-05-19T17:40:57+00:00",
-    "views": "14",
+    "views": "55",
     "text": "谷歌称 Gemini 3.5 Flash 可助客户年省超 10 亿美元\n金十数据 5 月 20 日讯，谷歌(GOOG.O)表示，Gemini 3.5 Flash 是其面向大规模生产环境的模型。目前，顶级谷歌云客户每天处理约 1 万亿个 token。如果这些客户将 80%的工作负载从其他前沿模型迁移到 3.5 Flash，每年可节省超过 10 亿美元。这些是真实的成本节约，可以重新投入到企业发展中。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3193799",
     "datetime": "2026-05-19T17:40:37+00:00",
-    "views": "47",
+    "views": "58",
     "text": "美国副总统万斯：特朗普指示我们积极与伊朗谈判。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3193798",
     "datetime": "2026-05-19T17:39:37+00:00",
-    "views": "57",
+    "views": "63",
     "text": "美国副总统万斯：我们与伊朗的关系有两条路可以走。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3193797",
     "datetime": "2026-05-19T17:39:17+00:00",
-    "views": "57",
+    "views": "63",
     "text": "美国副总统万斯：刚刚和特朗普谈了伊朗问题。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3193796",
     "datetime": "2026-05-19T17:38:58+00:00",
-    "views": "58",
+    "views": "65",
     "text": "俄罗斯总统普京抵达北京开启访华行程\n应国家主席习近平邀请，俄罗斯总统普京 19 日晚间乘坐专机抵达北京，开启对中国的国事访问行程。19 日晚间 11 点 12 分，俄罗斯总统普京乘坐专机飞抵北京首都国际机场。这也是普京总统第 25 次到访中国。中共中央政治局委员、外交部长王毅前往机场迎接。访问期间，中俄两国元首将就双边关系、各领域合作以及共同关心的国际地区问题交换意见。对于普京总统此访，中国外交部发言人表示，近年来，在习近平主席和普京总统战略引领下，中俄新时代全面战略协作伙伴关系健康稳定深入发展，各领域合作不断拓展，为两国和两国人民带来实实在在的利益，也为维护全球战略稳定和国际公平正义作出重要贡献。今年是中俄战略协作伙伴关系建立 30 周年、《中俄睦邻友好合作条约》签署 25 周年，也是“中俄教育年”启动之年。双方将以此为契机，继续推动中俄关系向更深层次、更高水平发展，为世界注入更多稳定性和正能量。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3193795",
     "datetime": "2026-05-19T17:37:58+00:00",
-    "views": "81",
+    "views": "86",
     "text": "谷歌推出新的个性化人工智能助手 Gemini Spark。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3193793",
     "datetime": "2026-05-19T17:37:38+00:00",
-    "views": "80",
+    "views": "85",
     "text": "谷歌首席执行官：Gemini 3.5 PRO 将于下个月发布。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3193794",
     "datetime": "2026-05-19T17:37:38+00:00",
-    "views": "80",
+    "views": "85",
     "text": "谷歌在开发者大会推出全新个性化智能体“Gemini Spark”。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3193792",
     "datetime": "2026-05-19T17:37:17+00:00",
-    "views": "80",
+    "views": "86",
     "text": "美国副总统万斯：下周将在空军学院的仪式上发表讲话。",
     "media_only": false,
     "image_url": null,
@@ -51172,14 +51208,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3188100"
-  },
-  {
-    "post": "Financial_Express/3188099",
-    "datetime": "2026-05-17T17:42:58+00:00",
-    "views": "120",
-    "text": "日本制定该使用准则将主要用于网络防御领域。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3188099"
   }
 ]
