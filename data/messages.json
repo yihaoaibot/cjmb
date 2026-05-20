@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3194702",
+    "datetime": "2026-05-20T04:24:38+00:00",
+    "views": "13",
+    "text": "平头哥未来两代 GPU 规划曝光：将陆续推出算力更强的真武 V900、真武 J900\n5 月 20 日，在 2026 阿里云峰会上，平头哥首次公布真武系列芯片的规划，未来两年将陆续推出算力更强的真武 V900、真武 J900 两代芯片，以满足 Agentic 时代千行百业的 AI 算力需求。目前，真武系列芯片已累计出货 56 万片，服务了中国电信、中国一汽、浦发银行等 20 多个行业的 400 多家客户。这是面向 Agentic 时代全面升级的重要部分，当天阿里云推出了全新“芯—云—模型—推理”技术体系。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3194702"
+  },
+  {
+    "post": "Financial_Express/3194701",
+    "datetime": "2026-05-20T04:23:37+00:00",
+    "views": "27",
+    "text": "印度尼西亚总统：但此类参与必须以合规方式进行。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3194701"
+  },
+  {
+    "post": "Financial_Express/3194700",
+    "datetime": "2026-05-20T04:23:17+00:00",
+    "views": "29",
+    "text": "印度尼西亚总统：我们不能认为所有事都要靠国家包办，我们希望更多私营部门参与进来。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3194700"
+  },
+  {
     "post": "Financial_Express/3194699",
     "datetime": "2026-05-20T04:22:57+00:00",
-    "views": "1",
+    "views": "28",
     "text": "印尼总统：要求国有银行降低贫困公民的利率。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3194698",
     "datetime": "2026-05-20T04:22:18+00:00",
-    "views": "2",
+    "views": "28",
     "text": "长安汽车在南昌成立销售新公司\n企查查 APP 显示，近日，长安汽车销售（南昌）有限公司成立，注册资本 1000 万元，经营范围包含汽车销售，新能源汽车整车销售，汽车装饰用品销售，新能源汽车电附件销售等。企查查股权穿透显示，该公司由长安汽车全资持股。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3194697",
     "datetime": "2026-05-20T04:21:38+00:00",
-    "views": "2",
+    "views": "24",
     "text": "日本宫城县女川核电站 2 号机组恢复发电\n东北电力公司 20 日宣布，在汽轮机厂房内水槽中曾检测出含有放射性物质的微量蒸汽、因而一度暂停反应堆的女川核电站 2 号机组目前已恢复发电。该机组自今年 1 月起处于定期检修中，该公司表示，原定于 6 月 9 日恢复商业运行的计划不受影响。女川核电站 2 号机组曾于本月 14 日开始发电，但 15 日确认到厂房内出现蒸汽，16 日停止了反应堆运行。调查发现，原因是在连接汽轮机与水槽的阀门之间夹入金属碎片，导致阀门无法完全关闭。清除金属碎片后，于 18 日重新启动了反应堆。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3194696",
     "datetime": "2026-05-20T04:21:18+00:00",
-    "views": "2",
+    "views": "20",
     "text": "受印尼出口管控消息提振，棕榈油期货价格一度上涨 0.9%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3194695",
     "datetime": "2026-05-20T04:20:18+00:00",
-    "views": "32",
+    "views": "47",
     "text": "印尼总统：我们需要私营部门。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3194694",
     "datetime": "2026-05-20T04:19:59+00:00",
-    "views": "32",
+    "views": "46",
     "text": "千寻智能与地瓜机器人达成战略合作\n5 月 20 日，千寻智能宣布与地瓜机器人正式达成战略合作。双方已完成千寻智能开源具身模型 Spirit v1.5 与地瓜机器人旭日 S600 具身大算力平台的深度适配，聚力打造高性能、可量产的软硬一体化解决方案，推动具身智能技术从实验室高效落地真实应用场景。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3194691",
     "datetime": "2026-05-20T04:18:38+00:00",
-    "views": "32",
+    "views": "46",
     "text": "阿里云发布为 Agent 而生的全新 AI 产品官网“千问云”，模型服务全面 Skill、CLI 化\n在 2026 阿里云峰会上，阿里云发布为 Agent 而生的全新 AI 产品官网“千问云”（www.qianwenai.com），提供 Qwen、GLM、Kimi、DeepSeek、Wan、HappyHorse 等 150 多款主流模型 API，并将模型服务的核心能力封装为 Skills 和 CLI 工具，可让 Agent 工具高效地用模型和开发 AI 应用。这是面向 Agentic 时代全面升级的重要部分，当天阿里云推出了全新“芯-云-模型-推理”技术体系。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3194690",
     "datetime": "2026-05-20T04:18:18+00:00",
-    "views": "32",
+    "views": "44",
     "text": "一周六班 下月起海口至雅加达航线加密\n据央视新闻，记者近日从海口美兰国际机场获悉，2026 年 6 月 6 日起，海口⇌雅加达航线将加密至一周六班，进一步助力中国-东盟区域互联互通，提升海南自贸港与印度尼西亚商务往来、旅游出行便捷性。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3194688",
     "datetime": "2026-05-20T04:17:19+00:00",
-    "views": "32",
+    "views": "42",
     "text": "印度尼西亚总统：我们还将加强对出口收入的规定。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3194689",
     "datetime": "2026-05-20T04:17:19+00:00",
-    "views": "32",
+    "views": "42",
     "text": "印尼总统：印尼政府如今推行的举措并非特殊政策，其他国家也曾施行过同类做法。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3194687",
     "datetime": "2026-05-20T04:17:18+00:00",
-    "views": "32",
+    "views": "42",
     "text": "印度尼西亚总统：我们必须有权决定向谁出售我们的资源，以及以什么价格出售。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3194686",
     "datetime": "2026-05-20T04:16:57+00:00",
-    "views": "32",
+    "views": "40",
     "text": "据韩联社：韩国总统府敦促三星电子劳资双方全力以赴，直至达成协议。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3194685",
     "datetime": "2026-05-20T04:16:38+00:00",
-    "views": "32",
+    "views": "40",
     "text": "中俄职业教育合作新标杆：全球首家引入 5G 技术的鲁班工坊\n今年是中俄战略协作伙伴关系建立 30 周年、《中俄睦邻友好合作条约》签署 25 周年，也是“中俄教育年”启动之年。职业教育合作是中俄教育领域合作的重点方向之一。2025 年，中俄高校共建的鲁班工坊在莫斯科揭牌运行，这是全球首家在专业建设中引入 5G 技术的鲁班工坊，也标志着中俄职业教育合作迈入数字赋能、标准互通的新阶段。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3194684",
     "datetime": "2026-05-20T04:16:37+00:00",
-    "views": "32",
+    "views": "40",
     "text": "北约盟友敦促美方明确欧洲撤军事宜\n外交官透露，自周四起，北约将在赫尔辛堡召开外长会议，欧洲各国拟于会上向美国务卿鲁比奥施压，要求美方就撤军计划作出明确表态。（英国金融时报）",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3194683",
     "datetime": "2026-05-20T04:15:17+00:00",
-    "views": "34",
+    "views": "41",
     "text": "据媒体报道，韩国青瓦台表示，三星薪资谈判破裂一事令人遗憾。呼吁劳资双方尽最大努力磋商到底，争取达成共识。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3194682",
     "datetime": "2026-05-20T04:14:39+00:00",
-    "views": "34",
+    "views": "42",
     "text": "受出口管理规则影响，印尼股市跌幅扩大至 2%。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +182,7 @@
   {
     "post": "Financial_Express/3194681",
     "datetime": "2026-05-20T04:14:38+00:00",
-    "views": "34",
+    "views": "42",
     "text": "印度尼西亚总统：我们必须坚信，我国所有自然资源都归人民所有。",
     "media_only": false,
     "image_url": null,
@@ -51226,32 +51253,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3188983"
-  },
-  {
-    "post": "Financial_Express/3188982",
-    "datetime": "2026-05-18T04:24:17+00:00",
-    "views": "125",
-    "text": "恒大清盘人寻求向普华永道索赔 84 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3188982"
-  },
-  {
-    "post": "Financial_Express/3188981",
-    "datetime": "2026-05-18T04:23:57+00:00",
-    "views": "125",
-    "text": "上海：到“十五五”末 力争推动 10 万台人形机器人进工厂\n“开局起步‘十五五’”上海专场新闻发布会 5 月 18 日召开。上海市经济信息化委主任汤文侃表示，聚焦集成电路、高端装备、汽车等重点产业，以 10 家样板企业为牵引，一体化布局具身智能、工业智能体、工业语料和智算云平台，培育智能原生工厂。力争到“十五五”末，推动 10 万台人形机器人进工厂，规上工业企业智能体应用普及率超过 80%。\n🤮1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3188981"
-  },
-  {
-    "post": "Financial_Express/3188980",
-    "datetime": "2026-05-18T04:23:38+00:00",
-    "views": "122",
-    "text": "未受邀请，美国特使“强行”访问格陵兰岛\n丹麦自治领地格陵兰岛消息人士说，美国总统特朗普任命的“格陵兰岛特使”、路易斯安那州州长杰夫·兰德里在未受邀请的情况下，17 日抵达这一世界第一大岛，计划参加当地商界主办的一场活动。格陵兰岛自治政府领导人暂未证实会否接见兰德里。据格陵兰岛媒体《塞尔米特夏克报》报道，兰德里 17 日抵达该岛首府努克，定于 19 日和 20 日出席当地商界协会主办的“未来的格陵兰岛”经济论坛。兰德里一行由大约 10 人组成。美国驻丹麦大使馆上周发表声明说，大使肯尼思·豪韦里将和兰德里一起参加格陵兰岛的经济论坛。声明将这次访问描述成“倾听当地民意、增进双方理解”的契机。不过，活动主办方表示，虽然活动对所有人开放，但并未邀请兰德里与会。格陵兰岛自治政府方面也未作回应。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3188980"
   }
 ]
