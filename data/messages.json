@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3197842",
     "datetime": "2026-05-21T03:24:17+00:00",
-    "views": "13",
+    "views": "52",
     "text": "腾讯推出操作系统层级 AI 助手“马维斯”\n腾讯宣布旗下操作系统层级 AI 助手 Marvis（马维斯）正式上线，官网（Marvis.qq.com)开放下载，无需邀请码使用。据介绍，Marvis 将终端系统、文件、应用、算力和跨端连接纳入同一个 AI 中间层，出厂预置 6 个协同 Agent。Marvis 提供效率模式与隐私模式：隐私模式采用端侧大模型，所有数据解析、图片识别与对话均在本地完成、完全不上云，断网亦可使用，可满足财务、法务、HR 等高敏感场景，并在涉及隐私、安全和支付等关键环节时交回给用户确认。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3197841",
     "datetime": "2026-05-21T03:23:17+00:00",
-    "views": "50",
+    "views": "56",
     "text": "印度卢比因银行间同业订单匹配系统出现大额买盘大幅反弹。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3197839",
     "datetime": "2026-05-21T03:22:58+00:00",
-    "views": "54",
+    "views": "60",
     "text": "交易员：印度中央银行可能在市场开盘前大量出售美元以支撑卢比。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3197840",
     "datetime": "2026-05-21T03:22:58+00:00",
-    "views": "54",
+    "views": "60",
     "text": "交易员称，印度央行大概率在早盘开盘前大规模抛售美元以支撑卢比汇率。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3197838",
     "datetime": "2026-05-21T03:22:57+00:00",
-    "views": "54",
+    "views": "60",
     "text": "战争冲击持续 高盛警告全球石油库存正以创纪录速度枯竭\n金十数据 5 月 21 日讯，高盛表示，随着中东战争持续、供应受到限制，本月全球原油和成品油库存正以创纪录速度被消耗。高盛分析师在 5 月 20 日的一份报告中指出，5 月以来，可见库存以每日 870 万桶的创纪录速度减少，几乎是冲突爆发以来平均速度的两倍。他们表示，“实物市场继续收紧，据估计通过霍尔木兹海峡的石油出口量仍只有正常水平的 5%”。高盛分析师称，5 月份库存下降的三分之二是由所谓的“海上石油”减少驱动的，出口下降幅度超过进口下降幅度。进口低迷现在“正从亚洲蔓延到欧洲”，他们指出，欧洲的航空燃油进口比 2025 年平均水平低 60%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3197837",
     "datetime": "2026-05-21T03:22:37+00:00",
-    "views": "56",
+    "views": "61",
     "text": "美团无人机低空配送超过 90 万商业化订单\n美国 Zipline 目前有超过 200 万单商业化订单。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3197836",
     "datetime": "2026-05-21T03:21:37+00:00",
-    "views": "58",
+    "views": "92",
     "text": "据当地政府通报，俄罗斯别尔哥罗德州的谢别基诺镇及周边地区遭遇无人机袭击，导致 3 人受伤。与此同时，乌克兰方面报告称，东南部城市第聂伯罗有 1 人受伤。",
     "media_only": false,
     "image_url": null,
@@ -55006,14 +55006,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3191707"
-  },
-  {
-    "post": "Financial_Express/3191706",
-    "datetime": "2026-05-19T03:25:37+00:00",
-    "views": "129",
-    "text": "日本和巴西寻求在经济安全和贸易领域深化合作。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3191706"
   }
 ]
