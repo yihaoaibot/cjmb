@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3200049",
+    "datetime": "2026-05-21T16:26:18+00:00",
+    "views": "1",
+    "text": "国际货币基金组织：代表团已就扩大信贷安排项下对乍得的第一次与第二次审查，在达成工作人员层面协议方面取得重大进展。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200049"
+  },
+  {
+    "post": "Financial_Express/3200048",
+    "datetime": "2026-05-21T16:25:38+00:00",
+    "views": "3",
+    "text": "国际货币基金组织：IMF 工作人员完成对乍得的出访工作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200048"
+  },
+  {
     "post": "Financial_Express/3200047",
     "datetime": "2026-05-21T16:23:37+00:00",
-    "views": "3",
+    "views": "35",
     "text": "特朗普：可能会出席儿子的婚礼，但必须处理伊朗问题。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3200046",
     "datetime": "2026-05-21T16:22:17+00:00",
-    "views": "34",
+    "views": "65",
     "text": "特朗普：人工智能行政令可能阻碍美国在人工智能领域保持领先地位。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3200044",
     "datetime": "2026-05-21T16:21:58+00:00",
-    "views": "34",
+    "views": "65",
     "text": "美联储巴尔金：通胀冲击的持续性可能会对教科书式的“观望”政策思路构成挑战。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3200045",
     "datetime": "2026-05-21T16:21:58+00:00",
-    "views": "35",
+    "views": "66",
     "text": "美联储巴尔金：美国或对油价冲击“具备一定免疫力”。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3200043",
     "datetime": "2026-05-21T16:21:57+00:00",
-    "views": "34",
+    "views": "65",
     "text": "美联储巴尔金：通胀冲击的持续性可能挑战教科书式的“忽视”方法。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3200042",
     "datetime": "2026-05-21T16:21:39+00:00",
-    "views": "35",
+    "views": "66",
     "text": "美联储巴尔金：当前政策处于有利位置，可应对持续冲击。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3200040",
     "datetime": "2026-05-21T16:21:38+00:00",
-    "views": "35",
+    "views": "66",
     "text": "美联储巴尔金：消费者“并不满意”，但仍在继续消费；企业迄今通过自然减员而非裁员来管理生产力提升。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3200041",
     "datetime": "2026-05-21T16:21:38+00:00",
-    "views": "35",
+    "views": "66",
     "text": "美联储巴尔金：美联储是否需要加息取决于企业和消费者对不断变化的经济形势的反应。",
     "media_only": false,
     "image_url": null,
@@ -74,8 +92,8 @@
   {
     "post": "Financial_Express/3200037",
     "datetime": "2026-05-21T16:21:18+00:00",
-    "views": "36",
-    "text": "美联储巴尔金：过去的政策有效应对了供应冲击，但未来可能面临更具挑战性的环境和更频繁的冲击。",
+    "views": "97",
+    "text": "美联储巴尔金：过去的“忽视”供应冲击政策发挥效果了，但未来可能面临更具挑战性的环境和更频繁的冲击。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3200037"
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3200038",
     "datetime": "2026-05-21T16:21:18+00:00",
-    "views": "36",
+    "views": "97",
     "text": "美联储巴尔金：目前来看，长期通胀预期似乎仍得到控制。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3200039",
     "datetime": "2026-05-21T16:21:18+00:00",
-    "views": "37",
+    "views": "98",
     "text": "美国总统特朗普：摧毁了伊朗 98%的导弹能力。可能需要在伊朗采取非常激烈的措施。我们不会允许伊朗拥有核武器。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3200036",
     "datetime": "2026-05-21T16:20:59+00:00",
-    "views": "36",
+    "views": "97",
     "text": "美联储巴尔金：过去，对供应冲击采取观望的政策一直成效良好，但不难预见，未来局势将更具挑战性，冲击也会更频发。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3200034",
     "datetime": "2026-05-21T16:20:58+00:00",
-    "views": "36",
+    "views": "37",
     "text": "美联储巴尔金：美联储是否需要加息，取决于企业和消费者对不断演变的形势作何反应。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3200035",
     "datetime": "2026-05-21T16:20:58+00:00",
-    "views": "36",
+    "views": "67",
     "text": "美联储巴尔金：消费者“不开心”但仍继续消费；迄今为止企业一直通过自然减员而非裁员来实现生产率提升。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3200033",
     "datetime": "2026-05-21T16:20:57+00:00",
-    "views": "36",
+    "views": "37",
     "text": "美联储巴尔金：当前政策处于良好状态，能够应对持续的冲击。截至目前，长期通胀预期似乎仍然保持在可控范围内。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3200032",
     "datetime": "2026-05-21T16:20:37+00:00",
-    "views": "36",
+    "views": "37",
     "text": "美国总统特朗普：（关于人工智能行政命令）这一政令被推迟，因为我对某些方面不满意。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3200031",
     "datetime": "2026-05-21T16:20:18+00:00",
-    "views": "37",
+    "views": "68",
     "text": "特朗普谈人工智能行政令：我因不认同其中部分内容，已将其推迟发布。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3200030",
     "datetime": "2026-05-21T16:18:57+00:00",
-    "views": "68",
+    "views": "69",
     "text": "美国总统特朗普：我们将不得不退还 1490 亿美元的关税。",
     "media_only": false,
     "image_url": null,
@@ -56599,23 +56617,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3193723"
-  },
-  {
-    "post": "Financial_Express/3193722",
-    "datetime": "2026-05-19T16:25:39+00:00",
-    "views": "177",
-    "text": "纽约联储 Perli 称美联储国库券月度购买规模可上调也可下调\n纽约联邦储备银行的 Roberto Perli 表示，美联储的国库券月度购买规模并非按预设路径推进，可根据市场状况进行调整。负责管理美联储系统公开市场账户(SOMA)的 Perli 表示，他和 SOMA 团队的同事们“随时准备”在必要时上调或下调准备金管理性购买的步伐，以维持准备金处于充裕区间。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3193722"
-  },
-  {
-    "post": "Financial_Express/3193721",
-    "datetime": "2026-05-19T16:24:58+00:00",
-    "views": "180",
-    "text": "刚果埃博拉疫情已造成 131 人死亡，巴里克黄金公司加大基巴利金矿的埃博拉病毒筛查力度。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3193721"
   }
 ]
