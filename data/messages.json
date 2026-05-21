@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3197808",
+    "datetime": "2026-05-21T03:06:57+00:00",
+    "views": "5",
+    "text": "高盛表示，全球石油库存正以创纪录的速度下降，5 月份全球石油库存下降 870 万桶/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3197808"
+  },
+  {
+    "post": "Financial_Express/3197807",
+    "datetime": "2026-05-21T03:06:37+00:00",
+    "views": "7",
+    "text": "摩根大通 CEO 戴蒙：不会以目前的水平购买信用利差。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3197807"
+  },
+  {
+    "post": "Financial_Express/3197806",
+    "datetime": "2026-05-21T03:06:18+00:00",
+    "views": "39",
+    "text": "金十图示：2026 年 05 月 21 日（周四）全球汽车制造商市值变化",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3197806"
+  },
+  {
+    "post": "Financial_Express/3197805",
+    "datetime": "2026-05-21T03:05:57+00:00",
+    "views": "42",
+    "text": "金十图示：2026 年 05 月 21 日（周四）全球富豪榜",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3197805"
+  },
+  {
+    "post": "Financial_Express/3197804",
+    "datetime": "2026-05-21T03:05:38+00:00",
+    "views": "47",
+    "text": "摩根大通 CEO 戴蒙：利率和信用利差很容易进一步上涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3197804"
+  },
+  {
     "post": "Financial_Express/3197803",
     "datetime": "2026-05-21T03:04:59+00:00",
-    "views": "7",
+    "views": "54",
     "text": "中国石油集团董事长戴厚良会见中国东方电气集团董事长罗乾宜\n据中国石油报，5 月 20 日，中国石油集团董事长、党组书记戴厚良在北京会见中国东方电气集团董事长、党组书记罗乾宜，双方就深化合作进行交流。戴厚良表示，中国石油将持续加强与东方电气的沟通交流，发挥各自优势，深化在能源装备、科技创新、重点工程建设等领域的务实合作，着力提升产业链供应链的韧性和安全水平。罗乾宜表示，希望双方深化在汽轮机、油气钻采装备技术创新等方面的合作，探索拓展在新能源等领域的合作范围。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3197802",
     "datetime": "2026-05-21T03:04:58+00:00",
-    "views": "7",
+    "views": "83",
     "text": "智谱发布 Infra 新成果：不加一块 GPU，算力多出 15%\n5 月 21 日，记者获悉，智谱联合驭驯网络与清华大学，在 GLM-5.1 线上生产集群中完成了新一代网络架构 ZCube 的规模化落地。在线上 GLM-5.1 coding 场景中，在保持 GPU 算力、软件栈与应用不变的前提下，ZCube 节省了 33%交换机与光模块成本，同时将 GPU 平均推理吞吐提升了 15%，并将 TTFT P99 降低了 40.6%。这意味着，同样的硬件投入，智谱的 GLM 大模型现在每秒能多响应 15% 的 API 请求。对于大模型 API 平台而言，这直接对应更高的并发上限以及在流量峰值下更稳定的用户体验。(澎湃新闻)",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3197801",
     "datetime": "2026-05-21T03:03:17+00:00",
-    "views": "47",
+    "views": "89",
     "text": "英国宣布与海合会达成贸易协议\n英国政府 20 日在新闻公报中宣布，英国已与海湾合作委员会（海合会）达成贸易协议，有望大幅推动双方贸易规模，促进英国经济及民众收入增长。新闻公报说，从长期看，协议预计能推动英国与海合会成员贸易额增长 19.8%，并为英国经济每年带来约 37 亿英镑增长。据了解，该协议涵盖货物贸易、服务贸易、海关程序、商务人员流动、数字贸易和投资等领域。英国政府预计，协议全面实施后，英国出口产品每年将少支付约 5.8 亿英镑关税。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3197800",
     "datetime": "2026-05-21T03:02:57+00:00",
-    "views": "48",
+    "views": "88",
     "text": "摩根大通 CEO 戴蒙表示，利率可能远高于目前的水平。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3197799",
     "datetime": "2026-05-21T03:02:18+00:00",
-    "views": "51",
+    "views": "91",
     "text": "据 TrendForce 集邦咨询旗下显示器研究中心最新调研数据，2026 年 5 月，电视、笔电面板价格持稳，显示器面板价格微幅上涨。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3197798",
     "datetime": "2026-05-21T03:01:58+00:00",
-    "views": "53",
+    "views": "92",
     "text": "A 股半导体板块午盘前短线走低，上海合晶跌超 10%，东芯股份跌超 8%，赛微电子、利扬芯片、大为股份纷纷下挫。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3197797",
     "datetime": "2026-05-21T03:01:17+00:00",
-    "views": "84",
+    "views": "92",
     "text": "韩国财政部声明：韩国将于 7 月 6 日起首次实行美元兑韩元现货市场 24 小时交易。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3197795",
     "datetime": "2026-05-21T03:00:38+00:00",
-    "views": "84",
+    "views": "90",
     "text": "分析师指出，受伊朗战争导致石油出口受阻的影响，沙特被迫关闭了部分油田，进而导致天然气供应中断，预计今年夏季，沙特将因此燃烧更多进口燃料油用于发电。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3197796",
     "datetime": "2026-05-21T03:00:38+00:00",
-    "views": "85",
+    "views": "122",
     "text": "伊朗外交部发言人：巴基斯坦一直在根据伊朗最初提出的 14 点框架，继续在德黑兰和华盛顿之间进行信息交流。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3197794",
     "datetime": "2026-05-21T02:59:58+00:00",
-    "views": "84",
+    "views": "120",
     "text": "液冷服务器概念震荡调整 大元泵业跌停\n液冷服务器概念震荡调整，大元泵业跌停，飞龙股份跌超 7%，新朋股份、英维克、淳中科技、川环科技、佳力图纷纷下挫。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3197793",
     "datetime": "2026-05-21T02:59:57+00:00",
-    "views": "83",
+    "views": "118",
     "text": "司法部：健全完善罚没收入异常增长的常态化监测机制\n5 月 21 日，司法部副部长胡卫列在国新办新闻发布会上表示，健全规范涉企执法的长效机制，不是临时性、阶段性的工作安排，而是立足全局、着眼长远的一项重大决策部部署。下一步，司法部将强化行政执法监督机制和能力的建设。各地各部门要结合实际，抓紧制定修订完善相关的执法监督制度，做到监督工作有章可循。要强化行政执法监督的纠错功能，健全完善罚没收入异常增长的常态化监测机制、行政执法诉求的快速响应机制，及时发现和纠正违法和不当的行政行为。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3197792",
     "datetime": "2026-05-21T02:59:38+00:00",
-    "views": "83",
+    "views": "118",
     "text": "昂利康成立电子商贸公司\n企查查 APP 显示，近日，杭州米利诺电子商贸有限公司成立，法定代表人为姜立嘉，经营范围包含互联网销售（除销售需要许可的商品）；广告制作；品牌管理；市场营销策划等。企查查股权穿透显示，该公司由昂利康旗下湖南科瑞生物制药股份有限公司全资持股。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3197790",
     "datetime": "2026-05-21T02:58:18+00:00",
-    "views": "89",
+    "views": "121",
     "text": "A 股光迅科技成交额超 100 亿元，现跌超 5%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3197791",
     "datetime": "2026-05-21T02:58:18+00:00",
-    "views": "88",
+    "views": "120",
     "text": "半导体板块短线走低，上海合晶跌超 10%\n半导体板块短线走低，上海合晶跌超 10%，东芯股份跌超 8%，赛微电子、利扬芯片、大为股份纷纷下挫。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3197789",
     "datetime": "2026-05-21T02:57:37+00:00",
-    "views": "120",
+    "views": "122",
     "text": "光迅科技成交额超 100 亿元，现跌超 5%。",
     "media_only": false,
     "image_url": null,
@@ -54835,41 +54880,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3191686"
-  },
-  {
-    "post": "Financial_Express/3191685",
-    "datetime": "2026-05-19T03:06:37+00:00",
-    "views": "120",
-    "text": "上海浦东新区进口化妆品电子标签试点启动\n据浦东发布，5 月 18 日下午，一“码”焕“妆”，向“新”提“质”——浦东新区进口化妆品电子标签试点工作在外高桥保税区正式首发启动。消费者扫码即可一键查阅化妆品全量标签信息，既方便市民选购核验，又能大幅降低企业标签制作运营成本，同时推动监管模式向数字化、智能化高效升级。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3191685"
-  },
-  {
-    "post": "Financial_Express/3191683",
-    "datetime": "2026-05-19T03:05:38+00:00",
-    "views": "110",
-    "text": "当地州长称，乌克兰袭击俄罗斯的罗斯托夫地区（Rostov-on-Don）。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3191683"
-  },
-  {
-    "post": "Financial_Express/3191684",
-    "datetime": "2026-05-19T03:05:38+00:00",
-    "views": "112",
-    "text": "华东地区首列中越“铁路快通”启运\n今天，载有 38 个集装箱电子料件、汽车配件、显示器件等货物的 75128/7 次列车，从苏州西站货场鸣笛启程，一路向南经广西凭祥口岸出境，驶向越南河内，为长三角区域企业成功打通直达越南、链接东盟的南向跨境物流精品通道。这是华东地区首列采用“铁路快通”模式直达越南的班列，采用全程不换装、不开箱的“一箱直达”运输模式，货物始发后无需中转拆箱、无需在口岸海关重复申报，依托铁路全天候运行优势，不受恶劣天气、道路交通影响，叠加铁路快速通关模式，有效压缩在途及中转时间，同时凭借铁路规模化运输优势，切实为外贸企业实现高效通行、降本增效。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3191684"
-  },
-  {
-    "post": "Financial_Express/3191682",
-    "datetime": "2026-05-19T03:05:37+00:00",
-    "views": "105",
-    "text": "金十图示：2026 年 05 月 19 日（周二）全球汽车制造商市值变化",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3191682"
   }
 ]
