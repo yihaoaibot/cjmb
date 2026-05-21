@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3200138",
+    "datetime": "2026-05-21T18:02:18+00:00",
+    "views": "1",
+    "text": "美联储巴尔金：对美联储使命的两方面都感到担忧。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200138"
+  },
+  {
+    "post": "Financial_Express/3200137",
+    "datetime": "2026-05-21T18:01:57+00:00",
+    "views": "2",
+    "text": "美联储巴尔金：沃什还没有阐明他在美联储的计划。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200137"
+  },
+  {
+    "post": "Financial_Express/3200136",
+    "datetime": "2026-05-21T18:01:17+00:00",
+    "views": "2",
+    "text": "美联储巴尔金：对双重职责感到神经紧张。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200136"
+  },
+  {
+    "post": "Financial_Express/3200134",
+    "datetime": "2026-05-21T18:00:59+00:00",
+    "views": "2",
+    "text": "美联储巴尔金：如今企业对自身能否通过上调消费品价格来弥补成本的信心大幅下降。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200134"
+  },
+  {
+    "post": "Financial_Express/3200135",
+    "datetime": "2026-05-21T18:00:59+00:00",
+    "views": "2",
+    "text": "美联储巴尔金：对近期就业增长感到鼓舞，但不难想象人工智能可能导致失业。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200135"
+  },
+  {
+    "post": "Financial_Express/3200133",
+    "datetime": "2026-05-21T18:00:58+00:00",
+    "views": "2",
+    "text": "美联储巴尔金：除软件行业外，其他雇主尚未因人工智能裁员。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200133"
+  },
+  {
+    "post": "Financial_Express/3200131",
+    "datetime": "2026-05-21T18:00:38+00:00",
+    "views": "3",
+    "text": "美联储巴尔金：不倾向于过度侧重通胀或就业面临的风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200131"
+  },
+  {
+    "post": "Financial_Express/3200132",
+    "datetime": "2026-05-21T18:00:38+00:00",
+    "views": "3",
+    "text": "美联储巴尔金：基于债券市场的长期通胀预期并未出现脱锚。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200132"
+  },
+  {
+    "post": "Financial_Express/3200129",
+    "datetime": "2026-05-21T18:00:37+00:00",
+    "views": "3",
+    "text": "美联储巴尔金：鉴于美国国债的供应量，我怀疑长期国债市场的供需平衡是否已经发生了转变。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200129"
+  },
+  {
+    "post": "Financial_Express/3200130",
+    "datetime": "2026-05-21T18:00:37+00:00",
+    "views": "3",
+    "text": "美联储巴尔金：人工智能对经济的短期与长期影响难下定论。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200130"
+  },
+  {
     "post": "Financial_Express/3200128",
     "datetime": "2026-05-21T18:00:17+00:00",
-    "views": "1",
+    "views": "34",
     "text": "巴西财政部长：消费者债务重组计划迄今已结清 44.9 万笔债务。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3200127",
     "datetime": "2026-05-21T17:58:37+00:00",
-    "views": "34",
+    "views": "37",
     "text": "据知情人士透露，Kalshi Inc.融资 2 亿美元，估值维持在 220 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3200126",
     "datetime": "2026-05-21T17:57:17+00:00",
-    "views": "35",
+    "views": "67",
     "text": "美国 10 年期国债收益率触及日内低点，最新报 4.555%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3200125",
     "datetime": "2026-05-21T17:56:58+00:00",
-    "views": "36",
+    "views": "98",
     "text": "周四（5 月 21 日），韩元兑美元最终跌 0.78%，报 1508.55 韩元，整体持续走低。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3200124",
     "datetime": "2026-05-21T17:56:17+00:00",
-    "views": "36",
+    "views": "98",
     "text": "美国导弹防御储备已大幅消耗。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3200123",
     "datetime": "2026-05-21T17:55:17+00:00",
-    "views": "69",
+    "views": "101",
     "text": "WTI 原油失守 96 美元/桶，日内跌 2.30%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3200122",
     "datetime": "2026-05-21T17:54:37+00:00",
-    "views": "70",
+    "views": "102",
     "text": "纳斯达克 100 指数涨幅扩大至 0.5%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3200121",
     "datetime": "2026-05-21T17:53:57+00:00",
-    "views": "70",
+    "views": "101",
     "text": "美、布两油均跌破 100 美元关口\n美、布两油持续走低，双双跌破 100 美元关口，现分别报 99.6 美元/桶和 99.7 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3200120",
     "datetime": "2026-05-21T17:52:37+00:00",
-    "views": "78",
+    "views": "109",
     "text": "伊拉克将调查针对阿联酋、沙特阿拉伯的袭击事件。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3200119",
     "datetime": "2026-05-21T17:51:57+00:00",
-    "views": "89",
+    "views": "90",
     "text": "现货白银突破 77 美元/盎司，日内涨 1.57%。",
     "media_only": false,
     "image_url": null,
@@ -56158,32 +56248,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3193853"
-  },
-  {
-    "post": "Financial_Express/3193852",
-    "datetime": "2026-05-19T18:02:17+00:00",
-    "views": "94",
-    "text": "谷歌：上线 Google Pics 图像创作与编辑应用。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3193852"
-  },
-  {
-    "post": "Financial_Express/3193851",
-    "datetime": "2026-05-19T18:01:38+00:00",
-    "views": "94",
-    "text": "谷歌：在搜索、Gemini、Chrome、Pixel 及云服务中扩充内容透明度与信息核验工具。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3193851"
-  },
-  {
-    "post": "Financial_Express/3193850",
-    "datetime": "2026-05-19T18:01:17+00:00",
-    "views": "94",
-    "text": "谷歌(GOOG.O)： 推出谷歌图片图像创作与编辑应用程序。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3193850"
   }
 ]
