@@ -1,5 +1,59 @@
 [
   {
+    "post": "Financial_Express/3198015",
+    "datetime": "2026-05-21T05:38:58+00:00",
+    "views": "3",
+    "text": "慧博云通午后快速走低，现跌超 18%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3198015"
+  },
+  {
+    "post": "Financial_Express/3198014",
+    "datetime": "2026-05-21T05:38:57+00:00",
+    "views": "4",
+    "text": "日本央行审议委员小枝淳子：不预计经济会出现急剧恶化，但视中东冲突局势而定，我们对经济前景的看法可能会发生改变。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3198014"
+  },
+  {
+    "post": "Financial_Express/3198013",
+    "datetime": "2026-05-21T05:38:37+00:00",
+    "views": "6",
+    "text": "日本央行小枝淳子：需同时关注来自中东的价格和增长风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3198013"
+  },
+  {
+    "post": "Financial_Express/3198012",
+    "datetime": "2026-05-21T05:37:57+00:00",
+    "views": "39",
+    "text": "AMD 宣布采用台积电 2 纳米工艺技术量产下一代 AMD EPYC（霄龙）处理器“Venice（威尼斯）”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3198012"
+  },
+  {
+    "post": "Financial_Express/3198011",
+    "datetime": "2026-05-21T05:37:38+00:00",
+    "views": "39",
+    "text": "AMD：搭载“威尼斯”和 AMD Instinct MI450X GPU 的 Helios 机架式平台有望于 2026 年下半年开始实现多千兆瓦部署。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3198011"
+  },
+  {
+    "post": "Financial_Express/3198010",
+    "datetime": "2026-05-21T05:37:18+00:00",
+    "views": "41",
+    "text": "AMD：与日月光半导体和 SPIL 公司合作开发 2.5D 桥接互连技术。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3198010"
+  },
+  {
     "post": "Financial_Express/3198009",
     "datetime": "2026-05-21T05:36:37+00:00",
     "views": "3",
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3198008",
     "datetime": "2026-05-21T05:36:18+00:00",
-    "views": "7",
+    "views": "44",
     "text": "豆粕连续主力合约日内跌 1%，现报 2999.00 元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3198007",
     "datetime": "2026-05-21T05:36:17+00:00",
-    "views": "7",
+    "views": "44",
     "text": "银行板块震荡走高，重庆银行涨超 3%\n银行板块震荡走高，重庆银行涨超 3%，建设银行、中国银行、青岛银行涨超 2%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3198006",
     "datetime": "2026-05-21T05:35:58+00:00",
-    "views": "8",
+    "views": "45",
     "text": "AMD 宣布将在中国台湾地区投入超 100 亿美元产业生态投资，以加速人工智能基础设施建设。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3198005",
     "datetime": "2026-05-21T05:35:57+00:00",
-    "views": "8",
+    "views": "45",
     "text": "丹斯克调整美联储利率预期，预计 12 月和明年 3 月各加息 25 基点\n金十数据 5 月 21 日讯，丹斯克银行高级分析师 Antti Ilvonen 在一份报告中表示，该行调整了对美联储的预期，现在预计下一次政策调整将是 2026 年 12 月和 2027 年 3 月，届时将分别加息 25 个基点。此前，丹斯克银行预计美联储将降息至 3.00%-3.25%。此次预测的调整是基于美国名义增长前景强于预期的改善。“重要的是，这一转变不仅仅是由伊朗战争驱动的，我们认为需求因素正在推动更具结构性的通胀,”Ilvonen 表示。与此同时，劳动力市场的下行风险已经缓解，人工智能驱动的投资需求继续推动实际增长和通胀，而财政政策正趋向于扩张性方向。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3198004",
     "datetime": "2026-05-21T05:35:17+00:00",
-    "views": "46",
+    "views": "50",
     "text": "台湾证交所加权股价指数收高 3.4%报 41,368.21。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3198003",
     "datetime": "2026-05-21T05:34:19+00:00",
-    "views": "49",
+    "views": "54",
     "text": "何小鹏称激光雷达已不是必需\n在小鹏 GX 上市发布会后，小鹏集团董事长、CEO 何小鹏，小鹏集团通用智能中心负责人刘先明，小鹏集团产品矩阵总经理吴安飞与媒体对话。 有数据称，15 万以上车型配备激光雷达的比例越来越高。被问及采用纯视觉路线的小鹏是否会有压力，何小鹏回应称，“我们没有压力。激光雷达是个好东西，但是我认为在汽车这个领域，它不需要了，所以小鹏非常的坚定。但是在很多其它行业还是需要，这是我的看法。” 小鹏集团通用智能中心负责人刘先明则补充称，激光雷达是否必要，取决于企业技术栈，没有绝对答案。对用户而言，自动驾驶核心看实际使用效果，而非传感器配置。小鹏坚持无激光雷达路线，核心看第二代 VLA 的实际表现，极端天气、黑夜、复杂工况下，靠大算力、大模型、高密度传感器也能实现好效果。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3198002",
     "datetime": "2026-05-21T05:31:57+00:00",
-    "views": "55",
+    "views": "90",
     "text": "阳光电源中标阿联酋 7.5GWh 储能订单\n金十数据 5 月 21 日讯，阳光电源宣布中标阿联酋 7.5gWh 储能订单，与国际可再生能源公司 Masdar 合作，为阿联酋 RTC1Plant(North)项目供应 7.5gWh PowerTitan3.0 液冷储能系统及 2.6GW 逆变器。该项目是全球最大规模 684Ah 叠片电芯应用项目，预计 2027 年并网。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3198000",
     "datetime": "2026-05-21T05:30:39+00:00",
-    "views": "59",
+    "views": "93",
     "text": "集运指数欧线期货连续主力合约日内涨 8%，现报 2969.00 点。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3198001",
     "datetime": "2026-05-21T05:30:39+00:00",
-    "views": "60",
+    "views": "95",
     "text": "港股舜宇光学科技)午后持续走强，日内涨超 10%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3197998",
     "datetime": "2026-05-21T05:30:38+00:00",
-    "views": "59",
+    "views": "92",
     "text": "纽约期金失守 4520 美元/盎司，日内跌 0.35%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3197999",
     "datetime": "2026-05-21T05:30:38+00:00",
-    "views": "59",
+    "views": "92",
     "text": "现货白银日内跌 1%，现报 74.96 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3197997",
     "datetime": "2026-05-21T05:30:18+00:00",
-    "views": "59",
+    "views": "92",
     "text": "纽约期银日内跌 1%，现报 75.37 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3197996",
     "datetime": "2026-05-21T05:28:59+00:00",
-    "views": "90",
+    "views": "93",
     "text": "机器人概念再度走强 模塑科技涨停\n午后机器人概念再度走强，模塑科技涨停，此前北特科技、埃斯顿、美湖股份涨停，昊志机电、三协电机、上纬新材、奥比中光均涨超 10%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +182,7 @@
   {
     "post": "Financial_Express/3197995",
     "datetime": "2026-05-21T05:27:17+00:00",
-    "views": "91",
+    "views": "94",
     "text": "阳光电源中标阿联酋 7.5GWh 储能订单，项目预计 2027 年并网\n阳光电源中标阿联酋 7.5GWh 储能订单，与国际可再生能源公司 Masdar 合作，为阿联酋 RTC 1 Plant（North）项目供应 7.5GWh PowerTitan3.0 液冷储能系统及 2.6GW 逆变器。该项目是全球最大规模 684Ah 叠片电芯应用项目，预计 2027 年并网。",
     "media_only": false,
     "image_url": null,
@@ -54781,14 +54835,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3191900"
-  },
-  {
-    "post": "Financial_Express/3191899",
-    "datetime": "2026-05-19T05:37:17+00:00",
-    "views": "92",
-    "text": "吕天贵拟回归中信银行出任行长\n记者从多名业内人士处获悉，中信信托董事长吕天贵回归中信银行。经过必要程序后，他将补位中信银行行长一职，目前该职位已空缺近五个月。(21 世纪经济报道)",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3191899"
   }
 ]
