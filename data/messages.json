@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3200105",
+    "datetime": "2026-05-21T17:36:18+00:00",
+    "views": "1",
+    "text": "受伊朗最终协议草案相关报道影响，两年期美国国债收益率逼近盘中低点，最新报 4.061%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200105"
+  },
+  {
     "post": "Financial_Express/3200104",
     "datetime": "2026-05-21T17:33:19+00:00",
-    "views": "3",
+    "views": "36",
     "text": "伊朗外交部：现阶段谈判重点是结束所有战线战争\n金十数据 5 月 22 日讯，当地时间 5 月 21 日，伊朗外交部发言人巴加埃在接受媒体采访时表示，现阶段，谈判的重点是结束包括黎巴嫩在内的所有战线的战争，媒体关于核问题的说法，包括浓缩铀问题或浓缩铀辩论，都只是猜测，缺乏可信度。他还指出，有关谈判细节的准确信息将由授权官员和谈判团队发言人提供。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3200103",
     "datetime": "2026-05-21T17:32:57+00:00",
-    "views": "4",
+    "views": "36",
     "text": "美国股指转涨；标普 500 指数涨 0.13%，纳指涨 0.12%，道指涨 0.33%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3200102",
     "datetime": "2026-05-21T17:32:37+00:00",
-    "views": "4",
+    "views": "36",
     "text": "斯泰兰蒂斯集团 Stellantis 披露 FaSTLAne 2030 财务目标。该公司希望，通过这个 600 亿欧元规模的五年战略计划，加速增长、提高利润、实现财务目标。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3200101",
     "datetime": "2026-05-21T17:32:17+00:00",
-    "views": "35",
+    "views": "37",
     "text": "美国股指转涨；标普 500 上涨 0.13%，纳斯达克上涨 0.12%，道琼斯指数上涨 0.33%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3200100",
     "datetime": "2026-05-21T17:31:58+00:00",
-    "views": "36",
+    "views": "38",
     "text": "伊朗外交部：现阶段谈判重点是结束所有战线战争\n当地时间 5 月 21 日，伊朗外交部发言人巴加埃在接受媒体采访时表示，现阶段，谈判的重点是结束包括黎巴嫩在内的所有战线的战争，媒体关于核问题的说法，包括浓缩铀问题或浓缩铀辩论，都只是猜测，缺乏可信度。他还指出，有关谈判细节的准确信息将由授权官员和谈判团队发言人提供。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3200099",
     "datetime": "2026-05-21T17:31:17+00:00",
-    "views": "36",
+    "views": "68",
     "text": "共和党参议员：美国参议院放弃特朗普设定的 6 月 1 日前通过移民执法拨款法案的最后期限。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3200098",
     "datetime": "2026-05-21T17:30:38+00:00",
-    "views": "38",
+    "views": "69",
     "text": "鲁比奥：美伊谈判有进展 难保协议定达成\n金十数据 5 月 22 日讯，美国国务卿鲁比奥 21 日说，美国同伊朗的谈判目前取得一些进展，但他无法保证协议一定能达成。他同时表示，如果无法达成一份“好协议”，“所有人清楚”美国有哪些其他选项。鲁比奥当天从佛罗里达州迈阿密市前往瑞典出席北约外长会。他在机场对媒体说，美国总统特朗普的首要意愿是达成一份“好协议”，美方“将竭尽全力争取实现这一目标”，“不过，总统也已明确表示，如果无法达成一份好协议，他还有其他备选方案”。鲁比奥说，目前虽已出现一些积极迹象，但他不希望表现得过于乐观。“所以，让我们看看接下来几天会发生什么。”",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3200097",
     "datetime": "2026-05-21T17:30:17+00:00",
-    "views": "38",
+    "views": "69",
     "text": "Kepler 依托 Claude 构建金融服务业可验证 AI 架构\n在从企业 10-K 财报中准确提取特定财务科目这一任务上，Kepler 的专用模型准确率高达 94%；相比之下，仅依靠常规的行业最顶尖大模型（Frontier models），得分仅在 38%-46%之间。针对 Anthropic 近期发布的客户案例研究《Kepler 如何依托 Claude 构建面向金融服务业的可验证 AI》，Kepler 进一步披露了其底层的技术架构。该平台目前已深度索引了 2600 万份美国证券交易委员会（SEC）申报文件、5000 万份其他公开文档以及 100 万份私人市场文档，涵盖全球 27 个主要市场的 14,000 家企业。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3200096",
     "datetime": "2026-05-21T17:28:17+00:00",
-    "views": "70",
+    "views": "71",
     "text": "英镑持稳，汇率为 1 英镑兑 1.3434 美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3200095",
     "datetime": "2026-05-21T17:27:58+00:00",
-    "views": "70",
+    "views": "71",
     "text": "受美伊最终协议相关报道影响，美元指数回吐早前涨幅，最新上涨 0.08%，报 99.22 点。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3200092",
     "datetime": "2026-05-21T17:25:37+00:00",
-    "views": "75",
+    "views": "105",
     "text": "据伊朗伊斯兰共和国通讯社（IRNA）援引阿拉伯卫星电视台消息，在巴基斯坦斡旋下，美伊协议的最终草案已经达成，预计将在未来数小时内公布。",
     "media_only": false,
     "image_url": null,
@@ -56509,14 +56518,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3193790"
-  },
-  {
-    "post": "Financial_Express/3193789",
-    "datetime": "2026-05-19T17:36:18+00:00",
-    "views": "79",
-    "text": "谷歌首席执行官：全新 Gemini 3.5 价格仅为竞争对手型号的一半。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3193789"
   }
 ]
