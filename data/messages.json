@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3200031",
+    "datetime": "2026-05-21T16:20:18+00:00",
+    "views": "2",
+    "text": "特朗普谈人工智能行政令：我因不认同其中部分内容，已将其推迟发布。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200031"
+  },
+  {
+    "post": "Financial_Express/3200030",
+    "datetime": "2026-05-21T16:18:57+00:00",
+    "views": "35",
+    "text": "美国总统特朗普：我们将不得不退还 1490 亿美元的关税。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200030"
+  },
+  {
+    "post": "Financial_Express/3200029",
+    "datetime": "2026-05-21T16:18:38+00:00",
+    "views": "35",
+    "text": "特朗普：司法体系正在毁掉大学体育赛事。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200029"
+  },
+  {
     "post": "Financial_Express/3200027",
     "datetime": "2026-05-21T16:18:18+00:00",
-    "views": "1",
+    "views": "36",
     "text": "美国总统特朗普：伊朗冲突将很快结束。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3200028",
     "datetime": "2026-05-21T16:18:18+00:00",
-    "views": "1",
+    "views": "35",
     "text": "特朗普：最高法院大概率会作出不利于我的裁决，他们向来如此。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3200026",
     "datetime": "2026-05-21T16:16:58+00:00",
-    "views": "43",
+    "views": "77",
     "text": "特朗普：将调整关税征收方式。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3200025",
     "datetime": "2026-05-21T16:16:57+00:00",
-    "views": "43",
+    "views": "77",
     "text": "美国总统特朗普：我们会获得伊朗的浓缩铀。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3200024",
     "datetime": "2026-05-21T16:16:38+00:00",
-    "views": "45",
+    "views": "79",
     "text": "特朗普：关税让美国实现现代化富足。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3200023",
     "datetime": "2026-05-21T16:16:37+00:00",
-    "views": "46",
+    "views": "80",
     "text": "美国总统特朗普：伊朗不能保留浓缩铀。一旦获得这些浓缩铀，可能会予以销毁。我们不想要它。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3200022",
     "datetime": "2026-05-21T16:16:17+00:00",
-    "views": "49",
+    "views": "83",
     "text": "特朗普：或需补缴 1490 亿美元关税款项。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3200021",
     "datetime": "2026-05-21T16:15:38+00:00",
-    "views": "82",
+    "views": "86",
     "text": "特朗普：伊朗局势平息后油价将会回落。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3200020",
     "datetime": "2026-05-21T16:15:37+00:00",
-    "views": "82",
+    "views": "116",
     "text": "美国总统特朗普：美国在霍尔木兹海峡的封锁完全有效；现已推出两个月前尚未出现的新型反无人机技术。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3200019",
     "datetime": "2026-05-21T16:15:17+00:00",
-    "views": "83",
+    "views": "117",
     "text": "特朗普：伊朗局势冲突很快将会结束。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3200018",
     "datetime": "2026-05-21T16:14:57+00:00",
-    "views": "85",
+    "views": "118",
     "text": "美国总统特朗普：我们拥有出色的无人机技术，可以打击伊朗。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3200016",
     "datetime": "2026-05-21T16:14:38+00:00",
-    "views": "84",
+    "views": "117",
     "text": "美国总统特朗普：我们不会允许伊朗拥有核武器。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3200017",
     "datetime": "2026-05-21T16:14:38+00:00",
-    "views": "85",
+    "views": "118",
     "text": "特朗普：未经美方许可，船只不得通行伊朗相关海域。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3200014",
     "datetime": "2026-05-21T16:14:18+00:00",
-    "views": "87",
+    "views": "120",
     "text": "美国总统特朗普：不希望霍尔木兹海峡收取过路费。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3200015",
     "datetime": "2026-05-21T16:14:18+00:00",
-    "views": "87",
+    "views": "120",
     "text": "特朗普：很可能会摧毁伊朗的铀。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3200013",
     "datetime": "2026-05-21T16:14:17+00:00",
-    "views": "86",
+    "views": "119",
     "text": "美国总统特朗普：可能需要在伊朗采取非常激烈的措施。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +182,7 @@
   {
     "post": "Financial_Express/3200012",
     "datetime": "2026-05-21T16:13:58+00:00",
-    "views": "89",
+    "views": "121",
     "text": "特朗普：美国将获得伊朗的铀。",
     "media_only": false,
     "image_url": null,
@@ -56509,14 +56536,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3193714"
-  },
-  {
-    "post": "Financial_Express/3193713",
-    "datetime": "2026-05-19T16:19:18+00:00",
-    "views": "128",
-    "text": "受片山皋月与植田和男言论影响，日元兑美元抹平日内跌幅。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3193713"
   }
 ]
