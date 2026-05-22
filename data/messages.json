@@ -1,9 +1,27 @@
 [
   {
+    "post": "Financial_Express/3202925",
+    "datetime": "2026-05-22T20:30:57+00:00",
+    "views": "1",
+    "text": "特朗普：我们将压低能源价格。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3202925"
+  },
+  {
+    "post": "Financial_Express/3202924",
+    "datetime": "2026-05-22T20:29:17+00:00",
+    "views": "3",
+    "text": "特朗普谈伊朗问题：局势很快就会结束。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3202924"
+  },
+  {
     "post": "Financial_Express/3202923",
     "datetime": "2026-05-22T20:28:58+00:00",
-    "views": "1",
-    "text": "特朗普：我们阻止伊朗研发核武器。",
+    "views": "3",
+    "text": "特朗普：我们已经阻止了伊朗拥有核武器。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3202923"
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3202922",
     "datetime": "2026-05-22T20:28:37+00:00",
-    "views": "1",
+    "views": "3",
     "text": "特朗普：我处理完伊朗相关事务后，油价将会大幅下跌。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3202921",
     "datetime": "2026-05-22T20:28:17+00:00",
-    "views": "1",
+    "views": "33",
     "text": "美股行业 ETF 几乎全线收涨，半导体 ETF 涨约 1.5%\n周五（5 月 22 日），半导体 ETF 收涨 1.49%，医疗业 ETF、科技行业 ETF 至少涨 1%，网络股指数 ETF、全球科技股指数 ETF、能源业 ETF 至少涨 0.61%，生物科技指数 ETF 跌 0.16%。2026 年迄今，半导体 ETF 累计上涨 60.03%，能源业 ETF 涨 33.92%，全球科技股指数 ETF 涨 28.89%，科技行业 ETF 涨 25.45%，医疗业 ETF、全球航空业 ETF、金融业 ETF 则至多累跌 4.68%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3202920",
     "datetime": "2026-05-22T20:26:18+00:00",
-    "views": "35",
+    "views": "36",
     "text": "Anthropic 最快下周完成逾 300 亿美元融资轮\n知情人士称，Anthropic PBC 最快将于下周完成最新一轮融资，融资额可能超过 300 亿美元，公司估值超过 9000 亿美元，从而超越竞争对手 OpenAI，成为全球估值最高的人工智能初创公司。因信息未公开而要求匿名的知情人士称，红杉资本、Dragoneer Investment Group、Altimeter Capital 和 Greenoaks Capital Partners 预计将联合领投本轮融资。知情人士表示，上述每家公司计划投资约 20 亿美元。知情人士称，Anthropic 其他多家现有投资者也计划参与本轮融资，包括 Peter Thiel 旗下 Founders Fund 和 General Catalyst。知情人士称，此次总投资目前预计将超过 Anthropic 此前设定的 300 亿美元目标。相关认购承诺仍在敲定中，条款可能会有调整。Anthropic、Founders Fund、红杉资本和 General Catalyst 不予置评。Dragoneer、Altimeter 和 Greenoaks 没有回应置评请求。OpenAI 在 3 月完成的一轮融资中最新估值达到 8520 亿美元。预计该公司将在未来几天以保密方式提交上市文件草案。",
     "media_only": false,
     "image_url": null,
@@ -51694,41 +51712,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3197146"
-  },
-  {
-    "post": "Financial_Express/3197145",
-    "datetime": "2026-05-20T20:30:17+00:00",
-    "views": "101",
-    "text": "英伟达公布业绩后，其股价在盘后交易中翻红，最新上涨 0.5%，报每股 224.64 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3197145"
-  },
-  {
-    "post": "Financial_Express/3197144",
-    "datetime": "2026-05-20T20:29:19+00:00",
-    "views": "110",
-    "text": "英伟达第一季度边缘计算收入达 63.7 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3197144"
-  },
-  {
-    "post": "Financial_Express/3197142",
-    "datetime": "2026-05-20T20:29:18+00:00",
-    "views": "80",
-    "text": "英伟达(NVDA.O)：边缘计算技术亮点在于用于代理 AI 和物理 AI 的设备。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3197142"
-  },
-  {
-    "post": "Financial_Express/3197143",
-    "datetime": "2026-05-20T20:29:18+00:00",
-    "views": "80",
-    "text": "英伟达：Vera Rubin 相关业务进展顺利，定于今年下半年（三季度起）正式落地。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3197143"
   }
 ]
