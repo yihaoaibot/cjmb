@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3200646",
+    "datetime": "2026-05-22T01:50:19+00:00",
+    "views": "1",
+    "text": "AMD 首席执行官苏姿丰：CPU 和一些 ASIC（业务）开始增长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200646"
+  },
+  {
+    "post": "Financial_Express/3200645",
+    "datetime": "2026-05-22T01:49:58+00:00",
+    "views": "1",
+    "text": "智谱面向部分企业客户开放 GLM-5.1 高速版\n5 月 22 日，智谱宣布面向部分企业客户提供 GLM-5.1 高速版 API“GLM-5.1-highspeed”，模型输出速度达到 400 tokens/s。据介绍，GLM-5.1 高速版适用于 AI 编程、实时交互、商业决策、实时语音等对响应延迟要求极高的场景，现已面向智谱 MaaS 平台部分企业客户开放服务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200645"
+  },
+  {
+    "post": "Financial_Express/3200644",
+    "datetime": "2026-05-22T01:49:38+00:00",
+    "views": "1",
+    "text": "N 惠康涨超 200% 触发二次临停\n新股 N 惠康扩大涨幅至 200%，触发二次临停，成交近 8 亿元。资料显示，公司深耕制冷领域，是一家集制冰机、冷柜、冰箱、酒柜等制冷设备研发、生产、销售于一体的国家高新技术企业。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200644"
+  },
+  {
+    "post": "Financial_Express/3200643",
+    "datetime": "2026-05-22T01:49:17+00:00",
+    "views": "1",
+    "text": "苏姿丰表示：“可以看到 CPU 及部分特定应用集成电路（ASIC）的业务正开始实现增长。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3200643"
+  },
+  {
     "post": "Financial_Express/3200642",
     "datetime": "2026-05-22T01:47:58+00:00",
-    "views": "3",
+    "views": "33",
     "text": "苏姿丰表示：“但我们目前观察到，人工智能不仅已切入推理环节，更能真正实现智能化应用。”",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3200641",
     "datetime": "2026-05-22T01:47:57+00:00",
-    "views": "3",
+    "views": "33",
     "text": "A 股白酒概念股盘初震荡下挫，皇台酒业跌超 6%，酒鬼酒、水井坊、舍得酒业等股下跌。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3200640",
     "datetime": "2026-05-22T01:47:38+00:00",
-    "views": "3",
+    "views": "33",
     "text": "苏姿丰表示：目前实际上没有企业能从人工智能训练业务中盈利。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3200639",
     "datetime": "2026-05-22T01:47:17+00:00",
-    "views": "3",
+    "views": "33",
     "text": "玻纤概念震荡拉升 宏和科技触及涨停续创历史新高\n早盘玻纤概念震荡拉升，宏和科技触及涨停，续创历史新高，国际复材涨超 10%，山东玻纤、中材科技、长海股份、中国巨石涨幅靠前。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3200638",
     "datetime": "2026-05-22T01:46:37+00:00",
-    "views": "34",
+    "views": "64",
     "text": "苏姿丰：我们发现需要在全球布局制造能力，台湾的许多合作伙伴也在扩张，具备多区域制造布局至关重要。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3200637",
     "datetime": "2026-05-22T01:45:37+00:00",
-    "views": "34",
+    "views": "64",
     "text": "白酒概念股下挫 皇台酒业跌超 6%\n白酒概念股下挫，皇台酒业跌超 6%，酒鬼酒、水井坊、舍得酒业等股下跌。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3200636",
     "datetime": "2026-05-22T01:44:58+00:00",
-    "views": "34",
+    "views": "65",
     "text": "券商板块回调 中信建投等跌超 2%\n券商板块今日回调，锦龙股份、中信建投、天风证券等跌超 2%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3200635",
     "datetime": "2026-05-22T01:44:38+00:00",
-    "views": "34",
+    "views": "65",
     "text": "AMD 首席执行官苏姿丰：我们正在台积电亚利桑那厂进行生产，情况非常出色。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3200634",
     "datetime": "2026-05-22T01:44:37+00:00",
-    "views": "34",
+    "views": "64",
     "text": "A 股化学制品板块短线拉升，元力股份、怡达股份涨超 10%，多氟多、杭华股份、百川股份、康达新材、红墙股份等跟涨。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3200632",
     "datetime": "2026-05-22T01:43:58+00:00",
-    "views": "36",
+    "views": "66",
     "text": "化学制品板块短线拉升\n化学制品板块短线拉升，元力股份、怡达股份涨超 10%，多氟多、杭华股份、百川股份、康达新材、红墙股份等跟涨。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3200631",
     "datetime": "2026-05-22T01:43:57+00:00",
-    "views": "36",
+    "views": "66",
     "text": "我科学家在镍基高温超导领域再获突破\n中国科学技术大学与南方科技大学研究团队首次在镍氧化物高温超导薄膜中观测到无节点超导能隙，并发现了电子-玻色子耦合现象。这是高温超导机理研究领域的关键性突破。相关成果 5 月 22 日在线发表于国际学术期刊《科学》。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3200630",
     "datetime": "2026-05-22T01:43:38+00:00",
-    "views": "36",
+    "views": "66",
     "text": "美银：外资撤离印度股市或延续至 2027 年\n金十数据 5 月 22 日讯，美银全球研究表示，随着亚洲人工智能赢家以更便宜的估值提供更强的盈利前景，外国投资者对印度股票的抛售可能会持续到明年。美银印度研究主管阿米什·沙阿表示：“印度面临盈利下调，而其他受人工智能驱动的市场则出现上调。”他表示，全球投资者不太可能在“2027 年甚至 2028 年之前”重返印度，“这看起来肯定不是 2026 年会发生的事。”由于全球投资者继续追逐亚洲其他地区的人工智能相关投资，卢比走软加剧了创纪录的 230 亿美元外资抛售，印度本地股市是 2026 年迄今为止全球表现最差的市场之一。在盈利增长没有显著扩张的情况下，印度的高估值可能仍将面临压力。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3200628",
     "datetime": "2026-05-22T01:42:58+00:00",
-    "views": "36",
+    "views": "66",
     "text": "创新药概念局部活跃 粤万年青涨近 10%\n创新药概念局部活跃，粤万年青涨近 10%，华兰股份涨超 8%，科伦药业、之江生物、众生药业、一品红跟涨。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3200627",
     "datetime": "2026-05-22T01:42:57+00:00",
-    "views": "36",
+    "views": "66",
     "text": "海南国际商业航天发射有限公司来无锡深化对接合作\n据无锡发布，5 月 21 日，海南国际商业航天发射有限公司来锡深化对接合作。无锡市委书记杜小刚与海南商发党委书记、董事长杨天梁一行会谈，双方围绕加速项目合作、导入创新资源、共建产业生态进行深入交流。海南商发于今年 4 月与无锡市签署《商业航天合作备忘录》，此次又专程来锡围绕备忘录约定事项开展洽谈对接，推动意向合作项目加快实施，并在发射技术的攻关和应用，以及火箭、卫星、测控、空间信息等领域深化合作，共同融入国家级商业航天创新链产业链供应链。",
     "media_only": false,
     "image_url": null,
@@ -56077,59 +56113,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3194376"
-  },
-  {
-    "post": "Financial_Express/3194375",
-    "datetime": "2026-05-20T01:50:17+00:00",
-    "views": "97",
-    "text": "光纤概念反复活跃 杭电股份触及涨停续创历史新高\n光纤概念反复活跃，杭电股份触及涨停，长盈通涨超 5%，均续创历史新高，中天科技、特发信息、通光线缆跟涨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3194375"
-  },
-  {
-    "post": "Financial_Express/3194374",
-    "datetime": "2026-05-20T01:49:58+00:00",
-    "views": "97",
-    "text": "航天科工火箭公司拟招聘财务副总监 将牵头上市辅导财务专项工作\n航天科工火箭技术有限公司微信公众号于 5 月 19 日发布的招聘启事显示，公司拟招聘财务副总监 1 人，主要岗位职责包括：负责建立符合上市规范的财务制度和治理架构，牵头上市辅导财务专项工作，配合中介机构完成 IPO 财务核查与辅导验收，参与投资等项目财务尽调与风险把控，负责内外部审计相关工作等。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3194374"
-  },
-  {
-    "post": "Financial_Express/3194373",
-    "datetime": "2026-05-20T01:49:57+00:00",
-    "views": "67",
-    "text": "澳大利亚 S&P/ASX 200 指数下跌 1%，至 8518.50 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3194373"
-  },
-  {
-    "post": "Financial_Express/3194372",
-    "datetime": "2026-05-20T01:49:37+00:00",
-    "views": "67",
-    "text": "A 股人形机器人概念股盘初下挫，巨轮智能跌超 8%，大业股份跌超 7%，三协电机、天奇股份、五洲新春跌幅居前。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3194372"
-  },
-  {
-    "post": "Financial_Express/3194371",
-    "datetime": "2026-05-20T01:49:18+00:00",
-    "views": "67",
-    "text": "港股半导体板块持续走强，兆易创新(03986.HK)涨超 9%，中芯国际(00981.HK)涨超 5%，华虹半导体(01347.HK)、英诺赛科(02577.HK)等跟涨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3194371"
-  },
-  {
-    "post": "Financial_Express/3194370",
-    "datetime": "2026-05-20T01:48:37+00:00",
-    "views": "96",
-    "text": "创业板指转涨，此前一度跌超 0.5%，存储芯片、F5G 概念等板块涨幅居前。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3194370"
   }
 ]
