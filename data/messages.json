@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3202974",
     "datetime": "2026-05-22T21:19:57+00:00",
-    "views": "6",
+    "views": "10",
     "text": "阿根廷经济部长：阿根廷玉米出口税将从当前的 8.5%逐步下调，到 2027 年底降至 7.5%，2028 年底降至 5.5%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3202973",
     "datetime": "2026-05-22T21:19:17+00:00",
-    "views": "11",
+    "views": "14",
     "text": "周五（5 月 22 日）纽约尾盘，标普 500 股指期货最终涨 0.29%，道指期货涨 0.51%，纳斯达克 100 股指期货涨 0.30%。罗素 2000 股指期货涨 0.69%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3202972",
     "datetime": "2026-05-22T21:18:17+00:00",
-    "views": "16",
+    "views": "18",
     "text": "加拿大石油重镇信心满满，预计两个月内与油企达成碳捕集项目关键协议\n加拿大阿尔伯塔省（Alberta）省长 Danielle Smith 预计，将在今年夏季与各大石油巨头正式达成在油砂开采中部署碳捕集技术的最终协议。一旦与油砂联盟（Oil Sands Alliance）就“开拓者（Pathways）”碳捕集项目达成实质性协议，将彻底扫清建立一条通往不列颠哥伦比亚省（BC 省）海岸线全新输油管道的战略障碍。Smith 正大力推动建设这条旨在销往亚洲市场的新输油管道，以此大幅拉高阿尔伯塔省的原油产量。该管道的具体路线细节预定于 7 月 1 日前公布，并计划在 10 月 1 日前获得有条件的行政批准。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3202971",
     "datetime": "2026-05-22T21:16:57+00:00",
-    "views": "17",
+    "views": "18",
     "text": "阿根廷经济部长：2027 年至 2028 年期间，阿根廷将按季度下调玉米出口税。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3202964",
     "datetime": "2026-05-22T21:04:57+00:00",
-    "views": "55",
+    "views": "85",
     "text": "惠誉：AA-评级反映阿联酋合并政府债务水平低、净资产头寸强劲且人均 GDP 水平高。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3202962",
     "datetime": "2026-05-22T21:04:18+00:00",
-    "views": "57",
+    "views": "87",
     "text": "惠誉关于阿联酋的评级：稳定展望反映了伊朗战争期间石油出口收入将具备韧性的预期。",
     "media_only": false,
     "image_url": null,
@@ -51082,41 +51082,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3197265"
-  },
-  {
-    "post": "Financial_Express/3197264",
-    "datetime": "2026-05-20T21:22:57+00:00",
-    "views": "73",
-    "text": "玻利维亚总统帕斯 20 日宣布将重组内阁，并成立经济社会委员会，以应对当前政治危机和社会紧张局势。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3197264"
-  },
-  {
-    "post": "Financial_Express/3197263",
-    "datetime": "2026-05-20T21:22:18+00:00",
-    "views": "72",
-    "text": "英伟达首席财务官：万亿级营收目标落实周期为 2025 年至 2027 全年。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3197263"
-  },
-  {
-    "post": "Financial_Express/3197262",
-    "datetime": "2026-05-20T21:21:18+00:00",
-    "views": "73",
-    "text": "英伟达首席财务官：受内存价格上涨影响，边缘计算需求小幅下滑。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3197262"
-  },
-  {
-    "post": "Financial_Express/3197261",
-    "datetime": "2026-05-20T21:21:17+00:00",
-    "views": "71",
-    "text": "英伟达(NVDA.O)CFO：边缘计算需求因内存价格上涨而小幅下降。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3197261"
   }
 ]
