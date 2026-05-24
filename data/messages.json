@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3204800",
+    "datetime": "2026-05-24T22:04:37+00:00",
+    "views": "5",
+    "text": "现货黄金突破 4550 美元/盎司，日内涨 0.96%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3204800"
+  },
+  {
     "post": "Financial_Express/3204799",
     "datetime": "2026-05-24T22:02:38+00:00",
-    "views": "8",
+    "views": "31",
     "text": "现货白银突破 77 美元/盎司，日内涨 2.15%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3204798",
     "datetime": "2026-05-24T22:02:37+00:00",
-    "views": "8",
+    "views": "31",
     "text": "现货白银日内涨 2%，现报 77.04 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3204797",
     "datetime": "2026-05-24T22:02:17+00:00",
-    "views": "14",
+    "views": "34",
     "text": "钯金期货日内涨 1%，现报 1398.28 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3204795",
     "datetime": "2026-05-24T22:01:38+00:00",
-    "views": "22",
+    "views": "39",
     "text": "标普 500 股指期货上涨 0.4%，纳斯达克股指期货上涨 0.6%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3204796",
     "datetime": "2026-05-24T22:01:38+00:00",
-    "views": "22",
+    "views": "39",
     "text": "美国 10 年期国债期货上涨 12 个基点，30 年期国债期货上涨 17 个基点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3204793",
     "datetime": "2026-05-24T22:01:18+00:00",
-    "views": "26",
+    "views": "42",
     "text": "特朗普政府淡化近期与伊朗达成协议的预期，油价跌幅超 3%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3204794",
     "datetime": "2026-05-24T22:01:18+00:00",
-    "views": "26",
+    "views": "40",
     "text": "布伦特原油失守 96 美元/桶，日内跌 4.20%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3204792",
     "datetime": "2026-05-24T22:01:17+00:00",
-    "views": "26",
+    "views": "42",
     "text": "布伦特原油日内跌 4%，现报 96.07 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3204791",
     "datetime": "2026-05-24T22:00:57+00:00",
-    "views": "26",
+    "views": "40",
     "text": "现货黄金突破 4540 美元/盎司，日内涨 0.76%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3204790",
     "datetime": "2026-05-24T22:00:37+00:00",
-    "views": "29",
+    "views": "43",
     "text": "现货白银日内涨 1%，现报 76.49 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3204788",
     "datetime": "2026-05-24T22:00:27+00:00",
-    "views": "34",
+    "views": "46",
     "text": "WTI 原油突破 94 美元/桶，日内跌 3.33%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3204789",
     "datetime": "2026-05-24T22:00:27+00:00",
-    "views": "33",
+    "views": "47",
     "text": "布伦特原油日内跌 3%，现报 97.16 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3204787",
     "datetime": "2026-05-24T22:00:26+00:00",
-    "views": "34",
+    "views": "46",
     "text": "WTI 原油突破 93 美元/桶，日内跌 3.77%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3204786",
     "datetime": "2026-05-24T22:00:20+00:00",
-    "views": "33",
+    "views": "45",
     "text": "纽约期金突破 4580 美元/盎司，日内涨 0.53%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3204784",
     "datetime": "2026-05-24T22:00:19+00:00",
-    "views": "33",
+    "views": "45",
     "text": "布伦特原油突破 98 美元/桶，日内跌 2.97%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3204785",
     "datetime": "2026-05-24T22:00:19+00:00",
-    "views": "33",
+    "views": "46",
     "text": "WTI 原油日内跌 4%，现报 92.43 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3204782",
     "datetime": "2026-05-24T22:00:18+00:00",
-    "views": "35",
+    "views": "49",
     "text": "布伦特原油日内跌 2%，现报 97.29 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3204783",
     "datetime": "2026-05-24T22:00:18+00:00",
-    "views": "34",
+    "views": "46",
     "text": "纽约期银日内涨 1%，现报 77.05 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +173,7 @@
   {
     "post": "Financial_Express/3204781",
     "datetime": "2026-05-24T21:51:58+00:00",
-    "views": "70",
+    "views": "78",
     "text": "受美伊协议预期乐观影响，欧洲天然气价格下跌 3.3%。",
     "media_only": false,
     "image_url": null,
@@ -16180,23 +16189,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3202993"
-  },
-  {
-    "post": "Financial_Express/3202992",
-    "datetime": "2026-05-22T22:03:38+00:00",
-    "views": "81",
-    "text": "供需格局持续重构 铝价后市上行可期\n今年以来，内外盘铝市走出显著的分化行情，伦铝、沪铝期货价格同步上行但涨幅差距显著，呈现出外强内弱的特征。近一个月以来，两者价格均在高位区间维持震荡。 业内人士表示，中东地缘冲突引发的海外市场供给收缩是本轮铝价上涨的核心驱动力，但海内外库存水平迥异，造成了内外盘价格走势分化。目前来看，全球铝市供给偏紧格局已定，随着国内铝材出口持续回暖、库存逐步进入去化周期，叠加新能源等新兴产业需求稳步增加，内外盘铝价中长期均具备上涨动能。（中国证券报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3202992"
-  },
-  {
-    "post": "Financial_Express/3202991",
-    "datetime": "2026-05-22T22:03:17+00:00",
-    "views": "85",
-    "text": "首批 REITs 指数基金集中上报 个人投资者参与门槛降低 万亿级市场蓝海正在形成\nREITs 指数化投资或将拉开序幕。近日，中国证监会信息显示，易方达基金、华夏基金、南方基金、中金基金等 4 家基金公司集中上报国内首批 REITs 指数基金。从产品设计来看，此次上报的产品均为场外指数基金，对标中证 REITs 全收益指数。公开信息显示，该指数发布于 2022 年 12 月，选取 53 只沪深市场中满足一定流动性条件和上市时间要求的 REITs 作为样本，并将样本分红计入指数收益，可反映沪深市场上市 REITs 在计入分红收益后的整体表现。（上海证券报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3202991"
   }
 ]
