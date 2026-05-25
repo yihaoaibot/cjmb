@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3205611",
+    "datetime": "2026-05-25T06:44:58+00:00",
+    "views": "1",
+    "text": "沪深两市成交额超 3 万亿元，较上日此时放量 2953 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3205611"
+  },
+  {
+    "post": "Financial_Express/3205610",
+    "datetime": "2026-05-25T06:44:57+00:00",
+    "views": "1",
+    "text": "沪深两市成交额突破 3 万亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3205610"
+  },
+  {
+    "post": "Financial_Express/3205609",
+    "datetime": "2026-05-25T06:43:18+00:00",
+    "views": "1",
+    "text": "印度财政部长：消费税下调预计将使政府财政收入减少 1 万亿卢比。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3205609"
+  },
+  {
     "post": "Financial_Express/3205608",
     "datetime": "2026-05-25T06:41:59+00:00",
-    "views": "1",
+    "views": "31",
     "text": "日本 4 月份芯片制造设备出货量同比增长 14.1%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3205600",
     "datetime": "2026-05-25T06:36:57+00:00",
-    "views": "37",
+    "views": "67",
     "text": "经济学家：10 年期日本国债收益率下财年或将达到 3.1%\n大和总研的经济学家表示，预计到 2027 财年（该财年将于 2028 年 3 月结束）下半年，10 年期日本国债收益率将达到 3.1%左右。他们表示，日本央行的加息以及该央行缩减购债规模计划的影响，可能会推高债券收益率。他们补充说，如果首相高市早苗的扩张性财政政策加剧了对通胀的担忧，并且如果政府债券发行量的潜在增加恶化了供需平衡，该收益率可能会进一步上升。在油价下跌的情况下，日本国债收益率周一下跌。10 年期日本国债收益率最新下跌 7.0 个基点，至 2.690%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3205599",
     "datetime": "2026-05-25T06:36:39+00:00",
-    "views": "36",
+    "views": "66",
     "text": "贝莱德分析师称已有足够因素支持美联储降息\n贝莱德表示，市场可能会看到来自美国就业市场的压力，或导致美联储降息或维持借贷成本不变。贝莱德亚太区全球固定收益主管 Navin Saigal 在回应美联储新任主席凯文·沃什上任后升息的可能性时表示，如果非要在加息和降息之间选择，他认为目前已有足够因素支持降息。他说，美国经济一些利好因素确实表明经济强劲，虽然 AI 领域确有资本支出，但这些资本支出也偏向劳动替代。所以从长远来看，劳动力市场将面临一些压力，这可能意味着美联储要么按兵不动，要么就是降息。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3205592",
     "datetime": "2026-05-25T06:32:58+00:00",
-    "views": "48",
+    "views": "78",
     "text": "印度财政部长：印度国内经济形势依然强劲。",
     "media_only": false,
     "image_url": null,
@@ -21130,14 +21157,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3203255"
-  },
-  {
-    "post": "Financial_Express/3203254",
-    "datetime": "2026-05-23T06:43:38+00:00",
-    "views": "12",
-    "text": "OpenAI：ChatGPT 解锁 AI 填表技能\n5 月 23 日，OpenAI 今天发布公告，宣布 ChatGPT 解锁新技能，用户上传表单后，可直接用语音或文字说明填写内容，系统会识别表单字段、自动补全信息。在最新演示中，用户上传一份健身会员表单后，只需口头说明姓名、地址和健身目标，ChatGPT 便能识别表单内容并自动填写。整个过程不是逐项手动录入资料，更像与助手对话。在演示过程中，ChatGPT 成功串联图像理解、语音交互和内容生成整套工作流，支持一边读取上传图片中的表单字段，一边接收语音指令，并依据上下文生成填写内容。表单完成后，系统还能继续生成相关图片。当前输出主要是静态图片，而不是可直接编辑的 PDF（便携式文档格式）或交互式文档，因此部分场景仍需人工二次转录。与此同时，上传文件必须足够清晰，否则提取和填写可能出错",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3203254"
   }
 ]
