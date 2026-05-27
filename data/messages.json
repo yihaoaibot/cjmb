@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3212177",
+    "datetime": "2026-05-27T22:06:38+00:00",
+    "views": "1",
+    "text": "Nebius Group NV 美股盘后涨 14%，Situational Awareness 报告称对该公司持股。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3212177"
+  },
+  {
     "post": "Financial_Express/3212176",
     "datetime": "2026-05-27T22:04:37+00:00",
-    "views": "4",
+    "views": "6",
     "text": "Asahi Kasei 等将投资日本软银集团 AI 风投公司。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3212175",
     "datetime": "2026-05-27T22:01:38+00:00",
-    "views": "11",
+    "views": "12",
     "text": "美联储 6 月维持利率不变的概率为 99.9%\n据 CME“美联储观察”：美联储到 6 月维持利率不变的概率为 99.9%，累计降息 25 个基点的概率为 0.1%。美联储到 7 月维持利率不变的概率为 91.4%，累计加息 25 个基点的概率 8.5%，累计加息 50 个基点的概率 8.5%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3212174",
     "datetime": "2026-05-27T22:01:37+00:00",
-    "views": "11",
+    "views": "12",
     "text": "美联储 6 月维持利率不变的概率为 99.9%\n金十数据 5 月 28 日讯，据 CME“美联储观察”：美联储到 6 月维持利率不变的概率为 99.9%，累计降息 25 个基点的概率为 0.1%。美联储到 7 月维持利率不变的概率为 91.4%，累计加息 25 个基点的概率 8.5%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3212173",
     "datetime": "2026-05-27T21:57:57+00:00",
-    "views": "34",
+    "views": "35",
     "text": "谷歌工程师因在 Polymarket 平台上进行内幕交易被起诉。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3212172",
     "datetime": "2026-05-27T21:56:37+00:00",
-    "views": "46",
+    "views": "47",
     "text": "特朗普政府要求在肯尼亚隔离埃博拉病毒接触人员，专家：在美国、德国治疗的效果更好\n两名美国官员表示，美国目前正与肯尼亚进行谈判，计划在当地开设一家机构，用于隔离接触过病毒的美国公民。不过，肯尼亚政府尚未批准该计划。约翰斯·霍普金斯大学健康安全中心高级学者阿达尔贾（Amesh Adalja）表示，患者在美国或德国的高烈度传染病中心接受治疗，要比在肯尼亚新建的设施里好得多。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3212171",
     "datetime": "2026-05-27T21:53:57+00:00",
-    "views": "44",
+    "views": "74",
     "text": "惠普首席财务官：公司有望在 2028 财年实现年化总节约成本约 10 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3212169",
     "datetime": "2026-05-27T21:49:18+00:00",
-    "views": "79",
+    "views": "80",
     "text": "美国将联合国约旦河西岸和加沙特别报告员列入制裁名单。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3212168",
     "datetime": "2026-05-27T21:48:37+00:00",
-    "views": "79",
+    "views": "80",
     "text": "波音(BA.N)获得美国海军 8.547 亿美元合同修订。",
     "media_only": false,
     "image_url": null,
@@ -44260,23 +44269,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3206883"
-  },
-  {
-    "post": "Financial_Express/3206882",
-    "datetime": "2026-05-25T22:06:37+00:00",
-    "views": "127",
-    "text": "美股三大股指期货走高，纳斯达克期货上涨 1.3%，标普 500 指数期货涨 0.9%，道指期货涨 0.87%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3206882"
-  },
-  {
-    "post": "Financial_Express/3206881",
-    "datetime": "2026-05-25T22:05:17+00:00",
-    "views": "130",
-    "text": "据 Axios 记者：特朗普关于伊朗浓缩铀的最新表态似乎表明，美国在浓缩铀库存问题上的立场有所软化，愈发趋近伊朗的主张。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3206881"
   }
 ]
