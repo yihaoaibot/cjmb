@@ -1,5 +1,63 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-05-28T22:31:14.850784+00:00","clsvipUpdated":"2026-05-28T22:31:21.930608+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">5月29日</h2><div class="feed"><article class="item" data-search="美国副总统万斯称现在判断能否与伊朗达成协议还为时过早
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-05-28T22:33:16.456760+00:00","clsvipUpdated":"2026-05-28T22:33:24.426335+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">5月29日</h2><div class="feed"><article class="item" data-search="2026 全球投资者大会与会嘉宾：中国资产有望迎来外资增配黄金期
+5 月 28 日，由深交所主办的 2026 全球投资者大会在深圳举行。多位与会嘉宾表示，面对全球市场波动，中国资产展现出较强的抗风险韧性，同时中国科技产业发展日新月异，正持续重塑全球投资者的认知，中国资产有望迎来外资增配黄金期。（中证报）"><div class="time">06:32</div><div class="content"><div class="text" data-full="2026 全球投资者大会与会嘉宾：中国资产有望迎来外资增配黄金期
+5 月 28 日，由深交所主办的 2026 全球投资者大会在深圳举行。多位与会嘉宾表示，面对全球市场波动，中国资产展现出较强的抗风险韧性，同时中国科技产业发展日新月异，正持续重塑全球投资者的认知，中国资产有望迎来外资增配黄金期。（中证报）" data-short="2026 全球投资者大会与会嘉宾：中国资产有望迎来外资增配黄金期
+5 月 28 日，由深交所主办的 2026 全球投资者大会在深圳举行。多位与会嘉宾表示，面对全球市场波动，中国资产展现出较强的抗风险韧性，同时中国科技产业发展日新月异，正持续重塑全球投资者的认知，中国资产有望迎来外资增配黄金期。（中证报）">2026 全球投资者大会与会嘉宾：中国资产有望迎来外资增配黄金期
+5 月 28 日，由深交所主办的 2026 全球投资者大会在深圳举行。多位与会嘉宾表示，面对全球市场波动，中国资产展现出较强的抗风险韧性，同时中国科技产业发展日新月异，正持续重塑全球投资者的认知，中国资产有望迎来外资增配黄金期。（中证报）</div></div></article><article class="item" data-search="周五重要财经信息提醒（以下均为北京时间）
+
+① 07:30 日本 4 月失业率，5 月东京 cpi；
+② 07:50 日本 4 月工业产出初值；
+③ 12:00 美国旧金山联储主席戴利（2027 年 fomc 票委）在里根国家经济论坛（rnef）讲话；
+④ 14:00 美国明尼阿波利斯联储主席卡什卡利（neel kashkari）表在韩国一场活动上讲话；
+⑤ 14:45 法国 5 月 cpi 初值，一季度 gdp 终值；
+⑥ 15:55 德国 5 月失业人数；
+⑦ 16:30 欧洲央行执委 panetta 讲话；
+⑧ 17:10 英国央行行长贝利在冰岛 reykjavik economic conference 讲话；
+⑨ 18:30 印度一季度 gdp；
+⑩ 18:50 美国堪萨斯城联储主席 schmid 在冰岛 reykjavik 讲话；
+19:15 欧洲央行管委 radev 讲话；
+19:45 美国旧金山联储主席戴利（2027 年 fomc 票委）接受福克斯商业新闻采访；
+20:00 德国 5 月 cpi 初值；
+20:30 美国 4 月商品贸易帐、4 月批发库存初值，加拿大一季度 gdp；
+21:10 美联储理事、负责金融监管事务的副主席鲍曼在冰岛 reykjavik 讲话；
+21:15 美国费城联储主席 anna paulson（2026 年 fomc 票委）谈论经济前景；
+21:35 欧洲央行管委 muller 讲话；
+次日 00:40 美国旧金山联储主席戴利（2027 年 fomc 票委）讲话；
+周六 星河动力·智神星一号或首飞；
+周日 09:30 中国 5 月官方制造业、非制造业、综合 pmi。"><div class="time">06:32</div><div class="content"><div class="text" data-full="周五重要财经信息提醒（以下均为北京时间）
+
+① 07:30 日本 4 月失业率，5 月东京 CPI；
+② 07:50 日本 4 月工业产出初值；
+③ 12:00 美国旧金山联储主席戴利（2027 年 FOMC 票委）在里根国家经济论坛（RNEF）讲话；
+④ 14:00 美国明尼阿波利斯联储主席卡什卡利（Neel Kashkari）表在韩国一场活动上讲话；
+⑤ 14:45 法国 5 月 CPI 初值，一季度 GDP 终值；
+⑥ 15:55 德国 5 月失业人数；
+⑦ 16:30 欧洲央行执委 Panetta 讲话；
+⑧ 17:10 英国央行行长贝利在冰岛 Reykjavik Economic Conference 讲话；
+⑨ 18:30 印度一季度 GDP；
+⑩ 18:50 美国堪萨斯城联储主席 Schmid 在冰岛 Reykjavik 讲话；
+19:15 欧洲央行管委 Radev 讲话；
+19:45 美国旧金山联储主席戴利（2027 年 FOMC 票委）接受福克斯商业新闻采访；
+20:00 德国 5 月 CPI 初值；
+20:30 美国 4 月商品贸易帐、4 月批发库存初值，加拿大一季度 GDP；
+21:10 美联储理事、负责金融监管事务的副主席鲍曼在冰岛 Reykjavik 讲话；
+21:15 美国费城联储主席 Anna Paulson（2026 年 FOMC 票委）谈论经济前景；
+21:35 欧洲央行管委 Muller 讲话；
+次日 00:40 美国旧金山联储主席戴利（2027 年 FOMC 票委）讲话；
+周六 星河动力·智神星一号或首飞；
+周日 09:30 中国 5 月官方制造业、非制造业、综合 PMI。" data-short="周五重要财经信息提醒（以下均为北京时间）
+
+① 07:30 日本 4 月失业率，5 月东京 CPI；
+② 07:50 日本 4 月工业产出初值；
+③ 12:00 美国旧金山联储主席戴利（2027 年 FOMC 票委）在里根国家经济论坛（RNEF）讲话；
+④ 14:00 美国明尼阿波利斯联储主席卡什卡利（Neel Kashkari）表在韩国一场活动上讲话；
+⑤...">周五重要财经信息提醒（以下均为北京时间）
+
+① 07:30 日本 4 月失业率，5 月东京 CPI；
+② 07:50 日本 4 月工业产出初值；
+③ 12:00 美国旧金山联储主席戴利（2027 年 FOMC 票委）在里根国家经济论坛（RNEF）讲话；
+④ 14:00 美国明尼阿波利斯联储主席卡什卡利（Neel Kashkari）表在韩国一场活动上讲话；
+⑤...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="美国副总统万斯称现在判断能否与伊朗达成协议还为时过早
 根据白宫记者团报道，美国副总统 jd·万斯表示，现在判断与伊朗的协议“何时或是否”能够达成还为时过早。万斯表示，目前很难确定何时会签署谅解备忘录，甚至能否签署都尚无定论。双方正就部分措辞反复磋商，谈判已取得不少进展。显然，伊朗方面希望达成协议，也有意打通霍尔木兹海峡航道，这同样也是我方的诉求。 目前仍有几项分歧待解决，涉及核相关议题、高浓缩铀库存以及铀浓缩活动等问题，双方仍在就此沟通。我们认为，至少到目前为止，伊朗谈判态度诚恳，谈判整体在稳步推进，希望后续能继续取得突破。特朗普届时或将表态支持相关协议，但最终结果仍有待观察。"><div class="time">06:27</div><div class="content"><div class="text" data-full="美国副总统万斯称现在判断能否与伊朗达成协议还为时过早
 根据白宫记者团报道，美国副总统 JD·万斯表示，现在判断与伊朗的协议“何时或是否”能够达成还为时过早。万斯表示，目前很难确定何时会签署谅解备忘录，甚至能否签署都尚无定论。双方正就部分措辞反复磋商，谈判已取得不少进展。显然，伊朗方面希望达成协议，也有意打通霍尔木兹海峡航道，这同样也是我方的诉求。 目前仍有几项分歧待解决，涉及核相关议题、高浓缩铀库存以及铀浓缩活动等问题，双方仍在就此沟通。我们认为，至少到目前为止，伊朗谈判态度诚恳，谈判整体在稳步推进，希望后续能继续取得突破。特朗普届时或将表态支持相关协议，但最终结果仍有待观察。" data-short="美国副总统万斯称现在判断能否与伊朗达成协议还为时过早
 根据白宫记者团报道，美国副总统 JD·万斯表示，现在判断与伊朗的协议“何时或是否”能够达成还为时过早。万斯表示，目前很难确定何时会签署谅解备忘录，甚至能否签署都尚无定论。双方正就部分措辞反复磋商，谈判已取得不少进展。显然，伊朗方面希望达成协议，也有意打通霍尔木兹海峡航道，这同样也是我方的诉求。 目前仍有几...">美国副总统万斯称现在判断能否与伊朗达成协议还为时过早
@@ -329,7 +387,7 @@ KeyBanc 分析师 Michael Leshock 认为，美国国家航空航天局（NASA）
 加拿大央行表示，该国金融体系在近期全球冲击中运行良好，但强调资产价格回调风险，以及与对冲基金在债务市场中所扮演角色相关的脆弱性。加拿大央行周四发布的 2026 年金融稳定报告指出，金融资产估值持续上升，而股市越来越集中于少数几家大举投资人工智能(ai)的大型科技公司。这使资产管理公司更容易受到突然回调的冲击，而 ai 行业遭遇负面冲击将对覆盖面更广泛的股指造成放大影响。加拿大央行还表示，对冲基金在隔夜融资市场中作用增强，对整体金融体系构成脆弱性。“例如，对冲基金在政府债券市场活动大幅收缩，可能对这些市场及其他固定收益市场的流动性和运行产生负面影响。这进而可能导致金融体系承压，”报告称。"><div class="time">01:21</div><div class="content"><div class="text" data-full="加拿大央行警示资产价格回调和对冲基金相关风险
 加拿大央行表示，该国金融体系在近期全球冲击中运行良好，但强调资产价格回调风险，以及与对冲基金在债务市场中所扮演角色相关的脆弱性。加拿大央行周四发布的 2026 年金融稳定报告指出，金融资产估值持续上升，而股市越来越集中于少数几家大举投资人工智能(AI)的大型科技公司。这使资产管理公司更容易受到突然回调的冲击，而 AI 行业遭遇负面冲击将对覆盖面更广泛的股指造成放大影响。加拿大央行还表示，对冲基金在隔夜融资市场中作用增强，对整体金融体系构成脆弱性。“例如，对冲基金在政府债券市场活动大幅收缩，可能对这些市场及其他固定收益市场的流动性和运行产生负面影响。这进而可能导致金融体系承压，”报告称。" data-short="加拿大央行警示资产价格回调和对冲基金相关风险
 加拿大央行表示，该国金融体系在近期全球冲击中运行良好，但强调资产价格回调风险，以及与对冲基金在债务市场中所扮演角色相关的脆弱性。加拿大央行周四发布的 2026 年金融稳定报告指出，金融资产估值持续上升，而股市越来越集中于少数几家大举投资人工智能(AI)的大型科技公司。这使资产管理公司更容易受到突然回调的冲击，而...">加拿大央行警示资产价格回调和对冲基金相关风险
-加拿大央行表示，该国金融体系在近期全球冲击中运行良好，但强调资产价格回调风险，以及与对冲基金在债务市场中所扮演角色相关的脆弱性。加拿大央行周四发布的 2026 年金融稳定报告指出，金融资产估值持续上升，而股市越来越集中于少数几家大举投资人工智能(AI)的大型科技公司。这使资产管理公司更容易受到突然回调的冲击，而...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="美联储在固定利率逆回购操作中总计接纳了 7 个对手方的 11.63 亿美元。"><div class="time">01:20</div><div class="content"><div class="text" data-full="美联储在固定利率逆回购操作中总计接纳了 7 个对手方的 11.63 亿美元。" data-short="美联储在固定利率逆回购操作中总计接纳了 7 个对手方的 11.63 亿美元。">美联储在固定利率逆回购操作中总计接纳了 7 个对手方的 11.63 亿美元。</div></div></article><article class="item" data-search="美联储穆萨莱姆：美债收益率涨幅的四分之一大概率来自期限溢价。"><div class="time">01:19</div><div class="content"><div class="text" data-full="美联储穆萨莱姆：美债收益率涨幅的四分之一大概率来自期限溢价。" data-short="美联储穆萨莱姆：美债收益率涨幅的四分之一大概率来自期限溢价。">美联储穆萨莱姆：美债收益率涨幅的四分之一大概率来自期限溢价。</div></div></article><article class="item" data-search="穆萨莱姆：近期债券市场的走势大多由中性利率预期上行推动。"><div class="time">01:18</div><div class="content"><div class="text" data-full="穆萨莱姆：近期债券市场的走势大多由中性利率预期上行推动。" data-short="穆萨莱姆：近期债券市场的走势大多由中性利率预期上行推动。">穆萨莱姆：近期债券市场的走势大多由中性利率预期上行推动。</div></div></article><article class="item" data-search="美联储穆萨莱姆：近期债券市场大部分波动源于对中性利率上升的预期。"><div class="time">01:18</div><div class="content"><div class="text" data-full="美联储穆萨莱姆：近期债券市场大部分波动源于对中性利率上升的预期。" data-short="美联储穆萨莱姆：近期债券市场大部分波动源于对中性利率上升的预期。">美联储穆萨莱姆：近期债券市场大部分波动源于对中性利率上升的预期。</div></div></article><article class="item" data-search="美联储穆萨莱姆：收益率上行幅度中，四分之三源于市场上调长期中性利率预期。"><div class="time">01:18</div><div class="content"><div class="text" data-full="美联储穆萨莱姆：收益率上行幅度中，四分之三源于市场上调长期中性利率预期。" data-short="美联储穆萨莱姆：收益率上行幅度中，四分之三源于市场上调长期中性利率预期。">美联储穆萨莱姆：收益率上行幅度中，四分之三源于市场上调长期中性利率预期。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">5月28日 · VIP</h2> <div class="feed"> <article class="item" data-search="【电报解读】特斯拉v3量产计划开始提速+国内头部企业融资加速下，机构预计2026年或是人形机器人行业从0到1跨越关键之年，这家公司布局了机器人线缆行业
+加拿大央行表示，该国金融体系在近期全球冲击中运行良好，但强调资产价格回调风险，以及与对冲基金在债务市场中所扮演角色相关的脆弱性。加拿大央行周四发布的 2026 年金融稳定报告指出，金融资产估值持续上升，而股市越来越集中于少数几家大举投资人工智能(AI)的大型科技公司。这使资产管理公司更容易受到突然回调的冲击，而...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="美联储在固定利率逆回购操作中总计接纳了 7 个对手方的 11.63 亿美元。"><div class="time">01:20</div><div class="content"><div class="text" data-full="美联储在固定利率逆回购操作中总计接纳了 7 个对手方的 11.63 亿美元。" data-short="美联储在固定利率逆回购操作中总计接纳了 7 个对手方的 11.63 亿美元。">美联储在固定利率逆回购操作中总计接纳了 7 个对手方的 11.63 亿美元。</div></div></article><article class="item" data-search="美联储穆萨莱姆：美债收益率涨幅的四分之一大概率来自期限溢价。"><div class="time">01:19</div><div class="content"><div class="text" data-full="美联储穆萨莱姆：美债收益率涨幅的四分之一大概率来自期限溢价。" data-short="美联储穆萨莱姆：美债收益率涨幅的四分之一大概率来自期限溢价。">美联储穆萨莱姆：美债收益率涨幅的四分之一大概率来自期限溢价。</div></div></article><article class="item" data-search="穆萨莱姆：近期债券市场的走势大多由中性利率预期上行推动。"><div class="time">01:18</div><div class="content"><div class="text" data-full="穆萨莱姆：近期债券市场的走势大多由中性利率预期上行推动。" data-short="穆萨莱姆：近期债券市场的走势大多由中性利率预期上行推动。">穆萨莱姆：近期债券市场的走势大多由中性利率预期上行推动。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">5月28日 · VIP</h2> <div class="feed"> <article class="item" data-search="【电报解读】特斯拉v3量产计划开始提速+国内头部企业融资加速下，机构预计2026年或是人形机器人行业从0到1跨越关键之年，这家公司布局了机器人线缆行业
 
 #卡倍亿
 #申昊科技"> <div class="time">22:47</div> <div class="content"> <div class="text">【电报解读】特斯拉V3量产计划开始提速+国内头部企业融资加速下，机构预计2026年或是人形机器人行业从0到1跨越关键之年，这家公司布局了机器人线缆行业
