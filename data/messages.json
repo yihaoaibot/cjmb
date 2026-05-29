@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3217909",
+    "datetime": "2026-05-29T17:15:18+00:00",
+    "views": "1",
+    "text": "美联储戴利：美联储务必恢复物价稳定，但不能以损害经济为代价。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3217909"
+  },
+  {
+    "post": "Financial_Express/3217908",
+    "datetime": "2026-05-29T17:15:17+00:00",
+    "views": "2",
+    "text": "美联储戴利：美联储恢复物价稳定至关重要，但不能以损害经济为代价。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3217908"
+  },
+  {
+    "post": "Financial_Express/3217907",
+    "datetime": "2026-05-29T17:14:17+00:00",
+    "views": "16",
+    "text": "贝莱德削减模型投资组合的股票持仓 对股市超额回报持谨慎看法\n这一调整在周四引发贝莱德旗下各类 ETF 之间数十亿美元的资金流动。贝莱德 Target Allocation ETF 模型投资组合系列的首席投资组合经理 Michael Gates 撰文指出，此举是在美国企业经历“划时代财报季”之后做出的。他表示，强劲的业绩、蓬勃发展的生产力以及稳健的经济环境在近几周将标普 500 指数推升至历史新高，抵消了伊朗战争以及美联储今年降息预期退潮造成的负面影响。但他同时警告，如今越来越难期待股市继续取得超额回报，市场已经消化了利好因素，而“我们认为未来避开潜在风险的路径正在变窄”。Gates 表示，贝莱德对股市依然充满信心，将继续维持押注企业利润增长、人工智能以及政府支出的仓位。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3217907"
+  },
+  {
+    "post": "Financial_Express/3217906",
+    "datetime": "2026-05-29T17:13:39+00:00",
+    "views": "17",
+    "text": "伊朗外交部发言人巴加埃： 目前伊朗与美国尚未达成任何最终协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3217906"
+  },
+  {
+    "post": "Financial_Express/3217905",
+    "datetime": "2026-05-29T17:13:38+00:00",
+    "views": "17",
+    "text": "伊朗外交部发言人巴加埃：霍尔木兹海峡的管理必须由伊朗和阿曼决定。至今尚未与美国达成任何协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3217905"
+  },
+  {
     "post": "Financial_Express/3217904",
     "datetime": "2026-05-29T17:13:18+00:00",
-    "views": "1",
+    "views": "16",
     "text": "伊朗外交部发言人巴加埃： 霍尔木兹海峡的管控事宜应由伊朗和阿曼共同商定。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3217903",
     "datetime": "2026-05-29T17:11:58+00:00",
-    "views": "11",
+    "views": "49",
     "text": "路透社调查：市场预计哥伦比亚 2027 年末通胀率升至 5%，此前调查预期为 4.80%。市场预计哥伦比亚 2026 年末通胀率升至 6.50%，此前调查预期为 6.40%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3217902",
     "datetime": "2026-05-29T17:10:57+00:00",
-    "views": "21",
+    "views": "57",
     "text": "伊朗外交部发言人巴加埃：目前，我们专注于结束战争，并未就伊朗核计划进行谈判。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3217901",
     "datetime": "2026-05-29T17:10:38+00:00",
-    "views": "52",
+    "views": "58",
     "text": "伊朗外交部发言人巴加埃接受国家电视台采访时表示：现阶段我们的重心是结束战事，不会就伊朗核计划展开谈判。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3217900",
     "datetime": "2026-05-29T17:10:17+00:00",
-    "views": "55",
+    "views": "60",
     "text": "美联储戴利： 人工智能正显现出提振生产率增长的初步向好迹象。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3217899",
     "datetime": "2026-05-29T17:09:38+00:00",
-    "views": "55",
+    "views": "60",
     "text": "美联储戴利：预计不会因人工智能出现大规模失业或岗位流失情况。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3217898",
     "datetime": "2026-05-29T17:07:38+00:00",
-    "views": "72",
+    "views": "77",
     "text": "美联储戴利： 并未看到人工智能引发大规模失业或劳动力岗位被取代的情况。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3217897",
     "datetime": "2026-05-29T17:07:37+00:00",
-    "views": "72",
+    "views": "77",
     "text": "美联储戴利：预计人工智能将推动生产率增长出现积极迹象。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3217895",
     "datetime": "2026-05-29T17:06:58+00:00",
-    "views": "90",
+    "views": "94",
     "text": "美联储戴利：人工智能已显现出推动生产率增长的积极迹象。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3217894",
     "datetime": "2026-05-29T17:06:39+00:00",
-    "views": "95",
+    "views": "99",
     "text": "美联储戴利：人工智能实现可持续生产率增长的障碍主要来自监管层面。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3217892",
     "datetime": "2026-05-29T17:06:17+00:00",
-    "views": "97",
+    "views": "101",
     "text": "美联储戴利：实现人工智能持续生产力增长的障碍主要是监管问题。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3217891",
     "datetime": "2026-05-29T17:04:57+00:00",
-    "views": "108",
+    "views": "112",
     "text": "普京：有理由认为俄乌冲突临近收尾\n金十数据 5 月 30 日讯，据今日俄罗斯通讯社 29 日援引俄总统普京的话报道，从特别军事行动战场形势来看，有理由认为俄乌冲突临近收尾，但在交战持续的现状下，无法划定俄乌冲突的具体结束时限。普京说，俄方对基辅地区实施打击，是对乌军袭击卢甘斯克地区的回应，俄军正在特别军事行动区域全线发起攻势。普京还说，欧洲政客关于准备与俄作战的言论是“无稽之谈”，俄方过去和现在都没有威胁欧洲国家，但所有对俄方构成直接军事威胁的地方都会是“合法目标”。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3217890",
     "datetime": "2026-05-29T17:04:38+00:00",
-    "views": "79",
+    "views": "113",
     "text": "普京：有理由认为俄乌冲突临近收尾\n据今日俄罗斯通讯社 29 日援引俄总统普京的话报道，从特别军事行动战场形势来看，有理由认为俄乌冲突临近收尾，但在交战持续的现状下，无法划定俄乌冲突的具体结束时限。普京说，俄方对基辅地区实施打击，是对乌军袭击卢甘斯克地区的回应，俄军正在特别军事行动区域全线发起攻势。普京还说，欧洲政客关于准备与俄作战的言论是“无稽之谈”，俄方过去和现在都没有威胁欧洲国家，但所有对俄方构成直接军事威胁的地方都会是“合法目标”。普京当天结束对哈萨克斯坦国事访问后，在记者会谈及俄乌冲突时作上述表态。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3217889",
     "datetime": "2026-05-29T17:02:38+00:00",
-    "views": "92",
+    "views": "94",
     "text": "贝克休斯油服：美国钻井公司连续第六周增加石油和天然气钻井数量。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +182,7 @@
   {
     "post": "Financial_Express/3217888",
     "datetime": "2026-05-29T17:02:18+00:00",
-    "views": "92",
+    "views": "94",
     "text": "美国至 5 月 29 日当周总钻井总数 562 口，前值 558 口。",
     "media_only": false,
     "image_url": null,
@@ -53494,68 +53539,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3211933"
-  },
-  {
-    "post": "Financial_Express/3211932",
-    "datetime": "2026-05-27T17:14:37+00:00",
-    "views": "137",
-    "text": "特朗普：伊朗新领导人团队更加理性。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3211932"
-  },
-  {
-    "post": "Financial_Express/3211930",
-    "datetime": "2026-05-27T17:14:18+00:00",
-    "views": "136",
-    "text": "特朗普：我们目前已与伊朗就相关事宜达成共识。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3211930"
-  },
-  {
-    "post": "Financial_Express/3211931",
-    "datetime": "2026-05-27T17:14:18+00:00",
-    "views": "137",
-    "text": "特朗普谈及伊朗：此举实质就是要促成政权更迭。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3211931"
-  },
-  {
-    "post": "Financial_Express/3211929",
-    "datetime": "2026-05-27T17:14:17+00:00",
-    "views": "136",
-    "text": "美国总统特朗普：我认为我们在谈判方面进展良好。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3211929"
-  },
-  {
-    "post": "Financial_Express/3211928",
-    "datetime": "2026-05-27T17:13:58+00:00",
-    "views": "135",
-    "text": "美国总统特朗普：我们现在对伊朗的情况有了了解。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3211928"
-  },
-  {
-    "post": "Financial_Express/3211927",
-    "datetime": "2026-05-27T17:13:38+00:00",
-    "views": "136",
-    "text": "特朗普谈及足球：我习惯称它为 soccer。这么叫更省事，毕竟我们有橄榄球，而海外也把这项运动叫作 football，容易混淆。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3211927"
-  },
-  {
-    "post": "Financial_Express/3211926",
-    "datetime": "2026-05-27T17:13:37+00:00",
-    "views": "133",
-    "text": "美国总统特朗普：我所做的一切不是为了达成一个糟糕的协议，协议必须是完美的。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3211926"
   }
 ]
