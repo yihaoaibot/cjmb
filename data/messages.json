@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3215447",
+    "datetime": "2026-05-29T01:06:37+00:00",
+    "views": "2",
+    "text": "新西兰储备银行行长布雷曼：总体而言，官方现金利率可能会上升。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3215447"
+  },
+  {
+    "post": "Financial_Express/3215446",
+    "datetime": "2026-05-29T01:06:17+00:00",
+    "views": "3",
+    "text": "新西兰储备银行行长布雷曼：通胀前景仍存在不确定性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3215446"
+  },
+  {
+    "post": "Financial_Express/3215445",
+    "datetime": "2026-05-29T01:05:38+00:00",
+    "views": "33",
+    "text": "华为推出星河 AI 数据中心网络方案 Token 生产效率提升 2~5 倍\n金十数据 5 月 29 日讯，华为推出星河 AI 数据中心网络方案，依托网算存协同能力，NPU 与存储直通使传输带宽提升 8 倍，Token 生产效率提升 2~5 倍。此外，华为还面向商业与分销市场发布以 Token 为中心的系列解决方案及 45 款华为坤灵数通新品。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3215445"
+  },
+  {
+    "post": "Financial_Express/3215444",
+    "datetime": "2026-05-29T01:05:18+00:00",
+    "views": "32",
+    "text": "俄罗斯雅罗斯拉夫尔州州长称该地区遭无人机袭击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3215444"
+  },
+  {
+    "post": "Financial_Express/3215443",
+    "datetime": "2026-05-29T01:05:17+00:00",
+    "views": "33",
+    "text": "当地州长表示，俄罗斯雅罗斯拉夫尔地区遭到无人机袭击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3215443"
+  },
+  {
     "post": "Financial_Express/3215441",
     "datetime": "2026-05-29T01:04:58+00:00",
-    "views": "1",
+    "views": "32",
     "text": "美墨启动 USMCA 修订谈判，美国寻求强化汽车和钢铁原产地规则\n美国和墨西哥谈判代表周四启动修订北美贸易协定的正式谈判。华盛顿方面要求实施更严格的区域原产地规则，其中包括对在墨西哥生产的汽车和卡车设定美国特定最低含量标准。两位了解美国谈判立场的消息人士称，这一新标准已被写入拟议的《美墨加协定》(USMCA)修订文本中。虽然美国贸易代表办公室要求的美国汽车零部件含量具体比例尚未立即公布，但与现行《美墨加协定》中关于享受北美市场优惠准入的含量要求相比，这一调整变化较大。美国贸易代表办公室周三表示，美国和墨西哥将加拿大排除在当前谈判之外，计划在 7 月底前举行三轮双边磋商，其中包括在墨西哥城举行、将于周五结束的本轮谈判。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3215442",
     "datetime": "2026-05-29T01:04:58+00:00",
-    "views": "1",
+    "views": "33",
     "text": "华为推出星河 AI 数据中心网络方案 Token 生产效率提升 2~5 倍\n华为推出星河 AI 数据中心网络方案，依托网算存协同能力，NPU 与存储直通使传输带宽提升 8 倍，Token 生产效率提升 2~5 倍。此外，华为还面向商业与分销市场发布以 Token 为中心的系列解决方案及 45 款华为坤灵数通新品。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3215440",
     "datetime": "2026-05-29T01:03:57+00:00",
-    "views": "1",
+    "views": "32",
     "text": "广发证券：网络传输环节的液冷交换机、液冷光模块迎来大量新增需求\n金十数据 5 月 29 日讯，广发证券研报认为，液冷行业整体规模持续扩容，应用场景不断拓宽，市场份额也逐步向头部企业集中。数据中心是液冷最主要的落地场景，伴随智算中心快速发展，网络传输环节的液冷交换机、液冷光模块也迎来大量新增需求。后续建议关注两大方向：整线方案/服务器整机供应商和关键设备核心供应商。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3215428",
     "datetime": "2026-05-29T01:00:19+00:00",
-    "views": "33",
+    "views": "34",
     "text": "商品期货开盘\n锡连续涨 2.38%，白银连续涨 2.29%，20 号胶连续涨 1.94%，碳酸锂连续涨 1.70%，黄金连续涨 1.68%。",
     "media_only": false,
     "image_url": null,
@@ -52729,14 +52774,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3209553"
-  },
-  {
-    "post": "Financial_Express/3209552",
-    "datetime": "2026-05-27T01:06:17+00:00",
-    "views": "131",
-    "text": "布伦特原油日内跌 1%，现报 95.64 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3209552"
   }
 ]
