@@ -1,5 +1,25 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-05-29T01:45:17.556118+00:00","clsvipUpdated":"2026-05-29T01:45:24.304338+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">5月29日</h2><div class="feed"><article class="item" data-search="澳大利亚 s&#38;p/asx 200 指数上涨 1%至 8,679 点。"><div class="time">09:44</div><div class="content"><div class="text" data-full="澳大利亚 S&#38;P/ASX 200 指数上涨 1%至 8,679 点。" data-short="澳大利亚 S&#38;P/ASX 200 指数上涨 1%至 8,679 点。">澳大利亚 S&amp;P/ASX 200 指数上涨 1%至 8,679 点。</div></div></article><article class="item" data-search="a 股煤炭概念持续拉升，华电能源、合锻智能涨停，林州重机、安泰集团、上海能源等个股跟涨。"><div class="time">09:44</div><div class="content"><div class="text" data-full="A 股煤炭概念持续拉升，华电能源、合锻智能涨停，林州重机、安泰集团、上海能源等个股跟涨。" data-short="A 股煤炭概念持续拉升，华电能源、合锻智能涨停，林州重机、安泰集团、上海能源等个股跟涨。">A 股煤炭概念持续拉升，华电能源、合锻智能涨停，林州重机、安泰集团、上海能源等个股跟涨。</div></div></article><article class="item" data-search="短剧概念盘初活跃 引力传媒涨停
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-05-29T01:47:19.423991+00:00","clsvipUpdated":"2026-05-29T01:47:30.826502+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">5月29日</h2><div class="feed"><article class="item" data-search="港股内房股持续拉升，碧桂园涨近 30%
+港股内房股持续拉升，碧桂园涨近 30%，融创中国涨近 15%，万科企业、龙湖集团、融信中国跟涨。"><div class="time">09:46</div><div class="content"><div class="text" data-full="港股内房股持续拉升，碧桂园涨近 30%
+港股内房股持续拉升，碧桂园涨近 30%，融创中国涨近 15%，万科企业、龙湖集团、融信中国跟涨。" data-short="港股内房股持续拉升，碧桂园涨近 30%
+港股内房股持续拉升，碧桂园涨近 30%，融创中国涨近 15%，万科企业、龙湖集团、融信中国跟涨。">港股内房股持续拉升，碧桂园涨近 30%
+港股内房股持续拉升，碧桂园涨近 30%，融创中国涨近 15%，万科企业、龙湖集团、融信中国跟涨。</div></div></article><article class="item" data-search="据港交所文件：地上铁绿色科技（深圳）股份有限公司向港交所提交上市申请书。"><div class="time">09:46</div><div class="content"><div class="text" data-full="据港交所文件：地上铁绿色科技（深圳）股份有限公司向港交所提交上市申请书。" data-short="据港交所文件：地上铁绿色科技（深圳）股份有限公司向港交所提交上市申请书。">据港交所文件：地上铁绿色科技（深圳）股份有限公司向港交所提交上市申请书。</div></div></article><article class="item" data-search="瑞声科技 mems 压电主动散热芯片将量产出货
+金十数据 5 月 29 日讯，瑞声科技宣布，近日，瑞声科技基于 mems 压电薄膜关键技术的 coolfan 系列主动散热芯片产品，已完成研发试制，进入小批量试产阶段，预计 2027 年初实现大批量量产出货。该产品可广泛应用于 ai 手机、智能手表、xr 眼镜及各类 ai 智能终端场景。"><div class="time">09:46</div><div class="content"><div class="text" data-full="瑞声科技 MEMS 压电主动散热芯片将量产出货
+金十数据 5 月 29 日讯，瑞声科技宣布，近日，瑞声科技基于 MEMS 压电薄膜关键技术的 CoolFan 系列主动散热芯片产品，已完成研发试制，进入小批量试产阶段，预计 2027 年初实现大批量量产出货。该产品可广泛应用于 AI 手机、智能手表、XR 眼镜及各类 AI 智能终端场景。" data-short="瑞声科技 MEMS 压电主动散热芯片将量产出货
+金十数据 5 月 29 日讯，瑞声科技宣布，近日，瑞声科技基于 MEMS 压电薄膜关键技术的 CoolFan 系列主动散热芯片产品，已完成研发试制，进入小批量试产阶段，预计 2027 年初实现大批量量产出货。该产品可广泛应用于 AI 手机、智能手表、XR 眼镜及各类 AI 智能终端场景。">瑞声科技 MEMS 压电主动散热芯片将量产出货
+金十数据 5 月 29 日讯，瑞声科技宣布，近日，瑞声科技基于 MEMS 压电薄膜关键技术的 CoolFan 系列主动散热芯片产品，已完成研发试制，进入小批量试产阶段，预计 2027 年初实现大批量量产出货。该产品可广泛应用于 AI 手机、智能手表、XR 眼镜及各类 AI 智能终端场景。</div></div></article><article class="item" data-search="瑞声科技 mems 压电主动散热芯片将量产出货
+瑞声科技宣布，近日，瑞声科技基于 mems 压电薄膜关键技术的 coolfan 系列主动散热芯片产品，已完成研发试制，进入小批量试产阶段，预计 2027 年初实现大批量量产出货。该产品可广泛应用于 ai 手机、智能手表、xr 眼镜及各类 ai 智能终端场景。"><div class="time">09:46</div><div class="content"><div class="text" data-full="瑞声科技 MEMS 压电主动散热芯片将量产出货
+瑞声科技宣布，近日，瑞声科技基于 MEMS 压电薄膜关键技术的 CoolFan 系列主动散热芯片产品，已完成研发试制，进入小批量试产阶段，预计 2027 年初实现大批量量产出货。该产品可广泛应用于 AI 手机、智能手表、XR 眼镜及各类 AI 智能终端场景。" data-short="瑞声科技 MEMS 压电主动散热芯片将量产出货
+瑞声科技宣布，近日，瑞声科技基于 MEMS 压电薄膜关键技术的 CoolFan 系列主动散热芯片产品，已完成研发试制，进入小批量试产阶段，预计 2027 年初实现大批量量产出货。该产品可广泛应用于 AI 手机、智能手表、XR 眼镜及各类 AI 智能终端场景。">瑞声科技 MEMS 压电主动散热芯片将量产出货
+瑞声科技宣布，近日，瑞声科技基于 MEMS 压电薄膜关键技术的 CoolFan 系列主动散热芯片产品，已完成研发试制，进入小批量试产阶段，预计 2027 年初实现大批量量产出货。该产品可广泛应用于 AI 手机、智能手表、XR 眼镜及各类 AI 智能终端场景。</div></div></article><article class="item" data-search="鸿海董事长称对人工智能带来的增长势头“充满信心”
+鸿海集团董事长刘扬伟周五表示，由于人工智能需求激增，他对公司的增长势头“充满信心”。作为英伟达最大的服务器制造商和苹果 最大的 iphone 组装商，该公司本月报告称，受全球对 ai 产品需求强劲的推动，其第一季度利润较去年同期增长 19%，超出市场预期。刘扬伟在年度股东大会上表示，人工智能依然备受追捧，今年各大云服务提供商的资本支出已超过 7,000 亿美元。“他们的资本支出就是我们的市场。这一数字已达 7,000 亿美元，预计明年可能达到 1 万亿美元。这让我们对未来的增长势头充满信心，”他说。"><div class="time">09:45</div><div class="content"><div class="text" data-full="鸿海董事长称对人工智能带来的增长势头“充满信心”
+鸿海集团董事长刘扬伟周五表示，由于人工智能需求激增，他对公司的增长势头“充满信心”。作为英伟达最大的服务器制造商和苹果 最大的 iPhone 组装商，该公司本月报告称，受全球对 AI 产品需求强劲的推动，其第一季度利润较去年同期增长 19%，超出市场预期。刘扬伟在年度股东大会上表示，人工智能依然备受追捧，今年各大云服务提供商的资本支出已超过 7,000 亿美元。“他们的资本支出就是我们的市场。这一数字已达 7,000 亿美元，预计明年可能达到 1 万亿美元。这让我们对未来的增长势头充满信心，”他说。" data-short="鸿海董事长称对人工智能带来的增长势头“充满信心”
+鸿海集团董事长刘扬伟周五表示，由于人工智能需求激增，他对公司的增长势头“充满信心”。作为英伟达最大的服务器制造商和苹果 最大的 iPhone 组装商，该公司本月报告称，受全球对 AI 产品需求强劲的推动，其第一季度利润较去年同期增长 19%，超出市场预期。刘扬伟在年度股东大会上表示，人工智能依然备受追捧，今年...">鸿海董事长称对人工智能带来的增长势头“充满信心”
+鸿海集团董事长刘扬伟周五表示，由于人工智能需求激增，他对公司的增长势头“充满信心”。作为英伟达最大的服务器制造商和苹果 最大的 iPhone 组装商，该公司本月报告称，受全球对 AI 产品需求强劲的推动，其第一季度利润较去年同期增长 19%，超出市场预期。刘扬伟在年度股东大会上表示，人工智能依然备受追捧，今年...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="报道称 spacex ipo 目标估值调降至至少 1.8 万亿美元
+金十数据 5 月 29 日讯，据外媒报道，知情人士透露，马斯克旗下 spacex 目前在首次公开募股（ipo）中寻求至少 1.8 万亿美元估值，低于此前报道称的 2 万亿美元。知情人士表示，在与顾问及投资者磋商后，spacex 已将目标下调。ipo 的发行规模和估值等细节通常会根据利益相关方反馈，在最终定价前进行调整。报道称 spacex 最快将于 6 月 4 日启动正式路演，并可能最早于 6 月 11 日完成定价，实际交易时间表可能推迟数日。相关讨论仍在进行中，公司可能根据路演期间投资者反馈进一步上调目标估值。根据招股文件，spacex 2025 年营收为 187 亿美元，高于前一年的 140 亿美元。同期公司业绩由 2024 年盈利 7.91 亿美元转为 2025 年亏损 49.4 亿美元。公司今年 2 月宣布收购马斯克旗下 xai，这笔交易当时给予 spacex 约 1 万亿美元估值，而 xai 估值约 2500 亿美元。"><div class="time">09:45</div><div class="content"><div class="text" data-full="报道称 SpaceX IPO 目标估值调降至至少 1.8 万亿美元
+金十数据 5 月 29 日讯，据外媒报道，知情人士透露，马斯克旗下 SpaceX 目前在首次公开募股（IPO）中寻求至少 1.8 万亿美元估值，低于此前报道称的 2 万亿美元。知情人士表示，在与顾问及投资者磋商后，SpaceX 已将目标下调。IPO 的发行规模和估值等细节通常会根据利益相关方反馈，在最终定价前进行调整。报道称 SpaceX 最快将于 6 月 4 日启动正式路演，并可能最早于 6 月 11 日完成定价，实际交易时间表可能推迟数日。相关讨论仍在进行中，公司可能根据路演期间投资者反馈进一步上调目标估值。根据招股文件，SpaceX 2025 年营收为 187 亿美元，高于前一年的 140 亿美元。同期公司业绩由 2024 年盈利 7.91 亿美元转为 2025 年亏损 49.4 亿美元。公司今年 2 月宣布收购马斯克旗下 xAI，这笔交易当时给予 SpaceX 约 1 万亿美元估值，而 xAI 估值约 2500 亿美元。" data-short="报道称 SpaceX IPO 目标估值调降至至少 1.8 万亿美元
+金十数据 5 月 29 日讯，据外媒报道，知情人士透露，马斯克旗下 SpaceX 目前在首次公开募股（IPO）中寻求至少 1.8 万亿美元估值，低于此前报道称的 2 万亿美元。知情人士表示，在与顾问及投资者磋商后，SpaceX 已将目标下调。IPO 的发行规模和估值等细节通常会根据利益相关方...">报道称 SpaceX IPO 目标估值调降至至少 1.8 万亿美元
+金十数据 5 月 29 日讯，据外媒报道，知情人士透露，马斯克旗下 SpaceX 目前在首次公开募股（IPO）中寻求至少 1.8 万亿美元估值，低于此前报道称的 2 万亿美元。知情人士表示，在与顾问及投资者磋商后，SpaceX 已将目标下调。IPO 的发行规模和估值等细节通常会根据利益相关方...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="澳大利亚 s&#38;p/asx 200 指数上涨 1%至 8,679 点。"><div class="time">09:44</div><div class="content"><div class="text" data-full="澳大利亚 S&#38;P/ASX 200 指数上涨 1%至 8,679 点。" data-short="澳大利亚 S&#38;P/ASX 200 指数上涨 1%至 8,679 点。">澳大利亚 S&amp;P/ASX 200 指数上涨 1%至 8,679 点。</div></div></article><article class="item" data-search="a 股煤炭概念持续拉升，华电能源、合锻智能涨停，林州重机、安泰集团、上海能源等个股跟涨。"><div class="time">09:44</div><div class="content"><div class="text" data-full="A 股煤炭概念持续拉升，华电能源、合锻智能涨停，林州重机、安泰集团、上海能源等个股跟涨。" data-short="A 股煤炭概念持续拉升，华电能源、合锻智能涨停，林州重机、安泰集团、上海能源等个股跟涨。">A 股煤炭概念持续拉升，华电能源、合锻智能涨停，林州重机、安泰集团、上海能源等个股跟涨。</div></div></article><article class="item" data-search="短剧概念盘初活跃 引力传媒涨停
 早盘短剧概念活跃，引力传媒涨停，欢瑞世纪、天地在线、百纳千成、元隆雅图等跟涨。"><div class="time">09:44</div><div class="content"><div class="text" data-full="短剧概念盘初活跃 引力传媒涨停
 早盘短剧概念活跃，引力传媒涨停，欢瑞世纪、天地在线、百纳千成、元隆雅图等跟涨。" data-short="短剧概念盘初活跃 引力传媒涨停
 早盘短剧概念活跃，引力传媒涨停，欢瑞世纪、天地在线、百纳千成、元隆雅图等跟涨。">短剧概念盘初活跃 引力传媒涨停
@@ -699,73 +719,7 @@ CPO 概念再度走强，联特科技、凯格精机涨超 10%，天孚通信、
 5 月 28 日，由深交所主办的 2026 全球投资者大会在深圳举行。多位与会嘉宾表示，面对全球市场波动，中国资产展现出较强的抗风险韧性，同时中国科技产业发展日新月异，正持续重塑全球投资者的认知，中国资产有望迎来外资增配黄金期。（中证报）"><div class="time">06:32</div><div class="content"><div class="text" data-full="2026 全球投资者大会与会嘉宾：中国资产有望迎来外资增配黄金期
 5 月 28 日，由深交所主办的 2026 全球投资者大会在深圳举行。多位与会嘉宾表示，面对全球市场波动，中国资产展现出较强的抗风险韧性，同时中国科技产业发展日新月异，正持续重塑全球投资者的认知，中国资产有望迎来外资增配黄金期。（中证报）" data-short="2026 全球投资者大会与会嘉宾：中国资产有望迎来外资增配黄金期
 5 月 28 日，由深交所主办的 2026 全球投资者大会在深圳举行。多位与会嘉宾表示，面对全球市场波动，中国资产展现出较强的抗风险韧性，同时中国科技产业发展日新月异，正持续重塑全球投资者的认知，中国资产有望迎来外资增配黄金期。（中证报）">2026 全球投资者大会与会嘉宾：中国资产有望迎来外资增配黄金期
-5 月 28 日，由深交所主办的 2026 全球投资者大会在深圳举行。多位与会嘉宾表示，面对全球市场波动，中国资产展现出较强的抗风险韧性，同时中国科技产业发展日新月异，正持续重塑全球投资者的认知，中国资产有望迎来外资增配黄金期。（中证报）</div></div></article><article class="item" data-search="周五重要财经信息提醒（以下均为北京时间）
-
-① 07:30 日本 4 月失业率，5 月东京 cpi；
-② 07:50 日本 4 月工业产出初值；
-③ 12:00 美国旧金山联储主席戴利（2027 年 fomc 票委）在里根国家经济论坛（rnef）讲话；
-④ 14:00 美国明尼阿波利斯联储主席卡什卡利（neel kashkari）表在韩国一场活动上讲话；
-⑤ 14:45 法国 5 月 cpi 初值，一季度 gdp 终值；
-⑥ 15:55 德国 5 月失业人数；
-⑦ 16:30 欧洲央行执委 panetta 讲话；
-⑧ 17:10 英国央行行长贝利在冰岛 reykjavik economic conference 讲话；
-⑨ 18:30 印度一季度 gdp；
-⑩ 18:50 美国堪萨斯城联储主席 schmid 在冰岛 reykjavik 讲话；
-19:15 欧洲央行管委 radev 讲话；
-19:45 美国旧金山联储主席戴利（2027 年 fomc 票委）接受福克斯商业新闻采访；
-20:00 德国 5 月 cpi 初值；
-20:30 美国 4 月商品贸易帐、4 月批发库存初值，加拿大一季度 gdp；
-21:10 美联储理事、负责金融监管事务的副主席鲍曼在冰岛 reykjavik 讲话；
-21:15 美国费城联储主席 anna paulson（2026 年 fomc 票委）谈论经济前景；
-21:35 欧洲央行管委 muller 讲话；
-次日 00:40 美国旧金山联储主席戴利（2027 年 fomc 票委）讲话；
-周六 星河动力·智神星一号或首飞；
-周日 09:30 中国 5 月官方制造业、非制造业、综合 pmi。"><div class="time">06:32</div><div class="content"><div class="text" data-full="周五重要财经信息提醒（以下均为北京时间）
-
-① 07:30 日本 4 月失业率，5 月东京 CPI；
-② 07:50 日本 4 月工业产出初值；
-③ 12:00 美国旧金山联储主席戴利（2027 年 FOMC 票委）在里根国家经济论坛（RNEF）讲话；
-④ 14:00 美国明尼阿波利斯联储主席卡什卡利（Neel Kashkari）表在韩国一场活动上讲话；
-⑤ 14:45 法国 5 月 CPI 初值，一季度 GDP 终值；
-⑥ 15:55 德国 5 月失业人数；
-⑦ 16:30 欧洲央行执委 Panetta 讲话；
-⑧ 17:10 英国央行行长贝利在冰岛 Reykjavik Economic Conference 讲话；
-⑨ 18:30 印度一季度 GDP；
-⑩ 18:50 美国堪萨斯城联储主席 Schmid 在冰岛 Reykjavik 讲话；
-19:15 欧洲央行管委 Radev 讲话；
-19:45 美国旧金山联储主席戴利（2027 年 FOMC 票委）接受福克斯商业新闻采访；
-20:00 德国 5 月 CPI 初值；
-20:30 美国 4 月商品贸易帐、4 月批发库存初值，加拿大一季度 GDP；
-21:10 美联储理事、负责金融监管事务的副主席鲍曼在冰岛 Reykjavik 讲话；
-21:15 美国费城联储主席 Anna Paulson（2026 年 FOMC 票委）谈论经济前景；
-21:35 欧洲央行管委 Muller 讲话；
-次日 00:40 美国旧金山联储主席戴利（2027 年 FOMC 票委）讲话；
-周六 星河动力·智神星一号或首飞；
-周日 09:30 中国 5 月官方制造业、非制造业、综合 PMI。" data-short="周五重要财经信息提醒（以下均为北京时间）
-
-① 07:30 日本 4 月失业率，5 月东京 CPI；
-② 07:50 日本 4 月工业产出初值；
-③ 12:00 美国旧金山联储主席戴利（2027 年 FOMC 票委）在里根国家经济论坛（RNEF）讲话；
-④ 14:00 美国明尼阿波利斯联储主席卡什卡利（Neel Kashkari）表在韩国一场活动上讲话；
-⑤...">周五重要财经信息提醒（以下均为北京时间）
-
-① 07:30 日本 4 月失业率，5 月东京 CPI；
-② 07:50 日本 4 月工业产出初值；
-③ 12:00 美国旧金山联储主席戴利（2027 年 FOMC 票委）在里根国家经济论坛（RNEF）讲话；
-④ 14:00 美国明尼阿波利斯联储主席卡什卡利（Neel Kashkari）表在韩国一场活动上讲话；
-⑤...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="美国副总统万斯称现在判断能否与伊朗达成协议还为时过早
-根据白宫记者团报道，美国副总统 jd·万斯表示，现在判断与伊朗的协议“何时或是否”能够达成还为时过早。万斯表示，目前很难确定何时会签署谅解备忘录，甚至能否签署都尚无定论。双方正就部分措辞反复磋商，谈判已取得不少进展。显然，伊朗方面希望达成协议，也有意打通霍尔木兹海峡航道，这同样也是我方的诉求。 目前仍有几项分歧待解决，涉及核相关议题、高浓缩铀库存以及铀浓缩活动等问题，双方仍在就此沟通。我们认为，至少到目前为止，伊朗谈判态度诚恳，谈判整体在稳步推进，希望后续能继续取得突破。特朗普届时或将表态支持相关协议，但最终结果仍有待观察。"><div class="time">06:27</div><div class="content"><div class="text" data-full="美国副总统万斯称现在判断能否与伊朗达成协议还为时过早
-根据白宫记者团报道，美国副总统 JD·万斯表示，现在判断与伊朗的协议“何时或是否”能够达成还为时过早。万斯表示，目前很难确定何时会签署谅解备忘录，甚至能否签署都尚无定论。双方正就部分措辞反复磋商，谈判已取得不少进展。显然，伊朗方面希望达成协议，也有意打通霍尔木兹海峡航道，这同样也是我方的诉求。 目前仍有几项分歧待解决，涉及核相关议题、高浓缩铀库存以及铀浓缩活动等问题，双方仍在就此沟通。我们认为，至少到目前为止，伊朗谈判态度诚恳，谈判整体在稳步推进，希望后续能继续取得突破。特朗普届时或将表态支持相关协议，但最终结果仍有待观察。" data-short="美国副总统万斯称现在判断能否与伊朗达成协议还为时过早
-根据白宫记者团报道，美国副总统 JD·万斯表示，现在判断与伊朗的协议“何时或是否”能够达成还为时过早。万斯表示，目前很难确定何时会签署谅解备忘录，甚至能否签署都尚无定论。双方正就部分措辞反复磋商，谈判已取得不少进展。显然，伊朗方面希望达成协议，也有意打通霍尔木兹海峡航道，这同样也是我方的诉求。 目前仍有几...">美国副总统万斯称现在判断能否与伊朗达成协议还为时过早
-根据白宫记者团报道，美国副总统 JD·万斯表示，现在判断与伊朗的协议“何时或是否”能够达成还为时过早。万斯表示，目前很难确定何时会签署谅解备忘录，甚至能否签署都尚无定论。双方正就部分措辞反复磋商，谈判已取得不少进展。显然，伊朗方面希望达成协议，也有意打通霍尔木兹海峡航道，这同样也是我方的诉求。 目前仍有几...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="戴尔(dell.n)盘后持续走高，涨幅扩大至 37%，此前公布第一财季业绩远超预期。"><div class="time">06:24</div><div class="content"><div class="text" data-full="戴尔(DELL.N)盘后持续走高，涨幅扩大至 37%，此前公布第一财季业绩远超预期。" data-short="戴尔(DELL.N)盘后持续走高，涨幅扩大至 37%，此前公布第一财季业绩远超预期。">戴尔(DELL.N)盘后持续走高，涨幅扩大至 37%，此前公布第一财季业绩远超预期。</div></div></article><article class="item" data-search="伦敦金失守 4400 美元，银行积存金限制未“松绑”
-黄金走势进入下行通道。截至 5 月 28 日 17 时 20 分，伦敦金报 4395.26 美元/盎司，跌 1.36%，盘中创两个月以来新低。同时，多家银行近期动态调整积存金业务风险等级，但并未实质性“松绑”。某股份行的贵金属业务负责人告诉记者，5 月以来，客户多持观望态度，买卖需求不足，二季度积存金业务量明显下滑。（上证报）"><div class="time">06:22</div><div class="content"><div class="text" data-full="伦敦金失守 4400 美元，银行积存金限制未“松绑”
-黄金走势进入下行通道。截至 5 月 28 日 17 时 20 分，伦敦金报 4395.26 美元/盎司，跌 1.36%，盘中创两个月以来新低。同时，多家银行近期动态调整积存金业务风险等级，但并未实质性“松绑”。某股份行的贵金属业务负责人告诉记者，5 月以来，客户多持观望态度，买卖需求不足，二季度积存金业务量明显下滑。（上证报）" data-short="伦敦金失守 4400 美元，银行积存金限制未“松绑”
-黄金走势进入下行通道。截至 5 月 28 日 17 时 20 分，伦敦金报 4395.26 美元/盎司，跌 1.36%，盘中创两个月以来新低。同时，多家银行近期动态调整积存金业务风险等级，但并未实质性“松绑”。某股份行的贵金属业务负责人告诉记者，5 月以来，客户多持观望态度，买卖需求不足，二季度积存金业务...">伦敦金失守 4400 美元，银行积存金限制未“松绑”
-黄金走势进入下行通道。截至 5 月 28 日 17 时 20 分，伦敦金报 4395.26 美元/盎司，跌 1.36%，盘中创两个月以来新低。同时，多家银行近期动态调整积存金业务风险等级，但并未实质性“松绑”。某股份行的贵金属业务负责人告诉记者，5 月以来，客户多持观望态度，买卖需求不足，二季度积存金业务...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="戴尔股价涨幅扩大至 35%。"><div class="time">06:20</div><div class="content"><div class="text" data-full="戴尔股价涨幅扩大至 35%。" data-short="戴尔股价涨幅扩大至 35%。">戴尔股价涨幅扩大至 35%。</div></div></article><article class="item" data-search="哥伦比亚矿业协会通报紫金矿业武里蒂卡金矿遭遇袭击
-哥伦比亚全国矿业协会于周四通报，紫金矿业旗下武里蒂卡金矿发生袭击事件，造成一名工人死亡、一人受伤。"><div class="time">06:15</div><div class="content"><div class="text" data-full="哥伦比亚矿业协会通报紫金矿业武里蒂卡金矿遭遇袭击
-哥伦比亚全国矿业协会于周四通报，紫金矿业旗下武里蒂卡金矿发生袭击事件，造成一名工人死亡、一人受伤。" data-short="哥伦比亚矿业协会通报紫金矿业武里蒂卡金矿遭遇袭击
-哥伦比亚全国矿业协会于周四通报，紫金矿业旗下武里蒂卡金矿发生袭击事件，造成一名工人死亡、一人受伤。">哥伦比亚矿业协会通报紫金矿业武里蒂卡金矿遭遇袭击
-哥伦比亚全国矿业协会于周四通报，紫金矿业旗下武里蒂卡金矿发生袭击事件，造成一名工人死亡、一人受伤。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">5月29日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】aidc持续火爆，该新技术成为细分领域新风口，当前行业处于从0到1起点，2026年有望实现产品验证与送样，或将带来估值重塑最大弹性，这家企业一季度在手订单近100亿
+5 月 28 日，由深交所主办的 2026 全球投资者大会在深圳举行。多位与会嘉宾表示，面对全球市场波动，中国资产展现出较强的抗风险韧性，同时中国科技产业发展日新月异，正持续重塑全球投资者的认知，中国资产有望迎来外资增配黄金期。（中证报）</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">5月29日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】aidc持续火爆，该新技术成为细分领域新风口，当前行业处于从0到1起点，2026年有望实现产品验证与送样，或将带来估值重塑最大弹性，这家企业一季度在手订单近100亿
 
 #金盘科技
 #望变电气"> <div class="time">09:44</div> <div class="content"> <div class="text">【盘中宝】AIDC持续火爆，该新技术成为细分领域新风口，当前行业处于从0到1起点，2026年有望实现产品验证与送样，或将带来估值重塑最大弹性，这家企业一季度在手订单近100亿
