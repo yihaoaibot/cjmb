@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3215648",
+    "datetime": "2026-05-29T02:24:18+00:00",
+    "views": "1",
+    "text": "印尼盾兑美元下跌 0.5%，至 17860，触及历史新低。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3215648"
+  },
+  {
+    "post": "Financial_Express/3215647",
+    "datetime": "2026-05-29T02:23:37+00:00",
+    "views": "31",
+    "text": "印尼盾兑美元汇率下跌约 0.5%，至 17,860 的历史新低。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3215647"
+  },
+  {
     "post": "Financial_Express/3215646",
     "datetime": "2026-05-29T02:23:17+00:00",
-    "views": "1",
+    "views": "31",
     "text": "沪深两市成交额超 1.5 万亿元，较上日此时放量 2651 亿元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3215645",
     "datetime": "2026-05-29T02:22:37+00:00",
-    "views": "1",
+    "views": "31",
     "text": "英特尔扩产 EMIB 封装产能 推进大规模材料、零部件、设备采购订单\n英特尔正大规模投资先进半导体封装，加速其晶圆代工业务复兴。据 28 日业界消息，英特尔目前正面向全球供应链合作伙伴推进大规模“材料、零部件、设备”采购订单，多项供应合同已签订完成。一位熟悉内情的业内人士表示，“目前先进封装设备投资规模达数万亿韩元。”此次投资重点聚焦于扩大“EMIB（Embedded Multi-die Interconnect Bridge，嵌入式多芯片互连桥）”产能。英特尔目前还在推进 EMIB 技术升级，包括在桥接结构中引入硅通孔（TSV）技术的“EMIB-T”，以及融合玻璃基板的封装方案等。 (ETNews)",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3215644",
     "datetime": "2026-05-29T02:21:18+00:00",
-    "views": "32",
+    "views": "62",
     "text": "印尼股市基准指数上涨 1%至 6191.40 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3215643",
     "datetime": "2026-05-29T02:20:18+00:00",
-    "views": "32",
+    "views": "62",
     "text": "阿里速卖通与巴西邮政签署 MOU，加速本地物流网络建设\n5 月 28 日，阿里旗下跨境电商平台速卖通 AliExpress 与巴西邮政正式签署谅解备忘录（MOU），在巴西市场展开更深度的战略合作，包括偏远地区配送拓展、末端配送能力提升、消费者体验优化等。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3215642",
     "datetime": "2026-05-29T02:18:58+00:00",
-    "views": "64",
+    "views": "94",
     "text": "亚马逊创始人贝佐斯：（谈蓝色起源事件）所有人员均已确认安全。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3215641",
     "datetime": "2026-05-29T02:18:38+00:00",
-    "views": "64",
+    "views": "94",
     "text": "亚马逊创始人贝佐斯：（谈蓝色起源事件）我们将重建所有需要重建的部分，并恢复飞行。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3215640",
     "datetime": "2026-05-29T02:18:37+00:00",
-    "views": "64",
+    "views": "94",
     "text": "亚马逊创始人贝佐斯：（谈蓝色起源事件）现在判断根本原因还为时尚早，但我们已经在努力寻找。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3215639",
     "datetime": "2026-05-29T02:17:38+00:00",
-    "views": "95",
+    "views": "125",
     "text": "台湾加权指数延续开盘涨势，最新上涨 2.3%，报 44648.69；台积电上涨 3.05%；鸿海上涨 5.7%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3215638",
     "datetime": "2026-05-29T02:17:17+00:00",
-    "views": "95",
+    "views": "125",
     "text": "贝索斯谈蓝色起源事故：凡是需要重建的我们都会重建，之后恢复飞行试验。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3215636",
     "datetime": "2026-05-29T02:16:58+00:00",
-    "views": "94",
+    "views": "124",
     "text": "欧盟或将与 Anthropic 洽谈获取 Mythos 模型访问权限\n据报道，欧盟委员会官员正计划与 Anthropic 会面，以获取有关该公司 Mythos 模型的更多信息。自 Anthropic 透露该模型极度擅长寻找网络漏洞并可能构成重大网络安全风险以来，欧盟一直在推动获取 Mythos 的访问权限。据知情人士透露，欧盟获取 Mythos 访问权限的任何最终决定，可能都需要获得美国政府的批准。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3215637",
     "datetime": "2026-05-29T02:16:58+00:00",
-    "views": "219",
+    "views": "249",
     "text": "大消费板块持续走强 交大昂立等多股涨停\n大消费板块盘中持续走强，零售、食品饮料、服装等方向均表现不俗，交大昂立、百大集团、九牧王、东百集团、宁波中百、步步高等多股涨停，西部牧业、中国中免、一致魔芋、酒鬼酒等涨逾 5%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3215635",
     "datetime": "2026-05-29T02:16:18+00:00",
-    "views": "94",
+    "views": "124",
     "text": "台积电股价上涨 3.05%。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3215629",
     "datetime": "2026-05-29T02:13:38+00:00",
-    "views": "94",
+    "views": "124",
     "text": "特斯拉 Robotaxi 自我认证为 L4 级\n得克萨斯州一项针对商业无人驾驶车辆的新法规于当地时间 2026 年 5 月 28 日正式生效。 基于这一法规，特斯拉已将其 Robotaxi 自我认证为 L4 级自动驾驶，为旗下的 Cybercab 车型在公共道路上开展完全无人驾驶运营铺平了道路。 这项德州参议院第 2807 号法案要求商业自动驾驶客运或货运服务的运营商获得德州机动车管理局（TxDMV）的授权。新法律框架允许没有方向盘或踏板等传统操控装置的车辆在公共道路上进行完全无人驾驶运营。 为获得州政府批准，运营商须自行认证其车辆遵守州交通法规、配备车载记录设备、符合联邦安全标准，并在系统故障时能够自动达到最小风险状态以安全停车。 特斯拉官方表示，新的 L4 认证仅适用于特斯拉的商业车队运营，不会改变消费者自有车辆中目前使用的 L2 级 FSD 监督版软件的法律地位。",
     "media_only": false,
     "image_url": null,
@@ -52135,23 +52153,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3209823"
-  },
-  {
-    "post": "Financial_Express/3209822",
-    "datetime": "2026-05-27T02:24:38+00:00",
-    "views": "95",
-    "text": "奇富科技：累计注册用户数达 2.98 亿，同比增长 11%\n5 月 27 日，奇富科技发布的 2026 年一季报显示，截至 3 月末，该公司累计服务 167 家金融机构，注册用户数达到 2.98 亿，同比增长 11%。累计授信用户数增至 6480 万人，同比增长 10.9%，累计借贷用户数也达到 3950 万，同比增长 11%。该公司在财报中表示，受行业调整与主动优化业务结构策略影响，平台撮合放款 650 亿元，环比下降 7.5%，同比下降 26.8%。截至 3 月末，在贷余额为 1144 亿元，较上季度末降低 9.2%，同比下滑 18.5%。财务表现方面，一季度营收为 39.1 亿元，同比下降 16.7%；净利润（非通用会计准则）9.5 亿元，同比下降 51%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3209822"
-  },
-  {
-    "post": "Financial_Express/3209821",
-    "datetime": "2026-05-27T02:23:57+00:00",
-    "views": "95",
-    "text": "英伟达(NVDA.O)首席执行官：在中国台湾的总部将于 2026 年破土动工，预计 2030 年前搬入。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3209821"
   }
 ]
