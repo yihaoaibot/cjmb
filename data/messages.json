@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3220440",
+    "datetime": "2026-06-01T05:26:57+00:00",
+    "views": "3",
+    "text": "英伟达(NVDA.O)：台积电(TSM.N)正在探索使用英伟达 Omniverse 库构建 FabTwin 虚拟晶圆厂环境，并使用英伟达 Metropolis 和 TAO 工具套件推进缺陷检测。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3220440"
+  },
+  {
+    "post": "Financial_Express/3220438",
+    "datetime": "2026-06-01T05:26:37+00:00",
+    "views": "6",
+    "text": "英伟达称富士康已将英伟达人工智能技术部署至台湾多家顶尖医疗中心。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3220438"
+  },
+  {
+    "post": "Financial_Express/3220439",
+    "datetime": "2026-06-01T05:26:37+00:00",
+    "views": "5",
+    "text": "南向资金净买入额达 70 亿港元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3220439"
+  },
+  {
+    "post": "Financial_Express/3220437",
+    "datetime": "2026-06-01T05:25:37+00:00",
+    "views": "10",
+    "text": "英伟达(NVDA.O)：台积电(TSM.N)使用英伟达 CUDA-X 库和 AI 模型加速英伟达 GPU 上的工作负载。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3220437"
+  },
+  {
+    "post": "Financial_Express/3220436",
+    "datetime": "2026-06-01T05:25:18+00:00",
+    "views": "43",
+    "text": "软银集团股价涨幅扩大至 13.4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3220436"
+  },
+  {
+    "post": "Financial_Express/3220435",
+    "datetime": "2026-06-01T05:25:17+00:00",
+    "views": "42",
+    "text": "英伟达(NVDA.O)：台积电(TSM.N) 利用英伟达技术提升先进晶圆厂的周转时间、能效、良率和运营生产力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3220435"
+  },
+  {
+    "post": "Financial_Express/3220434",
+    "datetime": "2026-06-01T05:24:57+00:00",
+    "views": "41",
+    "text": "浙江：拟实施“星火计划”培育未来产业行动 加速量子技术产品规模化应用\n《浙江省实施“星火计划”培育壮大未来产业行动方案（2026—2030 年）（征求意见稿）》公开征求意见，提到重点发展具身智能、生物制造、量子科技、脑机接口、氢能和绿色燃料、6G、前沿新材料、细胞与基因治疗、深海科技、空天科技等 10 个基础条件好、爆发力强的领域。其中，重点发展量子计算核心赛道，做强量子测量优势赛道，做优量子通信潜力赛道，推动量子芯片、核心器件、软件算法与场景应用协同发展，加速量子技术产品规模化应用，抢占量子科技产业发展机遇，打造全国知名的量子产业创新发展高地。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3220434"
+  },
+  {
     "post": "Financial_Express/3220433",
     "datetime": "2026-06-01T05:24:18+00:00",
-    "views": "2",
+    "views": "38",
     "text": "广州—乌鲁木齐—法兰克福航线开通 中欧往返可节省 10 余小时时长\n今天（6 月 1 日），广州—乌鲁木齐—法兰克福国际航线正式通航，这是我国西北地区首条直达德国的洲际客运航线。新航线贯通粤港澳大湾区、丝绸之路经济带核心区与欧洲腹地，搭建起高效畅通的亚欧空中互联互通通道，填补了我国西北地区无直达德国洲际客运航线的空白，为新疆向西开放搭建起全新的亚欧空中桥梁。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3220432",
     "datetime": "2026-06-01T05:24:17+00:00",
-    "views": "2",
+    "views": "36",
     "text": "A 股 PCB 概念震荡回升，圣泉集团涨停，龙旗科技、中京电子此前封板，奥士康、宏昌电子、德福科技等跟涨。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3220431",
     "datetime": "2026-06-01T05:23:59+00:00",
-    "views": "2",
+    "views": "36",
     "text": "华西证券：维持大金重工“买入”评级，价值升级打开成长蓝图\n华西证券研报指出，大金重工全球海工纵深布局，价值升级打开成长蓝图，在手订单充沛，船舶制造打造新增长极，EPCI 全产业链布局，持续构建竞争力和增量空间。持续重点看好大金重工，公司的竞争实力不断增强、市场空间进一步打开，正从过去的单一海外海风单桩龙头制造商深度转型，路径包括：EPCI 全闭环链条布局，利于进一步增强海外拿单综合实力，并打通高附加值环节，推动产品价值升级。船舶建造产能提前布局，乘行业需求景气上行周期东风，有望显著受益。布局深远海浮式基础，产品结构预计将进一步优化。整体而言，公司战略前瞻布局，有望从量价利多维度实现中枢上移，持续打开成长空间。由于公司经营持续向好且在手订单充沛，上修公司盈利预测，维持公司“买入”评级。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3220430",
     "datetime": "2026-06-01T05:23:58+00:00",
-    "views": "2",
+    "views": "37",
     "text": "华尔街大鳄警告：美股崩盘和衰退已是“定时炸弹” 可转向金银投资！\n华尔街著名经济学家、欧洲太平洋资本（EuroPacificCapital）CEO 兼首席全球策略师彼得·希夫（PeterSchiff）最新警告称，投资者们现在正一步步走进“陷阱”。他指出，随着美国股市攀升至历史新高，投资者正在忽视重大风险，并警告说，美股市场可能即将面临痛苦的清算。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3220429",
     "datetime": "2026-06-01T05:23:37+00:00",
-    "views": "1",
+    "views": "34",
     "text": "AI 应用概念持续走高，光云科技等多股涨停\nAI 应用概念持续走高，用友网络、光云科技涨停，浙大网新、税友股份、软通动力此前封板，英方软件、易点天下涨超 10%，当虹科技、合合信息、开普云、普元信息等跟涨。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3220428",
     "datetime": "2026-06-01T05:23:18+00:00",
-    "views": "2",
+    "views": "35",
     "text": "*ST 瑞茂盘中涨停，上演“地天板”\n6 月 1 日下午，*ST 瑞茂盘中涨停，上演“地天板”，成交额 7795.66 万元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3220426",
     "datetime": "2026-06-01T05:22:57+00:00",
-    "views": "32",
+    "views": "35",
     "text": "现代汽车印度公司：现有车辆库存充足，可满足客户需求。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3220427",
     "datetime": "2026-06-01T05:22:57+00:00",
-    "views": "32",
+    "views": "35",
     "text": "现代汽车印度公司：供应商工厂火灾导致现代汽车生产暂时中断。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3220425",
     "datetime": "2026-06-01T05:22:38+00:00",
-    "views": "32",
+    "views": "35",
     "text": "英伟达高管表示，英伟达还计划与美国、欧洲和韩国的人形机器人制造商开展研究型机器人合作。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3220424",
     "datetime": "2026-06-01T05:22:37+00:00",
-    "views": "33",
+    "views": "37",
     "text": "法国总统马克龙称法国海军在大西洋拦截一艘油轮\n法国总统马克龙 6 月 1 日在社交媒体发文说，法国海军 5 月 31 日在大西洋海域拦截了一艘从俄罗斯驶出的油轮。马克龙在帖文中说，上述行动在大西洋国际海域进行，获得英国等多个伙伴国家配合，行动严格遵守海洋领域相关国际法。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3220423",
     "datetime": "2026-06-01T05:22:18+00:00",
-    "views": "32",
+    "views": "36",
     "text": "港股金山软件涨近 11%\n港股金山软件涨近 11%，据 2026 年 5 月 27 日公告，公司 26Q1 业绩收入同比增长 3%至 24.17 亿元，增速由负转正；其中办公软件及服务业务收益同比增长 24%，主要受 AI 能力提升推动 WPS AI 月活用户及付费转化率增长。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3220422",
     "datetime": "2026-06-01T05:22:17+00:00",
-    "views": "32",
+    "views": "36",
     "text": "英伟达(NVDA.O)高管：英伟达计划与美国、欧洲和韩国的人形机器人制造商合作，开展研究机器人项目。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3220421",
     "datetime": "2026-06-01T05:20:58+00:00",
-    "views": "33",
+    "views": "35",
     "text": "*ST 瑞茂盘中涨停，上演“地天板”，现报 1.41 元，成交额 7804.88 万元。",
     "media_only": false,
     "image_url": null,
@@ -17944,14 +18007,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3218436"
-  },
-  {
-    "post": "Financial_Express/3218435",
-    "datetime": "2026-05-30T05:26:57+00:00",
-    "views": "129",
-    "text": "法国超半数地区刷新月度气温纪录\n金十数据 5 月 30 日讯，法国气象局 29 日说，在近日热浪中，法国超半数地区刷新了至少一项月度气温纪录，在气象史上“前所未有”。法国气象局当天继续对多地发布高温橙色预警。法国气象局说，近来法国遭遇历史同期罕见的高温天气，自 23 日起巴黎最高气温连续多日突破 32 摄氏度；5 月 26 日成为法国有记录以来 5 月最热的一天，全国范围内平均气温达 24.9 摄氏度。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3218435"
   }
 ]
