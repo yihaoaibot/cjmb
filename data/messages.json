@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3225262",
+    "datetime": "2026-06-02T17:15:18+00:00",
+    "views": "15",
+    "text": "微软发布“索拉拉计划”：芯片将运行人工智能代理而非应用程序，并直接与云计算数据中心通信。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3225262"
+  },
+  {
     "post": "Financial_Express/3225261",
     "datetime": "2026-06-02T17:14:38+00:00",
-    "views": "5",
+    "views": "16",
     "text": "微软推出面向新型人工智能终端设备的 Solara 项目。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3225260",
     "datetime": "2026-06-02T17:14:37+00:00",
-    "views": "5",
+    "views": "16",
     "text": "微软(MSFT.O)首席执行官宣布推出 AION 推理与规划模型。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3225259",
     "datetime": "2026-06-02T17:14:18+00:00",
-    "views": "9",
+    "views": "47",
     "text": "微软(MSFT.O)首席执行官宣布将 Windows AI API 扩展至更多个人电脑端。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3225258",
     "datetime": "2026-06-02T17:13:58+00:00",
-    "views": "10",
+    "views": "48",
     "text": "伊拉克内阁授权贸易部长与乌兹别克斯坦磋商，签署经贸、科教及文艺领域合作双边协定。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3225257",
     "datetime": "2026-06-02T17:13:38+00:00",
-    "views": "14",
+    "views": "50",
     "text": "以色列外交部：法国方面决定将以色列排除在欧防展之外是歧视性的、政治化的，令人深感失望的。一个声称捍卫自由和民主的国家，不能选择性地排除以色列。法国再次选择了政治而非原则。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3225255",
     "datetime": "2026-06-02T17:12:58+00:00",
-    "views": "45",
+    "views": "51",
     "text": "英伟达(NVDA.O)CEO 黄仁勋：微软(MSFT.O)部署了最多的英伟达 Blackwell 芯片。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3225256",
     "datetime": "2026-06-02T17:12:58+00:00",
-    "views": "44",
+    "views": "50",
     "text": "英伟达首席执行官黄仁勋：微软已部署数量最多的英伟达 Blackwell 芯片。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3225254",
     "datetime": "2026-06-02T17:11:18+00:00",
-    "views": "50",
+    "views": "55",
     "text": "英伟达(NVDA.O)CEO 黄仁勋：与微软(MSFT.O)的合作已实现让智能自主代理在个人电脑上运行。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3225253",
     "datetime": "2026-06-02T17:10:37+00:00",
-    "views": "52",
+    "views": "87",
     "text": "微软(MSFT.O)推出微软 Web IQ 套件，包含一系列 AI 原生 Grounding API。Web IQ 据悉是一款针对 AI 系统的搜索引擎。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3225252",
     "datetime": "2026-06-02T17:10:17+00:00",
-    "views": "52",
+    "views": "86",
     "text": "微软：Fabric 图谱功能正式商用，Fabric 规划模块将于本月晚些时候正式上线。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3225251",
     "datetime": "2026-06-02T17:09:37+00:00",
-    "views": "57",
+    "views": "61",
     "text": "特朗普：美伊对话一直在持续进行\n当地时间 6 月 2 日，美国总统特朗普表示，美国与伊朗之间的对话一直在持续进行。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3225250",
     "datetime": "2026-06-02T17:07:57+00:00",
-    "views": "60",
+    "views": "93",
     "text": "微软：适用于人工智能应用的 Azure HorizonDB PostgreSQL 数据库现已开启公开预览。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3225249",
     "datetime": "2026-06-02T17:07:37+00:00",
-    "views": "60",
+    "views": "93",
     "text": "微软：Web IQ 是面向人工智能系统的搜索引擎。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3225247",
     "datetime": "2026-06-02T17:07:18+00:00",
-    "views": "93",
+    "views": "96",
     "text": "特朗普：“美伊几日前已停止对话”是假新闻 双方对话一直在持续\n金十数据 6 月 3 日讯，美国总统特朗普在社交媒体平台上表示，有假新闻报道称伊朗与美国数日前已停止对话，这是纯属虚假和错误的。我们之间的对话一直在持续进行，包括四天前、三天前、两天前、一天前以及今天。对话将走向何方，谁也说不准，但正如我对伊朗所言：“无论如何，现在是你们达成协议的时候了。你们已经这样拖了 47 年，绝不能再让这种状况继续下去了！”",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3225248",
     "datetime": "2026-06-02T17:07:18+00:00",
-    "views": "91",
+    "views": "94",
     "text": "微软宣布推出 RayFin，一款用于将人工智能应用从原型开发落地到生产部署的开源软件开发工具包与命令行工具。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3225246",
     "datetime": "2026-06-02T17:06:37+00:00",
-    "views": "90",
+    "views": "92",
     "text": "微软：微软 Web IQ 是一套原生搭载人工智能的基准检索应用程序接口。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3225245",
     "datetime": "2026-06-02T17:06:17+00:00",
-    "views": "90",
+    "views": "92",
     "text": "微软发布微软 Web IQ 产品。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3225243",
     "datetime": "2026-06-02T17:02:58+00:00",
-    "views": "105",
+    "views": "107",
     "text": "美国总统特朗普：（与伊朗）结果如何，谁也不知道，但正如我对伊朗所说，“是时候了，无论如何，你们都需要达成协议。”",
     "media_only": false,
     "image_url": null,
@@ -164,7 +173,7 @@
   {
     "post": "Financial_Express/3225244",
     "datetime": "2026-06-02T17:02:58+00:00",
-    "views": "102",
+    "views": "104",
     "text": "英伟达首席执行官黄仁勋表示，与微软的合作已实现让智能自主代理在个人电脑上运行。",
     "media_only": false,
     "image_url": null,
