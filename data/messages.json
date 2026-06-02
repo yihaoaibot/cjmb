@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3224700",
+    "datetime": "2026-06-02T13:20:59+00:00",
+    "views": "5",
+    "text": "美国海湾地区取代波斯海湾地区成为燃料供应的摇摆者。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3224700"
+  },
+  {
+    "post": "Financial_Express/3224699",
+    "datetime": "2026-06-02T13:20:58+00:00",
+    "views": "5",
+    "text": "加拿大总理卡尼：汽车行业 50%美国本地含量规则目前正处于磋商之中。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3224699"
+  },
+  {
+    "post": "Financial_Express/3224697",
+    "datetime": "2026-06-02T13:20:41+00:00",
+    "views": "7",
+    "text": "加拿大总理卡尼表示，加拿大在与美国存在的部分贸易问题上正取得进展。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3224697"
+  },
+  {
+    "post": "Financial_Express/3224698",
+    "datetime": "2026-06-02T13:20:41+00:00",
+    "views": "7",
+    "text": "美联储哈马克：或需政策发力才能令通胀回落至 2% 目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3224698"
+  },
+  {
+    "post": "Financial_Express/3224696",
+    "datetime": "2026-06-02T13:20:40+00:00",
+    "views": "7",
+    "text": "美联储哈玛克：通胀可能需要政策的帮助才能达到 2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3224696"
+  },
+  {
+    "post": "Financial_Express/3224695",
+    "datetime": "2026-06-02T13:19:58+00:00",
+    "views": "13",
+    "text": "美联储哈马克：通胀水平居高不下、仍存上行压力且呈现全域普涨态势。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3224695"
+  },
+  {
+    "post": "Financial_Express/3224694",
+    "datetime": "2026-06-02T13:19:39+00:00",
+    "views": "45",
+    "text": "美国总统特朗普 2 日在社交媒体上发文说，任命普尔特为代理国家情报总监。（新华社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3224694"
+  },
+  {
+    "post": "Financial_Express/3224693",
+    "datetime": "2026-06-02T13:19:38+00:00",
+    "views": "45",
+    "text": "美联储哈玛克：美联储正在权衡与一场持续时间超出预期的战争相关的多种情景。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3224693"
+  },
+  {
     "post": "Financial_Express/3224691",
     "datetime": "2026-06-02T13:18:58+00:00",
-    "views": "3",
+    "views": "47",
     "text": "瑞银集团：将甲骨文(ORCL.N)目标价从 250 美元上调至 285 美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3224692",
     "datetime": "2026-06-02T13:18:58+00:00",
-    "views": "3",
+    "views": "47",
     "text": "瑞银将甲骨文目标股价从 250 美元上调至 285 美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3224689",
     "datetime": "2026-06-02T13:18:38+00:00",
-    "views": "6",
+    "views": "50",
     "text": "LME 伦铜向上触及 14000 美元/吨，最新报 14000.0 美元/吨，日内上涨 1.21%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3224690",
     "datetime": "2026-06-02T13:18:38+00:00",
-    "views": "6",
+    "views": "50",
     "text": "美国食品药品监督管理局：指南草案支持涵盖基因组编辑疗法在内的多种细胞与基因治疗产品开发。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3224687",
     "datetime": "2026-06-02T13:18:18+00:00",
-    "views": "6",
+    "views": "49",
     "text": "美联储哈玛克：主要担忧是通胀过高且仍在上升。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3224688",
     "datetime": "2026-06-02T13:18:18+00:00",
-    "views": "6",
+    "views": "49",
     "text": "卡尼表示，当前投资活动的走势仍存在一些其他波动。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3224686",
     "datetime": "2026-06-02T13:17:59+00:00",
-    "views": "8",
+    "views": "51",
     "text": "美联储哈马克：主要担忧是通胀水平过高且仍在上升。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3224685",
     "datetime": "2026-06-02T13:17:41+00:00",
-    "views": "9",
+    "views": "50",
     "text": "美国食品药品监督管理局发布指南草案，助力加速细胞与基因疗法惠及患者。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3224683",
     "datetime": "2026-06-02T13:17:40+00:00",
-    "views": "10",
+    "views": "50",
     "text": "伊媒：伊美之间的信息交流已中断数日\n金十数据 6 月 2 日讯，据伊朗媒体 Fars News 报道，一位知情人士透露，尽管一些西方媒体和官员试图将伊美国之间的信息交流过程描述为正常状态，但目前双方没有在进行信息交流。伊朗与美国之间旨在达成初步谅解备忘录的信息交流已经中断了至少数日。虽然昨晚特朗普声称与伊朗的谈判进展迅速，但该消息人士强调，伊朗发给美国的最后一条消息是关于黎巴嫩的，该消息引起了国际社会的广泛关注。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3224684",
     "datetime": "2026-06-02T13:17:40+00:00",
-    "views": "9",
+    "views": "50",
     "text": "加拿大总理卡尼表示，部分经济数据将表现参差。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3224682",
     "datetime": "2026-06-02T13:17:18+00:00",
-    "views": "12",
+    "views": "50",
     "text": "美国莱茵金属将对美国六家生产设施合计投资 4100 万美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3224681",
     "datetime": "2026-06-02T13:17:17+00:00",
-    "views": "12",
+    "views": "49",
     "text": "美国能源部宣布为两个稀土项目提供 1.34 亿美元资金。",
     "media_only": false,
     "image_url": null,
@@ -47653,14 +47725,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3219376"
-  },
-  {
-    "post": "Financial_Express/3219375",
-    "datetime": "2026-05-31T13:20:18+00:00",
-    "views": "142",
-    "text": "以色列军队：我们探测到一个可疑的空中目标，在北部地区启动警报后，此事件未造成伤亡而结束。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3219375"
   }
 ]
