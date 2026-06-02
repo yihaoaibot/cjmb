@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3225323",
+    "datetime": "2026-06-02T17:46:37+00:00",
+    "views": "2",
+    "text": "印度财政部对压花钢化玻璃征收反倾销税。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3225323"
+  },
+  {
+    "post": "Financial_Express/3225322",
+    "datetime": "2026-06-02T17:46:17+00:00",
+    "views": "2",
+    "text": "美国医疗保险和医疗补助服务中心（CMS）负责人奥兹：我怀疑有人在替特朗普做投资决策。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3225322"
+  },
+  {
+    "post": "Financial_Express/3225321",
+    "datetime": "2026-06-02T17:45:58+00:00",
+    "views": "2",
+    "text": "OpenAI：Codex For Work 现已原生支持 Zoominfo。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3225321"
+  },
+  {
     "post": "Financial_Express/3225319",
     "datetime": "2026-06-02T17:42:38+00:00",
-    "views": "4",
+    "views": "34",
     "text": "特朗普：很高兴能在白宫椭圆办公室接见弗拉维奥·博索纳罗。\n注：弗拉维奥·博索纳罗（Flávio Bolsonaro）是巴西前总统雅伊尔·博索纳罗的长子，目前为巴西联邦参议员。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3225320",
     "datetime": "2026-06-02T17:42:38+00:00",
-    "views": "4",
+    "views": "34",
     "text": "贸易商称，摩洛哥计划自 8 月 1 日起暂停征收软小麦关税。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3225318",
     "datetime": "2026-06-02T17:42:37+00:00",
-    "views": "4",
+    "views": "34",
     "text": "微软(MSFT.O)首席执行官推出一项技术，助力 OpenClaw 在 Windows 系统上顺畅运行。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3225317",
     "datetime": "2026-06-02T17:42:17+00:00",
-    "views": "5",
+    "views": "35",
     "text": "国际原子能机构总干事格罗西：伊朗此前开展的许多核活动现已停止。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3225316",
     "datetime": "2026-06-02T17:41:59+00:00",
-    "views": "5",
+    "views": "35",
     "text": "国际原子能机构总干事格罗西：对伊朗核计划的评估发生了根本性变化，因为我们正处于战争状态，且该计划已成为打击目标。",
     "media_only": false,
     "image_url": null,
@@ -51910,14 +51937,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3219527"
-  },
-  {
-    "post": "Financial_Express/3219526",
-    "datetime": "2026-05-31T17:46:17+00:00",
-    "views": "122",
-    "text": "伊朗道路与城市发展部长法尔扎内·萨德格称，美以相关行动期间，已有 50 余处公路、铁路基础设施遭到袭击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3219526"
   }
 ]
