@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3228758",
     "datetime": "2026-06-03T22:31:38+00:00",
-    "views": "51",
+    "views": "52",
     "text": "周四重要财经信息提醒（以下均为北京时间）\n \n① 时间待定 华为云计划 6 月发布 AI 全系产品，台积电年度股东大会；\n② 09:30 澳大利亚 4 月进出口与商品及服务贸易帐；\n③ 时间待定 欧洲央行进入 6 月货币政策会议之前的噤声期；\n④ 13:00 澳洲联储负责金融市场的助理主席 Christopher Kent 就 2026-27 年预算问题在参议院经济立法委员会讲话；\n⑤ 14:30 瑞士 5 月 CPI；\n⑥ 16:00 欧洲央行行长拉加德讲话；\n⑦ 时间待定 媒体称 SpaceX 将启动 IPO 路演；\n⑧ 20:30 美国 5 月 30 日当周首次申请失业救济人数，美国里士满联储主席 Barkin（2027 年 FOMC 票委）参与一场炉边闲聊；\n⑨ 22:00 美联储理事、负责金融监管事务的副主席鲍曼在美国众议院金融服务委员会讲话；\n⑩ 23:40 美国旧金山联储主席戴利（2027 年 FOMC 票委）参加彭博电视一个节目，英国央行行长贝利在投资协会年度会议上讲话；\n次日 01:00 美国堪萨斯城联储主席 Schmid 参加一场炉边闲聊；\n次日 01:10 美国旧金山联储主席戴利（2027 年 FOMC 票委）参加彭博科技峰会。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3228757",
     "datetime": "2026-06-03T22:24:57+00:00",
-    "views": "75",
+    "views": "76",
     "text": "日经期货下跌 1.0%，报 67570 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3228752",
     "datetime": "2026-06-03T22:07:17+00:00",
-    "views": "86",
+    "views": "116",
     "text": "Meta 拟推出“Hatch”人工智能智能体，月费最高 200 美元\nMeta 正考虑对旗下面向普通消费者的 OpenClaw 智能体工具新品设置最高每月 200 美元的定价。该定价目标定位激进，将对标头部 AI 大厂的高端付费产品。这款暂定名为 Hatch 的产品将采用分级定价，高端订阅档定价 199.99 美元/月。Hatch 功能覆盖面广泛：可按需编写定制软件、在用户日历创建日程、代为发送邮件。用户仅需使用日常口语提出需求，产品就能生成可正常运行的程序，和自然语言编程类应用操作逻辑一致。Hatch 推出付费高端版本后，Meta 将直面与 OpenAI、Anthropic 等 AI 企业的正面竞争，上述企业的代码生成与智能体付费产品已积累海量用户：OpenAI 的 ChatGPT 专业版、Anthropic Cladue Max 顶配套餐定价均为每月 200 美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3228749",
     "datetime": "2026-06-03T22:03:38+00:00",
-    "views": "76",
+    "views": "106",
     "text": "Meta 计划推出的“Hatch”人工智能智能体，拟每月最高收费 200 美元。",
     "media_only": false,
     "image_url": null,
@@ -55303,23 +55303,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3222584"
-  },
-  {
-    "post": "Financial_Express/3222582",
-    "datetime": "2026-06-01T22:39:38+00:00",
-    "views": "71",
-    "text": "日本自民党拟出台加密货币 ETF 相关法律框架，并推动锚定日元的稳定币落地。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222582"
-  },
-  {
-    "post": "Financial_Express/3222583",
-    "datetime": "2026-06-01T22:39:38+00:00",
-    "views": "72",
-    "text": "中国地震台网正式测定：06 月 02 日 06 时 12 分在第勒尼安海（北纬 39.30 度，东经 15.85 度）发生 6.2 级地震，震源深度 250 千米。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222583"
   }
 ]
