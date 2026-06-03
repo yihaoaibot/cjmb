@@ -1,5 +1,95 @@
 [
   {
+    "post": "Financial_Express/3227934",
+    "datetime": "2026-06-03T14:00:58+00:00",
+    "views": "3",
+    "text": "美国 4 月工厂订单月率录得 4.8%，为 2025 年 5 月以来最大增幅。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227934"
+  },
+  {
+    "post": "Financial_Express/3227932",
+    "datetime": "2026-06-03T14:00:38+00:00",
+    "views": "4",
+    "text": "美国 4 月扣除国防的工厂订单月率 4.7%，前值 0.9%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227932"
+  },
+  {
+    "post": "Financial_Express/3227933",
+    "datetime": "2026-06-03T14:00:38+00:00",
+    "views": "4",
+    "text": "宏利香港与阿里云达成战略合作，加速保险业 AI 规模化落地\n6 月 2 日，宏利旗下宏利人寿保险（国际）有限公司与阿里云智能集团在香港签署战略合作备忘录。未来，双方将围绕保险业务全场景，加速 AI 技术的规模化应用，共同探索保险行业智能化升级新路径。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227933"
+  },
+  {
+    "post": "Financial_Express/3227930",
+    "datetime": "2026-06-03T14:00:21+00:00",
+    "views": "4",
+    "text": "美国 4 月扣除运输的工厂订单月率 1.3%，前值由 1.60%修正为 1.8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227930"
+  },
+  {
+    "post": "Financial_Express/3227931",
+    "datetime": "2026-06-03T14:00:21+00:00",
+    "views": "4",
+    "text": "美国 4 月耐用品订单月率终值 8%，前值 7.90%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227931"
+  },
+  {
+    "post": "Financial_Express/3227928",
+    "datetime": "2026-06-03T14:00:20+00:00",
+    "views": "4",
+    "text": "美国 5 月 ISM 非制造业就业指数 47.9，前值 48。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227928"
+  },
+  {
+    "post": "Financial_Express/3227929",
+    "datetime": "2026-06-03T14:00:20+00:00",
+    "views": "4",
+    "text": "美国 5 月 ISM 非制造业物价指数 71.3，前值 70.7。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227929"
+  },
+  {
+    "post": "Financial_Express/3227927",
+    "datetime": "2026-06-03T14:00:19+00:00",
+    "views": "4",
+    "text": "美国 5 月 ISM 非制造业新订单指数 57.3，前值 53.5。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227927"
+  },
+  {
+    "post": "Financial_Express/3227925",
+    "datetime": "2026-06-03T13:59:38+00:00",
+    "views": "35",
+    "text": "英国外交部：对俄罗斯决定禁止包括记者在内的五名英国公民入境感到震惊。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227925"
+  },
+  {
+    "post": "Financial_Express/3227926",
+    "datetime": "2026-06-03T13:59:38+00:00",
+    "views": "35",
+    "text": "英国外交部表示：“俄罗斯禁止包括记者在内的五名英国公民入境，我们对此感到震惊愤慨。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227926"
+  },
+  {
     "post": "Financial_Express/3227924",
     "datetime": "2026-06-03T13:58:38+00:00",
     "views": "1",
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3227923",
     "datetime": "2026-06-03T13:58:19+00:00",
-    "views": "3",
+    "views": "35",
     "text": "据美国纽约联储数据，上个交易日（6 月 2 日）担保隔夜融资利率（SOFR）报 3.63%，之前一天报 3.65%。上个交易日有效的联邦基金利率报 3.62%，之前一天报 3.62%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3227921",
     "datetime": "2026-06-03T13:58:18+00:00",
-    "views": "3",
+    "views": "35",
     "text": "Alphabet(GOOG.O)：云业务订单积压同比几乎翻倍，超过 4,600 亿美元。（外媒更正：非“较上一季度”）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3227922",
     "datetime": "2026-06-03T13:58:18+00:00",
-    "views": "3",
+    "views": "35",
     "text": "美国稀土(USAR.O)下跌 4.5%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3227920",
     "datetime": "2026-06-03T13:57:59+00:00",
-    "views": "34",
+    "views": "66",
     "text": "美国稀土公司股价下跌 4.5%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3227919",
     "datetime": "2026-06-03T13:57:01+00:00",
-    "views": "35",
+    "views": "66",
     "text": "Meta 开启 AI 变现新阶段：WhatsApp 上线企业 AI 代理\n金十数据 6 月 3 日讯，据英国金融时报报道，随着 Meta 寻求为 WhatsApp 开辟新的重要收入来源，WhatsApp 企业用户未来将能够利用 AI 代理自动回复客户信息。此举是 Meta 尝试将其最新一轮数十亿美元级 AI 投入实现商业化的首批举措之一，而不仅仅依赖核心广告业务变现。Meta 推出的新产品“企业 AI 代理”在过去数月于少数市场完成测试后，目前已开始在全球范围内推广。该工具能够自动回复客户消息、向商家提供经营反馈与数据洞察，并在部分场景下无需人工介入即可完成销售转化或预约安排。未来，这项功能也将扩展至 Instagram 消息系统。 Meta CEO 马克·扎克伯格周三在伦敦举行的产品发布会上通过视频表示：“几年前我曾说过，每一家企业最终都会拥有自己的 AI 代理，就像今天每家公司都拥有电子邮箱、网站和社交媒体账号一样。而这一进程的发展速度甚至快于我的预期。”",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3227918",
     "datetime": "2026-06-03T13:57:00+00:00",
-    "views": "35",
+    "views": "36",
     "text": "美国服务业需求基本停滞 投入成本将推动通胀进一步上升\n金十数据 6 月 3 日讯，标普全球市场情报公司首席商业经济学家克里斯·威廉姆森表示，尽管美国制造业经济因战争相关供应与价格担忧而出现需求激增，并推动预防性库存积累，但服务业的情况则截然不同。过去三个月，服务业需求基本停滞，较年初显现的势头明显减弱。疲软的服务业经济正拖累整体经济增长，根据 PMI 数据，第二季度迄今年化增速仅略高于 1%。受冲击最严重的是面向消费者的行业，订单降幅达到疫情以来最大，这归因于能源价格上涨挤压消费能力，以及消费者为应对服务价格上涨而推迟支出。不过，企业服务领域订单量也较年初有所下滑，而金融服务公司则面临更高利率带来的压力。PMI 所反映的投入成本通胀加剧，预示着未来几个月消费者价格通胀将进一步上升；但另一方面，需求增长乏力及劳动力市场趋冷的迹象，或有助于缓解人们对通胀进一步加剧的担忧。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3227917",
     "datetime": "2026-06-03T13:56:20+00:00",
-    "views": "36",
+    "views": "37",
     "text": "法荷航空集团称二季度燃油成本支出大幅走高。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3227916",
     "datetime": "2026-06-03T13:55:39+00:00",
-    "views": "34",
+    "views": "65",
     "text": "皖通高速：205 国道天长段新线免费通行后，预计会对宁淮高速天长段造成分流影响\n6 月 3 日，皖通高速(600012)在 2025 年度暨 2026 年第一季度业绩说明会上表示，205 国道天长段新线的收费止期是 2026 年 12 月 31 日。根据目前政策，到期后将移交地方政府，对公司整体收入产生影响。同时，因 205 国道天长段新线与现有宁淮高速天长段线路走向相对平行，205 国道天长段新线免费通行后，预计会对宁淮高速天长段造成分流影响。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3227915",
     "datetime": "2026-06-03T13:55:17+00:00",
-    "views": "33",
+    "views": "64",
     "text": "四川路桥与山东路桥国际举行交流座谈\n6 月 2 日，四川路桥与山东路桥国际公司在成都举行交流座谈，四川路桥党委书记、董事长羊勇，山东路桥国际公司党委书记、董事长王力出席座谈并讲话。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +182,7 @@
   {
     "post": "Financial_Express/3227914",
     "datetime": "2026-06-03T13:54:38+00:00",
-    "views": "33",
+    "views": "64",
     "text": "土耳其主要股指伊斯坦布尔证券交易所 100 指数下跌 1.3%。",
     "media_only": false,
     "image_url": null,
@@ -52702,50 +52792,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3222041"
-  },
-  {
-    "post": "Financial_Express/3222040",
-    "datetime": "2026-06-01T14:00:58+00:00",
-    "views": "67",
-    "text": "俄罗斯财政官员向普京表示，目前战争开支已超出财政承受能力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222040"
-  },
-  {
-    "post": "Financial_Express/3222039",
-    "datetime": "2026-06-01T14:00:39+00:00",
-    "views": "67",
-    "text": "美国 4 月份建筑支出环比增长 0.4%；预期增长 0.2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222039"
-  },
-  {
-    "post": "Financial_Express/3222037",
-    "datetime": "2026-06-01T14:00:18+00:00",
-    "views": "69",
-    "text": "现货黄金日内跌 2%，现报 4448.64 美元/盎司。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222037"
-  },
-  {
-    "post": "Financial_Express/3222038",
-    "datetime": "2026-06-01T14:00:18+00:00",
-    "views": "68",
-    "text": "美国 ISM 制造业指数创四年新高，达到 54，高于预期的 53。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222038"
-  },
-  {
-    "post": "Financial_Express/3222036",
-    "datetime": "2026-06-01T13:59:19+00:00",
-    "views": "70",
-    "text": "现货黄金失守 4450 美元/盎司，日内跌 1.99%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222036"
   }
 ]
