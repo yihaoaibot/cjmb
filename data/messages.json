@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3227914",
+    "datetime": "2026-06-03T13:54:38+00:00",
+    "views": "1",
+    "text": "土耳其主要股指伊斯坦布尔证券交易所 100 指数下跌 1.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227914"
+  },
+  {
+    "post": "Financial_Express/3227913",
+    "datetime": "2026-06-03T13:54:21+00:00",
+    "views": "1",
+    "text": "巴基斯坦总贸易逆差可能达到 25.82 亿美元；预计为 39.75 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227913"
+  },
+  {
+    "post": "Financial_Express/3227912",
+    "datetime": "2026-06-03T13:54:20+00:00",
+    "views": "1",
+    "text": "据法新社：法国拘留俄罗斯油轮船长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227912"
+  },
+  {
+    "post": "Financial_Express/3227911",
+    "datetime": "2026-06-03T13:53:39+00:00",
+    "views": "31",
+    "text": "现货黄金短线回升 20 美元，现报 4444.64 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227911"
+  },
+  {
+    "post": "Financial_Express/3227910",
+    "datetime": "2026-06-03T13:53:18+00:00",
+    "views": "31",
+    "text": "美国能源部长赖特：伊朗危机结束后，油价将会下跌。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227910"
+  },
+  {
     "post": "Financial_Express/3227909",
     "datetime": "2026-06-03T13:52:38+00:00",
-    "views": "1",
+    "views": "61",
     "text": "ALPHABET：AI 订阅套餐业务表现格外亮眼。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3227908",
     "datetime": "2026-06-03T13:52:19+00:00",
-    "views": "1",
+    "views": "61",
     "text": "Alphabet(GOOG.O)：人工智能订阅计划表现异常出色。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3227906",
     "datetime": "2026-06-03T13:51:38+00:00",
-    "views": "31",
+    "views": "61",
     "text": "英伟达(NVDA.O)盘初跌幅达 3%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3227907",
     "datetime": "2026-06-03T13:51:38+00:00",
-    "views": "31",
+    "views": "61",
     "text": "英伟达盘初跌幅达 3%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3227905",
     "datetime": "2026-06-03T13:51:18+00:00",
-    "views": "31",
+    "views": "61",
     "text": "加拿大 5 月机动车销量同比下滑 1.7% 。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3227903",
     "datetime": "2026-06-03T13:50:59+00:00",
-    "views": "31",
+    "views": "61",
     "text": "美国三大股指走低，标普 500 指数、道指跌幅扩大至近 0.6%，纳指跌 0.8%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3227904",
     "datetime": "2026-06-03T13:50:59+00:00",
-    "views": "31",
+    "views": "61",
     "text": "苹果欧洲首家开发者中心将在德国柏林启用\n苹果公司今日宣布，将于今年晚些时候在德国柏林开设欧洲首家苹果开发者中心（Apple Developer Center）。柏林苹果开发者中心专为各种规模及处于 App 开发各个阶段的团队而设计，将作为线下会议、工作坊（workshops）和一对一预约的基地。此外，咨询区和专用实验室将由苹果专家提供多种语言的实操支持。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3227902",
     "datetime": "2026-06-03T13:50:18+00:00",
-    "views": "32",
+    "views": "62",
     "text": "标普 500 指数和纳斯达克 100 指数跌幅扩大至 0.6%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3227900",
     "datetime": "2026-06-03T13:49:18+00:00",
-    "views": "32",
+    "views": "62",
     "text": "京东开源 JoyAI-Echo 长音视频生成框架\n金十数据 6 月 3 日讯，6 月 3 日，京东推出 JoyAI-Echo 长音视频生成框架。据介绍，框架引入智能“导演助理”DirectorAgent，并内置了一个专门的记忆库，能在多镜头生成过程中，持续保存并调用角色的外观特征和说话人音色信息。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3227901",
     "datetime": "2026-06-03T13:49:18+00:00",
-    "views": "32",
+    "views": "62",
     "text": "韩国第九届地方选举进行计票\n韩国第九届地方选举和国会议员补选 3 日举行，选民将投票选出全国道、市、郡、区等各级政府负责人，以及教育监和地方议员等。同时将补选 14 名国会议员。本届选举投票时间为当地时间 6 时至 18 时。选举结果预计于 4 日凌晨揭晓。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3227898",
     "datetime": "2026-06-03T13:48:38+00:00",
-    "views": "32",
+    "views": "62",
     "text": "PVC 连续主力合约日内跌 1%，现报 4876.00 元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3227897",
     "datetime": "2026-06-03T13:48:20+00:00",
-    "views": "33",
+    "views": "63",
     "text": "Alphabet(GOOG.O)：近期每日处理的 Token 数量已超过 3 万亿。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +182,7 @@
   {
     "post": "Financial_Express/3227894",
     "datetime": "2026-06-03T13:47:18+00:00",
-    "views": "68",
+    "views": "69",
     "text": "德国经济部就美国关税劳工权益相关举措表态：我们欢迎三方谈判就欧盟落实该协定达成的政治共识，并支持欧盟相关法规尽快生效。",
     "media_only": false,
     "image_url": null,
@@ -52693,77 +52738,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3222027"
-  },
-  {
-    "post": "Financial_Express/3222026",
-    "datetime": "2026-06-01T13:54:39+00:00",
-    "views": "71",
-    "text": "以军称若真主党持续发动袭击，将打击贝鲁特郊区。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222026"
-  },
-  {
-    "post": "Financial_Express/3222025",
-    "datetime": "2026-06-01T13:54:38+00:00",
-    "views": "69",
-    "text": "德意志银行：市场对任何伊朗相关的负面消息都极为敏感\n金十数据 6 月 1 日讯，德意志银行美国利率策略主管根纳季·戈布利奇表示：“过去一周，市场对于美伊协议已达成一致的看法一直非常乐观。这使得市场对任何负面消息都极为敏感，尤其是今天有关伊朗已停止与美国进行对话的新闻报道。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222025"
-  },
-  {
-    "post": "Financial_Express/3222023",
-    "datetime": "2026-06-01T13:54:00+00:00",
-    "views": "69",
-    "text": "哥伦比亚企业在美上市股价上涨，此前右翼候选人德拉埃斯普列利亚与左翼候选人塞佩达进入总统决选。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222023"
-  },
-  {
-    "post": "Financial_Express/3222024",
-    "datetime": "2026-06-01T13:54:00+00:00",
-    "views": "69",
-    "text": "以色列要求贝鲁特南郊居民撤离。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222024"
-  },
-  {
-    "post": "Financial_Express/3222022",
-    "datetime": "2026-06-01T13:53:59+00:00",
-    "views": "71",
-    "text": "以色列要求黎巴嫩贝鲁特南部郊区居民撤离。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222022"
-  },
-  {
-    "post": "Financial_Express/3222021",
-    "datetime": "2026-06-01T13:53:39+00:00",
-    "views": "70",
-    "text": "白银连续主力合约日内跌 2%，现报 17897.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222021"
-  },
-  {
-    "post": "Financial_Express/3222019",
-    "datetime": "2026-06-01T13:53:38+00:00",
-    "views": "69",
-    "text": "伊朗暂停对话，美债下跌，交易员提高加息预期\n金十数据 6 月 1 日讯，由于美国与伊朗之间的和平谈判出现僵局的迹象，美国国债价格下跌，人们担忧高昂的能源成本将加剧通货膨胀，并促使美联储提高利率。周一的抛售导致规模达 31 万亿美元的美国国债市场的收益率上升，其中 10 年期国债的收益率上涨约 6 个基点，达到近 4.5%，而原油价格则上涨了逾 7%。对美联储政策预期最为敏感的两年期国债收益率也上涨了约 6 个基点，达到 4.07%。此前，伊朗暂停通过中间人同美国的对话，以抗议以色列的行动。交易员提高了美联储下一次行动将是加息的预期。互换市场显示，交易员们已完全定价到 2027 年 3 月将会加息一次，并且认为最早在 10 月就会加息的可能性为 50%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222019"
-  },
-  {
-    "post": "Financial_Express/3222020",
-    "datetime": "2026-06-01T13:53:38+00:00",
-    "views": "70",
-    "text": "FedEx Freight 下跌 10%后暂停交易，此前联邦快递完成对 FedEx Freight 的分拆。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222020"
   }
 ]
