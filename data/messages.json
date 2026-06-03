@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3227979",
+    "datetime": "2026-06-03T14:10:59+00:00",
+    "views": "2",
+    "text": "加拿大文化部长要求广播监管机构重新审查在线流媒体决定。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227979"
+  },
+  {
+    "post": "Financial_Express/3227980",
+    "datetime": "2026-06-03T14:10:59+00:00",
+    "views": "2",
+    "text": "美联储威廉姆斯：通胀的上行风险已增加。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227980"
+  },
+  {
+    "post": "Financial_Express/3227978",
+    "datetime": "2026-06-03T14:10:40+00:00",
+    "views": "7",
+    "text": "美联储威廉姆斯：我们将拭目以待最新关税措施的进展。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227978"
+  },
+  {
+    "post": "Financial_Express/3227976",
+    "datetime": "2026-06-03T14:10:18+00:00",
+    "views": "9",
+    "text": "美联储威廉姆斯：货币政策“正好”处于合适的位置，无需加息或降息。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227976"
+  },
+  {
+    "post": "Financial_Express/3227977",
+    "datetime": "2026-06-03T14:10:18+00:00",
+    "views": "9",
+    "text": "威廉姆斯：新增关税难以大幅拉动通胀。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227977"
+  },
+  {
+    "post": "Financial_Express/3227975",
+    "datetime": "2026-06-03T14:09:58+00:00",
+    "views": "12",
+    "text": "美联储威廉姆斯：最新关税举措的影响仍有待观察。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227975"
+  },
+  {
+    "post": "Financial_Express/3227974",
+    "datetime": "2026-06-03T14:09:39+00:00",
+    "views": "13",
+    "text": "巴西总统卢拉：如果说谁应该加征关税的话，那应该是巴西对美国加征。贸易谈判尚未完成，我们对美国贸易代表的关税提案感到惊讶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227974"
+  },
+  {
+    "post": "Financial_Express/3227973",
+    "datetime": "2026-06-03T14:09:18+00:00",
+    "views": "12",
+    "text": "巴西总统卢拉：贸易谈判尚未完成，我们对美国贸易代表的关税提案感到惊讶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227973"
+  },
+  {
     "post": "Financial_Express/3227972",
     "datetime": "2026-06-03T14:08:59+00:00",
-    "views": "1",
+    "views": "41",
     "text": "巴西总统卢拉：我们对美国贸易代表办公室的关税提案感到意外，因为贸易谈判尚未结束。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3227971",
     "datetime": "2026-06-03T14:08:58+00:00",
-    "views": "1",
+    "views": "41",
     "text": "巴西总统卢拉：如果说谁应该加征关税的话，那应该是巴西对美国加征。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3227969",
     "datetime": "2026-06-03T14:08:38+00:00",
-    "views": "2",
+    "views": "41",
     "text": "巴西总统卢拉：我们希望加强与美国的机构关系。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3227970",
     "datetime": "2026-06-03T14:08:38+00:00",
-    "views": "2",
+    "views": "41",
     "text": "美联储威廉姆斯：不预计能源价格会长期上涨。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3227967",
     "datetime": "2026-06-03T14:07:59+00:00",
-    "views": "3",
+    "views": "41",
     "text": "美联储威廉姆斯：我对目前通胀的持续影响并不太担心。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3227968",
     "datetime": "2026-06-03T14:07:59+00:00",
-    "views": "3",
+    "views": "41",
     "text": "美联储威廉姆斯：到目前为止，我并不十分担心通胀会受到持续性影响。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3227966",
     "datetime": "2026-06-03T14:07:58+00:00",
-    "views": "3",
+    "views": "41",
     "text": "美联储威廉姆斯：希望能源价格能够稳定。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3227964",
     "datetime": "2026-06-03T14:07:38+00:00",
-    "views": "35",
+    "views": "40",
     "text": "Alphabet 扩大股权融资规模并公布定价\n金十数据 6 月 3 日讯，Alphabet(GOOG.O)已将其股权融资规模从 800 亿美元扩大至 847.5 亿美元，以资助其在 AI 方面的支出。Alphabet 将其发行的 2,550 万股 A 类股的定价设为每股 355.20 美元，2,550 万股 C 类股的定价设为每股 351.80 美元。该公司将 1.675 亿股 A 系列存托股的定价设为每股 50 美元，并将同等数量的 B 系列存托股以相同价格定价。A 类和 C 类股的发行规模从 150 亿美元扩大至 180 亿美元，存托股的发行规模则从 150 亿美元增至 167.5 亿美元。Alphabet 估计，A 类和 C 类股的净募资额将为 178 亿美元，存托股的募资额将为 166 亿美元。该公司表示，计划将募资所得用于一般公司用途，包括用于扩大 AI 基础设施和全球计算能力的资本支出。A 类和 C 类股的发行交易料将于周四完成，存托股的发行交易预计将于周五完成。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3227965",
     "datetime": "2026-06-03T14:07:38+00:00",
-    "views": "35",
+    "views": "40",
     "text": "美联储威廉姆斯：由于人工智能，科技领域的通胀也处于高位。许多通胀是由于关税、通胀和计算机芯片造成的。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3227962",
     "datetime": "2026-06-03T14:07:18+00:00",
-    "views": "34",
+    "views": "39",
     "text": "美联储威廉姆斯：许多通胀是由于关税、通胀和计算机芯片造成的。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3227963",
     "datetime": "2026-06-03T14:07:18+00:00",
-    "views": "34",
+    "views": "38",
     "text": "乌克兰总统泽连斯基：乌克兰扩大对俄罗斯报复性打击的规模只是时间问题。呼吁欧洲加大反弹道导弹计划的努力。已准备好与俄罗斯总统普京进行直接对话以结束战争。在基辅举行的北约-乌克兰理事会期间讨论了防空导弹供应问题。供应需要加快。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3227961",
     "datetime": "2026-06-03T14:06:59+00:00",
-    "views": "35",
+    "views": "39",
     "text": "美联储威廉姆斯：商品部门的通胀水平较高，能源相关因素影响显著。",
     "media_only": false,
     "image_url": null,
@@ -52900,32 +52972,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3222067"
-  },
-  {
-    "post": "Financial_Express/3222066",
-    "datetime": "2026-06-01T14:10:58+00:00",
-    "views": "65",
-    "text": "美国 5 月 ISM 制造业 PMI 创四年新高\n对于生产商而言，原材料成本继续大幅上涨，价格指数有所下降，但仍接近自 2022 年以来的最高水平。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222066"
-  },
-  {
-    "post": "Financial_Express/3222065",
-    "datetime": "2026-06-01T14:09:38+00:00",
-    "views": "65",
-    "text": "新易盛：1.6T 光模块产品订单相对于去年增幅很大，预计在今年呈现出逐季快速增长的趋势\n金十数据 6 月 1 日讯，新易盛在投资者关系活动中透露，综合订单预期、产能准备及供应链情况，公司预计 2027 年第二至第四季度整体供应链稳定性及订单交付情况将逐步向好。同时，1.6T 光模块产品订单相比去年大幅增长，预计今年将呈现逐季快速增长的趋势，并与 800G 产品一起成为今年交付的主力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222065"
-  },
-  {
-    "post": "Financial_Express/3222064",
-    "datetime": "2026-06-01T14:09:18+00:00",
-    "views": "65",
-    "text": "花旗调查显示：英国五年期通胀预期降至 4.0%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222064"
   }
 ]
