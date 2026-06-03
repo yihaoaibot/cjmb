@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3227909",
+    "datetime": "2026-06-03T13:52:38+00:00",
+    "views": "1",
+    "text": "ALPHABET：AI 订阅套餐业务表现格外亮眼。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227909"
+  },
+  {
+    "post": "Financial_Express/3227908",
+    "datetime": "2026-06-03T13:52:19+00:00",
+    "views": "1",
+    "text": "Alphabet(GOOG.O)：人工智能订阅计划表现异常出色。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227908"
+  },
+  {
+    "post": "Financial_Express/3227906",
+    "datetime": "2026-06-03T13:51:38+00:00",
+    "views": "31",
+    "text": "英伟达(NVDA.O)盘初跌幅达 3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227906"
+  },
+  {
+    "post": "Financial_Express/3227907",
+    "datetime": "2026-06-03T13:51:38+00:00",
+    "views": "31",
+    "text": "英伟达盘初跌幅达 3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227907"
+  },
+  {
+    "post": "Financial_Express/3227905",
+    "datetime": "2026-06-03T13:51:18+00:00",
+    "views": "31",
+    "text": "加拿大 5 月机动车销量同比下滑 1.7% 。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3227905"
+  },
+  {
     "post": "Financial_Express/3227903",
     "datetime": "2026-06-03T13:50:59+00:00",
-    "views": "1",
+    "views": "31",
     "text": "美国三大股指走低，标普 500 指数、道指跌幅扩大至近 0.6%，纳指跌 0.8%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3227904",
     "datetime": "2026-06-03T13:50:59+00:00",
-    "views": "1",
+    "views": "31",
     "text": "苹果欧洲首家开发者中心将在德国柏林启用\n苹果公司今日宣布，将于今年晚些时候在德国柏林开设欧洲首家苹果开发者中心（Apple Developer Center）。柏林苹果开发者中心专为各种规模及处于 App 开发各个阶段的团队而设计，将作为线下会议、工作坊（workshops）和一对一预约的基地。此外，咨询区和专用实验室将由苹果专家提供多种语言的实操支持。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3227902",
     "datetime": "2026-06-03T13:50:18+00:00",
-    "views": "2",
+    "views": "32",
     "text": "标普 500 指数和纳斯达克 100 指数跌幅扩大至 0.6%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3227900",
     "datetime": "2026-06-03T13:49:18+00:00",
-    "views": "2",
+    "views": "32",
     "text": "京东开源 JoyAI-Echo 长音视频生成框架\n金十数据 6 月 3 日讯，6 月 3 日，京东推出 JoyAI-Echo 长音视频生成框架。据介绍，框架引入智能“导演助理”DirectorAgent，并内置了一个专门的记忆库，能在多镜头生成过程中，持续保存并调用角色的外观特征和说话人音色信息。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3227901",
     "datetime": "2026-06-03T13:49:18+00:00",
-    "views": "2",
+    "views": "32",
     "text": "韩国第九届地方选举进行计票\n韩国第九届地方选举和国会议员补选 3 日举行，选民将投票选出全国道、市、郡、区等各级政府负责人，以及教育监和地方议员等。同时将补选 14 名国会议员。本届选举投票时间为当地时间 6 时至 18 时。选举结果预计于 4 日凌晨揭晓。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3227896",
     "datetime": "2026-06-03T13:47:59+00:00",
-    "views": "35",
+    "views": "65",
     "text": "Alphabet(GOOG.O)：云业务订单积压较上一季度几乎翻倍，超过 4,600 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3227895",
     "datetime": "2026-06-03T13:47:38+00:00",
-    "views": "36",
+    "views": "66",
     "text": "标普全球：价格上涨限制了业务活动和销售增长。就业人数以六年来最快速度下降。企业乐观情绪降至 2022 年 10 月以来最低水平。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3227894",
     "datetime": "2026-06-03T13:47:18+00:00",
-    "views": "38",
+    "views": "68",
     "text": "德国经济部就美国关税劳工权益相关举措表态：我们欢迎三方谈判就欧盟落实该协定达成的政治共识，并支持欧盟相关法规尽快生效。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3227893",
     "datetime": "2026-06-03T13:47:00+00:00",
-    "views": "42",
+    "views": "72",
     "text": "德国经济部就美国以劳工权益为由出台关税措施表态：我们坚持特恩贝里协议。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3227892",
     "datetime": "2026-06-03T13:46:59+00:00",
-    "views": "42",
+    "views": "72",
     "text": "标普全球：医疗保健行业成为美国 5 月份表现最佳的行业。消费品行业和基础材料行业产出增长强劲。消费者服务行业业务活动再度下滑。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3227890",
     "datetime": "2026-06-03T13:46:38+00:00",
-    "views": "46",
+    "views": "76",
     "text": "Alphabet(GOOG.O)：第一季度交易速度惊人。预计在 24 个月内确认超过 50%的积压订单。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3227891",
     "datetime": "2026-06-03T13:46:38+00:00",
-    "views": "47",
+    "views": "77",
     "text": "总投资近 65 亿元 重庆 15 个绿色低碳环保项目集中签约\n6 月 3 日，在长寿举行的第二届重庆绿色低碳环保产业推介会现场，15 个重点项目集中签约，签约总金额近 65 亿元，涵盖固废资源化利用、绿色能源供给、再生资源循环、高端绿色制造、智慧市政建设、特色生态产业等多个领域。其中，AI+固废智能化全连续低温热解技术项目总投资 5 亿元，将在两江新区建设年处理 14 万吨混合废旧塑料的低温无氧热解样板工厂，通过自研核心技术将废塑料转化为高价值能源产品，实现无废水、废渣、二噁英排放。（上游）",
     "media_only": false,
     "image_url": null,
@@ -52720,77 +52765,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3222020"
-  },
-  {
-    "post": "Financial_Express/3222018",
-    "datetime": "2026-06-01T13:52:57+00:00",
-    "views": "69",
-    "text": "燃料油连续主力合约日内涨 4%，现报 3992.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222018"
-  },
-  {
-    "post": "Financial_Express/3222017",
-    "datetime": "2026-06-01T13:52:39+00:00",
-    "views": "69",
-    "text": "美国银行全球研究部首次覆盖 HAWKEYE 360，给予中性评级，目标价为 34 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222017"
-  },
-  {
-    "post": "Financial_Express/3222015",
-    "datetime": "2026-06-01T13:52:18+00:00",
-    "views": "69",
-    "text": "现货黄金失守 4460 美元/盎司，日内跌 1.84%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222015"
-  },
-  {
-    "post": "Financial_Express/3222016",
-    "datetime": "2026-06-01T13:52:18+00:00",
-    "views": "71",
-    "text": "液化石油气连续主力合约日内涨 4%，现报 5779.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222016"
-  },
-  {
-    "post": "Financial_Express/3222013",
-    "datetime": "2026-06-01T13:51:58+00:00",
-    "views": "68",
-    "text": "哥伦比 MSCI COLCAP 指数在总统选举第一轮投票结束后上涨 6.3%，报 2314.07 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222013"
-  },
-  {
-    "post": "Financial_Express/3222014",
-    "datetime": "2026-06-01T13:51:58+00:00",
-    "views": "68",
-    "text": "FedEx Freight 在下跌 9.58%后暂停交易。此前，联邦快递完成对 FedEx Freight 的分拆，并开始在纽约证券交易所挂牌交易。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222014"
-  },
-  {
-    "post": "Financial_Express/3222012",
-    "datetime": "2026-06-01T13:51:39+00:00",
-    "views": "39",
-    "text": "布伦特原油日内涨 6%，现报 96.61 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222012"
-  },
-  {
-    "post": "Financial_Express/3222011",
-    "datetime": "2026-06-01T13:51:19+00:00",
-    "views": "40",
-    "text": "上海原油连续主力合约日内涨 5%，现报 614.10 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3222011"
   }
 ]
