@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3226185",
+    "datetime": "2026-06-03T03:47:39+00:00",
+    "views": "7",
+    "text": "阶跃 Step 3.7 Flash 冲入 OpenRouter Trending 前列\n金十数据 6 月 3 日讯，阶跃星辰最新开源基座模型 Step 3.7 Flash 在发布 2 天后登上 OpenRouter Trending 全球第二位，成为近期全球开发者社区最受关注的开源模型之一。在社区分享的实测结果中，Step 3.7 Flash 在运行效率方面表现突出。有开发者将其与 DeepSeek V4 Flash、MiniMax M2.7 等同类模型进行对比后表示，Step 3.7 Flash 在速度与响应体验上展现出明显优势。与此同时，其工具调用能力也成为开发者关注的焦点。有开发者指出，Step 3.7 Flash 是目前首个能够稳定、准确且低成本完成 66 个工具调用测试的开源模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3226185"
+  },
+  {
     "post": "Financial_Express/3226183",
     "datetime": "2026-06-03T03:46:38+00:00",
-    "views": "7",
+    "views": "18",
     "text": "违法违规收集使用个人信息 71 款移动应用被通报\n根据中央网信办、工业和信息化部、公安部联合发布的《关于开展 2026 年个人信息保护系列专项行动的公告》，依据《网络安全法》《个人信息保护法》《网络数据安全管理条例》《App 违法违规收集使用个人信息行为认定方法》等法律法规和有关规定，经国家计算机病毒应急处理中心检测，71 款移动应用存在一项或者多项违法违规收集使用个人信息情况。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3226184",
     "datetime": "2026-06-03T03:46:38+00:00",
-    "views": "7",
+    "views": "18",
     "text": "浙江交科：下属公司中标甬金衢上高速公路项目 合同金额为人民币 21.12 亿元和人民币 5.99 亿元\n浙江交科公告，下属公司浙江交工集团股份有限公司和浙江交工国际工程有限公司分别与浙江衢州甬金衢上高速公路有限公司签署了甬金衢上高速公路金华婺城至浙赣界第 TJ07、TJ09 标段的合同。合同金额分别为人民币 21.12 亿元和人民币 5.99 亿元。公司与发包方的控股股东同为浙江省交通投资集团有限公司，本次交易构成关联交易。项目符合公司主营业务战略布局，将对公司未来经营业绩产生积极影响。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3226182",
     "datetime": "2026-06-03T03:45:58+00:00",
-    "views": "23",
+    "views": "30",
     "text": "日本 10 年期国债收益率上升 4.5 个基点，至 2.610%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3226181",
     "datetime": "2026-06-03T03:43:58+00:00",
-    "views": "50",
+    "views": "56",
     "text": "PitchBook 分析师：SpaceX 合理估值 1.5 万亿美元，AI 业务 5 年内难扭亏\nSpaceX 即将启动史诗级 IPO，市场传出其将以 1.75 万亿美元估值冲刺上市。专注私募股权、创投的金融数据公司 PitchBook 认为，SpaceX 合理估值为 1.5 万亿美元，其余是太空、AI 叙事与“马斯克光环”的溢价。PitchBook 资深研究分析师 Franco Granda 在接受媒体采访时表示，尽管美股航天板块估值偏高，但考虑到 SpaceX 在发射及卫星领域的领先地位，结合财务数据及同业参考，其给予星链约 1.2 万亿美元，发射及其他业务约 3,000 亿美元的估值。然而，当 SpaceX 上市时的估值超过 1.5 万亿、甚至逼近 2 万亿美元时，这些额外溢价是市场为 AI 业务、太空数据中心等长远梦想提前“埋单”，属于对公司未来 20 年“潜在选择权（Optionality）”的叙事溢价，“显得有些过于乐观甚至荒谬”。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3226180",
     "datetime": "2026-06-03T03:43:39+00:00",
-    "views": "53",
+    "views": "57",
     "text": "日经 225 指数日内涨幅扩大至 3%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3226179",
     "datetime": "2026-06-03T03:43:38+00:00",
-    "views": "53",
+    "views": "57",
     "text": "隆基绿能佘海峰：预计此轮光伏周期还将持续 12-18 个月\n在今年 SNEC 展会期间，隆基绿能集团副总裁佘海峰对记者表示，在光储协同发展下，预计 2027 年下半年光伏新增装机重新回到正轨。他表示，这一轮周期的本质是供应失衡、地缘冲突和需求回落。每一次产能出清都是新技术对旧技术的淘汰，需要 12 个月以上时间，预计这一轮光伏周期还将持续 12-18 个月。（财联社）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3226178",
     "datetime": "2026-06-03T03:43:19+00:00",
-    "views": "56",
+    "views": "60",
     "text": "交易员称，印度央行可能正在出售美元以遏制卢比贬值。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3226177",
     "datetime": "2026-06-03T03:43:18+00:00",
-    "views": "56",
+    "views": "60",
     "text": "中亦科技：长鑫存储、长江存储均为公司客户\n金十数据 6 月 3 日讯，中亦科技 6 月 3 日在互动平台表示，长鑫存储、长江存储均为公司客户。如有达到披露标准的订单合同，公司将严格按照相关规则要求履行信息披露义务。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3226176",
     "datetime": "2026-06-03T03:42:57+00:00",
-    "views": "52",
+    "views": "56",
     "text": "印尼盾兑美元下跌 0.5%，17,922 的历史低点。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3226175",
     "datetime": "2026-06-03T03:42:38+00:00",
-    "views": "56",
+    "views": "60",
     "text": "机器人公司帕西尼(PAXINI)据悉正考虑在香港上市。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3226174",
     "datetime": "2026-06-03T03:41:58+00:00",
-    "views": "66",
+    "views": "69",
     "text": "机构：AI 需求推动全球 NAND 存储市场爆发式增长，2026 年 Q1 营收达 460 亿美元历史新高\n金十数据 6 月 3 日讯，受 AI 基础设施需求持续增长的推动，2026 年第一季度全球 NAND 闪存存储市场营收达到 460 亿美元。根据 Counterpoint Research 最新的 NAND 存储市场追踪报告，2026 年第一季度市场规模环比接近翻倍，同比增长至去年同期的 3.5 倍，重现了此前 DRAM 市场经历的价格大幅上涨趋势。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3226173",
     "datetime": "2026-06-03T03:41:38+00:00",
-    "views": "65",
+    "views": "69",
     "text": "机构：AI 需求推动全球 NAND 存储市场爆发式增长，2026 年 Q1 营收达 460 亿美元历史新高\n受 AI 基础设施需求持续增长的推动，2026 年第一季度全球 NAND 闪存存储市场营收达到 460 亿美元。根据 Counterpoint Research 最新的 NAND 存储市场追踪报告，2026 年第一季度市场规模环比接近翻倍，同比增长至去年同期的 3.5 倍，重现了此前 DRAM 市场经历的价格大幅上涨趋势。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3226171",
     "datetime": "2026-06-03T03:40:18+00:00",
-    "views": "83",
+    "views": "85",
     "text": "截至 6 月百亿私募已经达到 139 家 再创历史新高\n截至 2026 年 6 月 2 日，百亿私募已经达到 139 家，再创历史新高，其中办公城市位于上海地区的私募共有 63 家，占比高达 45.32%。同为一线城市的北京、深圳、广州分别仅有 34 家、13 家和 1 家。从 2026 年以来新晋的百亿私募来看，今年百亿梯队的“新面孔”共有 26 家，其中办公城市位于上海的私募共有 11 家，其他地区的新晋百亿私募均不足 10 家。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3226172",
     "datetime": "2026-06-03T03:40:18+00:00",
-    "views": "78",
+    "views": "80",
     "text": "软银参与竞购黑石集团旗下日本支付公司。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3226169",
     "datetime": "2026-06-03T03:38:38+00:00",
-    "views": "91",
+    "views": "93",
     "text": "财政部发行 30 年期债券，规模 850 亿元，发行利率 2.2046%，预期 2.2000%，投标倍数 3.67 倍，边际倍数 1.56 倍。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3226170",
     "datetime": "2026-06-03T03:38:38+00:00",
-    "views": "93",
+    "views": "95",
     "text": "印度 Nifty 指数盘前交易下跌 0.3%，至 23415.95 点。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3226168",
     "datetime": "2026-06-03T03:37:18+00:00",
-    "views": "103",
+    "views": "105",
     "text": "印尼基准股指下跌 3.7%，至 5979.13 点，创 5 月 22 日以来新低。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3226167",
     "datetime": "2026-06-03T03:35:18+00:00",
-    "views": "132",
+    "views": "134",
     "text": "比特币下跌 2.2%，报 65985.44 美元。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +173,7 @@
   {
     "post": "Financial_Express/3226166",
     "datetime": "2026-06-03T03:34:38+00:00",
-    "views": "125",
+    "views": "126",
     "text": "南向资金净买入额达 60 亿港元。",
     "media_only": false,
     "image_url": null,
@@ -53116,23 +53125,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3220257"
-  },
-  {
-    "post": "Financial_Express/3220255",
-    "datetime": "2026-06-01T03:47:58+00:00",
-    "views": "65",
-    "text": "英伟达推出 VERA BLUEFIELD-4 STX：集成智能体 AI 存储处理能力，搭载片上原生安全防护。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3220255"
-  },
-  {
-    "post": "Financial_Express/3220254",
-    "datetime": "2026-06-01T03:47:57+00:00",
-    "views": "65",
-    "text": "英伟达(NVDA.O)Vera BlueField-4 STX 带来具备芯片级安全的代理型 AI 存储处理能力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3220254"
   }
 ]
