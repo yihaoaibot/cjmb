@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3231174",
+    "datetime": "2026-06-04T17:40:18+00:00",
+    "views": "6",
+    "text": "美联储施密德：当前经济面临的最大风险是通货膨胀。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3231174"
+  },
+  {
+    "post": "Financial_Express/3231175",
+    "datetime": "2026-06-04T17:40:18+00:00",
+    "views": "6",
+    "text": "美联储施密德：通胀是经济面临的最大风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3231175"
+  },
+  {
+    "post": "Financial_Express/3231173",
+    "datetime": "2026-06-04T17:40:17+00:00",
+    "views": "6",
+    "text": "俄罗斯总统普京：德国需要就是否通过“北溪”管道接收俄罗斯天然气作出决定，而俄方已准备好恢复供应。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3231173"
+  },
+  {
+    "post": "Financial_Express/3231172",
+    "datetime": "2026-06-04T17:39:57+00:00",
+    "views": "8",
+    "text": "美国总统特朗普：看看加利福尼亚发生了什么，民主党人就在我们眼前偷取选票。我希望共和党人正在关注此事，这样他们才能最终通过《保护美国选民资格法》。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3231172"
+  },
+  {
     "post": "Financial_Express/3231171",
     "datetime": "2026-06-04T17:38:38+00:00",
-    "views": "4",
+    "views": "43",
     "text": "俄罗斯总统普京：德国需就北溪管道的俄罗斯天然气供应问题自行作出决定。我们已做好供应准备。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3231170",
     "datetime": "2026-06-04T17:38:17+00:00",
-    "views": "7",
+    "views": "44",
     "text": "美联储施密德：人们为能源支付的较高价格大部分仍在美国经济体系内循环；油价高企能持续多久是关键问题，而这在很大程度上取决于政治因素。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3231168",
     "datetime": "2026-06-04T17:36:38+00:00",
-    "views": "44",
+    "views": "48",
     "text": "美联储戴利：目前人工智能可能带来通胀下降的影响，但这不是紧迫的问题。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3231169",
     "datetime": "2026-06-04T17:36:38+00:00",
-    "views": "44",
+    "views": "48",
     "text": "俄罗斯普京：欧盟无法充当调停方，因其不具备中立立场。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3231167",
     "datetime": "2026-06-04T17:35:38+00:00",
-    "views": "48",
+    "views": "52",
     "text": "俄罗斯天然气工业股份公司与哈萨克斯坦签署协议，敲定 2026 年增量天然气供应事宜。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3231166",
     "datetime": "2026-06-04T17:35:37+00:00",
-    "views": "50",
+    "views": "54",
     "text": "伊朗 5 月份石油出口量降至每日 30 万桶以下，创至少六年来的新低。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3231165",
     "datetime": "2026-06-04T17:34:58+00:00",
-    "views": "50",
+    "views": "52",
     "text": "Quantinuum Inc.（QNT）美国 IPO 首日开盘报 68 美元，此前给出的 IPO 发行价为每股 60 美元。这家获得霍尼韦尔（投资）支持的量子计算公司通过 IPO 募资 16.8 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3231164",
     "datetime": "2026-06-04T17:34:57+00:00",
-    "views": "50",
+    "views": "52",
     "text": "美联储戴利：货币政策决策着眼于未来 12 个月的整体形势。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3231163",
     "datetime": "2026-06-04T17:34:38+00:00",
-    "views": "51",
+    "views": "52",
     "text": "美联储施密德：通胀仍然过高，这已经是一场持续五年的斗争，美联储仍在努力寻找解决方案。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3231162",
     "datetime": "2026-06-04T17:34:18+00:00",
-    "views": "55",
+    "views": "56",
     "text": "伊朗 5 月石油出口量降至每日 30 万桶以下，为至少六年来最低水平。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3231161",
     "datetime": "2026-06-04T17:33:18+00:00",
-    "views": "59",
+    "views": "90",
     "text": "美联储施密德：石油市场的核心问题在于高位价格将维持多久，而这本质上是一个政治抉择。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3231159",
     "datetime": "2026-06-04T17:32:58+00:00",
-    "views": "57",
+    "views": "87",
     "text": "美联储戴利：生产率提升应该会带来通胀下降，但关键在于时间点。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3231160",
     "datetime": "2026-06-04T17:32:58+00:00",
-    "views": "58",
+    "views": "89",
     "text": "美联储施密德：民众目前支付的更高能源价格，大部分都留存于美国经济体系之内。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3231158",
     "datetime": "2026-06-04T17:32:57+00:00",
-    "views": "56",
+    "views": "86",
     "text": "美联储施密德：数据显示经济运行状况良好。",
     "media_only": false,
     "image_url": null,
@@ -52423,68 +52459,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3225314"
-  },
-  {
-    "post": "Financial_Express/3225313",
-    "datetime": "2026-06-02T17:40:57+00:00",
-    "views": "69",
-    "text": "乌克兰总统泽连斯基：反导武器的输送无法跟上俄罗斯的导弹攻击的步伐。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3225313"
-  },
-  {
-    "post": "Financial_Express/3225311",
-    "datetime": "2026-06-02T17:40:38+00:00",
-    "views": "35",
-    "text": "美国总统特朗普：非常愉快在白宫椭圆形办公室接待了弗拉维奥·博索纳罗（巴西前总统博索纳罗的长子，目前为巴西联邦参议员）。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3225311"
-  },
-  {
-    "post": "Financial_Express/3225312",
-    "datetime": "2026-06-02T17:40:38+00:00",
-    "views": "35",
-    "text": "微软首席执行官宣布推出可让 OpenClaw 在 Windows 系统上顺畅运行的技术支持方案。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3225312"
-  },
-  {
-    "post": "Financial_Express/3225309",
-    "datetime": "2026-06-02T17:40:18+00:00",
-    "views": "65",
-    "text": "国际原子能机构总干事格罗西：对伊朗核计划的评估已发生根本性转变，原因是我们正处于战争状态，且该核计划已成为攻击目标。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3225309"
-  },
-  {
-    "post": "Financial_Express/3225310",
-    "datetime": "2026-06-02T17:40:18+00:00",
-    "views": "65",
-    "text": "国际原子能机构总干事格罗西表示，伊朗此前开展的诸多核活动现已停止。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3225310"
-  },
-  {
-    "post": "Financial_Express/3225308",
-    "datetime": "2026-06-02T17:39:19+00:00",
-    "views": "64",
-    "text": "OpenAI：ZoomInfo 原生接入企业版 Codex。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3225308"
-  },
-  {
-    "post": "Financial_Express/3225307",
-    "datetime": "2026-06-02T17:39:18+00:00",
-    "views": "65",
-    "text": "英国石油就价值 20 亿英镑北海资产与伊萨卡能源展开深度谈判。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3225307"
   }
 ]
