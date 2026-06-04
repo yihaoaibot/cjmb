@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3231343",
+    "datetime": "2026-06-04T19:20:58+00:00",
+    "views": "22",
+    "text": "美国国家安全局正在借助 Anthropic 旗下 Mythos 大模型实施网络攻防作业\n尽管正与美国国防部陷入司法纠纷，人工智能企业 Anthropic 仍协助美国国家安全局（NSA）部署其高性能 Mythos 大模型用于进攻性网络作战，并向国安局派驻技术工程师驻场落地技术。英国金融时报援引知情人士报道称，这家总部位于旧金山的企业已向 NSA 派驻约六名工程师作为前沿驻场技术人员，负责指导模型落地使用、根据国安局特定作战需求定制调优 AI 模型。 一名知情人士坦言，Mythos 模型可被用来渗透伊朗国家的网络系统。一名靠近 Anthropic 的内部人士辩解称：“打造优秀防御体系的最优路径就是掌握先进的攻击技术。对手大概率也在自研 AI 驱动的攻击性网络武器，倘若我们不用 Mythos 开发攻击工具，敌方也会想方设法落地同类技术。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3231343"
+  },
+  {
     "post": "Financial_Express/3231342",
     "datetime": "2026-06-04T19:19:58+00:00",
-    "views": "8",
+    "views": "26",
     "text": "据以色列 i24News：以色列国防军上尉 Eitan Shmuel Lemberg 在黎巴嫩南部阵亡。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3231341",
     "datetime": "2026-06-04T19:18:57+00:00",
-    "views": "24",
+    "views": "35",
     "text": "世界粮食计划署：中东危机外溢冲击全球粮食安全\n当地时间 4 日，世界粮食计划署代理执行主任卡尔·斯考在纽约联合国总部记者会上表示，中东危机正在通过推高能源和食品价格，对全球粮食安全造成外溢冲击。他重申粮食署此前警告称，如果危机持续、油价到 7 月仍维持在每桶 100 美元以上，约 4500 万人将被推向饥饿。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3231340",
     "datetime": "2026-06-04T19:13:17+00:00",
-    "views": "65",
+    "views": "68",
     "text": "美国农业部部长罗林斯：周三晚间在得克萨斯州确诊一例螺旋蝇病例后，该周边区域暂未发现新增螺旋蝇感染案例。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3231339",
     "datetime": "2026-06-04T19:12:37+00:00",
-    "views": "67",
+    "views": "70",
     "text": "克里姆林宫表示，普京将在稍后获悉泽连斯基来信的相关情况。已收到泽连斯基的信函。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3231338",
     "datetime": "2026-06-04T19:11:57+00:00",
-    "views": "71",
+    "views": "73",
     "text": "克里姆林宫：我们已收到泽连斯基的信件。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3231337",
     "datetime": "2026-06-04T19:11:38+00:00",
-    "views": "74",
+    "views": "76",
     "text": "克里姆林宫：普京晚些时候将收到有关泽连斯基信函的相关汇报。",
     "media_only": false,
     "image_url": null,
@@ -52855,14 +52864,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3225437"
-  },
-  {
-    "post": "Financial_Express/3225436",
-    "datetime": "2026-06-02T19:21:58+00:00",
-    "views": "147",
-    "text": "以色列空袭黎巴嫩南部纳巴泰省多个城镇。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3225436"
   }
 ]
