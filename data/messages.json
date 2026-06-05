@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3232314",
+    "datetime": "2026-06-05T05:40:18+00:00",
+    "views": "1",
+    "text": "印度 NIFTY 金融服务指数上涨 1.2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3232314"
+  },
+  {
+    "post": "Financial_Express/3232313",
+    "datetime": "2026-06-05T05:39:38+00:00",
+    "views": "1",
+    "text": "印度 Nifty 50 指数涨 0.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3232313"
+  },
+  {
+    "post": "Financial_Express/3232312",
+    "datetime": "2026-06-05T05:39:19+00:00",
+    "views": "32",
+    "text": "A 股存储芯片板块震荡下挫，盛合晶微跌超 8%，江波龙、佰维存储、德明利、香农芯创、协创数据纷纷下挫。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3232312"
+  },
+  {
+    "post": "Financial_Express/3232311",
+    "datetime": "2026-06-05T05:38:58+00:00",
+    "views": "32",
+    "text": "存储芯片板块震荡下挫，盛合晶微跌超 8%\n存储芯片板块震荡下挫，盛合晶微跌超 8%，江波龙、佰维存储、德明利、香农芯创、协创数据纷纷下挫。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3232311"
+  },
+  {
     "post": "Financial_Express/3232310",
     "datetime": "2026-06-05T05:38:18+00:00",
-    "views": "1",
+    "views": "32",
     "text": "菜油连续主力合约日内跌 3%，现报 10013.00 元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3232309",
     "datetime": "2026-06-05T05:37:38+00:00",
-    "views": "3",
+    "views": "33",
     "text": "丁二烯橡胶连续主力合约日内跌 4%，现报 13880.00 元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3232308",
     "datetime": "2026-06-05T05:35:58+00:00",
-    "views": "33",
+    "views": "63",
     "text": "VIVO 申请注册 VIVOClaw 商标\n天眼查知识产权信息显示，近日，VIVO 关联公司维沃移动通信有限公司申请注册“vivoClaw”商标，国际分类为网站服务，当前商标状态均为等待实质审查。该公司成立于 2010 年 6 月，法定代表人为施玉坚，注册资本 6500 万人民币，经营范围包括移动终端设备制造、通信设备制造、音响设备制造等，由维沃控股有限公司全资持股。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3232307",
     "datetime": "2026-06-05T05:35:38+00:00",
-    "views": "33",
+    "views": "63",
     "text": "高市早苗：我认为我们需要在与市场的沟通中更加谨慎。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3232306",
     "datetime": "2026-06-05T05:35:19+00:00",
-    "views": "33",
+    "views": "63",
     "text": "台湾证交所加权股价指数收低 1.3%报 45,070.94。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3232305",
     "datetime": "2026-06-05T05:33:59+00:00",
-    "views": "33",
+    "views": "63",
     "text": "巴克莱将阿斯麦目标股价从 1575 欧元上调至 1900 欧元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3232304",
     "datetime": "2026-06-05T05:33:38+00:00",
-    "views": "33",
+    "views": "63",
     "text": "创业板指跌超 2％，科创 50 指数跌超 3％。半导体芯片、电脑硬件跌幅居前。",
     "media_only": false,
     "image_url": null,
@@ -53206,14 +53242,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3226362"
-  },
-  {
-    "post": "Financial_Express/3226360",
-    "datetime": "2026-06-03T05:39:58+00:00",
-    "views": "87",
-    "text": "印尼盾跌势延续，再创新低。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3226360"
   }
 ]
