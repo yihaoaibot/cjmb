@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3234468",
     "datetime": "2026-06-05T22:40:18+00:00",
-    "views": "7",
+    "views": "8",
     "text": "欧洲电力联盟报告指出，一体化工业电气化是维系欧洲竞争力的关键。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3234466",
     "datetime": "2026-06-05T22:31:59+00:00",
-    "views": "34",
+    "views": "64",
     "text": "美国国务院批准以 8.42 亿美元向丹麦出售导弹的潜在交易。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3234465",
     "datetime": "2026-06-05T22:31:58+00:00",
-    "views": "35",
+    "views": "65",
     "text": "美国国务院批准向英国出售大型飞机红外对抗系统，潜在交易金额为 1.6 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3234455",
     "datetime": "2026-06-05T22:06:18+00:00",
-    "views": "79",
+    "views": "109",
     "text": "美方官员在 X 平台发文称有伊朗无人机驶向霍尔木兹海峡。\n❤1",
     "media_only": false,
     "image_url": null,
@@ -51010,23 +51010,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3228762"
-  },
-  {
-    "post": "Financial_Express/3228761",
-    "datetime": "2026-06-03T22:43:58+00:00",
-    "views": "47",
-    "text": "Quantinuum IPO 发行 2800 万股，发行价定为每股 60 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3228761"
-  },
-  {
-    "post": "Financial_Express/3228760",
-    "datetime": "2026-06-03T22:42:58+00:00",
-    "views": "48",
-    "text": "新一代 AppleWatch 续航或升级\n苹果正在开展高迁移率氧化物（HMO）新型 OLED 背板技术的评估工作。 若该技术落地应用，新一代 Apple Watch 有望进一步降低屏幕功耗，优化续航表现。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3228760"
   }
 ]
