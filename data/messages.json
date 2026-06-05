@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3234043",
+    "datetime": "2026-06-05T15:42:18+00:00",
+    "views": "1",
+    "text": "波音 CEO： 针对汉莎航空客机机头破损事故暂无最新进展。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3234043"
+  },
+  {
+    "post": "Financial_Express/3234041",
+    "datetime": "2026-06-05T15:41:38+00:00",
+    "views": "1",
+    "text": "波音(BA.N)首席执行官：公司尚未就延迟交付进行任何讨论。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3234041"
+  },
+  {
+    "post": "Financial_Express/3234042",
+    "datetime": "2026-06-05T15:41:38+00:00",
+    "views": "1",
+    "text": "欧盟正酝酿对以色列国家安全部长实施制裁。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3234042"
+  },
+  {
     "post": "Financial_Express/3234040",
     "datetime": "2026-06-05T15:40:58+00:00",
-    "views": "2",
+    "views": "32",
     "text": "波音 CEO： 公司未曾商议延期交付相关事宜。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3234039",
     "datetime": "2026-06-05T15:40:40+00:00",
-    "views": "2",
+    "views": "32",
     "text": "彭博美元现货指数上涨 0.5%，创两个月来最大涨幅。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3234036",
     "datetime": "2026-06-05T15:39:58+00:00",
-    "views": "3",
+    "views": "33",
     "text": "波音(BA.N)首席执行官：波音对到年底将 787 飞机的生产率提升至每月 10 架持乐观态度。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3234037",
     "datetime": "2026-06-05T15:39:58+00:00",
-    "views": "3",
+    "views": "33",
     "text": "英伟达(NVDA.O)盘中跌幅达 5%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3234038",
     "datetime": "2026-06-05T15:39:58+00:00",
-    "views": "3",
+    "views": "33",
     "text": "波音乐观预计，年底前 787 机型月产能提升至 10 架。",
     "media_only": false,
     "image_url": null,
@@ -51649,32 +51676,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3228264"
-  },
-  {
-    "post": "Financial_Express/3228263",
-    "datetime": "2026-06-03T15:42:17+00:00",
-    "views": "147",
-    "text": "美国财长贝森特：国会应关注自身的交易行为。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3228263"
-  },
-  {
-    "post": "Financial_Express/3228262",
-    "datetime": "2026-06-03T15:41:58+00:00",
-    "views": "155",
-    "text": "Quantinuum IPO 据称获得逾 20 倍的超额认购\n知情人士透露，Quantinuum Inc.的首次公开募股获得逾 20 倍的超额认购，预计将于周三晚些时候将价格定在已经上调后的区间上方。据知情人士透露，霍尼韦尔国际公司持股的这家量子计算公司的 IPO 吸引了单纯做多投资者的大量认购需求。预计股票将于周四在纽约证券交易所开始交易，股票代码为 QNT。摩根大通、摩根士丹利、富瑞金融集团和 Evercore 公司等机构均参与了此次发行。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3228262"
-  },
-  {
-    "post": "Financial_Express/3228261",
-    "datetime": "2026-06-03T15:41:57+00:00",
-    "views": "120",
-    "text": "美国民主党参议员沃伦向美国财长贝森特施压，询问美国证券交易委员会（SEC）是否应调查特朗普的交易。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3228261"
   }
 ]
