@@ -1,9 +1,27 @@
 [
   {
+    "post": "Financial_Express/3234395",
+    "datetime": "2026-06-05T21:13:37+00:00",
+    "views": "2",
+    "text": "特朗普谈及能源与化肥领域：正在筹划相关举措。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3234395"
+  },
+  {
+    "post": "Financial_Express/3234394",
+    "datetime": "2026-06-05T21:13:18+00:00",
+    "views": "2",
+    "text": "特朗普称赞过去两个月就业数据向上修正。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3234394"
+  },
+  {
     "post": "Financial_Express/3234393",
     "datetime": "2026-06-05T21:11:59+00:00",
-    "views": "1",
-    "text": "特朗普：加拿大对待我们农民太苛刻了。",
+    "views": "2",
+    "text": "特朗普：加拿大对待我们农民太苛刻了。\n👍1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3234393"
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3234392",
     "datetime": "2026-06-05T21:11:17+00:00",
-    "views": "1",
+    "views": "2",
     "text": "特朗普谈及伊朗战事：这算不上一场大规模战争，只是军事冲突，属于演练性质。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3234390",
     "datetime": "2026-06-05T21:08:37+00:00",
-    "views": "2",
+    "views": "32",
     "text": "美股遭遇抛售，但高盛称未见仓位极端拥挤现象\n3 月下旬以来美股持续上涨让投资者有了许多担忧后市的理由。不过，在高盛交易员看来，仓位极端拥挤并非主要忧虑。高盛衡量整体市场情绪的一项指标目前正徘徊在 0.2 附近，释放出风险敞口处于中性水平的信号。该指标追踪机构、散户和海外投资者在美股的风险敞口，覆盖了美股市值的大约 80%。包括 Tom Shea 在内的高盛交易员在致客户的报告中写道，指标“表明本轮上涨尚未得到市场参与者的全面追捧。”",
     "media_only": false,
     "image_url": null,
@@ -50974,41 +50992,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3228692"
-  },
-  {
-    "post": "Financial_Express/3228689",
-    "datetime": "2026-06-03T21:14:18+00:00",
-    "views": "6",
-    "text": "博通财报电话会议期间，股价跌幅扩大至 12%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3228689"
-  },
-  {
-    "post": "Financial_Express/3228690",
-    "datetime": "2026-06-03T21:14:18+00:00",
-    "views": "6",
-    "text": "博通 CEO 预计，人工智能半导体营收增长将在 2028 财年延续。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3228690"
-  },
-  {
-    "post": "Financial_Express/3228688",
-    "datetime": "2026-06-03T21:12:58+00:00",
-    "views": "5",
-    "text": "博通首席执行官：Meta 公司 1 吉瓦规模的初始订单已收到，该订单包含 AI 专用加速芯片（XPUS）及博通的网络产品，将于 2027 年下半年开始交付。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3228688"
-  },
-  {
-    "post": "Financial_Express/3228687",
-    "datetime": "2026-06-03T21:12:38+00:00",
-    "views": "4",
-    "text": "博通已向 OpenAI 交付芯片，并计划 2027 年落地 130 万千瓦算力基建。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3228687"
   }
 ]
