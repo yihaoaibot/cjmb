@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3234403",
     "datetime": "2026-06-05T21:19:59+00:00",
-    "views": "1",
+    "views": "2",
     "text": "阿波罗全球管理公司与黑石集团已为 Anthropic 敲定一笔 350 亿美元的融资计划，用于扩建该公司的人工智能基础设施。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3234402",
     "datetime": "2026-06-05T21:19:18+00:00",
-    "views": "1",
+    "views": "2",
     "text": "加拿大食品检验局：将对从美国受影响地区输入加拿大的牲畜（包括马）实施临时进口限制。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3234401",
     "datetime": "2026-06-05T21:18:57+00:00",
-    "views": "1",
+    "views": "2",
     "text": "POOL CORP, CAMPBELL'S 将被剔除出标普 500 指数。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3234400",
     "datetime": "2026-06-05T21:18:18+00:00",
-    "views": "1",
+    "views": "2",
     "text": "伟创力因纳入标普 500 指数，股价上涨 3.3%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3234397",
     "datetime": "2026-06-05T21:15:37+00:00",
-    "views": "3",
+    "views": "33",
     "text": "富时 A50 期指连续夜盘收跌 0.68%，报 15308 点。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3234395",
     "datetime": "2026-06-05T21:13:37+00:00",
-    "views": "35",
+    "views": "36",
     "text": "特朗普谈及能源与化肥领域：正在筹划相关举措。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3234388",
     "datetime": "2026-06-05T21:07:37+00:00",
-    "views": "34",
+    "views": "64",
     "text": "特朗普：增长实际上会遏制通胀。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +164,7 @@
   {
     "post": "Financial_Express/3234385",
     "datetime": "2026-06-05T21:06:57+00:00",
-    "views": "39",
+    "views": "69",
     "text": "美国总统特朗普：农民们将在未来 90 天看到好事发生。",
     "media_only": false,
     "image_url": null,
@@ -50884,14 +50884,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3228711"
-  },
-  {
-    "post": "Financial_Express/3228710",
-    "datetime": "2026-06-03T21:20:38+00:00",
-    "views": "73",
-    "text": "博通首席执行官：截至目前，我们已收到总计 60 亿美元的采购订单。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3228710"
   }
 ]
