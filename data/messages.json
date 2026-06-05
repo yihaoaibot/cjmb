@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3233694",
+    "datetime": "2026-06-05T13:26:18+00:00",
+    "views": "1",
+    "text": "美企苦高价 AI 久矣？DeepSeek 登上趋势榜第一\n根据美国企业指出管理平台 Ramp 日前最新报告，DeepSeek 登上“软件趋势榜单”第一。该榜单主要追踪的是企业向某软件供应商的首次采购情况，这也意味着 DeepSeek 成为该平台上增速最快的软件之一。Ramp Economics Lab 首席经济学家 Ara Kharazian 表示，这或许可以说是一个最明显的信号，代表（美国）企业正在寻找 OpenAI 和 Anthropic 低成本替代方案，一些公司愿意采用价格更低的中国大模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3233694"
+  },
+  {
     "post": "Financial_Express/3233693",
     "datetime": "2026-06-05T13:24:18+00:00",
-    "views": "2",
+    "views": "33",
     "text": "机构分析师评美国非农：市场现在认为，美联储在 10 月 28 日的会议上加息的可能性接近 70%。试想一下，如果沃什在中期选举前宣布加息，特朗普会作何反应。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3233692",
     "datetime": "2026-06-05T13:23:39+00:00",
-    "views": "2",
+    "views": "33",
     "text": "美军称在印度洋拦截无国籍船只\n金十数据 6 月 5 日讯，美军 5 日发表声明说，在印度洋对无国籍船只“达维娜”号进行了海上拦截和登船检查。声明暗示，该船只向伊朗提供物资支持。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3233691",
     "datetime": "2026-06-05T13:23:22+00:00",
-    "views": "2",
+    "views": "33",
     "text": "分析师：4 月美联储的三个“反对声音”是有先见之明的\n金十数据 6 月 5 日讯，机构分析师评美国非农：显然，在 4 月份对政策声明持反对意见、希望剔除宽松倾向的 3 位美联储决策者，他们的判断走在了前面。至少目前来看，6 月的美联储声明大概率会出现这句话：为支持其目标，委员会决定将联邦基金利率的目标区间维持在 3.5%至 3.75%之间。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3233690",
     "datetime": "2026-06-05T13:22:58+00:00",
-    "views": "4",
+    "views": "35",
     "text": "美军称在印度洋拦截无国籍船只\n美军 5 日发表声明说，在印度洋对无国籍船只“达维娜”号进行了海上拦截和登船检查。声明暗示，该船只向伊朗提供物资支持。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3233689",
     "datetime": "2026-06-05T13:22:38+00:00",
-    "views": "33",
+    "views": "34",
     "text": "据港交所文件：深圳基本半导体股份有限公司向港交所提交上市申请书。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3233687",
     "datetime": "2026-06-05T13:22:18+00:00",
-    "views": "34",
+    "views": "35",
     "text": "希腊拟对加密货币征收 15% 资本利得税。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3233686",
     "datetime": "2026-06-05T13:22:00+00:00",
-    "views": "34",
+    "views": "35",
     "text": "纳期达克 100 指数期货跌幅扩大至 1.5%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3233684",
     "datetime": "2026-06-05T13:21:39+00:00",
-    "views": "36",
+    "views": "37",
     "text": "美国中央司令部：伊朗关于其向美国军舰进行示警的说法不实。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3233685",
     "datetime": "2026-06-05T13:21:39+00:00",
-    "views": "35",
+    "views": "36",
     "text": "纳斯达克 100 指数期货跌幅扩大至 1.5%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3233683",
     "datetime": "2026-06-05T13:20:58+00:00",
-    "views": "35",
+    "views": "36",
     "text": "“美联储传声筒”：非农报告说明短期内降息的理由已基本不复存在\n“美联储传声筒”Nick Timiraos：今年春季招聘活动重新加速，将为那些担忧通胀、并认为当前利率水平过低、无法抑制新一轮价格压力的美联储官员提供更多依据。这份就业报告不会彻底解决美联储今年晚些时候应在多大程度上考虑加息的争论，但它确实进一步说明，短期内降息的理由已经基本不复存在。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3233681",
     "datetime": "2026-06-05T13:19:20+00:00",
-    "views": "36",
+    "views": "67",
     "text": "美国中央司令部称，美军继续执行封锁措施。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3233680",
     "datetime": "2026-06-05T13:18:58+00:00",
-    "views": "36",
+    "views": "67",
     "text": "美国中央司令部：如果伊朗攻击美国船只，这将违反停火协议。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3233679",
     "datetime": "2026-06-05T13:18:38+00:00",
-    "views": "65",
+    "views": "66",
     "text": "分析师：通胀快追上失业率 美联储可能已经落后于形势\n金十数据 6 月 5 日讯，Brandywine 全球投资管理公司的投资组合经理陈特蕾表示，非农数据强劲，表明就业市场正在复苏，美联储应重点关注通胀问题。我们正处在通胀率（几乎）与失业率（5 月为 4.3%）持平的节点上，美联储可能已经落后于形势。通胀互换合约显示，交易员预计 7 月份 CPI 将突破 4.2%，随后在第一季度回落至 3.8%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3233678",
     "datetime": "2026-06-05T13:18:37+00:00",
-    "views": "35",
+    "views": "36",
     "text": "美国中央司令部否认伊朗袭击或向美国海军舰艇开火的报道，称美国军队继续实施封锁。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3233677",
     "datetime": "2026-06-05T13:18:19+00:00",
-    "views": "64",
+    "views": "65",
     "text": "国际移民组织：海地暴力升级致 150 万人流离失所\n国际移民组织驻海地负责人格雷瓜尔·古德斯坦 5 日在日内瓦举行的记者会上说，受不断升级的暴力事件影响，海地境内流离失所者已达 150 万人。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3233676",
     "datetime": "2026-06-05T13:17:38+00:00",
-    "views": "34",
+    "views": "65",
     "text": "香港将发行龙舟主题特别邮票推广非物质文化遗产\n香港邮政日前宣布，将于 6 月 18 日推出以“非物质文化遗产——大澳端午龙舟游涌”为主题的特别邮票。大澳端午龙舟游涌于 2011 年列入第三批国家级非物质文化遗产代表性项目名录，并于 2017 年成为首批列入香港非物质文化遗产代表作名录的项目。香港邮政将发行一套四枚邮票、两款邮票小型张和相关邮品，推广这项香港非物质文化遗产，让大众了解本地传统的精髓。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3233675",
     "datetime": "2026-06-05T13:16:39+00:00",
-    "views": "36",
+    "views": "67",
     "text": "全球基金 6 月 5 日净卖出 878 亿印度卢比的印度股票。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +173,7 @@
   {
     "post": "Financial_Express/3233674",
     "datetime": "2026-06-05T13:15:39+00:00",
-    "views": "66",
+    "views": "67",
     "text": "罗马尼亚国防部长表示，乌克兰已通报无人机自毁时间安排。",
     "media_only": false,
     "image_url": null,
@@ -173,7 +182,7 @@
   {
     "post": "Financial_Express/3233673",
     "datetime": "2026-06-05T13:15:38+00:00",
-    "views": "36",
+    "views": "67",
     "text": "罗马尼亚国防部长：目前部署在康斯坦察港附近的雷达系统能够探测高空飞行的金属物体。",
     "media_only": false,
     "image_url": null,
@@ -52603,32 +52612,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3227809"
-  },
-  {
-    "post": "Financial_Express/3227808",
-    "datetime": "2026-06-03T13:25:58+00:00",
-    "views": "85",
-    "text": "俄副外长：若领土完整遭侵犯 俄保留以核武器回击可能性\n当地时间 3 日，俄罗斯外交部副部长里亚布科夫表示，若出现侵害俄领土完整的行为，俄方保留以核手段进行回应的可能性。里亚布科夫在圣彼得堡国际经济论坛上向媒体表示，关于俄罗斯可能使用核武器的极端情势在军事学说和核威慑国家基本政策中已做详细描述。如果俄罗斯的领土完整遭到侵略者的蓄意侵犯，即便对方并不拥有核武器，在最坏情况下俄方可以使用核武器进行回击。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3227808"
-  },
-  {
-    "post": "Financial_Express/3227806",
-    "datetime": "2026-06-03T13:25:19+00:00",
-    "views": "89",
-    "text": "海合会秘书长谴责针对巴林和科威特的袭击\n海湾阿拉伯国家合作委员会（海合会）秘书长布达维 3 日发表声明，谴责伊朗针对巴林和科威特的袭击，称相关袭击针对民用设施、基础设施以及外交机构，是“危险且前所未有的升级行为”。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3227806"
-  },
-  {
-    "post": "Financial_Express/3227805",
-    "datetime": "2026-06-03T13:24:39+00:00",
-    "views": "86",
-    "text": "永冠新材：拟向特定对象发行股票募资不超 9.27 亿元 将用于玻璃纤维布建设项目等\n永冠新材公告，公司拟向特定对象发行股票募集资金总额不超过 9.27 亿元（含本数），扣除发行费用后将全部用于年产 2000 吨电子级玻璃纤维布建设项目、年产 16500 吨线束胶带建设项目、智能制造数智化技术升级项目和补充流动资金。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3227805"
   }
 ]
