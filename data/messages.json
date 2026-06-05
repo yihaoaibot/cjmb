@@ -1,5 +1,23 @@
 [
   {
+    "post": "Financial_Express/3234393",
+    "datetime": "2026-06-05T21:11:59+00:00",
+    "views": "1",
+    "text": "特朗普：加拿大对待我们农民太苛刻了。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3234393"
+  },
+  {
+    "post": "Financial_Express/3234392",
+    "datetime": "2026-06-05T21:11:17+00:00",
+    "views": "1",
+    "text": "特朗普谈及伊朗战事：这算不上一场大规模战争，只是军事冲突，属于演练性质。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3234392"
+  },
+  {
     "post": "Financial_Express/3234391",
     "datetime": "2026-06-05T21:09:38+00:00",
     "views": "2",
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3234389",
     "datetime": "2026-06-05T21:07:38+00:00",
-    "views": "2",
+    "views": "32",
     "text": "特朗普表态：我们将撤换鲍威尔。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3234388",
     "datetime": "2026-06-05T21:07:37+00:00",
-    "views": "2",
+    "views": "32",
     "text": "特朗普：增长实际上会遏制通胀。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3234380",
     "datetime": "2026-06-05T21:02:39+00:00",
-    "views": "32",
+    "views": "62",
     "text": "特朗普：美国撤军后，化肥价格将会下降。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3234379",
     "datetime": "2026-06-05T21:02:38+00:00",
-    "views": "32",
+    "views": "62",
     "text": "特朗普：美国撤出伊朗后，石油和汽油价格将会下降。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3234378",
     "datetime": "2026-06-05T21:02:18+00:00",
-    "views": "34",
+    "views": "64",
     "text": "特朗普：将很快离开伊朗。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3234377",
     "datetime": "2026-06-05T21:01:58+00:00",
-    "views": "34",
+    "views": "64",
     "text": "特朗普：对伊朗采取强硬手段比用“”纸笔”更容易。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3234376",
     "datetime": "2026-06-05T21:01:37+00:00",
-    "views": "36",
+    "views": "66",
     "text": "特朗普宣扬美方在霍尔木兹海峡实施封锁举措。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3234375",
     "datetime": "2026-06-05T21:01:18+00:00",
-    "views": "36",
+    "views": "66",
     "text": "特朗普重申，将通过外交手段或其他方式解决伊朗问题。",
     "media_only": false,
     "image_url": null,
@@ -50992,23 +51010,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3228687"
-  },
-  {
-    "post": "Financial_Express/3228686",
-    "datetime": "2026-06-03T21:11:57+00:00",
-    "views": "4",
-    "text": "博通首席执行官：已达成协议，自 2027 年起，允许 Anthropic 额外接入 5 吉瓦基于下一代张量处理单元（TPU）的算力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3228686"
-  },
-  {
-    "post": "Financial_Express/3228685",
-    "datetime": "2026-06-03T21:11:37+00:00",
-    "views": "4",
-    "text": "美国可能检出新大陆螺旋蝇病例 或对肉牛养殖构成威胁\n金十数据 6 月 4 日讯，美国农业部表示，得克萨斯州南部可能已检出一例新大陆螺旋蝇（New World screwworm）病例，这可能对美国牛群构成新的威胁，而目前美国的牛群规模正处于 75 年来的最低水平。该机构称，目前有一份样本正送往爱荷华州的一家实验室进行确诊检测。如果该病例得到确诊，这将是自 2016 年以来美国境内首次检出螺旋蝇。2016 年，佛罗里达群岛曾报告过一例鹿感染螺旋蝇的病例，该虫害于 2017 年初被彻底根除。若此次确诊，很可能会引发针对牛群移动的限制措施，进而对肉类加工商的运营活动产生影响。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3228685"
   }
 ]
