@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3236170",
+    "datetime": "2026-06-07T22:03:18+00:00",
+    "views": "17",
+    "text": "现货黄金短线下挫 20 美元，最低至 4311 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3236170"
+  },
+  {
+    "post": "Financial_Express/3236169",
+    "datetime": "2026-06-07T22:02:57+00:00",
+    "views": "24",
+    "text": "纽约期金失守 4340 美元/盎司，日内跌 0.59%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3236169"
+  },
+  {
+    "post": "Financial_Express/3236168",
+    "datetime": "2026-06-07T22:02:38+00:00",
+    "views": "29",
+    "text": "标普 500 股指期货早盘下跌约 0.6%；纳斯达克 100 股指期货下跌约 0.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3236168"
+  },
+  {
     "post": "Financial_Express/3236167",
     "datetime": "2026-06-07T22:01:58+00:00",
-    "views": "8",
+    "views": "36",
     "text": "布伦特原油突破 96 美元/桶，日内涨 3.15%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3236166",
     "datetime": "2026-06-07T22:01:38+00:00",
-    "views": "11",
+    "views": "35",
     "text": "钯金期货日内跌 1%，现报 1240.14 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3236165",
     "datetime": "2026-06-07T22:01:37+00:00",
-    "views": "11",
+    "views": "35",
     "text": "现货金银周一基本平开。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3236164",
     "datetime": "2026-06-07T22:01:19+00:00",
-    "views": "14",
+    "views": "38",
     "text": "益普索出口民调：秘鲁总统选举出口民调显示桑切斯以 49.3%的得票率位居第二。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3236162",
     "datetime": "2026-06-07T22:01:18+00:00",
-    "views": "15",
+    "views": "39",
     "text": "标普 500 指数期货下跌 0.4%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3236163",
     "datetime": "2026-06-07T22:01:18+00:00",
-    "views": "14",
+    "views": "39",
     "text": "布伦特原油日内涨 3%，现报 95.96 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3236161",
     "datetime": "2026-06-07T22:01:17+00:00",
-    "views": "15",
+    "views": "39",
     "text": "WTI 原油周一开涨 2.8%，周末伊朗“警告性”打击以色列。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3236160",
     "datetime": "2026-06-07T22:00:58+00:00",
-    "views": "18",
+    "views": "40",
     "text": "益普索出口民调显示：秘鲁总统选举出口民调结果显示藤森得票率为 50.7%，处于领先。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3236159",
     "datetime": "2026-06-07T22:00:57+00:00",
-    "views": "18",
+    "views": "40",
     "text": "现货黄金突破 4330 美元/盎司，日内涨 0.08%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3236157",
     "datetime": "2026-06-07T22:00:19+00:00",
-    "views": "26",
+    "views": "48",
     "text": "WTI 原油日内涨 3%，现报 93.28 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3236154",
     "datetime": "2026-06-07T22:00:18+00:00",
-    "views": "26",
+    "views": "44",
     "text": "纽约期银日内跌 2%，现报 67.68 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3236155",
     "datetime": "2026-06-07T22:00:18+00:00",
-    "views": "26",
+    "views": "45",
     "text": "纽约期金突破 4360 美元/盎司，日内跌 0.08%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3236156",
     "datetime": "2026-06-07T22:00:18+00:00",
-    "views": "26",
+    "views": "46",
     "text": "WTI 原油日内涨 2%，现报 93.14 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3236153",
     "datetime": "2026-06-07T22:00:17+00:00",
-    "views": "25",
+    "views": "43",
     "text": "布伦特原油日内涨 2%，现报 95.79 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3236152",
     "datetime": "2026-06-07T21:59:18+00:00",
-    "views": "33",
+    "views": "51",
     "text": "据以色列 i24 电视台：伊朗国家电视台报道，伊朗声称还向以色列发射了攻击无人机。如果这些无人机确实已发射，那么它们几个小时后便可抵达。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3236151",
     "datetime": "2026-06-07T21:56:58+00:00",
-    "views": "53",
+    "views": "64",
     "text": "伊朗打以色列后 以军称将猛打黎巴嫩真主党\n以色列国防军发言人埃菲·德弗林 7 日深夜说，伊朗当晚向以色列发射导弹是“一个严重错误”，以军将继续在黎巴嫩展开行动，并加大对黎真主党的打击力度。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3236150",
     "datetime": "2026-06-07T21:56:38+00:00",
-    "views": "55",
+    "views": "66",
     "text": "伊朗打以色列后 以军称将猛打黎巴嫩真主党\n金十数据 6 月 8 日讯，色列国防军发言人埃菲·德弗林 7 日深夜说，伊朗当晚向以色列发射导弹是“一个严重错误”，以军将继续在黎巴嫩展开行动，并加大对黎真主党的打击力度。德弗林在一场记者会上表示，以军不会允许伊朗方面制造一种新的力量“平衡”，以军将继续在“黎巴嫩全境”开展行动，并强化针对真主党的军事行动。德弗林说，以色列已准备好应对“更多导弹来袭”，同时做好反击准备。以军总参谋长扎米尔正在评估形势，即将“批准下一步行动计划”。",
     "media_only": false,
     "image_url": null,
@@ -15352,41 +15379,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3234452"
-  },
-  {
-    "post": "Financial_Express/3234451",
-    "datetime": "2026-06-05T22:04:17+00:00",
-    "views": "114",
-    "text": "美国总统特朗普：（伊朗）大部分无人机工厂、发射场和导弹制造区都被摧毁了。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3234451"
-  },
-  {
-    "post": "Financial_Express/3234450",
-    "datetime": "2026-06-05T22:03:58+00:00",
-    "views": "114",
-    "text": "美国总统特朗普：在迄今为止的冲突中，我们已经彻底摧毁了他们的军队，不过伊朗仍然拥有一些导弹和无人机。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3234450"
-  },
-  {
-    "post": "Financial_Express/3234449",
-    "datetime": "2026-06-05T22:03:18+00:00",
-    "views": "85",
-    "text": "伊朗半官方媒体否认哈尔克岛传来爆炸声的相关报道，称该消息不实。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3234449"
-  },
-  {
-    "post": "Financial_Express/3234448",
-    "datetime": "2026-06-05T22:03:17+00:00",
-    "views": "84",
-    "text": "美国总统特朗普：伊朗别无选择，但这需要一些时间。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3234448"
   }
 ]
