@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3239233",
+    "datetime": "2026-06-08T21:20:18+00:00",
+    "views": "7",
+    "text": "Meta Platforms(META.O)：美国劳动力学院正式启动，首年获 1.15 亿美元启动资金支持。该项目将于 2026 年在路易斯安那州、俄亥俄州、印第安纳州和得克萨斯州启动试点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3239233"
+  },
+  {
+    "post": "Financial_Express/3239232",
+    "datetime": "2026-06-08T21:19:38+00:00",
+    "views": "17",
+    "text": "苹果：将对用于私有云计算的谷歌硬件建立台账管理，本月晚些时候，苹果将在一场峰会上公布更多关于谷歌云私有云计算的技术细节。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3239232"
+  },
+  {
+    "post": "Financial_Express/3239231",
+    "datetime": "2026-06-08T21:19:37+00:00",
+    "views": "17",
+    "text": "Meta 宣布推出美国劳动力学院，首年投入 1.15 亿美元启动资金。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3239231"
+  },
+  {
     "post": "Financial_Express/3239229",
     "datetime": "2026-06-08T21:17:38+00:00",
-    "views": "15",
+    "views": "36",
     "text": "苹果(AAPL.O)：无论基础设施托管在何处，苹果始终保持对 Private Cloud Compute 软件的完全控制权。苹果设备仅信任经由苹果加密认证的 Private Cloud Compute 软件。在 Google Cloud 上运行的 Private Cloud Compute 服务，将在整个夏季预览期间逐步落实全套保护措施。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3239230",
     "datetime": "2026-06-08T21:17:38+00:00",
-    "views": "17",
+    "views": "38",
     "text": "OpenAI：IPO 可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3239228",
     "datetime": "2026-06-08T21:17:18+00:00",
-    "views": "23",
+    "views": "43",
     "text": "OpenAI：上市进程或需时日，因为部分规划事项在非上市阶段推进更为顺利。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3239227",
     "datetime": "2026-06-08T21:15:58+00:00",
-    "views": "38",
+    "views": "54",
     "text": "苹果：部署在谷歌云的私有云计算服务，将在整个夏季预览阶段逐步完善全套安全防护机制。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3239226",
     "datetime": "2026-06-08T21:15:57+00:00",
-    "views": "39",
+    "views": "54",
     "text": "OpenAI：尚未确定 IPO 时间表。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3239225",
     "datetime": "2026-06-08T21:15:38+00:00",
-    "views": "41",
+    "views": "56",
     "text": "富时 A50 期指连续夜盘收涨 0.10%，报 15206 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3239224",
     "datetime": "2026-06-08T21:15:37+00:00",
-    "views": "41",
+    "views": "56",
     "text": "苹果：无论基础设施部署于何处，苹果始终全权掌控私有云计算软件。苹果设备仅信任经本公司加密认证的私有云计算软件。",
     "media_only": false,
     "image_url": null,
@@ -65,8 +92,8 @@
   {
     "post": "Financial_Express/3239223",
     "datetime": "2026-06-08T21:14:58+00:00",
-    "views": "47",
-    "text": "OpenAI：已秘密向美国证券交易委员会提交 S-1 注册声明草案。",
+    "views": "61",
+    "text": "OpenAI 已提交 IPO 申请\nOpenAI：已秘密向美国证券交易委员会提交 S-1 注册声明草案。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3239223"
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3239222",
     "datetime": "2026-06-08T21:14:38+00:00",
-    "views": "49",
+    "views": "62",
     "text": "OpenAI：向美国证券交易委员会秘密提交 S-1 招股说明书草案。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3239221",
     "datetime": "2026-06-08T21:12:58+00:00",
-    "views": "55",
+    "views": "67",
     "text": "据以色列 i24 新闻台： 以色列南部埃拉特地区因无人机来袭拉响红色警报，以色列国防军已拦截该来袭目标。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3239220",
     "datetime": "2026-06-08T21:12:57+00:00",
-    "views": "55",
+    "views": "68",
     "text": "据以色列 i24 新闻台：以色列南部埃拉特因无人机威胁拉响红色警报。以军已拦截该威胁。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3239219",
     "datetime": "2026-06-08T21:11:37+00:00",
-    "views": "60",
+    "views": "71",
     "text": "OpenAI 首席科学家：OpenAI 致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。\n❤1",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3239217",
     "datetime": "2026-06-08T21:08:37+00:00",
-    "views": "68",
+    "views": "76",
     "text": "苹果(AAPL.O)：推出了新的智能功能，并扩展了 Xcode 中的生产力功能。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3239216",
     "datetime": "2026-06-08T21:07:37+00:00",
-    "views": "73",
+    "views": "80",
     "text": "苹果：为 Xcode 新增智能功能，并升级多项高效办公特性。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3239215",
     "datetime": "2026-06-08T21:07:17+00:00",
-    "views": "76",
+    "views": "83",
     "text": "周一（6 月 8 日）纽约尾盘（周二北京时间 04:59），离岸人民币（CNH）兑美元报 6.7847 元，较上周五纽约尾盘涨 60 点，日内整体交投于 6.7924-6.7804 元区间。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3239214",
     "datetime": "2026-06-08T21:05:17+00:00",
-    "views": "88",
+    "views": "95",
     "text": "高通(QCOM.O)美股盘后上涨近 8%。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +182,7 @@
   {
     "post": "Financial_Express/3239213",
     "datetime": "2026-06-08T21:04:38+00:00",
-    "views": "92",
+    "views": "99",
     "text": "高通美股盘后上涨 7.7%。",
     "media_only": false,
     "image_url": null,
@@ -36952,14 +36979,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3235112"
-  },
-  {
-    "post": "Financial_Express/3235111",
-    "datetime": "2026-06-06T21:19:38+00:00",
-    "views": "82",
-    "text": "伊朗驻墨西哥大使：世界杯参赛队比赛当日进出美国\n金十数据 6 月 7 日讯，伊朗驻墨西哥大使表示，伊朗国家足球队已被告知，在美国参加世界杯比赛时，必须于比赛当天进入并离开美国领土。由于美国与以色列对德黑兰的战争，伊朗队目前驻扎在墨西哥，而非原定的亚利桑那州图森市。大使帕桑迪德解释签证限制称：“我们可以在早上入境，但必须在当天离开。”伊朗队在美国共有三场小组赛，分别在洛杉矶和西雅图举行。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3235111"
   }
 ]
