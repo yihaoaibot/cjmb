@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3239128",
+    "datetime": "2026-06-08T19:18:18+00:00",
+    "views": "3",
+    "text": "苹果软件主管克雷格·费德里吉：苹果的私有云将使用三款由苹果自主研发的 AI 模型，这些模型是基于其与谷歌的合作开发的。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3239128"
+  },
+  {
+    "post": "Financial_Express/3239127",
+    "datetime": "2026-06-08T19:17:57+00:00",
+    "views": "6",
+    "text": "苹果软件主管克雷格·费德里吉：苹果构建了自有的“世界知识服务”，该服务运行于其私有云计算平台上。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3239127"
+  },
+  {
+    "post": "Financial_Express/3239125",
+    "datetime": "2026-06-08T19:17:38+00:00",
+    "views": "6",
+    "text": "苹果软件主管克雷格·费德里吉：许多 Apple Intelligence 请求是在设备端处理的，而更复杂的请求则会被发送至苹果专有的私有云端进行处理。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3239125"
+  },
+  {
+    "post": "Financial_Express/3239126",
+    "datetime": "2026-06-08T19:17:38+00:00",
+    "views": "6",
+    "text": "苹果软件主管克雷格・费德里吉： 苹果已搭建专属知识服务体系，该服务运行于公司自有私有云计算平台。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3239126"
+  },
+  {
+    "post": "Financial_Express/3239124",
+    "datetime": "2026-06-08T19:17:17+00:00",
+    "views": "10",
+    "text": "苹果软件主管克雷格・费德里吉：苹果专属云将采用三款自研 AI 模型，这些模型由苹果与谷歌合作打造。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3239124"
+  },
+  {
+    "post": "Financial_Express/3239123",
+    "datetime": "2026-06-08T19:16:57+00:00",
+    "views": "14",
+    "text": "苹果软件主管克雷格・费德里吉： Apple Intelligence 的多项指令均在设备端处理，更复杂的请求则交由苹果自有专属云计算平台处理。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3239123"
+  },
+  {
     "post": "Financial_Express/3239122",
     "datetime": "2026-06-08T19:15:37+00:00",
-    "views": "15",
+    "views": "57",
     "text": "受美国封锁影响，托克暂停部分古巴锌货运业务。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3239121",
     "datetime": "2026-06-08T19:15:17+00:00",
-    "views": "21",
+    "views": "63",
     "text": "标普 500 指数涨幅收窄至 0.3%，刷新日低。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3239120",
     "datetime": "2026-06-08T19:13:57+00:00",
-    "views": "41",
+    "views": "50",
     "text": "苹果软件主管克雷格·费德里吉：（谈苹果全新智能功能）我们的系统并非基于谷歌搜索。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3239119",
     "datetime": "2026-06-08T19:13:17+00:00",
-    "views": "51",
+    "views": "57",
     "text": "苹果软件主管克雷格・费德里吉谈及全新苹果智能功能时表示：我们的系统并未采用谷歌搜索作为底层支撑。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3239118",
     "datetime": "2026-06-08T19:05:57+00:00",
-    "views": "92",
+    "views": "95",
     "text": "韩元脱离 2009 年以来最低位\n周一（6 月 8 日），韩元兑美元最终涨 2%，报 1526.98 韩元，全天持续上扬。上周五（非农日）曾跌至 1562.29 韩元，创 2009 年 3 月以来最低位。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3239117",
     "datetime": "2026-06-08T19:05:18+00:00",
-    "views": "93",
+    "views": "95",
     "text": "国际货币基金组织：执董会批准向卢旺达提供 2.5 亿美元扩展信贷安排，并当即拨付 3570 万美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3239116",
     "datetime": "2026-06-08T19:03:38+00:00",
-    "views": "98",
+    "views": "100",
     "text": "在岸人民币兑美元（CNY）北京时间 03:00 收报 6.7842 元，较上周五夜盘收盘涨 36 点。成交量 467.76 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3239115",
     "datetime": "2026-06-08T19:03:37+00:00",
-    "views": "97",
+    "views": "99",
     "text": "国际货币基金组织：国际货币基金组织执行董事会批准卢旺达关于延长信贷安排的申请。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3239114",
     "datetime": "2026-06-08T19:02:17+00:00",
-    "views": "97",
+    "views": "99",
     "text": "据 Axios：据知情人士透露，乌克兰总统泽连斯基周一与威特科夫及库什纳通了电话。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3239113",
     "datetime": "2026-06-08T19:01:57+00:00",
-    "views": "96",
+    "views": "98",
     "text": "恒指期货夜盘收跌 0.04%，报 24555 点，低水 102 点。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3239112",
     "datetime": "2026-06-08T19:00:57+00:00",
-    "views": "97",
+    "views": "99",
     "text": "据 AXIOS：泽连斯基周一与维特科夫、库什纳通了电话。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3239111",
     "datetime": "2026-06-08T19:00:18+00:00",
-    "views": "98",
+    "views": "100",
     "text": "恒指期货夜盘收跌 0.05%，报 24552.28 点，低水 104.78 点。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3239110",
     "datetime": "2026-06-08T18:54:17+00:00",
-    "views": "145",
+    "views": "147",
     "text": "据报道，美国白宫表示，美国政府将就法院推翻 H-1B 签证费用的裁决提出上诉。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3239109",
     "datetime": "2026-06-08T18:49:57+00:00",
-    "views": "160",
+    "views": "162",
     "text": "布伦特原油期货结算价报每桶 94.25 美元，上涨 1.16 美元，涨幅 1.25%。",
     "media_only": false,
     "image_url": null,
