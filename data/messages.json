@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3238955",
+    "datetime": "2026-06-08T17:22:18+00:00",
+    "views": "4",
+    "text": "苹果(AAPL.O)：从今年起，家长可以让孩子仅访问自己放心的内容。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3238955"
+  },
+  {
+    "post": "Financial_Express/3238954",
+    "datetime": "2026-06-08T17:21:39+00:00",
+    "views": "18",
+    "text": "苹果：从今年起，家长可限定孩子仅访问自己认可的内容。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3238954"
+  },
+  {
+    "post": "Financial_Express/3238953",
+    "datetime": "2026-06-08T17:21:38+00:00",
+    "views": "18",
+    "text": "苹果(AAPL.O)：正与美国医生团体合作制定设备使用指南。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3238953"
+  },
+  {
+    "post": "Financial_Express/3238952",
+    "datetime": "2026-06-08T17:21:17+00:00",
+    "views": "19",
+    "text": "惠誉：能源价格上涨正在削弱发达市场的增长与通胀前景，并给公共财政带来压力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3238952"
+  },
+  {
+    "post": "Financial_Express/3238951",
+    "datetime": "2026-06-08T17:20:38+00:00",
+    "views": "54",
+    "text": "美国法官裁定特朗普政府征收 10 万美元 H-1B 签证费用的规定无效。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3238951"
+  },
+  {
+    "post": "Financial_Express/3238950",
+    "datetime": "2026-06-08T17:20:37+00:00",
+    "views": "54",
+    "text": "苹果公司：正与美国医师协会合作制定设备使用规范。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3238950"
+  },
+  {
     "post": "Financial_Express/3238949",
     "datetime": "2026-06-08T17:20:19+00:00",
-    "views": "5",
+    "views": "56",
     "text": "纳斯达克中国金龙指数跌超 0.5%，中进医疗跌 8.10%，大全新能源跌 6.50%，声网跌 5.30%，新氧跌 5.18%，海天网络跌 5.12%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3238948",
     "datetime": "2026-06-08T17:20:18+00:00",
-    "views": "6",
+    "views": "58",
     "text": "据 CNN：黎巴嫩总统约瑟夫·奥恩表示，目前正在与以色列商谈一项互不侵犯协议。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3238947",
     "datetime": "2026-06-08T17:19:58+00:00",
-    "views": "14",
+    "views": "60",
     "text": "黎巴嫩总统：在达成终止战争的协议前，我不会与内塔尼亚胡会面。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3238945",
     "datetime": "2026-06-08T17:19:18+00:00",
-    "views": "21",
+    "views": "62",
     "text": "惠誉评全球主权信用：能源价格走高正拖累发达经济体的增长与通胀前景，给公共财政带来额外压力。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3238946",
     "datetime": "2026-06-08T17:19:18+00:00",
-    "views": "52",
+    "views": "64",
     "text": "黎巴嫩总统：目前我们正与以色列就一项互不侵犯协议进行谈判。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3238944",
     "datetime": "2026-06-08T17:19:17+00:00",
-    "views": "21",
+    "views": "62",
     "text": "美国一名联邦法官裁定，特朗普时期设立的每项 10 万美元 H-1B 签证费用属于对企业的违规征税，该收费规定必须予以撤销。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3238942",
     "datetime": "2026-06-08T17:17:39+00:00",
-    "views": "59",
+    "views": "66",
     "text": "美联储在固定利率逆回购操作中总计接纳了 16 个对手方的 18.32 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3238943",
     "datetime": "2026-06-08T17:17:39+00:00",
-    "views": "59",
+    "views": "96",
     "text": "苹果 macOS 全新版本代号“Golden Gate”，多设计变化\n6 月 9 日凌晨，苹果召开 WWDC26 全球开发者大会。会上，苹果公布了全新 macOS 版本——macOS Golden Gate。该版本在设计方面作出大量优化，例如，为了让用户看得更清楚，苹果精调了 Liquid Glass，添加了新的滑块和设置选项来调节 Liquid Glass，从超通透到饱满色调；边栏现在扩展到窗口边缘，下层内容滚动的时候能呈现出同样精美的折射效果；macOS 中的每个窗口都统一采用半径小的圆设计，叠层之间会产生折射效果，为图标带来独特的美感。（新浪科技）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3238941",
     "datetime": "2026-06-08T17:17:19+00:00",
-    "views": "61",
+    "views": "69",
     "text": "土耳其财政部长：伊朗战争至少给土耳其通货膨胀带来 5 个百分点的压力。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3238940",
     "datetime": "2026-06-08T17:17:18+00:00",
-    "views": "60",
+    "views": "67",
     "text": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3238939",
     "datetime": "2026-06-08T17:16:57+00:00",
-    "views": "60",
+    "views": "67",
     "text": "周一（6 月 8 日），美联储隔夜逆回购协议（RRP）使用规模为 18.32 亿美元（交易对手 16 家），上个交易日（非农日）报 7.61 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3238938",
     "datetime": "2026-06-08T17:16:37+00:00",
-    "views": "61",
+    "views": "69",
     "text": "惠誉：预计美伊冲突将拖累 GDP 增长，推高通胀与债券收益率，并加剧全球主权国家的地缘政治风险。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3238937",
     "datetime": "2026-06-08T17:16:18+00:00",
-    "views": "61",
+    "views": "69",
     "text": "惠誉：预计美伊冲突将削弱全球主权经济体 GDP 增长，推高通胀与债券收益率，并加剧地缘政治风险。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3238936",
     "datetime": "2026-06-08T17:14:38+00:00",
-    "views": "100",
+    "views": "106",
     "text": "惠誉因伊朗战争的影响将全球主权债务行业前景下调至“恶化”。",
     "media_only": false,
     "image_url": null,
@@ -35467,14 +35521,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3234997"
-  },
-  {
-    "post": "Financial_Express/3234996",
-    "datetime": "2026-06-06T17:20:58+00:00",
-    "views": "157",
-    "text": "美国官员：以色列加大对维特科夫等美方官员的监听力度，试图打探特朗普在伊核谈判中的策略，以色列刺探美方伊方谈判立场的间谍活动已越界。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3234996"
   }
 ]
