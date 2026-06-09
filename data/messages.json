@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3241677",
+    "datetime": "2026-06-09T17:17:18+00:00",
+    "views": "2",
+    "text": "美联储在固定利率逆回购操作中总计接纳了 13 个对手方的 5.77 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3241677"
+  },
+  {
     "post": "Financial_Express/3241676",
     "datetime": "2026-06-09T17:16:38+00:00",
-    "views": "1",
+    "views": "5",
     "text": "周二（6 月 9 日），美联储隔夜逆回购协议（RRP）使用规模为 5.77 亿美元（交易对手 13 家），上个交易日报 18.32 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3241675",
     "datetime": "2026-06-09T17:15:18+00:00",
-    "views": "5",
+    "views": "38",
     "text": "自 IPO 以来，CoreWeave 创始人已疯狂套现 23 亿美元\n自这家人工智能（AI）数据中心运营商于 2025 年 3 月美国 IPO 以来，CoreWeave Inc.股价已飙升一倍以上。与此同时，公司高管层已高位减持了价值超过 23 亿美元的个人股票。减持大头主要来自该公司的三位亿万富翁联合创始人——Michael Intrator、Brannin McBee、以及 Brian Venturo。其中，自 2025 年 8 月公司 IPO 禁售期届满后，Venturo 一人便抛售了价值超过 11 亿美元的股票。上述所有减持均通过合规的 10b5-1 交易计划自动执行。目前，创始团队手中依然握有极具分量的筹码，其中 Intrator 仍按 10.4%的持股比例稳居公司第一大个人股东。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3241674",
     "datetime": "2026-06-09T17:07:58+00:00",
-    "views": "127",
+    "views": "128",
     "text": "Anthropic 发布不具备网络安全功能的 Mythos 公开版\n金十数据 6 月 10 日讯，Anthropic 当地时间周二推出其 Mythos 模型的公开版本，但设置了限制措施，禁止将其用于网络安全等高风险领域。Anthropic 表示，新版 Claude Fable 5 是 Anthropic 迄今为止为更广泛应用打造的最强模型，并盛赞其在软件工程和数据分析方面的表现。Anthropic 此前曾宣布，Mythos 已发现数千个软件漏洞，此后该公司通过“Glasswing”计划，将该模型的使用范围限制在包括美国政府在内的约 200 家机构。Anthropic 表示，已进行广泛测试，以确保用户无法操纵 Claude Fable 5 绕过其指导方针并执行受限操作。Anthropic 产品管理、研究与实验室负责人 Dianne Penn 表示，根据早期客户反馈，Fable 5 虽然价格更高，但其执行任务所需的 token 消耗更低，从而降低了每项任务的总体成本。Anthropic 还表示，拥有 Claude Mythos 预览版（即无安全防护机制版本）访问权限的用户，将能够升级至全新的 Claude Mythos 5。这两款模型的定价均为每百万输入 token 10 美元，每百万输出 token 50 美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3241673",
     "datetime": "2026-06-09T17:07:17+00:00",
-    "views": "127",
+    "views": "128",
     "text": "Anthropic：发布 Claude Fable 5，这是一个 Mythos 级别的模型，但已调整为适合大众安全使用版本。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3241671",
     "datetime": "2026-06-09T17:06:38+00:00",
-    "views": "127",
+    "views": "129",
     "text": "美国三年期国债收益率在拍卖后保持稳定，最新下跌 1.8 个基点，报 4.189% 。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3241672",
     "datetime": "2026-06-09T17:06:38+00:00",
-    "views": "127",
+    "views": "128",
     "text": "标普 500 指数跌幅收窄至 1.5%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3241670",
     "datetime": "2026-06-09T17:06:17+00:00",
-    "views": "127",
+    "views": "128",
     "text": "美国三年期国债中标后收益率保持平稳，最新收益率下跌 1.8 个基点，报 4.189%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3241669",
     "datetime": "2026-06-09T17:05:58+00:00",
-    "views": "128",
+    "views": "129",
     "text": "据 Axios：一位美国高级官员表示，调查确定一架伊朗无人机击中了一架直升机并导致其坠毁。这位美国高级官员表示，调查尚未确定这次击中是有意还是无意，此事仍在审查中。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3241668",
     "datetime": "2026-06-09T17:04:58+00:00",
-    "views": "127",
+    "views": "128",
     "text": "Anthropic：面向一小部分网络安全防御人员与基础设施提供商，同时发布 Claude Mythos 5。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3241667",
     "datetime": "2026-06-09T17:03:38+00:00",
-    "views": "130",
+    "views": "160",
     "text": "Anthropic：Mythos 5 与 Fable 5 模型定价为每 100 万输入 tokens 收费 10 美元，每 100 万输出 tokens 收费 50 美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3241665",
     "datetime": "2026-06-09T17:03:00+00:00",
-    "views": "130",
+    "views": "160",
     "text": "Anthropic：计划通过更广泛的“可信访问计划”扩大 Claude Mythos 5 的使用范围。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3241664",
     "datetime": "2026-06-09T17:02:38+00:00",
-    "views": "130",
+    "views": "160",
     "text": "美国财政部拍卖 580 亿美元三年期国债，得标利率 4.192%（4 月 7 日为 3.897%），投标倍数 2.64（前次为 2.54）。",
     "media_only": false,
     "image_url": null,
