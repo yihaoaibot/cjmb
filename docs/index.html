@@ -1,5 +1,57 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-06-09T22:52:39.521038+00:00","clsvipUpdated":"2026-06-09T22:52:53.463974+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">6月10日</h2><div class="feed"><article class="item" data-search="纽约期金失守 4260 美元/盎司，日内跌 0.62%。"><div class="time">06:51</div><div class="content"><div class="text" data-full="纽约期金失守 4260 美元/盎司，日内跌 0.62%。" data-short="纽约期金失守 4260 美元/盎司，日内跌 0.62%。">纽约期金失守 4260 美元/盎司，日内跌 0.62%。</div></div></article><article class="item" data-search="伊朗称南部储水系统遭美军袭击
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-06-09T22:54:38.726157+00:00","clsvipUpdated":"2026-06-09T22:54:52.316721+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">6月10日</h2><div class="feed"><article class="item" data-search="除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、第九届进博会推介会暨“共享大市场·出口中国”哈萨克斯坦主题活动在阿斯塔纳举办
+2、跨省共济，让医保个账资金成为“家庭健康金”（政策解读·问答）
+3、福建厦门集聚超百家海洋药物和生物制品企业 从海水中开发一条产业链（海洋经济高质量发展一线见闻）
+4、从词元套餐看新机遇（新知）
+5、光伏行业迈向更加理性、稳健、可持续的新阶段（经济聚焦）
+6、积极应对行业格局调整 光伏企业寻找新的增长点
+7、广东化州市发展化橘红产业 “不只卖果，还卖体验”（高质量发展在一线·小城宝藏）
+8、人形机器人与具身智能实景实训专项行动启动
+9、崇启公铁长江大桥顺利合龙
+10、中国一汽推动采购整体效率提升 40%以上 数智技术赋能采购数字化转型
+11、满洲里边境口岸汽车出入境运输管理基础设施建设项目获批
+12、工业和信息化部指导规范 app 信息窗口跳转行为
+13、朱雀二号改进型遥六运载火箭发射成功
+14、中消协等发布未成年人消费领域提示 购买儿童商品 避开这些“坑”
+15、新版《药物临床试验质量管理规范》发布
+16、塔里木油田今年绿电发电量超 11 亿千瓦时
+17、中巴财金分委会第十二次会议举行
+18、从一杯茶饮看中国服务出海又出圈（商海观潮）
+19、产品迭代、场景创新、科技赋能 儿童消费市场“长高”了（新视窗）。"><div class="time">06:54</div><div class="content"><div class="text" data-full="除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、第九届进博会推介会暨“共享大市场·出口中国”哈萨克斯坦主题活动在阿斯塔纳举办
+2、跨省共济，让医保个账资金成为“家庭健康金”（政策解读·问答）
+3、福建厦门集聚超百家海洋药物和生物制品企业 从海水中开发一条产业链（海洋经济高质量发展一线见闻）
+4、从词元套餐看新机遇（新知）
+5、光伏行业迈向更加理性、稳健、可持续的新阶段（经济聚焦）
+6、积极应对行业格局调整 光伏企业寻找新的增长点
+7、广东化州市发展化橘红产业 “不只卖果，还卖体验”（高质量发展在一线·小城宝藏）
+8、人形机器人与具身智能实景实训专项行动启动
+9、崇启公铁长江大桥顺利合龙
+10、中国一汽推动采购整体效率提升 40%以上 数智技术赋能采购数字化转型
+11、满洲里边境口岸汽车出入境运输管理基础设施建设项目获批
+12、工业和信息化部指导规范 APP 信息窗口跳转行为
+13、朱雀二号改进型遥六运载火箭发射成功
+14、中消协等发布未成年人消费领域提示 购买儿童商品 避开这些“坑”
+15、新版《药物临床试验质量管理规范》发布
+16、塔里木油田今年绿电发电量超 11 亿千瓦时
+17、中巴财金分委会第十二次会议举行
+18、从一杯茶饮看中国服务出海又出圈（商海观潮）
+19、产品迭代、场景创新、科技赋能 儿童消费市场“长高”了（新视窗）。" data-short="除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、第九届进博会推介会暨“共享大市场·出口中国”哈萨克斯坦主题活动在阿斯塔纳举办
+2、跨省共济，让医保个账资金成为“家庭健康金”（政策解读·问答）
+3、福建厦门集聚超百家海洋药物和生物制品企业 从海水中开发一条产业链（海洋经济高质量发展一线见闻）
+4、从词元套餐看新机遇（新知）
+5、光伏行业迈向更加理...">除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、第九届进博会推介会暨“共享大市场·出口中国”哈萨克斯坦主题活动在阿斯塔纳举办
+2、跨省共济，让医保个账资金成为“家庭健康金”（政策解读·问答）
+3、福建厦门集聚超百家海洋药物和生物制品企业 从海水中开发一条产业链（海洋经济高质量发展一线见闻）
+4、从词元套餐看新机遇（新知）
+5、光伏行业迈向更加理...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="战火重燃 美军报复性打击伊朗 伊南部多地发生爆炸
+美国东部时间 9 日 17 时，美军对伊朗发动“自卫性”打击，以回应前一天美军“阿帕奇”直升机被击落事件。伊朗霍尔木兹甘省多地发生爆炸，部分地区防空系统启动，但伊朗官方目前暂无回应。与此同时，美官员释放消息称，此次打击旨在向伊朗发出警告信号，行动不会干扰美伊谈判进程。（央视新闻）"><div class="time">06:53</div><div class="content"><div class="text" data-full="战火重燃 美军报复性打击伊朗 伊南部多地发生爆炸
+美国东部时间 9 日 17 时，美军对伊朗发动“自卫性”打击，以回应前一天美军“阿帕奇”直升机被击落事件。伊朗霍尔木兹甘省多地发生爆炸，部分地区防空系统启动，但伊朗官方目前暂无回应。与此同时，美官员释放消息称，此次打击旨在向伊朗发出警告信号，行动不会干扰美伊谈判进程。（央视新闻）" data-short="战火重燃 美军报复性打击伊朗 伊南部多地发生爆炸
+美国东部时间 9 日 17 时，美军对伊朗发动“自卫性”打击，以回应前一天美军“阿帕奇”直升机被击落事件。伊朗霍尔木兹甘省多地发生爆炸，部分地区防空系统启动，但伊朗官方目前暂无回应。与此同时，美官员释放消息称，此次打击旨在向伊朗发出警告信号，行动不会干扰美伊谈判进程。（央视新闻）">战火重燃 美军报复性打击伊朗 伊南部多地发生爆炸
+美国东部时间 9 日 17 时，美军对伊朗发动“自卫性”打击，以回应前一天美军“阿帕奇”直升机被击落事件。伊朗霍尔木兹甘省多地发生爆炸，部分地区防空系统启动，但伊朗官方目前暂无回应。与此同时，美官员释放消息称，此次打击旨在向伊朗发出警告信号，行动不会干扰美伊谈判进程。（央视新闻）</div></div></article><article class="item" data-search="纽约期金失守 4260 美元/盎司，日内跌 0.62%。"><div class="time">06:51</div><div class="content"><div class="text" data-full="纽约期金失守 4260 美元/盎司，日内跌 0.62%。" data-short="纽约期金失守 4260 美元/盎司，日内跌 0.62%。">纽约期金失守 4260 美元/盎司，日内跌 0.62%。</div></div></article><article class="item" data-search="伊朗称南部储水系统遭美军袭击
 伊朗国家电视台今天（6 月 10 日）凌晨报道称，美军稍早前袭击伊朗南部锡里克市巴曼尼区的两个储水系统。袭击发生后，该区域的居民饮用水供应暂时中断。（cctv 国际时讯）"><div class="time">06:48</div><div class="content"><div class="text" data-full="伊朗称南部储水系统遭美军袭击
 伊朗国家电视台今天（6 月 10 日）凌晨报道称，美军稍早前袭击伊朗南部锡里克市巴曼尼区的两个储水系统。袭击发生后，该区域的居民饮用水供应暂时中断。（CCTV 国际时讯）" data-short="伊朗称南部储水系统遭美军袭击
 伊朗国家电视台今天（6 月 10 日）凌晨报道称，美军稍早前袭击伊朗南部锡里克市巴曼尼区的两个储水系统。袭击发生后，该区域的居民饮用水供应暂时中断。（CCTV 国际时讯）">伊朗称南部储水系统遭美军袭击
@@ -383,15 +435,7 @@ Anthropic 公司发强力大模型 Mythos 的特殊衍生版本，命名为 Fabl
 金十数据 6 月 10 日讯，当地时间 6 月 9 日，保加利亚国防部长斯托亚诺夫在索菲亚表示，保加利亚将停止对乌克兰的军事援助。他认为，俄乌冲突无法在战场上解决，现在俄乌双方需要通过谈判寻求和平。自 2022 年俄乌冲突爆发以来，保加利亚已向乌克兰提供了 13 批武器援助。但今年拉德夫政府上台后，对乌政策发生了转变。"><div class="time">00:26</div><div class="content"><div class="text" data-full="保加利亚防长称将停止对乌克兰军事援助
 金十数据 6 月 10 日讯，当地时间 6 月 9 日，保加利亚国防部长斯托亚诺夫在索菲亚表示，保加利亚将停止对乌克兰的军事援助。他认为，俄乌冲突无法在战场上解决，现在俄乌双方需要通过谈判寻求和平。自 2022 年俄乌冲突爆发以来，保加利亚已向乌克兰提供了 13 批武器援助。但今年拉德夫政府上台后，对乌政策发生了转变。" data-short="保加利亚防长称将停止对乌克兰军事援助
 金十数据 6 月 10 日讯，当地时间 6 月 9 日，保加利亚国防部长斯托亚诺夫在索菲亚表示，保加利亚将停止对乌克兰的军事援助。他认为，俄乌冲突无法在战场上解决，现在俄乌双方需要通过谈判寻求和平。自 2022 年俄乌冲突爆发以来，保加利亚已向乌克兰提供了 13 批武器援助。但今年拉德夫政府上台后，对乌政策发生了转变。">保加利亚防长称将停止对乌克兰军事援助
-金十数据 6 月 10 日讯，当地时间 6 月 9 日，保加利亚国防部长斯托亚诺夫在索菲亚表示，保加利亚将停止对乌克兰的军事援助。他认为，俄乌冲突无法在战场上解决，现在俄乌双方需要通过谈判寻求和平。自 2022 年俄乌冲突爆发以来，保加利亚已向乌克兰提供了 13 批武器援助。但今年拉德夫政府上台后，对乌政策发生了转变。</div></div></article><article class="item" data-search="高盛和巴克莱警示：上周五美股的急挫不应被轻易视作一次性的异常波动
-上周五的抛售让习惯于动量股只涨不跌的投资者措手不及。但投资者不应轻易将其视为一次性的异常波动。巴克莱和高盛集团的交易部门发出上述警告，认为持仓拥挤、市场广度狭窄以及利率将在更长时间维持高位的前景，使得股市更容易出现突然的回调。高盛交易员 lee coppersmith 等人在致客户的报告中写道：“这些因素共同营造出一种环境，使得因子交易平仓的冲击可能远比指数层面波动率所显示的水平更加剧烈。”上周五让投资者见识到，一旦市场情绪逆转，股市中涨幅最大的股票走势可能多快掉头。"><div class="time">00:26</div><div class="content"><div class="text" data-full="高盛和巴克莱警示：上周五美股的急挫不应被轻易视作一次性的异常波动
-上周五的抛售让习惯于动量股只涨不跌的投资者措手不及。但投资者不应轻易将其视为一次性的异常波动。巴克莱和高盛集团的交易部门发出上述警告，认为持仓拥挤、市场广度狭窄以及利率将在更长时间维持高位的前景，使得股市更容易出现突然的回调。高盛交易员 Lee Coppersmith 等人在致客户的报告中写道：“这些因素共同营造出一种环境，使得因子交易平仓的冲击可能远比指数层面波动率所显示的水平更加剧烈。”上周五让投资者见识到，一旦市场情绪逆转，股市中涨幅最大的股票走势可能多快掉头。" data-short="高盛和巴克莱警示：上周五美股的急挫不应被轻易视作一次性的异常波动
-上周五的抛售让习惯于动量股只涨不跌的投资者措手不及。但投资者不应轻易将其视为一次性的异常波动。巴克莱和高盛集团的交易部门发出上述警告，认为持仓拥挤、市场广度狭窄以及利率将在更长时间维持高位的前景，使得股市更容易出现突然的回调。高盛交易员 Lee Coppersmith 等人在致客户的报告中写道...">高盛和巴克莱警示：上周五美股的急挫不应被轻易视作一次性的异常波动
-上周五的抛售让习惯于动量股只涨不跌的投资者措手不及。但投资者不应轻易将其视为一次性的异常波动。巴克莱和高盛集团的交易部门发出上述警告，认为持仓拥挤、市场广度狭窄以及利率将在更长时间维持高位的前景，使得股市更容易出现突然的回调。高盛交易员 Lee Coppersmith 等人在致客户的报告中写道...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="武磊完成第 101 次国家队出场 国足 0-0 战平泰国
-北京时间 6 月 9 日晚，2026 中国之队国际足球邀请赛，中国男足在浙江金华主场 0-0 战平泰国男足。赛前，中国足协为武磊举办了国家队百场纪念仪式。此役登场，是武磊代表国家队的第 101 次出战。"><div class="time">00:25</div><div class="content"><div class="text" data-full="武磊完成第 101 次国家队出场 国足 0-0 战平泰国
-北京时间 6 月 9 日晚，2026 中国之队国际足球邀请赛，中国男足在浙江金华主场 0-0 战平泰国男足。赛前，中国足协为武磊举办了国家队百场纪念仪式。此役登场，是武磊代表国家队的第 101 次出战。" data-short="武磊完成第 101 次国家队出场 国足 0-0 战平泰国
-北京时间 6 月 9 日晚，2026 中国之队国际足球邀请赛，中国男足在浙江金华主场 0-0 战平泰国男足。赛前，中国足协为武磊举办了国家队百场纪念仪式。此役登场，是武磊代表国家队的第 101 次出战。">武磊完成第 101 次国家队出场 国足 0-0 战平泰国
-北京时间 6 月 9 日晚，2026 中国之队国际足球邀请赛，中国男足在浙江金华主场 0-0 战平泰国男足。赛前，中国足协为武磊举办了国家队百场纪念仪式。此役登场，是武磊代表国家队的第 101 次出战。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">6月10日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">00:15</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">6月9日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">22:12</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="【公告全知道】pcb+光纤+光通信+芯片+先进封装+数据中心！公司光芯片产品已小批量出货
+金十数据 6 月 10 日讯，当地时间 6 月 9 日，保加利亚国防部长斯托亚诺夫在索菲亚表示，保加利亚将停止对乌克兰的军事援助。他认为，俄乌冲突无法在战场上解决，现在俄乌双方需要通过谈判寻求和平。自 2022 年俄乌冲突爆发以来，保加利亚已向乌克兰提供了 13 批武器援助。但今年拉德夫政府上台后，对乌政策发生了转变。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">6月10日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">00:15</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">6月9日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">22:12</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="【公告全知道】pcb+光纤+光通信+芯片+先进封装+数据中心！公司光芯片产品已小批量出货
 
 #世运电路
 #菲利华
