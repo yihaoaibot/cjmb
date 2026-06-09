@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3241674",
+    "datetime": "2026-06-09T17:07:58+00:00",
+    "views": "2",
+    "text": "Anthropic 发布不具备网络安全功能的 Mythos 公开版\n金十数据 6 月 10 日讯，Anthropic 当地时间周二推出其 Mythos 模型的公开版本，但设置了限制措施，禁止将其用于网络安全等高风险领域。Anthropic 表示，新版 Claude Fable 5 是 Anthropic 迄今为止为更广泛应用打造的最强模型，并盛赞其在软件工程和数据分析方面的表现。Anthropic 此前曾宣布，Mythos 已发现数千个软件漏洞，此后该公司通过“Glasswing”计划，将该模型的使用范围限制在包括美国政府在内的约 200 家机构。Anthropic 表示，已进行广泛测试，以确保用户无法操纵 Claude Fable 5 绕过其指导方针并执行受限操作。Anthropic 产品管理、研究与实验室负责人 Dianne Penn 表示，根据早期客户反馈，Fable 5 虽然价格更高，但其执行任务所需的 token 消耗更低，从而降低了每项任务的总体成本。Anthropic 还表示，拥有 Claude Mythos 预览版（即无安全防护机制版本）访问权限的用户，将能够升级至全新的 Claude Mythos 5。这两款模型的定价均为每百万输入 token10 美元，每百万输出 token50 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3241674"
+  },
+  {
+    "post": "Financial_Express/3241673",
+    "datetime": "2026-06-09T17:07:17+00:00",
+    "views": "2",
+    "text": "Anthropic：发布 Claude Fable 5，这是一个 Mythos 级别的模型，但已调整为适合大众安全使用版本。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3241673"
+  },
+  {
+    "post": "Financial_Express/3241671",
+    "datetime": "2026-06-09T17:06:38+00:00",
+    "views": "32",
+    "text": "美国三年期国债收益率在拍卖后保持稳定，最新下跌 1.8 个基点，报 4.189% 。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3241671"
+  },
+  {
+    "post": "Financial_Express/3241672",
+    "datetime": "2026-06-09T17:06:38+00:00",
+    "views": "32",
+    "text": "标普 500 指数跌幅收窄至 1.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3241672"
+  },
+  {
     "post": "Financial_Express/3241670",
     "datetime": "2026-06-09T17:06:17+00:00",
-    "views": "1",
+    "views": "32",
     "text": "美国三年期国债中标后收益率保持平稳，最新收益率下跌 1.8 个基点，报 4.189%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3241669",
     "datetime": "2026-06-09T17:05:58+00:00",
-    "views": "2",
+    "views": "33",
     "text": "据 Axios：一位美国高级官员表示，调查确定一架伊朗无人机击中了一架直升机并导致其坠毁。这位美国高级官员表示，调查尚未确定这次击中是有意还是无意，此事仍在审查中。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3241668",
     "datetime": "2026-06-09T17:04:58+00:00",
-    "views": "33",
+    "views": "64",
     "text": "Anthropic：面向一小部分网络安全防御人员与基础设施提供商，同时发布 Claude Mythos 5。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3241667",
     "datetime": "2026-06-09T17:03:38+00:00",
-    "views": "66",
+    "views": "97",
     "text": "Anthropic：Mythos 5 与 Fable 5 模型定价为每 100 万输入 tokens 收费 10 美元，每 100 万输出 tokens 收费 50 美元。",
     "media_only": false,
     "image_url": null,
@@ -38,8 +74,8 @@
   {
     "post": "Financial_Express/3241666",
     "datetime": "2026-06-09T17:03:18+00:00",
-    "views": "66",
-    "text": "Anthropic：发布 Claude Fable 5，这是一个 Mythos 级别的模型，但已调整为适合大众安全使用版本。Claude Mythos 5 最初将通过“Glasswing 项目”部署，并与美国政府合作，作为 Claude Mythos 预览版的升级版本。计划通过更广泛的“可信访问计划”扩大 Claude Mythos 5 的使用范围。",
+    "views": "127",
+    "text": "Anthropic 推出限制网络安全能力的“解耦版”新模型 Fable 5，同步发布 Mythos 5\nAnthropic 公司发强力大模型 Mythos 的特殊衍生版本，命名为 Fable 5。该模型内置了极其严格的安全护栏，将无法响应涉及网络安全和生物风险等特定领域的敏感查询。Fable 5 在编程以及其他专业核心任务上的表现实现了质的飞跃，尤其擅长在更长的时间跨度内攻坚并解决极其复杂的系统性难题。与此同时，Anthropic 仍将同步推出保留完整网络安全能力、未作上述安全限制的完全体新模型 Mythos 5。该模型将通过名为“翼蝶计划”（Project Glasswing）的专项倡议，仅向少数经过严格审核的特定信任群体开放。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3241666"
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3241665",
     "datetime": "2026-06-09T17:03:00+00:00",
-    "views": "67",
+    "views": "97",
     "text": "Anthropic：计划通过更广泛的“可信访问计划”扩大 Claude Mythos 5 的使用范围。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3241663",
     "datetime": "2026-06-09T17:02:38+00:00",
-    "views": "67",
+    "views": "127",
     "text": "Anthropic：Claude Mythos 5 最初将通过“Glasswing 项目”部署，并与美国政府合作，作为 Claude Mythos 预览版的升级版本。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3241664",
     "datetime": "2026-06-09T17:02:38+00:00",
-    "views": "67",
+    "views": "97",
     "text": "美国财政部拍卖 580 亿美元三年期国债，得标利率 4.192%（4 月 7 日为 3.897%），投标倍数 2.64（前次为 2.54）。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3241662",
     "datetime": "2026-06-09T17:02:19+00:00",
-    "views": "67",
+    "views": "127",
     "text": "美国至 6 月 9 日 3 年期国债竞拍-投标倍数 2.64，前值 2.54。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3241661",
     "datetime": "2026-06-09T17:02:18+00:00",
-    "views": "67",
+    "views": "97",
     "text": "美国至 6 月 9 日 3 年期国债竞拍-得标利率配置百分比 42.92%，前值 37.53%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3241659",
     "datetime": "2026-06-09T17:00:38+00:00",
-    "views": "97",
+    "views": "127",
     "text": "达飞海运首席执行官： 2026 年上半年，集团绕行霍尔木兹海峡、改走替代航线的成本预计约 3 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3241658",
     "datetime": "2026-06-09T17:00:19+00:00",
-    "views": "97",
+    "views": "127",
     "text": "夜盘期货收盘\n国际铜夜盘收跌 0.37%，沪铜收跌 0.34%，沪铝收跌 0.67%，沪锌收涨 0.14%，沪铅收跌 0.40%，沪镍收跌 1.34%，沪锡收跌 1.10%。氧化铝夜盘收涨 0.68%，铝合金收平。不锈钢夜盘收跌 0.69%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3241657",
     "datetime": "2026-06-09T16:59:58+00:00",
-    "views": "97",
+    "views": "127",
     "text": "法国达飞海运集团首席执行官表示，现在认为霍尔木兹海峡局势会完全恢复到战前状态“并不明智”。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3241656",
     "datetime": "2026-06-09T16:59:57+00:00",
-    "views": "97",
+    "views": "127",
     "text": "加元跌至年内低点 市场押注加拿大央行加息落后于全球主要央行\n金十数据 6 月 10 日讯，加元周二跌至去年 12 月以来最低水平，市场预计加拿大央行加息步伐将慢于全球其他主要央行。加元兑美元一度跌至 1 美元兑 1.3969 加元，创下今年以来最低水平。与此同时，作为加拿大重要出口商品的原油价格跌破每桶 90 美元。此外，市场参与者普遍押注，加拿大央行将在周三公布最新利率决议时维持基准利率不变。摩根大通外汇策略师 Pat Locke 表示：“加拿大央行的利率决议对加元存在温和的鸽派风险。我们倾向于持有加元兑美元的空头头寸。”加拿大央行在 4 月 29 日会议后曾表示，目前利率水平“看起来是合适的”。自那以后，加元兑美元已累计下跌超过 2%，成为 G10 货币中表现最差的货币。根据美国商品期货交易委员会（CFTC）数据，投机者已连续三周增加对加元的看空押注。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3241655",
     "datetime": "2026-06-09T16:58:59+00:00",
-    "views": "97",
+    "views": "127",
     "text": "美元指数 DXY 在美国总统特朗普指责伊朗击落直升机后转涨，目前涨 0.01%，报 100.01。欧元兑美元 EUR/USD 的涨幅回落，目前上涨 0.03%，报 1.1537。",
     "media_only": false,
     "image_url": null,
@@ -51838,32 +51874,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3235891"
-  },
-  {
-    "post": "Financial_Express/3235890",
-    "datetime": "2026-06-07T17:08:18+00:00",
-    "views": "174",
-    "text": "伊朗司法部门负责人：伊朗与黎巴嫩抵抗力量并肩作战，双方实力互为补充。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3235890"
-  },
-  {
-    "post": "Financial_Express/3235889",
-    "datetime": "2026-06-07T17:07:58+00:00",
-    "views": "144",
-    "text": "以色列消息人士向第 12 频道透露：预计真主党将进行更大规模的升级行动，以色列有可能扩大报复范围。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3235889"
-  },
-  {
-    "post": "Financial_Express/3235888",
-    "datetime": "2026-06-07T17:06:37+00:00",
-    "views": "173",
-    "text": "英媒：特朗普考虑购买查戈斯群岛 拟绕过英国直接与毛里求斯交易\n金十数据 6 月 8 日讯，据《每日电讯报》报道，为保住迪戈加西亚岛上具有战略价值的美英联合军事基地，特朗普政府正考虑从毛里求斯手中购买查戈斯群岛。此举可能直接冲击并替代英国首相斯塔默将群岛主权移交给毛里求斯、再回租基地 99 年的既有计划。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3235888"
   }
 ]
