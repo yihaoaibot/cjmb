@@ -1,17 +1,80 @@
 [
   {
+    "post": "Financial_Express/3241523",
+    "datetime": "2026-06-09T15:32:25+00:00",
+    "views": "1",
+    "text": "现货黄金失守 4270 美元/盎司，日内跌 1.49%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3241523"
+  },
+  {
+    "post": "Financial_Express/3241521",
+    "datetime": "2026-06-09T15:32:21+00:00",
+    "views": "1",
+    "text": "美国至 6 月 9 日 1 年期国债竞拍-投标倍数 3.34，前值 3.41。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3241521"
+  },
+  {
+    "post": "Financial_Express/3241522",
+    "datetime": "2026-06-09T15:32:21+00:00",
+    "views": "1",
+    "text": "纽约期金失守 4290 美元/盎司，日内跌 1.68%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3241522"
+  },
+  {
+    "post": "Financial_Express/3241519",
+    "datetime": "2026-06-09T15:32:20+00:00",
+    "views": "1",
+    "text": "美国至 6 月 9 日 1 年期国债竞拍-得标利率 3.75%，前值 3.65%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3241519"
+  },
+  {
+    "post": "Financial_Express/3241520",
+    "datetime": "2026-06-09T15:32:20+00:00",
+    "views": "1",
+    "text": "美国至 6 月 9 日 1 年期国债竞拍-得标利率配置百分比 70.95%，前值 4.56%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3241520"
+  },
+  {
+    "post": "Financial_Express/3241518",
+    "datetime": "2026-06-09T15:32:19+00:00",
+    "views": "1",
+    "text": "伊朗最高领袖：我们从未寻求战争，也不寻求战争，但我们绝不会放弃我们的合法权利。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3241518"
+  },
+  {
     "post": "Financial_Express/3241516",
     "datetime": "2026-06-09T15:30:40+00:00",
-    "views": "1",
+    "views": "14",
     "text": "纽约期金失守 4300 美元/盎司，日内跌 1.45%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3241516"
   },
   {
+    "post": "Financial_Express/3241517",
+    "datetime": "2026-06-09T15:30:40+00:00",
+    "views": "46",
+    "text": "纳斯达克 100 指数跌幅扩大至 2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3241517"
+  },
+  {
     "post": "Financial_Express/3241514",
     "datetime": "2026-06-09T15:30:39+00:00",
-    "views": "1",
+    "views": "44",
     "text": "欧洲 STOXX 600 指数初步收涨 0.11%，报 622.44 点。欧元区 STOXX 50 指数初步收涨 0.58%，报 6096.96 点。富时泛欧绩优 300 指数初步收涨 0.10%，报 2486.66 点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3241515",
     "datetime": "2026-06-09T15:30:39+00:00",
-    "views": "1",
+    "views": "12",
     "text": "德国 DAX 30 指数初步收跌 0.08%，报 24595.96 点。法国股指初步收涨 0.46%，意大利股指初步收涨 1%、银行指数涨 2.02%，英国股指初步收跌 0.87%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3241513",
     "datetime": "2026-06-09T15:29:18+00:00",
-    "views": "38",
+    "views": "81",
     "text": "标普 500 指数跌 1.03%，现报 7329.770 点；道指跌 0.52%，现报 50520.641 点；纳指跌 1.79%，现报 25466.281 点。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3241511",
     "datetime": "2026-06-09T15:29:00+00:00",
-    "views": "7",
+    "views": "80",
     "text": "纳指日内跌幅扩大至逾 1.5%，标普 500 指数跌 1%。费城半导体指数跌 3.7%，高通(QCOM.O)跌 7.5%，英特尔(INTC.O)跌 3.6%，美光科技(MU.O)跌 4%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3241512",
     "datetime": "2026-06-09T15:29:00+00:00",
-    "views": "8",
+    "views": "81",
     "text": "纳斯达克中国金龙指数跌超 0.5%，亿航跌 20.67%，海天网络跌 15.82%，大全新能源跌 7.32%，阿特斯跌 5.81%，高途跌 5.63%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3241510",
     "datetime": "2026-06-09T15:27:58+00:00",
-    "views": "48",
+    "views": "86",
     "text": "欧盟反垄断负责人表示，针对 Meta 的临时裁定将持续至调查结束，最晚至 2029 年 6 月。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3241509",
     "datetime": "2026-06-09T15:27:17+00:00",
-    "views": "82",
+    "views": "92",
     "text": "纳斯达克指数跌幅扩大至 1.5%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3241508",
     "datetime": "2026-06-09T15:26:38+00:00",
-    "views": "87",
+    "views": "92",
     "text": "摩根资管：美股将挺过任何短暂且剧烈的回调\n摩根资产管理的 Jack Caffrey 表示，尽管一些信号显示美股可能涨幅过大，但企业盈利增长支撑了市场情绪，美股仍有进一步上涨空间。Caffrey 周二指出，即便经济扩张已持续多年，但企业盈利仍有望在 2026 年实现 22%或更高的增长。他还提到，去年的盈利增长率在 10%-20%区间的中段，预计 2027 年也将保持这一水平。“这确实是一个由盈利驱动的故事，”他说，“我仍然看好当前的股市。”",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3241507",
     "datetime": "2026-06-09T15:25:57+00:00",
-    "views": "87",
+    "views": "122",
     "text": "伊朗媒体报道：克尔曼沙阿机场总负责人宣布，该国西部地区航班限制已解除，克尔曼沙阿空域重新开放。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3241506",
     "datetime": "2026-06-09T15:24:39+00:00",
-    "views": "132",
+    "views": "165",
     "text": "摩根大通计划今年部署更强大的人工智能代理\n金十数据 6 月 9 日讯，据 CNBC 报道，摩根大通计划在今年晚些时候部署人工智能代理，这些代理将能够自主运行的时间远超现有版本，标志着企业采用人工智能的又一重要里程碑。摩根大通首席分析官 Derek Waldron 在接受 CNBC 采访时表示，AI 代理正从执行单一任务的工具，逐步发展为能够管理多个步骤和不同软件程序的数字工作者。“我们现在已进入长期自主代理的时代，”Waldron 说，“这意味着代理不仅能够运行两到三分钟来执行人类的目标或指令，还能持续运行一两个小时。”此外，摩根大通表示，人工智能已开始推动业务业绩增长，包括私人银行总销售额增长 20%，并有望最终使银行家将客户覆盖范围扩大多达 50%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3241505",
     "datetime": "2026-06-09T15:24:19+00:00",
-    "views": "93",
+    "views": "125",
     "text": "5 月，外国投资者在伊斯坦布尔证券交易所明星板及主板股票市场净卖出 8.504 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3241504",
     "datetime": "2026-06-09T15:21:58+00:00",
-    "views": "134",
+    "views": "135",
     "text": "欧盟委员会要求 Meta Platforms(META.O)在 5 个工作日内遵守命令。",
     "media_only": false,
     "image_url": null,
