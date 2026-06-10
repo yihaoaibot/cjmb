@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3244572",
+    "datetime": "2026-06-10T17:01:17+00:00",
+    "views": "1",
+    "text": "巴西总统卢拉：今天要和墨西哥总统举行电话会议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244572"
+  },
+  {
+    "post": "Financial_Express/3244571",
+    "datetime": "2026-06-10T17:00:58+00:00",
+    "views": "1",
+    "text": "美国能源部长赖特：并不知晓美国从伊朗运出石油的情况。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244571"
+  },
+  {
+    "post": "Financial_Express/3244570",
+    "datetime": "2026-06-10T17:00:37+00:00",
+    "views": "2",
+    "text": "390 亿美元拍卖前，10 年期美国国债收益率为 4.539%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244570"
+  },
+  {
+    "post": "Financial_Express/3244569",
+    "datetime": "2026-06-10T17:00:17+00:00",
+    "views": "3",
+    "text": "夜盘期货收盘\n国际铜夜盘收跌 0.94%，沪铜收跌 0.79%，沪铝收涨 0.02%，沪锌收跌 1.98%，沪铅收跌 0.09%，沪镍收跌 0.72%，沪锡收跌 0.04%。氧化铝夜盘收涨 0.73%，铝合金收涨 0.63%。不锈钢夜盘收涨 0.17%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244569"
+  },
+  {
     "post": "Financial_Express/3244568",
     "datetime": "2026-06-10T16:58:18+00:00",
-    "views": "1",
+    "views": "33",
     "text": "据美国科技媒体 The Verge：微软以数据保留问题为由，限制员工使用 Claude Fable。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3244567",
     "datetime": "2026-06-10T16:57:57+00:00",
-    "views": "2",
+    "views": "33",
     "text": "特朗普称美国持续从伊朗偷运石油\n特朗普还透露“美国一直在从伊朗运走石油”。他说：“我们一直都在运出数百万桶石油，每晚都是数百万桶。”据特朗普称，伊朗“刚刚发现这件事”。但他没有透露有关这些行动的更多细节。 特朗普表示，美国仍在寻求与伊朗达成协议。据他称，伊朗已同意不获取核武器，但该协议仍需签署。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3244566",
     "datetime": "2026-06-10T16:56:37+00:00",
-    "views": "35",
+    "views": "65",
     "text": "因数据留存相关顾虑，微软限制员工使用 Claude Fable\nAnthropic 昨日推出首款 Mythos 系列 AI 模型 Claude Fable，而这款产品已在微软内部引发担忧。据消息人士透露，由于 Anthropic 更新了数据留存相关要求，微软已限制员工使用 Claude Fable 5。微软虽迅速面向旗下 GitHub Copilot 与 Foundry 客户开放了 Claude Fable 5，但该模型并未出现在微软员工内部版 GitHub Copilot 的模型选择列表中。微软内部仍可正常使用其他版本的 Claude 模型，这类模型均遵循零数据留存规则。微软已告知员工，法务团队正在评估 Anthropic 的数据留存新规。公司主要顾虑客户数据与机密信息安全，目前法务部门尚未确定是否批准员工在内部使用 Claude Fable。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3244565",
     "datetime": "2026-06-10T16:55:57+00:00",
-    "views": "35",
+    "views": "65",
     "text": "俄罗斯古比雪夫炼油厂遭无人机袭击后停产\n金十数据 6 月 11 日讯，据两名行业消息人士透露，俄罗斯石油公司（Rosneft）旗下古比雪夫炼油厂在遭受无人机袭击后，于 6 月 10 日停止了石油加工作业。上述消息人士表示，此次袭击造成损毁并引发火灾，导致该炼油厂两套原油常压蒸馏装置——CDU-4 和 CDU-5——均已停产，两套装置的日加工能力各约为 1 万公吨（7.3 万桶）。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3244564",
     "datetime": "2026-06-10T16:55:17+00:00",
-    "views": "37",
+    "views": "67",
     "text": "微软限制员工使用 Claude Fable 模型。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3244554",
     "datetime": "2026-06-10T16:51:39+00:00",
-    "views": "66",
+    "views": "96",
     "text": "亚马逊获得花旗牵头银团总计 175 亿美元贷款额度\n亚马逊公司在监管文件中披露，已与由花旗集团牵头的银团签署了一项总额 175 亿美元的贷款协议。根据周三提交的监管文件，贷款方同意提供这笔延迟提取定期贷款(DDTL)，额度将保留至今年 9 月底。亚马逊每次动用信贷额度借款时，均需在借款之日起三年内偿还。该贷款的利率将在有担保隔夜融资利率(SOFR)的基础上，上浮 0.625 至 0.875 个百分点，具体幅度取决于亚马逊的信用评级。参与此次交易的其他银行包括摩根大通、美国银行、汇丰银行和富国银行。此外，还有十几家银行也参与了此次融资。",
     "media_only": false,
     "image_url": null,
@@ -50695,32 +50731,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3238913"
-  },
-  {
-    "post": "Financial_Express/3238912",
-    "datetime": "2026-06-08T17:00:19+00:00",
-    "views": "142",
-    "text": "夜盘期货收盘\n国际铜夜盘收涨 0.27%，沪铜收涨 0.31%，沪铝收涨 0.15%，沪锌收涨 0.30%，沪铅收跌 1.19%，沪镍收跌 0.77%，沪锡收跌 0.79%。氧化铝夜盘收涨 0.22%，铝合金收涨 0.15%。不锈钢夜盘收跌 1.16%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238912"
-  },
-  {
-    "post": "Financial_Express/3238911",
-    "datetime": "2026-06-08T16:59:58+00:00",
-    "views": "133",
-    "text": "据黎巴嫩卫生部消息，以色列对黎巴嫩南部纳巴提耶省泽夫塔镇的袭击已造成至少 7 人死亡，其中包括一名叙利亚儿童和一名妇女，另有至少 8 人受伤。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238911"
-  },
-  {
-    "post": "Financial_Express/3238910",
-    "datetime": "2026-06-08T16:59:18+00:00",
-    "views": "138",
-    "text": "受大宗商品市场震荡推动，摩科瑞（Mercuria）上半年利润增长 88%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238910"
   }
 ]
