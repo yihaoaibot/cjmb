@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3244510",
+    "datetime": "2026-06-10T16:07:18+00:00",
+    "views": "1",
+    "text": "美国总统特朗普：伊朗的情况看起来不像委内瑞拉行动那样顺利。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244510"
+  },
+  {
+    "post": "Financial_Express/3244508",
+    "datetime": "2026-06-10T16:06:57+00:00",
+    "views": "8",
+    "text": "谷歌(GOOG.O)：推出 DiffusionGemma。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244508"
+  },
+  {
+    "post": "Financial_Express/3244509",
+    "datetime": "2026-06-10T16:06:57+00:00",
+    "views": "8",
+    "text": "特朗普：我认为伊朗会希望达成协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244509"
+  },
+  {
+    "post": "Financial_Express/3244507",
+    "datetime": "2026-06-10T16:06:38+00:00",
+    "views": "11",
+    "text": "谷歌推出 DiffusionGemma。\n注：DiffusionGemma 是谷歌开发的基于扩散模型的生成式 AI 开源模型，由其 Gemma 大语言模型系列衍生而来。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244507"
+  },
+  {
+    "post": "Financial_Express/3244506",
+    "datetime": "2026-06-10T16:05:38+00:00",
+    "views": "50",
+    "text": "哥伦比亚调查与指控委员会成员否认暂停总统佩特罗职务\n当地时间 10 日，哥伦比亚众议员、调查与指控委员会成员亚历杭德罗·奥坎波表示，该委员会并未作出暂停总统佩特罗职务的决定。奥坎波说：“我希望向公众说明，目前并没有针对总统佩特罗作出任何决定。一些媒体所称‘调查与指控委员会已暂停佩特罗总统职务’的说法并不属实。”（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244506"
+  },
+  {
     "post": "Financial_Express/3244505",
     "datetime": "2026-06-10T16:04:18+00:00",
-    "views": "45",
+    "views": "87",
     "text": "美国总统特朗普：我们击沉了 22 艘伊朗船只。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3244504",
     "datetime": "2026-06-10T16:03:58+00:00",
-    "views": "46",
+    "views": "89",
     "text": "特朗普：前几天晚上击沉了 22 艘伊朗船只。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3244503",
     "datetime": "2026-06-10T16:03:57+00:00",
-    "views": "46",
+    "views": "89",
     "text": "特朗普被问及通胀数据时说：数据很好。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3244502",
     "datetime": "2026-06-10T16:03:39+00:00",
-    "views": "47",
+    "views": "90",
     "text": "特朗普谈及世界杯签证：我们正全力推进，确保符合资格的人员入境。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3244501",
     "datetime": "2026-06-10T16:03:38+00:00",
-    "views": "47",
+    "views": "90",
     "text": "美国总统特朗普：（关于世界杯和签证）我们正在努力确保合适的人能够入境。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3244500",
     "datetime": "2026-06-10T16:03:17+00:00",
-    "views": "50",
+    "views": "91",
     "text": "特朗普：正在密切关注世界杯签证事宜。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3244499",
     "datetime": "2026-06-10T16:02:39+00:00",
-    "views": "55",
+    "views": "94",
     "text": "特朗普谈国家情报总监提名：我们正在对五名候选人进行面试。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3244498",
     "datetime": "2026-06-10T16:01:57+00:00",
-    "views": "61",
+    "views": "98",
     "text": "特朗普：很高兴签署《美国安全法案》，确保国土安全部在我的任期结束前获得足额、持续的资金支持。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3244496",
     "datetime": "2026-06-10T16:01:18+00:00",
-    "views": "90",
+    "views": "97",
     "text": "俄罗斯统计局：5 月俄罗斯消费者物价指数（CPI）环比上涨 0.17%，路透调查预期为环比上涨 0.2%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3244497",
     "datetime": "2026-06-10T16:01:18+00:00",
-    "views": "90",
+    "views": "97",
     "text": "俄罗斯统计局：5 月俄罗斯消费者物价指数（CPI）同比上涨 5.31%，路透调查预期为同比上涨 5.4%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3244495",
     "datetime": "2026-06-10T16:01:17+00:00",
-    "views": "91",
+    "views": "98",
     "text": "特朗普重申房利美和房地美的估值可能达到 1 万亿美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3244493",
     "datetime": "2026-06-10T16:00:58+00:00",
-    "views": "84",
+    "views": "91",
     "text": "特朗普重申，普尔特只是临时情报总监。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3244494",
     "datetime": "2026-06-10T16:00:58+00:00",
-    "views": "85",
+    "views": "92",
     "text": "特朗普发表讲话后，房利美股价涨 1.3%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3244491",
     "datetime": "2026-06-10T16:00:38+00:00",
-    "views": "81",
+    "views": "86",
     "text": "俄罗斯联邦统计局：截至 6 月 8 日当周，俄罗斯周度消费者通胀率为 0.20%，前一周为 0.15%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3244492",
     "datetime": "2026-06-10T16:00:38+00:00",
-    "views": "84",
+    "views": "90",
     "text": "江门中微子实验首个物理成果在《自然》发表\n6 月 10 日，江门中微子实验（JUNO）首个物理成果“精确测定中微子的两个振荡参数”以封面文章形式在国际学术期刊《自然》发表。通过对 2025 年 8 月 26 日至 11 月 2 日共 59 天有效数据的分析，科研团队完成两项关键振荡参数的高精度测量，相较于过去数十年多项实验的综合结果，精度提高了 1.6 倍。",
     "media_only": false,
     "image_url": null,
@@ -50542,59 +50587,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3238867"
-  },
-  {
-    "post": "Financial_Express/3238866",
-    "datetime": "2026-06-08T16:07:18+00:00",
-    "views": "119",
-    "text": "据伊朗官方媒体：伊朗方面表示，航班限制已解除，空域恢复正常状态。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238866"
-  },
-  {
-    "post": "Financial_Express/3238865",
-    "datetime": "2026-06-08T16:06:38+00:00",
-    "views": "121",
-    "text": "黎巴嫩卫生部称，自 3 月 2 日以来，以色列袭击已造成当地 3637 人死亡、11188 人受伤。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238865"
-  },
-  {
-    "post": "Financial_Express/3238864",
-    "datetime": "2026-06-08T16:06:37+00:00",
-    "views": "112",
-    "text": "意大利竞争管理局结束了对 Meta Platforms(META.O)关于 WhatsApp 人工智能聊天机器人的调查。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238864"
-  },
-  {
-    "post": "Financial_Express/3238862",
-    "datetime": "2026-06-08T16:06:18+00:00",
-    "views": "105",
-    "text": "谷歌：将 NotebookLM 升级至 Gemini 3.5 大模型运行并推出反重力存储功能。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238862"
-  },
-  {
-    "post": "Financial_Express/3238863",
-    "datetime": "2026-06-08T16:06:18+00:00",
-    "views": "116",
-    "text": "伊朗官方媒体称，飞行限制已解除，该国领空恢复正常运行。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238863"
-  },
-  {
-    "post": "Financial_Express/3238861",
-    "datetime": "2026-06-08T16:05:38+00:00",
-    "views": "109",
-    "text": "以色列总理确认暂停袭击伊朗\n金十数据 6 月 9 日讯，以色列总理内塔尼亚胡 8 日发表声明说，在伊朗停止对以色列开火后，以色列暂时停止对伊朗的袭击，但他警告说，如果伊朗恢复袭击以色列，以色列将予以强力回应。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238861"
   }
 ]
