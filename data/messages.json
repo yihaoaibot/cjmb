@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3245017",
+    "datetime": "2026-06-10T23:24:18+00:00",
+    "views": "3",
+    "text": "特朗普对福克斯新闻称，美军使用了 49 枚战斧导弹。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245017"
+  },
+  {
+    "post": "Financial_Express/3245015",
+    "datetime": "2026-06-10T23:23:37+00:00",
+    "views": "3",
+    "text": "美国总统特朗普：以色列与这次对伊朗的袭击无关。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245015"
+  },
+  {
+    "post": "Financial_Express/3245016",
+    "datetime": "2026-06-10T23:23:37+00:00",
+    "views": "3",
+    "text": "特朗普表示，以色列并未参与此次袭击伊朗事件。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245016"
+  },
+  {
+    "post": "Financial_Express/3245014",
+    "datetime": "2026-06-10T23:23:17+00:00",
+    "views": "3",
+    "text": "OpenAI 与甲骨文合作，OCI 客户可用云额度直接调用 OpenAI 模型及 Codex\nOpenAI 与甲骨文当地时间 6 月 10 日宣布合作，甲骨文云基础设施（OCI）客户将可在数周内通过现有甲骨文云承诺额度（UCM 积分）访问 OpenAI 前沿模型及 Codex，无需新增独立采购流程。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245014"
+  },
+  {
     "post": "Financial_Express/3245013",
     "datetime": "2026-06-10T23:21:39+00:00",
-    "views": "2",
+    "views": "33",
     "text": "特朗普：仍保留对伊朗实施更多打击的可能性。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3245012",
     "datetime": "2026-06-10T23:21:38+00:00",
-    "views": "2",
+    "views": "33",
     "text": "据福克斯新闻：特朗普对伊朗采取更多打击的可能性持开放态度。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3245011",
     "datetime": "2026-06-10T23:20:38+00:00",
-    "views": "35",
+    "views": "36",
     "text": "特朗普：轰炸很快就会停止。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3245009",
     "datetime": "2026-06-10T23:20:37+00:00",
-    "views": "35",
+    "views": "36",
     "text": "美国总统特朗普：伊朗人已经请求我停止轰炸，轰炸将很快停止。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3245010",
     "datetime": "2026-06-10T23:20:37+00:00",
-    "views": "35",
+    "views": "36",
     "text": "特朗普：伊朗曾请求我停止轰炸，已与伊朗官员直接对话。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3245007",
     "datetime": "2026-06-10T23:20:18+00:00",
-    "views": "35",
+    "views": "36",
     "text": "美国总统特朗普：已与伊朗官员直接对话。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3245008",
     "datetime": "2026-06-10T23:20:18+00:00",
-    "views": "35",
+    "views": "36",
     "text": "特朗普接受福克斯新闻采访表示：美国战机正在伊朗上空执行飞行任务。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3245006",
     "datetime": "2026-06-10T23:19:57+00:00",
-    "views": "35",
+    "views": "36",
     "text": "美国总统特朗普：美国战斗机正在伊朗上空飞行。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3245005",
     "datetime": "2026-06-10T23:19:38+00:00",
-    "views": "36",
+    "views": "37",
     "text": "WTI 原油日内涨 4%，现报 93.64 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3245004",
     "datetime": "2026-06-10T23:19:37+00:00",
-    "views": "36",
+    "views": "37",
     "text": "纳指期货跌幅扩大至 1%，标普 500 指数期货跌 0.6%。消息称，美军对伊朗的打击仍在进行中。",
     "media_only": false,
     "image_url": null,
@@ -51073,23 +51109,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3239316"
-  },
-  {
-    "post": "Financial_Express/3239315",
-    "datetime": "2026-06-08T23:23:59+00:00",
-    "views": "71",
-    "text": "苹果升级版 Siri 姗姗来迟但终亮相 主打实用并强调隐私保护\n在加利福尼亚州库比蒂诺举行的年度全球开发者大会上，苹果发布了“Siri AI”，这是一款对话能力更强的助手，拥有独立的应用程序，并具备分析用户屏幕内容以及从网络中提取信息的能力。此时距苹果首次承诺进行重大升级已过去两年，而升级计划此前曾多次推迟。TECHnalysis Research 总裁兼首席分析师 Bob O’Donnell 表示，“这是面向大众的 AI；它并不是真正意义上的智能体式 AI。对许多人来说，这正是他们所期待的那种智能。”不过，分析师们的初步反应较为谨慎。MoffettNathanson 分析师 Craig Moffett 表示，这些升级虽非“颠覆性”，但应能使 Siri 成为“一个可信的聊天机器人，甚至可能成为一个可信的智能体”。苹果股价周一在纳斯达克收盘下跌 1.9%，报 301.54 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239315"
-  },
-  {
-    "post": "Financial_Express/3239314",
-    "datetime": "2026-06-08T23:23:58+00:00",
-    "views": "70",
-    "text": "欧盟内部围绕推动俄乌谈判存在分歧\n金十数据 6 月 9 日讯，欧盟外交与安全政策高级代表卡拉斯 8 日表示，必须做出一切努力，以便俄罗斯和乌克兰能够进行对话，同时欧洲的核心安全利益也需要得到尊重。但卡拉斯认为现在不是与俄罗斯就乌克兰问题展开谈判的合适时机。据悉目前欧盟内部对于如何推动谈判以及何时启动实质性接触仍存在不同看法，一些国家认为目前尚不具备与俄方开展严肃谈判的条件。英法德三国领导人 7 日在伦敦与乌克兰总统泽连斯基会晤并发表联合声明，表示支持乌克兰和俄罗斯直接对话。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239314"
   }
 ]
