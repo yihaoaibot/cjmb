@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3244568",
+    "datetime": "2026-06-10T16:58:18+00:00",
+    "views": "1",
+    "text": "据美国科技媒体 The Verge：微软以数据保留问题为由，限制员工使用 Claude Fable。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244568"
+  },
+  {
+    "post": "Financial_Express/3244567",
+    "datetime": "2026-06-10T16:57:57+00:00",
+    "views": "2",
+    "text": "特朗普称美国持续从伊朗偷运石油\n特朗普还透露“美国一直在从伊朗运走石油”。他说：“我们一直都在运出数百万桶石油，每晚都是数百万桶。”据特朗普称，伊朗“刚刚发现这件事”。但他没有透露有关这些行动的更多细节。 特朗普表示，美国仍在寻求与伊朗达成协议。据他称，伊朗已同意不获取核武器，但该协议仍需签署。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244567"
+  },
+  {
     "post": "Financial_Express/3244566",
     "datetime": "2026-06-10T16:56:37+00:00",
-    "views": "5",
+    "views": "35",
     "text": "因数据留存相关顾虑，微软限制员工使用 Claude Fable\nAnthropic 昨日推出首款 Mythos 系列 AI 模型 Claude Fable，而这款产品已在微软内部引发担忧。据消息人士透露，由于 Anthropic 更新了数据留存相关要求，微软已限制员工使用 Claude Fable 5。微软虽迅速面向旗下 GitHub Copilot 与 Foundry 客户开放了 Claude Fable 5，但该模型并未出现在微软员工内部版 GitHub Copilot 的模型选择列表中。微软内部仍可正常使用其他版本的 Claude 模型，这类模型均遵循零数据留存规则。微软已告知员工，法务团队正在评估 Anthropic 的数据留存新规。公司主要顾虑客户数据与机密信息安全，目前法务部门尚未确定是否批准员工在内部使用 Claude Fable。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3244565",
     "datetime": "2026-06-10T16:55:57+00:00",
-    "views": "5",
+    "views": "35",
     "text": "俄罗斯古比雪夫炼油厂遭无人机袭击后停产\n金十数据 6 月 11 日讯，据两名行业消息人士透露，俄罗斯石油公司（Rosneft）旗下古比雪夫炼油厂在遭受无人机袭击后，于 6 月 10 日停止了石油加工作业。上述消息人士表示，此次袭击造成损毁并引发火灾，导致该炼油厂两套原油常压蒸馏装置——CDU-4 和 CDU-5——均已停产，两套装置的日加工能力各约为 1 万公吨（7.3 万桶）。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3244562",
     "datetime": "2026-06-10T16:54:18+00:00",
-    "views": "38",
+    "views": "68",
     "text": "印度驻加拿大高级专员：全球投资者仍对加拿大的监管流程和项目审批过程保持谨慎。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3244563",
     "datetime": "2026-06-10T16:54:18+00:00",
-    "views": "39",
+    "views": "69",
     "text": "印度高级专员：全球投资者仍对加拿大的监管流程与项目审批流程持谨慎态度。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3244561",
     "datetime": "2026-06-10T16:53:57+00:00",
-    "views": "38",
+    "views": "68",
     "text": "乌克兰港口管理局：两艘船只在通过乌克兰黑海走廊时遭到袭击，受损船只分别悬挂巴拿马和巴巴多斯旗帜。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3244560",
     "datetime": "2026-06-10T16:53:37+00:00",
-    "views": "38",
+    "views": "68",
     "text": "乌克兰港务局表示，两艘分别悬挂巴拿马国旗和巴巴多斯国旗的船只在经由乌克兰黑海航道航行时遇袭受损。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3244559",
     "datetime": "2026-06-10T16:53:18+00:00",
-    "views": "38",
+    "views": "68",
     "text": "谷歌正面向拉美、非洲、中东等地区用户，在浏览器 Chrome 中上线 Gemini 人工智能功能。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3244558",
     "datetime": "2026-06-10T16:53:17+00:00",
-    "views": "37",
+    "views": "67",
     "text": "印度驻加拿大高级专员：印度新建的炼油厂专为加工重质原油而建，因此加拿大可能成为一个选择。印度正与加拿大自然资源部定期举行会议，探讨采购加拿大能源事宜。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3244557",
     "datetime": "2026-06-10T16:52:58+00:00",
-    "views": "37",
+    "views": "67",
     "text": "比尔·盖茨向美国国会表示：与爱泼斯坦断绝往来后，对方曾利用掌握的其婚外情信息对我进行施压。我得知爱泼斯坦掌握了我的私人隐私，包括我婚内出轨一事。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3244556",
     "datetime": "2026-06-10T16:52:37+00:00",
-    "views": "37",
+    "views": "67",
     "text": "以色列总理内塔尼亚胡向黎巴嫩人民发表声明。声明称：以色列与黎巴嫩人民之间并无战争。我们的战争对象是真主党。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3244553",
     "datetime": "2026-06-10T16:51:39+00:00",
-    "views": "36",
+    "views": "66",
     "text": "印度驻加拿大高级专员：印度正在考虑将加拿大作为潜在的原油供应国。",
     "media_only": false,
     "image_url": null,
@@ -50704,14 +50722,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3238910"
-  },
-  {
-    "post": "Financial_Express/3238909",
-    "datetime": "2026-06-08T16:57:38+00:00",
-    "views": "142",
-    "text": "伊朗外长：谨向亚美尼亚总理尼科尔·帕希尼扬及其政党赢得选举致以诚挚祝贺。邻国是我们的优先交往对象。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238909"
   }
 ]
