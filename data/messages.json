@@ -1,9 +1,45 @@
 [
   {
+    "post": "Financial_Express/3243327",
+    "datetime": "2026-06-10T09:34:59+00:00",
+    "views": "2",
+    "text": "南向资金今日大幅净买入 82.43 亿元。港股通（沪）方面，盈富基金、腾讯控股分别获净买入 24.22 亿港元、16.73 亿港元；阿里巴巴-W 净卖出额居首，金额为 17.09 亿港元；港股通（深）方面，盈富基金、南方恒生科技分别获净买入 16.34 亿港元、3.57 亿港元；阿里巴巴-W 净卖出额居首，金额为 6.63 亿港元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243327"
+  },
+  {
+    "post": "Financial_Express/3243326",
+    "datetime": "2026-06-10T09:34:18+00:00",
+    "views": "3",
+    "text": "据港交所披露：6 月 4 日，瑞银集团对美的集团 H 股的多头持仓从 6.49%降至 5.66%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243326"
+  },
+  {
+    "post": "Financial_Express/3243325",
+    "datetime": "2026-06-10T09:33:38+00:00",
+    "views": "3",
+    "text": "金安国纪：截至目前公司未与英伟达、华为有过接触\n金十数据 6 月 10 日讯，金安国纪公告，公司股票于 2026 年 6 月 9 日、6 月 10 日连续两个交易日收盘价格涨幅偏离值累计达到 20%，根据深圳证券交易所的有关规定，属于股票交易异常波动情况。近期公司关注到网上传播关于公司产品纳入英伟达、华为供应链体系认证等相关信息，相关信息均为不实信息。截至目前公司未与英伟达、华为有过接触，也未与其开展任何形式的业务合作；公司覆铜板主要产品包括各种通用 FR-4、CEM-3 等系列覆铜板和特殊指标要求的无卤无铅环保、高阻燃、耐 CAF、高 Tg、高 CTI 等系列覆铜板及铝基覆铜板、半固化片等，主要客户为 PCB 厂商，未发现在 AI 服务器及算力领域的应用。公司目前高频高速覆铜板产品尚在实验室研发及客户送样阶段，尚未形成收入，其中一款介电常数 Dk3.81（10GHz）及介质损耗 Df0.0047（10GHz）的高速覆铜板正在向境内客户送样中，能否通过客户认证存在不确定性；其他产品处于初期研发阶段，未有相应样品，相关的研发进展及成果存在不确定性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243325"
+  },
+  {
+    "post": "Financial_Express/3243324",
+    "datetime": "2026-06-10T09:33:19+00:00",
+    "views": "3",
+    "text": "空客：DIEHL DEFENCE 与空客防务与航天公司拟共同挖掘产品升级潜力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243324"
+  },
+  {
     "post": "Financial_Express/3243323",
     "datetime": "2026-06-10T09:32:38+00:00",
-    "views": "1",
-    "text": "空客：空客与迪尔防务签署协议，深化整合式防空反导领域合作。",
+    "views": "33",
+    "text": "空客：空客与 DIEHL DEFENCE 签署协议，深化整合式防空反导领域合作。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3243323"
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3243322",
     "datetime": "2026-06-10T09:32:19+00:00",
-    "views": "1",
+    "views": "33",
     "text": "英国首相斯塔默谴责贝尔法斯特持刀袭击引发的暴力事件，称其行径令人无法接受。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3243321",
     "datetime": "2026-06-10T09:31:57+00:00",
-    "views": "1",
+    "views": "33",
     "text": "美国商品期货交易委员会将允许大部分体育相关投注。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3243320",
     "datetime": "2026-06-10T09:31:37+00:00",
-    "views": "1",
+    "views": "33",
     "text": "美国商品期货交易委员会将禁止不符合公共利益的预测类投注交易，并未全面禁止部分预测市场。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3243318",
     "datetime": "2026-06-10T09:30:59+00:00",
-    "views": "2",
+    "views": "34",
     "text": "美国商品期货交易委员会拟出台覆盖面广泛的全新预测市场监管规则。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3243319",
     "datetime": "2026-06-10T09:30:59+00:00",
-    "views": "2",
+    "views": "34",
     "text": "印度 Nifty 50 指数回吐涨幅，最新上涨 0.02%。",
     "media_only": false,
     "image_url": null,
@@ -48661,77 +48697,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3237903"
-  },
-  {
-    "post": "Financial_Express/3237901",
-    "datetime": "2026-06-08T09:34:58+00:00",
-    "views": "7",
-    "text": "爱施德：股东新余全球星解除 910 万股股份质押\n爱施德公告称，6 月 8 日收到股东新余全球星通知，其将持有的 910 万股公司股份解除质押，占其所持股份比例 17.46%，占公司总股本 0.73%。截至公告披露日，控股股东及其一致行动人累计质押股份 1.08 亿股，占其所持股份比例 17.77%，占公司总股本 8.75%。控股股东及其一致行动人半年内到期质押股份 3378 万股，对应融资余额 1 亿元；一年内到期质押股份 5326 万股，对应融资余额 2 亿元，还款资金来源多样。目前未出现平仓风险，将采取措施防范。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3237901"
-  },
-  {
-    "post": "Financial_Express/3237902",
-    "datetime": "2026-06-08T09:34:58+00:00",
-    "views": "8",
-    "text": "印度国家证券交易所 Nifty 50 指数跌幅扩大，最新跌幅为 1.08%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3237902"
-  },
-  {
-    "post": "Financial_Express/3237900",
-    "datetime": "2026-06-08T09:34:39+00:00",
-    "views": "8",
-    "text": "粤芯半导体定于 6 月 15 日上会\n深圳证券交易所上市审核委员会定于 2026 年 6 月 15 日召开 2026 年第 34 次上市审核委员会审议会议，审议粤芯半导体技术股份有限公司（首发）。（深交所）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3237900"
-  },
-  {
-    "post": "Financial_Express/3237899",
-    "datetime": "2026-06-08T09:34:38+00:00",
-    "views": "5",
-    "text": "ST 葫芦娃：变更首次公开发行股票持续督导保荐代表人\nST 葫芦娃公告称，公司于 6 月 8 日收到中信建投《关于变更海南葫芦娃药业集团股份有限公司首次公开发行股票并上市持续督导保荐代表人的函》。因原保荐代表人田斌个人工作变动，无法履职，中信建投指派王辉接替其担任持续督导保荐代表人。变更后，持续督导保荐代表人为杨慧泽和王辉，此次变更不会影响公司持续督导工作。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3237899"
-  },
-  {
-    "post": "Financial_Express/3237898",
-    "datetime": "2026-06-08T09:34:20+00:00",
-    "views": "6",
-    "text": "白银有色：选举董事长、副董事长并聘任高级管理人员等\n白银有色公告称，6 月 8 日公司第六届董事会第一次会议以通讯方式召开。会议选举王彬为董事长、王萌为副董事长，任期至第六届董事会届满；选举产生第六届董事会专门委员会委员；续聘李志磊为总经理，张有达等为副总经理，殷勤生为副总经理、总工程师，徐东阳为财务总监；续聘徐学民为证券事务代表；审议通过召开 2025 年年度股东会提案。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3237898"
-  },
-  {
-    "post": "Financial_Express/3237897",
-    "datetime": "2026-06-08T09:34:19+00:00",
-    "views": "5",
-    "text": "粤芯半导体定于 6 月 15 日上会\n金十数据 6 月 8 日讯，深圳证券交易所上市审核委员会定于 2026 年 6 月 15 日召开 2026 年第 34 次上市审核委员会审议会议，审议粤芯半导体技术股份有限公司（首发）。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3237897"
-  },
-  {
-    "post": "Financial_Express/3237895",
-    "datetime": "2026-06-08T09:33:58+00:00",
-    "views": "35",
-    "text": "京新药业：副总裁王军民因个人原因辞职\n京新药业公告，公司董事会收到副总裁王军民的书面辞职报告，王军民因个人原因申请辞去副总裁职务。王军民担任公司副总裁的原定任期为公司第九届董事会届满之日，辞职后将不再在公司担任任何职务。王军民未持有公司股份，其辞职不会影响公司的正常经营。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3237895"
-  },
-  {
-    "post": "Financial_Express/3237894",
-    "datetime": "2026-06-08T09:33:38+00:00",
-    "views": "37",
-    "text": "20CM 涨停中望软件：现有 CAE 产品、AI 辅助应用与市场所称“物理 AI”存在明显区别 尚未涉足物理 AI 相关技术体系及商业化落地\n中望软件(688083)公告称，公司股票于 2026 年 6 月 5 日、6 月 8 日连续两个交易日收盘价格涨幅偏离值累计达 30%，属于股票交易异常波动。近期资本市场对“物理 AI”等概念关注度较高。公司主营业务为 CAD/CAM/CAE 等研发设计类工业软件的研发、推广与销售业务。从技术本质来看，公司现有 CAE 产品、AI 辅助应用与市场所称“物理 AI”存在明显区别，尚未涉足物理 AI 相关技术体系及商业化落地。敬请广大投资者客观区分概念差异，充分认知行业发展及公司业务进展存在的不确定性，理性研判、审慎投资，注意二级市场交易风险。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3237894"
   }
 ]
