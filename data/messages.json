@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3243686",
+    "datetime": "2026-06-10T11:10:38+00:00",
+    "views": "6",
+    "text": "标普 500 指数期货跌至日内低点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243686"
+  },
+  {
+    "post": "Financial_Express/3243685",
+    "datetime": "2026-06-10T11:10:37+00:00",
+    "views": "6",
+    "text": "欧洲债券走弱，意大利两年期国债收益率上涨 3 个基点，报 2.90%；法国两年期国债收益率上涨 3 个基点，报 2.89%。德国两年期收益率上涨 3 个基点，现报 2.71%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243685"
+  },
+  {
+    "post": "Financial_Express/3243684",
+    "datetime": "2026-06-10T11:10:19+00:00",
+    "views": "7",
+    "text": "意大利两年期国债收益率单日上涨 3 个基点，报 2.90%；法国两年期国债收益率上涨 3 个基点，报 2.89%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243684"
+  },
+  {
+    "post": "Financial_Express/3243683",
+    "datetime": "2026-06-10T11:10:18+00:00",
+    "views": "7",
+    "text": "特朗普发文后欧元区短期债券收益率上行，德国两年期国债收益率日内上涨 3 个基点，目前报 2.71%，此前为 2.69%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243683"
+  },
+  {
+    "post": "Financial_Express/3243682",
+    "datetime": "2026-06-10T11:09:57+00:00",
+    "views": "8",
+    "text": "美股盘前，联合航空股价下跌 2.4%，达美航空股价下跌 2.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243682"
+  },
+  {
+    "post": "Financial_Express/3243680",
+    "datetime": "2026-06-10T11:09:39+00:00",
+    "views": "10",
+    "text": "英国国债期货在美国总统特朗普发表对伊朗的评论后下跌约 40 个跳动点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243680"
+  },
+  {
+    "post": "Financial_Express/3243681",
+    "datetime": "2026-06-10T11:09:39+00:00",
+    "views": "10",
+    "text": "19:03:49 景顺长城全球芯片 LOF 将于 6 月 11 日开市起停牌，自 6 月 11 日 10:30 起复牌。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243681"
+  },
+  {
     "post": "Financial_Express/3243679",
     "datetime": "2026-06-10T11:09:18+00:00",
-    "views": "1",
+    "views": "45",
     "text": "美国股指期货跌幅进一步扩大；标普 500 电子迷你期货下跌 1.1%，纳斯达克 100 期货下跌 1.6%，道指期货下跌 1%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3243678",
     "datetime": "2026-06-10T11:08:58+00:00",
-    "views": "2",
+    "views": "42",
     "text": "英国首相斯塔默：计划在北约会议召开前公布国防开支方案。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3243677",
     "datetime": "2026-06-10T11:08:57+00:00",
-    "views": "2",
+    "views": "42",
     "text": "英国首相斯塔默：计划在北约会议前公布国防支出计划。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3243675",
     "datetime": "2026-06-10T11:08:38+00:00",
-    "views": "5",
+    "views": "14",
     "text": "特朗普：伊朗将不得不为其在谈判中的拖延付出代价\n金十数据 6 月 10 日讯，特朗普在社交平台发文称，伊朗的军事力量已经彻底溃败。他们的海军和空军等大部分军种甚至都已不复存在——他们被彻底击败了。伊朗只会空谈，没有实际行动。他们在谈判一项对他们有利的协议上花了太长时间，现在他们将不得不付出代价。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3243676",
     "datetime": "2026-06-10T11:08:38+00:00",
-    "views": "5",
+    "views": "43",
     "text": "施耐德电气热管理创新实验室在沪揭牌，助力应对数据中心散热挑战\n日前，施耐德电气关键电源中国中心热管理解决方案创新实验室在上海正式揭牌。这是施耐德电气加码在华研发布局的最新举措。该实验室聚焦智算时代高密度算力引发的散热与能效挑战，依托覆盖风冷、液冷及风液兼容的全栈测试平台与验证体系，旨在为下一代算力基础设施提供关键技术验证与解决方案支撑。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3243674",
     "datetime": "2026-06-10T11:08:18+00:00",
-    "views": "7",
+    "views": "13",
     "text": "特朗普发表伊朗相关言论后，英国金边债券期货下跌约 40 个最小变动价位。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3243673",
     "datetime": "2026-06-10T11:07:57+00:00",
-    "views": "8",
+    "views": "44",
     "text": "受特朗普伊朗言论影响，墨西哥比索和南非兰特下跌。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3243672",
     "datetime": "2026-06-10T11:07:38+00:00",
-    "views": "11",
+    "views": "45",
     "text": "联合国人权办公室：将派出小组，自 3 月起收集（黎巴嫩）战争期间所有各方潜在违反国际法行为的证据。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3243671",
     "datetime": "2026-06-10T11:07:37+00:00",
-    "views": "9",
+    "views": "43",
     "text": "欧洲股市跌幅扩大，STOXX 600 指数下跌 1%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3243669",
     "datetime": "2026-06-10T11:07:18+00:00",
-    "views": "10",
+    "views": "44",
     "text": "特朗普就伊朗问题发表评论后，美国和欧洲债券价格下跌。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3243670",
     "datetime": "2026-06-10T11:07:18+00:00",
-    "views": "10",
+    "views": "44",
     "text": "联合国人权办公室：已与黎巴嫩政府达成一致，将于下周向黎巴嫩部署调查小组。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3243668",
     "datetime": "2026-06-10T11:07:00+00:00",
-    "views": "11",
+    "views": "45",
     "text": "凯雷高管称投资者希望私募股权公司减少对软件行业的配置 转投国防\n凯雷集团联席总裁 John Redett 表示，投资者希望私募股权公司减少对软件行业的配置，转而投向国防企业。Redett 周三在柏林举行的 SuperReturn 会议的一场专题讨论中表示：“旧世界就是新世界。LP 如今想谈的是工业企业、国防、国家安全、供应链韧性和能源。”",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3243667",
     "datetime": "2026-06-10T11:06:59+00:00",
-    "views": "10",
+    "views": "44",
     "text": "斯塔默表示，英国任何慈善机构都不得支持约旦河西岸非法定居者。",
     "media_only": false,
     "image_url": null,
@@ -48913,41 +48976,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3238230"
-  },
-  {
-    "post": "Financial_Express/3238229",
-    "datetime": "2026-06-08T11:10:58+00:00",
-    "views": "42",
-    "text": "鸡蛋价格连涨 5 周 业内人士：产能收缩遇上需求集中释放 下半年或将呈现“高位震荡、阶段性波动”特征\n农业农村部畜牧兽医局官网显示，进入 5 月以来，鸡蛋价格已连续 5 周上涨。今年鸡蛋价格“逆势”上涨，不仅突破季节性规律，5 月更呈现“周周攀升”特征。多名业内人士认为，这主要是受到前期产能收缩带来供应减量、阶段性需求集中释放等因素影响。2025 年蛋价持续低位，养殖端缩减规模、淘汰蛋鸡，造成今年货源紧张，是本轮涨价的重要原因。业内人士认为，因产区库存延续低位，预计端午节前鸡蛋价格仍有冲高空间，但上涨动力逐步减弱，2026 年下半年蛋价或将呈现“高位震荡、阶段性波动”特征。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238229"
-  },
-  {
-    "post": "Financial_Express/3238228",
-    "datetime": "2026-06-08T11:10:20+00:00",
-    "views": "41",
-    "text": "锐新科技：拟收购德恒装备 51%股权，交易价格 5 亿元\n锐新科技公告，拟通过发行股份及支付现金的方式购买德恒装备 51%股权，交易价格 5 亿元。以 2025 年 12 月 31 日为基准日，收益法评估德恒装备股东全部权益价值 9.8 亿元，增值率 140.99%。本次发行股份购买资产的股票发行价格为 18.08 元/股，发行数量 1505.23 万股。同时，公司拟向包括控股股东开投领盾在内的不超过 35 名特定对象发行股份募集配套资金不超过 2.48 亿元，用于支付本次交易的现金对价及中介机构费用等。本次交易完成后，上市公司 2025 年度归属于母公司股东净利润备考数据将由 3259.77 万元增至 7108.26 万元，基本每股收益由 0.20 元提升至 0.37 元。本次交易尚需经黄山市国资委备案、国资监管机构批准、股东会审议、深交所审核及中国证监会注册等程序。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238228"
-  },
-  {
-    "post": "Financial_Express/3238227",
-    "datetime": "2026-06-08T11:10:19+00:00",
-    "views": "36",
-    "text": "*ST 华闻：公司诉林广茂股权转让纠纷案一审判决\n*ST 华闻公告，公司诉林广茂股权转让纠纷案一审判决。海口中院判决林广茂返还股权转让款 5000 万元及资金使用费 1204.38 万元，支付逾期付款违约金（计算方法：以 62,043,835.62 元为基数，自 2023 年 11 月 14 日起至债务实际清偿之日止，按每日万分之二计算），支付律师服务费 50000 元及保函保险费 23340 元。华闻集团对林广茂质押的江苏随易信息科技有限公司 6.42%股权的折价或者拍卖、变卖所得价款在林广茂欠付的上述债务范围内享有优先受偿权。驳回华闻集团的其他诉讼请求及林广茂的全部反诉请求。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238227"
-  },
-  {
-    "post": "Financial_Express/3238226",
-    "datetime": "2026-06-08T11:09:59+00:00",
-    "views": "36",
-    "text": "北玻股份：主营业务不涉及半导体玻璃基板产品，钙钛矿镀膜设备未量产\n金十数据 6 月 8 日讯，北玻股份公告，公司股票于 2026 年 6 月 4 日、5 日、8 日连续三个交易日收盘价格涨幅偏离值累计超过 20%。经核查，公司关注到市场涉及“玻璃基板封装”“建筑光伏一体化”“钙钛矿镀膜设备”等热点概念讨论，澄清如下：公司主营业务不涉及半导体玻璃基板产品；公司终端玻璃产品尚未包括建筑光伏一体化玻璃幕墙；子公司上海北玻真空镀膜技术有限公司曾联合开发钙钛矿镀膜设备，该项目于 2024 年完成研发结题，但截至目前未开展相关设备量产，未对公司经营业绩构成影响。此外，公司 2025 年度及 2026 年第一季度业绩同比均存在不同程度下滑。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238226"
   }
 ]
