@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3242171",
+    "datetime": "2026-06-10T01:20:19+00:00",
+    "views": "3",
+    "text": "全国小麦收获进度近七成\n据农业农村部最新小麦机收进度，截至 6 月 9 日 17 时，全国已收获夏粮小麦 2.33 亿亩，收获进度 68.54%。安徽麦收圆满完成，河南基本结束，江苏进度过八成，山东过四成半，陕西过三成，河北近两成，山西过一成半。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3242171"
+  },
+  {
+    "post": "Financial_Express/3242170",
+    "datetime": "2026-06-10T01:20:18+00:00",
+    "views": "3",
+    "text": "中国 5 月 CPI 年率将于十分钟后公布。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3242170"
+  },
+  {
+    "post": "Financial_Express/3242169",
+    "datetime": "2026-06-10T01:19:57+00:00",
+    "views": "3",
+    "text": "谷歌云：为应对德里受影响设施本地服务能力下降，已将大量流量重新路由至其他节点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3242169"
+  },
+  {
+    "post": "Financial_Express/3242168",
+    "datetime": "2026-06-10T01:19:38+00:00",
+    "views": "4",
+    "text": "谷歌云：第三方数据中心发生火灾，导致德里区域网络设备被迫紧急断电，网络容量下降。正在研究额外的流量缓解措施。已将受影响德里设施的大量流量重新路由，以解决本地服务能力下降问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3242168"
+  },
+  {
     "post": "Financial_Express/3242167",
     "datetime": "2026-06-10T01:18:18+00:00",
-    "views": "1",
+    "views": "35",
     "text": "谷歌云：德里一家第三方数据中心发生火灾，导致网络设备紧急断电，网络容量下降。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3242166",
     "datetime": "2026-06-10T01:17:38+00:00",
-    "views": "2",
+    "views": "35",
     "text": "兆易创新推出全新光模块专用 MCU\n金十数据 6 月 10 日讯，6 月 10 日，兆易创新（GigaDevice）推出全新 GD32E512 和 GD32E252 系列光模块专用 MCU，精准覆盖从传统低速到新一代高速光模块的多元应用场景。这两款新品的发布，将进一步拓宽兆易创新在光通信领域的产品矩阵，并将为 AI 算力中心及下一代网络基础设施的高速光互联产业升级提供强有力的底层硬件支撑。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3242165",
     "datetime": "2026-06-10T01:17:18+00:00",
-    "views": "33",
+    "views": "65",
     "text": "谷歌云：德里、钦奈、孟买及周边地区的网络流量正经历间歇性高延迟。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3242164",
     "datetime": "2026-06-10T01:16:58+00:00",
-    "views": "33",
+    "views": "65",
     "text": "谷歌云：源自德里、金奈、孟买及周边地区的网络流量正间歇性出现延迟升高的情况。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3242163",
     "datetime": "2026-06-10T01:16:19+00:00",
-    "views": "33",
+    "views": "65",
     "text": "人民币兑美元中间价报 6.8130，较上日调高 17 点\n人民币兑美元中间价报 6.8130，较上日调高 17 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3242162",
     "datetime": "2026-06-10T01:15:37+00:00",
-    "views": "34",
+    "views": "66",
     "text": "恒指期货日盘开盘跌 0.98%，报 24382 点，低水 184 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3242161",
     "datetime": "2026-06-10T01:15:17+00:00",
-    "views": "64",
+    "views": "65",
     "text": "恒指期货日盘开盘跌 1.06%，报 24362.77 点，低水 203.13 点。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3242158",
     "datetime": "2026-06-10T01:13:57+00:00",
-    "views": "67",
+    "views": "97",
     "text": "美国空军对波音 KC-46 空中加油机的修复方案充满信心\n美国空军部长特洛伊·明克周二向参议院一个小组委员会表示，美国空军确信已找到解决波音公司 BA.N KC-46 空中加油机关键系统长期存在问题的办法。多年来，波音公司和美国空军一直致力于解决该加油机远程视觉系统的问题，该系统对于使用飞机加油探管（一种用于输送燃油的刚性管道）进行空中加油至关重要。“好消息是，我们相信已经修复并测试了新的 2.0 版视觉系统，预计将于 2028 年将其投入生产线，”明克在周二的国防拨款小组委员会听证会上表示。这比最初计划晚了五年。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3242154",
     "datetime": "2026-06-10T01:10:59+00:00",
-    "views": "98",
+    "views": "128",
     "text": "经纬辉开：与吉利无业务合作及参股关系，铱加科技 1.6T 光模块尚未取得重大突破\n针对“是否存在与吉利业务合作计划、吉利是否参股、丁总入职是否代表进一步合作可能、铱加科技光模块业务研发进展”的问询，经纬辉开 6 月 10 日在互动平台表示，1、公司当前未与吉利开展业务合作，亦不存在吉利参股事项。董事候选人系董事个人兼职事项，与其就职公司不存在关联。2、铱加科技当前 1.6T 光模块尚在研发中，未取得重大突破。公司仅通过子公司持有铱加科技 7%股权，本公司合并范围内不存在光芯片和光模块业务。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3242155",
     "datetime": "2026-06-10T01:10:59+00:00",
-    "views": "98",
+    "views": "128",
     "text": "5 年期日本国债收益率上涨 2.0 个基点，至 1.945%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3242153",
     "datetime": "2026-06-10T01:10:58+00:00",
-    "views": "97",
+    "views": "127",
     "text": "三菱 HC Capital 与博枫组建可再生能源合资企业\n6 月 10 日，一份声明显示，三菱 HC Capital 与博枫资产管理公司共同组建了一家合资企业，用于收购和运营欧洲的可再生能源资产，初始资产组合估值约为 4 亿欧元。该初始资产组合涵盖英国、西班牙、瑞典、芬兰、法国和爱尔兰，总装机容量约 570 兆瓦。相关资产均签订了长期购电协议，剩余加权平均合约期约为 10 年。该合资企业正在评估未来对欧洲及澳大利亚可再生能源资产的收购计划。博枫将负责合资企业的运营，并派驻一支经验丰富的管理团队。该合资企业预计于 2026 年下半年正式启动。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3242152",
     "datetime": "2026-06-10T01:10:37+00:00",
-    "views": "66",
+    "views": "96",
     "text": "惠誉：中信证券首次获得“A-”评级；展望稳定。",
     "media_only": false,
     "image_url": null,
@@ -50677,68 +50713,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3236521"
-  },
-  {
-    "post": "Financial_Express/3236520",
-    "datetime": "2026-06-08T01:20:18+00:00",
-    "views": "92",
-    "text": "韩国总统：韩国石油供应已基本稳定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3236520"
-  },
-  {
-    "post": "Financial_Express/3236519",
-    "datetime": "2026-06-08T01:19:58+00:00",
-    "views": "92",
-    "text": "美国地质调查局：菲律宾萨兰甘尼以南 11 公里处发生 5.8 级地震。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3236519"
-  },
-  {
-    "post": "Financial_Express/3236518",
-    "datetime": "2026-06-08T01:19:38+00:00",
-    "views": "62",
-    "text": "盛景微等在上海成立汽车科技公司\n企查查 APP 显示，近日，盛景汽车科技（上海）有限公司成立，注册资本 1000 万元，经营范围包含：汽车销售；新能源汽车整车销售；机械零件、零部件销售；汽车零部件研发等。企查查股权穿透显示，该公司由盛景微等共同持股。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3236518"
-  },
-  {
-    "post": "Financial_Express/3236516",
-    "datetime": "2026-06-08T01:19:18+00:00",
-    "views": "62",
-    "text": "日本 5 年期国债收益率上行 5 个基点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3236516"
-  },
-  {
-    "post": "Financial_Express/3236517",
-    "datetime": "2026-06-08T01:19:18+00:00",
-    "views": "62",
-    "text": "铂连续主力合约日内跌 6%，现报 434.10 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3236517"
-  },
-  {
-    "post": "Financial_Express/3236515",
-    "datetime": "2026-06-08T01:18:58+00:00",
-    "views": "63",
-    "text": "白银连续主力合约日内跌 9%，现报 16172.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3236515"
-  },
-  {
-    "post": "Financial_Express/3236514",
-    "datetime": "2026-06-08T01:18:37+00:00",
-    "views": "62",
-    "text": "随着油价上涨，5 年期美国国债收益率进一步上涨 5 个基点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3236514"
   }
 ]
