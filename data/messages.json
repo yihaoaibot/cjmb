@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3244666",
+    "datetime": "2026-06-10T18:21:18+00:00",
+    "views": "1",
+    "text": "谷歌：面向 Apache Spark 托管服务的 Lightning Engine 现已支持无服务器与托管集群两种部署模式。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244666"
+  },
+  {
+    "post": "Financial_Express/3244665",
+    "datetime": "2026-06-10T18:21:17+00:00",
+    "views": "2",
+    "text": "谷歌：Apache Spark 托管服务的 Lightning Engine 现已同时支持无服务器和托管集群两种部署模式。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244665"
+  },
+  {
+    "post": "Financial_Express/3244664",
+    "datetime": "2026-06-10T18:20:58+00:00",
+    "views": "6",
+    "text": "谷歌(GOOG.O)：面向 Apache Spark 托管服务的 Lightning Engine 已正式全面开放。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244664"
+  },
+  {
+    "post": "Financial_Express/3244663",
+    "datetime": "2026-06-10T18:20:17+00:00",
+    "views": "13",
+    "text": "谷歌：适用于 Apache Spark 托管服务的 Lightning Engine 现已全面可用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244663"
+  },
+  {
     "post": "Financial_Express/3244662",
     "datetime": "2026-06-10T18:18:57+00:00",
-    "views": "6",
+    "views": "22",
     "text": "巴西圣保罗州一小型飞机坠毁致两死一伤\n巴西圣保罗州内陆城市马里利亚 10 日发生一起小型飞机坠毁事故，造成两人死亡、一人受伤。 据当地政府部门和机场运营方发布的消息，失事飞机为一架私人飞机。当天 11 时左右从该市机场起飞后不久坠毁，坠落地点位于机场附近区域。事故原因正在调查中。 巴西消防部门说，机上载有三人，其中两人当场死亡，另一人获救后被送医治疗。 巴西国家民航局称，据巴西航空器登记系统记录，该飞机适航状态正常。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3244661",
     "datetime": "2026-06-10T18:18:37+00:00",
-    "views": "9",
+    "views": "23",
     "text": "小米 MiMo：MiMo Code V0.1 现已正式发布并开源，内置 MiMo V2.5 多模态模型，限时免费开放使用，具备 100 万 Token 上下文窗口。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3244660",
     "datetime": "2026-06-10T18:18:18+00:00",
-    "views": "11",
+    "views": "24",
     "text": "Anthropic：只有当美国国会出台至少与科罗拉多州先进人工智能框架监管力度相当的联邦法律时，才应优先于州级法律适用。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3244659",
     "datetime": "2026-06-10T18:17:17+00:00",
-    "views": "14",
+    "views": "55",
     "text": "Anthropic：新型高级 AI 监管框架提议按企业全球年度营收设定民事处罚标准，屡犯者处罚力度逐级加重。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3244658",
     "datetime": "2026-06-10T18:15:17+00:00",
-    "views": "59",
+    "views": "66",
     "text": "SpaceX 750 亿美元 IPO 即将登场，分析师警告比特币市场或面临流动性流失。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3244657",
     "datetime": "2026-06-10T18:14:57+00:00",
-    "views": "60",
+    "views": "67",
     "text": "SpaceX 在 IPO 承销团队安排中仅给部分银行分配次要席位，引发这些银行不满。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3244656",
     "datetime": "2026-06-10T18:14:18+00:00",
-    "views": "66",
+    "views": "103",
     "text": "美国 5 月关税收入与退款几乎持平\n美国政府当月征收了 220 亿美元关税，与 2025 年 5 月大致相同。但与此同时，美国政府也支付了 220 亿美元关税退款。本财年（自 2025 年 10 月 1 日起）迄今，关税净收入为 1890 亿美元，高于上年同期的 810 亿美元。美国财政部表示，经日历因素调整后，本财年前八个月的预算赤字较上年同期减少 2%，约合 240 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3244655",
     "datetime": "2026-06-10T18:13:37+00:00",
-    "views": "64",
+    "views": "100",
     "text": "美国银行发现，亚太地区对人工智能驱动的资金管理及外汇解决方案需求持续增长。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3244654",
     "datetime": "2026-06-10T18:10:38+00:00",
-    "views": "109",
+    "views": "114",
     "text": "美国国务卿鲁比奥将在比赛间隙与巴拉圭总统会面。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3244653",
     "datetime": "2026-06-10T18:10:18+00:00",
-    "views": "112",
+    "views": "116",
     "text": "美国国务卿鲁比奥将率代表团前往洛杉矶观看对阵巴拉圭的世界杯赛事。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3244652",
     "datetime": "2026-06-10T18:09:17+00:00",
-    "views": "122",
+    "views": "126",
     "text": "美国能源部长赖特：我十分钦佩特朗普总统的魄力。我从未见过有谁能接受伊朗拥有核武器。这场冲突终将落幕。但民主党推高电价、汽油及柴油价格的政策，却已然成为常态。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3244651",
     "datetime": "2026-06-10T18:08:37+00:00",
-    "views": "128",
+    "views": "131",
     "text": "美司法部调查美国大型银行是否因政治原因关闭客户账户\n金十数据 6 月 11 日讯，据华尔街日报报道，知情人士透露，美国司法部已向包括摩根大通(JPM.N)、美国银行(BAC.N)在内的多家美国大型银行发出传票，要求提供有关是否存在“取消银行服务”行为的信息，即是否因政治原因不当关闭客户账户。由珍妮恩·皮罗领导的美国哥伦比亚特区联邦检察官办公室发出的这些传票标志着特朗普推动的调查进一步升级，该调查旨在查明银行是否对保守派人士及具有政治争议的行业（包括特朗普家族自身相关业务）实施歧视。特朗普去年曾表示，在其第一届政府结束后发生国会大厦骚乱事件之后，摩根大通和美国银行关闭了他的银行账户，并拒绝为其开设新账户。去年 8 月，特朗普签署行政命令，要求银行监管机构调查金融机构是否存在“带有政治倾向或违法性质的取消银行服务行为”，并采取适当措施，包括处以经济处罚。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3244650",
     "datetime": "2026-06-10T18:07:57+00:00",
-    "views": "102",
+    "views": "135",
     "text": "美国国务卿鲁比奥将于 6 月 12 日至 13 日前往洛杉矶。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3244649",
     "datetime": "2026-06-10T18:05:57+00:00",
-    "views": "120",
+    "views": "123",
     "text": "路透社调查显示，美国能源信息署（EIA）周四公布的报告料显示，上周美国天然气库存增加 990 亿立方英尺。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3244648",
     "datetime": "2026-06-10T18:05:37+00:00",
-    "views": "117",
+    "views": "119",
     "text": "伊朗外交部：作为其针对伊朗侵略行动的一部分，美军蓄意袭击了霍尔木兹甘省锡里克的关键民用供水基础设施，摧毁了两座总容量达 2,500 立方米的蓄水设施。这些设施为 10 个村庄超过 2 万名居民提供饮用水。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3244647",
     "datetime": "2026-06-10T18:04:37+00:00",
-    "views": "121",
+    "views": "123",
     "text": "伊朗外交部：美国袭击了重要的民用水利基础设施。",
     "media_only": false,
     "image_url": null,
@@ -49975,32 +50011,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3239088"
-  },
-  {
-    "post": "Financial_Express/3239087",
-    "datetime": "2026-06-08T18:21:17+00:00",
-    "views": "139",
-    "text": "特朗普：图恩应当立即解雇国会议事官。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239087"
-  },
-  {
-    "post": "Financial_Express/3239086",
-    "datetime": "2026-06-08T18:20:58+00:00",
-    "views": "137",
-    "text": "特朗普：我们完全有权更换国会议事官。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239086"
-  },
-  {
-    "post": "Financial_Express/3239085",
-    "datetime": "2026-06-08T18:20:18+00:00",
-    "views": "136",
-    "text": "中国地震台网正式测定：06 月 09 日 02 时 00 分在古巴地区（北纬 22.75 度，西经 85.15 度）发生 5.8 级地震，震源深度 20 千米。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239085"
   }
 ]
