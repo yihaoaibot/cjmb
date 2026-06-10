@@ -1,5 +1,77 @@
 [
   {
+    "post": "Financial_Express/3243138",
+    "datetime": "2026-06-10T08:37:18+00:00",
+    "views": "1",
+    "text": "德国航运公司赫伯罗特 CEO：霍尔木兹海峡重新开放后，将重新思考长期服务海湾地区的运输方式，但很多做法会恢复到伊朗战争之前的状态。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243138"
+  },
+  {
+    "post": "Financial_Express/3243137",
+    "datetime": "2026-06-10T08:36:40+00:00",
+    "views": "1",
+    "text": "渣打银行宣布任命 Tanate Phutrakul 为独立非执行董事，自 2026 年 7 月 1 日起生效。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243137"
+  },
+  {
+    "post": "Financial_Express/3243136",
+    "datetime": "2026-06-10T08:36:39+00:00",
+    "views": "1",
+    "text": "*ST 联翔：股票交易异常波动 存在终止上市风险\n*ST 联翔公告称，公司股票于 2026 年 6 月 8 日-6 月 10 日连续三个交易日内收盘价格跌幅偏离值累计超 12%，属异常波动。经自查，公司生产经营正常，不存在应披露未披露重大信息。2025 年公司营收 14161.05 万元，净利润亏损 1144.88 万元，股票已于 2026 年 4 月 29 日被实施退市风险警示，若 2026 年度财务数据仍触及强制退市情形，股票将终止上市。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243136"
+  },
+  {
+    "post": "Financial_Express/3243135",
+    "datetime": "2026-06-10T08:36:38+00:00",
+    "views": "1",
+    "text": "新五丰：2026 年 5 月生猪销售量 48.97 万头 同比增 26.54%\n新五丰公告称，2026 年 5 月，公司生猪销售量 48.97 万头，同比增长 26.54%，商品猪销价 9.41 元/公斤。1-5 月累计销售生猪 238.82 万头，其中商品猪 138.40 万头。公司提示，受动物疫情、市场价格波动和养殖节奏变化等因素影响，未来生猪销量存在月度波动风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243135"
+  },
+  {
+    "post": "Financial_Express/3243134",
+    "datetime": "2026-06-10T08:36:19+00:00",
+    "views": "1",
+    "text": "GitLab：谷歌 Gemini 3.5 现已接入 GitLab Duo 智能代理平台，Gemma 4 已部署至自托管版 GitLab Duo。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243134"
+  },
+  {
+    "post": "Financial_Express/3243132",
+    "datetime": "2026-06-10T08:35:58+00:00",
+    "views": "1",
+    "text": "小红书发布《Skill 上传规范》 明确平台立场\n金十数据 6 月 10 日讯，小红书正式发布《Skill 上传规范》，明确平台立场。小红书鼓励：发布功能描述真实、清晰，有实际使用价值的 Skill，内容具有原创性、创新性；在 Skill 中准确说明所需权限及用途，不超出功能范围请求权限；代码逻辑透明，不包含隐藏行为或后门，确保用户能够按照说明实现预期效果；尊重他人原创，不搬运、抄袭他人 Skill。平台将持续建设对 Skill 的风险识别能力，违规 Skill 将被下架处理，情节严重者将限制开发者的发布权限。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243132"
+  },
+  {
+    "post": "Financial_Express/3243133",
+    "datetime": "2026-06-10T08:35:58+00:00",
+    "views": "1",
+    "text": "HAPAG-LLOYD 首席执行官表示：霍尔木兹海峡重新开放后，我们将重新审视长期服务海湾地区的方式，但大部分业务仍会回归伊朗冲突前的常态。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243133"
+  },
+  {
+    "post": "Financial_Express/3243131",
+    "datetime": "2026-06-10T08:35:37+00:00",
+    "views": "1",
+    "text": "GitLab 扩大与谷歌的合作，搭载最新 Gemini 大模型与 Gemma 开源大模型，推出全托管式 DevSecOps 平台。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3243131"
+  },
+  {
     "post": "Financial_Express/3243130",
     "datetime": "2026-06-10T08:35:17+00:00",
     "views": "1",
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3243129",
     "datetime": "2026-06-10T08:34:58+00:00",
-    "views": "1",
+    "views": "31",
     "text": "美国证监会或在 6 月 22 日当周批准 SK 海力士的美国存托凭证上市申请\n据报道，SK 海力士计划最早 8 月在美国上市，美国证监会很可能在 6 月 22 日当周批准 SK 海力士的美国存托凭证（ADR）上市申请。SK 海力士在一份声明中表示：“SK 海力士计划在 2026 年内发行美国存托凭证，具体规模和时间尚未确定。”SK 海力士于 3 月表示已秘密提交在美国上市申请。一位消息人士当时称，此次发行可能筹集高达 140 亿美元的资金。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3243128",
     "datetime": "2026-06-10T08:34:39+00:00",
-    "views": "1",
+    "views": "31",
     "text": "俄罗斯称，欧盟动用海军力量恐吓民用船只，对航行安全构成威胁。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3243126",
     "datetime": "2026-06-10T08:34:38+00:00",
-    "views": "1",
+    "views": "31",
     "text": "俄罗斯方面谴责欧盟授权在地中海拦截和检查涉嫌属于俄罗斯“影子舰队”的船只。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3243127",
     "datetime": "2026-06-10T08:34:38+00:00",
-    "views": "1",
+    "views": "31",
     "text": "小红书发布《Skill 上传规范》，明确平台立场\n6 月 10 日，小红书正式发布《Skill 上传规范》，明确平台立场。小红书鼓励：发布功能描述真实、清晰，有实际使用价值的 Skill，内容具有原创性、创新性；在 Skill 中准确说明所需权限及用途，不超出功能范围请求权限；代码逻辑透明，不包含隐藏行为或后门，确保用户能够按照说明实现预期效果；尊重他人原创，不搬运、抄袭他人 Skill。平台将持续建设对 Skill 的风险识别能力，违规 Skill 将被下架处理，情节严重者将限制开发者的发布权限。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3243125",
     "datetime": "2026-06-10T08:34:18+00:00",
-    "views": "1",
+    "views": "31",
     "text": "俄罗斯外交部发言人表示：欧盟制裁未能达成其既定目标，未来也终将无法实现目标。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3243123",
     "datetime": "2026-06-10T08:33:39+00:00",
-    "views": "1",
+    "views": "31",
     "text": "俄罗斯外交部发言人就欧盟拟议的新一轮制裁表示：他们只能以新限制措施来威胁我方。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3243124",
     "datetime": "2026-06-10T08:33:39+00:00",
-    "views": "1",
+    "views": "31",
     "text": "俄罗斯外交部发言人就欧盟拟议的新一轮制裁表示：莫斯科方面将作出回应。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3243122",
     "datetime": "2026-06-10T08:33:38+00:00",
-    "views": "1",
+    "views": "31",
     "text": "俄罗斯外交部发言人：欧盟制裁至今已对能源和食品市场造成了不稳定。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3243121",
     "datetime": "2026-06-10T08:33:18+00:00",
-    "views": "1",
+    "views": "31",
     "text": "俄罗斯外交部发言人就欧盟制裁表态：截至目前，相关制裁已扰乱能源与粮食市场。",
     "media_only": false,
     "image_url": null,
@@ -48841,50 +48913,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3237688"
-  },
-  {
-    "post": "Financial_Express/3237686",
-    "datetime": "2026-06-08T08:37:00+00:00",
-    "views": "33",
-    "text": "ST 美晨：拟出售赛石园林 100%股权 交易尚不确定\nST 美晨公告称，公司拟通过非公开协议转让方式，出售所持杭州赛石园林集团有限公司 100%股权，交易完成后将不再持有该公司股权。经初步测算，本次交易预计构成重大资产重组，但不构成重组上市。截至公告披露日，尽职调查、审计、评估等工作正加紧推进，交易各方尚未签署正式协议，具体方案尚需董事会、股东会审议，能否通过审批存在不确定性。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3237686"
-  },
-  {
-    "post": "Financial_Express/3237685",
-    "datetime": "2026-06-08T08:36:59+00:00",
-    "views": "33",
-    "text": "财政部拟第二次续发行 2026 年记账式附息（十期）国债\n金十数据 6 月 8 日讯，财政部发布关于 2026 年记账式附息（十期）国债第二次续发行工作有关事宜的通知，本次续发行国债为 10 年期固定利率附息债。本次续发行国债竞争性招标面值总额 900 亿元，进行甲类成员追加投标。本次续发行国债票面利率与之前发行的同期国债相同，为 1.72%。本次续发行国债的起息日、兑付安排与之前发行的同期国债相同。自 2026 年 5 月 15 日开始计息，按半年付息，每年 5 月 15 日（节假日顺延，下同）、11 月 15 日支付利息，2036 年 5 月 15 日偿还本金并支付最后一次利息。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3237685"
-  },
-  {
-    "post": "Financial_Express/3237684",
-    "datetime": "2026-06-08T08:36:38+00:00",
-    "views": "35",
-    "text": "德黑兰南部传来爆炸声。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3237684"
-  },
-  {
-    "post": "Financial_Express/3237683",
-    "datetime": "2026-06-08T08:36:18+00:00",
-    "views": "35",
-    "text": "纳斯达克 100 指数期货涨 0.82%，报 29263.58 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3237683"
-  },
-  {
-    "post": "Financial_Express/3237682",
-    "datetime": "2026-06-08T08:35:58+00:00",
-    "views": "34",
-    "text": "明起实施 广州出台住房公积金个人贷款新规\n6 月 8 日，记者从广州住房公积金管理中心了解到，该中心 6 月 8 日印发《广州住房公积金个人住房贷款实施办法》，从 6 月 9 日起正式实施，有效期 5 年。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3237682"
   }
 ]
