@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3244309",
+    "datetime": "2026-06-10T14:51:17+00:00",
+    "views": "1",
+    "text": "加拿大央行高级副行长罗杰斯：我们认为目前的利率水平是合适的。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244309"
+  },
+  {
+    "post": "Financial_Express/3244308",
+    "datetime": "2026-06-10T14:50:58+00:00",
+    "views": "1",
+    "text": "加拿大央行罗杰斯：利率已经达到我们认为现在需要的水平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244308"
+  },
+  {
+    "post": "Financial_Express/3244307",
+    "datetime": "2026-06-10T14:50:40+00:00",
+    "views": "1",
+    "text": "被提名为美国劳工统计局局长的松本表示：期待探索是否有办法将消费者价格指数的覆盖范围扩大到城市地区以外。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244307"
+  },
+  {
+    "post": "Financial_Express/3244305",
+    "datetime": "2026-06-10T14:50:39+00:00",
+    "views": "1",
+    "text": "美国能源部长赖特：石油将于明年初重新注入美国储备。已有近 100 艘船舶使用了《琼斯法案》豁免。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244305"
+  },
+  {
+    "post": "Financial_Express/3244306",
+    "datetime": "2026-06-10T14:50:39+00:00",
+    "views": "1",
+    "text": "美国能源部长：近百艘船舶已使用《琼斯法案》豁免权。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244306"
+  },
+  {
+    "post": "Financial_Express/3244303",
+    "datetime": "2026-06-10T14:49:58+00:00",
+    "views": "31",
+    "text": "加拿大央行行长麦克勒姆：我们尚未看到经济活动的广泛下降。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244303"
+  },
+  {
+    "post": "Financial_Express/3244304",
+    "datetime": "2026-06-10T14:49:58+00:00",
+    "views": "31",
+    "text": "赖特：石油将于明年初重返美国储备。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244304"
+  },
+  {
+    "post": "Financial_Express/3244302",
+    "datetime": "2026-06-10T14:49:57+00:00",
+    "views": "1",
+    "text": "印度外交部：谴责在阿曼海岸附近对船只的袭击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244302"
+  },
+  {
+    "post": "Financial_Express/3244301",
+    "datetime": "2026-06-10T14:49:37+00:00",
+    "views": "31",
+    "text": "欧盟与韩国对数字贸易协定的签署表示欢迎。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244301"
+  },
+  {
+    "post": "Financial_Express/3244300",
+    "datetime": "2026-06-10T14:49:18+00:00",
+    "views": "1",
+    "text": "道琼斯指数下跌 390 点，卡特彼勒、波音股价领跌。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3244300"
+  },
+  {
     "post": "Financial_Express/3244299",
     "datetime": "2026-06-10T14:48:18+00:00",
-    "views": "1",
+    "views": "32",
     "text": "欧盟与韩国在峰会结束后发表联合声明。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3244298",
     "datetime": "2026-06-10T14:48:17+00:00",
-    "views": "1",
+    "views": "32",
     "text": "美国劳工统计局局长提名人松本：（提名确认后）将公布由劳工统计局工作人员编制的数据。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3244296",
     "datetime": "2026-06-10T14:47:59+00:00",
-    "views": "2",
+    "views": "32",
     "text": "加拿大央行行长麦克勒姆：过去一年经济并没有真正增长，但也没有收缩。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3244294",
     "datetime": "2026-06-10T14:47:38+00:00",
-    "views": "2",
+    "views": "62",
     "text": "松本：我认为特朗普不会要求我篡改数据。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3244295",
     "datetime": "2026-06-10T14:47:38+00:00",
-    "views": "1",
+    "views": "32",
     "text": "加拿大央行行长：过去一年经济实际并未增长，但也没有萎缩。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3244293",
     "datetime": "2026-06-10T14:47:37+00:00",
-    "views": "2",
+    "views": "32",
     "text": "美国劳工统计局局长提名人松本：我认为美国总统特朗普不会要求我修改数据。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3244292",
     "datetime": "2026-06-10T14:47:17+00:00",
-    "views": "2",
+    "views": "32",
     "text": "加拿大央行行长麦克勒姆：加拿大经济并未明显陷入衰退。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3244291",
     "datetime": "2026-06-10T14:46:58+00:00",
-    "views": "32",
+    "views": "62",
     "text": "普京认为，随着俄罗斯通胀放缓，大幅降息的可能性依然存在。",
     "media_only": false,
     "image_url": null,
@@ -49894,41 +49984,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3238735"
-  },
-  {
-    "post": "Financial_Express/3238734",
-    "datetime": "2026-06-08T14:50:58+00:00",
-    "views": "67",
-    "text": "印度储备银行：银行可自行裁量允许存款存满一年后提前支取，与本行开展的互换交易不得撤销。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238734"
-  },
-  {
-    "post": "Financial_Express/3238733",
-    "datetime": "2026-06-08T14:50:18+00:00",
-    "views": "192",
-    "text": "费城半导体指数涨幅扩大至 6%，创盘中新高，上周五曾大幅下跌 10%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238733"
-  },
-  {
-    "post": "Financial_Express/3238732",
-    "datetime": "2026-06-08T14:50:01+00:00",
-    "views": "130",
-    "text": "美国 5 月纽约联储 1 年通胀预期将于十分钟后公布。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238732"
-  },
-  {
-    "post": "Financial_Express/3238731",
-    "datetime": "2026-06-08T14:49:18+00:00",
-    "views": "97",
-    "text": "新任陕西省委常委李钧已任省委秘书长\n据陕西卫视《陕西新闻联播》消息，6 月 8 日，省委书记赵一德到咸阳市旬邑县检查煤矿安全生产工作并主持召开专题会。报道提到，陕西省委常委、省委秘书长李钧参加。上述消息显示，新任陕西省委常委李钧已任省委秘书长。（澎湃）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3238731"
   }
 ]
