@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3246997",
+    "datetime": "2026-06-11T13:08:18+00:00",
+    "views": "1",
+    "text": "欧洲央行行长拉加德：不会有预设的利率路径。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3246997"
+  },
+  {
+    "post": "Financial_Express/3246996",
+    "datetime": "2026-06-11T13:07:58+00:00",
+    "views": "1",
+    "text": "德国财政部长：我们将分析欧盟委员会关于提供额外财政空间的提案。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3246996"
+  },
+  {
+    "post": "Financial_Express/3246995",
+    "datetime": "2026-06-11T13:07:38+00:00",
+    "views": "5",
+    "text": "DeepSeek 主动向用户退款\n有开发者反馈称，DeepSeek 开放平台已就其缓存计费系统的数据错误向 API 用户自动返还了相应金额。 根据用户收到的通知，2026 年 5 月 13 日至 2026 年 6 月 9 日期间，DeepSeek 的缓存计费系统出现了部分错误，部分用户的 API 计费受到了一定影响。为此，DeepSeek 团队将相应金额以赠金形式自动返还至受影响用户的账户，并明确表示 API 计费扣款将优先从赠金账户扣除。 当充值余额与赠送余额同时存在时，系统优先扣减赠送余额，这一机制确保了返还赠金能够在后续调用中率先发挥作用。 用户可登录 DeepSeek 开放平台查看具体到账情况，DeepSeek 团队在通知中也就此次事件向用户表示了歉意。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3246995"
+  },
+  {
+    "post": "Financial_Express/3246994",
+    "datetime": "2026-06-11T13:07:17+00:00",
+    "views": "6",
+    "text": "拉加德：金融状况比战前更加严峻，决定是一致通过的。我们未讨论替代方案。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3246994"
+  },
+  {
+    "post": "Financial_Express/3246992",
+    "datetime": "2026-06-11T13:07:00+00:00",
+    "views": "6",
+    "text": "机构：欧洲央行政策调整难言结束\n金十数据 6 月 11 日讯，资管公司 Premier Miton Group 伦敦首席投资官 Neil Birrell 表示，鉴于当前的通胀背景，欧洲央行加息 25 个基点的决定并不令人意外。令人欣慰的是，尽管经济增长预期已然低迷，但欧洲央行认为 GDP 面临的风险并不大。该行今年可能还会根据数据进一步加息，政策调整恐怕不会止步于此。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3246992"
+  },
+  {
+    "post": "Financial_Express/3246993",
+    "datetime": "2026-06-11T13:07:00+00:00",
+    "views": "6",
+    "text": "欧洲央行行长拉加德：（今天的）决定是一致通过的。未讨论任何其他提议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3246993"
+  },
+  {
     "post": "Financial_Express/3246991",
     "datetime": "2026-06-11T13:06:38+00:00",
-    "views": "1",
+    "views": "4",
     "text": "英国政府消息人士称，国防投资计划将提供我国军队所需的能力。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3246990",
     "datetime": "2026-06-11T13:05:39+00:00",
-    "views": "5",
+    "views": "41",
     "text": "产能趋紧，谷歌选定三星合作研发下一代人工智能芯片\n由于芯片制造产能持续紧张，各大芯片企业纷纷寻求台积电以外的合作供应商。在此背景下，谷歌正考虑让三星电子承接其一款尖端新一代人工智能芯片的部分组件生产工作。两位了解该项目内情的人士透露，这家美国科技巨头正与三星洽谈合作，计划由三星采用 2 纳米制程工艺，代工生产新一代张量处理器的部分芯片。张量处理器是谷歌专为云数据中心打造的人工智能专用芯片。该芯片代号为 “冰鱼”，目前规划为谷歌第十代张量处理器。两位知情人士表示，对于代号为 “冰鱼” 的新一代张量处理器，谷歌计划仍由台积电采用 1.4 纳米先进制程，负责制造芯片核心的计算引擎部分；而三星或将代工内存输入输出裸片。这一独立硅片负责连接主处理器与内存，对 AI 芯片至关重要 ——AI 芯片需要持续的数据传输，才能保障计算核心高效运转。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3246989",
     "datetime": "2026-06-11T13:05:38+00:00",
-    "views": "5",
+    "views": "41",
     "text": "贵州茅台：选举陈华为董事长并聘任多名高管\n金十数据 6 月 11 日讯，贵州茅台公告，公司第五届董事会 2026 年度第一次会议选举陈华为董事长，并聘任王莉代行总经理职责，涂华彬、向平、钟正强、张旭为副总经理，余思明为财务总监、董事会秘书。会议还审议通过了回购注销股份办理工商登记等事项。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3246988",
     "datetime": "2026-06-11T13:05:18+00:00",
-    "views": "4",
+    "views": "39",
     "text": "*ST 海源：撤销退市风险警示 简称变更为海源复材\n*ST 海源(002529.SZ)公告称，公司撤销退市风险警示的申请已获得深圳证券交易所审核同意。根据规定，公司股票将于 2026 年 6 月 12 日（星期五）开市起停牌 1 天，于 2026 年 6 月 15 日（星期一）开市起复牌，股票简称由“*ST 海源”变更为“海源复材”，股票代码仍为“002529”，股票交易价格日涨跌幅限制变更为 10%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3246986",
     "datetime": "2026-06-11T13:04:38+00:00",
-    "views": "5",
+    "views": "43",
     "text": "特朗普称将对伊朗发动更多攻击 威胁将夺取能源基础设施\n金十数据 6 月 11 日讯，美国总统特朗普周四表示，美国将再次对伊朗发动打击，并威胁称“在某个时候”将掌控该国的能源基础设施，包括关键的石油出口枢纽哈尔克岛。美伊为期两个月的停火协议在周末出现裂痕，随着一架美军军用直升机被击落，双方相互发动报复性打击。特朗普的言论威胁冲突进一步升级，可能使原本缓慢推进的和平协议谈判陷入困境。有机构指出，占领哈尔克岛很可能需要动用美军地面部队，这将使士兵面临更大危险，并给总统带来政治挑战，因为该战争在国内日益不受欢迎。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3246987",
     "datetime": "2026-06-11T13:04:38+00:00",
-    "views": "9",
+    "views": "42",
     "text": "富时罗素将推出罗素 9000 全球指数。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3246985",
     "datetime": "2026-06-11T13:03:38+00:00",
-    "views": "42",
+    "views": "45",
     "text": "据 The Information：谷歌正与三星洽谈，拟采用三星 2nm 工艺制造部分下一代 TPU。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3246984",
     "datetime": "2026-06-11T13:03:17+00:00",
-    "views": "43",
+    "views": "76",
     "text": "谷歌考虑将三星作为其 Icefish AI 芯片关键组件的供应商。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3246983",
     "datetime": "2026-06-11T13:02:59+00:00",
-    "views": "43",
+    "views": "76",
     "text": "IBM 和 SERVICENOW 扩大合作，以释放企业数据潜力，助力人工智能发展。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3246982",
     "datetime": "2026-06-11T13:02:58+00:00",
-    "views": "42",
+    "views": "75",
     "text": "据 The Information：由于产能紧张，谷歌转向三星寻求未来的人工智能芯片供应。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3246981",
     "datetime": "2026-06-11T13:02:38+00:00",
-    "views": "43",
+    "views": "76",
     "text": "拉加德：对其他价格的更大溢出效应是上行风险之一，长期通胀预期支持回落至 2%，如果能源价格上涨幅度更大或持续时间更长，通胀将进一步上升。资产价格的突然大幅下跌将对金融稳定构成风险。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3246980",
     "datetime": "2026-06-11T13:02:18+00:00",
-    "views": "76",
+    "views": "80",
     "text": "欧洲央行行长拉加德：资产价格的突然大幅下跌将对金融稳定构成风险。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3246979",
     "datetime": "2026-06-11T13:01:17+00:00",
-    "views": "75",
+    "views": "78",
     "text": "提示：美国总统特朗普在福克斯新闻的采访结束。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3246978",
     "datetime": "2026-06-11T13:00:58+00:00",
-    "views": "77",
+    "views": "80",
     "text": "欧洲央行行长拉加德：如果能源价格上涨幅度更大或持续时间更长，通胀将进一步上升。",
     "media_only": false,
     "image_url": null,
@@ -51190,41 +51244,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3241278"
-  },
-  {
-    "post": "Financial_Express/3241277",
-    "datetime": "2026-06-09T13:08:39+00:00",
-    "views": "55",
-    "text": "众议院议长约翰逊将于今日晚些时候与特朗普会晤。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3241277"
-  },
-  {
-    "post": "Financial_Express/3241275",
-    "datetime": "2026-06-09T13:08:38+00:00",
-    "views": "55",
-    "text": "苹果(AAPL.O)：新推出的功能包括改进的 Flyover 视图和本地列表，以及“查找”中灵活的共享选项。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3241275"
-  },
-  {
-    "post": "Financial_Express/3241276",
-    "datetime": "2026-06-09T13:08:38+00:00",
-    "views": "56",
-    "text": "美国贸易逆差收窄 因石油出口部分抵消了 AI 相关进口\n4 月贸易逆差收窄至 559 亿美元。4 月份出口额环比增长 2.6%，主要得益于原油、燃料油及其他石油产品价格上涨。进口额则增长 2%，主要以计算机和半导体品类为主导。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3241276"
-  },
-  {
-    "post": "Financial_Express/3241274",
-    "datetime": "2026-06-09T13:07:18+00:00",
-    "views": "34",
-    "text": "ZipRecruiter 整合 claude AI，拓展人工智能求职搜索服务。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3241274"
   }
 ]
