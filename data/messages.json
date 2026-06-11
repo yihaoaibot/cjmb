@@ -1,9 +1,72 @@
 [
   {
+    "post": "Financial_Express/3245212",
+    "datetime": "2026-06-11T01:16:37+00:00",
+    "views": "1",
+    "text": "现货黄金突破 4090 美元/盎司，日内涨 0.49%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245212"
+  },
+  {
+    "post": "Financial_Express/3245211",
+    "datetime": "2026-06-11T01:15:58+00:00",
+    "views": "2",
+    "text": "SK 海力士股价逆转跌势，上涨 5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245211"
+  },
+  {
+    "post": "Financial_Express/3245209",
+    "datetime": "2026-06-11T01:15:57+00:00",
+    "views": "2",
+    "text": "恒指期货日盘开盘涨 0.50%，报 24399 点，低水 9 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245209"
+  },
+  {
+    "post": "Financial_Express/3245210",
+    "datetime": "2026-06-11T01:15:57+00:00",
+    "views": "2",
+    "text": "现货白银日内涨 1%，现报 64.03 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245210"
+  },
+  {
+    "post": "Financial_Express/3245208",
+    "datetime": "2026-06-11T01:15:38+00:00",
+    "views": "32",
+    "text": "人民币兑美元中间价报 6.8150，较上日调低 20 点\n人民币兑美元中间价报 6.8150，较上日调低 20 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245208"
+  },
+  {
+    "post": "Financial_Express/3245207",
+    "datetime": "2026-06-11T01:15:37+00:00",
+    "views": "32",
+    "text": "SK 海力士股价扭转跌势，现涨 5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245207"
+  },
+  {
+    "post": "Financial_Express/3245206",
+    "datetime": "2026-06-11T01:15:17+00:00",
+    "views": "32",
+    "text": "恒指期货日盘开盘涨 0.37%，报 24368.16 点，低水 39.80 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245206"
+  },
+  {
     "post": "Financial_Express/3245205",
     "datetime": "2026-06-11T01:14:37+00:00",
-    "views": "1",
-    "text": "日经 225 指数收复稍早失地，转为微跌 0.1%，此前一度跌超 2%。此前美国军方称最新一次对伊朗的空袭已经结束。",
+    "views": "33",
+    "text": "日经 225 指数收复稍早失地，转为微跌 0.1％，此前一度跌超 2％。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3245205"
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3245204",
     "datetime": "2026-06-11T01:14:17+00:00",
-    "views": "3",
+    "views": "64",
     "text": "钯连续主力合约日内涨 4%，现报 297.50 元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3245203",
     "datetime": "2026-06-11T01:13:38+00:00",
-    "views": "33",
+    "views": "64",
     "text": "标普 500 指数期货收复早盘失地，上涨 0.3%，纳斯达克指数期货上涨 0.5%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3245202",
     "datetime": "2026-06-11T01:12:57+00:00",
-    "views": "34",
+    "views": "65",
     "text": "迈普医学：公司在巴西的业务正常开展\n有投资者向迈普医学提问，据媒体 2021 年 1 月披露，巴西联邦总检察署曾于 2020 年 1 月对公司提起诉讼，指控在 2018 年巴西 ANVISA 现场检查中存在不当行为。请问：1. 该诉讼目前是否已结案？最终结果是什么？2. 公司为何未在招股书及上市后的年报中进行披露？对此，迈普医学 6 月 11 日在互动平台表示，公司未曾收到与此相关的诉讼文书，不存在应披露未披露的事项。目前，公司在巴西的业务正常开展。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3245201",
     "datetime": "2026-06-11T01:11:58+00:00",
-    "views": "67",
+    "views": "98",
     "text": "韩国 KOSPI 指数转涨，抹去稍早一度达 4.4％的跌幅。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3245200",
     "datetime": "2026-06-11T01:11:57+00:00",
-    "views": "67",
+    "views": "98",
     "text": "韩国 KOSPI 指数转涨，此前一度跌超 4%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3245199",
     "datetime": "2026-06-11T01:10:58+00:00",
-    "views": "98",
+    "views": "99",
     "text": "韩国 KOSPI 指数转为上涨，此前一度跌 4.4%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3245198",
     "datetime": "2026-06-11T01:09:58+00:00",
-    "views": "98",
+    "views": "129",
     "text": "机构：印尼政策、厄尔尼诺风险料将在下半年驱动棕榈油价格\n马来亚银行分析师 Ong Chee Ting 在一份报告中表示，印尼的 B50 生物柴油政策（要求掺混 50%的棕榈油）、新的出口措施以及强厄尔尼诺现象的风险，预计将影响下半年的毛棕榈油价格走势。他表示，6 月初的发货数据显示出复苏迹象，但低于正常水平的降雨量以及可能向厄尔尼诺条件的转变，可能会拖累未来新鲜果串的产量，并推高棕榈油价格。马来亚银行对东南亚种植板块维持中性评级，将 SD Guthrie、Sarawak Oil Palms 和云顶集团种植列为首选买入标的。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3245196",
     "datetime": "2026-06-11T01:09:38+00:00",
-    "views": "97",
+    "views": "128",
     "text": "花旗分析师 Jeff Chung 在一份报告中表示，由于销量表现平淡和竞争加剧，赛力斯集团的盈利将继续面临阻力。花旗将其 2026-2028 年收入预测下调 15%-17%，至人民币 1,520 亿元至 1,690 亿元。该行将其 A 股目标价从人民币 88.1 元下调至 55.4 元，将其 H 股目标价从 98.90 港元下调至 63.7 港元。花旗维持对该股的卖出评级。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3245195",
     "datetime": "2026-06-11T01:07:57+00:00",
-    "views": "127",
+    "views": "157",
     "text": "美军完成对伊朗的最新打击行动\n金十数据 6 月 11 日讯，当地时间 6 月 10 日，美国中央司令部表示，在总司令部指令下，部队对伊朗多个目标实施了额外的自卫打击。美国中央司令部部队对伊朗境内的军事侦察设施、通信系统和防空站点发动了打击。美国海军陆战队、空军和海军的兵力向伊朗目标发射了精确制导武器，这些目标对美军部队以及航行于该地区水域的国际商船构成威胁。这些打击是对伊朗无端且持续的侵略行为的回应。美军依然保持警惕，准备充分，随时待命。\n❤1",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3245194",
     "datetime": "2026-06-11T01:07:18+00:00",
-    "views": "97",
+    "views": "127",
     "text": "甲醇连续主力合约日内涨 3%，现报 3045.00 元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +182,7 @@
   {
     "post": "Financial_Express/3245193",
     "datetime": "2026-06-11T01:07:17+00:00",
-    "views": "128",
+    "views": "158",
     "text": "美国中央司令部：打击了伊朗通信系统和防空系统。",
     "media_only": false,
     "image_url": null,
@@ -51352,68 +51415,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3239477"
-  },
-  {
-    "post": "Financial_Express/3239476",
-    "datetime": "2026-06-09T01:16:38+00:00",
-    "views": "93",
-    "text": "西班牙呼吁中东冲突方通过对话令局势降温\n西班牙政府当地时间 8 日发表声明，敦促冲突各方切实遵守停火承诺，不要再次诉诸暴力行为，危及平民、关键民用基础设施以及破坏地区稳定。西班牙政府重申，对话与外交是解决该地区问题的唯一途径。当前必须立即缓和局势，通过对话达成解决方案，从而结束这场冲突，并推动中东实现持久和平与稳定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239476"
-  },
-  {
-    "post": "Financial_Express/3239475",
-    "datetime": "2026-06-09T01:15:58+00:00",
-    "views": "125",
-    "text": "恒指期货日盘开盘跌 0.23%，报 24507 点，低水 150 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239475"
-  },
-  {
-    "post": "Financial_Express/3239473",
-    "datetime": "2026-06-09T01:15:38+00:00",
-    "views": "124",
-    "text": "人民币兑美元中间价报 6.8147 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239473"
-  },
-  {
-    "post": "Financial_Express/3239474",
-    "datetime": "2026-06-09T01:15:38+00:00",
-    "views": "124",
-    "text": "人民币兑美元中间价报 6.8147，较上日调高 51 点\n人民币兑美元中间价报 6.8147，较上日调高 51 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239474"
-  },
-  {
-    "post": "Financial_Express/3239471",
-    "datetime": "2026-06-09T01:15:18+00:00",
-    "views": "96",
-    "text": "今日起，上海市汽车以旧换新补贴调整为即时摇号\n金十数据 6 月 9 日讯，上海市汽车以旧换新补贴调整为即时摇号。6 月 8 日夜间，上海市商务委发布《关于调整 2026 年上海市汽车以旧换新补贴活动摇号方式的公告》。《公告》称，自 2026 年 6 月 9 日至 2026 年 9 月 30 日，符合条件的个人消费者可在每日 7：00-22：00 通过“上海商务”微信公众号“政务服务-汽车以旧换新补贴申请”入口，报名参加即时摇号。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239471"
-  },
-  {
-    "post": "Financial_Express/3239472",
-    "datetime": "2026-06-09T01:15:18+00:00",
-    "views": "126",
-    "text": "恒指期货日盘开盘跌 0.19%，报 24517.80 点，低水 139.26 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239472"
-  },
-  {
-    "post": "Financial_Express/3239470",
-    "datetime": "2026-06-09T01:14:58+00:00",
-    "views": "95",
-    "text": "天振股份：公司尚未发生因关税原因导致的压价、缩减采购订单的计划\n天振股份 6 月 9 日在互动平台表示，公司尚未发生因关税原因导致的压价、缩减采购订单的计划。公司持续关注国际贸易政策变化，并结合市场情况积极做好经营安排。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239470"
   }
 ]
