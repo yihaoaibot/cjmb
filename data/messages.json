@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3245080",
+    "datetime": "2026-06-11T00:02:37+00:00",
+    "views": "1",
+    "text": "韩国综合股价指数下跌 3.2%，至 7487.07 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245080"
+  },
+  {
+    "post": "Financial_Express/3245079",
+    "datetime": "2026-06-11T00:02:17+00:00",
+    "views": "4",
+    "text": "韩股 SK 海力士跌 3.5%，三星跌 4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245079"
+  },
+  {
+    "post": "Financial_Express/3245078",
+    "datetime": "2026-06-11T00:01:38+00:00",
+    "views": "4",
+    "text": "日韩股市低开\n金十数据 6 月 11 日讯，韩国 KOSPI 指数 6 月 11 日（周四）开盘下跌 225.62 点，跌幅 2.92%，报 7505.2 点。日经 225 指数 6 月 11 日（周四）开盘下跌 737.82 点，跌幅 1.15%，报 63441.45 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245078"
+  },
+  {
+    "post": "Financial_Express/3245077",
+    "datetime": "2026-06-11T00:01:17+00:00",
+    "views": "5",
+    "text": "三星电子股价下跌逾 3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245077"
+  },
+  {
+    "post": "Financial_Express/3245076",
+    "datetime": "2026-06-11T00:00:58+00:00",
+    "views": "39",
+    "text": "韩国综合股价指数（KOSPI）开盘下跌 2.9%，至 7509.62 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245076"
+  },
+  {
+    "post": "Financial_Express/3245075",
+    "datetime": "2026-06-11T00:00:57+00:00",
+    "views": "40",
+    "text": "韩国 6 月 1 日至 10 日的出口额同比增长 85.9%，进口额同比增长 35.6%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3245075"
+  },
+  {
     "post": "Financial_Express/3245073",
     "datetime": "2026-06-11T00:00:38+00:00",
-    "views": "2",
+    "views": "39",
     "text": "日经 225 指数上午开盘报 63329.17 点，跌幅 1.32%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3245074",
     "datetime": "2026-06-11T00:00:38+00:00",
-    "views": "2",
+    "views": "39",
     "text": "谷歌推出 DiffusionGemma 开源模型\n谷歌当地时间 6 月 10 日发布实验性开源模型 DiffusionGemma，采用文本扩散架构，在专用 GPU 上文本生成速度较传统自回归大语言模型最高提升 4 倍，模型以 Apache 2.0 许可证发布。谷歌称，DiffusionGemma 定位为面向研究者和开发者的实验性模型，整体输出质量低于标准 Gemma 4，生产环境仍建议使用后者。该模型的速度优势主要体现于本地及低并发推理场景，在高并发云端部署中优势有限。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3245072",
     "datetime": "2026-06-11T00:00:37+00:00",
-    "views": "2",
+    "views": "39",
     "text": "6 月 1 日至 10 日进口同比增长 35.6%。6 月 1 日至 10 日出口同比增长 85.9%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3245071",
     "datetime": "2026-06-11T00:00:18+00:00",
-    "views": "2",
+    "views": "39",
     "text": "布伦特原油日内涨 2%，现报 95.19 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3245070",
     "datetime": "2026-06-10T23:59:57+00:00",
-    "views": "2",
+    "views": "38",
     "text": "中金：能源冲击延续，美联储不降息、不加息\n金十数据 6 月 11 日讯，中金研报认为，美国当前通胀仍以能源冲击等结构性因素为主，周期性通胀尚不明显，但需警惕 AI 资本开支扩张与就业改善带来的总需求回升风险。货币政策上，我们维持美联储年内不降息、不加息的基准判断。我们预计联储态度将保持鹰派，沃什上任后首要任务是重建政策公信力，更可能通过强化缩表预期而非暗示加息来展示决心。不排除出现“缩表先行、降息推迟”的格局，对与沃什的理念格格不入、依赖流动性驱动、受益于美元超发的资产构成持续压力。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3245069",
     "datetime": "2026-06-10T23:58:58+00:00",
-    "views": "2",
+    "views": "38",
     "text": "华泰证券：AI 服务器测试电源或迎国产替代机遇\n华泰证券指出，AIDC 建设推动供电架构加速升级，测试电源有望迎来发展机遇。华泰证券认为随数据中心供电架构由 UPS 向 HVDC、SST 持续演进，带动测试对象由单一 PSU 向 Power Shelf、BBU 及整机架系统延伸；同时机柜功率等级持续提升，有望推动测试电源量价齐升。看好国内厂商凭借大功率技术积累及国产替代机遇，在行业扩容与技术升级背景下实现快速成长。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3245068",
     "datetime": "2026-06-10T23:58:57+00:00",
-    "views": "2",
+    "views": "38",
     "text": "中信证券：预计美联储今年全年维持目标利率不变\n中信证券指出，美国 5 月 CPI 大致符合预期，高油价继续推升总体通胀率，核心通胀则表现温和。中信证券认为美国二次通胀风险小，总体 CPI 同比可能已到达本轮高点，未来将大致先缓慢下行至 9 月、此后再小幅反弹，直至明年 3 月快速回落。预计美联储今年全年维持目标利率不变、衍生品市场定价的加息预期有下修空间，下周美联储议息会议的看点主要在于新主席沃什对目前通胀形势与利率水平的表述。美债目前更适合把握交易型而非配置型机会、短债比长债更好，美元指数有支撑，金价或需等待宽松预期重启时再走出困局。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3245067",
     "datetime": "2026-06-10T23:58:37+00:00",
-    "views": "32",
+    "views": "36",
     "text": "美银：客户上周抛售美国科技股规模创 2008 年以来最大\n美银证券援引截至 6 月 5 日当周的客户资金流向数据，称随着标普 500 指数创下 2025 年 4 月以来最大单周跌幅，上周该行客户撤出美国科技股的规模达到纪录最大。从市值占比来看，当周科技股的资金流出规模创下 2014 年初以来最高纪录。个股抛售规模也创下历史新高。其补充道：“资金流出完全集中在大盘股，客户转而买入了中小盘股。”",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3245066",
     "datetime": "2026-06-10T23:57:38+00:00",
-    "views": "32",
+    "views": "34",
     "text": "以色列军队炮兵对黎巴嫩南部纳巴提耶市医院周边进行猛烈轰炸。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3245065",
     "datetime": "2026-06-10T23:55:37+00:00",
-    "views": "35",
+    "views": "66",
     "text": "玉渊谭天：该警惕日本的，不只是中国\n最近的日本很不安分。6 月 9 日，日本自民党通过了修改“安保三文件”的草案，试图挣脱其所谓“专守防卫”的束缚。就在同一天，针对日本联合菲律宾侵害我海洋权益的企图，中国外交部、国防部两部门接连发声。中方的态度很清楚，日菲的行为严重侵害中方的海洋权益，中方绝不允许。中方将以坚决有力的行动举措维护国家领土主权和海洋权益。说得再直白一点，如果日本一意孤行，只会求锤得锤。而这些博弈背后，是日本一个更危险的企图：通过联合菲律宾，日本正将东海、台海、南海三个海域的安全议题绑定联动，搞“三海联动”，把更多国家拉进其安全框架。日菲还在不断勾连炒作，企图把其军事化行为正常化。今天日本以“合作”之名进入南海，明天就可能把地区国家推到它军事正常化的最前线。这不是东南亚国家需要的安全。无论如何，中方都会做好相应的准备。只是日本如果天真地以为，靠这些动作就能把中国拖进它设计的节奏里，那恐怕是打错了算盘。真正会被这种战略反噬的，只会是不断把自己推向军事化深水区的日本。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3245064",
     "datetime": "2026-06-10T23:53:57+00:00",
-    "views": "66",
+    "views": "67",
     "text": "日本第二季度 BSI 大型非制造业信心指数 -0.5，前值 4.6。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3245063",
     "datetime": "2026-06-10T23:53:17+00:00",
-    "views": "66",
+    "views": "67",
     "text": "中信建投：近期市场对加息叙事十分敏感，并不是真的要加息\n中信建投指出，近期宏观环境，对降息叙事不友好，但降息窗口未全面关闭，关注三条逻辑：\n①6 月：美股和美债二次探底，会加速美伊谈判和霍尔木兹海峡重开，一旦油价回落，加息叙事的前提或将松动。\n②三季度：就业数据如何看待，不取决于其自身，通胀才是判官，只要核心 CPI 保持稳定，降息的希望之火就不会完全熄灭。\n③下半年：K 型分化下，若消费继续低迷，联储对就业的诉求，或不满足于失业率企稳，而是更大幅度的下降，降息仍是潜在选项。 目前对加息的定价趋向极致，下半年均值回归的方向更可能是宽松。此外，近期市场对加息叙事十分敏感，并不是真的要加息，而是美股恐高，待回撤完成，情绪缓和，加息叙事容易淡化。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3245062",
     "datetime": "2026-06-10T23:52:57+00:00",
-    "views": "35",
+    "views": "36",
     "text": "伊朗：美国中央司令部在许愿\n金十数据 6 月 11 日讯，据伊朗迈赫尔通讯社报道，伊朗方面表示，根据卫星图像，在革命卫队海军发出威胁之后，霍尔木兹海峡没有任何船只通行。而美国中央司令部几分钟前声称霍尔木兹海峡仍然开放，他们是在用愿望写声明。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +182,7 @@
   {
     "post": "Financial_Express/3245061",
     "datetime": "2026-06-10T23:52:18+00:00",
-    "views": "33",
+    "views": "34",
     "text": "日本 6 月 5 日当周外资净买进日本股票 -7010 亿日元，前值 -4912 亿日元。日本 6 月 5 日当周净买进国外债券 1975 亿日元，前值 -1848 亿日元。日本 6 月 5 日当周外资净买进日本债券 -10385 亿日元，前值 12458 亿日元。日本 6 月 5 日当周净买进国外股票 -9436 亿日元，前值 -10720 亿日元。",
     "media_only": false,
     "image_url": null,
@@ -51154,59 +51208,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3239368"
-  },
-  {
-    "post": "Financial_Express/3239367",
-    "datetime": "2026-06-09T00:02:38+00:00",
-    "views": "93",
-    "text": "得物与微信就 AI Agent 达成首批合作\n近日，得物 App 率先接入微信 AI Agent 生态，接入后，用户可通过微信 Agent，直接调用得物的场景导购、商品鉴别、购买下单、品质履约等服务。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239367"
-  },
-  {
-    "post": "Financial_Express/3239364",
-    "datetime": "2026-06-09T00:02:18+00:00",
-    "views": "92",
-    "text": "日韩股市高开 韩股涨超 4%\n金十数据 6 月 9 日讯，日经 225 指数 6 月 9 日（周二）开盘上涨 619.36 点，涨幅 0.97%，报 64643.96 点。韩国 KOSPI 指数 6 月 9 日（周二）开盘上涨 315.11 点，涨幅 4.21%，报 7799.52 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239364"
-  },
-  {
-    "post": "Financial_Express/3239365",
-    "datetime": "2026-06-09T00:02:18+00:00",
-    "views": "94",
-    "text": "三星电子股价涨幅超 5%，SK 海力士股价涨幅超 7%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239365"
-  },
-  {
-    "post": "Financial_Express/3239366",
-    "datetime": "2026-06-09T00:02:18+00:00",
-    "views": "94",
-    "text": "受三星、SK 海力士股价反弹提振，韩国综合股价指数上涨 4.8%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239366"
-  },
-  {
-    "post": "Financial_Express/3239363",
-    "datetime": "2026-06-09T00:01:58+00:00",
-    "views": "86",
-    "text": "韩国综合股价指数（KOSPI）上涨 4.8%，至 7840.86。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239363"
-  },
-  {
-    "post": "Financial_Express/3239362",
-    "datetime": "2026-06-09T00:00:58+00:00",
-    "views": "87",
-    "text": "韩国综合股价指数（KOSPI）开盘报 7697.76 点，上涨 2.9%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3239362"
   }
 ]
