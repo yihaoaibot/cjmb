@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3247894",
     "datetime": "2026-06-12T00:07:38+00:00",
-    "views": "4",
+    "views": "35",
     "text": "日本日经指数涨幅扩大至 3%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3247893",
     "datetime": "2026-06-12T00:07:37+00:00",
-    "views": "4",
+    "views": "35",
     "text": "中信证券：预计欧央行将暂停加息，欧元进一步升值的空间或较有限\n金十数据 6 月 12 日讯，中信证券研报称，欧央行 6 月如期加息 25bps，下调今明两年的增长预测，上调今明两年的通胀预测。拉加德称本次加息决定由票委一致通过、加息有必要，尚未讨论中性利率，并预计通胀率在 2027 年下半年回归目标，未对后续政策路径提供太多有效前瞻指引。衍生品市场目前定价了欧央行今年至少再加息一次的预期，但我们认为欧央行再次加息的弊大于利，预计欧央行将暂停加息，欧元进一步升值的空间或较有限，美元指数有支撑。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3247892",
     "datetime": "2026-06-12T00:07:17+00:00",
-    "views": "34",
+    "views": "35",
     "text": "韩国交易所因 KOSPI 200 期货涨幅达 5%，启动 KOSPI 指数侧车制度，程式交易暂停 5 分钟。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3247891",
     "datetime": "2026-06-12T00:06:58+00:00",
-    "views": "35",
+    "views": "36",
     "text": "日股日经指数高开高走，上涨超 2%，全市场个股普涨。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3247890",
     "datetime": "2026-06-12T00:06:57+00:00",
-    "views": "35",
+    "views": "36",
     "text": "韩国交易所启动临时停牌机制。KOSPI 200 指数期货上涨 5%后程序交易暂停 5 分钟。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3247889",
     "datetime": "2026-06-12T00:06:17+00:00",
-    "views": "34",
+    "views": "35",
     "text": "澳大利亚 S&P/ASX 200 指数早盘上涨 1.5%，报 8,761.10 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3247888",
     "datetime": "2026-06-12T00:04:37+00:00",
-    "views": "35",
+    "views": "96",
     "text": "韩元兑美元上涨 1%，表现优于亚洲新兴市场货币。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3247887",
     "datetime": "2026-06-12T00:03:58+00:00",
-    "views": "41",
+    "views": "71",
     "text": "日经 225 指数涨幅扩大至 2.25%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3247886",
     "datetime": "2026-06-12T00:02:38+00:00",
-    "views": "45",
+    "views": "75",
     "text": "韩国 KOSPI 指数涨幅扩大至 7%。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +164,7 @@
   {
     "post": "Financial_Express/3247876",
     "datetime": "2026-06-11T23:58:18+00:00",
-    "views": "102",
+    "views": "133",
     "text": "特朗普：伊朗战争已经结束\n金十数据 6 月 12 日讯，据 CNN 报道，特朗普今天（美东时间 11 日）声称美国已经“结束了”与伊朗的战争，此前他宣称双方已同意达成一项“非常强有力的谅解备忘录”以停止战斗。特朗普在一场支持佐治亚州副州长 Burt Jones 竞选州长的电话集会上说：“我不知道你们有没有听说，但今天我们结束了与伊朗的战争，他们已经同意绝不拥有核武器，这是我们的坚持，也是整个目标所在，占了协议的 95%。”特朗普此番言论是在他今天早些时候取消对伊朗进一步打击之后发表的，他在“真实社交”平台上暗示已达成协议，但未详述条款内容。伊朗尚未确认已达成任何协议。",
     "media_only": false,
     "image_url": null,
@@ -52315,14 +52315,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3242039"
-  },
-  {
-    "post": "Financial_Express/3242038",
-    "datetime": "2026-06-10T00:08:38+00:00",
-    "views": "104",
-    "text": "伊朗南部多地再传爆炸声\n金十数据 6 月 10 日讯，据伊朗媒体报道，当地时间今天（6 月 10 日）凌晨 3 点半左右，大约三个小时前曾遭美军空袭的伊朗南部阿巴斯港、锡里克等地，再次传出爆炸声。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3242038"
   }
 ]
