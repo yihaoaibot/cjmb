@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3249460",
+    "datetime": "2026-06-12T11:06:38+00:00",
+    "views": "1",
+    "text": "沐曦股份：筹划发行 H 股股票并在香港联合交易所有限公司上市。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3249460"
+  },
+  {
+    "post": "Financial_Express/3249459",
+    "datetime": "2026-06-12T11:05:59+00:00",
+    "views": "7",
+    "text": "我国成功研制出三维多层片上电容 可直接应用于 AI/GPU 芯片、高性能处理器等高端芯片\n据湖北江城实验室消息，该实验室近期在电容关键技术上取得重大突破，成功研制出三维多层片上电容，电容密度突破每平方毫米 1000 纳法。该电容可直接应用于 AI/GPU 芯片、高性能处理器等高端芯片，支撑高算力、低功耗芯片研发。目前，相关技术正在开展工艺流片及小批量试产，将在先进封装领域实现规模化应用。电容在电路中的作用，本质上是一个超微缩的“蓄水池”：当芯片电流剧烈波动时，能迅速充放电以平抑电压，确保芯片吃上“纯净且稳定”的电流。电容在算力系统中也被比喻为“电 RAM”：HBM 是算力的数据缓冲，电容则是算力的能量缓冲。要在 GPU 瞬时拉满功率时供得上电，必须依靠从纳秒到秒级的多级电力缓存逐级接力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3249459"
+  },
+  {
+    "post": "Financial_Express/3249458",
+    "datetime": "2026-06-12T11:05:58+00:00",
+    "views": "7",
+    "text": "纳斯达克：SpaceX IPO 将于美国东部时间上午 10 点（北京时间 22:00）可开始交易。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3249458"
+  },
+  {
+    "post": "Financial_Express/3249457",
+    "datetime": "2026-06-12T11:05:38+00:00",
+    "views": "7",
+    "text": "沐曦股份：拟发行 H 股并在港交所主板上市 多项议案待股东会审议\n沐曦股份公告称，公司第一届董事会第二十五次会议审议多项议案，同意公司发行境外上市外资股（H 股）并申请在香港联交所主板挂牌上市，初始发行规模不超发行后总股本的 5%，并授予不超初始发行规模 15%的超额配售权。还通过转为境外募集股份并上市的股份有限公司、确定发行决议有效期等议案。此外，变更独立董事，调整董事会专门委员会委员，拟变更证券事务代表。上述议案均需提交公司 2026 年 6 月 29 日召开的第一次临时股东会审议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3249457"
+  },
+  {
+    "post": "Financial_Express/3249456",
+    "datetime": "2026-06-12T11:05:17+00:00",
+    "views": "10",
+    "text": "纳斯达克：SpaceX 将于美国东部时间上午 10 时开始交易。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3249456"
+  },
+  {
     "post": "Financial_Express/3249455",
     "datetime": "2026-06-12T11:04:39+00:00",
-    "views": "1",
+    "views": "44",
     "text": "纳斯达克：SpaceX 将于美国东部时间上午 9 点 50 分正式挂牌交易。",
     "media_only": false,
     "image_url": null,
@@ -11,8 +56,8 @@
   {
     "post": "Financial_Express/3249454",
     "datetime": "2026-06-12T11:04:38+00:00",
-    "views": "1",
-    "text": "纳斯达克：SpaceX IPO 将于东部时间上午 9:50 开始报价。",
+    "views": "44",
+    "text": "纳斯达克：SpaceX IPO 将于东部时间上午 9:50（北京时间 21:50）开始报价。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3249454"
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3249453",
     "datetime": "2026-06-12T11:04:18+00:00",
-    "views": "4",
+    "views": "15",
     "text": "巴基斯坦总理：过去两年因国际货币基金组织要求不得不加征税收。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3249451",
     "datetime": "2026-06-12T11:03:58+00:00",
-    "views": "5",
+    "views": "14",
     "text": "广州“卖旧买新”试点满两周：市场反响踊跃，小户型申报领跑\n广州“卖旧买新”试点启动已满两周，首轮反馈显现：咨询者、申报者众多，有的已进入价格评估环节。“从目前通过初审的房源情况来看，广州越秀区和海珠区申报数量最多，面积主要集中在 60~70 平方米间。”广州安居集团方面表示。（中国房地产报）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3249452",
     "datetime": "2026-06-12T11:03:58+00:00",
-    "views": "5",
+    "views": "14",
     "text": "证监会同意欧菲光集团股份有限公司发行股份购买资产\n证监会发布关于同意欧菲光集团股份有限公司发行股份购买资产注册的批复。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3249450",
     "datetime": "2026-06-12T11:03:38+00:00",
-    "views": "6",
+    "views": "44",
     "text": "央行上海答一财：上海 FT 账户功能升级试点，跨境资金收付规模已超 1200 亿元\n6 月 12 日下午，在 2026 陆家嘴论坛新闻发布会上，人民银行上海总部副主任陈继明在回答第一财经记者提问时表示，上海自由贸易账户功能升级试点正式启动，这是上海自由贸易账户体系自 2014 年推出以来最重要的一次改革。试点通过优化“跨二线”管理方式，实现“跨一线”资金自由收付。目前已有 11 家银行、37 家企业参与试点，跨境资金收付规模超过 1200 亿元，覆盖贸易、融资、境外放款等多类业务场景，有效提升企业跨境贸易和投融资便利化水平。（第一财经）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3249449",
     "datetime": "2026-06-12T11:03:19+00:00",
-    "views": "9",
+    "views": "44",
     "text": "广州“卖旧买新”试点满两周：市场反响踊跃，小户型申报领跑\n金十数据 6 月 12 日讯，广州“卖旧买新”试点启动已满两周，首轮反馈显现：咨询者、申报者众多，有的已进入价格评估环节。“从目前通过初审的房源情况来看，广州越秀区和海珠区申报数量最多，面积主要集中在 60~70 平方米间。”广州安居集团方面表示。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3249448",
     "datetime": "2026-06-12T11:02:58+00:00",
-    "views": "12",
+    "views": "45",
     "text": "三安光电：三安集团债权人申请破产重整\n三安光电公告，公司收到间接控股股东三安集团的通知，获悉三安集团的债权人林素真已向福建省厦门市中级人民法院申请对三安集团进行破产重整。截至本公告披露日，三安集团尚未收到厦门中院受理破产重整的正式文书。申请人破产重整申请能否被法院正式受理及三安集团后续是否进入破产重整程序尚存在不确定性。若申请人的破产重整申请被法院正式受理，三安集团后续进入破产重整程序，可能对公司股权结构及控制权产生影响。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3249447",
     "datetime": "2026-06-12T11:02:57+00:00",
-    "views": "11",
+    "views": "43",
     "text": "巴基斯坦总理表示，计划推出提振经济增长的预算方案。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3249446",
     "datetime": "2026-06-12T11:02:39+00:00",
-    "views": "11",
+    "views": "42",
     "text": "巴基斯坦外交部积极评价美伊外交接触进展\n巴基斯坦外交部周五发表声明称，巴方对美国与伊朗之间近期取得的外交接触进展表示欢迎。这一最新表态进一步释放出美伊双方正在推动达成一项临时协议的积极信号。声明指出，巴基斯坦副总理兼外交部长穆罕默德·伊沙克·达尔当日同欧盟外交与安全政策高级代表通电话，双方重点就美伊局势的最新进展进行了深入讨论。巴基斯坦在声明中表示，巴欧双方对美伊通过持续的外交接触所取得的进展表示欢迎，并共同表达了对相关外交努力的期待。达尔强调，希望各方的持续沟通能够尽快转化为一项持久的谅解备忘录，并最终实现美伊问题的和平解决。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3249445",
     "datetime": "2026-06-12T11:02:38+00:00",
-    "views": "11",
+    "views": "42",
     "text": "上交所：本周对严重异常波动股票、退市整理股票以及全球芯片 LOF、财通福鑫 LOF 等溢价较高的基金进行重点监控，对 22 起上市公司重大事项等进行专项核查，向证监会上报涉嫌违法违规案件线索 1 起。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3249444",
     "datetime": "2026-06-12T11:02:18+00:00",
-    "views": "12",
+    "views": "13",
     "text": "鼎捷数智：拟 1.96 亿元收购能誉科技 51%股权\n鼎捷数智公告，拟以自有资金及自筹资金合计人民币 1.96 亿元收购上海能誉科技股份有限公司现有股东持有的能誉科技 51%股权。交易完成后，公司将持有能誉科技 51%股权，能誉科技将成为公司的控股子公司，纳入公司合并报表范围。本次交易定价参考评估机构出具的评估结果，经交易各方遵循平等自愿、公平公允的原则友好协商确定。经上海众华资产评估有限公司采用收益法评估，以 2025 年 12 月 31 日为评估基准日，能誉科技合并口径股东全部权益评估价值为 3.87 亿元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3249443",
     "datetime": "2026-06-12T11:01:59+00:00",
-    "views": "11",
+    "views": "12",
     "text": "三友化工：拟对全资子公司电子化学品公司增资 3 亿元\n三友化工(600409.SH)公告称，公司拟以自有资金 3 亿元对全资子公司唐山三友电子化学品有限责任公司进行增资，增资后其注册资本由 5 亿元增至 8 亿元。本次增资旨在支持电子化学品公司项目建设，加快公司在湿电子化学品及电子特气领域的布局，推动公司向高附加值新材料领域转型。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3249442",
     "datetime": "2026-06-12T11:01:37+00:00",
-    "views": "10",
+    "views": "11",
     "text": "瑞银：在收益率上升和美元走强的压力下，近期金价可能跌至 3850 至 4000 美元/盎司。仍对未来 12 个月金价持看涨观点，理由是未来降息预期、美元走弱以及各国央行持续购金。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3249441",
     "datetime": "2026-06-12T11:01:19+00:00",
-    "views": "11",
+    "views": "42",
     "text": "美国银行监管机构加强对人工智能应用的监管。",
     "media_only": false,
     "image_url": null,
@@ -51658,140 +51703,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3243666"
-  },
-  {
-    "post": "Financial_Express/3243664",
-    "datetime": "2026-06-10T11:06:38+00:00",
-    "views": "44",
-    "text": "以色列总理内塔尼亚胡：伊朗不会获得核武器。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243664"
-  },
-  {
-    "post": "Financial_Express/3243665",
-    "datetime": "2026-06-10T11:06:38+00:00",
-    "views": "43",
-    "text": "彭博美元现货指数扭转跌势；欧元下跌。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243665"
-  },
-  {
-    "post": "Financial_Express/3243663",
-    "datetime": "2026-06-10T11:06:18+00:00",
-    "views": "45",
-    "text": "国际原油期货短线拉升，WTI 原油期货价格涨 1.27%，报 89.316 美元/桶；布伦特原油期货价格涨 0.93%，报 92.299 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243663"
-  },
-  {
-    "post": "Financial_Express/3243662",
-    "datetime": "2026-06-10T11:06:17+00:00",
-    "views": "44",
-    "text": "纳斯达克 100 指数期货跌至当日低点 1.5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243662"
-  },
-  {
-    "post": "Financial_Express/3243660",
-    "datetime": "2026-06-10T11:06:01+00:00",
-    "views": "45",
-    "text": "特朗普：伊朗如今必将付出代价\n特朗普：伊朗军队如今乱象丛生。其海军、空军等诸多部队名存实亡，已然彻底落败。伊朗只会空谈，毫无实际行动。这个中东地区的霸道势力已经垮台！他们迟迟未能促成本可让自身获益的协议，如今必将付出代价！",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243660"
-  },
-  {
-    "post": "Financial_Express/3243661",
-    "datetime": "2026-06-10T11:06:01+00:00",
-    "views": "44",
-    "text": "伊朗总统：必须摆脱“非战非和”状态\n伊朗总统佩泽希齐扬当天表示，伊朗必须摆脱“非战非和”的状态。佩泽希齐扬在出席为纪念已故最高领袖阿里·哈梅内伊举办的活动时说：“我们必须摆脱既不打仗也不和谈的状况。战争不符合国家利益，但如果他们攻击我们的领土，我们绝不投降、决不退缩。”(新华社)",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243661"
-  },
-  {
-    "post": "Financial_Express/3243659",
-    "datetime": "2026-06-10T11:06:00+00:00",
-    "views": "10",
-    "text": "张雪机车是否有上市计划？张雪回应：顺其自然\n金十数据 6 月 10 日讯，在中国摩托车产业高质量发展圆桌会议期间，张雪机车有限公司董事长张雪与媒体对话。被问及张雪机车有没有登陆资本市场的相关规划，张雪表示：“顺其自然”。据媒体报道，张雪机车一共曾拿到两笔投资。2024 年 7 月，高信资本名下基金上海高信领智创业投资合伙企业（有限合伙）投资了 2000 万元，持股约 9.17%；2026 年 1 月，浙江省国有资本运营有限公司旗下浙创投通过两只基金完成对张雪机车的 A 轮投资，投资总额 9000 万元，估值提升至 10.9 亿元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243659"
-  },
-  {
-    "post": "Financial_Express/3243658",
-    "datetime": "2026-06-10T11:05:58+00:00",
-    "views": "9",
-    "text": "美、布两油短线上扬约 2 美元，现分别报 89.60 美元/桶和 92.27 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243658"
-  },
-  {
-    "post": "Financial_Express/3243657",
-    "datetime": "2026-06-10T11:05:18+00:00",
-    "views": "40",
-    "text": "巴基斯坦军方 10 日说，一架军用直升机在巴控克什米尔地区坠毁，机上人员全部遇难。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243657"
-  },
-  {
-    "post": "Financial_Express/3243656",
-    "datetime": "2026-06-10T11:05:17+00:00",
-    "views": "10",
-    "text": "美国总统特朗普：伊朗的军事力量已经彻底溃败。他们的海军和空军等大部分军种甚至都已不复存在——他们被彻底击败了。伊朗只会空谈，没有实际行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243656"
-  },
-  {
-    "post": "Financial_Express/3243654",
-    "datetime": "2026-06-10T11:04:59+00:00",
-    "views": "9",
-    "text": "特朗普：伊朗将付出代价。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243654"
-  },
-  {
-    "post": "Financial_Express/3243655",
-    "datetime": "2026-06-10T11:04:59+00:00",
-    "views": "10",
-    "text": "爱尔眼科：拟通过全资子公司增资 6.96 亿元收购巴西眼科医疗服务集团控制权\n爱尔眼科(300015.SZ)公告称，公司拟通过境外全资子公司 AIERBrazil 以现金方式向目标公司增资认购其新增股份，认购金额为 5.30 亿巴西雷亚尔(折合人民币约 6.96 亿元)。交易完成后，AIERBrazil 将持有目标公司 60.57%股权，间接控制巴西眼科医疗服务及视光相关业务集团。本次交易旨在推进全球化战略，拓展拉丁美洲业务布局。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243655"
-  },
-  {
-    "post": "Financial_Express/3243652",
-    "datetime": "2026-06-10T11:04:58+00:00",
-    "views": "10",
-    "text": "美国总统特朗普：（关于伊朗）他们在谈判一项对他们有利的协议上花了太长时间，现在他们将不得不付出代价。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243652"
-  },
-  {
-    "post": "Financial_Express/3243653",
-    "datetime": "2026-06-10T11:04:58+00:00",
-    "views": "10",
-    "text": "特朗普：伊朗谈判达成协议的时间太长了。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243653"
-  },
-  {
-    "post": "Financial_Express/3243651",
-    "datetime": "2026-06-10T11:04:40+00:00",
-    "views": "41",
-    "text": "特朗普：伊朗只会空谈，不会采取行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3243651"
   }
 ]
