@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3257905",
+    "datetime": "2026-06-16T16:35:18+00:00",
+    "views": "3",
+    "text": "电动汽车公司 Rivian 裁员数百人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3257905"
+  },
+  {
+    "post": "Financial_Express/3257904",
+    "datetime": "2026-06-16T16:34:57+00:00",
+    "views": "10",
+    "text": "慧与科技：HPE 数据编织软件将扩大智能体工作流的数据可用性，将于 2026 年 10 月推出。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3257904"
+  },
+  {
+    "post": "Financial_Express/3257903",
+    "datetime": "2026-06-16T16:34:37+00:00",
+    "views": "14",
+    "text": "慧与（HPE）：慧与数据编织软件拓宽智能体工作流的数据可用范围，产品将于 2026 年 10 月上市；慧与 AI 工厂将在 2026 年第四季度搭载英伟达机密计算技术。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3257903"
+  },
+  {
+    "post": "Financial_Express/3257902",
+    "datetime": "2026-06-16T16:34:17+00:00",
+    "views": "15",
+    "text": "慧与科技：新的慧与私有云 AI 功能将于 2026 年 7 月推出。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3257902"
+  },
+  {
+    "post": "Financial_Express/3257901",
+    "datetime": "2026-06-16T16:33:58+00:00",
+    "views": "17",
+    "text": "慧与科技：与英伟达(NVDA.O)联合设计的慧与私有云 AI 可将令 token 吞吐量提升高达 20%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3257901"
+  },
+  {
     "post": "Financial_Express/3257900",
     "datetime": "2026-06-16T16:33:17+00:00",
-    "views": "2",
+    "views": "50",
     "text": "DoorDash 表示已修复一项技术故障。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3257899",
     "datetime": "2026-06-16T16:31:58+00:00",
-    "views": "16",
+    "views": "56",
     "text": "慧与（HPE）：与英伟达联合研发的 HPE 私有云人工智能可将 token 吞吐量最高提升 20%",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3257898",
     "datetime": "2026-06-16T16:31:57+00:00",
-    "views": "16",
+    "views": "57",
     "text": "慧与科技：携手英伟达(NVDA.O)将代理式人工智能引入生产环境。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3257897",
     "datetime": "2026-06-16T16:31:38+00:00",
-    "views": "48",
+    "views": "60",
     "text": "慧与（HPE）：搭载英伟达技术的 HPE AI 工厂新增英伟达 Vera CPU、英伟达智能体工具包与英伟达机密计算技术。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3257896",
     "datetime": "2026-06-16T16:31:37+00:00",
-    "views": "48",
+    "views": "59",
     "text": "慧与（HPE）：携手英伟达将智能体 AI 投入生产应用。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3257894",
     "datetime": "2026-06-16T16:31:19+00:00",
-    "views": "48",
+    "views": "88",
     "text": "慧与（HPE）：配备英伟达技术的 HPE 人工智能工厂将于 2026 年第四季度支持英伟达保密计算服务。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3257895",
     "datetime": "2026-06-16T16:31:19+00:00",
-    "views": "48",
+    "views": "89",
     "text": "慧与（HPE）：HPE 数据编织软件将扩大智能体工作流的数据可用性，预计于 2026 年 10 月正式推出。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3257893",
     "datetime": "2026-06-16T16:31:18+00:00",
-    "views": "48",
+    "views": "86",
     "text": "慧与科技（HPE）：西门子能源已从公有云迁移至 HPE GreenLake Flex 按需付费私有云。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3257892",
     "datetime": "2026-06-16T16:30:58+00:00",
-    "views": "52",
+    "views": "89",
     "text": "慧与（HPE）：GreenLake Flex 已在美国和德国落地部署，美国站点已投入运营；德国站点按计划将于 2026 年年中完成全面部署。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3257891",
     "datetime": "2026-06-16T16:30:57+00:00",
-    "views": "52",
+    "views": "89",
     "text": "慧与科技携手英伟达，将智能体 AI 投入商用落地，覆盖安全、治理、规模化部署与数据主权能力。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3257890",
     "datetime": "2026-06-16T16:30:18+00:00",
-    "views": "87",
+    "views": "96",
     "text": "市场资讯：微软考虑与 DeepSeek 合作开发 Copilot。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3257889",
     "datetime": "2026-06-16T16:28:57+00:00",
-    "views": "89",
+    "views": "94",
     "text": "加拿大声明：卡尼与莫迪同意启动《全面信息安全协议》谈判。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3257888",
     "datetime": "2026-06-16T16:28:39+00:00",
-    "views": "90",
+    "views": "93",
     "text": "加拿大声明：加拿大总理卡尼与印度总理莫迪达成一致，将启动关于信息安全协议的谈判。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3257887",
     "datetime": "2026-06-16T16:28:38+00:00",
-    "views": "91",
+    "views": "96",
     "text": "加拿大声明：加拿大总理卡尼与印度总理莫迪对全面经济伙伴关系协议谈判进展表示满意。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3257886",
     "datetime": "2026-06-16T16:28:18+00:00",
-    "views": "90",
+    "views": "95",
     "text": "加拿大声明：加拿大总理卡尼与印度总理莫迪重申，双方共同目标是在 2026 年完成全面经济伙伴关系协定（CEPA）谈判。",
     "media_only": false,
     "image_url": null,
