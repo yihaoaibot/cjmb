@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3261468",
     "datetime": "2026-06-17T20:39:38+00:00",
-    "views": "7",
+    "views": "8",
     "text": "伊朗议长卡利巴夫称没有禁止美国在伊朗投资。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3261467",
     "datetime": "2026-06-17T20:38:58+00:00",
-    "views": "9",
+    "views": "10",
     "text": "真主党领导人称赞伊朗在与美国达成谅解备忘录后取得了“重大胜利”。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3261466",
     "datetime": "2026-06-17T20:36:24+00:00",
-    "views": "14",
+    "views": "15",
     "text": "美元指数 17 日上涨\n金十数据 6 月 18 日讯，衡量美元对六种主要货币的美元指数当天上涨 0.55%，在汇市尾市收于 100.091。截至纽约汇市尾市，1 欧元兑换 1.1539 美元，低于前一交易日的 1.1610 美元；1 英镑兑换 1.3338 美元，低于前一交易日的 1.3429 美元。1 美元兑换 160.50 日元，高于前一交易日的 160.44 日元；1 美元兑换 0.7971 瑞士法郎，高于前一交易日的 0.7931 瑞士法郎；1 美元兑换 1.4071 加元，高于前一交易日的 1.3993 加元；1 美元兑换 9.4610 瑞典克朗，高于前一交易日的 9.3618 瑞典克朗。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3261463",
     "datetime": "2026-06-17T20:25:37+00:00",
-    "views": "68",
+    "views": "98",
     "text": "伊朗议会议长卡利巴夫：根据谅解备忘录，已分配 3000 亿美元用于投资伊朗，其中一部分将用于重建。",
     "media_only": false,
     "image_url": null,
@@ -56356,23 +56356,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3255186"
-  },
-  {
-    "post": "Financial_Express/3255185",
-    "datetime": "2026-06-15T20:42:38+00:00",
-    "views": "96",
-    "text": "高通洽谈收购 Tenstorrent，补强人工智能芯片研发实力\n高通正洽谈收购人工智能芯片设计初创企业 Tenstorrent。双方商讨的收购对价区间至少在 80 亿至 100 亿美元，相较于 Tenstorrent 上一轮估值存在大幅溢价。目前尚不清楚这笔交易价款是否会包含与业绩目标挂钩的浮动支付款项，以往半导体初创企业收购案通常会设置此类条款。双方谈判仍在进行中，交易金额存在变动可能，洽谈也有破裂风险。若完成收购，高通将大幅扩充自身人工智能与数据中心芯片产品线实力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3255185"
-  },
-  {
-    "post": "Financial_Express/3255184",
-    "datetime": "2026-06-15T20:42:37+00:00",
-    "views": "93",
-    "text": "据 The Information：高通(QCOM.O)正在洽谈收购 Tenstorrent，以扩展其人工智能芯片能力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3255184"
   }
 ]
