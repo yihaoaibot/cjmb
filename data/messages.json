@@ -1,9 +1,63 @@
 [
   {
+    "post": "Financial_Express/3261101",
+    "datetime": "2026-06-17T18:11:17+00:00",
+    "views": "1",
+    "text": "现货黄金日内跌 1%，现报 4286.22 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3261101"
+  },
+  {
+    "post": "Financial_Express/3261100",
+    "datetime": "2026-06-17T18:10:58+00:00",
+    "views": "1",
+    "text": "摩根大通全球固收负责人米歇尔：没想到一半的人会预测加息。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3261100"
+  },
+  {
+    "post": "Financial_Express/3261099",
+    "datetime": "2026-06-17T18:10:57+00:00",
+    "views": "1",
+    "text": "美联储传声筒：美联储明显鹰派 政策声明大改\n金十数据 6 月 18 日讯，“美联储传声筒”Nick Timiraos 评美联储利率决议：本次美联储点阵图显示出明显的鹰派倾向。在 18 名官员中，有 9 人预计今年至少会加息一次，其中 6 人甚至预计将出现多次加息。相比之下，仅有 1 名官员预计今年会降息；此外，还有 1 名参与者（推测为美联储主席沃什）未提交经济预测摘要（SEP）。与此同时，美联储政策声明从头到尾进行了全面修订，文本长度明显缩短。整体来看，本次会议的沟通框架发生显著变化，市场对利率路径的预期或将因此被重新调整。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3261099"
+  },
+  {
+    "post": "Financial_Express/3261098",
+    "datetime": "2026-06-17T18:10:18+00:00",
+    "views": "32",
+    "text": "伊朗外交部： 以色列持续占领黎巴嫩南部地区的行为违反谅解备忘录，我方将采取必要举措。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3261098"
+  },
+  {
+    "post": "Financial_Express/3261097",
+    "datetime": "2026-06-17T18:09:57+00:00",
+    "views": "32",
+    "text": "摩根大通全球固收负责人米歇尔：美联储委员会的态度偏向鹰派。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3261097"
+  },
+  {
+    "post": "Financial_Express/3261096",
+    "datetime": "2026-06-17T18:09:37+00:00",
+    "views": "62",
+    "text": "交易员在点阵图调整后押注美联储更大幅度收紧政策。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3261096"
+  },
+  {
     "post": "Financial_Express/3261095",
     "datetime": "2026-06-17T18:09:17+00:00",
-    "views": "1",
-    "text": "摩根大通全球固定收益主管：美联储正在让市场做好加息准备。",
+    "views": "62",
+    "text": "摩根大通全球固定收益主管：美联储正在让市场做好加息准备， 美联储正关注其他央行加息动向。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3261095"
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3261094",
     "datetime": "2026-06-17T18:09:00+00:00",
-    "views": "2",
+    "views": "63",
     "text": "现货黄金失守 4290 美元/盎司，日内跌 0.97%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3261092",
     "datetime": "2026-06-17T18:08:59+00:00",
-    "views": "2",
+    "views": "63",
     "text": "纽约期金失守 4310 美元/盎司，日内跌 1.04%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3261093",
     "datetime": "2026-06-17T18:08:59+00:00",
-    "views": "2",
+    "views": "63",
     "text": "现货白银失守 69 美元/盎司，日内跌 1.74%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3261091",
     "datetime": "2026-06-17T18:08:58+00:00",
-    "views": "2",
+    "views": "63",
     "text": "纽约期金日内跌 1%，现报 4310.40 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3261090",
     "datetime": "2026-06-17T18:08:37+00:00",
-    "views": "33",
+    "views": "64",
     "text": "纽约期金失守 4320 美元/盎司，日内跌 0.80%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3261089",
     "datetime": "2026-06-17T18:07:38+00:00",
-    "views": "65",
+    "views": "66",
     "text": "原美联储副主席、太平洋投资管理公司（PIMCO，品浩）全球经济顾问克拉里达：主席沃什没有给出点阵图看法不足为奇。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3261088",
     "datetime": "2026-06-17T18:06:37+00:00",
-    "views": "68",
+    "views": "129",
     "text": "前美联储副主席克拉里达：对美联储主席沃什没有提交点阵图并不感到意外。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3261087",
     "datetime": "2026-06-17T18:06:05+00:00",
-    "views": "68",
+    "views": "129",
     "text": "现货黄金失守 4310 美元/盎司，日内跌 0.61%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3261086",
     "datetime": "2026-06-17T18:06:04+00:00",
-    "views": "68",
+    "views": "129",
     "text": "纳斯达克中国金龙指数跌超 0.5%，海天网络跌 18.25%，新氧跌 9.83%，迅雷跌 6.45%，亿咖通科技跌 4.92%，雾芯科技跌 3.81%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3261085",
     "datetime": "2026-06-17T18:06:03+00:00",
-    "views": "68",
+    "views": "128",
     "text": "现货白银日内跌 1%，现报 69.19 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3261084",
     "datetime": "2026-06-17T18:06:02+00:00",
-    "views": "68",
+    "views": "128",
     "text": "钯金期货日内跌 2%，现报 1342.95 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3261083",
     "datetime": "2026-06-17T18:05:59+00:00",
-    "views": "68",
+    "views": "128",
     "text": "纽约期银日内跌 1%，现报 69.78 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +182,7 @@
   {
     "post": "Financial_Express/3261082",
     "datetime": "2026-06-17T18:05:58+00:00",
-    "views": "68",
+    "views": "128",
     "text": "纽约期金失守 4330 美元/盎司，日内跌 0.58%。",
     "media_only": false,
     "image_url": null,
@@ -54034,23 +54088,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3255071"
-  },
-  {
-    "post": "Financial_Express/3255070",
-    "datetime": "2026-06-15T18:10:17+00:00",
-    "views": "132",
-    "text": "以色列总理内塔尼亚胡：我们将继续挫败该地区的威胁。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3255070"
-  },
-  {
-    "post": "Financial_Express/3255069",
-    "datetime": "2026-06-15T18:09:37+00:00",
-    "views": "134",
-    "text": "以色列总理内塔尼亚胡：为了保护我们的国家，我们将在安全区驻留必要长的时间。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3255069"
   }
 ]
