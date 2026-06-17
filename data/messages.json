@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3259104",
+    "datetime": "2026-06-17T07:00:58+00:00",
+    "views": "2",
+    "text": "欧洲央行官员西姆库斯称，管控通胀预期至关重要。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3259104"
+  },
+  {
+    "post": "Financial_Express/3259103",
+    "datetime": "2026-06-17T07:00:39+00:00",
+    "views": "2",
+    "text": "Magnite 与 Viasat 航空部门达成合作，将程序化广告引入机上屏幕。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3259103"
+  },
+  {
+    "post": "Financial_Express/3259101",
+    "datetime": "2026-06-17T07:00:38+00:00",
+    "views": "2",
+    "text": "菲律宾股指收盘下跌 2.1%，报 6114.81 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3259101"
+  },
+  {
+    "post": "Financial_Express/3259102",
+    "datetime": "2026-06-17T07:00:38+00:00",
+    "views": "2",
+    "text": "欧洲央行官员西姆库斯认为央行至少还会加息一次。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3259102"
+  },
+  {
+    "post": "Financial_Express/3259099",
+    "datetime": "2026-06-17T07:00:19+00:00",
+    "views": "2",
+    "text": "股指期货午盘收盘\n 中证 1000 指数期货连续涨 1.03%， 沪深 300 指数期货连续涨 1.04%， 中证 500 指数期货连续涨 1.75%， 上证 50 指数期货连续涨 0.65%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3259099"
+  },
+  {
+    "post": "Financial_Express/3259100",
+    "datetime": "2026-06-17T07:00:19+00:00",
+    "views": "2",
+    "text": "商品期货收盘\n液化石油气连续跌 5.98%，燃料油连续跌 4.68%，沥青连续跌 4.10%，尿素连续涨 3.85%，丙烯连续跌 3.74%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3259100"
+  },
+  {
+    "post": "Financial_Express/3259097",
+    "datetime": "2026-06-17T07:00:18+00:00",
+    "views": "2",
+    "text": "美银：铜需求料将受到人工智能驱动的数据中心扩张的支撑\n美银证券在一份研究报告中表示，铜需求料将受到人工智能驱动的数据中心扩张的支撑。美银证券的分析师表示，铜对于电力传输和短距离互连仍然至关重要，而不断增长的电力需求进一步支撑了电网相关的用铜需求。加上持续的供应限制，美银预计铜需求和价格将继续得到支撑。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3259097"
+  },
+  {
+    "post": "Financial_Express/3259098",
+    "datetime": "2026-06-17T07:00:18+00:00",
+    "views": "2",
+    "text": "欧股开盘普涨，德国 DAX 指数涨 0.07%，英国富时 100 指数涨 0.61%，法国 CAC40 指数涨 0.75%，欧洲斯托克 50 指数涨 0.45%，意大利富时 MIB 指数涨 1.15%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3259098"
+  },
+  {
+    "post": "Financial_Express/3259096",
+    "datetime": "2026-06-17T06:59:37+00:00",
+    "views": "2",
+    "text": "匈牙利政府：我们已下令国家税务海关总署、反恐中心及其他相关部门，针对乌克兰黄金运输车队事件立即开展内部调查。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3259096"
+  },
+  {
     "post": "Financial_Express/3259094",
     "datetime": "2026-06-17T06:58:18+00:00",
-    "views": "5",
+    "views": "6",
     "text": "算苗科技发布面向大模型推理的 3D TokenPU 芯片\n6 月 17 日，算苗科技宣布旗下面向大模型推理的 3D TokenPU 芯片 A4E 已正式流片，标志着中国在高端 AI 算力芯片领域，实现依托国产供应链、采用 3D 混合堆叠架构的大模型专用处理器落地。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3259095",
     "datetime": "2026-06-17T06:58:18+00:00",
-    "views": "5",
+    "views": "36",
     "text": "Mobileye 拟自主运营 Robotaxi 服务\n6 月 17 日消息，Mobileye 今日宣布，计划进一步拓展自动驾驶出租车（Robotaxi）业务版图，从提供自动驾驶技术延伸至自主运营自动驾驶网约车服务。该新项目计划于 2027 年率先落地美国一座城市，标志着 Mobileye 战略的重要升级。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3259093",
     "datetime": "2026-06-17T06:57:58+00:00",
-    "views": "7",
+    "views": "37",
     "text": "英国通胀数据低于预期后欧元区债券收益率下跌\n欧元区政府债券收益率在早盘交易中下跌，受弱于预期的英国通胀数据影响。英国同比 CPI 通胀率维持在 2.8%，而预期为升至 3.0%。Aberdeen 的 Luke Bartholomew 在一份报告中表示，因此，英国央行今年加息的压力将“继续消退”。他说，预计英国央行将在周四维持利率不变，尽管仍可能有一两名决策者投票支持加息。10 年期德国国债收益率下跌 2.2 个基点，至 2.920%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3259092",
     "datetime": "2026-06-17T06:57:19+00:00",
-    "views": "7",
+    "views": "37",
     "text": "受强降雨影响 海南铁路 17、18 日进出岛列车停运\n记者从海南铁路海口车务段获悉，受持续强降雨天气影响，为确保铁路运输安全和旅客生命财产安全，铁路部门决定对进出海南岛旅客列车采取临时停运措施。具体安排如下：6 月 17 日所有出岛旅客列车全部停运；6 月 18 日所有进岛旅客列车全部停运。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3259090",
     "datetime": "2026-06-17T06:56:58+00:00",
-    "views": "38",
+    "views": "39",
     "text": "据报道，自周日美伊谅解备忘录签署以来，据悉伊朗革命卫队每晚都会向霍尔木兹海峡内的商业航运船只发射多架无人机。一名美方官员表示，美军均在无人机对船只或人员构成威胁前将其拦截。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3259089",
     "datetime": "2026-06-17T06:56:57+00:00",
-    "views": "39",
+    "views": "40",
     "text": "Mobileye 拟自主运营 Robotaxi 服务\n金十数据 6 月 17 日讯，Mobileye(MBLY.O)今日宣布，计划进一步拓展自动驾驶出租车（Robotaxi）业务版图，从提供自动驾驶技术延伸至自主运营自动驾驶网约车服务。该新项目计划于 2027 年率先落地美国一座城市，标志着 Mobileye 战略的重要升级。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3259088",
     "datetime": "2026-06-17T06:56:38+00:00",
-    "views": "9",
+    "views": "40",
     "text": "长城证券：首予恩捷股份“买入”评级，前瞻布局固态电池趋势\n长城证券研报指出，恩捷股份是全球隔膜龙头，前瞻布局固态电池趋势。公司主营业务涵盖锂电池隔离膜、BOPP 薄膜、无菌包装及特种纸，其中隔膜业务为核心，2025 年收入占比达 85.31%，收入结构高度集中且稳定。公司隔膜已进入全球主流电池厂供应体系，市场份额连续多年位居行业第一，产能与出货量持续领先。在此基础上，公司积极向固态电池材料延伸，在硫化锂、固态电解质及电解质膜等环节推进布局，逐步形成从传统隔膜向新一代电池材料延伸的业务体系。隔膜迎来供需拐点，盈利开启修复。围绕硫化物路线构建全链条布局，卡位固态电池。公司为锂电隔膜龙头，前瞻固态电池趋势布局硫化物体系固态电解质。首次覆盖，给予“买入”评级。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3259087",
     "datetime": "2026-06-17T06:56:17+00:00",
-    "views": "9",
+    "views": "40",
     "text": "受中东局势影响 德国汉莎航空计划继续削减航线网络\n美伊暂时达成谅解备忘录，但冲突所造成的影响，短期内恐难以消除。德国汉莎航空集团董事会成员迪特·弗兰克斯 16 日表示，受中东紧张局势、航空燃油价格上涨等因素影响，汉莎航空计划进一步削减其欧洲航线网络。弗兰克斯说，短途航线的亏损正在影响长途航线的利润，这种情况不可持续。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3259086",
     "datetime": "2026-06-17T06:55:59+00:00",
-    "views": "40",
+    "views": "41",
     "text": "邱寒已于近期离职 法务背景高管张弘出任 PayPal 中国区 CEO\n今日有市场消息称，PayPal 中国区 CEO 邱寒已于近期离职。 PayPal 中国方面向记者证实了该消息。 PayPal 中国方面向记者表示，邱寒任职期间带领团队在复杂多变的商业环境下，与商户及合作伙伴建立了良好关系与合作基础。感谢邱寒在建立公司中国业务方面所做的大量工作。 （《中国经营报》）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3259085",
     "datetime": "2026-06-17T06:54:39+00:00",
-    "views": "43",
+    "views": "44",
     "text": "海康威视推出”观澜编码”应对硬盘涨价\n海康威视相关人士表示，近期，受全球 AI 算力建设和数据存储需求持续增长影响，第三季度部分存储产品成本出现一定幅度上涨。海康威视将持续关注市场变化，努力保障产品稳定供应和客户利益。 为应对硬盘价格上涨带来的挑战，海康威视持续推进技术创新，推出观澜大模型驱动的视频编码技术“观澜编码”，全面布局到前后端产品。依托 AI 精准编码能力，在保障图像质量和智能应用效果的前提下，可有效降低视频码率，相较于 H.265 可节约 50%以上的存储空间，部分场景最高可节省 90%的存储空间，显著降低客户存储资源占用和总体建设成本。 观澜编码利用观澜大模型精准提取对象，给予对象和背景不同的量化系统策略，对感兴趣区域精准保护；采用 H.26X 的纹理编码技术，实现既大幅降低存储成本，又保证关键信息不丢失，不影响智能分析，且观澜编码广泛兼容，用 H.26X 标准解码，保障编码还原真实。（第一财经）\n🤡1",
     "media_only": false,
     "image_url": null,
@@ -51487,149 +51568,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3253351"
-  },
-  {
-    "post": "Financial_Express/3253349",
-    "datetime": "2026-06-15T07:01:17+00:00",
-    "views": "39",
-    "text": "《求是》杂志发表习近平总书记重要文章《一体推进教育科技人才发展》\n文章指出，要强化教育对科技和人才的支撑作用。科技创新靠人才，人才培养靠教育。要强化高水平研究型大学国家基础研究主力军和重大科技突破策源地作用，建立科技创新与人才培养相互支撑、带动学科高质量发展的有效机制，从国家战略需求中凝练重大科技问题，持续产出原创性、颠覆性科技创新成果。优化高等教育布局，探索国家拔尖创新人才培养新模式。分类推进高校改革发展，引导高校在不同领域不同赛道发挥优势、办出特色。统筹职业教育、高等教育、继续教育，推进职普融通、产教融合、科教融汇，源源不断培养高素质技术技能人才、大国工匠、能工巧匠。推进素质教育，创新教育方法，努力形成有利于创新人才成长的育人环境。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253349"
-  },
-  {
-    "post": "Financial_Express/3253348",
-    "datetime": "2026-06-15T07:00:59+00:00",
-    "views": "6",
-    "text": "宁德时代在宁德成立新公司 注册资本 1597 万\n天眼查 App 显示，近日，宁德润培新能源有限公司成立，法定代表人为戴维，注册资本 1597 万人民币，经营范围包括建设工程施工、新兴能源技术研发、太阳能发电技术服务等，由宁德时代（300750）旗下时代绿色能源有限公司全资持股。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253348"
-  },
-  {
-    "post": "Financial_Express/3253347",
-    "datetime": "2026-06-15T07:00:58+00:00",
-    "views": "6",
-    "text": "欧洲央行管委卡扎克斯：仍然看到通胀上行风险。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253347"
-  },
-  {
-    "post": "Financial_Express/3253346",
-    "datetime": "2026-06-15T07:00:39+00:00",
-    "views": "7",
-    "text": "哈萨克斯坦与火鸟公司达成一项价值 100 亿美元的人工智能项目合作，项目将采用英伟达芯片。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253346"
-  },
-  {
-    "post": "Financial_Express/3253344",
-    "datetime": "2026-06-15T07:00:38+00:00",
-    "views": "7",
-    "text": "欧洲央行管委卡扎克斯：欧洲央行可以采取逐步行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253344"
-  },
-  {
-    "post": "Financial_Express/3253345",
-    "datetime": "2026-06-15T07:00:38+00:00",
-    "views": "7",
-    "text": "欧洲央行管委卡扎克斯：欧洲央行如有必要将再次采取行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253345"
-  },
-  {
-    "post": "Financial_Express/3253343",
-    "datetime": "2026-06-15T07:00:20+00:00",
-    "views": "8",
-    "text": "菲律宾股指收盘上涨 6.1%，报 6272.88 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253343"
-  },
-  {
-    "post": "Financial_Express/3253341",
-    "datetime": "2026-06-15T07:00:19+00:00",
-    "views": "9",
-    "text": "商品期货收盘\n燃料油连续跌 8.37%，甲醇连续跌 8.37%，白银连续涨 7.70%，低硫燃料油连续跌 6.80%，上海原油连续跌 6.70%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253341"
-  },
-  {
-    "post": "Financial_Express/3253342",
-    "datetime": "2026-06-15T07:00:19+00:00",
-    "views": "8",
-    "text": "欧股开盘普涨，德国 DAX 指数涨 1.76%，英国富时 100 指数涨 1.63%，法国 CAC40 指数涨 1.83%，欧洲斯托克 50 指数涨 2.16%，意大利富时 MIB 指数涨 1.97%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253342"
-  },
-  {
-    "post": "Financial_Express/3253340",
-    "datetime": "2026-06-15T07:00:18+00:00",
-    "views": "9",
-    "text": "股指期货午盘收盘\n 中证 1000 指数期货连续涨 3.61%， 沪深 300 指数期货连续涨 2.49%， 中证 500 指数期货连续涨 3.56%， 上证 50 指数期货连续涨 1.58%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253340"
-  },
-  {
-    "post": "Financial_Express/3253339",
-    "datetime": "2026-06-15T07:00:17+00:00",
-    "views": "7",
-    "text": "伊朗副总统：达成的协议将保障伊朗的所有利益\n金十数据 6 月 15 日讯，据伊朗学生通讯社报道，伊朗副总统盖姆帕纳赫表示：“这项由总统、最高国家安全委员会成员规划并经最高领袖批准而形成的外交成果，在我看来，将有力保障伊朗的所有国家利益。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253339"
-  },
-  {
-    "post": "Financial_Express/3253337",
-    "datetime": "2026-06-15T06:59:57+00:00",
-    "views": "3",
-    "text": "欧洲央行官员卡扎克斯称，如有必要，央行将再度采取行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253337"
-  },
-  {
-    "post": "Financial_Express/3253338",
-    "datetime": "2026-06-15T06:59:57+00:00",
-    "views": "7",
-    "text": "欧洲央行官员卡扎克斯表示，政策调整可循序渐进推进。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253338"
-  },
-  {
-    "post": "Financial_Express/3253335",
-    "datetime": "2026-06-15T06:59:44+00:00",
-    "views": "6",
-    "text": "吉宏股份成立元算科技公司 含多项 AI 业务\n企查查 APP 显示，近日，丹骏元算（苏州）科技有限公司成立，注册资本 1 亿元，经营范围包含：人工智能行业应用系统集成服务；人工智能硬件销售；人工智能通用应用系统；人工智能双创服务平台；人工智能基础软件开发等。企查查股权穿透显示，该公司由吉宏股份全资持股。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253335"
-  },
-  {
-    "post": "Financial_Express/3253336",
-    "datetime": "2026-06-15T06:59:44+00:00",
-    "views": "6",
-    "text": "欧洲央行官员卡扎克斯：通胀仍存在上行风险。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253336"
-  },
-  {
-    "post": "Financial_Express/3253334",
-    "datetime": "2026-06-15T06:59:43+00:00",
-    "views": "6",
-    "text": "美国将向澳大利亚部署四艘核潜艇\n据法新社 6 月 12 日报道，澳大利亚国防部长周五表示，美国海军今年将向澳大利亚一个具有战略意义的海军港口部署一个核动力潜艇中队。根据澳英美联盟（AUKUS）协议，从明年起，四艘由美方指挥的潜艇将进驻澳大利亚西海岸的这座港口。澳大利亚国防部长理查德·马尔斯称，美国第 3 潜艇中队的人员将与澳大利亚和英国的人员合作，监督潜艇的操作工作。马尔斯表示，这支轮换执行任务的美军部队将开展训练任务，为澳大利亚未来自主操作本国的核动力潜艇奠定基础。他还称，他们的到来意味着“澳英美联盟正在按计划推进，且正在付诸实施”。（参考消息）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3253334"
   }
 ]
