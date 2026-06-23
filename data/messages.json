@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3270550",
+    "datetime": "2026-06-23T01:25:37+00:00",
+    "views": "32",
+    "text": "三大股指低开，沪指跌 0.23％，深成指跌 0.29％，创业板跌 0.36％。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3270550"
+  },
+  {
+    "post": "Financial_Express/3270549",
+    "datetime": "2026-06-23T01:25:17+00:00",
+    "views": "32",
+    "text": "A 股开盘，上证指数跌 0.23%，深证成指跌 0.29%，创业板指跌 0.36%。大豆、乳业、互联网保险板块跌幅居前。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3270549"
+  },
+  {
     "post": "Financial_Express/3270548",
     "datetime": "2026-06-23T01:24:17+00:00",
-    "views": "2",
+    "views": "33",
     "text": "三力制药投资新设可算原数信息咨询企业\n企查查 APP 显示，近日，贵州可算原数信息咨询合伙企业（有限合伙）成立，经营范围包含：企业管理咨询；社会经济咨询服务；企业总部管理等。企查查股权穿透显示，该企业由三力制药(603439)间接全资持股。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3270546",
     "datetime": "2026-06-23T01:22:07+00:00",
-    "views": "35",
+    "views": "95",
     "text": "央行公开市场今日净投放 750.0 亿元人民币。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3270547",
     "datetime": "2026-06-23T01:22:07+00:00",
-    "views": "35",
+    "views": "95",
     "text": "港股恒指高开涨 0.13％，国企指数涨 0.01％，科指开涨 0.04%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3270545",
     "datetime": "2026-06-23T01:22:06+00:00",
-    "views": "35",
+    "views": "95",
     "text": "中国央行逆回购今日净投放 750 亿元人民币\n金十数据 6 月 23 日讯，中国央行今日开展 5245 亿元 7 天期逆回购操作，因今日有 4495 亿元 7 天期逆回购到期，当日实现净投放 750 亿元人民币。看公开市场资金流向，到“数据库-中国央行数据”查看>>",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3270544",
     "datetime": "2026-06-23T01:21:37+00:00",
-    "views": "40",
+    "views": "70",
     "text": "甲醇连续主力合约日内涨 1%，现报 2558.00 元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3270543",
     "datetime": "2026-06-23T01:21:18+00:00",
-    "views": "43",
+    "views": "73",
     "text": "央行今日开展 5245 亿元 7 天逆回购操作，投标量 5245 亿元，中标量 5245 亿元，操作利率为 1.40%，与此前持平。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3270542",
     "datetime": "2026-06-23T01:21:17+00:00",
-    "views": "43",
+    "views": "73",
     "text": "光轮智能完成新一轮 10 亿元战略融资\n近日，光轮智能完成新一轮 10 亿元战略融资。本轮投资方包括中关村科学城基金、四川发展科创基金、山东发展科创投等政府基金，以及巨人网络、宇信股份、宝通科技、中科产投、量图智策等产业资本及财务投资机构；老股东建投投资、三七互娱、森马投资等继续跟投。本轮融资将主要用于持续加大物理 AI 数据与评测基础设施核心技术研发投入，进一步完善面向机器人学习、能力评测与真实场景落地的产品体系，扩大高质量人类行为数据、仿真合成数据与工业级评测能力建设，并与产业伙伴共同推进开放生态建设。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3270541",
     "datetime": "2026-06-23T01:20:58+00:00",
-    "views": "43",
+    "views": "73",
     "text": "中国央行：今日开展 5245 亿元 7 天逆回购操作，投标量 5245 亿元，中标量 5245 亿元，操作利率为 1.40%，与此前持平。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3270540",
     "datetime": "2026-06-23T01:20:57+00:00",
-    "views": "43",
+    "views": "73",
     "text": "港股开盘，恒指开涨 0.13%，科指开涨 0.04%。宁德时代(03750.HK)涨约 3%，MINIMAX-W(00100.HK)涨约 4%。",
     "media_only": false,
     "image_url": null,
@@ -34738,14 +34756,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3266677"
-  },
-  {
-    "post": "Financial_Express/3266676",
-    "datetime": "2026-06-21T01:25:37+00:00",
-    "views": "216",
-    "text": "Babycare 就纸尿裤事件再发声明\n6 月 21 日凌晨，Babycare 就婴儿纸尿裤事件再发声明：关注到相关报道后，公司第一时间委托权威第三方检测机构，对全系列纸尿裤产品加急复检。为确保严谨性，公司在欧盟 REACH 法规 SVHC 检测要求之外，额外增加了 SN/T 3587-2016（进出口纺织品酰胺类有机溶剂残留量的测定）检测。目前，在售全系列产品依据欧盟 REACH 法规 SVHC 要求完成的检测报告均已出具，结果均为“未检出”，特此公示。依据 SN/T 3587-2016 标准，公司已取得 23 个产品的检测报告，结果同样均为“未检出”。其余产品的检测仍在进行中，公司将持续更新检测进度，出一批公示一批，绝不回避，也欢迎各界监督。为进一步确认产品安全性，公司还全面排查了纸尿裤生产的原材料和生产设备端，相关合规检测报告显示均为“未检出”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3266676"
   }
 ]
