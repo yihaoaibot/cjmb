@@ -1,5 +1,17 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-06-23T02:00:27.421658+00:00","clsvipUpdated":"2026-06-23T02:00:40.822717+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">6月23日</h2><div class="feed"><article class="item" data-search="港股智谱跌超 15%。"><div class="time">10:00</div><div class="content"><div class="text" data-full="港股智谱跌超 15%。" data-short="港股智谱跌超 15%。">港股智谱跌超 15%。</div></div></article><article class="item" data-search="港股黄金股集体下跌，紫金黄金国际(02259.hk)跌超 4%，赤峰黄金(06693.hk)、紫金矿业(02899.hk)、山东黄金(01787.hk)跌超 3%。"><div class="time">09:59</div><div class="content"><div class="text" data-full="港股黄金股集体下跌，紫金黄金国际(02259.HK)跌超 4%，赤峰黄金(06693.HK)、紫金矿业(02899.HK)、山东黄金(01787.HK)跌超 3%。" data-short="港股黄金股集体下跌，紫金黄金国际(02259.HK)跌超 4%，赤峰黄金(06693.HK)、紫金矿业(02899.HK)、山东黄金(01787.HK)跌超 3%。">港股黄金股集体下跌，紫金黄金国际(02259.HK)跌超 4%，赤峰黄金(06693.HK)、紫金矿业(02899.HK)、山东黄金(01787.HK)跌超 3%。</div></div></article><article class="item" data-search="南方两倍做多三星电子(07747)跌超 11%，南方两倍做多海力士(07709)跌超 10%。"><div class="time">09:58</div><div class="content"><div class="text" data-full="南方两倍做多三星电子(07747)跌超 11%，南方两倍做多海力士(07709)跌超 10%。" data-short="南方两倍做多三星电子(07747)跌超 11%，南方两倍做多海力士(07709)跌超 10%。">南方两倍做多三星电子(07747)跌超 11%，南方两倍做多海力士(07709)跌超 10%。</div></div></article><article class="item" data-search="2026 夏季达沃斯论坛今天开启
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-06-23T02:02:26.164691+00:00","clsvipUpdated":"2026-06-23T02:02:36.726384+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">6月23日</h2><div class="feed"><article class="item" data-search="特朗普：若伊朗不遵守协议将采取必要行动
+当地时间 6 月 22 日，美国总统特朗普在白宫签署行政令。有记者问他，如果伊朗不遵守与美国的协议，是否愿意冒着全球大萧条的风险对伊朗发动打击。特朗普回应称，按照自己的方式来做不会引发萧条，“核武器比萧条更严重”。特朗普强调，如果伊朗不履行协议，或者行为不当，自己会做该做的事。（cctv 国际时讯）"><div class="time">10:02</div><div class="content"><div class="text" data-full="特朗普：若伊朗不遵守协议将采取必要行动
+当地时间 6 月 22 日，美国总统特朗普在白宫签署行政令。有记者问他，如果伊朗不遵守与美国的协议，是否愿意冒着全球大萧条的风险对伊朗发动打击。特朗普回应称，按照自己的方式来做不会引发萧条，“核武器比萧条更严重”。特朗普强调，如果伊朗不履行协议，或者行为不当，自己会做该做的事。（CCTV 国际时讯）" data-short="特朗普：若伊朗不遵守协议将采取必要行动
+当地时间 6 月 22 日，美国总统特朗普在白宫签署行政令。有记者问他，如果伊朗不遵守与美国的协议，是否愿意冒着全球大萧条的风险对伊朗发动打击。特朗普回应称，按照自己的方式来做不会引发萧条，“核武器比萧条更严重”。特朗普强调，如果伊朗不履行协议，或者行为不当，自己会做该做的事。（CCTV 国际时讯）">特朗普：若伊朗不遵守协议将采取必要行动
+当地时间 6 月 22 日，美国总统特朗普在白宫签署行政令。有记者问他，如果伊朗不遵守与美国的协议，是否愿意冒着全球大萧条的风险对伊朗发动打击。特朗普回应称，按照自己的方式来做不会引发萧条，“核武器比萧条更严重”。特朗普强调，如果伊朗不履行协议，或者行为不当，自己会做该做的事。（CCTV 国际时讯）</div></div></article><article class="item" data-search="芯谷微更换券商，重启 ipo 辅导
+金十数据 6 月 23 日讯，近日，据证监会网站披露，合肥芯谷微电子股份有限公司在安徽证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商更换为国泰海通证券。"><div class="time">10:02</div><div class="content"><div class="text" data-full="芯谷微更换券商，重启 IPO 辅导
+金十数据 6 月 23 日讯，近日，据证监会网站披露，合肥芯谷微电子股份有限公司在安徽证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商更换为国泰海通证券。" data-short="芯谷微更换券商，重启 IPO 辅导
+金十数据 6 月 23 日讯，近日，据证监会网站披露，合肥芯谷微电子股份有限公司在安徽证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商更换为国泰海通证券。">芯谷微更换券商，重启 IPO 辅导
+金十数据 6 月 23 日讯，近日，据证监会网站披露，合肥芯谷微电子股份有限公司在安徽证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商更换为国泰海通证券。</div></div></article><article class="item" data-search="港股电力设备股多数下跌，信义光能(00968.hk)跌超 5%，东方电气(01072.hk)跌超 4%，福莱特玻璃(06865.hk)、潍柴动力(02338.hk)跌超 3%。"><div class="time">10:01</div><div class="content"><div class="text" data-full="港股电力设备股多数下跌，信义光能(00968.HK)跌超 5%，东方电气(01072.HK)跌超 4%，福莱特玻璃(06865.HK)、潍柴动力(02338.HK)跌超 3%。" data-short="港股电力设备股多数下跌，信义光能(00968.HK)跌超 5%，东方电气(01072.HK)跌超 4%，福莱特玻璃(06865.HK)、潍柴动力(02338.HK)跌超 3%。">港股电力设备股多数下跌，信义光能(00968.HK)跌超 5%，东方电气(01072.HK)跌超 4%，福莱特玻璃(06865.HK)、潍柴动力(02338.HK)跌超 3%。</div></div></article><article class="item" data-search="芯谷微更换券商，重启 ipo 辅导
+近日，据证监会网站披露，合肥芯谷微电子股份有限公司在安徽证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为国泰海通证券。"><div class="time">10:00</div><div class="content"><div class="text" data-full="芯谷微更换券商，重启 IPO 辅导
+近日，据证监会网站披露，合肥芯谷微电子股份有限公司在安徽证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为国泰海通证券。" data-short="芯谷微更换券商，重启 IPO 辅导
+近日，据证监会网站披露，合肥芯谷微电子股份有限公司在安徽证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为国泰海通证券。">芯谷微更换券商，重启 IPO 辅导
+近日，据证监会网站披露，合肥芯谷微电子股份有限公司在安徽证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为国泰海通证券。</div></div></article><article class="item" data-search="港股智谱跌超 15%。"><div class="time">10:00</div><div class="content"><div class="text" data-full="港股智谱跌超 15%。" data-short="港股智谱跌超 15%。">港股智谱跌超 15%。</div></div></article><article class="item" data-search="港股黄金股集体下跌，紫金黄金国际(02259.hk)跌超 4%，赤峰黄金(06693.hk)、紫金矿业(02899.hk)、山东黄金(01787.hk)跌超 3%。"><div class="time">09:59</div><div class="content"><div class="text" data-full="港股黄金股集体下跌，紫金黄金国际(02259.HK)跌超 4%，赤峰黄金(06693.HK)、紫金矿业(02899.HK)、山东黄金(01787.HK)跌超 3%。" data-short="港股黄金股集体下跌，紫金黄金国际(02259.HK)跌超 4%，赤峰黄金(06693.HK)、紫金矿业(02899.HK)、山东黄金(01787.HK)跌超 3%。">港股黄金股集体下跌，紫金黄金国际(02259.HK)跌超 4%，赤峰黄金(06693.HK)、紫金矿业(02899.HK)、山东黄金(01787.HK)跌超 3%。</div></div></article><article class="item" data-search="南方两倍做多三星电子(07747)跌超 11%，南方两倍做多海力士(07709)跌超 10%。"><div class="time">09:58</div><div class="content"><div class="text" data-full="南方两倍做多三星电子(07747)跌超 11%，南方两倍做多海力士(07709)跌超 10%。" data-short="南方两倍做多三星电子(07747)跌超 11%，南方两倍做多海力士(07709)跌超 10%。">南方两倍做多三星电子(07747)跌超 11%，南方两倍做多海力士(07709)跌超 10%。</div></div></article><article class="item" data-search="2026 夏季达沃斯论坛今天开启
 世界经济论坛第十七届新领军者年会（夏季达沃斯论坛）今天（23 日）开始在辽宁大连举办，为期三天。本届论坛今天上午正式开启，全球各地的企业家、学者、政要齐聚一堂。组委会介绍，今年参会嘉宾超过 1700 人，来自全球 90 多个国家和地区，规模创下新高。"><div class="time">09:58</div><div class="content"><div class="text" data-full="2026 夏季达沃斯论坛今天开启
 世界经济论坛第十七届新领军者年会（夏季达沃斯论坛）今天（23 日）开始在辽宁大连举办，为期三天。本届论坛今天上午正式开启，全球各地的企业家、学者、政要齐聚一堂。组委会介绍，今年参会嘉宾超过 1700 人，来自全球 90 多个国家和地区，规模创下新高。" data-short="2026 夏季达沃斯论坛今天开启
 世界经济论坛第十七届新领军者年会（夏季达沃斯论坛）今天（23 日）开始在辽宁大连举办，为期三天。本届论坛今天上午正式开启，全球各地的企业家、学者、政要齐聚一堂。组委会介绍，今年参会嘉宾超过 1700 人，来自全球 90 多个国家和地区，规模创下新高。">2026 夏季达沃斯论坛今天开启
@@ -751,85 +763,7 @@ MOMENTA GLOBAL LIMITED - W 通过港交所上市聆讯。</div></div></article><
 截至 6 月 18 日，锗锭已攀升至 25000 元/千克，较 2025 年末涨逾 83%。驱动这一轮价格飙升的，主要是 ai 算力基础设施等领域对光纤的旺盛需求。在光纤制造中，四氯化锗扮演着“味精”般的关键角色。它是光纤预制棒纤芯掺杂的核心原料，主要作用是提高纤芯折射率等，让光纤的传输性能更“能打”。“在光纤预制棒的原材料成本里，锗的占比很低，但由于下游对锗材料的纯度要求高，加上国内锗供给较为集中、材料不可替代性强，相比其他材料，锗的供需矛盾会更为明显。”一家头部光纤预制棒生产商介绍。对于锗价一路走高，上海钢联分析师陈琪琪表示，原因是原料供应紧张、需求增加。短期来看，锗由于原料招标价格高企，对锗产品成本形成支撑。此外，由于今年光纤需求、太阳能电池、军工增量明显，预计短期锗锭价格高位震荡，长期依旧延续上涨态势。有机构预计，近两年光纤级锗产品需求增速将维持在 15%至 20%。（上证报）"><div class="time">06:34</div><div class="content"><div class="text" data-full="稀有“味精” 供需错配加剧，锗价半年涨逾八成
 截至 6 月 18 日，锗锭已攀升至 25000 元/千克，较 2025 年末涨逾 83%。驱动这一轮价格飙升的，主要是 AI 算力基础设施等领域对光纤的旺盛需求。在光纤制造中，四氯化锗扮演着“味精”般的关键角色。它是光纤预制棒纤芯掺杂的核心原料，主要作用是提高纤芯折射率等，让光纤的传输性能更“能打”。“在光纤预制棒的原材料成本里，锗的占比很低，但由于下游对锗材料的纯度要求高，加上国内锗供给较为集中、材料不可替代性强，相比其他材料，锗的供需矛盾会更为明显。”一家头部光纤预制棒生产商介绍。对于锗价一路走高，上海钢联分析师陈琪琪表示，原因是原料供应紧张、需求增加。短期来看，锗由于原料招标价格高企，对锗产品成本形成支撑。此外，由于今年光纤需求、太阳能电池、军工增量明显，预计短期锗锭价格高位震荡，长期依旧延续上涨态势。有机构预计，近两年光纤级锗产品需求增速将维持在 15%至 20%。（上证报）" data-short="稀有“味精” 供需错配加剧，锗价半年涨逾八成
 截至 6 月 18 日，锗锭已攀升至 25000 元/千克，较 2025 年末涨逾 83%。驱动这一轮价格飙升的，主要是 AI 算力基础设施等领域对光纤的旺盛需求。在光纤制造中，四氯化锗扮演着“味精”般的关键角色。它是光纤预制棒纤芯掺杂的核心原料，主要作用是提高纤芯折射率等，让光纤的传输性能更“能打”。“在光纤预...">稀有“味精” 供需错配加剧，锗价半年涨逾八成
-截至 6 月 18 日，锗锭已攀升至 25000 元/千克，较 2025 年末涨逾 83%。驱动这一轮价格飙升的，主要是 AI 算力基础设施等领域对光纤的旺盛需求。在光纤制造中，四氯化锗扮演着“味精”般的关键角色。它是光纤预制棒纤芯掺杂的核心原料，主要作用是提高纤芯折射率等，让光纤的传输性能更“能打”。“在光纤预...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="芝商所 cme direct 平台恢复交易 早前出现连接中断情况
-据交易员表示，芝商所旗下 cme direct 平台在周一因技术故障短暂中断后，目前已恢复交易。“由于第三方网络问题，部分 cme direct 客户在中部时间下午 1 点左右遇到连接中断情况。部分受影响的客户在重新连接时也遇到了延迟。cme globex 未受影响，”芝商所一位代表在电子邮件声明中表示。交易员表示，此次事件影响了石油、天然气、铜、黄金和白银等交易。"><div class="time">06:32</div><div class="content"><div class="text" data-full="芝商所 CME Direct 平台恢复交易 早前出现连接中断情况
-据交易员表示，芝商所旗下 CME Direct 平台在周一因技术故障短暂中断后，目前已恢复交易。“由于第三方网络问题，部分 CME Direct 客户在中部时间下午 1 点左右遇到连接中断情况。部分受影响的客户在重新连接时也遇到了延迟。CME Globex 未受影响，”芝商所一位代表在电子邮件声明中表示。交易员表示，此次事件影响了石油、天然气、铜、黄金和白银等交易。" data-short="芝商所 CME Direct 平台恢复交易 早前出现连接中断情况
-据交易员表示，芝商所旗下 CME Direct 平台在周一因技术故障短暂中断后，目前已恢复交易。“由于第三方网络问题，部分 CME Direct 客户在中部时间下午 1 点左右遇到连接中断情况。部分受影响的客户在重新连接时也遇到了延迟。CME Globex 未受影响，”芝商所一位代表在电子邮件...">芝商所 CME Direct 平台恢复交易 早前出现连接中断情况
-据交易员表示，芝商所旗下 CME Direct 平台在周一因技术故障短暂中断后，目前已恢复交易。“由于第三方网络问题，部分 CME Direct 客户在中部时间下午 1 点左右遇到连接中断情况。部分受影响的客户在重新连接时也遇到了延迟。CME Globex 未受影响，”芝商所一位代表在电子邮件...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="周二重要财经信息提醒（以下均为北京时间）
-
-① 08:30 日本 6 月制造业、服务业、综合 pmi 初值；
-② 时间待定 “夏季达沃斯论坛”在大连开幕（6 月 23-25 日），字节跳动旗下云与 ai 服务平台 2026 火山引擎原动力大会（force）开幕（6 月 23-34 日）；
-③ 13:00 日本 6 月制造业、服务业、综合 pmi 初值；
-④ 15:15 法国 6 月制造业、服务业、综合 pmi 初值；
-⑤ 15:30 德国 6 月制造业、服务业、综合 pmi 初值；
-⑥ 16:00 欧元区 6 月制造业、服务业、综合 pmi 初值，欧洲央行管委 kazimir 讲话；
-⑦ 16:30 英国 6 月制造业、服务业、综合 pmi 初值，欧洲央行首席经济学家 lane 在欧洲议会讲话；
-⑧ 21:00 加拿大央行行长 tiff macklem 在法国巴黎讲话；
-⑨ 21:45 美国 6 月标普全球服务业、制造业、综合 pmi 初值；
-⑩ 21:55 英国央行货币政策委员会（mpc）成员 alan taylor，欧洲央行副主席 boris vujcic 在英国伦敦出席 2026 年货币政策论坛并讲话；
-⑪ 22:00 美国 6 月里士满联储制造业指数；
-⑫ 次日 01:30 英国央行货币政策委员会（mpc）成员 swati dhingra 讲话；
-⑬ 时间待定 明晟公司（msci）将公布年度市场分类评审结果，韩国有望进入发达市场观察名单；
-⑭ 美股盘后 联邦快递发布业绩报告。"><div class="time">06:31</div><div class="content"><div class="text" data-full="周二重要财经信息提醒（以下均为北京时间）
-
-① 08:30 日本 6 月制造业、服务业、综合 PMI 初值；
-② 时间待定 “夏季达沃斯论坛”在大连开幕（6 月 23-25 日），字节跳动旗下云与 AI 服务平台 2026 火山引擎原动力大会（FORCE）开幕（6 月 23-34 日）；
-③ 13:00 日本 6 月制造业、服务业、综合 PMI 初值；
-④ 15:15 法国 6 月制造业、服务业、综合 PMI 初值；
-⑤ 15:30 德国 6 月制造业、服务业、综合 PMI 初值；
-⑥ 16:00 欧元区 6 月制造业、服务业、综合 PMI 初值，欧洲央行管委 Kazimir 讲话；
-⑦ 16:30 英国 6 月制造业、服务业、综合 PMI 初值，欧洲央行首席经济学家 Lane 在欧洲议会讲话；
-⑧ 21:00 加拿大央行行长 Tiff Macklem 在法国巴黎讲话；
-⑨ 21:45 美国 6 月标普全球服务业、制造业、综合 PMI 初值；
-⑩ 21:55 英国央行货币政策委员会（MPC）成员 Alan Taylor，欧洲央行副主席 Boris Vujcic 在英国伦敦出席 2026 年货币政策论坛并讲话；
-⑪ 22:00 美国 6 月里士满联储制造业指数；
-⑫ 次日 01:30 英国央行货币政策委员会（MPC）成员 Swati Dhingra 讲话；
-⑬ 时间待定 明晟公司（MSCI）将公布年度市场分类评审结果，韩国有望进入发达市场观察名单；
-⑭ 美股盘后 联邦快递发布业绩报告。" data-short="周二重要财经信息提醒（以下均为北京时间）
-
-① 08:30 日本 6 月制造业、服务业、综合 PMI 初值；
-② 时间待定 “夏季达沃斯论坛”在大连开幕（6 月 23-25 日），字节跳动旗下云与 AI 服务平台 2026 火山引擎原动力大会（FORCE）开幕（6 月 23-34 日）；
-③ 13:00 日本 6 月制造业、服务业、综合 PMI 初值；
-④...">周二重要财经信息提醒（以下均为北京时间）
-
-① 08:30 日本 6 月制造业、服务业、综合 PMI 初值；
-② 时间待定 “夏季达沃斯论坛”在大连开幕（6 月 23-25 日），字节跳动旗下云与 AI 服务平台 2026 火山引擎原动力大会（FORCE）开幕（6 月 23-34 日）；
-③ 13:00 日本 6 月制造业、服务业、综合 PMI 初值；
-④...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="光棒之渴：个别类型较年初涨价逾五倍，供应紧缺或将延续至 2027 年
-受益于 ai 算力网络建设带来的巨量光纤光缆需求，作为光纤制造“母体”的光纤预制棒（下称“光棒”）价格较 2025 年初快速上涨：通用 g.652d 光棒报价涨幅超过 180%；用于数据中心高密度布线的 g.657.a2 类光棒，每等效芯公里报价则由 22 元至 30 元涨到 160 元，涨幅近 550%。多家上市公司表示，本轮光棒价格上涨与供需失衡以及上游原材料涨价传导等因素共同导致，预计紧缺状态将持续到 2027 年。（上证报）"><div class="time">06:30</div><div class="content"><div class="text" data-full="光棒之渴：个别类型较年初涨价逾五倍，供应紧缺或将延续至 2027 年
-受益于 AI 算力网络建设带来的巨量光纤光缆需求，作为光纤制造“母体”的光纤预制棒（下称“光棒”）价格较 2025 年初快速上涨：通用 G.652D 光棒报价涨幅超过 180%；用于数据中心高密度布线的 G.657.A2 类光棒，每等效芯公里报价则由 22 元至 30 元涨到 160 元，涨幅近 550%。多家上市公司表示，本轮光棒价格上涨与供需失衡以及上游原材料涨价传导等因素共同导致，预计紧缺状态将持续到 2027 年。（上证报）" data-short="光棒之渴：个别类型较年初涨价逾五倍，供应紧缺或将延续至 2027 年
-受益于 AI 算力网络建设带来的巨量光纤光缆需求，作为光纤制造“母体”的光纤预制棒（下称“光棒”）价格较 2025 年初快速上涨：通用 G.652D 光棒报价涨幅超过 180%；用于数据中心高密度布线的 G.657.A2 类光棒，每等效芯公里报价则由 22 元至 30 元涨到 160 元，...">光棒之渴：个别类型较年初涨价逾五倍，供应紧缺或将延续至 2027 年
-受益于 AI 算力网络建设带来的巨量光纤光缆需求，作为光纤制造“母体”的光纤预制棒（下称“光棒”）价格较 2025 年初快速上涨：通用 G.652D 光棒报价涨幅超过 180%；用于数据中心高密度布线的 G.657.A2 类光棒，每等效芯公里报价则由 22 元至 30 元涨到 160 元，...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="6 月 23 日隔夜要闻一览
-
-1、美国财政部长贝森特宣布，作为美国与伊朗谈判框架的一部分，美国财政部已经发布一份为期 60 天的一般许可，授权允许伊朗石油的生产、交付和销售。
-2、特朗普发文称，各方都完全清楚，伊朗将同意接受大规模武器核查，以确保其在未来长期保持“核诚信”。
-3、特朗普签署两项行政令，推动 2028 年部署用于科学研究的量子计算机。
-4、国际油价 22 日下跌，wti 原油期货价格下跌 1.78 美元，收于每桶 74.82 美元，跌幅为 2.32%；布伦特原油期货价格下跌 2.67 美元，收于每桶 77.90 美元，跌幅为 3.31%。
-5、美国战略石油储备原油库存上周减少约 910 万桶，降至 3.312 亿桶，为 1983 年以来最低水平。
-6、spacex 股价周一下跌 16%，收于 154.60 美元，创下该公司上市首日以来的最低水平。过去三个交易日累计跌幅达到 23%，市值蒸发逾 6000 亿美元。目前公司市值略高于 2 万亿美元。
-7、百度 adr 盘后上涨，花旗对其开启 30 天的看涨催化观察。
-8、白宫将召集武器制造商开会，在库存承压之际推动加大弹药生产。
-9、甲骨文上财年裁员约 2.1 万，人工智能取代部分工作岗位。"><div class="time">06:28</div><div class="content"><div class="text" data-full="6 月 23 日隔夜要闻一览
-
-1、美国财政部长贝森特宣布，作为美国与伊朗谈判框架的一部分，美国财政部已经发布一份为期 60 天的一般许可，授权允许伊朗石油的生产、交付和销售。
-2、特朗普发文称，各方都完全清楚，伊朗将同意接受大规模武器核查，以确保其在未来长期保持“核诚信”。
-3、特朗普签署两项行政令，推动 2028 年部署用于科学研究的量子计算机。
-4、国际油价 22 日下跌，WTI 原油期货价格下跌 1.78 美元，收于每桶 74.82 美元，跌幅为 2.32%；布伦特原油期货价格下跌 2.67 美元，收于每桶 77.90 美元，跌幅为 3.31%。
-5、美国战略石油储备原油库存上周减少约 910 万桶，降至 3.312 亿桶，为 1983 年以来最低水平。
-6、SpaceX 股价周一下跌 16%，收于 154.60 美元，创下该公司上市首日以来的最低水平。过去三个交易日累计跌幅达到 23%，市值蒸发逾 6000 亿美元。目前公司市值略高于 2 万亿美元。
-7、百度 ADR 盘后上涨，花旗对其开启 30 天的看涨催化观察。
-8、白宫将召集武器制造商开会，在库存承压之际推动加大弹药生产。
-9、甲骨文上财年裁员约 2.1 万，人工智能取代部分工作岗位。" data-short="6 月 23 日隔夜要闻一览
-
-1、美国财政部长贝森特宣布，作为美国与伊朗谈判框架的一部分，美国财政部已经发布一份为期 60 天的一般许可，授权允许伊朗石油的生产、交付和销售。
-2、特朗普发文称，各方都完全清楚，伊朗将同意接受大规模武器核查，以确保其在未来长期保持“核诚信”。
-3、特朗普签署两项行政令，推动 2028 年部署用于科学研究的量子计算机。
-4、国...">6 月 23 日隔夜要闻一览
-
-1、美国财政部长贝森特宣布，作为美国与伊朗谈判框架的一部分，美国财政部已经发布一份为期 60 天的一般许可，授权允许伊朗石油的生产、交付和销售。
-2、特朗普发文称，各方都完全清楚，伊朗将同意接受大规模武器核查，以确保其在未来长期保持“核诚信”。
-3、特朗普签署两项行政令，推动 2028 年部署用于科学研究的量子计算机。
-4、国...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">6月23日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】ai浪潮驱动需求增加，预计2026年市场规模将是去年5倍以上，该行业已进入业绩兑现阶段，这家企业切入头部企业供应链
+截至 6 月 18 日，锗锭已攀升至 25000 元/千克，较 2025 年末涨逾 83%。驱动这一轮价格飙升的，主要是 AI 算力基础设施等领域对光纤的旺盛需求。在光纤制造中，四氯化锗扮演着“味精”般的关键角色。它是光纤预制棒纤芯掺杂的核心原料，主要作用是提高纤芯折射率等，让光纤的传输性能更“能打”。“在光纤预...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">6月23日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】ai浪潮驱动需求增加，预计2026年市场规模将是去年5倍以上，该行业已进入业绩兑现阶段，这家企业切入头部企业供应链
 
 #科创新源
 #飞龙股份
