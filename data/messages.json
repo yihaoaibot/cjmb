@@ -1,8 +1,125 @@
 [
   {
+    "post": "Financial_Express/3275175",
+    "datetime": "2026-06-24T13:04:18+00:00",
+    "views": "5",
+    "text": "博通与 OpenAI：早期测试显示 Jalapeño 芯片的每瓦性能将大幅优于当前最先进水平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275175"
+  },
+  {
+    "post": "Financial_Express/3275174",
+    "datetime": "2026-06-24T13:04:17+00:00",
+    "views": "5",
+    "text": "我国规模最大全钒液流储能电站转入商运\n我国钒制品产能占全球总量的 72%；储能领域钒应用占比从 2023 年的 10.8%提升至 16.3%，储能应用占比持续攀升，已成为钒全产业链中增长最快的细分领域，为全钒液流储能规模化发展提供了稳定的原料支撑与发展动力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275174"
+  },
+  {
+    "post": "Financial_Express/3275173",
+    "datetime": "2026-06-24T13:03:59+00:00",
+    "views": "7",
+    "text": "SPACEX 盘前股价跌幅扩大至 2.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275173"
+  },
+  {
+    "post": "Financial_Express/3275171",
+    "datetime": "2026-06-24T13:03:58+00:00",
+    "views": "7",
+    "text": "博通与 OpenAI 联合推出 Jalapeño，这是 OpenAI 首款智能处理器。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275171"
+  },
+  {
+    "post": "Financial_Express/3275172",
+    "datetime": "2026-06-24T13:03:58+00:00",
+    "views": "7",
+    "text": "布伦特原油失守 74 美元/桶，日内跌 3.65%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275172"
+  },
+  {
+    "post": "Financial_Express/3275170",
+    "datetime": "2026-06-24T13:03:40+00:00",
+    "views": "11",
+    "text": "微软最新发布的《教育领域人工智能报告》指出，人工智能在教育领域的应用已十分广泛，且对相关支持的需求日益增长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275170"
+  },
+  {
+    "post": "Financial_Express/3275169",
+    "datetime": "2026-06-24T13:03:20+00:00",
+    "views": "12",
+    "text": "微软：Copilot 笔记本现已作为微软 365 Copilot 应用的组成部分，面向微软 365 教育版用户开放，无需额外付费。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275169"
+  },
+  {
+    "post": "Financial_Express/3275168",
+    "datetime": "2026-06-24T13:03:19+00:00",
+    "views": "12",
+    "text": "博通(AVGO.O)盘前股价上涨 3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275168"
+  },
+  {
+    "post": "Financial_Express/3275167",
+    "datetime": "2026-06-24T13:02:58+00:00",
+    "views": "12",
+    "text": "SpaceX 旗下 xAI 公司正加倍押注视频与图像生成工具。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275167"
+  },
+  {
+    "post": "Financial_Express/3275166",
+    "datetime": "2026-06-24T13:02:57+00:00",
+    "views": "12",
+    "text": "博通(AVGO.O)预计将比预期更快地部署 OpenAI 芯片。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275166"
+  },
+  {
+    "post": "Financial_Express/3275165",
+    "datetime": "2026-06-24T13:02:39+00:00",
+    "views": "43",
+    "text": "博通：与微软及合作伙伴开展的吉瓦级数据中心部署项目将于 2026 年启动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275165"
+  },
+  {
+    "post": "Financial_Express/3275163",
+    "datetime": "2026-06-24T13:02:38+00:00",
+    "views": "43",
+    "text": "博通(AVGO.O)CEO：OpenAI 的新芯片可节省 50%的成本。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275163"
+  },
+  {
+    "post": "Financial_Express/3275164",
+    "datetime": "2026-06-24T13:02:38+00:00",
+    "views": "43",
+    "text": "PTA 连续主力合约日内跌 3%，现报 5568.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275164"
+  },
+  {
     "post": "Financial_Express/3275162",
     "datetime": "2026-06-24T13:02:17+00:00",
-    "views": "2",
+    "views": "43",
     "text": "博通盘前股价上涨 3%，此前博通发布了与 OPENAI 合作的 AI 芯片。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +128,7 @@
   {
     "post": "Financial_Express/3275161",
     "datetime": "2026-06-24T13:01:59+00:00",
-    "views": "4",
+    "views": "43",
     "text": "博通预计将比预期更快地部署 OPENAI 芯片。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +137,7 @@
   {
     "post": "Financial_Express/3275160",
     "datetime": "2026-06-24T13:01:44+00:00",
-    "views": "6",
+    "views": "45",
     "text": "博通 CEO 称，OPENAI 的新芯片可节省 50%的成本。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +146,7 @@
   {
     "post": "Financial_Express/3275159",
     "datetime": "2026-06-24T13:01:41+00:00",
-    "views": "6",
+    "views": "43",
     "text": "纽约期金失守 3990 美元/盎司，日内跌 3.86%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +155,7 @@
   {
     "post": "Financial_Express/3275157",
     "datetime": "2026-06-24T13:01:40+00:00",
-    "views": "6",
+    "views": "43",
     "text": "博通与 OpenAI 联合发布 Jalapeño 处理器，这是 OpenAI 首款智能处理器。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +164,7 @@
   {
     "post": "Financial_Express/3275158",
     "datetime": "2026-06-24T13:01:40+00:00",
-    "views": "6",
+    "views": "43",
     "text": "IBM、红帽与帕洛阿尔托网络扩大莱特威尔项目合作规模。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +182,7 @@
   {
     "post": "Financial_Express/3275156",
     "datetime": "2026-06-24T13:01:39+00:00",
-    "views": "6",
+    "views": "42",
     "text": "现货黄金失守 3980 美元/盎司，日内跌 3.22%。",
     "media_only": false,
     "image_url": null,
@@ -49480,104 +49597,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3269645"
-  },
-  {
-    "post": "Financial_Express/3269643",
-    "datetime": "2026-06-22T13:04:19+00:00",
-    "views": "34",
-    "text": "美联储理事沃勒在发言中未对经济或货币政策前景发表评论。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269643"
-  },
-  {
-    "post": "Financial_Express/3269642",
-    "datetime": "2026-06-22T13:04:18+00:00",
-    "views": "33",
-    "text": "欧洲央行行长拉加德：前景不确定，通胀上行风险与经济增长下行风险并存。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269642"
-  },
-  {
-    "post": "Financial_Express/3269640",
-    "datetime": "2026-06-22T13:03:58+00:00",
-    "views": "34",
-    "text": "德国国债延续涨势，2 年期国债收益率下跌 5 个基点至 2.59%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269640"
-  },
-  {
-    "post": "Financial_Express/3269641",
-    "datetime": "2026-06-22T13:03:58+00:00",
-    "views": "34",
-    "text": "联合包裹将投资 4800 万美元建设温控仓储设施。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269641"
-  },
-  {
-    "post": "Financial_Express/3269639",
-    "datetime": "2026-06-22T13:03:38+00:00",
-    "views": "34",
-    "text": "德国国债延续涨势；2 年期国债收益率下跌 5 个基点至 2.59%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269639"
-  },
-  {
-    "post": "Financial_Express/3269638",
-    "datetime": "2026-06-22T13:03:37+00:00",
-    "views": "34",
-    "text": "Meta Platforms(META.O)任命 CRED 公司的 KUNAL SHAH 为 WhatsApp 新任负责人。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269638"
-  },
-  {
-    "post": "Financial_Express/3269637",
-    "datetime": "2026-06-22T13:03:20+00:00",
-    "views": "34",
-    "text": "1 至 5 月陕西煤炭产量 3.19 亿吨 同比增长 3.8%\n据陕西省煤炭工业协会统计数据，今年 1-5 月，陕西全省煤炭产量 31883.7 万吨，同比增长 3.8%，占全国煤炭产量的 16.1%。同期，煤炭销量 28527.42 万吨，同比增长 3.12%。5 月份来看，陕西省共有 225 处矿井组织生产，生产煤炭 6344.98 万吨；销售煤炭 6209.82 万吨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269637"
-  },
-  {
-    "post": "Financial_Express/3269636",
-    "datetime": "2026-06-22T13:03:19+00:00",
-    "views": "34",
-    "text": "美光科技与 ANTHROPIC 达成战略合作协议，股价上涨至 5.5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269636"
-  },
-  {
-    "post": "Financial_Express/3269634",
-    "datetime": "2026-06-22T13:03:01+00:00",
-    "views": "34",
-    "text": "美光科技(MU.O)与 Anthropic 达成协议，推动下一代人工智能规模化。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269634"
-  },
-  {
-    "post": "Financial_Express/3269635",
-    "datetime": "2026-06-22T13:03:01+00:00",
-    "views": "34",
-    "text": "欧洲央行行长拉加德：欧洲央行必须灵活应对伊朗冲击。欧洲央行在应对当前形势方面“处于良好位置”。尽管达成和平协议，中东局势依然脆弱。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269635"
-  },
-  {
-    "post": "Financial_Express/3269633",
-    "datetime": "2026-06-22T13:02:38+00:00",
-    "views": "34",
-    "text": "美光科技(MU.O)与 Anthropic 达成内存和存储供应协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269633"
   }
 ]
