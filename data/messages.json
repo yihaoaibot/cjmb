@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3276010",
+    "datetime": "2026-06-24T20:42:18+00:00",
+    "views": "4",
+    "text": "白宫：特朗普补充预算请求包括 671.5 亿美元用于国防部军事项目。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3276010"
+  },
+  {
+    "post": "Financial_Express/3276011",
+    "datetime": "2026-06-24T20:42:18+00:00",
+    "views": "4",
+    "text": "特朗普谈伊朗：我们在谈判中进展顺利。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3276011"
+  },
+  {
+    "post": "Financial_Express/3276009",
+    "datetime": "2026-06-24T20:41:57+00:00",
+    "views": "7",
+    "text": "特朗普：对霍尔木兹海峡收费是不可接受的。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3276009"
+  },
+  {
+    "post": "Financial_Express/3276007",
+    "datetime": "2026-06-24T20:40:58+00:00",
+    "views": "14",
+    "text": "美国总统特朗普：（关于英国首相潜在继任者伯纳姆）我听说他非常自由派，非常。因此，这意味着他可能不会开放北海。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3276007"
+  },
+  {
+    "post": "Financial_Express/3276008",
+    "datetime": "2026-06-24T20:40:58+00:00",
+    "views": "14",
+    "text": "Hugging Face CEO：来自 Hugging Face 生态系统的 AI 模型计划将被集成并部署到高通平台上。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3276008"
+  },
+  {
     "post": "Financial_Express/3276006",
     "datetime": "2026-06-24T20:39:17+00:00",
-    "views": "2",
+    "views": "14",
     "text": "高通首席财务官：公司有机会将年度营收规模拓展至 1000 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3276005",
     "datetime": "2026-06-24T20:38:38+00:00",
-    "views": "6",
+    "views": "45",
     "text": "特朗普：我们需要低利率。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3276004",
     "datetime": "2026-06-24T20:38:37+00:00",
-    "views": "5",
+    "views": "13",
     "text": "美国白宫：特朗普追加拨款申请中包含 671.5 亿美元，用于国防部各类军事项目。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3276003",
     "datetime": "2026-06-24T20:37:37+00:00",
-    "views": "8",
+    "views": "44",
     "text": "美国白宫：特朗普向国会申请 5 亿美元用于纽约宾夕法尼亚车站翻新工程，另申请 10 亿美元，用以提高通用汽车破产期间福利受损工人的养老金。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3276002",
     "datetime": "2026-06-24T20:37:18+00:00",
-    "views": "8",
+    "views": "43",
     "text": "美光科技：目前看不到供应实现供需平衡的明确时间点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3276001",
     "datetime": "2026-06-24T20:37:17+00:00",
-    "views": "8",
+    "views": "43",
     "text": "特朗普谈及伊朗校园袭击事件：不确定他们能否解决此事。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3276000",
     "datetime": "2026-06-24T20:35:57+00:00",
-    "views": "41",
+    "views": "44",
     "text": "美光科技：预计 2028 年存储芯片供应将逐步改善。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3275999",
     "datetime": "2026-06-24T20:35:38+00:00",
-    "views": "41",
+    "views": "43",
     "text": "高通：预计安卓系统硬件设备营收将增长大约 5%。在 2029 财年，预计硬件将在收入占比大约三分之一。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3275998",
     "datetime": "2026-06-24T20:35:17+00:00",
-    "views": "41",
+    "views": "43",
     "text": "特朗普：乌克兰总统泽连斯基表现得相当不错， 他撑得住局面。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3275996",
     "datetime": "2026-06-24T20:34:37+00:00",
-    "views": "41",
+    "views": "43",
     "text": "美国总统特朗普：如果不是因为土耳其总统埃尔多安，我不会去安卡拉的北约峰会。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3275997",
     "datetime": "2026-06-24T20:34:37+00:00",
-    "views": "42",
+    "views": "44",
     "text": "美国总统特朗普：乌克兰总统泽连斯基表现得相当不错。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3275995",
     "datetime": "2026-06-24T20:34:19+00:00",
-    "views": "41",
+    "views": "43",
     "text": "美光发布财报后，盘后芯片股普涨；英特尔涨 4.4%，AMD 涨 3.4%，英伟达上涨 0.6%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3275994",
     "datetime": "2026-06-24T20:34:18+00:00",
-    "views": "40",
+    "views": "43",
     "text": "美国总统特朗普：（就对土耳其的战斗机军售）可能会采取某些行动。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3275993",
     "datetime": "2026-06-24T20:33:18+00:00",
-    "views": "41",
+    "views": "43",
     "text": "特朗普谈及向土耳其交付战机一事：认为此举会让土方满意。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3275992",
     "datetime": "2026-06-24T20:33:17+00:00",
-    "views": "42",
+    "views": "43",
     "text": "华尔街大行通过美联储压力测试 为百亿美元派息铺平道路\n金十数据 6 月 25 日讯，美国所有大型银行都通过了美联储的年度压力测试，为银行增加百亿美元股票回购和分红铺平了道路。这项压力测试旨在评估华尔街贷款机构在假设的金融体系冲击下会如何应对。与往年不同的是，2026 年的测试结果不会影响资本要求，因为美联储正在持续修订测试内容，使其对银行更加友好。今年的测试评估了 32 家大型贷款机构在商业和住宅房地产市场以及企业债务市场面临更大压力的情况下，如何抵御严重的全球冲击。假设情景包括全球经济严重衰退，商业地产价格下跌 39%，住宅价格下跌 30%。失业率也飙升至 10%的峰值，经济产出相应下降。监管机构表示：“尽管在今年的假设情景下吸收了超过 7080 亿美元的贷款损失，但资本总额仅下降了 1.6 个百分点，仍高于最低资本要求。”",
     "media_only": false,
     "image_url": null,
@@ -51379,50 +51424,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3270277"
-  },
-  {
-    "post": "Financial_Express/3270276",
-    "datetime": "2026-06-22T20:41:58+00:00",
-    "views": "71",
-    "text": "高盛：卡塔尔液化天然气出口扩产将推迟两个月至 2026 年 9 月末，这一情况或推动 2026 年第四季度荷兰 TTF 天然气价格逼近 50 欧元 / 兆瓦时，高于该行此前 40 欧元 / 兆瓦时的预期。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3270276"
-  },
-  {
-    "post": "Financial_Express/3270275",
-    "datetime": "2026-06-22T20:41:57+00:00",
-    "views": "69",
-    "text": "塔斯尼姆通讯社消息：伊朗央行行长表示，依据现行相关协议，德黑兰并无义务从美国采购农业生产资料。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3270275"
-  },
-  {
-    "post": "Financial_Express/3270274",
-    "datetime": "2026-06-22T20:41:18+00:00",
-    "views": "64",
-    "text": "CFTC：资产管理公司美国国债期货净多头增加 对冲基金净空头增加\n截至 6 月 16 日当周，资产管理公司总体偏看涨美国国债期货，尤其是在长端显著增加净多头头寸。另一方面，对冲基金在多个期限的美国国债期货上增加净空头头寸。当周，从 10 年期国债期货到超长期国债合约，资产管理公司的净多头头寸合计增加 2020 万美元/DV01，其中大部分净增幅出现在长期国债期货，多头增加约 900 万美元/DV01。对冲基金当周最看空 10 年期国债期货，净空头头寸增加 650 万美元/DV01。其长期国债期货净空头头寸增加近 400 万美元/DV01。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3270274"
-  },
-  {
-    "post": "Financial_Express/3270273",
-    "datetime": "2026-06-22T20:41:17+00:00",
-    "views": "59",
-    "text": "美元指数 22 日上涨\n金十数据 6 月 23 日讯，衡量美元对六种主要货币的美元指数当天上涨 0.29%，在汇市尾市收于 101.024。截至纽约汇市尾市，1 欧元兑换 1.1424 美元，低于前一交易日的 1.1477 美元；1 英镑兑换 1.3244 美元，高于前一交易日的 1.3234 美元。1 美元兑换 161.42 日元，高于前一交易日的 161.26 日元；1 美元兑换 0.8091 瑞士法郎，高于前一交易日的 0.8066 瑞士法郎；1 美元兑换 1.4157 加元，低于前一交易日的 1.4174 加元；1 美元兑换 9.6212 瑞典克朗，高于前一交易日的 9.5742 瑞典克朗。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3270273"
-  },
-  {
-    "post": "Financial_Express/3270272",
-    "datetime": "2026-06-22T20:40:57+00:00",
-    "views": "53",
-    "text": "美元指数 22 日上涨\n美元指数 22 日上涨。衡量美元对六种主要货币的美元指数当天上涨 0.29%，在汇市尾市收于 101.024。截至纽约汇市尾市，1 欧元兑换 1.1424 美元，低于前一交易日的 1.1477 美元；1 英镑兑换 1.3244 美元，高于前一交易日的 1.3234 美元。1 美元兑换 161.42 日元，高于前一交易日的 161.26 日元；1 美元兑换 0.8091 瑞士法郎，高于前一交易日的 0.8066 瑞士法郎；1 美元兑换 1.4157 加元，低于前一交易日的 1.4174 加元；1 美元兑换 9.6212 瑞典克朗，高于前一交易日的 9.5742 瑞典克朗。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3270272"
   }
 ]
