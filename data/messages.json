@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3275678",
+    "datetime": "2026-06-24T17:10:18+00:00",
+    "views": "1",
+    "text": "美国总统特朗普：伊朗正在做出非常大的让步。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275678"
+  },
+  {
+    "post": "Financial_Express/3275677",
+    "datetime": "2026-06-24T17:10:17+00:00",
+    "views": "1",
+    "text": "博通 CEO：OpenAI 芯片标志着实验室转向构建定制硬件的趋势\n金十数据 6 月 25 日讯，博通首席执行官陈福阳表示，OpenAI 和博通共同开发的 Jalapeño AI 芯片的首次亮相，标志着 AI 实验室转向开发自有硬件和基础设施的趋势。陈福阳说：“这很好地验证了我们所建立的业务模式，这也就是，每个模型开发商——大语言模型前沿模型开发商——最终都将走向设计、构建自己的芯片、算力和计算开发，原因很简单，他们能做得更好。”陈福阳补充说，OpenAI 选择的全栈策略造就了一款就其用途而言“极佳”的芯片。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275677"
+  },
+  {
+    "post": "Financial_Express/3275676",
+    "datetime": "2026-06-24T17:09:58+00:00",
+    "views": "1",
+    "text": "雷诺法国人力资源负责人：公司计划在法国工程部门裁减 800 个职位（采取自愿离职方式），该部门现有员工总数为 5500 人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275676"
+  },
+  {
+    "post": "Financial_Express/3275675",
+    "datetime": "2026-06-24T17:09:17+00:00",
+    "views": "1",
+    "text": "法国人力资源主管称，雷诺计划在法国工程部门的 5500 名员工中，开展 800 例自愿裁员。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275675"
+  },
+  {
     "post": "Financial_Express/3275674",
     "datetime": "2026-06-24T17:07:57+00:00",
-    "views": "2",
+    "views": "33",
     "text": "据白宫随行记者团消息，特朗普车队已启程前往国会大厦。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3275673",
     "datetime": "2026-06-24T17:05:37+00:00",
-    "views": "33",
+    "views": "34",
     "text": "美伊两国正围绕和谈争夺舆论主导权\n美伊两国正围绕和谈争夺舆论主导权，双方针对拟议协议作出相互矛盾的表态。美国总统特朗普称伊朗已同意接受全面核核查，伊朗则表示核查人员不得进入本国核心核设施。副总统万斯称美、卡塔尔官员将共同监督伊朗海外资产解冻事宜，伊朗方面同样对此予以否认。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3275672",
     "datetime": "2026-06-24T17:02:57+00:00",
-    "views": "35",
+    "views": "96",
     "text": "美国财政部拍卖 700 亿美元五年期国债，得标利率 4.2%，投标倍数 2.35。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3275671",
     "datetime": "2026-06-24T17:02:37+00:00",
-    "views": "66",
+    "views": "96",
     "text": "据 CNN：美国总统特朗普目前正前​​往国会山，与参议院共和党人共进午餐。",
     "media_only": false,
     "image_url": null,
@@ -50272,14 +50308,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3270070"
-  },
-  {
-    "post": "Financial_Express/3270069",
-    "datetime": "2026-06-22T17:08:37+00:00",
-    "views": "110",
-    "text": "谷歌 DeepMind 与 A24 宣布达成研究合作关系。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3270069"
   }
 ]
