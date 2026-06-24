@@ -1,5 +1,37 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-06-24T11:12:27.635721+00:00","clsvipUpdated":"2026-06-24T11:12:40.121643+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">6月24日</h2><div class="feed"><article class="item" data-search="埃及政府将周日远程办公规定延长至 7 月底。"><div class="time">19:11</div><div class="content"><div class="text" data-full="埃及政府将周日远程办公规定延长至 7 月底。" data-short="埃及政府将周日远程办公规定延长至 7 月底。">埃及政府将周日远程办公规定延长至 7 月底。</div></div></article><article class="item" data-search="摩根大通将标普 500 指数年终点位目标上调至 7800 点，称前景正逐步接近“晴空”情景。"><div class="time">19:11</div><div class="content"><div class="text" data-full="摩根大通将标普 500 指数年终点位目标上调至 7800 点，称前景正逐步接近“晴空”情景。" data-short="摩根大通将标普 500 指数年终点位目标上调至 7800 点，称前景正逐步接近“晴空”情景。">摩根大通将标普 500 指数年终点位目标上调至 7800 点，称前景正逐步接近“晴空”情景。</div></div></article><article class="item" data-search="武汉启动 10 亿元 ai 科创基金
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-06-24T11:14:26.449717+00:00","clsvipUpdated":"2026-06-24T11:14:38.409107+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">6月24日</h2><div class="feed"><article class="item" data-search="武汉启动 10 亿元 ai 科创基金
+金十数据 6 月 24 日讯，今日，武汉市首支市级人工智能科创基金——武汉武创未来智能创业投资基金正式启动，总规模达 10 亿元。该基金由武创投、武汉基金、湖北省人形机器人母基金共同出资，聚焦人工智能、人形机器人、具身智能等前沿领域，重点支持人形机器人整机、高精度传感器、智能芯片等核心技术研发及产业化项目。"><div class="time">19:14</div><div class="content"><div class="text" data-full="武汉启动 10 亿元 AI 科创基金
+金十数据 6 月 24 日讯，今日，武汉市首支市级人工智能科创基金——武汉武创未来智能创业投资基金正式启动，总规模达 10 亿元。该基金由武创投、武汉基金、湖北省人形机器人母基金共同出资，聚焦人工智能、人形机器人、具身智能等前沿领域，重点支持人形机器人整机、高精度传感器、智能芯片等核心技术研发及产业化项目。" data-short="武汉启动 10 亿元 AI 科创基金
+金十数据 6 月 24 日讯，今日，武汉市首支市级人工智能科创基金——武汉武创未来智能创业投资基金正式启动，总规模达 10 亿元。该基金由武创投、武汉基金、湖北省人形机器人母基金共同出资，聚焦人工智能、人形机器人、具身智能等前沿领域，重点支持人形机器人整机、高精度传感器、智能芯片等核心技术研发及产业化项目。">武汉启动 10 亿元 AI 科创基金
+金十数据 6 月 24 日讯，今日，武汉市首支市级人工智能科创基金——武汉武创未来智能创业投资基金正式启动，总规模达 10 亿元。该基金由武创投、武汉基金、湖北省人形机器人母基金共同出资，聚焦人工智能、人形机器人、具身智能等前沿领域，重点支持人形机器人整机、高精度传感器、智能芯片等核心技术研发及产业化项目。</div></div></article><article class="item" data-search="现货白银日内跌 2%，现报 60.25 美元/盎司。"><div class="time">19:14</div><div class="content"><div class="text" data-full="现货白银日内跌 2%，现报 60.25 美元/盎司。" data-short="现货白银日内跌 2%，现报 60.25 美元/盎司。">现货白银日内跌 2%，现报 60.25 美元/盎司。</div></div></article><article class="item" data-search="新城市：望远科技、远方实业累计减持公司 2.12%股份
+新城市公告，持股 5%以上股东望远科技、远方实业减持计划时间届满。截至 2026 年 6 月 23 日，望远科技累计减持 316.5 万股，占公司总股本剔除回购专用账户后股本的比例为 1.58%；远方实业累计减持 108 万股，占比 0.54%。减持方式包括集中竞价和大宗交易。减持期间，望远科技因误操作构成短线交易，已上缴收益并收到深圳证监局警示函。减持后，望远科技持股比例降至 13.26%，远方实业持股比例降至 10.74%。"><div class="time">19:14</div><div class="content"><div class="text" data-full="新城市：望远科技、远方实业累计减持公司 2.12%股份
+新城市公告，持股 5%以上股东望远科技、远方实业减持计划时间届满。截至 2026 年 6 月 23 日，望远科技累计减持 316.5 万股，占公司总股本剔除回购专用账户后股本的比例为 1.58%；远方实业累计减持 108 万股，占比 0.54%。减持方式包括集中竞价和大宗交易。减持期间，望远科技因误操作构成短线交易，已上缴收益并收到深圳证监局警示函。减持后，望远科技持股比例降至 13.26%，远方实业持股比例降至 10.74%。" data-short="新城市：望远科技、远方实业累计减持公司 2.12%股份
+新城市公告，持股 5%以上股东望远科技、远方实业减持计划时间届满。截至 2026 年 6 月 23 日，望远科技累计减持 316.5 万股，占公司总股本剔除回购专用账户后股本的比例为 1.58%；远方实业累计减持 108 万股，占比 0.54%。减持方式包括集中竞价和大宗交易。减持期间，望远科技因误操作...">新城市：望远科技、远方实业累计减持公司 2.12%股份
+新城市公告，持股 5%以上股东望远科技、远方实业减持计划时间届满。截至 2026 年 6 月 23 日，望远科技累计减持 316.5 万股，占公司总股本剔除回购专用账户后股本的比例为 1.58%；远方实业累计减持 108 万股，占比 0.54%。减持方式包括集中竞价和大宗交易。减持期间，望远科技因误操作...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="退市太和：第五次提示公司股票退市整理期交易风险
+退市太和公告称，公司股票于 2026 年 6 月 8 日进入退市整理期，预计最后交易日为 6 月 29 日。退市整理期为 15 个交易日，期满后 5 个交易日内将被上交所摘牌，终止上市。首个交易日无涨跌幅限制，此后每日 10%。期间公司不筹划或实施重大资产重组，投资者应提前了结相关业务，司法冻结建议提前续冻，提醒投资者审慎投资、注意风险。"><div class="time">19:13</div><div class="content"><div class="text" data-full="退市太和：第五次提示公司股票退市整理期交易风险
+退市太和公告称，公司股票于 2026 年 6 月 8 日进入退市整理期，预计最后交易日为 6 月 29 日。退市整理期为 15 个交易日，期满后 5 个交易日内将被上交所摘牌，终止上市。首个交易日无涨跌幅限制，此后每日 10%。期间公司不筹划或实施重大资产重组，投资者应提前了结相关业务，司法冻结建议提前续冻，提醒投资者审慎投资、注意风险。" data-short="退市太和：第五次提示公司股票退市整理期交易风险
+退市太和公告称，公司股票于 2026 年 6 月 8 日进入退市整理期，预计最后交易日为 6 月 29 日。退市整理期为 15 个交易日，期满后 5 个交易日内将被上交所摘牌，终止上市。首个交易日无涨跌幅限制，此后每日 10%。期间公司不筹划或实施重大资产重组，投资者应提前了结相关业务，司法冻结建议提前续冻，提...">退市太和：第五次提示公司股票退市整理期交易风险
+退市太和公告称，公司股票于 2026 年 6 月 8 日进入退市整理期，预计最后交易日为 6 月 29 日。退市整理期为 15 个交易日，期满后 5 个交易日内将被上交所摘牌，终止上市。首个交易日无涨跌幅限制，此后每日 10%。期间公司不筹划或实施重大资产重组，投资者应提前了结相关业务，司法冻结建议提前续冻，提...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="出人意料、原因不明！上任仅 18 个月，美军又一名四星上将被爆将提前离职
+据英国《金融时报》、美联社报道，美国陆军当地时间 23 日晚证实，美国驻欧洲与非洲陆军司令、四星上将克里斯托弗·多纳休在上任仅 18 个月后，将被美国防部长赫格塞思提前解除职务。 据报道介绍，多纳休曾在伊拉克、叙利亚等地区服役，在美国前总统拜登 2021 年下令美军撤离阿富汗后，多纳休成为最后一名离开阿富汗的美军人员。 报道称，在赫格塞思解雇美国四星上将、陆军参谋长兰迪·乔治仅两个月后，多纳休就被迫离职，此举在美军军官中引发不满。《金融时报》在报道中直言，多纳休是在赫格塞思的“迫使”下离职的，此次解职将在美军内部引发又一次震动。 目前尚不清楚赫格塞思为何要将多纳休解职，但赫格塞思一直公开批评拜登政府处理撤军的方式，并已下令对撤军背后的情况进行调查。 （环球网）"><div class="time">19:13</div><div class="content"><div class="text" data-full="出人意料、原因不明！上任仅 18 个月，美军又一名四星上将被爆将提前离职
+据英国《金融时报》、美联社报道，美国陆军当地时间 23 日晚证实，美国驻欧洲与非洲陆军司令、四星上将克里斯托弗·多纳休在上任仅 18 个月后，将被美国防部长赫格塞思提前解除职务。 据报道介绍，多纳休曾在伊拉克、叙利亚等地区服役，在美国前总统拜登 2021 年下令美军撤离阿富汗后，多纳休成为最后一名离开阿富汗的美军人员。 报道称，在赫格塞思解雇美国四星上将、陆军参谋长兰迪·乔治仅两个月后，多纳休就被迫离职，此举在美军军官中引发不满。《金融时报》在报道中直言，多纳休是在赫格塞思的“迫使”下离职的，此次解职将在美军内部引发又一次震动。 目前尚不清楚赫格塞思为何要将多纳休解职，但赫格塞思一直公开批评拜登政府处理撤军的方式，并已下令对撤军背后的情况进行调查。 （环球网）" data-short="出人意料、原因不明！上任仅 18 个月，美军又一名四星上将被爆将提前离职
+据英国《金融时报》、美联社报道，美国陆军当地时间 23 日晚证实，美国驻欧洲与非洲陆军司令、四星上将克里斯托弗·多纳休在上任仅 18 个月后，将被美国防部长赫格塞思提前解除职务。 据报道介绍，多纳休曾在伊拉克、叙利亚等地区服役，在美国前总统拜登 2021 年下令美军撤离阿富汗后，多纳休...">出人意料、原因不明！上任仅 18 个月，美军又一名四星上将被爆将提前离职
+据英国《金融时报》、美联社报道，美国陆军当地时间 23 日晚证实，美国驻欧洲与非洲陆军司令、四星上将克里斯托弗·多纳休在上任仅 18 个月后，将被美国防部长赫格塞思提前解除职务。 据报道介绍，多纳休曾在伊拉克、叙利亚等地区服役，在美国前总统拜登 2021 年下令美军撤离阿富汗后，多纳休...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="摩根大通：将标普 500 指数年末目标上调至 7,800 点，前景正接近“晴空”情景。"><div class="time">19:13</div><div class="content"><div class="text" data-full="摩根大通：将标普 500 指数年末目标上调至 7,800 点，前景正接近“晴空”情景。" data-short="摩根大通：将标普 500 指数年末目标上调至 7,800 点，前景正接近“晴空”情景。">摩根大通：将标普 500 指数年末目标上调至 7,800 点，前景正接近“晴空”情景。</div></div></article><article class="item" data-search="金桥信息：拟认缴出资人民币 1000 万元参与设立嘉兴恒致创见创业投资合伙企业
+金桥信息公告，拟认缴出资人民币 1000 万元参与设立嘉兴恒致创见创业投资合伙企业，基金募资规模为人民币 1.06 亿元，公司担任有限合伙人。"><div class="time">19:13</div><div class="content"><div class="text" data-full="金桥信息：拟认缴出资人民币 1000 万元参与设立嘉兴恒致创见创业投资合伙企业
+金桥信息公告，拟认缴出资人民币 1000 万元参与设立嘉兴恒致创见创业投资合伙企业，基金募资规模为人民币 1.06 亿元，公司担任有限合伙人。" data-short="金桥信息：拟认缴出资人民币 1000 万元参与设立嘉兴恒致创见创业投资合伙企业
+金桥信息公告，拟认缴出资人民币 1000 万元参与设立嘉兴恒致创见创业投资合伙企业，基金募资规模为人民币 1.06 亿元，公司担任有限合伙人。">金桥信息：拟认缴出资人民币 1000 万元参与设立嘉兴恒致创见创业投资合伙企业
+金桥信息公告，拟认缴出资人民币 1000 万元参与设立嘉兴恒致创见创业投资合伙企业，基金募资规模为人民币 1.06 亿元，公司担任有限合伙人。</div></div></article><article class="item" data-search="我国加快推进节能降碳 厚植高质量发展的绿色底色
+记者日前在调研中了解到，各方正在以更大力度推进节能降碳工作，着力开展重点行业节能降碳改造，厚植高质量发展的绿色底色。在位于重庆江津区的重庆枢纽港产业园，华能珞璜电厂通过蒸汽管网将工业蒸汽精准输送给园区内 33 家企业。电厂产生的脱硫石膏、粉煤灰等工业固废，还可被下游企业全额消纳，变身为石膏板、加气砖等绿色建材。&#34;传统使用锅炉的企业依赖天然气或生物质燃料，每生产 1 吨蒸汽仅燃气成本就达 240 元，还需叠加设备运维费，而使用电厂蒸汽成本更低、更安全、更环保。&#34;重庆珞川新型建材有限公司负责人说，园区具有丰富的绿色能源优势，让企业安心落户扎根。节能降碳，产业园区和企业是主力军。从加强资源要素保障，到完善梯度培育体系，各方创新政策举措，加快提升产业发展含&#34;绿&#34;量。截至目前，我国已经累计培育国家绿色工厂、绿色工业园区、绿色供应链管理企业近万家，规模以上工业单位增加值能耗、水耗不断降低。（新华社）"><div class="time">19:13</div><div class="content"><div class="text" data-full="我国加快推进节能降碳 厚植高质量发展的绿色底色
+记者日前在调研中了解到，各方正在以更大力度推进节能降碳工作，着力开展重点行业节能降碳改造，厚植高质量发展的绿色底色。在位于重庆江津区的重庆枢纽港产业园，华能珞璜电厂通过蒸汽管网将工业蒸汽精准输送给园区内 33 家企业。电厂产生的脱硫石膏、粉煤灰等工业固废，还可被下游企业全额消纳，变身为石膏板、加气砖等绿色建材。&#34;传统使用锅炉的企业依赖天然气或生物质燃料，每生产 1 吨蒸汽仅燃气成本就达 240 元，还需叠加设备运维费，而使用电厂蒸汽成本更低、更安全、更环保。&#34;重庆珞川新型建材有限公司负责人说，园区具有丰富的绿色能源优势，让企业安心落户扎根。节能降碳，产业园区和企业是主力军。从加强资源要素保障，到完善梯度培育体系，各方创新政策举措，加快提升产业发展含&#34;绿&#34;量。截至目前，我国已经累计培育国家绿色工厂、绿色工业园区、绿色供应链管理企业近万家，规模以上工业单位增加值能耗、水耗不断降低。（新华社）" data-short="我国加快推进节能降碳 厚植高质量发展的绿色底色
+记者日前在调研中了解到，各方正在以更大力度推进节能降碳工作，着力开展重点行业节能降碳改造，厚植高质量发展的绿色底色。在位于重庆江津区的重庆枢纽港产业园，华能珞璜电厂通过蒸汽管网将工业蒸汽精准输送给园区内 33 家企业。电厂产生的脱硫石膏、粉煤灰等工业固废，还可被下游企业全额消纳，变身为石膏板、加气砖等绿色建材。...">我国加快推进节能降碳 厚植高质量发展的绿色底色
+记者日前在调研中了解到，各方正在以更大力度推进节能降碳工作，着力开展重点行业节能降碳改造，厚植高质量发展的绿色底色。在位于重庆江津区的重庆枢纽港产业园，华能珞璜电厂通过蒸汽管网将工业蒸汽精准输送给园区内 33 家企业。电厂产生的脱硫石膏、粉煤灰等工业固废，还可被下游企业全额消纳，变身为石膏板、加气砖等绿色建材。...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="st 海龙：一致行动人玖融普信拟增持不低于 2000 万元公司股份
+st 海龙公告，公司第一大股东温州康南科技有限公司的一致行动人玖融普信（北京）企业管理有限公司计划自公告披露之日起 6 个月内，通过深圳证券交易所集中竞价交易方式增持公司股份，增持金额不低于人民币 2000 万元，不超过人民币 4000 万元，不设定价格区间。玖融普信目前持有公司股份 6200 万股，占公司总股本 7.18%，与康南科技合计持有 2 亿股，占 23.15%。"><div class="time">19:13</div><div class="content"><div class="text" data-full="ST 海龙：一致行动人玖融普信拟增持不低于 2000 万元公司股份
+ST 海龙公告，公司第一大股东温州康南科技有限公司的一致行动人玖融普信（北京）企业管理有限公司计划自公告披露之日起 6 个月内，通过深圳证券交易所集中竞价交易方式增持公司股份，增持金额不低于人民币 2000 万元，不超过人民币 4000 万元，不设定价格区间。玖融普信目前持有公司股份 6200 万股，占公司总股本 7.18%，与康南科技合计持有 2 亿股，占 23.15%。" data-short="ST 海龙：一致行动人玖融普信拟增持不低于 2000 万元公司股份
+ST 海龙公告，公司第一大股东温州康南科技有限公司的一致行动人玖融普信（北京）企业管理有限公司计划自公告披露之日起 6 个月内，通过深圳证券交易所集中竞价交易方式增持公司股份，增持金额不低于人民币 2000 万元，不超过人民币 4000 万元，不设定价格区间。玖融普信目前持有公司股份 620...">ST 海龙：一致行动人玖融普信拟增持不低于 2000 万元公司股份
+ST 海龙公告，公司第一大股东温州康南科技有限公司的一致行动人玖融普信（北京）企业管理有限公司计划自公告披露之日起 6 个月内，通过深圳证券交易所集中竞价交易方式增持公司股份，增持金额不低于人民币 2000 万元，不超过人民币 4000 万元，不设定价格区间。玖融普信目前持有公司股份 620...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="具身智能公司临界点完成近 10 亿元融资
+具身智能公司临界点完成近 10 亿元融资，跻身 10 亿美元独角兽，本轮投资方包括未来资产、某互联网大厂、京铭资本等战略与产业资本联合领投，东风资产、国信中数、上海电科基金等产业资源方，以及清新资本、凯联资本、普华资本、天季资本、we venture、箴言投资、明嘉资本等机构参与投资，高瓴创投、蓝驰创投、c 资本等老股东持续加注。本轮资金将集中投入三个方向：量产能力的持续扩大、灵巧操作数据飞轮的搭建，以及接触智能模型的下一阶段研发。"><div class="time">19:12</div><div class="content"><div class="text" data-full="具身智能公司临界点完成近 10 亿元融资
+具身智能公司临界点完成近 10 亿元融资，跻身 10 亿美元独角兽，本轮投资方包括未来资产、某互联网大厂、京铭资本等战略与产业资本联合领投，东风资产、国信中数、上海电科基金等产业资源方，以及清新资本、凯联资本、普华资本、天季资本、We Venture、箴言投资、明嘉资本等机构参与投资，高瓴创投、蓝驰创投、C 资本等老股东持续加注。本轮资金将集中投入三个方向：量产能力的持续扩大、灵巧操作数据飞轮的搭建，以及接触智能模型的下一阶段研发。" data-short="具身智能公司临界点完成近 10 亿元融资
+具身智能公司临界点完成近 10 亿元融资，跻身 10 亿美元独角兽，本轮投资方包括未来资产、某互联网大厂、京铭资本等战略与产业资本联合领投，东风资产、国信中数、上海电科基金等产业资源方，以及清新资本、凯联资本、普华资本、天季资本、We Venture、箴言投资、明嘉资本等机构参与投资，高瓴创投、蓝驰创投、C 资本等老...">具身智能公司临界点完成近 10 亿元融资
+具身智能公司临界点完成近 10 亿元融资，跻身 10 亿美元独角兽，本轮投资方包括未来资产、某互联网大厂、京铭资本等战略与产业资本联合领投，东风资产、国信中数、上海电科基金等产业资源方，以及清新资本、凯联资本、普华资本、天季资本、We Venture、箴言投资、明嘉资本等机构参与投资，高瓴创投、蓝驰创投、C 资本等老...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="至少还有 35 艘其他商船——主要是干散货船、货轮和集装箱船——正准备驶过霍尔木兹海峡。"><div class="time">19:12</div><div class="content"><div class="text" data-full="至少还有 35 艘其他商船——主要是干散货船、货轮和集装箱船——正准备驶过霍尔木兹海峡。" data-short="至少还有 35 艘其他商船——主要是干散货船、货轮和集装箱船——正准备驶过霍尔木兹海峡。">至少还有 35 艘其他商船——主要是干散货船、货轮和集装箱船——正准备驶过霍尔木兹海峡。</div></div></article><article class="item" data-search="埃及政府将周日远程办公规定延长至 7 月底。"><div class="time">19:11</div><div class="content"><div class="text" data-full="埃及政府将周日远程办公规定延长至 7 月底。" data-short="埃及政府将周日远程办公规定延长至 7 月底。">埃及政府将周日远程办公规定延长至 7 月底。</div></div></article><article class="item" data-search="摩根大通将标普 500 指数年终点位目标上调至 7800 点，称前景正逐步接近“晴空”情景。"><div class="time">19:11</div><div class="content"><div class="text" data-full="摩根大通将标普 500 指数年终点位目标上调至 7800 点，称前景正逐步接近“晴空”情景。" data-short="摩根大通将标普 500 指数年终点位目标上调至 7800 点，称前景正逐步接近“晴空”情景。">摩根大通将标普 500 指数年终点位目标上调至 7800 点，称前景正逐步接近“晴空”情景。</div></div></article><article class="item" data-search="武汉启动 10 亿元 ai 科创基金
 今日，武汉市首支市级人工智能科创基金——武汉武创未来智能创业投资基金正式启动，总规模达 10 亿元。该基金由武创投、武汉基金、湖北省人形机器人母基金共同出资，聚焦人工智能、人形机器人、具身智能等前沿领域，重点支持人形机器人整机、高精度传感器、智能芯片等核心技术研发及产业化项目。"><div class="time">19:11</div><div class="content"><div class="text" data-full="武汉启动 10 亿元 AI 科创基金
 今日，武汉市首支市级人工智能科创基金——武汉武创未来智能创业投资基金正式启动，总规模达 10 亿元。该基金由武创投、武汉基金、湖北省人形机器人母基金共同出资，聚焦人工智能、人形机器人、具身智能等前沿领域，重点支持人形机器人整机、高精度传感器、智能芯片等核心技术研发及产业化项目。" data-short="武汉启动 10 亿元 AI 科创基金
 今日，武汉市首支市级人工智能科创基金——武汉武创未来智能创业投资基金正式启动，总规模达 10 亿元。该基金由武创投、武汉基金、湖北省人形机器人母基金共同出资，聚焦人工智能、人形机器人、具身智能等前沿领域，重点支持人形机器人整机、高精度传感器、智能芯片等核心技术研发及产业化项目。">武汉启动 10 亿元 AI 科创基金
@@ -647,47 +679,7 @@ LME 锌主力合约跌超 2%，现报 3430.5 美元/吨。</div></div></article>
 美元上涨 0.1%，至 161.75 日元，周一曾触及 161.92 日元的 39 年半高点。"><div class="time">17:26</div><div class="content"><div class="text" data-full="汇率干预前景限制日元跌势
 美元上涨 0.1%，至 161.75 日元，周一曾触及 161.92 日元的 39 年半高点。" data-short="汇率干预前景限制日元跌势
 美元上涨 0.1%，至 161.75 日元，周一曾触及 161.92 日元的 39 年半高点。">汇率干预前景限制日元跌势
-美元上涨 0.1%，至 161.75 日元，周一曾触及 161.92 日元的 39 年半高点。</div></div></article><article class="item" data-search="法国 5 月零售销量同比下降 0.3%。"><div class="time">17:26</div><div class="content"><div class="text" data-full="法国 5 月零售销量同比下降 0.3%。" data-short="法国 5 月零售销量同比下降 0.3%。">法国 5 月零售销量同比下降 0.3%。</div></div></article><article class="item" data-search="北森转型 ai 应用公司，发布 ai hr 专家平台 mavens
-其 2025 年 ai 产品合同额 8700 万元，同比增长 10 倍。"><div class="time">17:26</div><div class="content"><div class="text" data-full="北森转型 AI 应用公司，发布 AI HR 专家平台 Mavens
-其 2025 年 AI 产品合同额 8700 万元，同比增长 10 倍。" data-short="北森转型 AI 应用公司，发布 AI HR 专家平台 Mavens
-其 2025 年 AI 产品合同额 8700 万元，同比增长 10 倍。">北森转型 AI 应用公司，发布 AI HR 专家平台 Mavens
-其 2025 年 AI 产品合同额 8700 万元，同比增长 10 倍。</div></div></article><article class="item" data-search="华电煤业旗下海运公司等成立新公司 注册资本 6000 万
-天眼查 app 显示，近日，华远星（湖北）航运有限公司成立，法定代表人为程建国，注册资本 6000 万人民币，经营范围包括水路普通货物运输、国内船舶管理业务、船舶修理、船舶检验服务等。股东信息显示，该公司由华电煤业旗下华远星海运有限公司、华电长江（湖北）智慧能源科技有限公司共同持股。"><div class="time">17:25</div><div class="content"><div class="text" data-full="华电煤业旗下海运公司等成立新公司 注册资本 6000 万
-天眼查 App 显示，近日，华远星（湖北）航运有限公司成立，法定代表人为程建国，注册资本 6000 万人民币，经营范围包括水路普通货物运输、国内船舶管理业务、船舶修理、船舶检验服务等。股东信息显示，该公司由华电煤业旗下华远星海运有限公司、华电长江（湖北）智慧能源科技有限公司共同持股。" data-short="华电煤业旗下海运公司等成立新公司 注册资本 6000 万
-天眼查 App 显示，近日，华远星（湖北）航运有限公司成立，法定代表人为程建国，注册资本 6000 万人民币，经营范围包括水路普通货物运输、国内船舶管理业务、船舶修理、船舶检验服务等。股东信息显示，该公司由华电煤业旗下华远星海运有限公司、华电长江（湖北）智慧能源科技有限公司共同持股。">华电煤业旗下海运公司等成立新公司 注册资本 6000 万
-天眼查 App 显示，近日，华远星（湖北）航运有限公司成立，法定代表人为程建国，注册资本 6000 万人民币，经营范围包括水路普通货物运输、国内船舶管理业务、船舶修理、船舶检验服务等。股东信息显示，该公司由华电煤业旗下华远星海运有限公司、华电长江（湖北）智慧能源科技有限公司共同持股。</div></div></article><article class="item" data-search="北大荒今日跌停，有 2 家机构专用席位净卖出 2.00 亿元
-沪股通专用席位买入 1725.31 万元并卖出 2900.38 万元，有 2 家机构专用席位净卖出 2.00 亿元。"><div class="time">17:24</div><div class="content"><div class="text" data-full="北大荒今日跌停，有 2 家机构专用席位净卖出 2.00 亿元
-沪股通专用席位买入 1725.31 万元并卖出 2900.38 万元，有 2 家机构专用席位净卖出 2.00 亿元。" data-short="北大荒今日跌停，有 2 家机构专用席位净卖出 2.00 亿元
-沪股通专用席位买入 1725.31 万元并卖出 2900.38 万元，有 2 家机构专用席位净卖出 2.00 亿元。">北大荒今日跌停，有 2 家机构专用席位净卖出 2.00 亿元
-沪股通专用席位买入 1725.31 万元并卖出 2900.38 万元，有 2 家机构专用席位净卖出 2.00 亿元。</div></div></article><article class="item" data-search="三孚股份：股价异常波动 提醒投资者注意风险
-金十数据 6 月 24 日讯，三孚股份公告称，公司股票于 2026 年 6 月 18 日、22 日、23 日连续三个交易日内收盘价格涨幅偏离值累计超 20%，24 日再次涨停。截至 6 月 23 日，公司滚动市盈率达 270.40，显著高于行业平均值 28.40，连续 4 个交易日累计换手率为 37.64%。经核查，公司未发现需澄清的媒体报道或传闻，日常经营、重大事项等均正常，未发现相关人员在异常波动期间买卖公司股票。提醒投资者理性决策，注意风险。"><div class="time">17:24</div><div class="content"><div class="text" data-full="三孚股份：股价异常波动 提醒投资者注意风险
-金十数据 6 月 24 日讯，三孚股份公告称，公司股票于 2026 年 6 月 18 日、22 日、23 日连续三个交易日内收盘价格涨幅偏离值累计超 20%，24 日再次涨停。截至 6 月 23 日，公司滚动市盈率达 270.40，显著高于行业平均值 28.40，连续 4 个交易日累计换手率为 37.64%。经核查，公司未发现需澄清的媒体报道或传闻，日常经营、重大事项等均正常，未发现相关人员在异常波动期间买卖公司股票。提醒投资者理性决策，注意风险。" data-short="三孚股份：股价异常波动 提醒投资者注意风险
-金十数据 6 月 24 日讯，三孚股份公告称，公司股票于 2026 年 6 月 18 日、22 日、23 日连续三个交易日内收盘价格涨幅偏离值累计超 20%，24 日再次涨停。截至 6 月 23 日，公司滚动市盈率达 270.40，显著高于行业平均值 28.40，连续 4 个交易日累计换手率为 37.64%。经核查...">三孚股份：股价异常波动 提醒投资者注意风险
-金十数据 6 月 24 日讯，三孚股份公告称，公司股票于 2026 年 6 月 18 日、22 日、23 日连续三个交易日内收盘价格涨幅偏离值累计超 20%，24 日再次涨停。截至 6 月 23 日，公司滚动市盈率达 270.40，显著高于行业平均值 28.40，连续 4 个交易日累计换手率为 37.64%。经核查...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="山东黄金：拟选举王成龙为第七届董事会非独立董事
-山东黄金公告称，公司 2026 年第二次临时股东会将于 7 月 10 日 9:30 召开，拟采用累积投票制选举王成龙为第七届董事会非独立董事，任期自股东会选举通过之日起至第七届董事会届满之日止。王成龙现任公司副总工程师、运营管理部部长，未持有公司股份，无关联关系，符合任职资格。本次会议采用现场投票与网络投票结合方式，网络投票时间为 7 月 10 日 9:15 - 15:00。"><div class="time">17:23</div><div class="content"><div class="text" data-full="山东黄金：拟选举王成龙为第七届董事会非独立董事
-山东黄金公告称，公司 2026 年第二次临时股东会将于 7 月 10 日 9:30 召开，拟采用累积投票制选举王成龙为第七届董事会非独立董事，任期自股东会选举通过之日起至第七届董事会届满之日止。王成龙现任公司副总工程师、运营管理部部长，未持有公司股份，无关联关系，符合任职资格。本次会议采用现场投票与网络投票结合方式，网络投票时间为 7 月 10 日 9:15 - 15:00。" data-short="山东黄金：拟选举王成龙为第七届董事会非独立董事
-山东黄金公告称，公司 2026 年第二次临时股东会将于 7 月 10 日 9:30 召开，拟采用累积投票制选举王成龙为第七届董事会非独立董事，任期自股东会选举通过之日起至第七届董事会届满之日止。王成龙现任公司副总工程师、运营管理部部长，未持有公司股份，无关联关系，符合任职资格。本次会议采用现场投票与网络投票结合...">山东黄金：拟选举王成龙为第七届董事会非独立董事
-山东黄金公告称，公司 2026 年第二次临时股东会将于 7 月 10 日 9:30 召开，拟采用累积投票制选举王成龙为第七届董事会非独立董事，任期自股东会选举通过之日起至第七届董事会届满之日止。王成龙现任公司副总工程师、运营管理部部长，未持有公司股份，无关联关系，符合任职资格。本次会议采用现场投票与网络投票结合...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="俞浩：追觅核心管理层约 200 人 年离职率不足 5 人
-追觅创始人俞浩在“2026 夏季达沃斯论坛”做分享时透露，追觅核心管理层约 200 人，年离职率不足 5 人，外界报道的离职个案被放大，实际团队极其稳定。"><div class="time">17:23</div><div class="content"><div class="text" data-full="俞浩：追觅核心管理层约 200 人 年离职率不足 5 人
-追觅创始人俞浩在“2026 夏季达沃斯论坛”做分享时透露，追觅核心管理层约 200 人，年离职率不足 5 人，外界报道的离职个案被放大，实际团队极其稳定。" data-short="俞浩：追觅核心管理层约 200 人 年离职率不足 5 人
-追觅创始人俞浩在“2026 夏季达沃斯论坛”做分享时透露，追觅核心管理层约 200 人，年离职率不足 5 人，外界报道的离职个案被放大，实际团队极其稳定。">俞浩：追觅核心管理层约 200 人 年离职率不足 5 人
-追觅创始人俞浩在“2026 夏季达沃斯论坛”做分享时透露，追觅核心管理层约 200 人，年离职率不足 5 人，外界报道的离职个案被放大，实际团队极其稳定。</div></div></article><article class="item" data-search="天龙退：股票进入退市整理期 剩余 10 个交易日将摘牌
-天龙退公告称，公司股票于 2026 年 6 月 18 日起进入退市整理期，预计最后交易日期为 2026 年 7 月 9 日。本公告披露日为第 5 个交易日，剩余 10 个交易日，交易期满将被终止上市。退市整理期首个交易日不实行价格涨跌幅限制，此后每日涨跌幅限制为 20%。公司股票终止上市后，将转入全国股转公司代为管理的退市板块进行转让。公司在退市整理期不筹划或实施重大资产重组，提醒投资者审慎投资、注意风险。"><div class="time">17:23</div><div class="content"><div class="text" data-full="天龙退：股票进入退市整理期 剩余 10 个交易日将摘牌
-天龙退公告称，公司股票于 2026 年 6 月 18 日起进入退市整理期，预计最后交易日期为 2026 年 7 月 9 日。本公告披露日为第 5 个交易日，剩余 10 个交易日，交易期满将被终止上市。退市整理期首个交易日不实行价格涨跌幅限制，此后每日涨跌幅限制为 20%。公司股票终止上市后，将转入全国股转公司代为管理的退市板块进行转让。公司在退市整理期不筹划或实施重大资产重组，提醒投资者审慎投资、注意风险。" data-short="天龙退：股票进入退市整理期 剩余 10 个交易日将摘牌
-天龙退公告称，公司股票于 2026 年 6 月 18 日起进入退市整理期，预计最后交易日期为 2026 年 7 月 9 日。本公告披露日为第 5 个交易日，剩余 10 个交易日，交易期满将被终止上市。退市整理期首个交易日不实行价格涨跌幅限制，此后每日涨跌幅限制为 20%。公司股票终止上市后，将转入全国股...">天龙退：股票进入退市整理期 剩余 10 个交易日将摘牌
-天龙退公告称，公司股票于 2026 年 6 月 18 日起进入退市整理期，预计最后交易日期为 2026 年 7 月 9 日。本公告披露日为第 5 个交易日，剩余 10 个交易日，交易期满将被终止上市。退市整理期首个交易日不实行价格涨跌幅限制，此后每日涨跌幅限制为 20%。公司股票终止上市后，将转入全国股...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="明晟新兴市场货币指数抹平 2026 年年内涨幅。"><div class="time">17:22</div><div class="content"><div class="text" data-full="明晟新兴市场货币指数抹平 2026 年年内涨幅。" data-short="明晟新兴市场货币指数抹平 2026 年年内涨幅。">明晟新兴市场货币指数抹平 2026 年年内涨幅。</div></div></article><article class="item" data-search="海南矿业：涠洲 10 - 3 油田西区开发项目近日投产
-海南矿业公告称，其全资子公司洛克渤海与中海油、智慧石油合作开发的涠洲 10 - 3 油田西区项目近日投产。洛克渤海担任作业者，权益比例 35%。按方案，今年四季度项目将达日产 10000 桶高峰产量，有助于保障原油产量接续稳定，为油气业务发展提供支撑。不过，受市场、油价等因素影响，项目能否达预期存在不确定性，提醒投资者注意风险。"><div class="time">17:22</div><div class="content"><div class="text" data-full="海南矿业：涠洲 10 - 3 油田西区开发项目近日投产
-海南矿业公告称，其全资子公司洛克渤海与中海油、智慧石油合作开发的涠洲 10 - 3 油田西区项目近日投产。洛克渤海担任作业者，权益比例 35%。按方案，今年四季度项目将达日产 10000 桶高峰产量，有助于保障原油产量接续稳定，为油气业务发展提供支撑。不过，受市场、油价等因素影响，项目能否达预期存在不确定性，提醒投资者注意风险。" data-short="海南矿业：涠洲 10 - 3 油田西区开发项目近日投产
-海南矿业公告称，其全资子公司洛克渤海与中海油、智慧石油合作开发的涠洲 10 - 3 油田西区项目近日投产。洛克渤海担任作业者，权益比例 35%。按方案，今年四季度项目将达日产 10000 桶高峰产量，有助于保障原油产量接续稳定，为油气业务发展提供支撑。不过，受市场、油价等因素影响，项目能否达预期存在不确...">海南矿业：涠洲 10 - 3 油田西区开发项目近日投产
-海南矿业公告称，其全资子公司洛克渤海与中海油、智慧石油合作开发的涠洲 10 - 3 油田西区项目近日投产。洛克渤海担任作业者，权益比例 35%。按方案，今年四季度项目将达日产 10000 桶高峰产量，有助于保障原油产量接续稳定，为油气业务发展提供支撑。不过，受市场、油价等因素影响，项目能否达预期存在不确...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="《可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法》发布 自今年 8 月 1 日起施行
-国家发展改革委、工业和信息化部、住房和城乡建设部、交通运输部等四部门近日联合公布《可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法》，明确扩大可再生能源消费、促进可再生能源消纳的具体举措，自今年 8 月 1 日起施行。《办法》聚焦工业、建筑和交通等重点领域，对重点行业、新兴领域及新能源领域制造业等开展监测考核。其中，首次将可再生能源的非电利用纳入考核范围。这意味着，除了绿电，企业使用绿氢、绿氨、绿色甲醇等非电形式的可再生能源，也将被计入消费目标。对于可再生能源电力消纳责任权重，《办法》也进行了优化：对不同地区差异化设置年度增长指标，促进绿电在全国范围内优化配置。（工信微报）"><div class="time">17:22</div><div class="content"><div class="text" data-full="《可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法》发布 自今年 8 月 1 日起施行
-国家发展改革委、工业和信息化部、住房和城乡建设部、交通运输部等四部门近日联合公布《可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法》，明确扩大可再生能源消费、促进可再生能源消纳的具体举措，自今年 8 月 1 日起施行。《办法》聚焦工业、建筑和交通等重点领域，对重点行业、新兴领域及新能源领域制造业等开展监测考核。其中，首次将可再生能源的非电利用纳入考核范围。这意味着，除了绿电，企业使用绿氢、绿氨、绿色甲醇等非电形式的可再生能源，也将被计入消费目标。对于可再生能源电力消纳责任权重，《办法》也进行了优化：对不同地区差异化设置年度增长指标，促进绿电在全国范围内优化配置。（工信微报）" data-short="《可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法》发布 自今年 8 月 1 日起施行
-国家发展改革委、工业和信息化部、住房和城乡建设部、交通运输部等四部门近日联合公布《可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法》，明确扩大可再生能源消费、促进可再生能源消纳的具体举措，自今年 8 月 1 日起施行。《办法》聚焦工业、...">《可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法》发布 自今年 8 月 1 日起施行
-国家发展改革委、工业和信息化部、住房和城乡建设部、交通运输部等四部门近日联合公布《可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法》，明确扩大可再生能源消费、促进可再生能源消纳的具体举措，自今年 8 月 1 日起施行。《办法》聚焦工业、...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="三孚股份：股价异常波动 提醒投资者注意风险
-三孚股份公告称，公司股票于 2026 年 6 月 18 日、22 日、23 日连续三个交易日内收盘价格涨幅偏离值累计超 20%，24 日再次涨停。截至 6 月 23 日，公司滚动市盈率达 270.40，显著高于行业平均值 28.40，连续 4 个交易日累计换手率为 37.64%。经核查，公司未发现需澄清的媒体报道或传闻，日常经营、重大事项等均正常，未发现相关人员在异常波动期间买卖公司股票。提醒投资者理性决策，注意风险。"><div class="time">17:22</div><div class="content"><div class="text" data-full="三孚股份：股价异常波动 提醒投资者注意风险
-三孚股份公告称，公司股票于 2026 年 6 月 18 日、22 日、23 日连续三个交易日内收盘价格涨幅偏离值累计超 20%，24 日再次涨停。截至 6 月 23 日，公司滚动市盈率达 270.40，显著高于行业平均值 28.40，连续 4 个交易日累计换手率为 37.64%。经核查，公司未发现需澄清的媒体报道或传闻，日常经营、重大事项等均正常，未发现相关人员在异常波动期间买卖公司股票。提醒投资者理性决策，注意风险。" data-short="三孚股份：股价异常波动 提醒投资者注意风险
-三孚股份公告称，公司股票于 2026 年 6 月 18 日、22 日、23 日连续三个交易日内收盘价格涨幅偏离值累计超 20%，24 日再次涨停。截至 6 月 23 日，公司滚动市盈率达 270.40，显著高于行业平均值 28.40，连续 4 个交易日累计换手率为 37.64%。经核查，公司未发现需澄清的媒体报道或...">三孚股份：股价异常波动 提醒投资者注意风险
-三孚股份公告称，公司股票于 2026 年 6 月 18 日、22 日、23 日连续三个交易日内收盘价格涨幅偏离值累计超 20%，24 日再次涨停。截至 6 月 23 日，公司滚动市盈率达 270.40，显著高于行业平均值 28.40，连续 4 个交易日累计换手率为 37.64%。经核查，公司未发现需澄清的媒体报道或...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">6月24日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">19:10</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">19:09</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="【盘中宝】突破高端芯片散热瓶颈的关键方向，ai需求升级下这类产品有望迈向规模商用，这家公司已自研量产相关产品
+美元上涨 0.1%，至 161.75 日元，周一曾触及 161.92 日元的 39 年半高点。</div></div></article><article class="item" data-search="法国 5 月零售销量同比下降 0.3%。"><div class="time">17:26</div><div class="content"><div class="text" data-full="法国 5 月零售销量同比下降 0.3%。" data-short="法国 5 月零售销量同比下降 0.3%。">法国 5 月零售销量同比下降 0.3%。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">6月24日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">19:12</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">19:10</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">19:09</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="【盘中宝】突破高端芯片散热瓶颈的关键方向，ai需求升级下这类产品有望迈向规模商用，这家公司已自研量产相关产品
 
 #四方达
 #力量钻石"> <div class="time">14:29</div> <div class="content"> <div class="text">【盘中宝】突破高端芯片散热瓶颈的关键方向，AI需求升级下这类产品有望迈向规模商用，这家公司已自研量产相关产品
@@ -773,126 +765,7 @@ https://hi189.com/6154.html</div> <div style="margin-top:8px;font-size:12px;colo
 
 了解频道VIP👉https://t.me/clsvip/33606
 
- 联系：@cn50etf</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="频道收费项目：频道vip
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大v收费群盘中消息同步：
-
-vip资讯
-环球资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-大成路旁的大成
-妖股刺客
-
-麦芽糖
-新生代龙头玩家
-邢者狩猎营
-g界孙悟空
-大师兄擒妖
-超级感悟
-浮光
-攀高
-天赢居
-
-源深路
-布莱德雷
-清北游资
-时冲
-主升真经
-天机短线
-爱尔兰画眉
-浅吸掘金
-震哥
-
-红旗大街发哥
-游资胖大叔
-大周先生
-姆爷
-付鹏
-游资混江龙
-徐小明
-老章
-天地同力
-
-大马路
-只做龙头
-诗诗复利游
-情绪流作手c神
-涨红阳
-a股通天宗
-上班族波段
-洛飞
-
-先知
-愿雨稠
-林荫大道
-超短小纯洁
-上海老梁
-贝贝后花园
-核心九儿
-趋势moo
-逻辑a哥
-
-生如夏花
-复盘哥
-鑫多多
-趋势和价值老李
-大将潘凤
-滴烛复盘的壮汉
-奶爸只做核心
-浮光知顶底
-
-借势而为
-来去由心
-苏三
-嗅嗅掘金
-钱塘李逍遥
-k神会
-向班长
-一线天渔哥
-林秘密
-
-费用：100元/月"> <div class="time">09:13</div> <div class="content"> <div class="text">频道收费项目：频道VIP
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大V收费群盘中消息同步：
-
-VIP资讯
-环球资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-大成路旁的大成
-妖股刺客
-
-麦芽糖
-新生代龙头玩家
-邢者狩猎营
-G界孙悟空
-大师兄擒妖
-超级感悟...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">6月23日 · VIP</h2> <div class="feed"> <article class="item" data-search="游资大v复盘文章汇总20260623（早上有更新）"> <div class="time">23:13</div> <div class="content"> <div class="text">游资大V复盘文章汇总20260623（早上有更新）</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【电报解读】全球首次人形机器人实现工段全覆盖！机构称产能爬坡、场景验证与技术收敛同步推进下，机器人行业正进入核心规模化验证期，这家公司在机器人细分领域出货量位列中国市场第一
+ 联系：@cn50etf</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">6月23日 · VIP</h2> <div class="feed"> <article class="item" data-search="游资大v复盘文章汇总20260623（早上有更新）"> <div class="time">23:13</div> <div class="content"> <div class="text">游资大V复盘文章汇总20260623（早上有更新）</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【电报解读】全球首次人形机器人实现工段全覆盖！机构称产能爬坡、场景验证与技术收敛同步推进下，机器人行业正进入核心规模化验证期，这家公司在机器人细分领域出货量位列中国市场第一
 
 #华是科技
 #埃斯顿"> <div class="time">23:00</div> <div class="content"> <div class="text">【电报解读】全球首次人形机器人实现工段全覆盖！机构称产能爬坡、场景验证与技术收敛同步推进下，机器人行业正进入核心规模化验证期，这家公司在机器人细分领域出货量位列中国市场第一
