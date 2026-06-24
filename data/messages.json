@@ -1,8 +1,116 @@
 [
   {
+    "post": "Financial_Express/3275392",
+    "datetime": "2026-06-24T14:30:25+00:00",
+    "views": "1",
+    "text": "美国至 6 月 19 日当周 EIA 精炼厂设备利用率 96.1%，预期 96.7%，前值 96.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275392"
+  },
+  {
+    "post": "Financial_Express/3275390",
+    "datetime": "2026-06-24T14:30:24+00:00",
+    "views": "1",
+    "text": "美国至 6 月 19 日当周 EIA 汽油产量 -58.8 万桶/日，前值 35.6 万桶/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275390"
+  },
+  {
+    "post": "Financial_Express/3275391",
+    "datetime": "2026-06-24T14:30:24+00:00",
+    "views": "1",
+    "text": "美国至 6 月 19 日当周 EIA 精炼油产量 5.5 万桶/日，前值-2.9 万桶/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275391"
+  },
+  {
+    "post": "Financial_Express/3275388",
+    "datetime": "2026-06-24T14:30:23+00:00",
+    "views": "1",
+    "text": "美国至 6 月 19 日当周 EIA 成品油进口 9.1 万桶/日，前值-20.4 万桶/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275388"
+  },
+  {
+    "post": "Financial_Express/3275389",
+    "datetime": "2026-06-24T14:30:23+00:00",
+    "views": "1",
+    "text": "美国至 6 月 19 日当周 EIA 投产原油量 -8.1 万桶/日，前值 23 万桶/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275389"
+  },
+  {
+    "post": "Financial_Express/3275386",
+    "datetime": "2026-06-24T14:30:19+00:00",
+    "views": "2",
+    "text": "美国至 6 月 19 日当周 EIA 取暖油库存 72.2 万桶，前值-20.4 万桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275386"
+  },
+  {
+    "post": "Financial_Express/3275387",
+    "datetime": "2026-06-24T14:30:19+00:00",
+    "views": "2",
+    "text": "美国至 6 月 19 日当周 EIA 原油进口 9.4 万桶，前值-24.1 万桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275387"
+  },
+  {
+    "post": "Financial_Express/3275384",
+    "datetime": "2026-06-24T14:30:18+00:00",
+    "views": "3",
+    "text": "美国至 6 月 19 日当周 EIA 新配方汽油库存 1.2 万桶，前值-1.3 万桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275384"
+  },
+  {
+    "post": "Financial_Express/3275385",
+    "datetime": "2026-06-24T14:30:18+00:00",
+    "views": "2",
+    "text": "美国至 6 月 19 日当周 EIA 精炼油库存 306.4 万桶，预期-50.5 万桶，前值 95.1 万桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275385"
+  },
+  {
+    "post": "Financial_Express/3275383",
+    "datetime": "2026-06-24T14:30:17+00:00",
+    "views": "3",
+    "text": "美国至 6 月 19 日当周 EIA 汽油库存 206.4 万桶，预期-57.8 万桶，前值-90.6 万桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275383"
+  },
+  {
+    "post": "Financial_Express/3275382",
+    "datetime": "2026-06-24T14:29:58+00:00",
+    "views": "2",
+    "text": "德国国防部长谈 F126 护卫舰项目：正核查损害索赔，索赔成功可能性很低。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275382"
+  },
+  {
+    "post": "Financial_Express/3275381",
+    "datetime": "2026-06-24T14:28:38+00:00",
+    "views": "32",
+    "text": "国际铜研究小组：2026 年 4 月全球精炼铜市场出现 14.5 万吨缺口。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3275381"
+  },
+  {
     "post": "Financial_Express/3275380",
     "datetime": "2026-06-24T14:28:18+00:00",
-    "views": "1",
+    "views": "32",
     "text": "意法半导体（SOITEC）股价下跌 10%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +119,7 @@
   {
     "post": "Financial_Express/3275379",
     "datetime": "2026-06-24T14:27:38+00:00",
-    "views": "3",
+    "views": "34",
     "text": "英国航空与波特航空宣布达成全新代码共享协议。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +128,7 @@
   {
     "post": "Financial_Express/3275378",
     "datetime": "2026-06-24T14:27:37+00:00",
-    "views": "3",
+    "views": "34",
     "text": "彭博用户预计美国原油库存将减少 380 万桶。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +137,7 @@
   {
     "post": "Financial_Express/3275377",
     "datetime": "2026-06-24T14:27:19+00:00",
-    "views": "35",
+    "views": "66",
     "text": "特朗普：今日的住房新闻发布会与签署仪式就此取消，直至我们通过亟需的《拯救美国法案》为止。",
     "media_only": false,
     "image_url": null,
@@ -38,8 +146,8 @@
   {
     "post": "Financial_Express/3275375",
     "datetime": "2026-06-24T14:27:18+00:00",
-    "views": "35",
-    "text": "美国总统特朗普：鉴于我们亟需通过《拯救美国法案》，今日的住房新闻发布会及法案签署仪式现予以取消，直至该法案通过为止。",
+    "views": "66",
+    "text": "美国总统特朗普：鉴于我们亟需通过《拯救美国法案》，今日的住房法案新闻发布会及法案签署仪式现予以取消，直至该法案通过为止。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3275375"
@@ -47,7 +155,7 @@
   {
     "post": "Financial_Express/3275376",
     "datetime": "2026-06-24T14:27:18+00:00",
-    "views": "35",
+    "views": "66",
     "text": "土耳其外长将于 6 月 25 日至 26 日访问加拿大。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +164,7 @@
   {
     "post": "Financial_Express/3275373",
     "datetime": "2026-06-24T14:26:58+00:00",
-    "views": "36",
+    "views": "37",
     "text": "中国贸促会副会长林红：技术变革、市场格局与合作模式正深刻重塑健康产业\n6 月 24 日上午，第四届链博会期间，健康生活主题活动在京成功举办。中国贸促会副会长林红红出席活动并致辞。国家知识产权局专利局医药生物发明审查部部长马文霞、华大集团首席执行官尹烨作主题发言。林红红表示，人人享有健康是全人类的共同愿景，技术变革、市场格局与合作模式正深刻重塑健康产业。第四届链博会健康生活链展区集中展示了大健康领域的关键环节、前沿产品、核心技术与优质服务。期待各方充分利用链博会平台深化交流合作，凝聚全球健康生活产业创新发展和开放合作共识，助力全球健康产业可持续发展，为推动共建人类卫生健康共同体贡献力量。（中国贸促）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +173,7 @@
   {
     "post": "Financial_Express/3275374",
     "datetime": "2026-06-24T14:26:58+00:00",
-    "views": "37",
+    "views": "68",
     "text": "特朗普：住房新闻发布会和签约仪式取消。",
     "media_only": false,
     "image_url": null,
@@ -49435,32 +49543,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3269868"
-  },
-  {
-    "post": "Financial_Express/3269867",
-    "datetime": "2026-06-22T14:29:40+00:00",
-    "views": "103",
-    "text": "SPACEX 股价连续第三个交易日下跌，跌幅达 10%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269867"
-  },
-  {
-    "post": "Financial_Express/3269866",
-    "datetime": "2026-06-22T14:29:17+00:00",
-    "views": "98",
-    "text": "Cloudflare 称正在排查报错率攀升问题。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269866"
-  },
-  {
-    "post": "Financial_Express/3269865",
-    "datetime": "2026-06-22T14:28:38+00:00",
-    "views": "130",
-    "text": "标普 500 指数转跌。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3269865"
   }
 ]
