@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3278707",
+    "datetime": "2026-06-25T16:50:17+00:00",
+    "views": "3",
+    "text": "微软 Xbox 游戏机 512GB 版本的价格将上调 100 美元，1TB 机型价格将上调 150 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3278707"
+  },
+  {
+    "post": "Financial_Express/3278706",
+    "datetime": "2026-06-25T16:49:38+00:00",
+    "views": "35",
+    "text": "美国联邦通信委员会：通过新规加快海底电缆部署。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3278706"
+  },
+  {
+    "post": "Financial_Express/3278705",
+    "datetime": "2026-06-25T16:49:18+00:00",
+    "views": "36",
+    "text": "微软：1TB 版本 Xbox 主机售价上调 150 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3278705"
+  },
+  {
+    "post": "Financial_Express/3278704",
+    "datetime": "2026-06-25T16:49:17+00:00",
+    "views": "35",
+    "text": "微软正在全球范围内上调 Xbox 价格。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3278704"
+  },
+  {
     "post": "Financial_Express/3278703",
     "datetime": "2026-06-25T16:48:57+00:00",
-    "views": "2",
+    "views": "36",
     "text": "微软：512GB 版本 Xbox 主机售价上调 100 美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3278702",
     "datetime": "2026-06-25T16:48:18+00:00",
-    "views": "3",
+    "views": "36",
     "text": "微软：Xbox 全系产品调价，8 月 1 日起生效。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3278701",
     "datetime": "2026-06-25T16:47:58+00:00",
-    "views": "3",
+    "views": "36",
     "text": "微软：全球上调 Xbox 产品售价。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3278700",
     "datetime": "2026-06-25T16:46:58+00:00",
-    "views": "35",
+    "views": "67",
     "text": "德国两年期国债收益率跌约 2 个基点，意债收益率曾短暂地异常波动\n周四（6 月 25 日）欧市尾盘，德国 10 年期国债收益率跌 0.8 个基点，报 2.857%，日内交投于 2.876%-2.845%区间。两年期德债收益率跌 1.8 个基点，报 2.528%，日内交投于 2.561%-2.521%区间；30 年期德债收益率跌 0.7 个基点，报 3.404%。2/10 年期德债收益率利差涨 1.068 个基点，报+32.722 个基点。法国 10 年期国债收益率涨 0.3 个基点，两年期法债收益率跌 1.5 个基点，30 年期法债收益率大致持平。意大利 10 年期国债收益率涨 0.1 个基点，报 3.590%，彭博数据显示欧股开盘之前瞬间尖锐地冲高回落——北京时间 14:29 达到 4.849%、随后恢复至平盘附近，剔除这一异常波动之外，日内交易非常沉闷。西班牙 10 年期国债收益率涨 0.2 个基点，希腊 10 年期国债收益率跌 0.1 个基点。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3278699",
     "datetime": "2026-06-25T16:46:37+00:00",
-    "views": "37",
+    "views": "69",
     "text": "加拿大芝加哥期权交易所欢迎汉密尔顿增强型比特币 Daymax™ETF 挂牌上市。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3278698",
     "datetime": "2026-06-25T16:45:57+00:00",
-    "views": "38",
+    "views": "70",
     "text": "美联储 7 年期国债投标总额为 66 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3278697",
     "datetime": "2026-06-25T16:45:39+00:00",
-    "views": "38",
+    "views": "70",
     "text": "美国七年期非竞争投标国债认购额 7290 万美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3278696",
     "datetime": "2026-06-25T16:45:18+00:00",
-    "views": "68",
+    "views": "69",
     "text": "苹果将​​跳过高端 M6 Mac 芯片，发力打造主打 AI 功能的 M7 系列\n金十数据 6 月 26 日讯，苹果公司正对其 Mac 芯片战略进行有史以来最大规模的调整之一，准备在下一代顶级处理器上直接跨越到主打人工智能功能的新一代芯片。据知情人士透露，该公司目前正处于 M5 系列阶段，计划最早于今年推出用于入门级 Mac 的基础版 M6 处理器。但消息人士表示，苹果将史无前例地跳过该芯片的高端版本。苹果计划在 2027 年推出属于 M7 新一代芯片系列的 Pro 和 Max 版本，这些芯片将具备更强大的计算和图形处理能力。苹果采取这一不同寻常的举措，旨在加速推出原定于较晚时间发布的技术。此举有望满足市场对端侧 AI 功能及图形密集型软件日益增长的需求。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3278695",
     "datetime": "2026-06-25T16:44:57+00:00",
-    "views": "39",
+    "views": "71",
     "text": "消息人士称， Monroe Energy 旗下宾夕法尼亚州特雷纳炼油厂火灾发生在催化裂化装置重启过程中。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3278694",
     "datetime": "2026-06-25T16:44:37+00:00",
-    "views": "40",
+    "views": "72",
     "text": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”\n一名接近谈判团队的消息人士称，以色列从黎巴嫩领土撤军是伊朗与美国最终协议的条件之一，并被伊朗谈判团队视为一条重要“红线”。该消息人士进一步表示，最终的谅解备忘录将保障黎巴嫩的主权与领土完整。此前在瑞士达成的协议文本中已经强调由伊朗参与且统一执行的“冲突解决机制”。伊朗方面目前正跟进其具体执行的时间表。该消息人士还称，在过去 6 天内，以色列对黎巴嫩的袭击规模明显下降，这表明伊朗的举措已产生效果。但伊朗绝不会满意，除非实现永久停火，且以色列从黎巴嫩完全撤军。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3278693",
     "datetime": "2026-06-25T16:44:18+00:00",
-    "views": "39",
+    "views": "71",
     "text": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”\n金十数据 6 月 26 日讯，当地时间 6 月 25 日获悉，一名接近谈判团队的消息人士称，以色列从黎巴嫩领土撤军是伊朗与美国最终协议的条件之一，并被伊朗谈判团队视为一条重要“红线”。该消息人士进一步表示，最终的谅解备忘录将保障黎巴嫩的主权与领土完整。此前在瑞士达成的协议文本中已经强调由伊朗参与且统一执行的“冲突解决机制”。伊朗方面目前正跟进其具体执行的时间表。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3278692",
     "datetime": "2026-06-25T16:42:37+00:00",
-    "views": "70",
+    "views": "101",
     "text": "马克龙称法国与意大利支持布罗莫太空合作项目。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3278691",
     "datetime": "2026-06-25T16:41:38+00:00",
-    "views": "102",
+    "views": "103",
     "text": "惠誉评级：欧洲私人信贷再融资规模攀升；人工智能相关敞口、兑付风险均处于低位。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3278690",
     "datetime": "2026-06-25T16:39:58+00:00",
-    "views": "104",
+    "views": "105",
     "text": "Monroe Energy：将对此次事故的具体原因展开调查。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3278689",
     "datetime": "2026-06-25T16:39:57+00:00",
-    "views": "103",
+    "views": "104",
     "text": "Monroe Energy：目前正在开展周边空气监测，监测结果显示当前对社区不存在任何风险。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +182,7 @@
   {
     "post": "Financial_Express/3278688",
     "datetime": "2026-06-25T16:39:38+00:00",
-    "views": "103",
+    "views": "104",
     "text": "马克龙：法国愿与意大利开展核能项目合作。",
     "media_only": false,
     "image_url": null,
@@ -51982,23 +52018,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3272906"
-  },
-  {
-    "post": "Financial_Express/3272905",
-    "datetime": "2026-06-23T16:49:58+00:00",
-    "views": "136",
-    "text": "机构：特斯拉第二季度交付量料达 39.29 万 该公司与 SpaceX 有可能合并\nBaird 分析师 Ben Kallo 预测，特斯拉第二季度料将交付 392,900 辆汽车。他补充说，这家电动汽车公司 2026 年的总交付量将达到 168 万辆。这位分析师写道：“我们认为 SpaceX 与特斯拉的合并很有可能发生，预计需要 12 到 18 个月的时间。”他还补充说，两家公司的合并是“最终方向”，而且“清晰并令人信服，两家公司都将受益于更大的规模”。除了可能与 SpaceX 合并之外，特斯拉的潜在催化剂还包括 Optimus 机器人升级、欧盟监管机构进一步采纳全自动驾驶技术、无人驾驶出租车业务在美国拓展、Tesla Semi 卡车推出，以及能源业务新产品。Kallo 重申对特斯拉的“跑赢大盘”评级和目标价 522 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3272905"
-  },
-  {
-    "post": "Financial_Express/3272904",
-    "datetime": "2026-06-23T16:49:18+00:00",
-    "views": "132",
-    "text": "加油站和便利店运营商“EG 集团”已秘密申请了美国 IPO，预计筹集资金约 10 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3272904"
   }
 ]
