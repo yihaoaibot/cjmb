@@ -1,5 +1,23 @@
 [
   {
+    "post": "Financial_Express/3278555",
+    "datetime": "2026-06-25T15:30:38+00:00",
+    "views": "1",
+    "text": "欧洲 STOXX 600 指数初步收涨 0.79%，报 640.19 点。欧元区 STOXX 50 指数初步收涨 0.62%，报 6253.03 点。富时泛欧绩优 300 指数初步收涨 0.78%，报 2561.38 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3278555"
+  },
+  {
+    "post": "Financial_Express/3278554",
+    "datetime": "2026-06-25T15:30:37+00:00",
+    "views": "1",
+    "text": "德国 DAX 30 指数初步收涨 1.03%，报 24996.31 点。法国股指初步收涨 0.54%，意大利股指初步收涨 0.03%、银行指数跌 0.63%，英国股指初步收涨 0.72%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3278554"
+  },
+  {
     "post": "Financial_Express/3278553",
     "datetime": "2026-06-25T15:25:59+00:00",
     "views": "31",
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3278552",
     "datetime": "2026-06-25T15:25:58+00:00",
-    "views": "31",
+    "views": "61",
     "text": "达拉斯联储 5 月截尾平均 PCE 物价指数年化涨幅为+2.8%，4 月为+2.4%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3278548",
     "datetime": "2026-06-25T15:23:20+00:00",
-    "views": "61",
+    "views": "121",
     "text": "现货黄金日内涨 1%，现报 4040.07 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3278547",
     "datetime": "2026-06-25T15:23:19+00:00",
-    "views": "61",
+    "views": "121",
     "text": "现货黄金突破 4040 美元/盎司，日内涨 1.03%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3278546",
     "datetime": "2026-06-25T15:22:58+00:00",
-    "views": "61",
+    "views": "91",
     "text": "立陶宛总统提名辛克维丘斯出任下一任总理。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3278545",
     "datetime": "2026-06-25T15:22:39+00:00",
-    "views": "61",
+    "views": "121",
     "text": "纽约期金突破 4050 美元/盎司，日内涨 1.07%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3278544",
     "datetime": "2026-06-25T15:21:37+00:00",
-    "views": "63",
+    "views": "93",
     "text": "巴西央行行长：风险平衡评级与利率决策之间不存在机械关联。",
     "media_only": false,
     "image_url": null,
@@ -51667,23 +51685,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3272788"
-  },
-  {
-    "post": "Financial_Express/3272787",
-    "datetime": "2026-06-23T15:29:58+00:00",
-    "views": "120",
-    "text": "英国央行委员泰勒：与 2025 年一样，英国央行量化紧缩（QT）资产出售的结构性偏差仍将是今年决策的考量因素。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3272787"
-  },
-  {
-    "post": "Financial_Express/3272786",
-    "datetime": "2026-06-23T15:29:38+00:00",
-    "views": "117",
-    "text": "美国上诉法院暂时批准特朗普提出的快速驱逐移民新规。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3272786"
   }
 ]
