@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3281800",
     "datetime": "2026-06-26T22:15:37+00:00",
-    "views": "41",
+    "views": "45",
     "text": "据中国驻委内瑞拉大使馆消息，截至当地时间 26 日 17 时，据不完全统计，已确认有 7 名中国公民在“6·24 地震”中遇难。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3281799",
     "datetime": "2026-06-26T22:12:37+00:00",
-    "views": "64",
+    "views": "67",
     "text": "Anthropic 据悉正接近与美国政府达成协议 AI 模型限制有望解除\n据知情人士透露，Anthropic PBC 与特朗普政府正在接近达成解除对这家人工智能公司两款最先进模型限制的协议，此前双方就系统安全问题进行了数周谈判。这些知情人士表示，美国商务部长霍华德·卢特尼克在缓解安全顾虑方面正取得进展，这将有助于取消商务部对 Anthropic 的 Fable 5 和 Mythos 5 系统实施的出口管制。他们表示，一旦政府各部门官员批准，这些限制措施就可能被解除。因讨论未公开消息而要求匿名的这些知情人士表示，参与谈判的包括 Anthropic 联合创始人 Tom Brown 在内的多名高管，他于近日会见了卢特尼克及其他政府高层官员。知情人士称，美国官员已告知 Anthropic，相关限制在政府的安全担忧得到解决后就会解除。目前尚不清楚白宫及其他积极参与人工智能政策制定的政府机构将以多快的速度给予批准。一名美国官员表示，商务部正努力与 Anthropic 达成解决方案，并寻求确保整个政府在相关决定上保持一致。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3281798",
     "datetime": "2026-06-26T22:09:57+00:00",
-    "views": "82",
+    "views": "85",
     "text": "美国副总统万斯在社交平台 X 发文：若伊朗对谅解备忘录存在异议，可主动致电沟通。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3281797",
     "datetime": "2026-06-26T22:09:17+00:00",
-    "views": "87",
+    "views": "90",
     "text": "美国副总统万斯谈及伊朗：以暴力回应暴力。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3281796",
     "datetime": "2026-06-26T22:06:58+00:00",
-    "views": "96",
+    "views": "98",
     "text": "世界银行：已批准为孟加拉国两个项目提供 11 亿美元资金。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3281795",
     "datetime": "2026-06-26T22:02:37+00:00",
-    "views": "89",
+    "views": "90",
     "text": "英国国家电网系统运营商：本周五晚高峰用电时段的发电裕度通知已取消。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3281794",
     "datetime": "2026-06-26T22:00:37+00:00",
-    "views": "89",
+    "views": "119",
     "text": "伊朗法尔斯通讯社援引伊朗革命卫队公共关系办公室的消息表示，美军发动袭击后，革命卫队尚未发布任何声明。",
     "media_only": false,
     "image_url": null,
@@ -51289,32 +51289,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3276082"
-  },
-  {
-    "post": "Financial_Express/3276081",
-    "datetime": "2026-06-24T22:20:18+00:00",
-    "views": "70",
-    "text": "美国海啸预警系统：委内瑞拉发生地震后，波多黎各、维尔京群岛面临海啸威胁。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3276081"
-  },
-  {
-    "post": "Financial_Express/3276080",
-    "datetime": "2026-06-24T22:20:17+00:00",
-    "views": "71",
-    "text": "美国海啸预警系统：委内瑞拉地震后，波多黎各和维尔京群岛面临海啸威胁。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3276080"
-  },
-  {
-    "post": "Financial_Express/3276079",
-    "datetime": "2026-06-24T22:18:37+00:00",
-    "views": "74",
-    "text": "美国地质勘探局：委内瑞拉莫龙地区发生 7.1 级地震。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3276079"
   }
 ]
