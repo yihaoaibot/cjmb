@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3281504",
+    "datetime": "2026-06-26T17:06:59+00:00",
+    "views": "1",
+    "text": "美国疾控中心将刚果埃博拉疫情应对级别提升至最高级别的“1 级”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3281504"
+  },
+  {
     "post": "Financial_Express/3281503",
     "datetime": "2026-06-26T17:06:17+00:00",
-    "views": "1",
+    "views": "31",
     "text": "据 Semafor 报道，贝森特就人工智能相关事宜展开沟通，并对美联储支付系统发出警示。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3281502",
     "datetime": "2026-06-26T17:05:38+00:00",
-    "views": "1",
+    "views": "31",
     "text": "美国疾控中心将针对刚果埃博拉疫情的应急响应等级提升至一级启动状态，即最高响应级别。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3281501",
     "datetime": "2026-06-26T17:04:57+00:00",
-    "views": "1",
+    "views": "31",
     "text": "贝克休斯：美国能源公司单周新增钻井平台数量创 2022 年 6 月以来新高。",
     "media_only": false,
     "image_url": null,
@@ -39,7 +48,7 @@
     "post": "Financial_Express/3281499",
     "datetime": "2026-06-26T17:03:17+00:00",
     "views": "31",
-    "text": "美国油服贝克休斯：美国能源企业活跃石油钻井机连增两周。",
+    "text": "美国油服贝克休斯：美国能源企业活跃石油钻井机连增两周。活跃天然气钻井机增幅创 2022 年 6 月份以来最大。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3281499"
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3281498",
     "datetime": "2026-06-26T17:02:58+00:00",
-    "views": "31",
+    "views": "61",
     "text": "OpenAI 开启 GPT-5.6 系列有限预览版测试。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3281497",
     "datetime": "2026-06-26T17:02:37+00:00",
-    "views": "31",
+    "views": "61",
     "text": "美国至 6 月 26 日当周总钻井总数 573 口，前值 563 口。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3281496",
     "datetime": "2026-06-26T17:01:57+00:00",
-    "views": "31",
+    "views": "91",
     "text": "贝克休斯：美国石油钻井平台数量增加 7 个，达到 440 个。\n美国钻井平台总数为 573 台。\n美国天然气钻井平台数量增加 3 个，达到 125 个。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3281486",
     "datetime": "2026-06-26T16:46:37+00:00",
-    "views": "124",
+    "views": "154",
     "text": "IMF 首席经济学家古兰沙：美联储的举措发出了强烈信号，但中央银行仍需对长期利率提供某种形式的指导。",
     "media_only": false,
     "image_url": null,
@@ -52243,14 +52252,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3275675"
-  },
-  {
-    "post": "Financial_Express/3275674",
-    "datetime": "2026-06-24T17:07:57+00:00",
-    "views": "107",
-    "text": "据白宫随行记者团消息，特朗普车队已启程前往国会大厦。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3275674"
   }
 ]
