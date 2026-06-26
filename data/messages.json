@@ -1,5 +1,14 @@
 [
   {
+    "post": "Financial_Express/3281539",
+    "datetime": "2026-06-26T17:50:58+00:00",
+    "views": "1",
+    "text": "特朗普即将发表讲话。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3281539"
+  },
+  {
     "post": "Financial_Express/3281538",
     "datetime": "2026-06-26T17:45:58+00:00",
     "views": "32",
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3281537",
     "datetime": "2026-06-26T17:45:57+00:00",
-    "views": "32",
+    "views": "62",
     "text": "委内瑞拉强震死亡人数上升至 920 人\n当地时间 26 日，委内瑞拉全国代表大会主席豪尔赫·罗德里格斯通报称，截至目前，委内瑞拉 24 日发生的强震遇难人数已升至 920 人，另有 3360 人受伤，383 栋住宅楼完全或严重受损，其中大部分位于拉瓜伊拉州。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3281535",
     "datetime": "2026-06-26T17:43:17+00:00",
-    "views": "58",
+    "views": "88",
     "text": "美国、以色列、黎巴嫩签署了三边框架协议。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3281534",
     "datetime": "2026-06-26T17:42:59+00:00",
-    "views": "61",
+    "views": "91",
     "text": "美国商务部长卢特尼克称赞欧盟推进美欧贸易协定相关立法。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3281533",
     "datetime": "2026-06-26T17:42:17+00:00",
-    "views": "69",
+    "views": "99",
     "text": "以色列驻美国大使：这份三方框架协议以实际执行成效为基准。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3281532",
     "datetime": "2026-06-26T17:41:57+00:00",
-    "views": "72",
+    "views": "102",
     "text": "以色列驻美国大使：三边框架以实际表现为导向。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3281531",
     "datetime": "2026-06-26T17:36:58+00:00",
-    "views": "99",
+    "views": "129",
     "text": "美国国务卿鲁比奥：后续仍有大量工作有待推进。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3281523",
     "datetime": "2026-06-26T17:31:17+00:00",
-    "views": "107",
+    "views": "137",
     "text": "卢甘斯克地区遭袭致 2 死 4 伤\n金十数据 6 月 27 日讯，俄罗斯方面任命的卢甘斯克地区领导人帕谢奇尼克 26 日在社交媒体发文说，乌军对卢甘斯克地区发动无人机袭击致 2 人死亡、4 人受伤。伤者已被送往医疗机构接受治疗。",
     "media_only": false,
     "image_url": null,
@@ -51838,32 +51847,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3275756"
-  },
-  {
-    "post": "Financial_Express/3275755",
-    "datetime": "2026-06-24T17:51:38+00:00",
-    "views": "131",
-    "text": "现货白银日内暴跌 7.00%，现报 57.23 美元/盎司。现货钯金日内大跌 6.00%，现报 1154.40 美元/盎司。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3275755"
-  },
-  {
-    "post": "Financial_Express/3275754",
-    "datetime": "2026-06-24T17:50:57+00:00",
-    "views": "130",
-    "text": "白银连续主力合约日内跌 7%，现报 13853.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3275754"
-  },
-  {
-    "post": "Financial_Express/3275753",
-    "datetime": "2026-06-24T17:50:37+00:00",
-    "views": "130",
-    "text": "Coinbase：部分用户在 OP 网络上发起转账可能失败。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3275753"
   }
 ]
