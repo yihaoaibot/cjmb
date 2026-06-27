@@ -1,5 +1,14 @@
 [
   {
+    "post": "Financial_Express/3281985",
+    "datetime": "2026-06-27T05:52:17+00:00",
+    "views": "2",
+    "text": "WPS 回应 C 盘占用问题：将上线磁盘存储管理功能\n金十数据 6 月 27 日讯，6 月 27 日，针对近期用户集中反馈的 C 盘占用问题，WPS 方面表示已完成排查并启动优化，将于 7 月上线的新版本在安装界面增加了路径选择功能；在使用环节，WPS 在设置页新增了\"存储管理\"模块，缓存、文件备份、云文档缓存等各类文件的占用与可释放空间集中展示。WPS 表示，缓存与备份默认存放在 C 盘、占用情况不够直观，确实给部分高频用户造成了困扰，此次优化的核心逻辑是\"安装有选择、使用可管理\"，让用户从安装到使用的每个环节中，都能清楚了解本地占用了多少、哪些可以清理，并随时自主管理。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3281985"
+  },
+  {
     "post": "Financial_Express/3281984",
     "datetime": "2026-06-27T05:38:17+00:00",
     "views": "70",
@@ -46015,14 +46024,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3276856"
-  },
-  {
-    "post": "Financial_Express/3276855",
-    "datetime": "2026-06-25T05:50:57+00:00",
-    "views": "85",
-    "text": "沙特 4 月进口额同比下降 5.2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3276855"
   }
 ]
