@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3285507",
+    "datetime": "2026-06-29T17:18:17+00:00",
+    "views": "1",
+    "text": "伊朗外交部发言人：伊朗当前的优先事项是跟进谅解备忘录的落实情况。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3285507"
+  },
+  {
+    "post": "Financial_Express/3285506",
+    "datetime": "2026-06-29T17:17:58+00:00",
+    "views": "3",
+    "text": "伊朗外交部发言人：伊朗当前首要任务是跟进落实谅解备忘录相关事宜。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3285506"
+  },
+  {
+    "post": "Financial_Express/3285505",
+    "datetime": "2026-06-29T17:16:58+00:00",
+    "views": "4",
+    "text": "周一（6 月 29 日），美联储隔夜逆回购协议（RRP）使用规模为 35.46 亿美元（交易对手 4 家），上个交易日报 64.26 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3285505"
+  },
+  {
+    "post": "Financial_Express/3285504",
+    "datetime": "2026-06-29T17:16:57+00:00",
+    "views": "4",
+    "text": "美联储在固定利率逆回购操作中总计接纳了 4 个对手方的 35.46 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3285504"
+  },
+  {
     "post": "Financial_Express/3285503",
     "datetime": "2026-06-29T17:13:57+00:00",
-    "views": "42",
+    "views": "45",
     "text": "标普 500 指数涨 1.02%，现报 7429.130 点；道指涨 0.56%，现报 52167.480 点；纳指涨 1.77%，现报 25744.814 点。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3285502",
     "datetime": "2026-06-29T17:13:18+00:00",
-    "views": "51",
+    "views": "54",
     "text": "美国战略石油储备原油库存上周减少约 550 万桶，降至 3.257 亿桶，创 1983 年以来新低。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3285501",
     "datetime": "2026-06-29T17:12:38+00:00",
-    "views": "89",
+    "views": "92",
     "text": "据以色列 i24News：以色列国防军表示，一名后备军人在黎巴嫩南部的爆炸中重伤，已被送往医院。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3285500",
     "datetime": "2026-06-29T17:11:37+00:00",
-    "views": "96",
+    "views": "99",
     "text": "卡莱尔集团向欧文斯科宁发出非邀约收购要约。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3285498",
     "datetime": "2026-06-29T17:11:00+00:00",
-    "views": "98",
+    "views": "100",
     "text": "美国内政部长伯格姆：汽油价格绝对可以跌破每加仑 3 美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3285499",
     "datetime": "2026-06-29T17:11:00+00:00",
-    "views": "96",
+    "views": "99",
     "text": "Anthropic：Claude 系列模型现已在微软 AI 开发平台 Microsoft Foundry 全面商用上线。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3285497",
     "datetime": "2026-06-29T17:10:17+00:00",
-    "views": "86",
+    "views": "118",
     "text": "美国内政部长伯格姆： 汽油价格 “完全有可能” 回落至每加仑 3 美元以下。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3285496",
     "datetime": "2026-06-29T17:05:37+00:00",
-    "views": "133",
+    "views": "135",
     "text": "英伟达(NVDA.O)：Anthropic 的 Claude 系列模型已上线微软 Azure 的 NVIDIA GB300 Blackwell Ultra 平台。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3285495",
     "datetime": "2026-06-29T17:04:37+00:00",
-    "views": "133",
+    "views": "134",
     "text": "乐天集团牵头联合体将获补贴，用于搭建本土卫星通信网络。 日本总务省预计很快将正式敲定该项补贴相关决议。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3285494",
     "datetime": "2026-06-29T17:03:59+00:00",
-    "views": "131",
+    "views": "132",
     "text": "英伟达：Anthropic 旗下 Claude 模型现已登陆微软 Azure 平台英伟达 GB300 Blackwell Ultra 算力机型。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3285493",
     "datetime": "2026-06-29T17:03:58+00:00",
-    "views": "132",
+    "views": "133",
     "text": "据日经新闻：日本政府预计向乐天集团牵头财团提供 1500 亿日元补贴。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3285492",
     "datetime": "2026-06-29T17:02:40+00:00",
-    "views": "133",
+    "views": "163",
     "text": "日本政府拟向乐天集团牵头的联合体提供 1500 亿日元补贴。",
     "media_only": false,
     "image_url": null,
