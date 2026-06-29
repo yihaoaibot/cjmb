@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3283818",
+    "datetime": "2026-06-29T06:17:37+00:00",
+    "views": "1",
+    "text": "沪深两市成交额超 3.1 万亿元，较上日此时缩量 24 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3283818"
+  },
+  {
     "post": "Financial_Express/3283817",
     "datetime": "2026-06-29T06:16:17+00:00",
-    "views": "1",
+    "views": "31",
     "text": "SK 海力士：呼吁为西南地区工人建立优质教育体系。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3283816",
     "datetime": "2026-06-29T06:15:58+00:00",
-    "views": "1",
+    "views": "31",
     "text": "交通运输部：上周全国高速公路货车通行 5479.3 万辆，环比增长 8.91%\n金十数据 6 月 29 日讯，6 月 22 日—6 月 28 日，全国物流保通保畅运行数据：国家铁路运输货物 8002.6 万吨，环比下降 0.89%；全国高速公路货车通行 5479.3 万辆，环比增长 8.91%；监测港口完成货物吞吐量 27027.9 万吨，环比增长 3.09%，完成集装箱吞吐量 721.5 万标箱，环比增长 5.27%；民航保障航班 12.2 万班（其中货运航班 5118 班，包括国际货运航班 3378 班，国内货运航班 1740 班），环比增长 4.90%；邮政快递揽收量约 38.92 亿件，环比下降 4.70%；投递量约 39.09 亿件，环比下降 4.98%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3283815",
     "datetime": "2026-06-29T06:13:57+00:00",
-    "views": "34",
+    "views": "64",
     "text": "百度 OCR 模型 Unlimited OCR 在 HuggingFace、GitHub 四榜登顶\n金十数据 6 月 29 日讯，近日，百度正式发布并开源端到端 OCR 模型 Unlimited OCR。模型发布次日即登顶 GitHub Daily Trending 榜、Python 榜，在 HuggingFace 全球模型总趋势榜和多模态模型趋势榜也均排名第一。Unlimited OCR 面向长文档解析场景打造，总参数规模 3B、推理时激活参数仅约 570M。公开评测结果显示，Unlimited OCR 在 OmniDocBench v1.6 基准测试中取得 93.92% 综合成绩，刷新端到端 OCR 最新纪录。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3283814",
     "datetime": "2026-06-29T06:13:37+00:00",
-    "views": "34",
+    "views": "64",
     "text": "澳大利亚 S&P/ASX 200 指数收盘上涨 0.7%，至 8,823.40 点。",
     "media_only": false,
     "image_url": null,
