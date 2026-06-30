@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3288589",
+    "datetime": "2026-06-30T18:01:37+00:00",
+    "views": "14",
+    "text": "意大利铁路公司首席执行官多纳鲁马宣布辞职。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3288589"
+  },
+  {
+    "post": "Financial_Express/3288588",
+    "datetime": "2026-06-30T18:01:18+00:00",
+    "views": "21",
+    "text": "萨博：签署向乌克兰交付 16 架“鹰狮”E 战斗机的合同。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3288588"
+  },
+  {
+    "post": "Financial_Express/3288587",
+    "datetime": "2026-06-30T18:01:17+00:00",
+    "views": "22",
+    "text": "萨博已签署为乌克兰供应鹰狮 E 战斗机的合同。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3288587"
+  },
+  {
+    "post": "Financial_Express/3288586",
+    "datetime": "2026-06-30T18:00:58+00:00",
+    "views": "25",
+    "text": "Anthropic：模型现已上线 Claude 代码工具与 Claude 平台；优惠定价持续至 8 月 31 日，输入 token 每百万 2 美元，输出 token 每百万 10 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3288586"
+  },
+  {
     "post": "Financial_Express/3288585",
     "datetime": "2026-06-30T18:00:18+00:00",
-    "views": "10",
+    "views": "36",
     "text": "Anthropic：并未针对网络安全相关任务专门训练 Sonnet 5 模型。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3288584",
     "datetime": "2026-06-30T18:00:17+00:00",
-    "views": "10",
+    "views": "35",
     "text": "SemiAnalysis 上调预期：英伟达数据中心收入或大幅超市场预期\n金十数据 7 月 1 日讯，英伟达股价在季度最后一个交易日上涨约 1.8%，此前经历一个月超 11%的回调。此次反弹主要受到独立半导体研究机构 SemiAnalysis 的乐观预测推动。该机构预计，英伟达在 2027 财年下半年的数据中心计算收入将较华尔街一致预期高出约 20%，主要基于供应瓶颈缓解以及 Vera Rubin 平台加速放量。市场认为，这一判断反映 AI 基础设施需求仍在持续扩张。报告指出，此前制约出货的 HBM4 内存供应问题已基本解决，前端晶圆产能也已提前布局，为下半年出货增长提供支撑。供应链信息显示，Blackwell 向 Rubin 的产品过渡预计将在 2026 年二季度完成，并于三季度起带动需求加速。英伟达 Vera Rubin 平台已于 6 月进入量产阶段，计划在秋季向多家云厂商交付，包括 AWS、微软 Azure、谷歌云及 Oracle 等。新一代 HBM4 带宽显著提升，被认为将强化 AI 算力性能优势。不过报告也指出，Rubin Ultra 原设计方案被缩减，规模与性能低于最初设想，长期收入影响仍存在不确定性。整体来看，AI 算力周期延续仍是市场核心关注点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3288583",
     "datetime": "2026-06-30T17:59:57+00:00",
-    "views": "20",
+    "views": "43",
     "text": "Anthropic：部署前安全评估显示，Sonnet 5 整体性能相较 Sonnet 4.6 有所提升。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3288582",
     "datetime": "2026-06-30T17:59:17+00:00",
-    "views": "25",
+    "views": "47",
     "text": "马斯克：孟菲斯地区居民可享星链半价优惠。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3288581",
     "datetime": "2026-06-30T17:58:57+00:00",
-    "views": "29",
+    "views": "49",
     "text": "Anthropic：Claude Sonnet 5 自今日起面向所有套餐开放使用。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3288580",
     "datetime": "2026-06-30T17:58:37+00:00",
-    "views": "32",
+    "views": "50",
     "text": "Anthropic：推出 Claude Sonnet 5。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3288579",
     "datetime": "2026-06-30T17:56:58+00:00",
-    "views": "49",
+    "views": "63",
     "text": "伊朗 6 月出口量折算约 166 万桶/日，自制裁放松以来累计出口约 5000 万桶。机构指出，该地区多数国家出口仍未恢复至战前水平。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3288578",
     "datetime": "2026-06-30T17:54:37+00:00",
-    "views": "94",
+    "views": "104",
     "text": "油轮追踪机构数据：折算下来，伊朗 2026 年 6 月日均原油出口量达 166 万桶。该地区其他多数国家的出口量仍远未恢复至战前水平。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3288577",
     "datetime": "2026-06-30T17:54:18+00:00",
-    "views": "96",
+    "views": "106",
     "text": "油轮追踪机构数据显示：自两周前美国实施的封锁解除以来，伊朗已出口 5000 万桶原油。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3288576",
     "datetime": "2026-06-30T17:52:17+00:00",
-    "views": "110",
+    "views": "118",
     "text": "委内瑞拉国民议会议长：委内瑞拉地震遇难人数升至 1943 人。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3288574",
     "datetime": "2026-06-30T17:51:18+00:00",
-    "views": "114",
+    "views": "123",
     "text": "据美国国务院估计，对外军售案总成本为 2230 万美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3288575",
     "datetime": "2026-06-30T17:51:18+00:00",
-    "views": "114",
+    "views": "123",
     "text": "美国国务院：预计总费用为 2230 万美元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3288573",
     "datetime": "2026-06-30T17:49:37+00:00",
-    "views": "99",
+    "views": "105",
     "text": "据巴西全国谷物出口商协会（ANEC）：预计巴西 6 月豆粕出口量将达到 240 万吨，而上周的预估值为 250 万吨。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3288572",
     "datetime": "2026-06-30T17:49:18+00:00",
-    "views": "104",
+    "views": "110",
     "text": "美国国务院批准拟向新加坡政府对外军售 AGM-114R 型地狱火导弹。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3288571",
     "datetime": "2026-06-30T17:49:17+00:00",
-    "views": "102",
+    "views": "108",
     "text": "美国国务院批准向新加坡政府出售 AGM-114R“海尔法”（Hellfire）导弹的潜在对外军售。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3288570",
     "datetime": "2026-06-30T17:48:59+00:00",
-    "views": "106",
+    "views": "111",
     "text": "巴西全国谷物出口商协会（ANEC）预测，6 月巴西豆粕出口量将达到 240 万吨，低于上周预估的 250 万吨。",
     "media_only": false,
     "image_url": null,
@@ -50416,14 +50452,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3282966"
-  },
-  {
-    "post": "Financial_Express/3282965",
-    "datetime": "2026-06-28T18:00:37+00:00",
-    "views": "211",
-    "text": "乌干达宣布从南非撤侨\n乌干达外交部 28 日发布声明说，鉴于南非民间近几月反移民暴力和排外抗议活动持续升级，乌总统穆塞韦尼已指示政府安排撤离在南非的乌干达公民。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3282965"
   }
 ]
