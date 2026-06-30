@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3286896",
+    "datetime": "2026-06-30T08:12:17+00:00",
+    "views": "1",
+    "text": "日本央行审议委员佐藤健裕：需要关注经济增长的下行风险和通胀的上行风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3286896"
+  },
+  {
+    "post": "Financial_Express/3286895",
+    "datetime": "2026-06-30T08:11:38+00:00",
+    "views": "3",
+    "text": "北欧航空（SAS）投资计划包含至多 40 架空客宽体客机，由全新空客 A330-900neo 机型与额外空客 A330-300 机型组成。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3286895"
+  },
+  {
+    "post": "Financial_Express/3286894",
+    "datetime": "2026-06-30T08:10:37+00:00",
+    "views": "7",
+    "text": "英国汽车游说团体警告称，脱欧后相关规则可能带来 14 亿英镑的潜在损失。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3286894"
+  },
+  {
     "post": "Financial_Express/3286893",
     "datetime": "2026-06-30T08:09:37+00:00",
-    "views": "3",
+    "views": "37",
     "text": "美国标普 500 指数期货上涨 0.07%，道指期货上涨 0.04%，纳斯达克 100 指数期货上涨 0.22%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3286892",
     "datetime": "2026-06-30T08:09:18+00:00",
-    "views": "4",
+    "views": "38",
     "text": "港股收盘：恒生指数跌 0.633%，恒生科技指数涨 1.803%\n联想集团涨 8.271%，智谱涨 7.292%，小鹏集团-W 涨 7.173%，华虹宏力涨 5.485%，蒙牛乳业跌 4.518%，老铺黄金跌 5.194%，农夫山泉跌 8.414%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3286891",
     "datetime": "2026-06-30T08:08:59+00:00",
-    "views": "34",
+    "views": "38",
     "text": "英伟达 Jetson 将首次登陆月球轨道 实现月轨 AI 实时数据处理\n英伟达称，萤火虫航空（Firefly Aerospace）下一次月球探测任务——计划于 2026 年末发射的“蓝幽灵 2 号”，将搭载萤火虫自研的 Ocula 月球成像服务系统，这也是英伟达 Jetson 边缘人工智能平台首次在月球轨道投入运行。 以往任务需要把海量原始数据传回地球，耗费数周乃至数月时间完成处理；而本次任务中，Ocula 系统将依托 Jetson 平台在月球轨道直接运行人工智能算法，提取关键有效信息，再根据客户需求，仅把最核心的数据近乎实时地传回地球，大幅缩短数据处理时延、节约高昂的下行传输成本。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3286889",
     "datetime": "2026-06-30T08:08:58+00:00",
-    "views": "34",
+    "views": "38",
     "text": "日本央行委员佐藤绫野：不会对具体的外汇水平发表评论。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3286890",
     "datetime": "2026-06-30T08:08:58+00:00",
-    "views": "34",
+    "views": "38",
     "text": "日本央行委员佐藤绫野：货币政策应聚焦于通胀，而财政政策应关注对家庭和企业的影响。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3286888",
     "datetime": "2026-06-30T08:08:57+00:00",
-    "views": "34",
+    "views": "38",
     "text": "港股收盘，恒指收跌 0.63%，科指收涨 1.80%，光通信板块表现强势，海光芯正(01191.HK)收涨 16.24%，长飞光纤光缆(06869.HK)收涨 6.68%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3286887",
     "datetime": "2026-06-30T08:08:39+00:00",
-    "views": "37",
+    "views": "41",
     "text": "日本央行委员佐藤绫野：短期、大幅外汇波动并非好事，外汇波动应反映基本面。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3286886",
     "datetime": "2026-06-30T08:08:18+00:00",
-    "views": "39",
+    "views": "42",
     "text": "日本央行委员佐藤：汇率走势应反映经济基本面。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3286885",
     "datetime": "2026-06-30T08:08:17+00:00",
-    "views": "40",
+    "views": "43",
     "text": "国家药监局发布两项关于“脑机接口”的医疗器械产品指导原则\n国家药监局网站 6 月 30 日发布《脑机接口医疗器械产品分类界定指导原则》《脑机接口医疗器械通用名称命名指导原则》2 项医疗器械产品指导原则。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3286884",
     "datetime": "2026-06-30T08:07:57+00:00",
-    "views": "40",
+    "views": "42",
     "text": "日本央行佐藤：不对具体汇率水平置评。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3286883",
     "datetime": "2026-06-30T08:07:38+00:00",
-    "views": "40",
+    "views": "42",
     "text": "日本央行佐藤：货币政策应聚焦通胀，财政政策应着力应对家庭与企业受冲击问题。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3286881",
     "datetime": "2026-06-30T08:07:19+00:00",
-    "views": "42",
+    "views": "45",
     "text": "日本央行佐藤表示：疲软日元虽会提振出口，但会推高进口价格，进而导致家庭实际收入下降。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3286882",
     "datetime": "2026-06-30T08:07:19+00:00",
-    "views": "41",
+    "views": "45",
     "text": "日本央行佐藤：财政政策与货币政策各司其职至关重要。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3286880",
     "datetime": "2026-06-30T08:07:18+00:00",
-    "views": "41",
+    "views": "44",
     "text": "伊朗总统：达成伊美谅解备忘录经与穆杰塔巴充分协调\n据伊朗迈赫尔通讯社 6 月 30 日报道，伊朗总统佩泽希齐扬当天表示，伊朗和美国的谅解备忘录是在与伊朗最高领袖穆杰塔巴·哈梅内伊充分协调并得到民众支持的情况下达成的。 佩泽希齐扬表示，伊美近期达成的谅解备忘录是伊朗人民在外交领域取得的一项成果，但一些政治派别与敌对媒体“试图通过抹黑谈判团队、质疑国家决策，削弱这一外交成果”。他指出，伊美谅解备忘录是在伊朗国家总体政策框架内、在与伊朗最高领袖保持充分协调并获得伊朗最高国家安全委员会支持的基础上达成的。(新华社)",
     "media_only": false,
     "image_url": null,
