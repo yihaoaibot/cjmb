@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3287941",
+    "datetime": "2026-06-30T13:02:17+00:00",
+    "views": "8",
+    "text": "美国 4 月 S&P/CS20 座大城市未季调房价指数 441.4，前值 341.74。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3287941"
+  },
+  {
+    "post": "Financial_Express/3287940",
+    "datetime": "2026-06-30T13:01:59+00:00",
+    "views": "20",
+    "text": "寒武纪：股价涨幅大估值高 提示多项投资风险\n寒武纪公告称，近期公司股价累计涨幅较大，超相关指数涨幅，或有短期下跌风险。截至 6 月 30 日，收盘价 1595.55 元/股，滚动市盈率 368.97 倍、市净率 77.88 倍，显著高于行业水平。2026 年一季度，营收 288469.67 万元，利润总额 101424.30 万元，净利润 101321.36 万元。公司尚处发展阶段，抵御市场波动能力有限，且面临经营、供应链、毛利率波动等风险，提醒投资者注意投资风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3287940"
+  },
+  {
+    "post": "Financial_Express/3287939",
+    "datetime": "2026-06-30T13:01:39+00:00",
+    "views": "27",
+    "text": "欧洲央行称外汇储备减少 1 亿欧元，至 3444 亿欧元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3287939"
+  },
+  {
+    "post": "Financial_Express/3287938",
+    "datetime": "2026-06-30T13:01:38+00:00",
+    "views": "27",
+    "text": "Anthropic Claude 模型正式登陆 Microsoft Foundry，可在 Azure 环境运行\nAnthropic 当地时间 6 月 29 日宣布，Claude 模型即日起正式在 Microsoft Foundry（Azure AI Foundry）全面可用，企业用户可直接在 Azure 环境中部署和调用 Claude 模型，并沿用现有 Azure 身份认证、计费及治理体系。目前支持 Claude Opus 4.8 和 Claude Haiku 4.5，涵盖提示缓存（Prompt Caching）、扩展思考（Extended Thinking）等能力，可用于编程、智能代理及复杂推理等场景。Anthropic 表示，用户还可根据需求选择推理运行于 Azure 或 Anthropic 托管环境，未来双方将逐步实现功能和模型的一致性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3287938"
+  },
+  {
+    "post": "Financial_Express/3287937",
+    "datetime": "2026-06-30T13:00:40+00:00",
+    "views": "31",
+    "text": "美国 4 月 S&P/CS20 座大城市未季调房价指数年率 1.1%，预期 0.9%，前值由 0.83%修正为 0.9%。\n美国 4 月 S&P/CS20 座大城市季调后房价指数月率 0%，预期-0.1%，前值-0.16%。\n美国 4 月 S&P/CS20 座大城市未季调房价指数月率 1%，前值由 1%修正为 1.1%。\n美国 4 月 FHFA 房价指数年率 2%，前值由 1.7%修正为 1.8%。\n美国 4 月 FHFA 房价指数年率 2%，前值由 1.7%修正为 1.8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3287937"
+  },
+  {
+    "post": "Financial_Express/3287935",
+    "datetime": "2026-06-30T13:00:39+00:00",
+    "views": "32",
+    "text": "美国 4 月 S&P/CS10 座大城市未季调房价指数月率 1.06%，前值 1.18%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3287935"
+  },
+  {
+    "post": "Financial_Express/3287936",
+    "datetime": "2026-06-30T13:00:39+00:00",
+    "views": "31",
+    "text": "美国 4 月 S&P/CS10 座大城市房价指数年率 1.78%，前值 1.44%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3287936"
+  },
+  {
     "post": "Financial_Express/3287934",
     "datetime": "2026-06-30T13:00:23+00:00",
-    "views": "3",
+    "views": "33",
     "text": "国内期货夜盘开盘\n碳酸锂连续涨 8.36%，集运指数欧线期货连续跌 4.63%，鸡蛋连续涨 3.03%，铂连续跌 2.65%，钯连续涨 1.53%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3287932",
     "datetime": "2026-06-30T13:00:19+00:00",
-    "views": "4",
+    "views": "31",
     "text": "美国 4 月 S&P/CS20 座大城市季调后房价指数月率 0%，预期-0.1%，前值-0.16%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3287933",
     "datetime": "2026-06-30T13:00:19+00:00",
-    "views": "4",
+    "views": "31",
     "text": "东方晶源 IPO 审核状态变更为“已受理”\n东方晶源微电子科技（北京）股份有限公司科创板 IPO 审核状态变更为“已受理”。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3287930",
     "datetime": "2026-06-30T13:00:18+00:00",
-    "views": "4",
+    "views": "27",
     "text": "美国 4 月 FHFA 房价指数年率 2%，前值由 1.7%修正为 1.8%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3287931",
     "datetime": "2026-06-30T13:00:18+00:00",
-    "views": "4",
+    "views": "31",
     "text": "美国 4 月 S&P/CS20 座大城市未季调房价指数月率 1%，前值由 1%修正为 1.1%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3287929",
     "datetime": "2026-06-30T13:00:17+00:00",
-    "views": "4",
+    "views": "27",
     "text": "美国 4 月 FHFA 房价指数 441.4，前值由 441.5 修正为 441.8。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3287928",
     "datetime": "2026-06-30T12:59:39+00:00",
-    "views": "5",
+    "views": "24",
     "text": "四川电网 12 项迎峰度夏重点工程全部投运\n记者 6 月 30 日从国网四川省电力公司获悉，四川电网 12 项迎峰度夏重点工程已全部带电投运，28 项配套保供工程同步发挥作用，电网保供能力和资源统筹调配水平进一步提升，为今夏电力安全稳定供应提供支撑。国网成都供电公司员工开展邛崃 500 千伏变电站 220 千伏送出工程建设工作。据气象与负荷预测，2026 年夏季四川气温总体偏高，用电需求保持增长态势，电网最高用电负荷预计将超过 8000 万千瓦。国网四川省电力公司提前谋划、统筹推进电网建设与补强，系统实施 12 项迎峰度夏重点工程和 28 项配套工程，累计新建线路超 1300 公里，新增变电容量超 1200 万千伏安。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3287927",
     "datetime": "2026-06-30T12:58:38+00:00",
-    "views": "42",
+    "views": "57",
     "text": "和平谈判进展释放霍尔木兹海峡运力 摩根士丹利预警原油供应过剩\n随着和平谈判取得进展，霍尔木兹海峡原油运输量回升，油价或将录得疫情爆发以来最大季度跌幅，摩根士丹利同时警示市场或将迎来原油供应过剩局面。随着霍尔木兹海峡通航恢复，此前滞留波斯湾的原油持续外运，叠加美国对伊朗原油出售给予制裁豁免，国际原油价格大幅跳水。危机最严峻阶段，市场得以避开油价极端暴跌的最坏局面，主要得益于各国释放创纪录的应急储备以及美国原油海外出口量升至历史高位多重因素共同作用。摩根士丹利分析师马丁・拉茨、夏洛特・菲尔金斯在研报中表示：“霍尔木兹海峡通航恢复速度超出预期，而美国原油高出口等因素仍在持续生效，最终将造成现货市场原油供给过剩。”",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3287926",
     "datetime": "2026-06-30T12:57:23+00:00",
-    "views": "44",
+    "views": "56",
     "text": "金山再回应 C 盘占用：7 月将改进缓存管理入口位置\n6 月 30 日，针对 WPS Office 的“C 盘占用”“会员权益”“清理缓存是否需付费”等话题，金山办公再次回应记者称，7 月其将上线优化版本，进一步改进缓存管理、文件备份、清理入口和会员权益展示等体验。 此前，有网友反映称，金山办公旗下产品 WPS 占用 C 盘空间较多、影响电脑使用，也有用户对如何清理、如何避免占用感到困惑。（南方日报）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3287925",
     "datetime": "2026-06-30T12:56:39+00:00",
-    "views": "45",
+    "views": "57",
     "text": "*ST 宝实：公司股票将撤销退市风险警示并复牌\n*ST 宝实公告称，公司向深交所申请撤销退市风险警示获审核同意。公司股票自 2026 年 7 月 1 日开市起停牌 1 天，7 月 2 日开市起复牌并撤销退市风险警示，证券简称由“*ST 宝实”变更为“宝塔实业”，证券代码不变，仍为“000595”，股票日涨跌幅限制由 5%变更为 10%。2025 年度，公司经审计的净利润为 8332.09 万元，扣除后的营业收入为 4.14 亿元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3287924",
     "datetime": "2026-06-30T12:55:57+00:00",
-    "views": "46",
+    "views": "57",
     "text": "瑞银将纽蒙特公司目标价从 140 美元下调至 120 美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3287923",
     "datetime": "2026-06-30T12:55:38+00:00",
-    "views": "49",
+    "views": "59",
     "text": "派拉蒙发言人：我们相信我们提议的交易不会在英国引发任何媒体多元化问题，并对我们所述的交易时间表保持信心。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3287922",
     "datetime": "2026-06-30T12:55:19+00:00",
-    "views": "50",
+    "views": "60",
     "text": "派拉蒙发言人：我们坚信，我方拟议的这项交易不会在英国引发任何媒体多元化问题，同时仍对我们此前公布的交易时间安排抱有信心。",
     "media_only": false,
     "image_url": null,
@@ -45637,14 +45700,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3282848"
-  },
-  {
-    "post": "Financial_Express/3282847",
-    "datetime": "2026-06-28T13:01:59+00:00",
-    "views": "127",
-    "text": "欧洲已记录到与高温相关的 1300 多例超额死亡\n世界卫生组织总干事谭德塞 28 日在社交媒体发文称，自 6 月 21 日以来，欧洲已有超过 1300 例超额死亡记录与高温天气有关。超额死亡数指特定地点和特定时期估计的总死亡人数与没有健康危机情况下的预计死亡人数之间的差额。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3282847"
   }
 ]
