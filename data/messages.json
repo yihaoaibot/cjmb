@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3285935",
+    "datetime": "2026-06-30T01:06:18+00:00",
+    "views": "2",
+    "text": "白银连续主力合约日内跌 3%，现报 13835.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3285935"
+  },
+  {
+    "post": "Financial_Express/3285936",
+    "datetime": "2026-06-30T01:06:18+00:00",
+    "views": "2",
+    "text": "中国船舶集团旗下广船国际联合中船贸易交付一艘 10800 车汽车运输船\n据中国船舶集团消息，6 月 29 日，中国船舶集团旗下广船国际联合中船贸易为西斯班航运公司（SeaspanCorporation）建造的 10800 车双燃料汽车运输船 1 号船命名交付。这艘船与广船国际为韩国 HMM 航运公司建造交付的全球首艘 10800 车汽车运输船（PCTC）“格罗唯视领航”轮船型一致，交付后将租赁给韩国 GLOVIS（韩国现代物流有限公司）运营，承担亚洲至东南亚、北美及欧洲之间的汽车贸易运输任务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3285936"
+  },
+  {
+    "post": "Financial_Express/3285934",
+    "datetime": "2026-06-30T01:06:17+00:00",
+    "views": "2",
+    "text": "纽约期银日内跌 2%，现报 57.36 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3285934"
+  },
+  {
+    "post": "Financial_Express/3285933",
+    "datetime": "2026-06-30T01:05:57+00:00",
+    "views": "2",
+    "text": "台湾证交所加权股价指数上涨 3.1%至 46,387.47 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3285933"
+  },
+  {
+    "post": "Financial_Express/3285932",
+    "datetime": "2026-06-30T01:05:18+00:00",
+    "views": "34",
+    "text": "日本首相高市早苗将对印度进行为期三天的访问，并会见印度总理莫迪。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3285932"
+  },
+  {
+    "post": "Financial_Express/3285931",
+    "datetime": "2026-06-30T01:04:37+00:00",
+    "views": "40",
+    "text": "汇洲智能全资子公司战略投资虚时科技\n近日，汇洲智能全资子公司北京汇洲智能技术有限公司完成对北京虚时科技有限公司（Intime AI）的战略投资。此次投资是汇洲智能布局新质生产力、加码物理 AI 赛道的关键举措，也是集团完善 AI 产业生态的核心落子。以此为契机，集团将进一步打通“真实采集—仿真生成—数据增强—模型训练—场景落地”全链路，深化“数据底座+仿真引擎+场景落地”的产业协同。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3285931"
+  },
+  {
     "post": "Financial_Express/3285930",
     "datetime": "2026-06-30T01:03:37+00:00",
-    "views": "12",
+    "views": "48",
     "text": "现货白银日内跌 2%，现报 57.09 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3285929",
     "datetime": "2026-06-30T01:02:57+00:00",
-    "views": "49",
+    "views": "54",
     "text": "港股股票回购一览：17 只个股获公司回购\n6 月 29 日，共 17 只港股获公司回购，2 只个股回购金额超千万港元。其中，腾讯控股、瑞声科技、富智康集团回购金额最大，分别获公司回购 5.01 亿港元、1267.07 万港元、623.06 万港元。截至 6 月 29 日，今年已有 270 只港股获公司回购，74 只个股年内累计回购金额超亿港元。其中，腾讯控股、友邦保险、小米集团-W 年内累计回购金额最大，分别获公司回购 239.08 亿港元、136.35 亿港元、108.65 亿港元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3285927",
     "datetime": "2026-06-30T01:02:38+00:00",
-    "views": "50",
+    "views": "85",
     "text": "纽约期金失守 3990 美元/盎司，日内跌 1.22%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3285928",
     "datetime": "2026-06-30T01:02:38+00:00",
-    "views": "50",
+    "views": "85",
     "text": "现货黄金失守 3980 美元/盎司，日内跌 0.96%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3285926",
     "datetime": "2026-06-30T01:01:18+00:00",
-    "views": "56",
+    "views": "89",
     "text": "菲律宾 5 月进口同比增长 21.9%，出口同比增长 7.6%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3285925",
     "datetime": "2026-06-30T01:00:57+00:00",
-    "views": "86",
+    "views": "89",
     "text": "新希望：近期股价走势反映或已回调到位 逐步企稳回升\n新希望(000876)6 月 30 日在互动平台表示，前一阶段整个养猪板块出现了普遍性的大幅回调，但公司研判更多反映市场整体阶段性资金偏好的问题，行业和公司近期基本面其实并没有发生什么大的变化，公司养猪成本今年仍在逐步降低，饲料业务也继续保持量利同增的局面。近期股价走势反映或已回调到位，逐步企稳回升。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3285923",
     "datetime": "2026-06-30T01:00:38+00:00",
-    "views": "88",
+    "views": "91",
     "text": "台湾证交所加权股价指数开高 0.4%报 45,165.80。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3285924",
     "datetime": "2026-06-30T01:00:38+00:00",
-    "views": "88",
+    "views": "91",
     "text": "台湾证交所加权股价指数上涨 2.3%至 46,016.55 点。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3285921",
     "datetime": "2026-06-30T01:00:18+00:00",
-    "views": "84",
+    "views": "87",
     "text": "商品期货开盘\n镍连续跌 2.83%，白银连续跌 2.35%，铂连续跌 2.33%，铝连续跌 2.15%，纯苯连续涨 2.12%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3285922",
     "datetime": "2026-06-30T01:00:18+00:00",
-    "views": "161",
+    "views": "199",
     "text": "鸡蛋连续主力合约日内涨 2%，现报 4441.00 元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3285920",
     "datetime": "2026-06-30T01:00:17+00:00",
-    "views": "84",
+    "views": "87",
     "text": "富时中国 A50 指数期货开盘下跌 0.08%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3285919",
     "datetime": "2026-06-30T00:59:58+00:00",
-    "views": "83",
+    "views": "86",
     "text": "中文在线新设文化传媒公司 含数字文创软件开发业务\n企查查 APP 显示，近日，浙江中文在线文化传媒有限公司成立，经营范围包含软件开发；数字文化创意软件开发；数字文化创意内容应用服务等。企查查股权穿透显示，该公司由中文在线(300364)全资持股。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3285917",
     "datetime": "2026-06-30T00:56:18+00:00",
-    "views": "80",
+    "views": "112",
     "text": "纽约期金失守 4000 美元/盎司，日内跌 0.99%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3285918",
     "datetime": "2026-06-30T00:56:18+00:00",
-    "views": "81",
+    "views": "113",
     "text": "纽约期金日内跌 1%，现报 3998.45 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -31210,14 +31264,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3282451"
-  },
-  {
-    "post": "Financial_Express/3282450",
-    "datetime": "2026-06-28T01:04:37+00:00",
-    "views": "193",
-    "text": "伊朗伊斯兰革命卫队 28 日发表声明说，革命卫队海军和空军用导弹和无人机，摧毁了位于科威特阿里·萨利姆空军基地和位于巴林的美军第五舰队的 8 处美军重要基础设施，对近日美国的“侵略”行径作出了果断回应。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3282450"
   }
 ]
