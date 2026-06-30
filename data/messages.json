@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3288606",
     "datetime": "2026-06-30T18:13:57+00:00",
-    "views": "3",
+    "views": "48",
     "text": "Anthropic 发布 Claude Sonnet 5 平价高性能适配日常办公\nAnthropic 正式推出 Claude Sonnet 5，主打日常办公场景，性能接近旗舰 Opus 4.8，定价更低，即日起设为 Claude 免费、Pro 版默认模型，同步开放给 Max、团队及企业客户。该模型未专项训练网络安全相关任务，高危网络操作能力远弱于 Opus 系列，自主处理浏览、规划、代码等任务的同时网络风险可控。Anthropic 正与特朗普政府持续磋商旗下各款模型，Sonnet 5 上线相关事宜亦纳入沟通范畴。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3288605",
     "datetime": "2026-06-30T18:12:37+00:00",
-    "views": "33",
+    "views": "44",
     "text": "美国联邦通信委员会（FCC）计划下月投票，拟关闭一项漏洞，禁止含受制裁黑名单企业零部件的设备继续在美销售。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3288604",
     "datetime": "2026-06-30T18:11:38+00:00",
-    "views": "34",
+    "views": "44",
     "text": "美国电信监管机构联邦通信委员会（FCC）计划下月就一项法案进行投票，该法案旨在封堵一项漏洞，此前该漏洞允许含有被列入黑名单企业所生产组件的设备在美国销售。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3288603",
     "datetime": "2026-06-30T18:11:17+00:00",
-    "views": "37",
+    "views": "47",
     "text": "Anthropic 推出 Claude Sonnet 5，代理能力大幅提升\n金十数据 7 月 1 日讯，Anthropic 推出 Claude Sonnet 5 模型。Anthropic 表示，该模型是迄今代理能力最强的 Sonnet 模型，能制定计划、调用浏览器和终端等工具，自主运行水平达到数月前仅靠更大、更贵模型才能实现的水准。Sonnet 5 性能逼近 Opus 4.8，且价格更低，在推理、工具使用、编程和知识工作等代理关键维度上较前代 Sonnet 4.6 显著增强。安全评估显示，Sonnet 5 不良行为发生率低于 Sonnet 4.6，在代理场景中更安全，且网络安全任务能力远低于当前 Opus 模型。即日起，Sonnet 5 已在所有套餐上线：Free 和 Pro 版默认使用，Max、Team 和企业用户也可选用。该模型还登陆 Claude Code 和 Claude 平台，推出期间定价为每百万输入 token 2 美元、每百万输出 token 10 美元，优惠期持续至 2026 年 8 月 31 日，之后调整为 3 美元/15 美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3288602",
     "datetime": "2026-06-30T18:10:37+00:00",
-    "views": "48",
+    "views": "58",
     "text": "俄罗斯政府根据一项法令关闭了多个与拉脱维亚、芬兰和爱沙尼亚的边境口岸。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3288601",
     "datetime": "2026-06-30T18:09:37+00:00",
-    "views": "30",
+    "views": "70",
     "text": "欧洲央行管委多伦茨：若能源市场保持平稳，暂无加息必要\n欧洲央行管理委员会委员普里莫兹·多伦茨表示，若在此期间中东冲突不进一步恶化，欧洲央行或将在下一轮会议维持基准利率不变。多伦茨周二在葡萄牙辛特拉举办的欧洲央行年度论坛上称，若能源成本维持现有水平、大宗商品市场波动不再扩散、且未产生通胀二次传导效应，7 月暂停加息是合理的。“如果油气价格持续走低，我认为没有任何进一步收紧货币政策的迫切性，”他表示，“结合当前现有数据，观望至 9 月再采取行动或许更为妥当。”",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3288600",
     "datetime": "2026-06-30T18:07:38+00:00",
-    "views": "76",
+    "views": "81",
     "text": "欧洲央行管委多伦茨：如果能源价格保持低迷，就没有加息的紧迫性。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3288599",
     "datetime": "2026-06-30T18:07:19+00:00",
-    "views": "79",
+    "views": "81",
     "text": "欧洲央行管委多伦茨：从当前数据来看，欧洲央行 7 月暂停加息或许是合适之举。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3288597",
     "datetime": "2026-06-30T18:07:18+00:00",
-    "views": "80",
+    "views": "81",
     "text": "欧洲央行管委多伦茨：中东地区的不确定性仍然较高。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3288598",
     "datetime": "2026-06-30T18:07:18+00:00",
-    "views": "80",
+    "views": "81",
     "text": "欧洲央行管委多伦茨：下次会议前形势可能快速发生变化。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3288596",
     "datetime": "2026-06-30T18:07:17+00:00",
-    "views": "80",
+    "views": "81",
     "text": "欧洲央行管委多伦茨：形势可能在下次会议前迅速变化。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3288595",
     "datetime": "2026-06-30T18:06:58+00:00",
-    "views": "88",
+    "views": "89",
     "text": "欧洲央行管委多伦茨：中东局势相关不确定性仍处于高位。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3288594",
     "datetime": "2026-06-30T18:06:57+00:00",
-    "views": "87",
+    "views": "89",
     "text": "欧洲央行管委多伦茨：若能源价格维持低位，不存在加息紧迫性。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3288592",
     "datetime": "2026-06-30T18:06:18+00:00",
-    "views": "91",
+    "views": "94",
     "text": "Anthropic：该模型在 8 月 31 日前的优惠定价为输入每百万 tokens 2 美元、输出 10 美元，之后将上调至 3 美元和 15 美元。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +128,7 @@
   {
     "post": "Financial_Express/3288593",
     "datetime": "2026-06-30T18:06:18+00:00",
-    "views": "92",
+    "views": "94",
     "text": "美国货币监理署：美国银行业一季度交易收入增长 5.6%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3288591",
     "datetime": "2026-06-30T18:05:37+00:00",
-    "views": "94",
+    "views": "97",
     "text": "Anthropic：安全测试显示 Claude Sonnet 5 较 Sonnet 4.6 有所提升。该模型已在所有 Claude 套餐上线，并通过 Claude Code 及 Claude 平台提供使用。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +146,7 @@
   {
     "post": "Financial_Express/3288590",
     "datetime": "2026-06-30T18:02:37+00:00",
-    "views": "113",
+    "views": "116",
     "text": "Anthropic：8 月 31 日之后，Claude Sonnet 5 大模型定价将调整为每百万输入 token 3 美元，每百万输出 token 15 美元。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +155,7 @@
   {
     "post": "Financial_Express/3288589",
     "datetime": "2026-06-30T18:01:37+00:00",
-    "views": "114",
+    "views": "117",
     "text": "意大利铁路公司首席执行官多纳鲁马宣布辞职。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +164,7 @@
   {
     "post": "Financial_Express/3288588",
     "datetime": "2026-06-30T18:01:18+00:00",
-    "views": "114",
+    "views": "117",
     "text": "萨博：签署向乌克兰交付 16 架“鹰狮”E 战斗机的合同。",
     "media_only": false,
     "image_url": null,
@@ -173,7 +173,7 @@
   {
     "post": "Financial_Express/3288587",
     "datetime": "2026-06-30T18:01:17+00:00",
-    "views": "115",
+    "views": "118",
     "text": "萨博已签署为乌克兰供应鹰狮 E 战斗机的合同。",
     "media_only": false,
     "image_url": null,
