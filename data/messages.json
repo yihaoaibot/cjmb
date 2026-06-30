@@ -1,5 +1,14 @@
 [
   {
+    "post": "Financial_Express/3288890",
+    "datetime": "2026-06-30T22:52:17+00:00",
+    "views": "1",
+    "text": "英媒：苹果 CEO 与欧盟技术主管就“Siri AI”举行建设性会谈\n金十数据 7 月 1 日讯，据英国金融时报报道，苹果(AAPL.O)CEO 库克与欧盟技术主管 Henna Virkkunen 周二举行了“建设性”会谈，双方旨在缓和围绕苹果新推出的“Siri AI”技术所引发的激烈争端。欧盟发言人表示，此次线上会议就“共同关心的议题进行了建设性交流，相关工作仍在继续”。两位熟悉相关谈判的人士称，会议讨论了苹果如何在欧洲推出焕新升级的 Siri，同时避免因违反欧盟主要竞争规则而面临数百万美元的罚款。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3288890"
+  },
+  {
     "post": "Financial_Express/3288889",
     "datetime": "2026-06-30T22:39:18+00:00",
     "views": "40",
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3288881",
     "datetime": "2026-06-30T22:32:38+00:00",
-    "views": "39",
+    "views": "69",
     "text": "巴西石油公司：此次调整后，面向分销商的柴油价格将维持不变，平均为每升 3.30 雷亚尔。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3288880",
     "datetime": "2026-06-30T22:32:17+00:00",
-    "views": "39",
+    "views": "69",
     "text": "美国高级官员： 途经霍尔木兹海峡的船舶通行量有所回升。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3288879",
     "datetime": "2026-06-30T22:31:18+00:00",
-    "views": "39",
+    "views": "69",
     "text": "美国高级官员透露多哈会谈相关情况： 维特科夫、库什纳与地区领导人举行了积极会谈。技术性谈判仍在进行，已取得良好进展。",
     "media_only": false,
     "image_url": null,
@@ -51892,41 +51901,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3283106"
-  },
-  {
-    "post": "Financial_Express/3283105",
-    "datetime": "2026-06-28T22:51:18+00:00",
-    "views": "137",
-    "text": "周一重要财经信息提醒（以下均为北京时间）\n \n① 待定 欧洲央行在辛特拉举行中央银行论坛，至 7 月 1 日；北京太空算力大会举办；\n② 07:30 澳洲联储助理主席 Kent 发表讲话；\n③ 07:50 日本 5 月零售销售；\n④ 13:00 英国央行首席经济学家 Pill 发表讲话；\n⑤ 16:30 英国 5 月央行抵押贷款许可\n⑥ 17:00 欧元区 6 月经济景气指数，欧元区 6 月消费者信心指数终值；\n⑦ 22:30 美国 6 月达拉斯联储商业活动指数\n⑧ 次日 00:30 欧洲央行行长拉加德发表讲话。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3283105"
-  },
-  {
-    "post": "Financial_Express/3283104",
-    "datetime": "2026-06-28T22:51:17+00:00",
-    "views": "130",
-    "text": "委内瑞拉地震重灾区拉瓜伊拉州电力及供水已部分恢复\n金十数据 6 月 29 日讯，当地时间 6 月 28 日，委内瑞拉代总统罗德里格斯表示，地震重灾区拉瓜伊拉州电力服务恢复至 75%，供水恢复至 68%，道路交通已恢复约 90%，道路通行和车辆通行基本恢复正常。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3283104"
-  },
-  {
-    "post": "Financial_Express/3283103",
-    "datetime": "2026-06-28T22:50:38+00:00",
-    "views": "129",
-    "text": "委内瑞拉地震重灾区拉瓜伊拉州电力及供水已部分恢复\n当地时间 6 月 28 日，委内瑞拉代总统罗德里格斯表示，地震重灾区拉瓜伊拉州电力服务恢复至 75%，供水恢复至 68%，道路交通已恢复约 90%，道路通行和车辆通行基本恢复正常。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3283103"
-  },
-  {
-    "post": "Financial_Express/3283102",
-    "datetime": "2026-06-28T22:50:37+00:00",
-    "views": "127",
-    "text": "美媒：智谱 GLM-5.2 在找漏洞方面可比肩 Mythos\n金十数据 6 月 29 日讯，综合美国科技媒体 The Verge 和华尔街日报报道，国内大模型公司智谱(02513.HK)近日发布了其开放权重模型 GLM-5.2，尽管在其他更通用的任务上，GLM 仍落后于 Anthropic 和 OpenAI 的模型，但部分研究人员声称，该模型在某些漏洞检测和网络安全场景中可与 Anthropic 的 Mythos 模型媲美。根据网络安全公司 Semgrep 的数据，在某些基准测试中，GLM-5.2 的表现超越了 Anthropic 公司于 5 月发布的 Claude Opus 4.8 模型。研究人员指出，在获得进一步指令后，Opus 4.8 和 GLM-5.2 在漏洞发现能力上可与 Mythos 媲美。不过，由于 GLM 是是一种开放权重模型，任何人都可以下载并在现成的硬件上运行，这虽然赋予了它极大的灵活性，并允许高级用户深度访问，但也可能增加被恶意行为者滥用的风险。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3283102"
   }
 ]
