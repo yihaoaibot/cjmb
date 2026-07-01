@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3289100",
+    "datetime": "2026-07-01T01:03:37+00:00",
+    "views": "26",
+    "text": "AMD 自适应 SoC 首次集成封装上内存\n金十数据 7 月 1 日讯，AMD 宣布推出 Versal Premium Gen2 MoP 自适应系统级芯片（SoC），这是公司首款采用封装内存架构的 Versal 产品，在单一封装内集成最高 32GB LPDDR5X 内存，最高带宽可达 288GB/s，相比传统板载或分立 LPDDR5X 方案，在尺寸与性能之间取得新的平衡。根据 AMD 介绍，Versal Gen2 MoP 通过在封装中集成多达四颗 LPDDR5X 芯片，实现最高 32GB 容量、最高 9000MT/s 速率与最高 288GB/s 带宽，相比分立 LPDDR5X 设计可缩减超过 60%的板卡面积，同时带来高达 10 倍的算力提升，并支持超过 15 年的产品生命周期。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3289100"
+  },
+  {
+    "post": "Financial_Express/3289099",
+    "datetime": "2026-07-01T01:02:57+00:00",
+    "views": "46",
+    "text": "日本五年期国债收益率上涨 1.5 个基点至 1.905%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3289099"
+  },
+  {
+    "post": "Financial_Express/3289098",
+    "datetime": "2026-07-01T01:02:38+00:00",
+    "views": "50",
+    "text": "蔚来汽车： 截至今日，蔚来全国建成 9,056 座充换电站，其中换电站 3,958 座，充电站 5,098 座、充电桩 29,357 根，累计提供超 1.1 亿次换电。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3289098"
+  },
+  {
     "post": "Financial_Express/3289096",
     "datetime": "2026-07-01T01:00:39+00:00",
-    "views": "39",
+    "views": "71",
     "text": "韩国电力股延续涨势 受政府人工智能投资计划提振\n受韩国政府本周早些时候宣布的大规模投资计划（旨在扩大人工智能资本支出）提振，韩国电力设备股延续涨势。LS Electric 股价上涨高达 13%，三天累计涨幅超过 30%。HD Hyundai Electric 上涨 9.5%，Hyosung Heavy 上涨 13%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3289097",
     "datetime": "2026-07-01T01:00:39+00:00",
-    "views": "39",
+    "views": "71",
     "text": "台湾证交所加权股价指数上涨 2.2%至 47,132.61 点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3289094",
     "datetime": "2026-07-01T01:00:38+00:00",
-    "views": "39",
+    "views": "70",
     "text": "小米汽车：2026 年 6 月，小米汽车交付量持续超过 30000 台。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3289095",
     "datetime": "2026-07-01T01:00:38+00:00",
-    "views": "39",
+    "views": "71",
     "text": "玻璃连续主力合约日内跌 1%，现报 961.00 元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3289093",
     "datetime": "2026-07-01T01:00:37+00:00",
-    "views": "39",
+    "views": "69",
     "text": "据中国海事局网站消息，大连海事局发布航行警告，7 月 1 日 10 时至 2 日 17 时和 7 月 6 日 12 时至 8 日 17 时，黄海北部部分海域实弹射击，禁止驶入。​​​",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3289091",
     "datetime": "2026-07-01T01:00:23+00:00",
-    "views": "41",
+    "views": "68",
     "text": "集运指数欧线期货连续主力合约日内跌 5%，现报 2691.00 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3289092",
     "datetime": "2026-07-01T01:00:23+00:00",
-    "views": "42",
+    "views": "70",
     "text": "台湾证交所加权股价指数开高 0.2%报 46,234.70。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3289089",
     "datetime": "2026-07-01T01:00:19+00:00",
-    "views": "43",
+    "views": "67",
     "text": "碳酸锂连续主力合约日内涨 4%，现报 164220.00 元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3289090",
     "datetime": "2026-07-01T01:00:19+00:00",
-    "views": "43",
+    "views": "68",
     "text": "集运指数欧线期货连续主力合约日内跌 4%，现报 2701.50 点。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3289086",
     "datetime": "2026-07-01T01:00:18+00:00",
-    "views": "41",
+    "views": "63",
     "text": "富时中国 A50 指数期货开盘涨 0.14%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3289087",
     "datetime": "2026-07-01T01:00:18+00:00",
-    "views": "42",
+    "views": "65",
     "text": "商品期货开盘\n集运指数欧线期货连续跌 4.60%，碳酸锂连续涨 4.53%，白银连续涨 1.66%，锡连续涨 1.59%，液化石油气连续涨 1.45%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3289088",
     "datetime": "2026-07-01T01:00:18+00:00",
-    "views": "42",
+    "views": "66",
     "text": "富时中国 A50 指数期货开盘上涨 0.15%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3289085",
     "datetime": "2026-07-01T00:59:18+00:00",
-    "views": "64",
+    "views": "81",
     "text": "6 月 30 日 641 股获融资买入超亿元 京东方Ａ获买入 62.20 亿元居首\n6 月 30 日共有 3463 只个股获融资资金买入，有 641 股买入金额超亿元。其中，京东方Ａ、兆易创新、澜起科技融资买入金额排名前三，分别获买入 62.20 亿元、56.53 亿元、49.25 亿元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3289084",
     "datetime": "2026-07-01T00:59:17+00:00",
-    "views": "64",
+    "views": "78",
     "text": "长华化学：产品暂未涉及 5G 通信、光纤光缆、3D 打印、先进封装等领域客户\n长华化学 7 月 1 日在互动平台表示，公司的产品目前未涉及 5G 通信、光纤光缆、3D 打印、先进封装等领域客户。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3289083",
     "datetime": "2026-07-01T00:58:57+00:00",
-    "views": "66",
+    "views": "79",
     "text": "北京：今夏 6 月无高温天气\n昨天是 6 月的最后一天，代表“北京温度”的北京观象台午后最高气温仅 29.3℃。至此，今年整个 6 月北京无高温。上一次出现这种情况是 2015 年。从北京市气候中心了解到，以代表“北京温度”的北京观象台气温为例，6 月 1 日至 29 日，北京平均气温 24.0℃，比常年同期 25.3℃偏低 1.3℃；而在 2025 年同期，平均气温达到了 26.7℃，比常年同期偏高了 1.4℃。整个 6 月份的平均气温，常年同期值是 25.3℃。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3289082",
     "datetime": "2026-07-01T00:57:57+00:00",
-    "views": "73",
+    "views": "82",
     "text": "伊朗官员称美国干涉地区事务的时代已结束\n据伊朗迈赫尔通讯社 6 月 30 日报道，伊朗伊斯兰议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹表示，美国干涉地区国家内政的时代已经结束。 阿齐兹说，霍尔木兹海峡管理权掌握在伊朗手中。此外，保障黎巴嫩的主权并非通过解除抵抗力量的武装，而应通过结束以色列的占领和侵略。 阿齐兹此前还说，地区国家押注于美国的计划将破坏这些国家的稳定与安全，并表示美国军事基地已对地区国家构成威胁，而非一种保护。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3289081",
     "datetime": "2026-07-01T00:57:38+00:00",
-    "views": "73",
+    "views": "78",
     "text": "北京打造太空算力产业核心策源地\n以北京商业航天“南箭北星”布局中“北星”核心承载地海淀区为例，这里已集聚 200 余家商业航天企业和机构，形成了覆盖卫星研制、地面终端、测运控服务、星座运营、通导遥场景应用的全产业链条，全国商业航天百强企业近四分之一在此落户。（北京日报）",
     "media_only": false,
     "image_url": null,
@@ -52054,32 +52081,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3283296"
-  },
-  {
-    "post": "Financial_Express/3283295",
-    "datetime": "2026-06-29T01:02:58+00:00",
-    "views": "137",
-    "text": "飞凯材料：公司 TGV 湿电子化学品暂未实现大批量供货\n飞凯材料 6 月 29 日在互动平台表示，目前公司 TGV 湿电子化学品暂未实现大批量供货，相关业务未形成规模化营收，对公司营收业绩影响小。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3283295"
-  },
-  {
-    "post": "Financial_Express/3283294",
-    "datetime": "2026-06-29T01:02:57+00:00",
-    "views": "136",
-    "text": "委内瑞拉所有教育机构继续暂停教学活动\n当地时间 28 日，委内瑞拉教育部发布公告，由于地震造成严重影响，全国所有教育机构在 6 月 29 日至 7 月 5 日间继续暂停教学活动。此前，委内瑞拉全国代表大会主席豪尔赫·罗德里格斯宣布，委内瑞拉 24 日发生的强震造成的死亡人数上升至 1450 人，受伤人数上升至 3150 人。豪尔赫·罗德里格斯表示，地震共造成 12721 人受灾，774 栋建筑物受损或完全倒塌，其中 189 栋完全倒塌，585 栋受损或部分倒塌。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3283294"
-  },
-  {
-    "post": "Financial_Express/3283293",
-    "datetime": "2026-06-29T01:02:38+00:00",
-    "views": "133",
-    "text": "中央宣传部、财政部、农业农村部联合印发《推进农家书屋改革提升促进乡村阅读行动方案》\n金十数据 6 月 29 日讯，近日，中央宣传部、财政部、农业农村部三部门联合印发《推进农家书屋改革提升促进乡村阅读行动方案》。方案围绕因地制宜完善布局形态、聚焦需求优化内容供给、创新形式培育读书风尚、健全机制夯实支撑基础等方面提出重点任务，着力推动“书屋+”赋能、灵活推进“+书屋”融合，加强数字服务、培育特色品牌、鼓励社会参与、做好宣传推广，完善农家书屋功能，提升乡村阅读服务效能。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3283293"
   }
 ]
