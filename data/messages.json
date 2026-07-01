@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3289003",
+    "datetime": "2026-07-01T00:04:17+00:00",
+    "views": "1",
+    "text": "宣布收购 South32 资产后，美国铝业公司 (Alcoa) 的股票在悉尼市场下跌 4.9%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3289003"
+  },
+  {
+    "post": "Financial_Express/3289002",
+    "datetime": "2026-07-01T00:03:58+00:00",
+    "views": "1",
+    "text": "澳大利亚矿业公司 South32 股价早盘上涨 10%，报 4.29 澳元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3289002"
+  },
+  {
+    "post": "Financial_Express/3289001",
+    "datetime": "2026-07-01T00:03:37+00:00",
+    "views": "1",
+    "text": "当地媒体报道，墨西哥瓦哈卡州萨利纳克鲁斯的安东尼奥·多瓦利·海梅炼油厂发生爆炸，致三名工人受伤。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3289001"
+  },
+  {
+    "post": "Financial_Express/3289000",
+    "datetime": "2026-07-01T00:02:57+00:00",
+    "views": "32",
+    "text": "据华尔街日报：在沙特拒绝为“自由行动”项目开放其军事基地后，美国威胁要中断对沙特的拦截器的供应。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3289000"
+  },
+  {
     "post": "Financial_Express/3288999",
     "datetime": "2026-07-01T00:01:38+00:00",
-    "views": "1",
+    "views": "32",
     "text": "香港举行升旗仪式和酒会庆祝回归祖国 29 周年\n7 月 1 日上午，香港特区政府举行升旗仪式和酒会，庆祝香港回归祖国 29 周年。上午 8 时，升旗仪式在香港金紫荆广场举行。香港特别行政区行政长官李家超、中央驻港机构负责人以及社会各界人士共同出席。伴随着国歌奏响，鲜艳的五星红旗和香港特别行政区区旗在金紫荆广场冉冉升起。现场全体人员肃立面向国旗和区旗，高唱国歌。升旗仪式结束后，香港特区政府在香港会议展览中心举行香港回归祖国 29 周年庆祝酒会。当天清晨，中央驻港机构也举行了升国旗仪式。（央视）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3288998",
     "datetime": "2026-07-01T00:00:58+00:00",
-    "views": "2",
+    "views": "33",
     "text": "30 年期日本国债收益率上涨 2.0 个基点，至 3.965%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3288997",
     "datetime": "2026-07-01T00:00:57+00:00",
-    "views": "2",
+    "views": "33",
     "text": "韩国综合股价指数（KOSPI）开盘上涨 1.4%，至 8591.50 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3288996",
     "datetime": "2026-07-01T00:00:38+00:00",
-    "views": "2",
+    "views": "33",
     "text": "日韩股市开盘\n日经 225 指数上午开盘报 70774.28 点，涨幅 1.02％。韩国综合股价指数（KOSPI）开盘上涨 1.4％，至 8591.50 点。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3288995",
     "datetime": "2026-07-01T00:00:37+00:00",
-    "views": "2",
+    "views": "33",
     "text": "韩国 6 月出口同比 70.9%，预期 60.7%，前值 53.2%。韩国 6 月进口同比 30.1%，预期 24.5%，前值 20.8%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3288992",
     "datetime": "2026-07-01T00:00:18+00:00",
-    "views": "2",
+    "views": "33",
     "text": "韩国 6 月出口年率 70.9%，预期 61%，前值由 53.20%修正为 53.40%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3288993",
     "datetime": "2026-07-01T00:00:18+00:00",
-    "views": "2",
+    "views": "33",
     "text": "韩国 6 月进口年率 30.1%，预期 26.3%，前值由 20.80%修正为 20.70%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3288994",
     "datetime": "2026-07-01T00:00:18+00:00",
-    "views": "2",
+    "views": "33",
     "text": "韩国 6 月贸易帐初值 361.5 亿美元，预期 325.8 亿美元，前值由 269.49 亿美元修正为 270.36 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3288991",
     "datetime": "2026-06-30T23:59:37+00:00",
-    "views": "2",
+    "views": "33",
     "text": "日本首相设定目标 争取到 2040 财年名义 GDP 达到 6.8 万亿美元\n日本首相高市早苗设定目标，争取到 2040 年财年名义国内生产总值(GDP)扩大到 6.8 万亿美元，其中约五分之一将来自国内民间资本投资。高市早苗表示，“这项涵盖至 2040 财年的计划旨在到 2040 财年实现 230 万亿日元的国内民间资本投资，推动 GDP 接近 1100 万亿日元（6.8 万亿美元），同时稳步降低债务占 GDP 的比重。”高市早苗还表示，“我们还将努力尽快实现实际经济增长率超过 1%、名义经济增长率超过 3%，并进一步提高这一增长目标。”高市早苗寻求摆脱日本长期投资不足的趋势，同时说服市场相信日本政府不会过度支出。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3288990",
     "datetime": "2026-06-30T23:58:37+00:00",
-    "views": "33",
+    "views": "34",
     "text": "日本央行短观调查：日本所有企业预计 2026/27 财年欧元兑日元平均汇率为 175.62。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3288989",
     "datetime": "2026-06-30T23:57:58+00:00",
-    "views": "33",
+    "views": "34",
     "text": "德国称欧盟预算“难以负担”，要求削减 4,000 亿欧元\n媒体周二看到的一份德国政府内部文件显示，德国要求将欧盟执委会提出的 2028-2034 年 2 万亿欧元预算削减 4,000 亿欧元（约合 4,560 亿美元），并警告称目前的方案“难以负担”。由于欧盟预算需要全部 27 个成员国一致同意，德国的强烈反对预示着未来面临艰难谈判。柏林方面在文件中警告称，“照此情况，达成协议是不可能的。”作为欧盟最大的净出资国，德国对下一期七年预算的拟议规模感到担忧。与 2021-2027 年 1.3 万亿欧元的预算相比，新预算规模大幅增加。柏林方面认为，即使按照其提议削减 4,000 亿欧元，新预算规模仍将比当前预算高出 27%，这将使德国每年的出资超过 500 亿欧元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3288988",
     "datetime": "2026-06-30T23:57:17+00:00",
-    "views": "32",
+    "views": "33",
     "text": "国际货币基金组织称新西兰需要加息。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3288987",
     "datetime": "2026-06-30T23:56:57+00:00",
-    "views": "32",
+    "views": "33",
     "text": "日本央行短观调查：日本所有企业预计 2026/27 财年美元兑日元平均汇率为 152.57。",
     "media_only": false,
     "image_url": null,
@@ -51964,59 +52000,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3283207"
-  },
-  {
-    "post": "Financial_Express/3283206",
-    "datetime": "2026-06-29T00:03:58+00:00",
-    "views": "108",
-    "text": "日经指数回吐开盘涨幅，最新下跌 0.3%，报 69148.85 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3283206"
-  },
-  {
-    "post": "Financial_Express/3283205",
-    "datetime": "2026-06-29T00:03:37+00:00",
-    "views": "107",
-    "text": "韩国 KOSPI 指数盘初跌幅达 2.00%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3283205"
-  },
-  {
-    "post": "Financial_Express/3283204",
-    "datetime": "2026-06-29T00:03:17+00:00",
-    "views": "107",
-    "text": "澳大利亚 S&P/ASX 200 指数早盘上涨 0.4%，报 8,795.50 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3283204"
-  },
-  {
-    "post": "Financial_Express/3283203",
-    "datetime": "2026-06-29T00:02:58+00:00",
-    "views": "107",
-    "text": "韩国综指跌幅扩大至 2%\n韩国综指跌幅扩大至 2%，现报 8240.63 点。个股方面，三星电子跌超 3%，SK 海力士跌超 2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3283203"
-  },
-  {
-    "post": "Financial_Express/3283202",
-    "datetime": "2026-06-29T00:02:57+00:00",
-    "views": "106",
-    "text": "韩国综指跌幅扩大至 1%\n韩国综指跌幅扩大至 1%，现报 8253.5 点。个股方面，三星电子跌超 3%，SK 海力士跌超 2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3283202"
-  },
-  {
-    "post": "Financial_Express/3283201",
-    "datetime": "2026-06-29T00:02:38+00:00",
-    "views": "101",
-    "text": "银河证券：建议聚焦具备真实订单、盈利高增、景气度延续的硬核科技与行业龙头\n银河证券 A 股市场投资展望认为，随着美伊和谈推进，海峡恢复通航预期升温，国际原油价格基本回吐本轮美伊地缘冲突带来的溢价。但美联储加息预期对于市场情绪和全球流动性的影响持续，海外资本市场波动放大。科技产业景气验证持续。美光科技最新财报大幅超出市场预期，且后续业绩指引进一步验证全球 AI 硬件需求高景气。产业链利好传导至 A 股市场，推动存储芯片、半导体材料等走出结构性行情，资金进一步在科技板块内部进行轮动调整。市场呈现出“重景气、重兑现”的定价思路。国内工业企业利润数据进一步夯实了市场景气主线，高技术制造业、电子行业利润大幅高增，有色、化工等资源板块盈利持续修复。A 股两融余额首次突破 3 万亿元，直观反映出投资者风险偏好抬升、市场交易活跃度持续升温。本轮杠杆资金呈现显著的结构性特征，增量资金集中布局于 AI 硬件、半导体等高景气成长赛道。展望后续，存量资金可为优质景气标的提供底部承接、支撑结构性行情延续，但结构性拥挤特征也意味着板块轮动与分化节奏加快。随着 7 月进入中报预告披露窗口，市场核心逻辑转向业绩兑现，建议聚焦具备真实订单、盈利高增、景气度延续的硬核科技与行业龙头。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3283201"
   }
 ]
