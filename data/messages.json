@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3290998",
+    "datetime": "2026-07-01T13:16:18+00:00",
+    "views": "2",
+    "text": "美联储主席沃什：货币政策会在我们的经济体之间产生溢出效应。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3290998"
+  },
+  {
+    "post": "Financial_Express/3290999",
+    "datetime": "2026-07-01T13:16:18+00:00",
+    "views": "2",
+    "text": "美联储沃什：各国货币政策会产生跨境溢出效应。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3290999"
+  },
+  {
+    "post": "Financial_Express/3290997",
+    "datetime": "2026-07-01T13:15:59+00:00",
+    "views": "4",
+    "text": "叙利亚人民议会议员完整名单获确认 将召开首次会议\n叙利亚人民议会选举高级委员会 7 月 1 日宣布由叙过渡政府总统艾哈迈德·沙拉任命的 70 名人民议会议员名单。至此，叙人民议会全部 210 名议员名单获该委员会确认。（新华社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3290997"
+  },
+  {
+    "post": "Financial_Express/3290996",
+    "datetime": "2026-07-01T13:15:58+00:00",
+    "views": "4",
+    "text": "沃什：希望专项工作组的研究成果能惠及公众。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3290996"
+  },
+  {
+    "post": "Financial_Express/3290995",
+    "datetime": "2026-07-01T13:15:38+00:00",
+    "views": "5",
+    "text": "加拿大央行行长麦克勒姆：加拿大央行准备在情况变化时采取行动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3290995"
+  },
+  {
+    "post": "Financial_Express/3290994",
+    "datetime": "2026-07-01T13:15:37+00:00",
+    "views": "5",
+    "text": "加拿大央行行长麦克勒姆：在不确定性环境中我们必须保持谦逊；如果情况发生变化，我们已准备好采取行动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3290994"
+  },
+  {
+    "post": "Financial_Express/3290993",
+    "datetime": "2026-07-01T13:15:18+00:00",
+    "views": "6",
+    "text": "加拿大央行行长麦克勒姆：在不确定性面前我们必须保持谦逊，若形势生变，我们已准备好采取行动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3290993"
+  },
+  {
+    "post": "Financial_Express/3290992",
+    "datetime": "2026-07-01T13:15:17+00:00",
+    "views": "6",
+    "text": "加拿大央行行长麦克勒姆：我们处在中性利率区间的下限，大致处于能够抑制通胀的合适水平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3290992"
+  },
+  {
+    "post": "Financial_Express/3290990",
+    "datetime": "2026-07-01T13:14:58+00:00",
+    "views": "6",
+    "text": "在英国央行行长贝利讲话后，英镑兑美元 GBP/USD 短线走低超 20 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3290990"
+  },
+  {
+    "post": "Financial_Express/3290991",
+    "datetime": "2026-07-01T13:14:58+00:00",
+    "views": "6",
+    "text": "加拿大央行行长麦克勒姆：我们目前的政策利率处于中性区间的下限，这一水平恰好能抑制通胀。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3290991"
+  },
+  {
     "post": "Financial_Express/3290988",
     "datetime": "2026-07-01T13:14:18+00:00",
-    "views": "4",
+    "views": "41",
     "text": "加拿大央行行长麦克勒姆：通胀水平明显高于目标区间。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3290989",
     "datetime": "2026-07-01T13:14:18+00:00",
-    "views": "4",
+    "views": "41",
     "text": "英国央行贝利：有充分依据证明货币政策已处于紧缩状态。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3290987",
     "datetime": "2026-07-01T13:14:17+00:00",
-    "views": "4",
+    "views": "41",
     "text": "加拿大央行行长麦克勒姆：通胀明显高于目标。加拿大经济疲软。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3290986",
     "datetime": "2026-07-01T13:13:58+00:00",
-    "views": "5",
+    "views": "42",
     "text": "加拿大央行行长麦克勒姆表示：加拿大经济当前表现疲软。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3290985",
     "datetime": "2026-07-01T13:13:57+00:00",
-    "views": "5",
+    "views": "42",
     "text": "英国央行行长贝利：可以说我们在没有加息的情况下已经收紧了政策。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3290984",
     "datetime": "2026-07-01T13:13:37+00:00",
-    "views": "5",
+    "views": "42",
     "text": "英国央行行长贝利：能源价格已回落，但英国经济对此存在滞后反应。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3290982",
     "datetime": "2026-07-01T13:13:19+00:00",
-    "views": "5",
+    "views": "42",
     "text": "英国央行行长贝利：能源价格已回落。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3290983",
     "datetime": "2026-07-01T13:13:19+00:00",
-    "views": "5",
+    "views": "42",
     "text": "美元指数 DXY 短线小幅走高，现报 101.57。欧元兑美元 EUR/USD 日内跌幅达 0.50%，现报 1.1363。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3290981",
     "datetime": "2026-07-01T13:12:38+00:00",
-    "views": "40",
+    "views": "45",
     "text": "南非汽车协会：南非 6 月新车销量同比增长 15.3%，至 54,482 辆。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3290980",
     "datetime": "2026-07-01T13:12:37+00:00",
-    "views": "40",
+    "views": "46",
     "text": "英国央行行长贝利：我们对能源价格的反应机制存在滞后。",
     "media_only": false,
     "image_url": null,
@@ -52765,14 +52855,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3285114"
-  },
-  {
-    "post": "Financial_Express/3285113",
-    "datetime": "2026-06-29T13:15:18+00:00",
-    "views": "80",
-    "text": "石基信息：发行股份购买思迅软件 13.5%股权获深交所审核通过\n石基信息(002153)6 月 29 日公告，公司拟发行股份购买深圳市思迅软件股份有限公司（简称“思迅软件”）13.50%股权。深交所并购重组审核委员会于 6 月 29 日召开 2026 年第 8 次并购重组审核委员会审议会议，对本次交易的申请进行了审议。审议结果为：本次交易符合重组条件和信息披露要求。本次交易尚需取得证监会同意注册的批复，最终能否取得证监会同意注册的批复及最终取得时间仍存在不确定性。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3285113"
   }
 ]
