@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3294476",
+    "datetime": "2026-07-02T17:39:38+00:00",
+    "views": "1",
+    "text": "微软将整合消费端与企业端 Copilot 为统一应用\n据报道，微软一名高管周四上午对内告知员工，公司正计划将面向普通用户与企业用户的两款 Copilot 人工智能聊天机器人合并为一款独立应用，以此打造实力更强的竞品，对标 Anthropic 的 Claude 以及 OpenAI 的 ChatGPT。内部备忘录显示，执行副总裁雅各布・安德烈乌在这份 1200 字的文件中表示，这款全新统一版应用还将搭载 AI 编程工具，以及多款全新智能代理功能，该类功能需用户额外付费使用。备忘录提及，全新智能代理系列命名为 AutoPilot，主打 “全天候在线”，可代用户处理各类事务，实现 “繁杂工作自动化”。微软此前已展示过一款名为 Scout 的 AutoPilot 智能代理，该工具能够整理用户日程、监控收件箱，并汇总生成精选邮件摘要。目前安德烈乌统筹多个团队，研发其他多品类同类智能代理。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3294476"
+  },
+  {
+    "post": "Financial_Express/3294475",
+    "datetime": "2026-07-02T17:39:37+00:00",
+    "views": "1",
+    "text": "据 The Information：微软 Copilot 执行官雅各布·安德鲁正在削减低价值的 Copilot 功能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3294475"
+  },
+  {
+    "post": "Financial_Express/3294474",
+    "datetime": "2026-07-02T17:38:58+00:00",
+    "views": "1",
+    "text": "微软 Copilot 高管雅各布·安德烈乌正在削减 Copilot 的低价值功能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3294474"
+  },
+  {
     "post": "Financial_Express/3294473",
     "datetime": "2026-07-02T17:38:17+00:00",
-    "views": "1",
+    "views": "31",
     "text": "据 The Information：微软(MSFT.O)计划在八月合并其消费者和企业的 Copilot 聊天机器人。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3294472",
     "datetime": "2026-07-02T17:37:57+00:00",
-    "views": "1",
+    "views": "32",
     "text": "伊朗总统：保卫武装力量是我的职责，我将倾尽全部力量支持军队；针对向某企业供应 2000 万桶原油一事引发的外界批评，相关信息仅属内部披露，不予理会；并承诺若再出现类似情况，将供应 1 亿桶原油。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3294468",
     "datetime": "2026-07-02T17:29:37+00:00",
-    "views": "99",
+    "views": "129",
     "text": "谷歌(GOOG.O)：已禁用 NetNut 用于恶意软件指挥和控制的谷歌账户。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3294467",
     "datetime": "2026-07-02T17:29:18+00:00",
-    "views": "100",
+    "views": "130",
     "text": "谷歌云：GTIG 估计 Netnut 僵尸网络在全球拥有 200 万台设备。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3294465",
     "datetime": "2026-07-02T17:29:17+00:00",
-    "views": "100",
+    "views": "130",
     "text": "谷歌(GOOG.O)：已对“NetNut 住宅代理网络”（也称为 POPA）采取行动。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3294466",
     "datetime": "2026-07-02T17:29:17+00:00",
-    "views": "100",
+    "views": "130",
     "text": "谷歌云：已停用 NetNut 用于恶意软件指挥与控制的谷歌账号。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3294463",
     "datetime": "2026-07-02T17:28:17+00:00",
-    "views": "129",
+    "views": "130",
     "text": "加拿大总理卡尼：加拿大将维持不列颠哥伦比亚省北海岸外海域的油轮禁令。",
     "media_only": false,
     "image_url": null,
