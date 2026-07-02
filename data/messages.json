@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3294623",
+    "datetime": "2026-07-02T20:10:37+00:00",
+    "views": "6",
+    "text": "巴拿马运河管理局公告：新巴拿马型船闸船舶最大允许吃水深度将于 7 月 24 日下调至 49 英尺，8 月 15 日进一步降至 48.5 英尺。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3294623"
+  },
+  {
     "post": "Financial_Express/3294622",
     "datetime": "2026-07-02T20:09:57+00:00",
-    "views": "2",
+    "views": "6",
     "text": "巴拿马运河管理局发布声明称，将在新巴拿马型船闸实施吃水深度缩减管控。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3294621",
     "datetime": "2026-07-02T20:06:38+00:00",
-    "views": "37",
+    "views": "39",
     "text": "Meta 首席技术官：鼠标轨迹追踪软件上线前已完成隐私、法务及其他多轮审核。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3294620",
     "datetime": "2026-07-02T20:06:37+00:00",
-    "views": "37",
+    "views": "39",
     "text": "金十图示：2026 年 07 月 02 日（周四）全球股市指数-美洲市场（收盘）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3294619",
     "datetime": "2026-07-02T20:06:17+00:00",
-    "views": "37",
+    "views": "39",
     "text": "金十图示：2026 年 07 月 02 日（周四）美股热门股票行情一览（美股收盘）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3294618",
     "datetime": "2026-07-02T20:05:58+00:00",
-    "views": "37",
+    "views": "39",
     "text": "金十图示：2026 年 07 月 02 日（周四）热门中概股行情一览（美股收盘）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3294617",
     "datetime": "2026-07-02T20:05:57+00:00",
-    "views": "37",
+    "views": "69",
     "text": "据以色列 i24News：以色列安全官员回应《纽约时报》相关报道时表示，“如果以色列想清除任何人，就一定做得到。”（此前报道称，美国官员在美伊谈判期间曾担忧以色列可能对伊朗谈判关键人物采取暗杀行动。）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3294616",
     "datetime": "2026-07-02T20:05:37+00:00",
-    "views": "37",
+    "views": "69",
     "text": "Meta Platforms(META.O)CTO：鼠标追踪软件在发布前经过了隐私、法律和其他方面的审查。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3294615",
     "datetime": "2026-07-02T20:04:17+00:00",
-    "views": "38",
+    "views": "39",
     "text": "美国证券交易委员会披露文件：AdaptHealth 公司证实保险账单密码文件遭外泄，健康记录访问门户遭非法入侵， 截至 2026 年 7 月 2 日，该事件尚未对公司运营及患者服务造成重大影响。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3294614",
     "datetime": "2026-07-02T20:02:57+00:00",
-    "views": "67",
+    "views": "68",
     "text": "本周标普 500 指数上涨 1.75%，纳斯达克指数上涨 2.12%，道琼斯工业平均指数上涨 1.97%。道指连续第四周上涨，创下自 2024 年 10 月以来的最长连涨纪录。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3294613",
     "datetime": "2026-07-02T20:02:38+00:00",
-    "views": "68",
+    "views": "69",
     "text": "“特斯拉劲敌”Rivian 收涨 78.4%，创 1 月 13 日以来收盘新高。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3294612",
     "datetime": "2026-07-02T20:02:37+00:00",
-    "views": "68",
+    "views": "69",
     "text": "特斯拉(TSLA.O)收跌 7.5%，创将近一年来最差单日表现。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3294611",
     "datetime": "2026-07-02T20:02:17+00:00",
-    "views": "69",
+    "views": "70",
     "text": "特斯拉收跌 7.5%，创将近一年来最差单日表现。",
     "media_only": false,
     "image_url": null,
@@ -52405,32 +52414,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3288763"
-  },
-  {
-    "post": "Financial_Express/3288762",
-    "datetime": "2026-06-30T20:11:17+00:00",
-    "views": "114",
-    "text": "埃及、土耳其同哈马斯讨论落实加沙停火事宜\n埃及与土耳其情报官员 30 日在埃及首都开罗同巴勒斯坦伊斯兰抵抗运动（哈马斯）多名高级官员举行会晤，就落实加沙停火事宜展开讨论。据埃及方面消息，由哈利勒·哈亚、哈立德·迈沙阿勒等哈马斯高级官员组成的代表团当日早些时候抵达开罗，恢复关于加沙停火第二阶段的谈判。埃及情报总局局长哈桑·拉沙德与土耳其国家情报局局长卡林同哈马斯代表团举行会谈。据悉，三方当天的会谈取得“积极进展”。各方对美国提出的结束加沙冲突计划持乐观看法。哈马斯官员确认将全力支持和落实该计划。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3288762"
-  },
-  {
-    "post": "Financial_Express/3288761",
-    "datetime": "2026-06-30T20:10:57+00:00",
-    "views": "112",
-    "text": "美股“七巨头”指数 6 月下跌 8.9%，创 2025 年 3 月以来最差单月表现。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3288761"
-  },
-  {
-    "post": "Financial_Express/3288760",
-    "datetime": "2026-06-30T20:10:37+00:00",
-    "views": "107",
-    "text": "内塔尼亚胡：以色列战无止境\n金十数据 7 月 1 日讯，当地时间 6 月 30 日，以色列总理内塔尼亚胡在接受以色列第 14 频道电视台采访时赞扬了以色列“近年来取得的军事成就”，但表示以色列的战斗“永无止境”，“对抗伊朗及其盟友仍任重而道远”。内塔尼亚胡在采访中称，以色列在对抗伊朗、哈马斯和黎巴嫩真主党的战线上取得“巨大成功”，但随后又称，“战争永远不会结束”——他强调，在中东乃至全世界的地缘环境中，只有保持强大的军事实力，才能生存下去。而以色列“现在比以往任何时候都更加强大”，“已成功击退并极大地削弱了相关安全威胁，但仍需执行后续军事任务”。在谈到中东地缘政治变局时，内塔尼亚胡被问及未来可能与哪些国家达成和平协议，但他拒绝透露具体国名，只是称“正与多个国家进行接触”，并强调“只有当自身保持强大时，其他国家才会与之结盟并实现和平”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3288760"
   }
 ]
