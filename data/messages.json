@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3294630",
+    "datetime": "2026-07-02T20:23:57+00:00",
+    "views": "3",
+    "text": "Meta 首席技术官：若公司重新启用鼠标轨迹追踪程序，将设置为用户主动选择加入模式。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3294630"
+  },
+  {
+    "post": "Financial_Express/3294629",
+    "datetime": "2026-07-02T20:23:17+00:00",
+    "views": "4",
+    "text": "Meta Platforms(META.O)CTO：如果公司重新启用鼠标追踪程序，将会采用选择加入的方式。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3294629"
+  },
+  {
     "post": "Financial_Express/3294628",
     "datetime": "2026-07-02T20:18:58+00:00",
-    "views": "5",
+    "views": "36",
     "text": "Meta 首席技术官：针对鼠标追踪数据安全事件的初步核查显示，暂无员工数据被用于人工智能模型训练。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3294627",
     "datetime": "2026-07-02T20:18:57+00:00",
-    "views": "5",
+    "views": "36",
     "text": "Meta Platforms(META.O)CTO：对鼠标追踪数据安全事件的初步审查表明，人工智能训练中并未包含任何员工数据。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3294626",
     "datetime": "2026-07-02T20:17:17+00:00",
-    "views": "37",
+    "views": "38",
     "text": "金十图示：2026 年 07 月 02 日（周四）华尔街恐惧与贪婪指数（美盘后）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3294625",
     "datetime": "2026-07-02T20:15:37+00:00",
-    "views": "38",
+    "views": "69",
     "text": "洛克希德・马丁是收购海军防务企业 Ultra Maritime 的头号竞标方，交易金额约 35 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3294624",
     "datetime": "2026-07-02T20:12:57+00:00",
-    "views": "70",
+    "views": "71",
     "text": "巴拿马运河管理局：将降低新巴拿马型船舶船闸吃水深度。自 7 月 24 日起，新巴拿马型船舶船闸的最大吃水深度将调整为 49 英尺，自 8 月 15 日起调整为 48.5 英尺。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3294623",
     "datetime": "2026-07-02T20:10:37+00:00",
-    "views": "71",
+    "views": "72",
     "text": "巴拿马运河管理局公告：新巴拿马型船闸船舶最大允许吃水深度将于 7 月 24 日下调至 49 英尺，8 月 15 日进一步降至 48.5 英尺。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3294622",
     "datetime": "2026-07-02T20:09:57+00:00",
-    "views": "71",
+    "views": "72",
     "text": "巴拿马运河管理局发布声明称，将在新巴拿马型船闸实施吃水深度缩减管控。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3294621",
     "datetime": "2026-07-02T20:06:38+00:00",
-    "views": "102",
+    "views": "103",
     "text": "Meta 首席技术官：鼠标轨迹追踪软件上线前已完成隐私、法务及其他多轮审核。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3294620",
     "datetime": "2026-07-02T20:06:37+00:00",
-    "views": "102",
+    "views": "103",
     "text": "金十图示：2026 年 07 月 02 日（周四）全球股市指数-美洲市场（收盘）",
     "media_only": false,
     "image_url": null,
@@ -52396,14 +52414,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3288770"
-  },
-  {
-    "post": "Financial_Express/3288769",
-    "datetime": "2026-06-30T20:22:57+00:00",
-    "views": "78",
-    "text": "墨西哥北部发生 6.1 级地震\n据墨西哥国家地震监测局发布的消息，当地时间 6 月 30 日 13 时 45 分，墨西哥北部锡那罗亚州瓜萨沃市西南方向约 116 公里处发生 6.1 级地震，震源深度约 5 公里。目前没有人员伤亡的报告。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3288769"
   }
 ]
