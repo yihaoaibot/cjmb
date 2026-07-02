@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3294469",
+    "datetime": "2026-07-02T17:29:57+00:00",
+    "views": "3",
+    "text": "谷歌(GOOG.O)：GTIG 估计 NetNut 僵尸网络规模为全球 200 万设备。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3294469"
+  },
+  {
+    "post": "Financial_Express/3294468",
+    "datetime": "2026-07-02T17:29:37+00:00",
+    "views": "3",
+    "text": "谷歌(GOOG.O)：已禁用 NetNut 用于恶意软件指挥和控制的谷歌账户。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3294468"
+  },
+  {
+    "post": "Financial_Express/3294467",
+    "datetime": "2026-07-02T17:29:18+00:00",
+    "views": "4",
+    "text": "谷歌云：GTIG 估计 Netnut 僵尸网络在全球拥有 200 万台设备。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3294467"
+  },
+  {
+    "post": "Financial_Express/3294465",
+    "datetime": "2026-07-02T17:29:17+00:00",
+    "views": "4",
+    "text": "谷歌(GOOG.O)：已对“NetNut 住宅代理网络”（也称为 POPA）采取行动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3294465"
+  },
+  {
+    "post": "Financial_Express/3294466",
+    "datetime": "2026-07-02T17:29:17+00:00",
+    "views": "4",
+    "text": "谷歌云：已停用 NetNut 用于恶意软件指挥与控制的谷歌账号。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3294466"
+  },
+  {
+    "post": "Financial_Express/3294464",
+    "datetime": "2026-07-02T17:28:37+00:00",
+    "views": "35",
+    "text": "谷歌云：已对 NETNUT 住宅代理网络（亦称 POPA）采取行动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3294464"
+  },
+  {
     "post": "Financial_Express/3294463",
     "datetime": "2026-07-02T17:28:17+00:00",
-    "views": "1",
+    "views": "35",
     "text": "加拿大总理卡尼：加拿大将维持不列颠哥伦比亚省北海岸外海域的油轮禁令。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3294462",
     "datetime": "2026-07-02T17:26:57+00:00",
-    "views": "32",
+    "views": "36",
     "text": "德国总理默茨：改革方案可能使德国 2027 年 GDP 至少增长 1%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3294461",
     "datetime": "2026-07-02T17:26:38+00:00",
-    "views": "32",
+    "views": "36",
     "text": "加拿大总理卡尼警告称该国在港口物流方面“严重落后”。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3294460",
     "datetime": "2026-07-02T17:26:37+00:00",
-    "views": "32",
+    "views": "36",
     "text": "加拿大总理卡尼：国家在港口物流方面“远远落后”。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3294459",
     "datetime": "2026-07-02T17:26:18+00:00",
-    "views": "37",
+    "views": "70",
     "text": "加拿大将提供 100 亿加元以扩大温哥华港的吞吐能力。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3294458",
     "datetime": "2026-07-02T17:26:17+00:00",
-    "views": "37",
+    "views": "39",
     "text": "加拿大总理卡尼：加拿大将提供 100 亿加元用于扩建温哥华港口的运力。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3294457",
     "datetime": "2026-07-02T17:25:57+00:00",
-    "views": "37",
+    "views": "69",
     "text": "德国总理默茨：一揽子改革方案有望将德国 2027 年国内生产总值增速至少提升 1 个百分点。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3294456",
     "datetime": "2026-07-02T17:23:17+00:00",
-    "views": "88",
+    "views": "90",
     "text": "摩根大通：Meta 的云计划或表明其 AI 进展缓慢\n摩根大通认为，如果 Meta 决定推出云基础设施业务，1 吉瓦的算力可能会为 Meta 带来约 200 亿美元的年营收和数美元的每股收益。此前有报道称，Meta 正在考虑这一举措。但摩根大通的分析师也认为，这表明该公司在专有 AI 工作方面缺乏进展。“我们更希望 Meta 开发核心 AI 产品，在其 40 亿用户基础上加以利用，并为其自身的推理需求提供大规模算力，而不是出售其基础设施的使用权，”摩根大通的分析师在一份报告中说。“这仍然向我们表明，Meta 在广告以外的 AI 产品吸引力仍然有限。”Meta 股价跌超 4%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3294455",
     "datetime": "2026-07-02T17:22:57+00:00",
-    "views": "61",
+    "views": "93",
     "text": "加拿大总理卡尼：加拿大与不列颠哥伦比亚省达成协议，将维持联邦“北海岸油轮禁令”。同时，联邦政府将加快推进新液化天然气项目建设，目标是在未来十年内将液化天然气产量提高至原来的三倍。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3294454",
     "datetime": "2026-07-02T17:22:17+00:00",
-    "views": "92",
+    "views": "94",
     "text": "加拿大将最高提供 30 亿加元资金支持乔治·梅西隧道项目，计划投资 5 亿加元扩建雷德克里斯铜金矿。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3294453",
     "datetime": "2026-07-02T17:21:58+00:00",
-    "views": "95",
+    "views": "97",
     "text": "加拿大总理卡尼：联邦政府将加速新建液化天然气项目，目标在未来十年将液化天然气产量提升两倍。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3294452",
     "datetime": "2026-07-02T17:21:57+00:00",
-    "views": "95",
+    "views": "97",
     "text": "欧盟外交与安全政策高级代表卡拉斯：欧盟将通过对黎巴嫩武装部队的 1 亿欧元援助，支持其加强国家安全与“武器垄断权”，并考虑进一步安全支持及可能的欧盟任务。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3294451",
     "datetime": "2026-07-02T17:21:38+00:00",
-    "views": "70",
+    "views": "102",
     "text": "加拿大总理卡尼：加拿大与不列颠哥伦比亚省达成的协议承诺维持联邦政府的北海岸油轮禁令。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3294450",
     "datetime": "2026-07-02T17:21:37+00:00",
-    "views": "68",
+    "views": "100",
     "text": "加拿大联邦与不列颠哥伦比亚省签署协议，推进多项重大基建项目。加拿大将出资 35 亿加元建设北海岸输电线路。",
     "media_only": false,
     "image_url": null,
@@ -52801,32 +52855,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3288559"
-  },
-  {
-    "post": "Financial_Express/3288558",
-    "datetime": "2026-06-30T17:30:57+00:00",
-    "views": "150",
-    "text": "巴西政府将逐步削减紧急燃料补贴。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3288558"
-  },
-  {
-    "post": "Financial_Express/3288557",
-    "datetime": "2026-06-30T17:30:38+00:00",
-    "views": "143",
-    "text": "OMFIF 调查：央行首次计划净减持美元 转向黄金\n金十数据 7 月 1 日讯，一项调查显示，随着美国政治与地缘风险上升，全球央行正加速调整外汇储备结构。伦敦官方货币与金融机构论坛（OMFIF）对 74 家央行的调查显示，首次出现“未来十年减少美元配置的央行数量超过增加配置”的情况，反映美元吸引力下降。报告指出，地缘政治因素已成为影响美元投资意愿的主要原因之一，叠加美国贸易政策不确定性上升，推动全球“去美元化”趋势。尽管如此，美元仍约占全球央行储备的 58%，短期内仍保持主导地位。与此同时，央行对黄金的需求显著上升，创纪录比例的受访机构计划增加黄金配置，以对冲地缘政治风险与金融体系不稳定性。此外，欧元及人民币的吸引力也在增强，分别在国际贸易和多元化配置中获得更多关注，部分新兴市场货币同样受到青睐。总体来看，全球储备体系正呈现缓慢多元化趋势，美元主导地位仍在，但边际优势正在下降。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3288557"
-  },
-  {
-    "post": "Financial_Express/3288556",
-    "datetime": "2026-06-30T17:29:17+00:00",
-    "views": "141",
-    "text": "巴西政府将开始削减紧急燃油补贴。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3288556"
   }
 ]
