@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3294432",
     "datetime": "2026-07-02T17:03:57+00:00",
-    "views": "7",
+    "views": "42",
     "text": "美国联邦贸易委员会（FTC）：旅游应用 Hopper 将支付 3500 万美元，了结联邦贸易委员会对其提出的相关指控。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3294431",
     "datetime": "2026-07-02T17:03:37+00:00",
-    "views": "8",
+    "views": "43",
     "text": "费城半导体指数跌超 6% 美光科技、Arm 跌超 6%\n费城半导体指数跌超 6%，科磊跌超 12%，美光科技、Arm 跌超 6%，美国超微公司、英特尔、高通跌超 5%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3294430",
     "datetime": "2026-07-02T17:03:19+00:00",
-    "views": "13",
+    "views": "47",
     "text": "美国至 7 月 3 日当周天然气钻井总数 126 口，前值 125 口。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3294429",
     "datetime": "2026-07-02T17:03:18+00:00",
-    "views": "14",
+    "views": "48",
     "text": "美国至 7 月 3 日当周总钻井总数 580 口，前值 573 口。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3294428",
     "datetime": "2026-07-02T17:02:37+00:00",
-    "views": "47",
+    "views": "49",
     "text": "美国油服贝克休斯：美国能源企业钻井机连增三周。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3294427",
     "datetime": "2026-07-02T17:02:17+00:00",
-    "views": "49",
+    "views": "50",
     "text": "美国 7 月 3 日当周石油钻井数 445，前值 440。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3294426",
     "datetime": "2026-07-02T17:01:38+00:00",
-    "views": "53",
+    "views": "54",
     "text": "美国 7 月 3 日当周总钻井数 580，前值 573。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3294424",
     "datetime": "2026-07-02T17:01:18+00:00",
-    "views": "53",
+    "views": "54",
     "text": "贝克休斯：截至 7 月 2 日当周，美国天然气钻井平台数量增加 1 座，至 126 座。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3294425",
     "datetime": "2026-07-02T17:01:18+00:00",
-    "views": "53",
+    "views": "84",
     "text": "截至 7 月 2 日当周，美国各油气盆地每周石油天然气钻井平台数量变动如下：二叠纪盆地较一周前增加 3 座；伊格尔福德盆地不变；威利斯顿盆地减少 1 座；奈厄布拉勒盆地不变；海恩斯维尔盆地不变；尤蒂卡盆地不变。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3294422",
     "datetime": "2026-07-02T17:00:37+00:00",
-    "views": "54",
+    "views": "84",
     "text": "以色列国防部长卡茨：在今日的一次评估中获悉，以军已摧毁加沙地带由以色列国防军控制区域内约 83%的哈马斯地道网络。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3294421",
     "datetime": "2026-07-02T17:00:17+00:00",
-    "views": "55",
+    "views": "85",
     "text": "夜盘期货收盘\n国际铜夜盘收涨 0.22%，沪铜收涨 0.12%，沪铝收涨 0.09%，沪锌收跌 0.43%，沪铅收涨 0.19%，沪镍收跌 0.62%，沪锡收跌 0.85%。氧化铝夜盘收跌 1.73%，铝合金收涨 0.67%。不锈钢夜盘收跌 0.31%。",
     "media_only": false,
     "image_url": null,
@@ -52738,14 +52738,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3288535"
-  },
-  {
-    "post": "Financial_Express/3288534",
-    "datetime": "2026-06-30T17:05:37+00:00",
-    "views": "151",
-    "text": "Anthropic 发布 Claude Science 测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3288534"
   }
 ]
