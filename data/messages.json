@@ -1,9 +1,27 @@
 [
   {
+    "post": "Financial_Express/3291994",
+    "datetime": "2026-07-02T00:09:37+00:00",
+    "views": "2",
+    "text": "日本丸红株式会社股价逆势上涨，现涨 2.8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3291994"
+  },
+  {
+    "post": "Financial_Express/3291993",
+    "datetime": "2026-07-02T00:09:18+00:00",
+    "views": "3",
+    "text": "韩国交易所启动临时停牌机制，暂停 KOSPI 程序化交易 5 分钟。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3291993"
+  },
+  {
     "post": "Financial_Express/3291992",
     "datetime": "2026-07-02T00:08:17+00:00",
-    "views": "1",
-    "text": "韩国交易所启动 SIDECAR 机制，暂停 KOSPI 程序化交易。",
+    "views": "34",
+    "text": "韩国交易所启动 SIDECAR 机制，暂停 KOSPI 程序化交易 5 分钟。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3291992"
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3291991",
     "datetime": "2026-07-02T00:07:58+00:00",
-    "views": "1",
+    "views": "34",
     "text": "受美国半导体股票抛售压力蔓延影响，日经 225 指数下跌超过 2%，一度跌至 69051.63 点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3291990",
     "datetime": "2026-07-02T00:07:17+00:00",
-    "views": "33",
+    "views": "35",
     "text": "石四药集团：美索巴莫片(0.5g)获药品生产注册批件\n石四药集团(02005)发布公告，本集团是首家国内企业取得中国国家药品监督管理局(国家药监局)有关美索巴莫片(0.5g)的药品生产注册批件，属于化学药品第 3 类，视同通过一致性评价。美索巴莫片是一种肌肉松弛药，主要用于关节肌肉扭伤、腰肌劳损、坐骨神经痛等病症。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3291989",
     "datetime": "2026-07-02T00:06:38+00:00",
-    "views": "33",
+    "views": "34",
     "text": "中金：机构间 REITs 供给年底有望实现翻倍扩容\n中金公司表示，展望后市，中金认为机构间 REITs 供给年底有望实现翻倍扩容。市场或将呈现三大发展主线：外资加速布局盘活不动产、储架式序列发行与存量扩募走向常态化、各类首单底层资产持续落地。随着底层运营数据不断积累、监管引导深化，产品架构设计将进一步向权益本源收敛。长远来看，在监管体系逐步完备的支撑下，机构间 REITs 将成为盘活不动产存量资产、服务实体经济的长效权益融资载体。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3291988",
     "datetime": "2026-07-02T00:05:58+00:00",
-    "views": "33",
+    "views": "34",
     "text": "科华数据山河湾谷智算中心揭牌投运\n据科华数据消息，7 月 1 日，由科华数据自主投资、设计及建设的山河湾谷智算中心正式揭牌投运。在座谈会交流及战略签约环节，科华数据与北京移动朝阳分公司正式签署战略合作协议。双方将以山河湾谷智算中心为合作基点，在算力网络共建、智算场景应用、行业解决方案等领域开展深度合作。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3291987",
     "datetime": "2026-07-02T00:05:57+00:00",
-    "views": "33",
+    "views": "34",
     "text": "美国股指期货下跌；纳斯达克 100 指数期货下跌 0.4%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3291986",
     "datetime": "2026-07-02T00:05:37+00:00",
-    "views": "33",
+    "views": "34",
     "text": "国家海洋预报台 7 月 2 日 08 时发布海浪蓝色警报：受南海热带低压的影响，预计：7 月 2 日下午到 3 日上午，南海中部、北部将出现 3 到 5 米的大浪到巨浪区；海南东部近岸海域将出现 2 到 3 米的中浪到大浪，近岸海域海浪预警级别为蓝色。请在上述海域作业的船只注意安全。",
     "media_only": false,
     "image_url": null,
@@ -55087,41 +55105,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3285853"
-  },
-  {
-    "post": "Financial_Express/3285852",
-    "datetime": "2026-06-30T00:09:57+00:00",
-    "views": "94",
-    "text": "前日本央行理事称下一次加息可能在 12 月之前到来\n前日本央行理事 Kenzo Yamamoto 称，随着该行推进目前仍过于宽松的金融环境回归正常，其加息时间可能会早于大多数人的预期。“日本央行处于需要迅速采取行动的局面，” Yamamoto 周一在接受采访时表示。当被问及日本央行是否会如接受媒体调查的大多数经济学家预测的那样在 12 月再次加息时，他表示“鉴于目前的货币宽松程度，下一次加息可能会在那之前就到来。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3285852"
-  },
-  {
-    "post": "Financial_Express/3285851",
-    "datetime": "2026-06-30T00:09:18+00:00",
-    "views": "94",
-    "text": "三星电子股价上涨 3%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3285851"
-  },
-  {
-    "post": "Financial_Express/3285850",
-    "datetime": "2026-06-30T00:08:58+00:00",
-    "views": "94",
-    "text": "网警侦破一起涉世界杯网络赌博推广引流和赌资结算案件，2 人被刑拘\n据公安部网安局消息，公安网安部门深入推进“净网—2026”专项行动，近日，成功侦破一起涉世界杯网络赌博推广引流和赌资结算的案件，成功抓获涉案人 6 名（其中，刑事拘留 2 名），查获涉案手机 19 台，涉案电脑 3 台。经查，涉案人陶某某（男，27 岁）、胡某（男，18 岁）等人，为牟取非法利益，为某赌球平台进行推广引流服务，同时，开设大批支付账号，使用第三方支付平台提供赌资结算服务，非法获利 10 万余元。目前，主要犯罪嫌疑人陶某某、胡某已被属地公安机关依法刑事拘留，案件正在进一步侦办中。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3285850"
-  },
-  {
-    "post": "Financial_Express/3285849",
-    "datetime": "2026-06-30T00:08:37+00:00",
-    "views": "91",
-    "text": "受隔夜美国科技股上涨提振，日经指数扩大涨幅至 1.3%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3285849"
   }
 ]
