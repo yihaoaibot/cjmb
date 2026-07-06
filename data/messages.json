@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3299935",
+    "datetime": "2026-07-06T14:10:38+00:00",
+    "views": "1",
+    "text": "美国总统特朗普：我们没有给伊朗任何资金。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3299935"
+  },
+  {
+    "post": "Financial_Express/3299936",
+    "datetime": "2026-07-06T14:10:38+00:00",
+    "views": "1",
+    "text": "特朗普：我们没有给伊朗任何钱。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3299936"
+  },
+  {
+    "post": "Financial_Express/3299933",
+    "datetime": "2026-07-06T14:10:20+00:00",
+    "views": "2",
+    "text": "美国总统特朗普：（关于伊朗）要么达成协议，要么完成任务。更愿意达成协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3299933"
+  },
+  {
+    "post": "Financial_Express/3299934",
+    "datetime": "2026-07-06T14:10:20+00:00",
+    "views": "2",
+    "text": "特朗普谈伊朗问题：宁愿达成协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3299934"
+  },
+  {
+    "post": "Financial_Express/3299931",
+    "datetime": "2026-07-06T14:09:58+00:00",
+    "views": "2",
+    "text": "高盛：AI 投资重心迈向实体产业 未来 6 年资本开支或达 7.6 万亿美元\n高盛在最新报告中称，人工智能（AI）投资的重心已开始向更广阔的实体经济延伸，算力、电力和数据中心仍在高速建设之际，AI 已同步进入制造、能源、物流、国防、生命科学和机器人等现实场景。2026 年至 2031 年，全球围绕计算、数据中心和电力的 AI 资本开支将达到约 7.6 万亿美元，年度投入将从 2026 年的 7650 亿美元升至 2031 年的 1.64 万亿美元。超大规模云厂商到 2030 年的 AI 投资或超过 6 万亿美元。未来竞争的关键不只是模型或芯片，而是资本结构、能源供给、产业数据、工程能力和部署能力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3299931"
+  },
+  {
+    "post": "Financial_Express/3299932",
+    "datetime": "2026-07-06T14:09:58+00:00",
+    "views": "3",
+    "text": "特朗普谈伊朗：要么我们达成协议，要么我们完成任务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3299932"
+  },
+  {
+    "post": "Financial_Express/3299930",
+    "datetime": "2026-07-06T14:09:37+00:00",
+    "views": "2",
+    "text": "7 月 6 日印度国内资金净买入印度股票 379 亿印度卢比。全球基金净买入印度股票 24.3 亿印度卢比。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3299930"
+  },
+  {
+    "post": "Financial_Express/3299929",
+    "datetime": "2026-07-06T14:09:18+00:00",
+    "views": "3",
+    "text": "美国 6 月 ISM 服务业 PMI 录得 54 连续第 24 个月扩张\n金十数据 7 月 6 日讯，美国 ISM 服务业 PMI 报告显示，6 月服务业经济活动持续扩张。服务业 PMI 录得 54，连续第 24 个月处于扩张区间。ISM 服务业商业调查委员会主席米勒表示：6 月服务业 PMI 录得 54，较 5 月的 54.5 下降 0.5。商业活动指数仍处于扩张区间，较 5 月的 57.7 下降 2.3 至 55.4。6 月价格指数降至 67.7，较 5 月的 71.3 下降 3.6，为自 2 月以来首次跌破 70。该指数已连续 19 个月高于 60，12 个月均值为 68。柴油、汽油、石油及相关商品再次被提及为 6 月份价格上涨最多的商品，但也有其他受访者表示价格下跌。这可能是由于不同公司之间对这些商品签订的合同条款不同所致。部分受访者称汽油和柴油支付价格下降，但这并非普遍现象。我们预计随着油价上涨传导至供应链，这一情况将持续数月，但假设近期霍尔木兹海峡石油运输进展持续，秋季应有所缓解。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3299929"
+  },
+  {
+    "post": "Financial_Express/3299928",
+    "datetime": "2026-07-06T14:08:58+00:00",
+    "views": "33",
+    "text": "特朗普谈伊朗：不寻求政权更迭。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3299928"
+  },
+  {
     "post": "Financial_Express/3299927",
     "datetime": "2026-07-06T14:08:38+00:00",
-    "views": "1",
+    "views": "33",
     "text": "美国总统特朗普：（关于伊朗）我们已获得让步。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3299926",
     "datetime": "2026-07-06T14:07:57+00:00",
-    "views": "3",
+    "views": "34",
     "text": "联合国人权机构：对以色列可能存在广泛或系统性的任意拘留做法表示关切。以色列拘留阿布·萨菲亚违反《世界人权宣言》多项条款及另一重要人权条约。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3299925",
     "datetime": "2026-07-06T14:06:58+00:00",
-    "views": "32",
+    "views": "64",
     "text": "特朗普谈俄乌战争：我认为我们离解决问题越来越近了。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3299924",
     "datetime": "2026-07-06T14:06:38+00:00",
-    "views": "32",
+    "views": "64",
     "text": "特朗普：将在北约会议上讨论俄乌问题。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3299923",
     "datetime": "2026-07-06T14:06:17+00:00",
-    "views": "32",
+    "views": "64",
     "text": "美国总统特朗普：（谈俄乌冲突）我们正在进行谈判，看看是否能结束这场战争。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3299922",
     "datetime": "2026-07-06T14:05:58+00:00",
-    "views": "32",
+    "views": "64",
     "text": "特朗普谈俄乌战争：我们正在谈判。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3299921",
     "datetime": "2026-07-06T14:05:38+00:00",
-    "views": "63",
+    "views": "65",
     "text": "特朗普：普京确实感受到了压力。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3299920",
     "datetime": "2026-07-06T14:05:18+00:00",
-    "views": "63",
+    "views": "64",
     "text": "广西南宁防汛救灾发布会：广西灾情有可能进一步扩大\n广西南宁防汛救灾发布会上介绍，广西此次强降雨导致的水库灾情，险情大、受灾面广、救援复杂程度高，同时还有继续降雨来水的风险。当前抢险救援难度大，受灾群众安置任务重，灾情有可能进一步放大扩大。截至目前，南宁市已转移受灾群众 4.8 万人，应急抢险各项工作正在进行中。 (央视新闻)",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3299919",
     "datetime": "2026-07-06T14:04:58+00:00",
-    "views": "64",
+    "views": "65",
     "text": "以色列央行表示，已将下次利率决议日期从 8 月 31 日推迟至 9 月 1 日。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3299918",
     "datetime": "2026-07-06T14:03:18+00:00",
-    "views": "65",
+    "views": "125",
     "text": "德国将举债 8000 亿欧元重整军备。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +182,7 @@
   {
     "post": "Financial_Express/3299917",
     "datetime": "2026-07-06T14:02:38+00:00",
-    "views": "65",
+    "views": "125",
     "text": "美国 6 月 ISM 非制造业供应商交付指数 54.4，前值 55.2。",
     "media_only": false,
     "image_url": null,
@@ -23380,14 +23461,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3297321"
-  },
-  {
-    "post": "Financial_Express/3297320",
-    "datetime": "2026-07-04T14:09:57+00:00",
-    "views": "190",
-    "text": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3297320"
   }
 ]
