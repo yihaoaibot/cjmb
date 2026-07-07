@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3302881",
+    "datetime": "2026-07-07T20:30:17+00:00",
+    "views": "8",
+    "text": "沃伦就五角大楼人工智能合作协议质询英伟达、SpaceX 与谷歌\n美国参议员办公室邮件声明显示，民主党参议员伊丽莎白·沃伦已致函谷歌、SpaceX、英伟达、Reflection AI,、微软、亚马逊云科技、甲骨文以及美国国防部，质询五角大楼在军事行动中运用人工智能相关事宜。沃伦在联名信函中要求上述各家企业完整公开其与五角大楼签订的全部合同文本。沃伦向相关企业表示，五角大楼称相关合作协议允许政府将企业技术用于大规模监控行动、研发致命自主武器等场景，对此她深感担忧。沃伦要求各方于 7 月 20 日前就以下问题作出答复：1. 合同涵盖范围，包括哪些产品与服务被应用于涉密系统；2. 人工智能技术的具体应用场景；3. 相关协议是否允许五角大楼将人工智能用于前述监控活动或武器研发。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3302881"
+  },
+  {
     "post": "Financial_Express/3302880",
     "datetime": "2026-07-07T20:28:37+00:00",
-    "views": "4",
+    "views": "16",
     "text": "纳斯达克发布医疗信息化服务商 TruBridge 合并相关公告，该公司股票预计 7 月 8 日为最后交易日。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3302879",
     "datetime": "2026-07-07T20:27:18+00:00",
-    "views": "15",
+    "views": "25",
     "text": "亚马逊云科技 AWS：为 AWS 开放数据注册表推出 MCP 服务器。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3302878",
     "datetime": "2026-07-07T20:27:17+00:00",
-    "views": "15",
+    "views": "26",
     "text": "受美国天气担忧以及市场需求回暖信号推动，芝加哥期货交易所（CBOT）大豆价格上涨。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3302877",
     "datetime": "2026-07-07T20:26:57+00:00",
-    "views": "16",
+    "views": "27",
     "text": "埃克森美孚：预计第二季度其他中东因素对能源产品的影响为负 1 亿至负 3 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3302876",
     "datetime": "2026-07-07T20:25:57+00:00",
-    "views": "23",
+    "views": "31",
     "text": "T-Mobile：迈克·卡茨将卸任首席业务与产品官一职，将留任顾问至 2026 年 12 月。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3302875",
     "datetime": "2026-07-07T20:25:37+00:00",
-    "views": "26",
+    "views": "34",
     "text": "T-Mobile 任命克里斯·桑巴尔为首席企业官，并优化领导团队架构，以推动下一阶段战略增长与创新发展。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3302874",
     "datetime": "2026-07-07T20:25:18+00:00",
-    "views": "26",
+    "views": "34",
     "text": "埃克森美孚：预计第二季度其他中东因素对上游业务的影响区间为负 1 亿美元至正 1 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3302873",
     "datetime": "2026-07-07T20:25:17+00:00",
-    "views": "26",
+    "views": "34",
     "text": "埃克森美孚：预估 2026 年第二季度受伊朗战事影响，将产生约 12 亿美元收益损失。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3302872",
     "datetime": "2026-07-07T20:24:37+00:00",
-    "views": "28",
+    "views": "64",
     "text": "据福克斯新闻：美国贸易代表格里尔表示，加拿大和墨西哥未能完全履行《美墨加协定》中的全部承诺。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3302871",
     "datetime": "2026-07-07T20:24:17+00:00",
-    "views": "29",
+    "views": "65",
     "text": "美国贸易代表格里尔谈及美墨加协定：加拿大与墨西哥并未完全履行全部承诺。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3302870",
     "datetime": "2026-07-07T20:23:17+00:00",
-    "views": "62",
+    "views": "68",
     "text": "埃克森美孚：与第一季度相比，利润率变动将对第二季度能源产品收益产生 20 亿至 24 亿美元的影响。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3302869",
     "datetime": "2026-07-07T20:22:58+00:00",
-    "views": "64",
+    "views": "70",
     "text": "埃克森美孚：预计 2026 年第二季度油价将为公司带来 37 亿美元收益增量。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3302868",
     "datetime": "2026-07-07T20:22:57+00:00",
-    "views": "64",
+    "views": "70",
     "text": "美元指数 7 日上涨\n金十数据 7 月 8 日讯，衡量美元对六种主要货币的美元指数当天上涨 0.17%，在汇市尾市收于 101.023。截至纽约汇市尾市，1 欧元兑换 1.1419 美元，低于前一交易日的 1.1443 美元；1 英镑兑换 1.3363 美元，低于前一交易日的 1.3395 美元。1 美元兑换 161.94 日元，低于前一交易日的 162.06 日元；1 美元兑换 0.8076 瑞士法郎，高于前一交易日的 0.8050 瑞士法郎；1 美元兑换 1.4195 加元，低于前一交易日的 1.4209 加元；1 美元兑换 9.6784 瑞典克朗，高于前一交易日的 9.6255 瑞典克朗。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3302867",
     "datetime": "2026-07-07T20:22:37+00:00",
-    "views": "66",
+    "views": "71",
     "text": "埃克森美孚：与第一季度相比，利润率变动将令第二季度化工产品收益减少 10 亿至 12 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3302866",
     "datetime": "2026-07-07T20:21:57+00:00",
-    "views": "65",
+    "views": "70",
     "text": "美元指数 7 日上涨\n美元指数 7 日上涨。衡量美元对六种主要货币的美元指数当天上涨 0.17%，在汇市尾市收于 101.023。截至纽约汇市尾市，1 欧元兑换 1.1419 美元，低于前一交易日的 1.1443 美元；1 英镑兑换 1.3363 美元，低于前一交易日的 1.3395 美元。1 美元兑换 161.94 日元，低于前一交易日的 162.06 日元；1 美元兑换 0.8076 瑞士法郎，高于前一交易日的 0.8050 瑞士法郎；1 美元兑换 1.4195 加元，低于前一交易日的 1.4209 加元；1 美元兑换 9.6784 瑞典克朗，高于前一交易日的 9.6255 瑞典克朗。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3302865",
     "datetime": "2026-07-07T20:19:57+00:00",
-    "views": "68",
+    "views": "72",
     "text": "苹果推出 iOS 26.6、macOS Tahoe 26.6 等系统的第四个公开测试版。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3302864",
     "datetime": "2026-07-07T20:18:37+00:00",
-    "views": "67",
+    "views": "71",
     "text": "叙利亚总统顾问：与法国达成的协议涵盖政治、军事和经济等方面。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3302863",
     "datetime": "2026-07-07T20:18:17+00:00",
-    "views": "68",
+    "views": "72",
     "text": "科蒂集团股价上涨 8%，将因提前终止协议获得约 4 亿美元补偿。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +173,7 @@
   {
     "post": "Financial_Express/3302862",
     "datetime": "2026-07-07T20:15:37+00:00",
-    "views": "73",
+    "views": "76",
     "text": "开云集团：古驰与欧莱雅提前一年达成一份为期 50 年的美妆独家授权协议。",
     "media_only": false,
     "image_url": null,
