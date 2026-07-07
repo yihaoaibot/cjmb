@@ -1,9 +1,17 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-07-07T13:57:13.546789+00:00","clsvipUpdated":"2026-07-07T13:57:20.797100+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">7月7日</h2><div class="feed"><article class="item" data-search="亚马逊发行多批次高级无担保债券，到期日从 2029 年至 2066 年不等。"><div class="time">21:56</div><div class="content"><div class="text" data-full="亚马逊发行多批次高级无担保债券，到期日从 2029 年至 2066 年不等。" data-short="亚马逊发行多批次高级无担保债券，到期日从 2029 年至 2066 年不等。">亚马逊发行多批次高级无担保债券，到期日从 2029 年至 2066 年不等。</div></div></article><article class="item" data-search="美、布两油日内均涨超 2%
-wti 原油日内涨幅达 2.00%，现报 70.25 美元/桶。布伦特原油日内涨超 2.00%，现报 73.52 美元/桶。此前英国海事贸易组织报告称，一艘油轮在经过霍尔木兹海峡时发生事故。"><div class="time">21:56</div><div class="content"><div class="text" data-full="美、布两油日内均涨超 2%
-WTI 原油日内涨幅达 2.00%，现报 70.25 美元/桶。布伦特原油日内涨超 2.00%，现报 73.52 美元/桶。此前英国海事贸易组织报告称，一艘油轮在经过霍尔木兹海峡时发生事故。" data-short="美、布两油日内均涨超 2%
-WTI 原油日内涨幅达 2.00%，现报 70.25 美元/桶。布伦特原油日内涨超 2.00%，现报 73.52 美元/桶。此前英国海事贸易组织报告称，一艘油轮在经过霍尔木兹海峡时发生事故。">美、布两油日内均涨超 2%
-WTI 原油日内涨幅达 2.00%，现报 70.25 美元/桶。布伦特原油日内涨超 2.00%，现报 73.52 美元/桶。此前英国海事贸易组织报告称，一艘油轮在经过霍尔木兹海峡时发生事故。</div></div></article><article class="item" data-search="芬兰总理：乌克兰需要更多爱国者防空导弹."><div class="time">21:56</div><div class="content"><div class="text" data-full="芬兰总理：乌克兰需要更多爱国者防空导弹." data-short="芬兰总理：乌克兰需要更多爱国者防空导弹.">芬兰总理：乌克兰需要更多爱国者防空导弹.</div></div></article><article class="item" data-search="纳指跌 1.01%，现报 25858.394 点；道指涨 0.06%，现报 53089.828 点；标普 500 指数跌 0.29%，现报 7515.570 点。"><div class="time">21:56</div><div class="content"><div class="text" data-full="纳指跌 1.01%，现报 25858.394 点；道指涨 0.06%，现报 53089.828 点；标普 500 指数跌 0.29%，现报 7515.570 点。" data-short="纳指跌 1.01%，现报 25858.394 点；道指涨 0.06%，现报 53089.828 点；标普 500 指数跌 0.29%，现报 7515.570 点。">纳指跌 1.01%，现报 25858.394 点；道指涨 0.06%，现报 53089.828 点；标普 500 指数跌 0.29%，现报 7515.570 点。</div></div></article><article class="item" data-search="wti 原油突破 70 美元/桶，日内涨 2.12%。"><div class="time">21:56</div><div class="content"><div class="text" data-full="WTI 原油突破 70 美元/桶，日内涨 2.12%。" data-short="WTI 原油突破 70 美元/桶，日内涨 2.12%。">WTI 原油突破 70 美元/桶，日内涨 2.12%。</div></div></article><article class="item" data-search="wti 原油日内涨 2%，现报 69.93 美元/桶。"><div class="time">21:56</div><div class="content"><div class="text" data-full="WTI 原油日内涨 2%，现报 69.93 美元/桶。" data-short="WTI 原油日内涨 2%，现报 69.93 美元/桶。">WTI 原油日内涨 2%，现报 69.93 美元/桶。</div></div></article><article class="item" data-search="“人工智能经济学”奠基人乔·韦曼：无论是否存在泡沫，人工智能技术仍将滚滚向前
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-07-07T13:59:10.024511+00:00","clsvipUpdated":"2026-07-07T13:59:18.057528+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">7月7日</h2><div class="feed"><article class="item" data-search="上海市消保委：今年上半年共享租赁和 ai 相关投诉频发
+上海全市消费投诉总量呈下降态势，但共享租赁、ai 新兴消费赛道相关投诉有较明显增长；旅游消费中“引流”信息披露不充分问题也值得关注。上海市消保委表示，当前共享经济渗透日常生活，共享充电宝、共享单车等共享租赁服务覆盖面持续扩大，极大便利了群众出行与生活。与此同时，相关消费争议频发。上半年上海全市消保委系统共受理共享服务相关投诉 4705 件，同比增长 65.8%。消费者主要反映：共享单车计费不准确、车辆故障无人处置、服务响应不及时；共享充电宝计费规则模糊、超时扣费不合理、设备故障无法正常使用等。（央视新闻）"><div class="time">21:58</div><div class="content"><div class="text" data-full="上海市消保委：今年上半年共享租赁和 AI 相关投诉频发
+上海全市消费投诉总量呈下降态势，但共享租赁、AI 新兴消费赛道相关投诉有较明显增长；旅游消费中“引流”信息披露不充分问题也值得关注。上海市消保委表示，当前共享经济渗透日常生活，共享充电宝、共享单车等共享租赁服务覆盖面持续扩大，极大便利了群众出行与生活。与此同时，相关消费争议频发。上半年上海全市消保委系统共受理共享服务相关投诉 4705 件，同比增长 65.8%。消费者主要反映：共享单车计费不准确、车辆故障无人处置、服务响应不及时；共享充电宝计费规则模糊、超时扣费不合理、设备故障无法正常使用等。（央视新闻）" data-short="上海市消保委：今年上半年共享租赁和 AI 相关投诉频发
+上海全市消费投诉总量呈下降态势，但共享租赁、AI 新兴消费赛道相关投诉有较明显增长；旅游消费中“引流”信息披露不充分问题也值得关注。上海市消保委表示，当前共享经济渗透日常生活，共享充电宝、共享单车等共享租赁服务覆盖面持续扩大，极大便利了群众出行与生活。与此同时，相关消费争议频发。上半年上海全市消保委系统...">上海市消保委：今年上半年共享租赁和 AI 相关投诉频发
+上海全市消费投诉总量呈下降态势，但共享租赁、AI 新兴消费赛道相关投诉有较明显增长；旅游消费中“引流”信息披露不充分问题也值得关注。上海市消保委表示，当前共享经济渗透日常生活，共享充电宝、共享单车等共享租赁服务覆盖面持续扩大，极大便利了群众出行与生活。与此同时，相关消费争议频发。上半年上海全市消保委系统...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="沥青连续主力合约日内跌 3%，现报 3727.00 元。"><div class="time">21:58</div><div class="content"><div class="text" data-full="沥青连续主力合约日内跌 3%，现报 3727.00 元。" data-short="沥青连续主力合约日内跌 3%，现报 3727.00 元。">沥青连续主力合约日内跌 3%，现报 3727.00 元。</div></div></article><article class="item" data-search="英国海事组织收到霍尔木兹海峡发生进一步事件的报告。"><div class="time">21:58</div><div class="content"><div class="text" data-full="英国海事组织收到霍尔木兹海峡发生进一步事件的报告。" data-short="英国海事组织收到霍尔木兹海峡发生进一步事件的报告。">英国海事组织收到霍尔木兹海峡发生进一步事件的报告。</div></div></article><article class="item" data-search="景嘉微：目前 ch37 系列产品客户导入工作顺利
+金十数据 7 月 7 日讯，景嘉微近日接受机构调研时表示，公司控股子公司诚恒微与众多机器人整机厂商、算法企业、解决方案服务商深度洽谈，围绕芯片适配、联合研发、场景落地、产业化合作等方向对接需求，目前 ch37 系列产品客户导入工作顺利，并同步完成配套 sdk 软件的开发和发布。"><div class="time">21:58</div><div class="content"><div class="text" data-full="景嘉微：目前 CH37 系列产品客户导入工作顺利
+金十数据 7 月 7 日讯，景嘉微近日接受机构调研时表示，公司控股子公司诚恒微与众多机器人整机厂商、算法企业、解决方案服务商深度洽谈，围绕芯片适配、联合研发、场景落地、产业化合作等方向对接需求，目前 CH37 系列产品客户导入工作顺利，并同步完成配套 SDK 软件的开发和发布。" data-short="景嘉微：目前 CH37 系列产品客户导入工作顺利
+金十数据 7 月 7 日讯，景嘉微近日接受机构调研时表示，公司控股子公司诚恒微与众多机器人整机厂商、算法企业、解决方案服务商深度洽谈，围绕芯片适配、联合研发、场景落地、产业化合作等方向对接需求，目前 CH37 系列产品客户导入工作顺利，并同步完成配套 SDK 软件的开发和发布。">景嘉微：目前 CH37 系列产品客户导入工作顺利
+金十数据 7 月 7 日讯，景嘉微近日接受机构调研时表示，公司控股子公司诚恒微与众多机器人整机厂商、算法企业、解决方案服务商深度洽谈，围绕芯片适配、联合研发、场景落地、产业化合作等方向对接需求，目前 CH37 系列产品客户导入工作顺利，并同步完成配套 SDK 软件的开发和发布。</div></div></article><article class="item" data-search="芬兰总理：特朗普和泽连斯基现在正在进行非常好的对话。"><div class="time">21:57</div><div class="content"><div class="text" data-full="芬兰总理：特朗普和泽连斯基现在正在进行非常好的对话。" data-short="芬兰总理：特朗普和泽连斯基现在正在进行非常好的对话。">芬兰总理：特朗普和泽连斯基现在正在进行非常好的对话。</div></div></article><article class="item" data-search="一位北约高级官员表示，欧洲北约成员国和加拿大今年在核心防务上的支出估计平均占 gdp 的 2.53%。"><div class="time">21:57</div><div class="content"><div class="text" data-full="一位北约高级官员表示，欧洲北约成员国和加拿大今年在核心防务上的支出估计平均占 GDP 的 2.53%。" data-short="一位北约高级官员表示，欧洲北约成员国和加拿大今年在核心防务上的支出估计平均占 GDP 的 2.53%。">一位北约高级官员表示，欧洲北约成员国和加拿大今年在核心防务上的支出估计平均占 GDP 的 2.53%。</div></div></article><article class="item" data-search="一名高级北约官员表示，欧洲北约成员国和加拿大今年在核心防务上的支出预计平均占国内生产总值的 2.53%。"><div class="time">21:57</div><div class="content"><div class="text" data-full="一名高级北约官员表示，欧洲北约成员国和加拿大今年在核心防务上的支出预计平均占国内生产总值的 2.53%。" data-short="一名高级北约官员表示，欧洲北约成员国和加拿大今年在核心防务上的支出预计平均占国内生产总值的 2.53%。">一名高级北约官员表示，欧洲北约成员国和加拿大今年在核心防务上的支出预计平均占国内生产总值的 2.53%。</div></div></article><article class="item" data-search="亚马逊发行多批次高级无担保债券，到期日从 2029 年至 2066 年不等。"><div class="time">21:56</div><div class="content"><div class="text" data-full="亚马逊发行多批次高级无担保债券，到期日从 2029 年至 2066 年不等。" data-short="亚马逊发行多批次高级无担保债券，到期日从 2029 年至 2066 年不等。">亚马逊发行多批次高级无担保债券，到期日从 2029 年至 2066 年不等。</div></div></article><article class="item" data-search="美、布两油日内均涨超 2%
+金十数据 7 月 7 日讯，wti 原油日内涨幅达 2.00%，现报 70.25 美元/桶。布伦特原油日内涨超 2.00%，现报 73.52 美元/桶。此前英国海事贸易组织报告称，一艘油轮在经过霍尔木兹海峡时发生事故。"><div class="time">21:56</div><div class="content"><div class="text" data-full="美、布两油日内均涨超 2%
+金十数据 7 月 7 日讯，WTI 原油日内涨幅达 2.00%，现报 70.25 美元/桶。布伦特原油日内涨超 2.00%，现报 73.52 美元/桶。此前英国海事贸易组织报告称，一艘油轮在经过霍尔木兹海峡时发生事故。" data-short="美、布两油日内均涨超 2%
+金十数据 7 月 7 日讯，WTI 原油日内涨幅达 2.00%，现报 70.25 美元/桶。布伦特原油日内涨超 2.00%，现报 73.52 美元/桶。此前英国海事贸易组织报告称，一艘油轮在经过霍尔木兹海峡时发生事故。">美、布两油日内均涨超 2%
+金十数据 7 月 7 日讯，WTI 原油日内涨幅达 2.00%，现报 70.25 美元/桶。布伦特原油日内涨超 2.00%，现报 73.52 美元/桶。此前英国海事贸易组织报告称，一艘油轮在经过霍尔木兹海峡时发生事故。</div></div></article><article class="item" data-search="芬兰总理：乌克兰需要更多爱国者防空导弹."><div class="time">21:56</div><div class="content"><div class="text" data-full="芬兰总理：乌克兰需要更多爱国者防空导弹." data-short="芬兰总理：乌克兰需要更多爱国者防空导弹.">芬兰总理：乌克兰需要更多爱国者防空导弹.</div></div></article><article class="item" data-search="纳指跌 1.01%，现报 25858.394 点；道指涨 0.06%，现报 53089.828 点；标普 500 指数跌 0.29%，现报 7515.570 点。"><div class="time">21:56</div><div class="content"><div class="text" data-full="纳指跌 1.01%，现报 25858.394 点；道指涨 0.06%，现报 53089.828 点；标普 500 指数跌 0.29%，现报 7515.570 点。" data-short="纳指跌 1.01%，现报 25858.394 点；道指涨 0.06%，现报 53089.828 点；标普 500 指数跌 0.29%，现报 7515.570 点。">纳指跌 1.01%，现报 25858.394 点；道指涨 0.06%，现报 53089.828 点；标普 500 指数跌 0.29%，现报 7515.570 点。</div></div></article><article class="item" data-search="wti 原油突破 70 美元/桶，日内涨 2.12%。"><div class="time">21:56</div><div class="content"><div class="text" data-full="WTI 原油突破 70 美元/桶，日内涨 2.12%。" data-short="WTI 原油突破 70 美元/桶，日内涨 2.12%。">WTI 原油突破 70 美元/桶，日内涨 2.12%。</div></div></article><article class="item" data-search="wti 原油日内涨 2%，现报 69.93 美元/桶。"><div class="time">21:56</div><div class="content"><div class="text" data-full="WTI 原油日内涨 2%，现报 69.93 美元/桶。" data-short="WTI 原油日内涨 2%，现报 69.93 美元/桶。">WTI 原油日内涨 2%，现报 69.93 美元/桶。</div></div></article><article class="item" data-search="“人工智能经济学”奠基人乔·韦曼：无论是否存在泡沫，人工智能技术仍将滚滚向前
 近日，美国未来产业研究院创始人乔·韦曼在“智联全球 根筑苏州”ai 生态研究分享会上表示，没有任何一项技术比人工智能更能颠覆性地改变企业、社会和世界。如果仅仅从有多少资本在追逐，以及存在多少机会的角度来看待人工智能，它可能处于泡沫中。然而某种程度上这并不重要，因为互联网也曾处于泡沫中，如今大多数人仍然在使用互联网。技术的进展和部署与投资路径是松散耦合，但并非直接相关的。投资可能涉及对特定领域的过度投资或投资不足，但像这样充满希望和潜力的技术仍将继续发展，无论未来会发生什么。世界各地有许多聪明人正在努力开发人工智能的下一代技术。乔·韦曼认为，关键在于回归对人类智能的认知本源，从而重建智能。他指出，能够在硅基材料上模仿人脑是一项重大成就，比如通过脉冲神经网络系统，复制大脑神经元如何利用电压脉冲进行工作。另一种路径是利用生物学，比如 dna 不仅存储我们发育所需的信息，还可以作为计算机运行。此外，还有一些新的能源管理和简化方法也充满想象力，例如储备池计算、无能耗计算等。"><div class="time">21:55</div><div class="content"><div class="text" data-full="“人工智能经济学”奠基人乔·韦曼：无论是否存在泡沫，人工智能技术仍将滚滚向前
 近日，美国未来产业研究院创始人乔·韦曼在“智联全球 根筑苏州”AI 生态研究分享会上表示，没有任何一项技术比人工智能更能颠覆性地改变企业、社会和世界。如果仅仅从有多少资本在追逐，以及存在多少机会的角度来看待人工智能，它可能处于泡沫中。然而某种程度上这并不重要，因为互联网也曾处于泡沫中，如今大多数人仍然在使用互联网。技术的进展和部署与投资路径是松散耦合，但并非直接相关的。投资可能涉及对特定领域的过度投资或投资不足，但像这样充满希望和潜力的技术仍将继续发展，无论未来会发生什么。世界各地有许多聪明人正在努力开发人工智能的下一代技术。乔·韦曼认为，关键在于回归对人类智能的认知本源，从而重建智能。他指出，能够在硅基材料上模仿人脑是一项重大成就，比如通过脉冲神经网络系统，复制大脑神经元如何利用电压脉冲进行工作。另一种路径是利用生物学，比如 DNA 不仅存储我们发育所需的信息，还可以作为计算机运行。此外，还有一些新的能源管理和简化方法也充满想象力，例如储备池计算、无能耗计算等。" data-short="“人工智能经济学”奠基人乔·韦曼：无论是否存在泡沫，人工智能技术仍将滚滚向前
 近日，美国未来产业研究院创始人乔·韦曼在“智联全球 根筑苏州”AI 生态研究分享会上表示，没有任何一项技术比人工智能更能颠覆性地改变企业、社会和世界。如果仅仅从有多少资本在追逐，以及存在多少机会的角度来看待人工智能，它可能处于泡沫中。然而某种程度上这并不重要，因为互联网也曾处于泡沫...">“人工智能经济学”奠基人乔·韦曼：无论是否存在泡沫，人工智能技术仍将滚滚向前
@@ -427,27 +435,25 @@ ST 龙大公告，公司于 2020 年发行的“龙大转债”将于 2026 年 7
 7 月 7 日，港股通科技 30etf 工银大宗交易成交 7 亿股，成交额 3.47 亿元，占当日总成交额的 12.98%，成交价 0.5 元，较市场收盘价 0.497 元溢价 0.6%。"><div class="time">20:05</div><div class="content"><div class="text" data-full="港股通科技 30ETF 工银今日大宗交易溢价成交 7 亿股，成交额 3.47 亿元
 7 月 7 日，港股通科技 30ETF 工银大宗交易成交 7 亿股，成交额 3.47 亿元，占当日总成交额的 12.98%，成交价 0.5 元，较市场收盘价 0.497 元溢价 0.6%。" data-short="港股通科技 30ETF 工银今日大宗交易溢价成交 7 亿股，成交额 3.47 亿元
 7 月 7 日，港股通科技 30ETF 工银大宗交易成交 7 亿股，成交额 3.47 亿元，占当日总成交额的 12.98%，成交价 0.5 元，较市场收盘价 0.497 元溢价 0.6%。">港股通科技 30ETF 工银今日大宗交易溢价成交 7 亿股，成交额 3.47 亿元
-7 月 7 日，港股通科技 30ETF 工银大宗交易成交 7 亿股，成交额 3.47 亿元，占当日总成交额的 12.98%，成交价 0.5 元，较市场收盘价 0.497 元溢价 0.6%。</div></div></article><article class="item" data-search="法国兴业银行和法国巴黎银行股价在勒庞裁决后股价延续跌势。"><div class="time">20:04</div><div class="content"><div class="text" data-full="法国兴业银行和法国巴黎银行股价在勒庞裁决后股价延续跌势。" data-short="法国兴业银行和法国巴黎银行股价在勒庞裁决后股价延续跌势。">法国兴业银行和法国巴黎银行股价在勒庞裁决后股价延续跌势。</div></div></article><article class="item" data-search="洲际交易所（ice）：ice 基准管理机构目前负责运营伦敦金银市场协会（lbma）铂金与钯金定价及拍卖业务。"><div class="time">20:04</div><div class="content"><div class="text" data-full="洲际交易所（ICE）：ICE 基准管理机构目前负责运营伦敦金银市场协会（LBMA）铂金与钯金定价及拍卖业务。" data-short="洲际交易所（ICE）：ICE 基准管理机构目前负责运营伦敦金银市场协会（LBMA）铂金与钯金定价及拍卖业务。">洲际交易所（ICE）：ICE 基准管理机构目前负责运营伦敦金银市场协会（LBMA）铂金与钯金定价及拍卖业务。</div></div></article><article class="item" data-search="义乌市属国有企业入股稠州商业银行
-7 月 6 日，国家金融监督管理总局浙江监管局披露的批复显示，同意义乌市市场发展集团有限公司（下称“义乌市市场发展集团”）的稠州商业银行股东资格。本次入股后，义乌市市场发展集团持有稠州商业银行股份 242105300 股，占该行增资扩股后总股本的 5.00%。公开资料显示，义乌市市场发展集团为义乌市属国有企业之一。（界面）"><div class="time">20:04</div><div class="content"><div class="text" data-full="义乌市属国有企业入股稠州商业银行
-7 月 6 日，国家金融监督管理总局浙江监管局披露的批复显示，同意义乌市市场发展集团有限公司（下称“义乌市市场发展集团”）的稠州商业银行股东资格。本次入股后，义乌市市场发展集团持有稠州商业银行股份 242105300 股，占该行增资扩股后总股本的 5.00%。公开资料显示，义乌市市场发展集团为义乌市属国有企业之一。（界面）" data-short="义乌市属国有企业入股稠州商业银行
-7 月 6 日，国家金融监督管理总局浙江监管局披露的批复显示，同意义乌市市场发展集团有限公司（下称“义乌市市场发展集团”）的稠州商业银行股东资格。本次入股后，义乌市市场发展集团持有稠州商业银行股份 242105300 股，占该行增资扩股后总股本的 5.00%。公开资料显示，义乌市市场发展集团为义乌市属国有企业之一。（界面）">义乌市属国有企业入股稠州商业银行
-7 月 6 日，国家金融监督管理总局浙江监管局披露的批复显示，同意义乌市市场发展集团有限公司（下称“义乌市市场发展集团”）的稠州商业银行股东资格。本次入股后，义乌市市场发展集团持有稠州商业银行股份 242105300 股，占该行增资扩股后总股本的 5.00%。公开资料显示，义乌市市场发展集团为义乌市属国有企业之一。（界面）</div></div></article><article class="item" data-search="诺华回应国家医保局称有药企在集采中伪造专家建议函：所指企业并非诺华
-7 月 7 日晚间，国家医保局在官微发布风险提示，称在第 12 批国家组织药品集中带量采购确定采购品种阶段，某进口原研药企业提交了所谓“31 家医院 78 名医生联署的专家建议函”，试图以此影响集采定品。经向“署名专家”本人逐一查证，80%以上签名不真实。业内传闻称涉事企业为诺华，品种为沙库巴曲缬沙坦。该品种原研药企为诺华，商品名诺欣妥。对此，诺华回应称，诺华方面确认，文中所指企业并非诺华。诺华始终严格遵守国家法律法规，并坚定支持国家推动医药行业高质量发展的各项举措。（界面）"><div class="time">20:04</div><div class="content"><div class="text" data-full="诺华回应国家医保局称有药企在集采中伪造专家建议函：所指企业并非诺华
-7 月 7 日晚间，国家医保局在官微发布风险提示，称在第 12 批国家组织药品集中带量采购确定采购品种阶段，某进口原研药企业提交了所谓“31 家医院 78 名医生联署的专家建议函”，试图以此影响集采定品。经向“署名专家”本人逐一查证，80%以上签名不真实。业内传闻称涉事企业为诺华，品种为沙库巴曲缬沙坦。该品种原研药企为诺华，商品名诺欣妥。对此，诺华回应称，诺华方面确认，文中所指企业并非诺华。诺华始终严格遵守国家法律法规，并坚定支持国家推动医药行业高质量发展的各项举措。（界面）" data-short="诺华回应国家医保局称有药企在集采中伪造专家建议函：所指企业并非诺华
-7 月 7 日晚间，国家医保局在官微发布风险提示，称在第 12 批国家组织药品集中带量采购确定采购品种阶段，某进口原研药企业提交了所谓“31 家医院 78 名医生联署的专家建议函”，试图以此影响集采定品。经向“署名专家”本人逐一查证，80%以上签名不真实。业内传闻称涉事企业为诺华，品种为沙库...">诺华回应国家医保局称有药企在集采中伪造专家建议函：所指企业并非诺华
-7 月 7 日晚间，国家医保局在官微发布风险提示，称在第 12 批国家组织药品集中带量采购确定采购品种阶段，某进口原研药企业提交了所谓“31 家医院 78 名医生联署的专家建议函”，试图以此影响集采定品。经向“署名专家”本人逐一查证，80%以上签名不真实。业内传闻称涉事企业为诺华，品种为沙库...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="贝莱德将推出纳斯达克 100 指数 etf，挑战景顺霸主地位
-金十数据 7 月 7 日讯，贝莱德周二表示，将推出一只追踪以科技股为主的纳斯达克 100 指数的 etf，旨在满足投资者对参与 ai 驱动的股市上涨行情日益高涨的需求。这只由全球最大资产管理公司推出的“ishares 纳斯达克 100 etf”将追踪这一美国旗舰指数，并于周四开始交易。此前不久，纳斯达克修改了纳入标准，以加快将 spacex 等新上市企业纳入该指数的步伐。贝莱德的这只 etf 将与景顺（invesco）旗下的纳斯达克 100 相关产品展开竞争；景顺长期以来在这一领域占据主导地位，其 qqq 信托系列 1 和纳斯达克 100 etf 备受那些希望投资大盘成长股及科技股的投资者青睐。上个月，道富银行也推出了一只纳斯达克 100 etf。"><div class="time">20:03</div><div class="content"><div class="text" data-full="贝莱德将推出纳斯达克 100 指数 ETF，挑战景顺霸主地位
-金十数据 7 月 7 日讯，贝莱德周二表示，将推出一只追踪以科技股为主的纳斯达克 100 指数的 ETF，旨在满足投资者对参与 AI 驱动的股市上涨行情日益高涨的需求。这只由全球最大资产管理公司推出的“iShares 纳斯达克 100 ETF”将追踪这一美国旗舰指数，并于周四开始交易。此前不久，纳斯达克修改了纳入标准，以加快将 SpaceX 等新上市企业纳入该指数的步伐。贝莱德的这只 ETF 将与景顺（Invesco）旗下的纳斯达克 100 相关产品展开竞争；景顺长期以来在这一领域占据主导地位，其 QQQ 信托系列 1 和纳斯达克 100 ETF 备受那些希望投资大盘成长股及科技股的投资者青睐。上个月，道富银行也推出了一只纳斯达克 100 ETF。" data-short="贝莱德将推出纳斯达克 100 指数 ETF，挑战景顺霸主地位
-金十数据 7 月 7 日讯，贝莱德周二表示，将推出一只追踪以科技股为主的纳斯达克 100 指数的 ETF，旨在满足投资者对参与 AI 驱动的股市上涨行情日益高涨的需求。这只由全球最大资产管理公司推出的“iShares 纳斯达克 100 ETF”将追踪这一美国旗舰指数，并于周四开始交易。此前不久，纳...">贝莱德将推出纳斯达克 100 指数 ETF，挑战景顺霸主地位
-金十数据 7 月 7 日讯，贝莱德周二表示，将推出一只追踪以科技股为主的纳斯达克 100 指数的 ETF，旨在满足投资者对参与 AI 驱动的股市上涨行情日益高涨的需求。这只由全球最大资产管理公司推出的“iShares 纳斯达克 100 ETF”将追踪这一美国旗舰指数，并于周四开始交易。此前不久，纳...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="台风“美莎克”影响还将持续 2 天
-今日，水利部信息中心升级发布洪水橙色预警，广西升级发布洪水红色预警。据悉，台风“美莎克”影响将持续至 7 月 9 日。（央视新闻）"><div class="time">20:03</div><div class="content"><div class="text" data-full="台风“美莎克”影响还将持续 2 天
-今日，水利部信息中心升级发布洪水橙色预警，广西升级发布洪水红色预警。据悉，台风“美莎克”影响将持续至 7 月 9 日。（央视新闻）" data-short="台风“美莎克”影响还将持续 2 天
-今日，水利部信息中心升级发布洪水橙色预警，广西升级发布洪水红色预警。据悉，台风“美莎克”影响将持续至 7 月 9 日。（央视新闻）">台风“美莎克”影响还将持续 2 天
-今日，水利部信息中心升级发布洪水橙色预警，广西升级发布洪水红色预警。据悉，台风“美莎克”影响将持续至 7 月 9 日。（央视新闻）</div></div></article><article class="item" data-search="亚马逊(amzn.o)计划通过美元债券发行筹集至少 250 亿美元。"><div class="time">20:03</div><div class="content"><div class="text" data-full="亚马逊(AMZN.O)计划通过美元债券发行筹集至少 250 亿美元。" data-short="亚马逊(AMZN.O)计划通过美元债券发行筹集至少 250 亿美元。">亚马逊(AMZN.O)计划通过美元债券发行筹集至少 250 亿美元。</div></div></article><article class="item" data-search="法国法院维持勒庞定罪但缩短禁令期限 法国大选悬念犹存
-金十数据 7 月 7 日讯，法国一家上诉法院周二维持了极右翼领导人玛丽娜·勒庞挪用欧盟资金的定罪，但缩短了其竞选公职的禁令期限，这意味着勒庞可参与 2027 年法国总统大选。此外，法院裁定勒庞服刑三年。尽管法院表示其中两年缓期执行，但命令她佩戴电子脚铐一年，这将使总统竞选在政治和实际操作层面都面临困难。该判决为勒庞是否将在明年寻求竞选总统再次打上问号。"><div class="time">20:03</div><div class="content"><div class="text" data-full="法国法院维持勒庞定罪但缩短禁令期限 法国大选悬念犹存
-金十数据 7 月 7 日讯，法国一家上诉法院周二维持了极右翼领导人玛丽娜·勒庞挪用欧盟资金的定罪，但缩短了其竞选公职的禁令期限，这意味着勒庞可参与 2027 年法国总统大选。此外，法院裁定勒庞服刑三年。尽管法院表示其中两年缓期执行，但命令她佩戴电子脚铐一年，这将使总统竞选在政治和实际操作层面都面临困难。该判决为勒庞是否将在明年寻求竞选总统再次打上问号。" data-short="法国法院维持勒庞定罪但缩短禁令期限 法国大选悬念犹存
-金十数据 7 月 7 日讯，法国一家上诉法院周二维持了极右翼领导人玛丽娜·勒庞挪用欧盟资金的定罪，但缩短了其竞选公职的禁令期限，这意味着勒庞可参与 2027 年法国总统大选。此外，法院裁定勒庞服刑三年。尽管法院表示其中两年缓期执行，但命令她佩戴电子脚铐一年，这将使总统竞选在政治和实际操作层面都面临困难。该...">法国法院维持勒庞定罪但缩短禁令期限 法国大选悬念犹存
-金十数据 7 月 7 日讯，法国一家上诉法院周二维持了极右翼领导人玛丽娜·勒庞挪用欧盟资金的定罪，但缩短了其竞选公职的禁令期限，这意味着勒庞可参与 2027 年法国总统大选。此外，法院裁定勒庞服刑三年。尽管法院表示其中两年缓期执行，但命令她佩戴电子脚铐一年，这将使总统竞选在政治和实际操作层面都面临困难。该...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="民主党议员致信美国商务部长卢特尼克。"><div class="time">20:03</div><div class="content"><div class="text" data-full="民主党议员致信美国商务部长卢特尼克。" data-short="民主党议员致信美国商务部长卢特尼克。">民主党议员致信美国商务部长卢特尼克。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">7月7日 · VIP</h2> <div class="feed"> <article class="item" data-search="【风口研报·公司】这家直供国内晶圆厂的半导体零部件企业卡位核心耗材环节，已批量应用于芯片、存储等领域，当前产能利用率超100%；药物资产稀缺的百亿美元代谢慢病赛道，国内相关公司具备差异化竞争实力
+7 月 7 日，港股通科技 30ETF 工银大宗交易成交 7 亿股，成交额 3.47 亿元，占当日总成交额的 12.98%，成交价 0.5 元，较市场收盘价 0.497 元溢价 0.6%。</div></div></article><article class="item" data-search="法国兴业银行和法国巴黎银行股价在勒庞裁决后股价延续跌势。"><div class="time">20:04</div><div class="content"><div class="text" data-full="法国兴业银行和法国巴黎银行股价在勒庞裁决后股价延续跌势。" data-short="法国兴业银行和法国巴黎银行股价在勒庞裁决后股价延续跌势。">法国兴业银行和法国巴黎银行股价在勒庞裁决后股价延续跌势。</div></div></article><article class="item" data-search="洲际交易所（ice）：ice 基准管理机构目前负责运营伦敦金银市场协会（lbma）铂金与钯金定价及拍卖业务。"><div class="time">20:04</div><div class="content"><div class="text" data-full="洲际交易所（ICE）：ICE 基准管理机构目前负责运营伦敦金银市场协会（LBMA）铂金与钯金定价及拍卖业务。" data-short="洲际交易所（ICE）：ICE 基准管理机构目前负责运营伦敦金银市场协会（LBMA）铂金与钯金定价及拍卖业务。">洲际交易所（ICE）：ICE 基准管理机构目前负责运营伦敦金银市场协会（LBMA）铂金与钯金定价及拍卖业务。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">7月7日 · VIP</h2> <div class="feed"> <article class="item" data-search="【财联社早知道】存储模组龙头称q3内存将涨价20%-30%，闪存将涨价35%-40%；近期第三次上调！木林森全资子公司对全线pcb产品价格上调10%—15%
+
+#洪田股份
+#清溢光电
+#广立微
+#壹石通
+#一博科技
+#黄河旋风
+#绿的谐波
+#蓝思科技"> <div class="time">21:57</div> <div class="content"> <div class="text">【财联社早知道】存储模组龙头称Q3内存将涨价20%-30%，闪存将涨价35%-40%；近期第三次上调！木林森全资子公司对全线PCB产品价格上调10%—15%
+
+#洪田股份
+#清溢光电
+#广立微
+#壹石通
+#一博科技
+#黄河旋风
+#绿的谐波
+#蓝思科技</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【风口研报·公司】这家直供国内晶圆厂的半导体零部件企业卡位核心耗材环节，已批量应用于芯片、存储等领域，当前产能利用率超100%；药物资产稀缺的百亿美元代谢慢病赛道，国内相关公司具备差异化竞争实力
 
 #臻宝科技
 #众生药业
@@ -572,116 +578,7 @@ https://hi189.com/6340.html</div> <div style="margin-top:8px;font-size:12px;colo
 
 了解频道VIP👉https://t.me/clsvip/33606
 
- 联系：@cn5...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="频道收费项目：频道vip
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大v收费群盘中消息同步：
-
-vip资讯
-环球资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-妖股刺客
-
-新生代龙头玩家
-邢者狩猎营
-g界孙悟空
-大师兄擒妖
-浮光
-天赢居
-
-布莱德雷
-清北游资
-时冲
-主升真经
-天机短线
-爱尔兰画眉
-浅吸掘金
-震哥
-李梦尘
-
-红旗大街发哥
-游资胖大叔
-大周先生
-姆爷
-付鹏
-游资混江龙
-徐小明
-老章
-天地同力
-
-大马路
-只做龙头
-诗诗复利游
-a股通天宗
-上班族波段
-洛飞
-
-先知
-林荫大道
-上海老梁
-逻辑a哥
-
-生如夏花
-复盘哥
-鑫多多
-大将潘凤
-滴烛复盘的壮汉
-奶爸只做核心
-浮光知顶底
-
-借势而为
-来去由心
-苏三
-嗅嗅掘金
-k神会
-一线天渔哥
-林秘密
-
-费用：100元/月
-
-联系 @cn50etf"> <div class="time">10:29</div> <div class="content"> <div class="text">频道收费项目：频道VIP
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大V收费群盘中消息同步：
-
-VIP资讯
-环球资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-妖股刺客
-
-新生代龙头玩家
-邢者狩猎营
-G界孙悟空
-大师兄擒妖
-浮光
-天赢居
-
-布莱德雷
-清北游...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">7月6日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">23:08</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="【电报解读】兼具能效、成本、空间等多重优势，800vhvdc已成为数据中心供电的“必然方向”，英伟达将从2027年起推动800vhvdc落地，这家公司hvdc产品已广泛应用于大型数据中心等场景
+ 联系：@cn5...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">7月6日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">23:08</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="【电报解读】兼具能效、成本、空间等多重优势，800vhvdc已成为数据中心供电的“必然方向”，英伟达将从2027年起推动800vhvdc落地，这家公司hvdc产品已广泛应用于大型数据中心等场景
 
 #京泉华
 #中恒电气"> <div class="time">22:58</div> <div class="content"> <div class="text">【电报解读】兼具能效、成本、空间等多重优势，800VHVDC已成为数据中心供电的“必然方向”，英伟达将从2027年起推动800VHVDC落地，这家公司HVDC产品已广泛应用于大型数据中心等场景
