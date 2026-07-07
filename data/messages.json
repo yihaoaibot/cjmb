@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3302782",
     "datetime": "2026-07-07T19:03:57+00:00",
-    "views": "11",
+    "views": "12",
     "text": "受油价上涨提振，美元现货指数升至日内高点。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3302781",
     "datetime": "2026-07-07T19:03:38+00:00",
-    "views": "23",
+    "views": "24",
     "text": "现货白银下跌 3%，至每盎司 60.16 美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3302780",
     "datetime": "2026-07-07T19:03:37+00:00",
-    "views": "24",
+    "views": "25",
     "text": "半导体行业组织、麦肯锡与美国国家科学基金会研究显示，到 2030 年，芯片行业或面临最多 15.7 万个岗位缺口。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3302779",
     "datetime": "2026-07-07T19:02:57+00:00",
-    "views": "37",
+    "views": "38",
     "text": "加拿大增长基金：泰克资源将投资 4 亿加元，总投资额最高可达 8.5 亿加元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3302778",
     "datetime": "2026-07-07T19:02:37+00:00",
-    "views": "40",
+    "views": "41",
     "text": "恒指期货夜盘收涨 0.11%，报 23499 点，高水 2 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3302777",
     "datetime": "2026-07-07T19:02:17+00:00",
-    "views": "42",
+    "views": "43",
     "text": "油价走强带动美债收益率上行，10 年期美国国债收益率升至四周高点 4.533%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3302776",
     "datetime": "2026-07-07T19:00:17+00:00",
-    "views": "65",
+    "views": "66",
     "text": "恒指期货夜盘收涨 0.08%，报 23492.28 点，低水 4.61 点。",
     "media_only": false,
     "image_url": null,
@@ -43702,14 +43702,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3297906"
-  },
-  {
-    "post": "Financial_Express/3297905",
-    "datetime": "2026-07-05T19:06:17+00:00",
-    "views": "243",
-    "text": "乌克兰总统泽连斯基：情报再次显示俄罗斯正准备发起新一轮大规模打击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3297905"
   }
 ]
