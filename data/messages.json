@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3302902",
+    "datetime": "2026-07-07T20:43:57+00:00",
+    "views": "25",
+    "text": "美国参议员麦康奈尔自 6 月 14 日起住院，其在本周一和周二与参议院共和党领导层通话。外界正关注他是否能在今年年底前重返参议院。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3302902"
+  },
+  {
+    "post": "Financial_Express/3302901",
+    "datetime": "2026-07-07T20:43:17+00:00",
+    "views": "31",
+    "text": "Wolfspeed 对纳微半导体提起专利侵权诉讼。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3302901"
+  },
+  {
     "post": "Financial_Express/3302900",
     "datetime": "2026-07-07T20:40:57+00:00",
-    "views": "35",
+    "views": "50",
     "text": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的 1000 美元初始资金。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3302899",
     "datetime": "2026-07-07T20:39:57+00:00",
-    "views": "42",
+    "views": "56",
     "text": "美国证券交易委员会：特朗普专属账户现已开放，相关家庭可开户申领符合资格的 1000 美元启动补助金。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3302898",
     "datetime": "2026-07-07T20:38:58+00:00",
-    "views": "50",
+    "views": "61",
     "text": "美国至 7 月 3 日当周 API 投产原油量 3.4 万桶/日，前值 7.6 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3302897",
     "datetime": "2026-07-07T20:38:57+00:00",
-    "views": "49",
+    "views": "60",
     "text": "美国至 7 月 3 日当周 API 成品油进口 -32.5 万桶/日，前值 21.3 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3302896",
     "datetime": "2026-07-07T20:38:37+00:00",
-    "views": "51",
+    "views": "62",
     "text": "美国至 7 月 3 日当周 API 原油进口 15.9 万桶，前值-18 万桶。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3302895",
     "datetime": "2026-07-07T20:38:17+00:00",
-    "views": "53",
+    "views": "64",
     "text": "美国至 7 月 3 日当周 API 取暖油库存 -43.4 万桶，前值 20.5 万桶。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3302894",
     "datetime": "2026-07-07T20:37:57+00:00",
-    "views": "54",
+    "views": "64",
     "text": "美国至 7 月 3 日当周 API 库欣原油库存 -6.9 万桶，前值 50.3 万桶。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3302893",
     "datetime": "2026-07-07T20:37:38+00:00",
-    "views": "54",
+    "views": "63",
     "text": "上周，美国 API 原油库存 -39.9 万桶，之前一周 -607.2 万桶。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3302892",
     "datetime": "2026-07-07T20:37:37+00:00",
-    "views": "52",
+    "views": "61",
     "text": "美国至 7 月 3 日当周 API 精炼油库存 -180.1 万桶，预期 100 万桶，前值 292.2 万桶。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3302891",
     "datetime": "2026-07-07T20:37:18+00:00",
-    "views": "50",
+    "views": "59",
     "text": "Anthropic 计划将纽约员工规模扩充一倍至 1000 人，将于今年夏季启动纽约新办公区入驻工作。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3302890",
     "datetime": "2026-07-07T20:37:17+00:00",
-    "views": "50",
+    "views": "58",
     "text": "美国至 7 月 3 日当周 API 汽油库存 -292.9 万桶，预期-155 万桶，前值-210.6 万桶。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3302889",
     "datetime": "2026-07-07T20:36:57+00:00",
-    "views": "46",
+    "views": "52",
     "text": "埃克森美孚预计二季度油价将带来 37 亿美元收益增量\n埃克森美孚控股公司表示，第二季度油价走高将推动公司收益增加 37 亿美元。公司预计 2026 年第二季度炼油业务毛利将带来 22 亿美元收益增量。埃克森美孚预计 2026 年第二季度化工业务毛利将带来 11 亿美元收益增量。公司预估 2026 年第二季度受伊朗战事影响，将产生约 12 亿美元收益损失。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3302888",
     "datetime": "2026-07-07T20:36:37+00:00",
-    "views": "41",
+    "views": "46",
     "text": "Anthropic 拟租赁纽约曼哈顿哈德逊广场一栋 16 层写字楼。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3302887",
     "datetime": "2026-07-07T20:35:18+00:00",
-    "views": "38",
+    "views": "41",
     "text": "美国海军作战部长：伊朗的目标是迫使商业船只在霍尔木兹海峡航行时贴近伊朗海岸。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3302886",
     "datetime": "2026-07-07T20:35:17+00:00",
-    "views": "37",
+    "views": "40",
     "text": "美国海军作战部长：我们掌握霍尔木兹海峡布设水雷的数量。相关信息属于机密情报，我不会透露我们如何获取这些数据。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3302885",
     "datetime": "2026-07-07T20:34:57+00:00",
-    "views": "37",
+    "views": "40",
     "text": "韩美日签署小型模块化反应堆部署合作谅解备忘录。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3302884",
     "datetime": "2026-07-07T20:33:57+00:00",
-    "views": "36",
+    "views": "39",
     "text": "卡塔尔就其运输船遇袭向伊朗发出照会\n卡塔尔外交部 7 日召见伊朗驻卡塔尔副大使，就卡方一艘运输船日前在霍尔木兹海峡附近航行时遭袭，向伊方递交抗议照会。卡塔尔外交部当天发表声明说，照会指出，袭击卡塔尔运输船“阿尔-鲁凯亚特”号严重危害国际海上航行安全，直接威胁全球能源供应安全，公然违反国际法。卡塔尔要求伊朗尽快就此次袭击作出说明。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3302883",
     "datetime": "2026-07-07T20:33:37+00:00",
-    "views": "39",
+    "views": "42",
     "text": "伊拉克今天为哈梅内伊送葬\n当地时间 7 月 7 日晚，伊朗总统佩泽希齐扬及其随行代表团抵达伊拉克的什叶派圣城纳杰夫。伊拉克总理扎伊迪到机场迎接。载有伊朗已故最高领袖阿里·哈梅内伊遗体的飞机也已抵达纳杰夫。 据伊拉克总理办公室发布的声明，佩泽希齐扬此行率代表团出席哈梅内伊的送葬仪式。扎伊迪就哈梅内伊遇害向伊朗人民和政府再次表示哀悼，强调两国关系深厚，承诺将在各领域巩固并深化双边合作。 根据伊朗方面此前公布的哈梅内伊葬礼安排，在结束于德黑兰为期三天的悼念及送葬仪式后，应伊拉克方面要求，今天（7 月 8 日）将在伊拉克两座什叶派圣城纳杰夫和卡尔巴拉举行送葬仪式；7 月 9 日，哈梅内伊及其多位遇害家人的送葬仪式将在伊朗圣城马什哈德举行。仪式结束后，哈梅内伊的遗体将被安葬。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -44593,14 +44611,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3297925"
-  },
-  {
-    "post": "Financial_Express/3297924",
-    "datetime": "2026-07-05T20:44:17+00:00",
-    "views": "170",
-    "text": "人形机器人产业迎来催化 资金借道 ETF 入场\n7 月 2 日，证监会正式同意宇树科技首次公开发行股票并在科创板上市的注册申请，人形机器人产业再迎重要催化。受消息提振，市场资金持续借道 ETF 布局机器人赛道。最近一周，十余只机器人 ETF 全部实现资金净流入，相关产品整体取得正收益，机器人主题投资热度开始升温。 展望后市，多家机构认为，未来机器人行业催化有望持续释放，人形机器人商业化进程不断推进，板块有望迎来估值修复与产业成长共振，中长期配置价值值得关注。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3297924"
   }
 ]
