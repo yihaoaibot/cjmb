@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3305659",
+    "datetime": "2026-07-08T14:01:38+00:00",
+    "views": "1",
+    "text": "波兰央行：2028 年 GDP 增速预期区间 1.9%-4.1%，此前预期为 1.8%-4.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305659"
+  },
+  {
+    "post": "Financial_Express/3305658",
+    "datetime": "2026-07-08T14:01:37+00:00",
+    "views": "1",
+    "text": "波兰央行：2027 年国内生产总值增速预期区间 1.8%-3.7%，此前预期为 2%-3.8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305658"
+  },
+  {
+    "post": "Financial_Express/3305657",
+    "datetime": "2026-07-08T14:00:58+00:00",
+    "views": "3",
+    "text": "波兰央行：2028 年居民消费价格指数区间为 0.8%-3.9%，此前预期为 0.9%-4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305657"
+  },
+  {
+    "post": "Financial_Express/3305656",
+    "datetime": "2026-07-08T14:00:57+00:00",
+    "views": "3",
+    "text": "金十图示：2026 年 07 月 08 日（周三）全球股市指数-美洲市场（盘初）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305656"
+  },
+  {
+    "post": "Financial_Express/3305655",
+    "datetime": "2026-07-08T14:00:38+00:00",
+    "views": "4",
+    "text": "美联储 6 月会议纪要关注点\n1、美联储官员们对利率路径的讨论情况。2、美联储官员们、尤其是主席沃什对前瞻指引、资产负债表等问题的看法。3、美联储官员们对美国经济（包括通胀、就业、AI）的讨论情况。4、美联储官员们对中东局势的讨论。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305655"
+  },
+  {
+    "post": "Financial_Express/3305654",
+    "datetime": "2026-07-08T14:00:37+00:00",
+    "views": "4",
+    "text": "美国 5 月批发销售月率 3.4%，前值由 2.00%修正为 2.2%。美国 5 月批发库存月率终值 0.1%，预期 0.3%，前值 0.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305654"
+  },
+  {
+    "post": "Financial_Express/3305653",
+    "datetime": "2026-07-08T14:00:20+00:00",
+    "views": "35",
+    "text": "印度就 3750 亿卢比煤炭气化项目公开征集方案申请。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305653"
+  },
+  {
+    "post": "Financial_Express/3305651",
+    "datetime": "2026-07-08T14:00:19+00:00",
+    "views": "35",
+    "text": "美国 5 月批发库存月率终值 0.1%，预期 0.3%，前值 0.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305651"
+  },
+  {
+    "post": "Financial_Express/3305652",
+    "datetime": "2026-07-08T14:00:19+00:00",
+    "views": "35",
+    "text": "据法新社：外交消息人士称，只有以色列从黎巴嫩南部两个“实验性”区域撤军，黎巴嫩才会参加罗马会谈。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305652"
+  },
+  {
+    "post": "Financial_Express/3305650",
+    "datetime": "2026-07-08T13:59:38+00:00",
+    "views": "35",
+    "text": "英特尔专利曝光新型 XBM 内存架构，拟绕开 HBM 硅中介层降低 AI 内存成本\n7 月 8 日消息，英特尔一项近日公开的专利申请显示，公司正研发名为 XBM（Cross-Batch Memory）的新型高带宽内存架构，旨在通过取消 HBM 所需的硅中介层、采用 UCIe 互连及内置冗余修复机制，降低先进封装成本并缓解 AI 芯片“内存墙”瓶颈。专利显示，XBM 采用后端晶体管（BEOL）DRAM 堆叠设计，可在保持与 HBM4 相近封装尺寸的同时提升可扩展性，并支持缺陷修复以提高良率。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305650"
+  },
+  {
     "post": "Financial_Express/3305649",
     "datetime": "2026-07-08T13:58:18+00:00",
-    "views": "2",
+    "views": "34",
     "text": "以色列空袭黎巴嫩南部\n自 3 月 2 日黎以战火重燃以来，以色列袭击黎巴嫩已致 4320 人死亡、12203 人受伤。 以色列、美国和黎巴嫩 6 月 26 日在华盛顿结束新一轮停火撤军谈判，并宣布达成三方框架协议，但以色列 6 月 27 日以来多次对黎巴嫩境内目标发动军事打击。(新华社)",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3305648",
     "datetime": "2026-07-08T13:58:17+00:00",
-    "views": "2",
+    "views": "34",
     "text": "捷克总理巴比什：将不参与 700 亿欧元的乌克兰军事援助计划。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3305647",
     "datetime": "2026-07-08T13:57:59+00:00",
-    "views": "2",
+    "views": "64",
     "text": "立陶宛总统：北约已同意将波罗的海空中警戒任务升级为北约防空任务。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3305646",
     "datetime": "2026-07-08T13:57:58+00:00",
-    "views": "2",
+    "views": "63",
     "text": "西班牙首相桑切斯：我与特朗普总统进行了融洽轻松的交流。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3305645",
     "datetime": "2026-07-08T13:57:57+00:00",
-    "views": "2",
+    "views": "33",
     "text": "西班牙首相桑切斯：与美国的关系“非常积极”",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3305644",
     "datetime": "2026-07-08T13:57:38+00:00",
-    "views": "32",
+    "views": "33",
     "text": "韩国牛市背后散户困局：热门股票普遍亏损 三星杠杆 ETF 亏损率达 100%\n数据表明，今年上半年韩国股市中，由资产配置失衡以及市场过度集中于少数领涨股票所造成的问题，比预想更加严重。  据报道，对韩国大型证券公司客户账户数据进行分析后发现，在韩国个人投资者买入金额排名前 50 的股票中，除了引领市场上涨的“半导体双雄”三星电子和 SK 海力士，以及部分核心信息技术零部件企业外，个人投资者几乎在所有热门股票上都出现了大规模亏损。 这说明，股市上涨带来的收益并没有扩散到整个市场，而是集中流向少数超大型龙头企业。 其中，成绩最惨烈的是韩国互联网企业 Kakao（个人投资者买入排名第 45 位）。 今年上半年投资 Kakao 的个人投资者平均收益率为-52.7%，亏损投资者比例达到 99.9%。这意味着几乎所有投资者都处于亏损状态。即使是间接投资产品——交易型开放式指数基金，也没有逃脱“高位追涨”的困境。 6 月份，韩国个人投资者净买入金额最高的产品是 KODEXSK 海力士杠杆基金，其亏损投资者比例达到 99.7%。 排名第二、个人投资者净买入金额第二高的 KODEX 三星电子杠杆基金，亏损投资者比例更是达到 100%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3305643",
     "datetime": "2026-07-08T13:57:37+00:00",
-    "views": "32",
+    "views": "33",
     "text": "西班牙首相桑切斯称与美国关系“非常积极”。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3305642",
     "datetime": "2026-07-08T13:56:57+00:00",
-    "views": "32",
+    "views": "63",
     "text": "捷克总理：捷克不会参与对乌克兰的 700 亿欧元军事援助一揽子计划。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3305641",
     "datetime": "2026-07-08T13:56:37+00:00",
-    "views": "32",
+    "views": "63",
     "text": "西班牙首相桑切斯：我今天与总统美国总统特朗普进行了非正式交谈，我们讨论了足球世界杯。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3305640",
     "datetime": "2026-07-08T13:56:20+00:00",
-    "views": "33",
+    "views": "64",
     "text": "北约发布宣言，计划 2026 至 2027 年向乌克兰提供 1400 亿欧元支持 同时宣布投入 500 亿欧元用于各成员国自身军事采购项目。",
     "media_only": false,
     "image_url": null,
@@ -51352,104 +51442,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3299917"
-  },
-  {
-    "post": "Financial_Express/3299915",
-    "datetime": "2026-07-06T14:00:58+00:00",
-    "views": "127",
-    "text": "美国 6 月 ISM 非制造业 PMI 54，预期 54，前值 54.5。美国 6 月 ISM 非制造业新订单指数 55.1，前值 57.3。美国 6 月 ISM 非制造业就业指数 51.2，前值 47.9。美国 6 月 ISM 非制造业物价指数 67.7，前值 71.3。美国 6 月谘商会就业趋势指数 106.69，前值 107.01。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3299915"
-  },
-  {
-    "post": "Financial_Express/3299914",
-    "datetime": "2026-07-06T14:00:38+00:00",
-    "views": "127",
-    "text": "金十图示：2026 年 07 月 06 日（周一）全球股市指数-美洲市场（盘初）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3299914"
-  },
-  {
-    "post": "Financial_Express/3299913",
-    "datetime": "2026-07-06T14:00:37+00:00",
-    "views": "127",
-    "text": "美国 6 月谘商会就业趋势指数 106.69，前值 107.01。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3299913"
-  },
-  {
-    "post": "Financial_Express/3299912",
-    "datetime": "2026-07-06T14:00:19+00:00",
-    "views": "1",
-    "text": "美国供应管理学会 6 月份非制造业指数降至 54.0；预期 54.0。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3299912"
-  },
-  {
-    "post": "Financial_Express/3299910",
-    "datetime": "2026-07-06T14:00:18+00:00",
-    "views": "126",
-    "text": "美国 6 月 ISM 非制造业就业指数 51.2，前值 47.9。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3299910"
-  },
-  {
-    "post": "Financial_Express/3299911",
-    "datetime": "2026-07-06T14:00:18+00:00",
-    "views": "127",
-    "text": "美国 6 月 ISM 非制造业物价指数 67.7，前值 71.3。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3299911"
-  },
-  {
-    "post": "Financial_Express/3299909",
-    "datetime": "2026-07-06T14:00:17+00:00",
-    "views": "126",
-    "text": "美国 6 月 ISM 非制造业新订单指数 55.1，前值 57.3。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3299909"
-  },
-  {
-    "post": "Financial_Express/3299908",
-    "datetime": "2026-07-06T13:59:58+00:00",
-    "views": "96",
-    "text": "吕特：谴责俄罗斯对乌克兰的最新袭击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3299908"
-  },
-  {
-    "post": "Financial_Express/3299907",
-    "datetime": "2026-07-06T13:59:37+00:00",
-    "views": "96",
-    "text": "阿根廷财政国务秘书表示：由于财政盈余，2027 年将比 2026 年\"挑战更小\"。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3299907"
-  },
-  {
-    "post": "Financial_Express/3299906",
-    "datetime": "2026-07-06T13:59:18+00:00",
-    "views": "66",
-    "text": "哈梅内伊葬礼期间美伊谈判进展全貌\n\n在伊朗最高领袖阿亚图拉·阿里·哈梅内伊（Ayatollah Ali Khamenei）的葬礼期间，美伊双方在多哈举行的间接谈判宣告暂停。在此之前，双方的接触取得了一定进展，但区域内的复杂局势依然对协议的落实构成严峻挑战。\n核心进展：多哈间接谈判\n上周，德黑兰与华盛顿的官员前往卡塔尔多哈举行关于停火谈判的间接接触。卡塔尔外交部发言人马吉德·安萨里（Majed al-Ansari）于周三表示，美伊双方在多哈举行的独立间接会晤取得了“积极进展”。下一次谈判会议将在伊朗前最高领袖的葬礼游行结束后，“在最早可能的时间”进行排期。\n\n美方立场：谈判进展顺利\n美国副总统万斯于周三表示，谈判“进展顺利”，但他补充称目前“仍处于相当早期的阶段”。\n\n伊朗官方立场：停火可以谈，但底线不变\n伊朗议长兼对美谈判首席谈判代表穆罕默德·巴盖尔·卡利巴夫（Mohammad Bagher Ghalibaf）此前表示，落实伊朗与美国签署的停火协议虽然“困难，但可以实现”。“伊朗不会与美国实现和平，也不会承认以色列。”与此同时，他再度表达了对抵抗之弧的支持。\n\n尽管美伊谈判在推进，但地缘政治摩擦仍在持续：\n黎以协议与冲突加剧： 上月底，在美方斡旋下，黎巴嫩和以色列官员签署协议，概述了以色列从黎巴嫩南部两个地区撤军的计划。然而协议签署后冲突并未停止。签署仅两天后，以色列便批准继续在黎巴嫩南部开展军事行动。受伊朗支持的黎巴嫩真主党（Hezbollah）对该协议予以谴责，要求以色列必须完全撤出黎巴嫩。\n叙利亚外交介入： 7 月 2 日，叙利亚过渡政府外交部长访问贝鲁特，与黎巴嫩官员举行会谈。这是自特朗普提出叙利亚介入黎巴嫩局势的可能性以来，叙利亚外长的首次正式访问。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3299906"
-  },
-  {
-    "post": "Financial_Express/3299905",
-    "datetime": "2026-07-06T13:59:17+00:00",
-    "views": "63",
-    "text": "比利时官员批评国际足联暂缓执行巴洛贡停赛决定\n在国际足联决定暂缓执行美国队球员巴洛贡世界杯停赛处罚后，当地时间 6 日，多名比利时官员纷纷对这一决定予以批评。当天，比利时副首相兼外交大臣马克西姆·普雷沃说：“作为一名前足球裁判，我始终致力于维护规则，确保判罚公平公正。这项决定显然引发了诸多疑问。” 普雷沃还表示，如果一通电话真的导致了这项令人费解的决定，那就等同于破坏足球和体育运动最基本的规则，并质疑国际足联“能否切实倡导公平竞赛”。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3299905"
   }
 ]
