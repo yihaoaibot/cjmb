@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3305880",
+    "datetime": "2026-07-08T15:22:58+00:00",
+    "views": "1",
+    "text": "支付宝花呗还款页面异常 用户称无法正常打开\n金十数据 7 月 8 日讯，7 月 8 日晚，有用户在社交媒体上反映在支付宝花呗还款时发现还款页面无法正常打开。部分用户页面显示“因机构维护，账单暂时无法查看”。测试发现，花呗账单页面无法正常显示，弹出提示“页面遇到一点问题，待会儿来试试”，顶部标注“当前查询人数过多”。支付宝官方尚未回应，客服表示已收到反馈并正在紧急处理。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305880"
+  },
+  {
+    "post": "Financial_Express/3305881",
+    "datetime": "2026-07-08T15:22:58+00:00",
+    "views": "1",
+    "text": "俄罗斯总统普京：俄罗斯的能源系统是世界上最强大的。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305881"
+  },
+  {
+    "post": "Financial_Express/3305879",
+    "datetime": "2026-07-08T15:22:38+00:00",
+    "views": "3",
+    "text": "普京：敌人正试图损害经济，在社会中制造紧张局势。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305879"
+  },
+  {
+    "post": "Financial_Express/3305878",
+    "datetime": "2026-07-08T15:22:37+00:00",
+    "views": "3",
+    "text": "土耳其总统埃尔多安对美伊谅解备忘录持乐观态度，同时警告各方切勿采取挑衅行为。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305878"
+  },
+  {
+    "post": "Financial_Express/3305877",
+    "datetime": "2026-07-08T15:22:19+00:00",
+    "views": "3",
+    "text": "俄罗斯总统普京：敌人试图对经济造成伤害，制造社会紧张局势。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305877"
+  },
+  {
+    "post": "Financial_Express/3305876",
+    "datetime": "2026-07-08T15:21:57+00:00",
+    "views": "33",
+    "text": "德国总理默茨：特朗普对我们说“现场洋溢着友好融洽的氛围”。我认为，这番收尾发言恰到好处，为本届北约峰会画上句号。在媒体眼中，这场峰会开局时形势颇为棘手。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305876"
+  },
+  {
+    "post": "Financial_Express/3305875",
+    "datetime": "2026-07-08T15:21:37+00:00",
+    "views": "33",
+    "text": "英国金融行为监管局：理查德·布卢姆菲尔德因五项内幕交易罪名被起诉。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305875"
+  },
+  {
+    "post": "Financial_Express/3305874",
+    "datetime": "2026-07-08T15:21:19+00:00",
+    "views": "34",
+    "text": "支付宝花呗崩了\n7 月 8 日晚，有用户在社交媒体上称在支付宝花呗还款时发现还款页面无法正常打开。有用户花呗页面显示：因机构维护，账单暂时无法查看。测试发现，花呗账单页面无法正常显示，并弹出提示“页面遇到一点问题，待会儿来试试”，顶部同步标注“当前查询人数过多”。截至发稿，支付宝官方暂未对此作出回应。记者询问支付宝客服获回应称，目前用反馈的问题支付宝已收到并在紧急处理中，对由此带来的不便深表歉意。（第一财经）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3305874"
+  },
+  {
     "post": "Financial_Express/3305873",
     "datetime": "2026-07-08T15:19:38+00:00",
-    "views": "32",
+    "views": "64",
     "text": "墨西哥主要股指下跌逾 1%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3305872",
     "datetime": "2026-07-08T15:19:37+00:00",
-    "views": "32",
+    "views": "64",
     "text": "美银下调 2026 年黄金均价预测，但看好长期上行空间。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3305871",
     "datetime": "2026-07-08T15:18:37+00:00",
-    "views": "32",
+    "views": "64",
     "text": "西班牙 IBEX35 指数日内大跌 3.00%，现报 19050.36 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3305870",
     "datetime": "2026-07-08T15:17:57+00:00",
-    "views": "62",
+    "views": "125",
     "text": "纳斯达克 100 指数跌幅扩大至 1%，创下盘中新低。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3305869",
     "datetime": "2026-07-08T15:17:19+00:00",
-    "views": "62",
+    "views": "94",
     "text": "匈牙利财政部长卡尔曼表示，政府没有设定汇率目标。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3305868",
     "datetime": "2026-07-08T15:17:18+00:00",
-    "views": "63",
+    "views": "95",
     "text": "布伦特原油日内涨 8%，现报 80.10 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3305866",
     "datetime": "2026-07-08T15:16:58+00:00",
-    "views": "62",
+    "views": "94",
     "text": "现货黄金失守 4030 美元/盎司，日内跌 1.88%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3305867",
     "datetime": "2026-07-08T15:16:58+00:00",
-    "views": "62",
+    "views": "124",
     "text": "特朗普：考虑将叙利亚从支持恐怖主义国家名单中移除。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3305865",
     "datetime": "2026-07-08T15:16:37+00:00",
-    "views": "62",
+    "views": "94",
     "text": "纽约期金失守 4040 美元/盎司，日内跌 2.84%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3305863",
     "datetime": "2026-07-08T15:16:19+00:00",
-    "views": "63",
+    "views": "125",
     "text": "特朗普将收到一份由美国财政部、贸易代表办公室及商务部拟定的西班牙商品清单，用于考量实施禁运事宜。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3305862",
     "datetime": "2026-07-08T15:15:18+00:00",
-    "views": "93",
+    "views": "125",
     "text": "俄罗斯宣布全面禁止柴油出口\n乌克兰无人机接连袭击俄罗斯境内多家炼油厂，为避免国内燃油供应短缺，俄罗斯出台柴油出口禁令。俄罗斯副总理亚历山大·诺瓦克在总统普京出席的政府工作会议上表示：“我们今日出台柴油出口禁令。”在本次柴油出口禁令落地前，俄罗斯已对大部分汽油、航空煤油实施出口管控。即便在禁令出台前，俄罗斯柴油与瓦斯油出口量已大幅下滑。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +182,7 @@
   {
     "post": "Financial_Express/3305861",
     "datetime": "2026-07-08T15:15:17+00:00",
-    "views": "63",
+    "views": "125",
     "text": "据华尔街日报：特朗普将收到一份西班牙商品清单，以考虑实施禁运。",
     "media_only": false,
     "image_url": null,
@@ -52144,23 +52216,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3300053"
-  },
-  {
-    "post": "Financial_Express/3300052",
-    "datetime": "2026-07-06T15:21:57+00:00",
-    "views": "126",
-    "text": "湖南资水发生 2026 年第 1 号洪水\n据水利部消息，受持续降雨影响，湖南资水柘溪水库（湖南益阳）7 月 6 日 22 时入库流量涨至 8870 立方米每秒，依据主要江河洪水编号规定，此次洪水编号为“资水 2026 年第 1 号洪水”。水利部紧盯汛情发展态势，加强雨水情监测预报预警，指导督促地方强化水工程科学调度，落实落细洪水防御各项措施，全力保障人民群众生命财产安全。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3300052"
-  },
-  {
-    "post": "Financial_Express/3300050",
-    "datetime": "2026-07-06T15:21:17+00:00",
-    "views": "128",
-    "text": "以色列军方称其在黎巴嫩南部发动袭击，造成四人死亡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3300050"
   }
 ]
