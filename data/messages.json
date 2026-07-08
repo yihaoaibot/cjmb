@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3303974",
     "datetime": "2026-07-08T05:56:39+00:00",
-    "views": "3",
+    "views": "35",
     "text": "6 月城投公司 132 只债券下调票面利率\n金十数据 7 月 8 日讯，据企业预警通统计，2026 年 6 月，125 家城投公司对 132 只债券行使票面利率调低选择权，涉及存续规模 943.28 亿元，较上月增加超 130 亿元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3303972",
     "datetime": "2026-07-08T05:55:38+00:00",
-    "views": "4",
+    "views": "35",
     "text": "工信部发布关于防范 AI 编程工具 Claude Code 安全后门隐患的风险提示\n近日，工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）监测发现，AI 编程工具 Claude Code 存在安全后门隐患，危害严重。Claude Code 是美国 Anthropic 公司开发的 AI 编程工具，可根据文字需求自主完成代码编写、修复等工作。由于其内置了监控机制，未经用户同意即可向远程服务器回传用户地域、身份标识等敏感信息，受影响的 Claude Code 为 2.1.91 至 2.1.196 版本。建议相关单位和用户立即开展全面排查，对于安装上述受影响版本的开发终端，立即卸载或升级至已清除相关后门代码的最新安全版本；加强核心业务网段内开发工具外联权限管控与流量监测，防止敏感数据违规外传。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3303973",
     "datetime": "2026-07-08T05:55:38+00:00",
-    "views": "4",
+    "views": "36",
     "text": "快手高级副总裁马宏彬：数字技术不能只停留在实验室代码与参数里，核心价值在于落地实体经济\n2026 中国互联网大会今日开幕，快手科技党委书记、高级副总裁马宏彬发表题为《筑牢数智生命线，AI 赋能新市井 让新质生产力扎根千行百业》的主题演讲。他表示，数字技术不能只停留在实验室代码与参数里，核心价值在于落地实体经济，为广大中小企业、普通群众激活生存与发展内生动力。（新浪科技）",
     "media_only": false,
     "image_url": null,
@@ -29,8 +29,8 @@
   {
     "post": "Financial_Express/3303971",
     "datetime": "2026-07-08T05:55:37+00:00",
-    "views": "4",
-    "text": "工信部发布关于防范 AI 编程工具 Claude Code 安全后门隐患的风险提示\n金十数据 7 月 8 日讯， 近日，工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）监测发现，AI 编程工具 Claude Code 存在安全后门隐患，危害严重。Claude Code 是美国 Anthropic 公司开发的 AI 编程工具，可根据文字需求自主完成代码编写、修复等工作。由于其内置了监控机制，未经用户同意即可向远程服务器回传用户地域、身份标识等敏感信息，受影响的 Claude Code 为 2.1.91 至 2.1.196 版本。建议相关单位和用",
+    "views": "35",
+    "text": "工信部发布关于防范 AI 编程工具 Claude Code 安全后门隐患的风险提示\n金十数据 7 月 8 日讯， 近日，工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）监测发现，AI 编程工具 Claude Code 存在安全后门隐患，危害严重。Claude Code 是美国 Anthropic 公司开发的 AI 编程工具，可根据文字需求自主完成代码编写、修复等工作。由于其内置了监控机制，未经用户同意即可向远程服务器回传用户地域、身份标识等敏感信息，受影响的 Claude Code 为 2.1.91 至 2.1.196 版本。建议相关单位和用户立即开展全面排查，对于安装上述受影响版本的开发终端，立即卸载或升级至已清除相关后门代码的最新安全版本；加强核心业务网段内开发工具外联权限管控与流量监测，防止敏感数据违规外传。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3303971"
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3303970",
     "datetime": "2026-07-08T05:55:18+00:00",
-    "views": "3",
+    "views": "34",
     "text": "香港新增两家专属自保保险公司 总数增至 9 家\n金十数据 7 月 8 日讯，7 月 8 日，香港保监局批出新的授权予香港上海大酒店有限公司成立的 HSH Captive Limited，以及顺丰控股股份有限公司成立的顺丰保险有限公司，令在香港成立的专属自保保险公司总数增加至 9 家。据悉，自保保险公司一般由大型企业成立，根据划定的承保范围管理其集团的内部风险。自保保险公司的行政成本及合规门槛较低，可以提高集团的成本效益和生产力。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3303969",
     "datetime": "2026-07-08T05:54:38+00:00",
-    "views": "3",
+    "views": "34",
     "text": "香港新增两家专属自保保险公司 总数增至 9 家\n7 月 8 日，香港保监局批出新的授权予香港上海大酒店有限公司成立的 HSH Captive Limited，以及顺丰控股股份有限公司成立的顺丰保险有限公司，令在香港成立的专属自保保险公司总数增加至 9 家。据悉，自保保险公司一般由大型企业成立，根据划定的承保范围管理其集团的内部风险。自保保险公司的行政成本及合规门槛较低，可以提高集团的成本效益和生产力。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3303968",
     "datetime": "2026-07-08T05:53:18+00:00",
-    "views": "33",
+    "views": "34",
     "text": "上海合晶经营范围新增电子专用材料、新材料技术研发等\n企查查 APP 显示，近日，上海合晶发生工商变更，经营范围新增电子专用材料研发；电子专用材料制造；新材料技术研发等，同时注册资本增至 6.69 亿元。企查查信息显示，上海合晶成立于 1994 年，由中电中金（厦门）智能产业股权投资基金合伙企业（有限合伙）等共同持股。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3303964",
     "datetime": "2026-07-08T05:52:37+00:00",
-    "views": "33",
+    "views": "34",
     "text": "波兰总统：我昨天简短地与美国总统特朗普交谈，像往常一样，我们的讨论集中在美国军方在波兰的永久存在上。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3303963",
     "datetime": "2026-07-08T05:51:58+00:00",
-    "views": "34",
+    "views": "35",
     "text": "波兰总统纳夫罗茨基：我昨天与特朗普进行了简短交谈，一如既往，我们的讨论聚焦于美国在波兰的永久军事存在。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3303962",
     "datetime": "2026-07-08T05:51:38+00:00",
-    "views": "34",
+    "views": "35",
     "text": "俄罗斯方面称，乌克兰无人机袭击造成 1 人死亡，两艘空载油轮受损。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3303960",
     "datetime": "2026-07-08T05:50:18+00:00",
-    "views": "63",
+    "views": "64",
     "text": "保加利亚总理：我们已经用尽保加利亚的库存来支持乌克兰。我们仓库里已经没有任何东西可以支持乌克兰了。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +128,7 @@
   {
     "post": "Financial_Express/3303961",
     "datetime": "2026-07-08T05:50:18+00:00",
-    "views": "64",
+    "views": "65",
     "text": "全国 24 条河流发生超警以上洪水\n从水利部了解到，目前，西江 2 号洪水洪峰正在通过大湟江口江段，郁江 1 号洪水洪峰已通过贵港江段。受降雨影响，昨天 8 时到今天 8 时，广东西江下游干流封开江口至德庆江段、东江支流石马河，广西郁江支流武思江、桂南沿海南流江，云南南盘江支流巴江等 24 条河流发生超警以上洪水，最大超警幅度 5.68 米，其中吉林沐石河超保 0.12 米。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3303959",
     "datetime": "2026-07-08T05:50:17+00:00",
-    "views": "33",
+    "views": "64",
     "text": "波兰总统：普京随时可能对北约东翼国家动用武力。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +146,7 @@
   {
     "post": "Financial_Express/3303958",
     "datetime": "2026-07-08T05:49:37+00:00",
-    "views": "63",
+    "views": "64",
     "text": "波兰总统：我将致力于确保北约管道延伸至东部防线。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +155,7 @@
   {
     "post": "Financial_Express/3303957",
     "datetime": "2026-07-08T05:48:38+00:00",
-    "views": "63",
+    "views": "64",
     "text": "南向资金净买入额达 130 亿港元。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +164,7 @@
   {
     "post": "Financial_Express/3303956",
     "datetime": "2026-07-08T05:48:37+00:00",
-    "views": "63",
+    "views": "64",
     "text": "全国 24 条河流发生超警以上洪水\n金十数据 7 月 8 日讯，从水利部了解到，目前，西江 2 号洪水洪峰正在通过大湟江口江段，郁江 1 号洪水洪峰已通过贵港江段。受降雨影响，昨天 8 时到今天 8 时，广东西江下游干流封开江口至德庆江段、东江支流石马河，广西郁江支流武思江、桂南沿海南流江，云南南盘江支流巴江等 24 条河流发生超警以上洪水，最大超警幅度 5.68 米，其中吉林沐石河超保 0.12 米。",
     "media_only": false,
     "image_url": null,
@@ -47329,68 +47329,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3298690"
-  },
-  {
-    "post": "Financial_Express/3298689",
-    "datetime": "2026-07-06T05:58:59+00:00",
-    "views": "74",
-    "text": "现货黄金失守 4150 美元/盎司，日内跌 0.61%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3298689"
-  },
-  {
-    "post": "Financial_Express/3298687",
-    "datetime": "2026-07-06T05:58:58+00:00",
-    "views": "65",
-    "text": "美元指数升破 101\n美元指数升破 101，日内涨 0.1428%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3298687"
-  },
-  {
-    "post": "Financial_Express/3298688",
-    "datetime": "2026-07-06T05:58:58+00:00",
-    "views": "74",
-    "text": "据香港固定收益及货币论坛网页公告，中国央行行长潘功胜将周二早上 8:55 出席论坛并发表讲话。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3298688"
-  },
-  {
-    "post": "Financial_Express/3298686",
-    "datetime": "2026-07-06T05:57:57+00:00",
-    "views": "97",
-    "text": "印度央行表示，截至 7 月 5 日，银行现金余额为 7.93 万亿卢比。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3298686"
-  },
-  {
-    "post": "Financial_Express/3298683",
-    "datetime": "2026-07-06T05:57:40+00:00",
-    "views": "84",
-    "text": "乌克兰空军：俄罗斯在夜间向乌克兰发射了 68 枚导弹和 351 架无人机。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3298683"
-  },
-  {
-    "post": "Financial_Express/3298684",
-    "datetime": "2026-07-06T05:57:40+00:00",
-    "views": "84",
-    "text": "美/日再次向上触及 162\n美元兑日元 USD/JPY 向上触及 162，日内涨 0.40%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3298684"
-  },
-  {
-    "post": "Financial_Express/3298685",
-    "datetime": "2026-07-06T05:57:40+00:00",
-    "views": "96",
-    "text": "乌克兰空军称，俄罗斯夜间向乌克兰发射了 68 枚导弹和 351 架无人机。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3298685"
   }
 ]
