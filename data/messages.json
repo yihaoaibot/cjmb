@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3306462",
+    "datetime": "2026-07-08T20:04:17+00:00",
+    "views": "11",
+    "text": "伊朗迈赫尔通讯社：防空系统正在阿巴斯港周边拦截 “敌方目标”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3306462"
+  },
+  {
+    "post": "Financial_Express/3306461",
+    "datetime": "2026-07-08T20:03:17+00:00",
+    "views": "17",
+    "text": "以色列财政部长：土耳其构成重大威胁，正推动阻止美国向土耳其出售 F-35 战机。绝不能让埃尔多安获得能够改变战局的先进武器。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3306461"
+  },
+  {
     "post": "Financial_Express/3306460",
     "datetime": "2026-07-08T20:01:57+00:00",
-    "views": "10",
+    "views": "20",
     "text": "高盛公司恢复跟踪亿纬锂能，评级中性，目标价 68 元人民币。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3306459",
     "datetime": "2026-07-08T20:00:58+00:00",
-    "views": "13",
+    "views": "51",
     "text": "美股收盘：三大股指集体涨跌不一\n道指跌 1.09%，标普 500 指数跌 0.28%，纳指涨 0.19%。Synchrony Financial 跌 9.63%，Moderna 跌 7.50%，SW 跌 6.51%，瑞思迈跌 6.33%，阿克迈涨 10.69%，Arista Networks 涨 8.75%，超微电脑涨 7.39%。“七姐妹”方面：英伟达涨 3.67%，苹果涨 0.86%，亚马逊跌 0.96%，谷歌跌 1.32%，微软跌 1.48%，Meta Platforms 跌 2.04%，特斯拉跌 2.22%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3306458",
     "datetime": "2026-07-08T20:00:57+00:00",
-    "views": "13",
+    "views": "51",
     "text": "美股收盘：三大股指涨跌不一 金龙指数涨 2%\n金十数据 7 月 9 日讯，美股周三收盘，道指初步收跌 1.09%，标普 500 指数跌 0.28%，纳指涨 0.2%。美光科技(MU.O)涨 1%，英伟达(NVDA.O)涨 3.6%，闪迪(SNDK.O)涨 6.7%。纳斯达克中国金龙指数收涨 2.05%，阿里巴巴(BABA.N)涨 11%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3306457",
     "datetime": "2026-07-08T20:00:18+00:00",
-    "views": "14",
+    "views": "52",
     "text": "纳斯达克中国金龙指数收涨 2.02%\n嘉楠科技涨 27.45%，金山云涨 11.44%，阿里巴巴涨 11.02%，世纪互联涨 8.24%，万国数据涨 7.88%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3306456",
     "datetime": "2026-07-08T19:58:37+00:00",
-    "views": "53",
+    "views": "60",
     "text": "加拿大阿尔伯塔省官员：Meta Platforms(META.O)新数据中心通过与 Pembina Pipeline 合作供能，不会影响当地电网稳定。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3306455",
     "datetime": "2026-07-08T19:58:17+00:00",
-    "views": "54",
+    "views": "61",
     "text": "艾伯塔省官员：Meta 与彭比纳管道公司达成合作，新建数据中心不会对电网稳定性造成影响。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3306454",
     "datetime": "2026-07-08T19:57:57+00:00",
-    "views": "55",
+    "views": "60",
     "text": "伊朗米赞通讯社消息：伊朗锡里克、阿巴斯港多地传来爆炸声。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3306453",
     "datetime": "2026-07-08T19:55:37+00:00",
-    "views": "60",
+    "views": "95",
     "text": "AWS：面向亚马逊云科技推出 Claude Apps Gateway。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3306452",
     "datetime": "2026-07-08T19:55:17+00:00",
-    "views": "91",
+    "views": "96",
     "text": "亚马逊云服务(AWS)：宣布推出 Claude 应用网关。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3306451",
     "datetime": "2026-07-08T19:54:58+00:00",
-    "views": "93",
+    "views": "97",
     "text": "据伊朗媒体：伊朗锡里克岛防空系统已启动。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3306450",
     "datetime": "2026-07-08T19:53:17+00:00",
-    "views": "95",
+    "views": "99",
     "text": "伊朗阿巴斯港传出爆炸声\n据伊朗迈赫尔通讯社报道，当地时间 7 月 8 日深夜，伊朗南部霍尔木兹甘省首府阿巴斯港传出爆炸声。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3306449",
     "datetime": "2026-07-08T19:52:37+00:00",
-    "views": "75",
+    "views": "109",
     "text": "据伊朗迈赫尔通讯社报道，当地时间 7 月 8 日深夜，伊朗南部霍尔木兹甘省首府阿巴斯港传出爆炸声。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3306448",
     "datetime": "2026-07-08T19:51:37+00:00",
-    "views": "82",
+    "views": "84",
     "text": "美国法官批准美国证券交易委员会（SEC）与马斯克就推特持股披露问题达成的和解。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3306447",
     "datetime": "2026-07-08T19:51:17+00:00",
-    "views": "86",
+    "views": "87",
     "text": "美国法官批准美国证券交易委员会与埃隆・马斯克就推特信息披露纠纷达成和解。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3306446",
     "datetime": "2026-07-08T19:50:57+00:00",
-    "views": "88",
+    "views": "89",
     "text": "美国国家公路交通安全管理局发布声明，要求自动驾驶企业解决无人驾驶车辆频繁干扰执法人员及其他应急救援人员的突出共性问题。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3306445",
     "datetime": "2026-07-08T19:50:38+00:00",
-    "views": "91",
+    "views": "92",
     "text": "Meta 高管： Meta 加拿大数据中心将使用天然气供电，但企业会通过可再生能源投资抵消相关碳排放。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3306444",
     "datetime": "2026-07-08T19:50:37+00:00",
-    "views": "92",
+    "views": "93",
     "text": "Meta Platforms(META.O)高管：加拿大数据中心将采用天然气供电，同时通过可再生能源投资抵消影响。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3306443",
     "datetime": "2026-07-08T19:49:17+00:00",
-    "views": "99",
+    "views": "100",
     "text": "伊朗迈赫尔通讯社消息：阿巴斯港传来爆炸声。",
     "media_only": false,
     "image_url": null,
@@ -55060,14 +55078,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3300315"
-  },
-  {
-    "post": "Financial_Express/3300314",
-    "datetime": "2026-07-06T20:03:17+00:00",
-    "views": "118",
-    "text": "消息人士：美国网络防御机构 CISA 正使用 Anthropic 的人工智能工具来审计政府代码。CISA 在使用人工智能工具审计政府代码过程中，已发现多处漏洞。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3300314"
   }
 ]
