@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3309223",
+    "datetime": "2026-07-09T16:08:38+00:00",
+    "views": "1",
+    "text": "谷歌：我们将在每条广告的广告中心面板中自动添加相关披露说明。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309223"
+  },
+  {
+    "post": "Financial_Express/3309222",
+    "datetime": "2026-07-09T16:06:37+00:00",
+    "views": "33",
+    "text": "谷歌(GOOG.O)：向所有谷歌云客户推出 AlphaEvolve 人工智能代码优化代理。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309222"
+  },
+  {
     "post": "Financial_Express/3309221",
     "datetime": "2026-07-09T16:05:17+00:00",
-    "views": "3",
+    "views": "33",
     "text": "谷歌：面向所有谷歌云客户推出 AlphaEvolve AI 代码优化智能体。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3309220",
     "datetime": "2026-07-09T16:04:18+00:00",
-    "views": "34",
+    "views": "64",
     "text": "谷歌公司在广告中提高 AI 透明度。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3309219",
     "datetime": "2026-07-09T16:01:37+00:00",
-    "views": "64",
+    "views": "94",
     "text": "房利美：美国 30 年期抵押贷款利率上升至 6.49%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3309218",
     "datetime": "2026-07-09T16:01:18+00:00",
-    "views": "64",
+    "views": "94",
     "text": "房地美：美国上周 30 年期按揭贷款/抵押贷款利率 6.49%，前值 6.43%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3309215",
     "datetime": "2026-07-09T15:56:37+00:00",
-    "views": "126",
+    "views": "156",
     "text": "美光科技股价上涨 7.2%，此前该公司将美国投资规模提升至逾 2500 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3309213",
     "datetime": "2026-07-09T15:50:58+00:00",
-    "views": "157",
+    "views": "187",
     "text": "巴西工业部：该项措施为临时举措，有效期最长 60 天，实施 30 天后将重新评估。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3309212",
     "datetime": "2026-07-09T15:50:57+00:00",
-    "views": "157",
+    "views": "187",
     "text": "纽约联储行长表示特别关注人工智能需求对通胀的影响\n纽约联储行长约翰·威廉姆斯表示，在推动美国通胀的诸多因素中，他最关注的是人工智能带动的需求。如果这种需求持续存在，可能迫使美联储加息。“如果这在通胀层面上，给需求带来了相对于供应的持续性推力，我确实认为这不是可以忽略的情况，”威廉姆斯周四在纽约联储举办的一场活动上表示。如果通胀最终比他的基准预测更顽固且明显更高，他说，“那么货币政策就需要作出回应”。他表示：“另一方面，如果情况并非如此，局势变化更为温和，我确实认为货币政策现在并将继续处于有利位置。”",
     "media_only": false,
     "image_url": null,
@@ -57031,14 +57049,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3302627"
-  },
-  {
-    "post": "Financial_Express/3302626",
-    "datetime": "2026-07-07T16:07:37+00:00",
-    "views": "68",
-    "text": "布伦特原油日内涨 3%，现报 74.15 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3302626"
   }
 ]
