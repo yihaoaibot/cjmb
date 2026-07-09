@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3307417",
+    "datetime": "2026-07-09T06:00:45+00:00",
+    "views": "2",
+    "text": "纽约期银日内涨 1%，现报 59.13 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3307417"
+  },
+  {
+    "post": "Financial_Express/3307415",
+    "datetime": "2026-07-09T06:00:44+00:00",
+    "views": "2",
+    "text": "中证 500 指数期货连续主力合约日内涨 2%，现报 8423.80 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3307415"
+  },
+  {
+    "post": "Financial_Express/3307416",
+    "datetime": "2026-07-09T06:00:44+00:00",
+    "views": "2",
+    "text": "中国汽车工业协会：1 至 6 月份新能源汽车产销量分别完成 743.8 万辆和 744.6 万辆\n今年 1 至 6 月份，我国新能源汽车市场产销量、出口量均呈现稳定增长态势。其中，新能源汽车产销量分别完成 743.8 万辆和 744.6 万辆，同比分别增长 6.7%和 7.3%；6 月新能源汽车新车销量达到汽车新车总销量的近 60%。在出口方面，1 至 6 月份，汽车出口 509.6 万辆，同比增长 65.3%。其中新能源汽车出口 235.5 万辆，同比增长 1.2 倍。中国汽车工业协会副秘书长陈士华表示，今年以来，新能源汽车出口成为拉动汽车出口增长的核心动力。出口的快速增长，是我国汽车产业转型升级、国际竞争力提升的集中体现。（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3307416"
+  },
+  {
+    "post": "Financial_Express/3307413",
+    "datetime": "2026-07-09T06:00:40+00:00",
+    "views": "2",
+    "text": "德国 5 月季调后贸易帐 191 亿欧元，预期 148 亿欧元，前值 145 亿欧元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3307413"
+  },
+  {
+    "post": "Financial_Express/3307414",
+    "datetime": "2026-07-09T06:00:40+00:00",
+    "views": "2",
+    "text": "钯金期货日内涨 1%，现报 1238.00 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3307414"
+  },
+  {
+    "post": "Financial_Express/3307411",
+    "datetime": "2026-07-09T06:00:39+00:00",
+    "views": "1",
+    "text": "纽约期金突破 4100 美元/盎司，日内涨 0.44%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3307411"
+  },
+  {
+    "post": "Financial_Express/3307412",
+    "datetime": "2026-07-09T06:00:39+00:00",
+    "views": "1",
+    "text": "纽约期银突破 59 美元/盎司，日内涨 0.80%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3307412"
+  },
+  {
+    "post": "Financial_Express/3307410",
+    "datetime": "2026-07-09T06:00:38+00:00",
+    "views": "2",
+    "text": "今年上半年新能源汽车市场稳定增长\n今年 1 至 6 月份，我国新能源汽车市场产销量、出口量均呈现稳定增长态势。其中，新能源汽车产销量分别完成 743.8 万辆和 744.6 万辆，同比分别增长 6.7%和 7.3%；6 月新能源汽车新车销量达到汽车新车总销量的近 60%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3307410"
+  },
+  {
+    "post": "Financial_Express/3307409",
+    "datetime": "2026-07-09T06:00:18+00:00",
+    "views": "3",
+    "text": "德国 5 月季调后进口月率 -2.5%，预期 0.1%，前值 1.20%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3307409"
+  },
+  {
+    "post": "Financial_Express/3307408",
+    "datetime": "2026-07-09T06:00:17+00:00",
+    "views": "3",
+    "text": "德国 5 月季调后出口月率 0.9%，预期-0.3%，前值 0.90%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3307408"
+  },
+  {
     "post": "Financial_Express/3307407",
     "datetime": "2026-07-09T05:57:38+00:00",
-    "views": "5",
+    "views": "40",
     "text": "WTI 原油失守 73 美元/桶，日内跌 0.71%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3307406",
     "datetime": "2026-07-09T05:55:17+00:00",
-    "views": "44",
+    "views": "78",
     "text": "CPO 概念震荡反弹，光迅科技等多股涨停\nCPO 概念震荡反弹，光迅科技、华天科技、通富微电、长电科技涨停，天孚通信、中富电路、罗博特科、源杰科技、华工科技、仕佳光子等跟涨。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3307405",
     "datetime": "2026-07-09T05:54:38+00:00",
-    "views": "56",
+    "views": "89",
     "text": "沙特 5 月工业产出同比下降 18.7%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3307404",
     "datetime": "2026-07-09T05:53:18+00:00",
-    "views": "75",
+    "views": "78",
     "text": "2026 版基本药物目录公布：9 月 1 日施行，降糖版司美格鲁肽被纳入\n7 月 9 日，国家卫生健康委等三部门发布 2026 版《国家基本药物目录》，自 9 月 1 日起施行。司美格鲁肽进入此次基本药物目录，但仅限于糖尿病治疗，并不包括减重。目前，司美格鲁肽仅有诺和诺德一家，但已经有超过 10 家本土药企的仿制药递交上市申请。诺和诺德方面曾对外表示，虽然司美格鲁肽的化合物专利确实已于今年年初在中国到期，但公司仍享有数据监管保护，使司美格鲁肽的专利保护可持续到明年第二季度，届时仿制药才能合法进入市场。（澎湃）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3307403",
     "datetime": "2026-07-09T05:52:58+00:00",
-    "views": "82",
+    "views": "85",
     "text": "2026 版基本药物目录公布：9 月 1 日施行，降糖版司美格鲁肽被纳入\n金十数据 7 月 9 日讯，7 月 9 日，国家卫生健康委等三部门发布 2026 版《国家基本药物目录》，自 9 月 1 日起施行。司美格鲁肽进入此次基本药物目录，但仅限于糖尿病治疗，并不包括减重。目前，司美格鲁肽仅有诺和诺德一家，但已经有超过 10 家本土药企的仿制药递交上市申请。诺和诺德方面曾对外表示，虽然司美格鲁肽的化合物专利确实已于今年年初在中国到期，但公司仍享有数据监管保护，使司美格鲁肽的专利保护可持续到明年第二季度，届时仿制药才能合法进入市场。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3307401",
     "datetime": "2026-07-09T05:52:38+00:00",
-    "views": "80",
+    "views": "82",
     "text": "深证成指涨 2.00%，现报 15239.085 点；上证指数涨 0.70%，现报 3998.605 点；创业板指涨 3.37%，现报 3974.931 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3307402",
     "datetime": "2026-07-09T05:52:38+00:00",
-    "views": "80",
+    "views": "83",
     "text": "沪深 300 指数期货连续主力合约日内涨 2%，现报 4761.40 点。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3307400",
     "datetime": "2026-07-09T05:52:17+00:00",
-    "views": "52",
+    "views": "84",
     "text": "科创 50 指数涨超 6%，中芯国际涨超 10%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3307399",
     "datetime": "2026-07-09T05:51:58+00:00",
-    "views": "55",
+    "views": "87",
     "text": "上证 50 指数期货连续主力合约日内涨 2%，现报 2925.60 点。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3307398",
     "datetime": "2026-07-09T05:51:57+00:00",
-    "views": "55",
+    "views": "88",
     "text": "科创 50 日内涨幅达 6％，成分股中，沐曦股份涨 13.9％，摩尔线程涨 11.7％，澜起科技涨 11.5％，沪硅产业涨 10.6％。",
     "media_only": false,
     "image_url": null,
@@ -56563,50 +56653,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3301094"
-  },
-  {
-    "post": "Financial_Express/3301093",
-    "datetime": "2026-07-07T06:00:37+00:00",
-    "views": "78",
-    "text": "天合光能成立新能源科技公司\n企查查 APP 显示，近日，江苏天合远航新能源科技有限公司成立，法定代表人为杨雪伟，注册资本为 1000 万元，经营范围包含：新兴能源技术研发；股权投资；企业总部管理；企业管理；企业管理咨询；信息技术咨询服务等。企查查股权穿透显示，该公司由天合光能旗下天合富家能源股份有限公司全资持股。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3301093"
-  },
-  {
-    "post": "Financial_Express/3301092",
-    "datetime": "2026-07-07T05:59:57+00:00",
-    "views": "79",
-    "text": "新加坡海峡时报指数上涨 1%至 5312.58 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3301092"
-  },
-  {
-    "post": "Financial_Express/3301091",
-    "datetime": "2026-07-07T05:59:37+00:00",
-    "views": "79",
-    "text": "2 只中证 REITs 全收益指数基金提前结募\n7 月 7 日易方达和华夏旗下的中证 REITs 全收益指数基金同时宣布提前结束募集。其中，易方达中证 REITs 全收益指数基金截至 7 月 6 日的募集已超过 3 亿元上限，将启动比例配售。加上于 7 月 1 日提前结募后于 7 月 4 日公告成立的南方中证 REITs 全收益指数基金，首批 4 只这类产品中已有 3 只结束募集。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3301091"
-  },
-  {
-    "post": "Financial_Express/3301090",
-    "datetime": "2026-07-07T05:59:17+00:00",
-    "views": "77",
-    "text": "SK 海力士 ADR 上市在即，瑞银：建议买入新发 ADR、卖出韩股\n金十数据 7 月 7 日讯，瑞银集团建议投资者买入 SK 海力士计划发行的美国存托凭证（ADR），同时卖出这家芯片制造商在韩国上市的股票，因新证券可能以溢价交易。瑞银指出，对于对冲基金等投资者而言，ADR 可能比韩国股票更具吸引力，因为持有 ADR 效率更高、成本更低。报告称，一些未将 SK 海力士韩股纳入投资范围的全球投资组合经理，也可能通过购买 ADR 参与布局。瑞银报告称：“从上市首日起便做多 ADR、做空本地股票，似乎是显而易见的策略。这是一项极具可扩展性的交易，因风险敞口非常有限——ADR 折价的可能性极低。”\n😁1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3301090"
-  },
-  {
-    "post": "Financial_Express/3301089",
-    "datetime": "2026-07-07T05:58:57+00:00",
-    "views": "78",
-    "text": "哈萨克斯坦预计今年天然气输送量将增长 4%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3301089"
   }
 ]
