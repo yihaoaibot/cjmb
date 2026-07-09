@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3309293",
+    "datetime": "2026-07-09T17:08:37+00:00",
+    "views": "9",
+    "text": "乌克兰总统泽连斯基：乌克兰将在未来几天内从美国获得 PAC-3 拦截器。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309293"
+  },
+  {
+    "post": "Financial_Express/3309292",
+    "datetime": "2026-07-09T17:08:18+00:00",
+    "views": "19",
+    "text": "OpenAI：GPT-5.6 分三款模型按百万 token 计费定价， \nSOL：输入 5 美元 / 百万 token，输出 30 美元 / 百万 token；\n TERRA：输入 2.5 美元 / 百万 token，输出 15 美元 / 百万 token ；\nLUNA：输入 1 美元 / 百万 token，输出 6 美元 / 百万 token。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309292"
+  },
+  {
+    "post": "Financial_Express/3309291",
+    "datetime": "2026-07-09T17:08:17+00:00",
+    "views": "19",
+    "text": "乌克兰总统泽连斯基：与美国总统特朗普详细讨论了爱国者导弹生产的许可证问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309291"
+  },
+  {
+    "post": "Financial_Express/3309290",
+    "datetime": "2026-07-09T17:07:57+00:00",
+    "views": "27",
+    "text": "OpenAI：正式推出 GPT-5.6 系列模型，面向公众开放使用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309290"
+  },
+  {
+    "post": "Financial_Express/3309289",
+    "datetime": "2026-07-09T17:07:38+00:00",
+    "views": "32",
+    "text": "美国 30 年期国债拍卖结束后，30 年期美债收益率延续下行，下跌 1.04 个基点，报 5.054%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309289"
+  },
+  {
+    "post": "Financial_Express/3309288",
+    "datetime": "2026-07-09T17:07:17+00:00",
+    "views": "38",
+    "text": "OpenAI 推出托管网站功能，用户可借助 ChatGPT Work 搭建网站，并分享给好友与同事。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309288"
+  },
+  {
+    "post": "Financial_Express/3309287",
+    "datetime": "2026-07-09T17:06:57+00:00",
+    "views": "45",
+    "text": "加拿大总理办公室：加拿大与沙特阿拉伯签署若干份谅解备忘录（MoUs），价值超 10 亿加元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309287"
+  },
+  {
     "post": "Financial_Express/3309286",
     "datetime": "2026-07-09T17:06:18+00:00",
-    "views": "14",
+    "views": "55",
     "text": "OpenAI：GPT-5.6 系列模型结束限量预览，正式全面对外开放。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3309285",
     "datetime": "2026-07-09T17:06:17+00:00",
-    "views": "14",
+    "views": "55",
     "text": "OpenAI：GPT-5.6 系列模型 Sol、Terra、Luna 将登陆 Chatgpt、Codex 及 API。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3309284",
     "datetime": "2026-07-09T17:04:58+00:00",
-    "views": "44",
+    "views": "75",
     "text": "纳指涨 1.00%，现报 26130.047 点；道指涨 0.31%，现报 52508.699 点；标普 500 指数涨 0.69%，现报 7534.660 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3309283",
     "datetime": "2026-07-09T17:03:57+00:00",
-    "views": "69",
+    "views": "91",
     "text": "OpenAI：Chatgpt Work 将开始向网页版和移动端的 Pro、Enterprise 及 Edu 用户推出，Plus 和 Business 用户将在未来几天陆续获得访问权限。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3309282",
     "datetime": "2026-07-09T17:02:38+00:00",
-    "views": "83",
+    "views": "101",
     "text": "美国财政部拍卖 220 亿美元 30 年期国债，得标利率 5.058%（6 月 11 日为 5.020%），投标倍数 2.44（前次为 2.30）。",
     "media_only": false,
     "image_url": null,
@@ -47,8 +110,8 @@
   {
     "post": "Financial_Express/3309281",
     "datetime": "2026-07-09T17:02:37+00:00",
-    "views": "86",
-    "text": "OpenAI：全新 ChatGPT 桌面应用整合对话、办公与代码工具三大功能。GPT-5.6 系列模型 SOL、TERRA、LUNA 将在 ChatGPT、Codex 及应用程序接口中逐步上线。",
+    "views": "105",
+    "text": "OpenAI：全新 ChatGPT 桌面应用整合对话、办公与代码工具三大功能。GPT-5.6 系列模型 SOL、TERRA、LUNA 将在 ChatGPT、Codex 及 API 中逐步上线。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3309281"
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3309279",
     "datetime": "2026-07-09T17:02:18+00:00",
-    "views": "85",
+    "views": "102",
     "text": "美国至 7 月 9 日 30 年期国债竞拍-得标利率配置百分比 7.13%，前值 32.36%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3309280",
     "datetime": "2026-07-09T17:02:18+00:00",
-    "views": "84",
+    "views": "101",
     "text": "美国至 7 月 9 日 30 年期国债竞拍-投标倍数 2.44，前值 2.33。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3309278",
     "datetime": "2026-07-09T17:02:17+00:00",
-    "views": "84",
+    "views": "99",
     "text": "美国至 7 月 9 日 30 年期国债竞拍-得标利率 5.058%，前值 5.02%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3309277",
     "datetime": "2026-07-09T17:01:58+00:00",
-    "views": "155",
+    "views": "175",
     "text": "OpenAI 发布 ChatGPT Work，该产品由最新前沿模型系列 GPT-5.6 驱动。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3309276",
     "datetime": "2026-07-09T17:01:38+00:00",
-    "views": "92",
+    "views": "106",
     "text": "OpenAI：ChatGPT 桌面端的对话、办公及代码工具现已面向全球所有 Mac 与 Windows 用户逐步上线。 ChatGPT Work 功能将率先在网页端与移动端面向专业版、企业版、教育版用户分批推出，Plus 版与商业版用户将在后续几日陆续开放使用。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3309275",
     "datetime": "2026-07-09T17:01:37+00:00",
-    "views": "90",
+    "views": "104",
     "text": "OpenAI：推出由 GPT-5.6 驱动的 Chatgpt Work，这是我们最新的前沿模型系列。全新 Chatgpt 桌面应用将聊天、工作与 Codex 整合在一起。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3309274",
     "datetime": "2026-07-09T17:00:37+00:00",
-    "views": "104",
+    "views": "113",
     "text": "以总理：“不允许”伊朗拥核 拟大幅追加国防预算\n以色列总理内塔尼亚胡 9 日表示，无论美国和伊朗是否达成协议，以色列都“不允许”伊朗获得核武器。同时，以色列计划未来 10 年提高国防预算，着力发展空军和本土军工产业。内塔尼亚胡在以军空军飞行员毕业典礼上作出上述表态。他宣布，未来 10 年将向国防预算追加 3500 亿新谢克尔（约合 1177 亿美元），其中相当一部分将用于空军建设，同时发展本土军工产业，以减少对海外采购的依赖。他称，以色列有关伊朗核问题的政策“非常明确”，无论有没有协议，都不允许伊朗拥有核武器。（新华社）",
     "media_only": false,
     "image_url": null,
