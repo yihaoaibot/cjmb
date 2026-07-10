@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3312372",
     "datetime": "2026-07-10T20:56:37+00:00",
-    "views": "1",
+    "views": "24",
     "text": "苹果起诉 OpenAI 及两名前员工窃取商业机密\n苹果公司于周五正式提起诉讼，将 OpenAI 以及两名苹果前员工列为被告，指控后者有预谋、系统性地拉拢苹果在职及离职员工，盗取苹果保密核心资料，为 ChatGPT 母公司布局消费硬件业务提供便利。苹果在声明中表示：“近期出现大量关键证据，证实 OpenAI 在职人员非法窃取苹果未对外发布的技术、生产工艺与产品相关保密机密资料。”\n诉状称，苹果前高级电气工程师 Chang Liu 离职后入职 OpenAI 研发硬件期间，多次登录苹果内网，下载数百份标注保密等级的内部文件。\n苹果还指控 Tang Tan（曾负责 iPhone 与 Apple Watch 研发，现任 OpenAI 硬件业务首席官）利用苹果内部项目代号，向仍在苹果任职的 OpenAI 求职候选人套取更多内部信息。据称他要求求职者携带实物零部件（电池、主板、系统级封装芯片）到场展示交流；诉状还提到， Tang Tan 持有或私自获取了苹果涉密离职管控文件，并在内部传阅，指导 OpenAI 新员工规避苹果离职安检流程。\n苹果还指控 OpenAI 在自研硬件阶段，向苹果长期合作供应商泄露苹果保密信息。诉状写明，OpenAI 诱导一家合作厂商演示苹果专属金属精加工商业工艺，刻意误导合作方，使其误以为已获得苹果授权。\n苹果称，目前已有超 400 名苹果前员工入职 OpenAI。苹果要求法院判令被告不得持有、使用、披露苹果商业机密，强制被告留存并归还全部苹果涉密资料，同时就窃取商业机密、违反合作协议造成的损失作出赔偿。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3312371",
     "datetime": "2026-07-10T20:54:57+00:00",
-    "views": "28",
+    "views": "40",
     "text": "美国破产法官裁定：加州不得就 2023 年数据泄露事件向 23andMe 的承继方索要经济赔偿。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3312370",
     "datetime": "2026-07-10T20:53:17+00:00",
-    "views": "42",
+    "views": "51",
     "text": "古巴本周遭遇第二次全国大范围停电。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3312369",
     "datetime": "2026-07-10T20:52:37+00:00",
-    "views": "48",
+    "views": "56",
     "text": "美国缅因州州务卿办公室声明确认：联邦参议院候选人格雷厄姆・普拉特纳的正式退选文书已完成收悉。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3312368",
     "datetime": "2026-07-10T20:48:17+00:00",
-    "views": "71",
+    "views": "77",
     "text": "苹果起诉 OpenAI 涉嫌窃取商业机密\n金十数据 7 月 11 日讯，苹果(AAPL.O)向美国法院起诉 OpenAI，指控其通过前苹果员工获取未公开产品信息，包括设计图、零部件资料和工程文件，用于开发 AI 硬件。苹果称，OpenAI 及其硬件负责人 Tang Tan 涉嫌参与获取机密资料，并要求 OpenAI 停止相关行为、销毁涉密材料。Tang Tan 此前负责苹果 iPhone、Apple Watch 和 AirPods 等硬件开发，2024 年离开苹果后加入 AI 硬件初创公司 io Products，该公司随后被 OpenAI 以 65 亿美元收购。苹果与 OpenAI 此前曾合作，将 ChatGPT 接入 Apple Intelligence 和 Siri，但双方因 AI 硬件竞争和人才争夺关系恶化。苹果称已有超过 400 名前员工加入 OpenAI。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3312367",
     "datetime": "2026-07-10T20:45:58+00:00",
-    "views": "80",
+    "views": "86",
     "text": "古巴能源部：全国电力系统全面瘫痪。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3312366",
     "datetime": "2026-07-10T20:45:57+00:00",
-    "views": "79",
+    "views": "85",
     "text": "美国国务院：美国国务卿鲁比奥与沙特外交大臣费萨尔通话。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3312365",
     "datetime": "2026-07-10T20:45:37+00:00",
-    "views": "81",
+    "views": "87",
     "text": "美国国务院：鲁比奥与沙特外交大臣举行会谈。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3312364",
     "datetime": "2026-07-10T20:34:37+00:00",
-    "views": "88",
+    "views": "93",
     "text": "伊朗外交部：从未提出与美谈判诉求 同意调解方访伊\n金十数据 7 月 11 日讯，伊朗外交部发言人巴加埃 10 日表示，伊朗从未提出过与美国谈判的诉求，但同意调解方访问伊朗。当天早些时候，美国总统特朗普在其社交媒体“真实社交”发文称，伊朗希望与美方继续“谈判”，美国已同意继续谈判。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3312363",
     "datetime": "2026-07-10T20:33:17+00:00",
-    "views": "112",
+    "views": "117",
     "text": "伊朗外交部：从未提出与美谈判诉求 同意调解方访伊\n伊朗外交部发言人巴加埃 10 日表示，伊朗从未提出过与美国谈判的诉求，但同意调解方访问伊朗。当天早些时候，美国总统特朗普在其社交媒体“真实社交”发文称，伊朗希望与美方继续“谈判”，美国已同意继续谈判。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3312362",
     "datetime": "2026-07-10T20:31:57+00:00",
-    "views": "110",
+    "views": "115",
     "text": "苹果指控，OpenAI 无视合同限制，劝说苹果合作方为其硬件研发复刻苹果的金属精加工工艺。  \n 指控 OpenAI 向供应商询问诸多仅内部人员才知晓的、关于苹果生产工艺与零部件的高度细节化问题。 \n 指控 OpenAI 授意求职应聘者携带苹果样机及设计资料参与面试。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3312361",
     "datetime": "2026-07-10T20:26:17+00:00",
-    "views": "138",
+    "views": "142",
     "text": "法院文件显示，苹果(AAPL.O)起诉 OpenAI，指控其挪用商业机密。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3312360",
     "datetime": "2026-07-10T20:25:37+00:00",
-    "views": "138",
+    "views": "142",
     "text": "法庭文件显示，苹果起诉 OpenAI，指控其盗用商业机密。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3312359",
     "datetime": "2026-07-10T20:23:37+00:00",
-    "views": "137",
+    "views": "140",
     "text": "伊朗外交部发言人巴盖伊：基于负责任立场，未拒绝地区调解方访伊并就最新事态举行会谈的请求。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +128,7 @@
   {
     "post": "Financial_Express/3312358",
     "datetime": "2026-07-10T20:22:57+00:00",
-    "views": "137",
+    "views": "140",
     "text": "伊朗外交部发言人巴盖伊：伊朗决心确保霍尔木兹海峡海上交通安全，并继续与阿曼开展合作。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3312357",
     "datetime": "2026-07-10T20:22:37+00:00",
-    "views": "137",
+    "views": "140",
     "text": "伊朗外交部发言人表示，伊朗并未主动要求与美国谈判，但我方接受卡塔尔调停人到访伊朗。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +146,7 @@
   {
     "post": "Financial_Express/3312355",
     "datetime": "2026-07-10T20:22:18+00:00",
-    "views": "134",
+    "views": "137",
     "text": "伊朗外交部发言人巴盖伊：卡塔尔代表团访问伊朗马什哈德，伊方已向其传达观点和立场。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +155,7 @@
   {
     "post": "Financial_Express/3312356",
     "datetime": "2026-07-10T20:22:18+00:00",
-    "views": "135",
+    "views": "138",
     "text": "伊朗外交部发言人称，伊朗致力于保障霍尔木兹海峡海上航运安全，并将持续与阿曼开展合作。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +164,7 @@
   {
     "post": "Financial_Express/3312354",
     "datetime": "2026-07-10T20:19:17+00:00",
-    "views": "124",
+    "views": "126",
     "text": "西方石油公司：美国证券交易委员会文件显示，2026 年第二季度原油区间期权交割令经营现金流减少 1.56 亿美元；2026 年第二季度全球原油平均实现售价为每桶 96.78 美元； 2026 年第二季度全球天然气平均实现售价为每千立方英尺负 0.8 美元。",
     "media_only": false,
     "image_url": null,
@@ -182,7 +182,7 @@
   {
     "post": "Financial_Express/3312353",
     "datetime": "2026-07-10T20:17:58+00:00",
-    "views": "111",
+    "views": "113",
     "text": "伊朗外交部发言人表示，阿拉格齐将出访阿曼，商讨并交流霍尔木兹海峡船舶安全通行配套机制相关事宜。",
     "media_only": false,
     "image_url": null,
