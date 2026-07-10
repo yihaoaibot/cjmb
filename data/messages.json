@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3309795",
+    "datetime": "2026-07-10T01:02:18+00:00",
+    "views": "4",
+    "text": "聚丙烯连续主力合约日内跌 2%，现报 7516.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309795"
+  },
+  {
+    "post": "Financial_Express/3309796",
+    "datetime": "2026-07-10T01:02:18+00:00",
+    "views": "4",
+    "text": "台积电宣布将月度销售业绩公布日期推迟至 7 月 13 日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309796"
+  },
+  {
+    "post": "Financial_Express/3309794",
+    "datetime": "2026-07-10T01:02:17+00:00",
+    "views": "4",
+    "text": "甲醇连续主力合约日内跌 2%，现报 2451.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309794"
+  },
+  {
+    "post": "Financial_Express/3309793",
+    "datetime": "2026-07-10T01:01:37+00:00",
+    "views": "7",
+    "text": "PTA 连续主力合约日内跌 2%，现报 5568.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309793"
+  },
+  {
+    "post": "Financial_Express/3309792",
+    "datetime": "2026-07-10T01:01:17+00:00",
+    "views": "74",
+    "text": "富时中国 A50 指数期货开涨 0.38%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309792"
+  },
+  {
+    "post": "Financial_Express/3309791",
+    "datetime": "2026-07-10T01:00:57+00:00",
+    "views": "41",
+    "text": "国内期货主力合约跌多涨少，SC 原油跌超 3％，焦煤跌近 3％，纯苯、焦炭跌超 2％，燃料油、低硫燃料油（LU）跌近 2％，聚丙烯、聚丙烯月均跌超 1％。涨幅方面，沪银涨超 3％，纸浆、沪锡涨超 2％，铂、钯、多晶硅、国际铜、沪铜、沪锌、沪金、鸡蛋涨超 1％。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309791"
+  },
+  {
+    "post": "Financial_Express/3309790",
+    "datetime": "2026-07-10T01:00:38+00:00",
+    "views": "42",
+    "text": "日本国债在东京市场走高 追随隔夜美国国债价格的涨势\n日本国债和美国国债往往同步波动。日本国债价格可能也受到近期原油价格下跌的提振，这可能导致日本通胀压力降低，并缓解对日本央行快速加息的担忧。日本 20 年期收益率跌 7.5 个基点至 3.79%。10 年期日本国债收益率下跌 4.5 个基点，至 2.830%。日本 40 年期国债收益率下跌 7 个基点至 3.965%。与此同时，日元兑美元涨 0.2%至 162.11。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309790"
+  },
+  {
+    "post": "Financial_Express/3309789",
+    "datetime": "2026-07-10T01:00:37+00:00",
+    "views": "42",
+    "text": "7 月 9 日 498 股获融资买入超亿元 中际旭创获买入 65.08 亿元居首\n7 月 9 日共有 3464 只个股获融资资金买入，有 498 股买入金额超亿元。其中，中际旭创、兆易创新、京东方Ａ融资买入金额排名前三，分别获买入 65.08 亿元、56.04 亿元、34.23 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3309789"
+  },
+  {
     "post": "Financial_Express/3309787",
     "datetime": "2026-07-10T01:00:19+00:00",
-    "views": "4",
+    "views": "44",
     "text": "白银连续主力合约日内涨 3%，现报 14718.00 元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3309788",
     "datetime": "2026-07-10T01:00:19+00:00",
-    "views": "4",
+    "views": "44",
     "text": "商品期货开盘\n白银连续涨 3.40%，上海原油连续跌 3.10%，纯苯连续跌 3.02%，焦煤连续跌 2.83%，纸浆连续涨 2.52%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3309785",
     "datetime": "2026-07-10T01:00:18+00:00",
-    "views": "4",
+    "views": "44",
     "text": "富时中国 A50 指数期货开盘上涨 0.39%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3309786",
     "datetime": "2026-07-10T01:00:18+00:00",
-    "views": "4",
+    "views": "44",
     "text": "PTA 连续主力合约日内跌 1%，现报 5594.00 元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3309784",
     "datetime": "2026-07-10T01:00:17+00:00",
-    "views": "4",
+    "views": "43",
     "text": "燃料油连续主力合约日内跌 2%，现报 3110.00 元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3309783",
     "datetime": "2026-07-10T00:59:17+00:00",
-    "views": "41",
+    "views": "48",
     "text": "梅东公司：宁波梅山港区暂停集装箱、商品车进提作业\n宁波梅东集装箱码头有限公司、宁波梅西滚装码头有限公司 7 月 10 日发布关于梅山港区暂停集装箱、商品车进提作业的通知：受今年第 9 号台风“巴威”影响，港区风力较大，我司计划于 7 月 10 日 12:00 开始暂停集装箱、商品车进提作业。恢复时间另行通知，请关注相关服务平台通告。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3309782",
     "datetime": "2026-07-10T00:58:17+00:00",
-    "views": "44",
+    "views": "51",
     "text": "7 月 9 日，商务部副部长兼国际贸易谈判副代表凌激与欧委会贸易和经济安全总司雷东内副总司长举行视频会谈，就中欧经贸关系交换意见。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3309781",
     "datetime": "2026-07-10T00:57:57+00:00",
-    "views": "43",
+    "views": "49",
     "text": "日本 20 年期国债收益率下跌 7.5 个基点至 3.79%\n日本 20 年期国债收益率下跌，追随美国国债走势。20 年期收益率跌 7.5 个基点至 3.79%。10 年期日本国债收益率下跌 4.5 个基点，至 2.830%。日本 40 年期国债收益率下跌 7 个基点至 3.965%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3309780",
     "datetime": "2026-07-10T00:57:17+00:00",
-    "views": "46",
+    "views": "81",
     "text": "据华尔街日报：美国总统特朗普希望在加沙部署 2 万名维和部队士兵，目前计划先派遣 10 至 20 名。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3309778",
     "datetime": "2026-07-10T00:56:38+00:00",
-    "views": "47",
+    "views": "82",
     "text": "日本 10 年期国债收益率下降 4.5 个基点，至 2.830%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3309779",
     "datetime": "2026-07-10T00:56:38+00:00",
-    "views": "48",
+    "views": "83",
     "text": "日本 40 年期国债收益率下跌 7 个基点至 3.965%。20 年期收益率跌 7.5 个基点至 3.79%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3309777",
     "datetime": "2026-07-10T00:56:17+00:00",
-    "views": "77",
+    "views": "82",
     "text": "浙江温州海事部门启动水上二级防台风应急响应\n面对即将到来的台风“巴威”，浙江温州海事局于昨天傍晚 6 点启动水上二级防台风应急响应。温州港全面实施交通管制。浙江温州海事部门对辖区船舶开展全覆盖滚动排查，逐船核实船舶位置、拟避风水域、人员撤离计划等，并抓住台风影响辖区前的有限时间，利用海巡+空巡+电子巡航方式，开展全域风险再排查。",
     "media_only": false,
     "image_url": null,
@@ -56392,59 +56464,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3303267"
-  },
-  {
-    "post": "Financial_Express/3303266",
-    "datetime": "2026-07-08T01:01:58+00:00",
-    "views": "119",
-    "text": "澳大利亚储备银行助理行长亨特：但到目前为止，几乎没有迹象表明经济活动明显放缓。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3303266"
-  },
-  {
-    "post": "Financial_Express/3303265",
-    "datetime": "2026-07-08T01:01:57+00:00",
-    "views": "91",
-    "text": "澳大利亚储备银行助理行长亨特：供应冲击不会降低维持低而稳定通胀的重要性。石油冲击有可能改变通胀预期。供应冲击给央行和整体经济带来不可避免的权衡取舍。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3303265"
-  },
-  {
-    "post": "Financial_Express/3303264",
-    "datetime": "2026-07-08T01:00:57+00:00",
-    "views": "92",
-    "text": "澳洲央行官员亨特：货币政策有可能限制间接和第二轮效应。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3303264"
-  },
-  {
-    "post": "Financial_Express/3303261",
-    "datetime": "2026-07-08T01:00:38+00:00",
-    "views": "89",
-    "text": "台湾证交所加权股价指数开高 0.1%报 45,524.69。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3303261"
-  },
-  {
-    "post": "Financial_Express/3303262",
-    "datetime": "2026-07-08T01:00:38+00:00",
-    "views": "89",
-    "text": "苯乙烯连续主力合约日内涨 3%，现报 7662.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3303262"
-  },
-  {
-    "post": "Financial_Express/3303263",
-    "datetime": "2026-07-08T01:00:38+00:00",
-    "views": "89",
-    "text": "甲醇连续主力合约日内涨 2%，现报 2437.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3303263"
   }
 ]
