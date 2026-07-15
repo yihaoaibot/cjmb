@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3321084",
+    "datetime": "2026-07-15T00:08:17+00:00",
+    "views": "7",
+    "text": "DOWNDETECTOR 用户报告显示 OPENAI 存在问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3321084"
+  },
+  {
+    "post": "Financial_Express/3321083",
+    "datetime": "2026-07-15T00:07:37+00:00",
+    "views": "11",
+    "text": "韩国交易所对 KOSPI 指数启动临时停牌机制，程序化交易暂停 5 分钟。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3321083"
+  },
+  {
+    "post": "Financial_Express/3321081",
+    "datetime": "2026-07-15T00:07:18+00:00",
+    "views": "12",
+    "text": "韩国交易所启动 SIDECAR 机制，暂停 KOSPI 程序化买盘。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3321081"
+  },
+  {
+    "post": "Financial_Express/3321082",
+    "datetime": "2026-07-15T00:07:18+00:00",
+    "views": "12",
+    "text": "布伦特原油日内涨 1%，现报 85.58 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3321082"
+  },
+  {
+    "post": "Financial_Express/3321080",
+    "datetime": "2026-07-15T00:07:17+00:00",
+    "views": "12",
+    "text": "韩媒：三星计划于韩国器兴新建 DRAM 工厂\n金十数据 7 月 15 日讯，韩国经济日报援引消息人士的话称，三星电子计划在韩国器兴新建一座 DRAM 工厂，晶圆月产能约 10 万片。该项目预计投资规模达数十万亿韩元。项目最快或于第三季度动工。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3321080"
+  },
+  {
     "post": "Financial_Express/3321079",
     "datetime": "2026-07-15T00:06:58+00:00",
-    "views": "2",
+    "views": "43",
     "text": "欧盟航空安全局发布中东多国空域禁飞警告\n随着美国与伊朗近日的军事对抗再度升温，欧盟航空安全局 14 日恢复并加强对中东地区的航空警告，明确要求航空公司避开巴林、科威特、卡塔尔、阿联酋的领空，有效期至 7 月 29 日。针对伊朗、伊拉克和黎巴嫩空域的禁飞警告延长至 8 月底。欧盟航空安全局表示，美国在该地区的大量军事存在使相关国家直接面临伊朗导弹和无人机攻击风险，而美方及地区国家防空系统高度戒备，大大增加了民航飞机被误识别或误击的可能，空中军事对抗可能毫无预警地发生。就在一周前，欧盟航空安全局因美伊 6 月签署谅解备忘录撤销了要求在该区域“谨慎飞行”的警告。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3321078",
     "datetime": "2026-07-15T00:06:38+00:00",
-    "views": "5",
+    "views": "47",
     "text": "澳大利亚 S&P/ASX 200 指数早盘上涨 0.6%，报 8,861.50 点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3321077",
     "datetime": "2026-07-15T00:06:37+00:00",
-    "views": "5",
+    "views": "47",
     "text": "欧盟航空安全局发布中东多国空域禁飞警告\n金十数据 7 月 15 日讯，随着美国与伊朗近日的军事对抗再度升温，欧盟航空安全局 14 日恢复并加强对中东地区的航空警告，明确要求航空公司避开巴林、科威特、卡塔尔、阿联酋的领空，有效期至 7 月 29 日。针对伊朗、伊拉克和黎巴嫩空域的禁飞警告延长至 8 月底。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3321076",
     "datetime": "2026-07-15T00:06:17+00:00",
-    "views": "8",
+    "views": "47",
     "text": "中国地震台网正式测定：07 月 15 日 07 时 59 分在青海海西州直辖区（北纬 37.81 度，东经 95.46 度）发生 3.0 级地震，震源深度 10 千米。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3321075",
     "datetime": "2026-07-15T00:05:57+00:00",
-    "views": "12",
+    "views": "48",
     "text": "优刻得：坚守“中立”定位 持续建设 AI 时代的 Token 工厂\n在 AI（人工智能）大模型重塑千行百业的当下，算力正成为数字经济时代最核心的生产力。作为第三方中立云计算服务商，优刻得正以乌兰察布智算中心为战略支点，将草原的绿电转化为源源不断的 AI 算力。面对算力需求的井喷与成本挑战，优刻得董事长兼 CEO 季昕华在接受记者专访时表示，AI 正逐步迈入价值释放的初期阶段，而优刻得正坚守“中立”定位，致力于成为这场产业变革中坚实的算力底座与企业出海的护航者。季昕华称，优刻得将持续建设 AI 时代的“Token（词元）工厂”，不断完善智算基础设施布局，为大模型训练、推理以及智能终端等创新应用提供坚实支撑。（中证报）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3321074",
     "datetime": "2026-07-15T00:05:37+00:00",
-    "views": "16",
+    "views": "52",
     "text": "广西贵港发布暴雨三级预警\n贵港市气象台 7 月 15 日 7 时 00 分发布暴雨三级预警：受热带东风系统影响，过去 12 小时，贵港市有 39 个乡镇累计降雨量超过 50 毫米，其中 26 个乡镇累计降雨量 100～250 毫米。预计未来 24 小时，贵港市大部仍有大到暴雨，局部大暴雨，并伴有短时雷暴大风等强对流天气，请注意防范。防御建议：1.建议各地各相关部门按照职责做好防御暴雨应急工作。2.切断有危险地带的室外电源，暂停危险区域户外作业。3.做好城市、农田的排涝，注意防范可能引发的山洪、滑坡、泥石流等灾害。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3321073",
     "datetime": "2026-07-15T00:05:17+00:00",
-    "views": "47",
+    "views": "54",
     "text": "SK 海力士股价在首尔上涨，涨幅一度高达 11%，此前其 ADR 股价飙升。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3321072",
     "datetime": "2026-07-15T00:04:17+00:00",
-    "views": "50",
+    "views": "56",
     "text": "MSCI 亚太指数上涨 1.2%至 270.58 点。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3321071",
     "datetime": "2026-07-15T00:02:58+00:00",
-    "views": "94",
+    "views": "129",
     "text": "韩国综合股价指数（KOSPI）上涨 6.4%，至 7293.71 点。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3321070",
     "datetime": "2026-07-15T00:01:38+00:00",
-    "views": "95",
+    "views": "97",
     "text": "SK 海力士涨 10%，三星电子涨 7%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3321069",
     "datetime": "2026-07-15T00:01:37+00:00",
-    "views": "93",
+    "views": "94",
     "text": "30 年期日本国债收益率上升 0.5 个基点，至 3.740%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3321068",
     "datetime": "2026-07-15T00:01:18+00:00",
-    "views": "93",
+    "views": "94",
     "text": "力积电 7 月起将存储代工报价上调 45%\n7 月 14 日，力积电总经理朱宪国在业绩说明会上表示，公司自本月起将存储代工报价上调 45%，相关产能预计 11 月投产，有望进一步拉动营收、提升盈利，同时提高存储业务在整体营收中的占比。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3321067",
     "datetime": "2026-07-15T00:00:58+00:00",
-    "views": "92",
+    "views": "93",
     "text": "韩国综合股价指数（KOSPI）开盘上涨 3.3%，至 7082.91 点。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3321066",
     "datetime": "2026-07-15T00:00:57+00:00",
-    "views": "92",
+    "views": "93",
     "text": "华泰证券：业绩期关注 AI、涨价、制造三大线索\n华泰证券研报认为，业绩期关注 AI、涨价、制造三大线索。随着业绩预告密集披露期临近，华泰证券从多个维度观察：1）中报业绩预告披露率目前仍较低，披露率及预喜率居前的行业为石化、非银、有色、化工、电子等，预告净利润增速中位数居前的行业为农业、石化、军工、计算机、传媒，随着披露率上升或仍有变化；2）考察近 1 个月盈利预期变化，上修幅度居前的行业为煤炭、建材、电子、通信、化工，上修宽度居前的行业为建材、煤炭、有色、通信、机械；3）中观数据显示景气改善的线索集中 AI 链（元件、半导体、光通信、光电、游戏等）、涨价链（航运、玻纤、煤炭、造纸、部分化工品、铜等）、制造出海（航海装备、通用自动化、电池、工程机械等）。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3321065",
     "datetime": "2026-07-15T00:00:38+00:00",
-    "views": "129",
+    "views": "131",
     "text": "日韩股市开盘\n日经 225 指数上午开盘报 67989.74 点，涨幅 0.36％。韩国综合股价指数（KOSPI）开盘上涨 3.3％，至 7082.91 点。",
     "media_only": false,
     "image_url": null,
@@ -37231,23 +37276,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3314027"
-  },
-  {
-    "post": "Financial_Express/3314026",
-    "datetime": "2026-07-13T00:08:57+00:00",
-    "views": "80",
-    "text": "日本拟推动政府养老金投资基金增加另类投资比例\n据报道，日本计划提高日本政府养老金投资基金（GPIF）投资组合中非上市股票、房地产及其他另类投资的比例。截至今年 3 月，另类投资占 GPIF 资产总额的 1.7%，远低于 5%的允许上限。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3314026"
-  },
-  {
-    "post": "Financial_Express/3314025",
-    "datetime": "2026-07-13T00:07:37+00:00",
-    "views": "85",
-    "text": "国家海洋预报台 7 月 13 日 08 时发布海浪蓝色警报：受今年第 9 号台风“巴威”（热带风暴级）的影响，预计：7 月 13 日上午到 14 日上午，黄海将出现 3 到 4.5 米的大浪到巨浪区；辽宁东部、山东东部、南部、江苏近岸海域将出现 2 到 3.4 米的中浪到大浪，近岸海域海浪预警级别为蓝色。请在上述海域作业的船只注意安全，沿海各有关单位提前采取防浪避浪措施。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3314025"
   }
 ]
