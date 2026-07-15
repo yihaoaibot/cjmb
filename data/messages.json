@@ -1,8 +1,125 @@
 [
   {
+    "post": "Financial_Express/3322933",
+    "datetime": "2026-07-15T12:32:37+00:00",
+    "views": "1",
+    "text": "美国 PPI 数据出炉后现货黄金收窄跌幅，最新下跌 0.1%，报 4048 美元 / 盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3322933"
+  },
+  {
+    "post": "Financial_Express/3322932",
+    "datetime": "2026-07-15T12:32:17+00:00",
+    "views": "6",
+    "text": "美国 6 月 PPI 环比下降 0.3%；预计与上年持平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3322932"
+  },
+  {
+    "post": "Financial_Express/3322930",
+    "datetime": "2026-07-15T12:31:58+00:00",
+    "views": "9",
+    "text": "加拿大 5 月制造业未完成订单月率 6.7%，前值 1.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3322930"
+  },
+  {
+    "post": "Financial_Express/3322931",
+    "datetime": "2026-07-15T12:31:58+00:00",
+    "views": "9",
+    "text": "6 月 PPI 意外下跌后，美国国债价格小幅走高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3322931"
+  },
+  {
+    "post": "Financial_Express/3322928",
+    "datetime": "2026-07-15T12:31:38+00:00",
+    "views": "14",
+    "text": "加拿大 5 月制造业新订单月率 9.5%，前值 2.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3322928"
+  },
+  {
+    "post": "Financial_Express/3322929",
+    "datetime": "2026-07-15T12:31:38+00:00",
+    "views": "14",
+    "text": "纽约联邦储备银行全额接受了 7 月 15 日常备回购操作中提交的 1 亿美元申请。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3322929"
+  },
+  {
+    "post": "Financial_Express/3322927",
+    "datetime": "2026-07-15T12:31:37+00:00",
+    "views": "14",
+    "text": "加拿大 5 月制造业库存装船比 1.3%，前值 1.62%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3322927"
+  },
+  {
+    "post": "Financial_Express/3322926",
+    "datetime": "2026-07-15T12:31:18+00:00",
+    "views": "17",
+    "text": "加拿大 5 月批发库存月率 -2.3%，前值 1.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3322926"
+  },
+  {
+    "post": "Financial_Express/3322925",
+    "datetime": "2026-07-15T12:31:17+00:00",
+    "views": "17",
+    "text": "加拿大 5 月批发销售年率 0.2%，前值 6.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3322925"
+  },
+  {
+    "post": "Financial_Express/3322924",
+    "datetime": "2026-07-15T12:30:58+00:00",
+    "views": "47",
+    "text": "加拿大 5 月制造业库存月率 0.5%，前值 0.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3322924"
+  },
+  {
+    "post": "Financial_Express/3322922",
+    "datetime": "2026-07-15T12:30:38+00:00",
+    "views": "48",
+    "text": "美国 7 月纽约联储制造业就业指数 11.4，前值 9.6。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3322922"
+  },
+  {
+    "post": "Financial_Express/3322923",
+    "datetime": "2026-07-15T12:30:38+00:00",
+    "views": "48",
+    "text": "美国 6 月生产者价格指数同比上涨 5.5%；预期上涨 6.2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3322923"
+  },
+  {
+    "post": "Financial_Express/3322921",
+    "datetime": "2026-07-15T12:30:37+00:00",
+    "views": "48",
+    "text": "美国 7 月纽约联储制造业物价获得指数 27.6，前值 31.4。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3322921"
+  },
+  {
     "post": "Financial_Express/3322919",
     "datetime": "2026-07-15T12:30:19+00:00",
-    "views": "4",
+    "views": "48",
     "text": "美国 7 月纽约联储制造业新订单指数 22.2，前值 3.5。",
     "media_only": false,
     "image_url": null,
@@ -11,8 +128,8 @@
   {
     "post": "Financial_Express/3322920",
     "datetime": "2026-07-15T12:30:19+00:00",
-    "views": "4",
-    "text": "马士基投资 1 亿美元在波士顿地区新建履约中心，将创造近千个就业岗位并提升东北部配送能力。",
+    "views": "49",
+    "text": "马士基投资 1 亿美元在波士顿地区新建配送中心，将创造近千个就业岗位并提升东北部配送能力。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3322920"
@@ -20,7 +137,7 @@
   {
     "post": "Financial_Express/3322917",
     "datetime": "2026-07-15T12:30:18+00:00",
-    "views": "4",
+    "views": "48",
     "text": "美国 6 月核心 PPI 月率 0.2%，预期 0.4%，前值由 0.40%修正为 0.1%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +146,7 @@
   {
     "post": "Financial_Express/3322918",
     "datetime": "2026-07-15T12:30:18+00:00",
-    "views": "4",
+    "views": "48",
     "text": "美国 6 月核心 PPI 年率 4.7%，预期 5.2%，前值由 4.90%修正为 4.6%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +155,7 @@
   {
     "post": "Financial_Express/3322916",
     "datetime": "2026-07-15T12:30:17+00:00",
-    "views": "4",
+    "views": "48",
     "text": "加拿大 5 月制造业装船月率 1.3%，预期 1.1%，前值 4.20%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +164,7 @@
   {
     "post": "Financial_Express/3322915",
     "datetime": "2026-07-15T12:29:57+00:00",
-    "views": "4",
+    "views": "48",
     "text": "马士基：投资 1 亿美元在波士顿地区建立新的配送中心，创造近 1000 个就业机会，并扩大东北地区的配送能力。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +173,7 @@
   {
     "post": "Financial_Express/3322914",
     "datetime": "2026-07-15T12:29:37+00:00",
-    "views": "4",
+    "views": "48",
     "text": "摩根士丹利 CFO：中国香港、日本、韩国和印度等亚洲市场的活跃推动了创纪录的股权收入。",
     "media_only": false,
     "image_url": null,
@@ -35197,68 +35314,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3316104"
-  },
-  {
-    "post": "Financial_Express/3316102",
-    "datetime": "2026-07-13T12:32:38+00:00",
-    "views": "32",
-    "text": "美国总统特朗普：伊朗的大部分装备都没了，包括他们的防空炮。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3316102"
-  },
-  {
-    "post": "Financial_Express/3316101",
-    "datetime": "2026-07-13T12:32:17+00:00",
-    "views": "32",
-    "text": "加拿大航空推出蒙特利尔市中心与蒙特利尔特鲁多机场间快速高频城市班车。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3316101"
-  },
-  {
-    "post": "Financial_Express/3316100",
-    "datetime": "2026-07-13T12:31:58+00:00",
-    "views": "32",
-    "text": "宁德时代与泸州公交集团签署战略合作\n近日，宁德时代与泸州公交集团签署战略合作框架协议，双方将围绕退役电池梯次回收利用、后市场宁家服务入驻、车网互动（V2G）技术落地与低空经济的物流与载人场景拓展加强合作。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3316100"
-  },
-  {
-    "post": "Financial_Express/3316099",
-    "datetime": "2026-07-13T12:31:57+00:00",
-    "views": "32",
-    "text": "纽约联储隔夜回购操作未收到任何投标。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3316099"
-  },
-  {
-    "post": "Financial_Express/3316098",
-    "datetime": "2026-07-13T12:31:38+00:00",
-    "views": "33",
-    "text": "BITMINE IMMERSION TECHNOLOGIES (BMNR)宣布，其持有的以太币达到 577 万枚，加密货币及现金总持有量达 113 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3316098"
-  },
-  {
-    "post": "Financial_Express/3316097",
-    "datetime": "2026-07-13T12:31:17+00:00",
-    "views": "33",
-    "text": "瑞士钟表集团(Watches of Switzerland)股价急升，跳涨 4.4%，此前报导称该公司正就潜在收购进行谈判。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3316097"
-  },
-  {
-    "post": "Financial_Express/3316096",
-    "datetime": "2026-07-13T12:30:37+00:00",
-    "views": "34",
-    "text": "富尔顿金融将蓝铸造银行分部并入富尔顿银行。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3316096"
   }
 ]
