@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3326632",
+    "datetime": "2026-07-16T17:19:57+00:00",
+    "views": "12",
+    "text": "美联储洛根：应加息以应对通胀\n金十数据 7 月 17 日讯，美联储洛根表示，美联储应提高利率以应对高企的通胀问题——这一言论暗示她可能准备在本月晚些时候反对维持利率不变的决定。洛根表示，周二公布的 6 月通胀数据表明物价上涨趋于放缓，但不足以让她确信通胀已重回美联储 2%的目标路径。“6 月 CPI 数据确实表明，通胀有可能重回目标水平，前景更加乐观，”洛根表示，“但这一路径仍十分脆弱。我目前认为，适度提高利率将有助于更好地平衡前景与风险。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3326632"
+  },
+  {
+    "post": "Financial_Express/3326631",
+    "datetime": "2026-07-16T17:19:38+00:00",
+    "views": "20",
+    "text": "以色列总统赫尔佐格：以色列下一阶段的主要目标应是与叙利亚和黎巴嫩实现和平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3326631"
+  },
+  {
+    "post": "Financial_Express/3326630",
+    "datetime": "2026-07-16T17:18:38+00:00",
+    "views": "31",
+    "text": "纽约联邦储备银行 7 月 16 日接受了提交至逆回购工具的全部 1.25 亿美元申请量。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3326630"
+  },
+  {
+    "post": "Financial_Express/3326629",
+    "datetime": "2026-07-16T17:18:37+00:00",
+    "views": "31",
+    "text": "现货铂金下跌约 3%，报 1624.10 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3326629"
+  },
+  {
     "post": "Financial_Express/3326628",
     "datetime": "2026-07-16T17:18:17+00:00",
-    "views": "10",
+    "views": "35",
     "text": "美联储在固定利率逆回购操作中总计接纳了 1 个对手方的 1.25 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3326627",
     "datetime": "2026-07-16T17:17:19+00:00",
-    "views": "23",
+    "views": "43",
     "text": "美联储洛根：通胀似乎并未可持续地回落至 2%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3326626",
     "datetime": "2026-07-16T17:17:18+00:00",
-    "views": "23",
+    "views": "42",
     "text": "美联储洛根：人工智能投资激增可能引发非线性价格上涨。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3326625",
     "datetime": "2026-07-16T17:16:58+00:00",
-    "views": "25",
+    "views": "42",
     "text": "洛根：利率应略高一些。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3326624",
     "datetime": "2026-07-16T17:16:57+00:00",
-    "views": "25",
+    "views": "43",
     "text": "美联储洛根：劳动力、消费和金融数据表明货币政策并未抑制经济。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3326623",
     "datetime": "2026-07-16T17:16:43+00:00",
-    "views": "28",
+    "views": "45",
     "text": "洛根：目前来看，进一步通货紧缩的希望大于可能性。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3326621",
     "datetime": "2026-07-16T17:16:39+00:00",
-    "views": "28",
+    "views": "44",
     "text": "美联储洛根：劳动力市场平衡良好，甚至略有增强。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3326622",
     "datetime": "2026-07-16T17:16:39+00:00",
-    "views": "28",
+    "views": "44",
     "text": "洛根：人工智能的需求效应已经显现，但供给效应尚不明朗。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3326619",
     "datetime": "2026-07-16T17:16:38+00:00",
-    "views": "28",
+    "views": "44",
     "text": "美联储洛根：就业的下行风险已经减弱，通胀风险主要在上行方面。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3326620",
     "datetime": "2026-07-16T17:16:38+00:00",
-    "views": "28",
+    "views": "44",
     "text": "美联储洛根：人工智能最终可能带来生产力激增，但需求效应已经显现。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3326618",
     "datetime": "2026-07-16T17:16:37+00:00",
-    "views": "28",
+    "views": "45",
     "text": "美联储洛根：是时候完成恢复价格稳定的工作了。需要一些政策限制来帮助实现这一目标。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3326617",
     "datetime": "2026-07-16T17:16:18+00:00",
-    "views": "28",
+    "views": "43",
     "text": "洛根：数据显示货币政策并未抑制经济。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3326616",
     "datetime": "2026-07-16T17:16:17+00:00",
-    "views": "28",
+    "views": "43",
     "text": "洛根：适度提高利率能更好地平衡风险。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3326615",
     "datetime": "2026-07-16T17:15:58+00:00",
-    "views": "31",
+    "views": "45",
     "text": "美联储洛根：倾向于为了降低通胀率而适度加息。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3326614",
     "datetime": "2026-07-16T17:15:57+00:00",
-    "views": "31",
+    "views": "45",
     "text": "美联储洛根：\"适度提高\"利率将更好地平衡前景与风险。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3326613",
     "datetime": "2026-07-16T17:11:37+00:00",
-    "views": "48",
+    "views": "55",
     "text": "COINBASE GLOBAL INC：部分用户在进行 ATOM 发送和接收时可能会遇到延迟。",
     "media_only": false,
     "image_url": null,
@@ -53827,14 +53863,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3320629"
-  },
-  {
-    "post": "Financial_Express/3320628",
-    "datetime": "2026-07-14T17:18:57+00:00",
-    "views": "92",
-    "text": "消息人士：关税法案将赋予特朗普全新权限。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320628"
   }
 ]
