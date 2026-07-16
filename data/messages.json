@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3326637",
+    "datetime": "2026-07-16T17:21:58+00:00",
+    "views": "11",
+    "text": "白宫称特朗普将出席世界杯决赛。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3326637"
+  },
+  {
+    "post": "Financial_Express/3326636",
+    "datetime": "2026-07-16T17:21:57+00:00",
+    "views": "11",
+    "text": "白宫：美国总统特朗普将出席世界杯决赛。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3326636"
+  },
+  {
+    "post": "Financial_Express/3326635",
+    "datetime": "2026-07-16T17:21:37+00:00",
+    "views": "19",
+    "text": "卡罗琳：特朗普周日将观看西班牙对阿根廷的比赛。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3326635"
+  },
+  {
+    "post": "Financial_Express/3326634",
+    "datetime": "2026-07-16T17:21:17+00:00",
+    "views": "26",
+    "text": "卡罗琳：特朗普明天将前往纽约。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3326634"
+  },
+  {
+    "post": "Financial_Express/3326633",
+    "datetime": "2026-07-16T17:20:37+00:00",
+    "views": "33",
+    "text": "白宫新闻秘书卡罗琳：特朗普今晚将谈论选举公正性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3326633"
+  },
+  {
     "post": "Financial_Express/3326632",
     "datetime": "2026-07-16T17:19:57+00:00",
-    "views": "12",
+    "views": "39",
     "text": "美联储洛根：应加息以应对通胀\n金十数据 7 月 17 日讯，美联储洛根表示，美联储应提高利率以应对高企的通胀问题——这一言论暗示她可能准备在本月晚些时候反对维持利率不变的决定。洛根表示，周二公布的 6 月通胀数据表明物价上涨趋于放缓，但不足以让她确信通胀已重回美联储 2%的目标路径。“6 月 CPI 数据确实表明，通胀有可能重回目标水平，前景更加乐观，”洛根表示，“但这一路径仍十分脆弱。我目前认为，适度提高利率将有助于更好地平衡前景与风险。”",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3326631",
     "datetime": "2026-07-16T17:19:38+00:00",
-    "views": "20",
+    "views": "40",
     "text": "以色列总统赫尔佐格：以色列下一阶段的主要目标应是与叙利亚和黎巴嫩实现和平。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3326630",
     "datetime": "2026-07-16T17:18:38+00:00",
-    "views": "31",
+    "views": "50",
     "text": "纽约联邦储备银行 7 月 16 日接受了提交至逆回购工具的全部 1.25 亿美元申请量。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3326629",
     "datetime": "2026-07-16T17:18:37+00:00",
-    "views": "31",
+    "views": "50",
     "text": "现货铂金下跌约 3%，报 1624.10 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3326628",
     "datetime": "2026-07-16T17:18:17+00:00",
-    "views": "35",
+    "views": "54",
     "text": "美联储在固定利率逆回购操作中总计接纳了 1 个对手方的 1.25 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3326627",
     "datetime": "2026-07-16T17:17:19+00:00",
-    "views": "43",
+    "views": "59",
     "text": "美联储洛根：通胀似乎并未可持续地回落至 2%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3326626",
     "datetime": "2026-07-16T17:17:18+00:00",
-    "views": "42",
+    "views": "58",
     "text": "美联储洛根：人工智能投资激增可能引发非线性价格上涨。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3326625",
     "datetime": "2026-07-16T17:16:58+00:00",
-    "views": "42",
+    "views": "58",
     "text": "洛根：利率应略高一些。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3326624",
     "datetime": "2026-07-16T17:16:57+00:00",
-    "views": "43",
+    "views": "60",
     "text": "美联储洛根：劳动力、消费和金融数据表明货币政策并未抑制经济。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3326623",
     "datetime": "2026-07-16T17:16:43+00:00",
-    "views": "45",
+    "views": "61",
     "text": "洛根：目前来看，进一步通货紧缩的希望大于可能性。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3326621",
     "datetime": "2026-07-16T17:16:39+00:00",
-    "views": "44",
+    "views": "56",
     "text": "美联储洛根：劳动力市场平衡良好，甚至略有增强。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3326622",
     "datetime": "2026-07-16T17:16:39+00:00",
-    "views": "44",
+    "views": "57",
     "text": "洛根：人工智能的需求效应已经显现，但供给效应尚不明朗。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3326619",
     "datetime": "2026-07-16T17:16:38+00:00",
-    "views": "44",
+    "views": "56",
     "text": "美联储洛根：就业的下行风险已经减弱，通胀风险主要在上行方面。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3326620",
     "datetime": "2026-07-16T17:16:38+00:00",
-    "views": "44",
+    "views": "56",
     "text": "美联储洛根：人工智能最终可能带来生产力激增，但需求效应已经显现。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3326618",
     "datetime": "2026-07-16T17:16:37+00:00",
-    "views": "45",
+    "views": "57",
     "text": "美联储洛根：是时候完成恢复价格稳定的工作了。需要一些政策限制来帮助实现这一目标。",
     "media_only": false,
     "image_url": null,
@@ -53854,14 +53899,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3320630"
-  },
-  {
-    "post": "Financial_Express/3320629",
-    "datetime": "2026-07-14T17:20:58+00:00",
-    "views": "91",
-    "text": "俄罗斯莫斯科市长索比亚宁：今日已击落 36 架无人机，防空部队击落了七架接近莫斯科的无人机。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320629"
   }
 ]
