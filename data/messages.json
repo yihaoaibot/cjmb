@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3326869",
     "datetime": "2026-07-16T20:35:57+00:00",
-    "views": "5",
+    "views": "14",
     "text": "委内瑞拉临时总统罗德里格斯：委内瑞拉目前正在磋商 30 项能源合作协议，尚不确定她是否会参选委内瑞拉大选。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3326868",
     "datetime": "2026-07-16T20:34:57+00:00",
-    "views": "10",
+    "views": "18",
     "text": "美国国家飓风中心（NHC）：飓风埃莉达强度小幅增强，预计于今晚至周五转向西北方向移动。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3326867",
     "datetime": "2026-07-16T20:30:57+00:00",
-    "views": "27",
+    "views": "61",
     "text": "美国至 7 月 10 日当周外国央行持有美国国债 6.39 亿美元，前值-286.05 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3326866",
     "datetime": "2026-07-16T20:29:37+00:00",
-    "views": "33",
+    "views": "64",
     "text": "委内瑞拉临时总统罗德里格斯：委内瑞拉的石油产量预计在年底前达到 140 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3326865",
     "datetime": "2026-07-16T20:28:38+00:00",
-    "views": "64",
+    "views": "65",
     "text": "加拿大国家铁路公司：现有证据表明，7 月 5 日列车脱轨事故由铁轨热胀变形错位导致。公司认为此次列车脱轨事故并非由行驶速度、列车调度及机械故障引发。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3326864",
     "datetime": "2026-07-16T20:25:17+00:00",
-    "views": "73",
+    "views": "74",
     "text": "巴西财政部长：巴西不会向外国利益屈服，将持续捍卫 PIX 支付系统这一金融主权最核心象征。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3326863",
     "datetime": "2026-07-16T20:24:58+00:00",
-    "views": "79",
+    "views": "80",
     "text": "美国财政部长贝森特周二会见了伊拉克总理。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3326862",
     "datetime": "2026-07-16T20:23:17+00:00",
-    "views": "97",
+    "views": "98",
     "text": "据伊朗媒体 Fars News：美国打击了伊朗港口城市哈米尔的一座桥梁。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3326861",
     "datetime": "2026-07-16T20:21:18+00:00",
-    "views": "78",
+    "views": "109",
     "text": "委内瑞拉官员：预计石油产量到年底将达 140 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3326860",
     "datetime": "2026-07-16T20:21:17+00:00",
-    "views": "79",
+    "views": "109",
     "text": "受财报影响，奈飞美股盘后跌超 8%。",
     "media_only": false,
     "image_url": null,
@@ -53908,95 +53908,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3320860"
-  },
-  {
-    "post": "Financial_Express/3320859",
-    "datetime": "2026-07-14T20:38:17+00:00",
-    "views": "52",
-    "text": "美国至 7 月 10 日当周 API 成品油进口 -18.8 万桶/日，前值-32.5 万桶/日。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320859"
-  },
-  {
-    "post": "Financial_Express/3320858",
-    "datetime": "2026-07-14T20:37:59+00:00",
-    "views": "51",
-    "text": "美国电网运营巨头 PJM Interconnection LLC：价格上限机制阻止了容量价格飙升至 554.72 美元/兆瓦天。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320858"
-  },
-  {
-    "post": "Financial_Express/3320856",
-    "datetime": "2026-07-14T20:37:58+00:00",
-    "views": "48",
-    "text": "美国至 7 月 10 日当周 API 原油进口 -11.9 万桶，前值 15.9 万桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320856"
-  },
-  {
-    "post": "Financial_Express/3320857",
-    "datetime": "2026-07-14T20:37:58+00:00",
-    "views": "49",
-    "text": "美国医疗保险和医疗补助服务中心（CMS）：拟修订医师收费标准（PFS），以落实特朗普政府从疾病治疗向健康管护转型的政策目标。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320857"
-  },
-  {
-    "post": "Financial_Express/3320854",
-    "datetime": "2026-07-14T20:37:38+00:00",
-    "views": "40",
-    "text": "美国至 7 月 10 日当周 API 取暖油库存 -7.3 万桶，前值-43.4 万桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320854"
-  },
-  {
-    "post": "Financial_Express/3320855",
-    "datetime": "2026-07-14T20:37:38+00:00",
-    "views": "45",
-    "text": "美国医疗保险和医疗补助服务中心（CMS）：拟大幅优化联邦医疗保险共享储蓄计划，拟于 2029 年终止传统绩效激励支付体系（MIPS）申报机制。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320855"
-  },
-  {
-    "post": "Financial_Express/3320853",
-    "datetime": "2026-07-14T20:37:37+00:00",
-    "views": "37",
-    "text": "美国至 7 月 10 日当周 API 库欣原油库存 23.8 万桶，前值-6.9 万桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320853"
-  },
-  {
-    "post": "Financial_Express/3320852",
-    "datetime": "2026-07-14T20:37:17+00:00",
-    "views": "38",
-    "text": "美国至 7 月 10 日当周 API 精炼油库存 225.9 万桶，预期 106 万桶，前值-180.1 万桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320852"
-  },
-  {
-    "post": "Financial_Express/3320851",
-    "datetime": "2026-07-14T20:36:58+00:00",
-    "views": "31",
-    "text": "美国至 7 月 10 日当周 API 原油库存 -56.4 万桶，预期-273.6 万桶，前值-39.9 万桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320851"
-  },
-  {
-    "post": "Financial_Express/3320850",
-    "datetime": "2026-07-14T20:36:57+00:00",
-    "views": "30",
-    "text": "美国至 7 月 10 日当周 API 汽油库存 -166.4 万桶，预期 60 万桶，前值-292.9 万桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320850"
   }
 ]
