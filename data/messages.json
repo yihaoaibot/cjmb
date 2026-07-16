@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3326686",
+    "datetime": "2026-07-16T17:45:58+00:00",
+    "views": "5",
+    "text": "纽约联储隔夜回购操作未收到任何投标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3326686"
+  },
+  {
+    "post": "Financial_Express/3326685",
+    "datetime": "2026-07-16T17:45:57+00:00",
+    "views": "5",
+    "text": "白宫：特朗普总统不会允许伊朗在霍尔木兹海峡发动袭击而不付出代价。美国可以在任何时间、任何地点打击伊朗。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3326685"
+  },
+  {
+    "post": "Financial_Express/3326684",
+    "datetime": "2026-07-16T17:44:37+00:00",
+    "views": "16",
+    "text": "美国联邦贸易委员会：卡尔提议对普遍服务基金管理进行全面审查。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3326684"
+  },
+  {
     "post": "Financial_Express/3326683",
     "datetime": "2026-07-16T17:44:18+00:00",
-    "views": "4",
+    "views": "47",
     "text": "洛根：即便按照最保守的估算，数据中心需求推高的电价，很可能会成为又一股温和通胀压力来源。",
     "media_only": false,
     "image_url": null,
@@ -11,8 +38,8 @@
   {
     "post": "Financial_Express/3326682",
     "datetime": "2026-07-16T17:44:17+00:00",
-    "views": "4",
-    "text": "白宫：美国对伊朗发动袭击是因为伊朗利用信息技术攻击船只。",
+    "views": "49",
+    "text": "白宫：美国对伊朗发动袭击是因为伊朗攻击船只。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3326682"
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3326681",
     "datetime": "2026-07-16T17:43:57+00:00",
-    "views": "7",
+    "views": "49",
     "text": "WTI 原油日内跌幅达 2.00%，现报 78.13 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3326680",
     "datetime": "2026-07-16T17:43:18+00:00",
-    "views": "13",
+    "views": "54",
     "text": "白宫：近期袭击行动系伊朗违反谅解备忘录所致。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3326679",
     "datetime": "2026-07-16T17:43:17+00:00",
-    "views": "13",
+    "views": "54",
     "text": "白宫：近期对伊朗的袭击是因为伊朗违反了谅解备忘录。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3326678",
     "datetime": "2026-07-16T17:42:57+00:00",
-    "views": "48",
+    "views": "57",
     "text": "白宫：伊朗仍在与美国谈判，希望达成协议。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3326677",
     "datetime": "2026-07-16T17:42:38+00:00",
-    "views": "46",
+    "views": "54",
     "text": "纳斯达克 100 指数跌幅扩大至 1.6%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3326676",
     "datetime": "2026-07-16T17:42:37+00:00",
-    "views": "47",
+    "views": "55",
     "text": "洛根：石油出口增长大多来自库存，而非新增产量。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3326675",
     "datetime": "2026-07-16T17:42:17+00:00",
-    "views": "47",
+    "views": "55",
     "text": "白宫新闻秘书：白宫指南警告不要赌博。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3326674",
     "datetime": "2026-07-16T17:41:57+00:00",
-    "views": "50",
+    "views": "58",
     "text": "白宫新闻秘书：卡什已就提词器操作员问题向美国商品期货交易委员会 (CFTC) 通报情况。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3326673",
     "datetime": "2026-07-16T17:41:37+00:00",
-    "views": "52",
+    "views": "60",
     "text": "美联储洛根：即使油价维持高位，天然气运输能力等限制因素也可能阻碍生产商提高产量。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3326672",
     "datetime": "2026-07-16T17:41:17+00:00",
-    "views": "56",
+    "views": "63",
     "text": "美联储洛根：石油出口增加主要来自库存释放，而非新增产量。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3326671",
     "datetime": "2026-07-16T17:40:57+00:00",
-    "views": "56",
+    "views": "61",
     "text": "美联储洛根：即便油价维持高位，天然气输送能力受限等制约因素仍会令生产商无法扩大产量。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3326670",
     "datetime": "2026-07-16T17:40:37+00:00",
-    "views": "62",
+    "views": "67",
     "text": "白宫新闻秘书：涉事提词器操作员将不再在白宫任职。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3326669",
     "datetime": "2026-07-16T17:39:17+00:00",
-    "views": "87",
+    "views": "92",
     "text": "白宫新闻秘书：特朗普认为被控参与下注的提词器操作员“可耻”。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3326668",
     "datetime": "2026-07-16T17:38:17+00:00",
-    "views": "68",
+    "views": "102",
     "text": "标准核公司股票在纽交所上市首日开盘价为 13.5 美元，低于 15 美元的首次公开募股发行价。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3326667",
     "datetime": "2026-07-16T17:36:17+00:00",
-    "views": "82",
+    "views": "86",
     "text": "白宫新闻秘书：“希望”哥伦比亚广播公司今晚将播出特朗普的演讲。",
     "media_only": false,
     "image_url": null,
@@ -53971,23 +53998,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3320668"
-  },
-  {
-    "post": "Financial_Express/3320667",
-    "datetime": "2026-07-14T17:46:17+00:00",
-    "views": "139",
-    "text": "RIVIAN 股价跌幅扩大至 3.4%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320667"
-  },
-  {
-    "post": "Financial_Express/3320666",
-    "datetime": "2026-07-14T17:45:17+00:00",
-    "views": "142",
-    "text": "LUCID 恢复交易，跌幅扩大至 55%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3320666"
   }
 ]
