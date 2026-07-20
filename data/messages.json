@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3333483",
+    "datetime": "2026-07-20T13:02:18+00:00",
+    "views": "6",
+    "text": "谷歌计划推出新型“Frozen”芯片，以更高效运行其 AI 模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3333483"
+  },
+  {
+    "post": "Financial_Express/3333482",
+    "datetime": "2026-07-20T13:02:17+00:00",
+    "views": "6",
+    "text": "乌克兰敖德萨市官员：俄罗斯对敖德萨的袭击造成三人死亡。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3333482"
+  },
+  {
+    "post": "Financial_Express/3333481",
+    "datetime": "2026-07-20T13:01:58+00:00",
+    "views": "8",
+    "text": "微软将部署 AMD Helios 整机柜级解决方案。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3333481"
+  },
+  {
+    "post": "Financial_Express/3333480",
+    "datetime": "2026-07-20T13:01:57+00:00",
+    "views": "8",
+    "text": "AMD(AMD.O)：将在 2026 年下半年开始向客户出货其 Helios 平台。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3333480"
+  },
+  {
+    "post": "Financial_Express/3333479",
+    "datetime": "2026-07-20T13:01:39+00:00",
+    "views": "12",
+    "text": "中化装备：发行股份购买资产并募集配套资金暨关联交易事项获得审核通过\n中化装备公告，上海证券交易所并购重组审核委员会于 2026 年 7 月 20 日召开 2026 年第 12 次审议会议，对公司发行股份购买资产并募集配套资金暨关联交易事项进行了审议。审议结果为本次交易符合重组条件和信息披露要求。公司拟发行股份购买中国化工装备有限公司持有的益阳橡胶塑料机械集团有限公司 100%股权、北京蓝星节能投资管理有限公司持有的蓝星（北京）化工机械有限公司 100%股权，并向不超过 35 名符合条件的特定投资者发行股份募集配套资金。本次交易尚需中国证券监督管理委员会同意注册后方可实施。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3333479"
+  },
+  {
+    "post": "Financial_Express/3333478",
+    "datetime": "2026-07-20T13:01:18+00:00",
+    "views": "46",
+    "text": "埃克苏斯可再生能源完成 3.56 亿美元风电项目建设融资。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3333478"
+  },
+  {
+    "post": "Financial_Express/3333477",
+    "datetime": "2026-07-20T13:01:17+00:00",
+    "views": "46",
+    "text": "元脑服务器推出 CXL 内存跨代扩展方案 实现 DDR5 和 DDR4 同机部署内存扩容\n“元脑服务器”公众号消息，元脑服务器推出 CXL（Compute Express Link）内存跨代扩展方案，实现了 DDR5 和 DDR4 同机部署内存扩容。基于元脑服务器 NF5280，在 24 条本地 DDR5 内存基本配置下，通过创新自研 CXL 内存扩展卡，单机最多可扩展 16 条 DDR4 内存，按照单条内存 32GB 容量，额外扩展 512GB 内存，整机内存容量提升 33%，成本大幅降低 25%。方案结合元脑服务器操作系统 KOS 池化内存技术，将本地 DRAM 内存与 CXL 扩展内存融合为统一逻辑内存空间，通过冷热数据识别、动态迁移和 NUMA 感知调度策略，让扩展内存达到本地内存相当性能，提升 CPU 利用率 30%。目前，该方案已在国内某大型互联网客户完成验证并实现规模应用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3333477"
+  },
+  {
+    "post": "Financial_Express/3333475",
+    "datetime": "2026-07-20T13:00:58+00:00",
+    "views": "85",
+    "text": "AMD(AMD.O)：微软(MSFT.O)将在 Azure 上大规模部署 AMD Helios 用于人工智能推理。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3333475"
+  },
+  {
+    "post": "Financial_Express/3333476",
+    "datetime": "2026-07-20T13:00:58+00:00",
+    "views": "48",
+    "text": "微软将部署新一代 AMD Instinct 加速器与 AMD EPYC 处理器。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3333476"
+  },
+  {
     "post": "Financial_Express/3333474",
     "datetime": "2026-07-20T13:00:24+00:00",
-    "views": "5",
+    "views": "50",
     "text": "伊朗内政部长将于今晚率一个由 6 名部长组成的代表团抵达巴基斯坦。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3333472",
     "datetime": "2026-07-20T13:00:21+00:00",
-    "views": "6",
+    "views": "47",
     "text": "玻璃连续主力合约日内跌 1%，现报 891.00 元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3333473",
     "datetime": "2026-07-20T13:00:21+00:00",
-    "views": "6",
+    "views": "49",
     "text": "PVC 连续主力合约日内涨 1%，现报 4667.00 元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3333471",
     "datetime": "2026-07-20T13:00:20+00:00",
-    "views": "6",
+    "views": "47",
     "text": "国内期货夜盘开盘\n集运指数欧线期货连续涨 8.92%，碳酸锂连续跌 5.61%，鸡蛋连续跌 3.54%，多晶硅连续跌 3.28%，生猪连续跌 3.00%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3333469",
     "datetime": "2026-07-20T13:00:19+00:00",
-    "views": "6",
+    "views": "46",
     "text": "上海国投公司：坚定持有战略性持股机构和上市公司股权\n金十数据 7 月 20 日讯，7 月 20 日晚，上海国投公司表示，坚定看好中国资本市场发展前景，坚定支持国家战略布局重点方向，坚定持有战略性持股机构和上市公司股权。聚焦“基金管理+创新孵化”，上海国投公司表示，作为长期投资者，与上市公司通过 CVC 基金、并购基金、科技成果孵化转化等形式，合力推动上市公司高质量发展，坚定当好长期资本、耐心资本、战略资本。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3333470",
     "datetime": "2026-07-20T13:00:19+00:00",
-    "views": "6",
+    "views": "46",
     "text": "美国国务院发布关于黎巴嫩试点区域的声明。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3333468",
     "datetime": "2026-07-20T12:59:57+00:00",
-    "views": "10",
+    "views": "47",
     "text": "美国：试点区域是在上周以色列-黎巴嫩会谈之后设立的。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3333467",
     "datetime": "2026-07-20T12:59:37+00:00",
-    "views": "12",
+    "views": "49",
     "text": "私募总规模九连增 站上 23.66 万亿再创历史新高\n金十数据 7 月 20 日讯，中基协最新披露，截至 6 月末，私募存续总规模已达 23.66 万亿元，再度刷新历史纪录，实现连续 9 个月攀升新高。去年 10 月至今年 5 月的月末存续规模依次为 22.05 万亿元、22.09 万亿元、22.15 万亿元、22.44 万亿元、22.6 万亿元、22.72 万亿元、23.46 万亿元、23.53 万亿元。这期间，私募总规模累计扩容 1.61 万亿元，增幅为 7.30%。",
     "media_only": false,
     "image_url": null,
@@ -74,8 +155,8 @@
   {
     "post": "Financial_Express/3333466",
     "datetime": "2026-07-20T12:58:58+00:00",
-    "views": "16",
-    "text": "美国在黎巴嫩启动首批试点项目。",
+    "views": "51",
+    "text": "美国在黎巴嫩启动首批试点项目。\n❤1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3333466"
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3333465",
     "datetime": "2026-07-20T12:58:57+00:00",
-    "views": "16",
+    "views": "50",
     "text": "伊朗军方发言人：如果设备是用来对付伊朗人民的，就无法通过霍尔木兹海峡。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3333464",
     "datetime": "2026-07-20T12:58:18+00:00",
-    "views": "47",
+    "views": "51",
     "text": "法国总统：谨向安迪・伯纳姆获任英国首相致以祝贺。面对我们共同面临的各类挑战，我期盼双方深化双边关系，造福两国人民，并为英国与欧盟的伙伴关系注入新动力。",
     "media_only": false,
     "image_url": null,
@@ -29329,14 +29410,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3330160"
-  },
-  {
-    "post": "Financial_Express/3330159",
-    "datetime": "2026-07-18T13:00:37+00:00",
-    "views": "85",
-    "text": "图灵量子发布行业级量子-经典混合 Agent 平台 QAgent\n金十数据 7 月 18 日讯，7 月 18 日，2026 世界人工智能大会 WAIC 现场，图灵量子发布量子-经典混合 Agent 平台 QAgent。这是全球首个基于光量子技术路线、面向全行业落地的量子 - 经典混合智能体平台。作为 2026 浦东 AI 标志性成果，平台打通 AI 智能体与光量子真机算力的产业落地通道，QAgent 以大语言模型与智能体为统一调度入口，依托自研光量子计算体系，深度融合量子-经典混合算力底座、DeepQuantum 量子人工智能编程框架、全场景量子算法库及行业化工具技能，首次打通了“自然语言输入—任务智能拆解—量子 Agent 协同调用—量子算力调度—结果聚合与输出”的端到端闭环。这标志着，量子计算正从前沿算力走向行业能力，从专家驱动的科研工具迈向 Agent 驱动的产业服务。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3330159"
   }
 ]
