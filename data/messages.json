@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3336688",
+    "datetime": "2026-07-21T15:38:18+00:00",
+    "views": "1",
+    "text": "木星资产管理公司因强劲数据和加息前景，在四月下旬至五月初将美国国债持仓削减至“极低水平”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336688"
+  },
+  {
+    "post": "Financial_Express/3336689",
+    "datetime": "2026-07-21T15:38:18+00:00",
+    "views": "1",
+    "text": "木星资产管理公司已将投资从美国国债转向欧洲主权债务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336689"
+  },
+  {
+    "post": "Financial_Express/3336687",
+    "datetime": "2026-07-21T15:36:58+00:00",
+    "views": "13",
+    "text": "OpenAI 的 CEO Altman 将向美国官员们介绍下一波 AI 模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336687"
+  },
+  {
+    "post": "Financial_Express/3336686",
+    "datetime": "2026-07-21T15:36:57+00:00",
+    "views": "13",
+    "text": "特朗普：伊朗或许正试图借助霍尔木兹相关局势干预选举。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336686"
+  },
+  {
+    "post": "Financial_Express/3336684",
+    "datetime": "2026-07-21T15:36:38+00:00",
+    "views": "12",
+    "text": "美国总统特朗普：伊朗可能试图通过霍尔木兹海影响选举。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336684"
+  },
+  {
+    "post": "Financial_Express/3336685",
+    "datetime": "2026-07-21T15:36:38+00:00",
+    "views": "16",
+    "text": "美国食品药品监督管理局（FDA）启动试点计划，鼓励在美国本土生产动物药品。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336685"
+  },
+  {
     "post": "Financial_Express/3336683",
     "datetime": "2026-07-21T15:36:17+00:00",
-    "views": "1",
+    "views": "48",
     "text": "美国总统特朗普：（在谈及加拿大关税时表示）这是因为他们对我们的农民等问题上采取了强硬措施。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3336682",
     "datetime": "2026-07-21T15:35:38+00:00",
-    "views": "1",
+    "views": "52",
     "text": "特朗普：针对加拿大的关税举措并非因野火而起。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3336681",
     "datetime": "2026-07-21T15:35:37+00:00",
-    "views": "1",
+    "views": "56",
     "text": "美国总统特朗普：（在谈及加拿大关税时表示）这与野火无关。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3336678",
     "datetime": "2026-07-21T15:33:58+00:00",
-    "views": "45",
+    "views": "60",
     "text": "美国至 7 月 21 日 6 周国债竞拍-得标利率配置百分比 1.87%，前值 63.1%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3336679",
     "datetime": "2026-07-21T15:33:58+00:00",
-    "views": "48",
+    "views": "90",
     "text": "特朗普：我们会打击伊朗任何可能发展核设施的地点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3336677",
     "datetime": "2026-07-21T15:33:57+00:00",
-    "views": "48",
+    "views": "60",
     "text": "美国总统特朗普：我们的协议将不允许伊朗拥有核武器。我们将打击伊朗考虑用于核武器的任何地点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3336675",
     "datetime": "2026-07-21T15:33:39+00:00",
-    "views": "43",
+    "views": "60",
     "text": "美国至 7 月 21 日 6 周国债竞拍-投标倍数 2.79，前值 2.84。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3336676",
     "datetime": "2026-07-21T15:33:39+00:00",
-    "views": "42",
+    "views": "57",
     "text": "特朗普：我们的协议不会让伊朗拥有核武器。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3336674",
     "datetime": "2026-07-21T15:33:38+00:00",
-    "views": "42",
+    "views": "60",
     "text": "美国至 7 月 21 日 6 周国债竞拍-得标利率 3.65%，前值 3.64%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3336673",
     "datetime": "2026-07-21T15:33:20+00:00",
-    "views": "48",
+    "views": "58",
     "text": "美国总统特朗普：伊朗有非常邪恶的人在领导这个国家。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3336672",
     "datetime": "2026-07-21T15:33:19+00:00",
-    "views": "44",
+    "views": "58",
     "text": "美国总统特朗普：我们现在不会离开，已经对伊朗产生了重大影响。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3336671",
     "datetime": "2026-07-21T15:32:59+00:00",
-    "views": "51",
+    "views": "60",
     "text": "特朗普：我们眼下不会撤离，我们已对伊朗形成重大震慑。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3336670",
     "datetime": "2026-07-21T15:32:39+00:00",
-    "views": "53",
+    "views": "94",
     "text": "美国财政部拍卖六周期国债，得标利率 3.650%，投标倍数 2.79。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3336669",
     "datetime": "2026-07-21T15:32:38+00:00",
-    "views": "50",
+    "views": "91",
     "text": "联合国人权高专办：以色列对加沙的袭击升级\n联合国人权事务高级专员办事处发言人萨明·希坦 21 日在日内瓦举行的记者会上指出，以色列近日加大了对加沙地带的袭击力度，仅 13 日至 20 日的袭击已造成至少 57 名巴勒斯坦人死亡。希坦说，巴以停火宣布 9 个月后，加沙地带的巴勒斯坦人仍无安全之地。以本月 17 日至 18 日为例，以色列在加沙城、北加沙省和南部的汗尤尼斯等地发动了 10 次袭击，造成至少 21 名巴勒斯坦人死亡，包括 4 名儿童和 3 名妇女。希坦表示，这些袭击造成平民丧生，引发了人们对加沙地带持续违反国际人道主义法、犯下战争罪以及可能发生其他暴行罪行的担忧。希坦警告，加沙地带的巴勒斯坦人仍被困在日益缩小的区域内。以色列不断将“黄线”向西推移，使当地民众持续面临生命威胁。据巴勒斯坦卫生部数据，自 2025 年 10 月以来，已有超过 1100 名巴勒斯坦人被以军杀害。(新华社)",
     "media_only": false,
     "image_url": null,
