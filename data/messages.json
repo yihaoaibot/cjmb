@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3336602",
+    "datetime": "2026-07-21T15:05:58+00:00",
+    "views": "4",
+    "text": "加拿大总理卡尼： 各省有权解除针对美国酒类产品的禁令，且各省应当仅在达成全面美加贸易协议的前提下解除相关禁令。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336602"
+  },
+  {
+    "post": "Financial_Express/3336601",
+    "datetime": "2026-07-21T15:05:57+00:00",
+    "views": "4",
+    "text": "加拿大总理卡尼：各省将负责解除对美国酒类的禁令，且应仅在与美国达成全面贸易协议的情况下进行。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336601"
+  },
+  {
+    "post": "Financial_Express/3336600",
+    "datetime": "2026-07-21T15:05:18+00:00",
+    "views": "6",
+    "text": "加拿大总理卡尼： 不希望与美国达成局部贸易协定，而是想要一份覆盖所有关键行业的协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336600"
+  },
+  {
+    "post": "Financial_Express/3336599",
+    "datetime": "2026-07-21T15:05:17+00:00",
+    "views": "6",
+    "text": "加拿大总理卡尼：不希望与美国达成部分贸易协议，而是希望达成涵盖所有关键领域的协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336599"
+  },
+  {
+    "post": "Financial_Express/3336598",
+    "datetime": "2026-07-21T15:05:00+00:00",
+    "views": "7",
+    "text": "科威特召见伊朗大使 抗议该国船只遭袭\n当地时间 21 日，科威特外交部副大臣哈马德·苏莱曼·马沙安代表科外交部召见伊朗驻科威特大使穆罕默德·图通吉。马沙安向图通吉递交外交照会，以表达科方对此前科威特油轮在霍尔木兹海峡遇袭的抗议。此前一天，一艘油化船在霍尔木兹海峡附近遭袭，燃油舱起火，船体冒出大量浓烟，船员弃船。（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336598"
+  },
+  {
+    "post": "Financial_Express/3336597",
+    "datetime": "2026-07-21T15:04:59+00:00",
+    "views": "7",
+    "text": "谷歌(GOOG.O)：Gemini 3.6 Flash 定价为每百万输入 token 1.50 美元，每百万输出 token7.50 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336597"
+  },
+  {
     "post": "Financial_Express/3336595",
     "datetime": "2026-07-21T15:03:58+00:00",
-    "views": "2",
+    "views": "38",
     "text": "谷歌(GOOG.O)：Gemini 3.5 Flash-Lite 定价为每百万输入 token 0.3 美元、每百万输出 token 2.5 美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3336596",
     "datetime": "2026-07-21T15:03:58+00:00",
-    "views": "2",
+    "views": "39",
     "text": "谷歌：Gemini 3.5 Pro 目前正在与合作伙伴测试，计划在准备就绪后尽快广泛推出。已开始对 Gemini 4 进行预训练。推出 Gemini 3.6 Flash、Gemini 3.5 Flash-Lite 及 Gemini 3.5 Flash Cyber。Gemini 3.5 Flash-Lite 定价为每百万输入 token 0.3 美元、每百万输出 token 2.5 美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3336594",
     "datetime": "2026-07-21T15:03:19+00:00",
-    "views": "4",
+    "views": "39",
     "text": "巴基斯坦总理：敦促所有方面保持克制。巴方将继续发挥调停人作用。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3336592",
     "datetime": "2026-07-21T15:03:18+00:00",
-    "views": "5",
+    "views": "38",
     "text": "加拿大总理卡尼：如果加拿大被征收关税，将考虑所有应对选项。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3336593",
     "datetime": "2026-07-21T15:03:18+00:00",
-    "views": "5",
+    "views": "39",
     "text": "巴基斯坦总理谢里夫：巴基斯坦将继续发挥调解者的角色。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3336591",
     "datetime": "2026-07-21T15:02:57+00:00",
-    "views": "35",
+    "views": "38",
     "text": "谷歌(GOOG.O)：推出 Gemini 3.6 Flash、Gemini 3.5 Flash-Lite 及 Gemini 3.5 Flash Cyber。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3336590",
     "datetime": "2026-07-21T15:02:19+00:00",
-    "views": "39",
+    "views": "71",
     "text": "加拿大总理卡尼： 如果美国落实最新关税威胁，加拿大将考量所有应对选项。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3336589",
     "datetime": "2026-07-21T15:01:18+00:00",
-    "views": "45",
+    "views": "76",
     "text": "谷歌(GOOG.O)：Gemini 3.5 Pro 目前正在与合作伙伴测试，计划在准备就绪后尽快广泛推出。已开始对 Gemini 4 进行预训练。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3336588",
     "datetime": "2026-07-21T15:00:39+00:00",
-    "views": "81",
+    "views": "82",
     "text": "哥伦比亚 5 月经济活动同比增长 4.1%，市场预期为增长 2.9%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3336587",
     "datetime": "2026-07-21T15:00:38+00:00",
-    "views": "51",
+    "views": "82",
     "text": "长鑫科技战配股数“腰斩”，投行详解背后逻辑\n金十数据 7 月 21 日讯，7 月 21 日，长鑫科技战配最终认购结果出炉。30 家战配初始配售股数为 33.44 亿股，实际最终认购股数为 16.67 亿股，实际认购股数约缩水一半。引发市场猜测。据悉，这与业内一般做法有关。对于战配的股份数量，一般初始的设计多会按照法规的上限，留出冗余度。对于长鑫科技大体量的发行，战配的获配上限就是 33.44 亿股（发行数量的 50%），后期再根据实际情况进行回拨。据悉，虽然实际认购数量有所减少，但是 30 家战配实际认购金额与当初的承诺认购金额一致（144.37 亿元）。此外，这部分差额股份转到了网上申购，显著提升了网上打新的中签率。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3336586",
     "datetime": "2026-07-21T15:00:17+00:00",
-    "views": "52",
+    "views": "83",
     "text": "夜盘期货收盘\n燃料油连续涨 3.98%，低硫燃料油连续涨 2.11%，焦煤连续涨 1.84%，PTA 连续涨 1.67%，乙二醇连续涨 1.58%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3336584",
     "datetime": "2026-07-21T14:59:58+00:00",
-    "views": "52",
+    "views": "83",
     "text": "巴基斯坦总理办公室和军方分别在声明中表示，伊朗部长会见巴基斯坦陆军参谋长和总理。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3336585",
     "datetime": "2026-07-21T14:59:58+00:00",
-    "views": "85",
+    "views": "86",
     "text": "113 家私募打新长鑫科技获配，梁文锋旗下幻方、九章拿下私募最大份额\n金十数据 7 月 21 日讯，7 月 21 日晚间，长鑫科技披露首次公开发行股票并在科创板上市发行结果公告。根据长鑫科技公布的“打新”结果，113 家私募的 2459 个产品获配，合计获配金额达 13.97 亿元。公告显示，私募名单中，按配售对象数量排列，前十位均为头部量化私募。上海衍复旗下共有 282 个配售对象获配，配售对象数量居私募首位；世纪前沿、九坤投资、上海诚奇和幻方量化分别有 209 个、194 个、167 个和 153 个配售对象参与。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3336583",
     "datetime": "2026-07-21T14:58:59+00:00",
-    "views": "82",
+    "views": "83",
     "text": "卡尼称他与特朗普同意在未来几周加强谈判。",
     "media_only": false,
     "image_url": null,
@@ -49570,23 +49624,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3331024"
-  },
-  {
-    "post": "Financial_Express/3331023",
-    "datetime": "2026-07-19T15:05:38+00:00",
-    "views": "177",
-    "text": "传音控股：2026 年上半年营收 356.57 亿元 净利润同比增 44.82%\n传音控股公告称，预计 2026 年半年度实现营业收入 356.57 亿元左右，同比增长 22.63%；归属于母公司所有者的净利润 17.56 亿元左右，同比增长 44.82%；扣非净利润 15.32 亿元左右，同比增长 70.71%。业绩增长因存储价格增长，产品价格相应调整，平均售价上涨，且成本上涨滞后，毛利率提升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3331023"
-  },
-  {
-    "post": "Financial_Express/3331022",
-    "datetime": "2026-07-19T15:05:17+00:00",
-    "views": "179",
-    "text": "月之暗面 Kimi：算力紧缺 暂停 C 端新用户订阅\n金十数据 7 月 19 日讯，月之暗面 Kimi 发布通知，决定即日起，暂停 C 端新用户订阅，将已有算力全部投入于服务已订阅用户，保障已订阅用户的全部权益不受影响。同时，已在全速推进算力扩容。随着新算力陆续到位，将逐步开放更多订阅名额直至全面恢复正常订阅。对于后续新订阅用户，将拆分 Kimi 主权益（包含 Kimi Web，Kimi APP， Kimi Work）和 Kimi Code 权益，以方便更精准匹配算力，保障用户体验。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3331022"
   }
 ]
