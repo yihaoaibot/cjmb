@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3336727",
     "datetime": "2026-07-21T16:06:17+00:00",
-    "views": "1",
+    "views": "34",
     "text": "美国白宫：约旦皇家航空采购价值 14 亿美元波音 787-9 客机。 ，",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3336726",
     "datetime": "2026-07-21T16:05:37+00:00",
-    "views": "2",
+    "views": "34",
     "text": "谷歌(GOOG.O)：Gemini 3.6 Flash 具备快速理解上下文能力，可帮助用户打造专属创意工具。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3336725",
     "datetime": "2026-07-21T16:05:18+00:00",
-    "views": "3",
+    "views": "35",
     "text": "加拿大总理：将考虑所有选项应对美加征关税\n当地时间 7 月 21 日，加拿大总理马克·卡尼表示，在美国关税宣布后，他已与美国总统特朗普通话。卡尼还表示，如果（新关税）生效，加拿大将考虑所有应对选项。白宫 20 日发布公告称，美国将对加拿大部分产品额外加征 50%的从价关税，以应对“加拿大在汽车及汽车零部件贸易方面对美国采取的歧视性措施”。白宫当日发布的一份事实清单显示，美国将对葡萄酒、冰球棒和水泥等加拿大商品加征关税，即使这些商品符合《美国-墨西哥-加拿大协定》。白宫称，这些关税旨在抵消加拿大歧视性做法给美国商业带来的负担和造成的劣势，新关税措施将于美东时间 8 月 19 日开始生效。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3336724",
     "datetime": "2026-07-21T16:02:59+00:00",
-    "views": "35",
+    "views": "67",
     "text": "Meta Platforms(META.O)：从下周起，家长可以决定未满 16 岁的青少年是否能够更改这些设置，从而降低限制的严格程度。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3336723",
     "datetime": "2026-07-21T16:02:37+00:00",
-    "views": "35",
+    "views": "96",
     "text": "MetaPlatforms(META.O)：启用监督功能后，家长可以查看青少年在 Threads 上花费的时间、设置每日使用时限、调整睡眠模式以及管理隐私设置。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3336722",
     "datetime": "2026-07-21T16:02:17+00:00",
-    "views": "35",
+    "views": "96",
     "text": "MetaPlatforms(META.O)：在 Threads 网页版推出家长监管功能。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3336721",
     "datetime": "2026-07-21T16:01:57+00:00",
-    "views": "35",
+    "views": "96",
     "text": "Meta：Threads 即将上线全新家长监管工具，家长可查看青少年子女在 Threads 平台的使用时长。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3336720",
     "datetime": "2026-07-21T15:57:58+00:00",
-    "views": "98",
+    "views": "128",
     "text": "美国白宫：约旦将继续对大多数美国商品开放免税市场准入， 约旦将取消非关税贸易壁垒。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3336718",
     "datetime": "2026-07-21T15:57:18+00:00",
-    "views": "99",
+    "views": "129",
     "text": "美国总统特朗普宣布与约旦达成贸易协议。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3336719",
     "datetime": "2026-07-21T15:57:18+00:00",
-    "views": "99",
+    "views": "129",
     "text": "白宫：约旦将取消非关税贸易壁垒。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3336717",
     "datetime": "2026-07-21T15:56:57+00:00",
-    "views": "99",
+    "views": "129",
     "text": "特朗普宣布与约旦达成贸易协议。",
     "media_only": false,
     "image_url": null,
@@ -50497,14 +50497,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3331051"
-  },
-  {
-    "post": "Financial_Express/3331050",
-    "datetime": "2026-07-19T16:07:38+00:00",
-    "views": "156",
-    "text": "英媒：新首相伯纳姆将维持北海勘探禁令\n金十数据 7 月 20 日讯，据英国《金融时报》，英国候任首相伯纳姆将坚持工党备受争议的北海新勘探许可证禁令，打破了油气行业对政府可能大幅调整化石燃料政策的希望。在新政府面临降低家庭能源账单压力之际，工党副党魁露西·鲍威尔周日表示，伯纳姆不会推翻工党竞选纲领中停止发放北海新勘探许可证的承诺。一位业内人士表示：“如果他们不撤销新的勘探禁令，整个行业将会极为不满。”近期有报道称，伯纳姆可能转向“钻吧，钻吧”（drill baby drill）的北海开发策略。特朗普周日发文回应这些报道称：“苏格兰阿伯丁的民众正在街头欢呼，因为新首相伯纳姆表示，他将全面开放极其宝贵的北海石油资源！”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3331050"
   }
 ]
