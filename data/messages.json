@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3336778",
+    "datetime": "2026-07-21T17:06:17+00:00",
+    "views": "1",
+    "text": "OpenAI：推出面向中小企业的 ChatGPT 方案。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336778"
+  },
+  {
+    "post": "Financial_Express/3336777",
+    "datetime": "2026-07-21T17:04:57+00:00",
+    "views": "36",
+    "text": "黎巴嫩总统奥恩：会谈进展非常顺利。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336777"
+  },
+  {
+    "post": "Financial_Express/3336776",
+    "datetime": "2026-07-21T17:04:37+00:00",
+    "views": "40",
+    "text": "AWS：针对 SES 专属免费套餐（用户首次启用 SES 后 12 个月内每月可免费发送 3000 封邮件），新客户将无法再申领。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336776"
+  },
+  {
+    "post": "Financial_Express/3336774",
+    "datetime": "2026-07-21T17:04:18+00:00",
+    "views": "50",
+    "text": "据塔斯尼姆通讯社：伊朗军方称，在伊朗西北部击落一架单向攻击无人机。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336774"
+  },
+  {
+    "post": "Financial_Express/3336775",
+    "datetime": "2026-07-21T17:04:18+00:00",
+    "views": "50",
+    "text": "亚马逊云服务(AWS)：自 2026 年 7 月 21 日起，所有新创建的亚马逊简单邮件服务账户将默认采用基础版套餐。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3336775"
+  },
+  {
     "post": "Financial_Express/3336773",
     "datetime": "2026-07-21T17:02:58+00:00",
-    "views": "40",
+    "views": "74",
     "text": "Tibo 正式宣布活跃用户数突破 1000 万\n金十数据 7 月 22 日讯，OpenAI 产品负责人 Tibo 在 X 上表示，Codex 和 ChatGPT Work 每周活跃用户在 2026 年 7 月 21 日突破 1000 万人。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3336772",
     "datetime": "2026-07-21T17:01:57+00:00",
-    "views": "59",
+    "views": "87",
     "text": "塔斯尼姆通讯社消息：伊朗军方称，在该国西北部击落一架单向攻击无人机。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3336771",
     "datetime": "2026-07-21T17:01:17+00:00",
-    "views": "77",
+    "views": "102",
     "text": "AWS：自 2026 年 7 月 21 日起，所有新建亚马逊简单电子邮件服务（SES）账户默认启用基础套餐（Essentials Plan）。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3336769",
     "datetime": "2026-07-21T17:00:17+00:00",
-    "views": "89",
+    "views": "111",
     "text": "夜盘期货收盘\n国际铜夜盘收涨 1.49%，沪铜收涨 1.69%，沪铝收涨 0.56%，沪锌收涨 0.55%，沪铅收跌 0.95%，沪镍收涨 0.77%，沪锡收涨 0.97%。氧化铝夜盘收涨 0.22%，铝合金收涨 0.50%。不锈钢夜盘收涨 0.20%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3336768",
     "datetime": "2026-07-21T16:56:37+00:00",
-    "views": "201",
+    "views": "228",
     "text": "美国股市扩大涨幅，道指和标普 500 指数现涨超 1%，纳指现涨 1.4%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3336767",
     "datetime": "2026-07-21T16:55:37+00:00",
-    "views": "127",
+    "views": "144",
     "text": "道指涨 1.01%，现报 52361.461 点；纳指涨 1.40%，现报 25864.536 点；标普 500 指数涨 0.96%，现报 7514.730 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3336766",
     "datetime": "2026-07-21T16:54:57+00:00",
-    "views": "129",
+    "views": "143",
     "text": "纳斯达克 100 指数涨幅扩大至 2%，创下日内新高。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3336764",
     "datetime": "2026-07-21T16:54:38+00:00",
-    "views": "123",
+    "views": "135",
     "text": "SpaceXAI：将把 GROK 引入微软 Outlook。GROK 的前景是一个 Microsoft 365 插件，今天已向所有付费 X 和 SUPERGROK 用户开放。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3336765",
     "datetime": "2026-07-21T16:54:38+00:00",
-    "views": "128",
+    "views": "139",
     "text": "LME 期铜收涨 263 美元，报 13885 美元/吨。LME 期铝收涨 18 美元，报 3158 美元/吨。LME 期锌收涨 32 美元，报 3552 美元/吨。LME 期铅收跌 10 美元，报 1869 美元/吨。LME 期镍收涨 156 美元，报 17085 美元/吨。LME 期锡收涨 1007 美元，报 53885 美元/吨。LME 期钴收平，报 56290 美元/吨。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3336763",
     "datetime": "2026-07-21T16:53:17+00:00",
-    "views": "113",
+    "views": "122",
     "text": "空客首席财务官：我们预计至 2029 年，A320 项目产能将达到满负荷水平。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3336762",
     "datetime": "2026-07-21T16:52:17+00:00",
-    "views": "129",
+    "views": "136",
     "text": "SpaceX AI：适用于 Outlook 的 Grok 为微软 365 加载项，现已面向所有付费 X 用户及 SuperGrok 用户开放。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3336761",
     "datetime": "2026-07-21T16:51:57+00:00",
-    "views": "125",
+    "views": "133",
     "text": "太空喷气客机项目落幕三年后，日本着手研发下一款国产客机。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3336760",
     "datetime": "2026-07-21T16:51:11+00:00",
-    "views": "129",
+    "views": "137",
     "text": "SpaceX AI：将 Grok 接入微软 Outlook。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3336759",
     "datetime": "2026-07-21T16:51:10+00:00",
-    "views": "116",
+    "views": "123",
     "text": "伊朗警告保加利亚勿为美军提供便利\n金十数据 7 月 22 日讯，伊朗外交部发言人周二警告保加利亚，不要允许美国利用其领土对伊朗开展军事行动。保加利亚政府此前表示，将寻求议会批准，允许最多 8 架美国加油机驻扎在该国一处空军基地。保加利亚是北约（NATO）和欧盟（EU）成员国。据伊朗国家媒体报道，伊朗外交部发言人巴盖伊表示，任何协助美国对伊朗发动袭击的活动，都将构成其所称的“侵略行为和战争罪”的共谋。巴盖伊敦促保加利亚不要成为“侵略者和违法者的帮凶”。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3336758",
     "datetime": "2026-07-21T16:51:06+00:00",
-    "views": "108",
+    "views": "113",
     "text": "美国能源部与劳工部签署谅解备忘录，加快人工智能在矿业领域的落地应用。",
     "media_only": false,
     "image_url": null,
@@ -50596,23 +50641,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3331085"
-  },
-  {
-    "post": "Financial_Express/3331084",
-    "datetime": "2026-07-19T17:06:18+00:00",
-    "views": "166",
-    "text": "据沙特媒体哈达斯（Alhadath）援引消息人士称，一个伊朗高级别代表团将于明日抵达巴基斯坦伊斯兰堡，进行为期两天的访问。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3331084"
-  },
-  {
-    "post": "Financial_Express/3331083",
-    "datetime": "2026-07-19T17:04:37+00:00",
-    "views": "163",
-    "text": "卡塔尔提出一项为期 10 天的停火方案：美国停止对伊朗实施打击，伊朗则开放霍尔木兹海峡两条航运通道；西方官员质疑美国不会接受该条款。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3331083"
   }
 ]
