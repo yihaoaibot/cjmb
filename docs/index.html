@@ -1,9 +1,105 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-07-22T07:08:25.528920+00:00","clsvipUpdated":"2026-07-22T07:08:39.113273+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">7月22日</h2><div class="feed"><article class="item" data-search="财政部：上半年印花税 2752 亿元，同比增长 40.9%
-金十数据 7 月 22 日讯，上半年，全国一般公共预算收入 121047 亿元，同比增长 4.7%。印花税 2752 亿元，同比增长 40.9%。其中，证券交易印花税 1549 亿元，同比增长 97.3%。"><div class="time">15:08</div><div class="content"><div class="text" data-full="财政部：上半年印花税 2752 亿元，同比增长 40.9%
-金十数据 7 月 22 日讯，上半年，全国一般公共预算收入 121047 亿元，同比增长 4.7%。印花税 2752 亿元，同比增长 40.9%。其中，证券交易印花税 1549 亿元，同比增长 97.3%。" data-short="财政部：上半年印花税 2752 亿元，同比增长 40.9%
-金十数据 7 月 22 日讯，上半年，全国一般公共预算收入 121047 亿元，同比增长 4.7%。印花税 2752 亿元，同比增长 40.9%。其中，证券交易印花税 1549 亿元，同比增长 97.3%。">财政部：上半年印花税 2752 亿元，同比增长 40.9%
-金十数据 7 月 22 日讯，上半年，全国一般公共预算收入 121047 亿元，同比增长 4.7%。印花税 2752 亿元，同比增长 40.9%。其中，证券交易印花税 1549 亿元，同比增长 97.3%。</div></div></article><article class="item" data-search="宏景科技等成立新公司 含 ai 及物联网业务
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-07-22T07:10:26.364919+00:00","clsvipUpdated":"2026-07-22T07:10:40.148334+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">7月22日</h2><div class="feed"><article class="item" data-search="比亚迪腾势在哈尔滨成立新销售服务公司 注册资本 100 万
+天眼查 app 显示，近日，哈尔滨势成汽车销售服务有限公司成立，法定代表人为邓希希，注册资本 100 万人民币，经营范围含新能源汽车整车销售、新能源汽车电附件销售、汽车销售、充电桩销售、机动车修理和维护、电动汽车充电基础设施运营等。股东信息显示，该公司由腾势汽车销售服务有限公司全资持股。"><div class="time">15:10</div><div class="content"><div class="text" data-full="比亚迪腾势在哈尔滨成立新销售服务公司 注册资本 100 万
+天眼查 App 显示，近日，哈尔滨势成汽车销售服务有限公司成立，法定代表人为邓希希，注册资本 100 万人民币，经营范围含新能源汽车整车销售、新能源汽车电附件销售、汽车销售、充电桩销售、机动车修理和维护、电动汽车充电基础设施运营等。股东信息显示，该公司由腾势汽车销售服务有限公司全资持股。" data-short="比亚迪腾势在哈尔滨成立新销售服务公司 注册资本 100 万
+天眼查 App 显示，近日，哈尔滨势成汽车销售服务有限公司成立，法定代表人为邓希希，注册资本 100 万人民币，经营范围含新能源汽车整车销售、新能源汽车电附件销售、汽车销售、充电桩销售、机动车修理和维护、电动汽车充电基础设施运营等。股东信息显示，该公司由腾势汽车销售服务有限公司全资持股。">比亚迪腾势在哈尔滨成立新销售服务公司 注册资本 100 万
+天眼查 App 显示，近日，哈尔滨势成汽车销售服务有限公司成立，法定代表人为邓希希，注册资本 100 万人民币，经营范围含新能源汽车整车销售、新能源汽车电附件销售、汽车销售、充电桩销售、机动车修理和维护、电动汽车充电基础设施运营等。股东信息显示，该公司由腾势汽车销售服务有限公司全资持股。</div></div></article><article class="item" data-search="未来不远机器人完成近 10 亿元融资
+7 月 22 日，未来不远机器人（futuring robot）宣布完成 pre-a 轮融资。投资方包含互联网大厂，产业巨头，消费品知名品牌，知名基金和老股东等，累计金额近 10 亿元。"><div class="time">15:09</div><div class="content"><div class="text" data-full="未来不远机器人完成近 10 亿元融资
+7 月 22 日，未来不远机器人（Futuring Robot）宣布完成 Pre-A 轮融资。投资方包含互联网大厂，产业巨头，消费品知名品牌，知名基金和老股东等，累计金额近 10 亿元。" data-short="未来不远机器人完成近 10 亿元融资
+7 月 22 日，未来不远机器人（Futuring Robot）宣布完成 Pre-A 轮融资。投资方包含互联网大厂，产业巨头，消费品知名品牌，知名基金和老股东等，累计金额近 10 亿元。">未来不远机器人完成近 10 亿元融资
+7 月 22 日，未来不远机器人（Futuring Robot）宣布完成 Pre-A 轮融资。投资方包含互联网大厂，产业巨头，消费品知名品牌，知名基金和老股东等，累计金额近 10 亿元。</div></div></article><article class="item" data-search="2026 年上半年财政收支情况
+上半年，全国一般公共预算收入 121047 亿元，同比增长 4.7%。其中，全国税收收入 97865 亿元，同比增长 5.3%；非税收入 23182 亿元，同比增长 2.3%。分中央和地方看，中央一般公共预算收入 52240 亿元，同比增长 7.5%；地方一般公共预算本级收入 68807 亿元，同比增长 2.7%。 
+
+主要税收收入项目情况如下： 
+
+1.国内增值税 38581 亿元，同比增长 6%。 
+
+2.国内消费税 8673 亿元，同比下降 3.4%。 
+
+3.企业所得税 25880 亿元，同比增长 3.9%。 
+
+4.个人所得税 8982 亿元，同比增长 13.1%。 
+
+5.进口货物增值税、消费税 9758 亿元，同比增长 11.8%。关税 1150 亿元，同比增长 5.1%。 
+
+6.出口货物退增值税、消费税 13387 亿元，同比增长 5.4%。 
+
+7.城市维护建设税 2730 亿元，同比增长 3.8%。 
+
+8.车辆购置税 1153 亿元，同比增长 13.7%。 
+
+9.印花税 2752 亿元，同比增长 40.9%。其中，证券交易印花税 1549 亿元，同比增长 97.3%。 
+
+10.资源税 1604 亿元，同比增长 11.5%。 
+
+11.契税 2019 亿元，同比下降 14.7%。 
+
+12.房产税 2782 亿元，同比增长 6.3%。 
+
+13.城镇土地使用税 1408 亿元，同比增长 2.6%。 
+
+14.土地增值税 2146 亿元，同比下降 15.3%。 
+
+15.耕地占用税 830 亿元，同比下降 3.5%。 
+
+16.环境保护税 167 亿元，同比增长 18.6%。 
+
+17.车船税、船舶吨税、烟叶税等其他各项税收收入合计 637 亿元，同比下降 0.1%。"><div class="time">15:09</div><div class="content"><div class="text" data-full="2026 年上半年财政收支情况
+上半年，全国一般公共预算收入 121047 亿元，同比增长 4.7%。其中，全国税收收入 97865 亿元，同比增长 5.3%；非税收入 23182 亿元，同比增长 2.3%。分中央和地方看，中央一般公共预算收入 52240 亿元，同比增长 7.5%；地方一般公共预算本级收入 68807 亿元，同比增长 2.7%。 
+
+主要税收收入项目情况如下： 
+
+1.国内增值税 38581 亿元，同比增长 6%。 
+
+2.国内消费税 8673 亿元，同比下降 3.4%。 
+
+3.企业所得税 25880 亿元，同比增长 3.9%。 
+
+4.个人所得税 8982 亿元，同比增长 13.1%。 
+
+5.进口货物增值税、消费税 9758 亿元，同比增长 11.8%。关税 1150 亿元，同比增长 5.1%。 
+
+6.出口货物退增值税、消费税 13387 亿元，同比增长 5.4%。 
+
+7.城市维护建设税 2730 亿元，同比增长 3.8%。 
+
+8.车辆购置税 1153 亿元，同比增长 13.7%。 
+
+9.印花税 2752 亿元，同比增长 40.9%。其中，证券交易印花税 1549 亿元，同比增长 97.3%。 
+
+10.资源税 1604 亿元，同比增长 11.5%。 
+
+11.契税 2019 亿元，同比下降 14.7%。 
+
+12.房产税 2782 亿元，同比增长 6.3%。 
+
+13.城镇土地使用税 1408 亿元，同比增长 2.6%。 
+
+14.土地增值税 2146 亿元，同比下降 15.3%。 
+
+15.耕地占用税 830 亿元，同比下降 3.5%。 
+
+16.环境保护税 167 亿元，同比增长 18.6%。 
+
+17.车船税、船舶吨税、烟叶税等其他各项税收收入合计 637 亿元，同比下降 0.1%。" data-short="2026 年上半年财政收支情况
+上半年，全国一般公共预算收入 121047 亿元，同比增长 4.7%。其中，全国税收收入 97865 亿元，同比增长 5.3%；非税收入 23182 亿元，同比增长 2.3%。分中央和地方看，中央一般公共预算收入 52240 亿元，同比增长 7.5%；地方一般公共预算本级收入 68807 亿元，同比增长 2.7%。 
+
+主要税...">2026 年上半年财政收支情况
+上半年，全国一般公共预算收入 121047 亿元，同比增长 4.7%。其中，全国税收收入 97865 亿元，同比增长 5.3%；非税收入 23182 亿元，同比增长 2.3%。分中央和地方看，中央一般公共预算收入 52240 亿元，同比增长 7.5%；地方一般公共预算本级收入 68807 亿元，同比增长 2.7%。 
+
+主要税...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="印尼央行行长：国际不确定性带来的溢出影响需要通过加强国际收支表现来缓解。"><div class="time">15:09</div><div class="content"><div class="text" data-full="印尼央行行长：国际不确定性带来的溢出影响需要通过加强国际收支表现来缓解。" data-short="印尼央行行长：国际不确定性带来的溢出影响需要通过加强国际收支表现来缓解。">印尼央行行长：国际不确定性带来的溢出影响需要通过加强国际收支表现来缓解。</div></div></article><article class="item" data-search="印尼央行行长：2026 年 gdp 增长预期维持在 4.9%至 5.7%区间不变。"><div class="time">15:09</div><div class="content"><div class="text" data-full="印尼央行行长：2026 年 GDP 增长预期维持在 4.9%至 5.7%区间不变。" data-short="印尼央行行长：2026 年 GDP 增长预期维持在 4.9%至 5.7%区间不变。">印尼央行行长：2026 年 GDP 增长预期维持在 4.9%至 5.7%区间不变。</div></div></article><article class="item" data-search="财政部：房产税 2782 亿元，同比增长 6.3%
+金十数据 7 月 22 日讯，财政部公布 2026 年上半年财政收支情况。房产税 2782 亿元，同比增长 6.3%。契税 2019 亿元，同比下降 14.7%。城镇土地使用税 1408 亿元，同比增长 2.6%。车辆购置税 1153 亿元，同比增长 13.7%。"><div class="time">15:09</div><div class="content"><div class="text" data-full="财政部：房产税 2782 亿元，同比增长 6.3%
+金十数据 7 月 22 日讯，财政部公布 2026 年上半年财政收支情况。房产税 2782 亿元，同比增长 6.3%。契税 2019 亿元，同比下降 14.7%。城镇土地使用税 1408 亿元，同比增长 2.6%。车辆购置税 1153 亿元，同比增长 13.7%。" data-short="财政部：房产税 2782 亿元，同比增长 6.3%
+金十数据 7 月 22 日讯，财政部公布 2026 年上半年财政收支情况。房产税 2782 亿元，同比增长 6.3%。契税 2019 亿元，同比下降 14.7%。城镇土地使用税 1408 亿元，同比增长 2.6%。车辆购置税 1153 亿元，同比增长 13.7%。">财政部：房产税 2782 亿元，同比增长 6.3%
+金十数据 7 月 22 日讯，财政部公布 2026 年上半年财政收支情况。房产税 2782 亿元，同比增长 6.3%。契税 2019 亿元，同比下降 14.7%。城镇土地使用税 1408 亿元，同比增长 2.6%。车辆购置税 1153 亿元，同比增长 13.7%。</div></div></article><article class="item" data-search="上半年全国财政收入同比增长 4.7%
+今年上半年，财政收入平稳增长，全国一般公共预算收入约 12.1 万亿元，同比增长 4.7%，累计增幅逐月提高。其中，全国税收收入约 9.79 万亿元，同比增长 5.3%。支出方面，今年上半年，全国一般公共预算支出约 14.33 万亿元，同比增长 1.5%，财政支出总体保持靠前发力，民生等重点领域支出得到较好保障。（新华社）"><div class="time">15:08</div><div class="content"><div class="text" data-full="上半年全国财政收入同比增长 4.7%
+今年上半年，财政收入平稳增长，全国一般公共预算收入约 12.1 万亿元，同比增长 4.7%，累计增幅逐月提高。其中，全国税收收入约 9.79 万亿元，同比增长 5.3%。支出方面，今年上半年，全国一般公共预算支出约 14.33 万亿元，同比增长 1.5%，财政支出总体保持靠前发力，民生等重点领域支出得到较好保障。（新华社）" data-short="上半年全国财政收入同比增长 4.7%
+今年上半年，财政收入平稳增长，全国一般公共预算收入约 12.1 万亿元，同比增长 4.7%，累计增幅逐月提高。其中，全国税收收入约 9.79 万亿元，同比增长 5.3%。支出方面，今年上半年，全国一般公共预算支出约 14.33 万亿元，同比增长 1.5%，财政支出总体保持靠前发力，民生等重点领域支出得到较好保障。（新华社...">上半年全国财政收入同比增长 4.7%
+今年上半年，财政收入平稳增长，全国一般公共预算收入约 12.1 万亿元，同比增长 4.7%，累计增幅逐月提高。其中，全国税收收入约 9.79 万亿元，同比增长 5.3%。支出方面，今年上半年，全国一般公共预算支出约 14.33 万亿元，同比增长 1.5%，财政支出总体保持靠前发力，民生等重点领域支出得到较好保障。（新华社...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="财政部：上半年印花税 2752 亿元，同比增长 40.9%
+金十数据 7 月 22 日讯，财政部公布 2026 年上半年财政收支情况。上半年，全国一般公共预算收入 121047 亿元，同比增长 4.7%。印花税 2752 亿元，同比增长 40.9%。其中，证券交易印花税 1549 亿元，同比增长 97.3%。"><div class="time">15:08</div><div class="content"><div class="text" data-full="财政部：上半年印花税 2752 亿元，同比增长 40.9%
+金十数据 7 月 22 日讯，财政部公布 2026 年上半年财政收支情况。上半年，全国一般公共预算收入 121047 亿元，同比增长 4.7%。印花税 2752 亿元，同比增长 40.9%。其中，证券交易印花税 1549 亿元，同比增长 97.3%。" data-short="财政部：上半年印花税 2752 亿元，同比增长 40.9%
+金十数据 7 月 22 日讯，财政部公布 2026 年上半年财政收支情况。上半年，全国一般公共预算收入 121047 亿元，同比增长 4.7%。印花税 2752 亿元，同比增长 40.9%。其中，证券交易印花税 1549 亿元，同比增长 97.3%。">财政部：上半年印花税 2752 亿元，同比增长 40.9%
+金十数据 7 月 22 日讯，财政部公布 2026 年上半年财政收支情况。上半年，全国一般公共预算收入 121047 亿元，同比增长 4.7%。印花税 2752 亿元，同比增长 40.9%。其中，证券交易印花税 1549 亿元，同比增长 97.3%。</div></div></article><article class="item" data-search="宏景科技等成立新公司 含 ai 及物联网业务
 企查查 app 显示，近日，深圳元动智启科技有限公司成立，经营范围包含人工智能硬件销售；人工智能公共服务平台技术咨询服务；人工智能应用软件开发；物联网技术服务；物联网技术研发等。企查查股权穿透显示，该公司由宏景科技(301396)等共同持股。"><div class="time">15:08</div><div class="content"><div class="text" data-full="宏景科技等成立新公司 含 AI 及物联网业务
 企查查 APP 显示，近日，深圳元动智启科技有限公司成立，经营范围包含人工智能硬件销售；人工智能公共服务平台技术咨询服务；人工智能应用软件开发；物联网技术服务；物联网技术研发等。企查查股权穿透显示，该公司由宏景科技(301396)等共同持股。" data-short="宏景科技等成立新公司 含 AI 及物联网业务
 企查查 APP 显示，近日，深圳元动智启科技有限公司成立，经营范围包含人工智能硬件销售；人工智能公共服务平台技术咨询服务；人工智能应用软件开发；物联网技术服务；物联网技术研发等。企查查股权穿透显示，该公司由宏景科技(301396)等共同持股。">宏景科技等成立新公司 含 AI 及物联网业务
@@ -611,27 +707,7 @@ ETF 收盘涨跌不一，黄金股 ETF（159321）领涨 6.42%，黄金股 ETF�
 金十数据 7 月 22 日讯，7 月 22 日，全省海洋经济发展大会在沈阳召开。辽宁省委书记许昆林出席会议并讲话。许昆林强调，要坚持产业强海，加快建设现代海洋产业体系。深耕海洋渔业，高标准建设现代化海洋牧场，发展深水网箱、养殖工船等新型生产模式，促进海洋产品精深加工和流通，加强品牌建设，提升特色海产品知名度和市场竞争力。做强海洋制造业，加快推进“智改数转”，绘制好“强链补链延链”图谱，加强链主企业和配套企业招引；聚焦关键领域持续攻坚，加快打造高技术船舶与高端海工装备制造基地；积极培育海洋药物与生物制品、海洋新能源、海洋新材料等新产业，发展“海洋+低空经济”等新业态。升级海洋服务业，大力发展航运物流、金融保险、海事法律等现代海洋服务业；统筹推进岸线、湾区、海岛、海域等资源开发利用，推动文旅体商融合发展；前瞻谋划布局游艇产业，有力承接产业规模化扩张，赢得发展主动。"><div class="time">12:21</div><div class="content"><div class="text" data-full="辽宁省海洋经济发展大会召开：加快建设现代海洋产业体系
 金十数据 7 月 22 日讯，7 月 22 日，全省海洋经济发展大会在沈阳召开。辽宁省委书记许昆林出席会议并讲话。许昆林强调，要坚持产业强海，加快建设现代海洋产业体系。深耕海洋渔业，高标准建设现代化海洋牧场，发展深水网箱、养殖工船等新型生产模式，促进海洋产品精深加工和流通，加强品牌建设，提升特色海产品知名度和市场竞争力。做强海洋制造业，加快推进“智改数转”，绘制好“强链补链延链”图谱，加强链主企业和配套企业招引；聚焦关键领域持续攻坚，加快打造高技术船舶与高端海工装备制造基地；积极培育海洋药物与生物制品、海洋新能源、海洋新材料等新产业，发展“海洋+低空经济”等新业态。升级海洋服务业，大力发展航运物流、金融保险、海事法律等现代海洋服务业；统筹推进岸线、湾区、海岛、海域等资源开发利用，推动文旅体商融合发展；前瞻谋划布局游艇产业，有力承接产业规模化扩张，赢得发展主动。" data-short="辽宁省海洋经济发展大会召开：加快建设现代海洋产业体系
 金十数据 7 月 22 日讯，7 月 22 日，全省海洋经济发展大会在沈阳召开。辽宁省委书记许昆林出席会议并讲话。许昆林强调，要坚持产业强海，加快建设现代海洋产业体系。深耕海洋渔业，高标准建设现代化海洋牧场，发展深水网箱、养殖工船等新型生产模式，促进海洋产品精深加工和流通，加强品牌建设，提升特色海产品知名...">辽宁省海洋经济发展大会召开：加快建设现代海洋产业体系
-金十数据 7 月 22 日讯，7 月 22 日，全省海洋经济发展大会在沈阳召开。辽宁省委书记许昆林出席会议并讲话。许昆林强调，要坚持产业强海，加快建设现代海洋产业体系。深耕海洋渔业，高标准建设现代化海洋牧场，发展深水网箱、养殖工船等新型生产模式，促进海洋产品精深加工和流通，加强品牌建设，提升特色海产品知名...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="辽宁省海洋经济发展大会召开
-据辽宁日报，7 月 22 日，全省海洋经济发展大会在沈阳召开。辽宁省委书记许昆林出席会议并讲话。许昆林强调，要坚持产业强海，加快建设现代海洋产业体系。深耕海洋渔业，高标准建设现代化海洋牧场，发展深水网箱、养殖工船等新型生产模式，促进海洋产品精深加工和流通，加强品牌建设，提升特色海产品知名度和市场竞争力。做强海洋制造业，加快推进“智改数转”，绘制好“强链补链延链”图谱，加强链主企业和配套企业招引；聚焦关键领域持续攻坚，加快打造高技术船舶与高端海工装备制造基地；积极培育海洋药物与生物制品、海洋新能源、海洋新材料等新产业，发展“海洋+低空经济”等新业态。升级海洋服务业，大力发展航运物流、金融保险、海事法律等现代海洋服务业；统筹推进岸线、湾区、海岛、海域等资源开发利用，推动文旅体商融合发展；前瞻谋划布局游艇产业，有力承接产业规模化扩张，赢得发展主动。"><div class="time">12:21</div><div class="content"><div class="text" data-full="辽宁省海洋经济发展大会召开
-据辽宁日报，7 月 22 日，全省海洋经济发展大会在沈阳召开。辽宁省委书记许昆林出席会议并讲话。许昆林强调，要坚持产业强海，加快建设现代海洋产业体系。深耕海洋渔业，高标准建设现代化海洋牧场，发展深水网箱、养殖工船等新型生产模式，促进海洋产品精深加工和流通，加强品牌建设，提升特色海产品知名度和市场竞争力。做强海洋制造业，加快推进“智改数转”，绘制好“强链补链延链”图谱，加强链主企业和配套企业招引；聚焦关键领域持续攻坚，加快打造高技术船舶与高端海工装备制造基地；积极培育海洋药物与生物制品、海洋新能源、海洋新材料等新产业，发展“海洋+低空经济”等新业态。升级海洋服务业，大力发展航运物流、金融保险、海事法律等现代海洋服务业；统筹推进岸线、湾区、海岛、海域等资源开发利用，推动文旅体商融合发展；前瞻谋划布局游艇产业，有力承接产业规模化扩张，赢得发展主动。" data-short="辽宁省海洋经济发展大会召开
-据辽宁日报，7 月 22 日，全省海洋经济发展大会在沈阳召开。辽宁省委书记许昆林出席会议并讲话。许昆林强调，要坚持产业强海，加快建设现代海洋产业体系。深耕海洋渔业，高标准建设现代化海洋牧场，发展深水网箱、养殖工船等新型生产模式，促进海洋产品精深加工和流通，加强品牌建设，提升特色海产品知名度和市场竞争力。做强海洋制造业，加快推进“智...">辽宁省海洋经济发展大会召开
-据辽宁日报，7 月 22 日，全省海洋经济发展大会在沈阳召开。辽宁省委书记许昆林出席会议并讲话。许昆林强调，要坚持产业强海，加快建设现代海洋产业体系。深耕海洋渔业，高标准建设现代化海洋牧场，发展深水网箱、养殖工船等新型生产模式，促进海洋产品精深加工和流通，加强品牌建设，提升特色海产品知名度和市场竞争力。做强海洋制造业，加快推进“智...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="宝胜国际：耐克中国线上平台销售将于 2027 年 1 月 1 日起全面终止
-宝胜国际港交所公告，收到耐克通知，集团目前在中国内地的耐克产品线上平台销售将于 2027 年 1 月 1 日起全面终止。截至 2025 年 12 月 31 日止财政年度，来自耐克产品线上平台销售的收入贡献约占本集团总收入的 15%，惟对本集团之盈利贡献并不显著。"><div class="time">12:20</div><div class="content"><div class="text" data-full="宝胜国际：耐克中国线上平台销售将于 2027 年 1 月 1 日起全面终止
-宝胜国际港交所公告，收到耐克通知，集团目前在中国内地的耐克产品线上平台销售将于 2027 年 1 月 1 日起全面终止。截至 2025 年 12 月 31 日止财政年度，来自耐克产品线上平台销售的收入贡献约占本集团总收入的 15%，惟对本集团之盈利贡献并不显著。" data-short="宝胜国际：耐克中国线上平台销售将于 2027 年 1 月 1 日起全面终止
-宝胜国际港交所公告，收到耐克通知，集团目前在中国内地的耐克产品线上平台销售将于 2027 年 1 月 1 日起全面终止。截至 2025 年 12 月 31 日止财政年度，来自耐克产品线上平台销售的收入贡献约占本集团总收入的 15%，惟对本集团之盈利贡献并不显著。">宝胜国际：耐克中国线上平台销售将于 2027 年 1 月 1 日起全面终止
-宝胜国际港交所公告，收到耐克通知，集团目前在中国内地的耐克产品线上平台销售将于 2027 年 1 月 1 日起全面终止。截至 2025 年 12 月 31 日止财政年度，来自耐克产品线上平台销售的收入贡献约占本集团总收入的 15%，惟对本集团之盈利贡献并不显著。</div></div></article><article class="item" data-search="越南 vn 指数下跌 2%至 1695.78。"><div class="time">12:19</div><div class="content"><div class="text" data-full="越南 VN 指数下跌 2%至 1695.78。" data-short="越南 VN 指数下跌 2%至 1695.78。">越南 VN 指数下跌 2%至 1695.78。</div></div></article><article class="item" data-search="多家机构上调通用汽车目标价 此前公司上调业绩展望
-摩根大通将通用汽车目标股价从 110 美元上调至 120 美元通；大和资本市场将通用汽车目标股价从 83 美元上调至 86 美元；td cowen 将通用汽车目标股价从 126 美元上调至 132 美元。通用汽车上调了全年盈利展望，并表示客户需求依然强劲，特别是对皮卡和 suv 等车型的需求。通用汽车目前预计全年息税前利润将在 140 亿至 160 亿美元之间，高于此前 135 亿至 155 亿美元的展望。调整后每股收益目前预计在 12 美元至 14 美元之间，而此前的预测为每股 11.50 美元至 13.50 美元。"><div class="time">12:18</div><div class="content"><div class="text" data-full="多家机构上调通用汽车目标价 此前公司上调业绩展望
-摩根大通将通用汽车目标股价从 110 美元上调至 120 美元通；大和资本市场将通用汽车目标股价从 83 美元上调至 86 美元；TD COWEN 将通用汽车目标股价从 126 美元上调至 132 美元。通用汽车上调了全年盈利展望，并表示客户需求依然强劲，特别是对皮卡和 SUV 等车型的需求。通用汽车目前预计全年息税前利润将在 140 亿至 160 亿美元之间，高于此前 135 亿至 155 亿美元的展望。调整后每股收益目前预计在 12 美元至 14 美元之间，而此前的预测为每股 11.50 美元至 13.50 美元。" data-short="多家机构上调通用汽车目标价 此前公司上调业绩展望
-摩根大通将通用汽车目标股价从 110 美元上调至 120 美元通；大和资本市场将通用汽车目标股价从 83 美元上调至 86 美元；TD COWEN 将通用汽车目标股价从 126 美元上调至 132 美元。通用汽车上调了全年盈利展望，并表示客户需求依然强劲，特别是对皮卡和 SUV 等车型的需求。通用汽车目前预计...">多家机构上调通用汽车目标价 此前公司上调业绩展望
-摩根大通将通用汽车目标股价从 110 美元上调至 120 美元通；大和资本市场将通用汽车目标股价从 83 美元上调至 86 美元；TD COWEN 将通用汽车目标股价从 126 美元上调至 132 美元。通用汽车上调了全年盈利展望，并表示客户需求依然强劲，特别是对皮卡和 SUV 等车型的需求。通用汽车目前预计...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="马杜罗和美国检方共同提议明年 6 月审理其所涉指控
-据美国媒体 21 日报道，遭美国强行控制的委内瑞拉总统马杜罗与美国司法部检方当天共同提议，将马杜罗所涉指控的审理开始日期定在 2027 年 6 月。 报道说，该联合提案是在马杜罗所涉指控听证会前提交的一份法庭文件，该听证会定于 22 日中午 12 时在纽约南区联邦地区法院举行。 据报道，控辩双方在文件中表示，他们可能寻求更改审理日程。美国联邦地区法官阿尔文·赫勒斯坦将最终确定日程。 美国 1 月 3 日对委内瑞拉发动军事打击，强行控制马杜罗夫妇并将他们带到美国，美国司法部门指控他们犯有毒品走私罪行。1 月 5 日，马杜罗夫妇在纽约南区联邦地区法院首次出庭，拒绝美方所谓“犯罪”指控。目前，马杜罗被关押在纽约布鲁克林区的大都会拘留中心。国际社会广泛谴责美国严重侵犯委内瑞拉主权，威胁拉美地区和平稳定。(新华社)"><div class="time">12:17</div><div class="content"><div class="text" data-full="马杜罗和美国检方共同提议明年 6 月审理其所涉指控
-据美国媒体 21 日报道，遭美国强行控制的委内瑞拉总统马杜罗与美国司法部检方当天共同提议，将马杜罗所涉指控的审理开始日期定在 2027 年 6 月。 报道说，该联合提案是在马杜罗所涉指控听证会前提交的一份法庭文件，该听证会定于 22 日中午 12 时在纽约南区联邦地区法院举行。 据报道，控辩双方在文件中表示，他们可能寻求更改审理日程。美国联邦地区法官阿尔文·赫勒斯坦将最终确定日程。 美国 1 月 3 日对委内瑞拉发动军事打击，强行控制马杜罗夫妇并将他们带到美国，美国司法部门指控他们犯有毒品走私罪行。1 月 5 日，马杜罗夫妇在纽约南区联邦地区法院首次出庭，拒绝美方所谓“犯罪”指控。目前，马杜罗被关押在纽约布鲁克林区的大都会拘留中心。国际社会广泛谴责美国严重侵犯委内瑞拉主权，威胁拉美地区和平稳定。(新华社)" data-short="马杜罗和美国检方共同提议明年 6 月审理其所涉指控
-据美国媒体 21 日报道，遭美国强行控制的委内瑞拉总统马杜罗与美国司法部检方当天共同提议，将马杜罗所涉指控的审理开始日期定在 2027 年 6 月。 报道说，该联合提案是在马杜罗所涉指控听证会前提交的一份法庭文件，该听证会定于 22 日中午 12 时在纽约南区联邦地区法院举行。 据报道，控辩双方在文件中表示...">马杜罗和美国检方共同提议明年 6 月审理其所涉指控
-据美国媒体 21 日报道，遭美国强行控制的委内瑞拉总统马杜罗与美国司法部检方当天共同提议，将马杜罗所涉指控的审理开始日期定在 2027 年 6 月。 报道说，该联合提案是在马杜罗所涉指控听证会前提交的一份法庭文件，该听证会定于 22 日中午 12 时在纽约南区联邦地区法院举行。 据报道，控辩双方在文件中表示...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="日本 40 年期国债收益率上升 2 个基点，达到 3.910%。"><div class="time">12:17</div><div class="content"><div class="text" data-full="日本 40 年期国债收益率上升 2 个基点，达到 3.910%。" data-short="日本 40 年期国债收益率上升 2 个基点，达到 3.910%。">日本 40 年期国债收益率上升 2 个基点，达到 3.910%。</div></div></article><article class="item" data-search="中汽协：1—6 月销量排名前十位的 mpv 生产企业共销售 39.4 万辆
-据中国汽车工业协会统计分析，2026 年 1—6 月，销量排名前十位的 mpv 生产企业共销售 39.4 万辆，占 mpv 销售总量的 80.6%。在上述十家企业中，与去年同期相比，广汽传祺、长城汽车、吉利汽车和东风公司销量呈不同程度增长，其他企业销量均呈不同程度下降。"><div class="time">12:15</div><div class="content"><div class="text" data-full="中汽协：1—6 月销量排名前十位的 MPV 生产企业共销售 39.4 万辆
-据中国汽车工业协会统计分析，2026 年 1—6 月，销量排名前十位的 MPV 生产企业共销售 39.4 万辆，占 MPV 销售总量的 80.6%。在上述十家企业中，与去年同期相比，广汽传祺、长城汽车、吉利汽车和东风公司销量呈不同程度增长，其他企业销量均呈不同程度下降。" data-short="中汽协：1—6 月销量排名前十位的 MPV 生产企业共销售 39.4 万辆
-据中国汽车工业协会统计分析，2026 年 1—6 月，销量排名前十位的 MPV 生产企业共销售 39.4 万辆，占 MPV 销售总量的 80.6%。在上述十家企业中，与去年同期相比，广汽传祺、长城汽车、吉利汽车和东风公司销量呈不同程度增长，其他企业销量均呈不同程度下降。">中汽协：1—6 月销量排名前十位的 MPV 生产企业共销售 39.4 万辆
-据中国汽车工业协会统计分析，2026 年 1—6 月，销量排名前十位的 MPV 生产企业共销售 39.4 万辆，占 MPV 销售总量的 80.6%。在上述十家企业中，与去年同期相比，广汽传祺、长城汽车、吉利汽车和东风公司销量呈不同程度增长，其他企业销量均呈不同程度下降。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">7月22日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】海外融资全面回暖+外需明显改善，该行业出海交易量价齐升，我国相关领域全球地位持续提升，这家企业拥有多个在研产品
+金十数据 7 月 22 日讯，7 月 22 日，全省海洋经济发展大会在沈阳召开。辽宁省委书记许昆林出席会议并讲话。许昆林强调，要坚持产业强海，加快建设现代海洋产业体系。深耕海洋渔业，高标准建设现代化海洋牧场，发展深水网箱、养殖工船等新型生产模式，促进海洋产品精深加工和流通，加强品牌建设，提升特色海产品知名...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">7月22日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】海外融资全面回暖+外需明显改善，该行业出海交易量价齐升，我国相关领域全球地位持续提升，这家企业拥有多个在研产品
 
 #阳光诺和
 #荣昌生物"> <div class="time">14:56</div> <div class="content"> <div class="text">【盘中宝】海外融资全面回暖+外需明显改善，该行业出海交易量价齐升，我国相关领域全球地位持续提升，这家企业拥有多个在研产品
