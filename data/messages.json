@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3339143",
+    "datetime": "2026-07-22T13:01:57+00:00",
+    "views": "5",
+    "text": "SpaceX AI 考虑在得克萨斯州扩建数据中心。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339143"
+  },
+  {
+    "post": "Financial_Express/3339141",
+    "datetime": "2026-07-22T13:01:44+00:00",
+    "views": "7",
+    "text": "美国国债收益率小幅走高，5 年期（2026 年到期）国债收益率接近 4.40%的高位。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339141"
+  },
+  {
+    "post": "Financial_Express/3339142",
+    "datetime": "2026-07-22T13:01:44+00:00",
+    "views": "7",
+    "text": "AMD：将采用 Claude 加速软件开发。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339142"
+  },
+  {
+    "post": "Financial_Express/3339139",
+    "datetime": "2026-07-22T13:01:19+00:00",
+    "views": "11",
+    "text": "据华尔街日报：消息人士透露，OpenAI 重新启动内部工作，以加强对数据中心的控制。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339139"
+  },
+  {
+    "post": "Financial_Express/3339140",
+    "datetime": "2026-07-22T13:01:19+00:00",
+    "views": "11",
+    "text": "OpenAI 全新 3.2 吉瓦算力项目选址佐治亚州萨凡纳附近。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339140"
+  },
+  {
+    "post": "Financial_Express/3339138",
+    "datetime": "2026-07-22T13:01:18+00:00",
+    "views": "11",
+    "text": "据华尔街日报：消息人士透露，OpenAI 聘请了 xAI 资深人士布伦特·梅奥，以帮助确保数据中心项目按计划推进。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339138"
+  },
+  {
+    "post": "Financial_Express/3339136",
+    "datetime": "2026-07-22T13:00:58+00:00",
+    "views": "42",
+    "text": "据华尔街日报：消息人士透露，OpenAI 将预计的云服务支出从 6000 亿美元提高至 7500 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339136"
+  },
+  {
+    "post": "Financial_Express/3339137",
+    "datetime": "2026-07-22T13:00:58+00:00",
+    "views": "12",
+    "text": "OpenAI 上调云计算投入预期至 7500 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339137"
+  },
+  {
+    "post": "Financial_Express/3339135",
+    "datetime": "2026-07-22T13:00:37+00:00",
+    "views": "43",
+    "text": "AMD 拟向 Anthropic 进行最高 50 亿美元股权投资。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339135"
+  },
+  {
     "post": "Financial_Express/3339134",
     "datetime": "2026-07-22T13:00:20+00:00",
-    "views": "1",
+    "views": "45",
     "text": "国内期货夜盘开盘\n钯连续涨 4.15%，铂连续涨 3.13%，上海原油连续涨 2.47%，碳酸锂连续涨 2.21%，低硫燃料油连续涨 2.16%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3339133",
     "datetime": "2026-07-22T12:59:37+00:00",
-    "views": "9",
+    "views": "50",
     "text": "金建希就韩国总统府搬迁事宜接受检方问询\n韩国前总统尹锡悦的妻子金建希 22 日前往特检组所在地，就总统府搬迁过程中可能存在的违法行为接受问询。据韩国媒体报道，金建希当天上午抵达位于京畿道果川市的特检组办公室，这是她首次就总统府搬迁相关事宜接受检方问询。特检组怀疑，金建希在总统府搬迁过程中干预施工方选择，收受一家公司所赠贵重物品，使该公司在不具备资质的情况下承接项目。金建希律师团队在问询开始前否认上述指控，称其为检方“单方面说辞”。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3339132",
     "datetime": "2026-07-22T12:58:58+00:00",
-    "views": "40",
+    "views": "49",
     "text": "理想汽车法务部：公司诉“电车小飞”侵权案二审胜诉\n7 月 22 日，理想汽车法务部公告称，针对网络账号“电车小飞”长期发布涉及理想汽车及其相关人员的不实信息、误导性内容并造成恶劣传播影响一事，理想汽车已于 2025 年 3 月 25 日提起诉讼。经人民法院一审、二审审理后，依法认定相关行为构成侵权。理想汽车已于 2026 年 4 月 14 日获得二审胜诉判决书。经查明，法院认定“电车小飞”实施的商业诋毁行为，扰乱了正常的市场经济秩序，构成商业诋毁的不正当竞争行为。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3339131",
     "datetime": "2026-07-22T12:58:18+00:00",
-    "views": "43",
+    "views": "52",
     "text": "特朗普警告伊朗：每袭击一艘海峡船只，美国就摧毁一座桥梁或电厂\n金十数据 7 月 22 日讯，美国总统特朗普： 从现在开始，任何时候伊朗伊斯兰共和国在霍尔木兹海峡向船只开火，无论是通过导弹、火箭、无人机或其他任何设备或武器，美国将轰炸并摧毁一座桥梁或发电厂，包括位于德黑兰首都附近或内部的设施。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3339130",
     "datetime": "2026-07-22T12:57:58+00:00",
-    "views": "42",
+    "views": "49",
     "text": "特朗普：一旦伊朗在霍尔木兹海峡袭击船只，美国将轰炸并摧毁一座桥梁或发电厂。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3339129",
     "datetime": "2026-07-22T12:57:38+00:00",
-    "views": "43",
+    "views": "51",
     "text": "特朗普谈伊朗：若伊朗伊斯兰共和国在霍尔木兹海峡袭击任何船只——无论是使用导弹、火箭弹、无人机还是任何其他装置或武器——美国都将轰炸并摧毁伊朗的一座桥梁或一座发电厂。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3339128",
     "datetime": "2026-07-22T12:55:59+00:00",
-    "views": "50",
+    "views": "85",
     "text": "百亿量化产品净值集体下挫 幻方量化多只产品下跌超 15%\n该产品今年 7 月的超额收益为-10.85%。（第一财经）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3339127",
     "datetime": "2026-07-22T12:55:58+00:00",
-    "views": "49",
+    "views": "84",
     "text": "浙江：有计划有步骤推进人工智能重大项目谋划储备实施 加快打造人工智能创新发展高地\n金十数据 7 月 22 日讯，浙江省省长刘捷主持召开省政府全体会议。刘捷指出，上半年全省经济运行稳中有进、向新向好，顺利实现“时间过半、任务过半”，有力扛起了“经济大省挑大梁”的责任担当。全省政府系统要锚定下半年经济社会发展主要目标任务，坚定不移抓重点、抓具体、抓深入，进一步强化预期激励、激发拼劲韧劲，因地制宜、精准施策，切实提高工作落实的穿透力，以关键领域、关键环节、关键点位的突破性进展带动整体工作提质增效。要全力推动创新浙江建设全面成势，建立健全政府引导、市场主导的基础研究多元投入机制，提升科创平台建设质效，深化国家人工智能应用中试基地建设，全面梳理人工智能及相关产业链图谱，有计划有步骤推进人工智能重大项目谋划储备实施，加快打造人工智能创新发展高地。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3339126",
     "datetime": "2026-07-22T12:53:58+00:00",
-    "views": "80",
+    "views": "82",
     "text": "尔康制药：控股股东减持计划期限届满 减持 1077.6 万股\n尔康制药公告称，公司控股股东帅放文先生原计划自 2026 年 4 月 23 日至 7 月 22 日减持不超 4200 万股，即不超总股本的 2.04%。截至公告披露日，减持计划期限已届满，帅放文通过集中竞价方式减持 1077.6 万股，占总股本的 0.52%，减持均价 4.38 元/股。减持后，帅放文持股降至 8.43 亿股，占总股本 40.86%。本次减持不会导致公司控制权变化，也不影响公司治理结构和持续经营。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3339125",
     "datetime": "2026-07-22T12:53:57+00:00",
-    "views": "78",
+    "views": "80",
     "text": "津膜科技：持股 5%以上股东减持计划期限届满 共减持 2.82%股份\n津膜科技公告称，持股 5%以上股东华益科技国际（英属维尔京群岛）有限公司减持计划期限届满。在 2026 年 4 月 23 日至 7 月 22 日减持计划期间内，华益公司通过集中竞价和大宗交易方式共减持公司股份 851.21 万股，占公司总股本 2.82%。减持后，华益公司持股降至 2234.03 万股，占总股本 7.40%，本次减持实施情况与此前计划一致。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3339124",
     "datetime": "2026-07-22T12:53:38+00:00",
-    "views": "49",
+    "views": "51",
     "text": "天德钰：持股 5%以上股东减持公司股份比例达 0.51%\n天德钰公告称，2026 年 7 月 1 日至 7 月 22 日，持股 5%以上股东宁波群志光电有限公司通过集中竞价交易方式减持公司股份 208.95 万股，减持比例 0.51%。本次权益变动后，宁波群志持股比例由 7.48%降至 6.97%，触及 1%刻度。此次减持系履行此前计划，不触及要约收购，不会导致控股股东、实控人变化，减持计划尚未实施完毕。",
     "media_only": false,
     "image_url": null,
@@ -50677,95 +50758,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3333485"
-  },
-  {
-    "post": "Financial_Express/3333483",
-    "datetime": "2026-07-20T13:02:18+00:00",
-    "views": "65",
-    "text": "谷歌计划推出新型“Frozen”芯片，以更高效运行其 AI 模型。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333483"
-  },
-  {
-    "post": "Financial_Express/3333482",
-    "datetime": "2026-07-20T13:02:17+00:00",
-    "views": "63",
-    "text": "乌克兰敖德萨市官员：俄罗斯对敖德萨的袭击造成三人死亡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333482"
-  },
-  {
-    "post": "Financial_Express/3333481",
-    "datetime": "2026-07-20T13:01:58+00:00",
-    "views": "63",
-    "text": "微软将部署 AMD Helios 整机柜级解决方案。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333481"
-  },
-  {
-    "post": "Financial_Express/3333480",
-    "datetime": "2026-07-20T13:01:57+00:00",
-    "views": "63",
-    "text": "AMD(AMD.O)：将在 2026 年下半年开始向客户出货其 Helios 平台。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333480"
-  },
-  {
-    "post": "Financial_Express/3333479",
-    "datetime": "2026-07-20T13:01:39+00:00",
-    "views": "57",
-    "text": "中化装备：发行股份购买资产并募集配套资金暨关联交易事项获得审核通过\n中化装备公告，上海证券交易所并购重组审核委员会于 2026 年 7 月 20 日召开 2026 年第 12 次审议会议，对公司发行股份购买资产并募集配套资金暨关联交易事项进行了审议。审议结果为本次交易符合重组条件和信息披露要求。公司拟发行股份购买中国化工装备有限公司持有的益阳橡胶塑料机械集团有限公司 100%股权、北京蓝星节能投资管理有限公司持有的蓝星（北京）化工机械有限公司 100%股权，并向不超过 35 名符合条件的特定投资者发行股份募集配套资金。本次交易尚需中国证券监督管理委员会同意注册后方可实施。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333479"
-  },
-  {
-    "post": "Financial_Express/3333478",
-    "datetime": "2026-07-20T13:01:18+00:00",
-    "views": "60",
-    "text": "埃克苏斯可再生能源完成 3.56 亿美元风电项目建设融资。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333478"
-  },
-  {
-    "post": "Financial_Express/3333477",
-    "datetime": "2026-07-20T13:01:17+00:00",
-    "views": "57",
-    "text": "元脑服务器推出 CXL 内存跨代扩展方案 实现 DDR5 和 DDR4 同机部署内存扩容\n“元脑服务器”公众号消息，元脑服务器推出 CXL（Compute Express Link）内存跨代扩展方案，实现了 DDR5 和 DDR4 同机部署内存扩容。基于元脑服务器 NF5280，在 24 条本地 DDR5 内存基本配置下，通过创新自研 CXL 内存扩展卡，单机最多可扩展 16 条 DDR4 内存，按照单条内存 32GB 容量，额外扩展 512GB 内存，整机内存容量提升 33%，成本大幅降低 25%。方案结合元脑服务器操作系统 KOS 池化内存技术，将本地 DRAM 内存与 CXL 扩展内存融合为统一逻辑内存空间，通过冷热数据识别、动态迁移和 NUMA 感知调度策略，让扩展内存达到本地内存相当性能，提升 CPU 利用率 30%。目前，该方案已在国内某大型互联网客户完成验证并实现规模应用。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333477"
-  },
-  {
-    "post": "Financial_Express/3333475",
-    "datetime": "2026-07-20T13:00:58+00:00",
-    "views": "127",
-    "text": "AMD(AMD.O)：微软(MSFT.O)将在 Azure 上大规模部署 AMD Helios 用于人工智能推理。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333475"
-  },
-  {
-    "post": "Financial_Express/3333476",
-    "datetime": "2026-07-20T13:00:58+00:00",
-    "views": "57",
-    "text": "微软将部署新一代 AMD Instinct 加速器与 AMD EPYC 处理器。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333476"
-  },
-  {
-    "post": "Financial_Express/3333474",
-    "datetime": "2026-07-20T13:00:24+00:00",
-    "views": "58",
-    "text": "伊朗内政部长将于今晚率一个由 6 名部长组成的代表团抵达巴基斯坦。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333474"
   }
 ]
