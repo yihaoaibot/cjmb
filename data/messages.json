@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3339540",
+    "datetime": "2026-07-22T16:07:18+00:00",
+    "views": "10",
+    "text": "保时捷发言人表示，监事会在周三的会议上承诺支持重组措施。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339540"
+  },
+  {
+    "post": "Financial_Express/3339539",
+    "datetime": "2026-07-22T16:06:37+00:00",
+    "views": "15",
+    "text": "特朗普今日与乌克兰总统泽连斯基通话。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339539"
+  },
+  {
     "post": "Financial_Express/3339538",
     "datetime": "2026-07-22T16:05:38+00:00",
-    "views": "14",
+    "views": "59",
     "text": "美国计划打击马里境内隶属于基地组织的武装团体 JNIM（伊斯兰与穆斯林支持者团体）。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3339537",
     "datetime": "2026-07-22T16:05:37+00:00",
-    "views": "14",
+    "views": "59",
     "text": "委内瑞拉前总统马杜罗抵达美国法庭，听证会即将开始。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3339536",
     "datetime": "2026-07-22T16:04:37+00:00",
-    "views": "51",
+    "views": "65",
     "text": "特朗普政府正在考量针对马里的军事行动选项。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3339535",
     "datetime": "2026-07-22T16:03:37+00:00",
-    "views": "59",
+    "views": "98",
     "text": "乌克兰总统泽连斯基今日与特朗普总统特使维特科夫、库什纳通话，双方探讨重启外交斡旋以结束冲突的相关方案。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3339534",
     "datetime": "2026-07-22T16:03:17+00:00",
-    "views": "60",
+    "views": "99",
     "text": "Meta 开发 AI 模型路由系统，分流任务降低编码算力成本\nMeta 正在研发一套内部 AI 模型调度路由系统，可自动将简易任务分配至成本更低的模型运行，以此削减代码开发相关算力开支。该项目隶属于 Meta 全新 AI 内部孵化器，孵化器内目前有约 200 个在研项目。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3339533",
     "datetime": "2026-07-22T16:02:57+00:00",
-    "views": "92",
+    "views": "101",
     "text": "据 AXIOS 网站：消息人士透露，乌克兰总统泽连斯基今天与美国中东问题特使威特科夫和高级顾问库什纳进行了交谈，讨论了恢复外交努力以结束战争的想法。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3339532",
     "datetime": "2026-07-22T16:02:17+00:00",
-    "views": "95",
+    "views": "103",
     "text": "委内瑞拉前总统马杜罗抵达纽约法院出席听证会。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3339531",
     "datetime": "2026-07-22T16:01:38+00:00",
-    "views": "96",
+    "views": "102",
     "text": "俄罗斯国家统计局：俄罗斯 6 月生产者价格指数（PPI）同比上涨 10.5%，环比下跌 0.1%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3339530",
     "datetime": "2026-07-22T16:01:17+00:00",
-    "views": "96",
+    "views": "102",
     "text": "6 月俄罗斯工业产出同比增长 0.6%，此前路透调查的预期为同比增长 0.1%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3339529",
     "datetime": "2026-07-22T16:00:38+00:00",
-    "views": "99",
+    "views": "103",
     "text": "达索航空 CEO：公司正与法国政府磋商 FCAS（未来空战系统）替代方案。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3339528",
     "datetime": "2026-07-22T15:58:18+00:00",
-    "views": "103",
+    "views": "136",
     "text": "国际航运公会：也门胡塞武装通过无线电向航行船舶发出警告。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3339527",
     "datetime": "2026-07-22T15:58:17+00:00",
-    "views": "103",
+    "views": "136",
     "text": "据伊朗迈赫尔通讯社：以色列在黎巴嫩南部进行炮击和空袭。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3339526",
     "datetime": "2026-07-22T15:57:57+00:00",
-    "views": "134",
+    "views": "135",
     "text": "王毅会见印度外长苏杰生\n金十数据 7 月 22 日讯，中共中央政治局委员、外交部长王毅 22 日在马尼拉会见印度外长苏杰生。王毅表示，中方愿同印方落实好两国领导人重要共识，密切高层交往，加强经贸、媒体、人文等领域合作，妥善处理敏感问题，推动两国各界和人民形成正确相互认知，在和平共处基础上，探索相邻大国相互尊重、相互信任、共同发展、共同繁荣的正确相处之道，为中印关系不断注入新动能。今明两年，印中将相继担任金砖轮值主席国。双方应加强协调合作，推动“大金砖合作”机制发展壮大，更好代表和维护发展中国家共同利益。中方将继续支持印度办好今年金砖峰会。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3339524",
     "datetime": "2026-07-22T15:57:17+00:00",
-    "views": "97",
+    "views": "127",
     "text": "美国财长贝森特：（与巴基斯坦财长）讨论了巴基斯坦重返全球资本市场的问题。",
     "media_only": false,
     "image_url": null,
@@ -51379,41 +51397,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3333814"
-  },
-  {
-    "post": "Financial_Express/3333813",
-    "datetime": "2026-07-20T16:07:18+00:00",
-    "views": "226",
-    "text": "俄罗斯财政部表示，为稳定市场已暂停俄罗斯联邦政府债券（OFZ）拍卖。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333813"
-  },
-  {
-    "post": "Financial_Express/3333812",
-    "datetime": "2026-07-20T16:07:17+00:00",
-    "views": "226",
-    "text": "据国际文传电讯社：俄罗斯财政部表示暂停国债拍卖以稳定市场。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333812"
-  },
-  {
-    "post": "Financial_Express/3333811",
-    "datetime": "2026-07-20T16:06:57+00:00",
-    "views": "226",
-    "text": "俄罗斯财政部表示，将暂停联邦公债券(OFZ)拍卖。\n👎1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333811"
-  },
-  {
-    "post": "Financial_Express/3333810",
-    "datetime": "2026-07-20T16:06:37+00:00",
-    "views": "226",
-    "text": "前英国国防大臣约翰·希利宣布加入新内阁。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333810"
   }
 ]
