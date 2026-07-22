@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3339908",
+    "datetime": "2026-07-22T21:20:17+00:00",
+    "views": "1",
+    "text": "周三（7 月 22 日）纽约尾盘（周四北京时间 04:59），离岸人民币（CNH）兑美元报 6.7751 元，较周二纽约尾盘跌 62 点，日内整体交投于 6.7678-6.7761 元区间。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339908"
+  },
+  {
+    "post": "Financial_Express/3339907",
+    "datetime": "2026-07-22T21:18:37+00:00",
+    "views": "12",
+    "text": "Alphabet：将加快 AI 模型的发布节奏。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339907"
+  },
+  {
     "post": "Financial_Express/3339906",
     "datetime": "2026-07-22T21:17:57+00:00",
-    "views": "6",
+    "views": "15",
     "text": "Alphabet： 公司正将 AI 算力资源集中投入 Gemini 4 的研发训练。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3339905",
     "datetime": "2026-07-22T21:17:38+00:00",
-    "views": "10",
+    "views": "18",
     "text": "伊朗迈赫尔通讯社：美军袭击击中伊朗拉姆希尔附近一处沥青仓库。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3339904",
     "datetime": "2026-07-22T21:15:37+00:00",
-    "views": "22",
+    "views": "28",
     "text": "富时 A50 期指连续夜盘收涨 0.31%，报 15203 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3339903",
     "datetime": "2026-07-22T21:12:38+00:00",
-    "views": "25",
+    "views": "30",
     "text": "英国海上贸易行动办公室（UKMTO）： 收到一则事故报告，事发地点位于沙特阿拉伯舒盖格港以西 70 海里处。一艘油轮船长报告船只遭不明投射物击中，船体已起火，船员正在全力灭火。暂无人员伤亡报告，也未造成环境影响。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3339902",
     "datetime": "2026-07-22T21:12:37+00:00",
-    "views": "25",
+    "views": "30",
     "text": "中东一油轮遇袭\n金十数据 7 月 23 日讯，英国海上贸易行动办公室：已收到关于沙特阿尔舒凯克 70 海里处发生事故的报告。一艘油轮的船长报告称，该船遭不明抛射物击中，导致船上起火，目前船员正在进行扑救。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3339901",
     "datetime": "2026-07-22T21:12:17+00:00",
-    "views": "24",
+    "views": "29",
     "text": "Alphabet：谷歌正全力训练 Gemini 4 大模型。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3339900",
     "datetime": "2026-07-22T21:11:17+00:00",
-    "views": "23",
+    "views": "28",
     "text": "美国财经媒体 Semafor：英特尔寻求俄亥俄州芯片厂的运营合作伙伴。SK 海力士正在考虑与英特尔合作。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3339899",
     "datetime": "2026-07-22T21:10:38+00:00",
-    "views": "21",
+    "views": "26",
     "text": "Anthropic 首席执行官表示，旗下 Mythos 大模型为 IBM 与红帽开辟了规模达数十亿美元的潜在市场空间（TAM）。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3339898",
     "datetime": "2026-07-22T21:10:37+00:00",
-    "views": "21",
+    "views": "26",
     "text": "Anthropic 首席执行官表示，Mythos 为 IBM 和 Red Hat 创造了数十亿美元的潜在市场规模（TAM）。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3339897",
     "datetime": "2026-07-22T21:10:17+00:00",
-    "views": "20",
+    "views": "25",
     "text": "英特尔正为俄亥俄州芯片工厂寻找运营合作方，SK 海力士是合作候选企业之一。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3339896",
     "datetime": "2026-07-22T21:09:17+00:00",
-    "views": "20",
+    "views": "25",
     "text": "伊朗迈赫尔通讯社援引胡齐斯坦省官员的话称，阿瓦士（Ahvaz）附近的一处地点遭到了美国导弹袭击。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3339895",
     "datetime": "2026-07-22T21:08:57+00:00",
-    "views": "18",
+    "views": "23",
     "text": "伊朗迈赫尔通讯社援引胡齐斯坦省官员消息称，美国发动导弹袭击，目标位于阿瓦士附近区域。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3339894",
     "datetime": "2026-07-22T21:08:17+00:00",
-    "views": "17",
+    "views": "21",
     "text": "IBM 首席执行官：尽管第二季度表现承压，但 Z17 大型机正迎来史上最强销售周期。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3339893",
     "datetime": "2026-07-22T21:07:37+00:00",
-    "views": "17",
+    "views": "19",
     "text": "大型机销量下滑 IBM 下调全年财测\n国际商业机器公司（IBM）报告大型机业务需求下降后下调了全年营收展望，其中包括对备受关注的软件部门的预期。该公司周三在公告中表示，今年营收有望增长 4%至 5%，而此前的预估是 5%以上。首席财务官 Jim Kavanaugh 在一次采访中说，软件部门年销售额将增长 6%至 8%。IBM 表示将加快实施成本节约计划，并继续预计今年新增 10 亿美元的自由现金流。Kavanaugh 表示，这将通过减少第三方技术支出、改善供应链管理和降低行政成本来实现。他还说，公司今年的员工总数应该不会有什么变化。该公司总营收增长了约 1%，达到 172 亿美元。不计某些项目的每股收益为 2.93 美元。IBM 在纽约收于 205.77 美元，盘后交易上涨约 3%。截至周三收盘，该股今年已下跌 31%，其中包括业绩初估发布后单日重挫的 25%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3339892",
     "datetime": "2026-07-22T21:06:57+00:00",
-    "views": "17",
+    "views": "19",
     "text": "委内瑞拉民众举行示威，要求美国释放马杜罗夫妇\n数百名委内瑞拉民众 22 日聚集在委首都加拉加斯市中心的一处广场，要求美国释放其关押的委总统马杜罗及其妻子。此次活动由加拉加斯市长卡门·梅伦德斯和马杜罗之子尼古拉斯·马杜罗·格拉领导。格拉在演讲中表示，这场审判从根源上就是不合法的，没有任何实质证据能够证明马杜罗犯有任何一项被指控的罪行。格拉还呼吁民众不要诉诸战争或武装牺牲，而应通过外交、谈判和国际沟通解决问题。 遭美国强行控制的委内瑞拉总统马杜罗 22 日在纽约南区联邦地区法院再次出庭，法官宣布定于 2027 年 6 月 1 日开始审理其所涉指控。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3339891",
     "datetime": "2026-07-22T21:04:58+00:00",
-    "views": "46",
+    "views": "48",
     "text": "Alphabet： TPU 销售协议带来的大部分收入将在 2027 财年确认入账。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3339890",
     "datetime": "2026-07-22T21:04:57+00:00",
-    "views": "47",
+    "views": "49",
     "text": "Alphabet 首席财务官：我们预计 2027 年的资本支出将显著增加。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3339888",
     "datetime": "2026-07-22T21:04:37+00:00",
-    "views": "46",
+    "views": "49",
     "text": "特朗普：预计美联邦政府在 9 月将出现“停摆”\n金十数据 7 月 23 日讯，当地时间 7 月 22 日，美国总统特朗普在佐治亚州发表演讲时提及，由于共和党和民主党在支出优先事项上存在分歧，9 月份将出现联邦政府“停摆”。当地时间 7 月 21 日，由共和党控制的美国众议院通过一项短期拨款法案，将为联邦政府机构提供资金至 12 月 4 日，以避免政府在 11 月中期选举前因资金耗尽而“停摆”。这项临时拨款措施又称“持续拨款决议”。法案通过后将提交参议院审议。目前，参议院共和党领导人正在与民主党展开谈判，并考虑提出自己的短期拨款方案。如果国会未能及时通过拨款法案，大多数联邦政府机构和项目的资金将于 9 月 30 日午夜、即本财年结束时到期。",
     "media_only": false,
     "image_url": null,
