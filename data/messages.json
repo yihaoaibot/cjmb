@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3339150",
+    "datetime": "2026-07-22T13:04:18+00:00",
+    "views": "2",
+    "text": "道达尔能源将继续在法国维持燃油价格上限。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339150"
+  },
+  {
+    "post": "Financial_Express/3339149",
+    "datetime": "2026-07-22T13:04:17+00:00",
+    "views": "2",
+    "text": "OPENAI：卡米莉亚项目将在埃芬汉县创造数千个建筑和永久性工作岗位。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339149"
+  },
+  {
+    "post": "Financial_Express/3339148",
+    "datetime": "2026-07-22T13:03:38+00:00",
+    "views": "5",
+    "text": "高通与三星扩大合作：为三星 Galaxy 生态系统人工智能搭载骁龙方案。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339148"
+  },
+  {
+    "post": "Financial_Express/3339147",
+    "datetime": "2026-07-22T13:03:18+00:00",
+    "views": "7",
+    "text": "高通与三星扩大合作，Snapdragon 为新 Galaxy 系列提供支持，涵盖智能手机、手表和智能眼镜。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339147"
+  },
+  {
+    "post": "Financial_Express/3339146",
+    "datetime": "2026-07-22T13:03:17+00:00",
+    "views": "7",
+    "text": "OPENAI：OPENAI PRESENCE 作为已部署产品，通过有限通用可用性计划向符合条件的企业客户提供。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339146"
+  },
+  {
+    "post": "Financial_Express/3339145",
+    "datetime": "2026-07-22T13:02:57+00:00",
+    "views": "36",
+    "text": "OpenAI：符合条件的企业客户可通过限量公开试用计划，以部署产品形式使用 OpenAI Presence 服务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339145"
+  },
+  {
+    "post": "Financial_Express/3339144",
+    "datetime": "2026-07-22T13:02:37+00:00",
+    "views": "39",
+    "text": "OpenAI 计划斥资超过 300 亿美元建设新的数据中心。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339144"
+  },
+  {
     "post": "Financial_Express/3339143",
     "datetime": "2026-07-22T13:01:57+00:00",
-    "views": "5",
+    "views": "42",
     "text": "SpaceX AI 考虑在得克萨斯州扩建数据中心。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3339141",
     "datetime": "2026-07-22T13:01:44+00:00",
-    "views": "7",
+    "views": "43",
     "text": "美国国债收益率小幅走高，5 年期（2026 年到期）国债收益率接近 4.40%的高位。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3339142",
     "datetime": "2026-07-22T13:01:44+00:00",
-    "views": "7",
+    "views": "43",
     "text": "AMD：将采用 Claude 加速软件开发。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3339139",
     "datetime": "2026-07-22T13:01:19+00:00",
-    "views": "11",
+    "views": "47",
     "text": "据华尔街日报：消息人士透露，OpenAI 重新启动内部工作，以加强对数据中心的控制。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3339140",
     "datetime": "2026-07-22T13:01:19+00:00",
-    "views": "11",
+    "views": "47",
     "text": "OpenAI 全新 3.2 吉瓦算力项目选址佐治亚州萨凡纳附近。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3339138",
     "datetime": "2026-07-22T13:01:18+00:00",
-    "views": "11",
+    "views": "47",
     "text": "据华尔街日报：消息人士透露，OpenAI 聘请了 xAI 资深人士布伦特·梅奥，以帮助确保数据中心项目按计划推进。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3339136",
     "datetime": "2026-07-22T13:00:58+00:00",
-    "views": "42",
+    "views": "47",
     "text": "据华尔街日报：消息人士透露，OpenAI 将预计的云服务支出从 6000 亿美元提高至 7500 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3339137",
     "datetime": "2026-07-22T13:00:58+00:00",
-    "views": "12",
+    "views": "48",
     "text": "OpenAI 上调云计算投入预期至 7500 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3339135",
     "datetime": "2026-07-22T13:00:37+00:00",
-    "views": "43",
+    "views": "48",
     "text": "AMD 拟向 Anthropic 进行最高 50 亿美元股权投资。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3339134",
     "datetime": "2026-07-22T13:00:20+00:00",
-    "views": "45",
+    "views": "48",
     "text": "国内期货夜盘开盘\n钯连续涨 4.15%，铂连续涨 3.13%，上海原油连续涨 2.47%，碳酸锂连续涨 2.21%，低硫燃料油连续涨 2.16%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3339133",
     "datetime": "2026-07-22T12:59:37+00:00",
-    "views": "50",
+    "views": "53",
     "text": "金建希就韩国总统府搬迁事宜接受检方问询\n韩国前总统尹锡悦的妻子金建希 22 日前往特检组所在地，就总统府搬迁过程中可能存在的违法行为接受问询。据韩国媒体报道，金建希当天上午抵达位于京畿道果川市的特检组办公室，这是她首次就总统府搬迁相关事宜接受检方问询。特检组怀疑，金建希在总统府搬迁过程中干预施工方选择，收受一家公司所赠贵重物品，使该公司在不具备资质的情况下承接项目。金建希律师团队在问询开始前否认上述指控，称其为检方“单方面说辞”。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3339132",
     "datetime": "2026-07-22T12:58:58+00:00",
-    "views": "49",
+    "views": "82",
     "text": "理想汽车法务部：公司诉“电车小飞”侵权案二审胜诉\n7 月 22 日，理想汽车法务部公告称，针对网络账号“电车小飞”长期发布涉及理想汽车及其相关人员的不实信息、误导性内容并造成恶劣传播影响一事，理想汽车已于 2025 年 3 月 25 日提起诉讼。经人民法院一审、二审审理后，依法认定相关行为构成侵权。理想汽车已于 2026 年 4 月 14 日获得二审胜诉判决书。经查明，法院认定“电车小飞”实施的商业诋毁行为，扰乱了正常的市场经济秩序，构成商业诋毁的不正当竞争行为。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3339131",
     "datetime": "2026-07-22T12:58:18+00:00",
-    "views": "52",
+    "views": "85",
     "text": "特朗普警告伊朗：每袭击一艘海峡船只，美国就摧毁一座桥梁或电厂\n金十数据 7 月 22 日讯，美国总统特朗普： 从现在开始，任何时候伊朗伊斯兰共和国在霍尔木兹海峡向船只开火，无论是通过导弹、火箭、无人机或其他任何设备或武器，美国将轰炸并摧毁一座桥梁或发电厂，包括位于德黑兰首都附近或内部的设施。",
     "media_only": false,
     "image_url": null,
@@ -50686,77 +50749,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3333492"
-  },
-  {
-    "post": "Financial_Express/3333491",
-    "datetime": "2026-07-20T13:03:57+00:00",
-    "views": "93",
-    "text": "上海发布暴雨、雷电、大风预警，启动中心城区防汛防台Ⅲ级响应\n上海市气象台 2026 年 07 月 20 日 20 时 14 分更新中心城区暴雨蓝色预警信号为暴雨黄色预警信号：预计今天半夜以前，中心城区大部将出现一小时雨量 60 毫米以上的短时强降水天气，暴雨蓝色预警信号更新为暴雨黄色预警信号，请加强防范强降雨可能引发的城市积涝。（澎湃）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333491"
-  },
-  {
-    "post": "Financial_Express/3333490",
-    "datetime": "2026-07-20T13:03:38+00:00",
-    "views": "165",
-    "text": "据 The Information：谷歌(GOOG.O)正在开发“Frozen V2”芯片，以更高效地服务其 Gemini 人工智能模型。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333490"
-  },
-  {
-    "post": "Financial_Express/3333488",
-    "datetime": "2026-07-20T13:03:18+00:00",
-    "views": "61",
-    "text": "AMD(AMD.O)：Azure HDV2 和 HXV2 虚拟机系列将采用第六代 AMD EPYC“Venice”处理器。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333488"
-  },
-  {
-    "post": "Financial_Express/3333489",
-    "datetime": "2026-07-20T13:03:18+00:00",
-    "views": "63",
-    "text": "谷歌新款\"Frozen\"芯片预计能效将比谷歌 TPU 高出 6 至 10 倍。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333489"
-  },
-  {
-    "post": "Financial_Express/3333487",
-    "datetime": "2026-07-20T13:03:00+00:00",
-    "views": "59",
-    "text": "谷歌正在开发“Frozen V2”芯片，以更高效地服务其 Gemini AI 模型。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333487"
-  },
-  {
-    "post": "Financial_Express/3333486",
-    "datetime": "2026-07-20T13:02:59+00:00",
-    "views": "60",
-    "text": "伊朗高级官员称调解方提议伊美停火 10 天\n金十数据 7 月 20 日讯，据外媒 20 日援引一名伊朗高级官员的话报道，伊美谈判调解方已向伊方提出旨在缓和目前局势的提议，该提议建议实施为期 10 天的停火，以寻求恢复执行伊美上个月达成的谅解备忘录。伊朗外交部发言人巴加埃当天在新闻发布会上说，伊方已收到美国和伊朗谈判调解方提出的建议，具体细节暂不便透露。他同时表示，伊朗内政部长当天将访问巴基斯坦，就两国相关事务进行磋商。\n👏1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333486"
-  },
-  {
-    "post": "Financial_Express/3333484",
-    "datetime": "2026-07-20T13:02:38+00:00",
-    "views": "62",
-    "text": "AMD(AMD.O)：微软(MSFT.O)Azure 将新增两款基于第六代 AMD EPYC“Venice”处理器的虚拟机。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333484"
-  },
-  {
-    "post": "Financial_Express/3333485",
-    "datetime": "2026-07-20T13:02:38+00:00",
-    "views": "62",
-    "text": "AMD 股价盘前涨幅延续至超过 5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333485"
   }
 ]
