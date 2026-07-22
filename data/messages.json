@@ -1,8 +1,116 @@
 [
   {
+    "post": "Financial_Express/3339838",
+    "datetime": "2026-07-22T20:09:59+00:00",
+    "views": "5",
+    "text": "特斯拉：在已获批全自动驾驶（FSD）的市场，消费者对我们旗下车型的需求显著上升。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339838"
+  },
+  {
+    "post": "Financial_Express/3339836",
+    "datetime": "2026-07-22T20:09:58+00:00",
+    "views": "5",
+    "text": "IBM(IBM.N)2026 年 Q2EPS 2.27 美元，去年同期 2.31 美元，市场预期 2.44 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339836"
+  },
+  {
+    "post": "Financial_Express/3339837",
+    "datetime": "2026-07-22T20:09:58+00:00",
+    "views": "5",
+    "text": "特斯拉(TSLA.O)：我们的能源储存业务恢复增长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339837"
+  },
+  {
+    "post": "Financial_Express/3339835",
+    "datetime": "2026-07-22T20:09:57+00:00",
+    "views": "5",
+    "text": "特斯拉(TSLA.O)：Cyber​​Cab 已在得克萨斯州超级工厂开始生产，特斯拉 Semi 卡车也将继续按计划于今年在内华达州新工厂投产。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339835"
+  },
+  {
+    "post": "Financial_Express/3339834",
+    "datetime": "2026-07-22T20:09:39+00:00",
+    "views": "5",
+    "text": "西南航空：基于 7 月 17 日远期油价曲线测算，预计第三季度每加仑燃油成本区间为 3.70 至 3.75 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339834"
+  },
+  {
+    "post": "Financial_Express/3339833",
+    "datetime": "2026-07-22T20:09:38+00:00",
+    "views": "5",
+    "text": "特斯拉(TSLA.O)美股盘后跌 2.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339833"
+  },
+  {
+    "post": "Financial_Express/3339832",
+    "datetime": "2026-07-22T20:09:37+00:00",
+    "views": "5",
+    "text": "IBM(IBM.N)2026 年 Q2 净利润 21.7 亿美元，去年同期 21.94 亿美元，市场预期 23.81 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339832"
+  },
+  {
+    "post": "Financial_Express/3339831",
+    "datetime": "2026-07-22T20:09:18+00:00",
+    "views": "6",
+    "text": "特斯拉：我们的储能业务重回增长轨道。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339831"
+  },
+  {
+    "post": "Financial_Express/3339830",
+    "datetime": "2026-07-22T20:09:17+00:00",
+    "views": "6",
+    "text": "Alphabet(GOOG.O)：Gemini 模型现在每分钟可处理 220 亿个 API 词元（TOKENS）。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339830"
+  },
+  {
+    "post": "Financial_Express/3339829",
+    "datetime": "2026-07-22T20:08:58+00:00",
+    "views": "7",
+    "text": "IBM(IBM.N)2026 年 Q2 营收 172 亿美元，去年同期 169.8 亿美元，市场预期 177.7 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339829"
+  },
+  {
+    "post": "Financial_Express/3339828",
+    "datetime": "2026-07-22T20:08:57+00:00",
+    "views": "7",
+    "text": "特斯拉(TSLA.O)2026 年 Q2 净利润 11.1 亿美元，去年同期 11.72 亿美元，市场预期 11.17 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339828"
+  },
+  {
+    "post": "Financial_Express/3339827",
+    "datetime": "2026-07-22T20:08:37+00:00",
+    "views": "8",
+    "text": "IBM 第二季度营收 171.6 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3339827"
+  },
+  {
     "post": "Financial_Express/3339826",
     "datetime": "2026-07-22T20:08:24+00:00",
-    "views": "1",
+    "views": "38",
     "text": "Alphabet： Gemini 模型当前每分钟可处理 220 亿 API 令牌。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +119,7 @@
   {
     "post": "Financial_Express/3339825",
     "datetime": "2026-07-22T20:07:57+00:00",
-    "views": "4",
+    "views": "39",
     "text": "Alphabet(GOOG.O)：Gemini APP 月活用户数（Maus）达到 9.5 亿。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +128,7 @@
   {
     "post": "Financial_Express/3339824",
     "datetime": "2026-07-22T20:06:20+00:00",
-    "views": "6",
+    "views": "39",
     "text": "特斯拉：Cybercab 已于德州超级工厂投产；特斯拉半挂卡车仍按计划于今年在内华达州新工厂投产。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +137,7 @@
   {
     "post": "Financial_Express/3339822",
     "datetime": "2026-07-22T20:06:19+00:00",
-    "views": "6",
+    "views": "39",
     "text": "金十图示：2026 年 07 月 22 日（周三）全球股市指数-美洲市场（收盘）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +146,7 @@
   {
     "post": "Financial_Express/3339823",
     "datetime": "2026-07-22T20:06:19+00:00",
-    "views": "6",
+    "views": "39",
     "text": "特斯拉(TSLA.O)2026 年 Q2 营收 282 亿美元，去年同期 224.96 亿美元，市场预期 257.06 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +155,7 @@
   {
     "post": "Financial_Express/3339821",
     "datetime": "2026-07-22T20:06:18+00:00",
-    "views": "6",
+    "views": "39",
     "text": "金十图示：2026 年 07 月 22 日（周三）美股热门股票行情一览（美股收盘）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +164,7 @@
   {
     "post": "Financial_Express/3339820",
     "datetime": "2026-07-22T20:05:57+00:00",
-    "views": "36",
+    "views": "39",
     "text": "金十图示：2026 年 07 月 22 日（周三）热门中概股行情一览（美股收盘）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +173,7 @@
   {
     "post": "Financial_Express/3339819",
     "datetime": "2026-07-22T20:05:37+00:00",
-    "views": "38",
+    "views": "39",
     "text": "特斯拉(TSLA.O)2026 年 Q2 毛利率为 16.8%，市场预期 19.33%。",
     "media_only": false,
     "image_url": null,
@@ -52369,41 +52477,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3333991"
-  },
-  {
-    "post": "Financial_Express/3333990",
-    "datetime": "2026-07-20T20:09:57+00:00",
-    "views": "137",
-    "text": "沙特外交部表示，将持续向也门民众以及也门 “合法政府” 提供支持。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333990"
-  },
-  {
-    "post": "Financial_Express/3333989",
-    "datetime": "2026-07-20T20:09:38+00:00",
-    "views": "139",
-    "text": "沙特外交部谴责胡塞武装发表声明，指控沙特王国对也门民众实施 “围困”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333989"
-  },
-  {
-    "post": "Financial_Express/3333988",
-    "datetime": "2026-07-20T20:09:37+00:00",
-    "views": "133",
-    "text": "SpaceX(SPCX.O)将于当地时间 8 月 4 日公布 2026 年第二季度业绩并举行网络直播会议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333988"
-  },
-  {
-    "post": "Financial_Express/3333987",
-    "datetime": "2026-07-20T20:08:57+00:00",
-    "views": "132",
-    "text": "沙特外交部谴责也门胡塞武装宣布对其实施海上封锁。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3333987"
   }
 ]
