@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3343109",
+    "datetime": "2026-07-23T21:07:57+00:00",
+    "views": "3",
+    "text": "美国高级官员：针对产能过剩问题的“301 条款”调查仍在进行中，但需要大量研究和分析工作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3343109"
+  },
+  {
+    "post": "Financial_Express/3343108",
+    "datetime": "2026-07-23T21:07:37+00:00",
+    "views": "7",
+    "text": "英特尔 CEO 陈立武：芯片短缺问题在可预见的未来仍将持续。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3343108"
+  },
+  {
+    "post": "Financial_Express/3343107",
+    "datetime": "2026-07-23T21:07:18+00:00",
+    "views": "10",
+    "text": "美国官员：特朗普将动用关税等现有政策工具，以达成预期政策目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3343107"
+  },
+  {
+    "post": "Financial_Express/3343106",
+    "datetime": "2026-07-23T21:07:17+00:00",
+    "views": "10",
+    "text": "美国高级官员：这些关税措施并不是简单复制此前被美国最高法院推翻的《国际紧急经济权力法》关税。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3343106"
+  },
+  {
+    "post": "Financial_Express/3343105",
+    "datetime": "2026-07-23T21:06:37+00:00",
+    "views": "13",
+    "text": "美国官员：关税措施将针对 60 个经济体，这些国家约占美国贸易的 99%。新的关税将在美东时间 7 月 28 日 00:01（北京时间 7 月 28 日中午 12:01）生效。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3343105"
+  },
+  {
     "post": "Financial_Express/3343104",
     "datetime": "2026-07-23T21:05:37+00:00",
-    "views": "6",
+    "views": "15",
     "text": "美国官员：鉴于北美供应链一体化属性、商品美国本土成分占比高，符合《美墨加协定》标准的商品可获关税豁免。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3343103",
     "datetime": "2026-07-23T21:04:57+00:00",
-    "views": "10",
+    "views": "18",
     "text": "周四（7 月 23 日）纽约尾盘（周五北京时间 04:59），离岸人民币（CNH）兑美元报 6.7775 元，较周三纽约尾盘跌 24 点，日内整体交投于 6.7676-6.7786 元区间。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3343102",
     "datetime": "2026-07-23T21:03:57+00:00",
-    "views": "12",
+    "views": "19",
     "text": "美国国防部宣布与甲骨文达成价值近 70 亿美元的软件合作协议。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3343101",
     "datetime": "2026-07-23T21:00:38+00:00",
-    "views": "18",
+    "views": "24",
     "text": "新加坡政府投资公司（GIC）计划三年内向对冲基金投资 300 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3343100",
     "datetime": "2026-07-23T21:00:37+00:00",
-    "views": "18",
+    "views": "24",
     "text": "美国高级官员：美国对多个国家设定 10%-12.5%的关税。美国豁免石油、天然气、化肥和食品等产品的关税。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3343099",
     "datetime": "2026-07-23T20:59:57+00:00",
-    "views": "18",
+    "views": "24",
     "text": "伊朗迈赫尔通讯社：胡塞武装官员称，沙特必须作出赔偿，以弥补也门封锁造成的各类后果。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3343098",
     "datetime": "2026-07-23T20:59:17+00:00",
-    "views": "21",
+    "views": "26",
     "text": "美国豁免石油、天然气、化肥及食品类商品的劳工关税。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3343097",
     "datetime": "2026-07-23T20:58:17+00:00",
-    "views": "23",
+    "views": "58",
     "text": "美国强制劳工关税正式生效，此前 10% 全球关税政策到期。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3343096",
     "datetime": "2026-07-23T20:57:57+00:00",
-    "views": "23",
+    "views": "59",
     "text": "美国对多个国家加征 10%-12.5%的关税。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3343095",
     "datetime": "2026-07-23T20:57:38+00:00",
-    "views": "53",
+    "views": "58",
     "text": "派拉蒙拟申请于 8 月举行为期三天的听证会，为本次收购交易进行抗辩。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3343094",
     "datetime": "2026-07-23T20:57:37+00:00",
-    "views": "53",
+    "views": "58",
     "text": "据华尔街日报：消息人士称，交易可能很快达成。OpenRouter 此前估值约 13 亿美元，但若出售，交易价值可能达到约 100 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3343093",
     "datetime": "2026-07-23T20:56:37+00:00",
-    "views": "54",
+    "views": "57",
     "text": "据华尔街日报：消息人士称，Stripe 正在洽谈收购人工智能模型聚合平台 OpenRouter。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3343092",
     "datetime": "2026-07-23T20:55:37+00:00",
-    "views": "54",
+    "views": "57",
     "text": "Stripe 正洽谈收购 OpenRouter。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3343091",
     "datetime": "2026-07-23T20:54:38+00:00",
-    "views": "54",
+    "views": "56",
     "text": "法院裁定，法官将派拉蒙收购华纳兄弟的交易暂缓执行，延期 14 天至 8 月 17 日。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3343090",
     "datetime": "2026-07-23T20:47:37+00:00",
-    "views": "74",
+    "views": "76",
     "text": "巴西全力挽救对欧盟 18 亿美元的肉类出口\n巴西正紧急采取行动，以避免其动物产品对欧盟的出口遭到禁令。作为全球最大的牛肉和家禽出口国，其超过 18 亿美元的贸易额正面临风险。一位了解谈判情况的巴西高级外交官表示，该国正在 9 月 3 日的最后期限前，与欧盟交换信息并提供额外保证，以证明其符合欧盟关于在畜牧业中使用抗菌药物的标准。在 5 月份公布的一份授权出口国名单中，巴西未能上榜。",
     "media_only": false,
     "image_url": null,
@@ -54331,14 +54376,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3337004"
-  },
-  {
-    "post": "Financial_Express/3337003",
-    "datetime": "2026-07-21T21:06:37+00:00",
-    "views": "107",
-    "text": "美国防长赫格塞思：这场战争并非由我们挑起。伊朗早在 47 年前就开启了这场对抗。不是我们开的头，是他们。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3337003"
   }
 ]
