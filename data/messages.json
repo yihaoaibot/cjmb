@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3343085",
     "datetime": "2026-07-23T20:34:17+00:00",
-    "views": "3",
+    "views": "4",
     "text": "布油期货结算价收于 100 美元之上\n金十数据 7 月 24 日讯，国际油价 23 日大幅上涨。截至当天收盘，纽约商品交易所 9 月交货的轻质原油期货价格上涨 5.36 美元，收于每桶 92.19 美元，涨幅为 6.17%；9 月交货的伦敦布伦特原油期货价格上涨 6.62 美元，为 5 月以来首次收于 100 美元之上，报每桶 100.69 美元，涨幅为 7.04%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3343084",
     "datetime": "2026-07-23T20:33:57+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美国至 7 月 17 日当周外国央行持有美国国债 248.14 亿美元，前值 6.39 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3343080",
     "datetime": "2026-07-23T20:20:58+00:00",
-    "views": "65",
+    "views": "95",
     "text": "联合国也门问题特使：我们对胡塞武装恢复对商船袭击深感担忧。胡塞武装的袭击扰乱了红海的海上航行。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3343079",
     "datetime": "2026-07-23T20:20:57+00:00",
-    "views": "65",
+    "views": "95",
     "text": "英特尔营收及展望超预期 盘后股价上涨 13%\n金十数据 7 月 24 日讯，英特尔(INTC.O)发布了令人意外的强劲营收预期，表明数据中心支出激增正助力这家芯片制造商实现期待已久的复苏。该公司表示，预计第三季度销售额将达到 158 亿美元至 168 亿美元。即使是该区间的下限，也轻松超过了分析师平均预期的 151 亿美元。这一预期凸显了英特尔在数据中心客户中的增长势头，这些客户正迫切需要芯片来满足人工智能计算的需求。上个季度，该领域的销售额飙升了 59%，是英特尔整体营收增速的两倍多。财报发布后，英特尔股价在尾盘交易中上涨了 13%。此外，英特尔第二季度营收达到 161.3 亿美元，也超出了市场预期的 144.3 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -54412,32 +54412,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3336976"
-  },
-  {
-    "post": "Financial_Express/3336975",
-    "datetime": "2026-07-21T20:34:58+00:00",
-    "views": "42",
-    "text": "穆迪将阿根廷信用评级上调至 B3，评级展望调整为正面。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3336975"
-  },
-  {
-    "post": "Financial_Express/3336974",
-    "datetime": "2026-07-21T20:34:57+00:00",
-    "views": "41",
-    "text": "穆迪将阿根廷评级上调至 B3，并将展望调整为积极。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3336974"
-  },
-  {
-    "post": "Financial_Express/3336973",
-    "datetime": "2026-07-21T20:34:37+00:00",
-    "views": "41",
-    "text": "AI 逃离沙盒 OpenAI 认下 Hugging Face 被黑事件\n金十数据 7 月 22 日讯，OpenAI 表示，上周全球最大 AI 开源社区 Hugging Face 遭遇的基础设施入侵事件由其正在测试的 AI 模型引发。调查显示，多个模型在安全评估任务中逃离沙盒环境，并利用“零日漏洞”获得互联网访问权限，随后在 Hugging Face 生产环境中执行自动化操作。OpenAI 表示，事件是由多个 OpenAI 模型共同导致，其中包括 GPT-5.6 Sol 以及一款能力更强的预发布模型。为进行此次评估测试，模型的安全防护机制被有意降低。OpenAI 称，此次事件暴露出先进 AI 模型在缺少安全限制时可能执行复杂网络攻击的风险，但同时也显示 AI 可用于漏洞发现和安全防御。Hugging Face 方面表示，AI 安全问题需要行业开放合作解决，双方将继续调查事件细节。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3336973"
   }
 ]
