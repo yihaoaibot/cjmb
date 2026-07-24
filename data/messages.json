@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3345622",
+    "datetime": "2026-07-24T15:16:18+00:00",
+    "views": "2",
+    "text": "WTI 原油日内跌 4%，现报 88.49 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3345622"
+  },
+  {
+    "post": "Financial_Express/3345621",
+    "datetime": "2026-07-24T15:16:17+00:00",
+    "views": "2",
+    "text": "美国总统特朗普：俄罗斯总统普京表示他不会向伊朗出售武器。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3345621"
+  },
+  {
+    "post": "Financial_Express/3345619",
+    "datetime": "2026-07-24T15:15:58+00:00",
+    "views": "15",
+    "text": "布伦特原油失守 91 美元/桶，日内跌 3.48%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3345619"
+  },
+  {
+    "post": "Financial_Express/3345620",
+    "datetime": "2026-07-24T15:15:58+00:00",
+    "views": "15",
+    "text": "特朗普：普京表示不会向伊朗出售武器。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3345620"
+  },
+  {
+    "post": "Financial_Express/3345617",
+    "datetime": "2026-07-24T15:15:38+00:00",
+    "views": "27",
+    "text": "特斯拉 CEO 埃隆·马斯克：支持美国科技公司关于开放 AI 模型的公开信。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3345617"
+  },
+  {
+    "post": "Financial_Express/3345618",
+    "datetime": "2026-07-24T15:15:38+00:00",
+    "views": "27",
+    "text": "马斯克：支持美国科技企业就开源模型发布的联名公开信。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3345618"
+  },
+  {
+    "post": "Financial_Express/3345616",
+    "datetime": "2026-07-24T15:15:18+00:00",
+    "views": "40",
+    "text": "纽约期金突破 4080 美元/盎司，日内涨 0.76%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3345616"
+  },
+  {
+    "post": "Financial_Express/3345615",
+    "datetime": "2026-07-24T15:15:17+00:00",
+    "views": "40",
+    "text": "纽约期银日内涨 2%，现报 59.23 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3345615"
+  },
+  {
+    "post": "Financial_Express/3345614",
+    "datetime": "2026-07-24T15:14:57+00:00",
+    "views": "47",
+    "text": "现货白银日内涨 2%，现报 58.81 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3345614"
+  },
+  {
+    "post": "Financial_Express/3345613",
+    "datetime": "2026-07-24T15:14:38+00:00",
+    "views": "50",
+    "text": "巴西央行行长： 我们将持续监测各项经济数据，坚定认为当前经济形势仍需维持紧缩利率水平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3345613"
+  },
+  {
     "post": "Financial_Express/3345612",
     "datetime": "2026-07-24T15:13:57+00:00",
-    "views": "19",
+    "views": "60",
     "text": "美、布两油短线走低约 1 美元，现分别报 89.77 美元/桶和 91.93 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3345611",
     "datetime": "2026-07-24T15:13:17+00:00",
-    "views": "35",
+    "views": "74",
     "text": "巴基斯坦与伊朗正探寻同美国重启新一轮谈判的可行路径。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3345610",
     "datetime": "2026-07-24T15:12:17+00:00",
-    "views": "52",
+    "views": "85",
     "text": "巴西央行行长： 尽管已实施紧缩利率政策，但市场通胀预期脱锚风险仍令我们愈发担忧。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3345609",
     "datetime": "2026-07-24T15:11:38+00:00",
-    "views": "63",
+    "views": "93",
     "text": "巴西央行行长：许多研究将探讨厄尔尼诺对 CPI 的影响。我们每天都在监测布伦特原油的表现。巴西劳动力市场和经济活动保持韧性。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3345608",
     "datetime": "2026-07-24T15:11:37+00:00",
-    "views": "63",
+    "views": "94",
     "text": "白银连续主力合约日内涨 2%，现报 14411.00 元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3345606",
     "datetime": "2026-07-24T15:11:18+00:00",
-    "views": "70",
+    "views": "96",
     "text": "纽约期银突破 59 美元/盎司，日内涨 1.69%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3345607",
     "datetime": "2026-07-24T15:11:18+00:00",
-    "views": "70",
+    "views": "99",
     "text": "现货黄金突破 4070 美元/盎司，日内涨 0.58%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3345605",
     "datetime": "2026-07-24T15:10:17+00:00",
-    "views": "71",
+    "views": "93",
     "text": "巴西央行行长：我们每天都在监测布伦特原油的表现。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3345604",
     "datetime": "2026-07-24T15:09:18+00:00",
-    "views": "61",
+    "views": "83",
     "text": "标普 500 成分股盈利超预期比例高于去年同期\n在披露 2026 年二季度财报季的过程中，越来越多的美国公司交出了超出预期的盈利答卷，其中消费必需品和医疗保健板块是最大的赢家。根据彭博汇编的数据，在已经公布第三季度业绩的 120 家标普 500 成分股中，有 88%的公司每股收益（EPS）超出了分析师的预期，而去年同期整个财报季这一比例为 87%。相比之下，盈利不及预期的公司占比约为 12%，去年同期为 13%。 在营收方面，20%的公司未能达到预期，而 80%的公司实现了超预期增长。去年同期的这两项数据分别为 30%和 70%。尽管如此，自本轮财报季开始以来，蓝筹股标杆的标普 500 指数仍下跌了 0.9%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3345603",
     "datetime": "2026-07-24T15:05:19+00:00",
-    "views": "120",
+    "views": "133",
     "text": "广东水利防汛防台风应急响应提升至Ⅲ级\n鉴于今年第 12 号台风“红霞”强度进一步增强，并预测正面登陆广东省，根据《广东省水利厅水旱灾害防御工作规则》，广东省水利厅水旱灾害防御领导小组定于 2026 年 7 月 24 日 20 时将水利防汛防台风Ⅳ级应急响应提升至Ⅲ级。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -54646,50 +54736,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3339469"
-  },
-  {
-    "post": "Financial_Express/3339468",
-    "datetime": "2026-07-22T15:16:17+00:00",
-    "views": "352",
-    "text": "英伟达股价上涨 2.9%，创盘中新高。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3339468"
-  },
-  {
-    "post": "Financial_Express/3339467",
-    "datetime": "2026-07-22T15:15:38+00:00",
-    "views": "350",
-    "text": "美国 2 至 5 年期国债收益率升至 2026 年高点 市场情绪恶化\n美国 2 年期和 5 年期国债收益率周三均上升逾 4 个基点，升至一年多来的最高水平，且并无明显诱因，显示市场情绪恶化可能是背后推手。2 年期美债收益率升逾 4.30%，3 年期升至 4.34%，5 年期升至 4.40%，均为 2025 年 2 月以来首次；10 年期美债收益率升逾 4.65%，距离其 5 月 19 日创下的年内高点仅差 2 个基点。市场对美联储加息的隐含预期继续升温，7 月隔夜指数互换合约已消化约 8 个基点的收紧幅度，意味着一次 25 个基点加息的可能性约三分之一；2027 年合约显示，到年中，加息两次的可能性已达 100%，而且还有些许第三次加息的可能性。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3339467"
-  },
-  {
-    "post": "Financial_Express/3339466",
-    "datetime": "2026-07-22T15:15:37+00:00",
-    "views": "171",
-    "text": "美国贸易代表格里尔：与印尼合作推进关键矿产承诺。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3339466"
-  },
-  {
-    "post": "Financial_Express/3339464",
-    "datetime": "2026-07-22T15:14:39+00:00",
-    "views": "170",
-    "text": "分析师：金价扩大涨幅，受美元走软和技术性买盘提振\n金十数据 7 月 22 日讯，随着投资者密切关注中东局势的发展，受美元走软和技术性买盘提振，金价扩大涨幅。“我们预计短期内市场将继续受新闻头条驱动，”苏克敦金融的分析师表示。“任何可信的局势降温都会缓解收益率和美元的压力，但只要油价保持高位，尽管近期公布的 CPI 数据较为疲软，市场仍可能在利率中计入通胀溢价。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3339464"
-  },
-  {
-    "post": "Financial_Express/3339465",
-    "datetime": "2026-07-22T15:14:39+00:00",
-    "views": "171",
-    "text": "印度与巴拿马举行双边会谈，磋商海上伙伴关系相关事宜。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3339465"
   }
 ]
