@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3350005",
     "datetime": "2026-07-27T20:18:17+00:00",
-    "views": "5",
+    "views": "9",
     "text": "AISI：美国钢铁公司截至 7 月 25 日当周产能利用率为 80.5%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3350004",
     "datetime": "2026-07-27T20:17:17+00:00",
-    "views": "13",
+    "views": "45",
     "text": "特朗普称美国在对伊事务上取得重大优势，同时将全力阻止伊朗拥有核武器。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3350003",
     "datetime": "2026-07-27T20:16:37+00:00",
-    "views": "46",
+    "views": "48",
     "text": "也门候任外长表示，胡塞武装正效仿伊朗管控霍尔木兹海峡航运的模式，企图在曼德海峡掌控国际海上运输通道。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3350002",
     "datetime": "2026-07-27T20:16:18+00:00",
-    "views": "47",
+    "views": "49",
     "text": "特朗普政府即将敲定自愿性人工智能监管框架。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3350001",
     "datetime": "2026-07-27T20:16:17+00:00",
-    "views": "47",
+    "views": "49",
     "text": "据 The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3350000",
     "datetime": "2026-07-27T20:15:37+00:00",
-    "views": "50",
+    "views": "52",
     "text": "芯片股集体遭抛售，SK 海力士跌破 IPO 发行价\nSK 海力士美国存托凭证（ADR）首次跌破 IPO 发行价，芯片板块遭遇集体抛售，该股上市以来亏损进一步扩大。虽然市场普遍看好 AI 发展前景，但投资者仍在抛售前期大涨的半导体个股，该股当前较 149 美元发行价下挫 4%。即便英伟达与 SK 海力士公布计划，将在韩国建设总装机容量超 2 吉瓦的 AI 数据中心，股价依旧走低。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3349996",
     "datetime": "2026-07-27T20:11:37+00:00",
-    "views": "60",
+    "views": "90",
     "text": "也门候任外长：胡塞武装正效仿伊朗模式掌控国际航运。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3349991",
     "datetime": "2026-07-27T20:09:58+00:00",
-    "views": "64",
+    "views": "94",
     "text": "路透社与益普索联合民调显示：仅 33%的美国人认可美国对伊朗开战，这是该冲突爆发初期以来的最低支持率。",
     "media_only": false,
     "image_url": null,
@@ -30085,14 +30085,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3346645"
-  },
-  {
-    "post": "Financial_Express/3346644",
-    "datetime": "2026-07-25T20:19:37+00:00",
-    "views": "113",
-    "text": "伊朗革命卫队指责美国宣布另一条途经霍尔木兹海峡的航运通道，此举违反相关谅解备忘录。其表示，该谅解备忘录明确规定，航运通行须遵循伊朗公布的相关安排。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3346644"
   }
 ]
