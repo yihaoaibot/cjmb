@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3347665",
+    "datetime": "2026-07-27T01:24:57+00:00",
+    "views": "1",
+    "text": "长鑫科技上市首日 多家公募提示 ETF 参考净值偏差风险\n长鑫科技今日登陆科创板，多家公募提示投资者关注 ETF 参考净值与实际净值存在差异的风险。以华夏基金为例，该机构公告称，旗下部分 ETF 参与了长鑫科技本次发行的网上/网下申购，并在长鑫科技上市前以发行价 (8.66 元/股)对该股票进行估值。根据《上海证券交易所交易规则》(2026 年修订)，首次公开发行上市的股票上市后的前 5 个交易日不实行价格涨跌幅限制，股价存在大幅波动风险，而长鑫科技上市首日 ETF 的基金份额参考净值(IOPV)中仅包含了长鑫科技的发行 价格，未包含该股票的市场价格波动，因此长鑫科技上市首日 ETF 的 IOPV 可能与其该日的基金份额净值存在一定差异，敬请投资者关注相应的投资风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3347665"
+  },
+  {
+    "post": "Financial_Express/3347664",
+    "datetime": "2026-07-27T01:24:37+00:00",
+    "views": "1",
+    "text": "三孚新科等成立电子材料制造新公司\n企查查 APP 显示，近日，广州德胜祥电子材料制造有限公司成立，经营范围包含：高性能有色金属及合金材料销售；电子专用材料制造；电子专用材料销售；电子专用材料研发等。企查查股权穿透显示，该公司由三孚新科等共同持股。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3347664"
+  },
+  {
+    "post": "Financial_Express/3347663",
+    "datetime": "2026-07-27T01:24:17+00:00",
+    "views": "2",
+    "text": "通富微电新设微电子公司，注册资本 10 亿元\n企查查 APP 显示，近日，通富微电（深圳）微电子有限公司成立，注册资本 10 亿元，经营范围包含：集成电路设计；集成电路制造；集成电路销售；半导体器件专用设备销售；半导体器件专用设备制造等。企查查股权穿透显示，该公司由通富微电全资持股。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3347663"
+  },
+  {
+    "post": "Financial_Express/3347662",
+    "datetime": "2026-07-27T01:23:38+00:00",
+    "views": "32",
+    "text": "中国央行逆回购操作当日实现净回笼 4730 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3347662"
+  },
+  {
+    "post": "Financial_Express/3347661",
+    "datetime": "2026-07-27T01:23:37+00:00",
+    "views": "32",
+    "text": "酒鬼酒：公司不涉及跨界半导体业务\n酒鬼酒 7 月 27 日在互动平台表示，公司不涉及跨界半导体业务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3347661"
+  },
+  {
     "post": "Financial_Express/3347660",
     "datetime": "2026-07-27T01:22:37+00:00",
-    "views": "2",
+    "views": "33",
     "text": "美国 ITC 发布对隧穿氧化层钝化接触（TOPCon）太阳能电池、组件、面板及其组件和下游产品的 337\n近日，美国国际贸易委员会（ITC）发布公告称，对特定隧穿氧化层钝化接触（TOPCon）太阳能电池、组件、面板及其组件和下游产品作出 337 部分终裁：对本案行政法官于 2026 年 6 月 24 日作出的初裁（No.17）不予复审，即基于申请方撤回，终止本案对列名被告美国 Philadelphia Solar USA Inc. of San Mateo, CA、中国江苏 Changzhou Trina Solar Energy Co., Ltd. of China 天合光能（常州）科技有限公司的调查。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3347655",
     "datetime": "2026-07-27T01:21:18+00:00",
-    "views": "35",
+    "views": "65",
     "text": "港股开盘，恒指开涨 0.12%，科指开涨 0.38%；携程集团(09961.HK)涨 3.7%，宁德时代(03750.HK)涨近 3%，紫金矿业(02899.HK)、老铺黄金(06181.HK)涨超 2%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3347656",
     "datetime": "2026-07-27T01:21:18+00:00",
-    "views": "35",
+    "views": "65",
     "text": "苹果称 App Store、Apple TV、Apple Music 服务中断问题已修复。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3347653",
     "datetime": "2026-07-27T01:19:58+00:00",
-    "views": "35",
+    "views": "65",
     "text": "英伟达用 Vera 处理器加速下一代 CPU 和 GPU 设计\n英伟达发文称，随着工程团队致力于开发越来越复杂的 CPU、GPU 和人工智能系统，现代芯片设计的复杂性也在不断增加。为应对这一挑战，英伟达正部署 Vera 应用于其下一代 CPU 和 GPU 开发的 EDA 工作流程。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3347652",
     "datetime": "2026-07-27T01:19:37+00:00",
-    "views": "35",
+    "views": "65",
     "text": "韩国综指跌幅扩大至 1%\n韩国综指跌幅扩大至 1%，现报 6627.23 点。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3347651",
     "datetime": "2026-07-27T01:19:17+00:00",
-    "views": "36",
+    "views": "66",
     "text": "天桥起重与兰州理工大学签署战略合作协议\n据天桥起重消息，7 月 22 日，兰州理工大学副校长陈伟一行到天桥起重，双方开展座谈并签署战略合作协议。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3347646",
     "datetime": "2026-07-27T01:15:57+00:00",
-    "views": "68",
+    "views": "98",
     "text": "人民币兑美元中间价报 6.7911，较上日调高 28 点\n人民币兑美元中间价报 6.7911，较上日调高 28 点。",
     "media_only": false,
     "image_url": null,
