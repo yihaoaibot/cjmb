@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3352860",
+    "datetime": "2026-07-28T21:47:37+00:00",
+    "views": "4",
+    "text": "高盛仍看多日本 AI 板块：暴跌后反成买入良机\n对冲基金对日本的总持仓和净持仓占比均处于五年区间的 98%以上，为历史极高水平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3352860"
+  },
+  {
     "post": "Financial_Express/3352859",
     "datetime": "2026-07-28T21:37:17+00:00",
-    "views": "72",
+    "views": "74",
     "text": "消息人士：OpenAI 失控智能体攻破第二家科技企业账户\nModal Labs 高管与知情人士透露，这枚从 OpenAI 外泄、连续数日对人工智能公司 Hugging Face 发起大规模入侵的失控智能体，还攻破了第二家科技企业 —— 总部位于纽约的 Modal Labs 的一名客户账户。Hugging Face 于周二发布事件时间线称，该失控智能体首先侵入一套搭建在第三方服务商算力设施上的沙盒隔离测试环境，并以此作为据点，发起大范围网络攻击。官方博文并未公布该第三方服务商名称，但 Modal Labs 首席技术官阿克沙特・布布纳已证实，公司一名客户遭到入侵。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3352858",
     "datetime": "2026-07-28T21:35:17+00:00",
-    "views": "72",
+    "views": "74",
     "text": "OpenAI 越狱代理攻击范围扩大 再曝一公司客户账户遭入侵\n金十数据 7 月 29 日讯，据科技公司 Modal Labs 的一位高管和一位知情人士透露，那个从 OpenAI 逃脱并在人工智能公司 Hugging Face 进行了长达数天的疯狂黑客攻击的“流氓代理”，还入侵了 Modal Labs 的一名客户。根据 Hugging Face 周二公布的时间线，该恶意代理首先入侵了一个“托管在第三方服务商基础设施上”的沙盒（即隔离测试环境），随后将其作为跳板展开了更广泛的攻击。该博客文章中未透露该第三方服务提供商的名称，但 Modal 首席技术官 Akshat Bubna 证实，其一家客户遭到了黑客攻击。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3352857",
     "datetime": "2026-07-28T21:31:37+00:00",
-    "views": "77",
+    "views": "79",
     "text": "美国官员：霍尔木兹海峡通航协调方案不涉及收费\n金十数据 7 月 29 日讯，一名美国官员当地时间周二表示，针对霍尔木兹海峡通航问题，各方正在讨论一项协调方案，内容是不向过往船舶收取通行费或其他费用。该官员称，伊朗在谈判中提出的要求过于苛刻，阿曼、美国及国际社会对此正当拒绝。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3352856",
     "datetime": "2026-07-28T21:30:17+00:00",
-    "views": "77",
+    "views": "79",
     "text": "VISA 首席财务官： 世界杯赛事举办日，主办城市线下刷卡交易增幅最高达 20%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3352855",
     "datetime": "2026-07-28T21:26:57+00:00",
-    "views": "101",
+    "views": "104",
     "text": "VISA 首席财务官：除去疫情后复苏因素，美国支付交易量以自 2019 财年以来最快的速度增长。更高的退税、燃料成本以及促销购物活动的时机推动了美国支付量的增长。世界杯相关支出也推动了美国支付量的增长。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3352854",
     "datetime": "2026-07-28T21:26:37+00:00",
-    "views": "103",
+    "views": "106",
     "text": "Visa(V.N)首席财务官：世界杯相关支出也推动了美国支付量的增长。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3352853",
     "datetime": "2026-07-28T21:25:17+00:00",
-    "views": "105",
+    "views": "107",
     "text": "Visa(V.N)首席财务官：除去疫情后复苏因素，美国支付交易量以自 2019 财年以来最快的速度增长。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3352852",
     "datetime": "2026-07-28T21:24:57+00:00",
-    "views": "77",
+    "views": "108",
     "text": "Visa(V.N)首席财务官：更高的退税、燃料成本以及促销购物活动的时机推动了美国支付量的增长。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3352851",
     "datetime": "2026-07-28T21:17:37+00:00",
-    "views": "108",
+    "views": "109",
     "text": "消息人士：OpenAI 失控 AI 智能体入侵另一家科技企业，非法取用其客户账户信息。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3352850",
     "datetime": "2026-07-28T21:15:57+00:00",
-    "views": "110",
+    "views": "111",
     "text": "富时 A50 期指连续夜盘收涨 0.22%，报 14851 点。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3352849",
     "datetime": "2026-07-28T21:15:37+00:00",
-    "views": "109",
+    "views": "110",
     "text": "VISA 首席执行官： 公司在产品研发、工程技术领域取得进展，正在落地多款人工智能新型工具。公司不再仅依靠人工智能提供辅助，现已在人工监督下运用人工智能独立完成各项工作与任务。 公司正在拆分产品开发团队，将十人以上的大团队重组为仅 2 至 4 人的小型灵活小组。",
     "media_only": false,
     "image_url": null,
@@ -49363,14 +49372,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3347357"
-  },
-  {
-    "post": "Financial_Express/3347356",
-    "datetime": "2026-07-26T21:47:57+00:00",
-    "views": "75",
-    "text": "日元汇率跌至数十年新低，市场押注日本央行将提前加息的情绪持续升温。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3347356"
   }
 ]
