@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3352843",
     "datetime": "2026-07-28T20:50:37+00:00",
-    "views": "2",
+    "views": "3",
     "text": "ENPH（Enphase Energy）首席执行官在财报电话会议上表示：美国住宅太阳能市场已趋于稳定。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3352842",
     "datetime": "2026-07-28T20:46:37+00:00",
-    "views": "5",
+    "views": "6",
     "text": "美国国家飓风中心：热带风暴福斯托持续向西北偏西方向移动并逐步减弱，未来数日夏威夷群岛将出现巨浪。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3352841",
     "datetime": "2026-07-28T20:39:17+00:00",
-    "views": "37",
+    "views": "67",
     "text": "美国至 7 月 24 日当周 API 投产原油量 9.3 万桶/日，前值-9 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3352840",
     "datetime": "2026-07-28T20:38:58+00:00",
-    "views": "40",
+    "views": "70",
     "text": "美国至 7 月 24 日当周 API 成品油进口 29.7 万桶/日，前值 4.3 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3352839",
     "datetime": "2026-07-28T20:38:57+00:00",
-    "views": "40",
+    "views": "70",
     "text": "美国至 7 月 24 日当周 API 原油进口 -39.9 万桶，前值 35.5 万桶。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3352837",
     "datetime": "2026-07-28T20:38:38+00:00",
-    "views": "46",
+    "views": "76",
     "text": "Teradyne（泰瑞达）二季度净营收 13.3 亿美元，分析师预期 12.2 亿美元。二季度调整后每股收益（EPS）为 2.47 美元，分析师预期 2.04 美元。预计三季度营收 12 亿-13 亿美元，分析师预期 10.4 亿美元。预计三季度调整后 EPS 为 1.85-2.15 美元，分析师预期 1.46 美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3352838",
     "datetime": "2026-07-28T20:38:38+00:00",
-    "views": "46",
+    "views": "76",
     "text": "美国官员：目前磋商的协议仅为协同合作协议，不涉及任何通行费与相关收费。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3352833",
     "datetime": "2026-07-28T20:37:57+00:00",
-    "views": "51",
+    "views": "81",
     "text": "美国至 7 月 24 日当周 API 精炼油库存 35.5 万桶，预期 64.8 万桶，前值 175.9 万桶。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3352832",
     "datetime": "2026-07-28T20:37:37+00:00",
-    "views": "55",
+    "views": "85",
     "text": "美国至 7 月 24 日当周 API 汽油库存 91.8 万桶，预期-120.4 万桶，前值-137.9 万桶。",
     "media_only": false,
     "image_url": null,
@@ -49318,14 +49318,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3347346"
-  },
-  {
-    "post": "Financial_Express/3347345",
-    "datetime": "2026-07-26T20:52:17+00:00",
-    "views": "163",
-    "text": "美伊冲突伤亡数据遭质疑，4 名美军阵亡士兵被重新归类\n金十数据 7 月 27 日讯，据美联社报道，近期在美伊冲突中阵亡的四名美军士兵，已从五角大楼官方伊朗战争伤亡名单中移除，转入新的“海外行动”类别。此举引发外界对军方伤亡统计透明度的质疑。美国国防伤亡分析系统（DCAS）上周已将四名阵亡士兵及数十名伤员从伊朗战争统计中剔除。当地时间周日，系统网站新增“海外行动”类别，列出四名阵亡者姓名及 207 名伤员名单，但后者是否全数来自伊朗冲突尚不明确。自战火重燃以来，五角大楼在军事战略和伤亡信息上甚至比冲突初期更加讳莫如深。自 5 月初起，便再未召开相关新闻发布会，中央司令部也已停止向媒体通报伤亡数据。五角大楼官员仍坚称，DCAS 网站就是他们“保持透明”的明证。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3347345"
   }
 ]
