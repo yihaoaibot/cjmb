@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3352376",
+    "datetime": "2026-07-28T14:02:58+00:00",
+    "views": "2",
+    "text": "摩尔线程率先完成 Kimi K3 适配，支持 2.8 万亿参数开源大模型\n今日，月之暗面正式开源 2.8 万亿参数模型 Kimi K3，并发布模型权重与技术报告。同日，摩尔线程基于 AI 训推一体智算卡 MTT S5000 及 MUSA 软件栈，率先完成 Kimi K3 的极速适配与稳定拉起。（摩尔线程）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3352376"
+  },
+  {
+    "post": "Financial_Express/3352375",
+    "datetime": "2026-07-28T14:02:37+00:00",
+    "views": "8",
+    "text": "Paypal：未来几周内，亚马逊德国站及亚马逊应用程序将向客户提供贝宝分期付款服务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3352375"
+  },
+  {
+    "post": "Financial_Express/3352374",
+    "datetime": "2026-07-28T14:02:17+00:00",
+    "views": "11",
+    "text": "Paypal 与亚马逊在德国、奥地利面向消费者推出先买后付服务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3352374"
+  },
+  {
+    "post": "Financial_Express/3352372",
+    "datetime": "2026-07-28T14:01:58+00:00",
+    "views": "41",
+    "text": "中国网络空间安全协会关基专委会召开“大模型与重要行业领域网络安全”技术研讨会\n金十数据 7 月 28 日讯，2026 年 7 月 27 日下午，中国网络空间安全协会关键信息基础设施安全保护专业委员会在京召开“大模型与重要行业领域网络安全”技术研讨会。会议认为，以 Mythos 为代表的前沿大模型显著降低了漏洞发现与利用验证的门槛，加速攻防向自动化、规模化、智能化演进。面对零日漏洞发现提速，传统依赖通报和补丁的防护模式已难应对，需强化未知威胁发现、暴露面管理、纵深防御、行为监测与快速响应，并积极运用 AI 提升漏洞治理效率。同时，应持续跟踪评估 AI 风险，推动技术与一线防护结合，加快构建适应智能化攻防的新型关基安全防护体系。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3352372"
+  },
+  {
+    "post": "Financial_Express/3352373",
+    "datetime": "2026-07-28T14:01:58+00:00",
+    "views": "41",
+    "text": "摩尔线程率先完成 Kimi K3 适配，支持 2.8 万亿参数开源大模型\n金十数据 7 月 28 日讯，今日，月之暗面正式开源 2.8 万亿参数模型 Kimi K3，并发布模型权重与技术报告。同日，摩尔线程基于 AI 训推一体智算卡 MTT S5000 及 MUSA 软件栈，率先完成 Kimi K3 的极速适配与稳定拉起。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3352373"
+  },
+  {
+    "post": "Financial_Express/3352371",
+    "datetime": "2026-07-28T14:01:39+00:00",
+    "views": "41",
+    "text": "Meta 推出网页版 WhatsApp 通话功能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3352371"
+  },
+  {
+    "post": "Financial_Express/3352370",
+    "datetime": "2026-07-28T14:01:38+00:00",
+    "views": "40",
+    "text": "美国参议员及前联邦通信委员会官员反对特朗普政府对迪士尼旗下 ABC 电视台牌照提前启动续期审核。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3352370"
+  },
+  {
+    "post": "Financial_Express/3352368",
+    "datetime": "2026-07-28T14:01:18+00:00",
+    "views": "41",
+    "text": "美国 7 月里奇蒙德联储服务业收入指数 -3，前值由-1 修正为 0。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3352368"
+  },
+  {
+    "post": "Financial_Express/3352369",
+    "datetime": "2026-07-28T14:01:18+00:00",
+    "views": "42",
+    "text": "美国 7 月里奇蒙德联储制造业指数为 5，前值 4。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3352369"
+  },
+  {
     "post": "Financial_Express/3352367",
     "datetime": "2026-07-28T14:01:01+00:00",
-    "views": "5",
+    "views": "44",
     "text": "美国财政部周二（当地时间 7 月 28 日）发行 2 期共 1390 亿美元国债，其中 6 周短债发行 950 亿美元，7 年期债券发行 440 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3352366",
     "datetime": "2026-07-28T14:01:00+00:00",
-    "views": "5",
+    "views": "45",
     "text": "美国 7 月谘商会消费者现况指数 114.9，前值 116.4。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3352365",
     "datetime": "2026-07-28T14:00:59+00:00",
-    "views": "6",
+    "views": "46",
     "text": "美国 7 月谘商会消费者预期指数 74.7，前值 74.4。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3352363",
     "datetime": "2026-07-28T14:00:39+00:00",
-    "views": "7",
+    "views": "45",
     "text": "路透调查：25 名分析师中有 16 名预测，哥伦比亚央行将在 7 月的货币政策会议上将利率上调 50 个基点，至 12.50%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3352364",
     "datetime": "2026-07-28T14:00:39+00:00",
-    "views": "7",
+    "views": "45",
     "text": "路透调查：哥伦比亚 2026 年末利率预期上调至 12.50%，前次调查预期为 12.25%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3352361",
     "datetime": "2026-07-28T14:00:38+00:00",
-    "views": "7",
+    "views": "47",
     "text": "美国 7 月里奇蒙德联储制造业装船指数 8，前值由 3 修正为 4。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3352362",
     "datetime": "2026-07-28T14:00:38+00:00",
-    "views": "7",
+    "views": "46",
     "text": "路透调查：哥伦比亚 2027 年末利率预期上调至 11.25%，前次调查为 10.50%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3352360",
     "datetime": "2026-07-28T14:00:17+00:00",
-    "views": "12",
+    "views": "49",
     "text": "美国 7 月消费者信心指数为 90.8；预期值为 92.4。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3352359",
     "datetime": "2026-07-28T13:59:58+00:00",
-    "views": "16",
+    "views": "83",
     "text": "土耳其总统埃尔多安：为伊拉克总理举行官方欢迎仪式。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3352358",
     "datetime": "2026-07-28T13:58:18+00:00",
-    "views": "85",
+    "views": "90",
     "text": "标普 500 保险板块指数上涨 2.3%，创下历史新高。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3352357",
     "datetime": "2026-07-28T13:57:59+00:00",
-    "views": "87",
+    "views": "91",
     "text": "日本一电视台援引警方消息称，日本熊本永旺购物中心地震后发生爆炸，已造成多人死亡。",
     "media_only": false,
     "image_url": null,
@@ -46438,32 +46519,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3347190"
-  },
-  {
-    "post": "Financial_Express/3347189",
-    "datetime": "2026-07-26T14:02:38+00:00",
-    "views": "248",
-    "text": "四川洪雅玉屏山森林火灾明火已扑灭\n7 月 26 日，四川省眉山市洪雅县柳江镇玉屏山突发森林火灾，四川消防救援机动总队调派 332 名指战员、66 台消防车开展扑救。截至 21 时，明火已扑灭。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3347189"
-  },
-  {
-    "post": "Financial_Express/3347188",
-    "datetime": "2026-07-26T14:02:37+00:00",
-    "views": "253",
-    "text": "伊朗陆军发言人称美国已陷入绝境\n金十数据 7 月 26 日讯，据伊朗方面 26 日消息，伊朗陆军发言人阿克拉米尼亚表示，伊朗现在看不到美国有任何下一步的具体策略，但可以评判的是，美国已经陷入绝境。阿克拉米尼亚说，美国可能的选择之一是退出战争，另一可能的选择是在以方压力下发动大规模空袭，还有一个选择是美国可能发动地面行动。伊朗将观察美国接下来有何举动，并已为各种可能做好准备。他还表示，目前战争涉及的地理范围已经扩展到曼德海峡，伊朗的行动也涵盖了从约旦到波斯湾沿岸各国的美军目标。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3347188"
-  },
-  {
-    "post": "Financial_Express/3347187",
-    "datetime": "2026-07-26T14:01:59+00:00",
-    "views": "224",
-    "text": "光大控股：807 万美元新股发行确定发行价。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3347187"
   }
 ]
