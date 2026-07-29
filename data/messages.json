@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3356111",
+    "datetime": "2026-07-29T23:20:18+00:00",
+    "views": "7",
+    "text": "澳洲联储助理主席 Hunter：第二季度通胀率略低于预期。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3356111"
+  },
+  {
+    "post": "Financial_Express/3356110",
+    "datetime": "2026-07-29T23:20:17+00:00",
+    "views": "7",
+    "text": "国际货币基金组织：尼日尔审查获批后，约 3300 万美元资金将立即拨付。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3356110"
+  },
+  {
     "post": "Financial_Express/3356109",
     "datetime": "2026-07-29T23:18:17+00:00",
-    "views": "9",
+    "views": "15",
     "text": "OpenAI 首席财务官：公司 7 月份的年化收入已经超过了整个第二季度的总和。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3356108",
     "datetime": "2026-07-29T23:17:37+00:00",
-    "views": "11",
+    "views": "47",
     "text": "内塔尼亚胡：预计能源管道将远离霍尔木兹。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3356107",
     "datetime": "2026-07-29T23:17:17+00:00",
-    "views": "13",
+    "views": "49",
     "text": "OpenAI 首席财务官萨拉·弗里尔告诉员工，7 月份的年化收入已经超过了整个第二季度的总和。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3356106",
     "datetime": "2026-07-29T23:16:57+00:00",
-    "views": "15",
+    "views": "50",
     "text": "进口 FPGA 交货周期大幅延长\n据供应链方面消息，全球 FPGA 头部企业如赛灵思（Xilinx）与莱迪思（Lattice）等不仅相继对主力产品涨价 10%—20%或以上，对国内的供应周期亦大幅拉长。其中，进口的 FPGA 芯片产品目前交货周期普遍已升至约 52 周，而此前常规交期仅为 8 到 12 周。资深芯片经销人士告诉证券时报记者：“目前 FPGA 海外各类产品现货急缺，现货价格普遍大幅上涨。例如，进口的某 XC 开头型号的 FPGA 单颗现货从年初 220 元涨到 850 元。进口某 EP 开头型号 FPGA 单颗从 120 元涨价到 1200 元，这是最新数据。这两颗都是欧美市场需求比较热门的型号，现货价格翻了 7—10 倍，国内下游工厂接受了。如果要通过原厂拿货，价格不会这么高，但是无法避免 52 周的交期，进口 FPGA 现在普遍要这个交期，低端的可能还会更长。”他介绍，现在国外 FPGA 大厂把大部分产能放在 AI 数据中心的芯片上，剩下的一些产能优先生产高端 FPGA。最近 3 个月，因为一些进口 FPGA 料号停产和涨价潮，他为国内下游厂家寻找国产替代方案已不下 50 例，手上国产 FPGA 量产案例亦在快速积累。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3356105",
     "datetime": "2026-07-29T23:16:37+00:00",
-    "views": "14",
+    "views": "48",
     "text": "内塔尼亚胡：认为伊朗比以往任何时候都更弱。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3356104",
     "datetime": "2026-07-29T23:14:57+00:00",
-    "views": "53",
+    "views": "57",
     "text": "澳洲联储助理主席 Hunter：必须把通货膨胀降下来，这真的很重要。不能让长期通胀预期脱离锚定。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3356103",
     "datetime": "2026-07-29T23:14:17+00:00",
-    "views": "54",
+    "views": "58",
     "text": "美军正在伊朗境内进行空袭。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3356102",
     "datetime": "2026-07-29T23:13:37+00:00",
-    "views": "57",
+    "views": "61",
     "text": "以色列总理内塔尼亚胡谈伊朗问题选项：这是特朗普的决定。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3356101",
     "datetime": "2026-07-29T23:12:37+00:00",
-    "views": "61",
+    "views": "64",
     "text": "广东河源东源县：细坳水库出现险情，各项应急抢险措施正有序推进\n广东河源东源县人民政府防汛防旱防风指挥部 7 月 30 日通报：7 月 29 日傍晚，黄村镇日常巡查发现细坳水库出现险情。市、县、镇、村抢险队伍第一时间赶赴现场处置。在省有关部门指导下，转移危险区群众、加速降低水库水位等各项应急抢险措施正在有序推进。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3356100",
     "datetime": "2026-07-29T23:12:18+00:00",
-    "views": "61",
+    "views": "62",
     "text": "美国连锁三明治品牌 Jersey Mike's 的 IPO 定价为每股 23 美元，处于预期范围的中位数。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3356099",
     "datetime": "2026-07-29T23:12:17+00:00",
-    "views": "62",
+    "views": "94",
     "text": "据 Axios：美国官员称，美国军方正在对伊朗进行空袭。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3356098",
     "datetime": "2026-07-29T23:10:37+00:00",
-    "views": "86",
+    "views": "88",
     "text": "特朗普：我们很快就会彻底解决伊朗。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3356097",
     "datetime": "2026-07-29T23:09:38+00:00",
-    "views": "97",
+    "views": "98",
     "text": "特朗普：我们已对伊朗进行重创。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3356094",
     "datetime": "2026-07-29T23:07:57+00:00",
-    "views": "72",
+    "views": "102",
     "text": "女装零售商 Reformation 在美国首次公开募股中筹集了 2.11 亿美元\n女装零售商 Reformation 周三表示，其在美国的首次公开募股（IPO）规模已扩大，共筹集了 2.109 亿美元，此举旨在测试投资者对该时尚品牌的兴趣。",
     "media_only": false,
     "image_url": null,
@@ -53629,23 +53647,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3350140"
-  },
-  {
-    "post": "Financial_Express/3350139",
-    "datetime": "2026-07-27T23:20:57+00:00",
-    "views": "59",
-    "text": "以色列总理抵达美国\n当地时间 7 月 27 日，以色列总理内塔尼亚胡抵达美国安德鲁斯空军基地，乘车前往华盛顿。他将于当地时间 7 月 28 日赴白宫会晤美国总统特朗普。（CCTV 国际时讯）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3350139"
-  },
-  {
-    "post": "Financial_Express/3350138",
-    "datetime": "2026-07-27T23:19:37+00:00",
-    "views": "58",
-    "text": "突破 4000 美元“拉锯区” 金价筑底信号显现\n美国暂停对伊朗军事打击的消息，迅速在全球市场引发连锁反应。7 月 27 日，伦敦现货黄金高开高走，截至记者发稿时，升破 4100 美元/盎司，日内涨逾 1%。同日，WTI 原油期货、布伦特原油期货日内跌幅一度扩大至 8%。自 6 月以来，黄金持续磨底，近期在 4000 美元/盎司附近拉锯后迎来突破。受访专家认为，短期内美伊局势仍是金价的核心主线，当前正处于黄金筑底阶段，市场对利多信号变得敏感。同时，“加息交易”动能趋于极限，油价已从压制性变量变为多重变量之一。（上海证券报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3350138"
   }
 ]
