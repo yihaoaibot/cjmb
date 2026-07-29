@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3356006",
     "datetime": "2026-07-29T21:54:57+00:00",
-    "views": "1",
+    "views": "3",
     "text": "Meta 首席执行官表示，未来计划同时采用开源和闭源 AI 模型。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3356005",
     "datetime": "2026-07-29T21:54:37+00:00",
-    "views": "1",
+    "views": "3",
     "text": "特朗普：立即通过《拯救美国法案》。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3356004",
     "datetime": "2026-07-29T21:53:38+00:00",
-    "views": "5",
+    "views": "6",
     "text": "微软 CEO：本季度公司在五大洲新增 31 座数据中心，今年累计新增总数达 88 座；新增 1 吉瓦算力容量。产能扩建计划稳步推进，有望两年内整体算力规模近乎翻倍。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3356003",
     "datetime": "2026-07-29T21:53:37+00:00",
-    "views": "5",
+    "views": "6",
     "text": "美国医疗保险和医疗补助服务中心（CMS）：已确定 2027 财年专业护理机构（SNF）预期支付系统（PPS）费率调整方案，调整后，面向专业护理机构的总支付款预计将增加 8.8274 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3356000",
     "datetime": "2026-07-29T21:50:17+00:00",
-    "views": "9",
+    "views": "39",
     "text": "微软(MSFT.O)首席执行官：Github Copilot 现已拥有 5000 万用户。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3355999",
     "datetime": "2026-07-29T21:49:58+00:00",
-    "views": "9",
+    "views": "39",
     "text": "微软 CEO 表示，GitHub 目前拥有 2.25 亿用户。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3355998",
     "datetime": "2026-07-29T21:49:57+00:00",
-    "views": "9",
+    "views": "39",
     "text": "微软 CEO 表示，GitHub Copilot 目前拥有 5000 万用户。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3355997",
     "datetime": "2026-07-29T21:48:57+00:00",
-    "views": "9",
+    "views": "39",
     "text": "美国授予洛克希德·马丁公司一份价值高达 586 亿美元的 7 年拦截机合同。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +128,7 @@
   {
     "post": "Financial_Express/3355992",
     "datetime": "2026-07-29T21:43:37+00:00",
-    "views": "30",
+    "views": "60",
     "text": "ARM 股价盘后跌幅扩大至 9%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3355991",
     "datetime": "2026-07-29T21:42:57+00:00",
-    "views": "32",
+    "views": "62",
     "text": "强生完成对 Firefly Bio 公司的收购，以推进新一代肿瘤学创新。",
     "media_only": false,
     "image_url": null,
@@ -53395,14 +53395,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3350063"
-  },
-  {
-    "post": "Financial_Express/3350062",
-    "datetime": "2026-07-27T21:56:37+00:00",
-    "views": "62",
-    "text": "特朗普：《纽约时报》十年来不断骚扰、诽谤、中伤我，如今他们拼尽全力想让我针对其提起的重磅诽谤诉讼被驳回。法官要求我方更新诉状，新版诉状将详尽罗列《纽约时报》存在实质恶意、反复诋毁我、我的家人、让美国再次伟大运动乃至整个美国的全部事实。将持续追究《纽约时报》及其主流媒体圈内同伙的责任，他们长期刊发、宣扬、炮制虚假新闻。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3350062"
   }
 ]
