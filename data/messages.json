@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3355329",
+    "datetime": "2026-07-29T16:02:57+00:00",
+    "views": "2",
+    "text": "欧莱雅 CEO 计划将古驰美妆产品销售额提升至当前三倍以上。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3355329"
+  },
+  {
+    "post": "Financial_Express/3355328",
+    "datetime": "2026-07-29T16:01:37+00:00",
+    "views": "33",
+    "text": "俄罗斯统计局：6 月失业率 2.2%，上月为 2.1%。\n5 月实际工资同比上涨 4.5%，上月同比增幅为 5.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3355328"
+  },
+  {
     "post": "Financial_Express/3355327",
     "datetime": "2026-07-29T16:00:38+00:00",
-    "views": "3",
+    "views": "33",
     "text": "欧莱雅第二季度调整后同店可比收入同比增长 6.3%，市场预期增幅 6.09%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3355326",
     "datetime": "2026-07-29T15:59:17+00:00",
-    "views": "35",
+    "views": "65",
     "text": "空客：在接受出口管制调查后，已向英国税务海关总署支付 640 万英镑和解金。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3355324",
     "datetime": "2026-07-29T15:56:38+00:00",
-    "views": "67",
+    "views": "97",
     "text": "美股三大指数均跌超 1%\n道指跌 1.67%，现报 51867.520 点；纳指跌 1.35%，现报 24541.893 点；标普 500 指数跌 1.00%，现报 7354.170 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3355322",
     "datetime": "2026-07-29T15:54:37+00:00",
-    "views": "97",
+    "views": "127",
     "text": "海上安全公司安布雷：尚无任何组织对此事件声明负责；暂未有伤亡及港口基础设施损坏的情况。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3355321",
     "datetime": "2026-07-29T15:54:17+00:00",
-    "views": "98",
+    "views": "128",
     "text": "安布雷海事风险咨询公司： 目前尚无任何组织宣称对此次袭击负责，暂无人员伤亡报告，港口基础设施也未出现受损情况。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3355320",
     "datetime": "2026-07-29T15:53:58+00:00",
-    "views": "98",
+    "views": "128",
     "text": "海上安全公司安布雷：一艘由美国运营、悬挂马绍尔群岛旗帜的 LNG 浮式储存船，在埃及达米埃塔港停靠期间遭到至少一架无人机攻击。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3355319",
     "datetime": "2026-07-29T15:53:57+00:00",
-    "views": "98",
+    "views": "128",
     "text": "大和资本：美联储声明料将基本保持不变\n金十数据 7 月 29 日讯，大和资本市场首席美国经济学家 Lawrence Werther 在美联储主席沃什今天召开新闻发布会前表示，沃什的表态应会基本维持既定基调，强调委员会需要评估后续出炉的数据。“我倾向于认为委员会今天将按兵不动，”他说，并补充道，他预计沃什将坚持其关于前瞻性指引的立场，同时可能会略微软化对通胀的看法。“或许更重要的是，我们将能了解到他是否会继续召开此类新闻发布会。”",
     "media_only": false,
     "image_url": null,
@@ -50155,14 +50173,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3349744"
-  },
-  {
-    "post": "Financial_Express/3349743",
-    "datetime": "2026-07-27T16:01:58+00:00",
-    "views": "164",
-    "text": "美国上诉法院裁定维持科罗拉多州针对租赁车辆征收 3 美元拥堵费的政策。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3349743"
   }
 ]
