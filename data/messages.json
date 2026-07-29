@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3356017",
+    "datetime": "2026-07-29T22:00:58+00:00",
+    "views": "2",
+    "text": "现货黄金突破 4070 美元/盎司，日内涨 0.09%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3356017"
+  },
+  {
+    "post": "Financial_Express/3356018",
+    "datetime": "2026-07-29T22:00:58+00:00",
+    "views": "2",
+    "text": "WTI 原油开盘稳定在 85 美元下方。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3356018"
+  },
+  {
+    "post": "Financial_Express/3356016",
+    "datetime": "2026-07-29T22:00:57+00:00",
+    "views": "2",
+    "text": "微软(MSFT.O)首席财务官：云业务收入增长得益于新算力的提前交付；新增算力容量已迅速实现货币化。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3356016"
+  },
+  {
+    "post": "Financial_Express/3356014",
+    "datetime": "2026-07-29T22:00:38+00:00",
+    "views": "5",
+    "text": "营业收入 11.2 万亿元 上半年轻工业经济运行稳中有进\n上半年，规模以上轻工业增加值同比增长 5.0%，实现营业收入 11.2 万亿元，91 种主要轻工产品中 54 种产量实现增长，锂离子电池、电冰箱等 14 种产品产量保持两位数增长，轻工生产总体平稳，绿色制造产业发展动能强。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3356014"
+  },
+  {
+    "post": "Financial_Express/3356015",
+    "datetime": "2026-07-29T22:00:38+00:00",
+    "views": "5",
+    "text": "现货白银突破 58 美元/盎司，日内涨 0.07%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3356015"
+  },
+  {
+    "post": "Financial_Express/3356013",
+    "datetime": "2026-07-29T22:00:37+00:00",
+    "views": "5",
+    "text": "纽约期银突破 58 美元/盎司，日内跌 0.26%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3356013"
+  },
+  {
+    "post": "Financial_Express/3356012",
+    "datetime": "2026-07-29T21:59:37+00:00",
+    "views": "7",
+    "text": "微软(MSFT.O)首席财务官：2026 财年全年云收入超过 2140 亿美元，近 90%来自非前沿模式公司的客户。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3356012"
+  },
+  {
+    "post": "Financial_Express/3356011",
+    "datetime": "2026-07-29T21:59:18+00:00",
+    "views": "6",
+    "text": "微软首席财务官表示，在云业务方面，客户需求持续超过可用产能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3356011"
+  },
+  {
+    "post": "Financial_Express/3356010",
+    "datetime": "2026-07-29T21:59:17+00:00",
+    "views": "6",
+    "text": "特朗普：97%的共和党人以及 71%的民主党人支持选举实行选民身份查验要求。即刻通过《拯救美国法案》。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3356010"
+  },
+  {
     "post": "Financial_Express/3356009",
     "datetime": "2026-07-29T21:58:17+00:00",
-    "views": "3",
+    "views": "7",
     "text": "微软首席财务官表示，全年云业务营收突破 2140 亿美元，其中近 90%来自前沿模型公司以外的客户。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3356008",
     "datetime": "2026-07-29T21:57:37+00:00",
-    "views": "3",
+    "views": "7",
     "text": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括 OpenAI 的情况下增加了 25%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3356007",
     "datetime": "2026-07-29T21:57:17+00:00",
-    "views": "3",
+    "views": "8",
     "text": "微软首席财务官：剔除 OpenAI 影响，第四季度合同积压增长 25%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3356006",
     "datetime": "2026-07-29T21:54:57+00:00",
-    "views": "5",
+    "views": "40",
     "text": "Meta 首席执行官表示，未来计划同时采用开源和闭源 AI 模型。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3356005",
     "datetime": "2026-07-29T21:54:37+00:00",
-    "views": "5",
+    "views": "40",
     "text": "特朗普：立即通过《拯救美国法案》。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3356004",
     "datetime": "2026-07-29T21:53:38+00:00",
-    "views": "37",
+    "views": "41",
     "text": "微软 CEO：本季度公司在五大洲新增 31 座数据中心，今年累计新增总数达 88 座；新增 1 吉瓦算力容量。产能扩建计划稳步推进，有望两年内整体算力规模近乎翻倍。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3356003",
     "datetime": "2026-07-29T21:53:37+00:00",
-    "views": "37",
+    "views": "41",
     "text": "美国医疗保险和医疗补助服务中心（CMS）：已确定 2027 财年专业护理机构（SNF）预期支付系统（PPS）费率调整方案，调整后，面向专业护理机构的总支付款预计将增加 8.8274 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3356002",
     "datetime": "2026-07-29T21:51:17+00:00",
-    "views": "40",
+    "views": "43",
     "text": "英国 BAE 系统公司获得英国政府价值 59 亿英镑（78 亿美元）合同，持续开展无畏级战略核潜艇研发建造工作。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3356001",
     "datetime": "2026-07-29T21:50:18+00:00",
-    "views": "40",
+    "views": "43",
     "text": "微软 CEO 表示，Copilot 营收环比增长超过 60%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3356000",
     "datetime": "2026-07-29T21:50:17+00:00",
-    "views": "40",
+    "views": "41",
     "text": "微软(MSFT.O)首席执行官：Github Copilot 现已拥有 5000 万用户。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3355999",
     "datetime": "2026-07-29T21:49:58+00:00",
-    "views": "40",
+    "views": "41",
     "text": "微软 CEO 表示，GitHub 目前拥有 2.25 亿用户。",
     "media_only": false,
     "image_url": null,
@@ -53350,68 +53431,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3350071"
-  },
-  {
-    "post": "Financial_Express/3350070",
-    "datetime": "2026-07-27T22:00:57+00:00",
-    "views": "64",
-    "text": "现货黄金突破 4080 美元/盎司，日内涨 0.09%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3350070"
-  },
-  {
-    "post": "Financial_Express/3350069",
-    "datetime": "2026-07-27T22:00:37+00:00",
-    "views": "62",
-    "text": "现货白银突破 59 美元/盎司，日内涨 0.12%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3350069"
-  },
-  {
-    "post": "Financial_Express/3350067",
-    "datetime": "2026-07-27T22:00:18+00:00",
-    "views": "63",
-    "text": "WTI 原油日内跌 1%，现报 81.73 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3350067"
-  },
-  {
-    "post": "Financial_Express/3350068",
-    "datetime": "2026-07-27T22:00:18+00:00",
-    "views": "65",
-    "text": "消息人士：至少四架伊朗无人机袭击了伊拉克库尔德自治区埃尔比勒东北部的哈利凡与索兰地区；美方出动十余架军用战机与无人机，在埃尔比勒上空展开应对行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3350068"
-  },
-  {
-    "post": "Financial_Express/3350066",
-    "datetime": "2026-07-27T22:00:17+00:00",
-    "views": "63",
-    "text": "纽约期银突破 59 美元/盎司，日内涨 0.19%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3350066"
-  },
-  {
-    "post": "Financial_Express/3350065",
-    "datetime": "2026-07-27T21:59:37+00:00",
-    "views": "67",
-    "text": "Anthropic：从未倡导过禁止公开权重模型。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3350065"
-  },
-  {
-    "post": "Financial_Express/3350064",
-    "datetime": "2026-07-27T21:59:17+00:00",
-    "views": "63",
-    "text": "伊朗媒体：当地时间周二凌晨，为库尔德地区供应大部分电力的苏莱曼尼亚霍尔莫尔气田遭到袭击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3350064"
   }
 ]
