@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3355496",
     "datetime": "2026-07-29T18:20:57+00:00",
-    "views": "1",
+    "views": "31",
     "text": "巴克莱银行：我们将今日议息结果定性为鹰派按兵不动，三张反对票将助燃未来几个月加息的押注。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3355495",
     "datetime": "2026-07-29T18:20:18+00:00",
-    "views": "1",
+    "views": "31",
     "text": "巴西财政部长：即便本次向参议院提交发债申请尚未落地，我国发行熊猫债的各项条件均已筹备到位。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3355494",
     "datetime": "2026-07-29T18:19:37+00:00",
-    "views": "1",
+    "views": "31",
     "text": "白宫原本计划提名美国环境保护署顾问施瓦布出任大气办公室负责人，后因现任主管的规划有变而搁置该安排。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3355493",
     "datetime": "2026-07-29T18:19:17+00:00",
-    "views": "1",
+    "views": "31",
     "text": "巴西财政部长：正申请参议院授权，每年最多发行 350 亿美元外债以达成各项发展目标。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3355491",
     "datetime": "2026-07-29T18:17:38+00:00",
-    "views": "31",
+    "views": "61",
     "text": "法国外贸银行：通胀数据为沃什争取到“观望通行证”\n金十数据 7 月 30 日讯，法国外贸银行经济学家 Christopher Hodge 表示，最新的通胀数据和劳动力市场数据为美联储提供了一定的喘息空间，等待更明确的信号并不会损害其信誉。加息只会让美联储的反应机制更加混乱，并有可能发出过于鹰派的信号。我们预计沃什将继续密切关注通胀，但同时也会承认，近期温和的通胀数据可能表明当前的政策立场是合适的（这也是我们的观点）。如果情况并非如此，美联储已做好准备，随时遏制任何价格压力。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3355492",
     "datetime": "2026-07-29T18:17:38+00:00",
-    "views": "31",
+    "views": "61",
     "text": "巴西财政官员：我们可能需要在九月份修订年度融资计划。我们可能会扩大与 Selic 利率挂钩的浮动利率债券的发行范围。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3355488",
     "datetime": "2026-07-29T18:13:17+00:00",
-    "views": "91",
+    "views": "121",
     "text": "由于强风影响，巴西最大港口桑托斯港的船舶交通已暂时暂停。",
     "media_only": false,
     "image_url": null,
@@ -50299,14 +50299,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3349898"
-  },
-  {
-    "post": "Financial_Express/3349897",
-    "datetime": "2026-07-27T18:22:37+00:00",
-    "views": "160",
-    "text": "乌克兰基辅响起警报。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3349897"
   }
 ]
