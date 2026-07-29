@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3355893",
+    "datetime": "2026-07-29T20:10:57+00:00",
+    "views": "2",
+    "text": "星巴克：预计全年调整后运营利润率超过 11％，预估 10.9％。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3355893"
+  },
+  {
+    "post": "Financial_Express/3355892",
+    "datetime": "2026-07-29T20:10:37+00:00",
+    "views": "2",
+    "text": "微软(MSFT.O)第四财季自由现金流为 196 亿美元，下滑 23%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3355892"
+  },
+  {
+    "post": "Financial_Express/3355891",
+    "datetime": "2026-07-29T20:09:38+00:00",
+    "views": "4",
+    "text": "Meta 第二季度营业利润下滑 8.2%\nMeta 第二季度营业利润 187.8 亿美元，同比下滑 8.2%；广告营收 593.6 亿美元，应用家族总营收 603.7 亿美元，两项均超出预期；但应用家族业务营业利润 233.9 亿美元，低于市场预期 261.1 亿美元；现实实验室营收 4.31 亿美元好于预期，亏损扩大至 46.2 亿美元，市场预期亏损 44.5 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3355891"
+  },
+  {
+    "post": "Financial_Express/3355890",
+    "datetime": "2026-07-29T20:09:18+00:00",
+    "views": "4",
+    "text": "Meta 上调全年费用指引\nMeta 上调全年费用指引至 1650 亿–1690 亿美元，资本开支指引上调至 1300 亿–1450 亿美元，两项指引区间下限均抬升；二季度包含 5 月裁员产生的 11.8 亿美元遣散费；业绩展望计入 24 亿美元法律相关支出；6 月日均活跃用户均值 36 亿。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3355890"
+  },
+  {
+    "post": "Financial_Express/3355889",
+    "datetime": "2026-07-29T20:09:17+00:00",
+    "views": "4",
+    "text": "微软(MSFT.O)第四财季 AZURE 及其他云服务不含汇率影响的营收增 43%，高于预估。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3355889"
+  },
+  {
     "post": "Financial_Express/3355888",
     "datetime": "2026-07-29T20:07:59+00:00",
-    "views": "3",
+    "views": "34",
     "text": "星巴克股价盘后上涨 6.6%，此前该公司公布的第二季度同店销售额超出预期。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3355887",
     "datetime": "2026-07-29T20:07:58+00:00",
-    "views": "3",
+    "views": "34",
     "text": "高通(QCOM.O)：预计 2027 财年非手机业务收入的同比增长额将超过 2026 财年苹果产品总收入。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3355886",
     "datetime": "2026-07-29T20:07:57+00:00",
-    "views": "3",
+    "views": "34",
     "text": "高通(QCOM.O)：2026 财年，内存价格史无前例的上涨和供应短缺给全球智能手机行业带来了周期性逆风。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3355885",
     "datetime": "2026-07-29T20:07:18+00:00",
-    "views": "4",
+    "views": "35",
     "text": "Meta 股价大跌 9%，因公司给出的第三季度营收指引区间中值低于市场预期。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3355884",
     "datetime": "2026-07-29T20:07:17+00:00",
-    "views": "4",
+    "views": "35",
     "text": "MetaPlatforms(META.O)第二季度自由现金流为 7.84 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3355883",
     "datetime": "2026-07-29T20:06:59+00:00",
-    "views": "4",
+    "views": "35",
     "text": "星巴克：预计 2026 财年全年合并净营收将与去年持平，或实现小幅增长。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3355881",
     "datetime": "2026-07-29T20:06:58+00:00",
-    "views": "4",
+    "views": "35",
     "text": "微软(MSFT.O)第四财季智能云业务营收 393 亿美元，同比增长 32% 。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3355882",
     "datetime": "2026-07-29T20:06:58+00:00",
-    "views": "4",
+    "views": "35",
     "text": "高通(QCOM.O)：预计短期内，包括数据中心在内的非手机业务收入增长率将从 2026 财年的 24%加速至 2027 财年的 60%以上。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3355880",
     "datetime": "2026-07-29T20:06:37+00:00",
-    "views": "4",
+    "views": "35",
     "text": "金十图示：2026 年 07 月 29 日（周三）全球股市指数-美洲市场（收盘）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3355879",
     "datetime": "2026-07-29T20:06:19+00:00",
-    "views": "34",
+    "views": "35",
     "text": "星巴克：第二季度净营收 93 亿美元，预估 91.6 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3355878",
     "datetime": "2026-07-29T20:06:18+00:00",
-    "views": "33",
+    "views": "34",
     "text": "星巴克第二季度同店销售额增长 7.9%，高于预期增长 5.73%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3355877",
     "datetime": "2026-07-29T20:06:17+00:00",
-    "views": "32",
+    "views": "33",
     "text": "金十图示：2026 年 07 月 29 日（周三）美股热门股票行情一览（美股收盘）",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3355876",
     "datetime": "2026-07-29T20:05:58+00:00",
-    "views": "32",
+    "views": "63",
     "text": "微软：第二季度资本支出 358.0 亿美元，预估 352.2 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3355875",
     "datetime": "2026-07-29T20:05:57+00:00",
-    "views": "32",
+    "views": "33",
     "text": "金十图示：2026 年 07 月 29 日（周三）热门中概股行情一览（美股收盘）",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3355874",
     "datetime": "2026-07-29T20:05:37+00:00",
-    "views": "33",
+    "views": "34",
     "text": "美元指数 29 日下跌\n衡量美元对六种主要货币的美元指数当天下跌 0.52%，在汇市尾市收于 100.886。截至纽约汇市尾市，1 欧元兑换 1.1452 美元，高于前一交易日的 1.1387 美元；1 英镑兑换 1.3364 美元，高于前一交易日的 1.3289 美元。1 美元兑换 163.32 日元，低于前一交易日的 163.86 日元；1 美元兑换 0.8149 瑞士法郎，低于前一交易日的 0.8190 瑞士法郎；1 美元兑换 1.4040 加元，低于前一交易日的 1.4105 加元；1 美元兑换 9.6434 瑞典克朗，低于前一交易日的 9.6954 瑞典克朗。",
     "media_only": false,
     "image_url": null,
@@ -52936,68 +52981,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3349996"
-  },
-  {
-    "post": "Financial_Express/3349995",
-    "datetime": "2026-07-27T20:10:18+00:00",
-    "views": "106",
-    "text": "路透社/益普索调查显示，美国总统特朗普的总统支持率从 34%上升至 37%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3349995"
-  },
-  {
-    "post": "Financial_Express/3349994",
-    "datetime": "2026-07-27T20:10:17+00:00",
-    "views": "105",
-    "text": "路透社/益普索调查显示，69%的美国人表示美国总统特朗普并未清楚解释美国军方在伊朗的参与目标。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3349994"
-  },
-  {
-    "post": "Financial_Express/3349993",
-    "datetime": "2026-07-27T20:09:59+00:00",
-    "views": "103",
-    "text": "路透社与益普索联合民调显示：69%的美国人认为，特朗普并未明确说明美国军事介入伊朗事务的目标。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3349993"
-  },
-  {
-    "post": "Financial_Express/3349991",
-    "datetime": "2026-07-27T20:09:58+00:00",
-    "views": "100",
-    "text": "路透社与益普索联合民调显示：仅 33%的美国人认可美国对伊朗开战，这是该冲突爆发初期以来的最低支持率。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3349991"
-  },
-  {
-    "post": "Financial_Express/3349992",
-    "datetime": "2026-07-27T20:09:58+00:00",
-    "views": "101",
-    "text": "路透社与益普索联合民调显示：特朗普总统支持率从 34%微升至 37%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3349992"
-  },
-  {
-    "post": "Financial_Express/3349990",
-    "datetime": "2026-07-27T20:09:57+00:00",
-    "views": "99",
-    "text": "路透社/益普索调查显示，仅有 33%的美国人支持美国与伊朗的战争，为冲突初期以来的最低水平。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3349990"
-  },
-  {
-    "post": "Financial_Express/3349989",
-    "datetime": "2026-07-27T20:09:17+00:00",
-    "views": "98",
-    "text": "特朗普谈伊朗：如果有人过来问“我们为何要采取这些行动”，你只需回复一句“我们绝不能让伊朗拥有核武器。”道理就这么简单，只需要说这一句，无需多言。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3349989"
   }
 ]
