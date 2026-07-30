@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3359288",
+    "datetime": "2026-07-30T21:47:37+00:00",
+    "views": "7",
+    "text": "淡水河谷批准向股东派息每股 2.03 巴西雷亚尔。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3359288"
+  },
+  {
     "post": "Financial_Express/3359287",
     "datetime": "2026-07-30T21:43:57+00:00",
-    "views": "14",
+    "views": "19",
     "text": "亚马逊 CEO： 供应受限的主要原因是 iPhone、Mac 需求超出预期。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3359286",
     "datetime": "2026-07-30T21:42:19+00:00",
-    "views": "18",
+    "views": "22",
     "text": "亚马逊 CEO： 公司正自研前沿大模型，以此把控成本，并为消费者降低费用。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3359284",
     "datetime": "2026-07-30T21:42:18+00:00",
-    "views": "18",
+    "views": "22",
     "text": "苹果(AAPL.O)CEO 库克：对于希望重度使用新 AI 产品的用户，苹果将提供“升级选项”。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3359285",
     "datetime": "2026-07-30T21:42:18+00:00",
-    "views": "18",
+    "views": "22",
     "text": "亚马逊(AMZN.O)CEO：公司正在追求自有的前沿模型，以控制成本并降低消费者支出。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3359283",
     "datetime": "2026-07-30T21:42:17+00:00",
-    "views": "18",
+    "views": "22",
     "text": "智利政府宣布恢复与委内瑞拉的领事关系。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3359282",
     "datetime": "2026-07-30T21:41:17+00:00",
-    "views": "20",
+    "views": "24",
     "text": "亚马逊 CEO： 不会存在一家独大的人工智能模型。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3359281",
     "datetime": "2026-07-30T21:39:37+00:00",
-    "views": "56",
+    "views": "60",
     "text": "亚马逊(AMZN.O)首席财务官：AWS 的盈利能力并非偶然，而是得益于效率提升和产能优化。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3359280",
     "datetime": "2026-07-30T21:39:18+00:00",
-    "views": "56",
+    "views": "60",
     "text": "美股存储芯片概念股盘后继续走强，西部数据涨超 4%，希捷科技、美光科技和 SK 海力士涨 3%，闪迪涨 6%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3359279",
     "datetime": "2026-07-30T21:39:17+00:00",
-    "views": "56",
+    "views": "60",
     "text": "苹果(AAPL.O)CEO 库克：我们正在评估关于内存供应的所有选项，以寻找替代组件供应商。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3359278",
     "datetime": "2026-07-30T21:38:57+00:00",
-    "views": "55",
+    "views": "59",
     "text": "亚马逊：亚马逊云科技（AWS）盈利能力提升并非偶然，而是得益于效率改善与产能优化。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3359277",
     "datetime": "2026-07-30T21:38:37+00:00",
-    "views": "55",
+    "views": "58",
     "text": "苹果(AAPL.O)CEO 库克：如果有更多的 DRAM 供应商，那将是件好事。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3359276",
     "datetime": "2026-07-30T21:38:17+00:00",
-    "views": "56",
+    "views": "59",
     "text": "美国和乌克兰上周签署了无人机技术协议。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3359275",
     "datetime": "2026-07-30T21:37:37+00:00",
-    "views": "56",
+    "views": "58",
     "text": "苹果 CEO 库克： 针对内存供应问题，“我们正在评估所有可行方案”。如果有更多的 DRAM 供应商，那将是件好事。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3359274",
     "datetime": "2026-07-30T21:36:38+00:00",
-    "views": "58",
+    "views": "60",
     "text": "苹果 CEO 库克： 第四财季内存成本将高于第三财季， 预计第四财季部分非内存类零部件成本有所下降。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3359273",
     "datetime": "2026-07-30T21:36:37+00:00",
-    "views": "57",
+    "views": "59",
     "text": "亚马逊(AMZN.O)首席财务官：由于提前采购和库存预置以规避关税成本，关税退款金额有限。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3359272",
     "datetime": "2026-07-30T21:35:58+00:00",
-    "views": "56",
+    "views": "58",
     "text": "苹果：第三财季内存采购成本较第二财季 “大幅上涨”。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3359271",
     "datetime": "2026-07-30T21:35:57+00:00",
-    "views": "56",
+    "views": "58",
     "text": "苹果(AAPL.O)CEO 库克：第三财季在内存方面的支出“显著高于”第二财季。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3359270",
     "datetime": "2026-07-30T21:35:18+00:00",
-    "views": "57",
+    "views": "59",
     "text": "苹果：预计供应紧张情况将在 6 月所在季度至 9 月所在季度显著加剧，供货瓶颈将波及 iPhone、Mac 以及 iPad 产品线。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +173,7 @@
   {
     "post": "Financial_Express/3359269",
     "datetime": "2026-07-30T21:35:17+00:00",
-    "views": "58",
+    "views": "60",
     "text": "苹果(AAPL.O)CEO 库克：我们看到的供应链灵活性低于正常水平。供应限制主要影响了 Mac。",
     "media_only": false,
     "image_url": null,
@@ -57634,14 +57643,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3352861"
-  },
-  {
-    "post": "Financial_Express/3352860",
-    "datetime": "2026-07-28T21:47:37+00:00",
-    "views": "123",
-    "text": "高盛仍看多日本 AI 板块：暴跌后反成买入良机\n对冲基金对日本的总持仓和净持仓占比均处于五年区间的 98%以上，为历史极高水平。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3352860"
   }
 ]
