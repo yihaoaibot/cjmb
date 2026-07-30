@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3359286",
+    "datetime": "2026-07-30T21:42:19+00:00",
+    "views": "7",
+    "text": "亚马逊 CEO： 公司正自研前沿大模型，以此把控成本，并为消费者降低费用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3359286"
+  },
+  {
+    "post": "Financial_Express/3359284",
+    "datetime": "2026-07-30T21:42:18+00:00",
+    "views": "7",
+    "text": "苹果(AAPL.O)CEO 库克：对于希望重度使用新 AI 产品的用户，苹果将提供“升级选项”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3359284"
+  },
+  {
+    "post": "Financial_Express/3359285",
+    "datetime": "2026-07-30T21:42:18+00:00",
+    "views": "7",
+    "text": "亚马逊(AMZN.O)CEO：公司正在追求自有的前沿模型，以控制成本并降低消费者支出。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3359285"
+  },
+  {
+    "post": "Financial_Express/3359283",
+    "datetime": "2026-07-30T21:42:17+00:00",
+    "views": "7",
+    "text": "智利政府宣布恢复与委内瑞拉的领事关系。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3359283"
+  },
+  {
+    "post": "Financial_Express/3359282",
+    "datetime": "2026-07-30T21:41:17+00:00",
+    "views": "10",
+    "text": "亚马逊 CEO： 不会存在一家独大的人工智能模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3359282"
+  },
+  {
     "post": "Financial_Express/3359281",
     "datetime": "2026-07-30T21:39:37+00:00",
-    "views": "9",
+    "views": "17",
     "text": "亚马逊(AMZN.O)首席财务官：AWS 的盈利能力并非偶然，而是得益于效率提升和产能优化。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3359280",
     "datetime": "2026-07-30T21:39:18+00:00",
-    "views": "9",
+    "views": "17",
     "text": "美股存储芯片概念股盘后继续走强，西部数据涨超 4%，希捷科技、美光科技和 SK 海力士涨 3%，闪迪涨 6%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3359279",
     "datetime": "2026-07-30T21:39:17+00:00",
-    "views": "9",
+    "views": "17",
     "text": "苹果(AAPL.O)CEO 库克：我们正在评估关于内存供应的所有选项，以寻找替代组件供应商。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3359278",
     "datetime": "2026-07-30T21:38:57+00:00",
-    "views": "9",
+    "views": "17",
     "text": "亚马逊：亚马逊云科技（AWS）盈利能力提升并非偶然，而是得益于效率改善与产能优化。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3359277",
     "datetime": "2026-07-30T21:38:37+00:00",
-    "views": "10",
+    "views": "18",
     "text": "苹果(AAPL.O)CEO 库克：如果有更多的 DRAM 供应商，那将是件好事。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3359276",
     "datetime": "2026-07-30T21:38:17+00:00",
-    "views": "13",
+    "views": "19",
     "text": "美国和乌克兰上周签署了无人机技术协议。",
     "media_only": false,
     "image_url": null,
@@ -56,8 +101,8 @@
   {
     "post": "Financial_Express/3359275",
     "datetime": "2026-07-30T21:37:37+00:00",
-    "views": "14",
-    "text": "苹果 CEO 库克： 针对内存供应问题，“我们正在评估所有可行方案”。",
+    "views": "20",
+    "text": "苹果 CEO 库克： 针对内存供应问题，“我们正在评估所有可行方案”。如果有更多的 DRAM 供应商，那将是件好事。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3359275"
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3359274",
     "datetime": "2026-07-30T21:36:38+00:00",
-    "views": "18",
+    "views": "53",
     "text": "苹果 CEO 库克： 第四财季内存成本将高于第三财季， 预计第四财季部分非内存类零部件成本有所下降。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3359273",
     "datetime": "2026-07-30T21:36:37+00:00",
-    "views": "17",
+    "views": "52",
     "text": "亚马逊(AMZN.O)首席财务官：由于提前采购和库存预置以规避关税成本，关税退款金额有限。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3359272",
     "datetime": "2026-07-30T21:35:58+00:00",
-    "views": "47",
+    "views": "51",
     "text": "苹果：第三财季内存采购成本较第二财季 “大幅上涨”。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3359271",
     "datetime": "2026-07-30T21:35:57+00:00",
-    "views": "47",
+    "views": "51",
     "text": "苹果(AAPL.O)CEO 库克：第三财季在内存方面的支出“显著高于”第二财季。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3359270",
     "datetime": "2026-07-30T21:35:18+00:00",
-    "views": "48",
+    "views": "52",
     "text": "苹果：预计供应紧张情况将在 6 月所在季度至 9 月所在季度显著加剧，供货瓶颈将波及 iPhone、Mac 以及 iPad 产品线。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3359269",
     "datetime": "2026-07-30T21:35:17+00:00",
-    "views": "49",
+    "views": "53",
     "text": "苹果(AAPL.O)CEO 库克：我们看到的供应链灵活性低于正常水平。供应限制主要影响了 Mac。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3359268",
     "datetime": "2026-07-30T21:34:57+00:00",
-    "views": "50",
+    "views": "54",
     "text": "以色列称炸毁黎南部博福特岭地区地下通道设施\n金十数据 7 月 31 日讯，当地时间 7 月 31 日凌晨，以色列总理办公室通过社交媒体发布声明称，根据以总理内塔尼亚胡和国防部长卡茨的指令，以色列国防军当天拆毁了黎巴嫩南部博福特岭地区的地下通道设施。以方称，这些地下基础设施是黎巴嫩真主党此前计划袭击以色列北部地区居民社区的重要依托。声明称，以军在此次行动中使用了约 700 吨炸药。以方表示，此次军事行动是对黎巴嫩真主党前一日“公然违反停火协议”的回应。声明称，以军仍驻扎在黎巴嫩南部“安全区”内，并将继续清除相关军事设施，阻止黎巴嫩真主党恢复其军事能力。以色列国防军也在 31 日凌晨发布声明称，以军第 36 师在北方司令部指挥下，在黎巴嫩南部博福特岭地区摧毁了多条核心地下通道。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3359267",
     "datetime": "2026-07-30T21:34:38+00:00",
-    "views": "19",
+    "views": "24",
     "text": "亚马逊：由于企业提前采购、预先备货以规避关税成本，关税退款规模受到限制。",
     "media_only": false,
     "image_url": null,
