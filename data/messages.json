@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3359073",
+    "datetime": "2026-07-30T18:27:57+00:00",
+    "views": "23",
+    "text": "美国食品安全与检验局发布与李斯特菌相关的警示，涉玛丽收获生鲜食品公司的咖喱鸡肉沙拉。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3359073"
+  },
+  {
     "post": "Financial_Express/3359072",
     "datetime": "2026-07-30T18:24:57+00:00",
-    "views": "38",
+    "views": "51",
     "text": "美国铃木汽车胜诉，刹车缺陷相关诉讼遭驳回。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3359071",
     "datetime": "2026-07-30T18:21:38+00:00",
-    "views": "56",
+    "views": "63",
     "text": "巴西财政部官员：政府考虑对支出上限进行潜在调整，以帮助平衡公共账户并实现已宣布的目标。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3359070",
     "datetime": "2026-07-30T18:20:38+00:00",
-    "views": "61",
+    "views": "67",
     "text": "巴西财政部官员：政府正考虑对支出上限作出调整，以平衡公共账户并实现已公布的目标。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3359069",
     "datetime": "2026-07-30T18:20:37+00:00",
-    "views": "62",
+    "views": "68",
     "text": "星链：首批星链 V3 卫星顺利部署，完成组网并拍摄星舰画面。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3359068",
     "datetime": "2026-07-30T18:18:58+00:00",
-    "views": "67",
+    "views": "103",
     "text": "以色列总理本雅明・内塔尼亚胡结束华盛顿行程返回以色列。访美期间，他会晤了唐纳德・特朗普总统及美国多名高级官员。出于安全考量，总理办公室未对外公布其启程与归国行程。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3359067",
     "datetime": "2026-07-30T18:18:37+00:00",
-    "views": "70",
+    "views": "105",
     "text": "据员工邮件通知，美国联邦航空管理局副局长罗切洛将于下周卸任。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3359066",
     "datetime": "2026-07-30T18:17:57+00:00",
-    "views": "76",
+    "views": "111",
     "text": "星链：首批入轨的星链 V3 卫星已成功展开太阳能电池板、启动推进器，并通过射频和激光链路接入星链网络，同时拍摄到星舰影像。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3359065",
     "datetime": "2026-07-30T18:17:18+00:00",
-    "views": "84",
+    "views": "118",
     "text": "据美国联邦航空管理局发给员工的内部邮件显示，该局副局长罗谢洛将于下周卸任。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3359064",
     "datetime": "2026-07-30T18:17:17+00:00",
-    "views": "84",
+    "views": "87",
     "text": "据知情人士透露，Equinix 料将达成最新一笔数据中心协议，有望通过出售投资级债券融资 30 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3359063",
     "datetime": "2026-07-30T18:15:17+00:00",
-    "views": "93",
+    "views": "96",
     "text": "英国 FCA 将从周五起发布每日股票交易数据\n据知情人士透露，英国市场监管机构金融行为监管局（FCA）计划从本周五起，每日发布英国股票交易的汇总数据，这是其提高市场透明度举措的一部分。该监管机构还将发布为期一年的历史回溯数据，以帮助投资者评估英国股票的交易量。在推出完整的股票综合数据流（即单一的股票交易数据源）之前，每日更新将作为一项过渡性举措。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3359062",
     "datetime": "2026-07-30T18:12:37+00:00",
-    "views": "109",
+    "views": "111",
     "text": "密克罗尼西亚科洛尼亚东北偏北 247 公里处发生 5.9 级地震。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3359061",
     "datetime": "2026-07-30T18:11:58+00:00",
-    "views": "112",
+    "views": "113",
     "text": "英国金融行为监管局（FCA）将于周五起发布每日股票交易数据。",
     "media_only": false,
     "image_url": null,
@@ -56626,23 +56635,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3352758"
-  },
-  {
-    "post": "Financial_Express/3352757",
-    "datetime": "2026-07-28T18:28:37+00:00",
-    "views": "150",
-    "text": "五角大楼正式敲定与通用动力 9 艘弗吉尼亚级核潜艇采购合同。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3352757"
-  },
-  {
-    "post": "Financial_Express/3352756",
-    "datetime": "2026-07-28T18:27:57+00:00",
-    "views": "150",
-    "text": "对伊朗军事行动以来 特朗普与内塔尼亚胡首次会晤\n美国总统特朗普 28 日上午在白宫同到访的以色列总理内塔尼亚胡举行会谈。这是两人自美以 2 月底对伊朗联合发动大规模军事行动以来的首次面对面会晤。据美国媒体报道，此次会晤持续了一个多小时，而特朗普此前刚同乌克兰总统泽连斯基进行了约一个小时的会谈。白宫新闻秘书莱维特在社交媒体发文称，两场会谈“都积极且富有成效”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3352756"
   }
 ]
