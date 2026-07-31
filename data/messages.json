@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3362253",
     "datetime": "2026-07-31T23:13:18+00:00",
-    "views": "1",
+    "views": "31",
     "text": "韩国将于 2027 年开始进口阿根廷原油。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3362252",
     "datetime": "2026-07-31T23:12:57+00:00",
-    "views": "1",
+    "views": "31",
     "text": "一位央行高级官员表示，债券抛售已对美联储的公信力发出警示。",
     "media_only": false,
     "image_url": null,
@@ -55033,50 +55033,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3356110"
-  },
-  {
-    "post": "Financial_Express/3356109",
-    "datetime": "2026-07-29T23:18:17+00:00",
-    "views": "62",
-    "text": "OpenAI 首席财务官：公司 7 月份的年化收入已经超过了整个第二季度的总和。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3356109"
-  },
-  {
-    "post": "Financial_Express/3356108",
-    "datetime": "2026-07-29T23:17:37+00:00",
-    "views": "60",
-    "text": "内塔尼亚胡：预计能源管道将远离霍尔木兹。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3356108"
-  },
-  {
-    "post": "Financial_Express/3356107",
-    "datetime": "2026-07-29T23:17:17+00:00",
-    "views": "62",
-    "text": "OpenAI 首席财务官萨拉·弗里尔告诉员工，7 月份的年化收入已经超过了整个第二季度的总和。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3356107"
-  },
-  {
-    "post": "Financial_Express/3356106",
-    "datetime": "2026-07-29T23:16:57+00:00",
-    "views": "61",
-    "text": "进口 FPGA 交货周期大幅延长\n据供应链方面消息，全球 FPGA 头部企业如赛灵思（Xilinx）与莱迪思（Lattice）等不仅相继对主力产品涨价 10%—20%或以上，对国内的供应周期亦大幅拉长。其中，进口的 FPGA 芯片产品目前交货周期普遍已升至约 52 周，而此前常规交期仅为 8 到 12 周。资深芯片经销人士告诉证券时报记者：“目前 FPGA 海外各类产品现货急缺，现货价格普遍大幅上涨。例如，进口的某 XC 开头型号的 FPGA 单颗现货从年初 220 元涨到 850 元。进口某 EP 开头型号 FPGA 单颗从 120 元涨价到 1200 元，这是最新数据。这两颗都是欧美市场需求比较热门的型号，现货价格翻了 7—10 倍，国内下游工厂接受了。如果要通过原厂拿货，价格不会这么高，但是无法避免 52 周的交期，进口 FPGA 现在普遍要这个交期，低端的可能还会更长。”他介绍，现在国外 FPGA 大厂把大部分产能放在 AI 数据中心的芯片上，剩下的一些产能优先生产高端 FPGA。最近 3 个月，因为一些进口 FPGA 料号停产和涨价潮，他为国内下游厂家寻找国产替代方案已不下 50 例，手上国产 FPGA 量产案例亦在快速积累。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3356106"
-  },
-  {
-    "post": "Financial_Express/3356105",
-    "datetime": "2026-07-29T23:16:37+00:00",
-    "views": "57",
-    "text": "内塔尼亚胡：认为伊朗比以往任何时候都更弱。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3356105"
   }
 ]
