@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3365913",
+    "datetime": "2026-08-03T16:05:39+00:00",
+    "views": "6",
+    "text": "美国得州电力可靠性委员会：预计本周电力需求将维持高位，峰值将在 8 万至 8.9 万兆瓦区间。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3365913"
+  },
+  {
+    "post": "Financial_Express/3365912",
+    "datetime": "2026-08-03T16:05:18+00:00",
+    "views": "9",
+    "text": "谷歌(GOOG.O)：今天，我们宣布 Google Cloud Cortex Framework 第 7 版正式全面上市。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3365912"
+  },
+  {
+    "post": "Financial_Express/3365911",
+    "datetime": "2026-08-03T16:04:57+00:00",
+    "views": "9",
+    "text": "谷歌：谷歌云 Cortex 框架第 7 版正式全面上市。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3365911"
+  },
+  {
     "post": "Financial_Express/3365910",
     "datetime": "2026-08-03T16:02:58+00:00",
-    "views": "7",
+    "views": "47",
     "text": "意大利 7 月新车销量同比增长 3.90%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3365909",
     "datetime": "2026-08-03T16:00:57+00:00",
-    "views": "51",
+    "views": "57",
     "text": "据猫眼专业版数据，电影 《蜘蛛侠：崭新之日》 上映 7 天， 总票房破 9 亿。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3365908",
     "datetime": "2026-08-03T16:00:38+00:00",
-    "views": "53",
+    "views": "59",
     "text": "俄罗斯伊尔库茨克州州长通报：一架塞斯纳 182 型飞机在该地区失联。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3365907",
     "datetime": "2026-08-03T15:58:20+00:00",
-    "views": "94",
+    "views": "100",
     "text": "伊朗革命卫队称具备全面情报掌控力\n伊朗伊斯兰革命卫队地面部队司令穆罕默德·卡拉米 8 月 3 日视察伊朗西北作战区的备战情况时表示，“革命卫队在全国各作战区均具备全面的情报掌控力与作战准备，随时可对任何威胁作出坚决回应。”",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3365906",
     "datetime": "2026-08-03T15:57:17+00:00",
-    "views": "98",
+    "views": "103",
     "text": "特朗普：与伊朗的谈判已开始 计划近期举行更多会谈\n当地时间 8 月 3 日，美国总统特朗普在社交平台“真实社交”（Truth Social）发文称，与伊朗的谈判已开始，后续会谈也已提上日程。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3365905",
     "datetime": "2026-08-03T15:55:17+00:00",
-    "views": "101",
+    "views": "135",
     "text": "喀麦隆高官：喀中合作助力培养喀本土基建人才\n喀麦隆高等教育国务部长雅克·法姆·恩东戈 3 日在雅温得说，中国企业不仅帮助喀麦隆建设基础设施，还为喀麦隆培养高水平工程技术人才提供重要支持，喀中双方的合作将助力喀方逐步实现基础设施建设领域技术自主。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3365904",
     "datetime": "2026-08-03T15:53:17+00:00",
-    "views": "133",
+    "views": "136",
     "text": "戴尔(DELL.N)：新投资者看到业务规模化发展的机遇。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3365902",
     "datetime": "2026-08-03T15:52:39+00:00",
-    "views": "136",
+    "views": "139",
     "text": "据日经新闻：铃木汽车轻型迷你电动汽车在英国售价预计低于 2 万英镑。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3365903",
     "datetime": "2026-08-03T15:52:39+00:00",
-    "views": "137",
+    "views": "140",
     "text": "英国铃木汽车轻型迷你电动车售价预计低于 2 万英镑。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3365901",
     "datetime": "2026-08-03T15:52:18+00:00",
-    "views": "136",
+    "views": "139",
     "text": "委内瑞拉对印度的石油出口在七月份降至约 17.8 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3365900",
     "datetime": "2026-08-03T15:51:37+00:00",
-    "views": "136",
+    "views": "139",
     "text": "铃木汽车最早将于 2027 年向欧洲出口电动微型车。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3365899",
     "datetime": "2026-08-03T15:50:38+00:00",
-    "views": "137",
+    "views": "140",
     "text": "全新《蜘蛛侠》影片创下好莱坞影史最高首映票房纪录。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3365898",
     "datetime": "2026-08-03T15:49:58+00:00",
-    "views": "140",
+    "views": "143",
     "text": "委内瑞拉 7 月石油出口小幅下降至 116 万桶/日；对美国的石油出口增加至约 78.6 万桶/日；对欧洲的石油出口降至约 82200 桶/日。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3365897",
     "datetime": "2026-08-03T15:49:18+00:00",
-    "views": "142",
+    "views": "144",
     "text": "AWS 首席执行官：AI 业务重心正从模型训练转向推理业务。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3365896",
     "datetime": "2026-08-03T15:49:17+00:00",
-    "views": "141",
+    "views": "143",
     "text": "AWS 首席执行官认为 AI 行业潜在市场规模极其庞大。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3365894",
     "datetime": "2026-08-03T15:48:58+00:00",
-    "views": "142",
+    "views": "144",
     "text": "7 月委内瑞拉对美石油出口量升至约 78.6 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +182,7 @@
   {
     "post": "Financial_Express/3365895",
     "datetime": "2026-08-03T15:48:58+00:00",
-    "views": "142",
+    "views": "144",
     "text": "7 月委内瑞拉对欧洲的石油出口降至每日约 8.22 万桶。",
     "media_only": false,
     "image_url": null,
@@ -27988,32 +28015,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3362789"
-  },
-  {
-    "post": "Financial_Express/3362788",
-    "datetime": "2026-08-01T16:05:37+00:00",
-    "views": "249",
-    "text": "以军宣布在阿里塔希尔高地击杀多名真主党人员。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3362788"
-  },
-  {
-    "post": "Financial_Express/3362787",
-    "datetime": "2026-08-01T16:05:18+00:00",
-    "views": "248",
-    "text": "美国媒体：20 岁及以上美国男性劳动参与率降至 66%，2006 年该数值为 73%。\n🕊1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3362787"
-  },
-  {
-    "post": "Financial_Express/3362786",
-    "datetime": "2026-08-01T16:04:58+00:00",
-    "views": "244",
-    "text": "美国官员：伊朗疑似发动网络攻击，目标波及美国至少七个州的供水系统。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3362786"
   }
 ]
