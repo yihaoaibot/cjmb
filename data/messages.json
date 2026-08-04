@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3368894",
+    "datetime": "2026-08-04T21:24:37+00:00",
+    "views": "5",
+    "text": "基辅传出爆炸声。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368894"
+  },
+  {
+    "post": "Financial_Express/3368893",
+    "datetime": "2026-08-04T21:24:18+00:00",
+    "views": "8",
+    "text": "美国共和党国会议员马克斯·米勒透露，特朗普致电他并表示：“不知道你能不能拿下这次选举。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368893"
+  },
+  {
+    "post": "Financial_Express/3368892",
+    "datetime": "2026-08-04T21:24:17+00:00",
+    "views": "8",
+    "text": "英国机构报告 AI 安全事件 涉 Anthropic 和 OpenAI 模型\n金十数据 8 月 5 日讯，英国 AI 安全研究院（AISI）表示：“2026 年 7 月 28 日，我们宣布了一起安全事件，并在发现事件后约一小时内控制了事态并展开了全面调查。该事件源于一次评估，评估中我们给智能体布置了一项网络安全挑战任务。我们使用多个模型运行了该挑战 122 次。调查发现，在其中 10 次运行中，人工智能智能体在实时互联网上采取了未经授权的自主行动，目标是真实的个人和组织。我们总共记录了 19 起此类行动。几乎所有这些行为（17 起）都来自同一个模型——Anthropic 的 Mythos5，另有 2 起行动涉及 OpenAI 的 GPT-5.6-Sol。对此事件应谨慎解读。在某种程度上，我们的评估设计选择和特定配置促成了这种行为。尽管如此，该智能体的活动仍显示出一些新颖的、可能具有欺骗性的行为，其程度和严重性均超出了我们的预期。我们目前的分析结果尚不明确，且仍在进行中。”AISI 补充称，重点在于，这并非模型脱离安全测试环境（即“沙盒”）的案例。按照网络安全测试的标准操作，其当时有意允许了互联网访问。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368892"
+  },
+  {
+    "post": "Financial_Express/3368891",
+    "datetime": "2026-08-04T21:23:57+00:00",
+    "views": "13",
+    "text": "AMD 预计 AI 算力市场年增速 40%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368891"
+  },
+  {
     "post": "Financial_Express/3368890",
     "datetime": "2026-08-04T21:21:17+00:00",
-    "views": "16",
+    "views": "29",
     "text": "马斯克：SPACEX 的 ARR 到年底“可能会高于”1000 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3368888",
     "datetime": "2026-08-04T21:20:58+00:00",
-    "views": "22",
+    "views": "32",
     "text": "AMD 首席执行官：公司预计将超过 2025 年财务分析师日提出的 35%营收增长目标。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3368889",
     "datetime": "2026-08-04T21:20:58+00:00",
-    "views": "22",
+    "views": "32",
     "text": "AMD CEO：公司预计将超过 2025 年金融分析师日提出的年度每股收益 20 美元的目标。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3368887",
     "datetime": "2026-08-04T21:20:57+00:00",
-    "views": "22",
+    "views": "32",
     "text": "马斯克：本月下一次试飞中能否捕获并回收星舰上级阶段，取决于监管部门的批准。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3368886",
     "datetime": "2026-08-04T21:20:38+00:00",
-    "views": "23",
+    "views": "33",
     "text": "AMD 首席执行官：我们目前的表现明显领先于去年 11 月制定的财务模型。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3368885",
     "datetime": "2026-08-04T21:20:37+00:00",
-    "views": "24",
+    "views": "34",
     "text": "AMD 首席执行官：公司将于 2027 年推出机架级产品，配备 MI500 GPU、Verano CPU、Pensando 网络技术，并同时采用铜缆和光纤扩展域。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3368884",
     "datetime": "2026-08-04T21:19:37+00:00",
-    "views": "23",
+    "views": "33",
     "text": "AMD 预计长期每股收益将超 20 美元，有望超出长期营收目标。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3368883",
     "datetime": "2026-08-04T21:17:57+00:00",
-    "views": "25",
+    "views": "34",
     "text": "富时 A50 期指连续夜盘收涨 0.02%，报 14755 点。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3368882",
     "datetime": "2026-08-04T21:16:38+00:00",
-    "views": "27",
+    "views": "34",
     "text": "阿根廷政府表示，已与海事引航员达成临时协议，将费用削减 20%，以换取船舶航行恢复。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3368881",
     "datetime": "2026-08-04T21:16:18+00:00",
-    "views": "28",
+    "views": "35",
     "text": "白宫将开放模型排除在其测试先进人工智能能力的框架之外。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3368880",
     "datetime": "2026-08-04T21:16:17+00:00",
-    "views": "28",
+    "views": "35",
     "text": "据 AXIOS：白宫将开源模型排除在先进 AI 能力测试框架之外。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3368879",
     "datetime": "2026-08-04T21:14:58+00:00",
-    "views": "28",
+    "views": "34",
     "text": "AMD 首席执行官：现预计数据中心部门营收到 2027 年将同比增长逾一倍。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3368878",
     "datetime": "2026-08-04T21:14:57+00:00",
-    "views": "27",
+    "views": "33",
     "text": "AMD(AMD.O)首席执行官：现在预计 2027 年数据中心部门收入将同比增长超过两倍。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3368877",
     "datetime": "2026-08-04T21:13:37+00:00",
-    "views": "61",
+    "views": "66",
     "text": "马斯克：SpaceX 预计一年后每天飞行一次，甚至更多。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3368876",
     "datetime": "2026-08-04T21:13:17+00:00",
-    "views": "60",
+    "views": "65",
     "text": "SpaceX：公司已提交招股说明书，内容涉及部分现有股东重新发售 1.3695 亿股 A 类普通股的发行业务。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3368875",
     "datetime": "2026-08-04T21:12:57+00:00",
-    "views": "60",
+    "views": "65",
     "text": "马斯克预计星舰下一次试飞将于本月底进行。",
     "media_only": false,
     "image_url": null,
