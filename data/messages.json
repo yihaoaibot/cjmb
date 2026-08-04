@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3368864",
+    "datetime": "2026-08-04T21:06:37+00:00",
+    "views": "1",
+    "text": "马斯克：公司预计明年将获得英伟达图形处理器供应总量中“相当大的份额”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368864"
+  },
+  {
+    "post": "Financial_Express/3368863",
+    "datetime": "2026-08-04T21:05:57+00:00",
+    "views": "6",
+    "text": "OpenAI：在英国 AISI 评估发现的 19 起事件中，有两起涉及 OpenAI 模型 GPT-5.6 SOL；其余案例来自另一实验室的模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368863"
+  },
+  {
+    "post": "Financial_Express/3368862",
+    "datetime": "2026-08-04T21:05:37+00:00",
+    "views": "8",
+    "text": "OpenAI：英国 AISI 发现 GPT‑5.6 SOL 执行了两项未经授权的操作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368862"
+  },
+  {
+    "post": "Financial_Express/3368861",
+    "datetime": "2026-08-04T21:05:17+00:00",
+    "views": "10",
+    "text": "OpenAI：7 月 29 日，异常告警促使我们发现一起事件，事件发生在夺旗（CTF）模式网络安全测试期间，涉及 OpenAI 旗下模型。已收到非正式通知，确认与此次事件相关的所有已识别问题均已不再活跃。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368861"
+  },
+  {
     "post": "Financial_Express/3368860",
     "datetime": "2026-08-04T21:03:57+00:00",
-    "views": "7",
+    "views": "17",
     "text": "OPENAI：异常情况尚未发现受影响站点自身数据之外的影响，其审计工作仍在进行中。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3368859",
     "datetime": "2026-08-04T21:03:17+00:00",
-    "views": "10",
+    "views": "20",
     "text": "安进高管表示，预计第三季度运营支出将出现显著的环比增长。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3368858",
     "datetime": "2026-08-04T21:02:17+00:00",
-    "views": "15",
+    "views": "25",
     "text": "据阿拉比亚电视台：沙特官员称，沙特与胡塞武装之间未通过调解人进行任何谈判。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3368857",
     "datetime": "2026-08-04T21:00:18+00:00",
-    "views": "18",
+    "views": "55",
     "text": "金十图示：2026 年 08 月 04 日（周二）华尔街恐惧与贪婪指数（美盘后）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3368856",
     "datetime": "2026-08-04T21:00:17+00:00",
-    "views": "18",
+    "views": "55",
     "text": "韩国 7 月外汇储备 4279.5 亿美元，前值 4273.6 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3368855",
     "datetime": "2026-08-04T20:59:57+00:00",
-    "views": "19",
+    "views": "56",
     "text": "安进高管在电话会议上表示，第二季度资本支出达 5 亿美元，主要受美国各地生产基地投资推动。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3368854",
     "datetime": "2026-08-04T20:59:17+00:00",
-    "views": "53",
+    "views": "60",
     "text": "市场资讯：沙特与胡塞武装并未通过调解方开展谈判。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3368853",
     "datetime": "2026-08-04T20:58:57+00:00",
-    "views": "53",
+    "views": "59",
     "text": "SpaceX 首席财务官：当前的经济状况已使我们在计算领域的新资本部署实现了不到一年的投资回报期。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3368852",
     "datetime": "2026-08-04T20:58:37+00:00",
-    "views": "52",
+    "views": "57",
     "text": "SpaceX 首席财务官：云服务合作业务需求旺盛。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3368851",
     "datetime": "2026-08-04T20:56:58+00:00",
-    "views": "36",
+    "views": "41",
     "text": "新一轮黎以谈判在罗马举行\n意大利媒体 4 日报道，黎巴嫩和以色列当天在意首都罗马开启新一轮由美国斡旋的安全谈判，重点讨论两国边境安全安排以及落实 6 月底在美国华盛顿达成的框架协议。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3368850",
     "datetime": "2026-08-04T20:56:57+00:00",
-    "views": "37",
+    "views": "42",
     "text": "新一轮黎以谈判在罗马举行\n金十数据 8 月 5 日讯，意大利媒体 4 日报道，黎巴嫩和以色列当天在意首都罗马开启新一轮由美国斡旋的安全谈判，重点讨论两国边境安全安排以及落实 6 月底在美国华盛顿达成的框架协议。本轮谈判在美国驻意大利使馆举行，为期 3 天。据欧洲新闻网报道，谈判主要围绕推动以军撤离黎巴嫩南部、尚未解决的边界争议以及黎巴嫩真主党解除武装等议题展开，黎以双方均派出技术代表团参加。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3368849",
     "datetime": "2026-08-04T20:56:38+00:00",
-    "views": "38",
+    "views": "42",
     "text": "美国中央司令部：霍尔木兹海峡南部航道依旧保持畅通，所有希望行经这条国际水道的商业船舶均可通行。过去三个月，尽管遭遇伊朗无端挑衅，美军已协助 1000 余艘船舶顺利通过海峡，目前此类通航仍在持续。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3368848",
     "datetime": "2026-08-04T20:56:37+00:00",
-    "views": "39",
+    "views": "43",
     "text": "SpaceX 首席财务官：计算协议在第二季度增加了 16 亿美元的收入。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3368847",
     "datetime": "2026-08-04T20:55:17+00:00",
-    "views": "44",
+    "views": "47",
     "text": "美元指数 4 日下跌\n金十数据 8 月 5 日讯，衡量美元对六种主要货币的美元指数当天下跌 0.04%，在汇市尾市收于 99.858。截至纽约汇市尾市，1 欧元兑换 1.1533 美元，高于前一交易日的 1.1514 美元；1 英镑兑换 1.3452 美元，高于前一交易日的 1.3431 美元。1 美元兑换 157.66 日元，高于前一交易日的 156.74 日元；1 美元兑换 0.8092 瑞士法郎，低于前一交易日的 0.8101 瑞士法郎；1 美元兑换 1.4066 加元，高于前一交易日的 1.4045 加元；1 美元兑换 9.5192 瑞典克朗，低于前一交易日的 9.5557 瑞典克朗。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3368846",
     "datetime": "2026-08-04T20:54:57+00:00",
-    "views": "45",
+    "views": "47",
     "text": "美元指数 4 日下跌\n衡量美元对六种主要货币的美元指数当天下跌 0.04%，在汇市尾市收于 99.858。截至纽约汇市尾市，1 欧元兑换 1.1533 美元，高于前一交易日的 1.1514 美元；1 英镑兑换 1.3452 美元，高于前一交易日的 1.3431 美元。1 美元兑换 157.66 日元，高于前一交易日的 156.74 日元；1 美元兑换 0.8092 瑞士法郎，低于前一交易日的 0.8101 瑞士法郎；1 美元兑换 1.4066 加元，高于前一交易日的 1.4045 加元；1 美元兑换 9.5192 瑞典克朗，低于前一交易日的 9.5557 瑞典克朗。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3368845",
     "datetime": "2026-08-04T20:54:37+00:00",
-    "views": "44",
+    "views": "45",
     "text": "SpaceX 首席财务官：星链扩张或令混合 ARPU 承压，但将推动营收增长。",
     "media_only": false,
     "image_url": null,
