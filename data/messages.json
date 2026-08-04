@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3368156",
+    "datetime": "2026-08-04T12:46:58+00:00",
+    "views": "2",
+    "text": "保尔森：希望厘清 FOMC 召开 6 次与 8 次会议之间的利弊取舍。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368156"
+  },
+  {
+    "post": "Financial_Express/3368155",
+    "datetime": "2026-08-04T12:46:57+00:00",
+    "views": "2",
+    "text": "英国石油首席财务官表示：对我而言，资产负债表的健康状况比 200 亿美元资产剥离计划的完成额度更为重要。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368155"
+  },
+  {
+    "post": "Financial_Express/3368154",
+    "datetime": "2026-08-04T12:46:18+00:00",
+    "views": "9",
+    "text": "英媒：深度求索新模型运行成本优势明显\n英国路透社日前报道，在对全球多款主流人工智能模型的最新基准测试中，中国人工智能企业深度求索最新发布的 DeepSeek-V4-Flash 模型运行成本最低。报道摘要如下： 深度求索于 7 月 31 日正式发布 DeepSeek-V4-Flash 模型，再次展现了其能够以超低成本提供人工智能替代方案。该公司推出的 DeepSeek-R1 模型在 2025 年初发布时受到全球瞩目，引发了市场对美国企业在人工智能领域巨额投资的质疑。 美国研究机构人工智能分析网的评估显示，以衡量人工智能使用量的数据单位词元计算，DeepSeek-V4-Flash 模型每百万输入词元收费 0.14 美元，每百万输出词元收费 0.28 美元，完成每项测试的平均成本约为 0.03 美元。而美国开放人工智能研究中心（OpenAI）的 GPT-5.6 Sol 模型的运行成本为 1.86 美元，Anthropic 的“克劳德-寓言 5”模型为 3.15 美元，是 DeepSeek-V4-Flash 模型运行成本百倍。 人工智能分析网所采取的比较方式不仅考虑模型定价，还纳入完成任务所需处理和生成的数据量，因此更能反映实际使用成本。 在综合编程、推理和模拟职场任务等 9 项测试结果的“智能指数”中，DeepSeek-V4-Flash 模型的得分与谷歌“双子座 3.6 闪电”模型相当，但低于北京月之暗面科技有限公司的 Kimi K3 以及 OpenAI 和 Anthropic 的部分模型。(新华社)",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368154"
+  },
+  {
+    "post": "Financial_Express/3368153",
+    "datetime": "2026-08-04T12:45:38+00:00",
+    "views": "13",
+    "text": "强生：汤姆·卡瓦纳将接替珍妮弗·陶伯特出任创新药物板块执行副总裁兼全球董事长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368153"
+  },
+  {
+    "post": "Financial_Express/3368151",
+    "datetime": "2026-08-04T12:45:18+00:00",
+    "views": "13",
+    "text": "美联储保尔森：经济强劲，通胀过高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368151"
+  },
+  {
+    "post": "Financial_Express/3368152",
+    "datetime": "2026-08-04T12:45:18+00:00",
+    "views": "13",
+    "text": "Microchip Technology 携手美光科技，展示面向 AI 与数据中心基础设施的高性能 PCIe® Gen 6 存储架构。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368152"
+  },
+  {
+    "post": "Financial_Express/3368150",
+    "datetime": "2026-08-04T12:45:17+00:00",
+    "views": "13",
+    "text": "美联储保尔森：货币政策面临复杂时刻。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3368150"
+  },
+  {
     "post": "Financial_Express/3368149",
     "datetime": "2026-08-04T12:44:37+00:00",
-    "views": "5",
+    "views": "44",
     "text": "美联储保尔森：希望看到基础通胀方面更多进展。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3368148",
     "datetime": "2026-08-04T12:44:18+00:00",
-    "views": "6",
+    "views": "44",
     "text": "匈牙利总理表示，可能需要为帕克斯核电站考虑另一套冷却系统。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3368147",
     "datetime": "2026-08-04T12:44:17+00:00",
-    "views": "6",
+    "views": "44",
     "text": "美联储保尔森：当利率为零时，前瞻性指引是合适的。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3368146",
     "datetime": "2026-08-04T12:43:58+00:00",
-    "views": "7",
+    "views": "45",
     "text": "美联储官员保尔森：重新审视美联储的工作运作方式是件非常有益的事。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3368145",
     "datetime": "2026-08-04T12:43:37+00:00",
-    "views": "8",
+    "views": "46",
     "text": "美联储鲍尔森：当前环境的不确定性使得提供前瞻性指引变得困难。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3368143",
     "datetime": "2026-08-04T12:43:18+00:00",
-    "views": "39",
+    "views": "45",
     "text": "协创数据：拟使用不超 70 亿元自有资金进行委托理财\n协创数据(300857.SZ)公告称，公司及子公司拟使用最高额度合计不超过 70 亿元的自有资金进行委托理财，其中拟使用最高额度不超过 60 亿元用于协定存款。额度有效期自 2026 年第七次临时股东会审议通过之日起至 2026 年度股东会召开之日止。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3368144",
     "datetime": "2026-08-04T12:43:18+00:00",
-    "views": "9",
+    "views": "46",
     "text": "保尔森：利率处于零时，前瞻性指引是恰当的。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3368142",
     "datetime": "2026-08-04T12:43:17+00:00",
-    "views": "39",
+    "views": "45",
     "text": "加拿大连续第四个月录得贸易顺差，黄金出口抵消能源下滑\n6 月加拿大进口和出口分别增长 0.2%和 0.4%，推动贸易顺差从 5 月修正后的 37 亿加元扩大至 38.6 亿加元（约合 27 亿美元）。加拿大出口连续第五个月增长，其中金属及非金属矿产品出口增长 16.5%，成为主要推动因素。这一增长主要来自对英国黄金出口增加，以及 6 月外国居民购买加拿大持有的黄金。与此同时，由于原油价格下跌，加拿大能源出口下降 10%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3368141",
     "datetime": "2026-08-04T12:42:39+00:00",
-    "views": "44",
+    "views": "49",
     "text": "保尔森：前瞻性指引有着相当明确的含义。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3368140",
     "datetime": "2026-08-04T12:42:38+00:00",
-    "views": "43",
+    "views": "48",
     "text": "协创数据：拟使用不超 70 亿元自有资金进行委托理财 下游客户集中回款以及预付款显著增加\n金十数据 8 月 4 日讯，协创数据公告，公司及子公司拟使用最高额度合计不超过 70 亿元的自有资金进行委托理财，其中拟使用最高额度不超过 60 亿元用于协定存款。额度有效期自 2026 年第七次临时股东会审议通过之日起至 2026 年度股东会召开之日止。随着公司云算力服务业务的持续发展，在算力集群投入持续增加的同时，来自下游客户在短期内的集中回款以及预付款也显著增加。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3368139",
     "datetime": "2026-08-04T12:42:17+00:00",
-    "views": "48",
+    "views": "52",
     "text": "麦当劳宣布更换美国业务总裁\n麦当劳 8 月 4 日宣布，在公司拥有超 26 年工作经验的 Skye Anderson 出任麦当劳美国总裁，即日起生效，接替已掌管麦当劳美国业务近 7 年的 Joe Erlinger。麦当劳当日公布财报显示，二季度美国市场同店销售额增长 0.8%，为 2025 年年初以来最慢增速。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3368138",
     "datetime": "2026-08-04T12:41:58+00:00",
-    "views": "50",
+    "views": "54",
     "text": "协创数据：继续开展跨境双向人民币资金池业务 额度提至 47 亿\n协创数据公告称，公司于 2026 年 8 月 4 日召开董事会，同意作为主办企业在杭州银行继续开展跨境双向人民币资金池业务，并将资金池配套额度由不超 18 亿元提升至不超 47 亿元，额度在业务期限内可循环使用。该事项不构成关联交易及重大资产重组，无需股东会审议。业务旨在提升资金使用效率，对公司无不利影响，但存在受宏观等因素影响的风险。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +182,7 @@
   {
     "post": "Financial_Express/3368137",
     "datetime": "2026-08-04T12:41:38+00:00",
-    "views": "53",
+    "views": "57",
     "text": "美联储鲍尔森：透过供应冲击看问题是正确的。",
     "media_only": false,
     "image_url": null,
@@ -43477,23 +43540,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3363300"
-  },
-  {
-    "post": "Financial_Express/3363299",
-    "datetime": "2026-08-02T12:46:58+00:00",
-    "views": "267",
-    "text": "黑石集团聘请花旗集团负责日本电气（NEC）集团的拍卖事宜。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3363299"
-  },
-  {
-    "post": "Financial_Express/3363298",
-    "datetime": "2026-08-02T12:45:38+00:00",
-    "views": "265",
-    "text": "是谁拦住了美军空袭伊朗？\n美国总统特朗普 8 月 1 日在社交媒体发文称已同意取消对伊朗的打击。美国国务院刚向中东地区美国公民发出广泛安全警告，建议考虑撤离或做好迅速撤离准备。美媒此前报道还说，美以正计划对伊朗能源设施发动“迄今最猛烈的轰炸”。 宁夏大学中国阿拉伯国家研究院名誉院长李绍先认为：8 月 1 日特朗普说，同意取消针对伊朗的打击行动。但所谓即将达成协议的说辞，说服力有限，核心原因实际有两点。 第一，特朗普本身进退两难、举棋不定。一旦美军打击伊朗能源等核心基础设施，冲突极易全面扩大，局势或将重回 4 月 8 日前大规模交战状态。全面开战不仅难以达成战略目标，战事还会长期拖延；油价暴涨、全球经济承压，更会直接冲击当下关键的选情。 第二，来自海湾核心盟友的强力劝阻。就在特朗普官宣前一日，沙特王储与其通话，劝说美方不要袭击伊朗基础设施。伊朗早已放出明确信号，如果本土能源设施遭到打击，将会对波斯湾产油国、中东境内美国相关能源基建实施报复。（凤凰网）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3363298"
   }
 ]
