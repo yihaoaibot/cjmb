@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3371076",
+    "datetime": "2026-08-05T14:04:17+00:00",
+    "views": "5",
+    "text": "消息人士称，俄罗斯萨拉托夫炼油厂在 8 月 2 日遭遇无人机袭击后已停产。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3371076"
+  },
+  {
+    "post": "Financial_Express/3371075",
+    "datetime": "2026-08-05T14:03:58+00:00",
+    "views": "9",
+    "text": "消息人士称，俄罗斯萨拉托夫炼油厂自 8 月 2 日遭受无人机袭击后已停止运营。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3371075"
+  },
+  {
+    "post": "Financial_Express/3371074",
+    "datetime": "2026-08-05T14:03:57+00:00",
+    "views": "9",
+    "text": "甲醇连续主力合约日内跌 2%，现报 2499.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3371074"
+  },
+  {
+    "post": "Financial_Express/3371073",
+    "datetime": "2026-08-05T14:03:17+00:00",
+    "views": "43",
+    "text": "据 CGTN：也门胡塞武装称，在红海北部向一艘沙特油轮发射了弹道导弹。该组织未提供证据，沙特阿拉伯也未立即发表评论。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3371073"
+  },
+  {
+    "post": "Financial_Express/3371072",
+    "datetime": "2026-08-05T14:02:57+00:00",
+    "views": "44",
+    "text": "美国财政部：美国出台涉伊朗相关制裁。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3371072"
+  },
+  {
     "post": "Financial_Express/3371071",
     "datetime": "2026-08-05T14:02:18+00:00",
-    "views": "2",
+    "views": "46",
     "text": "秦晓倩获批担任重庆国际信托董事、总经理\n8 月 5 日，重庆金融监管局网站发布批复，核准秦晓倩重庆国际信托股份有限公司董事、总经理的任职资格。公司应要求上述核准任职资格人员严格遵守金融监管总局有关监管规定，自本行政许可决定作出之日起 3 个月内到任，并按要求及时报告到任情况。未在上述规定期限内到任的，本批复文件失效，由决定机关办理行政许可注销手续。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3371070",
     "datetime": "2026-08-05T14:02:17+00:00",
-    "views": "2",
+    "views": "46",
     "text": "森科能源称对加拿大监管环境改善感到鼓舞；若市场条件允许，可灵活加速产量增长步伐。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3371069",
     "datetime": "2026-08-05T14:01:38+00:00",
-    "views": "4",
+    "views": "47",
     "text": "美国 7 月 ISM 非制造业供应商交付指数 52.8，前值 54.4。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3371068",
     "datetime": "2026-08-05T14:01:18+00:00",
-    "views": "36",
+    "views": "48",
     "text": "雷诺兹美国公司遭怀登质询，涉及电子烟业务及与特朗普方面关联。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3371067",
     "datetime": "2026-08-05T14:01:17+00:00",
-    "views": "36",
+    "views": "48",
     "text": "美国 7 月 ISM 非制造业库存指数 51.4，前值 51.2。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3371066",
     "datetime": "2026-08-05T14:00:37+00:00",
-    "views": "40",
+    "views": "52",
     "text": "美国 7 月 ISM 非制造业 PMI 54.1，预期 54.5，前值 54。美国 7 月 ISM 非制造业物价指数 70.3，前值 67.7。美国 7 月 ISM 非制造业新订单指数 57.2，前值 55.1。美国 7 月 ISM 非制造业就业指数 47.4，前值 51.2。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3371064",
     "datetime": "2026-08-05T14:00:18+00:00",
-    "views": "41",
+    "views": "51",
     "text": "美国 7 月 ISM 非制造业新订单指数 57.2，前值 55.1。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3371065",
     "datetime": "2026-08-05T14:00:18+00:00",
-    "views": "43",
+    "views": "54",
     "text": "美国 7 月 ISM 非制造业就业指数 47.4，前值 51.2。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3371063",
     "datetime": "2026-08-05T14:00:17+00:00",
-    "views": "41",
+    "views": "80",
     "text": "美国 7 月 ISM 非制造业物价指数 70.3，前值 67.7。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3371062",
     "datetime": "2026-08-05T13:59:58+00:00",
-    "views": "41",
+    "views": "80",
     "text": "STL 斩获约 2.1 亿美元国际光纤光缆供应合约。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3371061",
     "datetime": "2026-08-05T13:59:38+00:00",
-    "views": "42",
+    "views": "81",
     "text": "蒋宁获批担任马上消费金融副董事长、总经理\n8 月 5 日，重庆金融监管局网站发布批复，核准蒋宁马上消费金融股份有限公司董事、副董事长、总经理的任职资格。公司应要求上述核准任职资格人员严格遵守金融监管总局有关监管规定，自本行政许可决定作出之日起 3 个月内到任，并按要求及时报告到任情况。未在上述规定期限内到任的，本批复文件失效，由决定机关办理行政许可注销手续。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3371059",
     "datetime": "2026-08-05T13:58:17+00:00",
-    "views": "47",
+    "views": "83",
     "text": "美国财政部将于周三发布带薪家事假新指引。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3371058",
     "datetime": "2026-08-05T13:57:38+00:00",
-    "views": "79",
+    "views": "84",
     "text": "奥地利国家气象局称，在与斯洛伐克接壤的巴特德意志-阿尔滕堡镇，气温达到 41.2 摄氏度，创下奥地利最高气温新纪录。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3371057",
     "datetime": "2026-08-05T13:56:39+00:00",
-    "views": "83",
+    "views": "87",
     "text": "联合国教科文组织确认北京为 2029 年“世界建筑之都”\n联合国教科文组织 5 日宣布，正式确认北京为 2029 年联合国教科文组织—国际建筑师协会“世界建筑之都”。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -146,7 +191,7 @@
   {
     "post": "Financial_Express/3371056",
     "datetime": "2026-08-05T13:56:38+00:00",
-    "views": "85",
+    "views": "89",
     "text": "欧洲天然气价格下跌至 52.78 欧元/兆瓦时，跌幅达 5.6%。",
     "media_only": false,
     "image_url": null,
@@ -47338,77 +47383,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3365714"
-  },
-  {
-    "post": "Financial_Express/3365712",
-    "datetime": "2026-08-03T14:04:18+00:00",
-    "views": "72",
-    "text": "莱茵能源与谷歌合作项目高峰期预计最多创造 250 个就业岗位  。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3365712"
-  },
-  {
-    "post": "Financial_Express/3365713",
-    "datetime": "2026-08-03T14:04:18+00:00",
-    "views": "145",
-    "text": "美国制造业扩张速度创 2022 年以来最快\n美国 7 月份制造业活动以四年多来的最快速度扩张，这主要得益于强劲的需求、激增的产量以及企业增加雇员的举措。美国供应管理协会（ISM）7 月份制造业指数升至 55.6，创 2022 年 5 月以来最高水平、已连续七个月保持在荣枯线上方。生产指数升至 58.5，为 2021 年底以来的最高水平；就业指数也显示，自 2023 年 9 月以来，制造商首次增加了员工人数。作为需求风向标的新订单增长同样有所回升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3365713"
-  },
-  {
-    "post": "Financial_Express/3365711",
-    "datetime": "2026-08-03T14:03:58+00:00",
-    "views": "73",
-    "text": "德国莱茵集团与谷歌签署俄克拉荷马州太阳能项目购电协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3365711"
-  },
-  {
-    "post": "Financial_Express/3365709",
-    "datetime": "2026-08-03T14:03:38+00:00",
-    "views": "72",
-    "text": "比亚迪腾势 Z9S 开启预售，预售价 31.98 万元起\n8 月 3 日，比亚迪腾势 Z9S 正式开启预售，推出三款配置，预售价区间为 31.98 万至 38.98 万元。新车定位 C 级纯电轿车，新车全系标配天神之眼 5.0 智驾系统、第二代刀片电池及易三方技术平台，CLTC 纯电续航最高达 1100km，三电机四驱版综合最大功率 890kW。该车的推出旨在补充腾势高性能纯电轿跑矩阵，提升比亚迪在 30 万—40 万元级高端新能源市场的竞争优势。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3365709"
-  },
-  {
-    "post": "Financial_Express/3365710",
-    "datetime": "2026-08-03T14:03:38+00:00",
-    "views": "72",
-    "text": "哈希德克斯宣布旗下哈希德克斯比特币交易型开放式指数基金完成设立。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3365710"
-  },
-  {
-    "post": "Financial_Express/3365708",
-    "datetime": "2026-08-03T14:03:19+00:00",
-    "views": "70",
-    "text": "德国莱茵集团（RWE AG）该项目预计将于 2028 年投入商业运营。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3365708"
-  },
-  {
-    "post": "Financial_Express/3365707",
-    "datetime": "2026-08-03T14:02:58+00:00",
-    "views": "69",
-    "text": "美国斯巴鲁公司：公布 2026 年 7 月汽车销量为 54,454 辆。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3365707"
-  },
-  {
-    "post": "Financial_Express/3365706",
-    "datetime": "2026-08-03T14:02:57+00:00",
-    "views": "69",
-    "text": "美国国债回吐涨幅，7 月 ISM 制造业数据强劲。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3365706"
   }
 ]
