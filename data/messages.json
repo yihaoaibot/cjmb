@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3369119",
+    "datetime": "2026-08-05T00:08:37+00:00",
+    "views": "1",
+    "text": "软银集团股价上涨 1.9%。受人工智能业务拉动，软银第一财季业绩超预期。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3369119"
+  },
+  {
+    "post": "Financial_Express/3369117",
+    "datetime": "2026-08-05T00:08:18+00:00",
+    "views": "1",
+    "text": "三星电子股价早盘上涨 5.0%，至 252,000 韩元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3369117"
+  },
+  {
+    "post": "Financial_Express/3369118",
+    "datetime": "2026-08-05T00:08:18+00:00",
+    "views": "1",
+    "text": "微牛拓展 AI 投资生态系统，支持 ChatGPT 等原生连接\n8 月 4 日，在线投资平台微牛（Webull）宣布新增对 ChatGPT、Claude 和 Grok 的原生连接器，推出微牛命令行界面（CLI），并升级了微牛模型上下文协议（MCP）技能库。通过这些更新，投资者、开发者及 AI 代理可以更便捷地访问微牛的市场数据、账户服务及研报工具。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3369118"
+  },
+  {
+    "post": "Financial_Express/3369116",
+    "datetime": "2026-08-05T00:08:17+00:00",
+    "views": "1",
+    "text": "澳大利亚 S&P/ASX 200 指数上涨 0.7%，创下 9,207.30 点的历史新高",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3369116"
+  },
+  {
+    "post": "Financial_Express/3369115",
+    "datetime": "2026-08-05T00:07:58+00:00",
+    "views": "1",
+    "text": "日本央行会议纪要：数位委员表示，本财年下半年，涨价潮范围持续扩大，很可能会大幅推升消费者通胀。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3369115"
+  },
+  {
+    "post": "Financial_Express/3369114",
+    "datetime": "2026-08-05T00:07:57+00:00",
+    "views": "1",
+    "text": "信达生物：2026 年上半年产品收入超 82 亿元 同比增长 55%以上\n信达生物（01801.HK）发布内幕消息公告，于 2026 年上半年，公司产品收入录得超人民币 82 亿元，同比增长 55%以上；其中第二季度产品收入录得超过人民币 43 亿元，同比增长约 60%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3369114"
+  },
+  {
+    "post": "Financial_Express/3369113",
+    "datetime": "2026-08-05T00:06:58+00:00",
+    "views": "13",
+    "text": "日经 225 指数涨幅扩大至 2%\n日经 225 指数涨幅扩大至 2%，现报 65468.69 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3369113"
+  },
+  {
+    "post": "Financial_Express/3369112",
+    "datetime": "2026-08-05T00:06:57+00:00",
+    "views": "8",
+    "text": "日本时事社报导，首相高市早苗要求日本央行在必要时购买更多债券。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3369112"
+  },
+  {
     "post": "Financial_Express/3369111",
     "datetime": "2026-08-05T00:06:38+00:00",
-    "views": "1",
+    "views": "12",
     "text": "日本央行会议纪要：一名委员认为，企业与家庭的通胀预期已经升至 2%左右的水平。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3369110",
     "datetime": "2026-08-05T00:06:37+00:00",
-    "views": "1",
+    "views": "6",
     "text": "MSCI 亚太指数上涨 1%至 270.79 点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3369109",
     "datetime": "2026-08-05T00:06:18+00:00",
-    "views": "1",
+    "views": "13",
     "text": "日本央行会议纪要：一名委员表示，随着市场盈亏平衡通胀率升至 2%以上，中长期通胀预期正开始发生变化。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3369108",
     "datetime": "2026-08-05T00:06:17+00:00",
-    "views": "1",
+    "views": "7",
     "text": "日本央行会议纪要：一名委员表示，中长期通胀预期正开始变化，市场盈亏平衡通胀率已升至 2%以上。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3369107",
     "datetime": "2026-08-05T00:05:37+00:00",
-    "views": "8",
+    "views": "10",
     "text": "布伦特原油日内跌 1%，现报 78.55 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3369106",
     "datetime": "2026-08-05T00:05:18+00:00",
-    "views": "9",
+    "views": "47",
     "text": "澳大利亚 ASX 200 指数上涨 0.6%，创盘中历史新高。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3369105",
     "datetime": "2026-08-05T00:05:17+00:00",
-    "views": "9",
+    "views": "47",
     "text": "WTI 原油日内跌 1%，现报 74.95 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3369104",
     "datetime": "2026-08-05T00:04:57+00:00",
-    "views": "8",
+    "views": "47",
     "text": "日本制铁股价一度上涨 3.3%，此前该公司上调了全年营业利润预期。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3369103",
     "datetime": "2026-08-05T00:04:37+00:00",
-    "views": "7",
+    "views": "47",
     "text": "受美国股市上涨和油价下跌的提振，日经平均指数上涨超过 1100 点。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3369102",
     "datetime": "2026-08-05T00:03:57+00:00",
-    "views": "9",
+    "views": "45",
     "text": "8 台核电新机组获核准 上海核电企业已承揽近 500 亿元订单\n国务院常务会议 7 月 31 日决定核准浙江金七门核电二期、广东太平岭核电三期、辽宁庄河核电一期、山东莱阳核电一期 4 个核电项目，共 8 台核电机组。这是“十五五”时期首批获准的核电项目，据估算，上述新项目的总投资将超过 1700 亿元。记者了解到，作为我国核电产业的重要承载地，上海核电充分发挥产业链集聚优势，在新获批的 8 台机组前期项目招标中，上海已承接各类合同金额近 500 亿元。（澎湃新闻）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3369100",
     "datetime": "2026-08-05T00:03:38+00:00",
-    "views": "42",
+    "views": "48",
     "text": "澳大利亚 S&P/ASX 200 指数早盘上涨 0.4%，报 9,180.60 点。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3369101",
     "datetime": "2026-08-05T00:03:38+00:00",
-    "views": "12",
+    "views": "48",
     "text": "日本央行会议纪要：内阁办公室代表称，希望日本央行在制定适当政策时，能够顾及政府在推进危机管理与增长领域投资方面所做的工作。",
     "media_only": false,
     "image_url": null,
@@ -47869,59 +47941,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3363695"
-  },
-  {
-    "post": "Financial_Express/3363694",
-    "datetime": "2026-08-03T00:08:37+00:00",
-    "views": "48",
-    "text": "当地时间 3 日凌晨，埃及发生地震，新华社记者在埃及首都开罗感受到明显震感。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3363694"
-  },
-  {
-    "post": "Financial_Express/3363693",
-    "datetime": "2026-08-03T00:07:57+00:00",
-    "views": "49",
-    "text": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日中国 7 月 RatingDog 制造业 PMI、美国 7 月 ISM 制造业 PMI、美国 7 月标普全球制造业 PMI 终值公布。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3363693"
-  },
-  {
-    "post": "Financial_Express/3363692",
-    "datetime": "2026-08-03T00:07:37+00:00",
-    "views": "45",
-    "text": "浙江印发实施方案，进一步强化企业主导的产学研融通创新\n近日，浙江省科技厅印发《关于创新联合实验室建设机制 提升融合协同质效的实施方案》，自 2026 年 9 月 1 日起施行。《实施方案》提出，到 2030 年，全省选树 300 家左右标杆型联合实验室；依托联合实验室定向布局重大科技攻关项目，突破 500 项以上关键核心技术难题。《实施方案》明确，多维度评价遴选一批示范效应突出的标杆联合实验室；联动推进联合实验室建设与“科技副总”派驻，协助企业凝练需求、“精准出题”；对于企业实际投入 1000 万元及以上，且符合战略导向、预期可取得重大成果的攻关任务，可定向委托该联合实验室或牵头企业实施。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3363692"
-  },
-  {
-    "post": "Financial_Express/3363691",
-    "datetime": "2026-08-03T00:07:17+00:00",
-    "views": "45",
-    "text": "MSCI 亚太指数下跌 1%至 267.04 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3363691"
-  },
-  {
-    "post": "Financial_Express/3363690",
-    "datetime": "2026-08-03T00:06:58+00:00",
-    "views": "46",
-    "text": "德国地球科学研究中心（GFZ）：埃及发生 5.39 级地震。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3363690"
-  },
-  {
-    "post": "Financial_Express/3363689",
-    "datetime": "2026-08-03T00:06:57+00:00",
-    "views": "45",
-    "text": "特朗普称美伊今天谈判\n美国总统特朗普当地时间 8 月 2 日称，美国将于次日（8 月 3 日）和伊朗进行谈判。伊朗方面尚未对此作回应。当被问及为何取消原定打击行动时，特朗普说，“那本来会是一场大规模的打击行动，将是自二战以来规模最大的一次”，但沙特阿拉伯、阿联酋、卡塔尔等盟友请求取消行动，他也认为美伊能就霍尔木兹海峡达成协议，还会就伊朗核问题达成协议。 特朗普说，伊朗方面也请求美国取消原定的打击行动，并表示“我们现在正在以谈判的形式与他们对话”。他还补充道，“谈判将于明天（8 月 3 日）下午开始”。 （CCTV 国际时讯）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3363689"
   }
 ]
