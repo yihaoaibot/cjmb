@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3371571",
+    "datetime": "2026-08-05T22:09:38+00:00",
+    "views": "6",
+    "text": "摩根大通：科技股交易在经历惨烈抛售后，散户影响力或将加大\n此类对冲基金在 7 月亏损超过 10%。这一回撤幅度尚未计入 Situational Awareness 基金——该基金在半导体和科技股遭遇剧烈抛售后，上周被迫出售了其大部分公开股票投资组合。帕尼吉尔佐格卢认为，这表明其他专注于科技股的股票多空对冲基金可能也遭遇了半导体和存储芯片股的强制平仓。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3371571"
+  },
+  {
     "post": "Financial_Express/3371570",
     "datetime": "2026-08-05T22:04:57+00:00",
-    "views": "12",
+    "views": "45",
     "text": "eBay 首席财务官：第三季度合并商品交易总额（GMV）预期介于 220 亿至 224 亿美元之间，包含近期收购的 Depop 带来的影响。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3371569",
     "datetime": "2026-08-05T22:01:57+00:00",
-    "views": "46",
+    "views": "47",
     "text": "美联储 9 月加息 25 个基点的概率为 54.4%\n金十数据 8 月 6 日讯，据 CME“美联储观察”：美联储到 9 月维持利率不变的概率为 45.6%，累计加息 25 个基点的概率为 54.4%。美联储到 10 月维持利率不变的概率为 33.5%，累计加息 25 个基点的概率为 52.1%，累计加息 50 个基点的概率为 14.5%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3371568",
     "datetime": "2026-08-05T22:00:58+00:00",
-    "views": "48",
+    "views": "51",
     "text": "现货黄金突破 4250 美元/盎司，日内涨 0.07%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3371567",
     "datetime": "2026-08-05T22:00:57+00:00",
-    "views": "50",
+    "views": "52",
     "text": "纽约期金突破 4310 美元/盎司，日内涨 0.10%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3371566",
     "datetime": "2026-08-05T21:58:37+00:00",
-    "views": "53",
+    "views": "56",
     "text": "美国总统特朗普：需要让共和党在参议院更强硬。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3371565",
     "datetime": "2026-08-05T21:57:38+00:00",
-    "views": "59",
+    "views": "61",
     "text": "特朗普：我们必须让共和党参议员态度更强硬。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3371564",
     "datetime": "2026-08-05T21:51:18+00:00",
-    "views": "76",
+    "views": "108",
     "text": "美国总统特朗普：我们很欣赏马斯克。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3371562",
     "datetime": "2026-08-05T21:50:37+00:00",
-    "views": "77",
+    "views": "108",
     "text": "特朗普：我们很欣赏埃隆。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3371560",
     "datetime": "2026-08-05T21:47:38+00:00",
-    "views": "108",
+    "views": "109",
     "text": "美国总统特朗普：我更愿意与伊朗达成协议。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3371559",
     "datetime": "2026-08-05T21:47:37+00:00",
-    "views": "104",
+    "views": "106",
     "text": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3371554",
     "datetime": "2026-08-05T21:39:37+00:00",
-    "views": "99",
+    "views": "100",
     "text": "明晟（MSCI）：在 2026 年 11 月指数调整中，结束对孟加拉国在 MSCI 股票指数中的特殊处理安排。",
     "media_only": false,
     "image_url": null,
@@ -47149,14 +47158,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3366233"
-  },
-  {
-    "post": "Financial_Express/3366232",
-    "datetime": "2026-08-03T22:08:37+00:00",
-    "views": "126",
-    "text": "Coatue 旗下对冲基金下跌 8%，创一年多以来最大跌幅。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3366232"
   }
 ]
