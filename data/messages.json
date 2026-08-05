@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3371167",
+    "datetime": "2026-08-05T14:51:38+00:00",
+    "views": "3",
+    "text": "AlphaValue 将法拉利目标股价从 401 欧元上调至 422 欧元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3371167"
+  },
+  {
+    "post": "Financial_Express/3371166",
+    "datetime": "2026-08-05T14:51:18+00:00",
+    "views": "3",
+    "text": "PTA 连续主力合约日内跌 3%，现报 5588.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3371166"
+  },
+  {
     "post": "Financial_Express/3371165",
     "datetime": "2026-08-05T14:49:58+00:00",
-    "views": "6",
+    "views": "38",
     "text": "密歇根州卫生部：截至 8 月 5 日，共报告 12218 例环孢子虫病确诊病例。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3371164",
     "datetime": "2026-08-05T14:48:18+00:00",
-    "views": "37",
+    "views": "39",
     "text": "俄罗斯央行：将 8 月 6 日美元对卢布官方汇率设定为 1 美元兑换 80.9293 卢布（此前汇率为 1 美元兑换 81.1291 卢布）。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3371163",
     "datetime": "2026-08-05T14:47:18+00:00",
-    "views": "37",
+    "views": "69",
     "text": "巴西中央银行展期所有 5 万份外汇掉期合约。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3371162",
     "datetime": "2026-08-05T14:44:17+00:00",
-    "views": "70",
+    "views": "132",
     "text": "乌克兰总统泽连斯基：乌克兰将摧毁俄罗斯的弹道导弹发射装置。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3371161",
     "datetime": "2026-08-05T14:42:17+00:00",
-    "views": "136",
+    "views": "167",
     "text": "闪迪跌超 4%，触及日内低点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3371160",
     "datetime": "2026-08-05T14:41:58+00:00",
-    "views": "135",
+    "views": "136",
     "text": "礼来高管表示，7 月下旬 Mounjaro 处方量较一个月前翻倍。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3371159",
     "datetime": "2026-08-05T14:41:18+00:00",
-    "views": "137",
+    "views": "138",
     "text": "特朗普推进移民执法 美国驱逐令签发量 6 月升至历史新高\n记者当地时间 8 月 5 日获悉，随着美国总统特朗普推进移民执法行动，美国联邦移民法官签发的驱逐令数量升至纪录高位。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3371156",
     "datetime": "2026-08-05T14:36:58+00:00",
-    "views": "169",
+    "views": "199",
     "text": "本周多晶硅交易暂停 市场静待方向\n本周国内多晶硅市场整体陷入观望态势，市场成交处于停滞状态。本周订单暂无成交，主要原因是在行业加强价格自律、维护产业链有序竞争的背景下，当前价格已经低于行业成本，持续下探不利于产业健康发展，因此企业暂停报价，静待市场方向进一步明朗。据硅业分会统计，7 月份国内多晶硅产量 10.51 万吨，同期硅片产量 55.26GW，当月库存新增 0.96 万吨（含进出口）。截至 7 月底，多晶硅行业库存约为 52.2 万吨。从供需基本面来看，当前市场供应宽松格局尚未改变，企业库存压力依然存在，而下游硅片环节开工率维持低位，采购需求偏弱。短期内市场成交难以有效放量，整体交投氛围持续清淡。（硅业分会）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3371154",
     "datetime": "2026-08-05T14:34:58+00:00",
-    "views": "169",
+    "views": "234",
     "text": "礼来高管表示，替尔泊肽（Zepbound）整体处方中约 55%为现金支付。",
     "media_only": false,
     "image_url": null,
@@ -47446,41 +47464,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3365796"
-  },
-  {
-    "post": "Financial_Express/3365794",
-    "datetime": "2026-08-03T14:51:38+00:00",
-    "views": "73",
-    "text": "厦门象屿：间接控股子公司租赁仓库起火 无人员伤亡\n厦门象屿公告称，2026 年 8 月 2 日 17 时许，其间接控股子公司青岛象屿速传供应链有限公司位于山东青岛的租赁仓库起火。事故无人员被困和伤亡，起火原因正在调查。事故损失正在核查评估，起火仓库货物已全额投保，保险核损理赔工作有序开展。公司已成立专项工作组，配合调查和善后，敦促加强安全管理，统筹减少事故对客户的影响。公司将及时披露进展，提醒投资者注意风险。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3365794"
-  },
-  {
-    "post": "Financial_Express/3365795",
-    "datetime": "2026-08-03T14:51:38+00:00",
-    "views": "104",
-    "text": "以色列总理办公室消息人士：我们不会从加沙的“黄线”撤出，并将继续挫败任何针对我国公民或士兵的威胁。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3365795"
-  },
-  {
-    "post": "Financial_Express/3365793",
-    "datetime": "2026-08-03T14:50:58+00:00",
-    "views": "76",
-    "text": "斯通艾克斯（StoneX）预估，巴西 2026/27 年度大豆产量将为 1.831 亿吨，上一作物年度产量为 1.826 亿吨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3365793"
-  },
-  {
-    "post": "Financial_Express/3365792",
-    "datetime": "2026-08-03T14:50:57+00:00",
-    "views": "76",
-    "text": "巴西斯通艾克斯公司（StoneX）预测，2025/26 年度第二季玉米产量为 1.107 亿吨，此前预测为 1.075 亿吨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3365792"
   }
 ]
