@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3373328",
+    "datetime": "2026-08-06T12:53:58+00:00",
+    "views": "2",
+    "text": "美国初请失业金人数温和回升但低于预期 企业裁员计划减少\n截至 8 月 1 日当周，初请失业金人数经季节调整后增加 1000 人，至 19.9 万人，低于市场预期的 20.2 万人。自 6 月初大幅飙升后，初请失业金人数已明显下降。不过，部分降幅可能反映出夏季季节性因素调整困难。尽管美国与以色列针对伊朗的战争引发油价冲击，企业裁员水平仍维持极低水平。此外，目前也没有迹象显示人工智能基础设施建设导致大规模失业，裁员主要集中在科技行业。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3373328"
+  },
+  {
+    "post": "Financial_Express/3373329",
+    "datetime": "2026-08-06T12:53:58+00:00",
+    "views": "2",
+    "text": "微软在印度开设第四处 Azure 数据中心区域\n微软公司宣布，其在印度的第四处数据中心区域已正式投入运营。这是微软在印度总计 205 亿美元投资计划的一部分，旨在拓展当地云计算与人工智能能力。微软在声明中表示，该数据中心坐落于印度南部的海得拉巴地区并提供云服务。印度拥有超 14 亿人口，作为市场、人才与数据来源地，正越来越受到各大人工智能企业的关注。印度拥有数百万掌握机器学习与数据科学技能的工程师，塔塔咨询服务、印孚瑟斯等全球大型科技服务企业也扎根于此。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3373329"
+  },
+  {
+    "post": "Financial_Express/3373327",
+    "datetime": "2026-08-06T12:53:18+00:00",
+    "views": "3",
+    "text": "世界黄金协会：年初至今全球黄金 ETF 累计流入 110 亿美元\n世界黄金协会报告显示，全球黄金挂钩 ETF 7 月录得 30 亿美元资金流入，终结连续两个月资金流出态势。资金流入覆盖全部地区，欧洲上市基金领涨。正向资金叠加金价走高，推动全球黄金 ETF 资产管理规模上涨 1% 至 5300 亿美元，总持仓增加 23 吨至 4068 吨，但仍低于 2026 年 2 月 27 日创下的 4176 吨历史最高持仓。年初至今，全球黄金 ETF 累计流入 110 亿美元，对应持仓增加 39 吨。亚洲上市基金是这一阶段全球资金流入的最大来源，欧洲紧随其后；而北美依旧维持资金净流出状态。7 月全球黄金 ETF 重回资金流入，一方面源于投资者借金价低位选择性重新入场，另一方面来自资产组合多元化配置的持续需求。欧洲投资者在 6 月抛售过后重新建立黄金仓位，抓住金价回落窗口重返市场。该走势与今年早些时候类似：3 月美国主导的大规模赎回后，欧洲基金率先带动市场反弹，说明市场下跌后投资者愿意增持黄金敞口。亚洲 7 月黄金 ETF 资金流入 6.16 亿美元，巩固其作为年初至今全球最大资金流入地区的地位。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3373327"
+  },
+  {
     "post": "Financial_Express/3373326",
     "datetime": "2026-08-06T12:52:39+00:00",
-    "views": "1",
+    "views": "34",
     "text": "西班牙飞地休达地方政府长官胡安·赫苏斯·比瓦斯今天（8 月 6 日）表示，休达移民危机已造成 100 人死亡。他还表示，目前有 3000 到 5000 名非法移民滞留在休达。 （CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3373325",
     "datetime": "2026-08-06T12:52:17+00:00",
-    "views": "2",
+    "views": "35",
     "text": "微软(MSFT.O)在印度开设第四个 Azure 数据中心区域。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3373324",
     "datetime": "2026-08-06T12:51:58+00:00",
-    "views": "2",
+    "views": "35",
     "text": "福克斯高管：福克斯已与美国国家橄榄球联盟（NFL）进行了全面且富有成效的磋商，我们不会对现有合同关系作出任何修改，现有合同将持续履行至 2029 赛季结束。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3373323",
     "datetime": "2026-08-06T12:51:37+00:00",
-    "views": "2",
+    "views": "34",
     "text": "字节讨论训超 5 万亿参数模型\n字节跳动正在讨论训练一个参数规模超 5 万亿的模型，它超过阿里的 Qwen3.8-Max（2.4 万亿参数）和月之暗面的 K3（2.8 万亿参数），也是目前国内已知参数规模最大的模型。通常而言，模型规模越大，智能水平往往越高。不过该计划仍处于早期阶段，并不代表模型最终一定会发布。新模型将由 SeedFoundation 负责人项亮主导，与大语言模型预训练数据负责人沈科合作。为此，Seed 正在重新梳理组织，划分职责，分配资源。（晚点）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3373322",
     "datetime": "2026-08-06T12:50:39+00:00",
-    "views": "32",
+    "views": "34",
     "text": "摩托罗拉提交两部分优先票据发行申请，发行规模未披露。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3373321",
     "datetime": "2026-08-06T12:50:18+00:00",
-    "views": "33",
+    "views": "34",
     "text": "现货黄金短线下挫逾 10 美元，报 4254.76 美元/盎司；白银日内跌幅达 1.00%，现报 61.41 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3373320",
     "datetime": "2026-08-06T12:49:58+00:00",
-    "views": "33",
+    "views": "34",
     "text": "现货白银日内跌 1%，现报 61.32 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3373318",
     "datetime": "2026-08-06T12:49:38+00:00",
-    "views": "34",
+    "views": "65",
     "text": "纽约期银日内跌 1%，现报 61.64 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3373319",
     "datetime": "2026-08-06T12:49:38+00:00",
-    "views": "34",
+    "views": "65",
     "text": "力拓与淡水河谷矿业公司将 Radiant World 移出客户名单。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3373317",
     "datetime": "2026-08-06T12:49:19+00:00",
-    "views": "34",
+    "views": "66",
     "text": "德意志银行冻结 RADIANT WORLD 基金，此前矿业公司纷纷采取行动切断与基金的联系。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3373316",
     "datetime": "2026-08-06T12:48:38+00:00",
-    "views": "35",
+    "views": "66",
     "text": "世界黄金协会：欧洲引领了 7 月份黄金市场的复苏，吸引 20 亿美元资金流入，而亚洲增加了 6.16 亿美元流入，仍是年初至今全球 ETF 市场资金流入的最大贡献者。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3373315",
     "datetime": "2026-08-06T12:48:18+00:00",
-    "views": "64",
+    "views": "65",
     "text": "美国初请人数小幅上升 裁员数处于历史低位\n金十数据 8 月 6 日讯，美国上周申请失业救济金的人数量有所上升，但裁员人数仍处于过去几年历史上的健康水平范围内。美国劳工部周四报告称，截至 8 月 1 日当周初请失业金人数上升了 1000 人，达到 19.9 万人。前一周的数据已上修 1000 人，为 19.8 万人。每周失业救济金申请的人数被视为裁员情况的代表指标，也是衡量美国就业市场健康状况的近乎实时的指标。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3373312",
     "datetime": "2026-08-06T12:47:38+00:00",
-    "views": "37",
+    "views": "68",
     "text": "中航易商仓储物流 REIT：将自 2026 年 8 月 7 日上海证券交易所开市起停牌 1 小时，并于当日上午 10:30 起复牌。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3373313",
     "datetime": "2026-08-06T12:47:38+00:00",
-    "views": "37",
+    "views": "67",
     "text": "世界黄金协会：黄金市场流动性持续放松，日均交易量降至 3560 亿美元/日，环比下降 3.5%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3373311",
     "datetime": "2026-08-06T12:47:18+00:00",
-    "views": "37",
+    "views": "67",
     "text": "世界黄金协会：全球黄金 ETF 在 7 月吸引了 30 亿美元的资金流入，扭转了连续两个月的流出态势，使总资产管理规模升至 5300 亿美元；持仓量增加 23 吨，至 4068 吨。",
     "media_only": false,
     "image_url": null,
@@ -45412,68 +45439,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3368180"
-  },
-  {
-    "post": "Financial_Express/3368179",
-    "datetime": "2026-08-04T12:54:38+00:00",
-    "views": "41",
-    "text": "*ST 岭南：因财务指标虚假记载被叠加实施其他风险警示\n*ST 岭南公告称，公司及相关当事人收到广东证监局《行政处罚事先告知书》，指出公司披露的年度报告财务指标存在虚假记载。根据规定，公司股票自 2026 年 6 月 3 日起被深圳证券交易所叠加实施其他风险警示。公司董事会已组织核查，将尽快追溯重述财务信息。本次行政处罚最终结果以决定书为准，提醒投资者关注公告，注意风险。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3368179"
-  },
-  {
-    "post": "Financial_Express/3368178",
-    "datetime": "2026-08-04T12:54:37+00:00",
-    "views": "39",
-    "text": "*ST 岭南：连续 12 个月新增涉诉金额 1.47 亿元\n*ST 岭南公告称，截至 2026 年 8 月 4 日，公司及控股子公司连续十二个月内新增未披露诉讼、仲裁事项涉案金额合计约 1.47 亿元，占最近一期经审计归属于母公司净资产绝对值的 10.87%。公司及控股子公司均作为被告、第三人涉诉，无单项涉案金额超 1000 万元且占比超 10%的重大事项。部分案件未开庭或判决未生效，对利润影响不确定，公司将依规处理并披露。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3368178"
-  },
-  {
-    "post": "Financial_Express/3368177",
-    "datetime": "2026-08-04T12:54:18+00:00",
-    "views": "39",
-    "text": "金士顿科技全球副总裁暨中国区总裁白逸霖率团队到访软通华方\n8 月 4 日，金士顿科技全球副总裁暨中国区总裁白逸霖率核心团队到访软通华方，与软通动力执行副总裁、计算产品与智能电子业务总裁韩智敏及相关业务负责人举行深度商务会晤，双方就存储产品 OEM 合作展开全面洽谈并达成重要共识。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3368177"
-  },
-  {
-    "post": "Financial_Express/3368176",
-    "datetime": "2026-08-04T12:53:18+00:00",
-    "views": "39",
-    "text": "麦当劳受通胀及经营压力影响，调整门店数量目标。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3368176"
-  },
-  {
-    "post": "Financial_Express/3368175",
-    "datetime": "2026-08-04T12:53:17+00:00",
-    "views": "39",
-    "text": "乌克兰总统泽连斯基与北约秘书长吕特进行了电话交谈。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3368175"
-  },
-  {
-    "post": "Financial_Express/3368174",
-    "datetime": "2026-08-04T12:52:58+00:00",
-    "views": "39",
-    "text": "杜邦股价盘前下跌 7.6%，此前该公司下调了年度销售额预期。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3368174"
-  },
-  {
-    "post": "Financial_Express/3368173",
-    "datetime": "2026-08-04T12:52:57+00:00",
-    "views": "39",
-    "text": "美国在联邦公报上发布征求意见稿。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3368173"
   }
 ]
