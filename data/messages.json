@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3376398",
+    "datetime": "2026-08-07T16:42:19+00:00",
+    "views": "3",
+    "text": "OpenAI：已在 Astra 的所有智能体应用中实施针对高风险行为和失配问题的全面监控。根据目前针对 Astra 模型的准备框架评估结果，无法排除其具备关键网络能力的可能性。将与相关政府机构及选定的人工智能安全组织合作，对 Astra 的能力进行测试。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3376398"
+  },
+  {
+    "post": "Financial_Express/3376396",
+    "datetime": "2026-08-07T16:41:58+00:00",
+    "views": "7",
+    "text": "OpenAI：正在为更高能力模型及相关活动实施更严格的安全控制措施，包括采用隔离测试环境。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3376396"
+  },
+  {
+    "post": "Financial_Express/3376397",
+    "datetime": "2026-08-07T16:41:58+00:00",
+    "views": "6",
+    "text": "OpenAI：将向第三方测试合作伙伴提供推荐的安全控制措施，以确保更高风险的评估和工作负载能够安全运行。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3376397"
+  },
+  {
+    "post": "Financial_Express/3376395",
+    "datetime": "2026-08-07T16:41:38+00:00",
+    "views": "10",
+    "text": "OpenAI：将与相关政府机构及精选人工智能安全机构合作，对 Astra 的各项能力开展测试。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3376395"
+  },
+  {
+    "post": "Financial_Express/3376394",
+    "datetime": "2026-08-07T16:41:37+00:00",
+    "views": "10",
+    "text": "OpenAI：Astra 是一款即将推出的模型，并未参与利用 Hugging Face 漏洞的事件。正在暂停涉及 Astra、但尚未达到强化安全控制要求的内部活动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3376394"
+  },
+  {
     "post": "Financial_Express/3376392",
     "datetime": "2026-08-07T16:40:18+00:00",
-    "views": "5",
+    "views": "45",
     "text": "伊朗外交部发言人：到目前为止，“伊朗战利品”不过是一座象征尚未实现胜利的纸质奖杯。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3376393",
     "datetime": "2026-08-07T16:40:18+00:00",
-    "views": "4",
+    "views": "44",
     "text": "秘鲁经济部长称，政府目标是五年内将贫困率降至 15%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3376391",
     "datetime": "2026-08-07T16:39:38+00:00",
-    "views": "8",
+    "views": "47",
     "text": "OpenAI：依据我方预备框架评估，目前无法排除 Astra 模型具备关键网络攻击能力。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3376390",
     "datetime": "2026-08-07T16:39:37+00:00",
-    "views": "8",
+    "views": "47",
     "text": "伊朗外交部发言人：特朗普表示，美国将对伊朗采取与对委内瑞拉所做的相同做法。不过，这里存在一个小问题：在宣称获得“战争战利品”之前，必须先赢得战争，而不是陷入僵局、未能实现其宣称的（恶意）目标、武器储备逐渐减少，并在这一过程中失去信誉。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3376388",
     "datetime": "2026-08-07T16:37:57+00:00",
-    "views": "49",
+    "views": "56",
     "text": "OpenAI 暂停新模型 Astra 开发 担忧其具备关键网络攻击能力\n金十数据 8 月 8 日讯，据 Axios 报道，OpenAI 表示，不能排除其即将推出的模型 Astra 具备“关键性”网络能力，这促使 OpenAI 扩大安全测试范围，并暂停不符合更严格安全要求的内部活动。这是人工智能模型网络能力快速提升的最新迹象。OpenAI 表示，在对即将推出的模型之一 Astra 进行内部评估后，“我们无法排除其具备关键性网络能力”。在发布 Astra 之前，OpenAI 将扩大针对该模型的测试和安全措施，并按照公司 2023 年首次发布的“准备框架”要求，放缓 Astra 的开发进程，直到建立适当的安全防护措施。OpenAI 还表示，Astra 并未参与 Hugging Face 漏洞攻击事件。这可能是首个人工智能前沿实验室因网络安全担忧而承诺放缓自身 AI 模型开发进程的案例。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3376387",
     "datetime": "2026-08-07T16:36:58+00:00",
-    "views": "59",
+    "views": "94",
     "text": "OpenAI：已对 Astra 所有智能代理应用中的风险行为与目标偏差实施全域监控。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3376386",
     "datetime": "2026-08-07T16:36:37+00:00",
-    "views": "59",
+    "views": "94",
     "text": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境。将向第三方测试合作方提供建议性安全管控措施，以安全开展高风险评估与相关任务。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3376385",
     "datetime": "2026-08-07T16:36:17+00:00",
-    "views": "58",
+    "views": "93",
     "text": "OpenAI：Astra 是一款尚未发布的模型，并未参与攻击 Hugging Face。暂停 Astra 相关尚未满足这些强化安全管控要求的内部活动。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3376384",
     "datetime": "2026-08-07T16:34:17+00:00",
-    "views": "94",
+    "views": "99",
     "text": "Blossomhill Therapeutics Inc.（BLSM）美国 IPO 首日开盘报 15.75 美元，此前给出的 IPO 发行价为每股 16 美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3376383",
     "datetime": "2026-08-07T16:33:38+00:00",
-    "views": "98",
+    "views": "102",
     "text": "据 Axios：OpenAI 因 Astra 模型的网络安全能力而放缓其发布进程。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3376382",
     "datetime": "2026-08-07T16:32:37+00:00",
-    "views": "99",
+    "views": "132",
     "text": "OpenAI 以网络攻击能力为由放缓 Astra 模型的发布。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3376381",
     "datetime": "2026-08-07T16:31:37+00:00",
-    "views": "131",
+    "views": "134",
     "text": "金十图示：2026 年 08 月 07 日（周五）美股热门股票行情一览（美股盘中）",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3376380",
     "datetime": "2026-08-07T16:30:37+00:00",
-    "views": "132",
+    "views": "134",
     "text": "金十图示：2026 年 08 月 07 日（周五）热门中概股行情一览（美股盘中）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3376379",
     "datetime": "2026-08-07T16:29:58+00:00",
-    "views": "142",
+    "views": "143",
     "text": "伊拉克武装部队发言人表示，沙特尚未提供任何证据，用以佐证其关于伊拉克领土遭袭击的相关说法。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3376378",
     "datetime": "2026-08-07T16:29:18+00:00",
-    "views": "123",
+    "views": "154",
     "text": "纳斯达克 100 指数和标普 500 指数涨幅收窄。",
     "media_only": false,
     "image_url": null,
@@ -41956,23 +42001,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3371319"
-  },
-  {
-    "post": "Financial_Express/3371318",
-    "datetime": "2026-08-05T16:41:57+00:00",
-    "views": "66",
-    "text": "卢拉：美国撤销巴西驻美大使签证是“不负责任”做法\n巴西总统卢拉 5 日接受媒体采访时表示，美国政府近期撤销巴西驻美大使签证是“不负责任、缺乏考虑的做法”。卢拉呼吁两国保持冷静，同时强调巴西已做好准备，应对任何企图干涉本国选举进程的外部势力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3371318"
-  },
-  {
-    "post": "Financial_Express/3371317",
-    "datetime": "2026-08-05T16:41:00+00:00",
-    "views": "67",
-    "text": "泽连斯基与北约秘书长通电话，磋商弹道导弹相关议题。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3371317"
   }
 ]
