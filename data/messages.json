@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3376491",
+    "datetime": "2026-08-07T18:28:17+00:00",
+    "views": "7",
+    "text": "Claude：自 8 月 14 日起，Claude Code 面向 Pro、Max 和 Team 用户的默认权限模式将改为自动模式。自动模式会通过一个独立分类器审查 Shell 命令和操作。在测试中，该模式识别出了 89%的危险命令，而人工审批模式仅识别出 14%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3376491"
+  },
+  {
+    "post": "Financial_Express/3376490",
+    "datetime": "2026-08-07T18:27:57+00:00",
+    "views": "13",
+    "text": "Anthropic 取消 Claude Code 用户的分类器附加费用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3376490"
+  },
+  {
+    "post": "Financial_Express/3376489",
+    "datetime": "2026-08-07T18:26:37+00:00",
+    "views": "35",
+    "text": "美参议院通过一项对俄能源领域制裁法案\n当地时间 8 月 7 日，美国国会参议院以 86 票赞成、11 票反对的投票结果，通过一项针对俄罗斯能源领域的广泛制裁法案，并将法案送交众议院审议。（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3376489"
+  },
+  {
     "post": "Financial_Express/3376488",
     "datetime": "2026-08-07T18:26:17+00:00",
-    "views": "7",
+    "views": "35",
     "text": "美参议院通过一项对俄能源领域制裁法案\n金十数据 8 月 8 日讯，当地时间 8 月 7 日，美国国会参议院以 86 票赞成、11 票反对的投票结果，通过一项针对俄罗斯能源领域的广泛制裁法案，并将法案送交众议院审议。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3376487",
     "datetime": "2026-08-07T18:25:37+00:00",
-    "views": "19",
+    "views": "40",
     "text": "Anthropic：自 8 月 14 日起，Claude Code 将默认启用自动模式。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3376486",
     "datetime": "2026-08-07T18:24:57+00:00",
-    "views": "28",
+    "views": "49",
     "text": "美国参议院批准布雷特·松本出任劳工统计局局长\n金十数据 8 月 8 日讯，美国参议院周五批准职业经济学家布雷特·松本（Brett Matsumoto）出任美国劳工统计局局长。在特朗普一年前因就业数据疲弱解雇前任局长后，这一任命可能有助于缓解外界对该机构公信力的担忧。松本在投票中以 51 票赞成、47 票反对获得确认。他于 2015 年加入劳工统计局，并曾前往白宫经济顾问委员会工作。特朗普此前提名他接替去年 8 月被解职的埃丽卡·麦肯塔弗。长期担任副局长的威廉·维亚特罗斯基目前以代理身份领导劳工统计局。松本在 6 月的确认听证会上告诉议员，他承诺维护劳工统计局的完整性和独立性。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3376485",
     "datetime": "2026-08-07T18:24:37+00:00",
-    "views": "33",
+    "views": "54",
     "text": "美国疾控中心：自乌干达或南苏丹返回美国的美国公民及国民，若抵达美国 21 天内，必须经由指定机场入境，接受强化筛查。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3376484",
     "datetime": "2026-08-07T18:21:17+00:00",
-    "views": "44",
+    "views": "60",
     "text": "AeroVironment 预计将赢得美国陆军一份价值 4 亿美元的反无人机系统合同。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3376483",
     "datetime": "2026-08-07T18:20:59+00:00",
-    "views": "46",
+    "views": "59",
     "text": "美国财长贝森特： 伊朗政权对数字资产与影子银行网络的依赖，进一步证明经济制裁正在奏效。我们将继续加大经济施压力度。无论是美元、里亚尔还是加密货币，财政部都将追查并瓦解维系该政权运转的非法金融网络。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3376482",
     "datetime": "2026-08-07T18:20:58+00:00",
-    "views": "43",
+    "views": "56",
     "text": "美国参议院周五以 51 票赞成、47 票反对的投票比例批准 Brett Matsumoto 出任美国劳工统计局局长。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3376481",
     "datetime": "2026-08-07T18:20:17+00:00",
-    "views": "45",
+    "views": "57",
     "text": "美国财长贝森特：伊朗的影子银行体系正在“经济狂怒”行动下陷入困境，该政权可用于转移资金的渠道正在耗尽。美国财政部将继续曝光这些网络，并切断它们与美国金融体系的联系。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3376480",
     "datetime": "2026-08-07T18:18:37+00:00",
-    "views": "78",
+    "views": "86",
     "text": "五角大楼拟年底测试太空导弹拦截系统 “金穹”计划迈出关键一步\n金十数据 8 月 8 日讯，据外媒报道，知情人士称，五角大楼计划在今年年底前对其未来太空导弹防御项目进行首次测试，并计划于 2027 年对这项尚未经过验证的技术开展飞行演示。这些关键里程碑是开发太空导弹拦截器的重要组成部分，也是美国总统特朗普耗资 1850 亿美元的“金穹”防御体系的核心支柱之一。特朗普政府已拨出 32 亿美元，用于开发能够摧毁导弹的武器化卫星原型，未来相关合同金额可能达到数百亿美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3376479",
     "datetime": "2026-08-07T18:15:57+00:00",
-    "views": "80",
+    "views": "90",
     "text": "五角大楼计划在今年年底前对其未来主义太空导弹防御计划进行首次测试。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3376478",
     "datetime": "2026-08-07T18:14:57+00:00",
-    "views": "85",
+    "views": "95",
     "text": "美国参议院投票确认戴维·卡明斯（David Cummins）出任美国运输安全管理局局长，确认菲兰（Phelan）担任经济顾问委员会主席。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3376476",
     "datetime": "2026-08-07T18:14:18+00:00",
-    "views": "86",
+    "views": "94",
     "text": "美国参议院确认 BRETT MATSUMOTO 担任劳工统计局局长。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3376477",
     "datetime": "2026-08-07T18:14:18+00:00",
-    "views": "85",
+    "views": "94",
     "text": "伊朗外交部长表示，面对全球军费开支最高的军队，伊朗实力强大的武装部队已展现出自身的备战状态、作战能力与军事力量。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3376475",
     "datetime": "2026-08-07T18:14:17+00:00",
-    "views": "91",
+    "views": "98",
     "text": "伊朗外长阿拉格齐：面对世界上最昂贵的军事力量，伊朗强大的武装部队已经展示了自身的战备状态、能力和实力。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3376474",
     "datetime": "2026-08-07T18:12:00+00:00",
-    "views": "90",
+    "views": "94",
     "text": "马拉松石油(MRO.N)位于得克萨斯州加尔维斯顿湾的炼油厂报告称，在设备巡检期间发现一台压缩机发生泄漏，RHU-FUGIT F-480 设备出现排放。正在实施维修计划，以隔离相关设备并停止泄漏。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3376473",
     "datetime": "2026-08-07T18:08:18+00:00",
-    "views": "91",
+    "views": "96",
     "text": "据路透社：消息人士透露，加拿大知道其将不得不接受美国对钢铁和铝征收部分关税。加拿大希望任何有关关税减免的协议都能通过附加函形式达成，而不是写入更新后的《美墨加协定》正文。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3376472",
     "datetime": "2026-08-07T18:07:57+00:00",
-    "views": "125",
+    "views": "128",
     "text": "据路透社：消息人士透露，加拿大方面表示，美方已同意在 8 月 19 日前每天举行谈判。加拿大准备回应美国对酒类销售以及乳制品和汽车行业的关切，但作为交换，加拿大需要获得美国《贸易扩展法》第 232 条关税豁免。",
     "media_only": false,
     "image_url": null,
