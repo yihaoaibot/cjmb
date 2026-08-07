@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3376700",
     "datetime": "2026-08-07T22:00:18+00:00",
-    "views": "20",
+    "views": "21",
     "text": "暗盘金价突破 4300 美元/盎司，日内涨幅 2%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3376699",
     "datetime": "2026-08-07T22:00:17+00:00",
-    "views": "20",
+    "views": "21",
     "text": "暗盘金价（人民币）日内涨超 2%，现报 941.6635 元/克。",
     "media_only": false,
     "image_url": null,
@@ -42451,14 +42451,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3371571"
-  },
-  {
-    "post": "Financial_Express/3371570",
-    "datetime": "2026-08-05T22:04:57+00:00",
-    "views": "88",
-    "text": "eBay 首席财务官：第三季度合并商品交易总额（GMV）预期介于 220 亿至 224 亿美元之间，包含近期收购的 Depop 带来的影响。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3371570"
   }
 ]
