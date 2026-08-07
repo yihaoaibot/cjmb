@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3374536",
+    "datetime": "2026-08-07T02:46:17+00:00",
+    "views": "1",
+    "text": "港股大模型概念股持续拉升，MINIMAX-W 涨近 25%，智谱涨超 18%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3374536"
+  },
+  {
+    "post": "Financial_Express/3374535",
+    "datetime": "2026-08-07T02:44:37+00:00",
+    "views": "33",
+    "text": "中国 7 月进口总额 19454.4 亿元，前值 19616.2 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3374535"
+  },
+  {
     "post": "Financial_Express/3374533",
     "datetime": "2026-08-07T02:44:18+00:00",
-    "views": "1",
+    "views": "33",
     "text": "中国 7 月出口总额 27125.1 亿元，前值 28206.7 亿元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3374534",
     "datetime": "2026-08-07T02:44:18+00:00",
-    "views": "1",
+    "views": "33",
     "text": "美媒：部件发现裂纹，美国下令排查数百架波音客机\n据美国有线电视新闻网（CNN）当地时间 6 日报道，美国联邦航空局下令对数百架波音 737 MAX 系列客机进行裂纹检查，并警告称如果有损伤而未被发现，飞机的结构完整性可能会降低。美国联邦航空局表示，部分客机机身右侧前服务舱门周围的结构加固件发现存在裂纹。航空公司必须根据每架飞机的使用情况按相应时间表对相关区域进行检查，并在客机恢复运营前修复所有裂纹。这项新的适航指令预计涉及约 471 架在美国注册的波音 737 MAX 8、MAX 9 和 MAX 8200 型飞机。波音公司在一份声明中表示，公司已经开展工程分析，以确定裂纹产生的原因，并正在研究工程设计改进，以防止未来再次出现类似问题。（环球网）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3374531",
     "datetime": "2026-08-07T02:42:58+00:00",
-    "views": "31",
+    "views": "33",
     "text": "MINIMAX-W 港股涨超 21%\nMINIMAX-W 港股涨 21.47%，报 360.40 港元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3374532",
     "datetime": "2026-08-07T02:42:58+00:00",
-    "views": "31",
+    "views": "33",
     "text": "DeepSeek 调用量达 OpenAI 三倍，打折无效后的 OpenAI 选择免费\n当地时间 8 月 6 日，OpenAI 宣布免费用户默认模型升级为 GPT-5.6 Luna，并开放无限量文本聊天，全球约十亿 ChatGPT 用户将直接受益。昨日，DeepSeek 发布公告，宣布计划近期整体上调 API 服务定价，预计涨幅较大。一放一收的差异，反映国产开源模型的崛起正在倒逼全球 AI 定价体系重构。（第一财经）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3374527",
     "datetime": "2026-08-07T02:38:18+00:00",
-    "views": "66",
+    "views": "96",
     "text": "海关总署：中国 7 月汽车（包括底盘）出口 109.2 万辆，6 月 106.9 万辆。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3374526",
     "datetime": "2026-08-07T02:38:17+00:00",
-    "views": "66",
+    "views": "96",
     "text": "海关总署：中国 7 月稀土进口 9451.3 吨，6 月 6261.5 吨。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3374524",
     "datetime": "2026-08-07T02:37:58+00:00",
-    "views": "66",
+    "views": "127",
     "text": "海关总署：中国 1-7 月汽车（包括底盘）出口 639.9 万辆。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3374525",
     "datetime": "2026-08-07T02:37:58+00:00",
-    "views": "66",
+    "views": "127",
     "text": "海关总署：中国 1-7 月稀土进口 63323 吨。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3374523",
     "datetime": "2026-08-07T02:37:57+00:00",
-    "views": "66",
+    "views": "97",
     "text": "海关总署：中国 7 月手机出口 4926.8 万台，6 月 5326.1 万台。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3374522",
     "datetime": "2026-08-07T02:37:39+00:00",
-    "views": "66",
+    "views": "97",
     "text": "科创 50 日内涨幅达 2.07%，成分股中，生益电子涨 8.32%，源杰科技涨 5.93%，华虹宏力涨 4.99%，华海清科涨 4.97%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3374520",
     "datetime": "2026-08-07T02:37:38+00:00",
-    "views": "66",
+    "views": "67",
     "text": "海关总署：中国 1-7 月天然气进口 6792.3 万吨。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3374521",
     "datetime": "2026-08-07T02:37:38+00:00",
-    "views": "66",
+    "views": "67",
     "text": "海关总署：中国 7 月天然气进口 1054 万吨，6 月 1093.1 万吨。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3374519",
     "datetime": "2026-08-07T02:37:37+00:00",
-    "views": "66",
+    "views": "67",
     "text": "海关总署：中国 7 月未锻轧铝及铝材出口 64.3 万吨，6 月 71.1 万吨。",
     "media_only": false,
     "image_url": null,
@@ -42127,32 +42145,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3369448"
-  },
-  {
-    "post": "Financial_Express/3369447",
-    "datetime": "2026-08-05T02:45:38+00:00",
-    "views": "82",
-    "text": "俄罗斯图拉州州长称，Wildberries 公司仓库发生火灾",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3369447"
-  },
-  {
-    "post": "Financial_Express/3369446",
-    "datetime": "2026-08-05T02:44:57+00:00",
-    "views": "84",
-    "text": "乌克兰袭击了俄罗斯图拉地区的 Wildberries 仓库。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3369446"
-  },
-  {
-    "post": "Financial_Express/3369445",
-    "datetime": "2026-08-05T02:44:37+00:00",
-    "views": "84",
-    "text": "棕榈油走低，受豆油价格下跌影响\n大马投资银行在一份报告中表示，亚洲交易时段棕榈油走低，受芝加哥期货交易所豆油隔夜下跌拖累。不过，大连商品交易所软质棕榈油价格走高可能部分缓冲下行影响。该行补充称，技术分析预测毛棕榈油期货的看涨动能依然完好，尽管在马来西亚棕榈油局数据发布前的获利回吐活动可能会限制进一步的涨幅。大马投资银行预计，棕榈油价格将在每吨 4,721 林吉特面临阻力，并在每吨 4,639 林吉特找到支撑。马来西亚衍生品交易所 10 月交割的合约下跌 7 林吉特，报每吨 4,689 林吉特。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3369445"
   }
 ]
