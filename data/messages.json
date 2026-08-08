@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3376813",
     "datetime": "2026-08-08T02:08:17+00:00",
-    "views": "84",
+    "views": "85",
     "text": "中国气象局升级调整应急响应为（台风、暴雨、强对流）三级\n8 月 8 日 9 时，经综合研判和应急会商，中国气象局升级调整重大气象灾害（台风）四级应急响应为（台风、暴雨、强对流）三级。中央气象台预计，今年第 13 号台风“白海豚”将于 9 日晚上至 10 日早晨在浙江舟山到福建福鼎一带沿海登陆，8 日至 12 日，台湾岛、福建中北部、浙江、上海、江西、江苏、安徽中南部、湖北东部、湖南东部等地先后有暴雨到大暴雨，其中浙江中东部、福建东北部、安徽南部及大别山区等局地有特大暴雨，东海大部、杭州湾、浙江沿海、福建北部沿海、台湾沿海、台湾以东洋面的风力有 9 至 11 级，阵风 12 至 13 级。此外，海南、云南、贵州、重庆、河北、河南、四川等地部分地区有分散性大到暴雨，局地有大暴雨。中央气象台于 8 月 8 日 6 时发布台风橙色预警，继续发布强对流天气蓝色预警。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3376809",
     "datetime": "2026-08-08T02:01:18+00:00",
-    "views": "107",
+    "views": "108",
     "text": "英伟达拟向 Lancium 投资至多 30 亿美元，支持 AI 数据中心电力基础设施\n金十数据 8 月 8 日讯，据 The Information 报道，英伟达(NVDA.O)已同意向电力基础设施开发商 Lancium 投资 20 亿美元，并承诺在该公司获得更多规划电力资源后追加投资 10 亿美元。据悉，此次交易对 Lancium 及其土地和电力连接资产的企业价值估值约为 100 亿美元，其中包括投资金额及债务。Lancium 是由黑石集团支持的电力基础设施企业，负责开发位于美国得克萨斯州、服务于 OpenAI 和甲骨文 AI 园区的电力基础设施项目。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3376808",
     "datetime": "2026-08-08T02:00:37+00:00",
-    "views": "76",
+    "views": "77",
     "text": "中国东方电气集团原党组副书记、董事宋致远被查\n中国东方电气集团有限公司原党组副书记、董事宋致远涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3376807",
     "datetime": "2026-08-08T01:59:37+00:00",
-    "views": "77",
+    "views": "78",
     "text": "日本熊本地震已致 39 人死亡\n日本熊本县政府 8 日表示，截至目前，7 月 28 日发生的强震已造成 39 人死亡。",
     "media_only": false,
     "image_url": null,
@@ -39877,41 +39877,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3371972"
-  },
-  {
-    "post": "Financial_Express/3371970",
-    "datetime": "2026-08-06T02:17:19+00:00",
-    "views": "95",
-    "text": "中国机械工业联合会：新能源汽车上半年渗透率达 49.6%\n8 月 6 日，中国机械工业联合会发布的 2026 年上半年机械工业经济运行情况显示，新能源汽车在整体汽车市场承压背景下实现逆势增长，市场渗透率达到 49.6%，成为拉动汽车行业市场需求的重要力量。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3371970"
-  },
-  {
-    "post": "Financial_Express/3371968",
-    "datetime": "2026-08-06T02:17:18+00:00",
-    "views": "95",
-    "text": "莫德纳：其流感疫苗 MFLUSIVA 获美国食品药品监督管理局批准，可用于 50 岁及以上成年人群接种。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3371968"
-  },
-  {
-    "post": "Financial_Express/3371969",
-    "datetime": "2026-08-06T02:17:18+00:00",
-    "views": "65",
-    "text": "莫德纳：预计未来几周，流感疫苗 MflusiVa 将在部分零售商处供货。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3371969"
-  },
-  {
-    "post": "Financial_Express/3371967",
-    "datetime": "2026-08-06T02:17:17+00:00",
-    "views": "65",
-    "text": "OpenAI 披露其智能体“联手越狱”细节 攻破 Hugging Face 前已协作数月\nOpenAI 表示，对 Hugging Face 发起攻击的一组人工智能模型，早在 5 月就已通过未被察觉的留言板彼此通信，并协同合作以突破测试环境。OpenAI 研究员 Eric Wallace 和 Michael Dalton 周三在一场网络安全会议上表示，多个仅限内部使用的 AI 智能体和模型花费数月时间互相留便条，并逐渐围绕一个共同目标展开合作：接入互联网以完成被分配的任务，而其中一些任务在没有网络连接的情况下根本无法完成。Wallace 在拉斯维加斯举行的 Black Hat 网络安全大会上表示：“在某个时刻，这些智能体意识到，或许可以尝试利用或攻击外部基础设施，以找到它们正在接受测试的问题答案。”研究人员披露的内容进一步揭示了 Hugging Face 遭入侵事件的细节。这起事件凸显出全球日益加剧的担忧，即前沿 AI 系统可能被用于发动破坏性网络攻击。该事件以及 Anthropic PBC 和 Meta Platforms Inc.此前披露的类似安全事故，已促使华盛顿和硅谷呼吁加强对 AI 模型的安全审查。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3371967"
   }
 ]
