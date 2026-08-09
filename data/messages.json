@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3377870",
     "datetime": "2026-08-09T17:56:58+00:00",
-    "views": "171",
+    "views": "172",
     "text": "据伊通社（IRNA）：伊朗总统府负责新闻与通信事务的副主任宣布，伊朗最高领袖穆杰塔巴任命穆赫辛·雷扎伊为其在国家安全委员会的代表。\n❤1",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3377869",
     "datetime": "2026-08-09T17:54:17+00:00",
-    "views": "151",
+    "views": "152",
     "text": "特朗普：我们的边境空前稳固。尽管假新闻百般说辞，驱逐出境的执行规模正创下历史新高。\n❤1",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3377867",
     "datetime": "2026-08-09T17:40:57+00:00",
-    "views": "204",
+    "views": "205",
     "text": "俄罗斯国防部：俄罗斯防空系统拦截并摧毁 285 架乌克兰无人机。\n❤1",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3377865",
     "datetime": "2026-08-09T17:30:38+00:00",
-    "views": "220",
+    "views": "250",
     "text": "美国官员：当伊朗不再卷入战争时，将不得不直面黯淡的现实，却无切实可行的解决方案。\n❤1",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3377864",
     "datetime": "2026-08-09T17:30:37+00:00",
-    "views": "217",
+    "views": "247",
     "text": "美国官员：战争使伊朗得以回避应对自身后果及严峻的经济危机。\n❤1",
     "media_only": false,
     "image_url": null,
@@ -12391,23 +12391,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3376492"
-  },
-  {
-    "post": "Financial_Express/3376491",
-    "datetime": "2026-08-07T18:28:17+00:00",
-    "views": "141",
-    "text": "Claude：自 8 月 14 日起，Claude Code 面向 Pro、Max 和 Team 用户的默认权限模式将改为自动模式。自动模式会通过一个独立分类器审查 Shell 命令和操作。在测试中，该模式识别出了 89%的危险命令，而人工审批模式仅识别出 14%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3376491"
-  },
-  {
-    "post": "Financial_Express/3376490",
-    "datetime": "2026-08-07T18:27:57+00:00",
-    "views": "139",
-    "text": "Anthropic 取消 Claude Code 用户的分类器附加费用。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3376490"
   }
 ]
