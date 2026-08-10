@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3380208",
+    "datetime": "2026-08-10T18:38:17+00:00",
+    "views": "2",
+    "text": "纽约期金突破 4440 美元/盎司，日内涨 0.92%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3380208"
+  },
+  {
+    "post": "Financial_Express/3380207",
+    "datetime": "2026-08-10T18:37:37+00:00",
+    "views": "3",
+    "text": "白宫：托德·布兰奇正式宣誓就任美国司法部长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3380207"
+  },
+  {
+    "post": "Financial_Express/3380206",
+    "datetime": "2026-08-10T18:37:18+00:00",
+    "views": "5",
+    "text": "美国农业机构：用于防治螺旋蝇的得克萨斯州不育蝇设施将于 2027 年春季启用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3380206"
+  },
+  {
     "post": "Financial_Express/3380205",
     "datetime": "2026-08-10T18:36:17+00:00",
-    "views": "4",
+    "views": "36",
     "text": "白宫新闻秘书莱维特：布兰奇已宣誓就任美国司法部长。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3380204",
     "datetime": "2026-08-10T18:34:58+00:00",
-    "views": "6",
+    "views": "38",
     "text": "现货黄金突破 4380 美元/盎司，日内涨 0.90%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3380203",
     "datetime": "2026-08-10T18:34:57+00:00",
-    "views": "6",
+    "views": "38",
     "text": "现货白银日内涨 3%，现报 65.44 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3380202",
     "datetime": "2026-08-10T18:34:37+00:00",
-    "views": "39",
+    "views": "41",
     "text": "美国原油期货结算价为每桶 82.13 美元，上涨 3.95 美元，涨幅 5.05%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3380201",
     "datetime": "2026-08-10T18:31:38+00:00",
-    "views": "49",
+    "views": "81",
     "text": "现货黄金突破 4370 美元/盎司，日内涨 0.67%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3380200",
     "datetime": "2026-08-10T18:31:37+00:00",
-    "views": "50",
+    "views": "82",
     "text": "纽约期金突破 4430 美元/盎司，日内涨 0.75%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3380199",
     "datetime": "2026-08-10T18:31:17+00:00",
-    "views": "51",
+    "views": "82",
     "text": "WTI 9 月原油期货收报 82.13 美元/桶。NYMEX 9 月天然气期货收报 2.7940 美元/百万英热单位。NYMEX 9 月汽油期货收报 3.1354 美元/加仑，NYMEX 9 月取暖油期货收报 4.1898 美元/加仑。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3380198",
     "datetime": "2026-08-10T18:30:17+00:00",
-    "views": "54",
+    "views": "85",
     "text": "上期所原油期货夜盘收涨 4.06%，报 553.70 元人民币/桶。沪金夜盘收涨 0.66%，沪银收涨 1.89%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3380196",
     "datetime": "2026-08-10T18:28:17+00:00",
-    "views": "89",
+    "views": "90",
     "text": "OpenAI：GPT‑5.6‑CYBER 并未被用于攻击 Hugging Face，计划即将发布的其他模型也未参与此事。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3380195",
     "datetime": "2026-08-10T18:27:37+00:00",
-    "views": "91",
+    "views": "92",
     "text": "哥伦比亚总统阿韦拉多·德拉埃斯普列亚当地时间 8 月 10 日下午表示，当天早上发生的强烈地震已造成 111 人遇难。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3380194",
     "datetime": "2026-08-10T18:27:17+00:00",
-    "views": "94",
+    "views": "95",
     "text": "OpenAI：强烈建议使用 Codex 的 Daybreak 客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。自 2026 年 9 月 1 日起，要求 Daybreak 中的所有个人账户启用硬件安全密钥。",
     "media_only": false,
     "image_url": null,
