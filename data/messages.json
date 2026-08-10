@@ -155,7 +155,7 @@
   {
     "post": "Financial_Express/3380152",
     "datetime": "2026-08-10T17:21:17+00:00",
-    "views": "182",
+    "views": "212",
     "text": "OpenAI 推出 GPT-5.6-Cyber 面向安全人员开放更强 AI 能力\n金十数据 8 月 11 日讯，OpenAI 宣布推出 GPT-5.6-Cyber，并扩展网络安全计划 Daybreak，为经过审核的网络安全防御人员提供更适合高级安全工作的 AI 模型。OpenAI 表示，希望在攻击者大规模部署自主网络攻击之前，将前沿 AI 能力交给可信防御人员。Daybreak 分为两级：Daybreak Blue 提供 GPT-5.6 Sol 访问权限，并没有系统级网络安全防护限制；Daybreak Red 提供 GPT-5.6-Cyber 访问权限，用于漏洞利用验证和高级漏洞研究。测试显示，GPT-5.6-Cyber 对 95%的高级网络安全任务请求作出响应，包括漏洞利用链开发、身份验证绕过和权限提升。OpenAI 称，高风险能力将仅向获批准用户开放，并配备额外控制和监控措施。",
     "media_only": false,
     "image_url": null,
