@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3380202",
+    "datetime": "2026-08-10T18:34:37+00:00",
+    "views": "3",
+    "text": "美国原油期货结算价为每桶 82.13 美元，上涨 3.95 美元，涨幅 5.05%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3380202"
+  },
+  {
     "post": "Financial_Express/3380201",
     "datetime": "2026-08-10T18:31:38+00:00",
-    "views": "10",
+    "views": "47",
     "text": "现货黄金突破 4370 美元/盎司，日内涨 0.67%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3380200",
     "datetime": "2026-08-10T18:31:37+00:00",
-    "views": "11",
+    "views": "48",
     "text": "纽约期金突破 4430 美元/盎司，日内涨 0.75%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3380199",
     "datetime": "2026-08-10T18:31:17+00:00",
-    "views": "12",
+    "views": "49",
     "text": "WTI 9 月原油期货收报 82.13 美元/桶。NYMEX 9 月天然气期货收报 2.7940 美元/百万英热单位。NYMEX 9 月汽油期货收报 3.1354 美元/加仑，NYMEX 9 月取暖油期货收报 4.1898 美元/加仑。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3380198",
     "datetime": "2026-08-10T18:30:17+00:00",
-    "views": "16",
+    "views": "52",
     "text": "上期所原油期货夜盘收涨 4.06%，报 553.70 元人民币/桶。沪金夜盘收涨 0.66%，沪银收涨 1.89%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3380196",
     "datetime": "2026-08-10T18:28:17+00:00",
-    "views": "52",
+    "views": "87",
     "text": "OpenAI：GPT‑5.6‑CYBER 并未被用于攻击 Hugging Face，计划即将发布的其他模型也未参与此事。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3380195",
     "datetime": "2026-08-10T18:27:37+00:00",
-    "views": "54",
+    "views": "89",
     "text": "哥伦比亚总统阿韦拉多·德拉埃斯普列亚当地时间 8 月 10 日下午表示，当天早上发生的强烈地震已造成 111 人遇难。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3380194",
     "datetime": "2026-08-10T18:27:17+00:00",
-    "views": "57",
+    "views": "92",
     "text": "OpenAI：强烈建议使用 Codex 的 Daybreak 客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。自 2026 年 9 月 1 日起，要求 Daybreak 中的所有个人账户启用硬件安全密钥。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3380193",
     "datetime": "2026-08-10T18:26:57+00:00",
-    "views": "88",
+    "views": "93",
     "text": "OpenAI：自 2026 年 9 月 1 日起，要求 Daybreak 中的所有个人账户启用硬件安全密钥。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3380192",
     "datetime": "2026-08-10T18:26:37+00:00",
-    "views": "89",
+    "views": "93",
     "text": "OpenAI：强烈建议使用 Codex 的 Daybreak 客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3380191",
     "datetime": "2026-08-10T18:24:17+00:00",
-    "views": "88",
+    "views": "91",
     "text": "哥伦比亚总统：地震造成 87 人受伤，61 栋建筑倒塌。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3380190",
     "datetime": "2026-08-10T18:23:37+00:00",
-    "views": "87",
+    "views": "88",
     "text": "哥伦比亚总统：救援地震受害者是当务之急。地震死亡人数已达到 111 人。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3380189",
     "datetime": "2026-08-10T18:22:38+00:00",
-    "views": "85",
+    "views": "87",
     "text": "特朗普政府正在拟定一项行政令，拟将儿童麻疹‑腮腺炎‑风疹（MMR）联合疫苗拆分为三针，安排在不同就诊时段分别接种。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3380188",
     "datetime": "2026-08-10T18:22:37+00:00",
-    "views": "84",
+    "views": "86",
     "text": "据 Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3380187",
     "datetime": "2026-08-10T18:19:17+00:00",
-    "views": "83",
+    "views": "85",
     "text": "据路透社：两名消息人士表示，利比亚扎维亚炼油厂燃料罐发生爆炸，爆炸性质不明。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3380186",
     "datetime": "2026-08-10T18:18:38+00:00",
-    "views": "82",
+    "views": "84",
     "text": "据两位消息人士透露：利比亚扎维耶炼油厂燃料罐发生爆炸，爆炸起因不明。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3380185",
     "datetime": "2026-08-10T18:18:18+00:00",
-    "views": "81",
+    "views": "83",
     "text": "布伦特原油日内涨 5%，现报 87.74 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3380184",
     "datetime": "2026-08-10T18:18:17+00:00",
-    "views": "81",
+    "views": "83",
     "text": "WTI 原油日内涨 5%，现报 82.09 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3380183",
     "datetime": "2026-08-10T18:17:58+00:00",
-    "views": "83",
+    "views": "85",
     "text": "美国得克萨斯州州长阿博特：OpenAI 已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +173,7 @@
   {
     "post": "Financial_Express/3380182",
     "datetime": "2026-08-10T18:17:57+00:00",
-    "views": "82",
+    "views": "84",
     "text": "特朗普政府撤销超 17.5 万份外国人签证\n金十数据 8 月 11 日讯，据国会山报报道，特朗普政府宣布，已撤销超过 17.5 万份外国公民签证，理由包括涉及犯罪活动、违反签证规定以及发表针对美国公民的暴力言论等。美国国务院表示，大部分撤签源于“执法接触记录”，涉及袭击、酒驾、盗窃、毒品犯罪等。美国国务院称，2026 年签证撤销量明显增加，今年以来每月撤销数量超过 1 万份。美国政府表示，此举是持续审查机制的一部分，旨在确保签证持有人遵守规定、不威胁美国安全。部分移民律师对此表示担忧，认为美国政府可能因轻微执法事件或未经司法确认的指控撤销签证。美国国务院强调：“美国签证是一种特权，而不是一项权利。”",
     "media_only": false,
     "image_url": null,
