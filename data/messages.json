@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3382609",
+    "datetime": "2026-08-11T17:10:38+00:00",
+    "views": "1",
+    "text": "哥伦比亚强震已致 234 人死亡\n根据哥伦比亚市政联合会当地时间 11 日通报，该国 8 月 10 日发生的强震死亡人数已上升为 234 人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382609"
+  },
+  {
+    "post": "Financial_Express/3382608",
+    "datetime": "2026-08-11T17:10:37+00:00",
+    "views": "1",
+    "text": "巴林国防部：巴林国防军总参谋长会见英国国防参谋部战略与行动事务副参谋长及代表团。双方讨论了双边防务合作以及地区安全问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382608"
+  },
+  {
     "post": "Financial_Express/3382607",
     "datetime": "2026-08-11T17:07:17+00:00",
-    "views": "4",
+    "views": "34",
     "text": "英伟达信用风险指标回落 CEO 澄清 5000 亿美元融资计划\n一项与英伟达相关的信用风险指标周二回落，此前该公司表示将限制自身在一项 5000 亿美元融资计划中的风险敞口。该计划旨在为人工智能投资提供融资，而这类投资正推动对英伟达芯片的需求。英伟达票息 5.625%、2056 年到期债券的收益率较可比美国国债高 113 个基点，利差收窄 2 个基点。与此同时，根据 ICE Data Services 的数据，5 年期信用违约掉期报价一度收窄 5 个基点，至 72.11 个基点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3382601",
     "datetime": "2026-08-11T17:03:37+00:00",
-    "views": "68",
+    "views": "98",
     "text": "美国至 8 月 11 日 3 年期国债竞拍-得标利率 4.291%，前值 4.18%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3382602",
     "datetime": "2026-08-11T17:03:37+00:00",
-    "views": "38",
+    "views": "98",
     "text": "美国至 8 月 11 日 3 年期国债竞拍-得标利率配置百分比 18.31%，前值 2.17%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3382600",
     "datetime": "2026-08-11T17:02:58+00:00",
-    "views": "68",
+    "views": "98",
     "text": "美国 3 年期国债中标收益率 4.291%，发行前虚盘交易收益率为 4.296%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3382598",
     "datetime": "2026-08-11T17:02:37+00:00",
-    "views": "68",
+    "views": "98",
     "text": "美国财政部拍卖 580 亿美元三年期国债，得标利率 4.291%（7 月 7 日为 4.179%），投标倍数 2.71（前次为 2.60）。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3382597",
     "datetime": "2026-08-11T17:01:58+00:00",
-    "views": "68",
+    "views": "98",
     "text": "Meta：Threads 现已在 Meta Quest 上作为原生 VR 应用推出。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3382596",
     "datetime": "2026-08-11T17:01:57+00:00",
-    "views": "68",
+    "views": "98",
     "text": "罗马尼亚国防部长：罗马尼亚在黑海专属经济区内、靠近 NeptunDeep 海上天然气项目附近摧毁两架“Gerbera”型无人机。",
     "media_only": false,
     "image_url": null,
@@ -41875,14 +41893,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3377861"
-  },
-  {
-    "post": "Financial_Express/3377860",
-    "datetime": "2026-08-09T17:08:58+00:00",
-    "views": "280",
-    "text": "伊朗总统谈及外部大国：伊朗若是坐等、寄希望于外部势力，便已然落败，没有任何力量能够真正取代伊朗自身与本国人民。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3377860"
   }
 ]
