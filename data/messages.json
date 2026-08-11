@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3382625",
+    "datetime": "2026-08-11T17:38:37+00:00",
+    "views": "1",
+    "text": "哥伦比亚财政部长：哥伦比亚正面临历史上最严重的经济危机。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382625"
+  },
+  {
+    "post": "Financial_Express/3382624",
+    "datetime": "2026-08-11T17:38:17+00:00",
+    "views": "4",
+    "text": "利比亚国家石油公司宣布，扎维亚炼油厂燃料罐的火灾已得到控制。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382624"
+  },
+  {
+    "post": "Financial_Express/3382623",
+    "datetime": "2026-08-11T17:37:17+00:00",
+    "views": "18",
+    "text": "利比亚国家石油公司称，消防员已扑灭扎维亚炼油厂的所有火情。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382623"
+  },
+  {
     "post": "Financial_Express/3382622",
     "datetime": "2026-08-11T17:34:17+00:00",
-    "views": "57",
+    "views": "67",
     "text": "委内瑞拉政府表示，已与以色列达成协议，建立协调机制，以便提供领事服务。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3382621",
     "datetime": "2026-08-11T17:32:58+00:00",
-    "views": "49",
+    "views": "56",
     "text": "据伊朗媒体 FarsNews：一些消息来源报道称，沙特雇佣军在也门马里布的阵地再次发生两起爆炸。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3382620",
     "datetime": "2026-08-11T17:31:17+00:00",
-    "views": "50",
+    "views": "55",
     "text": "哥伦比亚财政部长：哥伦比亚不会通过增税来应对财政危机。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3382619",
     "datetime": "2026-08-11T17:27:58+00:00",
-    "views": "108",
+    "views": "111",
     "text": "委内瑞拉政府表示已与以色列达成协议，将设立协调机制以提供领事服务。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3382618",
     "datetime": "2026-08-11T17:27:57+00:00",
-    "views": "107",
+    "views": "110",
     "text": "谷歌(GOOG.O)：将视频点播服务引入 Google TV Freeplay。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3382617",
     "datetime": "2026-08-11T17:27:38+00:00",
-    "views": "108",
+    "views": "111",
     "text": "谷歌：将视频点播引入谷歌电视免费播放平台。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3382616",
     "datetime": "2026-08-11T17:26:17+00:00",
-    "views": "110",
+    "views": "113",
     "text": "哥伦比亚财政部长：哥伦比亚寻求世界银行 4 亿美元贷款以应对紧急情况。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3382615",
     "datetime": "2026-08-11T17:25:17+00:00",
-    "views": "110",
+    "views": "113",
     "text": "哥伦比亚财政部长：哥伦比亚或于今日宣布进入经济紧急状态。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3382614",
     "datetime": "2026-08-11T17:22:57+00:00",
-    "views": "108",
+    "views": "140",
     "text": "伊朗总统府：巴基斯坦内政部长表示，此行旨在跟进伊朗人员访巴期间达成的共识。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3382613",
     "datetime": "2026-08-11T17:19:57+00:00",
-    "views": "135",
+    "views": "137",
     "text": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗总统会见了巴基斯坦内政部长。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3382612",
     "datetime": "2026-08-11T17:18:57+00:00",
-    "views": "136",
+    "views": "138",
     "text": "纳斯达克 100 指数跌幅扩大至 0.5%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3382611",
     "datetime": "2026-08-11T17:16:37+00:00",
-    "views": "136",
+    "views": "138",
     "text": "2 家交易对手在美联储逆回购操作中获得 12.5 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3382610",
     "datetime": "2026-08-11T17:16:17+00:00",
-    "views": "136",
+    "views": "138",
     "text": "美联储在固定利率逆回购操作中总计接纳了 2 个对手方的 12.5 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3382609",
     "datetime": "2026-08-11T17:10:38+00:00",
-    "views": "167",
+    "views": "169",
     "text": "哥伦比亚强震已致 234 人死亡\n根据哥伦比亚市政联合会当地时间 11 日通报，该国 8 月 10 日发生的强震死亡人数已上升为 234 人。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3382608",
     "datetime": "2026-08-11T17:10:37+00:00",
-    "views": "167",
+    "views": "169",
     "text": "巴林国防部：巴林国防军总参谋长会见英国国防参谋部战略与行动事务副参谋长及代表团。双方讨论了双边防务合作以及地区安全问题。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3382607",
     "datetime": "2026-08-11T17:07:17+00:00",
-    "views": "167",
+    "views": "169",
     "text": "英伟达信用风险指标回落 CEO 澄清 5000 亿美元融资计划\n一项与英伟达相关的信用风险指标周二回落，此前该公司表示将限制自身在一项 5000 亿美元融资计划中的风险敞口。该计划旨在为人工智能投资提供融资，而这类投资正推动对英伟达芯片的需求。英伟达票息 5.625%、2056 年到期债券的收益率较可比美国国债高 113 个基点，利差收窄 2 个基点。与此同时，根据 ICE Data Services 的数据，5 年期信用违约掉期报价一度收窄 5 个基点，至 72.11 个基点。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3382606",
     "datetime": "2026-08-11T17:05:37+00:00",
-    "views": "168",
+    "views": "170",
     "text": "美国三年期国债收益率在三年期国债标售过后缩小跌幅；最新报 4.289%，较前值下跌 1.6 个基点。",
     "media_only": false,
     "image_url": null,
