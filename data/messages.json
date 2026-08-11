@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3382734",
+    "datetime": "2026-08-11T20:01:37+00:00",
+    "views": "15",
+    "text": "Apollo Global 收涨 6.3%，创 2025 年 5 月份以来最佳单日表现。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382734"
+  },
+  {
+    "post": "Financial_Express/3382733",
+    "datetime": "2026-08-11T20:01:17+00:00",
+    "views": "19",
+    "text": "美股收盘：三大股指收跌 金龙指数跌近 3%\n金十数据 8 月 12 日讯，美股周二收盘，道指初步收跌 0.34%，标普 500 指数跌 0.3%，纳指跌 0.6%。SK 海力士(SKHY.O)涨 4.7%，SpaceX(SPCX.O)跌 3.9%，苹果(AAPL.O)跌 1%。纳斯达克中国金龙指数收跌 2.95%，京东(JD.O)、网易(NTES.O)和蔚来汽车(NIO.N)跌于 4%一线。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382733"
+  },
+  {
+    "post": "Financial_Express/3382732",
+    "datetime": "2026-08-11T20:00:57+00:00",
+    "views": "51",
+    "text": "美股收盘：三大股指集体收跌\n道指跌 0.34%，标普 500 指数跌 0.32%，纳指跌 0.60%。APP AppLovin 跌 5.99%，芬塔公司跌 5.42%，Datadog 跌 5.37%，霍尼韦尔跌 5.30%。“七姐妹”方面：Meta Platforms 涨 0.71%，特斯拉涨 0.58%，英伟达跌 0.02%，微软跌 0.44%，苹果跌 1.09%，亚马逊跌 2.09%，谷歌跌 3.61%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382732"
+  },
+  {
     "post": "Financial_Express/3382731",
     "datetime": "2026-08-11T20:00:17+00:00",
-    "views": "12",
+    "views": "56",
     "text": "纳斯达克中国金龙指数收跌 2.95%\n腾讯音乐跌 11.92%，1 药网跌 8.05%，信也科技跌 6.04%，哔哩哔哩跌 5.21%，海天网络跌 5.20%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3382729",
     "datetime": "2026-08-11T19:58:58+00:00",
-    "views": "24",
+    "views": "62",
     "text": "伊朗将军纳赫迪：即使冲突持续数年，伊朗也能维持导弹和无人机的生产。伊朗将保持发射弹道导弹的能力，直至战争结束。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3382730",
     "datetime": "2026-08-11T19:58:58+00:00",
-    "views": "24",
+    "views": "62",
     "text": "巴西参议员弗拉维奥・博索纳罗的总统竞选团队正通过宪法修正案起草全新财政框架。草案提案将依据公共债务水平收紧巴西政府的支出上限，博索纳罗竞选团队拟定的财政框架草案将包含支出增长上限及财政目标。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3382728",
     "datetime": "2026-08-11T19:56:57+00:00",
-    "views": "59",
+    "views": "66",
     "text": "哥伦比亚国会经济委员会投票决定将 2027 年预算提案退回新政府进行调整。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3382727",
     "datetime": "2026-08-11T19:56:37+00:00",
-    "views": "60",
+    "views": "66",
     "text": "甲骨文(ORCL.N)：据合作协议，甲骨文云基础设施服务客户将能够直接访问 Quantinum 的 Helios 平台。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3382726",
     "datetime": "2026-08-11T19:55:37+00:00",
-    "views": "62",
+    "views": "68",
     "text": "量子计算公司 Quantinum 与甲骨文(ORCL.N)合作，加速在 Oracle 云基础设施上采用混合量子计算。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3382725",
     "datetime": "2026-08-11T19:55:17+00:00",
-    "views": "65",
+    "views": "71",
     "text": "哥伦比亚国会经济委员会投票决定，将 2027 年预算草案退回新一届政府进行调整。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3382724",
     "datetime": "2026-08-11T19:54:57+00:00",
-    "views": "67",
+    "views": "73",
     "text": "甲骨文公司：根据本次合作协议，OCI 客户将可直接访问 Quantinuum 的 Helios。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3382723",
     "datetime": "2026-08-11T19:54:17+00:00",
-    "views": "71",
+    "views": "77",
     "text": "Quantinuum 与 Oracle 达成合作，推动 Oracle 云基础设施上混合量子计算的落地应用。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3382722",
     "datetime": "2026-08-11T19:53:17+00:00",
-    "views": "76",
+    "views": "81",
     "text": "据 Business Insider：消息人士称，前 OpenAI 首席产品官凯文·韦尔正在为其新成立的 AI 科学初创公司寻求至少 7.5 亿美元估值。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3382721",
     "datetime": "2026-08-11T19:43:37+00:00",
-    "views": "121",
+    "views": "127",
     "text": "伊拉克谴责哥伦比亚承认以色列对戈兰高地“主权”\n金十数据 8 月 12 日讯，伊拉克外交部 11 日发表声明，强烈谴责哥伦比亚承认以色列对被占领的戈兰高地拥有“主权”的决定。声明强调，戈兰高地是被占领的叙利亚领土，任何一方都无权改变其法律地位，或赋予占领方任何缺乏依据的合法性。哥伦比亚的这一决定不具备任何法律效力，也无法改变“戈兰高地是叙利亚领土不可分割的一部分”这一事实。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3382720",
     "datetime": "2026-08-11T19:42:57+00:00",
-    "views": "122",
+    "views": "127",
     "text": "由于《明晰法案》推进受阻，美国证券交易委员会即将公布加密领域重大方案。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3382719",
     "datetime": "2026-08-11T19:41:37+00:00",
-    "views": "93",
+    "views": "128",
     "text": "伊拉克谴责哥伦比亚承认以色列对戈兰高地“主权”\n伊拉克外交部 11 日发表声明，强烈谴责哥伦比亚承认以色列对被占领的戈兰高地拥有“主权”的决定。声明强调，戈兰高地是被占领的叙利亚领土，任何一方都无权改变其法律地位，或赋予占领方任何缺乏依据的合法性。哥伦比亚的这一决定不具备任何法律效力，也无法改变“戈兰高地是叙利亚领土不可分割的一部分”这一事实。伊拉克外交部指出，承认占领国对被占领土拥有“主权”开创了危险先例，破坏国际法原则和《联合国宪章》。声明重申，伊拉克完全支持叙利亚维护国家主权和领土完整。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3382718",
     "datetime": "2026-08-11T19:40:57+00:00",
-    "views": "90",
+    "views": "95",
     "text": "知情人士：OpenAI 前高管为其初创公司寻求 7.5 亿美元估值。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3382717",
     "datetime": "2026-08-11T19:32:57+00:00",
-    "views": "89",
+    "views": "92",
     "text": "芝商所联合 Silicon Data 在 10 月推出算力期货\n金十数据 8 月 12 日讯，美国芝商所（CME）与 Silicon Data 确定，将于今年 10 月 5 日推出算力期货(ComputeFutures)。这些创新的交易工具将为希望控制运算成本的企业，提供对冲和投资工具。两款合约分别为 Silicon Data H100 租赁指数期货，以及 Silicon Data B200 租赁指数期货，将追踪衡量图像处理器(GPU)按小时租赁成本的指数。这两款新合约将在芝商所上市，并受纽约商业交易所(NYMEX)规则管辖，待监理核准通过后才生效。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3382716",
     "datetime": "2026-08-11T19:32:17+00:00",
-    "views": "114",
+    "views": "115",
     "text": "胡塞武装称打击也门多地的与沙特相关军事目标\n金十数据 8 月 12 日讯，也门胡塞武装发言人叶海亚 11 日表示，胡塞武装动用大量弹道导弹和无人机，对沙特支持、在摩卡地区以及马里卜省塔达温军事基地的人员集结、武器库和指挥部实施打击。叶海亚称，相关打击“精准命中目标”，造成数十人死伤，其中包括沙特人员。他还表示，沙特方面的各类军事集结旨在升级局势并控制也门，胡塞武装将继续对其实施打击。",
     "media_only": false,
     "image_url": null,
