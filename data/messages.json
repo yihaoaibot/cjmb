@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3382727",
+    "datetime": "2026-08-11T19:56:37+00:00",
+    "views": "1",
+    "text": "甲骨文(ORCL.N)：据合作协议，甲骨文云基础设施服务客户将能够直接访问 Quantinum 的 Helios 平台。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382727"
+  },
+  {
+    "post": "Financial_Express/3382726",
+    "datetime": "2026-08-11T19:55:37+00:00",
+    "views": "11",
+    "text": "量子计算公司 Quantinum 与甲骨文(ORCL.N)合作，加速在 Oracle 云基础设施上采用混合量子计算。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382726"
+  },
+  {
+    "post": "Financial_Express/3382725",
+    "datetime": "2026-08-11T19:55:17+00:00",
+    "views": "14",
+    "text": "哥伦比亚国会经济委员会投票决定，将 2027 年预算草案退回新一届政府进行调整。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382725"
+  },
+  {
+    "post": "Financial_Express/3382724",
+    "datetime": "2026-08-11T19:54:57+00:00",
+    "views": "17",
+    "text": "甲骨文公司：根据本次合作协议，OCI 客户将可直接访问 Quantinuum 的 Helios。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382724"
+  },
+  {
     "post": "Financial_Express/3382723",
     "datetime": "2026-08-11T19:54:17+00:00",
-    "views": "11",
+    "views": "23",
     "text": "Quantinuum 与 Oracle 达成合作，推动 Oracle 云基础设施上混合量子计算的落地应用。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3382722",
     "datetime": "2026-08-11T19:53:17+00:00",
-    "views": "18",
+    "views": "29",
     "text": "据 Business Insider：消息人士称，前 OpenAI 首席产品官凯文·韦尔正在为其新成立的 AI 科学初创公司寻求至少 7.5 亿美元估值。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3382721",
     "datetime": "2026-08-11T19:43:37+00:00",
-    "views": "76",
+    "views": "82",
     "text": "伊拉克谴责哥伦比亚承认以色列对戈兰高地“主权”\n金十数据 8 月 12 日讯，伊拉克外交部 11 日发表声明，强烈谴责哥伦比亚承认以色列对被占领的戈兰高地拥有“主权”的决定。声明强调，戈兰高地是被占领的叙利亚领土，任何一方都无权改变其法律地位，或赋予占领方任何缺乏依据的合法性。哥伦比亚的这一决定不具备任何法律效力，也无法改变“戈兰高地是叙利亚领土不可分割的一部分”这一事实。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3382720",
     "datetime": "2026-08-11T19:42:57+00:00",
-    "views": "81",
+    "views": "86",
     "text": "由于《明晰法案》推进受阻，美国证券交易委员会即将公布加密领域重大方案。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3382719",
     "datetime": "2026-08-11T19:41:37+00:00",
-    "views": "83",
+    "views": "88",
     "text": "伊拉克谴责哥伦比亚承认以色列对戈兰高地“主权”\n伊拉克外交部 11 日发表声明，强烈谴责哥伦比亚承认以色列对被占领的戈兰高地拥有“主权”的决定。声明强调，戈兰高地是被占领的叙利亚领土，任何一方都无权改变其法律地位，或赋予占领方任何缺乏依据的合法性。哥伦比亚的这一决定不具备任何法律效力，也无法改变“戈兰高地是叙利亚领土不可分割的一部分”这一事实。伊拉克外交部指出，承认占领国对被占领土拥有“主权”开创了危险先例，破坏国际法原则和《联合国宪章》。声明重申，伊拉克完全支持叙利亚维护国家主权和领土完整。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3382718",
     "datetime": "2026-08-11T19:40:57+00:00",
-    "views": "83",
+    "views": "86",
     "text": "知情人士：OpenAI 前高管为其初创公司寻求 7.5 亿美元估值。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3382717",
     "datetime": "2026-08-11T19:32:57+00:00",
-    "views": "83",
+    "views": "87",
     "text": "芝商所联合 Silicon Data 在 10 月推出算力期货\n金十数据 8 月 12 日讯，美国芝商所（CME）与 Silicon Data 确定，将于今年 10 月 5 日推出算力期货(ComputeFutures)。这些创新的交易工具将为希望控制运算成本的企业，提供对冲和投资工具。两款合约分别为 Silicon Data H100 租赁指数期货，以及 Silicon Data B200 租赁指数期货，将追踪衡量图像处理器(GPU)按小时租赁成本的指数。这两款新合约将在芝商所上市，并受纽约商业交易所(NYMEX)规则管辖，待监理核准通过后才生效。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3382716",
     "datetime": "2026-08-11T19:32:17+00:00",
-    "views": "107",
+    "views": "111",
     "text": "胡塞武装称打击也门多地的与沙特相关军事目标\n金十数据 8 月 12 日讯，也门胡塞武装发言人叶海亚 11 日表示，胡塞武装动用大量弹道导弹和无人机，对沙特支持、在摩卡地区以及马里卜省塔达温军事基地的人员集结、武器库和指挥部实施打击。叶海亚称，相关打击“精准命中目标”，造成数十人死伤，其中包括沙特人员。他还表示，沙特方面的各类军事集结旨在升级局势并控制也门，胡塞武装将继续对其实施打击。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3382715",
     "datetime": "2026-08-11T19:30:38+00:00",
-    "views": "99",
+    "views": "103",
     "text": "胡塞武装称打击也门多地的与沙特相关军事目标\n也门胡塞武装发言人叶海亚 11 日表示，胡塞武装动用大量弹道导弹和无人机，对沙特支持、在摩卡地区以及马里卜省塔达温军事基地的人员集结、武器库和指挥部实施打击。叶海亚称，相关打击“精准命中目标”，造成数十人死伤，其中包括沙特人员。他还表示，沙特方面的各类军事集结旨在升级局势并控制也门，胡塞武装将继续对其实施打击。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3382714",
     "datetime": "2026-08-11T19:30:37+00:00",
-    "views": "91",
+    "views": "93",
     "text": "国际油价 11 日上涨\n金十数据 8 月 12 日讯，截至当天收盘，纽约商品交易所 9 月交货的轻质原油期货价格上涨 1.07 美元，收于每桶 83.20 美元，涨幅为 1.3%；10 月交货的伦敦布伦特原油期货价格上涨 1.19 美元，收于每桶 88.91 美元，涨幅为 1.36%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3382713",
     "datetime": "2026-08-11T19:29:57+00:00",
-    "views": "87",
+    "views": "89",
     "text": "国际油价 11 日上涨\n截至当天收盘，纽约商品交易所 9 月交货的轻质原油期货价格上涨 1.07 美元，收于每桶 83.20 美元，涨幅为 1.3%；10 月交货的伦敦布伦特原油期货价格上涨 1.19 美元，收于每桶 88.91 美元，涨幅为 1.36%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3382711",
     "datetime": "2026-08-11T19:29:37+00:00",
-    "views": "84",
+    "views": "86",
     "text": "美元指数 11 日上涨\n金十数据 8 月 12 日讯，衡量美元对六种主要货币的美元指数当天上涨 0.02%，在汇市尾市收于 99.828。截至纽约汇市尾市，1 欧元兑换 1.1540 美元，低于前一交易日的 1.1542 美元；1 英镑兑换 1.3503 美元，低于前一交易日的 1.3509 美元。1 美元兑换 159.26 日元，高于前一交易日的 159.24 日元；1 美元兑换 0.8112 瑞士法郎，高于前一交易日的 0.8101 瑞士法郎；1 美元兑换 1.3920 加元，低于前一交易日的 1.3942 加元；1 美元兑换 9.5244 瑞典克朗，高于前一交易日的 9.5016 瑞典克朗。",
     "media_only": false,
     "image_url": null,
@@ -42595,23 +42631,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3377896"
-  },
-  {
-    "post": "Financial_Express/3377895",
-    "datetime": "2026-08-09T19:56:18+00:00",
-    "views": "109",
-    "text": "俄罗斯国防部：俄军已控制乌克兰东部的瓦休京斯凯与托列茨克，并对苏梅州两座乌克兰炼油厂实施打击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3377895"
-  },
-  {
-    "post": "Financial_Express/3377894",
-    "datetime": "2026-08-09T19:56:17+00:00",
-    "views": "114",
-    "text": "据伊朗学生通讯社：伊朗商会会长表示，私营部门已准备好运用其观点和能力来设计相关机制，以巩固任何潜在协议对国家的经济利益，并保护其经济成果。他强调，各国之间健康、平衡的经济联系和共同利益越深厚，回归紧张局势的成本就越高。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3377894"
   }
 ]
