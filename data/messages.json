@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3382198",
+    "datetime": "2026-08-11T13:08:18+00:00",
+    "views": "1",
+    "text": "雅培与谷歌推出首个合作项目，借助血糖洞察和人工智能改变日常健康管理。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382198"
+  },
+  {
+    "post": "Financial_Express/3382197",
+    "datetime": "2026-08-11T13:08:00+00:00",
+    "views": "1",
+    "text": "雅培：与谷歌多年合作将雅培的 Lingo 生物可穿戴设备的血糖观察与谷歌健康技术相结合。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382197"
+  },
+  {
+    "post": "Financial_Express/3382196",
+    "datetime": "2026-08-11T13:07:39+00:00",
+    "views": "1",
+    "text": "雅培与谷歌：合作涵盖大规模研究项目，旨在为人工智能辅导应用提供更完善的依据。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382196"
+  },
+  {
+    "post": "Financial_Express/3382195",
+    "datetime": "2026-08-11T13:07:19+00:00",
+    "views": "1",
+    "text": "美国司法部将对明尼苏达州初选开展选举监督工作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382195"
+  },
+  {
+    "post": "Financial_Express/3382194",
+    "datetime": "2026-08-11T13:07:18+00:00",
+    "views": "1",
+    "text": "雅培：与谷歌的合作包括大规模研究，以更好地指导人工智能培训。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382194"
+  },
+  {
+    "post": "Financial_Express/3382193",
+    "datetime": "2026-08-11T13:06:59+00:00",
+    "views": "1",
+    "text": "大卫·埃里森威胁，若加州政府拒绝就反垄断诉讼达成和解，将于 10 月 1 日起把派拉蒙迁出加州。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382193"
+  },
+  {
+    "post": "Financial_Express/3382192",
+    "datetime": "2026-08-11T13:06:58+00:00",
+    "views": "1",
+    "text": "英伟达(NVDA.O)：Nemotron 3.5 Lightning 可在英伟达 RTX 个人电脑、英伟达 DGX Spark、搭载 GB10 的 OEM 系统以及英伟达 Jetson 平台上本地运行。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382192"
+  },
+  {
     "post": "Financial_Express/3382191",
     "datetime": "2026-08-11T13:06:38+00:00",
-    "views": "3",
+    "views": "33",
     "text": "英伟达(NVDA.O)：已与 vLLM、Ollama、llama.cpp、LM Studio 和 Unsloth 合作，支持 Nemotron 3.5 Lightning。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3382190",
     "datetime": "2026-08-11T13:06:17+00:00",
-    "views": "4",
+    "views": "34",
     "text": "英伟达(NVDA.O)：Nemo Switchyard 将基准测试完成成本降低至 Opus 4.8 的三分之一。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3382189",
     "datetime": "2026-08-11T13:05:38+00:00",
-    "views": "4",
+    "views": "34",
     "text": "英伟达全力研发 Nemotron 4 开源大模型 拉动芯片需求同时直面客户竞争\n英伟达正加码布局开源赛道，投入资源自研一款重磅大模型。公司希望借助该模型拉动硬件需求，但此举也意味着它或将与自身客户、合作伙伴形成竞争。多名参与 Nemotron 项目的人士透露，英伟达计划打造 Nemotron 4 系列中规模最大的基础模型，目标性能对标全球顶尖开源大模型。英伟达上一代旗舰大模型相关论文拥有 570 名作者，员工表示 Nemotron 4 参与研发人员规模将进一步扩大。一名前员工称：“现阶段所有人都希望能够参与其中。”英伟达近期持续推出多款开源模型，本次研发建立在此基础之上。周二，英伟达发布 Nemotron 3.5 Lightning 轻量化模型，主打高效、高速运行智能体。公司同时推出免费模型路由软件，帮助企业快速搭建模型调度工具 —— 这类工具能够将不同 AI 任务分配给适配且成本最优的模型。多名 Nemotron 项目员工透露，旗舰版 Nemotron 4 参数量至少达到万亿级别。参数量是模型学习过程中持续调整的参数单元，这一规模大约是英伟达当前旗舰模型 Nemotron 3 Ultra（6 月发布）的两倍。即便达到万亿参数，该模型体量依旧小于美国头部开源大模型；不过英伟达十分看重模型压缩技术，依靠该技术，更小体量模型也有望实现更优表现。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3382186",
     "datetime": "2026-08-11T13:05:19+00:00",
-    "views": "3",
+    "views": "33",
     "text": "英伟达美股盘前涨近 2%\n英伟达美股盘前涨近 2%。据报道，公司正在开发一款新的 Nemotron 4 开源 AI 模型。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3382187",
     "datetime": "2026-08-11T13:05:19+00:00",
-    "views": "4",
+    "views": "34",
     "text": "英伟达推出 Nemotron 3.5 Lightning 大模型，可通过 OpenRouter、英伟达开发者平台 build.nvidia.com 及云合作伙伴获取",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3382185",
     "datetime": "2026-08-11T13:04:57+00:00",
-    "views": "3",
+    "views": "33",
     "text": "洛克希德・马丁将为 MPDS 项目投入数百万美元资金。",
     "media_only": false,
     "image_url": null,
@@ -39571,14 +39634,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3377768"
-  },
-  {
-    "post": "Financial_Express/3377767",
-    "datetime": "2026-08-09T13:07:58+00:00",
-    "views": "180",
-    "text": "无人机威胁增多 德国新建机构研究应对\n德国莱比锡机场发现搭载爆炸物的无人机后，内政部长亚历山大·多布林特宣布该国将新建一所无人机安全研究机构，以应对这类威胁。据德国《星期日图片报》9 日报道，这一新机构位于德国东部萨克森-安哈尔特州的德国航空航天中心试验机场，将于本月 18 日成立。多布林特表示，该机构将致力于开发和测试无人机防范技术，整合相关科研人员，根据安全部门要求进行技术创新，加强无人机安全研究。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3377767"
   }
 ]
