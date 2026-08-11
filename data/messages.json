@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3382191",
+    "datetime": "2026-08-11T13:06:38+00:00",
+    "views": "3",
+    "text": "英伟达(NVDA.O)：已与 vLLM、Ollama、llama.cpp、LM Studio 和 Unsloth 合作，支持 Nemotron 3.5 Lightning。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382191"
+  },
+  {
+    "post": "Financial_Express/3382190",
+    "datetime": "2026-08-11T13:06:17+00:00",
+    "views": "4",
+    "text": "英伟达(NVDA.O)：Nemo Switchyard 将基准测试完成成本降低至 Opus 4.8 的三分之一。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382190"
+  },
+  {
+    "post": "Financial_Express/3382189",
+    "datetime": "2026-08-11T13:05:38+00:00",
+    "views": "4",
+    "text": "英伟达全力研发 Nemotron 4 开源大模型 拉动芯片需求同时直面客户竞争\n英伟达正加码布局开源赛道，投入资源自研一款重磅大模型。公司希望借助该模型拉动硬件需求，但此举也意味着它或将与自身客户、合作伙伴形成竞争。多名参与 Nemotron 项目的人士透露，英伟达计划打造 Nemotron 4 系列中规模最大的基础模型，目标性能对标全球顶尖开源大模型。英伟达上一代旗舰大模型相关论文拥有 570 名作者，员工表示 Nemotron 4 参与研发人员规模将进一步扩大。一名前员工称：“现阶段所有人都希望能够参与其中。”英伟达近期持续推出多款开源模型，本次研发建立在此基础之上。周二，英伟达发布 Nemotron 3.5 Lightning 轻量化模型，主打高效、高速运行智能体。公司同时推出免费模型路由软件，帮助企业快速搭建模型调度工具 —— 这类工具能够将不同 AI 任务分配给适配且成本最优的模型。多名 Nemotron 项目员工透露，旗舰版 Nemotron 4 参数量至少达到万亿级别。参数量是模型学习过程中持续调整的参数单元，这一规模大约是英伟达当前旗舰模型 Nemotron 3 Ultra（6 月发布）的两倍。即便达到万亿参数，该模型体量依旧小于美国头部开源大模型；不过英伟达十分看重模型压缩技术，依靠该技术，更小体量模型也有望实现更优表现。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382189"
+  },
+  {
+    "post": "Financial_Express/3382188",
+    "datetime": "2026-08-11T13:05:37+00:00",
+    "views": "4",
+    "text": "路透调查显示，阿根廷七月份的月通胀率预测为 2.0%，而六月份为 1.9%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382188"
+  },
+  {
+    "post": "Financial_Express/3382186",
+    "datetime": "2026-08-11T13:05:19+00:00",
+    "views": "3",
+    "text": "英伟达美股盘前涨近 2%\n英伟达美股盘前涨近 2%。据报道，公司正在开发一款新的 Nemotron 4 开源 AI 模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382186"
+  },
+  {
+    "post": "Financial_Express/3382187",
+    "datetime": "2026-08-11T13:05:19+00:00",
+    "views": "4",
+    "text": "英伟达推出 Nemotron 3.5 Lightning 大模型，可通过 OpenRouter、英伟达开发者平台 build.nvidia.com 及云合作伙伴获取",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382187"
+  },
+  {
+    "post": "Financial_Express/3382185",
+    "datetime": "2026-08-11T13:04:57+00:00",
+    "views": "3",
+    "text": "洛克希德・马丁将为 MPDS 项目投入数百万美元资金。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3382185"
+  },
+  {
     "post": "Financial_Express/3382184",
     "datetime": "2026-08-11T13:04:38+00:00",
-    "views": "1",
+    "views": "33",
     "text": "英伟达：NEMO Switchyard 将基准测试完成成本降至 Opus 4.8 的三分之一。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3382183",
     "datetime": "2026-08-11T13:04:37+00:00",
-    "views": "1",
+    "views": "33",
     "text": "英伟达已携手 vLLM、Ollama、llama.cpp、LM Studio、Unsloth，共同推出 Nemotron 3.5 Lightning 大模型。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3382182",
     "datetime": "2026-08-11T13:04:19+00:00",
-    "views": "2",
+    "views": "34",
     "text": "雅培与谷歌就血糖数据分析与人工智能达成多年合作，雅培股价盘前上涨 1%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3382179",
     "datetime": "2026-08-11T13:03:59+00:00",
-    "views": "3",
+    "views": "33",
     "text": "据 The Information：参与 NEMOTRON 项目研发的多位英伟达(NVDA.O)员工表示，他们预计最大的 NEMOTRON 4 模型将至少拥有 1 万亿个参数。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3382180",
     "datetime": "2026-08-11T13:03:59+00:00",
-    "views": "3",
+    "views": "33",
     "text": "英伟达推出 Nemotron 3.5 Lightning 开放版 300 亿参数混合专家模型。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3382181",
     "datetime": "2026-08-11T13:03:59+00:00",
-    "views": "3",
+    "views": "33",
     "text": "以色列国防军向加沙地带构成威胁的哈马斯狙击手开火。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3382178",
     "datetime": "2026-08-11T13:03:38+00:00",
-    "views": "3",
+    "views": "33",
     "text": "国际金融协会（IIF）：7 月份新兴市场股票资金流出放缓至 78 亿美元，低于 6 月份的 461 亿美元。7 月份新兴市场债务吸引资金流入 267 亿美元，6 月份为 281 亿美元。7 月份非居民投资者向新兴市场投资组合净增 188 亿美元，结束了连续两个月的资金外流。截至 7 月，新兴市场债务流入量达到 2144 亿美元，而 2025 年同期预计为 1777 亿美元。截至 7 月份，新兴市场股票年度资金流出总额为 860 亿美元，而去年同期为 90 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -39517,14 +39580,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3377767"
-  },
-  {
-    "post": "Financial_Express/3377766",
-    "datetime": "2026-08-09T13:04:58+00:00",
-    "views": "183",
-    "text": "塞浦路斯有望 2028 年为欧洲供气\n塞浦路斯能源部长迈克尔·达米亚诺斯日前接受美国媒体采访时说，塞浦路斯有望最早于 2028 年 3 月起向欧洲供应东地中海地区出产的天然气。达米亚诺斯告诉美联社，乌克兰危机和中东战事令全球能源市场动荡，促使欧洲国家推动能源来源多元化，而东地中海地区的海上气田正逐渐进入它们的视野，成为替代供应渠道。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3377766"
   }
 ]
