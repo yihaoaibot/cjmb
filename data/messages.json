@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3384943",
+    "datetime": "2026-08-12T15:55:17+00:00",
+    "views": "33",
+    "text": "DeepSeek 官网 API 文档新增“DeepSeek-V4-Pro-0813”模型\nDeepSeek 官网“API 文档”上的“模型 & 价格”页面中，模型版本新增了 DeepSeek-V4-Pro-0813，其支持非思考与思考模式。不过，官方尚未发布 DeepSeek-V4-Pro-0813 的更新日志。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3384943"
+  },
+  {
     "post": "Financial_Express/3384942",
     "datetime": "2026-08-12T15:49:58+00:00",
-    "views": "43",
+    "views": "73",
     "text": "贸易商 SUCAFINA：哥伦比亚布埃纳文图拉港因开展基础设施评估，咖啡出口业务暂停。该公司正在评估备选运输路线及物流方案，“尽可能维持咖啡货运的连续性”。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3384941",
     "datetime": "2026-08-12T15:49:37+00:00",
-    "views": "47",
+    "views": "77",
     "text": "谷歌：Google Pixel Tag 上市时，用户可单个购买，售价 29 美元；也可购买 4 件套装，售价 99 美元。该产品将于 11 月 11 日正式开售。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3384937",
     "datetime": "2026-08-12T15:47:18+00:00",
-    "views": "87",
+    "views": "117",
     "text": "软商品贸易商 SUCAFINA 称，受地震影响，哥伦比亚大部分产区的咖啡运输 “严重受阻”。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3384935",
     "datetime": "2026-08-12T15:45:37+00:00",
-    "views": "98",
+    "views": "128",
     "text": "马斯克：Grok 4.6 的 Elo 评分达到 1753 分。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3384927",
     "datetime": "2026-08-12T15:40:39+00:00",
-    "views": "101",
+    "views": "131",
     "text": "金十图示：2026 年 08 月 12 日（周三）全球股市指数-欧洲市场",
     "media_only": false,
     "image_url": null,
@@ -42991,23 +43000,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3380082"
-  },
-  {
-    "post": "Financial_Express/3380080",
-    "datetime": "2026-08-10T15:56:38+00:00",
-    "views": "170",
-    "text": "伊朗和巴基斯坦外长在通话中讨论霍尔木兹海谈判及防务协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3380080"
-  },
-  {
-    "post": "Financial_Express/3380079",
-    "datetime": "2026-08-10T15:55:38+00:00",
-    "views": "171",
-    "text": "霍尔木兹海峡风险推高油轮租船成本，中东航线日费逼近 50 万美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3380079"
   }
 ]
