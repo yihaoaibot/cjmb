@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3384958",
+    "datetime": "2026-08-12T16:11:58+00:00",
+    "views": "33",
+    "text": "谷歌：Pixel 11 Pro Fold 今日开启预购，将于 8 月 20 日上市开售。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3384958"
+  },
+  {
+    "post": "Financial_Express/3384957",
+    "datetime": "2026-08-12T16:11:17+00:00",
+    "views": "34",
+    "text": "谷歌：推出 Pixel 11 Pro Fold。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3384957"
+  },
+  {
     "post": "Financial_Express/3384956",
     "datetime": "2026-08-12T16:08:17+00:00",
-    "views": "36",
+    "views": "68",
     "text": "乌克兰总统泽连斯基：同亚美尼亚总理进行了交谈。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3384955",
     "datetime": "2026-08-12T16:06:58+00:00",
-    "views": "36",
+    "views": "68",
     "text": "美国农业部：将阿根廷 2025/2026 年度大豆产量预期从之前的 5000 万吨下调至 4950 万吨；将巴西 2025/2026 年度大豆产量预期从之前的 1.8 亿吨上调至 1.805 亿吨。维持阿根廷 2025/2026 年度玉米产量预期在 6300 万吨不变；将巴西 2025/2026 年度玉米产量预期从之前的 1.38 亿吨上调至 1.4 亿吨。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3384954",
     "datetime": "2026-08-12T16:05:18+00:00",
-    "views": "67",
+    "views": "99",
     "text": "MUFG 试点项目计划于年底前完成，该项服务预计在 2027‑2029 财年间全面落地。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3384953",
     "datetime": "2026-08-12T16:04:57+00:00",
-    "views": "67",
+    "views": "99",
     "text": "CBOT 玉米期货在美国农业部报告发布后扩大涨幅。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3384952",
     "datetime": "2026-08-12T16:03:38+00:00",
-    "views": "98",
+    "views": "129",
     "text": "日本三菱日联金融集团将通过区块链推出日本国债即时交易业务。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3384951",
     "datetime": "2026-08-12T16:03:17+00:00",
-    "views": "68",
+    "views": "99",
     "text": "俄罗斯统计局：7 月汽油价格环比上涨 6.5%，柴油价格环比上涨 9.2%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3384950",
     "datetime": "2026-08-12T16:02:58+00:00",
-    "views": "98",
+    "views": "99",
     "text": "美国农业部：8 月美国 2026/2027 年度大豆产量预期为 45.19 亿蒲式耳，市场预期为 44.72 亿蒲式耳，7 月预期为 44.75 亿蒲式耳。8 月美国 2026/2027 年度大豆期末库存预期为 3.2 亿蒲式耳，市场预期为 3.04 亿蒲式耳，7 月预期为 3.1 亿蒲式耳。8 月美国 2026/2027 年度大豆单产预期为 52.7 蒲式耳/英亩，市场预期为 52.9 蒲式耳/英亩，7 月预期为 53 蒲式耳/英亩。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3384949",
     "datetime": "2026-08-12T16:02:57+00:00",
-    "views": "68",
+    "views": "98",
     "text": "派拉蒙首席执行官被要求接受国会质询。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3384948",
     "datetime": "2026-08-12T16:02:37+00:00",
-    "views": "68",
+    "views": "98",
     "text": "据 Politico：派拉蒙(PSKY.O)CEO 被要求接受国会问询。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3384947",
     "datetime": "2026-08-12T16:02:18+00:00",
-    "views": "69",
+    "views": "99",
     "text": "俄罗斯统计局：7 月 CPI 环比上涨 0.54%，同比上涨 5.98%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3384943",
     "datetime": "2026-08-12T15:55:17+00:00",
-    "views": "160",
+    "views": "190",
     "text": "DeepSeek 官网 API 文档新增“DeepSeek-V4-Pro-0813”模型\nDeepSeek 官网“API 文档”上的“模型 & 价格”页面中，模型版本新增了 DeepSeek-V4-Pro-0813，其支持非思考与思考模式。不过，官方尚未发布 DeepSeek-V4-Pro-0813 的更新日志。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3384942",
     "datetime": "2026-08-12T15:49:58+00:00",
-    "views": "169",
+    "views": "199",
     "text": "贸易商 SUCAFINA：哥伦比亚布埃纳文图拉港因开展基础设施评估，咖啡出口业务暂停。该公司正在评估备选运输路线及物流方案，“尽可能维持咖啡货运的连续性”。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3384941",
     "datetime": "2026-08-12T15:49:37+00:00",
-    "views": "142",
+    "views": "172",
     "text": "谷歌：Google Pixel Tag 上市时，用户可单个购买，售价 29 美元；也可购买 4 件套装，售价 99 美元。该产品将于 11 月 11 日正式开售。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3384940",
     "datetime": "2026-08-12T15:49:17+00:00",
-    "views": "142",
+    "views": "172",
     "text": "GOOGLE：推出 Google Pixel Tag， 产品将于 11 月 11 日上市，用户可按 29 美元购买，或以 99 美元购入 4‑pack 套装。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3384939",
     "datetime": "2026-08-12T15:48:37+00:00",
-    "views": "147",
+    "views": "177",
     "text": "谷歌：推出谷歌 Pixel Tag。",
     "media_only": false,
     "image_url": null,
