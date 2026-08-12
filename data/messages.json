@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3385113",
+    "datetime": "2026-08-12T20:48:38+00:00",
+    "views": "4",
+    "text": "思科称第四财季超大规模客户订单实现三位数增幅。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3385113"
+  },
+  {
+    "post": "Financial_Express/3385112",
+    "datetime": "2026-08-12T20:48:37+00:00",
+    "views": "4",
+    "text": "“特朗普消息付费抢先看”服务引发交易机构抵制\n金十数据 8 月 13 日讯，据知情人士透露，特朗普旗下媒体公司推出的 Truth API 数据服务正面临部分交易公司的抵制。虽然已有一些交易机构签约使用该服务，但包括哈德逊河交易公司和城堡证券在内的部分公司表示，不愿为该服务付费，认为其并非交易运营的必要条件。相关人士因涉及非公开信息要求匿名。分析人士指出，现有内幕交易监管规则并未明确覆盖总统利用旗下媒体平台发布可能影响市场的信息，或向市场出售更快获取此类信息的权限。华盛顿与李大学法学院教授凯伦·伍迪表示，过去监管体系并未预设在任总统可能采取此类做法。美国证券交易委员会主席保罗·阿特金斯此前在接受采访时表示，美国证券交易委员会正在关注 Truth API 数据流相关情况。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3385112"
+  },
+  {
+    "post": "Financial_Express/3385111",
+    "datetime": "2026-08-12T20:47:57+00:00",
+    "views": "7",
+    "text": "美国一架来自胡德堡基地的阿帕奇武装直升机在得克萨斯州中部坠毁，两名飞行员全部遇难，事故引发野火，当地已启动人员疏散。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3385111"
+  },
+  {
+    "post": "Financial_Express/3385110",
+    "datetime": "2026-08-12T20:47:17+00:00",
+    "views": "10",
+    "text": "Cerebras 第二季财报喜忧参半，股价盘后跌 17%\n金十数据 8 月 13 日讯，AI 芯片制造商 Cerebras 第二季度营收录得 2.1 亿美元，同比增长 103%；其中云业务收入达到 1.26 亿美元，同比增长近 4 倍，但硬件销售额同比下滑 23%，至 5410 万美元；本季录得净亏损 4.505 亿美元，而上年同期实现净利润 3.095 亿美元。公司上调了全年业绩指引，目前预计核心营收将在 8.80 亿至 8.90 亿美元之间，高于此前 8.55 亿至 8.65 亿美元的预期区间。这份报告给投资者带来了喜忧参半的局面，自 5 月份 IPO 以来，Cerebras 的股价已上涨了 42%。该公司最初定位为人工智能芯片领域英伟达的挑战者，但如今其最大的收入来源却是云计算。Cerebras 表示，本季度核心毛利率将扩大至 38%至 40%，以回应投资者的担忧。财报公布后，Cerebras 股价盘后一度跌逾 17%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3385110"
+  },
+  {
     "post": "Financial_Express/3385109",
     "datetime": "2026-08-12T20:46:38+00:00",
-    "views": "3",
+    "views": "13",
     "text": "思科首席执行官在电话会议上表示，未来六个月，公司有望拿下多项 AI 设计订单，覆盖 G300、G200、P200 Silicon One 芯片及光模块产品。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3385108",
     "datetime": "2026-08-12T20:46:37+00:00",
-    "views": "3",
+    "views": "13",
     "text": "美国国务院批评以色列国防部长卡茨，表示以色列在黎巴嫩南部的军事部署违背相关协议；而卡茨称以色列国防军将在安全区保持长期驻军。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3385107",
     "datetime": "2026-08-12T20:46:17+00:00",
-    "views": "5",
+    "views": "14",
     "text": "伊朗方面称，有报告显示格什姆岛附近出现石油污染，将此事归咎于一艘外籍油轮，要求就波斯湾的环境破坏追究责任。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3385106",
     "datetime": "2026-08-12T20:45:37+00:00",
-    "views": "11",
+    "views": "18",
     "text": "标普全球扩大与微软(MSFT.O)合作，将丰富的关键智能数据引入微软 365 Copilot。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3385105",
     "datetime": "2026-08-12T20:40:17+00:00",
-    "views": "60",
+    "views": "64",
     "text": "据 Axios：美国国务院高级官员表示，美国敦促各方遵守框架协议。以色列已明确无意占领黎巴嫩领土，长期驻军黎南不符合协议承诺，也不利于两国长期和平与安全。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3385104",
     "datetime": "2026-08-12T20:39:37+00:00",
-    "views": "61",
+    "views": "63",
     "text": "据 Axios：特朗普政府批评以色列国防部长卡茨有关继续占领黎巴嫩南部的言论，并表示相关表态违背了以色列政府与美国及黎巴嫩签署协议中的承诺。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3385103",
     "datetime": "2026-08-12T20:37:57+00:00",
-    "views": "63",
+    "views": "65",
     "text": "美国经济顾问委员会主席：CPI 报告削弱了加息的理由。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3385102",
     "datetime": "2026-08-12T20:34:57+00:00",
-    "views": "69",
+    "views": "71",
     "text": "美国最高法院目前暂停苹果应用商店费率相关诉讼程序。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3385101",
     "datetime": "2026-08-12T20:33:17+00:00",
-    "views": "103",
+    "views": "105",
     "text": "特朗普的总统直升机海军陆战队一号与商业航班近距离接近事件发生后，美国联邦航空管理局计划修复里根国家机场的通信系统。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3385100",
     "datetime": "2026-08-12T20:31:37+00:00",
-    "views": "106",
+    "views": "108",
     "text": "伊朗官方驳斥特朗普有关美国完全掌控霍尔木兹海峡的说法。",
     "media_only": false,
     "image_url": null,
@@ -42253,14 +42289,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3380329"
-  },
-  {
-    "post": "Financial_Express/3380328",
-    "datetime": "2026-08-10T20:46:57+00:00",
-    "views": "129",
-    "text": "大摩启动 1.5 万亿美元美国创新基础设施计划 聚焦 AI 等前沿技术\n金十数据 8 月 11 日讯，摩根士丹利宣布推出“美国创新基础设施倡议”，计划未来 10 年推动约 1.5 万亿美元的资本募集、融资、咨询及相关投资活动，以支持美国下一阶段经济增长。该计划将重点布局人工智能、先进计算、量子技术、半导体、数据基础设施、网络安全、航空航天、国防、关键矿产等战略领域，并推动数字、实体和能源基础设施建设。摩根士丹利表示，该倡议旨在支持建设对美国经济和国家安全至关重要的企业、技术和平台，并整合其投资银行、资本市场、财富管理和投资管理能力，为企业从创业到规模化发展提供支持。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3380328"
   }
 ]
