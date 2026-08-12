@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3384945",
+    "datetime": "2026-08-12T16:00:39+00:00",
+    "views": "3",
+    "text": "俄罗斯统计局：第二季度 GDP 同比增长 1.3%，而上一季度同比下降 0.2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3384945"
+  },
+  {
+    "post": "Financial_Express/3384944",
+    "datetime": "2026-08-12T15:59:57+00:00",
+    "views": "5",
+    "text": "Jane Street 发行 146 亿美元债券 10 年期收益率逾 8%\nJane Street 发行 146 亿美元债券，这家做市巨头将把融资所得用于技术基础设施并拓展交易策略。知情人士称，Jane Street 发行了 2031 年、2033 年和 2036 年到期的高级担保票据，规模分别为 58.6 亿美元、51.3 亿美元和 36.4 亿美元。其中期限最长的一档债券定价收益率为 8.088%。这笔由摩根大通牵头的固定利率债券发行是 Jane Street 偿还浮动利率贷款并重整 110 亿美元债务负担计划的一部分。彭博此前报道，Jane Street 一直在与品浩(PIMCO)等机构磋商，由后者提供相关融资。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3384944"
+  },
+  {
     "post": "Financial_Express/3384943",
     "datetime": "2026-08-12T15:55:17+00:00",
-    "views": "65",
+    "views": "68",
     "text": "DeepSeek 官网 API 文档新增“DeepSeek-V4-Pro-0813”模型\nDeepSeek 官网“API 文档”上的“模型 & 价格”页面中，模型版本新增了 DeepSeek-V4-Pro-0813，其支持非思考与思考模式。不过，官方尚未发布 DeepSeek-V4-Pro-0813 的更新日志。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3384942",
     "datetime": "2026-08-12T15:49:58+00:00",
-    "views": "105",
+    "views": "107",
     "text": "贸易商 SUCAFINA：哥伦比亚布埃纳文图拉港因开展基础设施评估，咖啡出口业务暂停。该公司正在评估备选运输路线及物流方案，“尽可能维持咖啡货运的连续性”。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3384941",
     "datetime": "2026-08-12T15:49:37+00:00",
-    "views": "109",
+    "views": "110",
     "text": "谷歌：Google Pixel Tag 上市时，用户可单个购买，售价 29 美元；也可购买 4 件套装，售价 99 美元。该产品将于 11 月 11 日正式开售。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3384940",
     "datetime": "2026-08-12T15:49:17+00:00",
-    "views": "109",
+    "views": "140",
     "text": "GOOGLE：推出 Google Pixel Tag， 产品将于 11 月 11 日上市，用户可按 29 美元购买，或以 99 美元购入 4‑pack 套装。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3384939",
     "datetime": "2026-08-12T15:48:37+00:00",
-    "views": "114",
+    "views": "145",
     "text": "谷歌：推出谷歌 Pixel Tag。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3384938",
     "datetime": "2026-08-12T15:48:18+00:00",
-    "views": "115",
+    "views": "146",
     "text": "做空机构 Viceroy Research 表示其正在做空 Blue Moon Metals，该公司股价目前下跌 8%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3384937",
     "datetime": "2026-08-12T15:47:18+00:00",
-    "views": "119",
+    "views": "150",
     "text": "软商品贸易商 SUCAFINA 称，受地震影响，哥伦比亚大部分产区的咖啡运输 “严重受阻”。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3384936",
     "datetime": "2026-08-12T15:47:17+00:00",
-    "views": "119",
+    "views": "149",
     "text": "黑石集团正在考虑终止一项价值 30 亿美元的股权换现金交易。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3384935",
     "datetime": "2026-08-12T15:45:37+00:00",
-    "views": "130",
+    "views": "160",
     "text": "马斯克：Grok 4.6 的 Elo 评分达到 1753 分。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3384932",
     "datetime": "2026-08-12T15:43:37+00:00",
-    "views": "134",
+    "views": "164",
     "text": "以色列国防军：在加沙地带北部击毙一名哈马斯指挥官。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3384931",
     "datetime": "2026-08-12T15:43:18+00:00",
-    "views": "133",
+    "views": "163",
     "text": "瑞士拟立法强制延迟银行高管奖金发放 最长可达五年\n瑞士政府希望把银行高管奖金递延数年发放的要求写入法律，作为瑞信倒闭后加强金融监管的一揽子措施之一。瑞士政府周三公布的方案显示，这项措施将适用于包括瑞银集团在内的大型银行，可能要求将 40%至 60%的浮动薪酬递延发放，最长可达五年。瑞士财政部长 Karin Keller-Sutter 在伯尔尼表示：“以牺牲金融稳定为代价换取短期回报，绝对不应得到奖励。”",
     "media_only": false,
     "image_url": null,
@@ -42973,14 +42991,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3380084"
-  },
-  {
-    "post": "Financial_Express/3380083",
-    "datetime": "2026-08-10T15:58:58+00:00",
-    "views": "197",
-    "text": "白银连续主力合约日内涨 2%，现报 15902.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3380083"
   }
 ]
