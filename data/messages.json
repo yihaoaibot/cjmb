@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3385143",
+    "datetime": "2026-08-12T21:20:37+00:00",
+    "views": "5",
+    "text": "Cerebras 首席执行官表示，目前 254 亿美元的剩余履约义务并未反映来自 AWS 或其他任何超大规模客户的业务积压情况。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3385143"
+  },
+  {
     "post": "Financial_Express/3385142",
     "datetime": "2026-08-12T21:17:37+00:00",
-    "views": "14",
+    "views": "24",
     "text": "思科 2026 财年人工智能相关订单实现约 40 亿美元营收。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3385141",
     "datetime": "2026-08-12T21:16:17+00:00",
-    "views": "25",
+    "views": "35",
     "text": "思科称供应链并未出现明显交期问题。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3385140",
     "datetime": "2026-08-12T21:14:57+00:00",
-    "views": "35",
+    "views": "44",
     "text": "思科表示其年度营收指引持审慎态度。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3385139",
     "datetime": "2026-08-12T21:14:38+00:00",
-    "views": "35",
+    "views": "44",
     "text": "截至 2026 年 6 月 30 日，上市公司合计持有 128 万枚比特币（价值 760 亿美元），占比特币总供给量的 6.11%。Strategy 仍是最大持有方，持仓 846842 枚比特币。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3385138",
     "datetime": "2026-08-12T21:11:37+00:00",
-    "views": "54",
+    "views": "57",
     "text": "思科预计 2027 年核心业务增速约 10%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3385137",
     "datetime": "2026-08-12T21:11:17+00:00",
-    "views": "56",
+    "views": "58",
     "text": "思科预计 2027 年安全业务将实现高个位数增长。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3385136",
     "datetime": "2026-08-12T21:10:37+00:00",
-    "views": "57",
+    "views": "59",
     "text": "美国商务部长卢特尼克：福特汽车(F.N)正在将更多制造业带回美国。关税推动其带来更多就业机会。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3385135",
     "datetime": "2026-08-12T21:08:37+00:00",
-    "views": "61",
+    "views": "63",
     "text": "伊朗称霍尔木兹海峡使用者必须“弥补”海湾环境损害。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3385134",
     "datetime": "2026-08-12T21:07:17+00:00",
-    "views": "69",
+    "views": "71",
     "text": "DeepSeek V4 Pro 正式版 API 更新：多项测试性能接近 Fable 5\n金十数据 8 月 13 日讯，8 月 13 日，DeepSeek 官方把 V4 Pro 从预览版正式转正。官方定价页上，模型版本号已经更新为 DeepSeek-V4-Pro-0813。从官方群放出的评测对比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在多项测试中接近 Fable 5 水平，相比之前的预览版能力大幅提升。DeepSeek V4 Pro 价格明显高于 V4-Flash。按每 1M token 计算，缓存命中输入 0.025 元，缓存未命中输入 3 元，输出 6 元。相比之下，V4-Flash 分别为 0.02 元、1 元和 2 元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3385133",
     "datetime": "2026-08-12T21:02:57+00:00",
-    "views": "76",
+    "views": "77",
     "text": "明晟公司（MSCI）：MSCI 全球指数将新增 55 只证券，并剔除 92 只证券。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3385132",
     "datetime": "2026-08-12T21:01:37+00:00",
-    "views": "76",
+    "views": "77",
     "text": "据福克斯商业频道：美国白宫经济顾问委员会主席费伦表示，CPI 报告削弱了加息的理由。",
     "media_only": false,
     "image_url": null,
@@ -42397,14 +42406,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3380346"
-  },
-  {
-    "post": "Financial_Express/3380345",
-    "datetime": "2026-08-10T21:19:17+00:00",
-    "views": "131",
-    "text": "富时 A50 期指连续夜盘收跌 0.23%，报 15010 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3380345"
   }
 ]
