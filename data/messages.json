@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3387480",
+    "datetime": "2026-08-13T17:04:37+00:00",
+    "views": "6",
+    "text": "美国至 8 月 13 日 30 年期国债竞拍-得标利率 5.216%，前值 5.058%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387480"
+  },
+  {
+    "post": "Financial_Express/3387478",
+    "datetime": "2026-08-13T17:04:17+00:00",
+    "views": "9",
+    "text": "美国至 8 月 13 日 30 年期国债竞拍-投标倍数 2.39，前值 2.44。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387478"
+  },
+  {
+    "post": "Financial_Express/3387479",
+    "datetime": "2026-08-13T17:04:17+00:00",
+    "views": "9",
+    "text": "美国至 8 月 13 日 30 年期国债竞拍-得标利率配置百分比 5.216%，前值 7.13%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387479"
+  },
+  {
+    "post": "Financial_Express/3387477",
+    "datetime": "2026-08-13T17:03:37+00:00",
+    "views": "15",
+    "text": "CEREBRAS 因与 OPENAI 合作而减少损失。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387477"
+  },
+  {
+    "post": "Financial_Express/3387475",
+    "datetime": "2026-08-13T17:03:18+00:00",
+    "views": "16",
+    "text": "美联储：经季节性调整后，美国未偿商业票据余额在 8 月 12 日当周增加 16 亿美元；经非季节性调整后，美国未偿商业票据余额在 8 月 12 日当周减少 11 亿美元，美国未偿外国金融商业票据余额在 8 月 12 日当周增加 109 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387475"
+  },
+  {
+    "post": "Financial_Express/3387476",
+    "datetime": "2026-08-13T17:03:18+00:00",
+    "views": "15",
+    "text": "美国 30 年期国债拍卖收益率创 2001 年以来新高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387476"
+  },
+  {
+    "post": "Financial_Express/3387474",
+    "datetime": "2026-08-13T17:02:57+00:00",
+    "views": "23",
+    "text": "美国 30 年期国债收益率下降 5.216%，低于预售时的 5.212%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387474"
+  },
+  {
     "post": "Financial_Express/3387473",
     "datetime": "2026-08-13T17:02:37+00:00",
-    "views": "6",
+    "views": "55",
     "text": "Anthropic 首席财务官的相关会议并未涉及估值谈判。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3387472",
     "datetime": "2026-08-13T17:01:57+00:00",
-    "views": "13",
+    "views": "60",
     "text": "OpenAI：GPT-5.6 Sol 超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3387471",
     "datetime": "2026-08-13T17:01:38+00:00",
-    "views": "18",
+    "views": "61",
     "text": "谷歌(GOOG.O)：Gemini 3.7 Flash 将在今年年底前以限时优惠价格提供，输入价格为每 100 万个词元 0.75 美元，输出价格为每 100 万个词元 3.75 美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3387470",
     "datetime": "2026-08-13T17:01:18+00:00",
-    "views": "48",
+    "views": "61",
     "text": "谷歌：3.7 Flash 模型将以每百万输入 token0.75 美元、每百万输出 token3.75 美元的推介价格提供，直至年底。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3387469",
     "datetime": "2026-08-13T17:00:58+00:00",
-    "views": "51",
+    "views": "64",
     "text": "谷歌：推出 GEMINI 3.7 FLASH。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3387467",
     "datetime": "2026-08-13T17:00:57+00:00",
-    "views": "49",
+    "views": "62",
     "text": "谷歌(GOOG.O)：推出 Gemini 3.7 Flash 模型。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3387468",
     "datetime": "2026-08-13T17:00:57+00:00",
-    "views": "49",
+    "views": "62",
     "text": "8 月 12 日当周，经非季节性调整的美国商业票据未偿还金额减少 11 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3387466",
     "datetime": "2026-08-13T17:00:38+00:00",
-    "views": "54",
+    "views": "64",
     "text": "8 月 12 日当周，经非季节性调整的美国外国金融商业票据未偿还余额增加 109 亿美元。。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3387464",
     "datetime": "2026-08-13T17:00:37+00:00",
-    "views": "53",
+    "views": "62",
     "text": "美国机器人吸尘器品牌 MATIC 新增全语音控制选项。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3387465",
     "datetime": "2026-08-13T17:00:37+00:00",
-    "views": "54",
+    "views": "64",
     "text": "8 月 12 日当周经季节调整的美国商业票据未偿还余额增加 16 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3387463",
     "datetime": "2026-08-13T17:00:17+00:00",
-    "views": "55",
+    "views": "61",
     "text": "夜盘期货收盘\n国际铜夜盘收涨 0.10%，沪铜收跌 0.03%，沪铝收跌 0.62%，沪锌收跌 0.04%，沪铅收跌 0.81%，沪镍收跌 0.88%，沪锡收涨 0.07%。氧化铝夜盘收涨 0.26%，铝合金收跌 0.90%。不锈钢夜盘收跌 0.83%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3387462",
     "datetime": "2026-08-13T16:59:38+00:00",
-    "views": "59",
+    "views": "64",
     "text": "美军打造首支多国无人机特遣部队 强化中东无人作战能力\n金十数据 8 月 14 日讯，美国中央司令部当地时间 8 月 13 日宣布，正式组建首支多域、多国攻击无人机特遣部队“猎鹰打击”。该部队将使用空中、海面及水下单向攻击无人系统，由美军及地区伙伴军事人员共同操作，旨在整合中东地区无人机作战能力。此次组建距美国中央司令部成立首支专职无人机打击部队“蝎子打击”特遣部队仅 9 个月。后者已取得多项关键成果，包括去年 12 月首次从美军军舰发射空中攻击无人机，并在“史诗愤怒”行动及今年 7 月对伊朗港口设施的打击中投入无人系统。美国中央司令部司令布拉德·库珀表示，“猎鹰打击”将在“蝎子打击”经验基础上进一步拓展，通过整合美国及地区伙伴新能力，形成统一的多域、多国联合威慑体系。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3387461",
     "datetime": "2026-08-13T16:54:57+00:00",
-    "views": "110",
+    "views": "111",
     "text": "意大利内政部长：只有在西班牙北非飞地休达面临的大规模移民涌入风险彻底化解后，意大利才会取消对西班牙的申根边境临时管控。",
     "media_only": false,
     "image_url": null,
@@ -43531,41 +43594,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3382603"
-  },
-  {
-    "post": "Financial_Express/3382601",
-    "datetime": "2026-08-11T17:03:37+00:00",
-    "views": "134",
-    "text": "美国至 8 月 11 日 3 年期国债竞拍-得标利率 4.291%，前值 4.18%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382601"
-  },
-  {
-    "post": "Financial_Express/3382602",
-    "datetime": "2026-08-11T17:03:37+00:00",
-    "views": "134",
-    "text": "美国至 8 月 11 日 3 年期国债竞拍-得标利率配置百分比 18.31%，前值 2.17%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382602"
-  },
-  {
-    "post": "Financial_Express/3382600",
-    "datetime": "2026-08-11T17:02:58+00:00",
-    "views": "132",
-    "text": "美国 3 年期国债中标收益率 4.291%，发行前虚盘交易收益率为 4.296%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382600"
-  },
-  {
-    "post": "Financial_Express/3382599",
-    "datetime": "2026-08-11T17:02:57+00:00",
-    "views": "131",
-    "text": "美国至 8 月 11 日 3 年期国债竞拍-投标倍数 2.71，前值 2.6。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382599"
   }
 ]
