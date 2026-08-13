@@ -1,8 +1,134 @@
 [
   {
+    "post": "Financial_Express/3387028",
+    "datetime": "2026-08-13T13:02:17+00:00",
+    "views": "5",
+    "text": "哈马克：劳动力方面表现依旧相当稳健。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387028"
+  },
+  {
+    "post": "Financial_Express/3387027",
+    "datetime": "2026-08-13T13:02:00+00:00",
+    "views": "8",
+    "text": "哈马克：我们需要更快将通胀降至 2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387027"
+  },
+  {
+    "post": "Financial_Express/3387026",
+    "datetime": "2026-08-13T13:01:59+00:00",
+    "views": "8",
+    "text": "哈马克：但我并不确信这种向好态势能够持续。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387026"
+  },
+  {
+    "post": "Financial_Express/3387025",
+    "datetime": "2026-08-13T13:01:58+00:00",
+    "views": "8",
+    "text": "哈马克：最近两份通胀报告数据明显好转。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387025"
+  },
+  {
+    "post": "Financial_Express/3387024",
+    "datetime": "2026-08-13T13:01:40+00:00",
+    "views": "10",
+    "text": "DeepSeek Harness 的开发者预览版（v0.1 版本）面向全球 Harness 开发者开放测试\nDeepSeek Harness 发布消息：今天，DeepSeekHarness 的开发者预览版（v0.1 版本）面向全球 Harness 开发者开放测试，并同步以 MIT 协议开放源代码。作为早期预览版本，当前仍有许多细节有待改进和打磨，核心插件与基础接口也将在后续快速迭代演进。我们期待听到广大 Harness 开发者的反馈与建议。DeepSeekHarness 采取“一切皆插件”的设计思路。我们采用插件式开放架构来构建 AgentHarness：模型、工具、技能、会话、沙箱、存储、循环、调度、UI 等所有 Agent 能力均由插件组合而成，可自由替换、灵活重组。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387024"
+  },
+  {
+    "post": "Financial_Express/3387023",
+    "datetime": "2026-08-13T13:01:39+00:00",
+    "views": "10",
+    "text": "美国气象预报机构 CPC 表示，厄尔尼诺现象正在增强，预计在 2026-27 年北半球的秋冬季节，发生强烈厄尔尼诺事件的概率超过 90%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387023"
+  },
+  {
+    "post": "Financial_Express/3387022",
+    "datetime": "2026-08-13T13:01:38+00:00",
+    "views": "9",
+    "text": "美国气象预报机构 CPC 发布月度厄尔尼诺预警。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387022"
+  },
+  {
+    "post": "Financial_Express/3387021",
+    "datetime": "2026-08-13T13:01:18+00:00",
+    "views": "11",
+    "text": "BMC Helix 将部署于甲骨文云基础设施。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387021"
+  },
+  {
+    "post": "Financial_Express/3387020",
+    "datetime": "2026-08-13T13:01:17+00:00",
+    "views": "11",
+    "text": "美联储哈玛克：美国人面临着来自通胀的真实压力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387020"
+  },
+  {
+    "post": "Financial_Express/3387018",
+    "datetime": "2026-08-13T13:00:59+00:00",
+    "views": "12",
+    "text": "美国气候预测中心（CPC）天气预报部门：厄尔尼诺现象正在增强，2026 至 2027 年北半球秋冬季节出现极强厄尔尼诺事件的概率超过 90%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387018"
+  },
+  {
+    "post": "Financial_Express/3387019",
+    "datetime": "2026-08-13T13:00:59+00:00",
+    "views": "12",
+    "text": "BMC Helix 扩大与甲骨文公司的合作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387019"
+  },
+  {
+    "post": "Financial_Express/3387016",
+    "datetime": "2026-08-13T13:00:58+00:00",
+    "views": "12",
+    "text": "俄罗斯七月海运石油产品出口较六月下降 33%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387016"
+  },
+  {
+    "post": "Financial_Express/3387017",
+    "datetime": "2026-08-13T13:00:58+00:00",
+    "views": "12",
+    "text": "玻璃连续主力合约日内涨 1%，现报 878.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387017"
+  },
+  {
+    "post": "Financial_Express/3387015",
+    "datetime": "2026-08-13T13:00:57+00:00",
+    "views": "14",
+    "text": "美联储哈玛克：近期两份通胀报告令人鼓舞，但无法确信通胀将继续朝这一方向改善。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387015"
+  },
+  {
     "post": "Financial_Express/3387013",
     "datetime": "2026-08-13T13:00:39+00:00",
-    "views": "5",
+    "views": "14",
     "text": "阿拉伯航空：受当前地区冲突影响，上半年运营运力有所下降。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +137,7 @@
   {
     "post": "Financial_Express/3387014",
     "datetime": "2026-08-13T13:00:39+00:00",
-    "views": "5",
+    "views": "14",
     "text": "纯碱连续主力合约日内涨 1%，现报 1042.00 元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +146,7 @@
   {
     "post": "Financial_Express/3387012",
     "datetime": "2026-08-13T13:00:38+00:00",
-    "views": "6",
+    "views": "15",
     "text": "美国地质调查局：巴布亚新几内亚安戈拉姆西南偏南 45 公里处发生 5.0 级地震。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +155,7 @@
   {
     "post": "Financial_Express/3387011",
     "datetime": "2026-08-13T13:00:19+00:00",
-    "views": "8",
+    "views": "16",
     "text": "高盛：思科利润率指引存隐忧\n高盛发表研报称，虽然思科第四财季营收与每股收益均超出市场预期，但公司毛利率指引仍存在一定隐患。高盛分析师周三指出，思科给出的 2027 财年第一财季毛利率指引区间为 65%‑66%，低于市场一致预期的 66.4%。高盛分析师 Michael Ng 在客户研报中表示：“2027 财年整体指引表现向好，但毛利率方面的压力将形成对冲，预计思科（CSCO）股价走势或将分化。”",
     "media_only": false,
     "image_url": null,
@@ -38,7 +164,7 @@
   {
     "post": "Financial_Express/3387009",
     "datetime": "2026-08-13T13:00:18+00:00",
-    "views": "7",
+    "views": "14",
     "text": "哈马克：近期两份通胀报告来得可喜，但无法确定我们能否继续看到这种进展。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +173,7 @@
   {
     "post": "Financial_Express/3387010",
     "datetime": "2026-08-13T13:00:18+00:00",
-    "views": "8",
+    "views": "16",
     "text": "国内期货夜盘开盘\n碳酸锂连续涨 2.30%，生猪连续涨 2.12%，鸡蛋连续涨 1.77%，钯连续跌 1.67%，纤维板连续涨 1.31%。",
     "media_only": false,
     "image_url": null,
@@ -42721,86 +42847,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3382175"
-  },
-  {
-    "post": "Financial_Express/3382172",
-    "datetime": "2026-08-11T13:02:19+00:00",
-    "views": "35",
-    "text": "国际金融协会（IIF）：截至 7 月份，新兴市场股票年度资金流出总额为 860 亿美元，而去年同期为 90 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382172"
-  },
-  {
-    "post": "Financial_Express/3382173",
-    "datetime": "2026-08-11T13:02:19+00:00",
-    "views": "35",
-    "text": "洛克希德·马丁公司获得美国导弹防御局（MDA）合同，负责现代化改造导弹防御模拟框架。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382173"
-  },
-  {
-    "post": "Financial_Express/3382171",
-    "datetime": "2026-08-11T13:01:59+00:00",
-    "views": "35",
-    "text": "俄罗斯 6 月份进口额达 307.93 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382171"
-  },
-  {
-    "post": "Financial_Express/3382169",
-    "datetime": "2026-08-11T13:01:58+00:00",
-    "views": "35",
-    "text": "俄罗斯 6 月份出口额达 432.54 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382169"
-  },
-  {
-    "post": "Financial_Express/3382170",
-    "datetime": "2026-08-11T13:01:58+00:00",
-    "views": "35",
-    "text": "俄罗斯 6 月份贸易顺差达 124.61 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382170"
-  },
-  {
-    "post": "Financial_Express/3382168",
-    "datetime": "2026-08-11T13:01:57+00:00",
-    "views": "34",
-    "text": "国际金融协会（IIF）：截至 7 月，新兴市场债务流入量达到 2144 亿美元，而 2025 年同期预计为 1777 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382168"
-  },
-  {
-    "post": "Financial_Express/3382167",
-    "datetime": "2026-08-11T13:01:19+00:00",
-    "views": "34",
-    "text": "国际金融协会（IIF）：7 月份非居民投资者向新兴市场投资组合净增 188 亿美元，结束了连续两个月的资金外流。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382167"
-  },
-  {
-    "post": "Financial_Express/3382166",
-    "datetime": "2026-08-11T13:01:18+00:00",
-    "views": "34",
-    "text": "挪威基金 CEO：市场“非正常”，2 万亿资产或归零\n金十数据 8 月 11 日讯，挪威主权财富基金首席执行官周二重申，该基金 2 万亿美元的资产可能遭受意外的重大损失，甚至可能全部蒸发：“我们正处于一种非正常状态，不过尽管面临诸多挑战，金融市场仍在持续上涨。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382166"
-  },
-  {
-    "post": "Financial_Express/3382165",
-    "datetime": "2026-08-11T13:00:58+00:00",
-    "views": "34",
-    "text": "国际金融协会（IIF）：7 月份新兴市场债务吸引资金流入 267 亿美元，6 月份为 281 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382165"
   }
 ]
