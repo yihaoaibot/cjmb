@@ -1,5 +1,23 @@
 [
   {
+    "post": "Financial_Express/3387483",
+    "datetime": "2026-08-13T17:07:17+00:00",
+    "views": "1",
+    "text": "谷歌(GOOG.O)：Gemini Spark 从今天起将使用 Gemini 3.7 Flash。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387483"
+  },
+  {
+    "post": "Financial_Express/3387482",
+    "datetime": "2026-08-13T17:06:57+00:00",
+    "views": "1",
+    "text": "美国食品药品监督管理局授予药物紧急使用授权，用于治疗犬类新世界螺旋蝇感染。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387482"
+  },
+  {
     "post": "Financial_Express/3387481",
     "datetime": "2026-08-13T17:06:37+00:00",
     "views": "1",
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3387472",
     "datetime": "2026-08-13T17:01:57+00:00",
-    "views": "61",
+    "views": "91",
     "text": "OpenAI：GPT-5.6 Sol 超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3387471",
     "datetime": "2026-08-13T17:01:38+00:00",
-    "views": "62",
+    "views": "92",
     "text": "谷歌(GOOG.O)：Gemini 3.7 Flash 将在今年年底前以限时优惠价格提供，输入价格为每 100 万个词元 0.75 美元，输出价格为每 100 万个词元 3.75 美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3387470",
     "datetime": "2026-08-13T17:01:18+00:00",
-    "views": "62",
+    "views": "92",
     "text": "谷歌：3.7 Flash 模型将以每百万输入 token0.75 美元、每百万输出 token3.75 美元的推介价格提供，直至年底。",
     "media_only": false,
     "image_url": null,
@@ -43558,14 +43576,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3382608"
-  },
-  {
-    "post": "Financial_Express/3382607",
-    "datetime": "2026-08-11T17:07:17+00:00",
-    "views": "170",
-    "text": "英伟达信用风险指标回落 CEO 澄清 5000 亿美元融资计划\n一项与英伟达相关的信用风险指标周二回落，此前该公司表示将限制自身在一项 5000 亿美元融资计划中的风险敞口。该计划旨在为人工智能投资提供融资，而这类投资正推动对英伟达芯片的需求。英伟达票息 5.625%、2056 年到期债券的收益率较可比美国国债高 113 个基点，利差收窄 2 个基点。与此同时，根据 ICE Data Services 的数据，5 年期信用违约掉期报价一度收窄 5 个基点，至 72.11 个基点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382607"
   }
 ]
