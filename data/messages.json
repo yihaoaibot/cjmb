@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3387669",
     "datetime": "2026-08-13T20:46:17+00:00",
-    "views": "9",
+    "views": "12",
     "text": "Jane Street 披露持有 Cerebras Systems 5.1% 被动股权。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3387668",
     "datetime": "2026-08-13T20:45:17+00:00",
-    "views": "17",
+    "views": "20",
     "text": "美联储未来一个月暂停出于准备金管理目的买入美国国库券\n美联储周四表示，未来一段时间不会出于准备金管理目的买入美国国库券，这表明决策者认为金融体系中的银行准备金处于合意水平。根据纽约联储网站，纽约联储公开市场操作部门在截至 9 月 14 日的月度操作期内，不计划进行准备金管理购买（RMP），但期间仍计划进行约 170 亿美元的再投资买入。此次暂停表明，尽管政府现金余额增加可能抽走市场流动性，货币当局仍有信心融资市场能够平稳运行。市场表现也印证了这一点。担保隔夜融资利率（SOFR）在 7 月大部分时间都低于准备金余额利率（IORB）。截至 8 月 12 日，SOFR 定盘利率为 3.62%，比 IORB 低 3 个基点。此次调整并不意味着货币政策或资产负债表策略发生变化。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3387667",
     "datetime": "2026-08-13T20:43:37+00:00",
-    "views": "23",
+    "views": "24",
     "text": "惠誉：高财政赤字、巨大的利息负担以及高企且上升的政府债务水平制约了美国评级。预计美国债务上限将在 2027 年中左右触及。预计美国 2026 年通胀率将平均为 3.4%。关税导致核心商品通胀上升，但传导效应比预期轻微。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3387666",
     "datetime": "2026-08-13T20:43:18+00:00",
-    "views": "23",
+    "views": "24",
     "text": "阿联酋外交部：阿联酋谴责伊朗在霍尔木兹海峡袭击阿布扎比国家石油公司船只。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3387665",
     "datetime": "2026-08-13T20:43:17+00:00",
-    "views": "23",
+    "views": "24",
     "text": "阿联酋外交部：阿联酋谴责伊朗在霍尔木兹海峡对阿布扎比国家石油公司船只的攻击。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3387664",
     "datetime": "2026-08-13T20:42:37+00:00",
-    "views": "25",
+    "views": "26",
     "text": "惠誉：关税导致核心商品通胀上升，但传导效应比预期轻微。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3387663",
     "datetime": "2026-08-13T20:41:58+00:00",
-    "views": "25",
+    "views": "26",
     "text": "应用材料 CEO： 预计全球服务业务（AGS）2026 自然年营收增速超 20%，并可实现每年 15% 左右的可持续长期年化增速。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3387662",
     "datetime": "2026-08-13T20:41:57+00:00",
-    "views": "24",
+    "views": "25",
     "text": "惠誉：预计美国 2026 年通胀率将平均为 3.4%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3387661",
     "datetime": "2026-08-13T20:41:37+00:00",
-    "views": "24",
+    "views": "25",
     "text": "美联储的 FIMA 回购机制连续第九周未使用。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3387654",
     "datetime": "2026-08-13T20:39:57+00:00",
-    "views": "25",
+    "views": "27",
     "text": "据华尔街日报：美国总统特朗普下令海军移除航母电磁弹射系统，恢复蒸汽弹射方案，预计相关改装将推高成本数十亿美元。",
     "media_only": false,
     "image_url": null,
@@ -43774,14 +43774,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3382773"
-  },
-  {
-    "post": "Financial_Express/3382772",
-    "datetime": "2026-08-11T20:48:37+00:00",
-    "views": "118",
-    "text": "惠誉：简街资本计划提前偿还 55 亿美元定期贷款。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382772"
   }
 ]
