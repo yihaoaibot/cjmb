@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3387350",
+    "datetime": "2026-08-13T15:25:17+00:00",
+    "views": "35",
+    "text": "AMD 拟通过债券发行筹集至多 50 亿美元资金。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387350"
+  },
+  {
     "post": "Financial_Express/3387349",
     "datetime": "2026-08-13T15:24:37+00:00",
-    "views": "4",
+    "views": "37",
     "text": "闪迪(SNDK.O)持续走高，涨幅扩大至 15%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3387348",
     "datetime": "2026-08-13T15:24:18+00:00",
-    "views": "8",
+    "views": "39",
     "text": "AMD 拟通过发债募资至多 50 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3387347",
     "datetime": "2026-08-13T15:21:58+00:00",
-    "views": "41",
+    "views": "72",
     "text": "美国国防部长赫格塞思：关于亚伯拉罕·林肯号航母上的情况的报道是误传。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3387346",
     "datetime": "2026-08-13T15:21:37+00:00",
-    "views": "41",
+    "views": "72",
     "text": "美国国防部长赫格塞思：美国可以根据需要长时间维持对伊朗的封锁。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3387345",
     "datetime": "2026-08-13T15:21:18+00:00",
-    "views": "42",
+    "views": "73",
     "text": "美国国防部长赫格塞思称，关于“亚伯拉罕·林肯”号航母上状况的报道存在失实陈述。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3387344",
     "datetime": "2026-08-13T15:19:57+00:00",
-    "views": "74",
+    "views": "104",
     "text": "美国国防部长赫格塞思就伊朗问题表态：美国可根据需要长时间实施封锁。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3387343",
     "datetime": "2026-08-13T15:19:20+00:00",
-    "views": "74",
+    "views": "134",
     "text": "哥伦比亚 Cerrejon 煤矿称，周四早些时候其位于拉瓜希拉省的铁路基础设施遭袭，未接获人员伤亡报告。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3387342",
     "datetime": "2026-08-13T15:18:17+00:00",
-    "views": "106",
+    "views": "136",
     "text": "马斯克转向天然气为人工智能提供动力。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3387339",
     "datetime": "2026-08-13T15:14:17+00:00",
-    "views": "125",
+    "views": "155",
     "text": "据美国财经媒体 Semafor：英国首相顾问曾就阿斯利康与百时美施贵宝的合并事宜致电阿斯利康。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3387337",
     "datetime": "2026-08-13T15:13:57+00:00",
-    "views": "127",
+    "views": "157",
     "text": "飞利浦发现并遏制了一次网络安全入侵企图。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3387336",
     "datetime": "2026-08-13T15:13:17+00:00",
-    "views": "131",
+    "views": "161",
     "text": "英国首相顾问就布里斯托尔并购案联系阿斯利康。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3387335",
     "datetime": "2026-08-13T15:12:37+00:00",
-    "views": "134",
+    "views": "164",
     "text": "杰富瑞将加拿大航空目标价从 26 加元上调至 31 加元。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3387334",
     "datetime": "2026-08-13T15:12:17+00:00",
-    "views": "134",
+    "views": "164",
     "text": "AI 安全攻防测评 国内高校团队低成本位列全球第二\n8 月 13 日，记者获悉，国际 AI 安全基准测试平台 CyberGym 发布最新榜单，复旦大学团队研发的白泽智能体 Whitzard 以 91.2%的真实漏洞攻防成功率位列全球第二、高校第一，超过 Anthropic 面向网络安全打造的前沿模型 Claude Mythos，以及微软、Google 旗下 Wiz 等国际头部团队。该测试覆盖 188 个大型开源项目的 1507 个真实漏洞，要求智能体在完整代码库中自主完成漏洞定位、攻击构造和验证。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -43333,14 +43342,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3382435"
-  },
-  {
-    "post": "Financial_Express/3382434",
-    "datetime": "2026-08-11T15:25:37+00:00",
-    "views": "171",
-    "text": "英特尔股票发行交易约三分之一认购者未获配股份\n知情人士称，在英特尔 200 亿美元的股票发行中，约三分之一提交认购订单的投资者最终未获配股份。英特尔此次发行最终获得数倍超额认购，并得到只做多投资者和主权财富基金的支持。此次发行中，前十大投资者获配了 55%的股份，前 25 大投资者合计获配 80%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382434"
   }
 ]
