@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3387505",
+    "datetime": "2026-08-13T17:39:38+00:00",
+    "views": "31",
+    "text": "美国股债相关性创 30 年来新高，达到互联网泡沫破裂前几年的水平\n高名义收益率本身并不会压制标普 500 指数表现，真正值得警惕的是收益率快速上行。随着就业和通胀数据走弱，以及美联储主席凯文·沃什政策基调偏鸽，利率急剧上行的风险有所下降，强劲企业盈利也为股市提供缓冲。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387505"
+  },
+  {
     "post": "Financial_Express/3387504",
     "datetime": "2026-08-13T17:36:57+00:00",
-    "views": "42",
+    "views": "65",
     "text": "德意志银行将德赛西威评级上调至持有；目标价 93 元人民币。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3387503",
     "datetime": "2026-08-13T17:31:57+00:00",
-    "views": "80",
+    "views": "86",
     "text": "美国参议员沃伦要求小罗伯特·肯尼迪详细说明联邦对环孢子虫疫情的应对措施。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3387502",
     "datetime": "2026-08-13T17:30:57+00:00",
-    "views": "86",
+    "views": "90",
     "text": "KNDS 称意大利工厂无人员受伤，事故原因正在调查。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3387501",
     "datetime": "2026-08-13T17:29:17+00:00",
-    "views": "90",
+    "views": "94",
     "text": "美防长称可无限期封锁伊朗\n美国国防部长赫格塞思 8 月 13 日表示，美军拥有足够资源对伊朗实施“无限期”的海上封锁，并可根据需要轮换部署在该地区的舰船。赫格塞思对媒体称：“美国海军完全有能力维持此类封锁，想封多久就封多久。我们将像此前那样，持续轮换部署的舰船。”（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3387500",
     "datetime": "2026-08-13T17:28:17+00:00",
-    "views": "96",
+    "views": "100",
     "text": "Anthropic IPO 前密会投资者  2 万亿美元估值非官方目标\n金十数据 8 月 14 日讯，AI 独角兽 Anthropic 正在为可能创纪录规模的 IPO 筹备，与潜在投资者举行初步沟通会议。据知情人士透露，目前会谈仍停留在宏观层面，尚未涉及具体财务数据或估值讨论。Anthropic 首席财务官克里希纳·拉奥正主导相关会议，内容主要围绕 Claude 系列 AI 模型、编程助手 Claude Code、企业市场定位、管理团队及产品迭代等展开。公司已于 6 月向美国证券交易委员会秘密提交上市文件，但尚未公布正式 IPO 时间表。Anthropic 今年 5 月底完成融资，估值达 9650 亿美元，高于 OpenAI 同期 8520 亿美元估值；公司披露年度化收入运行率已突破 470 亿美元。部分投资者预计其 IPO 估值或达 2 万亿美元，但该数字并非公司官方目标。竞争对手方面，OpenAI 也已秘密递交上市文件，但尚未启动 IPO 前投资者会议。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3387499",
     "datetime": "2026-08-13T17:26:57+00:00",
-    "views": "96",
+    "views": "98",
     "text": "Rumo 首席财务官表示，预计第三季度价格将同比保持稳定，第四季度将上涨。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3387498",
     "datetime": "2026-08-13T17:21:18+00:00",
-    "views": "154",
+    "views": "156",
     "text": "上期所基本金属夜盘多数下跌，不锈钢跌 0.94%\n国际铜涨 0.10%，沪铜跌 0.03%，沪铝跌 0.62%，沪锌跌 0.12%，沪铅跌 0.81%，沪镍跌 0.88%，沪锡涨 0.07%；氧化铝跌 0.07%，铝合金跌 0.79%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3387497",
     "datetime": "2026-08-13T17:21:17+00:00",
-    "views": "149",
+    "views": "151",
     "text": "谷歌发布 Gemini 3.7 Flash 但旗舰模型仍遥遥无期\n金十数据 8 月 14 日讯，谷歌发布新一代主力 AI 模型 Gemini 3.7 Flash，主打代码生成与调试能力提升，但旗舰模型 Gemini 3.5 Pro 仍没有确切上市时间表，此前已因研发进度不达预期而多次延期。谷歌称，Gemini 3.7 Flash 首次生成即可产出更贴近生产环境部署要求的代码，减少开发者反复修改，同时降低推理成本。新模型还将支持 AI 生产力助手 Gemini Spark，并新增针对恶意攻击及化学、生物、放射性与核领域滥用风险的安全防护。不过，Flash 系列快速迭代未缓解市场对谷歌 AI 竞争力的担忧，Gemini 3.5 Pro 持续延期令投资者关注其 AI 路线图执行力。谷歌 CEO 皮查伊表示，公司正加速模型迭代，并已为下一代 Gemini 4 模型训练调配大量计算资源。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3387496",
     "datetime": "2026-08-13T17:16:18+00:00",
-    "views": "158",
+    "views": "159",
     "text": "纽约联储 8 月 13 日接受逆回购工具提交的 4.5 亿美元全额投标。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3387495",
     "datetime": "2026-08-13T17:16:17+00:00",
-    "views": "156",
+    "views": "157",
     "text": "美联储在固定利率逆回购操作中总计接纳了 1 个对手方的 4.5 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3387494",
     "datetime": "2026-08-13T17:15:37+00:00",
-    "views": "151",
+    "views": "152",
     "text": "Rumo 首席财务官表示，由于公司专注于从现有资产中挖掘价值，2027 年的投资规模将低于 2026 年。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3387493",
     "datetime": "2026-08-13T17:15:17+00:00",
-    "views": "142",
+    "views": "144",
     "text": "PSP 投资公司披露持有 10 万股 SpaceX 股份。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3387492",
     "datetime": "2026-08-13T17:13:18+00:00",
-    "views": "170",
+    "views": "172",
     "text": "美军着手组建中东多国无人机特遣队\n当地时间 8 月 13 日，美军中央司令部宣布着手组建史上首支“多域、多国攻击无人机特遣队”。该部队名为“猎鹰打击特遣队”，将配备自杀式攻击无人机，整合空中、海面以及水下无人作战装备，由美国及地区伙伴国的军事保障人员操作。 此次“猎鹰打击”的启动，距离美军中央司令部成立“蝎子打击特遣队”——美军在中东地区首支专门的攻击无人机中队——已过去九个月。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3387491",
     "datetime": "2026-08-13T17:13:17+00:00",
-    "views": "125",
+    "views": "127",
     "text": "据也门胡塞武装控制的萨巴通讯社：沙特炮击了也门北部萨达省的村庄。",
     "media_only": false,
     "image_url": null,
@@ -43594,14 +43603,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3382627"
-  },
-  {
-    "post": "Financial_Express/3382626",
-    "datetime": "2026-08-11T17:39:57+00:00",
-    "views": "171",
-    "text": "哥伦比亚财政部长：哥伦比亚将在地震后宣布经济紧急状态。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382626"
   }
 ]
