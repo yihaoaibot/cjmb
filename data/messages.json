@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3387623",
+    "datetime": "2026-08-13T20:07:57+00:00",
+    "views": "8",
+    "text": "金十图示：2026 年 08 月 13 日（周四）全球股市指数-美洲市场（收盘）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387623"
+  },
+  {
+    "post": "Financial_Express/3387622",
+    "datetime": "2026-08-13T20:07:17+00:00",
+    "views": "12",
+    "text": "Axios 援引 5 位知情人士消息：贾里德・库什纳计划下周访问以色列，就加沙问题展开磋商。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387622"
+  },
+  {
+    "post": "Financial_Express/3387621",
+    "datetime": "2026-08-13T20:06:57+00:00",
+    "views": "13",
+    "text": "金十图示：2026 年 08 月 13 日（周四）美股热门股票行情一览（美股收盘）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387621"
+  },
+  {
     "post": "Financial_Express/3387620",
     "datetime": "2026-08-13T20:05:38+00:00",
-    "views": "10",
+    "views": "20",
     "text": "金十图示：2026 年 08 月 13 日（周四）热门中概股行情一览（美股收盘）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3387619",
     "datetime": "2026-08-13T20:05:37+00:00",
-    "views": "11",
+    "views": "21",
     "text": "据 Axios：特朗普女婿库什纳计划下周访问以色列，进行关于加沙的会谈。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3387618",
     "datetime": "2026-08-13T20:05:17+00:00",
-    "views": "13",
+    "views": "23",
     "text": "PETMED 第一季度销售额 4,100 万美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3387617",
     "datetime": "2026-08-13T20:04:57+00:00",
-    "views": "15",
+    "views": "25",
     "text": "美国证券交易委员会文件：先锋资本管理有限责任公司披露持有 SpaceX 2660 万股 A 类股份。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3387616",
     "datetime": "2026-08-13T20:04:38+00:00",
-    "views": "17",
+    "views": "27",
     "text": "美国证券交易委员会（SEC）文件显示，先锋投资组合管理公司报告持有 SpaceX(SPCX.O)1020 万股 A 类股份。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3387615",
     "datetime": "2026-08-13T20:04:37+00:00",
-    "views": "17",
+    "views": "27",
     "text": "美国证券交易委员会（SEC）文件显示，先锋资本管理公司报告持有 SpaceX(SPCX.O)2660 万股 A 类股份。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3387614",
     "datetime": "2026-08-13T20:04:17+00:00",
-    "views": "18",
+    "views": "57",
     "text": "白宫将于下周三举办加密货币和预测专家会议。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3387613",
     "datetime": "2026-08-13T20:03:37+00:00",
-    "views": "50",
+    "views": "57",
     "text": "美光科技(MU.O)：美光创投总资本承诺额增至 5.5 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3387612",
     "datetime": "2026-08-13T20:03:17+00:00",
-    "views": "51",
+    "views": "58",
     "text": "应用材料第三季度调整后每股收益 3.50 美元，预期 3.42 美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3387611",
     "datetime": "2026-08-13T20:02:17+00:00",
-    "views": "53",
+    "views": "60",
     "text": "美光科技：美光风投基金总承诺出资规模增至 5.5 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3387610",
     "datetime": "2026-08-13T20:01:57+00:00",
-    "views": "53",
+    "views": "60",
     "text": "美光创投推出 2.5 亿美元基金，投资下一代人工智能。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3387609",
     "datetime": "2026-08-13T20:01:18+00:00",
-    "views": "52",
+    "views": "58",
     "text": "WORKDAY 股价收盘上涨 18%，创 2016 年以来最佳单日表现。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3387608",
     "datetime": "2026-08-13T20:01:17+00:00",
-    "views": "52",
+    "views": "58",
     "text": "美股收盘：三大股指收涨 存储概念走强\n金十数据 8 月 14 日讯，美股周四收盘，道指初步收涨 0.13%，标普 500 指数涨 0.65%，纳指涨 0.8%。美光科技(MU.O)涨 4%，闪迪(SNDK.O)涨 13.6%，SK 海力士(SKHY.O)涨 7%。纳斯达克中国金龙指数跌 1.85%，阿里巴巴(BABA.N)跌 2%，京东(JD.O)跌 7%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3387607",
     "datetime": "2026-08-13T20:00:58+00:00",
-    "views": "52",
+    "views": "55",
     "text": "美股收盘：三大股指集体收涨\n道指涨 0.13%，标普 500 指数涨 0.65%，纳指涨 0.82%。工时公司涨 17.78%，闪迪涨 13.67%，GoDaddy 涨 9.41%，科斯塔涨 8.36%，The Trade Desk 涨 7.93%。“七姐妹”方面：特斯拉涨 3.80%，Meta Platforms 涨 2.74%，苹果涨 1.01%，微软涨 0.90%，英伟达涨 0.56%，谷歌涨 0.44%，亚马逊跌 0.80%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3387606",
     "datetime": "2026-08-13T20:00:17+00:00",
-    "views": "53",
+    "views": "56",
     "text": "纳斯达克中国金龙指数收跌 1.89%\n京东跌 7.40%，网易有道跌 6.02%，中比能源跌 6.14%，中进医疗跌 6.02%，Tims 中国跌 5.88%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3387605",
     "datetime": "2026-08-13T19:52:57+00:00",
-    "views": "105",
+    "views": "107",
     "text": "伊朗官员重申霍尔木兹海峡处于关闭状态\n当地时间 13 日晚，伊朗伊斯兰革命卫队海军司令阿里·阿兹马伊表示，目前霍尔木兹海峡处于关闭状态，伊方对海峡内相关动向保持“全面、坚决掌控”，任何活动都不会脱离伊朗伊斯兰革命卫队海军的监控。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3387604",
     "datetime": "2026-08-13T19:51:57+00:00",
-    "views": "111",
+    "views": "113",
     "text": "截至 8 月 13 日，已有 30 余家北交所上市公司披露 2026 年半年报，企业成长成色初现。总体来看，已披露半年报的公司业绩表现抢眼，约三分之一企业上半年归母净利润同比增长超 80%。算力服务、新能源、半导体等高景气赛道成为拉动业绩增长的核心引擎，凸显北交所“专精特新”企业的成长活力。（经济参考报）",
     "media_only": false,
     "image_url": null,
@@ -43576,23 +43603,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3382746"
-  },
-  {
-    "post": "Financial_Express/3382745",
-    "datetime": "2026-08-11T20:07:17+00:00",
-    "views": "109",
-    "text": "Anthropic 将向 EROCK 采购约 470 兆瓦电力设备。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382745"
-  },
-  {
-    "post": "Financial_Express/3382744",
-    "datetime": "2026-08-11T20:06:57+00:00",
-    "views": "100",
-    "text": "伊朗总统称加强与巴基斯坦的关系有助于提升地区安全\n金十数据 8 月 12 日讯，伊朗总统佩泽希齐扬在与巴基斯坦内政部长纳克维会晤后表示，德黑兰愿在政治、经济、贸易、文化和安全等领域深化与巴基斯坦的关系，并赞扬伊斯兰堡为加强两国关系所做的努力。佩泽希齐扬表示，加强双边合作有助于“增强地区稳定与安全”。纳克维表示，伊巴关系“牢固且牢不可破”，伊斯兰堡决心扩大与德黑兰的关系。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382744"
   }
 ]
