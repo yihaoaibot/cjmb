@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3387669",
     "datetime": "2026-08-13T20:46:17+00:00",
-    "views": "17",
+    "views": "47",
     "text": "Jane Street 披露持有 Cerebras Systems 5.1% 被动股权。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3387663",
     "datetime": "2026-08-13T20:41:58+00:00",
-    "views": "30",
+    "views": "60",
     "text": "应用材料 CEO： 预计全球服务业务（AGS）2026 自然年营收增速超 20%，并可实现每年 15% 左右的可持续长期年化增速。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3387662",
     "datetime": "2026-08-13T20:41:57+00:00",
-    "views": "29",
+    "views": "59",
     "text": "惠誉：预计美国 2026 年通胀率将平均为 3.4%。",
     "media_only": false,
     "image_url": null,
@@ -43747,14 +43747,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3382779"
-  },
-  {
-    "post": "Financial_Express/3382778",
-    "datetime": "2026-08-11T20:57:38+00:00",
-    "views": "108",
-    "text": "据相关声明，美国商品期货交易委员会（CFTC）已要求预测平台 Kalshi 继续运营。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382778"
   }
 ]
