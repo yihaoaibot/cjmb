@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3387481",
+    "datetime": "2026-08-13T17:06:37+00:00",
+    "views": "1",
+    "text": "谷歌：GEMINI SPARK 从今天起将使用 GEMINI 3.7 闪存。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3387481"
+  },
+  {
     "post": "Financial_Express/3387480",
     "datetime": "2026-08-13T17:04:37+00:00",
-    "views": "6",
+    "views": "43",
     "text": "美国至 8 月 13 日 30 年期国债竞拍-得标利率 5.216%，前值 5.058%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3387478",
     "datetime": "2026-08-13T17:04:17+00:00",
-    "views": "9",
+    "views": "45",
     "text": "美国至 8 月 13 日 30 年期国债竞拍-投标倍数 2.39，前值 2.44。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +29,8 @@
   {
     "post": "Financial_Express/3387479",
     "datetime": "2026-08-13T17:04:17+00:00",
-    "views": "9",
-    "text": "美国至 8 月 13 日 30 年期国债竞拍-得标利率配置百分比 5.216%，前值 7.13%。",
+    "views": "45",
+    "text": "美国至 8 月 13 日 30 年期国债竞拍-得标利率配置百分比 12.10%，前值 7.13%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3387479"
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3387477",
     "datetime": "2026-08-13T17:03:37+00:00",
-    "views": "15",
+    "views": "48",
     "text": "CEREBRAS 因与 OPENAI 合作而减少损失。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3387475",
     "datetime": "2026-08-13T17:03:18+00:00",
-    "views": "16",
+    "views": "49",
     "text": "美联储：经季节性调整后，美国未偿商业票据余额在 8 月 12 日当周增加 16 亿美元；经非季节性调整后，美国未偿商业票据余额在 8 月 12 日当周减少 11 亿美元，美国未偿外国金融商业票据余额在 8 月 12 日当周增加 109 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3387476",
     "datetime": "2026-08-13T17:03:18+00:00",
-    "views": "15",
+    "views": "48",
     "text": "美国 30 年期国债拍卖收益率创 2001 年以来新高。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3387474",
     "datetime": "2026-08-13T17:02:57+00:00",
-    "views": "23",
+    "views": "55",
     "text": "美国 30 年期国债收益率下降 5.216%，低于预售时的 5.212%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3387473",
     "datetime": "2026-08-13T17:02:37+00:00",
-    "views": "55",
+    "views": "56",
     "text": "Anthropic 首席财务官的相关会议并未涉及估值谈判。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3387472",
     "datetime": "2026-08-13T17:01:57+00:00",
-    "views": "60",
+    "views": "61",
     "text": "OpenAI：GPT-5.6 Sol 超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3387471",
     "datetime": "2026-08-13T17:01:38+00:00",
-    "views": "61",
+    "views": "62",
     "text": "谷歌(GOOG.O)：Gemini 3.7 Flash 将在今年年底前以限时优惠价格提供，输入价格为每 100 万个词元 0.75 美元，输出价格为每 100 万个词元 3.75 美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3387470",
     "datetime": "2026-08-13T17:01:18+00:00",
-    "views": "61",
+    "views": "62",
     "text": "谷歌：3.7 Flash 模型将以每百万输入 token0.75 美元、每百万输出 token3.75 美元的推介价格提供，直至年底。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3387469",
     "datetime": "2026-08-13T17:00:58+00:00",
-    "views": "64",
+    "views": "96",
     "text": "谷歌：推出 GEMINI 3.7 FLASH。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3387467",
     "datetime": "2026-08-13T17:00:57+00:00",
-    "views": "62",
+    "views": "63",
     "text": "谷歌(GOOG.O)：推出 Gemini 3.7 Flash 模型。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3387468",
     "datetime": "2026-08-13T17:00:57+00:00",
-    "views": "62",
+    "views": "63",
     "text": "8 月 12 日当周，经非季节性调整的美国商业票据未偿还金额减少 11 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3387466",
     "datetime": "2026-08-13T17:00:38+00:00",
-    "views": "64",
+    "views": "65",
     "text": "8 月 12 日当周，经非季节性调整的美国外国金融商业票据未偿还余额增加 109 亿美元。。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3387465",
     "datetime": "2026-08-13T17:00:37+00:00",
-    "views": "64",
+    "views": "65",
     "text": "8 月 12 日当周经季节调整的美国商业票据未偿还余额增加 16 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -43558,41 +43567,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3382607"
-  },
-  {
-    "post": "Financial_Express/3382606",
-    "datetime": "2026-08-11T17:05:37+00:00",
-    "views": "170",
-    "text": "美国三年期国债收益率在三年期国债标售过后缩小跌幅；最新报 4.289%，较前值下跌 1.6 个基点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382606"
-  },
-  {
-    "post": "Financial_Express/3382604",
-    "datetime": "2026-08-11T17:05:18+00:00",
-    "views": "137",
-    "text": "美国三年期国债收益率在三年期国债拍卖后收窄跌幅；最新下跌 1.6 个基点，报 4.289%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382604"
-  },
-  {
-    "post": "Financial_Express/3382605",
-    "datetime": "2026-08-11T17:05:18+00:00",
-    "views": "169",
-    "text": "巴克莱：美债对价格敏感型买家的依赖显著上升 料使收益率维持高位\n巴克莱表示，美国国债买家结构正在转向更注重价值的共同基金、家庭和其他私人投资者，这一变化帮助推动 30 年期美债收益率升至数十年来高位。策略师 Demi Hu 和 Anshul Pradan 在一份报告中写道，只要通胀持续存在，这些买家就会要求越来越高的补偿，才愿意持有长期债券。两位策略师表示：“美国国债的买家基础已经发生变化。”自 2022 年美联储开始缩减持仓以来，外国央行和美联储等官方部门的需求持续减弱，使得“私人投资者成为吸收新增供应的边际买家”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382605"
-  },
-  {
-    "post": "Financial_Express/3382603",
-    "datetime": "2026-08-11T17:04:57+00:00",
-    "views": "138",
-    "text": "Meta Platforms(META.O)：Threads 现已作为原生 VR 应用登陆 Meta Quest。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3382603"
   }
 ]
