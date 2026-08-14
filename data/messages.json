@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3389526",
+    "datetime": "2026-08-14T12:34:38+00:00",
+    "views": "4",
+    "text": "加拿大 6 月制造业未完成订单月率 1.2%，前值 6.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3389526"
+  },
+  {
+    "post": "Financial_Express/3389527",
+    "datetime": "2026-08-14T12:34:38+00:00",
+    "views": "4",
+    "text": "加拿大 6 月批发库存年率 0.6%，前值 5.6%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3389527"
+  },
+  {
+    "post": "Financial_Express/3389525",
+    "datetime": "2026-08-14T12:34:18+00:00",
+    "views": "4",
+    "text": "加拿大 6 月制造业新订单月率 -6.8%，前值 9.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3389525"
+  },
+  {
+    "post": "Financial_Express/3389524",
+    "datetime": "2026-08-14T12:33:58+00:00",
+    "views": "4",
+    "text": "美国零售数据公布后，彭博美元指数跌幅扩大。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3389524"
+  },
+  {
+    "post": "Financial_Express/3389523",
+    "datetime": "2026-08-14T12:33:57+00:00",
+    "views": "4",
+    "text": "生益科技：2026 年上半年净利润同比增长 130.42%\n金十数据 8 月 14 日讯，生益科技公告，2026 年上半年实现营业收入 190.26 亿元，同比增长 50.05%；归属于上市公司股东的净利润 32.87 亿元，同比增长 130.42%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3389523"
+  },
+  {
+    "post": "Financial_Express/3389522",
+    "datetime": "2026-08-14T12:33:18+00:00",
+    "views": "5",
+    "text": "交易员减少了对美联储在 2027 年中期之前加息不止一次的押注。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3389522"
+  },
+  {
+    "post": "Financial_Express/3389521",
+    "datetime": "2026-08-14T12:32:57+00:00",
+    "views": "38",
+    "text": "美国两年期国债收益率进一步下行，最新下跌 4 个基点，报 4.099%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3389521"
+  },
+  {
     "post": "Financial_Express/3389519",
     "datetime": "2026-08-14T12:32:38+00:00",
-    "views": "3",
+    "views": "37",
     "text": "浙江启动防汛Ⅳ级应急响应\n浙江应急管理官微消息，受连续强降雨影响，东苕溪、杭嘉湖平原河网等流域主要江河代表站水位普遍超警戒，部分超保证。据气象预报，8 月 14-15 日浙江省仍有大范围降雨，浙北和沿海地区部分 50~70 毫米，局部 90~150 毫米，水文预报苕溪、杭嘉湖平原河网水位将继续上涨。根据《浙江省防汛防台抗旱应急预案》，经研判会商，省防指决定于 8 月 14 日 20 时启动防汛Ⅳ级应急响应。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3389520",
     "datetime": "2026-08-14T12:32:38+00:00",
-    "views": "3",
+    "views": "38",
     "text": "生益科技：2026 年上半年营收 190.26 亿元 同比增长 50.05%\n生益科技公告称，2026 年上半年，公司营收 190.26 亿元，同比增长 50.05%；利润总额 42.21 亿元，同比增长 129.33%；归属于上市公司股东的净利润 32.87 亿元，同比增长 130.42%。截至报告期末，公司总资产 423.98 亿元，较上年度末增长 29.38%；归属于上市公司股东的净资产 185.02 亿元，较上年度末增长 10.63%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3389517",
     "datetime": "2026-08-14T12:32:18+00:00",
-    "views": "5",
+    "views": "38",
     "text": "美国零售销售数据公布后，美国国债收益率延续跌势；10 年期国债收益率最新报 4.629%，跌幅扩大。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3389518",
     "datetime": "2026-08-14T12:32:18+00:00",
-    "views": "5",
+    "views": "38",
     "text": "零售销售数据公布后，标普 500 指数期货升至盘中高点。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3389516",
     "datetime": "2026-08-14T12:31:58+00:00",
-    "views": "7",
+    "views": "40",
     "text": "美元指数跌 0.15%，报 99.62 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3389514",
     "datetime": "2026-08-14T12:31:39+00:00",
-    "views": "7",
+    "views": "40",
     "text": "英镑上涨 0.43%，报 1.3546 美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3389515",
     "datetime": "2026-08-14T12:31:39+00:00",
-    "views": "7",
+    "views": "40",
     "text": "7 月零售销售意外下滑后，美国国债价格上涨。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3389513",
     "datetime": "2026-08-14T12:31:38+00:00",
-    "views": "7",
+    "views": "40",
     "text": "美元指数跌至一周低点 99.506。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3389511",
     "datetime": "2026-08-14T12:31:19+00:00",
-    "views": "41",
+    "views": "43",
     "text": "欧元上涨 0.43%，报 1.1578 美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3389512",
     "datetime": "2026-08-14T12:31:19+00:00",
-    "views": "41",
+    "views": "43",
     "text": "美国零售销售数据公布后，美元延续跌势，美元兑日元最新下跌 0.48%，报 158.72。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3389509",
     "datetime": "2026-08-14T12:31:18+00:00",
-    "views": "11",
+    "views": "43",
     "text": "美国 7 月零售销售 7636.02 亿美元，前值 7685.53 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3389510",
     "datetime": "2026-08-14T12:31:18+00:00",
-    "views": "11",
+    "views": "43",
     "text": "美国 7 月核心零售销售 6221.76 亿美元，前值 6250.24 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3389508",
     "datetime": "2026-08-14T12:30:58+00:00",
-    "views": "42",
+    "views": "43",
     "text": "印度储备银行：外汇互换工具适用于 8 月 31 日之前的存款。",
     "media_only": false,
     "image_url": null,
@@ -44485,77 +44548,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3384549"
-  },
-  {
-    "post": "Financial_Express/3384547",
-    "datetime": "2026-08-12T12:34:18+00:00",
-    "views": "114",
-    "text": "美国 10 年期国债收益率小幅上升，最新下跌 2.2 个基点至 4.661%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3384547"
-  },
-  {
-    "post": "Financial_Express/3384548",
-    "datetime": "2026-08-12T12:34:18+00:00",
-    "views": "114",
-    "text": "现货黄金反弹，现回升至 4418 美元/盎司，此前数据公布后一度跌至 4382 美元/盎司。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3384548"
-  },
-  {
-    "post": "Financial_Express/3384546",
-    "datetime": "2026-08-12T12:33:58+00:00",
-    "views": "82",
-    "text": "欧洲斯托克 600 指数目前上涨 0.2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3384546"
-  },
-  {
-    "post": "Financial_Express/3384544",
-    "datetime": "2026-08-12T12:33:41+00:00",
-    "views": "79",
-    "text": "日元兑美元汇率在美股 CPI 数据公布后维持涨势，上涨 0.1%至 159 日元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3384544"
-  },
-  {
-    "post": "Financial_Express/3384545",
-    "datetime": "2026-08-12T12:33:41+00:00",
-    "views": "79",
-    "text": "美国 CPI 数据公布后，新兴市场货币维持涨幅；南非兰特、智利比索领涨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3384545"
-  },
-  {
-    "post": "Financial_Express/3384542",
-    "datetime": "2026-08-12T12:33:40+00:00",
-    "views": "78",
-    "text": "美国 7 月核心 CPI 年率符合预期\n金十数据 8 月 12 日讯，美国 7 月未季调核心 CPI 年率录得 2.5%，为 2 月以来最小增幅，符合市场预期。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3384542"
-  },
-  {
-    "post": "Financial_Express/3384543",
-    "datetime": "2026-08-12T12:33:40+00:00",
-    "views": "78",
-    "text": "闪迪美股盘前涨超 5%\n闪迪美股盘前涨超 5%，现报 1335.36 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3384543"
-  },
-  {
-    "post": "Financial_Express/3384541",
-    "datetime": "2026-08-12T12:32:58+00:00",
-    "views": "80",
-    "text": "THRIVE 控股完成新一轮融资，筹得资金 20 亿美元，公司估值达 120 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3384541"
   }
 ]
