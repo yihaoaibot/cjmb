@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3390180",
     "datetime": "2026-08-14T23:10:17+00:00",
-    "views": "3",
+    "views": "9",
     "text": "近十年来首次单月失血 Jane Street 在 AI 股大跌中巨亏 150 亿美元\n据一位知情人士透露，由于主投人工智能的对冲基金 Situational Awareness 折戟并拖累整个股票市场的资产价格，Jane Street 近十年来首次蒙受单月亏损且金额高达约 150 亿美元。股市的动荡令投资 Situational Awareness 和人工智能公司的 Jane Street 遭受了罕见而严重的亏损。一位不愿公开身份的知情人士表示，该公司对上述冲基金的投资以及在亚洲股市的错误押注是造成部分损失的原因。“7 月是个糟糕的月份，” Jane Street 合伙人 Turner Batty 在一份内部备忘录中说。尽管如此，这位知情人士透露该公司年迄今产生的净交易收入已逾 400 亿美元，超过了它在 2025 年全年创下的华尔街最高纪录。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3390179",
     "datetime": "2026-08-14T23:08:17+00:00",
-    "views": "9",
+    "views": "13",
     "text": "泰国总理将于 8 月 17‑20 日访问澳大利亚。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3390178",
     "datetime": "2026-08-14T23:06:17+00:00",
-    "views": "46",
+    "views": "48",
     "text": "美国下令维持密歇根州燃煤电厂的运营。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3390177",
     "datetime": "2026-08-14T23:03:37+00:00",
-    "views": "50",
+    "views": "52",
     "text": "美国宣布向哥伦比亚地震提供 1100 万美元援助。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3390172",
     "datetime": "2026-08-14T22:12:17+00:00",
-    "views": "130",
+    "views": "160",
     "text": "印尼弗洛勒斯岛附近海域附近发生 7.7 级左右地震\n中国地震台网自动测定：08 月 15 日 05 时 58 分在印尼弗洛勒斯岛附近海域附近（南纬 8.46 度，东经 121.42 度）发生 7.7 级左右地震，最终结果以正式速报为准。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3390170",
     "datetime": "2026-08-14T22:10:37+00:00",
-    "views": "133",
+    "views": "163",
     "text": "美联储 9 月维持利率不变的概率为 67.5%\n据 CME“美联储观察”：美联储到 9 月维持利率不变的概率为 67.5%，累计加息 25 个基点的概率为 32.5%。美联储到 10 月维持利率不变的概率为 53.3%，累计加息 25 个基点的概率为 39.8%，累计加息 50 个基点的概率为 6.8%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3390168",
     "datetime": "2026-08-14T22:07:17+00:00",
-    "views": "127",
+    "views": "157",
     "text": "欧洲地中海地震中心：将印度尼西亚弗洛勒斯地区地震震级从 7.4 级修订至 6.9 级。",
     "media_only": false,
     "image_url": null,
@@ -44431,23 +44431,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3385217"
-  },
-  {
-    "post": "Financial_Express/3385216",
-    "datetime": "2026-08-12T23:11:57+00:00",
-    "views": "50",
-    "text": "AI 不缺需求缺算力 摩根士丹利警告供应瓶颈或持续数年\n摩根士丹利的 Michelle Weaver 表示，企业对人工智能的应用正日益产生实质性成效，但算力供应受限仍是制约增长的瓶颈。“我们的供应非常不足。我们看到算力在成为一种受限资源，”摩根士丹利美国主题研究策略师 Weaver 表示。“电力瓶颈、政治瓶颈、劳动力瓶颈——这些因素将在未来几年制约供应。”随着企业采用 AI 的步伐加快，Weaver 接受采访时作出上述判断。她表示，25%的标普 500 指数成分股公司如今可以量化 AI 投资带来的可衡量回报，高于一年前的 14%。数据中心融资也十分充裕，英伟达与华尔街金融机构合作为 AI 基础设施筹集 5,000 亿美元就是例证。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3385216"
-  },
-  {
-    "post": "Financial_Express/3385215",
-    "datetime": "2026-08-12T23:10:57+00:00",
-    "views": "48",
-    "text": "CoreWeave 向投资者发出警告，若需从英伟达芯片转向其他芯片将面临困难，可能需要投入大量时间和资金。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3385215"
   }
 ]
