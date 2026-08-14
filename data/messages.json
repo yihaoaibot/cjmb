@@ -1,9 +1,18 @@
 [
   {
+    "post": "Financial_Express/3389848",
+    "datetime": "2026-08-14T15:41:58+00:00",
+    "views": "12",
+    "text": "联合健康 CEO 枪杀案嫌疑人路易吉·曼吉奥内：我开枪打了联合健康原 CEO 布赖恩·汤普森。前往纽约的目的是要杀死汤普森。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3389848"
+  },
+  {
     "post": "Financial_Express/3389847",
     "datetime": "2026-08-14T15:40:37+00:00",
-    "views": "6",
-    "text": "路易吉・曼乔内在法庭上承认，他枪击了联合健康保险原首席执行官布莱恩・汤普森。",
+    "views": "49",
+    "text": "路易吉·曼吉奥内在法庭上承认，他枪击了联合健康保险原首席执行官布莱恩・汤普森。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3389847"
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3389846",
     "datetime": "2026-08-14T15:38:57+00:00",
-    "views": "49",
+    "views": "59",
     "text": "阿里巴巴宣布：今天正式开源 Qwen3.8 系列模型\n金十数据 8 月 14 日讯，阿里巴巴宣布，今天正式开源 Qwen3.8 系列模型，所有开发者、科研机构和企业均可自由下载、部署和使用。全新开源的 Qwen3.8-27B，是原生多模态稠密（Dense）模型，仅 270 亿参数规模，整体水平便超越了 Qwen3.7-Plus。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3389845",
     "datetime": "2026-08-14T15:38:18+00:00",
-    "views": "52",
+    "views": "61",
     "text": "迪士尼首席执行官：迪士尼为维护新闻操守对抗联邦通信委员会（FCC）。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3389844",
     "datetime": "2026-08-14T15:37:18+00:00",
-    "views": "55",
+    "views": "93",
     "text": "报道：特斯拉最快本月展示具“飞行”能力的 Roadster 跑车\n据 The Information 援引三名知情人士报道，特斯拉计划最快本月发布一款新的 Roadster 设计，其中将包括“飞行”能力。报道称，发布活动将安排一场精心设计的特技演示，展示 Roadster 限量版车型的飞行能力。该车型由特斯拉与 SpaceX 合作开发。演示预计将在 SpaceX 位于德克萨斯州 McGregor 的测试场进行。不过，报道指出，特斯拉最终会在活动上展示什么仍存在不确定性。据报道，马斯克近几周曾告诉部分特斯拉员工，这项演示难度很高，也可能出现意外，但无论结果如何都会很有娱乐性。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3389843",
     "datetime": "2026-08-14T15:35:57+00:00",
-    "views": "91",
+    "views": "97",
     "text": "阿里开源 Qwen3.8，千问大模型全球下载超 30 亿次\n8 月 14 日晚，阿里千问正式开源 Qwen3.8 系列模型，所有开发者、科研机构和企业均可自由下载、部署和使用。全新开源的 Qwen3.8-27B，系原生多模态稠密（Dense）模型，仅 270 亿参数规模，整体水平便超越了 Qwen3.7-Plus，在编程及办公的真实场景中表现出色。新模型响应速度快，完成质量高，部署便捷，量化后在“消费级”显卡上即可流畅运行，是最受全球 AI 社区期待的开源模型。Qwen3.8-27B 采用宽松的 Apache2.0 协议开源，有望成为本地部署的主力模型。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3389842",
     "datetime": "2026-08-14T15:35:39+00:00",
-    "views": "92",
+    "views": "98",
     "text": "真主党秘书长发表讲话。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3389841",
     "datetime": "2026-08-14T15:33:38+00:00",
-    "views": "94",
+    "views": "99",
     "text": "迪士尼首席执行官：没有分拆 ESPN 或 ABC 的计划。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3389840",
     "datetime": "2026-08-14T15:32:38+00:00",
-    "views": "95",
+    "views": "129",
     "text": "美国财经媒体 Semafor：菲利普斯 66 与马拉松的合并谈判破裂。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3389839",
     "datetime": "2026-08-14T15:32:17+00:00",
-    "views": "97",
+    "views": "130",
     "text": "美国财经媒体 Semafor：能源公司菲利普斯 66 与马拉松在今年早些时候进行了合并谈判。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3389838",
     "datetime": "2026-08-14T15:31:57+00:00",
-    "views": "97",
+    "views": "129",
     "text": "法国 10 年期国债收益率上行 10 个基点至 4.04%，创 2009 年以来新高。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3389836",
     "datetime": "2026-08-14T15:31:18+00:00",
-    "views": "98",
+    "views": "101",
     "text": "法国 10 年期国债收益率上升 10 个基点，达到 4.04%，为 2009 年以来最高水平。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3389837",
     "datetime": "2026-08-14T15:31:18+00:00",
-    "views": "100",
+    "views": "132",
     "text": "以色列总理内塔尼亚胡：本周，我与印度总理莫迪又进行了一次十分友好的会谈。印度对以色列的支持力度巨大。我们正将这份支持转化为安全与经济层面的双边关系。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3389835",
     "datetime": "2026-08-14T15:27:57+00:00",
-    "views": "135",
+    "views": "137",
     "text": "秘鲁总统：燃油补贴将持续三个月。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3389834",
     "datetime": "2026-08-14T15:27:37+00:00",
-    "views": "135",
+    "views": "137",
     "text": "秘鲁总统：燃料补贴将持续三个月。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3389833",
     "datetime": "2026-08-14T15:26:38+00:00",
-    "views": "139",
+    "views": "140",
     "text": "秘鲁经济部长：燃油补贴将于周六启动，补贴适用于特定区域及特定类型司机。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3389832",
     "datetime": "2026-08-14T15:26:37+00:00",
-    "views": "139",
+    "views": "140",
     "text": "秘鲁经济部长：燃料补贴将于周六开始，适用于特定区域和类型的驾驶员。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3389831",
     "datetime": "2026-08-14T15:26:17+00:00",
-    "views": "137",
+    "views": "138",
     "text": "美国司法部：亚马逊同意支付 225 万美元和解金，并接受禁令，以解决涉嫌违反《公平信用报告法》的问题。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +173,7 @@
   {
     "post": "Financial_Express/3389829",
     "datetime": "2026-08-14T15:22:17+00:00",
-    "views": "152",
+    "views": "182",
     "text": "秘鲁总统：因燃油价格上涨，宣布对运输司机提供 15%至 20%的补贴。",
     "media_only": false,
     "image_url": null,
@@ -43990,32 +43999,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3384931"
-  },
-  {
-    "post": "Financial_Express/3384930",
-    "datetime": "2026-08-12T15:42:38+00:00",
-    "views": "161",
-    "text": "黎巴嫩政府军指责以色列违反框架协议持续袭击黎南\n黎巴嫩政府军 12 日发表声明说，以色列持续违反现有框架协议和国际法，对黎南部发动持续袭击并炸毁多处建筑，阻碍当地居民返回家园以及黎军部署。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3384930"
-  },
-  {
-    "post": "Financial_Express/3384929",
-    "datetime": "2026-08-12T15:42:18+00:00",
-    "views": "130",
-    "text": "波斯湾油污危机浮现 油轮袭击加剧霍尔木兹环境风险\n金十数据 8 月 12 日讯，伊朗正在应对格什姆岛附近的一起石油泄漏事件，这凸显了波斯湾油轮遭袭后带来的环境风险。卫星图像显示，在濒临海岸的希布德拉兹村附近海域出现一条深色细长油带——该区域是濒危玳瑁海龟的繁殖地——同时海滩上也出现黑色沉积物。伊朗学生通讯社报道称，清理工作正在进行中。随着为期五个月的美伊战争期间多艘油轮遭到袭击，波斯湾发生石油泄漏的风险有所上升。负责统计船只受损情况的国际海事组织表示，自 3 月初以来，霍尔木兹海峡及整个中东地区已确认发生 65 起相关事件。伊朗学生通讯社的报道没有说明污染源，但表示救援人员正在使用吸油材料对泄漏物进行控制和收集。油轮追踪公司 TankerTrackers 称其可能源于本月早些时候伊朗对一艘散货船发动的袭击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3384929"
-  },
-  {
-    "post": "Financial_Express/3384928",
-    "datetime": "2026-08-12T15:41:57+00:00",
-    "views": "126",
-    "text": "瑞士拟立法强制延迟银行高管奖金发放，最长可达五年。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3384928"
   }
 ]
