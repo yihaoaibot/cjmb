@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3398775",
+    "datetime": "2026-08-19T20:26:37+00:00",
+    "views": "9",
+    "text": "现货黄金突破 4520 美元/盎司，日内涨 4.30%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3398775"
+  },
+  {
+    "post": "Financial_Express/3398774",
+    "datetime": "2026-08-19T20:25:18+00:00",
+    "views": "24",
+    "text": "现货白银日内涨 5%，现报 66.51 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3398774"
+  },
+  {
+    "post": "Financial_Express/3398773",
+    "datetime": "2026-08-19T20:25:17+00:00",
+    "views": "24",
+    "text": "纽约期银日内涨 4%，现报 66.61 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3398773"
+  },
+  {
     "post": "Financial_Express/3398772",
     "datetime": "2026-08-19T20:23:17+00:00",
-    "views": "25",
+    "views": "40",
     "text": "据半岛电视台：美国国务院发言人表示，特朗普政府已就叙利亚主权和以色列自卫权展开讨论。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3398771",
     "datetime": "2026-08-19T20:21:17+00:00",
-    "views": "41",
+    "views": "52",
     "text": "美国商品期货交易委员会就 AI 算力期货征求公众意见\n金十数据 8 月 20 日讯，随着行业巨头开始接受将算力（compute）作为一种可交易资产，美国商品期货交易委员会（CFTC）正在就算力期货合约公开征求意见。包括芝商所（CME）、洲际交易所以及新兴金融科技公司 Architect Financial Technologies 在内的多家交易所均已宣布计划在获得监管批准后推出相关合约。这些交易平所表示，建立计算能力期货市场有助于终端用户和投机者对能源短缺或其他可能影响人工智能开发者技术进步的问题进行风险对冲。CFTC 主席迈克尔·塞利格周三在一份声明中表示：“如果没有一个强大的算力衍生品市场，美国就无法赢得 AI 竞赛。这次征求意见是建立美国算力市场明确规则的第一步。”CFTC 此次征求意见涉及的问题之一，是算力期货与该机构目前已经监管的其他类型衍生品或标的商品有何不同。如果允许算力期货在受 CFTC 监管的交易所上市，可能需要进一步统一影响算力价格的各项变量，包括用于结算参考的价格指数等。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3398770",
     "datetime": "2026-08-19T20:20:57+00:00",
-    "views": "42",
+    "views": "52",
     "text": "纽约期金突破 4570 美元/盎司，日内涨 3.38%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3398769",
     "datetime": "2026-08-19T20:19:17+00:00",
-    "views": "54",
+    "views": "64",
     "text": "美国国务院发言人向半岛电视台表示，特朗普政府开启有关叙利亚主权以及以色列自卫权的相关讨论。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3398768",
     "datetime": "2026-08-19T20:18:37+00:00",
-    "views": "55",
+    "views": "65",
     "text": "UBER 确认出售 7200 万股 AURORA INNOVATION 股份。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3398767",
     "datetime": "2026-08-19T20:17:17+00:00",
-    "views": "62",
+    "views": "72",
     "text": "路透调查显示，美国能源信息署（EIA）周四报告预计，上周美国天然气库存增加 190 亿立方英尺。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3398766",
     "datetime": "2026-08-19T20:16:57+00:00",
-    "views": "64",
+    "views": "74",
     "text": "Webull 第二季度调整后净利润为 4320 万美元，去年同期为 1540 万美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3398765",
     "datetime": "2026-08-19T20:14:57+00:00",
-    "views": "70",
+    "views": "78",
     "text": "OpenAI 将加强付费工具客户的安全流程\n金十数据 8 月 20 日讯，OpenAI 表示，将加强针对付费用户的安全处理流程，并开始测试“私人安全处理”。该技术旨在通过识别多次交互中的风险模式，而不是仅分析单次提示词和回复，提升安全能力。OpenAI 称，随着 AI 承担更长周期、更自主的工作，风险往往会出现在多个交互的组合中。公司表示，新流程旨在防范恶意用户以及失调 AI 智能体的攻击，同时保持“零数据保留”兼容性，客户内容仍不会被 OpenAI 访问。OpenAI 预计 9 月推出该功能，并发布相关技术白皮书，目前已与微软、Databricks 等早期客户开展测试。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3398764",
     "datetime": "2026-08-19T20:09:17+00:00",
-    "views": "89",
+    "views": "96",
     "text": "默沙东(MRK.N)收涨 12.6%，创 2009 年 3 月以来最大单日涨幅。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3398763",
     "datetime": "2026-08-19T20:08:17+00:00",
-    "views": "94",
+    "views": "100",
     "text": "阿根廷经济部长：阿根廷批准了价值 64 亿美元的大型投资激励制度计划，用于 TECPETROL 在瓦卡穆尔塔的洛斯托尔多斯二期石油项目。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3398762",
     "datetime": "2026-08-19T20:07:37+00:00",
-    "views": "97",
+    "views": "103",
     "text": "默克股价收涨 13%，创 2009 年 3 月以来最大单日涨幅。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3398761",
     "datetime": "2026-08-19T20:06:57+00:00",
-    "views": "99",
+    "views": "105",
     "text": "莫德纳(MRNA.O)股价创纪录飙升 177%，市值增加 440 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3398760",
     "datetime": "2026-08-19T20:06:17+00:00",
-    "views": "102",
+    "views": "108",
     "text": "金十图示：2026 年 08 月 19 日（周三）美股热门股票行情一览（美股收盘）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3398759",
     "datetime": "2026-08-19T20:05:38+00:00",
-    "views": "103",
+    "views": "108",
     "text": "金十图示：2026 年 08 月 19 日（周三）热门中概股行情一览（美股收盘）",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3398758",
     "datetime": "2026-08-19T20:04:57+00:00",
-    "views": "108",
+    "views": "113",
     "text": "美股收盘：三大股指收涨 Moderna 大涨 177%\n金十数据 8 月 20 日讯，美股周三收盘，道指初步收涨 0.22%，标普 500 指数涨 0.21%，纳指涨 0.16%。Moderna(MRNA.O)大涨 176.9%，默沙东(MRK.N)涨 12.6%。迈威尔科技(MRVL.O)涨超 9.8%，SK 海力士(SKHY.O)涨 0.35%，闪迪(SNDK.O)跌 3.5%，美光科技(MU.O)跌 0.39%。纳斯达克中国金龙指数收涨 1.5%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3398757",
     "datetime": "2026-08-19T20:04:37+00:00",
-    "views": "106",
+    "views": "109",
     "text": "MODERNA 股价飙升创纪录 177%，市值增加 440 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3398756",
     "datetime": "2026-08-19T20:03:57+00:00",
-    "views": "108",
+    "views": "111",
     "text": "雅诗兰黛股价收涨 16%，创 2011 年以来最大涨幅。",
     "media_only": false,
     "image_url": null,
