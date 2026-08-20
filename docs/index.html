@@ -1,5 +1,61 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-08-20T23:12:50.997647+00:00","clsvipUpdated":"2026-08-20T23:13:07.295456+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">8月21日</h2><div class="feed"><article class="item" data-search="现货黄金突破 4530 美元/盎司，日内涨 0.24%。"><div class="time">07:12</div><div class="content"><div class="text" data-full="现货黄金突破 4530 美元/盎司，日内涨 0.24%。" data-short="现货黄金突破 4530 美元/盎司，日内涨 0.24%。">现货黄金突破 4530 美元/盎司，日内涨 0.24%。</div></div></article><article class="item" data-search="消息称 spacex、ast 拟收购价值 60 亿美元频谱资产
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-08-20T23:14:51.481255+00:00","clsvipUpdated":"2026-08-20T23:15:07.552367+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">8月21日</h2><div class="feed"><article class="item" data-search="年内分红已破千亿元 公募基金着力提升投资者获得感
+年内公募基金分红金额已经突破千亿元大关，分红频次同比大增。在“以投资者为本”的监管导向下，公募基金高频分红已成常态。叠加费率下调、浮动费率创新、投顾陪伴升级等多维举措，公募行业正在打响全周期、多维度的持有人体验升级战。（上海证券报）"><div class="time">07:13</div><div class="content"><div class="text" data-full="年内分红已破千亿元 公募基金着力提升投资者获得感
+年内公募基金分红金额已经突破千亿元大关，分红频次同比大增。在“以投资者为本”的监管导向下，公募基金高频分红已成常态。叠加费率下调、浮动费率创新、投顾陪伴升级等多维举措，公募行业正在打响全周期、多维度的持有人体验升级战。（上海证券报）" data-short="年内分红已破千亿元 公募基金着力提升投资者获得感
+年内公募基金分红金额已经突破千亿元大关，分红频次同比大增。在“以投资者为本”的监管导向下，公募基金高频分红已成常态。叠加费率下调、浮动费率创新、投顾陪伴升级等多维举措，公募行业正在打响全周期、多维度的持有人体验升级战。（上海证券报）">年内分红已破千亿元 公募基金着力提升投资者获得感
+年内公募基金分红金额已经突破千亿元大关，分红频次同比大增。在“以投资者为本”的监管导向下，公募基金高频分红已成常态。叠加费率下调、浮动费率创新、投顾陪伴升级等多维举措，公募行业正在打响全周期、多维度的持有人体验升级战。（上海证券报）</div></div></article><article class="item" data-search="除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、首批 41 个典型场景发布，助力规模化创新应用 交通需求与人工智能技术加速对接（政策解读）
+2、社会消费商品和服务零售总额前 7 月同比增 2.6% 服务零售额增速持续高于商品零售额
+3、我国与 apec 其他经济体进出口前 7 月同比增 21% 增速高于货物贸易整体水平
+4、进出口银行前 7 月新发放制造业贷款近 5000 亿元 先进制造业贷款占 40%
+5、深入实施数字人社建设行动 到 2030 年底，申领电子社保卡人口覆盖率达 90%
+6、中国已成为厄瓜多尔第二大贸易伙伴
+7、工业和信息化部再次批复开展卫星物联网业务商用试验
+8、认证体系建设持续完善 上半年绿色建材营收同比增长超 10%
+9、连通京津冀长三角 电商多式联运快速班列开行
+10、新疆立法促进棉花产业高质量发展
+11、苏州以科技创新驱动高质量发展
+12、机械工业何以“长红”（读数）
+13、山东助力企业延链补链强链、转型智能制造 传统工厂跑出两种“加速度”
+14、中国茶饮品牌不断拓展国际市场 海外年轻人爱上“中国茶”（中国品牌圈粉海外）
+15、中国 240 小时过境免签“朋友圈”扩展至 57 国
+16、“快递进村”的建制村新增 2244 个
+17、“机器人消费街”亮相 2026 世界机器人大会
+18、恒大集团、恒大地产、许家印等案一审宣判
+19、《网络数据安全风险评估办法》8 月 20 日施行 公安部有关负责人就其实施有关事项回答记者提问
+20、占约旦进口电动汽车八成以上 中国电动汽车获约旦民众青睐（国际视点）
+21、加快基础设施建设 推动关键矿产增值 南部非洲加速推进工业化进程
+22、欧盟及英国约半数土地遭遇不同程度干旱 持续高温干旱重创欧洲农业。"><div class="time">07:12</div><div class="content"><div class="text" data-full="除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、首批 41 个典型场景发布，助力规模化创新应用 交通需求与人工智能技术加速对接（政策解读）
+2、社会消费商品和服务零售总额前 7 月同比增 2.6% 服务零售额增速持续高于商品零售额
+3、我国与 APEC 其他经济体进出口前 7 月同比增 21% 增速高于货物贸易整体水平
+4、进出口银行前 7 月新发放制造业贷款近 5000 亿元 先进制造业贷款占 40%
+5、深入实施数字人社建设行动 到 2030 年底，申领电子社保卡人口覆盖率达 90%
+6、中国已成为厄瓜多尔第二大贸易伙伴
+7、工业和信息化部再次批复开展卫星物联网业务商用试验
+8、认证体系建设持续完善 上半年绿色建材营收同比增长超 10%
+9、连通京津冀长三角 电商多式联运快速班列开行
+10、新疆立法促进棉花产业高质量发展
+11、苏州以科技创新驱动高质量发展
+12、机械工业何以“长红”（读数）
+13、山东助力企业延链补链强链、转型智能制造 传统工厂跑出两种“加速度”
+14、中国茶饮品牌不断拓展国际市场 海外年轻人爱上“中国茶”（中国品牌圈粉海外）
+15、中国 240 小时过境免签“朋友圈”扩展至 57 国
+16、“快递进村”的建制村新增 2244 个
+17、“机器人消费街”亮相 2026 世界机器人大会
+18、恒大集团、恒大地产、许家印等案一审宣判
+19、《网络数据安全风险评估办法》8 月 20 日施行 公安部有关负责人就其实施有关事项回答记者提问
+20、占约旦进口电动汽车八成以上 中国电动汽车获约旦民众青睐（国际视点）
+21、加快基础设施建设 推动关键矿产增值 南部非洲加速推进工业化进程
+22、欧盟及英国约半数土地遭遇不同程度干旱 持续高温干旱重创欧洲农业。" data-short="除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、首批 41 个典型场景发布，助力规模化创新应用 交通需求与人工智能技术加速对接（政策解读）
+2、社会消费商品和服务零售总额前 7 月同比增 2.6% 服务零售额增速持续高于商品零售额
+3、我国与 APEC 其他经济体进出口前 7 月同比增 21% 增速高于货物贸易整体水平
+4、进出口银行前 7 月...">除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、首批 41 个典型场景发布，助力规模化创新应用 交通需求与人工智能技术加速对接（政策解读）
+2、社会消费商品和服务零售总额前 7 月同比增 2.6% 服务零售额增速持续高于商品零售额
+3、我国与 APEC 其他经济体进出口前 7 月同比增 21% 增速高于货物贸易整体水平
+4、进出口银行前 7 月...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="现货黄金突破 4530 美元/盎司，日内涨 0.24%。"><div class="time">07:12</div><div class="content"><div class="text" data-full="现货黄金突破 4530 美元/盎司，日内涨 0.24%。" data-short="现货黄金突破 4530 美元/盎司，日内涨 0.24%。">现货黄金突破 4530 美元/盎司，日内涨 0.24%。</div></div></article><article class="item" data-search="消息称 spacex、ast 拟收购价值 60 亿美元频谱资产
 spacex 以及 astspacemobile 公司等企业，均已表达有意收购 grainmanagement 有限责任公司所持有的大片频谱资源。这批 800 兆赫兹频段许可，是 grain 与美国 t‑mobile 完成频谱置换后获得。该频谱被认为极具价值，能够助力卫星运营商搭建语音业务的地面链路。grain 已要求意向方在 9 月第一周前提交初步报价，希望通过出售这批许可获得约 60 亿美元，不过该公司也考虑采取频谱容量出租的方案。"><div class="time">07:10</div><div class="content"><div class="text" data-full="消息称 SpaceX、AST 拟收购价值 60 亿美元频谱资产
 SpaceX 以及 ASTSpacemobile 公司等企业，均已表达有意收购 GrainManagement 有限责任公司所持有的大片频谱资源。这批 800 兆赫兹频段许可，是 Grain 与美国 T‑Mobile 完成频谱置换后获得。该频谱被认为极具价值，能够助力卫星运营商搭建语音业务的地面链路。Grain 已要求意向方在 9 月第一周前提交初步报价，希望通过出售这批许可获得约 60 亿美元，不过该公司也考虑采取频谱容量出租的方案。" data-short="消息称 SpaceX、AST 拟收购价值 60 亿美元频谱资产
 SpaceX 以及 ASTSpacemobile 公司等企业，均已表达有意收购 GrainManagement 有限责任公司所持有的大片频谱资源。这批 800 兆赫兹频段许可，是 Grain 与美国 T‑Mobile 完成频谱置换后获得。该频谱被认为极具价值，能够助力卫星运营商搭建语音业务的地面...">消息称 SpaceX、AST 拟收购价值 60 亿美元频谱资产
@@ -437,7 +493,7 @@ Anthropic PBC 计划允许企业客户在使用其最强大的人工智能模型
 国际铜夜盘收涨 0.19%，沪铜收涨 0.04%，沪铝收跌 0.47%，沪锌收涨 0.79%，沪铅收涨 1.10%，沪镍收跌 0.94%，沪锡收涨 0.79%。氧化铝夜盘收涨 0.45%，铝合金收跌 0.33%。不锈钢夜盘收跌 1.39%。"><div class="time">01:00</div><div class="content"><div class="text" data-full="夜盘期货收盘
 国际铜夜盘收涨 0.19%，沪铜收涨 0.04%，沪铝收跌 0.47%，沪锌收涨 0.79%，沪铅收涨 1.10%，沪镍收跌 0.94%，沪锡收涨 0.79%。氧化铝夜盘收涨 0.45%，铝合金收跌 0.33%。不锈钢夜盘收跌 1.39%。" data-short="夜盘期货收盘
 国际铜夜盘收涨 0.19%，沪铜收涨 0.04%，沪铝收跌 0.47%，沪锌收涨 0.79%，沪铅收涨 1.10%，沪镍收跌 0.94%，沪锡收涨 0.79%。氧化铝夜盘收涨 0.45%，铝合金收跌 0.33%。不锈钢夜盘收跌 1.39%。">夜盘期货收盘
-国际铜夜盘收涨 0.19%，沪铜收涨 0.04%，沪铝收跌 0.47%，沪锌收涨 0.79%，沪铅收涨 1.10%，沪镍收跌 0.94%，沪锡收涨 0.79%。氧化铝夜盘收涨 0.45%，铝合金收跌 0.33%。不锈钢夜盘收跌 1.39%。</div></div></article><article class="item" data-search="马斯克：媒体从未提到，当弗洛伊德（美国著名社会案件弗洛伊德案当事人）抱怨呼吸困难时，警察立即叫了救护车。 对“凶手”来说，这可真是反常的行为。"><div class="time">00:59</div><div class="content"><div class="text" data-full="马斯克：媒体从未提到，当弗洛伊德（美国著名社会案件弗洛伊德案当事人）抱怨呼吸困难时，警察立即叫了救护车。 对“凶手”来说，这可真是反常的行为。" data-short="马斯克：媒体从未提到，当弗洛伊德（美国著名社会案件弗洛伊德案当事人）抱怨呼吸困难时，警察立即叫了救护车。 对“凶手”来说，这可真是反常的行为。">马斯克：媒体从未提到，当弗洛伊德（美国著名社会案件弗洛伊德案当事人）抱怨呼吸困难时，警察立即叫了救护车。 对“凶手”来说，这可真是反常的行为。</div></div></article><article class="item" data-search="美国天然气期货跌超 3.00%，现报 2.740 美元/百万英热。"><div class="time">00:59</div><div class="content"><div class="text" data-full="美国天然气期货跌超 3.00%，现报 2.740 美元/百万英热。" data-short="美国天然气期货跌超 3.00%，现报 2.740 美元/百万英热。">美国天然气期货跌超 3.00%，现报 2.740 美元/百万英热。</div></div></article><article class="item" data-search="据俄罗斯工商日報：俄罗斯总统普京表示，俄罗斯计划建设新的核电站，包括小型模块化核反应堆项目，目标新增 30 吉瓦发电能力。"><div class="time">00:57</div><div class="content"><div class="text" data-full="据俄罗斯工商日報：俄罗斯总统普京表示，俄罗斯计划建设新的核电站，包括小型模块化核反应堆项目，目标新增 30 吉瓦发电能力。" data-short="据俄罗斯工商日報：俄罗斯总统普京表示，俄罗斯计划建设新的核电站，包括小型模块化核反应堆项目，目标新增 30 吉瓦发电能力。">据俄罗斯工商日報：俄罗斯总统普京表示，俄罗斯计划建设新的核电站，包括小型模块化核反应堆项目，目标新增 30 吉瓦发电能力。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">8月20日 · VIP</h2> <div class="feed"> <article class="item" data-search="徐小明收盘点评20260820
+国际铜夜盘收涨 0.19%，沪铜收涨 0.04%，沪铝收跌 0.47%，沪锌收涨 0.79%，沪铅收涨 1.10%，沪镍收跌 0.94%，沪锡收涨 0.79%。氧化铝夜盘收涨 0.45%，铝合金收跌 0.33%。不锈钢夜盘收跌 1.39%。</div></div></article><article class="item" data-search="马斯克：媒体从未提到，当弗洛伊德（美国著名社会案件弗洛伊德案当事人）抱怨呼吸困难时，警察立即叫了救护车。 对“凶手”来说，这可真是反常的行为。"><div class="time">00:59</div><div class="content"><div class="text" data-full="马斯克：媒体从未提到，当弗洛伊德（美国著名社会案件弗洛伊德案当事人）抱怨呼吸困难时，警察立即叫了救护车。 对“凶手”来说，这可真是反常的行为。" data-short="马斯克：媒体从未提到，当弗洛伊德（美国著名社会案件弗洛伊德案当事人）抱怨呼吸困难时，警察立即叫了救护车。 对“凶手”来说，这可真是反常的行为。">马斯克：媒体从未提到，当弗洛伊德（美国著名社会案件弗洛伊德案当事人）抱怨呼吸困难时，警察立即叫了救护车。 对“凶手”来说，这可真是反常的行为。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">8月20日 · VIP</h2> <div class="feed"> <article class="item" data-search="徐小明收盘点评20260820
 
 张帅下午课20260819
 
