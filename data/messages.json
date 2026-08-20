@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3401545",
+    "datetime": "2026-08-20T17:54:38+00:00",
+    "views": "1",
+    "text": "报道：Anthropic 计划调整高级 AI 的数据保留政策\nAnthropic PBC 计划允许企业客户在使用其最强大的人工智能模型时，对自身数据保持更大的控制权，这是对早期数据保留政策的重大转变——该政策最初旨在防范潜在的网络攻击。据知情人士透露，这家 Claude 聊天机器人开发商预计将于今年晚些时候推出一套新的安全系统，该系统仍将要求企业客户保留数据 30 天，但允许客户选择将数据保留在自有的云计算基础设施上，而非 Anthropic 的服务器上。这套系统已筹备数月。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401545"
+  },
+  {
+    "post": "Financial_Express/3401544",
+    "datetime": "2026-08-20T17:53:37+00:00",
+    "views": "9",
+    "text": "美国太平洋司令部：美方根据目前评估认为，有关事件不会对美国人员、美国领土或地区盟友构成直接威胁。美国仍将继续致力于保卫本土及地区盟友。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401544"
+  },
+  {
+    "post": "Financial_Express/3401542",
+    "datetime": "2026-08-20T17:53:17+00:00",
+    "views": "9",
+    "text": "美国太平洋司令部：已注意到近期导弹发射活动，正与盟友和伙伴保持密切沟通。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401542"
+  },
+  {
     "post": "Financial_Express/3401541",
     "datetime": "2026-08-20T17:51:37+00:00",
-    "views": "23",
+    "views": "31",
     "text": "美国太平洋司令部：事态发展不会对美国及其盟国构成威胁。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3401540",
     "datetime": "2026-08-20T17:51:17+00:00",
-    "views": "29",
+    "views": "38",
     "text": "美国太平洋司令部：事态发展不会对美国构成威胁。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3401539",
     "datetime": "2026-08-20T17:50:58+00:00",
-    "views": "34",
+    "views": "42",
     "text": "美国太平洋司令部：已获悉近期导弹发射事件。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3401538",
     "datetime": "2026-08-20T17:50:57+00:00",
-    "views": "34",
+    "views": "42",
     "text": "巴西国家石油公司（PETROBRAS）公告：“亚历山大·德·古马奥”号浮式生产储油卸油轮（FPSO）在梅罗盐下油田实现产量峰值，日产 18 万桶。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3401537",
     "datetime": "2026-08-20T17:50:37+00:00",
-    "views": "40",
+    "views": "49",
     "text": "商品期货交易委员会主席塞利格表示，如果《加密货币清晰法案》未能通过，工作人员将制定正式的加密货币市场结构规则。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3401536",
     "datetime": "2026-08-20T17:49:17+00:00",
-    "views": "55",
+    "views": "61",
     "text": "据日经新闻：随着东南亚市场疲软削弱长期以来的销售支撑，三菱汽车正将战略重心转向美国和澳大利亚市场。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3401535",
     "datetime": "2026-08-20T17:48:37+00:00",
-    "views": "58",
+    "views": "64",
     "text": "纽约联储 8 月 20 日常备回购操作未收到任何投标，操作规模为零。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3401534",
     "datetime": "2026-08-20T17:48:18+00:00",
-    "views": "62",
+    "views": "68",
     "text": "美国国防部：到 2027 年，无人机主导计划计划采购超过 20 万架美国制造的无人机，以维持战场优势。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3401533",
     "datetime": "2026-08-20T17:48:17+00:00",
-    "views": "61",
+    "views": "67",
     "text": "巴西国家石油公司：亚历山大·德·古斯芒号浮式生产储卸油船在 Mero 盐下油田达到峰值产量，日产原油 18 万桶。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3401532",
     "datetime": "2026-08-20T17:47:58+00:00",
-    "views": "60",
+    "views": "66",
     "text": "CIA：美国国家情报总监访问中央情报局总部。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3401531",
     "datetime": "2026-08-20T17:47:37+00:00",
-    "views": "63",
+    "views": "69",
     "text": "高房贷利率施压，美国住房可负担性指标近三年来首次恶化\n今年第二季度，一套中位价为 41.07 万美元的住房，其每月贷款支出相当于典型家庭收入的 34%。这一比例高于第一季度的 32%，也逆转了自 2025 年初以来住房可负担性最近一轮改善的部分成果。第二季度期间，美伊战争推高了整个经济体系的借贷成本，30 年期抵押贷款利率大幅攀升，目前约为 6.8%，接近一年来的高位。美国全国住宅建筑商协会表示，当季新房中位价格也上涨了 2%，进一步加剧了购房压力。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3401530",
     "datetime": "2026-08-20T17:43:57+00:00",
-    "views": "92",
+    "views": "95",
     "text": "叙利亚库尔德领导人：库尔德武装部队和安全机构已完成与叙利亚政府体系的整合。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3401529",
     "datetime": "2026-08-20T17:42:57+00:00",
-    "views": "98",
+    "views": "101",
     "text": "标普 500 指数跌至盘中低点 0.6%。",
     "media_only": false,
     "image_url": null,
@@ -119,8 +146,8 @@
   {
     "post": "Financial_Express/3401528",
     "datetime": "2026-08-20T17:38:37+00:00",
-    "views": "128",
-    "text": "美股三大指数进一步下跌，道指数跌超 1%，标普 500 指数跌 0.58%，纳指跌 0.95%。",
+    "views": "130",
+    "text": "美股三大指数进一步下跌，道指数跌超 1%，标普 500 指数跌 0.58%，纳指跌 0.95%。\n❤1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3401528"
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3401527",
     "datetime": "2026-08-20T17:37:18+00:00",
-    "views": "137",
+    "views": "139",
     "text": "美股道琼斯指数期货跌超 1%\n美股道琼斯指数期货跌超 1%，纳斯达克 100 指数期货跌 0.78%，标普 500 指数期货跌 0.6%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3401526",
     "datetime": "2026-08-20T17:37:17+00:00",
-    "views": "136",
+    "views": "137",
     "text": "道指跌 1.01%，现报 52925.648 点；纳指跌 0.94%，现报 26082.928 点；标普 500 指数跌 0.57%，现报 7664.370 点。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3401525",
     "datetime": "2026-08-20T17:36:38+00:00",
-    "views": "140",
+    "views": "141",
     "text": "美国住房可负担性指标自 2023 年以来首次恶化\n美国住房可负担性的一个关键指标近三年来首次出现恶化，原因是借贷成本上升，吞噬了新购房者更大比例的收入。根据全美住宅建筑商协会（NAHB）和富国银行周四公布的数据，今年第二季度，购买一套中位价 41.07 万美元住房的月供，占典型家庭收入的 34%。这一比例高于一季度的 32%，逆转了自 2025 年初以来录得的部分改善。",
     "media_only": false,
     "image_url": null,
@@ -50767,23 +50794,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3395864"
-  },
-  {
-    "post": "Financial_Express/3395863",
-    "datetime": "2026-08-18T17:53:37+00:00",
-    "views": "160",
-    "text": "伊朗方面报道：调查显示，有关伊朗向阿联酋发动导弹袭击的说法尚无证据证实；伊朗只承认自己实际实施过的行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3395863"
-  },
-  {
-    "post": "Financial_Express/3395862",
-    "datetime": "2026-08-18T17:52:57+00:00",
-    "views": "161",
-    "text": "据福克斯新闻：美国众议员巴迪·卡特已与白宫讨论其出任下一任美国食品药品监督管理局（FDA）局长的可能性。消息人士称，卡特有兴趣担任该职位。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3395862"
   }
 ]
