@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3401059",
+    "datetime": "2026-08-20T14:02:38+00:00",
+    "views": "1",
+    "text": "美国运通公司：通过与当地银行建立新合作伙伴关系，扩大在泰国的信用卡受理范围。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401059"
+  },
+  {
+    "post": "Financial_Express/3401058",
+    "datetime": "2026-08-20T14:02:37+00:00",
+    "views": "2",
+    "text": "Waymo：推出专为自动驾驶计算设计的 5 纳米 ASIC，用于实时传感器数据处理。定制 ASIC 在前端处理方面可提供超过 1000 TOPS 的机器学习性能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401058"
+  },
+  {
+    "post": "Financial_Express/3401057",
+    "datetime": "2026-08-20T14:02:17+00:00",
+    "views": "2",
+    "text": "Waymo：与 AMD、美光、英伟达、三星、闪迪、Socionext 和台积电合作开发自动驾驶计算系统。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401057"
+  },
+  {
+    "post": "Financial_Express/3401055",
+    "datetime": "2026-08-20T14:01:58+00:00",
+    "views": "2",
+    "text": "美国 7 月谘商会滞后指标月率 0.2%，前值 0%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401055"
+  },
+  {
+    "post": "Financial_Express/3401056",
+    "datetime": "2026-08-20T14:01:58+00:00",
+    "views": "2",
+    "text": "Moderna 股价涨超 176%，昆仑资本 mRNA 肿瘤项目迎价值重估\n近日，Moderna 股价盘中暴涨超 176%，市值突破 696 亿美元，带动默沙东跟涨超 12%。引发资本追捧的，是 Moderna 与默沙东联合宣布的 III 期 INTerpath-001 试验阳性结果——个体化 mRNA 新抗原疫苗联合 Keytruda，显著降低黑色素瘤患者复发和远处转移风险。（新浪科技）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401056"
+  },
+  {
+    "post": "Financial_Express/3401054",
+    "datetime": "2026-08-20T14:01:38+00:00",
+    "views": "2",
+    "text": "美国 7 月谘商会同步指标月率 0.2%，前值 0.2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401054"
+  },
+  {
+    "post": "Financial_Express/3401052",
+    "datetime": "2026-08-20T14:01:18+00:00",
+    "views": "3",
+    "text": "美国 7 月谘商会领先指标 99.5，前值 99.1。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401052"
+  },
+  {
+    "post": "Financial_Express/3401053",
+    "datetime": "2026-08-20T14:01:18+00:00",
+    "views": "3",
+    "text": "谷歌：UNC7005 尤其与 ReliaQuest 和微软报告的酒店强制门户重定向有关。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401053"
+  },
+  {
     "post": "Financial_Express/3401051",
     "datetime": "2026-08-20T14:00:37+00:00",
-    "views": "1",
+    "views": "33",
     "text": "洲际交易所原糖期货涨幅超 3%，报每磅 18.16 美分。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3401049",
     "datetime": "2026-08-20T14:00:18+00:00",
-    "views": "1",
+    "views": "33",
     "text": "美国能源部将向七个关键矿产项目发放 5 亿美元的补助。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3401050",
     "datetime": "2026-08-20T14:00:18+00:00",
-    "views": "1",
+    "views": "33",
     "text": "美国 7 月谘商会领先指标月率 0.2%，预期 0.10%，前值由-0.20%修正为-0.1%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3401048",
     "datetime": "2026-08-20T13:59:58+00:00",
-    "views": "1",
+    "views": "33",
     "text": "印度证券交易委员会：自营交易商 26 财年衍生品盈利 4448 亿卢比。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3401047",
     "datetime": "2026-08-20T13:59:57+00:00",
-    "views": "1",
+    "views": "33",
     "text": "谷歌：目前追踪两个独立的疑似俄罗斯集群 UNC7005 和 UNC5976，这两个集群实施网络钓鱼、滥用 OAuth 流程，并向受害者部署恶意软件。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3401046",
     "datetime": "2026-08-20T13:58:59+00:00",
-    "views": "35",
+    "views": "36",
     "text": "英伟达云游戏平台 GeForce NOW 正式支持 Firefox 浏览器。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3401044",
     "datetime": "2026-08-20T13:56:44+00:00",
-    "views": "39",
+    "views": "69",
     "text": "巴基斯坦中央银行外汇储备增加 2500 万美元，达到 171 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3401042",
     "datetime": "2026-08-20T13:56:43+00:00",
-    "views": "39",
+    "views": "69",
     "text": "Sysco 股价上涨 2.4%，公司宣布董事会变动以推动人工智能转型。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3401043",
     "datetime": "2026-08-20T13:56:43+00:00",
-    "views": "39",
+    "views": "69",
     "text": "SYSCO 股价上涨 2.4%；公司宣布调整董事会以推进人工智能转型。",
     "media_only": false,
     "image_url": null,
@@ -48697,59 +48769,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3395602"
-  },
-  {
-    "post": "Financial_Express/3395601",
-    "datetime": "2026-08-18T14:02:37+00:00",
-    "views": "95",
-    "text": "东兴证券：披露中金公司换股吸收合并申请问询函回复\n东兴证券公告称，2026 年 6 月 17 日公司收到上交所出具的关于中金公司换股吸收合并东兴证券、信达证券申请的审核问询函，目前中金公司、东兴证券、信达证券及相关中介机构已完成问询函相关问题回复，同步修订补充完善了本次交易的申请文件，相关回复文件已在上交所网站披露。本次交易尚需获得相应批准、核准、注册或同意后方可正式实施，能否实施以及最终实施的时间尚存在不确定性。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3395601"
-  },
-  {
-    "post": "Financial_Express/3395599",
-    "datetime": "2026-08-18T14:01:58+00:00",
-    "views": "96",
-    "text": "美国 30 年期国债收益率创 19 年新高\n今年美国联邦政府每月利息支出总体上升，从 1 月的 760 亿美元持续增加至 5 月的 1070 亿美元，此后一直维持在 1000 亿美元以上。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3395599"
-  },
-  {
-    "post": "Financial_Express/3395600",
-    "datetime": "2026-08-18T14:01:58+00:00",
-    "views": "96",
-    "text": "罗氏加拿大公司与泛加拿大制药联盟(PCPA)成功完成关于帕捷特®(帕妥珠单抗)用于侵袭性早期乳腺癌新辅助治疗的谈判。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3395600"
-  },
-  {
-    "post": "Financial_Express/3395597",
-    "datetime": "2026-08-18T14:01:18+00:00",
-    "views": "97",
-    "text": "REACH CAPITAL：完成 2.65 亿美元第五期基金募集，专注于人工智能时代拓展人类潜能的科技领域。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3395597"
-  },
-  {
-    "post": "Financial_Express/3395598",
-    "datetime": "2026-08-18T14:01:18+00:00",
-    "views": "97",
-    "text": "据称，LYNTRIS 将指导 IPO 定价至区间下半部分。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3395598"
-  },
-  {
-    "post": "Financial_Express/3395596",
-    "datetime": "2026-08-18T14:00:58+00:00",
-    "views": "93",
-    "text": "CHECKR 收购 Truv，交易条款未披露。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3395596"
   }
 ]
