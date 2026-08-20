@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3400958",
+    "datetime": "2026-08-20T13:02:37+00:00",
+    "views": "1",
+    "text": "高通(QCOM.O)任命 Sergio Buniac 为移动、计算及个人人工智能业务总经理。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3400958"
+  },
+  {
+    "post": "Financial_Express/3400957",
+    "datetime": "2026-08-20T13:02:18+00:00",
+    "views": "1",
+    "text": "ANTHROPIC 企业 AI 部门收购咨询公司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3400957"
+  },
+  {
+    "post": "Financial_Express/3400956",
+    "datetime": "2026-08-20T13:02:17+00:00",
+    "views": "1",
+    "text": "据 The Information：Anthropic 企业人工智能业务部门收购一家咨询公司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3400956"
+  },
+  {
+    "post": "Financial_Express/3400954",
+    "datetime": "2026-08-20T13:01:58+00:00",
+    "views": "1",
+    "text": "百时美施贵宝将使用 Chai AI 模型助力抗体发现。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3400954"
+  },
+  {
+    "post": "Financial_Express/3400955",
+    "datetime": "2026-08-20T13:01:58+00:00",
+    "views": "3",
+    "text": "高通任命塞尔吉奥・布尼亚克担任移动、计算及个人人工智能业务总经理。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3400955"
+  },
+  {
+    "post": "Financial_Express/3400952",
+    "datetime": "2026-08-20T13:01:39+00:00",
+    "views": "3",
+    "text": "景嘉微：上半年净利润亏损 1.08 亿元\n景嘉微(300474)8 月 20 日披露半年报，2026 年上半年，公司实现营业收入 3.34 亿元，同比增长 72.96%；归属于上市公司股东的净利润亏损 1.08 亿元，上年同期亏损 8761.01 万元。报告期内，公司稳步推进项目进程，从而实现营业收入同比增长；受产品研发投入加大、合并报表范围扩大等因素影响，公司净利润同比下降，短期净利润有所承压。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3400952"
+  },
+  {
+    "post": "Financial_Express/3400953",
+    "datetime": "2026-08-20T13:01:39+00:00",
+    "views": "3",
+    "text": "以色列机场工作人员经谈判后恢复全面运营。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3400953"
+  },
+  {
+    "post": "Financial_Express/3400951",
+    "datetime": "2026-08-20T13:01:19+00:00",
+    "views": "4",
+    "text": "中国能建发行央企首单绿色、科技创新（气候主题）债券\n据中国能建消息，8 月 19 日，中国能建在上海证券交易所成功发行一期绿色、科技创新（气候主题）可续期公司债券。本期债券发行规模 25 亿元，期限 5+N 年，票面利率 1.89%，较定价参考日估值降低 5BP，创建筑中央企业本部同期限同品类债券利率新低。该债券系市场首单“科技创新+绿色+气候主题”可续期公司债券，也是中央企业首单“气候主题”债券。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3400951"
+  },
+  {
     "post": "Financial_Express/3400949",
     "datetime": "2026-08-20T13:00:39+00:00",
-    "views": "1",
+    "views": "7",
     "text": "国内期货夜盘开盘\n铂连续涨 4.63%，线材连续涨 2.89%，液化石油气连续涨 2.44%，燃料油连续涨 2.36%，沥青连续涨 2.28%，钯连续涨 2.22%，多晶硅连续涨 2.20%，低硫燃料油连续涨 2.11%，纯苯连续涨 2.10%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3400950",
     "datetime": "2026-08-20T13:00:39+00:00",
-    "views": "1",
+    "views": "7",
     "text": "俄罗斯央行最新一周黄金外汇储备为 7556 亿美元，前一周为 7400 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3400948",
     "datetime": "2026-08-20T13:00:38+00:00",
-    "views": "1",
+    "views": "7",
     "text": "甲醇连续主力合约日内涨 1%，现报 2864.00 元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3400947",
     "datetime": "2026-08-20T13:00:37+00:00",
-    "views": "1",
+    "views": "7",
     "text": "俄罗斯至 8 月 14 日当周央行黄金和外汇储备 7556 亿美元，前值 7400 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3400946",
     "datetime": "2026-08-20T12:59:38+00:00",
-    "views": "4",
+    "views": "39",
     "text": "棉花期货因美国作物状况担忧升至两年高位。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3400945",
     "datetime": "2026-08-20T12:59:18+00:00",
-    "views": "5",
+    "views": "39",
     "text": "受美国作物状况担忧影响，棉花期货创下两年新高。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3400944",
     "datetime": "2026-08-20T12:58:17+00:00",
-    "views": "7",
+    "views": "41",
     "text": "瑞士国家银行资本获许参与阿拉伯国民银行的做市业务。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3400942",
     "datetime": "2026-08-20T12:57:39+00:00",
-    "views": "37",
+    "views": "40",
     "text": "颀中科技：披露回购股份前十大股东持股信息\n颀中科技公告称，公司董事会已审议通过以集中竞价交易方式回购股份的方案，现将董事会公告回购股份决议前一个交易日（2026 年 8 月 14 日）登记在册的前十大股东及前十大无限售条件股东持股信息予以披露。前十大股东中，合肥颀中科技控股有限公司持股 3.97 亿股，占总股本 33.38%；Chipmore Holding Company Limited 持股 3.02 亿股，占总股本 25.42%；合肥芯屏产业投资基金（有限合伙）持股 1.24 亿股，占总股本 10.39%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3400943",
     "datetime": "2026-08-20T12:57:39+00:00",
-    "views": "37",
+    "views": "40",
     "text": "沃尔玛 CEO：全年通胀水平处于 “相当低” 的区间。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3400940",
     "datetime": "2026-08-20T12:57:38+00:00",
-    "views": "6",
+    "views": "40",
     "text": "周黑鸭：上半年营收 14.61 亿元，同比增长 19.50%\n金十数据 8 月 20 日讯，周黑鸭(01458.HK)在港交所公告，上半年营收 14.61 亿元，同比增长 19.50%；母公司拥有人应占期内溢利 9149.6 万元，同比下降 15.2%；调整后基本每股盈利 0.05 元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3400941",
     "datetime": "2026-08-20T12:57:38+00:00",
-    "views": "39",
+    "views": "41",
     "text": "沃尔玛(WMT.N)CEO：全年通胀水平“相当低”。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3400939",
     "datetime": "2026-08-20T12:57:19+00:00",
-    "views": "41",
+    "views": "42",
     "text": "土耳其、沙特、埃及呼吁关注加沙、叙利亚和霍尔木兹海峡局势。",
     "media_only": false,
     "image_url": null,
@@ -48931,41 +49003,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3395475"
-  },
-  {
-    "post": "Financial_Express/3395474",
-    "datetime": "2026-08-18T13:02:38+00:00",
-    "views": "46",
-    "text": "eBay：正品保障服务现已覆盖售价 500 美元及以上的符合条件的美国及世界钱币，将专业鉴定服务拓展至全新收藏品类。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3395474"
-  },
-  {
-    "post": "Financial_Express/3395473",
-    "datetime": "2026-08-18T13:01:58+00:00",
-    "views": "47",
-    "text": "百度 CFO 何海建：年内主板转换生效后 将尽快纳入港股通\n金十数据 8 月 18 日讯，百度(09888.HK)CFO 何海建在百度财报电话会透露，百度计划于 8 月 26 日召开股东特别大会，就若干相关事项寻求股东批准，并预计主板转换将于今年内生效。电话会上，百度方面表示正在为转换后纳入南向港股通做准备，希望转换完成后能够尽早纳入。7 月，百度董事会已批准将香港上市地位由第二上市转换为双重主要上市，并向港交所递交申请，港交所已回复确认。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3395473"
-  },
-  {
-    "post": "Financial_Express/3395471",
-    "datetime": "2026-08-18T13:00:58+00:00",
-    "views": "47",
-    "text": "北交所官网更新管理层信息 李永春任总经理\n金十数据 8 月 18 日讯，北京证券交易所官网管理层信息已更新，李永春出任北交所总经理。李永春现任全国中小企业股份转让系统有限责任公司党委副书记，北京证券交易所副董事长、总经理。此前，李永春担任全国股转公司党委委员、副总经理，北京证券交易所副总经理。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3395471"
-  },
-  {
-    "post": "Financial_Express/3395472",
-    "datetime": "2026-08-18T13:00:58+00:00",
-    "views": "47",
-    "text": "欧洲央行称外汇储备减少 5 亿欧元，至 3484 亿欧元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3395472"
   }
 ]
