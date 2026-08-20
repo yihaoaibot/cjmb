@@ -1,5 +1,21 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-08-20T02:10:54.846032+00:00","clsvipUpdated":"2026-08-20T02:11:06.255205+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">8月20日</h2><div class="feed"><article class="item" data-search="商务部公告 2026 年第 36 号 公布对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛反倾销措施相关企业税率继承的决定
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-08-20T02:12:49.150899+00:00","clsvipUpdated":"2026-08-20T02:13:05.366313+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">8月20日</h2><div class="feed"><article class="item" data-search="中澳海关执法部门联合侦破一起跨国烟草走私案
+近日，中国海关缉私部门与澳大利亚边境执法部门开展联合执法行动，成功侦破一起跨国烟草走私案件。中澳执法部门共查获走私卷烟 9000 余万支，取得联合打击跨国烟草走私重大成果。（央视新闻）"><div class="time">10:12</div><div class="content"><div class="text" data-full="中澳海关执法部门联合侦破一起跨国烟草走私案
+近日，中国海关缉私部门与澳大利亚边境执法部门开展联合执法行动，成功侦破一起跨国烟草走私案件。中澳执法部门共查获走私卷烟 9000 余万支，取得联合打击跨国烟草走私重大成果。（央视新闻）" data-short="中澳海关执法部门联合侦破一起跨国烟草走私案
+近日，中国海关缉私部门与澳大利亚边境执法部门开展联合执法行动，成功侦破一起跨国烟草走私案件。中澳执法部门共查获走私卷烟 9000 余万支，取得联合打击跨国烟草走私重大成果。（央视新闻）">中澳海关执法部门联合侦破一起跨国烟草走私案
+近日，中国海关缉私部门与澳大利亚边境执法部门开展联合执法行动，成功侦破一起跨国烟草走私案件。中澳执法部门共查获走私卷烟 9000 余万支，取得联合打击跨国烟草走私重大成果。（央视新闻）</div></div></article><article class="item" data-search="商务部公布对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛反倾销措施相关企业税率继承的决定
+金十数据 8 月 20 日讯，2025 年 5 月 18 日，商务部发布 2025 年第 25 号公告，决定对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛征收反倾销税，实施期限为 5 年。其中，宝理塑料株式会社适用的反倾销税税率为 35.5%，台湾宝理塑胶股份有限公司适用的反倾销税税率为 3.8%。经审查，商务部认为，上述公司的申请符合要求并附相应证据。公司关于共聚聚甲醛的生产设备、生产能力、供应商关系、客户基础、销售渠道等在业务转移和更名前后均未发生实质变化。"><div class="time">10:12</div><div class="content"><div class="text" data-full="商务部公布对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛反倾销措施相关企业税率继承的决定
+金十数据 8 月 20 日讯，2025 年 5 月 18 日，商务部发布 2025 年第 25 号公告，决定对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛征收反倾销税，实施期限为 5 年。其中，宝理塑料株式会社适用的反倾销税税率为 35.5%，台湾宝理塑胶股份有限公司适用的反倾销税税率为 3.8%。经审查，商务部认为，上述公司的申请符合要求并附相应证据。公司关于共聚聚甲醛的生产设备、生产能力、供应商关系、客户基础、销售渠道等在业务转移和更名前后均未发生实质变化。" data-short="商务部公布对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛反倾销措施相关企业税率继承的决定
+金十数据 8 月 20 日讯，2025 年 5 月 18 日，商务部发布 2025 年第 25 号公告，决定对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛征收反倾销税，实施期限为 5 年。其中，宝理塑料株式会社适用的反倾销税税率为 35.5%，台湾宝理塑胶股份有...">商务部公布对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛反倾销措施相关企业税率继承的决定
+金十数据 8 月 20 日讯，2025 年 5 月 18 日，商务部发布 2025 年第 25 号公告，决定对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛征收反倾销税，实施期限为 5 年。其中，宝理塑料株式会社适用的反倾销税税率为 35.5%，台湾宝理塑胶股份有...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="宁波方正等成立智能科技公司，含云计算设备销售业务
+企查查 app 显示，近日，深圳市赛纬思智能科技有限公司成立，经营范围包含：互联网数据服务；大数据服务；云计算装备技术服务；云计算设备销售等。企查查股权穿透显示，该公司由宁波方正等共同持股。"><div class="time">10:11</div><div class="content"><div class="text" data-full="宁波方正等成立智能科技公司，含云计算设备销售业务
+企查查 APP 显示，近日，深圳市赛纬思智能科技有限公司成立，经营范围包含：互联网数据服务；大数据服务；云计算装备技术服务；云计算设备销售等。企查查股权穿透显示，该公司由宁波方正等共同持股。" data-short="宁波方正等成立智能科技公司，含云计算设备销售业务
+企查查 APP 显示，近日，深圳市赛纬思智能科技有限公司成立，经营范围包含：互联网数据服务；大数据服务；云计算装备技术服务；云计算设备销售等。企查查股权穿透显示，该公司由宁波方正等共同持股。">宁波方正等成立智能科技公司，含云计算设备销售业务
+企查查 APP 显示，近日，深圳市赛纬思智能科技有限公司成立，经营范围包含：互联网数据服务；大数据服务；云计算装备技术服务；云计算设备销售等。企查查股权穿透显示，该公司由宁波方正等共同持股。</div></div></article><article class="item" data-search="三星电子涨幅扩大至 10%，消息称将公布 100 万亿韩元股东回报计划。"><div class="time">10:11</div><div class="content"><div class="text" data-full="三星电子涨幅扩大至 10%，消息称将公布 100 万亿韩元股东回报计划。" data-short="三星电子涨幅扩大至 10%，消息称将公布 100 万亿韩元股东回报计划。">三星电子涨幅扩大至 10%，消息称将公布 100 万亿韩元股东回报计划。</div></div></article><article class="item" data-search="三星电子据悉将公布 100 万亿韩元股东回报计划
+据报道，三星电子计划在本月召开董事会会议后，最终确定并公布一项超过 100 万亿韩元的股东回报计划。 该公司计划将 50%的自由现金流用于股东回报，具体措施预计主要集中在现金分红上。三星计划在公告发布后继续考虑向股东返还额外款项，具体方案将取决于现金流和盈利情况。三星在上个月的财报发布会上表示，其董事会和管理层正在讨论包括派发特别股息在内的具体措施。"><div class="time">10:11</div><div class="content"><div class="text" data-full="三星电子据悉将公布 100 万亿韩元股东回报计划
+据报道，三星电子计划在本月召开董事会会议后，最终确定并公布一项超过 100 万亿韩元的股东回报计划。 该公司计划将 50%的自由现金流用于股东回报，具体措施预计主要集中在现金分红上。三星计划在公告发布后继续考虑向股东返还额外款项，具体方案将取决于现金流和盈利情况。三星在上个月的财报发布会上表示，其董事会和管理层正在讨论包括派发特别股息在内的具体措施。" data-short="三星电子据悉将公布 100 万亿韩元股东回报计划
+据报道，三星电子计划在本月召开董事会会议后，最终确定并公布一项超过 100 万亿韩元的股东回报计划。 该公司计划将 50%的自由现金流用于股东回报，具体措施预计主要集中在现金分红上。三星计划在公告发布后继续考虑向股东返还额外款项，具体方案将取决于现金流和盈利情况。三星在上个月的财报发布会上表示，其董事会和管理...">三星电子据悉将公布 100 万亿韩元股东回报计划
+据报道，三星电子计划在本月召开董事会会议后，最终确定并公布一项超过 100 万亿韩元的股东回报计划。 该公司计划将 50%的自由现金流用于股东回报，具体措施预计主要集中在现金分红上。三星计划在公告发布后继续考虑向股东返还额外款项，具体方案将取决于现金流和盈利情况。三星在上个月的财报发布会上表示，其董事会和管理...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="商务部公告 2026 年第 36 号 公布对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛反倾销措施相关企业税率继承的决定
 2026 年 4 月 1 日和 4 月 22 日，商务部收到株式会社大赛璐（daicel corporation）和台湾大赛璐工程塑胶股份有限公司（daicel hpp taiwan co., ltd.）提交的申请。上述公司请求分别继承宝理塑料株式会社（polyplastics co., ltd.）和台湾宝理塑胶股份有限公司（polyplastics taiwan co., ltd.）在对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛反倾销措施中适用的反倾销税税率和其他权利义务。商务部对此进行了调查并作出继承税率的决定。"><div class="time">10:09</div><div class="content"><div class="text" data-full="商务部公告 2026 年第 36 号 公布对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛反倾销措施相关企业税率继承的决定
 2026 年 4 月 1 日和 4 月 22 日，商务部收到株式会社大赛璐（DAICEL CORPORATION）和台湾大赛璐工程塑胶股份有限公司（DAICEL HPP TAIWAN CO., LTD.）提交的申请。上述公司请求分别继承宝理塑料株式会社（POLYPLASTICS CO., LTD.）和台湾宝理塑胶股份有限公司（POLYPLASTICS TAIWAN CO., LTD.）在对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛反倾销措施中适用的反倾销税税率和其他权利义务。商务部对此进行了调查并作出继承税率的决定。" data-short="商务部公告 2026 年第 36 号 公布对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛反倾销措施相关企业税率继承的决定
 2026 年 4 月 1 日和 4 月 22 日，商务部收到株式会社大赛璐（DAICEL CORPORATION）和台湾大赛璐工程塑胶股份有限公司（DAICEL HPP TAIWAN CO., LTD.）提交的申请。上述公司请求分别继...">商务部公告 2026 年第 36 号 公布对原产于美国、欧盟、台湾地区和日本的进口共聚聚甲醛反倾销措施相关企业税率继承的决定
@@ -817,51 +833,130 @@ TCL 科技公告称，公司拟发行股份及支付现金购买广东恒健投�
 受近期黄金价格反弹影响，多只含黄金策略理财产品净值创出历史新高，一度被市场冷落的“黄金+”理财产品再度引发投资者关注。在发行端，黄金主题理财产品近两个月处于沉寂状态，有理财机构人士透露，未来一段时间内不会发行黄金主题理财产品，现阶段抓住市场窗口期，在固收增强类产品的投资组合中灵活配置黄金相关资产。调研发现，目前理财公司对黄金“压舱石”的定位及其资产配置价值已形成较强共识，认为在多资产多策略的框架下，黄金是不可或缺的一环，后续将以更为灵活的节奏“逢低配置”。（中证报）"><div class="time">06:52</div><div class="content"><div class="text" data-full="黄金理财产品净值回暖，理财公司看重黄金压舱石价值
 受近期黄金价格反弹影响，多只含黄金策略理财产品净值创出历史新高，一度被市场冷落的“黄金+”理财产品再度引发投资者关注。在发行端，黄金主题理财产品近两个月处于沉寂状态，有理财机构人士透露，未来一段时间内不会发行黄金主题理财产品，现阶段抓住市场窗口期，在固收增强类产品的投资组合中灵活配置黄金相关资产。调研发现，目前理财公司对黄金“压舱石”的定位及其资产配置价值已形成较强共识，认为在多资产多策略的框架下，黄金是不可或缺的一环，后续将以更为灵活的节奏“逢低配置”。（中证报）" data-short="黄金理财产品净值回暖，理财公司看重黄金压舱石价值
 受近期黄金价格反弹影响，多只含黄金策略理财产品净值创出历史新高，一度被市场冷落的“黄金+”理财产品再度引发投资者关注。在发行端，黄金主题理财产品近两个月处于沉寂状态，有理财机构人士透露，未来一段时间内不会发行黄金主题理财产品，现阶段抓住市场窗口期，在固收增强类产品的投资组合中灵活配置黄金相关资产。调研发现，目...">黄金理财产品净值回暖，理财公司看重黄金压舱石价值
-受近期黄金价格反弹影响，多只含黄金策略理财产品净值创出历史新高，一度被市场冷落的“黄金+”理财产品再度引发投资者关注。在发行端，黄金主题理财产品近两个月处于沉寂状态，有理财机构人士透露，未来一段时间内不会发行黄金主题理财产品，现阶段抓住市场窗口期，在固收增强类产品的投资组合中灵活配置黄金相关资产。调研发现，目...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="“六张网”建设提速，上市公司掘金新机遇
-8 月 19 日，国家发展改革委副主任岳修虎主持召开“六张网”重大项目协调调度机制会，研究建立算力网、新型电网、新一代通信网“2+3+n”（2 家电网+3 家电信运营商+n 家算力相关企业）协调机制，加大统筹力度，形成工作合力，共同推动重大项目加快建设。近期，扎实推进“六张网”规划建设的政策信号持续释放。随着“规划图”逐步落地为“施工图”，相关产业链上下游公司频频中标项目、签约订单。专家认为，“六张网”建设投资空间巨大，将为相关产业增长提供长期确定性支撑。（中证报）"><div class="time">06:46</div><div class="content"><div class="text" data-full="“六张网”建设提速，上市公司掘金新机遇
-8 月 19 日，国家发展改革委副主任岳修虎主持召开“六张网”重大项目协调调度机制会，研究建立算力网、新型电网、新一代通信网“2+3+N”（2 家电网+3 家电信运营商+N 家算力相关企业）协调机制，加大统筹力度，形成工作合力，共同推动重大项目加快建设。近期，扎实推进“六张网”规划建设的政策信号持续释放。随着“规划图”逐步落地为“施工图”，相关产业链上下游公司频频中标项目、签约订单。专家认为，“六张网”建设投资空间巨大，将为相关产业增长提供长期确定性支撑。（中证报）" data-short="“六张网”建设提速，上市公司掘金新机遇
-8 月 19 日，国家发展改革委副主任岳修虎主持召开“六张网”重大项目协调调度机制会，研究建立算力网、新型电网、新一代通信网“2+3+N”（2 家电网+3 家电信运营商+N 家算力相关企业）协调机制，加大统筹力度，形成工作合力，共同推动重大项目加快建设。近期，扎实推进“六张网”规划建设的政策信号持续释放。随着“规划图”...">“六张网”建设提速，上市公司掘金新机遇
-8 月 19 日，国家发展改革委副主任岳修虎主持召开“六张网”重大项目协调调度机制会，研究建立算力网、新型电网、新一代通信网“2+3+N”（2 家电网+3 家电信运营商+N 家算力相关企业）协调机制，加大统筹力度，形成工作合力，共同推动重大项目加快建设。近期，扎实推进“六张网”规划建设的政策信号持续释放。随着“规划图”...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="“固收+”产品业绩急刹车，上半年绩优品种回撤明显
-经历了上半年的规模与业绩双丰收后，“固收+”产品 7 月以来遭遇明显回撤。截至 8 月 18 日，上半年回报率超 1%的产品里已有 50 只年内回报转负，上半年回报率超过 20%的 29 只产品 7 月以来全部出现负回报。本轮回撤主要源于权益部分科技板块大幅下跌，债券部分收益较薄，无法形成有效对冲。部分产品二季度大幅抬升股票仓位，且持仓集中于 ai 产业链，这一布局导致在科技板块回调阶段进一步放大了净值波动。业内人士认为，下半年市场风格有望趋于均衡，“固收+”产品的基金管理人应更加重视仓位与风险等级的匹配及跨资产配置能力。（中证报）"><div class="time">06:46</div><div class="content"><div class="text" data-full="“固收+”产品业绩急刹车，上半年绩优品种回撤明显
-经历了上半年的规模与业绩双丰收后，“固收+”产品 7 月以来遭遇明显回撤。截至 8 月 18 日，上半年回报率超 1%的产品里已有 50 只年内回报转负，上半年回报率超过 20%的 29 只产品 7 月以来全部出现负回报。本轮回撤主要源于权益部分科技板块大幅下跌，债券部分收益较薄，无法形成有效对冲。部分产品二季度大幅抬升股票仓位，且持仓集中于 AI 产业链，这一布局导致在科技板块回调阶段进一步放大了净值波动。业内人士认为，下半年市场风格有望趋于均衡，“固收+”产品的基金管理人应更加重视仓位与风险等级的匹配及跨资产配置能力。（中证报）" data-short="“固收+”产品业绩急刹车，上半年绩优品种回撤明显
-经历了上半年的规模与业绩双丰收后，“固收+”产品 7 月以来遭遇明显回撤。截至 8 月 18 日，上半年回报率超 1%的产品里已有 50 只年内回报转负，上半年回报率超过 20%的 29 只产品 7 月以来全部出现负回报。本轮回撤主要源于权益部分科技板块大幅下跌，债券部分收益较薄，无法形成有效对冲。部分产品二...">“固收+”产品业绩急刹车，上半年绩优品种回撤明显
-经历了上半年的规模与业绩双丰收后，“固收+”产品 7 月以来遭遇明显回撤。截至 8 月 18 日，上半年回报率超 1%的产品里已有 50 只年内回报转负，上半年回报率超过 20%的 29 只产品 7 月以来全部出现负回报。本轮回撤主要源于权益部分科技板块大幅下跌，债券部分收益较薄，无法形成有效对冲。部分产品二...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="解锁 ai 算力新场景，科创债发行持续扩容提质
-今年以来，科创债发行扩容提质，发行规模超 1.2 万亿元。专家表示，当前科创债产品创新持续加码、市场规模稳步攀升，精准对接科创领域融资需求，助力实体经济与科创产业发展。（中证报）"><div class="time">06:42</div><div class="content"><div class="text" data-full="解锁 AI 算力新场景，科创债发行持续扩容提质
-今年以来，科创债发行扩容提质，发行规模超 1.2 万亿元。专家表示，当前科创债产品创新持续加码、市场规模稳步攀升，精准对接科创领域融资需求，助力实体经济与科创产业发展。（中证报）" data-short="解锁 AI 算力新场景，科创债发行持续扩容提质
-今年以来，科创债发行扩容提质，发行规模超 1.2 万亿元。专家表示，当前科创债产品创新持续加码、市场规模稳步攀升，精准对接科创领域融资需求，助力实体经济与科创产业发展。（中证报）">解锁 AI 算力新场景，科创债发行持续扩容提质
-今年以来，科创债发行扩容提质，发行规模超 1.2 万亿元。专家表示，当前科创债产品创新持续加码、市场规模稳步攀升，精准对接科创领域融资需求，助力实体经济与科创产业发展。（中证报）</div></div></article><article class="item" data-search="阿根廷经济部长：阿根廷就贝尔格拉诺货运铁路网 50 年特许经营权启动招标。"><div class="time">06:40</div><div class="content"><div class="text" data-full="阿根廷经济部长：阿根廷就贝尔格拉诺货运铁路网 50 年特许经营权启动招标。" data-short="阿根廷经济部长：阿根廷就贝尔格拉诺货运铁路网 50 年特许经营权启动招标。">阿根廷经济部长：阿根廷就贝尔格拉诺货运铁路网 50 年特许经营权启动招标。</div></div></article><article class="item" data-search="8 月 20 日隔夜要闻一览
+受近期黄金价格反弹影响，多只含黄金策略理财产品净值创出历史新高，一度被市场冷落的“黄金+”理财产品再度引发投资者关注。在发行端，黄金主题理财产品近两个月处于沉寂状态，有理财机构人士透露，未来一段时间内不会发行黄金主题理财产品，现阶段抓住市场窗口期，在固收增强类产品的投资组合中灵活配置黄金相关资产。调研发现，目...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">8月20日 · VIP</h2> <div class="feed"> <article class="item" data-search="众筹项目：鑫鑫学习日记（知识星球）
 
-1、美国政府债务突破 40 万亿美元，十年间翻逾一倍。
-2、特朗普周三表示，对美联储（7 月）没有降息表示不满，坚称稳健的经济数据不应阻止央行采取更宽松的政策立场。
-3、美联储 7 月会议纪要显示：若通胀不降温，美联储官员认为需加息。
-4、美国拟在贸易协议中将加拿大汽车关税降至 15%。
-5、openai 首席财务官莎拉·弗莱尔周三在全体员工大会上告诉员工，将在 2027 年上市，但如果业务持续向好，也可能更早。
-6、moderna 股价飙升 170%，与默沙东合作的黑色素瘤疫苗在大规模试验中取得成功。
-7、marvell technology 股价上涨 9%，该公司达成了一项允许谷歌购买至多 122 亿美元公司股份的交易。
-8、伊朗央行行长：目前尚未有任何被冻结的资金解冻。
-9、美国财政部周三表示，将把政府债务回购规模提高一倍以上。"><div class="time">06:36</div><div class="content"><div class="text" data-full="8 月 20 日隔夜要闻一览
+作者：鑫鑫学习日记
 
-1、美国政府债务突破 40 万亿美元，十年间翻逾一倍。
-2、特朗普周三表示，对美联储（7 月）没有降息表示不满，坚称稳健的经济数据不应阻止央行采取更宽松的政策立场。
-3、美联储 7 月会议纪要显示：若通胀不降温，美联储官员认为需加息。
-4、美国拟在贸易协议中将加拿大汽车关税降至 15%。
-5、OpenAI 首席财务官莎拉·弗莱尔周三在全体员工大会上告诉员工，将在 2027 年上市，但如果业务持续向好，也可能更早。
-6、Moderna 股价飙升 170%，与默沙东合作的黑色素瘤疫苗在大规模试验中取得成功。
-7、Marvell Technology 股价上涨 9%，该公司达成了一项允许谷歌购买至多 122 亿美元公司股份的交易。
-8、伊朗央行行长：目前尚未有任何被冻结的资金解冻。
-9、美国财政部周三表示，将把政府债务回购规模提高一倍以上。" data-short="8 月 20 日隔夜要闻一览
+星球链接：https://wx.zsxq.com/group/48885115224518
 
-1、美国政府债务突破 40 万亿美元，十年间翻逾一倍。
-2、特朗普周三表示，对美联储（7 月）没有降息表示不满，坚称稳健的经济数据不应阻止央行采取更宽松的政策立场。
-3、美联储 7 月会议纪要显示：若通胀不降温，美联储官员认为需加息。
-4、美国拟在贸易协议中将加拿大汽车关税降至 15%。
-5、OpenAI 首席财务官莎拉·弗莱...">8 月 20 日隔夜要闻一览
+官方价：1998/年
 
-1、美国政府债务突破 40 万亿美元，十年间翻逾一倍。
-2、特朗普周三表示，对美联储（7 月）没有降息表示不满，坚称稳健的经济数据不应阻止央行采取更宽松的政策立场。
-3、美联储 7 月会议纪要显示：若通胀不降温，美联储官员认为需加息。
-4、美国拟在贸易协议中将加拿大汽车关税降至 15%。
-5、OpenAI 首席财务官莎拉·弗莱...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">8月20日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】龙头公司宣布重要技术突破，该细分领域具备快速量产+低成本优势，这家企业已打造先进技术平台
+众筹价：150/年（频道vip会员免费看）
+
+联系：@cn50etf
+
+👉关注众筹频道：https://t.me/zhongchou123"> <div class="time">10:12</div> <div class="content"> <div class="text">众筹项目：鑫鑫学习日记（知识星球）
+
+作者：鑫鑫学习日记
+
+星球链接：https://wx.zsxq.com/group/48885115224518
+
+官方价：1998/年
+
+众筹价：150/年（频道VIP会员免费看）
+
+联系：@cn50etf
+
+👉关注众筹频道：https://t.me/zhongchou123</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">10:12</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="[2026/8/19 9:59] 财联社vip文章分享: [ photo ]
+
+频道收费项目：频道vip
+
+包括内容：
+
+红宝书
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大v收费群盘中消息同步：
+
+vip资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+妖股刺客
+
+新生代作手
+邢者狩猎营
+g界孙悟空
+大师兄擒妖
+浮光
+天赢居
+
+清北游资
+时冲
+主升真经
+天机短线
+爱尔兰画眉
+震哥
+李梦尘
+
+红旗大街发哥
+游资胖大叔
+大周先生
+姆爷
+游资混江龙
+徐小明
+天地同力
+
+诗诗复利游
+a股通天宗
+
+先知
+林荫大道
+逻辑派a哥
+
+复盘哥
+鑫多多
+大将潘凤
+奶爸只做核心
+浮光知顶底
+
+借势而为
+来去由心
+嗅嗅掘金
+k神会
+
+费用：100元/月
+
+联系 @cn50etf
+[2026/8/19 10:00] 财联社vip文章分享: [ photo ]
+
+众筹项目：红宝书（市场逻辑精选）
+
+众筹价：120/年
+
+权益：一般当天晚上更新（免费版第二天早上9点更新）
+
+联系：@cn50etf"> <div class="time">10:12</div> <div class="content"> <div class="text">[2026/8/19 9:59] 财联社VIP文章分享: [ Photo ]
+
+频道收费项目：频道VIP
+
+包括内容：
+
+红宝书
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大V收费群盘中消息同步：
+
+VIP资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+妖股刺客
+
+新生代作手
+邢...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【盘中宝】龙头公司宣布重要技术突破，该细分领域具备快速量产+低成本优势，这家企业已打造先进技术平台
 
 #康希诺
 #键凯科技"> <div class="time">10:06</div> <div class="content"> <div class="text">【盘中宝】龙头公司宣布重要技术突破，该细分领域具备快速量产+低成本优势，这家企业已打造先进技术平台
