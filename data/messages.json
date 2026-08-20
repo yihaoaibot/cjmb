@@ -1,5 +1,14 @@
 [
   {
+    "post": "Financial_Express/3401551",
+    "datetime": "2026-08-20T18:00:57+00:00",
+    "views": "1",
+    "text": "Anthropic 拟改变数据留存政策 允许企业自行存储\n金十数据 8 月 21 日讯，Anthropic 计划让企业客户在使用其能力最强的人工智能模型时，对自身数据拥有更大的控制权。这将是该公司此前数据留存政策的一次重大转变。此前的政策旨在降低潜在网络攻击带来的风险。据一名知情人士透露，Anthropic 预计将在今年晚些时候推出一套新的安全系统。该系统仍将要求企业客户将数据保留 30 天，但客户可以选择将数据存储在自己的云计算基础设施上，而不是 Anthropic 的基础设施中。该人士表示，这套系统已经开发数月。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401551"
+  },
+  {
     "post": "Financial_Express/3401550",
     "datetime": "2026-08-20T17:58:57+00:00",
     "views": "1",
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3401548",
     "datetime": "2026-08-20T17:55:58+00:00",
-    "views": "17",
+    "views": "47",
     "text": "据称 Anthropic 最快将于 8 月底准备 IPO 申报文件。",
     "media_only": false,
     "image_url": null,
@@ -50821,14 +50830,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3395866"
-  },
-  {
-    "post": "Financial_Express/3395865",
-    "datetime": "2026-08-18T18:00:37+00:00",
-    "views": "121",
-    "text": "OpenAI 在 Hugging Face 数据泄露事件后调整人工智能安全机制。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3395865"
   }
 ]
