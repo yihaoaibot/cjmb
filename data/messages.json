@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3401548",
+    "datetime": "2026-08-20T17:55:58+00:00",
+    "views": "1",
+    "text": "据称 Anthropic 最快将于 8 月底准备 IPO 申报文件。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401548"
+  },
+  {
+    "post": "Financial_Express/3401547",
+    "datetime": "2026-08-20T17:55:57+00:00",
+    "views": "1",
+    "text": "消息人士：Anthropic 近期投资者简报会由首席财务官 Rao 主持。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401547"
+  },
+  {
+    "post": "Financial_Express/3401546",
+    "datetime": "2026-08-20T17:55:37+00:00",
+    "views": "10",
+    "text": "ANTHROPICO 预计将与 SPACEX 创纪录的 IPO 规模持平，或成为 IT 行业领头羊。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3401546"
+  },
+  {
     "post": "Financial_Express/3401545",
     "datetime": "2026-08-20T17:54:38+00:00",
-    "views": "1",
+    "views": "12",
     "text": "报道：Anthropic 计划调整高级 AI 的数据保留政策\nAnthropic PBC 计划允许企业客户在使用其最强大的人工智能模型时，对自身数据保持更大的控制权，这是对早期数据保留政策的重大转变——该政策最初旨在防范潜在的网络攻击。据知情人士透露，这家 Claude 聊天机器人开发商预计将于今年晚些时候推出一套新的安全系统，该系统仍将要求企业客户保留数据 30 天，但允许客户选择将数据保留在自有的云计算基础设施上，而非 Anthropic 的服务器上。这套系统已筹备数月。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3401544",
     "datetime": "2026-08-20T17:53:37+00:00",
-    "views": "9",
+    "views": "48",
     "text": "美国太平洋司令部：美方根据目前评估认为，有关事件不会对美国人员、美国领土或地区盟友构成直接威胁。美国仍将继续致力于保卫本土及地区盟友。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3401542",
     "datetime": "2026-08-20T17:53:17+00:00",
-    "views": "9",
+    "views": "50",
     "text": "美国太平洋司令部：已注意到近期导弹发射活动，正与盟友和伙伴保持密切沟通。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3401541",
     "datetime": "2026-08-20T17:51:37+00:00",
-    "views": "31",
+    "views": "68",
     "text": "美国太平洋司令部：事态发展不会对美国及其盟国构成威胁。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3401540",
     "datetime": "2026-08-20T17:51:17+00:00",
-    "views": "38",
+    "views": "46",
     "text": "美国太平洋司令部：事态发展不会对美国构成威胁。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3401539",
     "datetime": "2026-08-20T17:50:58+00:00",
-    "views": "42",
+    "views": "48",
     "text": "美国太平洋司令部：已获悉近期导弹发射事件。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3401538",
     "datetime": "2026-08-20T17:50:57+00:00",
-    "views": "42",
+    "views": "46",
     "text": "巴西国家石油公司（PETROBRAS）公告：“亚历山大·德·古马奥”号浮式生产储油卸油轮（FPSO）在梅罗盐下油田实现产量峰值，日产 18 万桶。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3401537",
     "datetime": "2026-08-20T17:50:37+00:00",
-    "views": "49",
+    "views": "54",
     "text": "商品期货交易委员会主席塞利格表示，如果《加密货币清晰法案》未能通过，工作人员将制定正式的加密货币市场结构规则。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3401536",
     "datetime": "2026-08-20T17:49:17+00:00",
-    "views": "61",
+    "views": "67",
     "text": "据日经新闻：随着东南亚市场疲软削弱长期以来的销售支撑，三菱汽车正将战略重心转向美国和澳大利亚市场。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3401535",
     "datetime": "2026-08-20T17:48:37+00:00",
-    "views": "64",
+    "views": "65",
     "text": "纽约联储 8 月 20 日常备回购操作未收到任何投标，操作规模为零。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3401532",
     "datetime": "2026-08-20T17:47:58+00:00",
-    "views": "66",
+    "views": "68",
     "text": "CIA：美国国家情报总监访问中央情报局总部。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3401530",
     "datetime": "2026-08-20T17:43:57+00:00",
-    "views": "95",
+    "views": "96",
     "text": "叙利亚库尔德领导人：库尔德武装部队和安全机构已完成与叙利亚政府体系的整合。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3401529",
     "datetime": "2026-08-20T17:42:57+00:00",
-    "views": "101",
+    "views": "102",
     "text": "标普 500 指数跌至盘中低点 0.6%。",
     "media_only": false,
     "image_url": null,
