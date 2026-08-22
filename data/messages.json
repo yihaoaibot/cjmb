@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3402559",
     "datetime": "2026-08-21T07:20:18+00:00",
-    "views": "974",
+    "views": "975",
     "text": "阿拉伯航空：自 2026 年 12 月 17 日起，开通沙迦出发每周四班直飞航班。",
     "media_only": false,
     "image_url": null,
@@ -13201,23 +13201,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3401086"
-  },
-  {
-    "post": "Financial_Express/3401085",
-    "datetime": "2026-08-20T14:18:38+00:00",
-    "views": "121",
-    "text": "光轮智能发布首个十万小时全模态人类行为开源数据集\n8 月 20 日，光轮智能在 2026 世界机器人大会期间发布首个十万小时级全模态人类行为开源数据集 EgoSuite-Open100K、RoboFinals 中试基地仿真评测基础设施和 RoboStack 真实场景部署与反馈平台，三者共同构成一套具身智能持续学习系统。其中，EgoSuite-Open100K 覆盖 128 类场景与超 1.5 万项任务，首批数据将在 Hugging Face 和 AtomGit 同步开源；RoboFinals 面向工业制造、物流仓储、电力巡检、特种作业、商业服务和医疗康养等业务提供大规模并发测评，补齐中试验证短板；RoboStack 则聚焦部署后的真实工作过程，支持现场失败样本自动采集回传与模型快速迭代。（界面新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3401085"
-  },
-  {
-    "post": "Financial_Express/3401084",
-    "datetime": "2026-08-20T14:16:58+00:00",
-    "views": "118",
-    "text": "德国 4 月以来约 1.4 万人死因关联高温\n德国罗伯特·科赫研究所 20 日发布的报告说，4 月 6 日至 8 月 9 日，德国约有 1.4 万人死于高温相关原因，相当于每 10 万人中就有 17 人因此身亡。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3401084"
   }
 ]
