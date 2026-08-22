@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3402546",
     "datetime": "2026-08-21T07:15:18+00:00",
-    "views": "319",
+    "views": "320",
     "text": "法国 8 月服务业 PMI 初值 48.4，预期 49.8，前值 49.6。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +146,7 @@
   {
     "post": "Financial_Express/3402547",
     "datetime": "2026-08-21T07:15:18+00:00",
-    "views": "328",
+    "views": "329",
     "text": "国债期货收盘\n 30 年期主力合约跌 0.03%， 10 年期主力合约涨 0.02%， 5 年期主力合约涨 0.01%， 2 年期主力合约跌 0.01%。\n❤1",
     "media_only": false,
     "image_url": null,
@@ -155,7 +155,7 @@
   {
     "post": "Financial_Express/3402545",
     "datetime": "2026-08-21T07:15:17+00:00",
-    "views": "307",
+    "views": "308",
     "text": "法国 8 月综合 PMI 初值 48.8，预期 49.5，前值 49.4。",
     "media_only": false,
     "image_url": null,
@@ -173,7 +173,7 @@
   {
     "post": "Financial_Express/3402544",
     "datetime": "2026-08-21T07:14:58+00:00",
-    "views": "306",
+    "views": "307",
     "text": "三星 SDI 拟以 4.45 万亿韩元出售三星显示的股份。",
     "media_only": false,
     "image_url": null,
@@ -16369,95 +16369,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3400727"
-  },
-  {
-    "post": "Financial_Express/3400725",
-    "datetime": "2026-08-20T12:02:38+00:00",
-    "views": "41",
-    "text": "现货黄金失守 4460 美元/盎司，日内跌 1.40%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3400725"
-  },
-  {
-    "post": "Financial_Express/3400726",
-    "datetime": "2026-08-20T12:02:38+00:00",
-    "views": "41",
-    "text": "钯金期货日内跌 1%，现报 1320.50 美元/盎司。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3400726"
-  },
-  {
-    "post": "Financial_Express/3400724",
-    "datetime": "2026-08-20T12:02:19+00:00",
-    "views": "42",
-    "text": "塔塔汽车乘用车部门：目前受损实际金额仍在核查当中，预计不会造成重大损失。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3400724"
-  },
-  {
-    "post": "Financial_Express/3400722",
-    "datetime": "2026-08-20T12:02:18+00:00",
-    "views": "9",
-    "text": "摩根士丹利：英国通胀压力没有总体数据显示的那么严重\n尽管 7 月整体通胀率从 6 月的 2.6%升至 2.9%，但英国 7 月服务业通胀年率从 6 月的 3.6%放缓至 3.4%。经济学家表示，英国私营部门工资增长疲软，核心服务业通胀继续放缓，而竞争激烈的零售环境限制了食品价格传导。持续的能源冲击可能提高间接和第二轮通胀风险。尽管如此，经济学家表示，较弱的工资增长和温和的服务业通胀可能吸收大部分压力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3400722"
-  },
-  {
-    "post": "Financial_Express/3400723",
-    "datetime": "2026-08-20T12:02:18+00:00",
-    "views": "9",
-    "text": "POWERCOMPUTE 披露，截至 2026 年 7 月 31 日，其持有的比特币财库规模为 315.1 枚比特币，价值 2020 万美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3400723"
-  },
-  {
-    "post": "Financial_Express/3400721",
-    "datetime": "2026-08-20T12:01:58+00:00",
-    "views": "12",
-    "text": "波罗的海干散货运价指数上涨 0.54%，至 2791 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3400721"
-  },
-  {
-    "post": "Financial_Express/3400720",
-    "datetime": "2026-08-20T12:01:57+00:00",
-    "views": "12",
-    "text": "塔塔汽车乘用车业务：萨南德工厂已恢复正常运营。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3400720"
-  },
-  {
-    "post": "Financial_Express/3400718",
-    "datetime": "2026-08-20T12:01:38+00:00",
-    "views": "14",
-    "text": "康龙化成：2026 年半年度净利润 7.5 亿元，同比增长 6.96%\n康龙化成公告，2026 年半年度营业收入 75.95 亿元，同比增长 17.92%；归属于上市公司股东的净利润 7.5 亿元，同比增长 6.96%；归属于上市公司股东的扣除非经常性损益的净利润 6.93 亿元，同比增长 8.87%。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3400718"
-  },
-  {
-    "post": "Financial_Express/3400719",
-    "datetime": "2026-08-20T12:01:38+00:00",
-    "views": "14",
-    "text": "墨西哥统计局初步估计，墨西哥经济在七月份同比增长 2.7%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3400719"
-  },
-  {
-    "post": "Financial_Express/3400717",
-    "datetime": "2026-08-20T12:00:57+00:00",
-    "views": "16",
-    "text": "纽约期金失守 4520 美元/盎司，日内跌 0.56%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3400717"
   }
 ]
