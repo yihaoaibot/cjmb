@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3406046",
+    "datetime": "2026-08-24T15:06:44+00:00",
+    "views": "1",
+    "text": "伊朗革命卫队发言人：美以这场冲突最重大的结果，是将薄弱点转移至敌方关键基础设施与战略资产之上。美国如今已清楚意识到，一旦对伊朗基础设施发动打击，本国能源咽喉要道及核心利益就将面临大规模战略打击。正是这一现实，使得敌方诸多既定目标无法实现，包括其试图通过重新打通霍尔木兹海峡来展示武力的图谋。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406046"
+  },
+  {
+    "post": "Financial_Express/3406045",
+    "datetime": "2026-08-24T15:06:23+00:00",
+    "views": "2",
+    "text": "英伟达：Nebius 成为首家采用英伟达 Groq 3 LPX 的 AI 云服务商。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406045"
+  },
+  {
+    "post": "Financial_Express/3406044",
+    "datetime": "2026-08-24T15:05:22+00:00",
+    "views": "8",
+    "text": "英伟达：SpaceXAI Starmind 卫星将使用新一代机架级代理型 AI 超级计算机与基础设施平台 Vera Rubin NVL72。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406044"
+  },
+  {
     "post": "Financial_Express/3406043",
     "datetime": "2026-08-24T15:04:02+00:00",
-    "views": "16",
+    "views": "49",
     "text": "英伟达：SpaceXAI 将在 Vera Rubin 平台上扩展 GROK。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3406042",
     "datetime": "2026-08-24T15:03:04+00:00",
-    "views": "50",
+    "views": "52",
     "text": "SpaceXAI 将采用英伟达 Vera CPU，以大规模加速智能体 AI。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3406041",
     "datetime": "2026-08-24T15:02:43+00:00",
-    "views": "53",
+    "views": "85",
     "text": "SpaceXAI 采用英伟达 Vera CPU 来加速 Agentic AI。英伟达旗下 AI 推理加速器 Groq 3 LPX 已全面投入生产。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3406040",
     "datetime": "2026-08-24T15:02:24+00:00",
-    "views": "53",
+    "views": "85",
     "text": "据港交所文件显示，上海移芯通信科技股份有限公司向港交所提交上市申请书。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3406039",
     "datetime": "2026-08-24T15:02:06+00:00",
-    "views": "57",
+    "views": "89",
     "text": "SpaceXAI 采用英伟达 Vera CPU 来加速 Agentic AI。英伟达称，SpaceXAI 将借助英伟达 Vera Rubin NVL72 系统发射 Starmind 人工智能卫星。英伟达旗下 AI 推理加速器 Groq 3 LPX 已全面投入生产。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3406038",
     "datetime": "2026-08-24T15:02:02+00:00",
-    "views": "57",
+    "views": "89",
     "text": "英伟达旗下 AI 推理加速器 Groq 3 LPX 已全面投入生产。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3406037",
     "datetime": "2026-08-24T15:01:23+00:00",
-    "views": "90",
+    "views": "92",
     "text": "英伟达：SpaceXAI 将借助英伟达 Vera Rubin NVL72 系统发射 Starmind 人工智能卫星。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3406036",
     "datetime": "2026-08-24T15:00:39+00:00",
-    "views": "96",
+    "views": "97",
     "text": "乙二醇夜盘收涨约 3.2%，沥青、燃油至少涨约 2.5%，铁矿石涨约 0.3%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3406035",
     "datetime": "2026-08-24T15:00:22+00:00",
-    "views": "96",
+    "views": "97",
     "text": "夜盘期货收盘\n乙二醇连续涨 3.17%，沥青连续涨 3.13%，PVC 连续跌 2.63%，燃料油连续涨 2.46%，短纤连续涨 1.97%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3406028",
     "datetime": "2026-08-24T14:52:45+00:00",
-    "views": "180",
+    "views": "181",
     "text": "8 月 24 日，小米正式发布玄戒 O3 芯片。新一代玄戒 O3 芯片是全球首个支持 LPDDR6 内存的旗舰移动处理器（SoC）。记者从产业链人士处获悉，国内存储行业龙头长鑫存储是小米玄戒 O3 的 LPDDR6 内存核心合作伙伴。（21 世纪经济报道）",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3406027",
     "datetime": "2026-08-24T14:51:03+00:00",
-    "views": "182",
+    "views": "183",
     "text": "特朗普媒体 CEO 为售卖总统帖文优先访问权辩护，称签约客户数量进一步增加。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3406026",
     "datetime": "2026-08-24T14:50:42+00:00",
-    "views": "180",
+    "views": "181",
     "text": "阿里巴巴美股转涨，此前蔡崇信、吴泳铭出手增持 1.2 亿港元阿里股票\n阿里巴巴美股转涨。此前阿里巴巴夜盘一度下跌逾 5%，受管理层增持利好提振，开盘后转涨报 119.36 美元。",
     "media_only": false,
     "image_url": null,
