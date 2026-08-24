@@ -1,9 +1,72 @@
 [
   {
+    "post": "Financial_Express/3405956",
+    "datetime": "2026-08-24T14:12:43+00:00",
+    "views": "1",
+    "text": "费城半导体指数下跌 3.8%，触及三周低点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3405956"
+  },
+  {
+    "post": "Financial_Express/3405955",
+    "datetime": "2026-08-24T14:12:42+00:00",
+    "views": "1",
+    "text": "英国首相伯纳姆：需要采取更多措施来压缩俄罗斯的石油和液化天然气出口。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3405955"
+  },
+  {
+    "post": "Financial_Express/3405954",
+    "datetime": "2026-08-24T14:12:23+00:00",
+    "views": "1",
+    "text": "英国首相伯纳姆：呼吁英国工业界支持“FREYJA”项目，为拦截弹道导弹提供一种成本低于美国“爱国者”系统的替代方案。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3405954"
+  },
+  {
+    "post": "Financial_Express/3405953",
+    "datetime": "2026-08-24T14:11:42+00:00",
+    "views": "3",
+    "text": "ZOOMINFO 宣布在 Salesforce 的 AgentExchange 上更新 ZOOMINFO MCP。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3405953"
+  },
+  {
+    "post": "Financial_Express/3405951",
+    "datetime": "2026-08-24T14:11:23+00:00",
+    "views": "3",
+    "text": "药明康德：公司生物学业务板块 DEL 平台近期遭遇网络安全事件\n金十数据 8 月 24 日讯，药明康德公告，公司生物学业务板块 DEL 平台近期遭遇网络安全事件，已启动应急回应机制并聘请外部网络安全专家及法律顾问展开全面调查。目前公司信息技术系统运作正常，DEL 平台安全性受控，尚未发现资料被公开、滥用或不当利用，运营及服务能力未受影响。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3405951"
+  },
+  {
+    "post": "Financial_Express/3405952",
+    "datetime": "2026-08-24T14:11:23+00:00",
+    "views": "3",
+    "text": "美国国防部：与 US SIIE 公司达成协议，将建立稀土元素供应链。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3405952"
+  },
+  {
+    "post": "Financial_Express/3405950",
+    "datetime": "2026-08-24T14:11:02+00:00",
+    "views": "3",
+    "text": "美国国防部：美国将向 US SIIE 公司投资 7.5 亿美元，以推动稀土计划。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3405950"
+  },
+  {
     "post": "Financial_Express/3405949",
     "datetime": "2026-08-24T14:10:24+00:00",
-    "views": "2",
-    "text": "美国将向 US SIIE LLC 投资 7.5 亿美元，用于稀土项目。",
+    "views": "33",
+    "text": "美国：将向 US Siie LLC.投资 7.5 亿美元，用于稀土项目。\n这笔交易将用于针对稀土要素打造供应链。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3405949"
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3405948",
     "datetime": "2026-08-24T14:09:43+00:00",
-    "views": "2",
+    "views": "33",
     "text": "药明康德：DEL 平台遭遇网络安全事件 目前运营正常\n药明康德公告称，公司生物学业务板块的 DNA Encoded Library 平台近期遭遇一起网络安全事件。事件发生后公司立即启动应急回应机制，聘请外部网络安全专家及法律顾问共同处理并开展全面调查。截至目前，公司信息技术系统均运作正常，DEL 平台安全性受控，尚未发现资料被公开、滥用或不当利用的证据，公司已主动联系受影响客户开展沟通，运营一切正常，服务能力未受影响。公司正进一步加强网络系统安全防护措施，将持续关注后续进展。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3405946",
     "datetime": "2026-08-24T14:08:43+00:00",
-    "views": "32",
+    "views": "33",
     "text": "美国将向美国 SIIE LLC 投资 7.5 亿美元，用于稀土计划。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3405947",
     "datetime": "2026-08-24T14:08:43+00:00",
-    "views": "32",
+    "views": "33",
     "text": "美元掉期利差扩大至 2 月以来最高水平，美国国债表现优于其他资产。",
     "media_only": false,
     "image_url": null,
