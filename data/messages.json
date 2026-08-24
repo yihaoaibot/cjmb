@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3406353",
+    "datetime": "2026-08-24T19:16:42+00:00",
+    "views": "1",
+    "text": "Gap 股价放量上涨，最新涨 3.2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406353"
+  },
+  {
+    "post": "Financial_Express/3406352",
+    "datetime": "2026-08-24T19:16:34+00:00",
+    "views": "1",
+    "text": "周一（8 月 24 日）纽约尾盘，彭博谷物分类指数跌 0.03%，报 33.1748 点。\nCBOT 玉米期货涨 1.28%，CBOT 小麦期货涨 0.21%。\nCBOT 大豆期货跌 1.23%，报 12.2550 美元/蒲式耳，豆粕期货涨 0.80%，豆油期货跌 3.16%。\nCBOT 瘦肉猪期货涨 0.31%，活牛期货跌 1.97%，饲牛期货跌 1.71%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406352"
+  },
+  {
+    "post": "Financial_Express/3406351",
+    "datetime": "2026-08-24T19:16:23+00:00",
+    "views": "1",
+    "text": "美国防长赫格塞思：特朗普在第一任期重建了我们的军队。他正于第二任期再度推进军队重建工作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406351"
+  },
+  {
     "post": "Financial_Express/3406350",
     "datetime": "2026-08-24T19:13:22+00:00",
-    "views": "17",
+    "views": "53",
     "text": "亚马逊云科技（AWS）：AWS Glue 6.0 版本升级后，其定价降低了 30%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3406349",
     "datetime": "2026-08-24T19:12:42+00:00",
-    "views": "20",
+    "views": "53",
     "text": "亚马逊云科技：推出 AWS Glue 6.0，实现更快、更具成本效益的数据集成。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3406348",
     "datetime": "2026-08-24T19:10:22+00:00",
-    "views": "22",
+    "views": "59",
     "text": "以色列总理内塔尼亚胡称赞特朗普与贝森特出台针对伊朗政权的最新制裁。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3406347",
     "datetime": "2026-08-24T19:08:06+00:00",
-    "views": "59",
+    "views": "60",
     "text": "WTI 10 月原油期货收跌 2.05 美元，跌幅超过 2.35%，报 85.01 美元/桶。\n布伦特 10 月原油期货收跌 2.22 美元，跌幅 2.35%，报 92.17 美元/桶。\n中东 Abu Dhabi Murban 原油期货跌 2.23%，报 101.18 美元/桶。\nNYMEX 9 月天然气期货收报 2.7820 美元/百万英热单位。\nNYMEX 9 月汽油期货收报 3.2708 美元/加仑，NYMEX 9 月取暖油期货收报 4.2677 美元/加仑。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3406346",
     "datetime": "2026-08-24T19:07:42+00:00",
-    "views": "59",
+    "views": "60",
     "text": "美国财政部宣布成立量子就绪特别工作组，助力向量子安全技术过渡。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3406345",
     "datetime": "2026-08-24T19:07:22+00:00",
-    "views": "59",
+    "views": "60",
     "text": "美国财政部宣布成立量子技术准备工作组。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3406344",
     "datetime": "2026-08-24T19:06:11+00:00",
-    "views": "62",
+    "views": "64",
     "text": "美国财政部宣布组建量子就绪工作组。\n工作组将帮助转化量子安全技术。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3406343",
     "datetime": "2026-08-24T19:06:03+00:00",
-    "views": "60",
+    "views": "62",
     "text": "OpenAI：GPT-5.6 模型系列现已在 Refinitiv Knowledge.IQ（KIRO）平台上线。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3406342",
     "datetime": "2026-08-24T19:06:02+00:00",
-    "views": "61",
+    "views": "63",
     "text": "路透社/益普索调查显示，随着美国民众对伊朗战争的支持率下降，特朗普的支持率维持在历史低位。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3406341",
     "datetime": "2026-08-24T19:05:25+00:00",
-    "views": "60",
+    "views": "62",
     "text": "路透社与益普索联合开展的民调显示，美国民众对伊朗战争的支持率已降至 31%，为冲突爆发初期以来的最低水平。\n特朗普支持率维持在 33%，持平其总统任期最低水平。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3406336",
     "datetime": "2026-08-24T19:04:23+00:00",
-    "views": "65",
+    "views": "95",
     "text": "路透社与益普索联合开展的民调显示，美国民众对伊朗战争的支持率已降至 31%，为冲突爆发初期以来的最低水平。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3406337",
     "datetime": "2026-08-24T19:04:23+00:00",
-    "views": "64",
+    "views": "95",
     "text": "路透社/益普索调查发现，特朗普支持率维持在 33%，持平其总统任期最低水平。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3406335",
     "datetime": "2026-08-24T19:04:22+00:00",
-    "views": "63",
+    "views": "64",
     "text": "路透社/益普索调查显示，美国公众对伊朗战争的支持率降至 31%，为冲突初期以来的最低水平。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3406334",
     "datetime": "2026-08-24T19:03:42+00:00",
-    "views": "63",
+    "views": "93",
     "text": "在岸人民币兑美元北京时间 03:00 收报 6.7224，较上一交易日夜盘收盘跌 9 点。",
     "media_only": false,
     "image_url": null,
