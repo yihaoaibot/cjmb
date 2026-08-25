@@ -1,9 +1,18 @@
 [
   {
+    "post": "Financial_Express/3409419",
+    "datetime": "2026-08-25T14:21:22+00:00",
+    "views": "33",
+    "text": "OpenAI：自研 Jalapeno 芯片测试中击败英伟达 GB300\n金十数据 8 月 25 日讯，OpenAI 表示，其新款 Jalapeno 芯片在测试中的表现优于英伟达(NVDA.O)目前的产品线，凸显出该公司自主研发 AI 处理器方面取得的进展。OpenAI 芯片业务负责人理查德·何（Richard Ho）表示，在测试中，Jalapeno 处理器在两个项目中领先：单位功耗所能处理的 AI 工作量，以及返回响应的速度。此次测试将该芯片与英伟达 GB300 进行对比，后者是此次测试所采用的公开基准测试系统中表现最领先产品。OpenAI 与博通(AVGO.O)合作开发了 Jalapeno。博通为众多客户生产定制芯片。两家公司去年宣布达成合作，并于今年 6 月强调了该处理器的开发速度，称其在创纪录的时间内完成开发。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3409419"
+  },
+  {
     "post": "Financial_Express/3409418",
     "datetime": "2026-08-25T14:19:18+00:00",
-    "views": "33",
-    "text": "美国波士顿联储主席 Susan Collins：当前货币政策处于准备就绪状态，政策具有轻微的限制性。",
+    "views": "34",
+    "text": "美国波士顿联储主席 Susan Collins：当前货币政策处于准备就绪状态（定位恰当），政策具有轻微的限制性。\n若要维持利率政策不变，需要更多关于通胀回落的证据。\n若没有出现更多的通胀放缓证据，迅速收紧货币政策将是适宜的。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3409418"
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3409417",
     "datetime": "2026-08-25T14:19:02+00:00",
-    "views": "33",
+    "views": "34",
     "text": "以色列国防军参谋长：以色列国防军不会允许加沙和黎巴嫩的敌人重建家园。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3409416",
     "datetime": "2026-08-25T14:18:07+00:00",
-    "views": "33",
+    "views": "64",
     "text": "美国波士顿联储主席 Susan Collins：新冲击或强劲的增速都对通胀构成上行风险。\n当前密切留意通胀预期。",
     "media_only": false,
     "image_url": null,
@@ -29,8 +38,8 @@
   {
     "post": "Financial_Express/3409415",
     "datetime": "2026-08-25T14:17:42+00:00",
-    "views": "33",
-    "text": "俄方：在乌克兰部署北约军队不可接受\n俄罗斯总统新闻秘书佩斯科夫 25 日说，俄罗斯已多次声明，北约国家在乌克兰领土部署军队对俄罗斯而言“不可接受”。据塔斯社报道，佩斯科夫上述表态是在针对“志愿联盟”先前发布声明的内容。法国和英国主导的“志愿联盟”在基辅召开会议后发布声明说，计划“在建立可靠的停火机制后”向乌克兰派遣多国军事力量。拟议部队的具体人数未公布。（新华社）",
+    "views": "64",
+    "text": "俄方：在乌克兰部署北约军队不可接受\n俄罗斯总统新闻秘书佩斯科夫 25 日说，俄罗斯已多次声明，北约国家在乌克兰领土部署军队对俄罗斯而言“不可接受”。据塔斯社报道，佩斯科夫上述表态是在针对“志愿联盟”先前发布声明的内容。法国和英国主导的“志愿联盟”在基辅召开会议后发布声明说，计划“在建立可靠的停火机制后”向乌克兰派遣多国军事力量。拟议部队的具体人数未公布。（新华社）\n👎1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3409415"
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3409414",
     "datetime": "2026-08-25T14:17:01+00:00",
-    "views": "34",
+    "views": "64",
     "text": "美国波士顿联储主席 Susan Collins：仍然“特别”关切通胀。\n劳动力市场总体平衡，但仍然存在风险。\n寻找通胀可持续回归 2%的证据。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3409413",
     "datetime": "2026-08-25T14:16:42+00:00",
-    "views": "34",
+    "views": "64",
     "text": "据港交所文件显示，山东卓创资讯股份有限公司向港交所提交上市申请书，独家保荐人为平安证券（香港）。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3409410",
     "datetime": "2026-08-25T14:14:42+00:00",
-    "views": "65",
+    "views": "95",
     "text": "据美国哥伦比亚广播公司（CBS）：美国中央情报局局长拉克利夫乘坐 C-17 飞机前往俄罗斯。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3409408",
     "datetime": "2026-08-25T14:13:42+00:00",
-    "views": "67",
+    "views": "97",
     "text": "柯林斯：若无持续通胀放缓的证据，则\"很快\"加息是合适的。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3409407",
     "datetime": "2026-08-25T14:13:22+00:00",
-    "views": "67",
+    "views": "97",
     "text": "美联储柯林斯：在没有持续的通胀回落证据的情况下，适合“尽快”提高利率。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3409406",
     "datetime": "2026-08-25T14:13:03+00:00",
-    "views": "67",
+    "views": "97",
     "text": "美国中央情报局拉特克利夫今日赴俄罗斯参加莫斯科会谈。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3409405",
     "datetime": "2026-08-25T14:12:42+00:00",
-    "views": "68",
+    "views": "98",
     "text": "柯林斯：维持当前政策利率将需要通胀正在回落的\"持续证据\"。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3409404",
     "datetime": "2026-08-25T14:12:23+00:00",
-    "views": "68",
+    "views": "98",
     "text": "一名在韩失踪中国公民被确认遇害 嫌疑人已被捕\n中国驻釜山总领事馆 25 日说，经同韩国警方核实，一名失踪数日的中国女留学生当天被发现死亡，警方已以涉嫌杀人罪逮捕一名 30 多岁男子。总领馆已要求韩国警方立即开展全面调查，依法严惩凶手。总领馆将全力为家属处理善后事宜提供领事协助。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3409401",
     "datetime": "2026-08-25T14:11:23+00:00",
-    "views": "68",
+    "views": "69",
     "text": "宾夕法尼亚州：该州 35 年来首次出现麻疹相关死亡病例。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +173,7 @@
   {
     "post": "Financial_Express/3409400",
     "datetime": "2026-08-25T14:11:22+00:00",
-    "views": "68",
+    "views": "69",
     "text": "柯林斯：将关注生产率是否有助于抵消通胀、油价以及通胀预期变化的影响。",
     "media_only": false,
     "image_url": null,
