@@ -1,8 +1,107 @@
 [
   {
+    "post": "Financial_Express/3406817",
+    "datetime": "2026-08-25T01:30:45+00:00",
+    "views": "1",
+    "text": "深成指、创业板指均跌超 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406817"
+  },
+  {
+    "post": "Financial_Express/3406816",
+    "datetime": "2026-08-25T01:30:44+00:00",
+    "views": "1",
+    "text": "澳大利亚储备银行（RBA）：现金利率处于基于模型和市场估算的中性利率区间上限，但估算结果存在不确定性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406816"
+  },
+  {
+    "post": "Financial_Express/3406814",
+    "datetime": "2026-08-25T01:30:43+00:00",
+    "views": "1",
+    "text": "澳大利亚储备银行（RBA）：通胀上行风险包括油价、成本压力传导以及数据中心热潮。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406814"
+  },
+  {
+    "post": "Financial_Express/3406815",
+    "datetime": "2026-08-25T01:30:43+00:00",
+    "views": "1",
+    "text": "澳大利亚储备银行（RBA）：更快压低通胀对劳动力市场造成的损害，可能比最初预想的更小。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406815"
+  },
+  {
+    "post": "Financial_Express/3406813",
+    "datetime": "2026-08-25T01:30:42+00:00",
+    "views": "1",
+    "text": "澳洲联储会议纪要：如果（通胀）上行风险显现，委员会准备加息。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406813"
+  },
+  {
+    "post": "Financial_Express/3406812",
+    "datetime": "2026-08-25T01:30:36+00:00",
+    "views": "1",
+    "text": "国债期货开盘，30 年期主力合约涨 0.09%，10 年期主力合约涨 0.01%，5 年期主力合约跌 0.01%，2 年期主力合约涨 0.00%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406812"
+  },
+  {
+    "post": "Financial_Express/3406810",
+    "datetime": "2026-08-25T01:30:24+00:00",
+    "views": "1",
+    "text": "创业板指跌 1.17%，现报 3391.624 点；上证指数跌 0.42%，现报 3865.725 点；深证成指跌 0.91%，现报 13668.211 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406810"
+  },
+  {
+    "post": "Financial_Express/3406811",
+    "datetime": "2026-08-25T01:30:24+00:00",
+    "views": "1",
+    "text": "深证成指跌 1.01%，现报 13655.613 点；上证指数跌 0.43%，现报 3865.203 点；创业板指跌 1.39%，现报 3384.198 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406811"
+  },
+  {
+    "post": "Financial_Express/3406808",
+    "datetime": "2026-08-25T01:30:23+00:00",
+    "views": "1",
+    "text": "股指期货早盘开盘\n 中证 1000 指数期货连续涨 0.02%， 沪深 300 指数期货连续跌 0.03%， 中证 500 指数期货连续涨 0.12%， 上证 50 指数期货连续涨 0.01%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406808"
+  },
+  {
+    "post": "Financial_Express/3406809",
+    "datetime": "2026-08-25T01:30:23+00:00",
+    "views": "1",
+    "text": "国债期货开盘\n 30 年期主力合约涨 0.08%， 10 年期主力合约基本持平， 5 年期主力合约基本持平， 2 年期主力合约基本持平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406809"
+  },
+  {
+    "post": "Financial_Express/3406807",
+    "datetime": "2026-08-25T01:30:22+00:00",
+    "views": "1",
+    "text": "科创 50 日内跌幅达 1.11%，成分股中，中科飞测跌 4.60%，华润微跌 3.54%，沪硅产业跌 2.95%，源杰科技跌 2.66%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406807"
+  },
+  {
     "post": "Financial_Express/3406806",
     "datetime": "2026-08-25T01:28:23+00:00",
-    "views": "1",
+    "views": "33",
     "text": "韩国将石脑油供应限制措施延长至 1 月 26 日。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +110,7 @@
   {
     "post": "Financial_Express/3406805",
     "datetime": "2026-08-25T01:27:24+00:00",
-    "views": "35",
+    "views": "66",
     "text": "韩国财长：韩国将延长紧急措施以保护石脑油供应。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +119,7 @@
   {
     "post": "Financial_Express/3406804",
     "datetime": "2026-08-25T01:27:23+00:00",
-    "views": "35",
+    "views": "66",
     "text": "高凯技术上市首日开盘大涨超 240%\n金十数据 8 月 25 日讯，N 高凯上市首日开盘涨 240.61%，现报 209 元，该股发行价为 61.36 元。按开盘价计算，投资者中一签（500 股）浮盈约 7.38 万元。",
     "media_only": false,
     "image_url": null,
