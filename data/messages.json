@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3409237",
+    "datetime": "2026-08-25T13:02:28+00:00",
+    "views": "9",
+    "text": "2026 年上半年，蚂蚁基金营业收入为 129.8 亿元，同比增长 40%，净利润为 12.1 亿元，同比增幅为 178%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3409237"
+  },
+  {
+    "post": "Financial_Express/3409236",
+    "datetime": "2026-08-25T13:02:25+00:00",
+    "views": "9",
+    "text": "美国 6 月 S&P/CS10 座大城市房价指数年率 2.94%，前值 2.38%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3409236"
+  },
+  {
+    "post": "Financial_Express/3409233",
+    "datetime": "2026-08-25T13:02:24+00:00",
+    "views": "9",
+    "text": "美国 6 月 S&P/CS20 座大城市未季调房价指数月率 0.4%，前值 0.9%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3409233"
+  },
+  {
+    "post": "Financial_Express/3409234",
+    "datetime": "2026-08-25T13:02:24+00:00",
+    "views": "9",
+    "text": "美国 6 月 S&P/CS20 座大城市季调后房价指数月率 0.2%，预期 0.1%，前值 0.15%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3409234"
+  },
+  {
+    "post": "Financial_Express/3409235",
+    "datetime": "2026-08-25T13:02:24+00:00",
+    "views": "9",
+    "text": "美国 6 月 S&P/CS10 座大城市未季调房价指数月率 0.52%，前值 0.94%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3409235"
+  },
+  {
+    "post": "Financial_Express/3409231",
+    "datetime": "2026-08-25T13:02:23+00:00",
+    "views": "9",
+    "text": "美国 6 月 FHFA 房价指数 442.5，前值 442.4。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3409231"
+  },
+  {
+    "post": "Financial_Express/3409232",
+    "datetime": "2026-08-25T13:02:23+00:00",
+    "views": "9",
+    "text": "美国 6 月 FHFA 房价指数年率 2.3%，前值由 2.2%修正为 2.4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3409232"
+  },
+  {
+    "post": "Financial_Express/3409230",
+    "datetime": "2026-08-25T13:02:19+00:00",
+    "views": "10",
+    "text": "苹果推出新款 Mac mini，搭载 M6 及 M5 Pro 芯片。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3409230"
+  },
+  {
     "post": "Financial_Express/3409229",
     "datetime": "2026-08-25T13:00:14+00:00",
-    "views": "18",
+    "views": "39",
     "text": "夜盘期货开盘，燃油、低硫燃油跌逾 5%，乙二醇跌逾 4%，原油跌逾 3%，沥青、甲醇、丙烯、苯乙烯、塑料、聚丙烯、液化石油气、对二甲苯、PTA 跌逾 2%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3409228",
     "datetime": "2026-08-25T13:00:02+00:00",
-    "views": "20",
+    "views": "38",
     "text": "美国 6 月 S&P/CS20 座大城市房价指数同比 2.1%，预期 1.8%，前值 1.63%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3409227",
     "datetime": "2026-08-25T13:00:01+00:00",
-    "views": "20",
+    "views": "37",
     "text": "美国 6 月 FHFA 房价指数环比 0%，预期 0.2%，前值 0.3%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3409226",
     "datetime": "2026-08-25T13:00:00+00:00",
-    "views": "20",
+    "views": "37",
     "text": "美国 6 月 S&P/CS20 座大城市季调后房价指数环比 0.24%，预期 0.1%，前值 0.15%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3409225",
     "datetime": "2026-08-25T12:59:02+00:00",
-    "views": "25",
+    "views": "41",
     "text": "金博股份：拟向关联方出售不动产 对价 6967.83 万元\n金博股份公告称，公司拟向关联方湖南金力高新科技股份有限公司出售位于长沙市高新区的部分综合生产用房不动产，对应工业用地土地使用权面积 12359.00 平方米、建筑面积 15907.86 平方米，交易对价 6967.83 万元（不含增值税），较标的资产账面价值增值 183.97 万元，增值率 2.71%。本次交易构成关联交易，不构成重大资产重组，已经公司董事会审议通过，尚需提交公司 2026 年第一次临时股东会审议，交易最终完成存在不确定性。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3409224",
     "datetime": "2026-08-25T12:58:42+00:00",
-    "views": "23",
+    "views": "39",
     "text": "俄罗斯称，俄罗斯控制的扎波罗热核电站有两名员工在乌克兰袭击中受伤。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3409223",
     "datetime": "2026-08-25T12:58:23+00:00",
-    "views": "22",
+    "views": "36",
     "text": "首创证券：上半年净利润 6.72 亿元 同比增长 37.01%\n金十数据 8 月 25 日讯，首创证券公告，上半年公司实现营业收入 15.44 亿元，同比增长 20.25%；归属于上市公司股东的净利润 6.72 亿元，同比增长 37.01%；基本每股收益 0.24 元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3409222",
     "datetime": "2026-08-25T12:58:02+00:00",
-    "views": "20",
+    "views": "34",
     "text": "泽连斯基：英法同意向乌提供“风暴阴影”导弹生产许可\n当地时间 8 月 25 日，乌克兰总统泽连斯基在基辅与爱沙尼亚总统卡里斯会晤时证实，英国、法国已正式同意向乌克兰提供“风暴阴影”导弹生产许可。泽连斯基表示，他此前已与法国总统马克龙沟通，对方已解锁该导弹相关生产许可事宜。乌克兰在 24 日同步收到英法两国的正式积极答复，其中英国已明确确认相关许可合作事宜。他同时表态称，希望此次导弹生产许可相关合作能够顺利落地推进。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3409221",
     "datetime": "2026-08-25T12:57:02+00:00",
-    "views": "18",
+    "views": "28",
     "text": "丰业银行 CEO： 关税带来不确定性，但局面 “可控”。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3409220",
     "datetime": "2026-08-25T12:56:43+00:00",
-    "views": "15",
+    "views": "24",
     "text": "加拿大丰业银行首席执行官斯科特·汤姆森：加拿大基本面“相当良好”。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3409219",
     "datetime": "2026-08-25T12:56:42+00:00",
-    "views": "15",
+    "views": "23",
     "text": "以色列国防部长卡茨：以色列国防军不会在威胁存在的情况下离开叙利亚安全区。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3409218",
     "datetime": "2026-08-25T12:56:22+00:00",
-    "views": "45",
+    "views": "53",
     "text": "以色列国防部长卡茨：只要威胁仍存，以色列国防军就不会撤出叙利亚安全区。",
     "media_only": false,
     "image_url": null,
