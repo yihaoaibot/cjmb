@@ -1,5 +1,57 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-08-25T04:30:49.989616+00:00","clsvipUpdated":"2026-08-25T04:31:01.386769+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">8月25日</h2><div class="feed"><article class="item" data-search="北京上市公司协会：将常态化推进董秘队伍专业化、规范化建设
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-08-25T04:32:47.921188+00:00","clsvipUpdated":"2026-08-25T04:32:56.317886+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">8月25日</h2><div class="feed"><article class="item" data-search="中国央行在香港招标发行的三个月央票中标利率为 1.30%（上次为 1.13%）。
+中国央行在香港招标发行的一年期央票中标利率为 1.35%（上次为 1.32%）。"><div class="time">12:31</div><div class="content"><div class="text" data-full="中国央行在香港招标发行的三个月央票中标利率为 1.30%（上次为 1.13%）。
+中国央行在香港招标发行的一年期央票中标利率为 1.35%（上次为 1.32%）。" data-short="中国央行在香港招标发行的三个月央票中标利率为 1.30%（上次为 1.13%）。
+中国央行在香港招标发行的一年期央票中标利率为 1.35%（上次为 1.32%）。">中国央行在香港招标发行的三个月央票中标利率为 1.30%（上次为 1.13%）。
+中国央行在香港招标发行的一年期央票中标利率为 1.35%（上次为 1.32%）。</div></div></article><article class="item" data-search="创业板指半日跌 1.43%，农业、消费股逆势走强。
+恒指半日跌 0.25%，恒生科技指数跌 0.75%，恒生生物科技指数涨 1.6%。小鹏跌超 9%，零跑汽车跌超 7%。
+日韩股市低开高走，韩国首尔综指跌幅从 4%收窄至不到 1%。
+比特币自 5 月中旬以来首次升破 8 万美元。
+《人民日报》连发四篇署名”钟才文”的系列文章。
+中美 1.5 轨对话今天在北京举行。
+成都发布房地产市场新政：购买新商品房，公积金贷款最低首付款为 15%，并给予一年期限、20%的利息补贴。
+民营商业航天新突破，卫星研制到发射全链条首次出口东南亚。
+字节加入企业办公 agent 大战：发布“豆包工作”。
+何小鹏：人形机器人单台毛利或远超汽车，四季度汽车业务目标月销 6 万台。"><div class="time">12:31</div><div class="content"><div class="text" data-full="创业板指半日跌 1.43%，农业、消费股逆势走强。
+恒指半日跌 0.25%，恒生科技指数跌 0.75%，恒生生物科技指数涨 1.6%。小鹏跌超 9%，零跑汽车跌超 7%。
+日韩股市低开高走，韩国首尔综指跌幅从 4%收窄至不到 1%。
+比特币自 5 月中旬以来首次升破 8 万美元。
+《人民日报》连发四篇署名”钟才文”的系列文章。
+中美 1.5 轨对话今天在北京举行。
+成都发布房地产市场新政：购买新商品房，公积金贷款最低首付款为 15%，并给予一年期限、20%的利息补贴。
+民营商业航天新突破，卫星研制到发射全链条首次出口东南亚。
+字节加入企业办公 Agent 大战：发布“豆包工作”。
+何小鹏：人形机器人单台毛利或远超汽车，四季度汽车业务目标月销 6 万台。" data-short="创业板指半日跌 1.43%，农业、消费股逆势走强。
+恒指半日跌 0.25%，恒生科技指数跌 0.75%，恒生生物科技指数涨 1.6%。小鹏跌超 9%，零跑汽车跌超 7%。
+日韩股市低开高走，韩国首尔综指跌幅从 4%收窄至不到 1%。
+比特币自 5 月中旬以来首次升破 8 万美元。
+《人民日报》连发四篇署名”钟才文”的系列文章。
+中美 1.5 轨对话今天在北京...">创业板指半日跌 1.43%，农业、消费股逆势走强。
+恒指半日跌 0.25%，恒生科技指数跌 0.75%，恒生生物科技指数涨 1.6%。小鹏跌超 9%，零跑汽车跌超 7%。
+日韩股市低开高走，韩国首尔综指跌幅从 4%收窄至不到 1%。
+比特币自 5 月中旬以来首次升破 8 万美元。
+《人民日报》连发四篇署名”钟才文”的系列文章。
+中美 1.5 轨对话今天在北京...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="① 14:00 德国二季度 gdp 终值；
+② 16:00 德国 8 月 ifo 商业景气指数；
+③ 20:00 美国里士满联储主席 barkin（2027 年 fomc 票委）谈论经济；
+④ 21:00 美国 6 月 fhfa 房价指数，6 月 s&#38;p/cs20 座大城市房价指数；
+⑤ 22:00 美国 7 月新屋销售，8 月谘商会消费者信心指数，8 月里士满联储制造业指数；
+⑥ 次日 02:00 “全球最大游戏展” gamescom 开幕；
+⑦ 次日 04:00 美国里士满联储主席 barkin（2027 年 fomc 票委）谈论经济；"><div class="time">12:31</div><div class="content"><div class="text" data-full="① 14:00 德国二季度 GDP 终值；
+② 16:00 德国 8 月 IFO 商业景气指数；
+③ 20:00 美国里士满联储主席 Barkin（2027 年 FOMC 票委）谈论经济；
+④ 21:00 美国 6 月 FHFA 房价指数，6 月 S&#38;P/CS20 座大城市房价指数；
+⑤ 22:00 美国 7 月新屋销售，8 月谘商会消费者信心指数，8 月里士满联储制造业指数；
+⑥ 次日 02:00 “全球最大游戏展” Gamescom 开幕；
+⑦ 次日 04:00 美国里士满联储主席 Barkin（2027 年 FOMC 票委）谈论经济；" data-short="① 14:00 德国二季度 GDP 终值；
+② 16:00 德国 8 月 IFO 商业景气指数；
+③ 20:00 美国里士满联储主席 Barkin（2027 年 FOMC 票委）谈论经济；
+④ 21:00 美国 6 月 FHFA 房价指数，6 月 S&#38;P/CS20 座大城市房价指数；
+⑤ 22:00 美国 7 月新屋销售，8 月谘商会消费者信心指数，8 月里...">① 14:00 德国二季度 GDP 终值；
+② 16:00 德国 8 月 IFO 商业景气指数；
+③ 20:00 美国里士满联储主席 Barkin（2027 年 FOMC 票委）谈论经济；
+④ 21:00 美国 6 月 FHFA 房价指数，6 月 S&amp;P/CS20 座大城市房价指数；
+⑤ 22:00 美国 7 月新屋销售，8 月谘商会消费者信心指数，8 月里...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="北京上市公司协会：将常态化推进董秘队伍专业化、规范化建设
 北京上市公司协会 8 月 25 日消息，为配合北京证监局贯彻落实上市公司治理专项行动相关工作部署，8 月 19 日，在北京证监局指导下，北京上市公司协会举办董事会秘书工作委员会扩大会议暨董事会秘书专题座谈会。本次座谈会旨在摸清董秘履职现状，以交流研讨、互学互鉴为重要载体，持续推动董秘队伍履职能力全面提质增效。北京上市公司协会前期调研情况显示，多数上市公司已完成董秘合规审核体系建设，通过将董秘合规审查嵌入业务审批流程、构建多维度多层级复核机制、强化非法定信息披露平台常态化管控等措施，扎实筑牢信息披露内控合规防线，夯实公司治理合规根基。"><div class="time">12:30</div><div class="content"><div class="text" data-full="北京上市公司协会：将常态化推进董秘队伍专业化、规范化建设
 北京上市公司协会 8 月 25 日消息，为配合北京证监局贯彻落实上市公司治理专项行动相关工作部署，8 月 19 日，在北京证监局指导下，北京上市公司协会举办董事会秘书工作委员会扩大会议暨董事会秘书专题座谈会。本次座谈会旨在摸清董秘履职现状，以交流研讨、互学互鉴为重要载体，持续推动董秘队伍履职能力全面提质增效。北京上市公司协会前期调研情况显示，多数上市公司已完成董秘合规审核体系建设，通过将董秘合规审查嵌入业务审批流程、构建多维度多层级复核机制、强化非法定信息披露平台常态化管控等措施，扎实筑牢信息披露内控合规防线，夯实公司治理合规根基。" data-short="北京上市公司协会：将常态化推进董秘队伍专业化、规范化建设
 北京上市公司协会 8 月 25 日消息，为配合北京证监局贯彻落实上市公司治理专项行动相关工作部署，8 月 19 日，在北京证监局指导下，北京上市公司协会举办董事会秘书工作委员会扩大会议暨董事会秘书专题座谈会。本次座谈会旨在摸清董秘履职现状，以交流研讨、互学互鉴为重要载体，持续推动董秘队伍履职能力全面提...">北京上市公司协会：将常态化推进董秘队伍专业化、规范化建设
@@ -789,15 +841,7 @@ CPO 概念震荡反弹，特发信息涨停，长盈通、迅捷兴涨超 10%，
 8 月 24 日上午，广州市市长孙志洋主持召开市政府常务会议，会议研究了科技创新资金统筹管理工作。会议强调，要立足全市科技创新“一盘棋”高度，完善制度机制，改进管理办法，健全管理标准，对科技资金实行归集管理，围绕科技创新强市建设目标同向发力，集中力量支持关键核心技术攻关和重大科技成果转化。要充分发挥企业创新主体作用，通过办好创新创业赛事、搭建成果展示与对接平台，有效发挥赛事招商引智、促进成果转化和项目落地的重要功能。要紧扣国家、省重大科技战略部署及全市现代化产业体系建设，精准投向科技创新与产业创新深度融合的关键领域和重点项目，切实增强科创资金的指向性、精准性和有效性。"><div class="time">10:08</div><div class="content"><div class="text" data-full="广州：集中力量支持核心技术攻关 加快推动重大科技成果转化
 8 月 24 日上午，广州市市长孙志洋主持召开市政府常务会议，会议研究了科技创新资金统筹管理工作。会议强调，要立足全市科技创新“一盘棋”高度，完善制度机制，改进管理办法，健全管理标准，对科技资金实行归集管理，围绕科技创新强市建设目标同向发力，集中力量支持关键核心技术攻关和重大科技成果转化。要充分发挥企业创新主体作用，通过办好创新创业赛事、搭建成果展示与对接平台，有效发挥赛事招商引智、促进成果转化和项目落地的重要功能。要紧扣国家、省重大科技战略部署及全市现代化产业体系建设，精准投向科技创新与产业创新深度融合的关键领域和重点项目，切实增强科创资金的指向性、精准性和有效性。" data-short="广州：集中力量支持核心技术攻关 加快推动重大科技成果转化
 8 月 24 日上午，广州市市长孙志洋主持召开市政府常务会议，会议研究了科技创新资金统筹管理工作。会议强调，要立足全市科技创新“一盘棋”高度，完善制度机制，改进管理办法，健全管理标准，对科技资金实行归集管理，围绕科技创新强市建设目标同向发力，集中力量支持关键核心技术攻关和重大科技成果转化。要充分发挥企...">广州：集中力量支持核心技术攻关 加快推动重大科技成果转化
-8 月 24 日上午，广州市市长孙志洋主持召开市政府常务会议，会议研究了科技创新资金统筹管理工作。会议强调，要立足全市科技创新“一盘棋”高度，完善制度机制，改进管理办法，健全管理标准，对科技资金实行归集管理，围绕科技创新强市建设目标同向发力，集中力量支持关键核心技术攻关和重大科技成果转化。要充分发挥企...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="科创 50 指数翻红
-科创 50 指数翻红，此前一度跌超 2%。成分股中，石头科技 20cm 涨停。"><div class="time">10:08</div><div class="content"><div class="text" data-full="科创 50 指数翻红
-科创 50 指数翻红，此前一度跌超 2%。成分股中，石头科技 20CM 涨停。" data-short="科创 50 指数翻红
-科创 50 指数翻红，此前一度跌超 2%。成分股中，石头科技 20CM 涨停。">科创 50 指数翻红
-科创 50 指数翻红，此前一度跌超 2%。成分股中，石头科技 20CM 涨停。</div></div></article><article class="item" data-search="武汉蔚能电池成立新能源技术公司 含 ai 业务
-企查查 app 显示，近日，蔚恒壹号（武汉）新能源技术有限公司成立，经营范围包含：电子专用材料销售；工程和技术研究和试验发展；人工智能应用软件开发；软件销售等。企查查股权穿透显示，该公司由武汉蔚能电池资产有限公司全资持股。"><div class="time">10:07</div><div class="content"><div class="text" data-full="武汉蔚能电池成立新能源技术公司 含 AI 业务
-企查查 APP 显示，近日，蔚恒壹号（武汉）新能源技术有限公司成立，经营范围包含：电子专用材料销售；工程和技术研究和试验发展；人工智能应用软件开发；软件销售等。企查查股权穿透显示，该公司由武汉蔚能电池资产有限公司全资持股。" data-short="武汉蔚能电池成立新能源技术公司 含 AI 业务
-企查查 APP 显示，近日，蔚恒壹号（武汉）新能源技术有限公司成立，经营范围包含：电子专用材料销售；工程和技术研究和试验发展；人工智能应用软件开发；软件销售等。企查查股权穿透显示，该公司由武汉蔚能电池资产有限公司全资持股。">武汉蔚能电池成立新能源技术公司 含 AI 业务
-企查查 APP 显示，近日，蔚恒壹号（武汉）新能源技术有限公司成立，经营范围包含：电子专用材料销售；工程和技术研究和试验发展；人工智能应用软件开发；软件销售等。企查查股权穿透显示，该公司由武汉蔚能电池资产有限公司全资持股。</div></div></article><article class="item" data-search="纯碱连续主力合约日内跌 2%，现报 1035.00 元。"><div class="time">10:07</div><div class="content"><div class="text" data-full="纯碱连续主力合约日内跌 2%，现报 1035.00 元。" data-short="纯碱连续主力合约日内跌 2%，现报 1035.00 元。">纯碱连续主力合约日内跌 2%，现报 1035.00 元。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">8月25日 · VIP</h2> <div class="feed"> <article class="item" data-search="主力行为逻辑
+8 月 24 日上午，广州市市长孙志洋主持召开市政府常务会议，会议研究了科技创新资金统筹管理工作。会议强调，要立足全市科技创新“一盘棋”高度，完善制度机制，改进管理办法，健全管理标准，对科技资金实行归集管理，围绕科技创新强市建设目标同向发力，集中力量支持关键核心技术攻关和重大科技成果转化。要充分发挥企...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">8月25日 · VIP</h2> <div class="feed"> <article class="item" data-search="主力行为逻辑
 【午间分析】
 目前大盘这15分钟给出一次做t的机会之后，市场再次的陷入了情绪冰点，交易快速的萎缩，这个时候就很难判断走势了，市场没有好的机会，也就没必要盯着盘面不放，空仓的继续等待，做t的也要等待机会。"> <div class="time">11:23</div> <div class="content"> <div class="text">主力行为逻辑
 【午间分析】
