@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3406661",
+    "datetime": "2026-08-25T00:12:24+00:00",
+    "views": "5",
+    "text": "昨日 ETF 资金整体净流入 190.71 亿元\n据同花顺 iFinD 数据，2026 年 8 月 24 日，ETF 资金整体净流入 190.71 亿元，股票型净流入 106.38 亿元，宽基型净流入 94.08 亿元。当日 ETF 资金净流入榜单排名前 3 依次为：华夏上证科创板 50 成份 ETF（588000）净流入 21.52 亿元，易方达创业板 ETF（159915）净流入 19.74 亿元，华泰柏瑞沪深 300ETF（510300）净流入 15.17 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406661"
+  },
+  {
+    "post": "Financial_Express/3406659",
+    "datetime": "2026-08-25T00:12:23+00:00",
+    "views": "5",
+    "text": "委内瑞拉代总统表示，目前已签署 50 项油气协议，将对 76 个油田进行新投资。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406659"
+  },
+  {
+    "post": "Financial_Express/3406660",
+    "datetime": "2026-08-25T00:12:23+00:00",
+    "views": "5",
+    "text": "日本日经指数下跌 1%，报 64863.99 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406660"
+  },
+  {
+    "post": "Financial_Express/3406658",
+    "datetime": "2026-08-25T00:12:22+00:00",
+    "views": "5",
+    "text": "中信建投：AI 应用与云业务共振 继续看好算力产业链\n金十数据 8 月 25 日讯，中信建投研报称，8 月 21 日，OpenAI 将 GPT-5.6SolAPI 价格下调超 20%，进一步降低高性能模型调用成本，有望推动 Agent、代码生成等高 Token 场景使用量增长，持续拉动推理侧算力需求。阿里最新季度 AI Cloudand Compute Services 收入约 484 亿元，同比增长 45%，AI 相关产品收入连续 12 个季度三位数增长，验证 AI 需求正加速向商业化兑现。继续看好大模型商业化及算力需求提升带动的光模块、服务器、液冷、云计算等产业链机会。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406658"
+  },
+  {
+    "post": "Financial_Express/3406657",
+    "datetime": "2026-08-25T00:11:42+00:00",
+    "views": "7",
+    "text": "日本五年期国债收益率上升 0.5 个基点，至 2.130%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406657"
+  },
+  {
+    "post": "Financial_Express/3406656",
+    "datetime": "2026-08-25T00:11:22+00:00",
+    "views": "9",
+    "text": "Lambda 已经收到多份本轮融资的投资意向书，部分接近该公司的人士表示，这笔融资或将让其最早于明年启动 IPO。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3406656"
+  },
+  {
     "post": "Financial_Express/3406655",
     "datetime": "2026-08-25T00:10:42+00:00",
-    "views": "5",
+    "views": "44",
     "text": "知情人士：AI 云服务提供商 Lambda 正就 30 亿美元的融资进行谈判\n金十数据 8 月 25 日讯，据知情人士透露，由英伟达(NVDA.O)支持的 AI 云计算服务提供商 Lambda 正在就一轮最高达 30 亿美元的融资进行谈判，此轮融资可能为其明年上市铺平道路。知情人士表示，作为一家提供芯片及其他人工智能基础设施租赁服务的“新兴云端”企业，Lambda 公司正在商讨以高达 120 亿美元甚至更高的估值进行融资。他们称，融资谈判仍在进行中，交易条款尚未最终敲定。据悉，Lambda 已收到多份本轮投资要约，据公司内部人士透露，这可能为最快于明年进行的首次公开募股（IPO）铺平道路。部分知情人士表示，该公司今年的营收预计将超过 15 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3406654",
     "datetime": "2026-08-25T00:09:42+00:00",
-    "views": "13",
+    "views": "50",
     "text": "委内瑞拉代总统：委内瑞拉已签署 50 余项油气合作协议。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3406653",
     "datetime": "2026-08-25T00:09:22+00:00",
-    "views": "14",
+    "views": "51",
     "text": "日本机场航站楼板块股票涨幅最高达 4.4%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3406652",
     "datetime": "2026-08-25T00:09:02+00:00",
-    "views": "13",
+    "views": "51",
     "text": "现代汽车与工会还达成一致，如果相关法律法规得到修订，将把退休年龄从目前的 60 岁延长至 65 岁。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3406651",
     "datetime": "2026-08-25T00:08:42+00:00",
-    "views": "44",
+    "views": "52",
     "text": "委内瑞拉代总统： 委内瑞拉石油日产量超 123 万桶。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3406650",
     "datetime": "2026-08-25T00:06:42+00:00",
-    "views": "54",
+    "views": "59",
     "text": "委内瑞拉代总统罗德里格斯称已清理 28%地震废墟，合计 58 万吨。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3406649",
     "datetime": "2026-08-25T00:06:24+00:00",
-    "views": "54",
+    "views": "59",
     "text": "韩国首尔综指跌超 3%，三星电子跌近 4%，SK 海力士跌近 5%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3406648",
     "datetime": "2026-08-25T00:06:02+00:00",
-    "views": "55",
+    "views": "59",
     "text": "韩国 KOSPI 指数回落至 6500 点下方，日内跌 3.02%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3406647",
     "datetime": "2026-08-25T00:04:42+00:00",
-    "views": "57",
+    "views": "91",
     "text": "花旗将黄金三个月目标价上调至每盎司 4800 美元\n花旗集团将黄金三个月目标价上调至每盎司 4800 美元，此前美国财政部宣布加大长期债券回购规模，推动金价上涨。包括胡肯尼在内的分析师在研报中写道，金价上涨动能“仍有进一步释放空间”。分析师表示：“到目前为止，本轮上涨主要由投机资金推动，尤其是期货资金流入。若涨势要得以持续，实物需求需要跟上。”花旗维持 6‑12 个月 5000 美元/盎司的黄金目标价不变，理由是霍尔木兹海峡局势最终得到解决、实际利率下行以及美联储立场转鸽。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3406646",
     "datetime": "2026-08-25T00:04:02+00:00",
-    "views": "58",
+    "views": "92",
     "text": "CD Projekt：《巫师 4》计划于 2028 年发售\n当地时间 8 月 24 日，波兰电子游戏开发商 CD Projekt 联合首席执行官 Michal Nowakowski 在社交平台发布的一段视频中表示，该公司计划于 2028 年推出《巫师 4》。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3406645",
     "datetime": "2026-08-25T00:02:35+00:00",
-    "views": "79",
+    "views": "83",
     "text": "中信建投发布研报称，此前锂价计入过多远期供给宽松预期，库存在淡季的快速去化超出市场预期；伴随旺季临近，市场走向供需双强，低库存水平下的进一步去化或对价格形成更强提振。锂盐厂检修阶段性结束，产量回升，下游需求维持高景气，正极材料高开工，库存保持去化态势。据 SMM，本周大样本库存 8.6 万吨，周度环比去化 0.75 万吨，连续 8 周环比去库加速，当下库存体量已经降至年内最低水平。百川盈孚 27 家电池企业样本调研，2026 年 8 月中国电池企业总排产 311.85GWh，环比增加 5.71%，后续有望继续加速。锂价或从此前的远期过剩定价逐步走向近期基本面定价，看好旺季下锂价表现。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3406644",
     "datetime": "2026-08-25T00:02:02+00:00",
-    "views": "78",
+    "views": "80",
     "text": "巴克莱：全球债券虽遭抛售 仍未便宜到值得买入\n巴克莱表示，尽管全球债券经历了持续抛售，但还是不够便宜，依然不足以吸引投资者买入。顽固的通胀以及各国政府不愿削减支出，仍对债券市场构成压力。虽然债券当前交易水平比近年来任何时候都更接近公允价值，但“推动收益率上升的力量尚未耗尽”，策略师 Ajay Rajadhyaksha 和 Anshul Pradhan 在报告中写道，全球经济增长表现出韧性，通胀仍然过于顽固，难以支持央行降息。同时，人工智能资本开支周期也丝毫没有放缓迹象。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3406643",
     "datetime": "2026-08-25T00:01:43+00:00",
-    "views": "79",
+    "views": "80",
     "text": "巴克莱表示，尽管全球债券经历了持续抛售，但还是不够便宜，依然不足以吸引投资者买入。顽固的通胀以及各国政府不愿削减支出，仍对债券市场构成压力。其表示，虽然债券当前交易水平比近年来任何时候都更接近公允价值，但“推动收益率上升的力量尚未耗尽”。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +182,7 @@
   {
     "post": "Financial_Express/3406642",
     "datetime": "2026-08-25T00:01:03+00:00",
-    "views": "54",
+    "views": "85",
     "text": "纽约期银日内涨 2%，现报 70.77 美元/盎司。",
     "media_only": false,
     "image_url": null,
