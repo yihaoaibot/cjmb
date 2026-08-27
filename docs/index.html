@@ -1,5 +1,9 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-08-27T14:30:59.507895+00:00","clsvipUpdated":"2026-08-27T14:31:14.108138+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">8月27日</h2><div class="feed"><article class="item" data-search="美国邮政局表示，尽管针对邮寄投票限制法规的司法诉讼仍在推进，该法规现已正式生效。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美国邮政局表示，尽管针对邮寄投票限制法规的司法诉讼仍在推进，该法规现已正式生效。" data-short="美国邮政局表示，尽管针对邮寄投票限制法规的司法诉讼仍在推进，该法规现已正式生效。">美国邮政局表示，尽管针对邮寄投票限制法规的司法诉讼仍在推进，该法规现已正式生效。</div></div></article><article class="item" data-search="美国天然气库存增至 3.18 万亿立方英尺。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美国天然气库存增至 3.18 万亿立方英尺。" data-short="美国天然气库存增至 3.18 万亿立方英尺。">美国天然气库存增至 3.18 万亿立方英尺。</div></div></article><article class="item" data-search="美联储哈玛克：财政部有其自身的目标，联邦储备系统将独立运作以实现其目标。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美联储哈玛克：财政部有其自身的目标，联邦储备系统将独立运作以实现其目标。" data-short="美联储哈玛克：财政部有其自身的目标，联邦储备系统将独立运作以实现其目标。">美联储哈玛克：财政部有其自身的目标，联邦储备系统将独立运作以实现其目标。</div></div></article><article class="item" data-search="美国能源信息署称，上周美国天然气库存增加了 150 亿立方英尺。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美国能源信息署称，上周美国天然气库存增加了 150 亿立方英尺。" data-short="美国能源信息署称，上周美国天然气库存增加了 150 亿立方英尺。">美国能源信息署称，上周美国天然气库存增加了 150 亿立方英尺。</div></div></article><article class="item" data-search="美国能源信息署（eia）：美国上周 eia 天然气库存增加 150 亿立方英尺，彭博用户预计增加 160 亿立方英尺、分析师预期 162.2 亿立方英尺，周环比增幅 0.47%（之前一周增长 0.51%），至 3.18 万亿立方英尺。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美国能源信息署（EIA）：美国上周 EIA 天然气库存增加 150 亿立方英尺，彭博用户预计增加 160 亿立方英尺、分析师预期 162.2 亿立方英尺，周环比增幅 0.47%（之前一周增长 0.51%），至 3.18 万亿立方英尺。" data-short="美国能源信息署（EIA）：美国上周 EIA 天然气库存增加 150 亿立方英尺，彭博用户预计增加 160 亿立方英尺、分析师预期 162.2 亿立方英尺，周环比增幅 0.47%（之前一周增长 0.51%），至 3.18 万亿立方英尺。">美国能源信息署（EIA）：美国上周 EIA 天然气库存增加 150 亿立方英尺，彭博用户预计增加 160 亿立方英尺、分析师预期 162.2 亿立方英尺，周环比增幅 0.47%（之前一周增长 0.51%），至 3.18 万亿立方英尺。</div></div></article><article class="item" data-search="美联储哈玛克：财政部有其自身目标，美联储为实现自身目标独立运作。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美联储哈玛克：财政部有其自身目标，美联储为实现自身目标独立运作。" data-short="美联储哈玛克：财政部有其自身目标，美联储为实现自身目标独立运作。">美联储哈玛克：财政部有其自身目标，美联储为实现自身目标独立运作。</div></div></article><article class="item" data-search="美国 8 月 21 日当周 eia 天然气库存变动 150 亿立方英尺，前值 160 亿立方英尺。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美国 8 月 21 日当周 EIA 天然气库存变动 150 亿立方英尺，前值 160 亿立方英尺。" data-short="美国 8 月 21 日当周 EIA 天然气库存变动 150 亿立方英尺，前值 160 亿立方英尺。">美国 8 月 21 日当周 EIA 天然气库存变动 150 亿立方英尺，前值 160 亿立方英尺。</div></div></article><article class="item" data-search="美联储哈马克：场是美联储的良好补充，而非替代。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美联储哈马克：场是美联储的良好补充，而非替代。" data-short="美联储哈马克：场是美联储的良好补充，而非替代。">美联储哈马克：场是美联储的良好补充，而非替代。</div></div></article><article class="item" data-search="美国克利夫兰联储主席哈马克（hammack）：市场是美联储的良好补充，而非替代。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美国克利夫兰联储主席哈马克（Hammack）：市场是美联储的良好补充，而非替代。" data-short="美国克利夫兰联储主席哈马克（Hammack）：市场是美联储的良好补充，而非替代。">美国克利夫兰联储主席哈马克（Hammack）：市场是美联储的良好补充，而非替代。</div></div></article><article class="item" data-search="美联储哈玛克：问责意味着讨论经济形势，并向公众提供信息。"><div class="time">22:29</div><div class="content"><div class="text" data-full="美联储哈玛克：问责意味着讨论经济形势，并向公众提供信息。" data-short="美联储哈玛克：问责意味着讨论经济形势，并向公众提供信息。">美联储哈玛克：问责意味着讨论经济形势，并向公众提供信息。</div></div></article><article class="item" data-search="美联储哈玛克：问责制意味着谈论经济并向公众提供信息。"><div class="time">22:28</div><div class="content"><div class="text" data-full="美联储哈玛克：问责制意味着谈论经济并向公众提供信息。" data-short="美联储哈玛克：问责制意味着谈论经济并向公众提供信息。">美联储哈玛克：问责制意味着谈论经济并向公众提供信息。</div></div></article><article class="item" data-search="美联储哈玛克：我认为的中性利率相较于其他美联储官员偏高。"><div class="time">22:28</div><div class="content"><div class="text" data-full="美联储哈玛克：我认为的中性利率相较于其他美联储官员偏高。" data-short="美联储哈玛克：我认为的中性利率相较于其他美联储官员偏高。">美联储哈玛克：我认为的中性利率相较于其他美联储官员偏高。</div></div></article><article class="item" data-search="美联储哈玛克：目前最担心的是公众失去对通胀率将回落至 2%的信心。"><div class="time">22:28</div><div class="content"><div class="text" data-full="美联储哈玛克：目前最担心的是公众失去对通胀率将回落至 2%的信心。" data-short="美联储哈玛克：目前最担心的是公众失去对通胀率将回落至 2%的信心。">美联储哈玛克：目前最担心的是公众失去对通胀率将回落至 2%的信心。</div></div></article><article class="item" data-search="美联储哈玛克：担心通胀思维可能开始形成。"><div class="time">22:28</div><div class="content"><div class="text" data-full="美联储哈玛克：担心通胀思维可能开始形成。" data-short="美联储哈玛克：担心通胀思维可能开始形成。">美联储哈玛克：担心通胀思维可能开始形成。</div></div></article><article class="item" data-search="国晟科技发布 2026 年半年报显示，与 2026 年一季报相比，第四大股东刘鑫减仓 1900 万股至 666.66 万股，占总股本比例 1.01%。"><div class="time">22:27</div><div class="content"><div class="text" data-full="国晟科技发布 2026 年半年报显示，与 2026 年一季报相比，第四大股东刘鑫减仓 1900 万股至 666.66 万股，占总股本比例 1.01%。" data-short="国晟科技发布 2026 年半年报显示，与 2026 年一季报相比，第四大股东刘鑫减仓 1900 万股至 666.66 万股，占总股本比例 1.01%。">国晟科技发布 2026 年半年报显示，与 2026 年一季报相比，第四大股东刘鑫减仓 1900 万股至 666.66 万股，占总股本比例 1.01%。</div></div></article><article class="item" data-search="美联储哈马克：相比其他美联储官员，我认为中性利率处于更高水平。"><div class="time">22:27</div><div class="content"><div class="text" data-full="美联储哈马克：相比其他美联储官员，我认为中性利率处于更高水平。" data-short="美联储哈马克：相比其他美联储官员，我认为中性利率处于更高水平。">美联储哈马克：相比其他美联储官员，我认为中性利率处于更高水平。</div></div></article><article class="item" data-search="美联储哈玛克：在金融环境中，暂时没有看到政策有构成任何限制。"><div class="time">22:27</div><div class="content"><div class="text" data-full="美联储哈玛克：在金融环境中，暂时没有看到政策有构成任何限制。" data-short="美联储哈玛克：在金融环境中，暂时没有看到政策有构成任何限制。">美联储哈玛克：在金融环境中，暂时没有看到政策有构成任何限制。</div></div></article><article class="item" data-search="美联储哈马克：担忧通胀心态可能开始形成。"><div class="time">22:27</div><div class="content"><div class="text" data-full="美联储哈马克：担忧通胀心态可能开始形成。" data-short="美联储哈马克：担忧通胀心态可能开始形成。">美联储哈马克：担忧通胀心态可能开始形成。</div></div></article><article class="item" data-search="美联储哈玛克：中性货币政策是一种你看到时就会知道的东西。"><div class="time">22:27</div><div class="content"><div class="text" data-full="美联储哈玛克：中性货币政策是一种你看到时就会知道的东西。" data-short="美联储哈玛克：中性货币政策是一种你看到时就会知道的东西。">美联储哈玛克：中性货币政策是一种你看到时就会知道的东西。</div></div></article><article class="item" data-search="美联储哈玛克：联系人对通货膨胀和生活成本的状况表示非常担忧。"><div class="time">22:27</div><div class="content"><div class="text" data-full="美联储哈玛克：联系人对通货膨胀和生活成本的状况表示非常担忧。" data-short="美联储哈玛克：联系人对通货膨胀和生活成本的状况表示非常担忧。">美联储哈玛克：联系人对通货膨胀和生活成本的状况表示非常担忧。</div></div></article><article class="item" data-search="美联储哈玛克：受访者非常担忧通胀状况和生活成本。"><div class="time">22:26</div><div class="content"><div class="text" data-full="美联储哈玛克：受访者非常担忧通胀状况和生活成本。" data-short="美联储哈玛克：受访者非常担忧通胀状况和生活成本。">美联储哈玛克：受访者非常担忧通胀状况和生活成本。</div></div></article><article class="item" data-search="美联储哈玛克：超出目标的情况持续存在，市场对冲击的影响仍存疑问。"><div class="time">22:26</div><div class="content"><div class="text" data-full="美联储哈玛克：超出目标的情况持续存在，市场对冲击的影响仍存疑问。" data-short="美联储哈玛克：超出目标的情况持续存在，市场对冲击的影响仍存疑问。">美联储哈玛克：超出目标的情况持续存在，市场对冲击的影响仍存疑问。</div></div></article><article class="item" data-search="美联储哈马克：主要担忧是公众会对通胀回落至 2%失去信心。"><div class="time">22:26</div><div class="content"><div class="text" data-full="美联储哈马克：主要担忧是公众会对通胀回落至 2%失去信心。" data-short="美联储哈马克：主要担忧是公众会对通胀回落至 2%失去信心。">美联储哈马克：主要担忧是公众会对通胀回落至 2%失去信心。</div></div></article><article class="item" data-search="国晟科技第四大股东刘鑫二季度减仓 1900 万股
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-08-27T14:32:49.612729+00:00","clsvipUpdated":"2026-08-27T14:33:01.879779+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">8月27日</h2><div class="feed"><article class="item" data-search="伊朗消息人士：仍与阿曼磋商霍尔木兹海峡协议细节
+伊朗伊斯兰革命卫队发言人侯赛因·穆赫比 26 日称，伊朗与阿曼就各自在霍尔木兹海峡控制水域的占比及收益分配达成双方均认可的协议。不过，伊朗一名高级消息人士表示，双方仍在磋商具体细节。伊朗本月早些时候曾表示，协议已接近达成。伊朗方面同时指责美国持续阻挠伊朗与阿曼的谈判，导致谈判进程拖延。（央视新闻）"><div class="time">22:31</div><div class="content"><div class="text" data-full="伊朗消息人士：仍与阿曼磋商霍尔木兹海峡协议细节
+伊朗伊斯兰革命卫队发言人侯赛因·穆赫比 26 日称，伊朗与阿曼就各自在霍尔木兹海峡控制水域的占比及收益分配达成双方均认可的协议。不过，伊朗一名高级消息人士表示，双方仍在磋商具体细节。伊朗本月早些时候曾表示，协议已接近达成。伊朗方面同时指责美国持续阻挠伊朗与阿曼的谈判，导致谈判进程拖延。（央视新闻）" data-short="伊朗消息人士：仍与阿曼磋商霍尔木兹海峡协议细节
+伊朗伊斯兰革命卫队发言人侯赛因·穆赫比 26 日称，伊朗与阿曼就各自在霍尔木兹海峡控制水域的占比及收益分配达成双方均认可的协议。不过，伊朗一名高级消息人士表示，双方仍在磋商具体细节。伊朗本月早些时候曾表示，协议已接近达成。伊朗方面同时指责美国持续阻挠伊朗与阿曼的谈判，导致谈判进程拖延。（央视新闻）">伊朗消息人士：仍与阿曼磋商霍尔木兹海峡协议细节
+伊朗伊斯兰革命卫队发言人侯赛因·穆赫比 26 日称，伊朗与阿曼就各自在霍尔木兹海峡控制水域的占比及收益分配达成双方均认可的协议。不过，伊朗一名高级消息人士表示，双方仍在磋商具体细节。伊朗本月早些时候曾表示，协议已接近达成。伊朗方面同时指责美国持续阻挠伊朗与阿曼的谈判，导致谈判进程拖延。（央视新闻）</div></div></article><article class="item" data-search="中国建材：上半年营收 814.8 亿元人民币。"><div class="time">22:31</div><div class="content"><div class="text" data-full="中国建材：上半年营收 814.8 亿元人民币。" data-short="中国建材：上半年营收 814.8 亿元人民币。">中国建材：上半年营收 814.8 亿元人民币。</div></div></article><article class="item" data-search="诺斯罗普·格鲁曼公司：诺斯罗普·格鲁曼赢得美国国防高级研究计划局一份价值 700 万美元的合同，将建造由金刚石散热的芯片。"><div class="time">22:31</div><div class="content"><div class="text" data-full="诺斯罗普·格鲁曼公司：诺斯罗普·格鲁曼赢得美国国防高级研究计划局一份价值 700 万美元的合同，将建造由金刚石散热的芯片。" data-short="诺斯罗普·格鲁曼公司：诺斯罗普·格鲁曼赢得美国国防高级研究计划局一份价值 700 万美元的合同，将建造由金刚石散热的芯片。">诺斯罗普·格鲁曼公司：诺斯罗普·格鲁曼赢得美国国防高级研究计划局一份价值 700 万美元的合同，将建造由金刚石散热的芯片。</div></div></article><article class="item" data-search="欧洲斯托克 600 指数有望创下一个月以来最大单日跌幅，跌幅一度达 0.95%。"><div class="time">22:31</div><div class="content"><div class="text" data-full="欧洲斯托克 600 指数有望创下一个月以来最大单日跌幅，跌幅一度达 0.95%。" data-short="欧洲斯托克 600 指数有望创下一个月以来最大单日跌幅，跌幅一度达 0.95%。">欧洲斯托克 600 指数有望创下一个月以来最大单日跌幅，跌幅一度达 0.95%。</div></div></article><article class="item" data-search="美国邮政局表示，尽管针对邮寄投票限制法规的司法诉讼仍在推进，该法规现已正式生效。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美国邮政局表示，尽管针对邮寄投票限制法规的司法诉讼仍在推进，该法规现已正式生效。" data-short="美国邮政局表示，尽管针对邮寄投票限制法规的司法诉讼仍在推进，该法规现已正式生效。">美国邮政局表示，尽管针对邮寄投票限制法规的司法诉讼仍在推进，该法规现已正式生效。</div></div></article><article class="item" data-search="美国天然气库存增至 3.18 万亿立方英尺。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美国天然气库存增至 3.18 万亿立方英尺。" data-short="美国天然气库存增至 3.18 万亿立方英尺。">美国天然气库存增至 3.18 万亿立方英尺。</div></div></article><article class="item" data-search="美联储哈玛克：财政部有其自身的目标，联邦储备系统将独立运作以实现其目标。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美联储哈玛克：财政部有其自身的目标，联邦储备系统将独立运作以实现其目标。" data-short="美联储哈玛克：财政部有其自身的目标，联邦储备系统将独立运作以实现其目标。">美联储哈玛克：财政部有其自身的目标，联邦储备系统将独立运作以实现其目标。</div></div></article><article class="item" data-search="美国能源信息署称，上周美国天然气库存增加了 150 亿立方英尺。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美国能源信息署称，上周美国天然气库存增加了 150 亿立方英尺。" data-short="美国能源信息署称，上周美国天然气库存增加了 150 亿立方英尺。">美国能源信息署称，上周美国天然气库存增加了 150 亿立方英尺。</div></div></article><article class="item" data-search="美国能源信息署（eia）：美国上周 eia 天然气库存增加 150 亿立方英尺，彭博用户预计增加 160 亿立方英尺、分析师预期 162.2 亿立方英尺，周环比增幅 0.47%（之前一周增长 0.51%），至 3.18 万亿立方英尺。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美国能源信息署（EIA）：美国上周 EIA 天然气库存增加 150 亿立方英尺，彭博用户预计增加 160 亿立方英尺、分析师预期 162.2 亿立方英尺，周环比增幅 0.47%（之前一周增长 0.51%），至 3.18 万亿立方英尺。" data-short="美国能源信息署（EIA）：美国上周 EIA 天然气库存增加 150 亿立方英尺，彭博用户预计增加 160 亿立方英尺、分析师预期 162.2 亿立方英尺，周环比增幅 0.47%（之前一周增长 0.51%），至 3.18 万亿立方英尺。">美国能源信息署（EIA）：美国上周 EIA 天然气库存增加 150 亿立方英尺，彭博用户预计增加 160 亿立方英尺、分析师预期 162.2 亿立方英尺，周环比增幅 0.47%（之前一周增长 0.51%），至 3.18 万亿立方英尺。</div></div></article><article class="item" data-search="美联储哈玛克：财政部有其自身目标，美联储为实现自身目标独立运作。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美联储哈玛克：财政部有其自身目标，美联储为实现自身目标独立运作。" data-short="美联储哈玛克：财政部有其自身目标，美联储为实现自身目标独立运作。">美联储哈玛克：财政部有其自身目标，美联储为实现自身目标独立运作。</div></div></article><article class="item" data-search="美国 8 月 21 日当周 eia 天然气库存变动 150 亿立方英尺，前值 160 亿立方英尺。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美国 8 月 21 日当周 EIA 天然气库存变动 150 亿立方英尺，前值 160 亿立方英尺。" data-short="美国 8 月 21 日当周 EIA 天然气库存变动 150 亿立方英尺，前值 160 亿立方英尺。">美国 8 月 21 日当周 EIA 天然气库存变动 150 亿立方英尺，前值 160 亿立方英尺。</div></div></article><article class="item" data-search="美联储哈马克：场是美联储的良好补充，而非替代。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美联储哈马克：场是美联储的良好补充，而非替代。" data-short="美联储哈马克：场是美联储的良好补充，而非替代。">美联储哈马克：场是美联储的良好补充，而非替代。</div></div></article><article class="item" data-search="美国克利夫兰联储主席哈马克（hammack）：市场是美联储的良好补充，而非替代。"><div class="time">22:30</div><div class="content"><div class="text" data-full="美国克利夫兰联储主席哈马克（Hammack）：市场是美联储的良好补充，而非替代。" data-short="美国克利夫兰联储主席哈马克（Hammack）：市场是美联储的良好补充，而非替代。">美国克利夫兰联储主席哈马克（Hammack）：市场是美联储的良好补充，而非替代。</div></div></article><article class="item" data-search="美联储哈玛克：问责意味着讨论经济形势，并向公众提供信息。"><div class="time">22:29</div><div class="content"><div class="text" data-full="美联储哈玛克：问责意味着讨论经济形势，并向公众提供信息。" data-short="美联储哈玛克：问责意味着讨论经济形势，并向公众提供信息。">美联储哈玛克：问责意味着讨论经济形势，并向公众提供信息。</div></div></article><article class="item" data-search="美联储哈玛克：问责制意味着谈论经济并向公众提供信息。"><div class="time">22:28</div><div class="content"><div class="text" data-full="美联储哈玛克：问责制意味着谈论经济并向公众提供信息。" data-short="美联储哈玛克：问责制意味着谈论经济并向公众提供信息。">美联储哈玛克：问责制意味着谈论经济并向公众提供信息。</div></div></article><article class="item" data-search="美联储哈玛克：我认为的中性利率相较于其他美联储官员偏高。"><div class="time">22:28</div><div class="content"><div class="text" data-full="美联储哈玛克：我认为的中性利率相较于其他美联储官员偏高。" data-short="美联储哈玛克：我认为的中性利率相较于其他美联储官员偏高。">美联储哈玛克：我认为的中性利率相较于其他美联储官员偏高。</div></div></article><article class="item" data-search="美联储哈玛克：目前最担心的是公众失去对通胀率将回落至 2%的信心。"><div class="time">22:28</div><div class="content"><div class="text" data-full="美联储哈玛克：目前最担心的是公众失去对通胀率将回落至 2%的信心。" data-short="美联储哈玛克：目前最担心的是公众失去对通胀率将回落至 2%的信心。">美联储哈玛克：目前最担心的是公众失去对通胀率将回落至 2%的信心。</div></div></article><article class="item" data-search="美联储哈玛克：担心通胀思维可能开始形成。"><div class="time">22:28</div><div class="content"><div class="text" data-full="美联储哈玛克：担心通胀思维可能开始形成。" data-short="美联储哈玛克：担心通胀思维可能开始形成。">美联储哈玛克：担心通胀思维可能开始形成。</div></div></article><article class="item" data-search="国晟科技发布 2026 年半年报显示，与 2026 年一季报相比，第四大股东刘鑫减仓 1900 万股至 666.66 万股，占总股本比例 1.01%。"><div class="time">22:27</div><div class="content"><div class="text" data-full="国晟科技发布 2026 年半年报显示，与 2026 年一季报相比，第四大股东刘鑫减仓 1900 万股至 666.66 万股，占总股本比例 1.01%。" data-short="国晟科技发布 2026 年半年报显示，与 2026 年一季报相比，第四大股东刘鑫减仓 1900 万股至 666.66 万股，占总股本比例 1.01%。">国晟科技发布 2026 年半年报显示，与 2026 年一季报相比，第四大股东刘鑫减仓 1900 万股至 666.66 万股，占总股本比例 1.01%。</div></div></article><article class="item" data-search="美联储哈马克：相比其他美联储官员，我认为中性利率处于更高水平。"><div class="time">22:27</div><div class="content"><div class="text" data-full="美联储哈马克：相比其他美联储官员，我认为中性利率处于更高水平。" data-short="美联储哈马克：相比其他美联储官员，我认为中性利率处于更高水平。">美联储哈马克：相比其他美联储官员，我认为中性利率处于更高水平。</div></div></article><article class="item" data-search="美联储哈玛克：在金融环境中，暂时没有看到政策有构成任何限制。"><div class="time">22:27</div><div class="content"><div class="text" data-full="美联储哈玛克：在金融环境中，暂时没有看到政策有构成任何限制。" data-short="美联储哈玛克：在金融环境中，暂时没有看到政策有构成任何限制。">美联储哈玛克：在金融环境中，暂时没有看到政策有构成任何限制。</div></div></article><article class="item" data-search="美联储哈马克：担忧通胀心态可能开始形成。"><div class="time">22:27</div><div class="content"><div class="text" data-full="美联储哈马克：担忧通胀心态可能开始形成。" data-short="美联储哈马克：担忧通胀心态可能开始形成。">美联储哈马克：担忧通胀心态可能开始形成。</div></div></article><article class="item" data-search="美联储哈玛克：中性货币政策是一种你看到时就会知道的东西。"><div class="time">22:27</div><div class="content"><div class="text" data-full="美联储哈玛克：中性货币政策是一种你看到时就会知道的东西。" data-short="美联储哈玛克：中性货币政策是一种你看到时就会知道的东西。">美联储哈玛克：中性货币政策是一种你看到时就会知道的东西。</div></div></article><article class="item" data-search="美联储哈玛克：联系人对通货膨胀和生活成本的状况表示非常担忧。"><div class="time">22:27</div><div class="content"><div class="text" data-full="美联储哈玛克：联系人对通货膨胀和生活成本的状况表示非常担忧。" data-short="美联储哈玛克：联系人对通货膨胀和生活成本的状况表示非常担忧。">美联储哈玛克：联系人对通货膨胀和生活成本的状况表示非常担忧。</div></div></article><article class="item" data-search="美联储哈玛克：受访者非常担忧通胀状况和生活成本。"><div class="time">22:26</div><div class="content"><div class="text" data-full="美联储哈玛克：受访者非常担忧通胀状况和生活成本。" data-short="美联储哈玛克：受访者非常担忧通胀状况和生活成本。">美联储哈玛克：受访者非常担忧通胀状况和生活成本。</div></div></article><article class="item" data-search="美联储哈玛克：超出目标的情况持续存在，市场对冲击的影响仍存疑问。"><div class="time">22:26</div><div class="content"><div class="text" data-full="美联储哈玛克：超出目标的情况持续存在，市场对冲击的影响仍存疑问。" data-short="美联储哈玛克：超出目标的情况持续存在，市场对冲击的影响仍存疑问。">美联储哈玛克：超出目标的情况持续存在，市场对冲击的影响仍存疑问。</div></div></article><article class="item" data-search="美联储哈马克：主要担忧是公众会对通胀回落至 2%失去信心。"><div class="time">22:26</div><div class="content"><div class="text" data-full="美联储哈马克：主要担忧是公众会对通胀回落至 2%失去信心。" data-short="美联储哈马克：主要担忧是公众会对通胀回落至 2%失去信心。">美联储哈马克：主要担忧是公众会对通胀回落至 2%失去信心。</div></div></article><article class="item" data-search="国晟科技第四大股东刘鑫二季度减仓 1900 万股
 国晟科技(603778.sh)发布 2026 年半年报显示，与 2026 年一季报相比，第四大股东刘鑫减仓 1900 万股至 666.66 万股，占总股本比例 1.01%。前十大股东不排除重名情况。"><div class="time">22:26</div><div class="content"><div class="text" data-full="国晟科技第四大股东刘鑫二季度减仓 1900 万股
 国晟科技(603778.SH)发布 2026 年半年报显示，与 2026 年一季报相比，第四大股东刘鑫减仓 1900 万股至 666.66 万股，占总股本比例 1.01%。前十大股东不排除重名情况。" data-short="国晟科技第四大股东刘鑫二季度减仓 1900 万股
 国晟科技(603778.SH)发布 2026 年半年报显示，与 2026 年一季报相比，第四大股东刘鑫减仓 1900 万股至 666.66 万股，占总股本比例 1.01%。前十大股东不排除重名情况。">国晟科技第四大股东刘鑫二季度减仓 1900 万股
@@ -513,23 +517,19 @@ Moderna 盘前走低，公司计划发行 20 亿美元可转换优先票据。
 续请失业金人数减少 1.8 万人，至 177.8 万人，这一指标可作为招聘情况的参考。"><div class="time">20:49</div><div class="content"><div class="text" data-full="美国初请失业金人数下降 美联储或可继续聚焦通胀
 续请失业金人数减少 1.8 万人，至 177.8 万人，这一指标可作为招聘情况的参考。" data-short="美国初请失业金人数下降 美联储或可继续聚焦通胀
 续请失业金人数减少 1.8 万人，至 177.8 万人，这一指标可作为招聘情况的参考。">美国初请失业金人数下降 美联储或可继续聚焦通胀
-续请失业金人数减少 1.8 万人，至 177.8 万人，这一指标可作为招聘情况的参考。</div></div></article><article class="item" data-search="*st 康佳 a：2026 年上半年营收 38.52 亿元 同比降 26.60%
-*st 康佳 a 公告称，2026 年上半年实现营业收入 38.52 亿元，同比下降 26.60%；归属于上市公司股东的净亏损 1.73 亿元，同比减亏 54.93%；扣除非经常性损益的净亏损 2.09 亿元，同比减亏 79.64%。公司不派发现金红利，不送红股，不以公积金转增股本。报告期内公司业务结构优化、期间费用下降，参股企业投资收益同比增加 4.71 亿元，实现同比减亏，但消费电子业务毛利承压、半导体业务尚处产业化初期，整体仍亏损。"><div class="time">20:47</div><div class="content"><div class="text" data-full="*ST 康佳 A：2026 年上半年营收 38.52 亿元 同比降 26.60%
-*ST 康佳 A 公告称，2026 年上半年实现营业收入 38.52 亿元，同比下降 26.60%；归属于上市公司股东的净亏损 1.73 亿元，同比减亏 54.93%；扣除非经常性损益的净亏损 2.09 亿元，同比减亏 79.64%。公司不派发现金红利，不送红股，不以公积金转增股本。报告期内公司业务结构优化、期间费用下降，参股企业投资收益同比增加 4.71 亿元，实现同比减亏，但消费电子业务毛利承压、半导体业务尚处产业化初期，整体仍亏损。" data-short="*ST 康佳 A：2026 年上半年营收 38.52 亿元 同比降 26.60%
-*ST 康佳 A 公告称，2026 年上半年实现营业收入 38.52 亿元，同比下降 26.60%；归属于上市公司股东的净亏损 1.73 亿元，同比减亏 54.93%；扣除非经常性损益的净亏损 2.09 亿元，同比减亏 79.64%。公司不派发现金红利，不送红股，不以公积金转增...">*ST 康佳 A：2026 年上半年营收 38.52 亿元 同比降 26.60%
-*ST 康佳 A 公告称，2026 年上半年实现营业收入 38.52 亿元，同比下降 26.60%；归属于上市公司股东的净亏损 1.73 亿元，同比减亏 54.93%；扣除非经常性损益的净亏损 2.09 亿元，同比减亏 79.64%。公司不派发现金红利，不送红股，不以公积金转增...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="*st 康佳：拟以股东会决议方式主动终止 a 股及 b 股上市
-*st 康佳(000016.sz)公告称，公司拟以股东会决议方式主动撤回 a 股和 b 股股票在深交所的上市交易，并在终止上市后申请转入全国中小企业股份转让系统代为管理的退市板块转让。此举旨在保护中小股东利益，因公司 2025 年度经审计期末净资产为负值，股票已被实施退市风险警示。若 2026 年度净资产持续为负，股票将被强制终止上市。公司已设置现金选择权，a 股行权价为 2.48 元/股，b 股为 0.73 港币/股，由磐石润创和合贸公司分别提供。该事项尚需股东会审议通过。"><div class="time">20:47</div><div class="content"><div class="text" data-full="*ST 康佳：拟以股东会决议方式主动终止 A 股及 B 股上市
-*ST 康佳(000016.SZ)公告称，公司拟以股东会决议方式主动撤回 A 股和 B 股股票在深交所的上市交易，并在终止上市后申请转入全国中小企业股份转让系统代为管理的退市板块转让。此举旨在保护中小股东利益，因公司 2025 年度经审计期末净资产为负值，股票已被实施退市风险警示。若 2026 年度净资产持续为负，股票将被强制终止上市。公司已设置现金选择权，A 股行权价为 2.48 元/股，B 股为 0.73 港币/股，由磐石润创和合贸公司分别提供。该事项尚需股东会审议通过。" data-short="*ST 康佳：拟以股东会决议方式主动终止 A 股及 B 股上市
-*ST 康佳(000016.SZ)公告称，公司拟以股东会决议方式主动撤回 A 股和 B 股股票在深交所的上市交易，并在终止上市后申请转入全国中小企业股份转让系统代为管理的退市板块转让。此举旨在保护中小股东利益，因公司 2025 年度经审计期末净资产为负值，股票已被实施退市风险警示。若 2026...">*ST 康佳：拟以股东会决议方式主动终止 A 股及 B 股上市
-*ST 康佳(000016.SZ)公告称，公司拟以股东会决议方式主动撤回 A 股和 B 股股票在深交所的上市交易，并在终止上市后申请转入全国中小企业股份转让系统代为管理的退市板块转让。此举旨在保护中小股东利益，因公司 2025 年度经审计期末净资产为负值，股票已被实施退市风险警示。若 2026...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="龙源电力：上半年净利润 23.93 亿元，同比下降 29.1%
-金十数据 8 月 27 日讯，龙源电力公告，上半年实现营业收入 146.42 亿元，同比下降 6.48%；归属于上市公司股东的净利润 23.93 亿元，同比下降 29.1%；基本每股收益 0.2862 元。"><div class="time">20:47</div><div class="content"><div class="text" data-full="龙源电力：上半年净利润 23.93 亿元，同比下降 29.1%
-金十数据 8 月 27 日讯，龙源电力公告，上半年实现营业收入 146.42 亿元，同比下降 6.48%；归属于上市公司股东的净利润 23.93 亿元，同比下降 29.1%；基本每股收益 0.2862 元。" data-short="龙源电力：上半年净利润 23.93 亿元，同比下降 29.1%
-金十数据 8 月 27 日讯，龙源电力公告，上半年实现营业收入 146.42 亿元，同比下降 6.48%；归属于上市公司股东的净利润 23.93 亿元，同比下降 29.1%；基本每股收益 0.2862 元。">龙源电力：上半年净利润 23.93 亿元，同比下降 29.1%
-金十数据 8 月 27 日讯，龙源电力公告，上半年实现营业收入 146.42 亿元，同比下降 6.48%；归属于上市公司股东的净利润 23.93 亿元，同比下降 29.1%；基本每股收益 0.2862 元。</div></div></article><article class="item" data-search="沪农商行上半年净利 70.73 亿元增 0.87%，营收增 1.82%
-上海农商银行（沪农商行，601825.sh）8 月 27 日晚间公布的 2026 年半年报显示，今年上半年实现营业收入 136.88 亿元，同比增长 1.82%；归属于母公司股东的净利润 70.73 亿元，同比增长 0.87%。中期利润分配方面，每 10 股派发现金股利人民币 2.499 元(含税)。"><div class="time">20:46</div><div class="content"><div class="text" data-full="沪农商行上半年净利 70.73 亿元增 0.87%，营收增 1.82%
-上海农商银行（沪农商行，601825.SH）8 月 27 日晚间公布的 2026 年半年报显示，今年上半年实现营业收入 136.88 亿元，同比增长 1.82%；归属于母公司股东的净利润 70.73 亿元，同比增长 0.87%。中期利润分配方面，每 10 股派发现金股利人民币 2.499 元(含税)。" data-short="沪农商行上半年净利 70.73 亿元增 0.87%，营收增 1.82%
-上海农商银行（沪农商行，601825.SH）8 月 27 日晚间公布的 2026 年半年报显示，今年上半年实现营业收入 136.88 亿元，同比增长 1.82%；归属于母公司股东的净利润 70.73 亿元，同比增长 0.87%。中期利润分配方面，每 10 股派发现金股利人民币 2.499...">沪农商行上半年净利 70.73 亿元增 0.87%，营收增 1.82%
-上海农商银行（沪农商行，601825.SH）8 月 27 日晚间公布的 2026 年半年报显示，今年上半年实现营业收入 136.88 亿元，同比增长 1.82%；归属于母公司股东的净利润 70.73 亿元，同比增长 0.87%。中期利润分配方面，每 10 股派发现金股利人民币 2.499...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">8月27日 · VIP</h2> <div class="feed"> <article class="item" data-search="【风口研报·公司】先进封装aoi+光模块avi检测+半导体设备线缆，这家公司依托ai算法赋能机器视觉设备业务力，逐步进入规模化关键阶段；mlcc+氧化锆+硅微粉，这家公司已实现ai服务器粉体客户突破
+续请失业金人数减少 1.8 万人，至 177.8 万人，这一指标可作为招聘情况的参考。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">8月27日 · VIP</h2> <div class="feed"> <article class="item" data-search="【电报解读】上海发布“智算光网”新一代光通信技术项目申报指南，机构看好伴随下半年800g/1.6t批量出货，掌握上游芯片研发能力的企业有望获得超额利润，这家公司积累了多项光芯片产业化相关的核心技术
+
+#仕佳光子
+#光库科技"> <div class="time">22:32</div> <div class="content"> <div class="text">【电报解读】上海发布“智算光网”新一代光通信技术项目申报指南，机构看好伴随下半年800G/1.6T批量出货，掌握上游芯片研发能力的企业有望获得超额利润，这家公司积累了多项光芯片产业化相关的核心技术
+
+#仕佳光子
+#光库科技</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【机构龙虎榜解读】存储芯片+ai数据中心+cpo，企业级存储已进入多家头部互联网及服务器厂商供应链，并实现稳定批量出货，有vcsel光芯片产品，主要应用于400g及以上大型数据中心，这家公司获净买入
+
+#联瑞新材
+#德明利"> <div class="time">22:31</div> <div class="content"> <div class="text">【机构龙虎榜解读】存储芯片+AI数据中心+CPO，企业级存储已进入多家头部互联网及服务器厂商供应链，并实现稳定批量出货，有vcsel光芯片产品，主要应用于400G及以上大型数据中心，这家公司获净买入
+
+#联瑞新材
+#德明利</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【风口研报·公司】先进封装aoi+光模块avi检测+半导体设备线缆，这家公司依托ai算法赋能机器视觉设备业务力，逐步进入规模化关键阶段；mlcc+氧化锆+硅微粉，这家公司已实现ai服务器粉体客户突破
 
 #矩子科技
 #国瓷材料"> <div class="time">22:28</div> <div class="content"> <div class="text">【风口研报·公司】先进封装AOI+光模块AVI检测+半导体设备线缆，这家公司依托AI算法赋能机器视觉设备业务力，逐步进入规模化关键阶段；MLCC+氧化锆+硅微粉，这家公司已实现AI服务器粉体客户突破
@@ -653,114 +653,7 @@ https://hi189.com/6722.html
 https://hi189.com/6722.html
 
 密码：002295
-❤1</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="众筹项目：红宝书（市场逻辑精选）
-
-众筹价：120/年
-
-权益：一般当天晚上更新（免费版第二天早上9点更新）
-
-联系：@cn50etf"> <div class="time">09:06</div> <div class="content"> <div class="text">众筹项目：红宝书（市场逻辑精选）
-
-众筹价：120/年
-
-权益：一般当天晚上更新（免费版第二天早上9点更新）
-
-联系：@cn50etf</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="频道收费项目：频道vip
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大v收费群盘中消息同步：
-
-vip资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-妖股刺客
-
-新生代作手
-邢者狩猎营
-g界孙悟空
-大师兄擒妖
-浮光
-天赢居
-
-清北游资
-时冲
-主升真经
-天机短线
-爱尔兰画眉
-震哥
-李梦尘
-
-红旗大街发哥
-游资胖大叔
-大周先生
-姆爷
-游资混江龙
-徐小明
-天地同力
-
-诗诗复利游
-a股通天宗
-
-先知
-林荫大道
-逻辑派a哥
-
-复盘哥
-鑫多多
-大将潘凤
-奶爸只做核心
-浮光知顶底
-
-借势而为
-来去由心
-嗅嗅掘金
-k神会
-
-费用：100元/月
-
-联系 @cn50etf"> <div class="time">09:06</div> <div class="content"> <div class="text">频道收费项目：频道VIP
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大V收费群盘中消息同步：
-
-VIP资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-妖股刺客
-
-新生代作手
-邢者狩猎营
-G界孙悟空
-大师兄擒妖
-浮光
-天赢居
-
-清北游资
-时冲
-主升真经
-天机...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">8月26日 · VIP</h2> <div class="feed"> <article class="item" data-search="【公告全知道】①铜箔+pcb+固态电池！公司上半年净利润同比增长超5倍
+❤1</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">8月26日 · VIP</h2> <div class="feed"> <article class="item" data-search="【公告全知道】①铜箔+pcb+固态电池！公司上半年净利润同比增长超5倍
 
 #铜冠铜箔
 #立昂微
