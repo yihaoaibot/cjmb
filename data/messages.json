@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3416953",
+    "datetime": "2026-08-27T17:06:22+00:00",
+    "views": "5",
+    "text": "OpenAI 警告，网络攻击将会 “范围广泛得多”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3416953"
+  },
+  {
+    "post": "Financial_Express/3416952",
+    "datetime": "2026-08-27T17:05:42+00:00",
+    "views": "10",
+    "text": "据 Axios：美国总统特朗普政府正与委内瑞拉临时政府进行谈判，讨论在该南美国家巨大的石油资源中获得股权。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3416952"
+  },
+  {
+    "post": "Financial_Express/3416951",
+    "datetime": "2026-08-27T17:05:22+00:00",
+    "views": "12",
+    "text": "特朗普政府正与委内瑞拉临时政府展开谈判，谋求获得这个南美国家巨量石油资源的部分所有权。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3416951"
+  },
+  {
     "post": "Financial_Express/3416950",
     "datetime": "2026-08-27T17:04:22+00:00",
-    "views": "7",
+    "views": "17",
     "text": "美联储数据：截至 8 月 26 日当周，美国经季节性调整后的商业票据未偿余额增加 60 亿美元；未经季节性调整的外国金融商业票据未偿余额增加 101 亿美元；未经季节性调整的商业票据未偿余额增加 178 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3416949",
     "datetime": "2026-08-27T17:04:02+00:00",
-    "views": "8",
+    "views": "48",
     "text": "美国 7 年期国债收益率拍卖后保持稳定，最新持平于 4.51%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3416948",
     "datetime": "2026-08-27T17:03:02+00:00",
-    "views": "24",
+    "views": "63",
     "text": "乌克兰总统泽连斯基会见摩尔多瓦总统与罗马尼亚总统。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3416946",
     "datetime": "2026-08-27T17:02:23+00:00",
-    "views": "40",
+    "views": "47",
     "text": "美国至 8 月 27 日 7 年期国债竞拍-得标利率 4.512%，前值 4.47%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3416947",
     "datetime": "2026-08-27T17:02:23+00:00",
-    "views": "39",
+    "views": "47",
     "text": "美国至 8 月 27 日 7 年期国债竞拍-投标倍数 2.5，前值 2.49。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3416945",
     "datetime": "2026-08-27T17:02:22+00:00",
-    "views": "41",
+    "views": "48",
     "text": "美国至 8 月 27 日 7 年期国债竞拍-得标利率配置百分比 97.63%，前值 95.17%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3416944",
     "datetime": "2026-08-27T17:02:20+00:00",
-    "views": "41",
+    "views": "48",
     "text": "美国财政部拍卖 440 亿美元七年期国债，得标利率 4.512%，投标倍数 2.50。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3416943",
     "datetime": "2026-08-27T17:02:02+00:00",
-    "views": "49",
+    "views": "55",
     "text": "美联储：8 月 26 日当周，美国经季节调整商业票据未偿还余额增加 60 亿美元。美国未经季节调整外国金融类商业票据未偿还余额增加 101 亿美元。美国未经季节调整商业票据未偿还规模增加 178 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3416942",
     "datetime": "2026-08-27T17:01:42+00:00",
-    "views": "53",
+    "views": "59",
     "text": "大型科技公司呼吁立即加强网络防御，以应对人工智能驱动的入侵。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3416941",
     "datetime": "2026-08-27T17:00:21+00:00",
-    "views": "66",
+    "views": "71",
     "text": "国际铜夜盘收涨 0.22%，沪铜收涨 0.18%，沪铝收涨 0.52%，沪锌收跌 1.02%，沪铅收涨 1.02%，沪镍收跌 0.40%，沪锡收涨 0.39%。氧化铝夜盘收涨 0.08%，铝合金收跌 0.13%。不锈钢夜盘收跌 0.99%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3416940",
     "datetime": "2026-08-27T16:57:42+00:00",
-    "views": "97",
+    "views": "101",
     "text": "美国联邦航空管理局表示，人员提前离岗致使拉瓜迪亚机场塔台人员配置不足。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3416939",
     "datetime": "2026-08-27T16:57:02+00:00",
-    "views": "101",
+    "views": "104",
     "text": "拉瓜迪亚机场事故发生后，美国联邦航空管理局拟解雇两名空管人员。美国联邦航空管理局称，空管人员在事故当晚提前离岗。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3416938",
     "datetime": "2026-08-27T16:53:02+00:00",
-    "views": "122",
+    "views": "124",
     "text": "LME 期铜收涨 30 美元，报 14282 美元/吨。\nLME 期铝收涨 10 美元，报 3234 美元/吨。\nLME 期锌收跌 9 美元，报 3884 美元/吨。\nLME 期铅收涨 5 美元，报 1916 美元/吨。\nLME 期镍收跌 9 美元，报 16878 美元/吨。\nLME 期锡收涨 527 美元，报 55354 美元/吨。\nLME 期钴收平，报 56290 美元/吨。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3416936",
     "datetime": "2026-08-27T16:50:02+00:00",
-    "views": "139",
+    "views": "141",
     "text": "波兰国防部长：美国将考察波兰军事基地选址。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3416935",
     "datetime": "2026-08-27T16:49:42+00:00",
-    "views": "141",
+    "views": "143",
     "text": "欧足联声明：不会支持因凡蒂诺参选国际足联主席。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3416934",
     "datetime": "2026-08-27T16:49:03+00:00",
-    "views": "144",
+    "views": "146",
     "text": "欧足联暂停抵制国际足联旗下赛事\n欧足联 27 日发布声明称，暂时中止欧洲球队退出本赛季国际足联旗下各项赛事，包括女足 U20 世界杯、U17 世界杯和女足 U17 世界杯。欧足联将持续评估这一决定，并可能在必要时立即重新考虑。欧足联在 27 日的声明中说，欧足联已于 7 月 30 日从国际足联获得所需的两项保证。国际足联已书面向欧足联确认，“国际足联前进计划”项目已被“不可撤销地永久撤回”，并且“不会以任何其他形态、结构、名称或方式再次出现”。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3416933",
     "datetime": "2026-08-27T16:49:02+00:00",
-    "views": "142",
+    "views": "144",
     "text": "广西柳州市柳南区发生 3.8 级地震 震源深度 10 公里\n金十数据 8 月 28 日讯，中国地震台网正式测定：8 月 28 日 00 时 31 分在广西柳州市柳南区（北纬 24.42 度，东经 109.28 度）发生 3.8 级地震，震源深度 10 千米。",
     "media_only": false,
     "image_url": null,
@@ -59839,23 +59866,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3409654"
-  },
-  {
-    "post": "Financial_Express/3409653",
-    "datetime": "2026-08-25T17:05:38+00:00",
-    "views": "103",
-    "text": "德国 DAX 30 指数收涨 0.61%，报 26266.14 点。\n法国 CAC 40 指数收跌 0.16%，报 8439.20 点。\n意大利富时 MIB 指数收涨 0.34%，报 52720.31 点，富时意大利综合股价银行指数收涨 0.27%。\n英国富时 100 指数收涨 0.29%，报 10886.16 点，富时 250 指数收涨 0.56%，富时 350 指数收涨 0.32%。\n荷兰 AEX 指数收跌 0.15%，丹麦 OMX 哥本哈根 20 指数收涨 1.30%、哥本哈根 25 指数收涨 0.77%。\n希腊雅典证交所综合指数收涨 0.81%，报 2653.53 点，逼近 2009 年 11 月 9 日收盘位 2688.49 点、当年 10 月 15 日顶部 2932.45 点；西班牙 IBEX 35 指数收跌 0.21%。\n挪威 OSE 基准指数收涨 0.44%，报 2097.990 点，时隔一个交易日再创收盘历史新高；挪威 OBX 指数收涨 0.31%，报 2024.190 点，逼近 4 月 7 日所创收盘历史最高位 2042.140 点和盘中历史最高位 2055.450 点。\n德国上市的 WisdomTree Europe Defence UCITS ETF 收涨 0.35%，英国伦敦上市、对军工股“照收不误”的 Future of Defence UCITS ETF 收跌 0.45%；彭博欧洲国防精选指数涨 0.60%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3409653"
-  },
-  {
-    "post": "Financial_Express/3409652",
-    "datetime": "2026-08-25T17:05:22+00:00",
-    "views": "91",
-    "text": "美国两年期国债收益率在拍卖后持稳，最新下跌 3.43 个基点，报 4.202%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3409652"
   }
 ]
