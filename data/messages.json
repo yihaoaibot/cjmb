@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3420429",
+    "datetime": "2026-08-28T13:15:03+00:00",
+    "views": "1",
+    "text": "秘鲁经济部维持 2026 年财政赤字占 GDP 比重 1.8%及 2027 年占 GDP 比重 1.4%的预测。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3420429"
+  },
+  {
+    "post": "Financial_Express/3420428",
+    "datetime": "2026-08-28T13:15:02+00:00",
+    "views": "1",
+    "text": "BIONTECH 结束二期结直肠癌临床试验。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3420428"
+  },
+  {
+    "post": "Financial_Express/3420427",
+    "datetime": "2026-08-28T13:14:38+00:00",
+    "views": "13",
+    "text": "美国克利夫兰联储主席哈马克（Hammack）：利率是美联储最佳工具，援引其悠久历史。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3420427"
+  },
+  {
+    "post": "Financial_Express/3420426",
+    "datetime": "2026-08-28T13:14:27+00:00",
+    "views": "16",
+    "text": "CFB 集团旗下冰淇淋和快餐连锁品牌 DQ 和 AI 机器人公司 Sharpa 打造的机器人餐厅将于 8 月 29 日正式开业，这是全球首个“真实门店环境”暴风雪机器人餐厅，Sharpa 机器人可全自主完成一杯暴风雪冰淇淋从点单、制作到交付的 55 步复杂连续流程，无需人工持续操控。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3420426"
+  },
+  {
+    "post": "Financial_Express/3420425",
+    "datetime": "2026-08-28T13:14:24+00:00",
+    "views": "17",
+    "text": "奥佳华：2026 年上半年净利润亏损 7392.4 万元，同比由盈转亏\n奥佳华公告，2026 年上半年营业收入 27.03 亿元，同比增长 16.14%；归属于上市公司股东的净利润亏损 7392.4 万元，2025 年同期为 2703.14 万元，同比由盈转亏；归属于上市公司股东的扣除非经常性损益的净利润亏损 9154.19 万元，2025 年同期为 1654.31 万元，同比由盈转亏。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3420425"
+  },
+  {
+    "post": "Financial_Express/3420422",
+    "datetime": "2026-08-28T13:14:23+00:00",
+    "views": "15",
+    "text": "SuperX 与澳大利亚算力服务商 Ezisight 签署算力服务器订单\nSuperX 8 月 28 日晚间发布消息，旗下子公司 Microinference 与澳大利亚算力服务商 Ezisight 签署设备与服务供应协议，并收到 Ezisight 出具的首笔采购订单，将为对方提供 128 台 B300 AI 服务器集群。根据订单约定，这批 B300 AI 服务器计划于 2026 年第四季度完成交付。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3420422"
+  },
+  {
+    "post": "Financial_Express/3420423",
+    "datetime": "2026-08-28T13:14:23+00:00",
+    "views": "15",
+    "text": "秘鲁经济部称今年矿业投资预计将超过 70 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3420423"
+  },
+  {
+    "post": "Financial_Express/3420424",
+    "datetime": "2026-08-28T13:14:23+00:00",
+    "views": "17",
+    "text": "金隅集团：2026 年上半年亏损 21.72 亿元\n金隅集团公告，2026 年上半年营业收入 359.16 亿元，同比下降 21.18%；归属于上市公司股东的净利润亏损 21.72 亿元，上年同期亏损 14.96 亿元；归属于上市公司股东的扣除非经常性损益的净利润亏损 24.29 亿元，上年同期亏损 22 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3420424"
+  },
+  {
+    "post": "Financial_Express/3420421",
+    "datetime": "2026-08-28T13:14:22+00:00",
+    "views": "15",
+    "text": "秘鲁经济部：预计今年矿业投资将超过 70 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3420421"
+  },
+  {
     "post": "Financial_Express/3420419",
     "datetime": "2026-08-28T13:13:03+00:00",
-    "views": "3",
+    "views": "28",
     "text": "美联储哈玛克：对资产负债表的经济影响了解不多。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3420420",
     "datetime": "2026-08-28T13:13:03+00:00",
-    "views": "2",
+    "views": "28",
     "text": "美联储哈玛克：低利率时代可能已属非常态。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3420418",
     "datetime": "2026-08-28T13:13:02+00:00",
-    "views": "3",
+    "views": "28",
     "text": "美联储哈玛克：低利率时代可能是不寻常的。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3420417",
     "datetime": "2026-08-28T13:12:42+00:00",
-    "views": "14",
+    "views": "33",
     "text": "美联储哈玛克：对资产负债表对经济的实际影响其实知之甚少。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3420415",
     "datetime": "2026-08-28T13:12:02+00:00",
-    "views": "23",
+    "views": "39",
     "text": "江苏银行行长高增银在江苏银行 2026 年半年度业绩说明会上表示，零售贷款规模阶段性负增，是行业周期因素与该行主动结构优化叠加的阶段性结果。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3420414",
     "datetime": "2026-08-28T13:11:42+00:00",
-    "views": "28",
+    "views": "44",
     "text": "美联储哈玛克：以开放的心态参加所有美联储会议。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3420412",
     "datetime": "2026-08-28T13:11:23+00:00",
-    "views": "31",
+    "views": "44",
     "text": "三夫户外：2026 年上半年净利润 5320.46 万元，同比增长 216.33%\n三夫户外公告，2026 年上半年营业收入 5.27 亿元，同比增长 39.37%；归属于上市公司股东的净利润 5320.46 万元，同比增长 216.33%；扣除非经常性损益的净利润 4329.08 万元，同比增长 181.91%。公司拟以 1.65 亿股为基数，每 10 股派发现金红利 0.20 元（含税），送红股 0 股，不以公积金转增股本。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3420413",
     "datetime": "2026-08-28T13:11:23+00:00",
-    "views": "31",
+    "views": "45",
     "text": "美联储哈玛克：每次参加美联储会议都持开放态度。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3420411",
     "datetime": "2026-08-28T13:11:22+00:00",
-    "views": "29",
+    "views": "40",
     "text": "美联储哈玛克：利率是美联储最易于理解的工具。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3420410",
     "datetime": "2026-08-28T13:11:18+00:00",
-    "views": "31",
+    "views": "41",
     "text": "当地时间 28 日，以色列国防军发表声明称，以军于 27 日在加沙城发动了两次定点空袭，分别打死一名巴勒斯坦伊斯兰抵抗运动（哈马斯）指挥官以及一名巴勒斯坦伊斯兰圣战组织（杰哈德）指挥官。（央视）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +182,7 @@
   {
     "post": "Financial_Express/3420409",
     "datetime": "2026-08-28T13:11:03+00:00",
-    "views": "32",
+    "views": "39",
     "text": "*ST 正平：2026 年上半年净利润亏损 1.51 亿元\n*ST 正平公告，2026 年上半年营业收入 2.2 亿元，同比下降 36.13%；归属于上市公司股东的净利润亏损 1.51 亿元，2025 年上半年亏损 8812.21 万元；归属于上市公司股东的扣除非经常性损益的净利润亏损 1.94 亿元，2025 年上半年亏损 1.15 亿元。本报告期利润分配预案为无。",
     "media_only": false,
     "image_url": null,
@@ -63907,86 +63988,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3412652"
-  },
-  {
-    "post": "Financial_Express/3412650",
-    "datetime": "2026-08-26T13:15:03+00:00",
-    "views": "32",
-    "text": "美国总统特朗普重申美国对霍尔木兹海峡的封锁仍在生效。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3412650"
-  },
-  {
-    "post": "Financial_Express/3412651",
-    "datetime": "2026-08-26T13:15:03+00:00",
-    "views": "32",
-    "text": "和解协议要求 Meta 加强年龄验证措施，以防止儿童访问平台或平台上的年龄限制内容。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3412651"
-  },
-  {
-    "post": "Financial_Express/3412649",
-    "datetime": "2026-08-26T13:14:42+00:00",
-    "views": "32",
-    "text": "我国首条海上油田化学驱聚合物全自动生产线开建\n我国首条海上油田化学驱聚合物全自动生产线在天津南港工业区开工建设。项目建成后，中国海上油田化学驱核心药剂——聚合物将实现自主规模化生产。该项目是继 2021 年油田化工南港化工厂建成投产后，中国海油在油田化学品领域的又一重要布局。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3412649"
-  },
-  {
-    "post": "Financial_Express/3412648",
-    "datetime": "2026-08-26T13:14:22+00:00",
-    "views": "32",
-    "text": "特朗普重申美国对霍尔木兹海峡的封锁正在奏效。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3412648"
-  },
-  {
-    "post": "Financial_Express/3412647",
-    "datetime": "2026-08-26T13:14:03+00:00",
-    "views": "32",
-    "text": "保利发展：2026 年上半年净利润 19.59 亿元，同比下降 40.84%\n金十数据 8 月 26 日讯，保利发展公告，2026 年上半年营业收入 1028.6 亿元，同比下降 11.98%；归属于上市公司股东的净利润 19.59 亿元，同比下降 40.84%；归属于上市公司股东的扣除非经常性损益的净利润 18.68 亿元，同比下降 41.26%。截至报告期末，公司总资产 11652.3 亿元，较报告期初下降 1.99%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3412647"
-  },
-  {
-    "post": "Financial_Express/3412646",
-    "datetime": "2026-08-26T13:13:44+00:00",
-    "views": "32",
-    "text": "特朗普：伊朗最高领袖身负重伤。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3412646"
-  },
-  {
-    "post": "Financial_Express/3412644",
-    "datetime": "2026-08-26T13:13:43+00:00",
-    "views": "32",
-    "text": "美国总统特朗普：（关于伊朗最高领袖）我认为他没有死，可能遭受重伤。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3412644"
-  },
-  {
-    "post": "Financial_Express/3412645",
-    "datetime": "2026-08-26T13:13:43+00:00",
-    "views": "32",
-    "text": "特朗普谈伊朗最高领袖：我认为他还没死。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3412645"
-  },
-  {
-    "post": "Financial_Express/3412643",
-    "datetime": "2026-08-26T13:13:42+00:00",
-    "views": "32",
-    "text": "美国总统特朗普：（关于美国中情局局长拉特克利夫访问俄罗斯的消息）他在那里是半例行的。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3412643"
   }
 ]
