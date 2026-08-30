@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3422804",
+    "datetime": "2026-08-30T20:12:42+00:00",
+    "views": "3",
+    "text": "马斯克：我成功对一段特定视频片段完成了编辑与画质增强。应当说明，就部分任务而言，我个人仍然觉得 Grok 应用比 Bot 更加好用。如果你已经有一段时间没用过，不妨拿极高难度的任务试一试。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3422804"
+  },
+  {
+    "post": "Financial_Express/3422803",
+    "datetime": "2026-08-30T20:12:02+00:00",
+    "views": "4",
+    "text": "美国加州一家上诉法院重启 2022 年的一起诉讼，该诉讼指控苹果诱导消费者不要选择第三方维修服务修复 iPhone 碎裂屏幕。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3422803"
+  },
+  {
     "post": "Financial_Express/3422802",
     "datetime": "2026-08-30T20:09:42+00:00",
-    "views": "7",
+    "views": "11",
     "text": "伊朗革命卫队：敌方对拉尔克岛的袭击，源于其无法解决国内问题且在地区国家中的地位日益下滑。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3422801",
     "datetime": "2026-08-30T20:09:03+00:00",
-    "views": "7",
+    "views": "11",
     "text": "美军袭击伊朗南部岛屿\n据伊朗媒体报道，当地时间 8 月 30 日晚，北京时间今天（8 月 31 日）凌晨，伊朗南部霍尔木兹甘省拉腊克岛地区传出爆炸声。伊朗伊斯兰革命卫队发表声明称，拉腊克岛遭袭造成包括平民在内的多人死伤，“敌人对拉腊克岛的侵略必将遭到报复，侵略者必将受到惩罚”。 据美国“阿克西奥斯新闻网（Axios）”援引一位美国官员的话报道称，美军对拉腊克岛上伊朗伊斯兰革命卫队的两处发射装置进行了打击。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3422800",
     "datetime": "2026-08-30T20:09:02+00:00",
-    "views": "7",
+    "views": "11",
     "text": "美军袭击伊朗南部岛屿 伊朗誓言报复\n金十数据 8 月 31 日讯，据伊朗媒体报道，当地时间 8 月 30 日晚，北京时间今天（8 月 31 日）凌晨，伊朗南部霍尔木兹甘省拉腊克岛地区传出爆炸声。伊朗伊斯兰革命卫队发表声明称，拉腊克岛遭袭造成包括平民在内的多人死伤，“敌人对拉腊克岛的侵略必将遭到报复，侵略者必将受到惩罚”。据美国“阿克西奥斯新闻网（Axios）”援引一位美国官员的话报道称，美军对拉腊克岛上伊朗伊斯兰革命卫队的两处发射装置进行了打击。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3422798",
     "datetime": "2026-08-30T20:05:22+00:00",
-    "views": "15",
+    "views": "48",
     "text": "乌克兰首都基辅传出爆炸声\n当地时间 8 月 30 日，乌克兰首都基辅市内传出爆炸声。此前基辅拉响了防空警报。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3422797",
     "datetime": "2026-08-30T20:02:02+00:00",
-    "views": "50",
+    "views": "51",
     "text": "伊朗革命卫队称，袭击事件造成多名士兵和平民伤亡。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3422792",
     "datetime": "2026-08-30T19:50:32+00:00",
-    "views": "66",
+    "views": "96",
     "text": "当地时间 8 月 30 日晚，有美国高级官员表示，当天早些时候，美军对伊朗拉腊克岛的两处武器装置进行了打击。伊朗方面对此暂无回应。（央视）",
     "media_only": false,
     "image_url": null,
@@ -13498,14 +13516,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3421291"
-  },
-  {
-    "post": "Financial_Express/3421290",
-    "datetime": "2026-08-28T20:11:44+00:00",
-    "views": "94",
-    "text": "北美科技软件股指数 ETF 跌 0.74%，报 109.50 美元，本周累涨 5.93%。\n本周，Global X 网络安全 ETF 反弹 5.66%，纳斯达克网络安全 ETF 反弹 3.91%，ETFMG 网络安全 ETF 反弹 3.51%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3421290"
   }
 ]
