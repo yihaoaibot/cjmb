@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3425819",
     "datetime": "2026-08-31T17:40:22+00:00",
-    "views": "3",
+    "views": "6",
     "text": "伊朗武装部队总参谋部与哈塔姆‑安比亚中央总部：尽管部分地区国家作出保证，但美国仍利用其领土与领空对伊朗实施打击，无视此前发出的警告。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3425818",
     "datetime": "2026-08-31T17:40:03+00:00",
-    "views": "4",
+    "views": "6",
     "text": "据日经新闻：日本寻求争取承办全面进步跨太平洋伙伴关系协定（CPTPP）秘书处。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3425817",
     "datetime": "2026-08-31T17:37:42+00:00",
-    "views": "8",
+    "views": "38",
     "text": "Nscale 为德克萨斯州沃德县和麦迪逊县的 AI 部署项目完成了约 30 亿美元的融资。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3425816",
     "datetime": "2026-08-31T17:37:22+00:00",
-    "views": "10",
+    "views": "40",
     "text": "随着美国国家航空航天局南希·格蕾丝·罗曼空间望远镜发射升空，泰雷兹公司已实现太空在轨科学成像传感器数量突破 1000 台。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3425812",
     "datetime": "2026-08-31T17:34:02+00:00",
-    "views": "43",
+    "views": "73",
     "text": "Nscale：设施建设资金将主要用于在两个园区部署图形处理器基础设施及配套网络、存储与液冷设备。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3425810",
     "datetime": "2026-08-31T17:31:22+00:00",
-    "views": "75",
+    "views": "105",
     "text": "俄罗斯总统普京在比什凯克出席上海合作组织峰会期间与哈萨克斯坦总统托卡耶夫举行会晤。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +164,7 @@
   {
     "post": "Financial_Express/3425801",
     "datetime": "2026-08-31T17:24:22+00:00",
-    "views": "103",
+    "views": "104",
     "text": "投资机构 Dragoneer 计划利用所持 OpenAI 和 SpaceX 等资产，为一只旨在继续长期持有现有资产的新基金募集 20 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -173,7 +173,7 @@
   {
     "post": "Financial_Express/3425800",
     "datetime": "2026-08-31T17:23:22+00:00",
-    "views": "138",
+    "views": "139",
     "text": "市场资讯：比亚迪已接洽，有意接管加拿大斯特兰蒂斯工厂。",
     "media_only": false,
     "image_url": null,
@@ -34810,14 +34810,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3421930"
-  },
-  {
-    "post": "Financial_Express/3421929",
-    "datetime": "2026-08-29T17:41:22+00:00",
-    "views": "141",
-    "text": "阿联酋央行：正研究涉事银行的处置方案，将对银行交易开展调查，调查重点聚焦美方声明提及的相关企业。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3421929"
   }
 ]
