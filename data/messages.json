@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3423168",
+    "datetime": "2026-08-31T01:16:53+00:00",
+    "views": "5",
+    "text": "人民币兑美元中间价报 6.7828，下调 17 点；上一交易日中间价 6.7811，上一交易日官方收盘价 6.7204，上日夜盘报收 6.7307。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3423168"
+  },
+  {
+    "post": "Financial_Express/3423166",
+    "datetime": "2026-08-31T01:16:22+00:00",
+    "views": "6",
+    "text": "华是科技成功获承装（修、试）电力资质\n据华是科技消息，近日，华是科技顺利取得国家能源局承装（修、试）电力设施许可证。此次全品类电力资质的取得，使公司具备了面向 AI 智算中心、IDC 数据中心、智慧园区、新型电力配套等场景的综合交付能力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3423166"
+  },
+  {
+    "post": "Financial_Express/3423165",
+    "datetime": "2026-08-31T01:16:02+00:00",
+    "views": "36",
+    "text": "恒指期货日盘开盘跌 0.58%，报 25366 点，低水 213 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3423165"
+  },
+  {
+    "post": "Financial_Express/3423163",
+    "datetime": "2026-08-31T01:15:43+00:00",
+    "views": "37",
+    "text": "钯金期货日内跌 2%，现报 1414.36 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3423163"
+  },
+  {
+    "post": "Financial_Express/3423164",
+    "datetime": "2026-08-31T01:15:43+00:00",
+    "views": "37",
+    "text": "人民币兑美元中间价报 6.7828 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3423164"
+  },
+  {
+    "post": "Financial_Express/3423161",
+    "datetime": "2026-08-31T01:15:23+00:00",
+    "views": "36",
+    "text": "先博生物完成近 4 亿元 B 轮融资\n近日，先博生物（Simnova）宣布完成近 4 亿元人民币 B 轮融资。本轮融资由孚腾资本、千骥资本、浦东创投共同领投，张科禾润、元禾控股跟投，老股东优山资本追加投资。募集资金将主要用于加速通用型 CAR-NK 核心管线 SNC103 的确证性临床研究，并推动 in vivo CAR-T 平台 SNC116 进入注册临床开发。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3423161"
+  },
+  {
+    "post": "Financial_Express/3423162",
+    "datetime": "2026-08-31T01:15:23+00:00",
+    "views": "36",
+    "text": "恒指期货日盘开盘跌 0.56%，报 25370.89 点，低水 213.90 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3423162"
+  },
+  {
+    "post": "Financial_Express/3423160",
+    "datetime": "2026-08-31T01:15:22+00:00",
+    "views": "36",
+    "text": "美国军方：我们在霍尔木兹海峡针对伊朗威胁采取的行动旨在保护航行自由和全球贸易畅通。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3423160"
+  },
+  {
     "post": "Financial_Express/3423159",
     "datetime": "2026-08-31T01:15:03+00:00",
-    "views": "1",
+    "views": "36",
     "text": "通用汽车与加拿大工会达成新协议，将追加 14 亿加元投资\n当地时间 8 月 30 日，通用汽车加拿大公司宣布，已与加拿大工会 Unifor 批准新的为期三年的集体协议。协议包括提高工资、改善福利及加强就业保障等内容。通用汽车同时宣布，未来三年将在加拿大奥沙瓦和圣凯瑟琳斯工厂合计投资约 14 亿加元。其中，奥沙瓦工厂将追加投资 1.44 亿加元，用于生产下一代 GMC Sierra 重型皮卡，加上此前公布的 3.43 亿加元投资，该厂计划总投资近 5 亿加元。圣凯瑟琳斯工厂将新增 2.15 亿加元投资，生产下一代变速箱，加上此前公布的 6.91 亿加元 V8 发动机项目投资，总投资额超过 9 亿加元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3423158",
     "datetime": "2026-08-31T01:15:02+00:00",
-    "views": "1",
+    "views": "36",
     "text": "10 年期日本国债收益率升至 2.95%，为 1996 年 9 月以来最高。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +92,8 @@
   {
     "post": "Financial_Express/3423156",
     "datetime": "2026-08-31T01:12:42+00:00",
-    "views": "38",
-    "text": "日本 10 年期国债收益率上涨 2.5 个基点，至 2.950%。",
+    "views": "69",
+    "text": "日本 10 年期国债收益率上涨 2.5 个基点，至 2.950%，为 1996 年 9 月以来最高水平。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3423156"
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3423157",
     "datetime": "2026-08-31T01:12:42+00:00",
-    "views": "38",
+    "views": "69",
     "text": "特朗普在预先录制的福克斯新闻访谈中表示：对伊朗实施的封锁成效“令人难以置信”。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3423155",
     "datetime": "2026-08-31T01:12:02+00:00",
-    "views": "38",
+    "views": "69",
     "text": "丙烯连续主力合约日内涨 4%，现报 8227.00 元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3423154",
     "datetime": "2026-08-31T01:11:23+00:00",
-    "views": "69",
+    "views": "70",
     "text": "低硫燃料油连续主力合约日内涨 5%，现报 5046.00 元。\n❤1",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3423153",
     "datetime": "2026-08-31T01:11:22+00:00",
-    "views": "69",
+    "views": "70",
     "text": "白银连续主力合约日内跌 4%，现报 16143.00 元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3423152",
     "datetime": "2026-08-31T01:10:42+00:00",
-    "views": "71",
+    "views": "101",
     "text": "市场监管总局无条件批准广和通收购航盛电子股权案\n市场监管总局发布 2026 年 8 月 17 日—8 月 23 日无条件批准经营者集中案件列表，其中包括深圳市广和通无线股份有限公司收购深圳市航盛电子股份有限公司股权案、盈方微电子股份有限公司收购上海肖克利信息科技股份有限公司股权案等。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3423151",
     "datetime": "2026-08-31T01:09:40+00:00",
-    "views": "101",
+    "views": "131",
     "text": "特朗普重申，伊朗不能拥有核武器。",
     "media_only": false,
     "image_url": null,
@@ -92,8 +164,8 @@
   {
     "post": "Financial_Express/3423149",
     "datetime": "2026-08-31T01:08:12+00:00",
-    "views": "97",
-    "text": "时隔不到半年，合格境内机构投资者（QDII）投资额度再度迎来发放。8 月 28 日，国家外汇管理局更新 QDII 投资额度审批情况，新增 68.4 亿美元额度。据统计，此次新增 QDII 投资额度后，全市场 QDII 投资总额度增长至 1830 亿美元，覆盖银行、公募、保险等多类持牌机构。其中，证券基金类机构新增额度 37.2 亿美元，相关机构 QDII 投资累计额度突破 1010 亿美元。本次扩容惠及数十家公募机构，易方达基金、华夏基金、景顺长城基金、长城基金、华泰证券（上海）资管等约 20 家公募机构的获批新增额度最高，均达到 1 亿美元。（上证报）",
+    "views": "127",
+    "text": "时隔不到半年，合格境内机构投资者（QDII）投资额度再度迎来发放。8 月 28 日，国家外汇管理局更新 QDII 投资额度审批情况，新增 68.4 亿美元额度。据统计，此次新增 QDII 投资额度后，全市场 QDII 投资总额度增长至 1830 亿美元，覆盖银行、公募、保险等多类持牌机构。其中，证券基金类机构新增额度 37.2 亿美元，相关机构 QDII 投资累计额度突破 1010 亿美元。本次扩容惠及数十家公募机构，易方达基金、华夏基金、景顺长城基金、长城基金、华泰证券（上海）资管等约 20 家公募机构的获批新增额度最高，均达到 1 亿美元。（上证报）\n👍1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3423149"
@@ -14830,14 +14902,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3421500"
-  },
-  {
-    "post": "Financial_Express/3421499",
-    "datetime": "2026-08-29T01:17:02+00:00",
-    "views": "86",
-    "text": "联合国机构：高温与极端干旱威胁欧洲多国森林健康\n联合国欧洲经济委员会 28 日警告称，欧盟国家及英国约半数领土正面临干旱威胁，降水严重不足已危及土壤湿度和森林健康。联合国欧洲经济委员会指出，在欧洲地区，破纪录的夏季高温和严重的干旱情况正在加剧森林生态系统的压力。持续干旱，高温，野火以及病虫害正在导致该地区出现前所未有的森林枯死。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3421499"
   }
 ]
