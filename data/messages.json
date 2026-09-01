@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3429306",
+    "datetime": "2026-09-01T18:12:42+00:00",
+    "views": "1",
+    "text": "Anthropic：Claude Fable 5.1 现已登陆亚马逊云科技、谷歌云以及微软 Azure。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429306"
+  },
+  {
+    "post": "Financial_Express/3429305",
+    "datetime": "2026-09-01T18:12:22+00:00",
+    "views": "2",
+    "text": "Anthropic：我们尚未发现 Mythos 5.1 与 Fable 5.1 防护机制存在高危级别越狱漏洞的证据。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429305"
+  },
+  {
+    "post": "Financial_Express/3429303",
+    "datetime": "2026-09-01T18:12:02+00:00",
+    "views": "2",
+    "text": "Anthropic：推出企业前沿安全防护（EFS），在提供零数据保留级别隐私保护的同时，加强对 AI 恶意使用的防御能力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429303"
+  },
+  {
+    "post": "Financial_Express/3429304",
+    "datetime": "2026-09-01T18:12:02+00:00",
+    "views": "2",
+    "text": "美国总统特朗普：如果伊朗反击，我们将以更强的力量打击它。今日对伊朗的打击规模非常大，如果伊朗再犯错误，这个国家将被彻底抹除。伊朗（各种不当行为）简直停不下来，他们又疯又蠢。伊朗试图重建雷达，因为他们什么都看不见。我们一直等到他们快建好了才出手打击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429304"
+  },
+  {
+    "post": "Financial_Express/3429302",
+    "datetime": "2026-09-01T18:11:43+00:00",
+    "views": "3",
+    "text": "美国总统特朗普：伊朗试图重建雷达，因为他们什么都看不见。我们一直等到他们快建好了才出手打击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429302"
+  },
+  {
+    "post": "Financial_Express/3429301",
+    "datetime": "2026-09-01T18:11:42+00:00",
+    "views": "3",
+    "text": "Anthropic：Fable 5.1 不仅性能超过 Fable 5，还能通过降低推理强度，以更低成本实现相当或更优表现。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429301"
+  },
+  {
+    "post": "Financial_Express/3429300",
+    "datetime": "2026-09-01T18:11:23+00:00",
+    "views": "3",
+    "text": "美国财长贝森特：希望就全球失衡开展 “有实质意义的讨论”。希望就何为过度失衡达成共识。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429300"
+  },
+  {
+    "post": "Financial_Express/3429299",
+    "datetime": "2026-09-01T18:11:22+00:00",
+    "views": "3",
+    "text": "美国总统特朗普：伊朗（各种不当行为）简直停不下来，他们又疯又蠢。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429299"
+  },
+  {
+    "post": "Financial_Express/3429298",
+    "datetime": "2026-09-01T18:11:02+00:00",
+    "views": "3",
+    "text": "Anthropic：Fable 5.1 在复杂、长期运行的任务中表现出色，其研究能力也让人们提前看到未来 AI 模型将如何推动科学进步。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429298"
+  },
+  {
     "post": "Financial_Express/3429297",
     "datetime": "2026-09-01T18:10:22+00:00",
-    "views": "2",
+    "views": "3",
     "text": "Anthropic：Fable 5.1 现已可用于发现软件漏洞，预计很快开放科学家注册通道。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3429296",
     "datetime": "2026-09-01T18:09:43+00:00",
-    "views": "2",
+    "views": "3",
     "text": "Anthropic：我们优化了防护机制，降低 Claude Fable 5.1 与 Claude Mythos 5.1 的误报率。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3429295",
     "datetime": "2026-09-01T18:09:42+00:00",
-    "views": "2",
+    "views": "3",
     "text": "Anthropic：EFS 将在 Claude 代码版、企业版、平台版以及亚马逊 Bedrock、谷歌、微软平台上获得支持。企业级前沿安全防护方案不收取费用。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3429294",
     "datetime": "2026-09-01T18:09:36+00:00",
-    "views": "2",
+    "views": "33",
     "text": "Anthropic：推出 Claude Fable 5.1 与 Claude Mythos 5.1。\nFable 5.1 已全面开放使用，而 Mythos 5.1 仅可通过我方可信访问计划获取。\n推出企业级前沿安全防护方案，具备零数据留存与滥用检测功能。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3429293",
     "datetime": "2026-09-01T18:09:22+00:00",
-    "views": "2",
+    "views": "33",
     "text": "Anthropic：使用 Fable 5.1 进行缓存读取的成本比 Fable 5 的低 75%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3429292",
     "datetime": "2026-09-01T18:08:42+00:00",
-    "views": "4",
+    "views": "34",
     "text": "Anthropic：将于 2026 年秋季推出企业级前沿安全防护方案。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3429291",
     "datetime": "2026-09-01T18:08:22+00:00",
-    "views": "4",
+    "views": "34",
     "text": "Anthropic 宣布推出企业级前沿安全防护方案，具备零数据留存与滥用检测功能。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3429289",
     "datetime": "2026-09-01T18:08:02+00:00",
-    "views": "5",
+    "views": "35",
     "text": "Anthropic：Claude Fable 5.1 针对常规工作负载，定价较 Fable 5 下调 25%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3429290",
     "datetime": "2026-09-01T18:08:02+00:00",
-    "views": "4",
+    "views": "34",
     "text": "Anthropic：Fable 5.1 已全面开放使用，而 Mythos 5.1 仅可通过我方可信访问计划获取。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3429288",
     "datetime": "2026-09-01T18:07:42+00:00",
-    "views": "5",
+    "views": "35",
     "text": "乌克兰总统泽连斯基：航空公司、保险公司及其他相关方应注意，俄罗斯空域因乌克兰无人机将变得危险。乌克兰并不威胁民用航空，但空中将有无人机，应对此给予充分注意。",
     "media_only": false,
     "image_url": null,
@@ -58129,14 +58210,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3422741"
-  },
-  {
-    "post": "Financial_Express/3422740",
-    "datetime": "2026-08-30T18:11:43+00:00",
-    "views": "124",
-    "text": "据英国金融时报：乌克兰前防务部长寻求西方资本，以建立和管理武器开发公司，他表示这些公司将帮助基辅抵御莫斯科。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3422740"
   }
 ]
