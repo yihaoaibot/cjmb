@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3426230",
+    "datetime": "2026-09-01T00:01:02+00:00",
+    "views": "2",
+    "text": "韩国综合股价指数（KOSPI）开盘下跌 0.5%，至 6784.29 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426230"
+  },
+  {
+    "post": "Financial_Express/3426228",
+    "datetime": "2026-09-01T00:00:42+00:00",
+    "views": "4",
+    "text": "韩国 8 月进口同比 22.5%，预期 25.3%，前值 26.5%。韩国 8 月出口同比 68.7%，预期 62.9%，前值 62.8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426228"
+  },
+  {
+    "post": "Financial_Express/3426229",
+    "datetime": "2026-09-01T00:00:42+00:00",
+    "views": "4",
+    "text": "日韩股市开盘\n日经 225 指数上午开盘报 65885.47 点，跌幅 0.64％。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426229"
+  },
+  {
+    "post": "Financial_Express/3426227",
+    "datetime": "2026-09-01T00:00:22+00:00",
+    "views": "5",
+    "text": "韩国 8 月份进口同比增长 22.5% 预估为 25.0%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426227"
+  },
+  {
+    "post": "Financial_Express/3426225",
+    "datetime": "2026-09-01T00:00:03+00:00",
+    "views": "6",
+    "text": "韩国 8 月出口年率 68.7%，预期 62.6%，前值由 62.80%修正为 62.90%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426225"
+  },
+  {
+    "post": "Financial_Express/3426226",
+    "datetime": "2026-09-01T00:00:03+00:00",
+    "views": "6",
+    "text": "韩国 8 月贸易帐初值 347.5 亿美元，预期 307.4 亿美元，前值由 303.24 亿美元修正为 303.92 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426226"
+  },
+  {
+    "post": "Financial_Express/3426224",
+    "datetime": "2026-09-01T00:00:02+00:00",
+    "views": "6",
+    "text": "韩国 8 月进口年率 22.5%，预期 24.7%，前值 26.50%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426224"
+  },
+  {
+    "post": "Financial_Express/3426223",
+    "datetime": "2026-09-01T00:00:01+00:00",
+    "views": "6",
+    "text": "韩国 8 月进口同比 22.5%，预期 25.3%，前值 26.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426223"
+  },
+  {
+    "post": "Financial_Express/3426222",
+    "datetime": "2026-09-01T00:00:00+00:00",
+    "views": "6",
+    "text": "韩国 8 月出口同比 68.7%，预期 62.9%，前值 62.8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426222"
+  },
+  {
     "post": "Financial_Express/3426221",
     "datetime": "2026-08-31T23:56:02+00:00",
-    "views": "23",
+    "views": "55",
     "text": "中信建投：白电行业板块有望在盈利企稳与格局优化中迎来基本面修复\n中信建投研报指出，2026H1 白电行业盈利承压，主因汇兑、铜价与减值等短期扰动，龙头相对抗跌、二线分化，利润加速向一线集中。行业基本面正在筑底改善：海外仍是主要增量，出口优于内销，产业在线排产显示空调 10 月已转正，25Q4 低基数叠加汇兑成本压力缓解，26H2 盈利有望逐季修复。龙头企业组织变革与自主品牌出海纵深推进，成长逻辑清晰，板块有望在盈利企稳与格局优化中迎来基本面修复。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3426220",
     "datetime": "2026-08-31T23:55:22+00:00",
-    "views": "24",
+    "views": "56",
     "text": "白宫发布关于委内瑞拉石油协议的情况说明书。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3426219",
     "datetime": "2026-08-31T23:55:02+00:00",
-    "views": "25",
+    "views": "57",
     "text": "据韩联社：韩国总统政策室长 KIM YONG-BEOM 辞任。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3426218",
     "datetime": "2026-08-31T23:54:22+00:00",
-    "views": "57",
+    "views": "59",
     "text": "日本财务省：日本 4-6 月企业资本支出同比增长 1.6%。日本企业 4-6 月销售额同比增长 5.9%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3426217",
     "datetime": "2026-08-31T23:53:42+00:00",
-    "views": "60",
+    "views": "62",
     "text": "根据尼泊尔警方公布的最新数据，截至当地时间 8 月 31 日 20 时，尼泊尔泥石流灾害造成的遇难人数升至 974 人。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3426216",
     "datetime": "2026-08-31T23:53:34+00:00",
-    "views": "62",
+    "views": "64",
     "text": "韩国总统府政策室长金容范（Kim Yong-beom）辞任，此前因杠杆 ETF 面临刑事指控。（韩联社）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3426214",
     "datetime": "2026-08-31T23:53:03+00:00",
-    "views": "64",
+    "views": "66",
     "text": "尼泊尔泥石流 974 人遇难\n据尼泊尔警方消息，截至当地时间 8 月 31 日 20 时（北京时间 22 时 15 分），尼泊尔泥石流灾害造成的遇难人数升至 974 人。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3426215",
     "datetime": "2026-08-31T23:53:03+00:00",
-    "views": "65",
+    "views": "67",
     "text": "10 年期日本国债收益率上涨 1.5 个基点至 2.955%，创 1996 年 9 月以来新高。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3426213",
     "datetime": "2026-08-31T23:53:02+00:00",
-    "views": "64",
+    "views": "66",
     "text": "日本 10 年期国债收益率上升 1.5 个基点，达到 2.955%，为 1996 年 9 月以来最高水平。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3426212",
     "datetime": "2026-08-31T23:52:42+00:00",
-    "views": "64",
+    "views": "66",
     "text": "韩国总统府政策室长金容范（Kim Yong-beom）辞职。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3426211",
     "datetime": "2026-08-31T23:52:02+00:00",
-    "views": "64",
+    "views": "66",
     "text": "法国汽车工业协会：法国八月份新车注册量上涨 7.40%。",
     "media_only": false,
     "image_url": null,
