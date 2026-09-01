@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3426522",
+    "datetime": "2026-09-01T01:52:43+00:00",
+    "views": "1",
+    "text": "乳品板块走高，佳禾食品涨停，一鸣食品、骑士乳业、天润乳业、品渥食品、妙可蓝多等纷纷走高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426522"
+  },
+  {
+    "post": "Financial_Express/3426523",
+    "datetime": "2026-09-01T01:52:43+00:00",
+    "views": "1",
+    "text": "吉伦泰研制的靶向整合素αvβ3 治疗核药获得国家药监局临床试验批件\n9 月 1 日，界面新闻获悉，北京吉伦泰医药有限公司自主研发的 1 类创新治疗核药¹⁷⁷Lu-JLT003 注射液（¹⁷⁷Lu-AB-3PRGD2）正式获得国家药品监督管理局药品审评中心（CDE）的临床试验批件。该药拟用于整合素αvβ3 阳性的恶性肿瘤治疗。（界面新闻 李科文）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426523"
+  },
+  {
+    "post": "Financial_Express/3426521",
+    "datetime": "2026-09-01T01:52:42+00:00",
+    "views": "1",
+    "text": "A 股种植业板块震荡走高，神农种业 20cm 涨停，新赛股份、农发种业、万向德农等多股涨停，华绿生物涨超 9%，康农种业、登海种业、北大荒、新农开发等个股跟涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426521"
+  },
+  {
+    "post": "Financial_Express/3426520",
+    "datetime": "2026-09-01T01:52:22+00:00",
+    "views": "2",
+    "text": "半导体板块震荡下行 概伦电子跌超 8%\n半导体板块震荡下行，概伦电子跌超 8%，唯特偶、富信科技、微导纳米等跌幅居前。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426520"
+  },
+  {
+    "post": "Financial_Express/3426519",
+    "datetime": "2026-09-01T01:51:23+00:00",
+    "views": "32",
+    "text": "深圳：拟支持脑机接口领军企业组建创新联合体，开展核心技术攻关、并购重组等\n《深圳经济特区促进脑机接口产业创新发展若干规定（征求意见稿）》公开征求意见。其中提到，市工业和信息化部门应当会同产业主管部门建立脑机接口企业梯度培育体系和全生命周期服务机制。市产业主管部门应当会同工业和信息化、地方金融管理、市场监管、商务、规划和自然资源等部门及各相关区建立脑机接口科技领军企业培育库，支持脑机接口科技领军企业牵头组建创新联合体，开展关键核心技术攻关、产业链整合、并购重组与国际市场开拓，建设共性技术平台、标准体系和应用生态，在研发资助、场景开放、用地保障等方面按规定予以支持。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426519"
+  },
+  {
+    "post": "Financial_Express/3426518",
+    "datetime": "2026-09-01T01:51:22+00:00",
+    "views": "32",
+    "text": "深圳：拟统筹规划脑解析与脑模拟重大科技设施\n金十数据 9 月 1 日讯，《深圳经济特区促进脑机接口产业创新发展若干规定（征求意见稿）》公开征求意见。其中提到，市人民政府应当统筹规划脑解析与脑模拟重大科技设施、人脑组织资源库等科技与卫生基础设施，创新基础设施运营管理制度，完善基础设施开放共享、考核、激励等机制，为本市脑机接口产业发展提供公共服务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3426518"
+  },
+  {
     "post": "Financial_Express/3426517",
     "datetime": "2026-09-01T01:51:02+00:00",
-    "views": "2",
+    "views": "33",
     "text": "深圳：拟统筹规划脑解析与脑模拟重大科技设施\n《深圳经济特区促进脑机接口产业创新发展若干规定（征求意见稿）》公开征求意见。其中提到，市人民政府应当统筹规划脑解析与脑模拟重大科技设施、人脑组织资源库等科技与卫生基础设施，创新基础设施运营管理制度，完善基础设施开放共享、考核、激励等机制，为本市脑机接口产业发展提供公共服务。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3426516",
     "datetime": "2026-09-01T01:50:22+00:00",
-    "views": "33",
+    "views": "34",
     "text": "阿里云宣布 Qwen3-VL-Rerank 模型降价\n9 月 1 日，阿里云公告，大模型服务平台百炼将于北京时间 2026 年 8 月 31 日 10:13:53 起，对北京地域 Qwen3-VL-Rerank 模型计费单价进行下调调整：将文本输入从 0.7 元/百万 tokens 下调至 0.5 元/百万 tokens，多模态输入从 1.8 元/百万 tokens 下调至 0.5 元/百万 tokens。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3426514",
     "datetime": "2026-09-01T01:49:22+00:00",
-    "views": "34",
+    "views": "64",
     "text": "固态电池概念异动拉升 金龙羽直线涨停\n固态电池概念盘中异动拉升，金龙羽直线涨停，骆驼股份、利民股份、天力锂能、上海洗霸、沧州明珠等跟涨。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3426512",
     "datetime": "2026-09-01T01:49:03+00:00",
-    "views": "34",
+    "views": "64",
     "text": "当地州长表示，乌克兰空袭造成俄罗斯萨马拉地区民用设施受损。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3426513",
     "datetime": "2026-09-01T01:49:03+00:00",
-    "views": "34",
+    "views": "64",
     "text": "乌克兰空袭损毁俄罗斯萨马拉州民用设施。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3426511",
     "datetime": "2026-09-01T01:49:02+00:00",
-    "views": "34",
+    "views": "64",
     "text": "A 股脑机接口概念短线拉升，创新医疗短线拉升涨超 3%，英集芯、爱朋医疗、三博脑科等个股跟涨。消息面上，《深圳经济特区促进脑机接口产业创新发展若干规定（征求意见稿）》公开征求意见。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3426510",
     "datetime": "2026-09-01T01:48:46+00:00",
-    "views": "34",
+    "views": "64",
     "text": "券商股异动拉升，华林证券触及涨停，国盛证券、国元证券、湘财股份、广发证券、东方财富跟涨。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3426509",
     "datetime": "2026-09-01T01:48:43+00:00",
-    "views": "34",
+    "views": "64",
     "text": "韩国计划将国家债务占 GDP 比重降至 48.3%，而此前为 51.6%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3426506",
     "datetime": "2026-09-01T01:47:43+00:00",
-    "views": "32",
+    "views": "62",
     "text": "中证 500 指数期货连续主力合约日内跌 1%，现报 7815.20 点。",
     "media_only": false,
     "image_url": null,
