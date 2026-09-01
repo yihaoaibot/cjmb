@@ -1,8 +1,161 @@
 [
   {
+    "post": "Financial_Express/3428800",
+    "datetime": "2026-09-01T14:01:03+00:00",
+    "views": "1",
+    "text": "兰达收购 Untuckit 品牌及其业务运营。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428800"
+  },
+  {
+    "post": "Financial_Express/3428799",
+    "datetime": "2026-09-01T14:01:02+00:00",
+    "views": "1",
+    "text": "美国 8 月 ISM 库存指数 50.6，前值 51.2。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428799"
+  },
+  {
+    "post": "Financial_Express/3428798",
+    "datetime": "2026-09-01T14:00:44+00:00",
+    "views": "2",
+    "text": "美国 7 月营建支出月率 -0.5%，预期 0%，前值由-0.10%修正为 0%。美国 7 月 JOLTs 职位空缺 727.1 万人，预期 730 万人，前值由 735.9 万人修正为 718.2 万人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428798"
+  },
+  {
+    "post": "Financial_Express/3428796",
+    "datetime": "2026-09-01T14:00:43+00:00",
+    "views": "2",
+    "text": "金十图示：2026 年 09 月 01 日（周二）全球股市指数-美洲市场（盘初）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428796"
+  },
+  {
+    "post": "Financial_Express/3428797",
+    "datetime": "2026-09-01T14:00:43+00:00",
+    "views": "2",
+    "text": "美国 8 月 ISM 制造业物价支付指数 71.1，预期 70.5，前值 71.1。美国 8 月 ISM 就业指数 51.2，预期 53，前值 52.8。美国 8 月 ISM 新订单指数 53.7，前值 56.7。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428797"
+  },
+  {
+    "post": "Financial_Express/3428795",
+    "datetime": "2026-09-01T14:00:22+00:00",
+    "views": "2",
+    "text": "ALAT：大规模生产预计将于 2026 年底在联想位于利雅得的制造工厂启动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428795"
+  },
+  {
+    "post": "Financial_Express/3428794",
+    "datetime": "2026-09-01T14:00:20+00:00",
+    "views": "2",
+    "text": "美国 7 月 JOLTS 职位空缺 727.1 万人，预期 738 万人，前值 735.9 万人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428794"
+  },
+  {
+    "post": "Financial_Express/3428793",
+    "datetime": "2026-09-01T14:00:07+00:00",
+    "views": "2",
+    "text": "美国 8 月 ISM 新订单指数 53.7，前值 56.7。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428793"
+  },
+  {
+    "post": "Financial_Express/3428792",
+    "datetime": "2026-09-01T14:00:06+00:00",
+    "views": "2",
+    "text": "美国 8 月 ISM 就业指数 51.2，预期 53，前值 52.8。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428792"
+  },
+  {
+    "post": "Financial_Express/3428791",
+    "datetime": "2026-09-01T14:00:05+00:00",
+    "views": "2",
+    "text": "美国 8 月 ISM 制造业物价支付指数 71.1，预期 70.5，前值 71.1。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428791"
+  },
+  {
+    "post": "Financial_Express/3428789",
+    "datetime": "2026-09-01T14:00:02+00:00",
+    "views": "3",
+    "text": "美国 7 月营建支出环比 -0.5%，预期 0.2%，前值 -0.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428789"
+  },
+  {
+    "post": "Financial_Express/3428790",
+    "datetime": "2026-09-01T14:00:02+00:00",
+    "views": "2",
+    "text": "美国 8 月 ISM 制造业新订单指数 53.7，预期 57，前值 56.7。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428790"
+  },
+  {
+    "post": "Financial_Express/3428787",
+    "datetime": "2026-09-01T14:00:01+00:00",
+    "views": "2",
+    "text": "美国 8 月 ISM 制造业指数 54.6，预期 55.2，前值 55.6。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428787"
+  },
+  {
+    "post": "Financial_Express/3428788",
+    "datetime": "2026-09-01T14:00:01+00:00",
+    "views": "2",
+    "text": "美国 8 月 ISM 制造业物价支付指数 71.1，预期 72，前值 71.1。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428788"
+  },
+  {
+    "post": "Financial_Express/3428786",
+    "datetime": "2026-09-01T14:00:00+00:00",
+    "views": "2",
+    "text": "美国 8 月 ISM 制造业就业指数 51.2，预期 52.5，前值 52.8。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428786"
+  },
+  {
+    "post": "Financial_Express/3428785",
+    "datetime": "2026-09-01T13:59:23+00:00",
+    "views": "34",
+    "text": "深圳证券信息有限公司定于 9 月 4 日发布创业板芯片指数\n为更好反映创业板相关上市公司发展情况，进一步完善创业板特色指数体系，深圳证券信息有限公司定于 2026 年 9 月 4 日发布创业板芯片指数。创业板芯片指数（代码 970096）反映创业板芯片领域相关上市公司的股价变化情况，在公司业务涉及半导体材料和设备、芯片设计、芯片制造、芯片封装和测试等芯片相关领域的创业板股票中，选取最近半年日均总市值排名前 50 名作为指数样本。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428785"
+  },
+  {
+    "post": "Financial_Express/3428784",
+    "datetime": "2026-09-01T13:59:22+00:00",
+    "views": "35",
+    "text": "贝森特：霍尔木兹海峡将在两年内实现“绕道通行” 美国将继续加码伊朗制裁\n金十数据 9 月 1 日讯，美国财长贝森特在 G20 会议上的炉边谈话中指出，美国能源领域的“3-3-3”计划针对的是原油当量，自特朗普上任以来，美国日均石油产量已增加 160 万至 220 万桶。他说，表示必须降低风险，霍尔木兹海峡将在两年内实现“绕道通行”，届时该海峡将变成“毫无价值的水域”，石油将通过陆地管道运输而非霍尔木兹海峡。谈及伊朗问题时，他提到，85%-90%的伊朗工厂具备重建能力，且伊朗可能拥有世界第三大能源资源。另外，美国可能将在本周和下周宣布银行制裁，并已获得欧盟、欧洲央行、英国、阿联酋和巴林的强力支持，对伊朗零容忍，将在经济上扼杀其发展；美国还将关注与伊朗有关的航空租赁公司。贝森特称：“我们知道英属维尔京群岛与伊朗有关的账户，从伊朗人民那里窃取的资金可以归还给他们，也可以用伊朗资金帮助恐怖主义受害者。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3428784"
+  },
+  {
     "post": "Financial_Express/3428783",
     "datetime": "2026-09-01T13:59:02+00:00",
-    "views": "1",
+    "views": "35",
     "text": "标普 500 指数触及近一个月低点，最新下跌 0.70%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +164,7 @@
   {
     "post": "Financial_Express/3428782",
     "datetime": "2026-09-01T13:55:23+00:00",
-    "views": "35",
+    "views": "68",
     "text": "拓维信息：完成 4 万股限制性股票回购注销\n拓维信息公告称，公司已办理完成限制性股票回购注销手续，本次回购注销涉及 3 名激励对象，合计 4.00 万股，占回购前公司总股本的 0.0032%，回购总金额为 12.64 万元，资金来源为公司自有资金。回购注销完成后，公司总股本由 1,259,968,174 股变更为 1,259,928,174 股，控股股东及实际控制人未发生变化，公司股权分布仍具备上市条件。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +173,8 @@
   {
     "post": "Financial_Express/3428781",
     "datetime": "2026-09-01T13:55:22+00:00",
-    "views": "35",
-    "text": "美国国家飓风中心：爱德华加强。",
+    "views": "68",
+    "text": "美国国家飓风中心：爱德华加强。\n❤1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3428781"
@@ -55186,14 +55339,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3422611"
-  },
-  {
-    "post": "Financial_Express/3422610",
-    "datetime": "2026-08-30T14:00:24+00:00",
-    "views": "177",
-    "text": "美国总统特朗普：加拿大企业正纷纷涌入美国。我们希望自己生产汽车等产品。这就是接下来会发生的事情。加拿大多年来一直在占我们的便宜，这种情况不会再继续了",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3422610"
   }
 ]
