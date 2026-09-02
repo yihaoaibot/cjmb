@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3429974",
+    "datetime": "2026-09-02T00:00:52+00:00",
+    "views": "2",
+    "text": "韩国首尔综指低开逾 3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429974"
+  },
+  {
+    "post": "Financial_Express/3429973",
+    "datetime": "2026-09-02T00:00:23+00:00",
+    "views": "6",
+    "text": "日经 225 指数上午开盘报 65195.43 点，跌幅 1.54%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429973"
+  },
+  {
+    "post": "Financial_Express/3429972",
+    "datetime": "2026-09-02T00:00:22+00:00",
+    "views": "6",
+    "text": "G20 主席国声明：全球经济在多重冲击面前保持了韧性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429972"
+  },
+  {
+    "post": "Financial_Express/3429971",
+    "datetime": "2026-09-02T00:00:04+00:00",
+    "views": "9",
+    "text": "10 年期日本国债收益率上涨 1.0 个基点，至 3.000%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429971"
+  },
+  {
+    "post": "Financial_Express/3429969",
+    "datetime": "2026-09-02T00:00:03+00:00",
+    "views": "9",
+    "text": "G20 主席国声明：对能源贸易持续中断表示关切。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429969"
+  },
+  {
+    "post": "Financial_Express/3429970",
+    "datetime": "2026-09-02T00:00:03+00:00",
+    "views": "9",
+    "text": "钯金期货日内跌 1%，现报 1316.00 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429970"
+  },
+  {
+    "post": "Financial_Express/3429968",
+    "datetime": "2026-09-02T00:00:01+00:00",
+    "views": "9",
+    "text": "中国即将发行或正在发行的国债和政策性金融债",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429968"
+  },
+  {
+    "post": "Financial_Express/3429967",
+    "datetime": "2026-09-01T23:59:42+00:00",
+    "views": "10",
+    "text": "日本央行总裁植田和男：对每日走势以及市场普遍预期 9 月加息可能性相当高不予置评。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429967"
+  },
+  {
+    "post": "Financial_Express/3429966",
+    "datetime": "2026-09-01T23:59:03+00:00",
+    "views": "10",
+    "text": "俄罗斯副外长部长格鲁什科：没有恢复黑海粮食倡议的理由。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429966"
+  },
+  {
+    "post": "Financial_Express/3429965",
+    "datetime": "2026-09-01T23:59:02+00:00",
+    "views": "10",
+    "text": "G20 主席国声明：承诺推进负责任、有效的监管和监督框架，以维护金融稳定，支持经济增长，为健康的数字金融和数字资产创新建立明确路径。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429965"
+  },
+  {
     "post": "Financial_Express/3429964",
     "datetime": "2026-09-01T23:58:42+00:00",
-    "views": "3",
+    "views": "42",
     "text": "日本财务大臣片山皋月：美国财长贝森特自去年十月以来一直表示，如果日本的通缩情况发生变化，则需要不同的策略。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3429963",
     "datetime": "2026-09-01T23:58:22+00:00",
-    "views": "5",
+    "views": "43",
     "text": "巴林官方表示，其防空系统在巴林王国领空拦截并摧毁了伊朗无人机。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3429962",
     "datetime": "2026-09-01T23:58:02+00:00",
-    "views": "7",
+    "views": "44",
     "text": "日本央行行长植田和男：稳定价格走势在 2%左右至关重要。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3429961",
     "datetime": "2026-09-01T23:57:57+00:00",
-    "views": "8",
+    "views": "44",
     "text": "2026 年 9 月 1 日，由国家市场监督管理总局（国家标准化管理委员会）发布、我国首个聚焦人工客服与智能客服协同机制的推荐性国家标准《顾客联络服务 人工与智能客户服务协同要求》实施，其中明确“分工要科学，简单的问题交给 AI，复杂的纠纷要及时地流转到人工”。《要求》的实施，首先有望破解消费者反映最强烈的“转人工难”痛点。针对智能客服“答非所问”“循环回复”却无法转接人工，以及人工入口层层隐藏等行业顽疾，《要求》划定了清晰的服务边界与流转规则。其次，有助于推动行业从盲目追求 AI 替代率，转向构建人机高效协同的管理机制。（法治日报）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3429960",
     "datetime": "2026-09-01T23:57:42+00:00",
-    "views": "10",
+    "views": "43",
     "text": "日本央行行长植田和男：潜在通胀率已接近 2%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3429959",
     "datetime": "2026-09-01T23:57:32+00:00",
-    "views": "10",
+    "views": "43",
     "text": "日本财务大臣片山皋月：贝森特自去年 10 月起就一直在表示，若日本摆脱通缩的局势发生变化，则需要采取不同的策略。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3429958",
     "datetime": "2026-09-01T23:57:22+00:00",
-    "views": "13",
+    "views": "45",
     "text": "日本央行行长植田和男：将关注经济和价格是否与我们的情景相符，以及相关风险。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3429957",
     "datetime": "2026-09-01T23:57:03+00:00",
-    "views": "13",
+    "views": "45",
     "text": "G20 主席国声明：致力于现代化监管框架以确保金融稳定。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3429956",
     "datetime": "2026-09-01T23:57:02+00:00",
-    "views": "13",
+    "views": "45",
     "text": "日本央行行长植田和男：将在下次政策会议上讨论适当的政策，同时审视经济、价格和金融状况。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3429955",
     "datetime": "2026-09-01T23:56:42+00:00",
-    "views": "14",
+    "views": "46",
     "text": "日本财务大臣片山皋月：联合货币干预有助于全球市场和经济的稳定。",
     "media_only": false,
     "image_url": null,
@@ -61486,59 +61576,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3423033"
-  },
-  {
-    "post": "Financial_Express/3423032",
-    "datetime": "2026-08-31T00:00:43+00:00",
-    "views": "47",
-    "text": "新西兰储备银行行长布雷曼将于 9 月 3 日在 NZFMA 活动上发表讲话。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423032"
-  },
-  {
-    "post": "Financial_Express/3423031",
-    "datetime": "2026-08-31T00:00:42+00:00",
-    "views": "44",
-    "text": "日韩股市开盘\n日经 225 指数上午开盘报 65668.51 点，跌幅 1.11％。韩国综合股价指数（KOSPI）开盘下跌 2.6％，至 6613.58 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423031"
-  },
-  {
-    "post": "Financial_Express/3423030",
-    "datetime": "2026-08-31T00:00:22+00:00",
-    "views": "42",
-    "text": "主动 ETF 落地在即 投资者需厘清三个误区\n主动 ETF 批文落地在即，各大基金公司正在加紧各项筹备工作。据证券时报记者近日了解，投资者预期管理和技术设备完善是两大重点工作。基金公司最新的调研摸底结果显示，不少投资者希望主动 ETF 能实现高额资本增值、提前退休等投资目标。业内人士在受访中提示，投资者需厘清对主动 ETF 认知方面的三个误区：主动 ETF 不是场内版主动基金、不可脱离具体投资策略去谈赚钱效率、更不意味着稳赚不赔。首批主动 ETF 产品主要集中在大盘价值、质量成长、红利和均衡配置等方向，对应的主要是基础配置收益。在首批产品形成稳定且可解释的业绩表现后，未来会推出风格化更强的产品。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423030"
-  },
-  {
-    "post": "Financial_Express/3423029",
-    "datetime": "2026-08-31T00:00:03+00:00",
-    "views": "41",
-    "text": "开辟新的泄洪通道、转移群众 8000 人 云南磨憨洪涝灾害最新救援进展\n28 日下午到 29 日上午，云南省西双版纳傣族自治州勐腊县普降大到暴雨，昆明市托管的勐腊县磨憨镇 24 小时最大降雨量达 187.5 毫米，发生洪涝灾害。据昆明市防汛抗旱指挥部办公室 29 日晚 8 点 10 分发布的通报，磨憨镇磨龙村盐塘水库出现漫坝险情，存在溃坝风险。险情发生后，当地立即启动防汛Ⅱ级应急响应，组织应急力量开展抢险避险工作，对危险区域群众进行紧急转移安置。截至目前，一共转移群众大概 8000 多人。磨憨启用了多个安置点，主要在一线国门大厅、学校、农场等地势较高的安全区域。（央视）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423029"
-  },
-  {
-    "post": "Financial_Express/3423027",
-    "datetime": "2026-08-31T00:00:01+00:00",
-    "views": "42",
-    "text": "中国即将发行或正在发行的国债和政策性金融债",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423027"
-  },
-  {
-    "post": "Financial_Express/3423028",
-    "datetime": "2026-08-31T00:00:01+00:00",
-    "views": "42",
-    "text": "中国即将发行或正在发行的地方政府债",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423028"
   }
 ]
