@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3430001",
+    "datetime": "2026-09-02T00:06:42+00:00",
+    "views": "1",
+    "text": "布伦特原油日内涨 1%，现报 95.61 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3430001"
+  },
+  {
+    "post": "Financial_Express/3430002",
+    "datetime": "2026-09-02T00:06:42+00:00",
+    "views": "1",
+    "text": "WTI 原油日内涨 1%，现报 91.13 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3430002"
+  },
+  {
+    "post": "Financial_Express/3430000",
+    "datetime": "2026-09-02T00:06:32+00:00",
+    "views": "1",
+    "text": "澳大利亚 S&P/ASX 200 指数下跌 1.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3430000"
+  },
+  {
+    "post": "Financial_Express/3429999",
+    "datetime": "2026-09-02T00:06:22+00:00",
+    "views": "1",
+    "text": "澳大利亚 S&P/ASX 200 指数早盘下跌 1.1%，报 8,969 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429999"
+  },
+  {
+    "post": "Financial_Express/3429998",
+    "datetime": "2026-09-02T00:06:05+00:00",
+    "views": "1",
+    "text": "日经 225 指数跌超 2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429998"
+  },
+  {
+    "post": "Financial_Express/3429996",
+    "datetime": "2026-09-02T00:05:42+00:00",
+    "views": "1",
+    "text": "日本央行行长植田和男：希望在下次会议上讨论经济情景实现的可能性是否提高，以及通胀风险是否加大。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429996"
+  },
+  {
+    "post": "Financial_Express/3429997",
+    "datetime": "2026-09-02T00:05:42+00:00",
+    "views": "1",
+    "text": "日本财务大臣片山皋月：将适当实施债务管理政策，同时与市场保持密切沟通。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429997"
+  },
+  {
+    "post": "Financial_Express/3429995",
+    "datetime": "2026-09-02T00:05:02+00:00",
+    "views": "33",
+    "text": "日本央行行长植田和男：货币条件仍然宽松，因此我们希望继续加息。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429995"
+  },
+  {
     "post": "Financial_Express/3429994",
     "datetime": "2026-09-02T00:04:43+00:00",
-    "views": "1",
+    "views": "3",
     "text": "日本财务大臣片山皋月：G20 会议上没有人反对日本的外汇立场。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3429993",
     "datetime": "2026-09-02T00:04:42+00:00",
-    "views": "1",
+    "views": "3",
     "text": "日本财务大臣片山：正以极高的紧迫感监控债市形势。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3429992",
     "datetime": "2026-09-02T00:04:29+00:00",
-    "views": "2",
+    "views": "3",
     "text": "日本财务大臣片山皋月：在 G20 会议上无人反对日本的外汇政策立场。\n不对具体的国债收益率水平发表评论。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3429991",
     "datetime": "2026-09-02T00:04:22+00:00",
-    "views": "2",
+    "views": "33",
     "text": "日经 225 指数跌幅扩大至 2%\n日经 225 指数跌幅扩大至 2%，现报 64760.65 点。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3429990",
     "datetime": "2026-09-02T00:04:02+00:00",
-    "views": "4",
+    "views": "35",
     "text": "日本财务大臣片山皋月：利率由市场根据各种因素决定。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3429988",
     "datetime": "2026-09-02T00:03:44+00:00",
-    "views": "4",
+    "views": "35",
     "text": "日本财务大臣片山就基准日本国债收益率触及 3%的提问表示：不会对具体点位置评。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3429989",
     "datetime": "2026-09-02T00:03:44+00:00",
-    "views": "4",
+    "views": "35",
     "text": "日本财政大臣片山：利率由市场依据多种因素决定。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3429986",
     "datetime": "2026-09-02T00:03:43+00:00",
-    "views": "4",
+    "views": "34",
     "text": "日本央行行长植田和男：不过，我们在审议政策时也会考虑价格上行风险。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3429987",
     "datetime": "2026-09-02T00:03:43+00:00",
-    "views": "4",
+    "views": "35",
     "text": "日本财务大臣片山皋月：（对于基准日本国债收益率达到 3%）不会对此作出具体评论。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3429985",
     "datetime": "2026-09-02T00:03:42+00:00",
-    "views": "4",
+    "views": "34",
     "text": "敖德萨官员：俄罗斯袭击敖德萨，基础设施受损。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3429984",
     "datetime": "2026-09-02T00:03:30+00:00",
-    "views": "4",
+    "views": "34",
     "text": "MSCI 亚太指数下跌 1%至 276.22 点。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3429983",
     "datetime": "2026-09-02T00:03:22+00:00",
-    "views": "5",
+    "views": "35",
     "text": "日本央行行长植田和男：我们迄今已将政策利率提高了五次，因此需要仔细审视累积影响可能对经济产生的影响。",
     "media_only": false,
     "image_url": null,
@@ -61594,41 +61666,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3423051"
-  },
-  {
-    "post": "Financial_Express/3423050",
-    "datetime": "2026-08-31T00:06:43+00:00",
-    "views": "50",
-    "text": "MSCI 亚太指数下跌 1%至 275.30 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423050"
-  },
-  {
-    "post": "Financial_Express/3423049",
-    "datetime": "2026-08-31T00:06:42+00:00",
-    "views": "80",
-    "text": "日经 225 指数下跌超过 2.3%，至 64860.54。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423049"
-  },
-  {
-    "post": "Financial_Express/3423048",
-    "datetime": "2026-08-31T00:05:42+00:00",
-    "views": "83",
-    "text": "美通用汽车公司将对加拿大汽车产业投资 11 亿加元\n加拿大和美国的贸易谈判日前宣告破裂，美国对价值 200 亿美元的加拿大商品征收 50%的关税，加拿大则宣布 9 月 8 日起对美征收等额报复性关税。就在美加贸易争端陷入僵局之际，加拿大工会宣布与美国通用汽车公司达成了一项关于投资加拿大汽车产业的临时协议。据加拿大方面消息，美国通用汽车公司与加拿大工会达成的这项临时协议包含对加拿大汽车产业高达 11 亿加元（约合 53.6 亿元人民币）的投资。根据临时协议，通用汽车将在加拿大安大略省奥沙瓦的工厂生产该品牌的下一代重型皮卡车型，同时承诺不会立即出售或关闭位于安大略省英格索尔的工厂。临时协议还包括对下一代 V8 发动机项目的支持，以及计划于 2029 年底启动在安大略省圣凯瑟琳斯工厂组装新一代变速箱的项目。面对当前美加两国之间的贸易争端，加拿大工会成员认为，这份临时协议可能是最好的情形。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423048"
-  },
-  {
-    "post": "Financial_Express/3423047",
-    "datetime": "2026-08-31T00:05:22+00:00",
-    "views": "83",
-    "text": "摩根大通：新西兰央行料将连续第二次加息\n摩根大通表示，新西兰央行有望在 9 月份连续第二次加息，周三将官方隔夜拆款利率上调至 2.75%。该行经济学家 Ben Jarman 称，鉴于政策利率仍处于宽松水平，且数据已基本扫清所有障碍、表明经济增长正在回升，加息 25 个基点的可能性已基本被市场完全消化。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423047"
   }
 ]
