@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3433324",
+    "datetime": "2026-09-02T21:12:02+00:00",
+    "views": "1",
+    "text": "博通 CEO：未来数年内，每年将交付数百亿颗 TPU。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3433324"
+  },
+  {
+    "post": "Financial_Express/3433322",
+    "datetime": "2026-09-02T21:11:22+00:00",
+    "views": "1",
+    "text": "博通(AVGO.O)首席执行官：将 2026 财年 AI 业务营收指引从 560 亿美元上调至 580 亿美元，同比增长 186%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3433322"
+  },
+  {
+    "post": "Financial_Express/3433323",
+    "datetime": "2026-09-02T21:11:22+00:00",
+    "views": "1",
+    "text": "博通(AVGO.O)首席执行官：预计第四季度将开始大规模量产交付 Meta Platforms(META.O)定制的 MTIA 加速器。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3433323"
+  },
+  {
     "post": "Financial_Express/3433321",
     "datetime": "2026-09-02T21:10:43+00:00",
-    "views": "1",
+    "views": "3",
     "text": "博通 CEO：将 2026 财年人工智能业务营收指引从 560 亿美元上调至 580 亿美元，同比增长 186%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3433320",
     "datetime": "2026-09-02T21:10:42+00:00",
-    "views": "1",
+    "views": "3",
     "text": "博通(AVGO.O)首席执行官：预计将在第四季度扩大向谷歌(GOOG.O)大规模出货 TPU 版本 8I 的规模。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3433319",
     "datetime": "2026-09-02T21:10:22+00:00",
-    "views": "2",
+    "views": "3",
     "text": "G20 成员国通过“卡罗来纳原则” 支持美国 AI“轻监管”原则\n金十数据 9 月 3 日讯，全球主要经济体代表一致同意采纳美国提出的人工智能及新兴技术治理原则。美国商务部长卢特尼克表示，二十国集团成员国周三一致通过了这套被称为“卡罗来纳原则”（Carolina Principles）的框架，为特朗普政府及硅谷赢得一项重要成果。该原则呼吁 G20 各国针对不同行业采取差异化监管方式，并在测试人工智能等新技术时，将推迟技术应用可能带来的成本纳入考量，同时加强政府与私营企业合作开展新兴技术测试。白宫科技政策顾问迈克尔·克拉齐奥斯表示，美国向与会各方传达的信息很简单，即希望推动全球经济增长和创新。相关原则将在今年 12 月特朗普于佛罗里达州多拉尔举办的 G20 峰会上提交各国领导人正式通过。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3433318",
     "datetime": "2026-09-02T21:10:02+00:00",
-    "views": "2",
+    "views": "3",
     "text": "博通 CEO：预计第四季度将大规模量产交付 Meta 定制版 MTIA 加速器。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3433317",
     "datetime": "2026-09-02T21:09:43+00:00",
-    "views": "2",
+    "views": "3",
     "text": "博通 CEO：预计第四季度将加快向 Anthropic 交付 Ironwood 芯片。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3433316",
     "datetime": "2026-09-02T21:09:42+00:00",
-    "views": "2",
+    "views": "3",
     "text": "博通(AVGO.O)首席执行官：公司目前正在出货 TPU 版本 8I，领先于联发科（MediaTek）的 V8T 版本。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3433315",
     "datetime": "2026-09-02T21:09:23+00:00",
-    "views": "2",
+    "views": "3",
     "text": "博通 CEO：同时预计第四季度将加大向谷歌批量交付 TPU 8I 版本产品。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3433314",
     "datetime": "2026-09-02T21:09:22+00:00",
-    "views": "2",
+    "views": "3",
     "text": "博通(AVGO.O)首席执行官：我们预计在第四季度将加快向 Anthropic 的发货。",
     "media_only": false,
     "image_url": null,
@@ -93,7 +120,7 @@
     "post": "Financial_Express/3433311",
     "datetime": "2026-09-02T21:08:03+00:00",
     "views": "5",
-    "text": "博通 CEOHock Tan：新款谷歌 TPU 芯片与英伟达 Vera Rubin 一样优秀，甚至更好。\n本季度，我们已开始向谷歌量产交付下一代 TPU 8I 版本产品。\n同时预计第四季度将加大向谷歌批量交付 TPU 8I 版本产品。\n预计第四季度将加快向 Anthropic 交付 Ironwood 芯片。",
+    "text": "博通 CEOHock Tan：新款谷歌 TPU 芯片与英伟达 Vera Rubin 一样优秀，甚至更好。\n本季度，我们已开始向谷歌量产交付下一代 TPU 8I 版本产品。\n同时预计第四季度将加大向谷歌批量交付 TPU 8I 版本产品。\n预计第四季度将加快向 Anthropic 交付 Ironwood 芯片。\n预计第四季度将大规模量产交付 Meta 定制版 MTIA 加速器。\n将 2026 财年人工智能业务营收指引从 560 亿美元上调至 580 亿美元，预计同比将增长 186%。\n未来数年，每年都将交付数十亿块 Multi-10s。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3433311"
