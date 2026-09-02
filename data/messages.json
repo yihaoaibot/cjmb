@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3433338",
+    "datetime": "2026-09-02T21:16:42+00:00",
+    "views": "4",
+    "text": "博通 CEO：公司仍按计划将于 28 财年第四季度实现 GAAP 会计准则下盈利。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3433338"
+  },
+  {
+    "post": "Financial_Express/3433337",
+    "datetime": "2026-09-02T21:16:22+00:00",
+    "views": "8",
+    "text": "博通(AVGO.O)首席执行官：到 2028 年，我们预计 OpenAI 将部署超过 5 吉瓦的 Jelapeno 及其后续一代 XPU。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3433337"
+  },
+  {
+    "post": "Financial_Express/3433335",
+    "datetime": "2026-09-02T21:16:02+00:00",
+    "views": "8",
+    "text": "博通(AVGO.O)首席执行官：OpenAI 的 Jalapeno 项目正按计划推进，预计将在 2027 年部署 1.3 吉瓦。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3433335"
+  },
+  {
+    "post": "Financial_Express/3433336",
+    "datetime": "2026-09-02T21:16:02+00:00",
+    "views": "8",
+    "text": "博通 CEO：预计到 2028 年 Meta 将实现 3 吉瓦的部署规模。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3433336"
+  },
+  {
+    "post": "Financial_Express/3433334",
+    "datetime": "2026-09-02T21:15:42+00:00",
+    "views": "9",
+    "text": "博通 CEO：从现在至 2027 年底，我们将向 Meta 交付三代 MTIA 加速器。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3433334"
+  },
+  {
+    "post": "Financial_Express/3433333",
+    "datetime": "2026-09-02T21:15:16+00:00",
+    "views": "11",
+    "text": "富时 A50 期指连续夜盘收涨 0.14%，报 14587 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3433333"
+  },
+  {
+    "post": "Financial_Express/3433332",
+    "datetime": "2026-09-02T21:15:03+00:00",
+    "views": "14",
+    "text": "博通 CEO：我们正与 OpenAI 合作开发第三代 XPU。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3433332"
+  },
+  {
+    "post": "Financial_Express/3433330",
+    "datetime": "2026-09-02T21:15:02+00:00",
+    "views": "14",
+    "text": "博通(AVGO.O)首席执行官：到 2028 年，将有明确把握可以提供额外的 10 吉瓦。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3433330"
+  },
+  {
+    "post": "Financial_Express/3433331",
+    "datetime": "2026-09-02T21:15:02+00:00",
+    "views": "14",
+    "text": "博通(AVGO.O)首席执行官：Anthropic 有望在 2027 年成为我们最大的 XPU 客户，并在 2028 年保持这一地位。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3433331"
+  },
+  {
     "post": "Financial_Express/3433329",
     "datetime": "2026-09-02T21:14:42+00:00",
-    "views": "3",
+    "views": "16",
     "text": "博通 CEO：2028 年，我们预计 OpenAI 将部署超过 5 吉瓦算力的 Jalapeno 及其下一代 XPU 产品。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3433328",
     "datetime": "2026-09-02T21:14:22+00:00",
-    "views": "6",
+    "views": "18",
     "text": "博通 CEO：OpenAI 的 Jalapeno 项目按计划将于 2027 年完成 1.3 吉瓦的部署。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3433326",
     "datetime": "2026-09-02T21:13:43+00:00",
-    "views": "8",
+    "views": "17",
     "text": "博通 CEO：预计 Anthropic 将于 2027 年再部署 5 吉瓦算力的谷歌 TPU 8I 版本。2028 年，我们有望实现新增 10 吉瓦的交付规模。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3433327",
     "datetime": "2026-09-02T21:13:43+00:00",
-    "views": "8",
+    "views": "17",
     "text": "博通 CEO：Anthropic 有望在 2027 年成为我们最大的 XPU 客户，并在 2028 年维持这一地位。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3433325",
     "datetime": "2026-09-02T21:13:42+00:00",
-    "views": "8",
+    "views": "17",
     "text": "博通(AVGO.O)首席执行官：预计 Anthropic 将在 2027 年部署另外 5GW 的谷歌 TPU 版本 8I。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3433324",
     "datetime": "2026-09-02T21:12:02+00:00",
-    "views": "6",
+    "views": "9",
     "text": "博通 CEO：未来数年内，每年将交付数百亿颗 TPU。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3433322",
     "datetime": "2026-09-02T21:11:22+00:00",
-    "views": "6",
+    "views": "9",
     "text": "博通(AVGO.O)首席执行官：将 2026 财年 AI 业务营收指引从 560 亿美元上调至 580 亿美元，同比增长 186%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3433323",
     "datetime": "2026-09-02T21:11:22+00:00",
-    "views": "6",
+    "views": "39",
     "text": "博通(AVGO.O)首席执行官：预计第四季度将开始大规模量产交付 Meta Platforms(META.O)定制的 MTIA 加速器。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3433321",
     "datetime": "2026-09-02T21:10:43+00:00",
-    "views": "6",
+    "views": "9",
     "text": "博通 CEO：将 2026 财年人工智能业务营收指引从 560 亿美元上调至 580 亿美元，同比增长 186%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3433320",
     "datetime": "2026-09-02T21:10:42+00:00",
-    "views": "6",
+    "views": "9",
     "text": "博通(AVGO.O)首席执行官：预计将在第四季度扩大向谷歌(GOOG.O)大规模出货 TPU 版本 8I 的规模。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3433319",
     "datetime": "2026-09-02T21:10:22+00:00",
-    "views": "5",
+    "views": "7",
     "text": "G20 成员国通过“卡罗来纳原则” 支持美国 AI“轻监管”原则\n金十数据 9 月 3 日讯，全球主要经济体代表一致同意采纳美国提出的人工智能及新兴技术治理原则。美国商务部长卢特尼克表示，二十国集团成员国周三一致通过了这套被称为“卡罗来纳原则”（Carolina Principles）的框架，为特朗普政府及硅谷赢得一项重要成果。该原则呼吁 G20 各国针对不同行业采取差异化监管方式，并在测试人工智能等新技术时，将推迟技术应用可能带来的成本纳入考量，同时加强政府与私营企业合作开展新兴技术测试。白宫科技政策顾问迈克尔·克拉齐奥斯表示，美国向与会各方传达的信息很简单，即希望推动全球经济增长和创新。相关原则将在今年 12 月特朗普于佛罗里达州多拉尔举办的 G20 峰会上提交各国领导人正式通过。",
     "media_only": false,
     "image_url": null,
@@ -64537,14 +64618,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3426055"
-  },
-  {
-    "post": "Financial_Express/3426054",
-    "datetime": "2026-08-31T21:15:23+00:00",
-    "views": "91",
-    "text": "富时 A50 期指连续夜盘收跌 0.09%，报 14689 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3426054"
   }
 ]
