@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3432826",
+    "datetime": "2026-09-02T15:50:42+00:00",
+    "views": "7",
+    "text": "以色列一名高级官员表示，以色列与叙利亚达成安全协议的尝试已经失败，部分原因是双方在以色列撤出缓冲区问题上存在分歧。以方与大马士革之间的沟通渠道仍保持畅通。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3432826"
+  },
+  {
+    "post": "Financial_Express/3432825",
+    "datetime": "2026-09-02T15:50:24+00:00",
+    "views": "10",
+    "text": "美国国务卿鲁比奥：（谈及古巴）古巴如今已是一个失败的国家，但责任不在美国。尽管外界有声音将责任归咎于美方，事实并非如此。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3432825"
+  },
+  {
+    "post": "Financial_Express/3432824",
+    "datetime": "2026-09-02T15:50:08+00:00",
+    "views": "14",
+    "text": "美国国务卿鲁比奥谈及古巴：马杜罗过去实质上是掠夺委内瑞拉民众的石油，无偿输送给古巴。古巴拿到这些石油后，并没有将其用于造福本国人民。他们把大部分石油变卖换取现金，而这些钱款流入了他们自己的腰包。如今这种情况已经不复存在。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3432824"
+  },
+  {
     "post": "Financial_Express/3432823",
     "datetime": "2026-09-02T15:47:43+00:00",
-    "views": "31",
+    "views": "50",
     "text": "高盛公司将华友钴业评级上调至中性，目标价 42 元人民币。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3432822",
     "datetime": "2026-09-02T15:47:42+00:00",
-    "views": "32",
+    "views": "50",
     "text": "伦敦金属交易所 1 月期锌参考收盘价为每吨 3941 美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3432821",
     "datetime": "2026-09-02T15:45:42+00:00",
-    "views": "51",
+    "views": "67",
     "text": "谷歌：Fairwind 项目仅限政府机构及可信合作伙伴参与。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3432820",
     "datetime": "2026-09-02T15:45:30+00:00",
-    "views": "52",
+    "views": "68",
     "text": "谷歌：Fairwind 项目合作伙伴包括埃森哲、麦肯锡、帕洛阿尔托网络。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3432819",
     "datetime": "2026-09-02T15:44:43+00:00",
-    "views": "62",
+    "views": "76",
     "text": "新泽西州提请美国最高法院裁定：各州是否有权对 Kalshi 及其他预测市场平台上的体育博彩业务实施监管。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3432818",
     "datetime": "2026-09-02T15:44:23+00:00",
-    "views": "64",
+    "views": "78",
     "text": "谷歌(GOOG.O)推出网络防御计划，面向合作伙伴和政府机构。",
     "media_only": false,
     "image_url": null,
@@ -56,8 +83,8 @@
   {
     "post": "Financial_Express/3432817",
     "datetime": "2026-09-02T15:44:20+00:00",
-    "views": "62",
-    "text": "Alphabet 旗下谷歌公司宣布，最新的 Gemini 3.8 Flash 模型今日起面向 Pro 及 Ultra 用户开放。\nGemini 3.8 Flash 性能进一步增强，能够输出更可靠、更全面的回复，既可针对日常话题给出可落地的建议，也可胜任文本分析、复杂编程等深度任务。\nFairwind 项目合作伙伴包括埃森哲、麦肯锡、帕洛阿尔托网络。\nFairwind 项目仅限政府机构及可信合作伙伴参与。",
+    "views": "75",
+    "text": "Alphabet 旗下谷歌公司宣布，最新的 Gemini 3.8 Flash 模型今日起面向 Pro 及 Ultra 用户开放。\nGemini 3.8 Flash 性能进一步增强，能够输出更可靠、更全面的回复，既可针对日常话题给出可落地的建议，也可胜任文本分析、复杂编程等深度任务。\n针对网络防御发布 Fairwind 项目，项目合作伙伴包括埃森哲、麦肯锡、帕洛阿尔托网络，项目仅限政府机构及可信合作伙伴参与。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3432817"
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3432815",
     "datetime": "2026-09-02T15:44:02+00:00",
-    "views": "59",
+    "views": "73",
     "text": "谷歌(GOOG.O)推出 Gemini 3.8 Flash 推理模型。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3432816",
     "datetime": "2026-09-02T15:44:02+00:00",
-    "views": "61",
+    "views": "75",
     "text": "Google Gemini：最新的 Gemini 3.8 Flash 模型今日起面向 Pro 及 Ultra 用户开放。Gemini 3.8 Flash 性能进一步增强，能够输出更可靠、更全面的回复，既可针对日常话题给出可落地的建议，也可胜任文本分析、复杂编程等深度任务。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3432814",
     "datetime": "2026-09-02T15:43:47+00:00",
-    "views": "63",
+    "views": "77",
     "text": "谷歌推出 Fairwind 网络防御项目。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3432813",
     "datetime": "2026-09-02T15:43:15+00:00",
-    "views": "56",
+    "views": "71",
     "text": "雪佛龙、埃尼首席执行官将在委内瑞拉首都加拉加斯签署能源协议。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3432812",
     "datetime": "2026-09-02T15:42:42+00:00",
-    "views": "50",
+    "views": "63",
     "text": "美国财长贝森特：乌克兰对俄罗斯能源设施及精炼产品发动的打击，加之伊朗战事，正对全球能源价格形成上行压力。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3432811",
     "datetime": "2026-09-02T15:42:25+00:00",
-    "views": "47",
+    "views": "59",
     "text": "雪佛龙(CVX.N)首席执行官与委内瑞拉临时总统罗德里格斯会晤。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3432810",
     "datetime": "2026-09-02T15:41:43+00:00",
-    "views": "45",
+    "views": "55",
     "text": "雪佛龙首席执行官迈克·沃思会见委内瑞拉代总统罗德里格斯。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3432809",
     "datetime": "2026-09-02T15:40:59+00:00",
-    "views": "66",
+    "views": "73",
     "text": "阿波罗全球管理首席经济学家 Torsten Slok 表示，美国国债收益率可能在伊朗战争和关税推动下继续走高，这种上行压力与财政状况关系不大。\nSlok 表示：“实际上，市场对美国政策制定的担忧，比对日本和德国的担忧要少。”\n随着投资者对长期国债提出更高的期限溢价要求，全球政府融资成本都在大幅上升。尽管美国财政部长斯科特·贝森特此前宣布扩大国债回购以缓解长端压力，美债收益率仍然反弹。\n目前市场计入美联储在 9 月中旬会议上加息的概率约为 69%。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3432808",
     "datetime": "2026-09-02T15:40:45+00:00",
-    "views": "60",
+    "views": "66",
     "text": "金十图示：2026 年 09 月 02 日（周三）全球股市指数-欧洲市场",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3432807",
     "datetime": "2026-09-02T15:40:02+00:00",
-    "views": "54",
+    "views": "59",
     "text": "美国国务卿鲁比奥谈及伊朗与俄罗斯：无论各方向伊朗提供何种支持，都绝不会妨碍我们采取必要行动保卫美国。尽管如此，就伊朗当前所作所为而言，我们与俄罗斯的立场显然未必完全一致。",
     "media_only": false,
     "image_url": null,
@@ -63340,68 +63367,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3425684"
-  },
-  {
-    "post": "Financial_Express/3425683",
-    "datetime": "2026-08-31T15:50:42+00:00",
-    "views": "86",
-    "text": "日本食品价格将迎年内最大一波上涨\n日本一家调查机构 8 月 31 日公布的调查结果显示，预计日本 9 月将有近 5000 种食品要涨价，迎来“年内最大一波涨价潮”。（CCTV 国际时讯）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3425683"
-  },
-  {
-    "post": "Financial_Express/3425682",
-    "datetime": "2026-08-31T15:50:22+00:00",
-    "views": "81",
-    "text": "欧盟外交政策高级代表强调，将继续对关联莫斯科的油轮实施制裁，称这些举措旨在切断俄罗斯经济的资金来源。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3425682"
-  },
-  {
-    "post": "Financial_Express/3425681",
-    "datetime": "2026-08-31T15:50:03+00:00",
-    "views": "82",
-    "text": "乌克兰总统泽连斯基：我已向威特科夫和库什纳通报了战场局势，俄方在战场进展寥寥，且为此付出了惨重伤亡代价。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3425681"
-  },
-  {
-    "post": "Financial_Express/3425680",
-    "datetime": "2026-08-31T15:50:02+00:00",
-    "views": "81",
-    "text": "乌克兰总统泽连斯基：已向美国中东问题特使威特科夫和特朗普高级顾问库什纳介绍了战场情况。俄军在战场上的进展十分有限，且付出了巨大代价。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3425680"
-  },
-  {
-    "post": "Financial_Express/3425679",
-    "datetime": "2026-08-31T15:49:22+00:00",
-    "views": "82",
-    "text": "金十图示：2026 年 08 月 31 日（周一）全球股市指数-欧洲市场",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3425679"
-  },
-  {
-    "post": "Financial_Express/3425678",
-    "datetime": "2026-08-31T15:49:02+00:00",
-    "views": "83",
-    "text": "麦加协议联合声明：三国同意加强各自的防御能力。合作将涵盖国防工业、生产能力提升以及技术开发。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3425678"
-  },
-  {
-    "post": "Financial_Express/3425677",
-    "datetime": "2026-08-31T15:49:00+00:00",
-    "views": "83",
-    "text": "非洲股市收盘播报｜周一（8 月 31 日），南非富时/JSE 非洲领先 40 可交易指数收跌 1.73%，失守 10.9 万点，8 月份累涨 5.33%，现货黄金 8 月份迄今涨 9.30%。\n南非兰特兑美元 8 月份迄今累涨 2.47%，报 16.1152 兰特。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3425677"
   }
 ]
