@@ -1,5 +1,67 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-02T22:24:46.362663+00:00","clsvipUpdated":"2026-09-02T22:24:56.246281+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月3日</h2><div class="feed"><article class="item" data-search="① 08:30 日本 8 月综合、服务业 pmi 终值，越南 8 月制造业 pmi；
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-02T22:26:45.880260+00:00","clsvipUpdated":"2026-09-02T22:26:55.335357+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月3日</h2><div class="feed"><article class="item" data-search="周四重要财经信息提醒（以下均为北京时间）
+
+① 08:30 日本 8 月综合、服务业 pmi 终值，越南 8 月制造业 pmi；
+② 09:00 澳洲联储负责金融系统的助理主席 brad jones 讲话；
+③ 09:30 澳大利亚 7 月商品及服务贸易帐；
+④ 09:45 中国 8 月 ratingdog 服务业、综合 pmi；
+⑤ 10:05 越南 8 月进出口与贸易余额；
+⑥ 13:00 印度 8 月综合、服务业 pmi 终值；
+⑦ 13:15 澳洲联储负责经济的助理主席 andrea brischetto 讲话；
+⑧ 14:30 瑞士 8 月 cpi；
+⑨ 15:50 法国 8 月综合、服务业 pmi 终值；
+⑩ 15:55 德国 8 月综合、服务业 pmi 终值；
+⑪ 16:00 欧元区 8 月综合、服务业 pmi 终值；
+⑫ 16:30 英国 8 月综合、服务业 pmi 终值；
+⑬ 17:00 欧元区 7 月 ppi；
+⑭ 时间待定 特斯拉举行 cybercab 发布会；
+⑮ 20:30 美国 8 月 29 日当周首次申请失业救济人数、7 月贸易帐、二季度非农生产力终值，加拿大 7 月贸易帐；美联储理事沃勒在 reuters next 谈论通胀前景等问题；
+⑯ 21:45 美国 8 月标普全球服务业、综合 pmi 终值；
+⑰ 22:00 美国 8 月 ism 非制造业指数；
+⑱ 23:00 英国央行首席经济学家 huw pill 讲话；
+⑲ 次日 03:00 美国克利夫兰联储主席 beth hammack 讲话；
+⑳ 次日 03:55 美国芝加哥联储主席 austan goolsbee 讲话。"><div class="time">06:26</div><div class="content"><div class="text" data-full="周四重要财经信息提醒（以下均为北京时间）
+
+① 08:30 日本 8 月综合、服务业 PMI 终值，越南 8 月制造业 PMI；
+② 09:00 澳洲联储负责金融系统的助理主席 Brad Jones 讲话；
+③ 09:30 澳大利亚 7 月商品及服务贸易帐；
+④ 09:45 中国 8 月 RatingDog 服务业、综合 PMI；
+⑤ 10:05 越南 8 月进出口与贸易余额；
+⑥ 13:00 印度 8 月综合、服务业 PMI 终值；
+⑦ 13:15 澳洲联储负责经济的助理主席 Andrea Brischetto 讲话；
+⑧ 14:30 瑞士 8 月 CPI；
+⑨ 15:50 法国 8 月综合、服务业 PMI 终值；
+⑩ 15:55 德国 8 月综合、服务业 PMI 终值；
+⑪ 16:00 欧元区 8 月综合、服务业 PMI 终值；
+⑫ 16:30 英国 8 月综合、服务业 PMI 终值；
+⑬ 17:00 欧元区 7 月 PPI；
+⑭ 时间待定 特斯拉举行 Cybercab 发布会；
+⑮ 20:30 美国 8 月 29 日当周首次申请失业救济人数、7 月贸易帐、二季度非农生产力终值，加拿大 7 月贸易帐；美联储理事沃勒在 Reuters Next 谈论通胀前景等问题；
+⑯ 21:45 美国 8 月标普全球服务业、综合 PMI 终值；
+⑰ 22:00 美国 8 月 ISM 非制造业指数；
+⑱ 23:00 英国央行首席经济学家 Huw Pill 讲话；
+⑲ 次日 03:00 美国克利夫兰联储主席 Beth Hammack 讲话；
+⑳ 次日 03:55 美国芝加哥联储主席 Austan Goolsbee 讲话。" data-short="周四重要财经信息提醒（以下均为北京时间）
+
+① 08:30 日本 8 月综合、服务业 PMI 终值，越南 8 月制造业 PMI；
+② 09:00 澳洲联储负责金融系统的助理主席 Brad Jones 讲话；
+③ 09:30 澳大利亚 7 月商品及服务贸易帐；
+④ 09:45 中国 8 月 RatingDog 服务业、综合 PMI；
+⑤ 10:05 越南 8...">周四重要财经信息提醒（以下均为北京时间）
+
+① 08:30 日本 8 月综合、服务业 PMI 终值，越南 8 月制造业 PMI；
+② 09:00 澳洲联储负责金融系统的助理主席 Brad Jones 讲话；
+③ 09:30 澳大利亚 7 月商品及服务贸易帐；
+④ 09:45 中国 8 月 RatingDog 服务业、综合 PMI；
+⑤ 10:05 越南 8...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="“自研+并购”双轮驱动，国产半导体设备进入 2.0 阶段
+到 2028 年，全球新建数据中心基础设施投资将超过 4 万亿美元，其中半导体支出将达到 2.8 万亿美元。全球逻辑和存储芯片厂加速扩产，直接带动半导体设备、材料需求大幅增长，加强自研成为国产半导体设备商实现后来居上的首要选择，并购发展则成为上市公司做大做强的“快速通道”。（上证报）"><div class="time">06:25</div><div class="content"><div class="text" data-full="“自研+并购”双轮驱动，国产半导体设备进入 2.0 阶段
+到 2028 年，全球新建数据中心基础设施投资将超过 4 万亿美元，其中半导体支出将达到 2.8 万亿美元。全球逻辑和存储芯片厂加速扩产，直接带动半导体设备、材料需求大幅增长，加强自研成为国产半导体设备商实现后来居上的首要选择，并购发展则成为上市公司做大做强的“快速通道”。（上证报）" data-short="“自研+并购”双轮驱动，国产半导体设备进入 2.0 阶段
+到 2028 年，全球新建数据中心基础设施投资将超过 4 万亿美元，其中半导体支出将达到 2.8 万亿美元。全球逻辑和存储芯片厂加速扩产，直接带动半导体设备、材料需求大幅增长，加强自研成为国产半导体设备商实现后来居上的首要选择，并购发展则成为上市公司做大做强的“快速通道”。（上证报）">“自研+并购”双轮驱动，国产半导体设备进入 2.0 阶段
+到 2028 年，全球新建数据中心基础设施投资将超过 4 万亿美元，其中半导体支出将达到 2.8 万亿美元。全球逻辑和存储芯片厂加速扩产，直接带动半导体设备、材料需求大幅增长，加强自研成为国产半导体设备商实现后来居上的首要选择，并购发展则成为上市公司做大做强的“快速通道”。（上证报）</div></div></article><article class="item" data-search="美法官叫停特朗普政府关于“出生公民权”的最新行政令
+当地时间 9 月 2 日，美国马里兰州联邦地区法院法官德博拉·博德曼发布初步禁令，阻止特朗普政府执行一项新的行政令。该行政令旨在限制有资格获得“出生公民权”的人数。特朗普 2025 年 1 月重返白宫后签署行政令，规定父母均非美国公民或合法永久居民的新生儿不能自动获得美国公民身份。今年 6 月 30 日，美国最高法院作出裁决，推翻了这一行政令。（央视新闻）"><div class="time">06:25</div><div class="content"><div class="text" data-full="美法官叫停特朗普政府关于“出生公民权”的最新行政令
+当地时间 9 月 2 日，美国马里兰州联邦地区法院法官德博拉·博德曼发布初步禁令，阻止特朗普政府执行一项新的行政令。该行政令旨在限制有资格获得“出生公民权”的人数。特朗普 2025 年 1 月重返白宫后签署行政令，规定父母均非美国公民或合法永久居民的新生儿不能自动获得美国公民身份。今年 6 月 30 日，美国最高法院作出裁决，推翻了这一行政令。（央视新闻）" data-short="美法官叫停特朗普政府关于“出生公民权”的最新行政令
+当地时间 9 月 2 日，美国马里兰州联邦地区法院法官德博拉·博德曼发布初步禁令，阻止特朗普政府执行一项新的行政令。该行政令旨在限制有资格获得“出生公民权”的人数。特朗普 2025 年 1 月重返白宫后签署行政令，规定父母均非美国公民或合法永久居民的新生儿不能自动获得美国公民身份。今年 6 月 30 日，美...">美法官叫停特朗普政府关于“出生公民权”的最新行政令
+当地时间 9 月 2 日，美国马里兰州联邦地区法院法官德博拉·博德曼发布初步禁令，阻止特朗普政府执行一项新的行政令。该行政令旨在限制有资格获得“出生公民权”的人数。特朗普 2025 年 1 月重返白宫后签署行政令，规定父母均非美国公民或合法永久居民的新生儿不能自动获得美国公民身份。今年 6 月 30 日，美...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="预计 2026 至 2030 年全球 12 英寸硅片的年均复合增长率约 9%，中国市场则会达到 15%；国产设备材料及零部件的市场占有率快速提升，产业进入 2.0 阶段；精益制造或是迈入高质量发展的关键路径之一……在近日于无锡举行的第十四届半导体设备材料及核心部件展（cseac 2026）之半导体产业 ceo 论坛上，多家上市公司高管及业内人士，就发展国产半导体设备材料建言献策。"><div class="time">06:24</div><div class="content"><div class="text" data-full="预计 2026 至 2030 年全球 12 英寸硅片的年均复合增长率约 9%，中国市场则会达到 15%；国产设备材料及零部件的市场占有率快速提升，产业进入 2.0 阶段；精益制造或是迈入高质量发展的关键路径之一……在近日于无锡举行的第十四届半导体设备材料及核心部件展（CSEAC 2026）之半导体产业 CEO 论坛上，多家上市公司高管及业内人士，就发展国产半导体设备材料建言献策。" data-short="预计 2026 至 2030 年全球 12 英寸硅片的年均复合增长率约 9%，中国市场则会达到 15%；国产设备材料及零部件的市场占有率快速提升，产业进入 2.0 阶段；精益制造或是迈入高质量发展的关键路径之一……在近日于无锡举行的第十四届半导体设备材料及核心部件展（CSEAC 2026）之半导体产业 CEO 论坛上，多家上市公司高管及业内人士，就发展国产半...">预计 2026 至 2030 年全球 12 英寸硅片的年均复合增长率约 9%，中国市场则会达到 15%；国产设备材料及零部件的市场占有率快速提升，产业进入 2.0 阶段；精益制造或是迈入高质量发展的关键路径之一……在近日于无锡举行的第十四届半导体设备材料及核心部件展（CSEAC 2026）之半导体产业 CEO 论坛上，多家上市公司高管及业内人士，就发展国产半...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="① 08:30 日本 8 月综合、服务业 pmi 终值，越南 8 月制造业 pmi；
 ② 09:00 澳洲联储负责金融系统的助理主席 brad jones 讲话；
 ③ 09:30 澳大利亚 7 月商品及服务贸易帐；
 ④ 09:45 中国 8 月 ratingdog 服务业、综合 pmi；
@@ -515,7 +577,7 @@ NYMEX 10 月汽油期货收报 3.1038 美元/加仑，NYMEX 10 月取暖油期�
 随时准备好再次袭击伊朗。"><div class="time">02:20</div><div class="content"><div class="text" data-full="美国总统特朗普：对伊朗的重启袭击行动不会持续太久。
 随时准备好再次袭击伊朗。" data-short="美国总统特朗普：对伊朗的重启袭击行动不会持续太久。
 随时准备好再次袭击伊朗。">美国总统特朗普：对伊朗的重启袭击行动不会持续太久。
-随时准备好再次袭击伊朗。</div></div></article><article class="item" data-search="特朗普谈伊朗：伊朗当时正试图建造可布设水雷的火箭，我们将其摧毁了。"><div class="time">02:20</div><div class="content"><div class="text" data-full="特朗普谈伊朗：伊朗当时正试图建造可布设水雷的火箭，我们将其摧毁了。" data-short="特朗普谈伊朗：伊朗当时正试图建造可布设水雷的火箭，我们将其摧毁了。">特朗普谈伊朗：伊朗当时正试图建造可布设水雷的火箭，我们将其摧毁了。</div></div></article><article class="item" data-search="美国总统特朗普：（关于伊朗）伊朗试图制造一种投放水雷的火箭；我们已将其摧毁。"><div class="time">02:20</div><div class="content"><div class="text" data-full="美国总统特朗普：（关于伊朗）伊朗试图制造一种投放水雷的火箭；我们已将其摧毁。" data-short="美国总统特朗普：（关于伊朗）伊朗试图制造一种投放水雷的火箭；我们已将其摧毁。">美国总统特朗普：（关于伊朗）伊朗试图制造一种投放水雷的火箭；我们已将其摧毁。</div></div></article><article class="item" data-search="特朗普：油价将会回落。"><div class="time">02:20</div><div class="content"><div class="text" data-full="特朗普：油价将会回落。" data-short="特朗普：油价将会回落。">特朗普：油价将会回落。</div></div></article><article class="item" data-search="美国总统特朗普：（关于伊朗）对伊朗的新一轮打击行动不会持续太久。"><div class="time">02:20</div><div class="content"><div class="text" data-full="美国总统特朗普：（关于伊朗）对伊朗的新一轮打击行动不会持续太久。" data-short="美国总统特朗普：（关于伊朗）对伊朗的新一轮打击行动不会持续太久。">美国总统特朗普：（关于伊朗）对伊朗的新一轮打击行动不会持续太久。</div></div></article><article class="item" data-search="特朗普谈伊朗：伊朗当时正试图重建雷达与导弹系统。"><div class="time">02:20</div><div class="content"><div class="text" data-full="特朗普谈伊朗：伊朗当时正试图重建雷达与导弹系统。" data-short="特朗普谈伊朗：伊朗当时正试图重建雷达与导弹系统。">特朗普谈伊朗：伊朗当时正试图重建雷达与导弹系统。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月2日 · VIP</h2> <div class="feed"> <article class="item" data-search="游资大v复盘文章下载20260902"> <div class="time">23:23</div> <div class="content"> <div class="text">游资大V复盘文章下载20260902</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="神行研习社20260901 👉百度网盘下载
+随时准备好再次袭击伊朗。</div></div></article><article class="item" data-search="特朗普谈伊朗：伊朗当时正试图建造可布设水雷的火箭，我们将其摧毁了。"><div class="time">02:20</div><div class="content"><div class="text" data-full="特朗普谈伊朗：伊朗当时正试图建造可布设水雷的火箭，我们将其摧毁了。" data-short="特朗普谈伊朗：伊朗当时正试图建造可布设水雷的火箭，我们将其摧毁了。">特朗普谈伊朗：伊朗当时正试图建造可布设水雷的火箭，我们将其摧毁了。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月2日 · VIP</h2> <div class="feed"> <article class="item" data-search="游资大v复盘文章下载20260902"> <div class="time">23:23</div> <div class="content"> <div class="text">游资大V复盘文章下载20260902</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="神行研习社20260901 👉百度网盘下载
 
 徐小明收盘点评20260902  👉百度网盘下载
 
