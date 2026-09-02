@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3432858",
+    "datetime": "2026-09-02T16:06:22+00:00",
+    "views": "1",
+    "text": "交易商称，受买家积极采购推动，11 月装船的俄罗斯 ESPO 混合原油较 ICE 布伦特原油的升水飙升至每桶 7-10 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3432858"
+  },
+  {
     "post": "Financial_Express/3432857",
     "datetime": "2026-09-02T16:04:22+00:00",
-    "views": "2",
+    "views": "33",
     "text": "俄罗斯统计局：俄罗斯公司在 1 月至 6 月的利润同比下降 13.3%，降至 11.7 万亿卢布。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3432852",
     "datetime": "2026-09-02T16:02:02+00:00",
-    "views": "35",
+    "views": "65",
     "text": "6 月俄罗斯实际工资同比增长 3.4%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3432849",
     "datetime": "2026-09-02T16:01:44+00:00",
-    "views": "35",
+    "views": "65",
     "text": "俄罗斯统计局：俄罗斯 7 月失业率为 2.3% 。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3432850",
     "datetime": "2026-09-02T16:01:44+00:00",
-    "views": "35",
+    "views": "65",
     "text": "俄罗斯经济部：1-7 月俄罗斯国内生产总值同比增长 0.6%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3432851",
     "datetime": "2026-09-02T16:01:44+00:00",
-    "views": "35",
+    "views": "65",
     "text": "俄罗斯经济部：俄罗斯 7 月国内生产总值同比增长 0.6%，前一个月经修正后同比增长 1.7%（6 月最初预估为同比增长 1.1%）。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3432848",
     "datetime": "2026-09-02T16:01:43+00:00",
-    "views": "35",
+    "views": "65",
     "text": "俄罗斯经济部：7 月 GDP 同比增长 0.6%，而上月修正为同比增长 1.7%（6 月初步估计为同比增长 1.1%）。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3432847",
     "datetime": "2026-09-02T16:01:23+00:00",
-    "views": "35",
+    "views": "65",
     "text": "俄罗斯统计局：截至 8 月 31 日当周，俄罗斯周度消费者通缩率为 0.01%（此前一周通胀率为 0.01%）。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3432846",
     "datetime": "2026-09-02T16:01:22+00:00",
-    "views": "35",
+    "views": "65",
     "text": "俄罗斯统计局：1 月至 7 月零售销售增长 5.4%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3432844",
     "datetime": "2026-09-02T16:01:03+00:00",
-    "views": "35",
+    "views": "65",
     "text": "俄罗斯统计局：7 月俄罗斯零售额同比增长 5.3%，前值为同比增长 7.3%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3432845",
     "datetime": "2026-09-02T16:01:03+00:00",
-    "views": "35",
+    "views": "65",
     "text": "俄罗斯统计局：7 月失业率为 2.3%，前一个月经初步统计为 2.2%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3432843",
     "datetime": "2026-09-02T16:01:02+00:00",
-    "views": "35",
+    "views": "65",
     "text": "俄罗斯统计局：1-7 月俄罗斯零售额同比增长 5.4%。",
     "media_only": false,
     "image_url": null,
@@ -63421,14 +63430,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3425709"
-  },
-  {
-    "post": "Financial_Express/3425708",
-    "datetime": "2026-08-31T16:06:02+00:00",
-    "views": "166",
-    "text": "周一美国 10 年期国债收益率突破 4.75%，为 2025 年 1 月以来首次；油价上涨推升市场对美联储加息的预期。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3425708"
   }
 ]
