@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3431010",
+    "datetime": "2026-09-02T07:00:42+00:00",
+    "views": "2",
+    "text": "西班牙 8 月失业人数月率 1.92%，前值 0.85%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3431010"
+  },
+  {
+    "post": "Financial_Express/3431008",
+    "datetime": "2026-09-02T07:00:24+00:00",
+    "views": "6",
+    "text": "欧股开盘普跌，德国 DAX 指数跌 1.1%，英国富时 100 指数跌 0.32%，法国 CAC40 指数跌 0.39%，欧洲斯托克 50 指数跌 0.8%，意大利富时 MIB 指数跌 1.33%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3431008"
+  },
+  {
+    "post": "Financial_Express/3431009",
+    "datetime": "2026-09-02T07:00:24+00:00",
+    "views": "5",
+    "text": "菲律宾股指收盘下跌 0.7%，报 6053.23 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3431009"
+  },
+  {
+    "post": "Financial_Express/3431006",
+    "datetime": "2026-09-02T07:00:23+00:00",
+    "views": "6",
+    "text": "股指期货午盘收盘\n 中证 1000 指数期货连续跌 1.39%， 沪深 300 指数期货连续跌 1.36%， 中证 500 指数期货连续跌 1.61%， 上证 50 指数期货连续跌 1.03%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3431006"
+  },
+  {
+    "post": "Financial_Express/3431007",
+    "datetime": "2026-09-02T07:00:23+00:00",
+    "views": "6",
+    "text": "商品期货收盘\n上海原油连续涨 8.80%，乙二醇连续涨 5.98%，钯连续跌 4.92%，甲醇连续涨 4.57%，燃料油连续涨 4.23%，低硫燃料油连续涨 3.92%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3431007"
+  },
+  {
+    "post": "Financial_Express/3431005",
+    "datetime": "2026-09-02T07:00:09+00:00",
+    "views": "6",
+    "text": "星源智机器人公众号消息，9 月 1 日，北京京东方智驭科技有限公司与北京星源智机器人科技有限公司正式签署战略合作协议。根据协议，双方将以 3C、显示制造场景为核心，以具身机器人联合实验室为载体，围绕场景价值验证、数据采集处理、垂类创新研发、场景工程落地、市场联合开拓五大方向展开深度战略合作，构建“应用验证—联合开发—规模商业化”的生态合作体系。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3431005"
+  },
+  {
+    "post": "Financial_Express/3431004",
+    "datetime": "2026-09-02T06:59:22+00:00",
+    "views": "10",
+    "text": "法国外交部长巴罗：呼吁欧盟派遣使团支持巴勒斯坦选举。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3431004"
+  },
+  {
+    "post": "Financial_Express/3431003",
+    "datetime": "2026-09-02T06:59:02+00:00",
+    "views": "10",
+    "text": "法国外长巴罗：呼吁欧盟设立任务支助巴勒斯坦选举。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3431003"
+  },
+  {
     "post": "Financial_Express/3431002",
     "datetime": "2026-09-02T06:58:03+00:00",
-    "views": "6",
+    "views": "13",
     "text": "巴基斯坦外交部：我们对各方重返对话桌持积极态度。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3431001",
     "datetime": "2026-09-02T06:58:02+00:00",
-    "views": "6",
+    "views": "13",
     "text": "巴基斯坦外交部：巴基斯坦国防军总司令暨陆军参谋长访问了德黑兰，为霍尔木兹海峡问题创造了相当大的推动力。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3431000",
     "datetime": "2026-09-02T06:57:42+00:00",
-    "views": "8",
+    "views": "14",
     "text": "酷哇开源自适应世界模型架构 RISE\n9 月 2 日，酷哇科技于近期发布并开源世界模型框架 RISE（Refining Imagination through SElective Rollout）。该架构利用推演门控机制，摒弃了传统固定算力的推演模式，可根据场景复杂度动态调节计算资源。测试显示，RISE 平均推理延迟压缩至 287ms。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3430999",
     "datetime": "2026-09-02T06:57:23+00:00",
-    "views": "12",
+    "views": "16",
     "text": "光线传媒等成立文化科技公司 含动漫游戏开发业务\n企查查 APP 显示，近日，北京大而婉文化科技有限公司成立，法定代表人为孙永焕，经营范围包含电影摄制服务；电视剧制作；电影制片；动漫游戏开发；电子产品销售；服装服饰零售；互联网游戏服务等。企查查股权穿透显示，该公司由光线传媒全资子公司北京光线影业有限公司、辛颖宗共同持股。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3430998",
     "datetime": "2026-09-02T06:57:22+00:00",
-    "views": "11",
+    "views": "15",
     "text": "受台风“沙德尔”影响 华东华南强降雨持续\n受台风“沙德尔”、季风气流等共同影响，未来三天（9 月 2 日至 4 日），华东、华南多地将现持续强降雨天气。福建、广东等地雨势猛烈，需警惕叠加效应，防范可能引发的山体滑坡、泥石流等次生灾害。中央气象台今日继续发布台风蓝色预警和暴雨黄色预警。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3430997",
     "datetime": "2026-09-02T06:57:03+00:00",
-    "views": "12",
+    "views": "15",
     "text": "巴基斯坦外交部就美伊局势升级表态：我们仍相信各方会重返谈判桌进行对话。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3430996",
     "datetime": "2026-09-02T06:55:03+00:00",
-    "views": "8",
+    "views": "11",
     "text": "巴基斯坦外交部就美伊局势升级表态：我们仍对此感到担忧，此类升级事态是我们不愿看到的，但巴方将继续保持接触。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3430995",
     "datetime": "2026-09-02T06:55:02+00:00",
-    "views": "8",
+    "views": "10",
     "text": "巴基斯坦外交部：（就美伊局势升级）我们仍然感到担忧，这种升级是不可取的，但我们将继续保持沟通。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3430994",
     "datetime": "2026-09-02T06:54:43+00:00",
-    "views": "8",
+    "views": "10",
     "text": "瑞银宣布以现金方式收购债务证券。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3430993",
     "datetime": "2026-09-02T06:52:22+00:00",
-    "views": "8",
+    "views": "10",
     "text": "摩根大通：消费者信心触底后，欧洲奢侈品板块迎来转机\n金十数据 9 月 2 日讯，持有奢侈品股票如今几乎成了一种逆向投资，但随着消费者信心和企业盈利增长开始触底，这一板块或迎来转机。摩根大通策略师表示：“有意思的是，当消费者信心处于低位时，比如最近这段时间，消费类股票往往会在未来 12 个月跑赢大盘。”他们指出，在这种情况下，奢侈品股往往是表现最好的板块之一。“总体来看，消费周期股仍处于风暴中心，盈利预警频发，业绩指引也较为谨慎，但未来表现可能有所改善。”摩根大通策略师表示，在密歇根大学消费者信心指数触底后，欧洲奢侈品板块平均能够较大盘高出 9%至 12%。基于未来潜在的财富效应，他们目前在全球范围内超配奢侈品板块。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3430992",
     "datetime": "2026-09-02T06:50:02+00:00",
-    "views": "6",
+    "views": "8",
     "text": "汇丰银行现预计澳大利亚储备银行将于 9 月及第四季度加息，现金利率目标升至 4.85%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3430991",
     "datetime": "2026-09-02T06:49:55+00:00",
-    "views": "6",
+    "views": "8",
     "text": "当地时间 9 月 2 日，据伊拉克库尔德自治区（库区）反恐部门声明，国际联盟部队在库区首府埃尔比勒上空成功拦截并摧毁了 10 架无人机。当天稍早前，伊朗伊斯兰革命卫队称，对位于伊拉克埃尔比勒的一处美军基地发动了导弹和无人机打击。（央视）",
     "media_only": false,
     "image_url": null,
@@ -63070,77 +63142,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3423896"
-  },
-  {
-    "post": "Financial_Express/3423895",
-    "datetime": "2026-08-31T07:00:24+00:00",
-    "views": "11",
-    "text": "工信部节能与综合利用司组织召开工业资源综合利用基地建设工作交流会\n工业和信息化部节能与综合利用司 8 月 26—27 日组织召开工业资源综合利用基地建设工作交流会，会议采用线上线下相结合的形式举行。有关省市工业和信息化主管部门、工业资源综合利用基地代表、行业专家等参加会议。各基地就“十四五”时期推动工业资源综合利用工作的典型经验、取得成效等进行了分享和交流，分析了当前面临的形势困难，并围绕“十五五”深化工业资源综合利用工作进行研讨。工业和信息化部将深入推进工业资源综合利用基地建设，持续提升工业固废综合利用能力，推动再生资源综合利用行业规范发展，强化先进适用工艺技术推广，推动工业资源综合利用水平提升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423895"
-  },
-  {
-    "post": "Financial_Express/3423893",
-    "datetime": "2026-08-31T07:00:23+00:00",
-    "views": "9",
-    "text": "股指期货午盘收盘\n 中证 1000 指数期货连续涨 0.59%， 沪深 300 指数期货连续涨 0.20%， 中证 500 指数期货连续涨 0.56%， 上证 50 指数期货连续涨 0.29%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423893"
-  },
-  {
-    "post": "Financial_Express/3423894",
-    "datetime": "2026-08-31T07:00:23+00:00",
-    "views": "9",
-    "text": "商品期货收盘\n上海原油连续涨 7.23%，液化石油气连续涨 6.97%，焦煤连续涨 6.53%，甲醇连续涨 6.01%，瓶片连续涨 6.00%，PVC 连续涨 6.00%，乙二醇连续涨 5.98%，丙烯连续涨 5.98%，塑料连续涨 5.73%，纯苯连续涨 5.71%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423894"
-  },
-  {
-    "post": "Financial_Express/3423892",
-    "datetime": "2026-08-31T07:00:22+00:00",
-    "views": "9",
-    "text": "欧股开盘普涨，德国 DAX 指数涨 0.77%，英国富时 100 指数涨 0.29%，法国 CAC40 指数涨 0.98%，欧洲斯托克 50 指数涨 0.95%，意大利富时 MIB 指数涨 0.67%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423892"
-  },
-  {
-    "post": "Financial_Express/3423891",
-    "datetime": "2026-08-31T06:59:42+00:00",
-    "views": "43",
-    "text": "人工智能揭示癌症隐藏特征\n英国南安普敦大学研究人员开发出一个开源人工智能平台，可在肿瘤样本中快速、精准分析数十万个细胞，绘制肿瘤内细胞中心体异常的空间分布图。研究表明，中心体异常的空间分布与癌症临床特征相关。新成果未来有望用于癌症患者风险评估、开发新的靶向疗法等。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423891"
-  },
-  {
-    "post": "Financial_Express/3423890",
-    "datetime": "2026-08-31T06:59:23+00:00",
-    "views": "12",
-    "text": "云南磨憨盐塘水库险情排除\n8 月 31 日，据昆明发布官微援引昆明市防汛抗旱指挥部办公室和磨憨—磨丁经济合作区应急指挥中心消息，截至目前，磨憨镇此轮强降雨过程已结束，盐塘水库水位回落至安全区间，险情得到排除。各相关单位正组织力量对受损供水、供电、通信、道路等基础设施加紧抢修，受灾区域生产生活秩序正有序恢复。经昆明市防汛抗旱指挥部会商研判，决定于 8 月 31 日 8 时终止磨憨镇防汛Ⅱ级应急响应。8 月 31 日 7 时，经专家现场查勘，大坝未见明显变形，下游坝体未见明显渗漏，排水棱体排水正常，泄洪、供水设施运行正常，险情解除。下一步，将督促磨憨相关部门加强对大坝的运行状况监测巡查，根据气象、水文部门预警预报，强化水库运行调度，并加快对水库大坝进行安全鉴定，根据鉴定结果，复核水库改扩建方案。\n❤1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423890"
-  },
-  {
-    "post": "Financial_Express/3423889",
-    "datetime": "2026-08-31T06:59:22+00:00",
-    "views": "12",
-    "text": "机构：沃什讲话成功重建市场信心\n金十数据 8 月 31 日讯，Catalyst Funds 高级投资组合经理拉里·霍尔岑塔勒表示，沃什周五的讲话“成功重建了市场信心”。他给人的印象是美联储非常关注通胀，并致力于将通胀拉回 2%的目标。市场的反应似乎完全符合美联储的预期：沃什发表讲话后，短期利率走高，而长期利率小幅下降。投资者显然应该预期，如果有必要，美联储将会加息。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423889"
-  },
-  {
-    "post": "Financial_Express/3423888",
-    "datetime": "2026-08-31T06:59:03+00:00",
-    "views": "12",
-    "text": "14 点 58 分，24 盛京银行二级资本债 01（232480060.IB）外汇交易中心显示成交价 92.21 元，较前一交易日中债估值 78.24 元偏离+17.85%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423888"
   }
 ]
