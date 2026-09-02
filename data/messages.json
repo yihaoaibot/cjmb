@@ -1,9 +1,63 @@
 [
   {
+    "post": "Financial_Express/3429980",
+    "datetime": "2026-09-02T00:02:42+00:00",
+    "views": "4",
+    "text": "俄罗斯副外长部长格鲁什科：俄罗斯将对德国关闭俄驻波恩领事馆作出回应。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429980"
+  },
+  {
+    "post": "Financial_Express/3429979",
+    "datetime": "2026-09-02T00:02:22+00:00",
+    "views": "7",
+    "text": "日本央行行长植田和男：将密切关注过去加息累积的影响。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429979"
+  },
+  {
+    "post": "Financial_Express/3429978",
+    "datetime": "2026-09-02T00:02:03+00:00",
+    "views": "8",
+    "text": "日本央行行长植田和男：制定政策时会考虑物价上涨的风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429978"
+  },
+  {
+    "post": "Financial_Express/3429977",
+    "datetime": "2026-09-02T00:02:02+00:00",
+    "views": "8",
+    "text": "韩国 KOSPI 指数 9 月 2 日（周三）开盘下跌 190.62 点，跌幅 2.79%，报 6645.18 点。SK 海力士和三星电子均跌 3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429977"
+  },
+  {
+    "post": "Financial_Express/3429976",
+    "datetime": "2026-09-02T00:01:42+00:00",
+    "views": "9",
+    "text": "日本央行行长植田和男：金融环境依然宽松。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429976"
+  },
+  {
+    "post": "Financial_Express/3429975",
+    "datetime": "2026-09-02T00:01:02+00:00",
+    "views": "11",
+    "text": "三星电子股价下跌 3％，海力士股价下跌 3％。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3429975"
+  },
+  {
     "post": "Financial_Express/3429974",
     "datetime": "2026-09-02T00:00:52+00:00",
-    "views": "2",
-    "text": "韩国首尔综指低开逾 3%。",
+    "views": "11",
+    "text": "日经 225 指数低开 1.6%，韩国首尔综指低开 3.1%。三星电子、SK 海力士跌近 4%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3429974"
@@ -11,8 +65,8 @@
   {
     "post": "Financial_Express/3429973",
     "datetime": "2026-09-02T00:00:23+00:00",
-    "views": "6",
-    "text": "日经 225 指数上午开盘报 65195.43 点，跌幅 1.54%。",
+    "views": "43",
+    "text": "日韩股市开盘\n日经 225 指数上午开盘报 65195.43 点，跌幅 1.54％。韩国综合股价指数（KOSPI）开盘下跌 3.1％，至 6625.47 点。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3429973"
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3429972",
     "datetime": "2026-09-02T00:00:22+00:00",
-    "views": "6",
+    "views": "43",
     "text": "G20 主席国声明：全球经济在多重冲击面前保持了韧性。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3429971",
     "datetime": "2026-09-02T00:00:04+00:00",
-    "views": "9",
+    "views": "45",
     "text": "10 年期日本国债收益率上涨 1.0 个基点，至 3.000%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3429969",
     "datetime": "2026-09-02T00:00:03+00:00",
-    "views": "9",
+    "views": "44",
     "text": "G20 主席国声明：对能源贸易持续中断表示关切。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3429970",
     "datetime": "2026-09-02T00:00:03+00:00",
-    "views": "9",
+    "views": "45",
     "text": "钯金期货日内跌 1%，现报 1316.00 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3429968",
     "datetime": "2026-09-02T00:00:01+00:00",
-    "views": "9",
+    "views": "14",
     "text": "中国即将发行或正在发行的国债和政策性金融债",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3429967",
     "datetime": "2026-09-01T23:59:42+00:00",
-    "views": "10",
+    "views": "45",
     "text": "日本央行总裁植田和男：对每日走势以及市场普遍预期 9 月加息可能性相当高不予置评。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3429966",
     "datetime": "2026-09-01T23:59:03+00:00",
-    "views": "10",
+    "views": "44",
     "text": "俄罗斯副外长部长格鲁什科：没有恢复黑海粮食倡议的理由。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3429965",
     "datetime": "2026-09-01T23:59:02+00:00",
-    "views": "10",
+    "views": "44",
     "text": "G20 主席国声明：承诺推进负责任、有效的监管和监督框架，以维护金融稳定，支持经济增长，为健康的数字金融和数字资产创新建立明确路径。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3429964",
     "datetime": "2026-09-01T23:58:42+00:00",
-    "views": "42",
+    "views": "45",
     "text": "日本财务大臣片山皋月：美国财长贝森特自去年十月以来一直表示，如果日本的通缩情况发生变化，则需要不同的策略。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3429963",
     "datetime": "2026-09-01T23:58:22+00:00",
-    "views": "43",
+    "views": "46",
     "text": "巴林官方表示，其防空系统在巴林王国领空拦截并摧毁了伊朗无人机。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3429962",
     "datetime": "2026-09-01T23:58:02+00:00",
-    "views": "44",
+    "views": "46",
     "text": "日本央行行长植田和男：稳定价格走势在 2%左右至关重要。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3429961",
     "datetime": "2026-09-01T23:57:57+00:00",
-    "views": "44",
+    "views": "45",
     "text": "2026 年 9 月 1 日，由国家市场监督管理总局（国家标准化管理委员会）发布、我国首个聚焦人工客服与智能客服协同机制的推荐性国家标准《顾客联络服务 人工与智能客户服务协同要求》实施，其中明确“分工要科学，简单的问题交给 AI，复杂的纠纷要及时地流转到人工”。《要求》的实施，首先有望破解消费者反映最强烈的“转人工难”痛点。针对智能客服“答非所问”“循环回复”却无法转接人工，以及人工入口层层隐藏等行业顽疾，《要求》划定了清晰的服务边界与流转规则。其次，有助于推动行业从盲目追求 AI 替代率，转向构建人机高效协同的管理机制。（法治日报）",
     "media_only": false,
     "image_url": null,
@@ -61477,104 +61531,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3423044"
-  },
-  {
-    "post": "Financial_Express/3423043",
-    "datetime": "2026-08-31T00:02:22+00:00",
-    "views": "86",
-    "text": "中信证券：预计银行房地产类贷款投放具备增量空间 资产质量迎来高确定性改善预期\n金十数据 8 月 31 日讯，中信证券研报表示，2026 年 8 月 28 日，住建部等五部委密集落地房地产新政。中信证券认为，政策落地有助地产信贷制度适配地产高质量发展新模式转型，预计银行房地产类贷款投放具备增量空间，资产质量迎来高确定性改善预期。银行中报显示，息差表现乐观，资产质量稳定，营收整体乐观但存在分化，盈利增速延续修复格局；同时，部分银行提升分红率提振股东回报，利好长线投资者配置。展望三季度，预计息差和资产质量等核心变量保持稳定，全年盈利趋势积极，叠加宏观叙事等长逻辑仍在继续演绎，全年绝对收益仍将延续。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423043"
-  },
-  {
-    "post": "Financial_Express/3423042",
-    "datetime": "2026-08-31T00:02:15+00:00",
-    "views": "56",
-    "text": "韩国首尔综指跌幅扩大至 3%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423042"
-  },
-  {
-    "post": "Financial_Express/3423040",
-    "datetime": "2026-08-31T00:02:03+00:00",
-    "views": "52",
-    "text": "韩国综合股价指数（KOSPI）下跌 3%，至 6582.61 点。SK 海力士跌超 4%，三星电子跌逾 3%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423040"
-  },
-  {
-    "post": "Financial_Express/3423041",
-    "datetime": "2026-08-31T00:02:03+00:00",
-    "views": "53",
-    "text": "中信证券：预计银行房地产类贷款投放具备增量空间 资产质量迎来高确定性改善预期\n中信证券研报表示，2026 年 8 月 28 日，住建部等五部委密集落地房地产新政。中信证券认为，政策落地有助地产信贷制度适配地产高质量发展新模式转型，预计银行房地产类贷款投放具备增量空间，资产质量迎来高确定性改善预期。银行中报显示，息差表现乐观，资产质量稳定，营收整体乐观但存在分化，盈利增速延续修复格局；同时，部分银行提升分红率提振股东回报，利好长线投资者配置。展望三季度，预计息差和资产质量等核心变量保持稳定，全年盈利趋势积极，叠加宏观叙事等长逻辑仍在继续演绎，全年绝对收益仍将延续。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423041"
-  },
-  {
-    "post": "Financial_Express/3423039",
-    "datetime": "2026-08-31T00:02:02+00:00",
-    "views": "49",
-    "text": "三星电子跌 3％，SK 海力士跌 3.5％。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423039"
-  },
-  {
-    "post": "Financial_Express/3423038",
-    "datetime": "2026-08-31T00:01:48+00:00",
-    "views": "50",
-    "text": "日经 225 指数低开 1.1%，韩国首尔综指低开 2.6%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423038"
-  },
-  {
-    "post": "Financial_Express/3423037",
-    "datetime": "2026-08-31T00:01:24+00:00",
-    "views": "50",
-    "text": "美股期货跌幅扩大，纳斯达克 100 指数期货现跌 0.7%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423037"
-  },
-  {
-    "post": "Financial_Express/3423036",
-    "datetime": "2026-08-31T00:01:23+00:00",
-    "views": "48",
-    "text": "纳斯达克 100 指数期货跌幅扩大至 0.7%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423036"
-  },
-  {
-    "post": "Financial_Express/3423035",
-    "datetime": "2026-08-31T00:01:22+00:00",
-    "views": "48",
-    "text": "韩国 KOSPI 指数盘初跌 2.58%。三星电子跌 3%，SK 海力士跌 3.5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423035"
-  },
-  {
-    "post": "Financial_Express/3423034",
-    "datetime": "2026-08-31T00:01:05+00:00",
-    "views": "49",
-    "text": "美国财长贝森特预计美国每周都会对伊朗公布新的二级制裁措施。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423034"
-  },
-  {
-    "post": "Financial_Express/3423033",
-    "datetime": "2026-08-31T00:01:02+00:00",
-    "views": "48",
-    "text": "韩国综合股价指数（KOSPI）开盘下跌 2.6%，至 6613.58 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3423033"
   }
 ]
