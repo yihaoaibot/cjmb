@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3436620",
+    "datetime": "2026-09-03T19:12:25+00:00",
+    "views": "10",
+    "text": "大众汽车工会：拆分大众乘用车与零部件业务并不在谈判桌上。\n不会接受将负担推给工人的做法。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3436620"
+  },
+  {
+    "post": "Financial_Express/3436619",
+    "datetime": "2026-09-03T19:12:22+00:00",
+    "views": "13",
+    "text": "据相关法庭文件：巴斯夫起诉苹果(AAPL.O)涉嫌侵犯其面部识别技术相关专利。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3436619"
+  },
+  {
+    "post": "Financial_Express/3436618",
+    "datetime": "2026-09-03T19:11:43+00:00",
+    "views": "23",
+    "text": "大众劳工方：不会接受单方面将负担转嫁至员工身上。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3436618"
+  },
+  {
+    "post": "Financial_Express/3436617",
+    "datetime": "2026-09-03T19:11:42+00:00",
+    "views": "23",
+    "text": "大众劳工方：大众乘用车及零部件业务分拆方案已不予考虑。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3436617"
+  },
+  {
     "post": "Financial_Express/3436616",
     "datetime": "2026-09-03T19:09:09+00:00",
-    "views": "29",
+    "views": "40",
     "text": "在岸人民币兑美元（CNY）北京时间 03:00 收报 6.7178 元，较周三夜盘收盘涨 15 点。成交量 238.23 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3436615",
     "datetime": "2026-09-03T19:07:52+00:00",
-    "views": "37",
+    "views": "46",
     "text": "在岸人民币兑美元北京时间 03:00 收报 6.7178，较上一交易日夜盘收盘涨 15 点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3436614",
     "datetime": "2026-09-03T19:07:42+00:00",
-    "views": "37",
+    "views": "46",
     "text": "法庭文件显示，巴斯夫起诉苹果涉嫌侵犯其面部识别技术相关专利。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3436613",
     "datetime": "2026-09-03T19:07:36+00:00",
-    "views": "39",
+    "views": "48",
     "text": "恒生指数主连夜盘收涨 1.11%，报 25421 点。\n恒生科技指数主连夜盘收涨 1.32%，报 4528 点。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3436612",
     "datetime": "2026-09-03T19:07:05+00:00",
-    "views": "43",
+    "views": "52",
     "text": "德国大众汽车的翻身计划包括在全球反问内额外裁员 5 万人。大众 ADR 涨 4%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3436611",
     "datetime": "2026-09-03T19:07:03+00:00",
-    "views": "43",
+    "views": "52",
     "text": "大众汽车拟将所持资产及业务组合缩减约三分之一。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3436610",
     "datetime": "2026-09-03T19:06:42+00:00",
-    "views": "42",
+    "views": "51",
     "text": "大众汽车声明：到 2035 年车型阵容将缩减约 50%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3436609",
     "datetime": "2026-09-03T19:04:42+00:00",
-    "views": "33",
+    "views": "39",
     "text": "大众汽车 ADR 上涨 4%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3436608",
     "datetime": "2026-09-03T19:04:02+00:00",
-    "views": "62",
+    "views": "67",
     "text": "恒指期货夜盘收涨 1.11%，报 25421 点，高水 208 点。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3436607",
     "datetime": "2026-09-03T19:03:42+00:00",
-    "views": "59",
+    "views": "64",
     "text": "OpenAI 发布 GPT-6 Astra 模型 称其或接近实现 AGI\n金十数据 9 月 4 日讯，OpenAI 周四开始发布新旗舰模型 GPT-6 Astra，并称其在金融建模、工程设计等商业任务领域取得重大进展。该模型初期仅向部分机构开放，包括参与 OpenAI Daybreak Access 网络安全项目的组织，随后将向 ChatGPT Plus、Pro、Business 和 Enterprise 用户，以及通过 API 和亚马逊云服务使用的用户开放。OpenAI 表示，GPT-6 Astra 在计算机操作、软件编程、专业工作等方面取得显著提升，并在 FrontierMath Tier 1 数学测试、ARC-AGI 3 推理测试以及 ExploitBench 网络安全测试中达到最高水平。OpenAI 联合创始人兼总裁格雷格·布洛克曼表示，通用人工智能（AGI）的实现时间一直存在模糊性，但“几年后回看”，这一里程碑“可能就在这一时期、就在这个模型附近”。GPT-6 Astra 定价为每百万输入词元 10 美元、输出词元 50 美元，是此前旗舰模型 GPT-5.6 Sol 价格的 2.5 倍。OpenAI 表示，未来 AI 行业可能转向按任务而非按词元收费。布洛克曼在发布会上表示：“欢迎来到 AGI 时代。”",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3436606",
     "datetime": "2026-09-03T19:03:22+00:00",
-    "views": "54",
+    "views": "89",
     "text": "通过花旗银行开展 Integer 贷款业务；9 月 8 日举行贷款人电话会议。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3436604",
     "datetime": "2026-09-03T19:01:22+00:00",
-    "views": "49",
+    "views": "84",
     "text": "法国商业银行（RCI Banque）发行 8.902 亿欧元以西班牙汽车贷款为支持的证券化产品。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3436603",
     "datetime": "2026-09-03T19:00:22+00:00",
-    "views": "48",
+    "views": "83",
     "text": "恒指期货夜盘收涨 1.12%，报 25422.76 点，高水 209.45 点。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3436602",
     "datetime": "2026-09-03T19:00:02+00:00",
-    "views": "48",
+    "views": "83",
     "text": "世界银行：乌拉圭与世界银行达成合作，推出 3.5 亿美元开创性绩效挂钩贷款。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3436601",
     "datetime": "2026-09-03T18:59:22+00:00",
-    "views": "55",
+    "views": "60",
     "text": "世界银行：乌拉圭与世界银行合作推出 3.5 亿美元绩效挂钩贷款。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +182,7 @@
   {
     "post": "Financial_Express/3436600",
     "datetime": "2026-09-03T18:56:22+00:00",
-    "views": "61",
+    "views": "66",
     "text": "大众汽车：监事会将作出决议，把审批权限限定在对集团整体具有重大影响的事项，并相应调整审批阈值，对标 DAX 成分股企业的通行公司治理惯例。",
     "media_only": false,
     "image_url": null,
@@ -64465,32 +64501,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3429404"
-  },
-  {
-    "post": "Financial_Express/3429403",
-    "datetime": "2026-09-01T19:12:42+00:00",
-    "views": "64",
-    "text": "欧洲天然气期货价格升至 2023 年以来最高水平\n随着美国对伊朗发动新一轮打击，欧洲天然气基准期货价格飙升至 2023 年 1 月以来最高水平。作为欧洲天然气基准的荷兰近月期货价格上涨 5.9%，至每兆瓦时 73.95 欧元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429403"
-  },
-  {
-    "post": "Financial_Express/3429402",
-    "datetime": "2026-09-01T19:11:58+00:00",
-    "views": "64",
-    "text": "周二（9 月 1 日）纽约尾盘，彭博谷物分类指数涨 1.60%，报 35.9045 点，逼近 2024 年 6 月 18 日最终报价 36.0675 点，8 月 11 日结束交易以来平滑地持续上涨、累计涨幅达到 17.01%。\nCBOT 玉米期货涨 1.44%，报 5.4550 美元/蒲式耳。\nCBOT 小麦期货涨 0.73%，报 7.81 美元/蒲式耳。\nCBOT 大豆期货涨 2.41%，报 13.1850 美元/蒲式耳，豆粕期货涨 1.85%，豆油期货涨 2.11%。\nCBOT 瘦肉猪期货涨 0.03%，活牛期货跌 0.14%，饲牛期货跌 0.31%。\nICE 原糖期货涨 3.20%，ICE 白糖期货涨 2.65%。\nICE 阿拉比卡咖啡期货跌 2.86%，咖啡“C”期货跌 1.01%。罗布斯塔咖啡期货跌 1.93%。\n纽约可可期货跌 3.87%，报 6509 美元/吨。伦敦可可期货跌 1.21%。\n芝加哥 WCE 双低油菜籽期货涨 3.49%。\nICE 棉花期货跌 1.73%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429402"
-  },
-  {
-    "post": "Financial_Express/3429401",
-    "datetime": "2026-09-01T19:11:02+00:00",
-    "views": "58",
-    "text": "伊朗霍尔木兹甘省省长办公室：美国敌对势力野蛮入侵我国领土，袭击了科斯塔克一处居民区，再次在霍尔木兹甘省犯下战争罪。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429401"
   }
 ]
