@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3436610",
+    "datetime": "2026-09-03T19:06:42+00:00",
+    "views": "2",
+    "text": "大众汽车声明：到 2035 年车型阵容将缩减约 50%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3436610"
+  },
+  {
     "post": "Financial_Express/3436609",
     "datetime": "2026-09-03T19:04:42+00:00",
-    "views": "1",
+    "views": "2",
     "text": "大众汽车美股上涨 4%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3436608",
     "datetime": "2026-09-03T19:04:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "恒指期货夜盘收涨 1.11%，报 25421 点，高水 208 点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3436607",
     "datetime": "2026-09-03T19:03:42+00:00",
-    "views": "4",
+    "views": "34",
     "text": "OpenAI 发布 GPT-6 Astra 模型 称其或接近实现 AGI\n金十数据 9 月 4 日讯，OpenAI 周四开始发布新旗舰模型 GPT-6 Astra，并称其在金融建模、工程设计等商业任务领域取得重大进展。该模型初期仅向部分机构开放，包括参与 OpenAI Daybreak Access 网络安全项目的组织，随后将向 ChatGPT Plus、Pro、Business 和 Enterprise 用户，以及通过 API 和亚马逊云服务使用的用户开放。OpenAI 表示，GPT-6 Astra 在计算机操作、软件编程、专业工作等方面取得显著提升，并在 FrontierMath Tier 1 数学测试、ARC-AGI 3 推理测试以及 ExploitBench 网络安全测试中达到最高水平。OpenAI 联合创始人兼总裁格雷格·布洛克曼表示，通用人工智能（AGI）的实现时间一直存在模糊性，但“几年后回看”，这一里程碑“可能就在这一时期、就在这个模型附近”。GPT-6 Astra 定价为每百万输入词元 10 美元、输出词元 50 美元，是此前旗舰模型 GPT-5.6 Sol 价格的 2.5 倍。OpenAI 表示，未来 AI 行业可能转向按任务而非按词元收费。布洛克曼在发布会上表示：“欢迎来到 AGI 时代。”",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3436606",
     "datetime": "2026-09-03T19:03:22+00:00",
-    "views": "4",
+    "views": "34",
     "text": "通过花旗银行开展 Integer 贷款业务；9 月 8 日举行贷款人电话会议。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3436598",
     "datetime": "2026-09-03T18:54:02+00:00",
-    "views": "58",
+    "views": "88",
     "text": "Crusoe 与简街资本签署约 130 亿美元云计算交易。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3436597",
     "datetime": "2026-09-03T18:53:42+00:00",
-    "views": "58",
+    "views": "88",
     "text": "大众汽车：监事会注意到，埃姆登、茨维考、汉诺威以及内卡苏尔姆工厂目前无法保障具备竞争力的后续生产，正在研究这些工厂的替代用途。",
     "media_only": false,
     "image_url": null,
@@ -64465,32 +64474,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3429397"
-  },
-  {
-    "post": "Financial_Express/3429396",
-    "datetime": "2026-09-01T19:06:22+00:00",
-    "views": "93",
-    "text": "俄罗斯大使馆：德国有关莫斯科策划莱比锡机场无人机袭击未遂事件的说法“毫无依据、十分荒谬”，并指出这是一场挑衅，迎合了乌克兰、“欧洲精英阶层中的军国主义派系以及军火商”的利益。相关指控实施制裁是一次“前所未有的升级”，俄方“不会就此善罢甘休”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429396"
-  },
-  {
-    "post": "Financial_Express/3429395",
-    "datetime": "2026-09-01T19:05:32+00:00",
-    "views": "96",
-    "text": "在岸人民币兑美元（CNY）北京时间 03:00 收报 6.7202 元，较周一夜盘收盘跌 7 点。成交量 301.26 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429395"
-  },
-  {
-    "post": "Financial_Express/3429394",
-    "datetime": "2026-09-01T19:05:22+00:00",
-    "views": "96",
-    "text": "英国财政部副部长雷诺兹称，缓解全球失衡是一项敏感议题，英国将审慎应对。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429394"
   }
 ]
