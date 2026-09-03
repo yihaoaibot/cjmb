@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3435679",
+    "datetime": "2026-09-03T12:20:42+00:00",
+    "views": "1",
+    "text": "HUMAIN 推出 HUMAIN-M3，这是由 MiniMax 开发的前沿阿拉伯语大语言模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3435679"
+  },
+  {
+    "post": "Financial_Express/3435678",
+    "datetime": "2026-09-03T12:20:22+00:00",
+    "views": "4",
+    "text": "英伟达 CEO 黄仁勋：收购 Hugging Face 的价格“物有所值”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3435678"
+  },
+  {
+    "post": "Financial_Express/3435676",
+    "datetime": "2026-09-03T12:20:03+00:00",
+    "views": "4",
+    "text": "美国至 8 月 29 日当周初请失业金人数、7 月贸易帐将于十分钟后公布；美联储理事沃勒将于十分钟后接受访谈。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3435676"
+  },
+  {
+    "post": "Financial_Express/3435677",
+    "datetime": "2026-09-03T12:20:03+00:00",
+    "views": "4",
+    "text": "英伟达首席执行官黄仁勋：收购 Hugging Face 的每一分钱都花得值。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3435677"
+  },
+  {
+    "post": "Financial_Express/3435675",
+    "datetime": "2026-09-03T12:20:02+00:00",
+    "views": "4",
+    "text": "英伟达 CEO 黄仁勋：Hugging Face 的愿景“完全正确”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3435675"
+  },
+  {
+    "post": "Financial_Express/3435674",
+    "datetime": "2026-09-03T12:19:53+00:00",
+    "views": "5",
+    "text": "波罗的海干散货指数涨 4.71%，至 3488 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3435674"
+  },
+  {
+    "post": "Financial_Express/3435672",
+    "datetime": "2026-09-03T12:19:23+00:00",
+    "views": "6",
+    "text": "空客表示已查明问题根源，A330 客机交付工作已于夏季放缓后恢复。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3435672"
+  },
+  {
+    "post": "Financial_Express/3435673",
+    "datetime": "2026-09-03T12:19:23+00:00",
+    "views": "6",
+    "text": "20 分钟通关！大湾区航空香港至昆明航线首航落地\n9 月 3 日 11 时 13 分，大湾区航空 HB836 次航班降落在昆明长水国际机场，标志着大湾区航空香港至昆明往返航线正式通航。139 名入境旅客仅用 20 分钟全部通关，为滇港两地互联互通、经贸文旅沟通交流搭建起便捷空中纽带。（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3435673"
+  },
+  {
+    "post": "Financial_Express/3435671",
+    "datetime": "2026-09-03T12:19:22+00:00",
+    "views": "6",
+    "text": "奥本海默：将 Snowflake(SNOW.N)目标价从 400 美元上调至 475 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3435671"
+  },
+  {
     "post": "Financial_Express/3435670",
     "datetime": "2026-09-03T12:18:42+00:00",
-    "views": "1",
+    "views": "6",
     "text": "惠誉：将 2027 年全球再保险行业展望维持在“恶化”。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3435668",
     "datetime": "2026-09-03T12:18:22+00:00",
-    "views": "1",
+    "views": "6",
     "text": "莱昂·布莱克今天不会出席美国众议院委员会的听证会。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3435669",
     "datetime": "2026-09-03T12:18:22+00:00",
-    "views": "1",
+    "views": "6",
     "text": "惠誉预计 2027 年全球再保险行业保费将进一步下滑。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3435667",
     "datetime": "2026-09-03T12:17:22+00:00",
-    "views": "1",
+    "views": "36",
     "text": "黑石私人信贷基金：与第二季度相比，黑石其他私人财富永续产品的整体募资增长势头更为强劲。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3435666",
     "datetime": "2026-09-03T12:17:03+00:00",
-    "views": "1",
+    "views": "35",
     "text": "美元兑日元延续跌势，目前下跌 1.75%，报 155.9 日元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3435665",
     "datetime": "2026-09-03T12:17:02+00:00",
-    "views": "1",
+    "views": "34",
     "text": "惠誉：将 2027 年全球再保险行业展望维持为“恶化”。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3435664",
     "datetime": "2026-09-03T12:16:43+00:00",
-    "views": "31",
+    "views": "34",
     "text": "巨人网络：控股股东一致行动人减持 1.18%股份 权益变动触及 1%\n巨人网络公告称，公司控股股东巨人投资的一致行动人腾澎投资于 2026 年 8 月 31 日至 9 月 3 日通过大宗交易方式合计减持公司股份 2241.06 万股，占公司总股本比例 1.18%。本次减持后，巨人投资及其一致行动人合计持股由 7.41 亿股降至 7.18 亿股，占总股本比例由 38.98%降至 37.80%，权益变动触及 1%整数倍。本次权益变动不会导致公司控制权发生变化，本次减持与此前披露的减持计划一致。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3435663",
     "datetime": "2026-09-03T12:16:42+00:00",
-    "views": "1",
+    "views": "34",
     "text": "卫材阿尔茨海默症药获批皮下自动注射笔\n卫材中国宣布，乐意保®（仑卡奈单抗）皮下自动注射笔正式获得国家药品监督管理局批准上市，用于早期阿尔茨海默病的初始治疗。这是继 7 月该注射笔在美国获批后，中国成为全球第二、亚洲首个获批该注射笔使用的国家。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3435662",
     "datetime": "2026-09-03T12:16:22+00:00",
-    "views": "2",
+    "views": "35",
     "text": "Meta Platforms(META.O)：印度的账单支付服务将在未来几周内可用。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3435661",
     "datetime": "2026-09-03T12:16:20+00:00",
-    "views": "2",
+    "views": "35",
     "text": "Meta：WhatsApp 将在 Android 和 iOS 平台推出印度账单支付功能。\nWhatsApp 印度账单支付覆盖 22,722 家缴费机构，覆盖 30 个类别。\n账单支付服务正在印度逐步推广。\n账单支付服务将在未来几周内上线。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3435660",
     "datetime": "2026-09-03T12:16:10+00:00",
-    "views": "2",
+    "views": "35",
     "text": "西藏吉隆泥石流灾害核心区通电。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -64105,59 +64186,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3428444"
-  },
-  {
-    "post": "Financial_Express/3428443",
-    "datetime": "2026-09-01T12:20:43+00:00",
-    "views": "34",
-    "text": "三维通信：实控人李越伦减持计划届满 累计减持 799.82 万股\n三维通信公告称，公司实际控制人李越伦减持计划于 2026 年 8 月 31 日届满，期间通过集中竞价方式累计减持公司股份 7,998,200 股，占公司总股本的 0.9935%，未超过此前计划减持的 800 万股上限。本次减持前李越伦合计持有公司股份 7691.27 万股，占总股本 9.5539%；减持后合计持有 6891.45 万股，占总股本 8.5604%。本次减持符合相关监管规定，实际减持情况与此前披露的减持计划一致。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3428443"
-  },
-  {
-    "post": "Financial_Express/3428442",
-    "datetime": "2026-09-01T12:20:34+00:00",
-    "views": "34",
-    "text": "天眼查 App 显示，近日，上海垣信卫星科技有限公司近日发生工商变更，新增杭州阿里创业投资有限公司、上汽集团全资子公司上海汽车集团金控管理有限公司、上海浦东新兴产业投资有限公司等公司为股东，同时注册资本增至 24.8 亿元。（界面）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3428442"
-  },
-  {
-    "post": "Financial_Express/3428441",
-    "datetime": "2026-09-01T12:20:22+00:00",
-    "views": "32",
-    "text": "金风科技：累计回购 A 股股份耗资 3.00 亿元\n金风科技公告称，截至 2026 年 8 月 31 日，公司通过集中竞价交易方式累计回购 A 股股份 1301.66 万股，约占公司总股本的 0.31%，最高成交价 24.00 元/股，最低成交价 16.70 元/股，累计成交总金额 3.00 亿元（不含交易费用）。本次回购资金来源为自有资金，回购价格未超过调整后的 39.64 元/股的回购价格上限，回购股份将全部注销并减少注册资本。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3428441"
-  },
-  {
-    "post": "Financial_Express/3428440",
-    "datetime": "2026-09-01T12:19:57+00:00",
-    "views": "32",
-    "text": "据央视新闻，当地时间 9 月 1 日下午，国家主席习近平在比什凯克出席“上海合作组织+”会议并发表题为《共同倡导平等有序的世界多极化 实现更加公正合理的全球治理》的重要讲话。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3428440"
-  },
-  {
-    "post": "Financial_Express/3428439",
-    "datetime": "2026-09-01T12:19:23+00:00",
-    "views": "32",
-    "text": "印度将柴油出口关税从每升 3 卢比下调至每升 1 卢比。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3428439"
-  },
-  {
-    "post": "Financial_Express/3428438",
-    "datetime": "2026-09-01T12:19:22+00:00",
-    "views": "32",
-    "text": "根据官方命令，印度将柴油出口税从每升 3 卢比下调至每升 1 卢比。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3428438"
   }
 ]
