@@ -1,5 +1,41 @@
 [
   {
+    "post": "Financial_Express/3436609",
+    "datetime": "2026-09-03T19:04:42+00:00",
+    "views": "1",
+    "text": "大众汽车美股上涨 4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3436609"
+  },
+  {
+    "post": "Financial_Express/3436608",
+    "datetime": "2026-09-03T19:04:02+00:00",
+    "views": "3",
+    "text": "恒指期货夜盘收涨 1.11%，报 25421 点，高水 208 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3436608"
+  },
+  {
+    "post": "Financial_Express/3436607",
+    "datetime": "2026-09-03T19:03:42+00:00",
+    "views": "4",
+    "text": "OpenAI 发布 GPT-6 Astra 模型 称其或接近实现 AGI\n金十数据 9 月 4 日讯，OpenAI 周四开始发布新旗舰模型 GPT-6 Astra，并称其在金融建模、工程设计等商业任务领域取得重大进展。该模型初期仅向部分机构开放，包括参与 OpenAI Daybreak Access 网络安全项目的组织，随后将向 ChatGPT Plus、Pro、Business 和 Enterprise 用户，以及通过 API 和亚马逊云服务使用的用户开放。OpenAI 表示，GPT-6 Astra 在计算机操作、软件编程、专业工作等方面取得显著提升，并在 FrontierMath Tier 1 数学测试、ARC-AGI 3 推理测试以及 ExploitBench 网络安全测试中达到最高水平。OpenAI 联合创始人兼总裁格雷格·布洛克曼表示，通用人工智能（AGI）的实现时间一直存在模糊性，但“几年后回看”，这一里程碑“可能就在这一时期、就在这个模型附近”。GPT-6 Astra 定价为每百万输入词元 10 美元、输出词元 50 美元，是此前旗舰模型 GPT-5.6 Sol 价格的 2.5 倍。OpenAI 表示，未来 AI 行业可能转向按任务而非按词元收费。布洛克曼在发布会上表示：“欢迎来到 AGI 时代。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3436607"
+  },
+  {
+    "post": "Financial_Express/3436606",
+    "datetime": "2026-09-03T19:03:22+00:00",
+    "views": "4",
+    "text": "通过花旗银行开展 Integer 贷款业务；9 月 8 日举行贷款人电话会议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3436606"
+  },
+  {
     "post": "Financial_Express/3436605",
     "datetime": "2026-09-03T19:01:42+00:00",
     "views": "2",
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3436604",
     "datetime": "2026-09-03T19:01:22+00:00",
-    "views": "2",
+    "views": "34",
     "text": "法国商业银行（RCI Banque）发行 8.902 亿欧元以西班牙汽车贷款为支持的证券化产品。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3436603",
     "datetime": "2026-09-03T19:00:22+00:00",
-    "views": "2",
+    "views": "34",
     "text": "恒指期货夜盘收涨 1.12%，报 25422.76 点，高水 209.45 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3436602",
     "datetime": "2026-09-03T19:00:02+00:00",
-    "views": "2",
+    "views": "34",
     "text": "世界银行：乌拉圭与世界银行达成合作，推出 3.5 亿美元开创性绩效挂钩贷款。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3436601",
     "datetime": "2026-09-03T18:59:22+00:00",
-    "views": "40",
+    "views": "42",
     "text": "世界银行：乌拉圭与世界银行合作推出 3.5 亿美元绩效挂钩贷款。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3436600",
     "datetime": "2026-09-03T18:56:22+00:00",
-    "views": "49",
+    "views": "51",
     "text": "大众汽车：监事会将作出决议，把审批权限限定在对集团整体具有重大影响的事项，并相应调整审批阈值，对标 DAX 成分股企业的通行公司治理惯例。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3436599",
     "datetime": "2026-09-03T18:55:22+00:00",
-    "views": "51",
+    "views": "53",
     "text": "消息人士：Crusoe 与简街签署约 130 亿美元云计算协议。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3436598",
     "datetime": "2026-09-03T18:54:02+00:00",
-    "views": "56",
+    "views": "58",
     "text": "Crusoe 与简街资本签署约 130 亿美元云计算交易。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3436597",
     "datetime": "2026-09-03T18:53:42+00:00",
-    "views": "56",
+    "views": "58",
     "text": "大众汽车：监事会注意到，埃姆登、茨维考、汉诺威以及内卡苏尔姆工厂目前无法保障具备竞争力的后续生产，正在研究这些工厂的替代用途。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3436596",
     "datetime": "2026-09-03T18:53:22+00:00",
-    "views": "57",
+    "views": "88",
     "text": "以色列总理称能推翻伊朗政权\n当地时间 9 月 3 日，以色列总理内塔尼亚胡在以军总部出席活动时称，他相信以色列有能力“彻底消除威胁并推翻伊朗政权”。内塔尼亚胡称，过去三年以及以色列对伊朗采取军事行动期间取得的成果“具有历史意义”，伊朗“正在动摇”，“比以往任何时候都更加虚弱”，并正在“为生存而战”。他表示，以色列当前面临的一项主要任务就是“彻底消除伊朗的威胁——也就是推翻这一政权”。 内塔尼亚胡称，实现这一目标“已经很接近”，“并非不可能，而是触手可及”。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3436595",
     "datetime": "2026-09-03T18:51:42+00:00",
-    "views": "61",
+    "views": "92",
     "text": "大众汽车：这对应约 310 亿欧元的营业利润，2027‑2031 规划期内投资规模为 1350 亿欧元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3436594",
     "datetime": "2026-09-03T18:50:43+00:00",
-    "views": "62",
+    "views": "92",
     "text": "大众汽车：核心财务目标是到 2030 年实现 9% 的销售营业回报率。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3436593",
     "datetime": "2026-09-03T18:50:42+00:00",
-    "views": "62",
+    "views": "92",
     "text": "大众汽车：到 2030 年，关键财务目标是实现 9%的销售营业回报率。",
     "media_only": false,
     "image_url": null,
@@ -64456,59 +64492,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3429394"
-  },
-  {
-    "post": "Financial_Express/3429393",
-    "datetime": "2026-09-01T19:04:27+00:00",
-    "views": "97",
-    "text": "在岸人民币兑美元北京时间 03:00 收报 6.7202，较上一交易日夜盘收盘跌 7 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429393"
-  },
-  {
-    "post": "Financial_Express/3429392",
-    "datetime": "2026-09-01T19:04:02+00:00",
-    "views": "99",
-    "text": "富国银行加入摩根大通行列 对美股后市表现持谨慎看法\n富国银行成为本周第二家对美股转趋谨慎的银行。随着市场进入历史上表现最差的月份之一，加之中期选举给人工智能交易增添不确定性，富国对 9 月美股前景发出警告。由首席股票策略师 Ohsung Kwon 领衔的富国银行分析师团队表示，投资者越来越担心 AI 投资热潮能否持续，进入 9 月后市场将呈现“普遍谨慎”的情绪。团队预计，围绕 AI 基础设施建设资本开支的担忧将达到高点。不过，他们指出，经历 8 月中旬抛售后，情绪指标仍是正面多于负面。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429392"
-  },
-  {
-    "post": "Financial_Express/3429391",
-    "datetime": "2026-09-01T19:03:43+00:00",
-    "views": "99",
-    "text": "伊朗多地再次传出爆炸声 机场和能源枢纽遭袭\n据总台记者消息，当地时间 9 月 1 日 21 时 28 分左右，伊朗南部阿巴斯港、格什姆岛再次传出爆炸声。伊朗拉万岛（Lavan）也传出爆炸声。伊朗方面还有消息称，1 日 21 时 40 分左右，美军袭击伊朗吉罗夫特机场。吉罗夫特位于伊朗克尔曼省，距离该省省会城市克尔曼 200 公里左右。据悉，当日晚，伊朗位于波斯湾沿岸的重要能源枢纽阿萨鲁耶港也传出爆炸声。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429391"
-  },
-  {
-    "post": "Financial_Express/3429390",
-    "datetime": "2026-09-01T19:03:42+00:00",
-    "views": "64",
-    "text": "伊朗多地再次传出爆炸声 机场和能源枢纽遭袭\n金十数据 9 月 2 日讯，当地时间 9 月 1 日 21 时 28 分左右，伊朗南部阿巴斯港、格什姆岛再次传出爆炸声。伊朗拉万岛（Lavan）也传出爆炸声。伊朗方面还有消息称，1 日 21 时 40 分左右，美军袭击伊朗吉罗夫特机场。吉罗夫特位于伊朗克尔曼省，距离该省省会城市克尔曼 200 公里左右。据悉，当日晚，伊朗位于波斯湾沿岸的重要能源枢纽阿萨鲁耶港也传出爆炸声。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429390"
-  },
-  {
-    "post": "Financial_Express/3429389",
-    "datetime": "2026-09-01T19:03:22+00:00",
-    "views": "61",
-    "text": "据伊朗媒体：伊朗恰巴哈尔再次传出爆炸声。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429389"
-  },
-  {
-    "post": "Financial_Express/3429388",
-    "datetime": "2026-09-01T19:03:02+00:00",
-    "views": "61",
-    "text": "伊朗媒体：周二晚间一枚从伊朗中部霍梅因发射的导弹因发射故障发生坠落。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429388"
   }
 ]
