@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3436830",
+    "datetime": "2026-09-03T21:16:22+00:00",
+    "views": "6",
+    "text": "露露乐蒙：正采取措施管控非必要开支。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3436830"
+  },
+  {
+    "post": "Financial_Express/3436829",
+    "datetime": "2026-09-03T21:16:13+00:00",
+    "views": "9",
+    "text": "富时 A50 期指连续夜盘收涨 0.40%，报 14613 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3436829"
+  },
+  {
     "post": "Financial_Express/3436827",
     "datetime": "2026-09-03T21:11:02+00:00",
-    "views": "22",
+    "views": "28",
     "text": "SpaceXAI 推出面向企业的 GrokBot，企业客户可免费试用两周。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3436826",
     "datetime": "2026-09-03T21:10:22+00:00",
-    "views": "29",
+    "views": "33",
     "text": "SPACEXAI：面向企业推出 Grok 机器人，企业客户可享两周免费试用。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3436825",
     "datetime": "2026-09-03T21:08:59+00:00",
-    "views": "30",
+    "views": "33",
     "text": "周四（9 月 3 日），美股降息赢家指数涨 1.27%，报 94.04 点，美股盘初冲高回落、北京时间 21:36 曾涨至 94.80 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3436824",
     "datetime": "2026-09-03T21:07:51+00:00",
-    "views": "29",
+    "views": "32",
     "text": "周四（9 月 3 日）纽约尾盘，标普 500 股指期货最终涨 0.97%，道指期货涨 1.13%，纳斯达克 100 股指期货涨 1.08%。\n罗素 2000 股指期货涨 0.41%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3436823",
     "datetime": "2026-09-03T21:06:07+00:00",
-    "views": "24",
+    "views": "27",
     "text": "周四（9 月 3 日）纽约尾盘（周五北京时间 04:59），离岸人民币（CNH）兑美元报 6.7175 元，较周三纽约尾盘涨 5 点，日内整体交投于 6.7207-6.7162 元区间。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3436822",
     "datetime": "2026-09-03T21:06:02+00:00",
-    "views": "24",
+    "views": "27",
     "text": "SentinelOne 借助 OpenAI 网络安全模型扩展 Wayfinder 产品。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3436821",
     "datetime": "2026-09-03T21:03:42+00:00",
-    "views": "51",
+    "views": "54",
     "text": "Sophos 将在托管风险服务中接入 OpenAI GPT 模型。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3436820",
     "datetime": "2026-09-03T21:03:21+00:00",
-    "views": "50",
+    "views": "53",
     "text": "嘉信加密主题指数（Schwab Crypto Thematic Index）收涨 9.2%。\n美股加密货币与加密货币关联指数涨 12.20%，报 75.53 点。\n最近 24 小时，比特币涨 5.22%，暂报 81435.84 美元，北京时间 20:00-00:00 显著地扩大涨幅。\n以太坊涨 4.73%，暂报 2505.282 美元。\n加密货币概念股中，Robinhood 收涨 16.57%，Circle 涨 16.46%，Riot Platforms 涨 13.44%，Gemini Space Station Inc.涨 12.82%，Bullish 涨 10.97%，TeraWulf 涨 9.51%，第九城市则跌 1.64%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3436819",
     "datetime": "2026-09-03T21:02:22+00:00",
-    "views": "50",
+    "views": "53",
     "text": "露露乐蒙高管：营收表现弱于预期，需额外开展季节性清库存。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3436818",
     "datetime": "2026-09-03T21:02:02+00:00",
-    "views": "49",
+    "views": "52",
     "text": "露露乐蒙表示本季度开局疲软。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3436817",
     "datetime": "2026-09-03T21:01:02+00:00",
-    "views": "47",
+    "views": "50",
     "text": "Cloudflare 借助与 OpenAI 达成的合作推出 AI 漏洞检测功能。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3436816",
     "datetime": "2026-09-03T21:00:42+00:00",
-    "views": "47",
+    "views": "49",
     "text": "美元指数突破 99 关口，日内持平。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3436815",
     "datetime": "2026-09-03T21:00:22+00:00",
-    "views": "47",
+    "views": "49",
     "text": "特朗普：我正在保护英国免受伊朗威胁。倘若伊朗拥有核武器，其在欧洲动用该武器的可能性会高于针对美国。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3436814",
     "datetime": "2026-09-03T20:57:54+00:00",
-    "views": "46",
+    "views": "48",
     "text": "计算机网络公司 Ciena 收跌 10%，创 6 月 4 日以来最大单日跌幅。\n北美科技软件股指数 ETF 涨 3.41%，报 106.95 美元。\nGlobal X 网络安全 ETF 涨 2.74%，纳斯达克网络安全 ETF 涨 1.9%，ETFMG 网络安全 ETF 涨 1.97%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3436813",
     "datetime": "2026-09-03T20:55:58+00:00",
-    "views": "45",
+    "views": "47",
     "text": "明晟公司 MSCI 新兴市场股票指数涨 0.2%，外汇指数涨 0.2%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3436812",
     "datetime": "2026-09-03T20:55:42+00:00",
-    "views": "43",
+    "views": "45",
     "text": "露露乐蒙高管表示：中东特许经营业务持续受到该地区冲突的影响，欧洲旅游业也同样受到波及。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3436811",
     "datetime": "2026-09-03T20:55:02+00:00",
-    "views": "41",
+    "views": "42",
     "text": "非美货币普遍走强，匈牙利福林涨 1.9%，瑞郎涨约 0.7%\n周四（9 月 3 日）纽约尾盘，欧元兑美元涨 0.35%，报 1.1629，整体持续走高；英镑兑美元涨 0.29%，报 1.3528，北京时间 20:00-00:53 持续三样；美元兑瑞郎跌 0.67%，报 0.8074。商品货币对中，澳元兑美元涨 0.48%，纽元兑美元涨 0.55%，美元兑加元跌 0.38%。瑞典克朗兑美元涨 0.98%，挪威克朗兑美元涨 0.31%，丹麦克朗兑美元涨 0.35%。波兰兹罗提兑美元涨 0.56%，美元兑匈牙利福林跌 1.90%。土耳其里拉兑美元跌 0.07%，南非兰特兑美元涨 0.36%，墨西哥比索兑美元跌 0.25%，巴西雷亚尔兑美元跌 0.24%。",
     "media_only": false,
     "image_url": null,
@@ -64078,41 +64096,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3429660"
-  },
-  {
-    "post": "Financial_Express/3429659",
-    "datetime": "2026-09-01T21:16:26+00:00",
-    "views": "100",
-    "text": "富时 A50 期指连续夜盘收跌 0.23%，报 14694 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429659"
-  },
-  {
-    "post": "Financial_Express/3429658",
-    "datetime": "2026-09-01T21:16:22+00:00",
-    "views": "16",
-    "text": "官方声明显示：约旦防空系统拦截了进入该国领空的 13 枚弹道导弹。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429658"
-  },
-  {
-    "post": "Financial_Express/3429657",
-    "datetime": "2026-09-01T21:15:35+00:00",
-    "views": "103",
-    "text": "美国国家航空航天局（NASA）授予蓝色起源火星通信网络项目合同。\n贝佐斯旗下蓝色起源火星轨道器相关合同最高价值约 7 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429657"
-  },
-  {
-    "post": "Financial_Express/3429655",
-    "datetime": "2026-09-01T21:15:02+00:00",
-    "views": "99",
-    "text": "蓝色起源火星轨道器相关合同最高价值约 7 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3429655"
   }
 ]
