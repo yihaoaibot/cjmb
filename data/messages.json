@@ -1,9 +1,36 @@
 [
   {
+    "post": "Financial_Express/3439994",
+    "datetime": "2026-09-04T20:20:22+00:00",
+    "views": "7",
+    "text": "美国官员：白宫未计划在 9 月中旬举行人工智能会谈。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3439994"
+  },
+  {
+    "post": "Financial_Express/3439993",
+    "datetime": "2026-09-04T20:19:42+00:00",
+    "views": "10",
+    "text": "OpenAI 首席执行官奥尔特曼：GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，并已可通过 API 使用。我们下一步将开始向 Plus 和 Business 用户开放。感谢大家的耐心等待。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3439993"
+  },
+  {
+    "post": "Financial_Express/3439992",
+    "datetime": "2026-09-04T20:19:35+00:00",
+    "views": "10",
+    "text": "美国官员：白宫并没有谋划 9 月中旬举办与中国的 AI 对话。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3439992"
+  },
+  {
     "post": "Financial_Express/3439991",
     "datetime": "2026-09-04T20:18:28+00:00",
-    "views": "5",
-    "text": "特朗普称赞对华关系并指中国置身伊战事外。",
+    "views": "14",
+    "text": "美国总统唐纳德·特朗普说，将举办正式国宴欢迎中国国家主席习近平本月晚些时候到访华盛顿。\n特朗普周五对媒体说，他会在 9 月 24 日主持欢迎晚宴。这位总统同时还淡化了美国和中国围绕伊朗问题产生的摩擦。\n“我们会搞一场国宴，而且我们要 —— 我们跟中国能办大事，我们和中国一直处得非常好，” 特朗普说。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3439991"
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3439990",
     "datetime": "2026-09-04T20:17:43+00:00",
-    "views": "12",
+    "views": "19",
     "text": "周五（9 月 4 日），彭博电动汽车价格回报指数跌 0.18%，报 3407.93 点，本周累计下跌 2.96%，8 月 31 日至 9 月 2 日亚太早盘持续下跌，之后逐步收复失地。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3439989",
     "datetime": "2026-09-04T20:16:05+00:00",
-    "views": "16",
+    "views": "53",
     "text": "美联储：美国上周银行存款 19.559 万亿美元，之前一周 19.532 万亿美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3439988",
     "datetime": "2026-09-04T20:16:03+00:00",
-    "views": "16",
+    "views": "53",
     "text": "OpenAI：GPT‑6 Astra 现已面向 ChatGPT Work 与 Codex 的所有 Pro、企业版以及商业高级版用户开放。",
     "media_only": false,
     "image_url": null,
@@ -38,8 +65,8 @@
   {
     "post": "Financial_Express/3439987",
     "datetime": "2026-09-04T20:12:42+00:00",
-    "views": "54",
-    "text": "以色列军方声明称，在真主党向以色列士兵发动无人机袭击后，以军正在打击黎巴嫩南部。\n❤1",
+    "views": "60",
+    "text": "以色列军方声明称，在真主党向以色列士兵发动无人机袭击后，以军正在打击黎巴嫩南部。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3439987"
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3439986",
     "datetime": "2026-09-04T20:12:22+00:00",
-    "views": "54",
+    "views": "59",
     "text": "北美科技软件股指数 ETF 收跌 2.23%，报 104.57 美元，本周回撤 4.50%。\nGlobal X 网络安全 ETF 收跌 0.72%，本周回撤 3.68%。\n纳斯达克网络安全 ETF 收跌 0.77%，本周回撤 4.03%。\nETFMG 网络安全 ETF 收跌 0.70%，本周回撤 4.15%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3439985",
     "datetime": "2026-09-04T20:11:42+00:00",
-    "views": "53",
+    "views": "58",
     "text": "以色列国防军：目前仍在该安全区开展行动，目的是消除对以色列平民和以军士兵构成的威胁。我军将继续针对真主党“反复试图伤害以军士兵”的行动采取措施。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3439984",
     "datetime": "2026-09-04T20:11:22+00:00",
-    "views": "52",
+    "views": "57",
     "text": "以色列国防军：有关行动构成真主党“公然违反规定”，并已对黎巴嫩南部目标实施回应性打击。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3439983",
     "datetime": "2026-09-04T20:10:42+00:00",
-    "views": "52",
+    "views": "57",
     "text": "以色列国防军：黎巴嫩真主党武装人员当天向驻扎在黎巴嫩南部“安全区”的以军士兵发射一架无人机，以军开火将其击落，未造成人员伤亡。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3439982",
     "datetime": "2026-09-04T20:09:22+00:00",
-    "views": "53",
+    "views": "58",
     "text": "据日经新闻：日本 AI 数据中心规模预计到 2033 年将增至四倍，投资达 600 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3439981",
     "datetime": "2026-09-04T20:07:49+00:00",
-    "views": "56",
+    "views": "59",
     "text": "标普 500 指数的 11 个板块中，可选消费板块收跌 1.26%，能源板块跌 0.98%，电信板块跌 0.94%，信息技术/科技板块涨 0.23%，工业板块涨 0.41%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3439980",
     "datetime": "2026-09-04T20:07:02+00:00",
-    "views": "55",
+    "views": "58",
     "text": "标普：塞内加尔的融资需求或将维持高位。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3439979",
     "datetime": "2026-09-04T20:06:23+00:00",
-    "views": "56",
+    "views": "59",
     "text": "标普：负面展望反映出，塞内加尔外币商业债务极有可能发生困境置换或违约。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3439978",
     "datetime": "2026-09-04T20:06:22+00:00",
-    "views": "56",
+    "views": "58",
     "text": "阿根廷增加本财年国防外交预算 支持马岛外交行动\n金十数据 9 月 5 日讯，阿根廷总统米莱 4 日签署法令修订 2026 财年预算，增加国防、军事和情报部门经费，同时拨款外交部支持涉马尔维纳斯群岛（简称马岛，英国称福克兰群岛）的外交行动。法令显示，阿根廷国防部以及陆军、海军、空军和联合参谋部新增经费 2179.54 亿阿根廷比索（约合 1.45 亿美元）。阿根廷国家情报秘书处新增经费 305.19 亿阿根廷比索（约合 2024 万美元）。阿根廷国家空间活动委员会经费总额调整为 1192.895 亿比索（约合 7909 万美元）。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3439977",
     "datetime": "2026-09-04T20:06:13+00:00",
-    "views": "57",
+    "views": "60",
     "text": "美国总统特朗普表示，美国可能“很快”打击伊朗位于镐山的核设施。\n当时记者问他将如何定义当前的伊朗冲突时，特朗普说伊朗战争只是军事冲突，并非大事。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3439976",
     "datetime": "2026-09-04T20:06:02+00:00",
-    "views": "56",
+    "views": "59",
     "text": "标普：受债务重组计划影响，塞内加尔外币评级下调至 “CC”，本币评级下调至 “CCC”，展望为负面。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3439975",
     "datetime": "2026-09-04T20:05:42+00:00",
-    "views": "55",
+    "views": "57",
     "text": "金十图示：2026 年 09 月 04 日（周五）美股热门股票行情一览（美股收盘）",
     "media_only": false,
     "image_url": null,
@@ -57922,32 +57949,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3433241"
-  },
-  {
-    "post": "Financial_Express/3433240",
-    "datetime": "2026-09-02T20:20:43+00:00",
-    "views": "62",
-    "text": "博通(AVGO.O)2026 财年 Q3 自由现金流为 137 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3433240"
-  },
-  {
-    "post": "Financial_Express/3433239",
-    "datetime": "2026-09-02T20:20:22+00:00",
-    "views": "62",
-    "text": "博通(AVGO.O)2026 财年 Q4 预计非 GAAP 营业利润约占预期营收的 66%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3433239"
-  },
-  {
-    "post": "Financial_Express/3433238",
-    "datetime": "2026-09-02T20:20:02+00:00",
-    "views": "64",
-    "text": "美国商务部长：Anthropic 已与特朗普政府“修复关系”\n金十数据 9 月 3 日讯，据外媒报道，美国商务部长卢特尼克表示，人工智能公司 Anthropic 已与特朗普政府修复关系，双方围绕国家安全问题持续数月的尖锐分歧似乎已经得到解决。卢特尼克称，双方此前“闹得沸沸扬扬”，但 Anthropic“已经想通了”。他表示，特朗普及其他政府官员帮助弥合了双方分歧，并争取到了该公司的支持，“我们已经把事情理顺了，现在大家步调一致”。此前，美国商务部曾于 6 月短暂对 Anthropic 旗下两款顶级 AI 模型实施出口管制，两周后在 Anthropic 采取措施回应政府的国家安全担忧后解除限制。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3433238"
   }
 ]
