@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3439684",
+    "datetime": "2026-09-04T16:52:14+00:00",
+    "views": "1",
+    "text": "LME 期铜收涨 82 美元，报 14416 美元/吨。\nLME 期铝收跌 18 美元，报 3294 美元/吨。\nLME 期锌收涨 34 美元，报 3946 美元/吨。\nLME 期铅收涨 4 美元，报 1908 美元/吨。\nLME 期镍收涨 60 美元，报 16846 美元/吨。\nLME 期锡收跌 86 美元，报 54866 美元/吨。\nLME 期钴收跌 2070 美元，报 46430 美元/吨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3439684"
+  },
+  {
     "post": "Financial_Express/3439682",
     "datetime": "2026-09-04T16:50:42+00:00",
-    "views": "1",
+    "views": "2",
     "text": "委内瑞拉央行：委内瑞拉八月通胀率为 8.9%。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +29,8 @@
   {
     "post": "Financial_Express/3439680",
     "datetime": "2026-09-04T16:50:03+00:00",
-    "views": "3",
-    "text": "据塔斯尼姆通讯社：消息人士称，约旦境内传来巨响，约旦北部的美国目标遭到导弹袭击。",
+    "views": "33",
+    "text": "据塔斯尼姆通讯社：消息人士称，约旦境内传出巨响，约旦北部的美国目标遭到导弹袭击。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3439680"
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3439679",
     "datetime": "2026-09-04T16:49:23+00:00",
-    "views": "3",
+    "views": "33",
     "text": "委内瑞拉央行公布该国 8 月通胀率为 8.9%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3439678",
     "datetime": "2026-09-04T16:49:22+00:00",
-    "views": "3",
+    "views": "33",
     "text": "阿拉伯消息来源称约旦境内传出巨大爆炸声。",
     "media_only": false,
     "image_url": null,
@@ -57967,32 +57976,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3432925"
-  },
-  {
-    "post": "Financial_Express/3432924",
-    "datetime": "2026-09-02T16:52:42+00:00",
-    "views": "89",
-    "text": "OpenAI 创始人奥特曼：人工智能将是全球商业史上规模最大的繁荣。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3432924"
-  },
-  {
-    "post": "Financial_Express/3432923",
-    "datetime": "2026-09-02T16:52:34+00:00",
-    "views": "88",
-    "text": "OpenAI 的 CEO Sam Altman 在二十国集团（G20）活动期间会见美国商务部长卢特尼克。\nOpenAI 称，人工智能将是全球商业史上规模最大的繁荣。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3432923"
-  },
-  {
-    "post": "Financial_Express/3432922",
-    "datetime": "2026-09-02T16:51:34+00:00",
-    "views": "86",
-    "text": "欧洲 STOXX 600 指数收跌 0.24%，连续三个交易日下跌（期间累计下跌 1.41%），报 645.91 点，整体呈现出 V 形走势，继续逼近 7 月 29 日收盘位 645.01 点——这段时期呈现出 M 形走势。\n欧元区 STOXX 50 指数收跌 0.11%，三天跌 1.90%，报 6362.15 点。\n富时泛欧绩优 300 指数收跌 0.16%，报 2580.87 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3432922"
   }
 ]
