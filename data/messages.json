@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3439994",
     "datetime": "2026-09-04T20:20:22+00:00",
-    "views": "16",
+    "views": "20",
     "text": "美国官员：白宫未计划在 9 月中旬举行人工智能会谈。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3439993",
     "datetime": "2026-09-04T20:19:42+00:00",
-    "views": "19",
+    "views": "54",
     "text": "OpenAI 首席执行官奥尔特曼：GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，并已可通过 API 使用。我们下一步将开始向 Plus 和 Business 用户开放。感谢大家的耐心等待。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +20,8 @@
   {
     "post": "Financial_Express/3439992",
     "datetime": "2026-09-04T20:19:35+00:00",
-    "views": "19",
-    "text": "美国官员：白宫并没有谋划 9 月中旬举办与中国的 AI 对话。",
+    "views": "54",
+    "text": "美国官员置评有关 AI 对话与中国商界随团访问的媒体报道：白宫并没有谋划 9 月中旬举办与中国的 AI 对话。\n特朗普政府认为，中国企业界并不会陪同习近平访美。（彭博）",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3439992"
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3439991",
     "datetime": "2026-09-04T20:18:28+00:00",
-    "views": "20",
+    "views": "55",
     "text": "美国总统唐纳德·特朗普说，将举办正式国宴欢迎中国国家主席习近平本月晚些时候到访华盛顿。\n特朗普周五对媒体说，他会在 9 月 24 日主持欢迎晚宴。这位总统同时还淡化了美国和中国围绕伊朗问题产生的摩擦。\n“我们会搞一场国宴，而且我们要 —— 我们跟中国能办大事，我们和中国一直处得非常好，” 特朗普说。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3439990",
     "datetime": "2026-09-04T20:17:43+00:00",
-    "views": "53",
+    "views": "57",
     "text": "周五（9 月 4 日），彭博电动汽车价格回报指数跌 0.18%，报 3407.93 点，本周累计下跌 2.96%，8 月 31 日至 9 月 2 日亚太早盘持续下跌，之后逐步收复失地。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3439989",
     "datetime": "2026-09-04T20:16:05+00:00",
-    "views": "57",
+    "views": "60",
     "text": "美联储：美国上周银行存款 19.559 万亿美元，之前一周 19.532 万亿美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3439988",
     "datetime": "2026-09-04T20:16:03+00:00",
-    "views": "57",
+    "views": "60",
     "text": "OpenAI：GPT‑6 Astra 现已面向 ChatGPT Work 与 Codex 的所有 Pro、企业版以及商业高级版用户开放。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3439987",
     "datetime": "2026-09-04T20:12:42+00:00",
-    "views": "64",
+    "views": "65",
     "text": "以色列军方声明称，在真主党向以色列士兵发动无人机袭击后，以军正在打击黎巴嫩南部。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3439986",
     "datetime": "2026-09-04T20:12:22+00:00",
-    "views": "63",
+    "views": "64",
     "text": "北美科技软件股指数 ETF 收跌 2.23%，报 104.57 美元，本周回撤 4.50%。\nGlobal X 网络安全 ETF 收跌 0.72%，本周回撤 3.68%。\n纳斯达克网络安全 ETF 收跌 0.77%，本周回撤 4.03%。\nETFMG 网络安全 ETF 收跌 0.70%，本周回撤 4.15%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3439985",
     "datetime": "2026-09-04T20:11:42+00:00",
-    "views": "62",
+    "views": "63",
     "text": "以色列国防军：目前仍在该安全区开展行动，目的是消除对以色列平民和以军士兵构成的威胁。我军将继续针对真主党“反复试图伤害以军士兵”的行动采取措施。",
     "media_only": false,
     "image_url": null,
@@ -57913,14 +57913,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3433245"
-  },
-  {
-    "post": "Financial_Express/3433244",
-    "datetime": "2026-09-02T20:23:44+00:00",
-    "views": "59",
-    "text": "惠与（HPE）在第三财季过后与某家超大规模云服务商（Hyperscaler）达成 35 亿美元协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3433244"
   }
 ]
