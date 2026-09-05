@@ -1,5 +1,14 @@
 [
   {
+    "post": "Financial_Express/3440275",
+    "datetime": "2026-09-05T03:44:42+00:00",
+    "views": "2",
+    "text": "江西吉安遂川县高坪镇发生山体滑坡 十余人被埋\n总台记者从江西相关部门获悉，9 月 5 日上午，江西吉安遂川县高坪镇发生山体滑坡，有十余人被埋，救援力量正在赶往事故现场。（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3440275"
+  },
+  {
     "post": "Financial_Express/3440274",
     "datetime": "2026-09-05T03:39:09+00:00",
     "views": "49",
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3440271",
     "datetime": "2026-09-05T03:37:22+00:00",
-    "views": "55",
+    "views": "86",
     "text": "华为何庭波更新韬定律论文\n晶体管密度提升约 55%，但相同性能下 NPU、GPU 功耗分别下降 66%和 58%。何庭波认为，LogicFolding 通过缩短信号传输路径、减少数据搬运能耗，使芯片在“堆得更密”的同时反而降低功耗，也让外界担忧的“τ芯片本该过热烧毁”并未成为现实。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3440268",
     "datetime": "2026-09-05T03:33:22+00:00",
-    "views": "95",
+    "views": "96",
     "text": "《西雅图时报》和《新闻日报》于周五起诉 OpenAI 和微软(MSFT.O)，他们在联邦法院指控这两家科技公司未经许可复制其报纸的新闻报道，以训练其人工智能系统。",
     "media_only": false,
     "image_url": null,
@@ -52360,41 +52369,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3434054"
-  },
-  {
-    "post": "Financial_Express/3434053",
-    "datetime": "2026-09-03T03:44:43+00:00",
-    "views": "77",
-    "text": "上海浦东：积极创建国家数字贸易示范区\n金十数据 9 月 3 日讯，上海市浦东新区副区长徐欣在 9 月 3 日举行的上海市政府新闻发布会上表示，加快服务贸易扩大开放，积极创建国家数字贸易示范区。深化服务业扩大开放综合试点，推进金融、医疗健康、文化教育、专业服务等重点领域扩大开放。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3434053"
-  },
-  {
-    "post": "Financial_Express/3434052",
-    "datetime": "2026-09-03T03:44:42+00:00",
-    "views": "47",
-    "text": "上海：将提升首发经济能级\n金十数据 9 月 3 日讯，上海市商务委副主任周岚在 9 月 3 日举行的上海市政府新闻发布会上表示，将提升首发经济能级。上海每年举办首发活动超 3000 场、引进首店 1100 余家。未来，上海将迭代升级支持政策，推出更多高水平的首发首秀首展活动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3434052"
-  },
-  {
-    "post": "Financial_Express/3434051",
-    "datetime": "2026-09-03T03:44:02+00:00",
-    "views": "77",
-    "text": "Meta 调整 AI 绩效考核标准 取消 Token 使用量指标\n金十数据 9 月 3 日讯，据 The Information 报道，Meta Platforms(META.O)公司高管 Maher Saba 和 Santosh Janardhan 周二发布了一份内部备忘录，其中更新了公司对工程师的期望，并明确表示“不会使用 AI 采用率仪表盘或 Token 使用量来评估员工影响力”。备忘录指出，目前 93%的代码修改都由人工智能代理辅助完成，但同时补充说，采用人工智能“本身并不是最终目标”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3434051"
-  },
-  {
-    "post": "Financial_Express/3434050",
-    "datetime": "2026-09-03T03:43:43+00:00",
-    "views": "43",
-    "text": "上海：将提升首发经济能级\n上海市商务委副主任周岚在 9 月 3 日举行的上海市政府新闻发布会上表示，将提升首发经济能级。上海每年举办首发活动超 3000 场、引进首店 1100 余家。未来，上海将迭代升级支持政策，推出更多高水平的首发首秀首展活动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3434050"
   }
 ]
