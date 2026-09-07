@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3442303",
+    "datetime": "2026-09-07T05:08:22+00:00",
+    "views": "1",
+    "text": "微分智飞完成数亿元 A2 轮融资\n9 月 7 日，微分智飞（杭州）科技有限公司宣布，公司已于近日完成 A2 轮数亿元人民币融资。本轮由普华资本领投，弘晖基金、长三角数智文化基金跟投，老股东五源资本、深创投、洪泰基金、华映资本、华控基金、长石资本、BV 百度风投等追加投资。本轮融资后，公司将持续深耕单体与群体飞行智能基座模型，加速面向真实场景的产品迭代与规模化交付。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3442303"
+  },
+  {
+    "post": "Financial_Express/3442302",
+    "datetime": "2026-09-07T05:07:52+00:00",
+    "views": "1",
+    "text": "9 月 7 日，首批金融类智能体集中上线千问，覆盖证券投资、基金、期货、保险等多个领域。用户可直接在千问调用不同金融机构提供的专业 AI 服务，进行市场分析、投资研究、基金研选和保险咨询等。继物流、本地生活等领域后，千问开放平台进一步向金融等专业服务场景延伸。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3442302"
+  },
+  {
+    "post": "Financial_Express/3442301",
+    "datetime": "2026-09-07T05:07:43+00:00",
+    "views": "1",
+    "text": "根据韩国媒体 ChosunBiz 的最新报道，SK 海力士的 1c nm（第六代 10nm 级）DRAM 工艺 的产能份额正加速扩大，并有望在 2027 年第一季度 攀升至 35% 左右，首次超过 1b 工艺（约 33%），正式成为该公司的主流生产工艺。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3442301"
+  },
+  {
+    "post": "Financial_Express/3442300",
+    "datetime": "2026-09-07T05:07:37+00:00",
+    "views": "1",
+    "text": "2026 年上半年，全球 XR 头戴式设备出货量同比下降 38.7%，降至 190 万台。尽管 XR 眼镜的市场接受度不断提升，但由于其市场基数仍然较小，相关增长不足以抵消 XR 头显设备出货量的大幅下滑。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3442300"
+  },
+  {
+    "post": "Financial_Express/3442299",
+    "datetime": "2026-09-07T05:07:12+00:00",
+    "views": "1",
+    "text": "SK 海力士正在迅速扩大其第六代 10nm 级 DRAM 工艺 1c nm 产能份额。由于 1c DRAM 将作为核心芯片堆叠 HBM，并应用于下一代高带宽内存，该公司正在加速其工艺转型。据业内人士透露，SK 海力士 1c DRAM 的市场份额从今年第一季度的约 10%增长到第二季度的 13%左右，预计第三季度将升至 24%左右，第四季度将达到 34%左右。明年第一季度，1c nm 的市场份额有望攀升至 35%左右，首次超过 1b（33%左右），成为主流工艺。 (ChosunBiz)",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3442299"
+  },
+  {
     "post": "Financial_Express/3442298",
     "datetime": "2026-09-07T05:05:22+00:00",
-    "views": "2",
+    "views": "32",
     "text": "索尼与沙特阿美合作开发人工智能驱动的工业解决方案。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3442297",
     "datetime": "2026-09-07T05:05:02+00:00",
-    "views": "2",
+    "views": "32",
     "text": "霍尔木兹海峡通航量降至 5 月来最低\n截至本月 6 日的 10 天内，平均每日仅有 10 艘商业船舶通过霍尔木兹海峡，数量为 5 月以来最低，凸显美国和伊朗近期海上互袭对商业航运的冲击。根据总部位于比利时的克普勒公司发布的数据，截至 5 日霍尔木兹海峡日均通航量接近 13 艘，截至 4 日的对应数据超过 15 艘。6 日有 5 艘船通过该海峡，5 日则仅有两艘。自 2 日以来，没有任何超大型油轮驶出霍尔木兹海峡。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3442291",
     "datetime": "2026-09-07T05:01:03+00:00",
-    "views": "32",
+    "views": "62",
     "text": "日本 7 月同步指标月率初值 1.7%，前值 0.6%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3442286",
     "datetime": "2026-09-07T05:00:09+00:00",
-    "views": "32",
+    "views": "62",
     "text": "日本 7 月领先指标初值 117.9，预期 118，前值 116.5。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3442285",
     "datetime": "2026-09-07T05:00:07+00:00",
-    "views": "32",
+    "views": "62",
     "text": "日本 7 月同步指标初值 120.6，预期 120.2，前值 118.5。",
     "media_only": false,
     "image_url": null,
