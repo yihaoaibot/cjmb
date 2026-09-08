@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3444394",
+    "datetime": "2026-09-08T00:16:42+00:00",
+    "views": "1",
+    "text": "钯金期货日内涨 1%，现报 1417.96 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3444394"
+  },
+  {
+    "post": "Financial_Express/3444393",
+    "datetime": "2026-09-08T00:15:47+00:00",
+    "views": "1",
+    "text": "一种常用于减重和治疗 2 型糖尿病的 GLP-1 类药物，或许还有延缓衰老的潜力。据新一期《自然》杂志报道，美国加州大学伯克利分校等机构研究人员通过小鼠试验发现，老年雌性小鼠服用 GLP-1 类药物司美格鲁肽后，寿命比未服药小鼠延长 12%，同时多项与衰老相关的生物学变化得到减缓。（科技日报）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3444393"
+  },
+  {
+    "post": "Financial_Express/3444392",
+    "datetime": "2026-09-08T00:15:43+00:00",
+    "views": "1",
+    "text": "昨日 ETF 资金整体净流出 4.48 亿元\n2026 年 9 月 7 日，ETF 资金整体净流出 4.48 亿元，股票型净流出 31.30 亿元，宽基型净流入 3.00 亿元。当日 ETF 资金净流出榜单排名前 3 依次为：易方达创业板 ETF（159915）净流出 26.97 亿元，华夏上证科创板半导体材料设备主题 ETF（588170）净流出 12.56 亿元，华夏上证科创板 50 成份 ETF（588000）净流出 9.50 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3444392"
+  },
+  {
+    "post": "Financial_Express/3444391",
+    "datetime": "2026-09-08T00:15:42+00:00",
+    "views": "1",
+    "text": "日本第二季度 GDP 增速上调，支撑日本央行加息预期\n金十数据 9 月 8 日讯，日本经济第二季度增速高于此前预期，这进一步强化了市场普遍预期日本央行下周加息的预期。日本内阁府周二发布的报告显示，第二季度国内生产总值（GDP）按年率计算增长 1.4%，高于此前预估的 1.1%。但这一结果低于经济学家此前 1.8%的预期中值。这支持了日本央行的评估，即日本经济的发展基本符合其预期，并强化了央行在 9 月 18 日下次政策会议上提高利率的必要性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3444391"
+  },
+  {
+    "post": "Financial_Express/3444390",
+    "datetime": "2026-09-08T00:15:03+00:00",
+    "views": "1",
+    "text": "德国研究团队在最新一期《自然》杂志上发表论文称，他们借助人工智能（AI）技术，从头设计出一种 RNA 转运蛋白。这一成果显现了 AI 系统拓展蛋白质设计的潜力。慕尼黑亥姆霍兹干细胞研究所、发育遗传学研究所与慕尼黑工业大学组成联合研究团队，将功能性蛋白模块与生成式 AI 设计的结构蛋白相结合，设计出新型 RNA 转运蛋白。团队测试了 100 多种结构，发现具有非常规几何形状的蛋白结构表现尤为出色，其中 STV-C8 效率最高。实验显示，STV-C8 向靶细胞递送 RNA 的效率远高于所测试的病毒样颗粒和脂质纳米颗粒；转染率明显更高，且只需更少的 RNA 就能产生等量蛋白质。（科技日报）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3444390"
+  },
+  {
     "post": "Financial_Express/3444389",
     "datetime": "2026-09-08T00:12:42+00:00",
-    "views": "3",
+    "views": "33",
     "text": "中信证券：全球 OCS 市场需求有望大幅增长\n中信证券研报称，OCS 是不经电域、直接在光纤端口间建立物理光路的交换设备，主要应用于 AI 集群的 Scale-up/out/across 电交换场景，拥有低功耗、协议透明与拓扑可重构三重优势。Cignal AI 预测，2030 年全球 OCS 市场规模或将超过 80 亿美元，对应 2026—2030 年复合增速超 30%。中信证券认为，随着谷歌集群网络架构升级（3D→6D Torus）、新客户导入加速，全球 OCS 市场需求有望大幅增长。目前国内厂商已具备光学层等多环节供应能力，份额增长趋势明确。",
     "media_only": false,
     "image_url": null,
@@ -31984,14 +32029,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3440817"
-  },
-  {
-    "post": "Financial_Express/3440816",
-    "datetime": "2026-09-06T00:16:02+00:00",
-    "views": "92",
-    "text": "OpenAI 智能体被曝劫持网站\n发布迄今最强模型 GPT-6 之际，OpenAI 又卷入一起 AI 智能体安全争议。 据报道，在今年 5 月至 7 月期间，一批与 OpenAI 有关的 AI 智能体在执行测试任务期间，将德国程序员社区网站 DseWiki 变成了智能体之间的“留言板”。它们不仅分享完成任务的捷径，还交流如何绕过限制、躲避检测，甚至在管理员删除相关页面后建立备份页面。 当地时间周六，OpenAI 公开承认这起被称为“Wiki 事件”（wiki incident）的事故，并表示，随着 AI 模型能力进入新的阶段，公司有关“失配”（misalignment）事件的披露机制需要进一步扩大。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3440816"
   }
 ]
