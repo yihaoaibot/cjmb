@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3447334",
+    "datetime": "2026-09-08T19:14:42+00:00",
+    "views": "1",
+    "text": "I24 新闻援引美方消息：美国正在袭击伊朗油轮。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3447334"
+  },
+  {
+    "post": "Financial_Express/3447333",
+    "datetime": "2026-09-08T19:13:11+00:00",
+    "views": "1",
+    "text": "WTI 10 月原油期货长周末归来收涨 1.55 美元，涨幅超过 1.69%，报 93.03 美元/桶。\n布伦特 11 月原油期货较周一收涨 0.92 美元，涨幅将近 0.95%，报 97.92 美元/桶。\n中东 Abu Dhabi Murban 原油期货涨 3.07%，报 110.05 美元/桶。\nNYMEX 10 月天然气期货收报 2.916 美元/百万英热单位。\nNYMEX 10 月汽油期货收报 3.2525 美元/加仑，NYMEX 10 月取暖油期货收报 4.5678 美元/加仑。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3447333"
+  },
+  {
     "post": "Financial_Express/3447331",
     "datetime": "2026-09-08T19:12:42+00:00",
-    "views": "1",
+    "views": "2",
     "text": "英国国家空中交通管理局：我们的系统问题现已解决，现正常运营，正在努力清理航班积压。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3447332",
     "datetime": "2026-09-08T19:12:42+00:00",
-    "views": "1",
+    "views": "2",
     "text": "ChatGPT Images 2.5 上线 支持更精准 AI 图片编辑\n金十数据 9 月 9 日讯，OpenAI 推出新版图像引擎 ChatGPT Images 2.5，重点提升 AI 生成图片的速度、人物和宠物形象保持能力，以及图片编辑精度。新模型生成速度较上一代提升最高 50%，能够更好保持人物、宠物原始特征，并支持用户通过草图、圈选区域等方式直接指定修改位置，而不再完全依赖文字描述。新版工具支持用户将照片转换为不同艺术风格、设计 Logo、修改纹身方案等。OpenAI 表示，Images 2.5 希望让用户更多参与创作过程，而不是简单生成图片。然而，此次升级也伴随 AI 图像版权和创作者权益争议。外界关注生成式 AI 模型训练是否使用艺术家作品，以及 AI 生成内容对传统创意行业的影响。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3447330",
     "datetime": "2026-09-08T19:12:18+00:00",
-    "views": "7",
+    "views": "8",
     "text": "伊朗南部 Jask 沿海传出爆炸声。（FARS）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3447329",
     "datetime": "2026-09-08T19:11:42+00:00",
-    "views": "17",
+    "views": "18",
     "text": "英国国家空管公司（NATS）：系统故障现已解决，目前运行正常，正全力疏导积压航班。",
     "media_only": false,
     "image_url": null,
@@ -51676,32 +51694,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3441502"
-  },
-  {
-    "post": "Financial_Express/3441501",
-    "datetime": "2026-09-06T19:14:02+00:00",
-    "views": "143",
-    "text": "法国共产党全国书记鲁塞尔宣布参加 2027 年总统选举\n金十数据 9 月 7 日讯，当地时间 9 月 6 日晚，法国共产党全国书记法比安·鲁塞尔正式宣布参加 2027 年法国总统选举。他表示，希望通过提出一项“彻底改变现状的政治纲领”，推动法国发生变化。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3441501"
-  },
-  {
-    "post": "Financial_Express/3441500",
-    "datetime": "2026-09-06T19:13:43+00:00",
-    "views": "128",
-    "text": "美国联邦航空管理局：一架货运飞机在迈阿密机场降落之后滑出跑道。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3441500"
-  },
-  {
-    "post": "Financial_Express/3441499",
-    "datetime": "2026-09-06T19:13:42+00:00",
-    "views": "125",
-    "text": "伊朗最高国家安全委员会秘书：霍尔木兹海峡不是战争海峡，而是伊朗的权力海峡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3441499"
   }
 ]
