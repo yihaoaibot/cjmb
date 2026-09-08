@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3447199",
+    "datetime": "2026-09-08T17:08:03+00:00",
+    "views": "2",
+    "text": "谷歌公司：与 Nevoya & GMA 构建合作伙伴关系。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3447199"
+  },
+  {
+    "post": "Financial_Express/3447198",
+    "datetime": "2026-09-08T17:08:02+00:00",
+    "views": "2",
+    "text": "谷歌：整个项目共计 63 辆卡车。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3447198"
+  },
+  {
+    "post": "Financial_Express/3447197",
+    "datetime": "2026-09-08T17:07:23+00:00",
+    "views": "2",
+    "text": "谷歌：部署 25 辆电动半挂卡车及配套充电基础设施。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3447197"
+  },
+  {
+    "post": "Financial_Express/3447195",
+    "datetime": "2026-09-08T17:07:22+00:00",
+    "views": "2",
+    "text": "沙特民防部门：艾卜哈的危险已经过去。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3447195"
+  },
+  {
+    "post": "Financial_Express/3447196",
+    "datetime": "2026-09-08T17:07:22+00:00",
+    "views": "2",
+    "text": "美国三年期国债收益率在拍卖后几乎持平，最后上涨 1.05 个基点，报 4.462%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3447196"
+  },
+  {
+    "post": "Financial_Express/3447194",
+    "datetime": "2026-09-08T17:07:02+00:00",
+    "views": "32",
+    "text": "谷歌：与 Nevoya、GMA 开展合作，助力 25 辆电动重型卡车在得州投入运营。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3447194"
+  },
+  {
     "post": "Financial_Express/3447193",
     "datetime": "2026-09-08T17:06:23+00:00",
-    "views": "1",
+    "views": "32",
     "text": "沙特民防部门：艾卜哈的危险警报已经解除。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3447191",
     "datetime": "2026-09-08T17:06:22+00:00",
-    "views": "1",
+    "views": "32",
     "text": "沙特民防部门：纳季兰省和艾卜哈省发布预警。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3447192",
     "datetime": "2026-09-08T17:06:22+00:00",
-    "views": "1",
+    "views": "32",
     "text": "美国三年期国债收益率拍卖后变动不大，最新上涨 1.05 个基点，报 4.462%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3447190",
     "datetime": "2026-09-08T17:05:42+00:00",
-    "views": "1",
+    "views": "32",
     "text": "英国政府排除空中交通中断由网络攻击造成的可能性。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3447188",
     "datetime": "2026-09-08T17:05:02+00:00",
-    "views": "3",
+    "views": "34",
     "text": "据国际文传电讯社：俄罗斯外长拉夫罗夫表示，俄罗斯总统普京或将于 11 月在亚太经合组织峰会上与美国总统特朗普会面。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3447189",
     "datetime": "2026-09-08T17:05:02+00:00",
-    "views": "3",
+    "views": "34",
     "text": "沙特民防部门：吉赞地区危险警报解除。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3447186",
     "datetime": "2026-09-08T17:04:22+00:00",
-    "views": "33",
+    "views": "64",
     "text": "消息人士：美国国防部已决定美国海军下一代隐形战斗机的制造商，将在数周内发布公告。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3447187",
     "datetime": "2026-09-08T17:04:22+00:00",
-    "views": "33",
+    "views": "64",
     "text": "消息人士称，美国海军将在数周内公布下一代隐形战斗机的制造商，波音与诺斯罗普·格鲁曼为备选公司。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3447184",
     "datetime": "2026-09-08T17:03:42+00:00",
-    "views": "33",
+    "views": "64",
     "text": "美国至 9 月 8 日 6 周国债竞拍-得标利率配置百分比 46.45%，前值 52.35%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3447185",
     "datetime": "2026-09-08T17:03:42+00:00",
-    "views": "33",
+    "views": "64",
     "text": "消息人士称，五角大楼已敲定美国海军下一代隐形战斗机的承包商。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3447183",
     "datetime": "2026-09-08T17:03:22+00:00",
-    "views": "33",
+    "views": "64",
     "text": "美国至 9 月 8 日 6 周国债竞拍-得标利率 3.74%，前值 3.74%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3447182",
     "datetime": "2026-09-08T17:03:02+00:00",
-    "views": "33",
+    "views": "64",
     "text": "美国至 9 月 8 日 6 周国债竞拍-投标倍数 2.93，前值 2.85。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3447181",
     "datetime": "2026-09-08T17:02:42+00:00",
-    "views": "34",
+    "views": "65",
     "text": "美国 3 年期国债中标收益率 4.474%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3447180",
     "datetime": "2026-09-08T17:02:32+00:00",
-    "views": "34",
+    "views": "65",
     "text": "美国财政部拍卖 580 亿美元三年期国债，得标利率 4.474%，投标倍数 2.72。",
     "media_only": false,
     "image_url": null,
@@ -51064,14 +51118,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3441431"
-  },
-  {
-    "post": "Financial_Express/3441430",
-    "datetime": "2026-09-06T17:08:43+00:00",
-    "views": "149",
-    "text": "泽连斯基：认为俄乌战争短期内难以结束\n金十数据 9 月 7 日讯，乌克兰总统泽连斯基与美国特使威特科夫和特朗普女婿库什纳周日在基辅举行会谈，英国、法国和德国的国家安全事务负责人随后也加入会谈。泽连斯基表示，美国、乌克兰和欧洲方面已决定再次举行会面，时间和地点尚待确定。威特科夫表示：“我们在莫斯科取得了进展。我们有一些新的想法，并把这些想法带到了基辅。”泽连斯基拒绝详细说明任何结束这场冲突的“新想法”，但表示，周日的会谈还涉及乌克兰战后的“繁荣计划”。泽连斯基表示，领土问题，包括俄罗斯要求乌克兰割让东部顿巴斯地区更多领土的问题，应当在“领导人层面”解决。泽连斯基称，乌克兰已做好俄乌战争将持续到又一个严冬的准备，并寻求盟友提供一揽子支持，涵盖空中防御增援和能源，包括美国液化天然气。\n❤1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3441430"
   }
 ]
