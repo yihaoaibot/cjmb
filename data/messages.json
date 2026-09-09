@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3450269",
+    "datetime": "2026-09-09T17:18:02+00:00",
+    "views": "43",
+    "text": "苹果(AAPL.O)：A20 芯片采用改进后的均热板散热技术。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450269"
+  },
+  {
+    "post": "Financial_Express/3450267",
+    "datetime": "2026-09-09T17:17:42+00:00",
+    "views": "41",
+    "text": "苹果(AAPL.O)：A20 Pro 芯片将采用类似 Mac 芯片的定制封装技术，以提升散热性能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450267"
+  },
+  {
+    "post": "Financial_Express/3450268",
+    "datetime": "2026-09-09T17:17:42+00:00",
+    "views": "41",
+    "text": "苹果：A20 芯片采用改良版均热板散热方案。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450268"
+  },
+  {
+    "post": "Financial_Express/3450266",
+    "datetime": "2026-09-09T17:17:22+00:00",
+    "views": "44",
+    "text": "美联储在固定利率逆回购操作中总计接纳了 6 个对手方的 4.32 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450266"
+  },
+  {
     "post": "Financial_Express/3450265",
     "datetime": "2026-09-09T17:17:02+00:00",
-    "views": "1",
+    "views": "48",
     "text": "苹果：A20 Pro 芯片将采用与 Mac 芯片类似的定制封装工艺，以改善散热表现。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3450263",
     "datetime": "2026-09-09T17:16:42+00:00",
-    "views": "1",
+    "views": "48",
     "text": "苹果(AAPL.O)：A20 芯片将配备两个神经引擎，总计 32 个核心，可提升端侧人工智能性能。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3450264",
     "datetime": "2026-09-09T17:16:42+00:00",
-    "views": "1",
+    "views": "48",
     "text": "苹果： A20 芯片将配备两个神经网络引擎，合计 32 核，提升端侧人工智能性能。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3450261",
     "datetime": "2026-09-09T17:16:22+00:00",
-    "views": "39",
+    "views": "82",
     "text": "苹果(AAPL.O)：A20 Pro 芯片配备七个 GPU 核心。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3450262",
     "datetime": "2026-09-09T17:16:22+00:00",
-    "views": "1",
+    "views": "49",
     "text": "苹果：A20 Pro 芯片搭载七核 GPU。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3450260",
     "datetime": "2026-09-09T17:16:17+00:00",
-    "views": "41",
+    "views": "50",
     "text": "纽约铜价、伦敦铜价双双创历史新高。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3450259",
     "datetime": "2026-09-09T17:16:03+00:00",
-    "views": "41",
+    "views": "85",
     "text": "苹果：A20 Pro 将配备六核 CPU，包含两枚 “桌面级” 超大核与四枚能效核。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3450258",
     "datetime": "2026-09-09T17:16:02+00:00",
-    "views": "41",
+    "views": "85",
     "text": "苹果(AAPL.O)：A20 Pro 芯片将采用六核心 CPU，包括两个“桌面级”超大核心和四个能效核心。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3450257",
     "datetime": "2026-09-09T17:15:54+00:00",
-    "views": "11",
+    "views": "85",
     "text": "周三（9 月 9 日），美联储隔夜逆回购协议（RRP）使用规模为 4.32 亿美元（交易对手 6 家），上个交易日报 6.26 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3450256",
     "datetime": "2026-09-09T17:15:22+00:00",
-    "views": "42",
+    "views": "53",
     "text": "苹果(AAPL.O)发布基于 2 纳米制程技术的 A20 Pro 芯片。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3450254",
     "datetime": "2026-09-09T17:15:02+00:00",
-    "views": "77",
+    "views": "87",
     "text": "苹果：新版 Siri 将不在欧盟与中国上线。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3450253",
     "datetime": "2026-09-09T17:14:46+00:00",
-    "views": "47",
+    "views": "83",
     "text": "苹果新 CEO 亮相：我们只想创造对人们生活产生有意义影响的产品。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3450252",
     "datetime": "2026-09-09T17:14:22+00:00",
-    "views": "48",
+    "views": "85",
     "text": "基辅市长：一架无人机坠落在德斯尼扬斯基区一栋 16 层居民楼附近的空地上，导致数辆汽车起火。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3450251",
     "datetime": "2026-09-09T17:14:02+00:00",
-    "views": "78",
+    "views": "86",
     "text": "苹果：Apple Intelligence 暂不在中国提供。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3450250",
     "datetime": "2026-09-09T17:13:42+00:00",
-    "views": "78",
+    "views": "84",
     "text": "英国民航局：政府已要求英国民航局对 9 月 8 日的系统瘫痪事件开展独立调查。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +182,7 @@
   {
     "post": "Financial_Express/3450249",
     "datetime": "2026-09-09T17:11:42+00:00",
-    "views": "85",
+    "views": "88",
     "text": "欧盟理事会主席科斯塔：我们需要对下一个长期欧洲预算采取新方法。",
     "media_only": false,
     "image_url": null,
@@ -55060,14 +55096,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3444059"
-  },
-  {
-    "post": "Financial_Express/3444058",
-    "datetime": "2026-09-07T17:18:42+00:00",
-    "views": "142",
-    "text": "据乌克兰方面报道，泽连斯基称：美国正为乌克兰提供一套独立的 “冬季援助方案”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3444058"
   }
 ]
