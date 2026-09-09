@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3450113",
+    "datetime": "2026-09-09T15:36:23+00:00",
+    "views": "7",
+    "text": "特朗普政府官员：本次回购公告是在此前相关强化举措基础上推出。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450113"
+  },
+  {
+    "post": "Financial_Express/3450112",
+    "datetime": "2026-09-09T15:36:22+00:00",
+    "views": "7",
+    "text": "据福克斯新闻：特朗普政府官员表示，增加国债回购规模是持续策略的一部分。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450112"
+  },
+  {
+    "post": "Financial_Express/3450111",
+    "datetime": "2026-09-09T15:35:24+00:00",
+    "views": "46",
+    "text": "特朗普政府官员称，美国财政部 9 月 9 日宣布的债券回购信息是正在推进的计划的一部分。\n这（大约 60 亿美元规模）建立在之前执行的回购力度的基础之上。（福克斯商业新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450111"
+  },
+  {
+    "post": "Financial_Express/3450110",
+    "datetime": "2026-09-09T15:35:22+00:00",
+    "views": "46",
+    "text": "特朗普政府官员关于回购公告的表态：回购规模上调属于现行政策安排的一部分。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450110"
+  },
+  {
     "post": "Financial_Express/3450109",
     "datetime": "2026-09-09T15:34:24+00:00",
-    "views": "9",
+    "views": "52",
     "text": "土耳其、巴基斯坦、沙特阿拉伯、阿联酋、卡塔尔、埃及、约旦、印度尼西亚发表联合声明，对英国禁止进口约旦河西岸非法定居点产品的决定表示欢迎。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3450107",
     "datetime": "2026-09-09T15:34:23+00:00",
-    "views": "9",
+    "views": "51",
     "text": "美国至 9 月 9 日 4 个月国债竞拍-投标倍数 2.73，前值 2.78。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3450108",
     "datetime": "2026-09-09T15:34:23+00:00",
-    "views": "9",
+    "views": "52",
     "text": "美国至 9 月 9 日 4 个月国债竞拍-得标利率配置百分比 37.41%，前值 76.38%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3450106",
     "datetime": "2026-09-09T15:34:05+00:00",
-    "views": "10",
+    "views": "51",
     "text": "墨西哥总统辛鲍姆：希望美国在钢铁、铝、汽车方面降低关税。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3450105",
     "datetime": "2026-09-09T15:34:02+00:00",
-    "views": "10",
+    "views": "50",
     "text": "美国至 9 月 9 日 4 个月国债竞拍-得标利率 3.895%，前值 3.86%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3450104",
     "datetime": "2026-09-09T15:33:42+00:00",
-    "views": "41",
+    "views": "51",
     "text": "伊通社（IRNA）：巴基斯坦国防部长重申恪守与沙特阿拉伯、土耳其签署的联合防御协议。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3450103",
     "datetime": "2026-09-09T15:33:02+00:00",
-    "views": "43",
+    "views": "53",
     "text": "伊通社（IRNA）：巴基斯坦国防部长希望沙特阿拉伯与也门之间的问题能够得到持久解决。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3450102",
     "datetime": "2026-09-09T15:32:14+00:00",
-    "views": "49",
+    "views": "59",
     "text": "美国财政部拍卖四个月期国债，得标利率 3.895%，投标倍数 2.73。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3450101",
     "datetime": "2026-09-09T15:32:03+00:00",
-    "views": "49",
+    "views": "59",
     "text": "乌克兰无人机袭击俄罗斯别尔哥罗德州，造成 1 人死亡、1 人受伤。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3450100",
     "datetime": "2026-09-09T15:31:23+00:00",
-    "views": "51",
+    "views": "91",
     "text": "德国 DAX 30 指数初步收跌 1.84%，报 25528.61 点。法国股指初步收跌 2.01%，意大利股指初步收跌 0.86%、银行指数跌 0.85%，英国股指初步收跌 1.41%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3450099",
     "datetime": "2026-09-09T15:31:22+00:00",
-    "views": "49",
+    "views": "88",
     "text": "欧洲 STOXX 600 指数初步收跌 1.57%，报 639.41 点。欧元区 STOXX 50 指数初步收跌 1.82%，报 6297.45 点。富时泛欧绩优 300 指数初步收跌 1.55%，报 2554.12 点。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3450098",
     "datetime": "2026-09-09T15:30:50+00:00",
-    "views": "52",
+    "views": "90",
     "text": "欧洲 STOXX 600 指数初步收跌 1.57%，报 639.41 点。\n欧元区 STOXX 50 指数初步收跌 1.82%，报 6297.45 点。\n富时泛欧绩优 300 指数初步收跌 1.55%，报 2554.12 点。\n德国 DAX 30 指数初步收跌 1.84%，报 25528.61 点。\n法国股指初步收跌 2.01%，意大利股指初步收跌 0.86%、银行指数跌 0.85%，英国股指初步收跌 1.41%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3450097",
     "datetime": "2026-09-09T15:30:02+00:00",
-    "views": "84",
+    "views": "90",
     "text": "瑞士政府：与欧盟同类制裁保持一致。相关措施将于 9 月 10 日生效。同时禁止向苏丹出售用于金矿开采与黄金提炼的特定物资。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3450096",
     "datetime": "2026-09-09T15:29:22+00:00",
-    "views": "90",
+    "views": "94",
     "text": "瑞士政府：禁止向苏丹出售用于黄金开采和提炼的某些商品。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3450095",
     "datetime": "2026-09-09T15:29:02+00:00",
-    "views": "91",
+    "views": "94",
     "text": "瑞士政府：已禁止采购和进口源自苏丹的黄金。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3450094",
     "datetime": "2026-09-09T15:28:42+00:00",
-    "views": "90",
+    "views": "93",
     "text": "瑞士政府：已禁止购买和进口来源于苏丹的黄金。",
     "media_only": false,
     "image_url": null,
@@ -54331,23 +54367,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3443983"
-  },
-  {
-    "post": "Financial_Express/3443982",
-    "datetime": "2026-09-07T15:36:43+00:00",
-    "views": "150",
-    "text": "明晟公司 MSCI 北欧国家指数涨 0.1%，报 402.97 点。\n在十个板块中，北欧信息技术板块涨幅最大。\n诺基亚涨 6.1%，在一众北欧个股里领跑。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3443982"
-  },
-  {
-    "post": "Financial_Express/3443981",
-    "datetime": "2026-09-07T15:35:43+00:00",
-    "views": "152",
-    "text": "报道：伊朗称经霍尔木兹海峡美国通道安全通行实际上已不可能\n据伊朗法尔斯通讯社报道，伊斯兰革命卫队的 Ali Mohammadi 表示，通过霍尔木兹海峡的船只“一旦抵达阿曼 Khasab 一带，将不再能够免于遭到袭击的风险”。Mohammadi 表示：“通过霍尔木兹海峡南部的美国通道安全通行实际上已不可能”。他还表示，伊斯兰革命卫队正密切监控波斯湾、霍尔木兹海峡和阿曼湾的海上交通。Mohammadi 称，所有寻求安全通过霍尔木兹海峡的船只都必须使用伊朗指定的航道。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3443981"
   }
 ]
