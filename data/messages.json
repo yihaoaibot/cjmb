@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3450242",
+    "datetime": "2026-09-09T17:07:07+00:00",
+    "views": "1",
+    "text": "欧洲股市创 7 月以来最大跌幅，油价上涨加剧通胀担忧，促使交易员加码押注央行加息。\n斯托克欧洲 600 指数收跌 1.4%。零售板块表现落后，Inditex SA 下跌 3.6%，此前该公司上半年业绩不及分析师预期。消费品和建筑类股也表现疲弱。\n欧洲基准股指自 8 月创下历史新高以来一直震荡徘徊，投资者日益担忧通胀风险上升以及货币政策进一步收紧的前景。\n美伊再度发生冲突后，布伦特原油自 7 月以来首次升破每桶 100 美元。交易员目前预计，到 2027 年底，欧洲央行和英国央行将加息四次。\nNatixis CIB 策略师 Emilie Tetard 表示，“每桶 100 美元似乎成了触发市场叙事的关键关口。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450242"
+  },
+  {
+    "post": "Financial_Express/3450241",
+    "datetime": "2026-09-09T17:05:33+00:00",
+    "views": "9",
+    "text": "OpenAI：Paul Christiano 加入 OpenAI 基金会的董事会，不享有投票权。\n其将加入安全委员会。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450241"
+  },
+  {
     "post": "Financial_Express/3450240",
     "datetime": "2026-09-09T17:04:36+00:00",
-    "views": "1",
+    "views": "42",
     "text": "俄罗斯：打击乌克兰港口 Mykolaiv Port 的货物枢纽。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3450239",
     "datetime": "2026-09-09T17:03:42+00:00",
-    "views": "11",
+    "views": "47",
     "text": "美国 10 年期国债收益率拍卖后涨幅收窄，最新上涨 3.26 个基点，报 4.837%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3450238",
     "datetime": "2026-09-09T17:03:22+00:00",
-    "views": "44",
+    "views": "48",
     "text": "美国 10 年期国债收益率在拍卖后回落，最新上涨 3.26 个基点，报 4.837%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3450237",
     "datetime": "2026-09-09T17:02:42+00:00",
-    "views": "49",
+    "views": "51",
     "text": "苹果(AAPL.O)新任 CEO 特努斯开启苹果发布会。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3450236",
     "datetime": "2026-09-09T17:02:22+00:00",
-    "views": "49",
+    "views": "53",
     "text": "美国至 9 月 9 日 10 年期国债竞拍-得标利率配置百分比 89.25%，前值 65.27%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3450235",
     "datetime": "2026-09-09T17:02:15+00:00",
-    "views": "52",
+    "views": "56",
     "text": "美国财政部拍卖 390 亿美元 10 年期国债，得标利率 4.834%，投标倍数 2.71。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3450234",
     "datetime": "2026-09-09T17:02:02+00:00",
-    "views": "53",
+    "views": "55",
     "text": "据英国金融时报：OpenAI 任命美国人工智能安全官员加入基金会董事会。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3450233",
     "datetime": "2026-09-09T17:01:33+00:00",
-    "views": "58",
+    "views": "90",
     "text": "提醒：苹果折叠 iPhone 发布会开始，CEO 特纳斯登台。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3450232",
     "datetime": "2026-09-09T17:01:22+00:00",
-    "views": "58",
+    "views": "90",
     "text": "美国天然气期货跌超 3.00%，现报 2.828 美元/百万英热。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3450231",
     "datetime": "2026-09-09T17:00:56+00:00",
-    "views": "58",
+    "views": "90",
     "text": "国际铜夜盘收涨 0.81%，沪铜收涨 0.71%，沪铝收涨 0.37%，沪锌收涨 1.22%，沪铅收跌 0.34%，沪镍收涨 1.04%，沪锡收涨 1.53%。\n氧化铝夜盘收跌 0.72%，铝合金收涨 0.36%。\n不锈钢夜盘收涨 0.44%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3450230",
     "datetime": "2026-09-09T17:00:23+00:00",
-    "views": "90",
+    "views": "93",
     "text": "苹果折叠屏 iPhone 发布会开启，特纳斯登台。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3450229",
     "datetime": "2026-09-09T17:00:22+00:00",
-    "views": "90",
+    "views": "93",
     "text": "夜盘期货收盘\n国际铜夜盘收涨 0.81%，沪铜收涨 0.71%，沪铝收涨 0.37%，沪锌收涨 1.22%，沪铅收跌 0.34%，沪镍收涨 1.04%，沪锡收涨 1.53%。氧化铝夜盘收跌 0.72%，铝合金收涨 0.36%。不锈钢夜盘收涨 0.44%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3450228",
     "datetime": "2026-09-09T16:59:03+00:00",
-    "views": "87",
+    "views": "92",
     "text": "Anthropic 研究员辞职 警告称人工智能巨头在“拿人类生命作赌注”\nAnthropic PBC 一名人工智能研究员辞职，并呼吁其他员工也重新思考自己的工作意义。他表示，Anthropic 及其主要竞争对手 OpenAI 在全力追求一种可能给人类带来存亡风险的技术过程中采取了不负责任的做法。过去三年曾先后在 Anthropic 和 OpenAI 工作的 Jacob Coxon 周二晚间在社交媒体发文警告，这两家公司正在推进能够“自我改进”的 AI 模型，而这些模型最终可能变得强大到人类无法控制。Coxon 在帖子中写道：“他们正径直奔向能够自我改进的超级智能，而且是拿人类的生命作赌注。不要低估这项技术的力量。这些系统很快就会拥有超越人类的能力，可以入侵任何东西、一夜之间彻底改变任何领域，并获得真正的权力和资源。”Coxon 称，开发 AI 的团队“真心认为，到 2030 年前后，它可能会杀死我们所有人”。Anthropic 现任员工 Evan Hubinger 对此回应称，他和公司其他人的确担心这种情形。他在 X 平台写道：“我个人认为，未来十年内发生这种情况的概率超过 10%。”",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3450227",
     "datetime": "2026-09-09T16:59:02+00:00",
-    "views": "82",
+    "views": "85",
     "text": "苹果发布会前，苹果(AAPL.O)盘中股价现跌 0.73%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3450226",
     "datetime": "2026-09-09T16:55:02+00:00",
-    "views": "97",
+    "views": "99",
     "text": "据国际文传电讯社：俄罗斯财政部长西卢安诺夫表示，俄罗斯正在考虑将预算规则中的油价基准设定为 50 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3450225",
     "datetime": "2026-09-09T16:54:22+00:00",
-    "views": "97",
+    "views": "98",
     "text": "据伊朗媒体：伊朗经济部长已抵达印度。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3450224",
     "datetime": "2026-09-09T16:54:06+00:00",
-    "views": "94",
+    "views": "95",
     "text": "欧洲 STOXX 600 指数收跌 1.41%，报 640.41 点。\n欧元区 STOXX 50 指数收跌 1.58%，报 6311.56 点，开盘以来至北京时间 20:00 持续下挫，18:00 以来低位持稳。\n富时泛欧绩优 300 指数收跌 1.42%，报 2557.67 点。\n德国 DAX 30 指数收跌 1.66%，报 25576.45 点。\n法国 CAC 40 指数收跌 1.94%，报 8156.67 点。\n意大利富时 MIB 指数收跌 0.58%，报 51875.24 点，富时意大利综合股价银行指数收跌 0.33%呈现出 V 形走势。\n英国富时 100 指数收跌 1.31%，报 10670.06 点，富时 250 指数收跌 0.99%，富时 350 指数收跌 1.27%。\n荷兰 AEX 指数收跌 1.27%，丹麦 OMX 哥本哈根 20 指数收跌 1.27%、哥本哈根 25 指数收跌 1.34%。\n希腊雅典证交所综合指数收跌 0.18%，西班牙 IBEX 35 指数收跌 1.51%。\n挪威 OSE 基准指数收涨 0.71%、结束交易时显著扩大涨幅，挪威 OBX 指数收涨 0.84%。\n德国上市的 WisdomTree Europe Defence UCITS ETF 收跌 2.44%，英国伦敦上市、对军工股“照收不误”的 Future of Defence UCITS ETF 收跌 0.96%；彭博欧洲国防精选指数跌 2.64%。",
     "media_only": false,
     "image_url": null,
@@ -54889,14 +54907,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3444053"
-  },
-  {
-    "post": "Financial_Express/3444052",
-    "datetime": "2026-09-07T17:05:42+00:00",
-    "views": "142",
-    "text": "欧洲电信巨头酝酿卫星直连手机联盟 欲与马斯克星链竞争\n金十数据 9 月 8 日讯，据知情人士透露，德国电信（Deutsche Telekom）、Orange、沃达丰（Vodafone）和西班牙电信（Telefonica）正初步讨论组建联盟，共同竞标欧盟卫星频谱并提供“卫星直连手机”服务，与马斯克旗下星链（Starlink）竞争，目前尚未作出最终决定。欧盟正考虑为 2GHz 卫星频谱制定新规则，在 2027 年现有许可证到期后，将约三分之一频谱预留给由欧洲企业控股的本土运营商，以增强欧洲自主卫星通信能力；另三分之一拟用于欧洲 IRIS²卫星星座提供的主权通信服务，剩余三分之一允许国际企业竞标。星链目前已在欧洲大部分地区提供卫星宽带，并与德国电信等合作发展终端直连服务，但尚无权独立利用相关欧盟频谱提供此类服务。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3444052"
   }
 ]
