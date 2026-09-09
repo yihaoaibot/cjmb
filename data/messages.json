@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3450653",
+    "datetime": "2026-09-09T21:44:22+00:00",
+    "views": "1",
+    "text": "应用材料公司 CEO 表示，今年封装业务增长超过 70%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450653"
+  },
+  {
+    "post": "Financial_Express/3450652",
+    "datetime": "2026-09-09T21:44:02+00:00",
+    "views": "1",
+    "text": "苹果推出“参考图像”功能 可验证照片是否经过 AI 修改\n金十数据 9 月 10 日讯，苹果(AAPL.O)在新发布的 iPhone18 Pro 系列手机中加入了“参考图像”（Reference Image）功能，通过数字方式验证用户拍摄的照片有没有在后期被 AI 修改。用户拍摄照片时，主摄像头传感器会同时获取带有签名的传感器数据，随后，苹果的“私有云端计算”服务会将这些数据转换为一张可在“照片”应用中查看的“不可篡改图像”。如果照片经过了编辑，用户可以查看“数字底片”原始图像，并对比差异。“参考图像”的认证标识并不只会显示在拍摄照片的那部手机上。用户还可以将经过签名的照片分享给其他人，其中也包括用于日后进行认证的参考签名。不过，该功能暂时不会在欧盟或中国推出。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450652"
+  },
+  {
     "post": "Financial_Express/3450651",
     "datetime": "2026-09-09T21:42:42+00:00",
-    "views": "1",
+    "views": "8",
     "text": "据伊朗媒体 10 日报道，伊朗南部格什姆岛海域、锡里克等地传出爆炸声。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3450650",
     "datetime": "2026-09-09T21:39:42+00:00",
-    "views": "13",
+    "views": "21",
     "text": "美国能源部长：（除霍尔木兹海峡）另有每日 300 万至 500 万桶原油通过旁路管道输送。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3450649",
     "datetime": "2026-09-09T21:39:02+00:00",
-    "views": "17",
+    "views": "24",
     "text": "俄罗斯联邦安全委员会副主席梅德韦杰夫：没有必要发起战争动员。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3450648",
     "datetime": "2026-09-09T21:38:46+00:00",
-    "views": "22",
+    "views": "26",
     "text": "美国能源部长 Wright：通过霍尔木兹海峡输送的石油略微低于 1100 万桶/日。\n（波斯湾地区）通过管道输送的石油为单日 300 万-500 万桶。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3450647",
     "datetime": "2026-09-09T21:36:42+00:00",
-    "views": "31",
+    "views": "35",
     "text": "美国能源部长：霍尔木兹原油日流量略低于 1100 万桶。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3450646",
     "datetime": "2026-09-09T21:36:32+00:00",
-    "views": "33",
+    "views": "35",
     "text": "美国国务卿鲁比奥称，自己目前没有计划参加 2028 年总统竞选，但不排除未来参选的可能性。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3450645",
     "datetime": "2026-09-09T21:36:02+00:00",
-    "views": "35",
+    "views": "38",
     "text": "美国国务卿鲁比奥称，他目前没有计划参加 2028 年总统竞选，但不排除未来参选的可能性。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3450644",
     "datetime": "2026-09-09T21:34:28+00:00",
-    "views": "38",
+    "views": "40",
     "text": "墨西哥计划明年将对国有石油公司（Pemex）的财政支持削减近 70%， 专项拨款 810 亿比索（约合 48 亿美元）用于帮助该石油生产商偿还债务。\n尽管社会项目和基础设施项目的支出将增加数十亿美元，但政府 2027 年仍将保持 3.9%的 GDP 赤字，不过这一比例将窄于今年预计的 4.1%。\nPemex 在 2027 年有约 50 亿美元的债务到期，克劳迪娅·辛鲍姆总统强调，Pemex 将在明年实现财务自给自足。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3450643",
     "datetime": "2026-09-09T21:34:22+00:00",
-    "views": "37",
+    "views": "40",
     "text": "俄罗斯联邦安全会议副主席梅德韦杰夫：没有必要进行（战争）动员。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3450641",
     "datetime": "2026-09-09T21:33:22+00:00",
-    "views": "39",
+    "views": "41",
     "text": "巴西计划与预算部长：本月底我们将评估是否可以取消每升 1.12 雷亚尔的柴油补贴，或是否需要续期。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3450640",
     "datetime": "2026-09-09T21:33:04+00:00",
-    "views": "40",
+    "views": "41",
     "text": "布伦特原油日内涨幅达 4.0%，报 101.85 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3450639",
     "datetime": "2026-09-09T21:32:25+00:00",
-    "views": "44",
+    "views": "45",
     "text": "伊朗媒体 IRNA：伊朗 Sirik 遭到敌人火力袭击。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3450637",
     "datetime": "2026-09-09T21:32:22+00:00",
-    "views": "40",
+    "views": "42",
     "text": "据美国财经媒体 Semafor：人工智能研究员安德鲁·图洛克将离开 Meta Platforms(META.O)。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3450638",
     "datetime": "2026-09-09T21:32:22+00:00",
-    "views": "42",
+    "views": "44",
     "text": "美国能源部长：柴油价格下跌反而构成 “更大挑战”。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3450636",
     "datetime": "2026-09-09T21:32:03+00:00",
-    "views": "43",
+    "views": "45",
     "text": "AI 研究员安德鲁·图洛克即将离开 Meta。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3450634",
     "datetime": "2026-09-09T21:32:02+00:00",
-    "views": "42",
+    "views": "43",
     "text": "美国能源部长称，未来几周汽油价格将会下降。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3450635",
     "datetime": "2026-09-09T21:32:02+00:00",
-    "views": "43",
+    "views": "45",
     "text": "布伦特原油日内涨 4%，现报 101.84 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -55528,23 +55546,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3444213"
-  },
-  {
-    "post": "Financial_Express/3444212",
-    "datetime": "2026-09-07T21:43:22+00:00",
-    "views": "82",
-    "text": "也门胡塞武装称向沙特军用卡车发动弹道导弹袭击\n金十数据 9 月 8 日讯，也门胡塞武装 7 日说，该组织当天对从沙特阿拉伯向也门政府军控制的哈德拉毛省瓦迪阿军事基地运送军用物资的军用卡车发动弹道导弹袭击。胡塞武装控制的马西拉电视台当天公布袭击后的画面，称此次袭击使用了该组织自行生产的弹道导弹。报道未提及人员伤亡信息。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3444212"
-  },
-  {
-    "post": "Financial_Express/3444211",
-    "datetime": "2026-09-07T21:43:02+00:00",
-    "views": "82",
-    "text": "也门胡塞武装称向沙特军用卡车发动弹道导弹袭击\n也门胡塞武装 7 日说，该组织当天对从沙特阿拉伯向也门政府军控制的哈德拉毛省瓦迪阿军事基地运送军用物资的军用卡车发动弹道导弹袭击。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3444211"
   }
 ]
