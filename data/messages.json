@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3450275",
+    "datetime": "2026-09-09T17:20:42+00:00",
+    "views": "1",
+    "text": "苹果(AAPL.O)股价跌至盘中低点，现跌 1.4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450275"
+  },
+  {
+    "post": "Financial_Express/3450274",
+    "datetime": "2026-09-09T17:20:32+00:00",
+    "views": "1",
+    "text": "苹果股价下跌 1.5%，刷新日低。该公司正介绍 iPhone 18 Pro 和 A20 芯片，新任 CEO 登台。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450274"
+  },
+  {
+    "post": "Financial_Express/3450273",
+    "datetime": "2026-09-09T17:19:42+00:00",
+    "views": "48",
+    "text": "苹果：iPhone 18 Pro Max 创下 iPhone 史上最大续航提升幅度。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450273"
+  },
+  {
+    "post": "Financial_Express/3450271",
+    "datetime": "2026-09-09T17:19:23+00:00",
+    "views": "44",
+    "text": "苹果股价跌至盘中低点，下挫 1.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450271"
+  },
+  {
+    "post": "Financial_Express/3450270",
+    "datetime": "2026-09-09T17:19:22+00:00",
+    "views": "50",
+    "text": "苹果(AAPL.O)：iPhone 18 Pro Max 的电池续航提升幅度为历代 iPhone 最大。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3450270"
+  },
+  {
     "post": "Financial_Express/3450269",
     "datetime": "2026-09-09T17:18:02+00:00",
-    "views": "43",
+    "views": "87",
     "text": "苹果(AAPL.O)：A20 芯片采用改进后的均热板散热技术。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3450267",
     "datetime": "2026-09-09T17:17:42+00:00",
-    "views": "41",
+    "views": "85",
     "text": "苹果(AAPL.O)：A20 Pro 芯片将采用类似 Mac 芯片的定制封装技术，以提升散热性能。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3450268",
     "datetime": "2026-09-09T17:17:42+00:00",
-    "views": "41",
+    "views": "85",
     "text": "苹果：A20 芯片采用改良版均热板散热方案。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3450266",
     "datetime": "2026-09-09T17:17:22+00:00",
-    "views": "44",
+    "views": "88",
     "text": "美联储在固定利率逆回购操作中总计接纳了 6 个对手方的 4.32 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3450265",
     "datetime": "2026-09-09T17:17:02+00:00",
-    "views": "48",
+    "views": "90",
     "text": "苹果：A20 Pro 芯片将采用与 Mac 芯片类似的定制封装工艺，以改善散热表现。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3450263",
     "datetime": "2026-09-09T17:16:42+00:00",
-    "views": "48",
+    "views": "87",
     "text": "苹果(AAPL.O)：A20 芯片将配备两个神经引擎，总计 32 个核心，可提升端侧人工智能性能。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3450264",
     "datetime": "2026-09-09T17:16:42+00:00",
-    "views": "48",
+    "views": "91",
     "text": "苹果： A20 芯片将配备两个神经网络引擎，合计 32 核，提升端侧人工智能性能。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3450261",
     "datetime": "2026-09-09T17:16:22+00:00",
-    "views": "82",
+    "views": "90",
     "text": "苹果(AAPL.O)：A20 Pro 芯片配备七个 GPU 核心。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3450262",
     "datetime": "2026-09-09T17:16:22+00:00",
-    "views": "49",
+    "views": "90",
     "text": "苹果：A20 Pro 芯片搭载七核 GPU。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3450260",
     "datetime": "2026-09-09T17:16:17+00:00",
-    "views": "50",
+    "views": "91",
     "text": "纽约铜价、伦敦铜价双双创历史新高。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3450259",
     "datetime": "2026-09-09T17:16:03+00:00",
-    "views": "85",
+    "views": "91",
     "text": "苹果：A20 Pro 将配备六核 CPU，包含两枚 “桌面级” 超大核与四枚能效核。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3450258",
     "datetime": "2026-09-09T17:16:02+00:00",
-    "views": "85",
+    "views": "92",
     "text": "苹果(AAPL.O)：A20 Pro 芯片将采用六核心 CPU，包括两个“桌面级”超大核心和四个能效核心。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3450257",
     "datetime": "2026-09-09T17:15:54+00:00",
-    "views": "85",
+    "views": "92",
     "text": "周三（9 月 9 日），美联储隔夜逆回购协议（RRP）使用规模为 4.32 亿美元（交易对手 6 家），上个交易日报 6.26 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3450256",
     "datetime": "2026-09-09T17:15:22+00:00",
-    "views": "53",
+    "views": "90",
     "text": "苹果(AAPL.O)发布基于 2 纳米制程技术的 A20 Pro 芯片。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3450254",
     "datetime": "2026-09-09T17:15:02+00:00",
-    "views": "87",
+    "views": "123",
     "text": "苹果：新版 Siri 将不在欧盟与中国上线。",
     "media_only": false,
     "image_url": null,
@@ -55087,14 +55132,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3444060"
-  },
-  {
-    "post": "Financial_Express/3444059",
-    "datetime": "2026-09-07T17:21:02+00:00",
-    "views": "136",
-    "text": "俄罗斯国家原子能集团：扎波罗热核电站已通过费罗斯普拉夫纳输电线恢复外部供电。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3444059"
   }
 ]
