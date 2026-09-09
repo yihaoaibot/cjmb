@@ -1,5 +1,41 @@
 [
   {
+    "post": "Financial_Express/3449502",
+    "datetime": "2026-09-09T11:11:22+00:00",
+    "views": "1",
+    "text": "伊朗革命卫队发言人表示，如果敌方打击我方 2 个目标，我们将打击对方 20 个目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3449502"
+  },
+  {
+    "post": "Financial_Express/3449501",
+    "datetime": "2026-09-09T11:10:43+00:00",
+    "views": "1",
+    "text": "纳坦兹核设施附近的马什库什山区域新卫星图像显示当地正在开展大规模建设活动。战略与国际研究中心分析师称，该地下设施“大概率”是为伊朗核项目打造的一处安全庇护场所。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3449501"
+  },
+  {
+    "post": "Financial_Express/3449500",
+    "datetime": "2026-09-09T11:10:42+00:00",
+    "views": "1",
+    "text": "伊朗伊斯兰革命卫队发言人：如果敌人攻击我们 2 个目标，我们将反击 20 个目标 。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3449500"
+  },
+  {
+    "post": "Financial_Express/3449499",
+    "datetime": "2026-09-09T11:10:22+00:00",
+    "views": "1",
+    "text": "英国首相表示，将对北海油气采取务实方针。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3449499"
+  },
+  {
     "post": "Financial_Express/3449498",
     "datetime": "2026-09-09T11:08:23+00:00",
     "views": "1",
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3449496",
     "datetime": "2026-09-09T11:07:42+00:00",
-    "views": "3",
+    "views": "33",
     "text": "德国政府发言人在被问及特朗普对德国地方选举的言论时表示：我们通常不会对国家元首及政府首脑的言论发表评论。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3449495",
     "datetime": "2026-09-09T11:07:22+00:00",
-    "views": "3",
+    "views": "33",
     "text": "根据协议，D-Wave 量子公司股票按每股 14.093 美元发行。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3449494",
     "datetime": "2026-09-09T11:07:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "江波龙：控股股东及一致行动人持股比例被动稀释至 38.46%\n金十数据 9 月 9 日讯，江波龙公告，公司控股股东、实际控制人蔡华波及蔡丽江因公司 2025 年度向特定对象发行 A 股股票及发行 H 股并在香港联交所主板上市，总股本增加，合计持股比例由 41.78%被动稀释至 38.46%，扣除回购专用账户股份后由 41.91%稀释至 38.56%，触及 1%及 5%整数倍。本次权益变动不涉及股东减持，不触及要约收购，不会导致公司控制权变更。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3449493",
     "datetime": "2026-09-09T11:06:22+00:00",
-    "views": "3",
+    "views": "34",
     "text": "本周 50 只基金开启募集 权益基金占比超六成\n按认购起始日统计，本周（2026 年 9 月 7 日-9 月 13 日）全市场共计有 50 只基金开启募集，其中权益基金占到 32 只，占比 64%，稳居发行主力位置。从投资类型来看，上述新发基金中股票型基金数量达 30 只，混合型基金 8 只，债券型基金 8 只，FOF 基金 3 只。此外，本周有 1 只 REITs 发行，这也是时隔 5 周之后 REITs 再度开启募集。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3449489",
     "datetime": "2026-09-09T11:04:42+00:00",
-    "views": "33",
+    "views": "34",
     "text": "沈鼓集团中签号出炉：共有 30.48 万个\n金十数据 9 月 9 日讯，沈鼓集团披露首次公开发行股票网上中签结果，中签号码共有 304,781 个，每个中签号码只能认购 500 股沈鼓集团 A 股股票。",
     "media_only": false,
     "image_url": null,
@@ -52459,68 +52495,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3443585"
-  },
-  {
-    "post": "Financial_Express/3443584",
-    "datetime": "2026-09-07T11:11:02+00:00",
-    "views": "13",
-    "text": "燧原科技：网上弃购 16874 股由主承销商包销\n金十数据 9 月 7 日讯，燧原科技公布发行结果，网上投资者放弃认购 16,874 股，网下投资者无弃购，弃购股份全部由保荐人(联席主承销商)包销，包销金额 239.91 万元，占本次发行总规模约 0.04%。本次发行费用合计 3.09 亿元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3443584"
-  },
-  {
-    "post": "Financial_Express/3443583",
-    "datetime": "2026-09-07T11:10:45+00:00",
-    "views": "42",
-    "text": "神剑股份：副总经理吴德清因涉嫌内幕交易收到证监会立案告知书。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3443583"
-  },
-  {
-    "post": "Financial_Express/3443582",
-    "datetime": "2026-09-07T11:10:23+00:00",
-    "views": "41",
-    "text": "建发浆纸与上海轻良签署战略合作协议\n9 月 4 日，建发股份浆纸集团与上海轻良实业有限公司（简称“上海轻良”）正式签署战略合作框架协议。双方将围绕海内外市场拓展、浆纸贸易、供应链综合服务及造纸装备金融服务等方面展开合作。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3443582"
-  },
-  {
-    "post": "Financial_Express/3443581",
-    "datetime": "2026-09-07T11:10:20+00:00",
-    "views": "39",
-    "text": "利和兴：控股股东、实际控制人暨董事长、总经理林宜潘拟以大宗交易方式减持不超过 467.49 万股，占总股本 2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3443581"
-  },
-  {
-    "post": "Financial_Express/3443580",
-    "datetime": "2026-09-07T11:10:02+00:00",
-    "views": "39",
-    "text": "*ST 沐邦：全资子公司名下资产将被司法拍卖\n*ST 沐邦公告称，安义法院将于 2026 年 10 月 8 日 10 时至 10 月 9 日 10 时，在淘宝网司法拍卖网络平台公开拍卖公司全资子公司邦宝益智名下的宗地及地上建筑物、复式商铺、车位等资产。上述资产评估价合计 1.49 亿元，起拍价合计 1.04 亿元，拆分挂牌拍卖。本次拍卖系全资孙公司江西捷锐金融借款合同纠纷相关方未履行和解协议，被申请强制执行所致。本次拍卖尚处于公示阶段，结果存在不确定性；若拍卖成交将使公司债务下降，但总资产、净资产也会下降，对未来损益产生不利影响。此外，公司能否进入重整程序存在重大不确定性，截至 2026 年 6 月末归母净资产为-7475.58 万元，若 2026 年末经审计净资产为负，股票将被实施退市风险警示。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3443580"
-  },
-  {
-    "post": "Financial_Express/3443579",
-    "datetime": "2026-09-07T11:09:42+00:00",
-    "views": "8",
-    "text": "神剑股份：副总经理吴德清因涉嫌内幕交易被立案\n神剑股份公告称，公司副总经理吴德清于 2026 年 9 月 7 日收到中国证监会出具的《立案告知书》，因涉嫌内幕交易，证监会决定对吴德清立案。目前公司各项经营活动均正常开展，立案调查期间吴德清将积极配合证监会调查工作，公司将持续关注相关事宜进度并及时履行信息披露义务，敬请广大投资者理性投资、注意投资风险。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3443579"
-  },
-  {
-    "post": "Financial_Express/3443578",
-    "datetime": "2026-09-07T11:09:22+00:00",
-    "views": "10",
-    "text": "德国东部一变电站附近出现爆炸装置\n德国萨克森州警方 7 日说，在该州一处变电站附近的高压输电线路旁又发现 9 枚自制爆炸装置。目前，该州已共发现并拆除 21 枚此类破坏装置。警方说，这些装置意在通过制造短路破坏高压输电线，目前均已被拆除。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3443578"
   }
 ]
