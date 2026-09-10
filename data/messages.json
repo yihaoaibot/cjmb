@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3452618",
+    "datetime": "2026-09-10T10:32:43+00:00",
+    "views": "2",
+    "text": "纽约期金失守 4430 美元/盎司，日内跌 0.70%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3452618"
+  },
+  {
+    "post": "Financial_Express/3452617",
+    "datetime": "2026-09-10T10:32:42+00:00",
+    "views": "2",
+    "text": "上期所：对部分客户采取限制开仓监管措施\n上海期货交易所发布关于对部分客户采取限制开仓监管措施的公告：2026 年 9 月 10 日，1 组实际控制关系账户在相关合约上账户组日内开仓交易量超限达到交易所处理标准。上述客户交易行为违反《上海期货交易所异常交易行为管理办法》第 16 条之规定，交易所决定对相关客户在相应品种上采取限制开仓的监管措施。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3452617"
+  },
+  {
+    "post": "Financial_Express/3452616",
+    "datetime": "2026-09-10T10:32:22+00:00",
+    "views": "3",
+    "text": "NSDL：全球基金在前一交易日净卖出价值 103 亿卢比的印度股票。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3452616"
+  },
+  {
+    "post": "Financial_Express/3452615",
+    "datetime": "2026-09-10T10:32:13+00:00",
+    "views": "3",
+    "text": "自由港麦克莫兰公司盘前股价下跌幅度扩大至 5.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3452615"
+  },
+  {
+    "post": "Financial_Express/3452614",
+    "datetime": "2026-09-10T10:31:44+00:00",
+    "views": "4",
+    "text": "伦铜跌 2%，纽约铜跌 3.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3452614"
+  },
+  {
+    "post": "Financial_Express/3452612",
+    "datetime": "2026-09-10T10:31:02+00:00",
+    "views": "4",
+    "text": "LME 伦铜日内跌超 2.00%，现报 14471.500 美元/吨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3452612"
+  },
+  {
     "post": "Financial_Express/3452611",
     "datetime": "2026-09-10T10:30:23+00:00",
-    "views": "3",
+    "views": "6",
     "text": "法国足协：不再支持因凡蒂诺竞选连任国际足联主席\n当地时间 9 月 10 日，法国足协宣布，不再支持国际足联主席詹尼·因凡蒂诺竞选连任。法国足协当天在总部召开执行委员会会议，并作出上述决定。目前，因凡蒂诺是定于 2027 年 3 月 18 日举行的国际足联主席选举中唯一已经宣布参选的候选人。尽管外界不断要求其辞职，且已有包括瑞典、苏格兰、意大利、比利时等足球协会和洲际足联撤回对他的支持，因凡蒂诺仍坚持竞选连任。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3452610",
     "datetime": "2026-09-10T10:30:22+00:00",
-    "views": "3",
+    "views": "6",
     "text": "小米机器人具身世界模型已全面开源\n金十数据 9 月 10 日讯，小米技术发文宣布：Xiaomi-Robotics-U0 具身世界模型训练框架及模型权重已全面开源。本次开源提供 4B 和 34B 两种规模的 Xiaomi-Robotics-U0 模型权重，同时支持具身场景生成、具身场景编辑、单图生成、图像编辑、视频生成和图文交错序列生成等多种任务，以及配套的训练与推理框架，面向世界模型、具身智能和机器人应用研究。我们希望通过开放模型与代码，降低技术门槛，加速世界模型技术在真实机器人场景中的探索与落地。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3452609",
     "datetime": "2026-09-10T10:29:43+00:00",
-    "views": "5",
+    "views": "8",
     "text": "鞋站（Shoe Station）股价盘前下跌 27.5%，此前该公司下调了 2026 财年净销售额与调整后每股收益指引。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3452608",
     "datetime": "2026-09-10T10:29:42+00:00",
-    "views": "5",
+    "views": "8",
     "text": "路透调查：欧佩克 8 月石油产量下降 64 万桶/日\n金十数据 9 月 10 日讯，据路透调查，因伊朗战争导致沙特出口面临新的干扰，美国封锁削减了伊朗的出货量，欧佩克 8 月原油产量环比下降 64 万桶/日至 1971 万桶/日。包括俄罗斯等盟友在内的欧佩克+产油国集团中，有七个成员国此前同意在 8 月增产，但中东冲突使其无法实现。路透调查基于金融集团 LSEG 的流量数据、Kpler 等其他追踪流量公司的信息，以及石油公司、OPEC 和咨询机构消息人士提供的信息。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3452607",
     "datetime": "2026-09-10T10:29:22+00:00",
-    "views": "5",
+    "views": "8",
     "text": "旭光电子：2026 年度向特定对象发行 A 股股票获同意注册\n旭光电子公告，公司 2026 年度向特定对象发行 A 股股票申请近日获得中国证监会同意注册批复，批复自同意注册之日起 12 个月内有效。公司将根据批复文件及股东会授权，在规定期限内办理本次发行相关事宜。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3452606",
     "datetime": "2026-09-10T10:29:02+00:00",
-    "views": "6",
+    "views": "9",
     "text": "小米机器人具身世界模型已全面开源\n9 月 10 日，小米技术发文宣布：Xiaomi-Robotics-U0 具身世界模型训练框架及模型权重已全面开源 本次开源提供 4B 和 34B 两种规模的 Xiaomi-Robotics-U0 模型权重，同时支持具身场景生成、具身场景编辑、单图生成、图像编辑、视频生成和图文交错序列生成等多种任务，以及配套的训练与推理框架，面向世界模型、具身智能和机器人应用研究。我们希望通过开放模型与代码，降低技术门槛，加速世界模型技术在真实机器人场景中的探索与落地。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3452605",
     "datetime": "2026-09-10T10:28:03+00:00",
-    "views": "8",
+    "views": "41",
     "text": "该市市长称，俄罗斯对乌克兰第聂伯罗的袭击击中了美国农业生产商邦吉旗下的一家工厂。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3452603",
     "datetime": "2026-09-10T10:28:02+00:00",
-    "views": "7",
+    "views": "40",
     "text": "纳斯达克以 210 亿美元估值投资加密货币交易所 Kraken 的母公司 Payward。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3452604",
     "datetime": "2026-09-10T10:28:02+00:00",
-    "views": "7",
+    "views": "40",
     "text": "俄罗斯对乌克兰第聂伯河地区的袭击，击中了美国农业生产商邦吉公司旗下工厂。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3452602",
     "datetime": "2026-09-10T10:27:42+00:00",
-    "views": "38",
+    "views": "41",
     "text": "路透调查显示，8 月欧佩克原油产量下降。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3452600",
     "datetime": "2026-09-10T10:27:23+00:00",
-    "views": "37",
+    "views": "40",
     "text": "纳斯达克投资 Kraken 母公司 Payward，估值 210 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3452601",
     "datetime": "2026-09-10T10:27:23+00:00",
-    "views": "38",
+    "views": "41",
     "text": "迪拜机场首席执行官表示：目前旅客人口结构基本恢复至俄乌冲突前的水平，印度、沙特阿拉伯、英国是客源排在前三位的国家。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3452599",
     "datetime": "2026-09-10T10:27:22+00:00",
-    "views": "37",
+    "views": "40",
     "text": "据路透调查：欧佩克 8 月石油产量下降。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3452598",
     "datetime": "2026-09-10T10:27:03+00:00",
-    "views": "38",
+    "views": "40",
     "text": "高伟达：回购期限过半 公司尚未实施股份回购\n高伟达公告称，公司 2026 年 3 月 10 日股东会审议通过回购股份方案，拟使用自有资金及银行贷款以集中竞价方式回购 A 股股份，回购股份将全部注销并减少注册资本；回购资金总额不低于 3000 万元、不超过 3500 万元，回购价格不超过 30.64 元/股，回购期限为股东会审议通过之日起 12 个月内。截至公告披露日，回购期限已过半，公司尚未实施回购，后续将在回购期限内择机实施回购计划。",
     "media_only": false,
     "image_url": null,
@@ -55798,41 +55852,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3446201"
-  },
-  {
-    "post": "Financial_Express/3446200",
-    "datetime": "2026-09-08T10:31:47+00:00",
-    "views": "34",
-    "text": "全国教材工作会议 9 月 8 日在京召开。中共中央政治局常委、国务院副总理丁薛祥出席会议并讲话。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3446200"
-  },
-  {
-    "post": "Financial_Express/3446199",
-    "datetime": "2026-09-08T10:31:42+00:00",
-    "views": "5",
-    "text": "高盟新材：副总经理赫长生减持计划期限届满 累计减持 1 万股\n高盟新材公告称，公司副总经理赫长生减持计划期限已届满。赫长生原计划以集中竞价方式减持不超 16250 股，占公司总股本 0.004%。减持计划期间内，赫长生于 2026 年 6 月 23 日通过集中竞价累计减持 10000 股，占公司总股本 0.002%，减持均价 10.91 元/股。本次减持后，赫长生合计持有公司股份 55000 股，占剔除回购专户股份后总股本的 0.013%。本次减持未违反相关规定，未影响公司治理结构和持续经营。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3446199"
-  },
-  {
-    "post": "Financial_Express/3446198",
-    "datetime": "2026-09-08T10:31:23+00:00",
-    "views": "34",
-    "text": "欧盟委员会认定捷克总理存在潜在利益冲突。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3446198"
-  },
-  {
-    "post": "Financial_Express/3446197",
-    "datetime": "2026-09-08T10:31:22+00:00",
-    "views": "4",
-    "text": "汇丰：将 2026 年年底标普 500 指数目标上调至 8100 点，之前为 7650 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3446197"
   }
 ]
