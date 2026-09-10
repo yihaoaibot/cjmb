@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3454086",
+    "datetime": "2026-09-10T18:37:22+00:00",
+    "views": "4",
+    "text": "美国财政部外国资产控制办公室因涉伊朗关系将 5 个实体列入制裁名单。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3454086"
+  },
+  {
+    "post": "Financial_Express/3454085",
+    "datetime": "2026-09-10T18:37:02+00:00",
+    "views": "5",
+    "text": "美国财政部金融犯罪执法网络（FinCEN）：发布举报人公告，寻求有关支持伊朗非法融资活动的线索。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3454085"
+  },
+  {
     "post": "Financial_Express/3454084",
     "datetime": "2026-09-10T18:36:42+00:00",
-    "views": "2",
+    "views": "5",
     "text": "美国财政部：更新关于伊朗许可申请的声明，推定拒绝处理；将拒绝大多数尚未处理的涉伊朗许可申请。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3454083",
     "datetime": "2026-09-10T18:36:22+00:00",
-    "views": "2",
+    "views": "5",
     "text": "美国财政部：宣布针对支持伊朗在中东代理人的实体实施新制裁，包括伊拉克商业高管。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3454082",
     "datetime": "2026-09-10T18:36:02+00:00",
-    "views": "2",
+    "views": "5",
     "text": "美官员称伊朗石油装载量大幅下降\n金十数据 9 月 11 日讯，美国官员称，过去一周，海上运输的伊朗石油或疑似伊朗石油平均约为 1.1 亿桶，低于战前的 1.8 亿桶。伊朗石油卸载量已从战前的 140 万桶/日降至 90 万桶/日。过去 30 天，伊朗石油装载量约为 20 万桶/日，低于 1 月和 2 月的 180 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3454081",
     "datetime": "2026-09-10T18:35:45+00:00",
-    "views": "2",
+    "views": "6",
     "text": "Anthropic PBC 指控中国人工智能企业月之暗面秘密将数千条用户请求转发至该公司的 Claude 模型，并把返回结果冒充自身模型的输出，以期在人工智能竞赛中取得优势。\nAnthropic 周四发布的一份报告称，月之暗面没有通过自家的 Kimi 模型处理这些请求，而是在用户不知情的情况下，把查询转发给 Anthropic 的聊天机器人。Anthropic 提到了一个案例，称月之暗面向其系统发送了近 30 万条客户请求，主要调用的是 Anthropic 的 Opus 人工智能模型。\n报告指出，由于 Anthropic 不允许其技术在中国境内使用，月之暗面使用了 5,380 个虚假账户，其中大多数的定位貌似在新加坡和日本。\nAnthropic 认定，月之暗面此类活动属于“蒸馏”的一部分，也就是开发者利用更强大人工智能模型产生的数据来改进较弱的系统。该公司认为月之暗面将从其系统获得的回复用于训练自身的软件。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3454079",
     "datetime": "2026-09-10T18:34:22+00:00",
-    "views": "3",
+    "views": "35",
     "text": "美国官员：过去 30 天，伊朗石油装载量约为每日 20 万桶，低于 1 月/2 月的每日 180 万桶。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3454080",
     "datetime": "2026-09-10T18:34:22+00:00",
-    "views": "3",
+    "views": "36",
     "text": "美国官员：伊朗石油卸货量降至每日 90 万桶，低于战争前的每日 140 万桶。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3454078",
     "datetime": "2026-09-10T18:34:04+00:00",
-    "views": "4",
+    "views": "35",
     "text": "美国官员：过去一周，伊朗或疑似伊朗的海上石油平均储量为 1.1 亿桶，而战前为 1.8 亿桶。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3454076",
     "datetime": "2026-09-10T18:34:03+00:00",
-    "views": "4",
+    "views": "35",
     "text": "美国官员：过去 30 天伊朗石油装载量约为每日 20 万桶，低于 1 月/2 月的每日 180 万桶。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3454077",
     "datetime": "2026-09-10T18:34:03+00:00",
-    "views": "4",
+    "views": "35",
     "text": "美国官员：伊朗石油卸载量从战前的 140 万桶/日降至 90 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3454074",
     "datetime": "2026-09-10T18:34:02+00:00",
-    "views": "4",
+    "views": "35",
     "text": "美国官员：过去一周，水上运输中的伊朗或疑似伊朗原油平均为 1.1 亿桶，而战争前为 1.8 亿桶。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3454075",
     "datetime": "2026-09-10T18:34:02+00:00",
-    "views": "4",
+    "views": "35",
     "text": "美国财政部金融犯罪执法局发布举报公告，征集有关非法资助伊朗行为的线索。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3454073",
     "datetime": "2026-09-10T18:33:43+00:00",
-    "views": "4",
+    "views": "35",
     "text": "美国财政部：一名美国公民同意支付 143 万美元，就其在 2019 至 2021 年间 39 次明显违反美国对伊朗制裁规定的行为达成民事责任和解。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3454071",
     "datetime": "2026-09-10T18:33:42+00:00",
-    "views": "4",
+    "views": "35",
     "text": "美国财政部宣布对支持伊朗在中东代理人的实体实施新制裁，其中包括伊拉克企业高管。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3454072",
     "datetime": "2026-09-10T18:33:42+00:00",
-    "views": "4",
+    "views": "35",
     "text": "美国财政部：关于伊朗许可申请的更新声明假定将予以拒绝；将拒绝大多数未决的与伊朗相关的申请。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3454069",
     "datetime": "2026-09-10T18:33:22+00:00",
-    "views": "34",
+    "views": "35",
     "text": "美国财政部网站发布新一轮伊朗相关制裁。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3454070",
     "datetime": "2026-09-10T18:33:22+00:00",
-    "views": "34",
+    "views": "35",
     "text": "美国财政部发布与伊朗相关的新制裁措施。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3454068",
     "datetime": "2026-09-10T18:32:50+00:00",
-    "views": "35",
+    "views": "36",
     "text": "WTI 10 月原油期货收涨 6.43 美元，涨幅超过 6.69%，报 102.48 美元/桶。\nNYMEX 10 月天然气期货收报 2.8340 美元/百万英热单位。\nNYMEX 10 月汽油期货收报 3.3932 美元/加仑，NYMEX 10 月取暖油期货收报 5.0575 美元/加仑。\n中东 Abu Dhabi Murban 原油期货跌 0.20%，报 116.02 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3454067",
     "datetime": "2026-09-10T18:32:44+00:00",
-    "views": "35",
+    "views": "36",
     "text": "WTI 10 月原油期货收涨 6.43 美元，涨幅超过 6.69%，报 102.48 美元/桶。\nNYMEX 10 月天然气期货收报 2.8340 美元/百万英热单位。\nNYMEX 10 月汽油期货收报 3.3932 美元/加仑，NYMEX 10 月取暖油期货收报 5.0575 美元/加仑。\n中东 Abu Dhabi Murban 原油期货跌 0.20%，报 116.02 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -59200,50 +59218,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3447269"
-  },
-  {
-    "post": "Financial_Express/3447268",
-    "datetime": "2026-09-08T18:38:42+00:00",
-    "views": "91",
-    "text": "eBay 首席执行官：汽车业务的年化营收规模已迅速达到数亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447268"
-  },
-  {
-    "post": "Financial_Express/3447267",
-    "datetime": "2026-09-08T18:38:02+00:00",
-    "views": "88",
-    "text": "eBay 首席执行官在高盛会议上表示，汽车业务和直播成为公司新的增长引擎。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447267"
-  },
-  {
-    "post": "Financial_Express/3447266",
-    "datetime": "2026-09-08T18:37:42+00:00",
-    "views": "84",
-    "text": "OpenAI：面向开发者，我们将在 API 中推出两款新模型，GPT‑IMAGE‑2.5 FLARE 与 GPT‑IMAGE‑2.5 SUNBURST。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447266"
-  },
-  {
-    "post": "Financial_Express/3447265",
-    "datetime": "2026-09-08T18:37:35+00:00",
-    "views": "82",
-    "text": "OpenAI 发布 ChatGPT Images 2.5。\nDALL·E 2.5 图像模型现已向所有 ChatGPT、ChatGPT Enterprise 与 Codex 用户开放，可在桌面端、移动端和网页端使用。\n面向开发者，我们将在 API 中推出两款新模型，GPT‑IMAGE‑2.5 FLARE 与 GPT‑IMAGE‑2.5 SUNBURST。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447265"
-  },
-  {
-    "post": "Financial_Express/3447264",
-    "datetime": "2026-09-08T18:37:02+00:00",
-    "views": "80",
-    "text": "英国空管系统技术故障致大批航班取消\n当地时间 9 月 8 日，英国空中交通管制系统出现技术故障，导致英国多地机场航班运行受严重影响。伦敦所有机场现已关闭，禁止航班抵达，至少持续至当晚 11 时。据悉，当天英国境内约有 600 个航班被取消。伦敦希思罗机场是受影响最严重的机场之一。根据航班追踪网站 FlightAware 的数据，截至当地时间 18 时 50 分，希思罗机场已有 156 个出港航班被取消，另有 186 个出港航班延误。英国航空公司是该机场受影响最严重的航空公司之一。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447264"
   }
 ]
