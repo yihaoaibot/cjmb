@@ -1,9 +1,27 @@
 [
   {
+    "post": "Financial_Express/3454153",
+    "datetime": "2026-09-10T19:37:43+00:00",
+    "views": "5",
+    "text": "SpaceX 首席财务官：对实现千亿美元年化营收更有信心。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3454153"
+  },
+  {
+    "post": "Financial_Express/3454152",
+    "datetime": "2026-09-10T19:37:11+00:00",
+    "views": "5",
+    "text": "金融数据供应商 FactSet Research、标普全球股价下跌，此前 OpenAI 发布细分金融服务的 ChatGPT 版本。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3454152"
+  },
+  {
     "post": "Financial_Express/3454151",
     "datetime": "2026-09-10T19:36:42+00:00",
-    "views": "2",
-    "text": "美媒：美军加码向沙特提供情报支持 但避免直接参战\n金十数据 9 月 11 日讯，据 CNN 援引多名知情人士称，超过 100 名美国军事顾问目前驻扎在沙特阿拉伯，为沙特针对也门胡塞武装的军事行动提供情报和目标打击支持。一名美国官员称，美方人员属于近期成立的联合部队指挥机构，总人数约 200 人。消息人士称，美国向沙特提供可实时查看战场情况的目标定位工具，并提供“地理空间”打击支持，但美军目前没有直接参与空袭，也未为沙特战机提供空中加油或其他作战支持。相关行动主要集中于帮助沙特更顺利、专业地开展军事行动。报道指出，美方扩大支持之际，胡塞武装近期在也门半岛推进，冲突强度达到 2022 年以来最高水平。胡塞近日夺取一个具有战略意义的红海港口，加剧美国和沙特对冲突形成“第二战线”的担忧。一名美国官员称，美方认为目前有数百名伊朗革命卫队人员在也门与胡塞合作，目标之一是关闭连接红海和印度洋的曼德海峡。不过，美军内部仍对深度参与沙特对胡塞行动保持谨慎，担心若行动造成平民伤亡，将重现过去相关争议。",
+    "views": "5",
+    "text": "美媒：美军加码向沙特提供情报支持 但避免直接参战\n金十数据 9 月 11 日讯，据 CNN 援引多名知情人士称，超过 100 名美国军事顾问目前驻扎在沙特阿拉伯，为沙特针对也门胡塞武装的军事行动提供情报和目标打击支持。一名美国官员称，美方人员属于近期成立的联合部队指挥机构，总人数约 200 人。消息人士称，美国向沙特提供可实时查看战场情况的目标定位工具，并提供“地理空间”打击支持，但美军目前没有直接参与空袭，也未为沙特战机提供空中加油或其他作战支持。相关行动主要集中于帮助沙特更顺利、专业地开展军事行动。报道指出，美方扩大支持之际，胡塞武装近期在也门半岛推进，冲突强度或达到 2022 年以来最高水平。胡塞近日夺取一个具有战略意义的红海港口，加剧美国和沙特对冲突形成“第二战线”的担忧。一名美国官员称，美方认为目前有数百名伊朗革命卫队人员在也门与胡塞合作，目标之一是关闭连接红海和印度洋的曼德海峡。不过，美军内部仍对深度参与沙特对胡塞行动保持谨慎，担心若行动造成平民伤亡，将重现过去相关争议。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3454151"
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3454150",
     "datetime": "2026-09-10T19:33:41+00:00",
-    "views": "6",
+    "views": "36",
     "text": "亚马逊旗下 Amazon Leo 项目新增 6 次阿丽亚娜航天发射订单，扩大发射合作关系。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3454149",
     "datetime": "2026-09-10T19:33:26+00:00",
-    "views": "6",
+    "views": "36",
     "text": "SpaceX 的 CFO Bret Johnsen 在高盛会议上表示：星舰下一次飞行将产生收入。\n计划明年发射首批轨道计算卫星。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3454148",
     "datetime": "2026-09-10T19:33:22+00:00",
-    "views": "6",
+    "views": "36",
     "text": "SpaceX：计划明年发射首批轨道计算卫星。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3454142",
     "datetime": "2026-09-10T19:26:46+00:00",
-    "views": "39",
+    "views": "69",
     "text": "OpenAI：推出 Agents API。\nAgents API 今日面向所有开发者开放公测。\nAgents API 不收取额外费用，开发者仅需支付 Token 使用费用和工具调用费用。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3454138",
     "datetime": "2026-09-10T19:24:36+00:00",
-    "views": "69",
+    "views": "70",
     "text": "周四（9 月 10 日）纽约尾盘，ICE 美元指数涨 0.26%，报 99.070 点，日内交投区间为 98.706-99.199 点，欧洲股市开盘以来持续上扬、北京时间 20:39（欧洲央行宣布加息之后）创 9 月 4 日以来新高，脱离周三所创 8 月 21 日以来最低位 98.599 点。\n彭博美元指数涨 0.30%，报 1190.47 点，日内交投区间为 1185.81-1191.64 点，脱离周三所创 5 月 6 日（最低 1184.67 点）以来盘中最低位 1184.82 点。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3454137",
     "datetime": "2026-09-10T19:24:22+00:00",
-    "views": "70",
+    "views": "71",
     "text": "OpenAI：推出 Agents API。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3454136",
     "datetime": "2026-09-10T19:23:02+00:00",
-    "views": "69",
+    "views": "70",
     "text": "美国联邦航空管理局将就达美航空 791 号航班据称出现的压力问题展开调查。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3454135",
     "datetime": "2026-09-10T19:22:22+00:00",
-    "views": "69",
+    "views": "70",
     "text": "沙特民防局：针对海米斯穆谢特（Khamis Mushait）和艾卜哈的危险警报已解除。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3454134",
     "datetime": "2026-09-10T19:21:22+00:00",
-    "views": "69",
+    "views": "70",
     "text": "沙特民防部门称海米斯穆谢特与艾卜哈的危险已解除。",
     "media_only": false,
     "image_url": null,
@@ -59038,41 +59056,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3447354"
-  },
-  {
-    "post": "Financial_Express/3447353",
-    "datetime": "2026-09-08T19:38:42+00:00",
-    "views": "67",
-    "text": "马萨诸塞州州长签署数据中心相关行政令，要求项目须获得地方批准。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447353"
-  },
-  {
-    "post": "Financial_Express/3447352",
-    "datetime": "2026-09-08T19:37:42+00:00",
-    "views": "97",
-    "text": "据福克斯新闻：美国高级官员表示，美国军方已对霍尔木兹岛和贾斯克附近的目标进行了打击。目标包括伊朗油轮。这是从经济上挤压伊朗的更大行动的一部分。该战略包括击沉和瘫痪伊朗原油油轮。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447352"
-  },
-  {
-    "post": "Financial_Express/3447351",
-    "datetime": "2026-09-08T19:37:22+00:00",
-    "views": "98",
-    "text": "福克斯新闻援引美国官员消息：美军对哈尔克岛附近目标实施打击。美方打击目标包括伊朗油轮。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447351"
-  },
-  {
-    "post": "Financial_Express/3447350",
-    "datetime": "2026-09-08T19:37:05+00:00",
-    "views": "71",
-    "text": "美军袭击伊朗 Kharg 岛周边多个目标，多艘伊朗油轮被列为袭击目标。（福克斯新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447350"
   }
 ]
