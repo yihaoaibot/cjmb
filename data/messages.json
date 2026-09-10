@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3454151",
+    "datetime": "2026-09-10T19:36:42+00:00",
+    "views": "2",
+    "text": "美媒：美军加码向沙特提供情报支持 但避免直接参战\n金十数据 9 月 11 日讯，据 CNN 援引多名知情人士称，超过 100 名美国军事顾问目前驻扎在沙特阿拉伯，为沙特针对也门胡塞武装的军事行动提供情报和目标打击支持。一名美国官员称，美方人员属于近期成立的联合部队指挥机构，总人数约 200 人。消息人士称，美国向沙特提供可实时查看战场情况的目标定位工具，并提供“地理空间”打击支持，但美军目前没有直接参与空袭，也未为沙特战机提供空中加油或其他作战支持。相关行动主要集中于帮助沙特更顺利、专业地开展军事行动。报道指出，美方扩大支持之际，胡塞武装近期在也门半岛推进，冲突强度达到 2022 年以来最高水平。胡塞近日夺取一个具有战略意义的红海港口，加剧美国和沙特对冲突形成“第二战线”的担忧。一名美国官员称，美方认为目前有数百名伊朗革命卫队人员在也门与胡塞合作，目标之一是关闭连接红海和印度洋的曼德海峡。不过，美军内部仍对深度参与沙特对胡塞行动保持谨慎，担心若行动造成平民伤亡，将重现过去相关争议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3454151"
+  },
+  {
     "post": "Financial_Express/3454150",
     "datetime": "2026-09-10T19:33:41+00:00",
-    "views": "5",
+    "views": "6",
     "text": "亚马逊旗下 Amazon Leo 项目新增 6 次阿丽亚娜航天发射订单，扩大发射合作关系。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3454147",
     "datetime": "2026-09-10T19:31:42+00:00",
-    "views": "7",
+    "views": "37",
     "text": "SpaceX：星舰下次飞行将产生营收。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3454146",
     "datetime": "2026-09-10T19:31:32+00:00",
-    "views": "7",
+    "views": "37",
     "text": "阿根廷 8 月 CPI 通胀率创 2025 年 6 月份以来新低。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3454145",
     "datetime": "2026-09-10T19:31:22+00:00",
-    "views": "7",
+    "views": "37",
     "text": "Amazon Leo 项目新增 6 次阿丽亚娜航天发射订单，扩大发射合作关系。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3454141",
     "datetime": "2026-09-10T19:26:02+00:00",
-    "views": "38",
+    "views": "68",
     "text": "OpenAI：Agents API 不收取额外费用，开发者仅需支付 Token 使用费用和工具调用费用。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3454140",
     "datetime": "2026-09-10T19:25:22+00:00",
-    "views": "38",
+    "views": "68",
     "text": "OpenAI： Agents API 今日面向所有开发者开放公测。",
     "media_only": false,
     "image_url": null,
@@ -59065,23 +59074,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3447350"
-  },
-  {
-    "post": "Financial_Express/3447349",
-    "datetime": "2026-09-08T19:36:42+00:00",
-    "views": "70",
-    "text": "伊朗南部哈尔克岛传出爆炸声\n总台记者当地时间 8 日从伊朗方面获悉，有消息称该国南部哈尔克岛部分地区传出数次爆炸声。此外，当地时间当天 21 时 45 分左右，伊朗南部贾斯克地区传出爆炸声。目前伊朗官方暂无消息披露。 (央视新闻)",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447349"
-  },
-  {
-    "post": "Financial_Express/3447348",
-    "datetime": "2026-09-08T19:36:22+00:00",
-    "views": "71",
-    "text": "Meta 推出个人 AI 智能体 Muse 月费最高 100 美元\n金十数据 9 月 9 日讯，Meta Platforms(META.O)推出个人 AI 智能体应用 Muse，允许用户将预约、填写电子表格、监控家庭摄像头等数字任务交由 AI 助手处理。Meta AI 负责人亚历山大·王表示，Muse 由 Meta 的 Muse Spark 系列基础模型驱动，提供免费版本以及每月 20 美元和 100 美元两档订阅服务。他表示，Muse 运行在 Meta 计算基础设施中的独立隔离环境内，不会读取用户实际密码或支付信息，并会在执行敏感操作前请求确认。用户可选择是否允许 Meta 使用与 Muse 的互动内容训练 AI 模型，若选择允许，Meta 将删除关键个人身份信息后用于模型改进。此次产品发布之际，Meta 正面临 AI 安全、隐私问题以及 AI 投资回报压力。Meta CEO 扎克伯格此前表示，个人 AI 智能体将成为公司未来产品和收入增长方向。Meta 还表示，未来正在探索与 AI 智能体购物交易相关的商业模式。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447348"
   }
 ]
