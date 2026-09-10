@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3454087",
+    "datetime": "2026-09-10T18:40:02+00:00",
+    "views": "4",
+    "text": "美国财政部长债实际回购规模低于上限 10 年期收益率进一步走高\n美国财政部周四对 10 年至 20 年期国债的回购规模低于计划上限，导致国债收益率进一步走高。财政部周四仅回购 51.9 亿美元债券，未及周三宣布的 60 亿美元上限。操作结束后，10 年期美国国债收益率延续涨势，升高 10 个基点至 4.94%。虽然财政部并没有义务买满最高额度，但不买足的情况此前只发生过两次。自从回购计划于 2024 年恢复以来，针对较长期限名义国债的操作已经进行 53 次。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3454087"
+  },
+  {
     "post": "Financial_Express/3454086",
     "datetime": "2026-09-10T18:37:22+00:00",
-    "views": "4",
+    "views": "6",
     "text": "美国财政部外国资产控制办公室因涉伊朗关系将 5 个实体列入制裁名单。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3454085",
     "datetime": "2026-09-10T18:37:02+00:00",
-    "views": "5",
+    "views": "36",
     "text": "美国财政部金融犯罪执法网络（FinCEN）：发布举报人公告，寻求有关支持伊朗非法融资活动的线索。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3454084",
     "datetime": "2026-09-10T18:36:42+00:00",
-    "views": "5",
+    "views": "36",
     "text": "美国财政部：更新关于伊朗许可申请的声明，推定拒绝处理；将拒绝大多数尚未处理的涉伊朗许可申请。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3454083",
     "datetime": "2026-09-10T18:36:22+00:00",
-    "views": "5",
+    "views": "36",
     "text": "美国财政部：宣布针对支持伊朗在中东代理人的实体实施新制裁，包括伊拉克商业高管。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3454082",
     "datetime": "2026-09-10T18:36:02+00:00",
-    "views": "5",
+    "views": "36",
     "text": "美官员称伊朗石油装载量大幅下降\n金十数据 9 月 11 日讯，美国官员称，过去一周，海上运输的伊朗石油或疑似伊朗石油平均约为 1.1 亿桶，低于战前的 1.8 亿桶。伊朗石油卸载量已从战前的 140 万桶/日降至 90 万桶/日。过去 30 天，伊朗石油装载量约为 20 万桶/日，低于 1 月和 2 月的 180 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3454081",
     "datetime": "2026-09-10T18:35:45+00:00",
-    "views": "6",
+    "views": "37",
     "text": "Anthropic PBC 指控中国人工智能企业月之暗面秘密将数千条用户请求转发至该公司的 Claude 模型，并把返回结果冒充自身模型的输出，以期在人工智能竞赛中取得优势。\nAnthropic 周四发布的一份报告称，月之暗面没有通过自家的 Kimi 模型处理这些请求，而是在用户不知情的情况下，把查询转发给 Anthropic 的聊天机器人。Anthropic 提到了一个案例，称月之暗面向其系统发送了近 30 万条客户请求，主要调用的是 Anthropic 的 Opus 人工智能模型。\n报告指出，由于 Anthropic 不允许其技术在中国境内使用，月之暗面使用了 5,380 个虚假账户，其中大多数的定位貌似在新加坡和日本。\nAnthropic 认定，月之暗面此类活动属于“蒸馏”的一部分，也就是开发者利用更强大人工智能模型产生的数据来改进较弱的系统。该公司认为月之暗面将从其系统获得的回复用于训练自身的软件。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3454079",
     "datetime": "2026-09-10T18:34:22+00:00",
-    "views": "35",
+    "views": "36",
     "text": "美国官员：过去 30 天，伊朗石油装载量约为每日 20 万桶，低于 1 月/2 月的每日 180 万桶。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3454080",
     "datetime": "2026-09-10T18:34:22+00:00",
-    "views": "36",
+    "views": "37",
     "text": "美国官员：伊朗石油卸货量降至每日 90 万桶，低于战争前的每日 140 万桶。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3454078",
     "datetime": "2026-09-10T18:34:04+00:00",
-    "views": "35",
+    "views": "36",
     "text": "美国官员：过去一周，伊朗或疑似伊朗的海上石油平均储量为 1.1 亿桶，而战前为 1.8 亿桶。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3454076",
     "datetime": "2026-09-10T18:34:03+00:00",
-    "views": "35",
+    "views": "36",
     "text": "美国官员：过去 30 天伊朗石油装载量约为每日 20 万桶，低于 1 月/2 月的每日 180 万桶。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3454077",
     "datetime": "2026-09-10T18:34:03+00:00",
-    "views": "35",
+    "views": "36",
     "text": "美国官员：伊朗石油卸载量从战前的 140 万桶/日降至 90 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -59191,32 +59200,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3447272"
-  },
-  {
-    "post": "Financial_Express/3447271",
-    "datetime": "2026-09-08T18:39:22+00:00",
-    "views": "100",
-    "text": "Anthropic 与大型科技倡导组织 ITI 断绝往来。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447271"
-  },
-  {
-    "post": "Financial_Express/3447270",
-    "datetime": "2026-09-08T18:39:05+00:00",
-    "views": "95",
-    "text": "Anthropic 掐断与大型科技倡议团体 ITI 的联系。（Axios）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447270"
-  },
-  {
-    "post": "Financial_Express/3447269",
-    "datetime": "2026-09-08T18:39:02+00:00",
-    "views": "93",
-    "text": "据 Axios 网站：Anthropic 将退出信息技术工业委员会（ITI），原因是该行业组织支持的相关立法涉及限制外国获取美国芯片，而 Anthropic 反对该政策方向。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447269"
   }
 ]
