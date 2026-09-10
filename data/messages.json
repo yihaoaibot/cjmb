@@ -1,5 +1,41 @@
 [
   {
+    "post": "Financial_Express/3454084",
+    "datetime": "2026-09-10T18:36:42+00:00",
+    "views": "2",
+    "text": "美国财政部：更新关于伊朗许可申请的声明，推定拒绝处理；将拒绝大多数尚未处理的涉伊朗许可申请。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3454084"
+  },
+  {
+    "post": "Financial_Express/3454083",
+    "datetime": "2026-09-10T18:36:22+00:00",
+    "views": "2",
+    "text": "美国财政部：宣布针对支持伊朗在中东代理人的实体实施新制裁，包括伊拉克商业高管。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3454083"
+  },
+  {
+    "post": "Financial_Express/3454082",
+    "datetime": "2026-09-10T18:36:02+00:00",
+    "views": "2",
+    "text": "美官员称伊朗石油装载量大幅下降\n金十数据 9 月 11 日讯，美国官员称，过去一周，海上运输的伊朗石油或疑似伊朗石油平均约为 1.1 亿桶，低于战前的 1.8 亿桶。伊朗石油卸载量已从战前的 140 万桶/日降至 90 万桶/日。过去 30 天，伊朗石油装载量约为 20 万桶/日，低于 1 月和 2 月的 180 万桶/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3454082"
+  },
+  {
+    "post": "Financial_Express/3454081",
+    "datetime": "2026-09-10T18:35:45+00:00",
+    "views": "2",
+    "text": "Anthropic PBC 指控中国人工智能企业月之暗面秘密将数千条用户请求转发至该公司的 Claude 模型，并把返回结果冒充自身模型的输出，以期在人工智能竞赛中取得优势。\nAnthropic 周四发布的一份报告称，月之暗面没有通过自家的 Kimi 模型处理这些请求，而是在用户不知情的情况下，把查询转发给 Anthropic 的聊天机器人。Anthropic 提到了一个案例，称月之暗面向其系统发送了近 30 万条客户请求，主要调用的是 Anthropic 的 Opus 人工智能模型。\n报告指出，由于 Anthropic 不允许其技术在中国境内使用，月之暗面使用了 5,380 个虚假账户，其中大多数的定位貌似在新加坡和日本。\nAnthropic 认定，月之暗面此类活动属于“蒸馏”的一部分，也就是开发者利用更强大人工智能模型产生的数据来改进较弱的系统。该公司认为月之暗面将从其系统获得的回复用于训练自身的软件。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3454081"
+  },
+  {
     "post": "Financial_Express/3454079",
     "datetime": "2026-09-10T18:34:22+00:00",
     "views": "3",
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3454069",
     "datetime": "2026-09-10T18:33:22+00:00",
-    "views": "4",
+    "views": "34",
     "text": "美国财政部网站发布新一轮伊朗相关制裁。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3454070",
     "datetime": "2026-09-10T18:33:22+00:00",
-    "views": "4",
+    "views": "34",
     "text": "美国财政部发布与伊朗相关的新制裁措施。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3454068",
     "datetime": "2026-09-10T18:32:50+00:00",
-    "views": "5",
+    "views": "35",
     "text": "WTI 10 月原油期货收涨 6.43 美元，涨幅超过 6.69%，报 102.48 美元/桶。\nNYMEX 10 月天然气期货收报 2.8340 美元/百万英热单位。\nNYMEX 10 月汽油期货收报 3.3932 美元/加仑，NYMEX 10 月取暖油期货收报 5.0575 美元/加仑。\n中东 Abu Dhabi Murban 原油期货跌 0.20%，报 116.02 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3454067",
     "datetime": "2026-09-10T18:32:44+00:00",
-    "views": "5",
+    "views": "35",
     "text": "WTI 10 月原油期货收涨 6.43 美元，涨幅超过 6.69%，报 102.48 美元/桶。\nNYMEX 10 月天然气期货收报 2.8340 美元/百万英热单位。\nNYMEX 10 月汽油期货收报 3.3932 美元/加仑，NYMEX 10 月取暖油期货收报 5.0575 美元/加仑。\n中东 Abu Dhabi Murban 原油期货跌 0.20%，报 116.02 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3454065",
     "datetime": "2026-09-10T18:31:42+00:00",
-    "views": "4",
+    "views": "34",
     "text": "纽约商品交易所 10 月汽油期货结算价为每加仑 3.3932 美元。",
     "media_only": false,
     "image_url": null,
@@ -59209,41 +59245,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3447264"
-  },
-  {
-    "post": "Financial_Express/3447263",
-    "datetime": "2026-09-08T18:36:22+00:00",
-    "views": "76",
-    "text": "OpenAI：Images 2.5 现已向所有 ChatGPT、ChatGPT Work 和 Codex 用户开放，支持桌面端、移动端和网页端使用。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447263"
-  },
-  {
-    "post": "Financial_Express/3447262",
-    "datetime": "2026-09-08T18:35:42+00:00",
-    "views": "75",
-    "text": "OpenAI：Images 2.5 现已面向所有 ChatGPT、ChatGPT Work 以及 Codex 用户开放，支持桌面端、移动端和网页端。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447262"
-  },
-  {
-    "post": "Financial_Express/3447260",
-    "datetime": "2026-09-08T18:35:22+00:00",
-    "views": "73",
-    "text": "美国联邦通信委员会提议开放更多无线频谱，用于从太空提供更快的宽带服务。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447260"
-  },
-  {
-    "post": "Financial_Express/3447261",
-    "datetime": "2026-09-08T18:35:22+00:00",
-    "views": "74",
-    "text": "美国联邦通信委员会拟开放更多无线频谱，用于太空层面的更高速宽带服务。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447261"
   }
 ]
