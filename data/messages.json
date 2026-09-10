@@ -2,8 +2,8 @@
   {
     "post": "Financial_Express/3454142",
     "datetime": "2026-09-10T19:26:46+00:00",
-    "views": "2",
-    "text": "OpenAI：推出 Agents API。Agents API 今日面向所有开发者开放公测。Agents API 不收取额外费用，开发者仅需支付 Token 使用费用和工具调用费用。",
+    "views": "3",
+    "text": "OpenAI：推出 Agents API。\nAgents API 今日面向所有开发者开放公测。\nAgents API 不收取额外费用，开发者仅需支付 Token 使用费用和工具调用费用。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3454142"
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3454141",
     "datetime": "2026-09-10T19:26:02+00:00",
-    "views": "2",
+    "views": "3",
     "text": "OpenAI：Agents API 不收取额外费用，开发者仅需支付 Token 使用费用和工具调用费用。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3454140",
     "datetime": "2026-09-10T19:25:22+00:00",
-    "views": "2",
+    "views": "3",
     "text": "OpenAI： Agents API 今日面向所有开发者开放公测。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3454139",
     "datetime": "2026-09-10T19:24:42+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美国联邦航空管理局：达美航空 791 号航班执飞机型为波音 757。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3454138",
     "datetime": "2026-09-10T19:24:36+00:00",
-    "views": "4",
+    "views": "5",
     "text": "周四（9 月 10 日）纽约尾盘，ICE 美元指数涨 0.26%，报 99.070 点，日内交投区间为 98.706-99.199 点，欧洲股市开盘以来持续上扬、北京时间 20:39（欧洲央行宣布加息之后）创 9 月 4 日以来新高，脱离周三所创 8 月 21 日以来最低位 98.599 点。\n彭博美元指数涨 0.30%，报 1190.47 点，日内交投区间为 1185.81-1191.64 点，脱离周三所创 5 月 6 日（最低 1184.67 点）以来盘中最低位 1184.82 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3454137",
     "datetime": "2026-09-10T19:24:22+00:00",
-    "views": "5",
+    "views": "36",
     "text": "OpenAI：推出 Agents API。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3454136",
     "datetime": "2026-09-10T19:23:02+00:00",
-    "views": "4",
+    "views": "35",
     "text": "美国联邦航空管理局将就达美航空 791 号航班据称出现的压力问题展开调查。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3454135",
     "datetime": "2026-09-10T19:22:22+00:00",
-    "views": "6",
+    "views": "37",
     "text": "沙特民防局：针对海米斯穆谢特（Khamis Mushait）和艾卜哈的危险警报已解除。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3454134",
     "datetime": "2026-09-10T19:21:22+00:00",
-    "views": "7",
+    "views": "38",
     "text": "沙特民防部门称海米斯穆谢特与艾卜哈的危险已解除。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3454133",
     "datetime": "2026-09-10T19:20:45+00:00",
-    "views": "37",
+    "views": "67",
     "text": "美国投资公司协会（ICI）：美国货币市场资产降低至 7.97 万亿美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3454131",
     "datetime": "2026-09-10T19:20:15+00:00",
-    "views": "40",
+    "views": "70",
     "text": "美股恐慌指数 VIX 波动率日内涨幅达 10.0%，报 18.11；标普 500 指数跌超 0.6%。",
     "media_only": false,
     "image_url": null,
@@ -59047,14 +59047,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3447345"
-  },
-  {
-    "post": "Financial_Express/3447343",
-    "datetime": "2026-09-08T19:27:08+00:00",
-    "views": "14",
-    "text": "WTI 原油期货重新涨超 2.4%，投资者关注也门胡塞打击、报道称伊朗 Kharg 岛发生爆炸。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447343"
   }
 ]
