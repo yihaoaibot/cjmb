@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3454034",
+    "datetime": "2026-09-10T18:13:42+00:00",
+    "views": "5",
+    "text": "以色列媒体称，军方正准备炸毁黎巴嫩南部阿里·塔赫尔山脊的隧道。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3454034"
+  },
+  {
     "post": "Financial_Express/3454033",
     "datetime": "2026-09-10T18:13:02+00:00",
-    "views": "3",
+    "views": "6",
     "text": "德国 DAX 30 指数收跌 0.84%，报 25361.15 点，最近两个交易日累计下跌 2.49%，逼近 7 月 27 日收盘位 25361.03 点、7 月 23 日收盘位 24763.12 点、以及 6 月 10 日收盘位 24195.31 点。\n法国 CAC 40 指数收跌 0.49%，报 8116.76 点。\n意大利富时 MIB 指数收跌 0.13%，报 51807.40 点，富时意大利综合股价银行指数收跌 0.25%。\n英国富时 100 指数收跌 0.57%，报 10608.92 点，富时 250 指数收跌 0.92%，富时 350 指数收跌 0.63%。\n荷兰 AEX 指数收跌 0.78%，丹麦 OMX 哥本哈根 20 指数收跌 0.33%、哥本哈根 25 指数收跌 0.17%。\n希腊雅典证交所综合指数收跌 0.15%，西班牙 IBEX 35 指数收跌 0.18%。\n挪威 OSE 基准指数收跌 0.64%，挪威 OBX 指数收跌 0.62%。\n德国上市的 WisdomTree Europe Defence UCITS ETF 收涨 0.05%，英国伦敦上市、对军工股“照收不误”的 Future of Defence UCITS ETF 收跌 0.11%；彭博欧洲国防精选指数涨 0.05%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3454032",
     "datetime": "2026-09-10T18:12:23+00:00",
-    "views": "3",
+    "views": "5",
     "text": "卡尼：加拿大将加入弗雷亚反弹道导弹项目。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3454031",
     "datetime": "2026-09-10T18:12:22+00:00",
-    "views": "3",
+    "views": "4",
     "text": "WTI 原油日内涨 7%，现报 102.78 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3454030",
     "datetime": "2026-09-10T18:12:02+00:00",
-    "views": "3",
+    "views": "4",
     "text": "伊朗总统将于周五前往印度参加金砖国家峰会。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3454029",
     "datetime": "2026-09-10T18:10:43+00:00",
-    "views": "21",
+    "views": "22",
     "text": "意大利米兰一客机滑行时发生火情 146 人紧急撤离\n当地时间 9 月 10 日，一架客机在意大利米兰马尔彭萨机场滑行过程中发生火情，机上 146 名乘客通过紧急滑梯撤离，其中 2 人在撤离过程中受轻微挫伤，其余人员无碍。机场一度暂停运行。据悉，初步信息显示，火情可能由一件随身行李中的充电宝过热引发。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3454028",
     "datetime": "2026-09-10T18:10:42+00:00",
-    "views": "21",
+    "views": "22",
     "text": "布伦特原油突破 108 美元/桶，日内涨 6.71%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3454027",
     "datetime": "2026-09-10T18:10:22+00:00",
-    "views": "25",
+    "views": "26",
     "text": "据伊朗媒体 Fars News：伊朗总统佩泽希齐扬将于当地时间明日前往印度新德里参加第十八届金砖国家峰会。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3454026",
     "datetime": "2026-09-10T18:10:18+00:00",
-    "views": "25",
+    "views": "26",
     "text": "伊朗总统将于周五前往印度，参加金砖国家峰会。（FARS）",
     "media_only": false,
     "image_url": null,
@@ -58957,14 +58966,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3447245"
-  },
-  {
-    "post": "Financial_Express/3447244",
-    "datetime": "2026-09-08T18:14:02+00:00",
-    "views": "116",
-    "text": "美官员称美军一架水下无人机在中东发生故障\n一名美国官员称，一架美军无人机在中东地区执行水域侦察任务期间发生故障。该官员称，发生故障的是一款较老型号的无人机，机上并未搭载任何涉密声呐或雷达设备，于一天多以前发了故障。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3447244"
   }
 ]
