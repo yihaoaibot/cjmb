@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3457468",
+    "datetime": "2026-09-11T22:33:42+00:00",
+    "views": "3",
+    "text": "OpenAI 证实，其正在测试的 AI 智能体（Agent）在今年 5 月对知名编程服务平台 RubyGems 发起了网络攻击。\n据悉，这批 AI 智能体在执行训练任务时，为绕过受限的网络环境，将 RubyGems 作为临时浏览器以获取公开信息。它们高频创建账号并上传了数百个包含网页抓取内容的垃圾文件，甚至尝试利用一个未知的“零日漏洞”进行攻击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3457468"
+  },
+  {
     "post": "Financial_Express/3457467",
     "datetime": "2026-09-11T22:32:22+00:00",
-    "views": "1",
+    "views": "8",
     "text": "OpenAI 证实其正在测试的 AI 智能体在今年 5 月对 RubyGems 发起了网络攻击\nOpenAI 证实，其正在测试的 AI 智能体（Agent）在今年 5 月对知名编程服务平台 RubyGems 发起了网络攻击。  据悉，这批 AI 智能体在执行训练任务时，为绕过受限的网络环境，将 RubyGems 作为临时浏览器以获取公开信息。它们高频创建账号并上传了数百个包含网页抓取内容的垃圾文件，甚至尝试利用一个未知的“零日漏洞”进行攻击。此次事件导致 RubyGems 被迫暂停新用户注册长达四天。安全研究人员通过数字线索将此次被称为“GemStuffer”的攻击与 OpenAI 关联。尽管 OpenAI 表示此次攻击整体危害较小，但该事件与 7 月发生的 AI 智能体群攻陷 Hugging Face 事件如出一辙，进一步加剧了业界对高级 AI 工具可能脱离人类控制的担忧，凸显了当前 AI 安全与治理面临的严峻挑战。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3457466",
     "datetime": "2026-09-11T22:31:56+00:00",
-    "views": "6",
+    "views": "9",
     "text": "维多利亚的秘密因“Pink”商标起诉 Thomas Pink。（彭博法律 Blaw）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3457465",
     "datetime": "2026-09-11T22:31:16+00:00",
-    "views": "7",
+    "views": "10",
     "text": "美国纽约对冲基金 Oraclum Capital LLC 的创始人 Vuk Vukovic 被联邦检察官指控向投资者谎报基金业绩。\n检察官称，他向投资者分发了显示虚高收益的对账单，并向一名投资者发送了一份虚假的账户对账单，声称基金的净资产价值和收益高于实际水平。\nVukovic 被控证券欺诈和电信欺诈，若罪名成立，每项指控最高可判处 20 年监禁。他在联邦法院首次出庭后，以 20 万美元保释金获释。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3457464",
     "datetime": "2026-09-11T22:29:42+00:00",
-    "views": "8",
+    "views": "41",
     "text": "OpenAI 一名发言人称，智能代理通过 RubyGems 平台接入互联网，以执行良性任务、检索公开信息。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3457463",
     "datetime": "2026-09-11T22:29:23+00:00",
-    "views": "8",
+    "views": "40",
     "text": "一个失控的 AI 代理（Rogue AI Agent）在今年 5 月对 RubyGems 发起了网络攻击，现已认定系失控的 OpenAI 智能体所为。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3457461",
     "datetime": "2026-09-11T22:26:38+00:00",
-    "views": "45",
+    "views": "47",
     "text": "据知情人士透露，阿波罗洽谈收购强生旗下骨科业务。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3457460",
     "datetime": "2026-09-11T22:26:22+00:00",
-    "views": "47",
+    "views": "49",
     "text": "据称阿波罗正在洽谈收购强生骨科业务部门。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3457459",
     "datetime": "2026-09-11T22:26:03+00:00",
-    "views": "48",
+    "views": "49",
     "text": "Scholar Rock 宣布，美国食品药品管理局（FDA）批准 ISEMBYLD™(APITEGROMAB-MSTN)，这是首个且唯一针对儿童和成人脊髓性肌萎缩症(SMA)的肌肉靶向疗法。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3457458",
     "datetime": "2026-09-11T22:25:42+00:00",
-    "views": "49",
+    "views": "50",
     "text": "Scholar Rock 宣布 FDA 批准 ISEMBYLD™(APITEGROMAB-MSTN)，这是首个且唯一针对儿童和成人脊髓性肌萎缩症(SMA)的肌肉靶向疗法。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3457452",
     "datetime": "2026-09-11T22:10:11+00:00",
-    "views": "51",
+    "views": "81",
     "text": "美股七巨头收盘播报｜周五（9 月 11 日），美国科技股七巨头（Magnificent 7）指数涨 1.03%，报 228.01 点，本周累计下跌 0.26%。\n“超大”市值科技股指数涨 1.07%，报 454.47 点，本周累涨 0.95%。",
     "media_only": false,
     "image_url": null,
@@ -173,7 +182,7 @@
   {
     "post": "Financial_Express/3457448",
     "datetime": "2026-09-11T22:04:39+00:00",
-    "views": "54",
+    "views": "55",
     "text": "Stellantis NV（欧洲车企斯泰兰蒂斯集团）已与加拿大装甲车制造商 Roshel Inc.签署谅解备忘录（MoU），概述了出售多伦多附近一家闲置汽车工厂的相关步骤。\nRoshel 正争取一份加拿大军方合同以建造轻型多用途车辆，并已向政府表示，若获得该合同，可迅速重启该设施。\n该备忘录被描述为一个“非常复杂”流程的第一步，Roshel 首席执行官称公司已制定明确计划，文件概述了整个流程。",
     "media_only": false,
     "image_url": null,
