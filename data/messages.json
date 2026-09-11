@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3455312",
+    "datetime": "2026-09-11T06:18:42+00:00",
+    "views": "1",
+    "text": "法国央行官员穆兰：欧洲央行本周加息是合理的。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455312"
+  },
+  {
+    "post": "Financial_Express/3455311",
+    "datetime": "2026-09-11T06:18:22+00:00",
+    "views": "1",
+    "text": "阿里云 Token Plan 个人版升级：加量不加价 新增 12 类 Agent Harness 工具\n9 月 11 日，据阿里云官微消息，阿里云 Token Plan 个人版升级。原有价格及 Credit 额度保持不变，Standard 和 Pro 套餐新增 Agent Harness 工具权益与用量，覆盖搜索、网页解析、图像生成、语音处理、代码执行等 12 项 Agent 开发常用能力。上述工具均通过 MCP 标准协议开放，可直接接入到自有 Agent 应用，无需逐项单独采购。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455311"
+  },
+  {
+    "post": "Financial_Express/3455310",
+    "datetime": "2026-09-11T06:18:02+00:00",
+    "views": "2",
+    "text": "小米发布并开源 Xiaomi-CocktailASR-1\n9 月 11 日，据小米技术消息，小米正式发布并开源工业级目标说话人语音识别大模型 Xiaomi-CocktailASR-1。据介绍，Xiaomi-CocktailASR-1 旨在解决“鸡尾酒会”难题。该模型采用端到端 LLM 架构，以目标说话人的一段参考音频作为声纹提示，可在多人同时说话的复杂环境中，精准提取并仅转录目标用户的语音。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455310"
+  },
+  {
+    "post": "Financial_Express/3455309",
+    "datetime": "2026-09-11T06:17:22+00:00",
+    "views": "2",
+    "text": "法国央行官员穆兰：法国并未陷入经济危险境地。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455309"
+  },
+  {
+    "post": "Financial_Express/3455308",
+    "datetime": "2026-09-11T06:16:55+00:00",
+    "views": "32",
+    "text": "伊朗外交部长阿拉格奇与巴基斯坦陆军参谋长卡于本周四晚间举行电话会谈。 通话期间，双方讨论了地区最新局势，重点谈及紧张局势升级、地区安全形势恶化，及其对地区和平稳定带来的影响。 双方同时强调，地区国家需要保持警惕并开展协作以应对当前局势，并指出应借助各方共同力量，助力地区实现持久和平与安全。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455308"
+  },
+  {
     "post": "Financial_Express/3455307",
     "datetime": "2026-09-11T06:16:42+00:00",
-    "views": "1",
+    "views": "32",
     "text": "俄国防部战报要点总结\n俄罗斯国防部称，俄军近期对乌克兰多处军事及相关基础设施实施打击，其中包括为乌军存储和传输数据、包括情报数据，并支持网络设备运行的“Bi-Mobile”数据中心；用于存放无人机生产零部件的戈斯托梅利物流中心；第聂伯罗彼得罗夫斯克一处用于存放固定翼无人机及零部件的物流中心；以及敖德萨一座负责维修和维护乌军装备的汽车部件工厂。俄方还称，俄军在驶往敖德萨港途中打击了一艘运送乌军物资的干货船，并在切尔诺莫尔斯克港打击两艘载有乌军物资的干货船和一艘海上快艇。此外，俄军还打击了敖德萨州维济尔卡地区一处存放外国制造无人机零部件的仓库。上述说法来自俄罗斯国防部，乌方暂未就相关目标性质及损失情况作出对应确认。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3455306",
     "datetime": "2026-09-11T06:16:02+00:00",
-    "views": "1",
+    "views": "32",
     "text": "欧洲央行管理委员会成员 KAASIK：尽管遭受这些冲击，欧元区经济增长仍可能继续。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3455304",
     "datetime": "2026-09-11T06:15:23+00:00",
-    "views": "2",
+    "views": "32",
     "text": "中科曙光发布 scaleFabric Token 加速技术体系\n金十数据 9 月 11 日讯，近日，中科曙光发布 scaleFabric Token 加速技术体系，实现 IBGDA 技术在国内首次规模化应用。该体系以原生无损 RDMA 高速网络为基础，构建“算存传”三级紧耦合的 Token 加速超级通道，其中，支持 GPU 直接发起网络通信的 IBGDA 技术实现在国内的首次规模化落地，已在十万卡级大规模集群中完成验证。目前，scaleFabric 已经完成 DeepEP 等通信框架适配，并通过 IBGDA、存储直通等技术提升 Token 流转效率，为国产大模型提供新的高速互连选择。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3455305",
     "datetime": "2026-09-11T06:15:23+00:00",
-    "views": "2",
+    "views": "32",
     "text": "欧洲央行管理委员会成员 KAASIK：欧洲经济展现出了令人惊讶的韧性。",
     "media_only": false,
     "image_url": null,
@@ -59407,50 +59452,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3448457"
-  },
-  {
-    "post": "Financial_Express/3448456",
-    "datetime": "2026-09-09T06:17:44+00:00",
-    "views": "71",
-    "text": "空中客车下调了对中国单通道客机长期需求的预测，理由是中国高速铁路网持续扩张，分流了部分航空出行需求。（彭博）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3448456"
-  },
-  {
-    "post": "Financial_Express/3448455",
-    "datetime": "2026-09-09T06:17:42+00:00",
-    "views": "70",
-    "text": "伊拉克寻求在 OPEC+产能评估中将产量基准提高至日产 600 万桶\n据知情人士透露，在 OPEC 及其盟友对成员国产能进行评估、以确定明年产量水平之际，伊拉克正寻求大幅提高本国原油产量配额。知情人士称，作为该组织第二大产油国，伊拉克希望未来产量目标以日产 600 万桶为基准计算，较其最近一次采用的基准水平大幅提高。伊拉克石油部未回应置评请求。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3448455"
-  },
-  {
-    "post": "Financial_Express/3448454",
-    "datetime": "2026-09-09T06:17:23+00:00",
-    "views": "70",
-    "text": "俄外长称西方从未学会公平竞争\n俄罗斯外长拉夫罗夫在当地时间 9 月 8 日发布的一段采访中表示，西方从未学会如何公平竞争，从未学会在不损害他人利益的情况下，实现生存与繁荣。他指出，西方已丧失了主导局势的客观能力，于是试图不择手段地实施制裁，或是用包括军事手段在内的直接干预来维持其霸权地位。 （CCTV 国际时讯）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3448454"
-  },
-  {
-    "post": "Financial_Express/3448453",
-    "datetime": "2026-09-09T06:17:22+00:00",
-    "views": "38",
-    "text": "中央统战部：多措并举优化民营企业发展环境，推动惠企政策落地\n2026 年 9 月 9 日，国新办就发展社会主义民主有关情况举行新闻发布会。中央统战部副部长马利怀会上介绍，“十五五”规划纲要专门就发展壮大民营经济作出系统部署，这充分体现了党中央对民营经济的高度重视，也彰显了民营经济在推动我国经济社会高质量发展中的重要地位和作用，中央统战部将和全国工商联一起，紧紧围绕党中央重大决策部署，重点从以下几方面发力。聚焦高质量发展这个首要任务，指导各地持续开展“创新型成长型民营企业赋能行动”，引导广大民营企业和民营企业家坚守主业、做强实业，因企制宜发展新质生产力；扎实开展“进企业、解难题、送政策、促发展”活动，多措并举优化民营企业发展环境，推动惠企政策落实落地，2025 年全年推动解决要素获取、账款拖欠、权益保护、舆论生态等重点难点问题超过 6 万个。（澎湃新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3448453"
-  },
-  {
-    "post": "Financial_Express/3448452",
-    "datetime": "2026-09-09T06:17:16+00:00",
-    "views": "37",
-    "text": "据尼泊尔国家减少灾害风险管理局公布的最新数据，截至当地时间 9 月 9 日 11 时，尼泊尔泥石流灾害造成的遇难人数升至 1367 人。8 月 26 日，尼泊尔边境地区突发冰川崩塌引发严重泥石流灾害，造成重大人员伤亡。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3448452"
   }
 ]
