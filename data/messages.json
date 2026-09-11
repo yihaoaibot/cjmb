@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3455307",
+    "datetime": "2026-09-11T06:16:42+00:00",
+    "views": "1",
+    "text": "俄国防部战报要点总结\n俄罗斯国防部称，俄军近期对乌克兰多处军事及相关基础设施实施打击，其中包括为乌军存储和传输数据、包括情报数据，并支持网络设备运行的“Bi-Mobile”数据中心；用于存放无人机生产零部件的戈斯托梅利物流中心；第聂伯罗彼得罗夫斯克一处用于存放固定翼无人机及零部件的物流中心；以及敖德萨一座负责维修和维护乌军装备的汽车部件工厂。俄方还称，俄军在驶往敖德萨港途中打击了一艘运送乌军物资的干货船，并在切尔诺莫尔斯克港打击两艘载有乌军物资的干货船和一艘海上快艇。此外，俄军还打击了敖德萨州维济尔卡地区一处存放外国制造无人机零部件的仓库。上述说法来自俄罗斯国防部，乌方暂未就相关目标性质及损失情况作出对应确认。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455307"
+  },
+  {
+    "post": "Financial_Express/3455306",
+    "datetime": "2026-09-11T06:16:02+00:00",
+    "views": "1",
+    "text": "欧洲央行管理委员会成员 KAASIK：尽管遭受这些冲击，欧元区经济增长仍可能继续。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455306"
+  },
+  {
+    "post": "Financial_Express/3455304",
+    "datetime": "2026-09-11T06:15:23+00:00",
+    "views": "2",
+    "text": "中科曙光发布 scaleFabric Token 加速技术体系\n金十数据 9 月 11 日讯，近日，中科曙光发布 scaleFabric Token 加速技术体系，实现 IBGDA 技术在国内首次规模化应用。该体系以原生无损 RDMA 高速网络为基础，构建“算存传”三级紧耦合的 Token 加速超级通道，其中，支持 GPU 直接发起网络通信的 IBGDA 技术实现在国内的首次规模化落地，已在十万卡级大规模集群中完成验证。目前，scaleFabric 已经完成 DeepEP 等通信框架适配，并通过 IBGDA、存储直通等技术提升 Token 流转效率，为国产大模型提供新的高速互连选择。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455304"
+  },
+  {
+    "post": "Financial_Express/3455305",
+    "datetime": "2026-09-11T06:15:23+00:00",
+    "views": "2",
+    "text": "欧洲央行管理委员会成员 KAASIK：欧洲经济展现出了令人惊讶的韧性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455305"
+  },
+  {
+    "post": "Financial_Express/3455303",
+    "datetime": "2026-09-11T06:15:16+00:00",
+    "views": "32",
+    "text": "韩国首尔中央地方法院 9 月 11 日对前总统尹锡悦涉嫌使犯罪嫌疑人逃避司法追究等一案作出一审判决，判处尹锡悦无罪。（新华社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455303"
+  },
+  {
+    "post": "Financial_Express/3455301",
+    "datetime": "2026-09-11T06:15:03+00:00",
+    "views": "32",
+    "text": "现货黄金日内涨 1%，现报 4359.91 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455301"
+  },
+  {
+    "post": "Financial_Express/3455302",
+    "datetime": "2026-09-11T06:15:03+00:00",
+    "views": "32",
+    "text": "欧洲央行管理委员会成员 KAASIK：很难说几年后我们能否回到 2%的水平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455302"
+  },
+  {
+    "post": "Financial_Express/3455300",
+    "datetime": "2026-09-11T06:15:02+00:00",
+    "views": "32",
+    "text": "欧洲央行管理委员会成员 KAASIK：通货膨胀率到明年年底可能会回升至 2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455300"
+  },
+  {
     "post": "Financial_Express/3455299",
     "datetime": "2026-09-11T06:14:42+00:00",
-    "views": "1",
+    "views": "32",
     "text": "巴基斯坦消息人士称，伊朗外长与巴基斯坦陆军参谋长的会谈重点围绕美伊战争、重返谈判的可能性以及胡塞武装对沙特阿拉伯的袭击展开。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3455298",
     "datetime": "2026-09-11T06:14:23+00:00",
-    "views": "1",
+    "views": "32",
     "text": "小摩：维持宁德时代“增持”评级，相信市场地位未受损\n摩根大通发表报告指，相信 2027 年不会重演 2023 至 2024 年产能过剩的周期，维持宁德时代“增持”评级，目标价 725 港元，指出其在中国电动车电池市占率由去年的 44%，进一步提升至今年上半年的 48%，相信其市场地位未受损，维持今明两年净利润预测为 950 亿及 1,160 亿元。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +92,8 @@
   {
     "post": "Financial_Express/3455297",
     "datetime": "2026-09-11T06:14:22+00:00",
-    "views": "1",
-    "text": "巴基斯坦消息人士：伊朗外交部长与巴基斯坦军方首席讨论了恢复外交努力以在各个方面缓解冲突的途径。",
+    "views": "32",
+    "text": "巴基斯坦消息人士：伊朗外交部长与巴基斯坦军方首席讨论了恢复外交努力以在各个方面缓解冲突的途径。双方的会谈聚焦于美伊战争、重返谈判的可能性，以及胡塞武装对沙特阿拉伯的袭击。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3455297"
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3455296",
     "datetime": "2026-09-11T06:14:02+00:00",
-    "views": "1",
+    "views": "32",
     "text": "巴基斯坦消息源：伊朗外长与巴基斯坦陆军参谋长讨论了设法恢复外交努力，以在各战线缓和冲突。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3455295",
     "datetime": "2026-09-11T06:13:48+00:00",
-    "views": "2",
+    "views": "32",
     "text": "俄罗斯联邦储蓄银行首席执行官：俄罗斯企业在与印度本币结算双边贸易中卢比过剩囤积的问题已不复存在。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3455294",
     "datetime": "2026-09-11T06:13:44+00:00",
-    "views": "2",
+    "views": "32",
     "text": "今日上午，A 股调整幅度有所加大。何以出现“外围小跌、A 股大跌”的背离？市场专业人士认为，更多来自情绪面的放大，而非估值或盈利的实质变化。在外围扰动加大的情况下，部分投资者信心仍待修复，容易在短期波动中产生恐慌情绪、跟风操作。有受访专家表示：“外部因素只是短期扰动，真正决定市场韧性的还是社会经济改革发展成效。总的来看 A 股基本面、政策面和资金面均稳健向好，外部扰动因素并不改变市场的内在韧性。”对于内在韧性来说，最核心的支撑是中国资产的安全溢价和强劲韧性。（上证报）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3455293",
     "datetime": "2026-09-11T06:13:43+00:00",
-    "views": "2",
+    "views": "32",
     "text": "乌克兰部长表示，乌克兰现有油籽加工产能为 2000 万吨，而当前加工需求为 1600 万吨。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3455290",
     "datetime": "2026-09-11T06:13:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "澳大利亚 S&P/ASX 200 指数收盘下跌 0.9%，报 8741.20 点。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3455291",
     "datetime": "2026-09-11T06:13:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "纽约期金突破 4400 美元/盎司，日内跌 0.17%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3455289",
     "datetime": "2026-09-11T06:13:23+00:00",
-    "views": "2",
+    "views": "32",
     "text": "霍尔木兹海峡燃料出口恢复缓慢 价格维持在历史高位附近\n经过霍尔木兹海峡的石油产品出口正在缓慢恢复，但恢复速度不足以阻止燃油价格飙升，这给世界各地的消费者增加了负担。根据维多集团首席执行官 Russell Hardy，以及本周在新加坡举行的会议上其他一些贸易商的看法，该地区目前每天至少有 100 万桶油品通过这条水道运输。油轮追踪机构 Vortexa 的数据显示的水平相近，而战前水平约为 400 万桶/天（不包括液化石油气）。与原油出口已恢复至战前水平一半左右相比，油品的恢复较慢，这导致柴油等燃料的价格飙升，直接影响通货膨胀和生活成本。乌克兰对俄罗斯炼油厂的袭击加剧了市场上的燃料短缺。科威特石油公司国际营销总经理 Shaikh Khaled Al Sabah 在新加坡举行的标普全球能源亚太石油会议上表示：“要取代来自海湾地区的那些产品绝非易事。”",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3455287",
     "datetime": "2026-09-11T06:12:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "欧洲央行管理委员会成员 KAASIK：目前的利率水平对经济发展的限制并不大。",
     "media_only": false,
     "image_url": null,
@@ -59380,23 +59452,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3448452"
-  },
-  {
-    "post": "Financial_Express/3448451",
-    "datetime": "2026-09-09T06:16:22+00:00",
-    "views": "36",
-    "text": "摩根士丹利：地缘风险令石油交易员对长期头寸日益谨慎\n金十数据 9 月 9 日讯，摩根士丹利全球石油交易联席主管布伦丹·罗斯表示，随着俄乌和中东战争使未来数月的前景蒙上阴影，石油交易员对长期头寸日益谨慎。交易员正将衍生品头寸集中在较短的时间范围内，并对风险变得更加冷静客观。随着地缘政治风险上升，他们现在更具选择性，从广泛的衍生品敞口转向特定工具。罗斯表示：“人们对风险的把控更加精准。他们明确了自己真正想要什么，以及哪些是意料之外的无谓损耗。这导致市场流动性不足，尤其是长期合约。”“人们实际上只是在交易未来三到六个月的市场，然后流动性不足又进一步循环加剧了流动性问题。就实物与金融的脱节而言，显然主要集中在成品油市场。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3448451"
-  },
-  {
-    "post": "Financial_Express/3448450",
-    "datetime": "2026-09-09T06:15:42+00:00",
-    "views": "37",
-    "text": "地平线 HSD 核心负责人张颖创业\n地平线 HSD 核心技术负责人张颖创业，担任公司创始人兼 CEO，聚焦 Physical Al。据了解，该公司以对标 Generalist AI 等北美前沿公司为目标，以 AI for Physical AI 为研发范式，Auto Research 系统为核心引擎，聚焦通用物理 AGI 研发，希望提升模型在新任务、新场景中的零样本（Zero-shot）、少样本（Few-shot）泛化与执行能力，推动通用物理智能走向规模化商业应用。（雷峰网）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3448450"
   }
 ]
