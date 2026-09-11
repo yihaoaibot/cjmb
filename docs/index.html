@@ -1,5 +1,83 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-11T09:13:06.245002+00:00","clsvipUpdated":"2026-09-11T09:13:13.467336+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月11日</h2><div class="feed"><article class="item" data-search="九州通：控股股东上层股权变动 新增一致行动人
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-11T09:15:10.240346+00:00","clsvipUpdated":"2026-09-11T09:15:24.015595+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月11日</h2><div class="feed"><article class="item" data-search="黑龙江鸡西丰源矿业水害事故调查报告公布。（新华社）"><div class="time">17:14</div><div class="content"><div class="text" data-full="黑龙江鸡西丰源矿业水害事故调查报告公布。（新华社）" data-short="黑龙江鸡西丰源矿业水害事故调查报告公布。（新华社）">黑龙江鸡西丰源矿业水害事故调查报告公布。（新华社）</div></div></article><article class="item" data-search="法国财政部长莱斯屈尔：让-吕克·梅朗雄提出的债务取消提议属于非法行为，且与欧盟条约相悖。"><div class="time">17:14</div><div class="content"><div class="text" data-full="法国财政部长莱斯屈尔：让-吕克·梅朗雄提出的债务取消提议属于非法行为，且与欧盟条约相悖。" data-short="法国财政部长莱斯屈尔：让-吕克·梅朗雄提出的债务取消提议属于非法行为，且与欧盟条约相悖。">法国财政部长莱斯屈尔：让-吕克·梅朗雄提出的债务取消提议属于非法行为，且与欧盟条约相悖。</div></div></article><article class="item" data-search="挪威开设驻卡塔尔大使馆，关闭驻马拉维使馆"><div class="time">17:14</div><div class="content"><div class="text" data-full="挪威开设驻卡塔尔大使馆，关闭驻马拉维使馆" data-short="挪威开设驻卡塔尔大使馆，关闭驻马拉维使馆">挪威开设驻卡塔尔大使馆，关闭驻马拉维使馆</div></div></article><article class="item" data-search="特朗普一日动态
+
+1. 北京时间 9 月 10 日 21:00 起｜达拉斯住所：处理公务并接受采访
+特朗普在接受采访时表示，尽管对伊朗的战争可能影响即将到来的美国中期选举，但他并不后悔发动这场战争。他称自己“不认同‘后悔’这个词”，并表示，“如果重新来过，我会完全按照之前的方式去做”。
+
+2. 北京时间 9 月 11 日 00:59—03:10｜得州阿灵顿：参观美国国家荣誉勋章博物馆并接受采访
+特朗普参观美国国家荣誉勋章博物馆并发表讲话。其间接受采访时，他表示，向美国成年人发放 5000 美元款项无需获得国会批准。
+
+3. 北京时间 9 月 11 日 06:05—10:54｜达拉斯美国航空中心：出席共和党中期选举大会
+特朗普出席共和党中期选举大会，并于北京时间 09:45 发表闭幕讲话谈及多个议题。
+
+在选举和经济议题上，特朗普表示，如果共和党在中期选举中赢得参众两院，将向每名美国成年人发放 5000 美元红利，特朗普将其称为”特朗普红利“；他还称，将前往所有选情胶着的州为共和党助选。在被问及美国联邦债务突破 40 万亿美元时，特朗普表示，将通过经济增长解决债务问题。
+
+谈及伊朗局势时，特朗普称，美国正在控制他所谓的“特朗普海峡”，即霍尔木兹海峡，并表示伊朗“正在各个方面节节败退”。
+
+特朗普还自称是“美国历史上最伟大的总统”。此外，他带领现场支持者进行了一场“模拟宣誓”，号召他们在 11 月初的中期选举中“像民主党一样拼命作弊”，无论“是否登记”都去投票，并调侃称不投票的人会“下地狱”。
+
+4. 北京时间 9 月 11 日 11:20｜达拉斯-沃斯堡国际机场：登机前集中接受媒体采访
+特朗普在登上空军一号返回华盛顿前接受媒体采访。
+
+他表示，美伊战争将在中期选举结束后终止，届时油价将下跌；同时警告伊朗不要在核问题上“耍花招”。谈及俄罗斯时，特朗普表示，他与俄罗斯总统普京进行了“很好的交谈”，双方可能举行双边会晤。
+
+特朗普还称，委内瑞拉正在帮助美国增加石油储备，并重申将推动其减税政策永久化。此外，他再次提议将霍尔木兹海峡更名为“特朗普海峡”，并将新墨西哥州更名为“新美国州”。
+
+行程之外的重要动态
+1. 两名美国官员表示，沙特王储兼首相穆罕默德当天两次致电特朗普，敦促美国对也门胡塞武装发动打击，但特朗普拒绝了这一要求。
+2. 加拿大总理卡尼表示，近日与特朗普进行了“几次”交谈。"><div class="time">17:14</div><div class="content"><div class="text" data-full="特朗普一日动态
+
+1. 北京时间 9 月 10 日 21:00 起｜达拉斯住所：处理公务并接受采访
+特朗普在接受采访时表示，尽管对伊朗的战争可能影响即将到来的美国中期选举，但他并不后悔发动这场战争。他称自己“不认同‘后悔’这个词”，并表示，“如果重新来过，我会完全按照之前的方式去做”。
+
+2. 北京时间 9 月 11 日 00:59—03:10｜得州阿灵顿：参观美国国家荣誉勋章博物馆并接受采访
+特朗普参观美国国家荣誉勋章博物馆并发表讲话。其间接受采访时，他表示，向美国成年人发放 5000 美元款项无需获得国会批准。
+
+3. 北京时间 9 月 11 日 06:05—10:54｜达拉斯美国航空中心：出席共和党中期选举大会
+特朗普出席共和党中期选举大会，并于北京时间 09:45 发表闭幕讲话谈及多个议题。
+
+在选举和经济议题上，特朗普表示，如果共和党在中期选举中赢得参众两院，将向每名美国成年人发放 5000 美元红利，特朗普将其称为”特朗普红利“；他还称，将前往所有选情胶着的州为共和党助选。在被问及美国联邦债务突破 40 万亿美元时，特朗普表示，将通过经济增长解决债务问题。
+
+谈及伊朗局势时，特朗普称，美国正在控制他所谓的“特朗普海峡”，即霍尔木兹海峡，并表示伊朗“正在各个方面节节败退”。
+
+特朗普还自称是“美国历史上最伟大的总统”。此外，他带领现场支持者进行了一场“模拟宣誓”，号召他们在 11 月初的中期选举中“像民主党一样拼命作弊”，无论“是否登记”都去投票，并调侃称不投票的人会“下地狱”。
+
+4. 北京时间 9 月 11 日 11:20｜达拉斯-沃斯堡国际机场：登机前集中接受媒体采访
+特朗普在登上空军一号返回华盛顿前接受媒体采访。
+
+他表示，美伊战争将在中期选举结束后终止，届时油价将下跌；同时警告伊朗不要在核问题上“耍花招”。谈及俄罗斯时，特朗普表示，他与俄罗斯总统普京进行了“很好的交谈”，双方可能举行双边会晤。
+
+特朗普还称，委内瑞拉正在帮助美国增加石油储备，并重申将推动其减税政策永久化。此外，他再次提议将霍尔木兹海峡更名为“特朗普海峡”，并将新墨西哥州更名为“新美国州”。
+
+行程之外的重要动态
+1. 两名美国官员表示，沙特王储兼首相穆罕默德当天两次致电特朗普，敦促美国对也门胡塞武装发动打击，但特朗普拒绝了这一要求。
+2. 加拿大总理卡尼表示，近日与特朗普进行了“几次”交谈。" data-short="特朗普一日动态
+
+1. 北京时间 9 月 10 日 21:00 起｜达拉斯住所：处理公务并接受采访
+特朗普在接受采访时表示，尽管对伊朗的战争可能影响即将到来的美国中期选举，但他并不后悔发动这场战争。他称自己“不认同‘后悔’这个词”，并表示，“如果重新来过，我会完全按照之前的方式去做”。
+
+2. 北京时间 9 月 11 日 00:59—03:10｜得州阿灵顿：...">特朗普一日动态
+
+1. 北京时间 9 月 10 日 21:00 起｜达拉斯住所：处理公务并接受采访
+特朗普在接受采访时表示，尽管对伊朗的战争可能影响即将到来的美国中期选举，但他并不后悔发动这场战争。他称自己“不认同‘后悔’这个词”，并表示，“如果重新来过，我会完全按照之前的方式去做”。
+
+2. 北京时间 9 月 11 日 00:59—03:10｜得州阿灵顿：...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="复星医药：控股子公司 hlx14 120mg 规格注册申请获受理
+金十数据 9 月 11 日讯，复星医药公告，控股子公司上海复宏汉霖及其控股子公司自主研发的地舒单抗生物类似药 hlx14 120mg（1.7ml）/瓶规格药品注册申请近日获国家药监局受理，申报适应症为参照药安加维于中国境内已获批上市的所有适应症。截至 2026 年 8 月，集团针对 hlx14 累计研发投入约为 3.52 亿元（未经审计）。"><div class="time">17:14</div><div class="content"><div class="text" data-full="复星医药：控股子公司 HLX14 120mg 规格注册申请获受理
+金十数据 9 月 11 日讯，复星医药公告，控股子公司上海复宏汉霖及其控股子公司自主研发的地舒单抗生物类似药 HLX14 120mg（1.7ml）/瓶规格药品注册申请近日获国家药监局受理，申报适应症为参照药安加维于中国境内已获批上市的所有适应症。截至 2026 年 8 月，集团针对 HLX14 累计研发投入约为 3.52 亿元（未经审计）。" data-short="复星医药：控股子公司 HLX14 120mg 规格注册申请获受理
+金十数据 9 月 11 日讯，复星医药公告，控股子公司上海复宏汉霖及其控股子公司自主研发的地舒单抗生物类似药 HLX14 120mg（1.7ml）/瓶规格药品注册申请近日获国家药监局受理，申报适应症为参照药安加维于中国境内已获批上市的所有适应症。截至 2026 年 8 月，集团针对 HLX14...">复星医药：控股子公司 HLX14 120mg 规格注册申请获受理
+金十数据 9 月 11 日讯，复星医药公告，控股子公司上海复宏汉霖及其控股子公司自主研发的地舒单抗生物类似药 HLX14 120mg（1.7ml）/瓶规格药品注册申请近日获国家药监局受理，申报适应症为参照药安加维于中国境内已获批上市的所有适应症。截至 2026 年 8 月，集团针对 HLX14...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="卧龙电驱：累计回购股份 0.07% 耗资 2951.89 万元
+卧龙电驱公告称，公司回购股份方案于 2026 年 7 月 24 日审议通过，拟使用 5000 万元-10000 万元自有资金以集中竞价方式回购股份，用于员工持股计划或股权激励，回购价格不超过 51.03 元/股，回购期限为董事会审议通过之日起 12 个月。2026 年 9 月 1 日至 9 月 11 日，公司回购股份 74.97 万股，占总股本 0.05%，成交价格区间 26.95 元/股-28.84 元/股，支付资金 2137.48 万元。截至 2026 年 9 月 11 日，公司累计回购股份 102.97 万股，占总股本 0.07%，成交价格区间 26.95 元/股-29.14 元/股，累计支付资金 2951.89 万元。"><div class="time">17:13</div><div class="content"><div class="text" data-full="卧龙电驱：累计回购股份 0.07% 耗资 2951.89 万元
+卧龙电驱公告称，公司回购股份方案于 2026 年 7 月 24 日审议通过，拟使用 5000 万元-10000 万元自有资金以集中竞价方式回购股份，用于员工持股计划或股权激励，回购价格不超过 51.03 元/股，回购期限为董事会审议通过之日起 12 个月。2026 年 9 月 1 日至 9 月 11 日，公司回购股份 74.97 万股，占总股本 0.05%，成交价格区间 26.95 元/股-28.84 元/股，支付资金 2137.48 万元。截至 2026 年 9 月 11 日，公司累计回购股份 102.97 万股，占总股本 0.07%，成交价格区间 26.95 元/股-29.14 元/股，累计支付资金 2951.89 万元。" data-short="卧龙电驱：累计回购股份 0.07% 耗资 2951.89 万元
+卧龙电驱公告称，公司回购股份方案于 2026 年 7 月 24 日审议通过，拟使用 5000 万元-10000 万元自有资金以集中竞价方式回购股份，用于员工持股计划或股权激励，回购价格不超过 51.03 元/股，回购期限为董事会审议通过之日起 12 个月。2026 年 9 月 1 日至 9 月...">卧龙电驱：累计回购股份 0.07% 耗资 2951.89 万元
+卧龙电驱公告称，公司回购股份方案于 2026 年 7 月 24 日审议通过，拟使用 5000 万元-10000 万元自有资金以集中竞价方式回购股份，用于员工持股计划或股权激励，回购价格不超过 51.03 元/股，回购期限为董事会审议通过之日起 12 个月。2026 年 9 月 1 日至 9 月...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="匈牙利财长：匈牙利具备下调利息支出的空间。"><div class="time">17:13</div><div class="content"><div class="text" data-full="匈牙利财长：匈牙利具备下调利息支出的空间。" data-short="匈牙利财长：匈牙利具备下调利息支出的空间。">匈牙利财长：匈牙利具备下调利息支出的空间。</div></div></article><article class="item" data-search="湖南海利：控股股东增持 1%股份 持股比例升至 26%
+湖南海利公告称，公司控股股东湖南海利高新技术产业集团有限公司于 2026 年 8 月 6 日至 9 月 11 日通过集中竞价方式增持公司股份 553.85 万股，占公司总股本的 1.00%。增持后海利集团持股比例由 25.00%增至 26.00%，本次权益变动为履行此前披露的增持计划，目前增持计划仍在实施中，本次变动不会导致公司控股股东及实控人发生变化。"><div class="time">17:13</div><div class="content"><div class="text" data-full="湖南海利：控股股东增持 1%股份 持股比例升至 26%
+湖南海利公告称，公司控股股东湖南海利高新技术产业集团有限公司于 2026 年 8 月 6 日至 9 月 11 日通过集中竞价方式增持公司股份 553.85 万股，占公司总股本的 1.00%。增持后海利集团持股比例由 25.00%增至 26.00%，本次权益变动为履行此前披露的增持计划，目前增持计划仍在实施中，本次变动不会导致公司控股股东及实控人发生变化。" data-short="湖南海利：控股股东增持 1%股份 持股比例升至 26%
+湖南海利公告称，公司控股股东湖南海利高新技术产业集团有限公司于 2026 年 8 月 6 日至 9 月 11 日通过集中竞价方式增持公司股份 553.85 万股，占公司总股本的 1.00%。增持后海利集团持股比例由 25.00%增至 26.00%，本次权益变动为履行此前披露的增持计划，目前增持计划仍在实...">湖南海利：控股股东增持 1%股份 持股比例升至 26%
+湖南海利公告称，公司控股股东湖南海利高新技术产业集团有限公司于 2026 年 8 月 6 日至 9 月 11 日通过集中竞价方式增持公司股份 553.85 万股，占公司总股本的 1.00%。增持后海利集团持股比例由 25.00%增至 26.00%，本次权益变动为履行此前披露的增持计划，目前增持计划仍在实...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="欧洲气价从 2022 年底以来高点回落 冬季补库担忧仍存
+目前欧盟天然气库存水平为 67.64%，比过去五年的平均水平低 16.2 个百分点。伯恩斯坦分析师指出，若要将库存水平追赶至 11 月初 90%的五年平均水平，需要额外注入超过 100 太瓦时（twh）的天然气——按当前价格计算价值约 70 亿欧元，而欧洲自 2022 年危机以来从未尝试过如此高的注气速度。"><div class="time">17:13</div><div class="content"><div class="text" data-full="欧洲气价从 2022 年底以来高点回落 冬季补库担忧仍存
+目前欧盟天然气库存水平为 67.64%，比过去五年的平均水平低 16.2 个百分点。伯恩斯坦分析师指出，若要将库存水平追赶至 11 月初 90%的五年平均水平，需要额外注入超过 100 太瓦时（TWh）的天然气——按当前价格计算价值约 70 亿欧元，而欧洲自 2022 年危机以来从未尝试过如此高的注气速度。" data-short="欧洲气价从 2022 年底以来高点回落 冬季补库担忧仍存
+目前欧盟天然气库存水平为 67.64%，比过去五年的平均水平低 16.2 个百分点。伯恩斯坦分析师指出，若要将库存水平追赶至 11 月初 90%的五年平均水平，需要额外注入超过 100 太瓦时（TWh）的天然气——按当前价格计算价值约 70 亿欧元，而欧洲自 2022 年危机以来从未尝试过如此高的注气...">欧洲气价从 2022 年底以来高点回落 冬季补库担忧仍存
+目前欧盟天然气库存水平为 67.64%，比过去五年的平均水平低 16.2 个百分点。伯恩斯坦分析师指出，若要将库存水平追赶至 11 月初 90%的五年平均水平，需要额外注入超过 100 太瓦时（TWh）的天然气——按当前价格计算价值约 70 亿欧元，而欧洲自 2022 年危机以来从未尝试过如此高的注气...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="九州通：控股股东上层股权变动 新增一致行动人
 九州通公告称，公司控股股东楚昌集团获上海均大恒昌公司增资，增资完成后楚昌集团注册资本增至 11253.47 万元，上海均大恒昌持股 1.0028%，刘宝林、刘树林、刘兆年分别持股 50.8233%、25.5976%、22.5763%。上海均大恒昌实控人为刘宝林，已签署一致行动协议加入成为一致行动人。本次变动为实控人内部持股调整，不涉及公司股份转让，控股股东、实控人及合计持股比例均不变，尚需办理工商变更登记。"><div class="time">17:13</div><div class="content"><div class="text" data-full="九州通：控股股东上层股权变动 新增一致行动人
 九州通公告称，公司控股股东楚昌集团获上海均大恒昌公司增资，增资完成后楚昌集团注册资本增至 11253.47 万元，上海均大恒昌持股 1.0028%，刘宝林、刘树林、刘兆年分别持股 50.8233%、25.5976%、22.5763%。上海均大恒昌实控人为刘宝林，已签署一致行动协议加入成为一致行动人。本次变动为实控人内部持股调整，不涉及公司股份转让，控股股东、实控人及合计持股比例均不变，尚需办理工商变更登记。" data-short="九州通：控股股东上层股权变动 新增一致行动人
 九州通公告称，公司控股股东楚昌集团获上海均大恒昌公司增资，增资完成后楚昌集团注册资本增至 11253.47 万元，上海均大恒昌持股 1.0028%，刘宝林、刘树林、刘兆年分别持股 50.8233%、25.5976%、22.5763%。上海均大恒昌实控人为刘宝林，已签署一致行动协议加入成为一致行动人。本次变动为实控...">九州通：控股股东上层股权变动 新增一致行动人
@@ -677,23 +755,7 @@ IEA 月报：全球石油库存正以创纪录的速度减少。预计 2027 年�
 国际能源署（iea）表示，2026 年全球石油需求将下降 250 万桶/日（之前预测为下降 160 万桶/日），原因是美伊谈判在解决冲突方面陷入僵局，预计 2026 年全球石油供应将比需求低 174 万桶/日（之前预测为低 127 万桶/日）。目前预计，海湾产油国的石油供应全面恢复将推迟至 2027 年。为避免石油市场进一步收紧，解决中东及俄乌冲突取得进展的必要性比以往任何时候都更为迫切。2026 年全球石油供应预计平均为 1.007 亿桶/日，较 2025 年下降 570 万桶/日，比此前预测低 130 万桶/日。"><div class="time">16:03</div><div class="content"><div class="text" data-full="IEA 月报：海湾产油国的石油供应全面恢复将推迟至 2027 年
 国际能源署（IEA）表示，2026 年全球石油需求将下降 250 万桶/日（之前预测为下降 160 万桶/日），原因是美伊谈判在解决冲突方面陷入僵局，预计 2026 年全球石油供应将比需求低 174 万桶/日（之前预测为低 127 万桶/日）。目前预计，海湾产油国的石油供应全面恢复将推迟至 2027 年。为避免石油市场进一步收紧，解决中东及俄乌冲突取得进展的必要性比以往任何时候都更为迫切。2026 年全球石油供应预计平均为 1.007 亿桶/日，较 2025 年下降 570 万桶/日，比此前预测低 130 万桶/日。" data-short="IEA 月报：海湾产油国的石油供应全面恢复将推迟至 2027 年
 国际能源署（IEA）表示，2026 年全球石油需求将下降 250 万桶/日（之前预测为下降 160 万桶/日），原因是美伊谈判在解决冲突方面陷入僵局，预计 2026 年全球石油供应将比需求低 174 万桶/日（之前预测为低 127 万桶/日）。目前预计，海湾产油国的石油供应全面恢复将推迟至 2...">IEA 月报：海湾产油国的石油供应全面恢复将推迟至 2027 年
-国际能源署（IEA）表示，2026 年全球石油需求将下降 250 万桶/日（之前预测为下降 160 万桶/日），原因是美伊谈判在解决冲突方面陷入僵局，预计 2026 年全球石油供应将比需求低 174 万桶/日（之前预测为低 127 万桶/日）。目前预计，海湾产油国的石油供应全面恢复将推迟至 2...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="近年来，中国对金砖国家直接投资稳步增长。截至 2025 年末，中国对金砖国家直接投资存量 820 亿美元。今年 1 至 7 月，中国对金砖国家直接投资约 40 亿美元，主要投向制造、建筑、电力等领域。（央视新闻）"><div class="time">16:03</div><div class="content"><div class="text" data-full="近年来，中国对金砖国家直接投资稳步增长。截至 2025 年末，中国对金砖国家直接投资存量 820 亿美元。今年 1 至 7 月，中国对金砖国家直接投资约 40 亿美元，主要投向制造、建筑、电力等领域。（央视新闻）" data-short="近年来，中国对金砖国家直接投资稳步增长。截至 2025 年末，中国对金砖国家直接投资存量 820 亿美元。今年 1 至 7 月，中国对金砖国家直接投资约 40 亿美元，主要投向制造、建筑、电力等领域。（央视新闻）">近年来，中国对金砖国家直接投资稳步增长。截至 2025 年末，中国对金砖国家直接投资存量 820 亿美元。今年 1 至 7 月，中国对金砖国家直接投资约 40 亿美元，主要投向制造、建筑、电力等领域。（央视新闻）</div></div></article><article class="item" data-search="伦敦金属交易所(lme)：铅库存减少 2350 吨，锌库存减少 1775 吨，镍库存增加 2820 吨，锡库存增加 45 吨，铜库存减少 275 吨，铝库存减少 250 吨。"><div class="time">16:03</div><div class="content"><div class="text" data-full="伦敦金属交易所(LME)：铅库存减少 2350 吨，锌库存减少 1775 吨，镍库存增加 2820 吨，锡库存增加 45 吨，铜库存减少 275 吨，铝库存减少 250 吨。" data-short="伦敦金属交易所(LME)：铅库存减少 2350 吨，锌库存减少 1775 吨，镍库存增加 2820 吨，锡库存增加 45 吨，铜库存减少 275 吨，铝库存减少 250 吨。">伦敦金属交易所(LME)：铅库存减少 2350 吨，锌库存减少 1775 吨，镍库存增加 2820 吨，锡库存增加 45 吨，铜库存减少 275 吨，铝库存减少 250 吨。</div></div></article><article class="item" data-search="福安药业：庆余堂获 2 项药品注册证书
-福安药业公告，全资子公司庆余堂近日收到国家药品监督管理局签发的注射用赖氨匹林药品注册证书，规格为 0.5g、0.9g，批准文号分别为国药准字 h20265919、国药准字 h20265920。该药品共有 11 家企业通过一致性评价或视同通过一致性评价。"><div class="time">16:03</div><div class="content"><div class="text" data-full="福安药业：庆余堂获 2 项药品注册证书
-福安药业公告，全资子公司庆余堂近日收到国家药品监督管理局签发的注射用赖氨匹林药品注册证书，规格为 0.5g、0.9g，批准文号分别为国药准字 H20265919、国药准字 H20265920。该药品共有 11 家企业通过一致性评价或视同通过一致性评价。" data-short="福安药业：庆余堂获 2 项药品注册证书
-福安药业公告，全资子公司庆余堂近日收到国家药品监督管理局签发的注射用赖氨匹林药品注册证书，规格为 0.5g、0.9g，批准文号分别为国药准字 H20265919、国药准字 H20265920。该药品共有 11 家企业通过一致性评价或视同通过一致性评价。">福安药业：庆余堂获 2 项药品注册证书
-福安药业公告，全资子公司庆余堂近日收到国家药品监督管理局签发的注射用赖氨匹林药品注册证书，规格为 0.5g、0.9g，批准文号分别为国药准字 H20265919、国药准字 H20265920。该药品共有 11 家企业通过一致性评价或视同通过一致性评价。</div></div></article><article class="item" data-search="法国政府将把 2026 年经济增长预期下调至 0.5%。"><div class="time">16:03</div><div class="content"><div class="text" data-full="法国政府将把 2026 年经济增长预期下调至 0.5%。" data-short="法国政府将把 2026 年经济增长预期下调至 0.5%。">法国政府将把 2026 年经济增长预期下调至 0.5%。</div></div></article><article class="item" data-search="iea：经合组织炼油产能承压，柴油市场将进一步收紧
-中东与俄罗斯柴油出口总量锐减至 52 万桶/日，同比降幅接近 75%。"><div class="time">16:03</div><div class="content"><div class="text" data-full="IEA：经合组织炼油产能承压，柴油市场将进一步收紧
-中东与俄罗斯柴油出口总量锐减至 52 万桶/日，同比降幅接近 75%。" data-short="IEA：经合组织炼油产能承压，柴油市场将进一步收紧
-中东与俄罗斯柴油出口总量锐减至 52 万桶/日，同比降幅接近 75%。">IEA：经合组织炼油产能承压，柴油市场将进一步收紧
-中东与俄罗斯柴油出口总量锐减至 52 万桶/日，同比降幅接近 75%。</div></div></article><article class="item" data-search="iea：今年全球石油供需缺口将比此前预期更大
-金十数据 9 月 11 日讯，国际能源署（iea）月报报告称，今年全球石油供需缺口将比此前预期更大，因结束伊朗战争缺乏进展，使中东石油流量恢复正常的时间推迟至 2027 年，并导致燃料价格飙升。迄今为止，库存对平衡市场发挥了关键作用。随着缓冲减少、全球炼油系统被拉伸至极限，解决中东冲突以及已进入第五年的俄乌战争的必要性比以往任何时候都更大，以避免市场进一步收紧。"><div class="time">16:03</div><div class="content"><div class="text" data-full="IEA：今年全球石油供需缺口将比此前预期更大
-金十数据 9 月 11 日讯，国际能源署（IEA）月报报告称，今年全球石油供需缺口将比此前预期更大，因结束伊朗战争缺乏进展，使中东石油流量恢复正常的时间推迟至 2027 年，并导致燃料价格飙升。迄今为止，库存对平衡市场发挥了关键作用。随着缓冲减少、全球炼油系统被拉伸至极限，解决中东冲突以及已进入第五年的俄乌战争的必要性比以往任何时候都更大，以避免市场进一步收紧。" data-short="IEA：今年全球石油供需缺口将比此前预期更大
-金十数据 9 月 11 日讯，国际能源署（IEA）月报报告称，今年全球石油供需缺口将比此前预期更大，因结束伊朗战争缺乏进展，使中东石油流量恢复正常的时间推迟至 2027 年，并导致燃料价格飙升。迄今为止，库存对平衡市场发挥了关键作用。随着缓冲减少、全球炼油系统被拉伸至极限，解决中东冲突以及已进入第五年的俄乌战争的...">IEA：今年全球石油供需缺口将比此前预期更大
-金十数据 9 月 11 日讯，国际能源署（IEA）月报报告称，今年全球石油供需缺口将比此前预期更大，因结束伊朗战争缺乏进展，使中东石油流量恢复正常的时间推迟至 2027 年，并导致燃料价格飙升。迄今为止，库存对平衡市场发挥了关键作用。随着缓冲减少、全球炼油系统被拉伸至极限，解决中东冲突以及已进入第五年的俄乌战争的...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="iea 月报：8 月全球可观测石油库存进一步下降 9500 万桶。"><div class="time">16:02</div><div class="content"><div class="text" data-full="IEA 月报：8 月全球可观测石油库存进一步下降 9500 万桶。" data-short="IEA 月报：8 月全球可观测石油库存进一步下降 9500 万桶。">IEA 月报：8 月全球可观测石油库存进一步下降 9500 万桶。</div></div></article><article class="item" data-search="iea 月报：由于乌克兰持续的打击，将俄罗斯 2026 年石油产量预测下调 12.5 万桶/日至 870 万桶/日，并将 2027 年预测下调 23.5 万桶/日至 860 万桶/日。"><div class="time">16:02</div><div class="content"><div class="text" data-full="IEA 月报：由于乌克兰持续的打击，将俄罗斯 2026 年石油产量预测下调 12.5 万桶/日至 870 万桶/日，并将 2027 年预测下调 23.5 万桶/日至 860 万桶/日。" data-short="IEA 月报：由于乌克兰持续的打击，将俄罗斯 2026 年石油产量预测下调 12.5 万桶/日至 870 万桶/日，并将 2027 年预测下调 23.5 万桶/日至 860 万桶/日。">IEA 月报：由于乌克兰持续的打击，将俄罗斯 2026 年石油产量预测下调 12.5 万桶/日至 870 万桶/日，并将 2027 年预测下调 23.5 万桶/日至 860 万桶/日。</div></div></article><article class="item" data-search="iea 月报：8 月全球观测到的石油库存下降 310 万桶/日。
-自 2 月以来全球石油库存平均下降 280 万桶/日。"><div class="time">16:01</div><div class="content"><div class="text" data-full="IEA 月报：8 月全球观测到的石油库存下降 310 万桶/日。
-自 2 月以来全球石油库存平均下降 280 万桶/日。" data-short="IEA 月报：8 月全球观测到的石油库存下降 310 万桶/日。
-自 2 月以来全球石油库存平均下降 280 万桶/日。">IEA 月报：8 月全球观测到的石油库存下降 310 万桶/日。
-自 2 月以来全球石油库存平均下降 280 万桶/日。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月11日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】ai算力需求旺盛带动该行业景气度持续提升，二季度相关板块净利润同比增超200%，这家企业参股公司拥有自主知识产权，
+国际能源署（IEA）表示，2026 年全球石油需求将下降 250 万桶/日（之前预测为下降 160 万桶/日），原因是美伊谈判在解决冲突方面陷入僵局，预计 2026 年全球石油供应将比需求低 174 万桶/日（之前预测为低 127 万桶/日）。目前预计，海湾产油国的石油供应全面恢复将推迟至 2...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月11日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】ai算力需求旺盛带动该行业景气度持续提升，二季度相关板块净利润同比增超200%，这家企业参股公司拥有自主知识产权，
 
 #德尔股份
 #欣旺达
