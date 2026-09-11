@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3455009",
+    "datetime": "2026-09-11T03:48:02+00:00",
+    "views": "2",
+    "text": "瑞芯微：预计三季度业绩保持正常增长趋势\n瑞芯微在 9 月 11 日召开的 2026 年半年度业绩说明会上表示，公司经营情况良好，AIoT 长期增长态势不变，预计三季度业绩保持正常增长趋势。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455009"
+  },
+  {
+    "post": "Financial_Express/3455008",
+    "datetime": "2026-09-11T03:48:00+00:00",
+    "views": "2",
+    "text": "中国财政部发行 5 年期债券，规模 1300 亿元，发行利率 1.3800%，边际利率 1.4052%，预期 1.3900%，投标倍数 3.00 倍，边际倍数 6.73 倍。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455008"
+  },
+  {
+    "post": "Financial_Express/3455007",
+    "datetime": "2026-09-11T03:47:42+00:00",
+    "views": "2",
+    "text": "华安证券副总裁唐泳：券商营业部支撑策略迭代，资管与财管探索深度合作\n9 月 11 日，由证券时报社主办的“2026 金融机构年会暨证券业资产管理论坛”在深圳举行。华安证券副总裁、华安资管董事长唐泳在会上表示，华安资管近几年以三分之一位次的主动管理规模创造了行业十位左右的业务收入，主要得益于母公司营业部渠道收入贡献突出，深层次原因则是配置资产迭代更新过程中，营业部代销渠道给予了充分支持。他指出，华安资管近年来配置资产不断迭代，每类投资策略从初步形成到成熟都需时间沉淀。在外部代销渠道初期难以给予信任的情况下，母公司营业部渠道愿意接纳新策略产品，是对华安资管投研能力最关键支撑。在华安资管投研实力得到验证后，近年来银行渠道参与转债、定增、基金等资产的产品逐步增多，为规模增长也提供了有力支持。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3455007"
+  },
+  {
     "post": "Financial_Express/3455006",
     "datetime": "2026-09-11T03:46:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "新石器 L4 级无人车在日本启动首次测试\n9 月 11 日，界面新闻获悉，新石器已在日本东京平和岛的东京流通中心（TRC）启动封闭场地 L4 级自动驾驶实证测试。这是新石器首次在日本开展 L4 级测试。首批测试车辆已于 8 月 31 日抵达日本，目前在 TRC 指定停车场及 A 栋天台道路运行，后续车辆将分批加入，测试车队规模计划增至 10 台。今年 6 月，新石器加入以 TRC 为据点的平和岛自动驾驶协议会。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3455005",
     "datetime": "2026-09-11T03:45:54+00:00",
-    "views": "2",
+    "views": "32",
     "text": "印度股指 Nifty 指数下跌 1%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3455003",
     "datetime": "2026-09-11T03:45:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "印度 Nifty 指数下跌 1%，至 23,238.95 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3455004",
     "datetime": "2026-09-11T03:45:42+00:00",
-    "views": "2",
+    "views": "33",
     "text": "特朗普被问及是否担心人工智能会导致人类灭绝时表示：“不，我一点也不担心。”",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3454995",
     "datetime": "2026-09-11T03:39:02+00:00",
-    "views": "66",
+    "views": "67",
     "text": "美国总统特朗普：伊朗战争绝不会持续到我的任期结束。",
     "media_only": false,
     "image_url": null,
@@ -58930,59 +58957,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3448215"
-  },
-  {
-    "post": "Financial_Express/3448214",
-    "datetime": "2026-09-09T03:48:23+00:00",
-    "views": "51",
-    "text": "智元发布 AGILE 2.0 感控一体模型\n9 月 9 日，界面新闻获悉，智元发布 AGILE 2.0 感控一体模型（AGIBOT Generative Intelligent Locomotion Engine）。该模型采用视觉端到端方案，将环境感知、地形理解、全身运动控制和操作进一步整合。据智元介绍，搭载该模型的灵犀 X2 已完成踩球行走、跳长绳、协作搬箱等动态任务，用于验证机器人在运动过程中实时感知环境并调整动作的能力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3448214"
-  },
-  {
-    "post": "Financial_Express/3448213",
-    "datetime": "2026-09-09T03:48:22+00:00",
-    "views": "49",
-    "text": "OpenAI 韩国负责人：对 AI 驱动存储芯片热潮将持续充满信心\n金十数据 9 月 9 日讯，据韩联社报道，OpenAI 韩国区域负责人金京勋周三在首尔举行的记者会上表示，人工智能芯片需求预计将持续增长，OpenAI 将继续优先考虑与韩国半导体供应链企业的合作。金京勋表示：“拥有先进的半导体以支持更快、更复杂的 AI 处理至关重要。”他在 OpenAI 本月早些时候发布最新 AI 模型 GPT-6 Astra 后，重申了对 AI 存储芯片热潮的市场乐观情绪。当被问及韩国政府推动投资开发本土前沿 AI 模型时，这位前谷歌高管表示，他对此持“积极看法”，因为这不仅拓宽了用户选择，还有助于培育韩国整个 AI 生态系统——从半导体供应链到 AI 相关人才。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3448213"
-  },
-  {
-    "post": "Financial_Express/3448212",
-    "datetime": "2026-09-09T03:48:02+00:00",
-    "views": "49",
-    "text": "豆包工作上新，支持本地 Office 文件编辑、浏览器录制与回放\n金十数据 9 月 9 日讯，9 月 9 日，豆包工作推出三项新功能：本地 Office 编辑、浏览器录制与回放和任务执行环境自由切换。目前，豆包工作支持对本地 PPT、Excel 的同步编辑，后续也将上线 Word 的编辑能力。此外，无需新建对话，用户可以在任务执行过程中切换不同的“本地电脑”，也可以随时切换到“云电脑”执行环境，将任务同步到云端。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3448212"
-  },
-  {
-    "post": "Financial_Express/3448211",
-    "datetime": "2026-09-09T03:47:42+00:00",
-    "views": "51",
-    "text": "印度 NIFTY IT 指数跌幅扩大至 3%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3448211"
-  },
-  {
-    "post": "Financial_Express/3448210",
-    "datetime": "2026-09-09T03:47:03+00:00",
-    "views": "52",
-    "text": "豆包工作上新，支持本地 Office 文件编辑、浏览器录制与回放\n9 月 9 日，豆包工作推出三项新功能：本地 Office 编辑、浏览器录制与回放和任务执行环境自由切换。目前，豆包工作支持对本地 PPT、Excel 的同步编辑，后续也将上线 Word 的编辑能力。此外，无需新建对话，用户可以在任务执行过程中切换不同的“本地电脑”，也可以随时切换到“云电脑”执行环境，将任务同步到云端。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3448210"
-  },
-  {
-    "post": "Financial_Express/3448209",
-    "datetime": "2026-09-09T03:47:02+00:00",
-    "views": "52",
-    "text": "全国水下机器人大赛将在大连举行\n据“大连发布”，9 月 9 日上午，大连市政府新闻办召开新闻发布会，会上介绍，经国家自然科学基金委员会指导，大连市人民政府、鹏城实验室联合主办，2026 年第十届全国水下机器人大赛将于 9 月 17 日至 20 日在大连市举行。本届大赛以“筑梦海洋、智能引领”为主题，创新构建“1＋N”赛事体系。“1”是主体赛事，聚焦水下机器人核心技术竞技；“N”是若干项配套活动，包括水下机器人及海洋装备展、“辽创汇”海洋智能装备专场路演暨成果转化对接会、院士专家大连行、大连市青少年水中机器人协同竞技赛等活动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3448209"
   }
 ]
