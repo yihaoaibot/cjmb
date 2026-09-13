@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3458779",
+    "datetime": "2026-09-13T13:26:42+00:00",
+    "views": "2",
+    "text": "白宫经济顾问哈塞特：AI 安全是一个“可解决的问题”；很高兴看到 OpenAI 和马斯克支持 Anthropic CEO 关于人工智能的文章。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3458779"
+  },
+  {
+    "post": "Financial_Express/3458778",
+    "datetime": "2026-09-13T13:26:28+00:00",
+    "views": "5",
+    "text": "据报道，美国投行摩根大通已终止向 AI 主题对冲基金“态势感知”（Situational Awareness）提供借贷服务。这家由前 OpenAI 研究员创立的基金，因 AI 相关杠杆投资遭遇巨额亏损、濒临崩盘，促使摩根大通切断合作。（央视财经）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3458778"
+  },
+  {
     "post": "Financial_Express/3458777",
     "datetime": "2026-09-13T13:22:30+00:00",
-    "views": "44",
+    "views": "80",
     "text": "特朗普：石油公司给我打电话，说他们想去北海。\n如果英国开放北海石油，他们就能变得富有。\n英国若不开放北海，就会“破产”。",
     "media_only": false,
     "image_url": null,
@@ -11,8 +29,8 @@
   {
     "post": "Financial_Express/3458776",
     "datetime": "2026-09-13T13:22:02+00:00",
-    "views": "46",
-    "text": "白宫经济顾问哈塞特：如果沃什上调利率，特朗普将捍卫沃什的独立性。",
+    "views": "81",
+    "text": "白宫经济顾问哈塞特：如果沃什上调利率，特朗普将捍卫沃什的独立性。（注：这句话的意思是特朗普很可能不会干预沃什的决定）",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3458776"
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3458775",
     "datetime": "2026-09-13T13:21:34+00:00",
-    "views": "46",
+    "views": "81",
     "text": "白宫国家经济委员会主任哈塞特：很高兴看到 OpenAI 和马斯克支持 Amodei 的 AI 帖子。\nAmodei 的帖子是私营部门在 AI 方面的路线图。\nAI 安全是一个“可解决的问题”。\n基于通胀数据，他会对加息持谨慎态度。\n如果沃什加息，特朗普将捍卫其独立性。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3458774",
     "datetime": "2026-09-13T13:21:02+00:00",
-    "views": "49",
+    "views": "84",
     "text": "特朗普：英国若不开放北海（油气资源）将会 “破产”。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3458773",
     "datetime": "2026-09-13T13:20:43+00:00",
-    "views": "56",
+    "views": "93",
     "text": "英特尔暗盘跌超 4%，现报 99.085 美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3458772",
     "datetime": "2026-09-13T13:20:42+00:00",
-    "views": "52",
+    "views": "86",
     "text": "特朗普：英国如果开放北海石油资源，就能变得富裕。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3458771",
     "datetime": "2026-09-13T13:20:23+00:00",
-    "views": "51",
+    "views": "86",
     "text": "哈塞特表示，根据通胀数据，他会对加息持谨慎态度。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3458770",
     "datetime": "2026-09-13T13:20:22+00:00",
-    "views": "51",
+    "views": "85",
     "text": "特朗普：石油企业联系我，表示他们希望进军北海油田。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3458769",
     "datetime": "2026-09-13T13:19:43+00:00",
-    "views": "51",
+    "views": "85",
     "text": "特朗普：与英国首相伯纳姆谈过话，可惜他偏向自由派。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3458768",
     "datetime": "2026-09-13T13:19:42+00:00",
-    "views": "50",
+    "views": "85",
     "text": "美国总统特朗普：我们可以设置（关于人工智能的）保护措施，但有些声音过于消极。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3458767",
     "datetime": "2026-09-13T13:19:22+00:00",
-    "views": "80",
+    "views": "84",
     "text": "特朗普谈人工智能：我们可以设置保护措施，但有些声音过于消极。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3458766",
     "datetime": "2026-09-13T13:18:42+00:00",
-    "views": "84",
+    "views": "88",
     "text": "特朗普谈人工智能风险：一些不会发生的事情被拿出来讨论。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3458765",
     "datetime": "2026-09-13T13:18:27+00:00",
-    "views": "81",
+    "views": "115",
     "text": "特朗普（被问及人工智能行业是否应放缓时表示）：谁赢得人工智能，谁就赢得未来。\n我们可以设置保护措施，但有些声音过于消极。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3458764",
     "datetime": "2026-09-13T13:18:03+00:00",
-    "views": "81",
+    "views": "115",
     "text": "白宫经济顾问哈塞特：很高兴看到 OpenAI 与马斯克支持阿莫代的人工智能相关文章。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3458763",
     "datetime": "2026-09-13T13:18:02+00:00",
-    "views": "80",
+    "views": "83",
     "text": "美国总统特朗普：（被问及人工智能行业是否应放缓发展步伐时表示）谁赢得人工智能，谁就赢得未来。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3458762",
     "datetime": "2026-09-13T13:17:24+00:00",
-    "views": "84",
+    "views": "115",
     "text": "当被问及人工智能行业是否应当放缓发展时，特朗普表示“赢下人工智能者，将赢得全局”。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3458761",
     "datetime": "2026-09-13T13:17:03+00:00",
-    "views": "84",
+    "views": "115",
     "text": "特朗普谈委内瑞拉局势：当被问及委内瑞拉选举的举办时间时，特朗普表示选举将在筹备就绪后举行。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3458760",
     "datetime": "2026-09-13T13:17:02+00:00",
-    "views": "84",
+    "views": "116",
     "text": "美国总统特朗普：委内瑞拉的选举将在准备好时进行。",
     "media_only": false,
     "image_url": null,
@@ -17323,32 +17341,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3456839"
-  },
-  {
-    "post": "Financial_Express/3456838",
-    "datetime": "2026-09-11T13:26:23+00:00",
-    "views": "46",
-    "text": "雪佛龙首席执行官：石油市场早期的缓冲已消失，伊朗战争带来的价格风险现在更高。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3456838"
-  },
-  {
-    "post": "Financial_Express/3456837",
-    "datetime": "2026-09-11T13:25:23+00:00",
-    "views": "47",
-    "text": "苹果 CEO 回应为何现在入局折叠屏\n新任 CEO 约翰 · 特努斯与市场营销高级副总裁格雷格 · 乔斯维亚克接受联合采访，进一步谈到了 iPhone 18 Pro 和首款折叠屏手机 iPhone Duo，包括苹果为何直到现在才进入折叠屏市场、产品背后的设计思路、如何在供应链泄密不断的情况下保住核心设计，以及特努斯接任 CEO 后的感受。 谈到苹果为什么等到现在才推出 iPhone Duo，特努斯表示，关键始终在于产品构想什么时候能够达到苹果对质量、耐用性和设计的标准。“对苹果来说，关键始终是产品构想什么时候能够达到我们对质量、耐用性和设计的标准。Duo 特别出色的一点，就是硬件和软件真正结合到了一起，共同打造出一款非常特别的产品。” 特努斯表示，iPhone Duo 也给了苹果重新思考折叠屏手机形态的机会。“Duo 对我们来说几乎是一片可以从零开始的全新空间，有太多东西都能重新思考。无论硬件、软件还是设计，都能看到这种变化。所有部分最终融合到了一起，让我们觉得这就是我们想要的产品。” 谈到 1,999 美元的起售价，特努斯承认 iPhone Duo 确实比其他手机更贵，但公司认为产品仍然物有所值。乔斯维亚克则表示：“叫 iPhone Duo 当然是有原因的，相当于把两个产品合在了一起。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3456837"
-  },
-  {
-    "post": "Financial_Express/3456836",
-    "datetime": "2026-09-11T13:25:22+00:00",
-    "views": "46",
-    "text": "美国白宫国家经济委员会主任哈塞特：通过预算协调程序，发放 5000 美元支票的方案可能实现。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3456836"
   }
 ]
