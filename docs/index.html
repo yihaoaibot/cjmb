@@ -1,13 +1,25 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-14T13:32:54.450557+00:00","clsvipUpdated":"2026-09-14T13:33:01.459661+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月14日</h2><div class="feed"><article class="item" data-search="美光科技下跌 6.7%，应用材料下跌 6.9%，博通下跌 3.7%。"><div class="time">21:32</div><div class="content"><div class="text" data-full="美光科技下跌 6.7%，应用材料下跌 6.9%，博通下跌 3.7%。" data-short="美光科技下跌 6.7%，应用材料下跌 6.9%，博通下跌 3.7%。">美光科技下跌 6.7%，应用材料下跌 6.9%，博通下跌 3.7%。</div></div></article><article class="item" data-search="美国软件股上涨，servicenow(now.n)上涨 5.6%，adobe(adbe.o)上涨 3.3%。"><div class="time">21:32</div><div class="content"><div class="text" data-full="美国软件股上涨，ServiceNow(NOW.N)上涨 5.6%，Adobe(ADBE.O)上涨 3.3%。" data-short="美国软件股上涨，ServiceNow(NOW.N)上涨 5.6%，Adobe(ADBE.O)上涨 3.3%。">美国软件股上涨，ServiceNow(NOW.N)上涨 5.6%，Adobe(ADBE.O)上涨 3.3%。</div></div></article><article class="item" data-search="道指跌 0.25%，标普 500 指数跌 0.7%。存储芯片股普跌，sk 海力士跌约 7%，美光科技跌约 7%。光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%。"><div class="time">21:32</div><div class="content"><div class="text" data-full="道指跌 0.25%，标普 500 指数跌 0.7%。存储芯片股普跌，SK 海力士跌约 7%，美光科技跌约 7%。光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%。" data-short="道指跌 0.25%，标普 500 指数跌 0.7%。存储芯片股普跌，SK 海力士跌约 7%，美光科技跌约 7%。光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%。">道指跌 0.25%，标普 500 指数跌 0.7%。存储芯片股普跌，SK 海力士跌约 7%，美光科技跌约 7%。光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%。</div></div></article><article class="item" data-search="英伟达下跌 3.4%，amd 跌 5.4%，英特尔下挫 7%，迈威尔科技重挫 8.3%。"><div class="time">21:32</div><div class="content"><div class="text" data-full="英伟达下跌 3.4%，AMD 跌 5.4%，英特尔下挫 7%，迈威尔科技重挫 8.3%。" data-short="英伟达下跌 3.4%，AMD 跌 5.4%，英特尔下挫 7%，迈威尔科技重挫 8.3%。">英伟达下跌 3.4%，AMD 跌 5.4%，英特尔下挫 7%，迈威尔科技重挫 8.3%。</div></div></article><article class="item" data-search="费城半导体指数开盘下跌 5.5%。"><div class="time">21:32</div><div class="content"><div class="text" data-full="费城半导体指数开盘下跌 5.5%。" data-short="费城半导体指数开盘下跌 5.5%。">费城半导体指数开盘下跌 5.5%。</div></div></article><article class="item" data-search="h.i.g.资本合并 action elevator 与 all city。"><div class="time">21:31</div><div class="content"><div class="text" data-full="H.I.G.资本合并 Action Elevator 与 All City。" data-short="H.I.G.资本合并 Action Elevator 与 All City。">H.I.G.资本合并 Action Elevator 与 All City。</div></div></article><article class="item" data-search="受人工智能开发放缓的呼声影响，英伟达股价开盘下跌 3.7%。"><div class="time">21:31</div><div class="content"><div class="text" data-full="受人工智能开发放缓的呼声影响，英伟达股价开盘下跌 3.7%。" data-short="受人工智能开发放缓的呼声影响，英伟达股价开盘下跌 3.7%。">受人工智能开发放缓的呼声影响，英伟达股价开盘下跌 3.7%。</div></div></article><article class="item" data-search="道指跌 0.25%，标普 500 指数跌 0.7%。
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-14T13:34:58.694268+00:00","clsvipUpdated":"2026-09-14T13:35:07.100936+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月14日</h2><div class="feed"><article class="item" data-search="hub group 股价下跌 9.2%；公司宣布领导层变动。"><div class="time">21:34</div><div class="content"><div class="text" data-full="HUB GROUP 股价下跌 9.2%；公司宣布领导层变动。" data-short="HUB GROUP 股价下跌 9.2%；公司宣布领导层变动。">HUB GROUP 股价下跌 9.2%；公司宣布领导层变动。</div></div></article><article class="item" data-search="法院文件显示，马斯克旗下 x 公司和 xai 已解决针对苹果(aapl.o)的反垄断诉讼。"><div class="time">21:34</div><div class="content"><div class="text" data-full="法院文件显示，马斯克旗下 X 公司和 xAI 已解决针对苹果(AAPL.O)的反垄断诉讼。" data-short="法院文件显示，马斯克旗下 X 公司和 xAI 已解决针对苹果(AAPL.O)的反垄断诉讼。">法院文件显示，马斯克旗下 X 公司和 xAI 已解决针对苹果(AAPL.O)的反垄断诉讼。</div></div></article><article class="item" data-search="美股软件开盘股逆势走高，servicenow 涨超 5%，adobe 涨近 4%，赛富时涨近 3%，微软小幅跟涨。"><div class="time">21:34</div><div class="content"><div class="text" data-full="美股软件开盘股逆势走高，ServiceNow 涨超 5%，Adobe 涨近 4%，赛富时涨近 3%，微软小幅跟涨。" data-short="美股软件开盘股逆势走高，ServiceNow 涨超 5%，Adobe 涨近 4%，赛富时涨近 3%，微软小幅跟涨。">美股软件开盘股逆势走高，ServiceNow 涨超 5%，Adobe 涨近 4%，赛富时涨近 3%，微软小幅跟涨。</div></div></article><article class="item" data-search="马斯克的 x 公司及 xai 与苹果达成反垄断诉讼和解。"><div class="time">21:34</div><div class="content"><div class="text" data-full="马斯克的 X 公司及 xAI 与苹果达成反垄断诉讼和解。" data-short="马斯克的 X 公司及 xAI 与苹果达成反垄断诉讼和解。">马斯克的 X 公司及 xAI 与苹果达成反垄断诉讼和解。</div></div></article><article class="item" data-search="英伟达、palantir 等据报将限制使用先进 ai 公司的模型
+金十数据 9 月 14 日讯，据 the information 报道，随着人们对 anthropic 或 openai 是否会从客户的知识产权中学习产生日益强烈的担忧，从事敏感企业业务的大型公司，如 palantir technologies、英伟达和博思艾伦汉密尔顿，已开始要求获得新的保障，或减少甚至停止使用这些 ai 公司最先进的模型。与此同时，微软(msft.o)正利用这些恐惧来吸引客户使用自己的产品。"><div class="time">21:34</div><div class="content"><div class="text" data-full="英伟达、Palantir 等据报将限制使用先进 AI 公司的模型
+金十数据 9 月 14 日讯，据 The Information 报道，随着人们对 Anthropic 或 OpenAI 是否会从客户的知识产权中学习产生日益强烈的担忧，从事敏感企业业务的大型公司，如 Palantir Technologies、英伟达和博思艾伦汉密尔顿，已开始要求获得新的保障，或减少甚至停止使用这些 AI 公司最先进的模型。与此同时，微软(MSFT.O)正利用这些恐惧来吸引客户使用自己的产品。" data-short="英伟达、Palantir 等据报将限制使用先进 AI 公司的模型
+金十数据 9 月 14 日讯，据 The Information 报道，随着人们对 Anthropic 或 OpenAI 是否会从客户的知识产权中学习产生日益强烈的担忧，从事敏感企业业务的大型公司，如 Palantir Technologies、英伟达和博思艾伦汉密尔顿，已开始要求获得新的保障...">英伟达、Palantir 等据报将限制使用先进 AI 公司的模型
+金十数据 9 月 14 日讯，据 The Information 报道，随着人们对 Anthropic 或 OpenAI 是否会从客户的知识产权中学习产生日益强烈的担忧，从事敏感企业业务的大型公司，如 Palantir Technologies、英伟达和博思艾伦汉密尔顿，已开始要求获得新的保障...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="埃尔蒙特集团股价飙升 40%，此前该公司赢得价值 20 亿美元的美国钨储备合同。"><div class="time">21:33</div><div class="content"><div class="text" data-full="埃尔蒙特集团股价飙升 40%，此前该公司赢得价值 20 亿美元的美国钨储备合同。" data-short="埃尔蒙特集团股价飙升 40%，此前该公司赢得价值 20 亿美元的美国钨储备合同。">埃尔蒙特集团股价飙升 40%，此前该公司赢得价值 20 亿美元的美国钨储备合同。</div></div></article><article class="item" data-search="美银全球研究首次覆盖 lyntris 公司，给予“买入”评级，目标价 21 美元。"><div class="time">21:33</div><div class="content"><div class="text" data-full="美银全球研究首次覆盖 Lyntris 公司，给予“买入”评级，目标价 21 美元。" data-short="美银全球研究首次覆盖 Lyntris 公司，给予“买入”评级，目标价 21 美元。">美银全球研究首次覆盖 Lyntris 公司，给予“买入”评级，目标价 21 美元。</div></div></article><article class="item" data-search="甲骨文(orcl.n)下跌 6.1%，创自 9 月 1 日以来最大盘中跌幅。"><div class="time">21:33</div><div class="content"><div class="text" data-full="甲骨文(ORCL.N)下跌 6.1%，创自 9 月 1 日以来最大盘中跌幅。" data-short="甲骨文(ORCL.N)下跌 6.1%，创自 9 月 1 日以来最大盘中跌幅。">甲骨文(ORCL.N)下跌 6.1%，创自 9 月 1 日以来最大盘中跌幅。</div></div></article><article class="item" data-search="甲骨文股价下跌 6.1%，创 9 月 1 日以来最大跌幅。"><div class="time">21:33</div><div class="content"><div class="text" data-full="甲骨文股价下跌 6.1%，创 9 月 1 日以来最大跌幅。" data-short="甲骨文股价下跌 6.1%，创 9 月 1 日以来最大跌幅。">甲骨文股价下跌 6.1%，创 9 月 1 日以来最大跌幅。</div></div></article><article class="item" data-search="焦煤连续主力合约日内涨 3%，现报 1635.00 元。"><div class="time">21:33</div><div class="content"><div class="text" data-full="焦煤连续主力合约日内涨 3%，现报 1635.00 元。" data-short="焦煤连续主力合约日内涨 3%，现报 1635.00 元。">焦煤连续主力合约日内涨 3%，现报 1635.00 元。</div></div></article><article class="item" data-search="美光科技下跌 6.7%，应用材料下跌 6.9%，博通下跌 3.7%。"><div class="time">21:32</div><div class="content"><div class="text" data-full="美光科技下跌 6.7%，应用材料下跌 6.9%，博通下跌 3.7%。" data-short="美光科技下跌 6.7%，应用材料下跌 6.9%，博通下跌 3.7%。">美光科技下跌 6.7%，应用材料下跌 6.9%，博通下跌 3.7%。</div></div></article><article class="item" data-search="美国软件股上涨，servicenow(now.n)上涨 5.6%，adobe(adbe.o)上涨 3.3%。"><div class="time">21:32</div><div class="content"><div class="text" data-full="美国软件股上涨，ServiceNow(NOW.N)上涨 5.6%，Adobe(ADBE.O)上涨 3.3%。" data-short="美国软件股上涨，ServiceNow(NOW.N)上涨 5.6%，Adobe(ADBE.O)上涨 3.3%。">美国软件股上涨，ServiceNow(NOW.N)上涨 5.6%，Adobe(ADBE.O)上涨 3.3%。</div></div></article><article class="item" data-search="道指跌 0.25%，标普 500 指数跌 0.7%。存储芯片股普跌，sk 海力士跌约 7%，美光科技跌约 7%。光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%。"><div class="time">21:32</div><div class="content"><div class="text" data-full="道指跌 0.25%，标普 500 指数跌 0.7%。存储芯片股普跌，SK 海力士跌约 7%，美光科技跌约 7%。光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%。" data-short="道指跌 0.25%，标普 500 指数跌 0.7%。存储芯片股普跌，SK 海力士跌约 7%，美光科技跌约 7%。光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%。">道指跌 0.25%，标普 500 指数跌 0.7%。存储芯片股普跌，SK 海力士跌约 7%，美光科技跌约 7%。光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%。</div></div></article><article class="item" data-search="英伟达下跌 3.4%，amd 跌 5.4%，英特尔下挫 7%，迈威尔科技重挫 8.3%。"><div class="time">21:32</div><div class="content"><div class="text" data-full="英伟达下跌 3.4%，AMD 跌 5.4%，英特尔下挫 7%，迈威尔科技重挫 8.3%。" data-short="英伟达下跌 3.4%，AMD 跌 5.4%，英特尔下挫 7%，迈威尔科技重挫 8.3%。">英伟达下跌 3.4%，AMD 跌 5.4%，英特尔下挫 7%，迈威尔科技重挫 8.3%。</div></div></article><article class="item" data-search="费城半导体指数开盘下跌 5.5%。"><div class="time">21:32</div><div class="content"><div class="text" data-full="费城半导体指数开盘下跌 5.5%。" data-short="费城半导体指数开盘下跌 5.5%。">费城半导体指数开盘下跌 5.5%。</div></div></article><article class="item" data-search="h.i.g.资本合并 action elevator 与 all city。"><div class="time">21:31</div><div class="content"><div class="text" data-full="H.I.G.资本合并 Action Elevator 与 All City。" data-short="H.I.G.资本合并 Action Elevator 与 All City。">H.I.G.资本合并 Action Elevator 与 All City。</div></div></article><article class="item" data-search="受人工智能开发放缓的呼声影响，英伟达股价开盘下跌 3.7%。"><div class="time">21:31</div><div class="content"><div class="text" data-full="受人工智能开发放缓的呼声影响，英伟达股价开盘下跌 3.7%。" data-short="受人工智能开发放缓的呼声影响，英伟达股价开盘下跌 3.7%。">受人工智能开发放缓的呼声影响，英伟达股价开盘下跌 3.7%。</div></div></article><article class="item" data-search="道指跌 0.25%，标普 500 指数跌 0.7%。
+费城半导体指数跌 5.5%，超微电脑跌约 9%，英特尔跌约 7%，阿斯麦跌约 6%，英伟达跌约 4%。
 存储芯片股普跌，sk 海力士跌约 7%，美光科技跌约 7%，西部数据跌约 7%，闪迪跌约 7%。
-光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%，coherent 跌约 9%，credo 跌约 6%，lumentum 跌约 8%。"><div class="time">21:31</div><div class="content"><div class="text" data-full="道指跌 0.25%，标普 500 指数跌 0.7%。
+光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%，coherent 跌约 9%，credo 跌约 6%，lumentum 跌约 8%。
+甲骨文股价下跌 6.1%，创 9 月 1 日以来最大跌幅。
+ishares 软件 etf 上涨 2.3%。"><div class="time">21:31</div><div class="content"><div class="text" data-full="道指跌 0.25%，标普 500 指数跌 0.7%。
+费城半导体指数跌 5.5%，超微电脑跌约 9%，英特尔跌约 7%，阿斯麦跌约 6%，英伟达跌约 4%。
 存储芯片股普跌，SK 海力士跌约 7%，美光科技跌约 7%，西部数据跌约 7%，闪迪跌约 7%。
-光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%，Coherent 跌约 9%，Credo 跌约 6%，Lumentum 跌约 8%。" data-short="道指跌 0.25%，标普 500 指数跌 0.7%。
+光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%，Coherent 跌约 9%，Credo 跌约 6%，Lumentum 跌约 8%。
+甲骨文股价下跌 6.1%，创 9 月 1 日以来最大跌幅。
+ISHARES 软件 ETF 上涨 2.3%。" data-short="道指跌 0.25%，标普 500 指数跌 0.7%。
+费城半导体指数跌 5.5%，超微电脑跌约 9%，英特尔跌约 7%，阿斯麦跌约 6%，英伟达跌约 4%。
 存储芯片股普跌，SK 海力士跌约 7%，美光科技跌约 7%，西部数据跌约 7%，闪迪跌约 7%。
-光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%，Coherent 跌约 9%，Credo 跌约 6%，Lumentum 跌约 8%。">道指跌 0.25%，标普 500 指数跌 0.7%。
+光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%，Coherent 跌约 9%，Credo 跌约 6...">道指跌 0.25%，标普 500 指数跌 0.7%。
+费城半导体指数跌 5.5%，超微电脑跌约 9%，英特尔跌约 7%，阿斯麦跌约 6%，英伟达跌约 4%。
 存储芯片股普跌，SK 海力士跌约 7%，美光科技跌约 7%，西部数据跌约 7%，闪迪跌约 7%。
-光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%，Coherent 跌约 9%，Credo 跌约 6%，Lumentum 跌约 8%。</div></div></article><article class="item" data-search="美股开盘：三大股指齐跌
+光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%，Coherent 跌约 9%，Credo 跌约 6...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="美股开盘：三大股指齐跌
 道指跌 0.22%，标普 500 指数跌 0.71%，纳指跌 1.26%。vrt 跌 11.29%，康宁跌 9.43%，arm holdings plc 跌 8.95%，astera labs inc 跌 8.66%，迈威尔科技跌 8.62%，泰瑞达跌 8.52%。“七姐妹”方面：meta platforms 涨 1.60%，谷歌涨 1.06%，微软涨 0.48%，苹果涨 0.19%，特斯拉跌 0.90%，亚马逊跌 2.05%，英伟达跌 3.59%。"><div class="time">21:31</div><div class="content"><div class="text" data-full="美股开盘：三大股指齐跌
 道指跌 0.22%，标普 500 指数跌 0.71%，纳指跌 1.26%。VRT 跌 11.29%，康宁跌 9.43%，Arm Holdings Plc 跌 8.95%，Astera Labs Inc 跌 8.66%，迈威尔科技跌 8.62%，泰瑞达跌 8.52%。“七姐妹”方面：Meta Platforms 涨 1.60%，谷歌涨 1.06%，微软涨 0.48%，苹果涨 0.19%，特斯拉跌 0.90%，亚马逊跌 2.05%，英伟达跌 3.59%。" data-short="美股开盘：三大股指齐跌
 道指跌 0.22%，标普 500 指数跌 0.71%，纳指跌 1.26%。VRT 跌 11.29%，康宁跌 9.43%，Arm Holdings Plc 跌 8.95%，Astera Labs Inc 跌 8.66%，迈威尔科技跌 8.62%，泰瑞达跌 8.52%。“七姐妹”方面：Meta Platforms 涨 1.60%，谷歌涨...">美股开盘：三大股指齐跌
@@ -525,35 +537,13 @@ HYROX 联合创始人 Moritz Fürste 今日发文表示：“我需要就近期�
 为落实上海“十五五”规划关于“加快发展三大先导产业”“持续优化国际一流营商环境”相关要求，以我市网络生态治理成效服务保障集成电路、人工智能、生物医药等先导产业高质量发展，9 月 14 日上午，上海市委网信办会同市发改委、市经信委、上海证监局、上海证券交易所召开工作部署会，决定即日起启动专项整治行动，全面规范先导产业网上信息传播秩序。会议指出，先导产业是上海科技创新的核心支撑、产业升级的战略底盘，清朗有序的网络舆论环境是先导产业健康发展的重要保障。本次专项行动要立足人民立场，坚持治理乱象与护航发展并重、从严监管与精准服务并行，通过抓依法治理、抓典型案例、抓协同聚力，着力解决突出问题，完善长效工作机制，全力护航上海先导产业健康发展。（网信上海）"><div class="time">19:52</div><div class="content"><div class="text" data-full="上海启动规范先导产业网上信息传播秩序专项行动
 为落实上海“十五五”规划关于“加快发展三大先导产业”“持续优化国际一流营商环境”相关要求，以我市网络生态治理成效服务保障集成电路、人工智能、生物医药等先导产业高质量发展，9 月 14 日上午，上海市委网信办会同市发改委、市经信委、上海证监局、上海证券交易所召开工作部署会，决定即日起启动专项整治行动，全面规范先导产业网上信息传播秩序。会议指出，先导产业是上海科技创新的核心支撑、产业升级的战略底盘，清朗有序的网络舆论环境是先导产业健康发展的重要保障。本次专项行动要立足人民立场，坚持治理乱象与护航发展并重、从严监管与精准服务并行，通过抓依法治理、抓典型案例、抓协同聚力，着力解决突出问题，完善长效工作机制，全力护航上海先导产业健康发展。（网信上海）" data-short="上海启动规范先导产业网上信息传播秩序专项行动
 为落实上海“十五五”规划关于“加快发展三大先导产业”“持续优化国际一流营商环境”相关要求，以我市网络生态治理成效服务保障集成电路、人工智能、生物医药等先导产业高质量发展，9 月 14 日上午，上海市委网信办会同市发改委、市经信委、上海证监局、上海证券交易所召开工作部署会，决定即日起启动专项整治行动，全面规范先导产...">上海启动规范先导产业网上信息传播秩序专项行动
-为落实上海“十五五”规划关于“加快发展三大先导产业”“持续优化国际一流营商环境”相关要求，以我市网络生态治理成效服务保障集成电路、人工智能、生物医药等先导产业高质量发展，9 月 14 日上午，上海市委网信办会同市发改委、市经信委、上海证监局、上海证券交易所召开工作部署会，决定即日起启动专项整治行动，全面规范先导产...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="以色列总理内塔尼亚胡与拉皮德举行安全情况更新会议期间，内塔尼亚胡要求重启预算法案，以便为安全体系增拨资金。"><div class="time">19:51</div><div class="content"><div class="text" data-full="以色列总理内塔尼亚胡与拉皮德举行安全情况更新会议期间，内塔尼亚胡要求重启预算法案，以便为安全体系增拨资金。" data-short="以色列总理内塔尼亚胡与拉皮德举行安全情况更新会议期间，内塔尼亚胡要求重启预算法案，以便为安全体系增拨资金。">以色列总理内塔尼亚胡与拉皮德举行安全情况更新会议期间，内塔尼亚胡要求重启预算法案，以便为安全体系增拨资金。</div></div></article><article class="item" data-search="德国总理默茨在欧洲北极峰会上表示：德国与欧洲大陆的命运紧密相连，我们不能将外交政策与国内讨论割裂开来。"><div class="time">19:50</div><div class="content"><div class="text" data-full="德国总理默茨在欧洲北极峰会上表示：德国与欧洲大陆的命运紧密相连，我们不能将外交政策与国内讨论割裂开来。" data-short="德国总理默茨在欧洲北极峰会上表示：德国与欧洲大陆的命运紧密相连，我们不能将外交政策与国内讨论割裂开来。">德国总理默茨在欧洲北极峰会上表示：德国与欧洲大陆的命运紧密相连，我们不能将外交政策与国内讨论割裂开来。</div></div></article><article class="item" data-search="全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》
-今日，在 2026 年国家网络安全宣传周开幕式上，全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》。为应对人工智能发展新趋势、回应安全治理新挑战，在国家互联网信息办公室的指导下，网安标委组织中国网络空间研究院、国家互联网信息办公室数据与技术保障中心等专业机构、科研院所、行业企业，研究编制了《框架 3.0》。《框架 3.0》秉持以人为本、向上向善理念，坚持和践行强化风险意识、确保安全可控的指导原则，延续“风险分类、技术应对、综合治理”的核心逻辑，与时俱进梳理更新了风险分类，优化调整了技术应对和综合治理措施，以促进提升人工智能安全治理共识和风险防范应对能力，确保人工智能技术造福于人类。（全国网安标委）"><div class="time">19:49</div><div class="content"><div class="text" data-full="全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》
-今日，在 2026 年国家网络安全宣传周开幕式上，全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》。为应对人工智能发展新趋势、回应安全治理新挑战，在国家互联网信息办公室的指导下，网安标委组织中国网络空间研究院、国家互联网信息办公室数据与技术保障中心等专业机构、科研院所、行业企业，研究编制了《框架 3.0》。《框架 3.0》秉持以人为本、向上向善理念，坚持和践行强化风险意识、确保安全可控的指导原则，延续“风险分类、技术应对、综合治理”的核心逻辑，与时俱进梳理更新了风险分类，优化调整了技术应对和综合治理措施，以促进提升人工智能安全治理共识和风险防范应对能力，确保人工智能技术造福于人类。（全国网安标委）" data-short="全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》
-今日，在 2026 年国家网络安全宣传周开幕式上，全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》。为应对人工智能发展新趋势、回应安全治理新挑战，在国家互联网信息办公室的指导下，网安标委组织中国网络空间研究院、国家互联网信息办公室数据与技术保障中心等专业机构、科研院所、行业企业...">全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》
-今日，在 2026 年国家网络安全宣传周开幕式上，全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》。为应对人工智能发展新趋势、回应安全治理新挑战，在国家互联网信息办公室的指导下，网安标委组织中国网络空间研究院、国家互联网信息办公室数据与技术保障中心等专业机构、科研院所、行业企业...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》
-金十数据 9 月 14 日讯，今日，在 2026 年国家网络安全宣传周开幕式上，全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》。为应对人工智能发展新趋势、回应安全治理新挑战，在国家互联网信息办公室的指导下，网安标委组织中国网络空间研究院、国家互联网信息办公室数据与技术保障中心等专业机构、科研院所、行业企业，研究编制了《框架 3.0》。《框架 3.0》秉持以人为本、向上向善理念，坚持和践行强化风险意识、确保安全可控的指导原则，延续“风险分类、技术应对、综合治理”的核心逻辑，与时俱进梳理更新了风险分类，优化调整了技术应对和综合治理措施，以促进提升人工智能安全治理共识和风险防范应对能力，确保人工智能技术造福于人类。"><div class="time">19:49</div><div class="content"><div class="text" data-full="全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》
-金十数据 9 月 14 日讯，今日，在 2026 年国家网络安全宣传周开幕式上，全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》。为应对人工智能发展新趋势、回应安全治理新挑战，在国家互联网信息办公室的指导下，网安标委组织中国网络空间研究院、国家互联网信息办公室数据与技术保障中心等专业机构、科研院所、行业企业，研究编制了《框架 3.0》。《框架 3.0》秉持以人为本、向上向善理念，坚持和践行强化风险意识、确保安全可控的指导原则，延续“风险分类、技术应对、综合治理”的核心逻辑，与时俱进梳理更新了风险分类，优化调整了技术应对和综合治理措施，以促进提升人工智能安全治理共识和风险防范应对能力，确保人工智能技术造福于人类。" data-short="全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》
-金十数据 9 月 14 日讯，今日，在 2026 年国家网络安全宣传周开幕式上，全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》。为应对人工智能发展新趋势、回应安全治理新挑战，在国家互联网信息办公室的指导下，网安标委组织中国网络空间研究院、国家互联网信息办公室数据与技术保障中心...">全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》
-金十数据 9 月 14 日讯，今日，在 2026 年国家网络安全宣传周开幕式上，全国网络安全标准化技术委员会发布《人工智能安全治理框架 3.0》。为应对人工智能发展新趋势、回应安全治理新挑战，在国家互联网信息办公室的指导下，网安标委组织中国网络空间研究院、国家互联网信息办公室数据与技术保障中心...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="美参议院民主党领袖：要求特朗普政府就人工智能问题向全体参议员提供机密简报。"><div class="time">19:48</div><div class="content"><div class="text" data-full="美参议院民主党领袖：要求特朗普政府就人工智能问题向全体参议员提供机密简报。" data-short="美参议院民主党领袖：要求特朗普政府就人工智能问题向全体参议员提供机密简报。">美参议院民主党领袖：要求特朗普政府就人工智能问题向全体参议员提供机密简报。</div></div></article><article class="item" data-search="苏格兰和北爱领导人呼吁独立公投
-英国威尔士、苏格兰和北爱尔兰地方政府首席部长今天（9 月 14 日）在威尔士首府卡迪夫举行会晤，并签署谅解备忘录，呼吁英国政府为宪政变革做好准备，并表示英国政府无权“阻止民主”。苏格兰地方政府首席大臣、苏格兰民族党党首约翰·斯温尼在会后的联合新闻发布会上，要求在未来五年内举行苏格兰地方独立公投。北爱尔兰地方政府首席大臣、来自新芬党的米歇尔·奥尼尔呼吁英国和爱尔兰政府设定 2030 年前举行“边境民意调查”——相当于“爱尔兰统一公投”的日期。威尔士地方政府首席大臣、威尔士民族党领袖鲁恩·约沃思则表示，目前不会为威尔士独立公投设定时间表。 苏格兰首席大臣斯温尼还指出，英国首相伯纳姆“权力下放”的政治立场意味着，他理应支持苏格兰、威尔士和北爱尔兰的自决权。 这是自约沃思今年 5 月就任威尔士地方政府首席大臣以来，三地首席大臣首次面对面会晤。新芬党领导人玛丽·麦克唐纳也出席了会议。当前，威尔士、苏格兰和北爱尔兰首次同时由“希望脱离英国”的首席大臣主政。 伯纳姆预计将于下个月与威尔士、苏格兰、北爱尔兰地方政府领导人会面。英国政府表示：“伯纳姆致力于为英国所有四个组成部分带来变革，并坚定支持国家统一。”  （cctv 国际时讯）"><div class="time">19:48</div><div class="content"><div class="text" data-full="苏格兰和北爱领导人呼吁独立公投
-英国威尔士、苏格兰和北爱尔兰地方政府首席部长今天（9 月 14 日）在威尔士首府卡迪夫举行会晤，并签署谅解备忘录，呼吁英国政府为宪政变革做好准备，并表示英国政府无权“阻止民主”。苏格兰地方政府首席大臣、苏格兰民族党党首约翰·斯温尼在会后的联合新闻发布会上，要求在未来五年内举行苏格兰地方独立公投。北爱尔兰地方政府首席大臣、来自新芬党的米歇尔·奥尼尔呼吁英国和爱尔兰政府设定 2030 年前举行“边境民意调查”——相当于“爱尔兰统一公投”的日期。威尔士地方政府首席大臣、威尔士民族党领袖鲁恩·约沃思则表示，目前不会为威尔士独立公投设定时间表。 苏格兰首席大臣斯温尼还指出，英国首相伯纳姆“权力下放”的政治立场意味着，他理应支持苏格兰、威尔士和北爱尔兰的自决权。 这是自约沃思今年 5 月就任威尔士地方政府首席大臣以来，三地首席大臣首次面对面会晤。新芬党领导人玛丽·麦克唐纳也出席了会议。当前，威尔士、苏格兰和北爱尔兰首次同时由“希望脱离英国”的首席大臣主政。 伯纳姆预计将于下个月与威尔士、苏格兰、北爱尔兰地方政府领导人会面。英国政府表示：“伯纳姆致力于为英国所有四个组成部分带来变革，并坚定支持国家统一。”  （CCTV 国际时讯）" data-short="苏格兰和北爱领导人呼吁独立公投
-英国威尔士、苏格兰和北爱尔兰地方政府首席部长今天（9 月 14 日）在威尔士首府卡迪夫举行会晤，并签署谅解备忘录，呼吁英国政府为宪政变革做好准备，并表示英国政府无权“阻止民主”。苏格兰地方政府首席大臣、苏格兰民族党党首约翰·斯温尼在会后的联合新闻发布会上，要求在未来五年内举行苏格兰地方独立公投。北爱尔兰地方政府首席大臣、来自新...">苏格兰和北爱领导人呼吁独立公投
-英国威尔士、苏格兰和北爱尔兰地方政府首席部长今天（9 月 14 日）在威尔士首府卡迪夫举行会晤，并签署谅解备忘录，呼吁英国政府为宪政变革做好准备，并表示英国政府无权“阻止民主”。苏格兰地方政府首席大臣、苏格兰民族党党首约翰·斯温尼在会后的联合新闻发布会上，要求在未来五年内举行苏格兰地方独立公投。北爱尔兰地方政府首席大臣、来自新...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="约旦亚喀巴工业区氨气泄漏致 11 人受伤
-金十数据 9 月 14 日讯，一名官员向路透社透露，周一在约旦南部城市亚喀巴的一处工业区发生氨气泄漏事故，造成 11 人受伤。据当地国家电视台报道，当局为预防事故发生，已疏散了该南部港口。亚喀巴经济特区管理局环境与公共安全专员表示，泄漏情况已得到控制，伤者伤势从轻微到中度不等。他称，事故发生在亚喀巴南部工业区一处老旧泵或压力设备的维护作业期间，地点远离居民区。他指出，设备内积聚的氨气少量泄漏。他表示，在主管部门及其他相关机构的工作组再次进行检查、采取必要措施并确认不再存在风险后，工人方可返回施工现场。"><div class="time">19:48</div><div class="content"><div class="text" data-full="约旦亚喀巴工业区氨气泄漏致 11 人受伤
-金十数据 9 月 14 日讯，一名官员向路透社透露，周一在约旦南部城市亚喀巴的一处工业区发生氨气泄漏事故，造成 11 人受伤。据当地国家电视台报道，当局为预防事故发生，已疏散了该南部港口。亚喀巴经济特区管理局环境与公共安全专员表示，泄漏情况已得到控制，伤者伤势从轻微到中度不等。他称，事故发生在亚喀巴南部工业区一处老旧泵或压力设备的维护作业期间，地点远离居民区。他指出，设备内积聚的氨气少量泄漏。他表示，在主管部门及其他相关机构的工作组再次进行检查、采取必要措施并确认不再存在风险后，工人方可返回施工现场。" data-short="约旦亚喀巴工业区氨气泄漏致 11 人受伤
-金十数据 9 月 14 日讯，一名官员向路透社透露，周一在约旦南部城市亚喀巴的一处工业区发生氨气泄漏事故，造成 11 人受伤。据当地国家电视台报道，当局为预防事故发生，已疏散了该南部港口。亚喀巴经济特区管理局环境与公共安全专员表示，泄漏情况已得到控制，伤者伤势从轻微到中度不等。他称，事故发生在亚喀巴南部工业区一处老旧...">约旦亚喀巴工业区氨气泄漏致 11 人受伤
-金十数据 9 月 14 日讯，一名官员向路透社透露，周一在约旦南部城市亚喀巴的一处工业区发生氨气泄漏事故，造成 11 人受伤。据当地国家电视台报道，当局为预防事故发生，已疏散了该南部港口。亚喀巴经济特区管理局环境与公共安全专员表示，泄漏情况已得到控制，伤者伤势从轻微到中度不等。他称，事故发生在亚喀巴南部工业区一处老旧...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="闽东电力：公司未开展算电协同、绿电直连业务
-金十数据 9 月 14 日讯，闽东电力公告，公司股票自 9 月 9 日起连续 4 个交易日涨停，涨幅偏离值累计达 48.89%，短期涨幅与经营情况明显背离。经公司自查，公司目前经营情况正常，主营业务及基本面未发生重大变化，内外部经营环境未发生重大变化，不存在影响公司股票异常波动的重大事项。公司目前未开展算电协同、绿电直连业务，也未与算力中心、数据中心存在合作；参股海上风电项目均处于未开工或未投产状态，预计 2026 年度不会产生收入和利润。"><div class="time">19:47</div><div class="content"><div class="text" data-full="闽东电力：公司未开展算电协同、绿电直连业务
-金十数据 9 月 14 日讯，闽东电力公告，公司股票自 9 月 9 日起连续 4 个交易日涨停，涨幅偏离值累计达 48.89%，短期涨幅与经营情况明显背离。经公司自查，公司目前经营情况正常，主营业务及基本面未发生重大变化，内外部经营环境未发生重大变化，不存在影响公司股票异常波动的重大事项。公司目前未开展算电协同、绿电直连业务，也未与算力中心、数据中心存在合作；参股海上风电项目均处于未开工或未投产状态，预计 2026 年度不会产生收入和利润。" data-short="闽东电力：公司未开展算电协同、绿电直连业务
-金十数据 9 月 14 日讯，闽东电力公告，公司股票自 9 月 9 日起连续 4 个交易日涨停，涨幅偏离值累计达 48.89%，短期涨幅与经营情况明显背离。经公司自查，公司目前经营情况正常，主营业务及基本面未发生重大变化，内外部经营环境未发生重大变化，不存在影响公司股票异常波动的重大事项。公司目前未开展算电协同、绿...">闽东电力：公司未开展算电协同、绿电直连业务
-金十数据 9 月 14 日讯，闽东电力公告，公司股票自 9 月 9 日起连续 4 个交易日涨停，涨幅偏离值累计达 48.89%，短期涨幅与经营情况明显背离。经公司自查，公司目前经营情况正常，主营业务及基本面未发生重大变化，内外部经营环境未发生重大变化，不存在影响公司股票异常波动的重大事项。公司目前未开展算电协同、绿...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="9 月 14 日《新闻联播》主要内容
-今天《新闻联播》主要内容有：1.习近平结束出席金砖国家领导人第十八次会晤回到北京； 2.为全球南方聚力 启金砖合作新程——习近平主席赴印度出席金砖国家领导人第十八次会晤取得圆满成功； 3.央视快评：把握历史主动 壮大全球南方力量； 4.【“十五五”开好局起好步】推动健康中国建设取得决定性进展； 5.【凝心聚力 真抓实干 奋力实现“十五五”良好开局】四川加快建设清洁能源强省； 6.金融总量合理增长 有力支撑经济向新向优向好发展； 7.多部门合力治理中小企业回款难； 8.国务院对中国船舶集团青岛北海造船有限公司“9·10”重大火灾事故提级调查； 9.抓好秋粮生产 保障粮食丰收； 10.2030 年我国将进入世界汽车强国行列； 11.我国县域消费加速扩容提质； 12.2026 年国家网络安全宣传周今天启动； 13.秋色宜人 尽享秋日好时光； 14.国内联播快讯： （1）《军营理论热点怎么看·2026》印发全军； （2）八部门出台举措促进智能家居消费； （3）到 2030 年我国将基本建成多层次农业保险体系； （4）第 23 届中国—东盟博览会进境展品全部入境； （5）引汉济渭一期工程累计向西安供水超 4.5 亿立方米； （6）2026 年国家通用语言文字推广普及宣传周启动； 15.也门胡塞武装称多地遭袭 政府军称夺回部分阵地； 16.国际联播快讯： （1）阿曼和伊朗宣布推迟举行地区会议； （2）以军方称将对黎南部一高地维持控制； （3）俄称正采取措施保障加里宁格勒州安全； （4）卡尼称加拿大正在掌握自己的未来； （5）日本中部电力公司数据造假丑闻发酵。"><div class="time">19:47</div><div class="content"><div class="text" data-full="9 月 14 日《新闻联播》主要内容
-今天《新闻联播》主要内容有：1.习近平结束出席金砖国家领导人第十八次会晤回到北京； 2.为全球南方聚力 启金砖合作新程——习近平主席赴印度出席金砖国家领导人第十八次会晤取得圆满成功； 3.央视快评：把握历史主动 壮大全球南方力量； 4.【“十五五”开好局起好步】推动健康中国建设取得决定性进展； 5.【凝心聚力 真抓实干 奋力实现“十五五”良好开局】四川加快建设清洁能源强省； 6.金融总量合理增长 有力支撑经济向新向优向好发展； 7.多部门合力治理中小企业回款难； 8.国务院对中国船舶集团青岛北海造船有限公司“9·10”重大火灾事故提级调查； 9.抓好秋粮生产 保障粮食丰收； 10.2030 年我国将进入世界汽车强国行列； 11.我国县域消费加速扩容提质； 12.2026 年国家网络安全宣传周今天启动； 13.秋色宜人 尽享秋日好时光； 14.国内联播快讯： （1）《军营理论热点怎么看·2026》印发全军； （2）八部门出台举措促进智能家居消费； （3）到 2030 年我国将基本建成多层次农业保险体系； （4）第 23 届中国—东盟博览会进境展品全部入境； （5）引汉济渭一期工程累计向西安供水超 4.5 亿立方米； （6）2026 年国家通用语言文字推广普及宣传周启动； 15.也门胡塞武装称多地遭袭 政府军称夺回部分阵地； 16.国际联播快讯： （1）阿曼和伊朗宣布推迟举行地区会议； （2）以军方称将对黎南部一高地维持控制； （3）俄称正采取措施保障加里宁格勒州安全； （4）卡尼称加拿大正在掌握自己的未来； （5）日本中部电力公司数据造假丑闻发酵。" data-short="9 月 14 日《新闻联播》主要内容
-今天《新闻联播》主要内容有：1.习近平结束出席金砖国家领导人第十八次会晤回到北京； 2.为全球南方聚力 启金砖合作新程——习近平主席赴印度出席金砖国家领导人第十八次会晤取得圆满成功； 3.央视快评：把握历史主动 壮大全球南方力量； 4.【“十五五”开好局起好步】推动健康中国建设取得决定性进展； 5.【凝心聚力 真抓实干...">9 月 14 日《新闻联播》主要内容
-今天《新闻联播》主要内容有：1.习近平结束出席金砖国家领导人第十八次会晤回到北京； 2.为全球南方聚力 启金砖合作新程——习近平主席赴印度出席金砖国家领导人第十八次会晤取得圆满成功； 3.央视快评：把握历史主动 壮大全球南方力量； 4.【“十五五”开好局起好步】推动健康中国建设取得决定性进展； 5.【凝心聚力 真抓实干...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="美国参议院少数党领袖办公室发布人工智能简报。"><div class="time">19:47</div><div class="content"><div class="text" data-full="美国参议院少数党领袖办公室发布人工智能简报。" data-short="美国参议院少数党领袖办公室发布人工智能简报。">美国参议院少数党领袖办公室发布人工智能简报。</div></div></article><article class="item" data-search="中老“和平列车-2026”人道主义医学救援联合演习圆满落幕
-老挝当地时间 9 月 14 日 10 时许，中老“和平列车-2026”人道主义医学救援联合演习完成各项预定演练课目，在老挝万象圆满落下帷幕。此次联演以“超强台风灾害国际人道主义医学救援”为课题，突出指挥筹划深度融合、灾害救援全链贯通、多域力量协同联动，设置三级指挥和四级救援体系。中老双方参演分队依托卫生列车、无人智能战救器材等装备，连贯展开现场搜救、伤员转运、卫生防疫、心理救援等实战课目，全方位锤炼联合指挥、联合救援、联合保障能力。（央视新闻）"><div class="time">19:46</div><div class="content"><div class="text" data-full="中老“和平列车-2026”人道主义医学救援联合演习圆满落幕
-老挝当地时间 9 月 14 日 10 时许，中老“和平列车-2026”人道主义医学救援联合演习完成各项预定演练课目，在老挝万象圆满落下帷幕。此次联演以“超强台风灾害国际人道主义医学救援”为课题，突出指挥筹划深度融合、灾害救援全链贯通、多域力量协同联动，设置三级指挥和四级救援体系。中老双方参演分队依托卫生列车、无人智能战救器材等装备，连贯展开现场搜救、伤员转运、卫生防疫、心理救援等实战课目，全方位锤炼联合指挥、联合救援、联合保障能力。（央视新闻）" data-short="中老“和平列车-2026”人道主义医学救援联合演习圆满落幕
-老挝当地时间 9 月 14 日 10 时许，中老“和平列车-2026”人道主义医学救援联合演习完成各项预定演练课目，在老挝万象圆满落下帷幕。此次联演以“超强台风灾害国际人道主义医学救援”为课题，突出指挥筹划深度融合、灾害救援全链贯通、多域力量协同联动，设置三级指挥和四级救援体系。中老双方参演分队依托...">中老“和平列车-2026”人道主义医学救援联合演习圆满落幕
-老挝当地时间 9 月 14 日 10 时许，中老“和平列车-2026”人道主义医学救援联合演习完成各项预定演练课目，在老挝万象圆满落下帷幕。此次联演以“超强台风灾害国际人道主义医学救援”为课题，突出指挥筹划深度融合、灾害救援全链贯通、多域力量协同联动，设置三级指挥和四级救援体系。中老双方参演分队依托...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月14日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】ai浪潮下高端产品需求持续紧张，该领域2026年ai专用产品需求同比增超200%，这家企业相关订单供不应求
+为落实上海“十五五”规划关于“加快发展三大先导产业”“持续优化国际一流营商环境”相关要求，以我市网络生态治理成效服务保障集成电路、人工智能、生物医药等先导产业高质量发展，9 月 14 日上午，上海市委网信办会同市发改委、市经信委、上海证监局、上海证券交易所召开工作部署会，决定即日起启动专项整治行动，全面规范先导产...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="以色列总理内塔尼亚胡与拉皮德举行安全情况更新会议期间，内塔尼亚胡要求重启预算法案，以便为安全体系增拨资金。"><div class="time">19:51</div><div class="content"><div class="text" data-full="以色列总理内塔尼亚胡与拉皮德举行安全情况更新会议期间，内塔尼亚胡要求重启预算法案，以便为安全体系增拨资金。" data-short="以色列总理内塔尼亚胡与拉皮德举行安全情况更新会议期间，内塔尼亚胡要求重启预算法案，以便为安全体系增拨资金。">以色列总理内塔尼亚胡与拉皮德举行安全情况更新会议期间，内塔尼亚胡要求重启预算法案，以便为安全体系增拨资金。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月14日 · VIP</h2> <div class="feed"> <article class="item" data-search="【机构龙虎榜解读】pcb+800g光模块+陶瓷板，正与北美大厂合作研发ai服务器用陶瓷板，800g光模块pcb产品部分客户已完成样品研发和小批量供货，并首次接到20k批量订单，这家公司获净买入
+
+#科翔股份
+#杭电股份"> <div class="time">21:34</div> <div class="content"> <div class="text">【机构龙虎榜解读】PCB+800G光模块+陶瓷板，正与北美大厂合作研发AI服务器用陶瓷板，800G光模块PCB产品部分客户已完成样品研发和小批量供货，并首次接到20K批量订单，这家公司获净买入
+
+#科翔股份
+#杭电股份</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【盘中宝】ai浪潮下高端产品需求持续紧张，该领域2026年ai专用产品需求同比增超200%，这家企业相关订单供不应求
 
 #铜冠铜箔
 #方邦科技"> <div class="time">21:32</div> <div class="content"> <div class="text">【盘中宝】AI浪潮下高端产品需求持续紧张，该领域2026年AI专用产品需求同比增超200%，这家企业相关订单供不应求
@@ -759,102 +749,7 @@ https:/...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);di
 
 联系：@cn50etf
 
-👉关注众筹频道：https://t.me/zhongchou123</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="频道收费项目：频道vip
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大v收费群盘中消息同步：
-
-vip资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-妖股刺客
-
-新生代作手
-邢者狩猎营
-g界孙悟空
-大师兄擒妖
-浮光
-天赢居
-
-清北游资
-时冲
-主升真经
-天机短线
-爱尔兰画眉
-震哥
-李梦尘
-
-红旗大街发哥
-游资胖大叔
-大周先生
-姆爷
-游资混江龙
-徐小明
-天地同力
-
-诗诗复利游
-a股通天宗
-
-先知
-林荫大道
-逻辑派a哥
-
-复盘哥
-鑫多多
-大将潘凤
-奶爸只做核心
-浮光知顶底
-
-借势而为
-来去由心
-嗅嗅掘金
-k神会
-
-费用：100元/月
-
-联系 @cn50etf"> <div class="time">10:25</div> <div class="content"> <div class="text">频道收费项目：频道VIP
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大V收费群盘中消息同步：
-
-VIP资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-妖股刺客
-
-新生代作手
-邢者狩猎营
-G界孙悟空
-大师兄擒妖
-浮光
-天赢居
-
-清北游资
-时冲
-主升真经
-天机...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">9月13日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">23:48</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="游资大v复盘文章汇总20260913
+👉关注众筹频道：https://t.me/zhongchou123</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">9月13日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">23:48</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="游资大v复盘文章汇总20260913
 ❤1"> <div class="time">23:48</div> <div class="content"> <div class="text">游资大V复盘文章汇总20260913
 ❤1</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="古月9.13 深度复盘特别版
 
