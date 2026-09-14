@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3459566",
+    "datetime": "2026-09-14T03:04:03+00:00",
+    "views": "2",
+    "text": "隔夜 SHIBOR 报 1.4120%，下降 0.50 个基点。\n7 天 SHIBOR 报 1.4180%，下降 0.20 个基点。\n3 个月 SHIBOR 报 1.4300%，上涨 0.00 个基点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3459566"
+  },
+  {
+    "post": "Financial_Express/3459565",
+    "datetime": "2026-09-14T03:03:02+00:00",
+    "views": "32",
+    "text": "iPhoneDuo 有望支持微信双开\n科技媒体 macobserver 昨日（9 月 13 日）发布博文，报道称在关于 iPhone Duo 的技术讲解中，苹果披露了 6 项专属应用程序接口，其中最值得关注的是支持应用双开。 在技术讲解中，苹果公司介绍了至少 6 项 iPhone Duo 专属的 API 接口，其中 UIWindowSceneActivation 支持应用请求第二个窗口。 苹果公司表示 iPhone Duo 是其首款支持原生应用双开的机型，但新窗口只能在内屏上打开，不能在外屏上打开。 IT 之家查询公开资料，目前 iOS 原生不支持“应用双开 / 应用分身”，例如不能在同一部 iPhone 上原生安装两个独立的微信并分别登录账号。 按照苹果技术讲解，在 iPhone Duo 上，用户应该可以同时打开两个微信应用，并独立运行不同账号。不过现阶段只是理论上支持，相关实测有待进一步认证。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3459565"
+  },
+  {
     "post": "Financial_Express/3459564",
     "datetime": "2026-09-14T03:02:42+00:00",
-    "views": "1",
+    "views": "32",
     "text": "俊知集团 4.55 亿元收购光纤资产 早盘暴涨超 50%\n9 月 14 日早盘，俊知集团（01300）一度飙升超 70%，截至发稿，涨幅高达 51%，成为今日盘中涨幅最大个股。今年以来，俊知集团累计涨幅超过 660%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3459563",
     "datetime": "2026-09-14T03:02:22+00:00",
-    "views": "1",
+    "views": "32",
     "text": "高盛预计美联储将在 2027 年 9 月和 12 月各降息 25 个基点，此前预期为 6 月和 12 月降息。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3459562",
     "datetime": "2026-09-14T03:01:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "金十图示：2026 年 09 月 14 日（周一）全球富豪榜",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3459550",
     "datetime": "2026-09-14T02:59:03+00:00",
-    "views": "32",
+    "views": "62",
     "text": "百货零售板块短线拉升，徐家汇涨停\n百货零售板块短线拉升，徐家汇涨停，欧亚集团此前封板，上海九百、国芳集团、新世界、新华百货、广百股份等跟涨。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3459549",
     "datetime": "2026-09-14T02:59:02+00:00",
-    "views": "32",
+    "views": "62",
     "text": "沪深两市成交额超 1 万亿元，较上日此时缩量 1360 亿元。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3459548",
     "datetime": "2026-09-14T02:58:42+00:00",
-    "views": "32",
+    "views": "62",
     "text": "海南两地升级发布暴雨红色预警\n9 月 14 日，海南省琼海市和屯昌县将暴雨橙色预警信号升级为暴雨红色预警信号。(央视新闻)",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3459547",
     "datetime": "2026-09-14T02:58:22+00:00",
-    "views": "32",
+    "views": "62",
     "text": "陶瓷基板概念走强，科翔股份 20cm 涨停，蒙娜丽莎、瑞玛精密、博敏电子、赛英电子、骏亚科技、灿勤科技等跟涨。",
     "media_only": false,
     "image_url": null,
@@ -17098,14 +17116,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3457655"
-  },
-  {
-    "post": "Financial_Express/3457654",
-    "datetime": "2026-09-12T03:03:22+00:00",
-    "views": "146",
-    "text": "陶哲轩等 25 位菲尔兹奖得主警告：AI 与数学研究目标严重错位\n当地时间 9 月 11 日，陶哲轩、邓煜等 25 位菲尔兹奖得主发表联合声明，警告人工智能快速用于解决数学问题可能使 AI 发展目标与数学研究目标“严重错位”。声明称，近年来大型语言模型解决重大数学问题的能力大幅提升，但 AI 企业将数学问题作为能力基准，可能损害数学研究和数学界。声明指出，数学研究的核心目标是形成概念理解和新洞见，而非单纯给出“正确或错误”的答案。AI 快速批量生成数学成果，可能压缩成果验证、方法总结、学术交流和引用前人成果的时间，并引发严重的署名和抄袭问题。声明同时认为，AI 也有潜力提升数学研究效率，最终影响将取决于掌握这项技术的人如何作出决策。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3457654"
   }
 ]
