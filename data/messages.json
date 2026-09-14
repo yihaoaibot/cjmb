@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3461387",
+    "datetime": "2026-09-14T13:06:42+00:00",
+    "views": "2",
+    "text": "泰拉生物科学公司完成 4 亿美元股权融资，盘前股价上涨 4.4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461387"
+  },
+  {
+    "post": "Financial_Express/3461386",
+    "datetime": "2026-09-14T13:06:23+00:00",
+    "views": "3",
+    "text": "英伟达扩展 CUDA-Q 平台，推出量子容错计算编排层\n9 月 14 日，英伟达宣布扩展开源 CUDA-Q 平台，推出 CUDA-Q Logical 编排层，为容错量子计算应用开发提供可编程、可验证的工具，支持药物研发、金融建模和材料开发等应用场景。英伟达称，费米国家加速器实验室利用 CUDA-Q Logical 将容错算法开发时间从通常约 5 个月缩短至 3 周，效率提升约 7 倍。此外，Sandia 国家实验室开发的量子计算基准 QUOPS 也已加入 CUDA-Q，用于跨平台评估量子计算硬件向实用化容错量子计算发展的进展。据介绍，CUDA-Q Logical 目前已被费米实验室、Infleqtion、IQM Quantum Computers 等量子计算企业和研究机构采用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461386"
+  },
+  {
+    "post": "Financial_Express/3461385",
+    "datetime": "2026-09-14T13:06:22+00:00",
+    "views": "3",
+    "text": "首个人工智能+脑机接口医疗器械标准发布\n国家药监局 14 日批准发布我国第三个脑机接口医疗器械标准，这也是全球第一个采用人工智能技术处理脑电数据的脑机接口医疗器械产品标准，新标准将于 2027 年 9 月 1 日起正式实施。标准规定了脑机接口医疗器械领域用于人工智能算法的脑电数据集质量要求和评价方法，适用于由人工智能算法对脑电信号进行后处理的脑机接口医疗器械研发、生产、质量控制等环节使用的数据集。（新华社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461385"
+  },
+  {
+    "post": "Financial_Express/3461384",
+    "datetime": "2026-09-14T13:06:03+00:00",
+    "views": "4",
+    "text": "雷军现身宇树科技，观看人形机器人表演\n小米集团创始人雷军现身宇树科技，在王兴兴的陪同下，实地探访并观看人形机器人表演。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461384"
+  },
+  {
+    "post": "Financial_Express/3461383",
+    "datetime": "2026-09-14T13:05:43+00:00",
+    "views": "6",
+    "text": "INFLEQTION 借助英伟达 CUDA-Q 逻辑平台推进容错量子计算软件开发。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461383"
+  },
+  {
+    "post": "Financial_Express/3461382",
+    "datetime": "2026-09-14T13:05:42+00:00",
+    "views": "6",
+    "text": "据 CNBC：微软已制定相关指南约 5 个月。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461382"
+  },
+  {
+    "post": "Financial_Express/3461381",
+    "datetime": "2026-09-14T13:05:23+00:00",
+    "views": "6",
+    "text": "微软已就相关准则开展约五个月的制定工作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461381"
+  },
+  {
+    "post": "Financial_Express/3461380",
+    "datetime": "2026-09-14T13:05:22+00:00",
+    "views": "6",
+    "text": "威兹航空（Wizz Air）首席执行官表示，解决因发动机问题导致的飞机停飞需要 18 个月的时间。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461380"
+  },
+  {
+    "post": "Financial_Express/3461379",
+    "datetime": "2026-09-14T13:05:02+00:00",
+    "views": "36",
+    "text": "俄罗斯 7 月经常账户盈余 17 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461379"
+  },
+  {
     "post": "Financial_Express/3461378",
     "datetime": "2026-09-14T13:04:42+00:00",
-    "views": "2",
+    "views": "36",
     "text": "据 CNBC：微软(MSFT.O)发布行为准则，以限制人工智能模型的使用。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3461377",
     "datetime": "2026-09-14T13:04:36+00:00",
-    "views": "2",
+    "views": "36",
     "text": "据报道，英伟达、Palantir、博思艾伦将限制使用 OpenAI 模型\n另有报道称，微软为未来人工智能模型设定限制。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3461376",
     "datetime": "2026-09-14T13:04:23+00:00",
-    "views": "2",
+    "views": "36",
     "text": "微软为未来人工智能模型设定限制。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3461375",
     "datetime": "2026-09-14T13:04:22+00:00",
-    "views": "2",
+    "views": "36",
     "text": "美国食品药品监督管理局批准缩短 IMDELLTRA 前两剂用药的监测时间。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3461374",
     "datetime": "2026-09-14T13:04:02+00:00",
-    "views": "2",
+    "views": "36",
     "text": "据 The Information：英伟达、Palantir 和博思艾伦汉密尔顿将限制对 Anthropic 模型的使用。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3461373",
     "datetime": "2026-09-14T13:03:43+00:00",
-    "views": "2",
+    "views": "36",
     "text": "FEMSA 将回购至多 2.8 亿美元的股份。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3461372",
     "datetime": "2026-09-14T13:03:42+00:00",
-    "views": "2",
+    "views": "36",
     "text": "燃料油连续主力合约日内涨 3%，现报 4496.00 元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3461371",
     "datetime": "2026-09-14T13:03:23+00:00",
-    "views": "33",
+    "views": "36",
     "text": "英伟达、帕兰泰尔、博思艾伦将限制使用 OpenAI 模型。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3461370",
     "datetime": "2026-09-14T13:03:02+00:00",
-    "views": "33",
+    "views": "36",
     "text": "网飞、亚马逊、油管成立全新流媒体联盟。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3461368",
     "datetime": "2026-09-14T13:02:43+00:00",
-    "views": "34",
+    "views": "37",
     "text": "据 Axios：奈飞(NFLX.O)、亚马逊(AMZN.O)、YouTube 成立新流媒体联盟。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3461369",
     "datetime": "2026-09-14T13:02:43+00:00",
-    "views": "34",
+    "views": "37",
     "text": "上海原油连续主力合约日内涨 9%，现报 846.70 元。",
     "media_only": false,
     "image_url": null,
