@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3461395",
+    "datetime": "2026-09-14T13:08:43+00:00",
+    "views": "1",
+    "text": "现货黄金失守 4260 美元/盎司，日内跌 2.05%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461395"
+  },
+  {
+    "post": "Financial_Express/3461396",
+    "datetime": "2026-09-14T13:08:43+00:00",
+    "views": "1",
+    "text": "CIENA CORPORATION：推出 CIENA VENTURES 企业风险投资计划。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461396"
+  },
+  {
+    "post": "Financial_Express/3461394",
+    "datetime": "2026-09-14T13:08:42+00:00",
+    "views": "1",
+    "text": "现货黄金日内跌 2%，现报 4259.35 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461394"
+  },
+  {
+    "post": "Financial_Express/3461393",
+    "datetime": "2026-09-14T13:08:32+00:00",
+    "views": "1",
+    "text": "微软为未来人工智能模型设定限制，微软制定相关准则已约五个月。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461393"
+  },
+  {
+    "post": "Financial_Express/3461392",
+    "datetime": "2026-09-14T13:08:22+00:00",
+    "views": "1",
+    "text": "纽约期金失守 4300 美元/盎司，日内跌 2.48%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461392"
+  },
+  {
+    "post": "Financial_Express/3461391",
+    "datetime": "2026-09-14T13:07:35+00:00",
+    "views": "2",
+    "text": "美银将标普 500 指数年底目标从 7100 点上调至 7400 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461391"
+  },
+  {
+    "post": "Financial_Express/3461389",
+    "datetime": "2026-09-14T13:07:23+00:00",
+    "views": "3",
+    "text": "赛诺菲将收购 Cheplapharm 26.4%的股权；赛诺菲将向 Cheplapharm 出售 20 种药品和三个生产基地。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461389"
+  },
+  {
+    "post": "Financial_Express/3461390",
+    "datetime": "2026-09-14T13:07:23+00:00",
+    "views": "3",
+    "text": "美国银行给出标普 500 指数 12 个月目标位 7800。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461390"
+  },
+  {
+    "post": "Financial_Express/3461388",
+    "datetime": "2026-09-14T13:07:02+00:00",
+    "views": "4",
+    "text": "美国银行将标普 500 指数年终目标位从 7100 上调至 7400。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461388"
+  },
+  {
     "post": "Financial_Express/3461387",
     "datetime": "2026-09-14T13:06:42+00:00",
-    "views": "2",
+    "views": "34",
     "text": "泰拉生物科学公司完成 4 亿美元股权融资，盘前股价上涨 4.4%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3461386",
     "datetime": "2026-09-14T13:06:23+00:00",
-    "views": "3",
+    "views": "35",
     "text": "英伟达扩展 CUDA-Q 平台，推出量子容错计算编排层\n9 月 14 日，英伟达宣布扩展开源 CUDA-Q 平台，推出 CUDA-Q Logical 编排层，为容错量子计算应用开发提供可编程、可验证的工具，支持药物研发、金融建模和材料开发等应用场景。英伟达称，费米国家加速器实验室利用 CUDA-Q Logical 将容错算法开发时间从通常约 5 个月缩短至 3 周，效率提升约 7 倍。此外，Sandia 国家实验室开发的量子计算基准 QUOPS 也已加入 CUDA-Q，用于跨平台评估量子计算硬件向实用化容错量子计算发展的进展。据介绍，CUDA-Q Logical 目前已被费米实验室、Infleqtion、IQM Quantum Computers 等量子计算企业和研究机构采用。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3461385",
     "datetime": "2026-09-14T13:06:22+00:00",
-    "views": "3",
+    "views": "35",
     "text": "首个人工智能+脑机接口医疗器械标准发布\n国家药监局 14 日批准发布我国第三个脑机接口医疗器械标准，这也是全球第一个采用人工智能技术处理脑电数据的脑机接口医疗器械产品标准，新标准将于 2027 年 9 月 1 日起正式实施。标准规定了脑机接口医疗器械领域用于人工智能算法的脑电数据集质量要求和评价方法，适用于由人工智能算法对脑电信号进行后处理的脑机接口医疗器械研发、生产、质量控制等环节使用的数据集。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3461383",
     "datetime": "2026-09-14T13:05:43+00:00",
-    "views": "6",
+    "views": "37",
     "text": "INFLEQTION 借助英伟达 CUDA-Q 逻辑平台推进容错量子计算软件开发。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3461382",
     "datetime": "2026-09-14T13:05:42+00:00",
-    "views": "6",
+    "views": "37",
     "text": "据 CNBC：微软已制定相关指南约 5 个月。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3461381",
     "datetime": "2026-09-14T13:05:23+00:00",
-    "views": "6",
+    "views": "37",
     "text": "微软已就相关准则开展约五个月的制定工作。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3461380",
     "datetime": "2026-09-14T13:05:22+00:00",
-    "views": "6",
+    "views": "37",
     "text": "威兹航空（Wizz Air）首席执行官表示，解决因发动机问题导致的飞机停飞需要 18 个月的时间。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3461379",
     "datetime": "2026-09-14T13:05:02+00:00",
-    "views": "36",
+    "views": "37",
     "text": "俄罗斯 7 月经常账户盈余 17 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3461378",
     "datetime": "2026-09-14T13:04:42+00:00",
-    "views": "36",
+    "views": "37",
     "text": "据 CNBC：微软(MSFT.O)发布行为准则，以限制人工智能模型的使用。",
     "media_only": false,
     "image_url": null,
@@ -92,8 +173,8 @@
   {
     "post": "Financial_Express/3461377",
     "datetime": "2026-09-14T13:04:36+00:00",
-    "views": "36",
-    "text": "据报道，英伟达、Palantir、博思艾伦将限制使用 OpenAI 模型\n另有报道称，微软为未来人工智能模型设定限制。",
+    "views": "37",
+    "text": "据报道，英伟达、Palantir、博思艾伦将限制使用 OpenAI 模型。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3461377"
@@ -101,7 +182,7 @@
   {
     "post": "Financial_Express/3461376",
     "datetime": "2026-09-14T13:04:23+00:00",
-    "views": "36",
+    "views": "37",
     "text": "微软为未来人工智能模型设定限制。",
     "media_only": false,
     "image_url": null,
