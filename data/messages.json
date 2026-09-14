@@ -1,8 +1,107 @@
 [
   {
+    "post": "Financial_Express/3461368",
+    "datetime": "2026-09-14T13:02:43+00:00",
+    "views": "2",
+    "text": "据 Axios：奈飞(NFLX.O)、亚马逊(AMZN.O)、YouTube 成立新流媒体联盟。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461368"
+  },
+  {
+    "post": "Financial_Express/3461369",
+    "datetime": "2026-09-14T13:02:43+00:00",
+    "views": "2",
+    "text": "上海原油连续主力合约日内涨 9%，现报 846.70 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461369"
+  },
+  {
+    "post": "Financial_Express/3461367",
+    "datetime": "2026-09-14T13:02:02+00:00",
+    "views": "3",
+    "text": "派拉蒙(PSKY.O)：将要约收购和交换要约期限延长至 9 月 25 日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461367"
+  },
+  {
+    "post": "Financial_Express/3461366",
+    "datetime": "2026-09-14T13:01:43+00:00",
+    "views": "4",
+    "text": "英伟达：CUDA-Q 逻辑平台现已通过 GitHub 上线。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461366"
+  },
+  {
+    "post": "Financial_Express/3461365",
+    "datetime": "2026-09-14T13:01:42+00:00",
+    "views": "4",
+    "text": "波音与美国航空完成首个 737 MAX 起落架更换。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461365"
+  },
+  {
+    "post": "Financial_Express/3461364",
+    "datetime": "2026-09-14T13:01:41+00:00",
+    "views": "4",
+    "text": "今年以来，我国创新药出海步伐再提速，对外授权交易总额突破 1200 亿美元，同比增长 36%。其中首付款规模超百亿美元，市场同时呈现单笔平均交易金额稳步增长、首付款金额与占比双双提升、大额交易频频落地的特点，彰显出本土创新药的含金量不断提高。（新华社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461364"
+  },
+  {
+    "post": "Financial_Express/3461363",
+    "datetime": "2026-09-14T13:01:22+00:00",
+    "views": "4",
+    "text": "英伟达(NVDA.O)：CUDA-Q Logical 现已可通过 GitHub 获取。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461363"
+  },
+  {
+    "post": "Financial_Express/3461360",
+    "datetime": "2026-09-14T13:01:03+00:00",
+    "views": "4",
+    "text": "英伟达(NVDA.O)扩展用于容错量子计算的开源 CUDA-Q 平台。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461360"
+  },
+  {
+    "post": "Financial_Express/3461361",
+    "datetime": "2026-09-14T13:01:03+00:00",
+    "views": "4",
+    "text": "英伟达（NVIDIA）扩展开源 CUDA-Q 平台，助力容错量子计算。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461361"
+  },
+  {
+    "post": "Financial_Express/3461362",
+    "datetime": "2026-09-14T13:01:03+00:00",
+    "views": "4",
+    "text": "上海原油连续主力合约日内涨 8%，现报 838.70 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461362"
+  },
+  {
+    "post": "Financial_Express/3461359",
+    "datetime": "2026-09-14T13:00:55+00:00",
+    "views": "4",
+    "text": "夜盘期货开盘，沪银跌近 3%，沪锡、沪金、玻璃跌超 2%，沪锌、纯碱跌近 2%，菜粕、国际铜跌超 1%；原油涨超 9%，燃料油涨近 2%，沥青、液化石油气涨超 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461359"
+  },
+  {
     "post": "Financial_Express/3461358",
     "datetime": "2026-09-14T13:00:42+00:00",
-    "views": "2",
+    "views": "5",
     "text": "玻璃连续主力合约日内跌 2%，现报 925.00 元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +110,7 @@
   {
     "post": "Financial_Express/3461357",
     "datetime": "2026-09-14T13:00:32+00:00",
-    "views": "2",
+    "views": "35",
     "text": "纯碱连续主力合约日内跌 2%，现报 1016.00 元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +119,7 @@
   {
     "post": "Financial_Express/3461355",
     "datetime": "2026-09-14T13:00:31+00:00",
-    "views": "3",
+    "views": "6",
     "text": "纯碱连续主力合约日内跌 1%，现报 1018.00 元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +128,7 @@
   {
     "post": "Financial_Express/3461356",
     "datetime": "2026-09-14T13:00:31+00:00",
-    "views": "2",
+    "views": "35",
     "text": "上海原油连续主力合约日内涨 7%，现报 831.20 元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +137,7 @@
   {
     "post": "Financial_Express/3461354",
     "datetime": "2026-09-14T13:00:27+00:00",
-    "views": "3",
+    "views": "6",
     "text": "玻璃连续主力合约日内跌 1%，现报 926.00 元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +146,7 @@
   {
     "post": "Financial_Express/3461352",
     "datetime": "2026-09-14T13:00:24+00:00",
-    "views": "3",
+    "views": "6",
     "text": "燃料油连续主力合约日内涨 2%，现报 4455.00 元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +155,7 @@
   {
     "post": "Financial_Express/3461353",
     "datetime": "2026-09-14T13:00:24+00:00",
-    "views": "3",
+    "views": "36",
     "text": "国内期货夜盘开盘\n上海原油连续涨 6.97%，白银连续跌 2.83%，红枣连续跌 2.36%，集运指数欧线期货连续涨 2.27%，锡连续跌 2.20%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +164,7 @@
   {
     "post": "Financial_Express/3461350",
     "datetime": "2026-09-14T13:00:23+00:00",
-    "views": "3",
+    "views": "5",
     "text": "深圳：上周深圳全市二手房录得 1395 套，环比上升 9.4%，创近 4 周以来的新高\n9 月 1 日至 13 日贝壳深圳合作门店新房认购量较 8 月同期增长 26%，二手房签约量较 8 月同期增长 22%。深圳贝壳研究院院长肖小平认为，楼市新政有效降低置业门槛，带动刚需、改善群体看房积极性提升，叠加高性价比房源持续入市打通置换链条，不少前期观望的置业者加快入市节奏，新增客源、带看量同步走高，新房认购与二手房签约同步放量。也有受访的购房者坦言，近期已明显感到二手房议价空间收窄，自身仍会保持理性决策节奏。上海易居房地产研究院副院长严跃进表示，40 年是政策上限而非强制期限，购房者可依据自身收入节奏与银行协商，也可通过提前还贷等缩短还款周期。政策的核心目标是突破购房后最初五年的还贷瓶颈期，让更多合理需求“敢贷、能贷”，实操中具有弹性。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +173,7 @@
   {
     "post": "Financial_Express/3461351",
     "datetime": "2026-09-14T13:00:23+00:00",
-    "views": "3",
+    "views": "6",
     "text": "上海原油连续主力合约日内涨 6%，现报 830.60 元。",
     "media_only": false,
     "image_url": null,
@@ -29176,14 +29275,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3458099"
-  },
-  {
-    "post": "Financial_Express/3458098",
-    "datetime": "2026-09-12T13:01:39+00:00",
-    "views": "186",
-    "text": "9 月 11 日下午，针对公司与谷歌合作智能家居项目是否涵盖 AI 眼镜相关产品，创维数字在业绩说明会上表示，公司与 Google Asia Pacific Pte. Ltd 于近日正式签署《智能家居合作协议》。基于 Google Home 平台与 Gemini AI 大模型等能力，公司作为 Google 授权的智能家居合作伙伴及智能家居服务授权经销商，围绕智能家居产品及服务开展深度协同，共同推动智能产品创新与产业化商用落地。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3458098"
   }
 ]
