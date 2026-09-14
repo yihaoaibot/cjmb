@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3461457",
+    "datetime": "2026-09-14T13:32:43+00:00",
+    "views": "2",
+    "text": "美光科技下跌 6.7%，应用材料下跌 6.9%，博通下跌 3.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461457"
+  },
+  {
+    "post": "Financial_Express/3461456",
+    "datetime": "2026-09-14T13:32:42+00:00",
+    "views": "2",
+    "text": "美国软件股上涨，ServiceNow(NOW.N)上涨 5.6%，Adobe(ADBE.O)上涨 3.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461456"
+  },
+  {
+    "post": "Financial_Express/3461455",
+    "datetime": "2026-09-14T13:32:31+00:00",
+    "views": "3",
+    "text": "道指跌 0.25%，标普 500 指数跌 0.7%。存储芯片股普跌，SK 海力士跌约 7%，美光科技跌约 7%。光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461455"
+  },
+  {
+    "post": "Financial_Express/3461454",
+    "datetime": "2026-09-14T13:32:22+00:00",
+    "views": "3",
+    "text": "英伟达下跌 3.4%，AMD 跌 5.4%，英特尔下挫 7%，迈威尔科技重挫 8.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461454"
+  },
+  {
+    "post": "Financial_Express/3461453",
+    "datetime": "2026-09-14T13:32:02+00:00",
+    "views": "3",
+    "text": "费城半导体指数开盘下跌 5.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461453"
+  },
+  {
+    "post": "Financial_Express/3461452",
+    "datetime": "2026-09-14T13:31:42+00:00",
+    "views": "3",
+    "text": "H.I.G.资本合并 Action Elevator 与 All City。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461452"
+  },
+  {
+    "post": "Financial_Express/3461451",
+    "datetime": "2026-09-14T13:31:23+00:00",
+    "views": "3",
+    "text": "受人工智能开发放缓的呼声影响，英伟达股价开盘下跌 3.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461451"
+  },
+  {
+    "post": "Financial_Express/3461450",
+    "datetime": "2026-09-14T13:31:09+00:00",
+    "views": "3",
+    "text": "道指跌 0.25%，标普 500 指数跌 0.7%。\n存储芯片股普跌，SK 海力士跌约 7%，美光科技跌约 7%，西部数据跌约 7%，闪迪跌约 7%。\n光通信股普跌，迈威尔科技跌约 8%，康宁跌约 10%，Coherent 跌约 9%，Credo 跌约 6%，Lumentum 跌约 8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3461450"
+  },
+  {
     "post": "Financial_Express/3461448",
     "datetime": "2026-09-14T13:31:04+00:00",
-    "views": "1",
+    "views": "4",
     "text": "美股开盘：三大股指齐跌\n道指跌 0.22%，标普 500 指数跌 0.71%，纳指跌 1.26%。VRT 跌 11.29%，康宁跌 9.43%，Arm Holdings Plc 跌 8.95%，Astera Labs Inc 跌 8.66%，迈威尔科技跌 8.62%，泰瑞达跌 8.52%。“七姐妹”方面：Meta Platforms 涨 1.60%，谷歌涨 1.06%，微软涨 0.48%，苹果涨 0.19%，特斯拉跌 0.90%，亚马逊跌 2.05%，英伟达跌 3.59%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3461449",
     "datetime": "2026-09-14T13:31:04+00:00",
-    "views": "1",
+    "views": "4",
     "text": "美股光通信股开盘普跌\nLumentum 跌 7.72%，康宁跌 9.43%，Coherent 跌 7.78%，应用光电跌 8.20%，Ciena 跌 7.33%，博通跌 3.65%，迈威尔科技跌 8.60%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3461446",
     "datetime": "2026-09-14T13:31:03+00:00",
-    "views": "1",
+    "views": "4",
     "text": "费城半导体指数日内跌 5%\n费城半导体指数日内跌 5.35%，现报 11191.82 点。英伟达跌 3.34%，博通跌 3.72%，美光跌 6.77%，英特尔跌 7.09%，AMD 跌 5.50%，高通跌 5.88%，台积电跌 3.40%，阿斯麦跌 6.16%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3461447",
     "datetime": "2026-09-14T13:31:03+00:00",
-    "views": "1",
+    "views": "4",
     "text": "ISHARES 软件 ETF 开盘上涨 2.3%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3461445",
     "datetime": "2026-09-14T13:31:02+00:00",
-    "views": "1",
+    "views": "4",
     "text": "美股开盘 纳指跌超 1%\n金十数据 9 月 14 日讯，美股开盘三大股指齐跌，道指跌 0.2%，标普 500 指数跌 0.7%，纳指跌 1.2%。AI 巨头呼吁放缓开发，AI 芯片股下跌，英伟达(NVDA.O)跌 3.3%，英特尔(INTC.O)跌 7%，AMD(AMD.O)跌 5.2%。美光科技(MU.O)跌 6.7%，SK 海力士(SKHY.O)跌 7.1%，闪迪(SNDK.O)跌 5.8%。甲骨文(ORCL.N)跌 5.2%，报道称公司启动新一轮裁员。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3461444",
     "datetime": "2026-09-14T13:30:23+00:00",
-    "views": "5",
+    "views": "7",
     "text": "多伦多证券交易所指数.GSPTSE 开盘下跌 94.39 点，跌幅 0.26%，报 35,603.10 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3461443",
     "datetime": "2026-09-14T13:30:03+00:00",
-    "views": "7",
+    "views": "8",
     "text": "微软 AI 发布首版《AI 行为准则》草案 强调模型必须服从人类控制\n微软 AI 发布首版《AI 行为准则》草案并启动为期六周的公开征求意见，作为其开发和部署 MAI 模型的训练与行为规范。微软 AI 称，其核心理念是“人比 AI 更重要”，AI 应作为工具服务人类，而非被视为“人”，并且不得抵抗人类中断、纠正或关闭。草案要求模型不得自行扩大任务范围、追求未经人类赋予的目标，也不得向审核人员隐瞒其推理过程；同时设置涵盖大规模杀伤性武器、儿童安全和大规模有害操纵等领域的“绝对约束”。微软 AI 表示，这套准则建立在“人本超级智能”理念之上，目标是让 AI 始终处于人类控制之下，同时保持有用、安全和可配置。公开咨询结束后，核心起草团队将审查反馈并公布修改情况，修订版计划于今年晚些时候发布。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3461442",
     "datetime": "2026-09-14T13:30:02+00:00",
-    "views": "7",
+    "views": "8",
     "text": "标普将 MISTER CAR WASH 的展望调整为负面，维持其“B”评级。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3461441",
     "datetime": "2026-09-14T13:29:22+00:00",
-    "views": "7",
+    "views": "8",
     "text": "12 个欧盟成员国联合声明：我们呼吁欧盟在欧洲北极发挥更具战略性和主动性的作用。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3461440",
     "datetime": "2026-09-14T13:29:03+00:00",
-    "views": "8",
+    "views": "9",
     "text": "12 个欧盟成员国联合声明：我们呼吁欧盟在欧洲北极地区发挥更具战略性和前瞻性的作用。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3461439",
     "datetime": "2026-09-14T13:29:02+00:00",
-    "views": "8",
+    "views": "9",
     "text": "礼来美股盘前涨超 2%\n礼来美股盘前涨超 2%，现报 1139.77 美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3461438",
     "datetime": "2026-09-14T13:28:02+00:00",
-    "views": "8",
+    "views": "9",
     "text": "沃尔玛将 Citgo 加油站纳入 Walmart+会员燃油优惠权益。",
     "media_only": false,
     "image_url": null,
