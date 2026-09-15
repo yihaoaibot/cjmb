@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3464866",
+    "datetime": "2026-09-15T14:10:42+00:00",
+    "views": "4",
+    "text": "霍尼韦尔航空航天首席执行官：约有 10 家左右供应商被认定处于 “产能受限” 状态。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464866"
+  },
+  {
+    "post": "Financial_Express/3464865",
+    "datetime": "2026-09-15T14:10:03+00:00",
+    "views": "4",
+    "text": "美国食品药品监督管理局启动加速新药临床试验申请试点项目，开始受理相关申请。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464865"
+  },
+  {
+    "post": "Financial_Express/3464864",
+    "datetime": "2026-09-15T14:10:02+00:00",
+    "views": "4",
+    "text": "阿根廷司法部门对在福克兰群岛运营的石油公司高管提出指控。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464864"
+  },
+  {
+    "post": "Financial_Express/3464862",
+    "datetime": "2026-09-15T14:09:44+00:00",
+    "views": "4",
+    "text": "中核集团拜会青海省委书记吴晓军\n据中核集团消息，9 月 14 日，中核集团党组书记、董事长申彦锋在西宁市拜会青海省委书记、省人大常委会主任吴晓军，双方围绕新能源产业发展与重点项目推进、核技术应用、铀矿资源勘查、二二一基地旧址保护和红色文化传承弘扬等方面开展交流，就进一步深化央地合作达成共识。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464862"
+  },
+  {
+    "post": "Financial_Express/3464863",
+    "datetime": "2026-09-15T14:09:44+00:00",
+    "views": "4",
+    "text": "阿根廷司法部门指控在福克兰群岛开展业务的多家石油公司高管。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464863"
+  },
+  {
+    "post": "Financial_Express/3464861",
+    "datetime": "2026-09-15T14:09:22+00:00",
+    "views": "4",
+    "text": "META 计划明年上半年部署新款自研 ARKE 芯片 展示自研芯片降本优势\n金十数据 9 月 15 日讯，据外媒报道，Meta Platforms(META.O)计划于明年上半年开始在数据中心部署其新款自研 ARKE 芯片，该公司表示，此举将在运行人工智能模型时节省成本和能源。公司早于 2023 年首次宣布了自主研发 AI 芯片的计划，目前正在测试该系列的第三代产品，代号为 MTIA 450，或称 Arke。下一代产品——代号 500，或称 Astrid——将在约一个月内完成设计工作，并于 2027 年底投入数据中心使用。Meta 预计未来会更广泛地采用这一产品。Meta 工程副总裁 Jiun Song 在接受采访时表示：“每一代芯片在技术上都承担着更高的风险，但性能也得到了显著提升。”报道称，Meta 超级智能实验室通过提供对未来 AI 模型及其运行要求的见解（即推理阶段）来协助对芯片进行微调。Song 表示，最终结果是，在运行 AI 模型时，这些芯片的性能将比“英伟达目前推出的任何产品”都更高效，“仅仅是因为我们自己完成了大量工程设计工作。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464861"
+  },
+  {
     "post": "Financial_Express/3464860",
     "datetime": "2026-09-15T14:08:23+00:00",
-    "views": "3",
+    "views": "34",
     "text": "惠誉可持续评级：欧洲银行绿色债券配置及影响报告已开展发行后评估。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3464858",
     "datetime": "2026-09-15T14:07:42+00:00",
-    "views": "35",
+    "views": "36",
     "text": "美国人口普查局：2025 年，92.1%的美国人在部分时段或全年享有医疗保险。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3464857",
     "datetime": "2026-09-15T14:07:23+00:00",
-    "views": "36",
+    "views": "67",
     "text": "贝莱德承诺未来三年投入 1500 万加元，培养加拿大下一代技术工人。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3464856",
     "datetime": "2026-09-15T14:07:22+00:00",
-    "views": "36",
+    "views": "67",
     "text": "德克萨斯州长任命五人加入德克萨斯州 One-Call 委员会。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3464854",
     "datetime": "2026-09-15T14:06:43+00:00",
-    "views": "39",
+    "views": "72",
     "text": "美国人口普查局：2025 年补充贫困率为 13.1%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3464853",
     "datetime": "2026-09-15T14:06:42+00:00",
-    "views": "39",
+    "views": "70",
     "text": "亚马逊：亚马逊旗下 One Medical 的体重管理服务现已覆盖 48 个州及华盛顿特区。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3464850",
     "datetime": "2026-09-15T14:06:03+00:00",
-    "views": "39",
+    "views": "69",
     "text": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊赫桑·坎杜齐被任命为领袖经济小组负责人。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3464851",
     "datetime": "2026-09-15T14:06:03+00:00",
-    "views": "39",
+    "views": "70",
     "text": "美国财长贝森特：我们已经为强劲的经济奠定了基础。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3464848",
     "datetime": "2026-09-15T14:05:44+00:00",
-    "views": "38",
+    "views": "68",
     "text": "伊朗伊斯兰共和国广播电视台消息：埃赫桑・汉杜齐被任命为领袖经济小组负责人。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3464846",
     "datetime": "2026-09-15T14:05:43+00:00",
-    "views": "37",
+    "views": "67",
     "text": "美国人口普查局：2025 年官方贫困率为 10.2%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3464847",
     "datetime": "2026-09-15T14:05:43+00:00",
-    "views": "37",
+    "views": "67",
     "text": "乙二醇连续主力合约日内涨 4%，现报 6198.00 元。",
     "media_only": false,
     "image_url": null,
