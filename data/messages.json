@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3465019",
+    "datetime": "2026-09-15T14:54:42+00:00",
+    "views": "6",
+    "text": "Anthropic 针对 Salesforce 推出 Claude 的插件测试版。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465019"
+  },
+  {
+    "post": "Financial_Express/3465020",
+    "datetime": "2026-09-15T14:54:42+00:00",
+    "views": "6",
+    "text": "加拿大总理卡尼：未来加拿大机场的投资者不一定必须是加拿大主体。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465020"
+  },
+  {
+    "post": "Financial_Express/3465018",
+    "datetime": "2026-09-15T14:54:23+00:00",
+    "views": "9",
+    "text": "加拿大总理卡尼：广义上，我们与美国保持开放贸易。我国 80% 输美商品享受零关税。值得一提的是，美国输往加拿大的商品享受零关税的比例更高。双方可以达成互惠安排，待时机成熟，我们会准备好签署相关协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465018"
+  },
+  {
+    "post": "Financial_Express/3465017",
+    "datetime": "2026-09-15T14:54:04+00:00",
+    "views": "10",
+    "text": "Anthropic 推出 Claude 的 Salesforce 插件，处于测试阶段。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465017"
+  },
+  {
+    "post": "Financial_Express/3465015",
+    "datetime": "2026-09-15T14:54:03+00:00",
+    "views": "10",
+    "text": "Anthropic 推出 Claude 的 Salesforce 插件测试版。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465015"
+  },
+  {
+    "post": "Financial_Express/3465016",
+    "datetime": "2026-09-15T14:54:03+00:00",
+    "views": "10",
+    "text": "美国众议院议长约翰逊：昨晚与特朗普谈到了人工智能风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465016"
+  },
+  {
+    "post": "Financial_Express/3465014",
+    "datetime": "2026-09-15T14:53:43+00:00",
+    "views": "12",
+    "text": "卡尼：加拿大养老金基金有意参与机场特许经营项目。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465014"
+  },
+  {
+    "post": "Financial_Express/3465013",
+    "datetime": "2026-09-15T14:53:42+00:00",
+    "views": "12",
+    "text": "美国众议院议长约翰逊：5000 美元支票的发放需要时间。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465013"
+  },
+  {
+    "post": "Financial_Express/3465012",
+    "datetime": "2026-09-15T14:53:04+00:00",
+    "views": "17",
+    "text": "美国众议长约翰逊：昨晚与总统特朗普讨论 AI 风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465012"
+  },
+  {
+    "post": "Financial_Express/3465011",
+    "datetime": "2026-09-15T14:53:03+00:00",
+    "views": "17",
+    "text": "对二甲苯连续主力合约日内涨 3%，现报 9776.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465011"
+  },
+  {
     "post": "Financial_Express/3465009",
     "datetime": "2026-09-15T14:52:42+00:00",
-    "views": "6",
+    "views": "47",
     "text": "PICKERING：预计未来西半球石油产量将会增加",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3465007",
     "datetime": "2026-09-15T14:52:23+00:00",
-    "views": "12",
+    "views": "51",
     "text": "英国即将任命杰森・斯托克伍德担任投资办公室主席。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3465008",
     "datetime": "2026-09-15T14:52:23+00:00",
-    "views": "12",
+    "views": "52",
     "text": "航运消息人士称，在东西向石油管道遭袭后，沙特红海最大港口延布的石油装船作业暂停。（路透）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3465006",
     "datetime": "2026-09-15T14:52:22+00:00",
-    "views": "12",
+    "views": "51",
     "text": "以太坊跌破 2400 美元，日内跌 4.93%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3465005",
     "datetime": "2026-09-15T14:52:03+00:00",
-    "views": "17",
+    "views": "56",
     "text": "众议院议长约翰逊表示，5000 美元支票发放尚需时日。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3465004",
     "datetime": "2026-09-15T14:51:43+00:00",
-    "views": "49",
+    "views": "57",
     "text": "航运消息源称，此前东西管道遭受袭击后，沙特红海主要港口延布已暂停原油装船作业。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3465003",
     "datetime": "2026-09-15T14:51:42+00:00",
-    "views": "49",
+    "views": "56",
     "text": "据路透社：航运消息人士称，在东西向石油管道遭袭后，沙特红海最大港口延布的石油装船作业暂停。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3465002",
     "datetime": "2026-09-15T14:51:22+00:00",
-    "views": "50",
+    "views": "56",
     "text": "PICKERING:预期全球原油需求将达到每日 1.1 亿至 1.15 亿桶。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3465001",
     "datetime": "2026-09-15T14:51:02+00:00",
-    "views": "52",
+    "views": "58",
     "text": "据伊朗媒体 Fars News：伊朗伊斯兰革命卫队空军在霍尔木兹海峡上空击落第三架美国无人机。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3465000",
     "datetime": "2026-09-15T14:50:42+00:00",
-    "views": "53",
+    "views": "58",
     "text": "阿提哈德航空签署谅解备忘录，探索空铁联运一体化出行、旅游项目开发并提升互联互通水平。",
     "media_only": false,
     "image_url": null,
