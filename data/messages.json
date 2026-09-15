@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3464902",
+    "datetime": "2026-09-15T14:22:28+00:00",
+    "views": "1",
+    "text": "美国财长贝森特：正迎来新版“工业超级周期”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464902"
+  },
+  {
+    "post": "Financial_Express/3464899",
+    "datetime": "2026-09-15T14:22:23+00:00",
+    "views": "1",
+    "text": "美国财长贝森特：新的“工业超级周期”正在展开。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464899"
+  },
+  {
+    "post": "Financial_Express/3464900",
+    "datetime": "2026-09-15T14:22:23+00:00",
+    "views": "1",
+    "text": "阿联酋航空高管表示：我们正尽全力灵活调整运营，（但）我们不能涨价，因为那样会导致客流流失。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464900"
+  },
+  {
+    "post": "Financial_Express/3464901",
+    "datetime": "2026-09-15T14:22:23+00:00",
+    "views": "1",
+    "text": "OpenAI：就 AI 安全性问题与 Anthropic、谷歌合作\nOpenAI 正与其最大竞争对手 Anthropic PBC 和谷歌公司 DeepMind 合作，共同制定应对人工智能（AI）安全问题的措施，此举升级了行业层面的努力，以回应日益高涨的担忧——即该技术可能构成经济和安全威胁。OpenAI 全球政策主管 Chris Lehane 表示，该公司与 Anthropic 和谷歌的接触已持续数周。OpenAI 认为这三家 AI 企业就安全事项进行协调无需反垄断豁免。“共同努力将安全置于优先位置更为可取，”Lehane 在美国华盛顿的一场简报会上表示。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464901"
+  },
+  {
+    "post": "Financial_Express/3464898",
+    "datetime": "2026-09-15T14:22:03+00:00",
+    "views": "1",
+    "text": "美国财长贝森特：新一轮 “工业超级周期” 已经开启。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464898"
+  },
+  {
+    "post": "Financial_Express/3464897",
+    "datetime": "2026-09-15T14:22:02+00:00",
+    "views": "1",
+    "text": "阿联酋航空高管表示：在当前运营成本高企的背景下，我们正尽可能维持票价不上调；对于航空公司而言，（油价）低于每桶 110 美元才具备合理运营条件。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464897"
+  },
+  {
+    "post": "Financial_Express/3464896",
+    "datetime": "2026-09-15T14:21:23+00:00",
+    "views": "32",
+    "text": "美国财长贝森特：实际工资增速超过通胀，职位增加。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464896"
+  },
+  {
+    "post": "Financial_Express/3464895",
+    "datetime": "2026-09-15T14:21:14+00:00",
+    "views": "32",
+    "text": "美国财长贝森特鼓吹实际薪资增速超过通胀，称就业增幅。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3464895"
+  },
+  {
     "post": "Financial_Express/3464894",
     "datetime": "2026-09-15T14:20:23+00:00",
-    "views": "2",
+    "views": "33",
     "text": "德国商业银行发言人就管理层变动报道回应：董事会成员合同仍在履行，监事会由股东大会选举产生，且各方在战略上完全达成一致。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3464893",
     "datetime": "2026-09-15T14:20:22+00:00",
-    "views": "2",
+    "views": "33",
     "text": "西班牙机场管理局（AENA）：8 月旅客客流量同比增长 4.7%，达到 4140 万人次。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3464892",
     "datetime": "2026-09-15T14:20:02+00:00",
-    "views": "2",
+    "views": "33",
     "text": "阿联酋航空高管：目前我们对航空燃油和裂解价差都已做了充分对冲。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3464891",
     "datetime": "2026-09-15T14:18:23+00:00",
-    "views": "32",
+    "views": "63",
     "text": "OpenAI 表示正与 Anthropic、谷歌合作开展人工智能安全相关工作。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3464890",
     "datetime": "2026-09-15T14:18:22+00:00",
-    "views": "32",
+    "views": "63",
     "text": "OpenAI：正与 Anthropic 和谷歌合作开展人工智能安全工作。",
     "media_only": false,
     "image_url": null,
@@ -47,8 +119,8 @@
   {
     "post": "Financial_Express/3464889",
     "datetime": "2026-09-15T14:18:17+00:00",
-    "views": "32",
-    "text": "OpenAI：就 AI 安全性问题与 Anthropic、谷歌合作。",
+    "views": "63",
+    "text": "OpenAI 正与其最大竞争对手 Anthropic PBC 和谷歌公司 DeepMind 合作，共同制定应对人工智能（AI）安全问题的措施，此举升级了行业层面的努力，以回应日益高涨的担忧——即该技术可能构成经济和安全威胁。\nOpenAI 全球政策主管 Chris Lehane 表示，该公司与 Anthropic 和谷歌的接触已持续数周。OpenAI 认为这三家 AI 企业就安全事项进行协调无需反垄断豁免。\n“共同努力将安全置于优先位置更为可取，”Lehane 在美国华盛顿的一场简报会上表示。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3464889"
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3464887",
     "datetime": "2026-09-15T14:18:02+00:00",
-    "views": "33",
+    "views": "64",
     "text": "美国众议院议长宣布本季度将向共和党全国国会委员会及各位候选人划拨 1300 万美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3464886",
     "datetime": "2026-09-15T14:17:54+00:00",
-    "views": "33",
+    "views": "64",
     "text": "提醒：美国财长贝森特在国会众议院的听证会受到反战抗议者的打断。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3464884",
     "datetime": "2026-09-15T14:17:43+00:00",
-    "views": "33",
+    "views": "64",
     "text": "美国财长贝森特在众议院的听证会因反战抗议者干扰而中断，抗议者扯横幅抗议对伊朗发动战争。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3464885",
     "datetime": "2026-09-15T14:17:43+00:00",
-    "views": "33",
+    "views": "64",
     "text": "贝森特的众议院听证会遭到反战抗议者干扰。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3464883",
     "datetime": "2026-09-15T14:16:23+00:00",
-    "views": "65",
+    "views": "66",
     "text": "截至 9 月 13 日，欧盟 2026/27 年度棕榈油进口量为 53 万吨，去年同期为 67 万吨。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3464882",
     "datetime": "2026-09-15T14:16:02+00:00",
-    "views": "66",
+    "views": "67",
     "text": "据报道，美国众议院议长宣布，本季度将向全国共和党国会委员会（NRCC）和候选人转移 1300 万美元。",
     "media_only": false,
     "image_url": null,
@@ -54403,14 +54475,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3458806"
-  },
-  {
-    "post": "Financial_Express/3458805",
-    "datetime": "2026-09-13T14:21:42+00:00",
-    "views": "211",
-    "text": "苹果正在研发一款 iPhone 游戏手柄，该产品极有可能出自 Beats 品牌，而非苹果自有品牌。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3458805"
   }
 ]
