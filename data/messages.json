@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3465730",
+    "datetime": "2026-09-15T23:52:02+00:00",
+    "views": "19",
+    "text": "中金：2027 年光通信行业高景气度确定性抬升\n中金公司研报称，第 27 届光博会热度较往年有增无减，超 4000 家企业参展，整体观众数近 19 万人，较去年同比增长 32%。“锁订单”、“锁物料”成为展会调研关键词，2027 年需求确定性进一步提高。结合展会调研，部分高速光芯片企业订单排期已延伸至 2028 年及以后，光模块订单能见度覆盖 2027 年及以后；头部光模块厂商积极锁定 DSP、mSAP PCB、高速光芯片等核心物料。预计后续交付差异将更多取决于关键物料保障、良率和客户认证，其中先进制程 DSP 可能成为最紧缺环节。预计至 2028 年，NPO 在标准和工程方案逐步收敛、良率爬升后有望加速上量，CPO 或逐步进入 Scale-up；OCS 从少数云厂商自用走向更多 AI 集群，带动 2.4T 轻相干应用下沉；400G per lane 推动器件升级，薄膜铌酸锂有望加速进入客户验证及应用窗口。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465730"
+  },
+  {
+    "post": "Financial_Express/3465729",
+    "datetime": "2026-09-15T23:51:43+00:00",
+    "views": "22",
+    "text": "日本财务省：日本 8 月对美出口同比增长 24.9%，对亚洲出口同比增长 21.4%，对华出口同比增长 20.6%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465729"
+  },
+  {
+    "post": "Financial_Express/3465728",
+    "datetime": "2026-09-15T23:51:42+00:00",
+    "views": "23",
+    "text": "日本财务省：8 月原油初步进口量同比增长 3.6%；动力煤进口同比下降 13.6%，至 909.2 万吨；液化天然气进口同比下降 6.8%，为 499 万吨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465728"
+  },
+  {
     "post": "Financial_Express/3465726",
     "datetime": "2026-09-15T23:50:43+00:00",
-    "views": "9",
+    "views": "34",
     "text": "日本 8 月份出口同比增长 19.3% ，预估为 18.4%。日本 8 月份进口同比增长 28.0%，预估为 26.3%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3465727",
     "datetime": "2026-09-15T23:50:43+00:00",
-    "views": "9",
+    "views": "34",
     "text": "日本 7 月核心机械订单环比 -3.7%，前值 9.7%。日本 7 月核心机械订单环比 -3.7%，前值 9.7%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3465725",
     "datetime": "2026-09-15T23:50:42+00:00",
-    "views": "9",
+    "views": "34",
     "text": "日本 8 月季调后商品贸易帐 -8405.88 亿日元，预期-9842 亿日元，前值-6860 亿日元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3465724",
     "datetime": "2026-09-15T23:50:24+00:00",
-    "views": "16",
+    "views": "39",
     "text": "日本 7 月核心机械订单年率 11.2%，预期 15.3%，前值 16.90%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3465721",
     "datetime": "2026-09-15T23:50:23+00:00",
-    "views": "16",
+    "views": "39",
     "text": "日本 8 月商品进口年率 28%，预期 26.3%，前值由 27.80%修正为 27.90%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3465722",
     "datetime": "2026-09-15T23:50:23+00:00",
-    "views": "16",
+    "views": "39",
     "text": "日本 8 月未季调商品贸易帐 -11056 亿日元，预期-10526 亿日元，前值由-6345 亿日元修正为-6383 亿日元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3465723",
     "datetime": "2026-09-15T23:50:23+00:00",
-    "views": "16",
+    "views": "39",
     "text": "日本 7 月核心机械订单月率 -3.7%，预期-2.8%，前值 9.70%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3465720",
     "datetime": "2026-09-15T23:50:22+00:00",
-    "views": "16",
+    "views": "39",
     "text": "日本 8 月商品出口年率 19.3%，预期 18.2%，前值 23.20%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3465719",
     "datetime": "2026-09-15T23:50:11+00:00",
-    "views": "19",
+    "views": "38",
     "text": "日本 8 月进口同比 28%，前值 27.8%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3465718",
     "datetime": "2026-09-15T23:50:08+00:00",
-    "views": "22",
+    "views": "41",
     "text": "日本 8 月未季调商品贸易帐 -11056.1 亿日元，前值 -6345 亿日元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3465717",
     "datetime": "2026-09-15T23:50:03+00:00",
-    "views": "24",
+    "views": "39",
     "text": "日本 8 月出口同比 19.3%，前值 23.2%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3465715",
     "datetime": "2026-09-15T23:50:02+00:00",
-    "views": "25",
+    "views": "40",
     "text": "日本 7 月核心机械订单同比 11.2%，前值 16.9%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3465716",
     "datetime": "2026-09-15T23:50:02+00:00",
-    "views": "24",
+    "views": "39",
     "text": "亚马逊云服务（AWS）周二表示，在伊朗战争初期无人机袭击造成设施损坏六个多月后，该公司仍无法恢复巴林和阿联酋部分地区的云计算设施访问权限。这是自 4 月以来的首次公开更新。\n今年 3 月，亚马逊在阿联酋的两座数据中心遭无人机直接命中，另一处设施也因附近无人机袭击受损。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3465713",
     "datetime": "2026-09-15T23:50:01+00:00",
-    "views": "24",
+    "views": "38",
     "text": "日本 8 月季调后商品贸易帐 -8405.88 亿日元，前值 -6860 亿日元。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3465714",
     "datetime": "2026-09-15T23:50:01+00:00",
-    "views": "24",
+    "views": "38",
     "text": "日本 7 月核心机械订单环比 -3.7%，前值 9.7%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3465712",
     "datetime": "2026-09-15T23:49:42+00:00",
-    "views": "28",
+    "views": "42",
     "text": "东方空间引力二号预计 2026 年四季度首飞\n记者获悉，东方空间引力二号可重复使用大型液体运载火箭正在加速研制，预计 20206 年四季度面世，其运载能力将达到低轨 21.5 吨，发射价格将进一步大幅降低。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3465711",
     "datetime": "2026-09-15T23:49:23+00:00",
-    "views": "32",
+    "views": "45",
     "text": "据韩联社：韩国外交部长将于周五访问美国，与美国国务卿鲁比奥会晤。",
     "media_only": false,
     "image_url": null,
@@ -59074,32 +59101,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3459117"
-  },
-  {
-    "post": "Financial_Express/3459116",
-    "datetime": "2026-09-13T23:52:42+00:00",
-    "views": "59",
-    "text": "专家：莱茵河低水位或致德国巨额经济损失\n德国工商界人士 13 日警告，受持续低水位影响，莱茵河货运能力大幅下降，预计今年将给德国经济造成巨额损失。 德国莱茵兰-普法尔茨州工商会发言人妮科尔·拉博尔德当天说，当前形势“十分严峻”，预计今年经济损失“巨大”，但损失是否会超过 2018 年仍有待观察。2018 年莱茵河低水位至少造成 24 亿欧元经济损失。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3459116"
-  },
-  {
-    "post": "Financial_Express/3459115",
-    "datetime": "2026-09-13T23:52:02+00:00",
-    "views": "60",
-    "text": "朝中社：朝鲜人民军进行协同火力打击训练\n据朝中社 14 日报道，朝鲜人民军 12 日进行协同火力打击训练，参训部队由 5 个火炮及导弹联合部队选派，出动各种攻击无人机、巡航导弹、大口径热压火箭炮、战术弹道导弹等新型战斗系统。报道说，所有打击武器系统保障火力打击的一致性和同时性，充分显示了集中火力的强大破坏力。(新华社)",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3459115"
-  },
-  {
-    "post": "Financial_Express/3459114",
-    "datetime": "2026-09-13T23:51:22+00:00",
-    "views": "85",
-    "text": "达成 1200 余项成果 多国客商为服贸会点赞\n2026 年中国国际服务贸易交易会昨天（13 日）下午闭幕。本届服贸会务实合作成果丰硕，国际影响力持续提升。本届服贸会共举办 200 场论坛会议及洽谈推介活动，1830 余家企业线下参展。103 家企业机构发布 233 项新成果，新品首发类成果达 119 项，展示了包括数智生产、细胞治疗、科技金融等前沿内容。吸引 11.6 万专业观众注册参会，同比提升 3.7%。务实合作，是本届服贸会的鲜明底色。134 场推介洽谈活动，数量同比增加近 80%；主宾国挪威展团与中方企业机构签订 6 项合作协议；“投资北京”主题推介会现场签约 36 个重点项目；大会共达成 7 类共 1200 余项成果。越开越大的开放之门，让国际伙伴对中国市场充满信心。（央视）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3459114"
   }
 ]
