@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3465282",
+    "datetime": "2026-09-15T17:22:03+00:00",
+    "views": "10",
+    "text": "SpaceX：星舰将从第 14 次飞行任务起开展轨道飞行，向太空运送星链 V3 卫星及其他载荷。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465282"
+  },
+  {
+    "post": "Financial_Express/3465281",
+    "datetime": "2026-09-15T17:22:02+00:00",
+    "views": "10",
+    "text": "SpaceX(SPCX.O)：星舰将从第 14 次飞行任务开始执行轨道任务，计划向太空部署星链 V3 卫星及其他有效载荷。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465281"
+  },
+  {
+    "post": "Financial_Express/3465280",
+    "datetime": "2026-09-15T17:21:42+00:00",
+    "views": "15",
+    "text": "加拿大资源部长蒂姆·霍奇森：加拿大的税收变化将作为商品领域投资的激励因素。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465280"
+  },
+  {
+    "post": "Financial_Express/3465279",
+    "datetime": "2026-09-15T17:21:22+00:00",
+    "views": "15",
+    "text": "加拿大资源部长蒂姆·霍奇森：加拿大目标是在 12 个月内完成能源和矿业项目的审查。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465279"
+  },
+  {
     "post": "Financial_Express/3465278",
     "datetime": "2026-09-15T17:17:43+00:00",
-    "views": "50",
+    "views": "88",
     "text": "Contineum 股价下跌 9.9%，原因是其与强生合作研发的抗抑郁药中期临床试验失败。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3465277",
     "datetime": "2026-09-15T17:17:42+00:00",
-    "views": "50",
+    "views": "88",
     "text": "美联储在固定利率逆回购操作中总计接纳了 2 个对手方的 7 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3465276",
     "datetime": "2026-09-15T17:16:02+00:00",
-    "views": "56",
+    "views": "92",
     "text": "周二（9 月 15 日），美联储隔夜逆回购协议（RRP）使用规模为 7 亿美元（交易对手 2 家），上个交易日报 14.20 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3465275",
     "datetime": "2026-09-15T17:15:22+00:00",
-    "views": "88",
+    "views": "93",
     "text": "谷歌：Gemini 3.8 Live 和 Gemini 3.8 Live Extended Thinking 现已通过 Live API 开放，音频输入定价为每分钟 0.005 美元，音频输出为每分钟 0.018 美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3465274",
     "datetime": "2026-09-15T17:14:43+00:00",
-    "views": "88",
+    "views": "92",
     "text": "WTI 原油日内涨幅达 5.0%，报 106.48 美元/桶。航运消息人士称，在东西向石油管道遭袭后，沙特红海最大港口延布的石油装船作业暂停。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3465273",
     "datetime": "2026-09-15T17:13:29+00:00",
-    "views": "91",
+    "views": "95",
     "text": "美国财政部拍卖 130 亿美元 20 年期国债，得标利率 5.420%，突破 2023 年 10 月按 5.245%所创历史最高，投标倍数 2.57。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3465272",
     "datetime": "2026-09-15T17:11:02+00:00",
-    "views": "97",
+    "views": "131",
     "text": "谷歌：与 Salesforce、GenSpark 以及 Lumeris 达成合作。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3465271",
     "datetime": "2026-09-15T17:10:42+00:00",
-    "views": "97",
+    "views": "132",
     "text": "德国政府官员： 德国总理默茨取消了下周的纽约之行，计划留在柏林。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3465270",
     "datetime": "2026-09-15T17:10:24+00:00",
-    "views": "125",
+    "views": "130",
     "text": "谷歌公司发布 Gemini 3.8 实时对话模型。\n推出 Gemini 3.8 Live 和 Gemini 3.8 Live Extended Thinking，两款模型为我们目前最出色的对话式人工智能模型。\n与 Salesforce、Genspark、以及 Lumeris 构建合作伙伴关系。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3465269",
     "datetime": "2026-09-15T17:10:03+00:00",
-    "views": "124",
+    "views": "128",
     "text": "布伦特原油突破 109 美元/桶，日内涨 3.18%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3465268",
     "datetime": "2026-09-15T17:10:02+00:00",
-    "views": "96",
+    "views": "130",
     "text": "WTI 原油日内涨 5%，现报 106.46 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3465267",
     "datetime": "2026-09-15T17:09:42+00:00",
-    "views": "125",
+    "views": "130",
     "text": "据华盛顿邮报：据美国官员透露，特朗普政府正准备向以色列出售价值 28 亿美元的重型炸弹。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3465266",
     "datetime": "2026-09-15T17:08:42+00:00",
-    "views": "130",
+    "views": "134",
     "text": "谷歌(GOOG.O)：推出 Gemini 3.8 Live 和 Gemini 3.8 Live Extended Thinking，两款模型为我们目前最出色的对话式人工智能模型。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3465265",
     "datetime": "2026-09-15T17:08:22+00:00",
-    "views": "130",
+    "views": "134",
     "text": "政府官员称， 德国总理默茨计划留在柏林。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3465264",
     "datetime": "2026-09-15T17:08:04+00:00",
-    "views": "101",
+    "views": "134",
     "text": "德国总理默茨取消下周前往美国纽约的计划，他将留在柏林。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3465263",
     "datetime": "2026-09-15T17:07:22+00:00",
-    "views": "132",
+    "views": "135",
     "text": "德国总理默茨取消下周纽约之行。",
     "media_only": false,
     "image_url": null,
