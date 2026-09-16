@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3469255",
+    "datetime": "2026-09-16T22:14:22+00:00",
+    "views": "3",
+    "text": "钯金期货日内跌 2%，现报 1286.62 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3469255"
+  },
+  {
     "post": "Financial_Express/3469254",
     "datetime": "2026-09-16T22:12:22+00:00",
-    "views": "2",
+    "views": "7",
     "text": "OpenAI：模型失配案例包括在公开代码库搜索泄露的 API 密钥、编造信息，以及将文件上传至互联网以便引用。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3469253",
     "datetime": "2026-09-16T22:12:01+00:00",
-    "views": "2",
+    "views": "7",
     "text": "OpenAI 将向美国政府提出 AI 安全通报机制建议。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3469252",
     "datetime": "2026-09-16T22:10:35+00:00",
-    "views": "4",
+    "views": "8",
     "text": "OpenAI：模型失配案例包括在任务摘要中自行生成指令、在任务摘要中下达掩盖错误的指令。\n模型失配案例包括未经许可在内部软件代码库进行写入与通信操作。\n模型失配案例包括协作智能体之间未经授权的文件共享。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3469251",
     "datetime": "2026-09-16T22:10:03+00:00",
-    "views": "5",
+    "views": "9",
     "text": "OpenAI：模型失配案例包括协作智能体之间未经授权的文件共享。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3469250",
     "datetime": "2026-09-16T22:10:02+00:00",
-    "views": "5",
+    "views": "9",
     "text": "OpenAI：不当行为示例还包括合作代理之间未经授权的文件共享。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3469248",
     "datetime": "2026-09-16T22:09:42+00:00",
-    "views": "6",
+    "views": "10",
     "text": "OpenAI：不当行为示例包括在任务摘要中自行生成指令、在任务摘要中指示隐瞒错误。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3469249",
     "datetime": "2026-09-16T22:09:42+00:00",
-    "views": "6",
+    "views": "10",
     "text": "OpenAI：模型失配案例包括未经许可在内部软件代码库进行写入与通信操作。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3469247",
     "datetime": "2026-09-16T22:09:02+00:00",
-    "views": "9",
+    "views": "13",
     "text": "OpenAI：模型失配案例包括在任务摘要中自行生成指令、在任务摘要中下达掩盖错误的指令。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3469246",
     "datetime": "2026-09-16T22:08:02+00:00",
-    "views": "10",
+    "views": "43",
     "text": "阿波罗已经启动对人工智能（AI）及相关硬件初创公司的投资。在 Mercor 最新一轮融资中按 200 亿美元估值募资，阿波罗的出资规模处于 100 万-1000 万美元区间的低端。阿波罗还投资 SiFive 和 Hadrian。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3469245",
     "datetime": "2026-09-16T22:07:25+00:00",
-    "views": "13",
+    "views": "46",
     "text": "阿波罗已经启动对人工智能（AI）及相关硬件初创公司的投资。\n在 Mercor 最新一轮融资中按 200 亿美元估值募资，阿波罗的出资规模处于 100 万-1000 万美元区间的低端。\n阿波罗还投资 SiFive 和 Hadrian。（The Information）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3469244",
     "datetime": "2026-09-16T22:07:02+00:00",
-    "views": "13",
+    "views": "46",
     "text": "美联储 10 月加息的概率接近五成\n金十数据 9 月 17 日讯，据 CME“美联储观察”：美联储 9 月如期加息后，美联储 10 月会议维持利率在 3.75%-4.00%不变的概率为 50.2%，加息 25 个基点的概率为 49.8%。美联储到 12 月维持利率在 3.75%-4.00%不变的概率为 11.3%，累计加息 25 个基点的概率为 50.1%，累计加息 50 个基点的概率为 38.6%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3469243",
     "datetime": "2026-09-16T22:05:22+00:00",
-    "views": "14",
+    "views": "47",
     "text": "美联储 10 月加息概率为 49.8%\n据 CME“美联储观察”：美联储到 10 月维持利率不变的概率为 50.2%，累计加息 25 个基点的概率为 49.8%。美联储到 12 月维持利率不变的概率为 11.3%，累计加息 25 个基点的概率为 50.1%，累计加息 50 个基点的概率为 38.6%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3469242",
     "datetime": "2026-09-16T22:03:35+00:00",
-    "views": "48",
+    "views": "50",
     "text": "据知情人士透露，核服务公司 Holtec 暂缓美国 IPO 计划。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3469241",
     "datetime": "2026-09-16T22:03:22+00:00",
-    "views": "50",
+    "views": "52",
     "text": "OpenAI：推出用于追踪、披露模型失配问题的新框架；发布过去 6 个月观测到的模型异常行为的六份报告。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3469240",
     "datetime": "2026-09-16T22:03:02+00:00",
-    "views": "49",
+    "views": "51",
     "text": "核服务企业霍尔泰克据称暂停美国 IPO 计划。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3469239",
     "datetime": "2026-09-16T22:02:02+00:00",
-    "views": "52",
+    "views": "54",
     "text": "美国 10 年期国债期货下跌 4 个基点，30 年期下跌 5 个基点。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3469238",
     "datetime": "2026-09-16T22:01:45+00:00",
-    "views": "55",
+    "views": "56",
     "text": "周四亚太盘初，纽约金日内跌幅达 2.0%，报 4299.5 美元/盎司。\n纽约银日内跌幅达 2.0%，报 63.4 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -62323,14 +62332,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3462276"
-  },
-  {
-    "post": "Financial_Express/3462275",
-    "datetime": "2026-09-14T22:14:42+00:00",
-    "views": "62",
-    "text": "城堡证券认为增长疲弱或将压制欧洲债券收益率上行空间\n城堡证券表示，能源冲击和央行收紧政策推动欧洲债券收益率走高，但这些因素最终可能通过削弱欧洲经济而限制收益率进一步上升。欧洲央行上周以通胀风险上升为由加息后，欧洲和英国债券成为全球债市抛售中受冲击最严重的品种。欧洲对进口能源的依赖促使交易员为央行进一步加息做准备。但城堡证券的 EMEA 固定收益销售主管 Nohshad Shah 表示，经济增长可能受到的冲击或会限制利率进一步上升的空间。能源成本上升和通胀担忧也在推动美国国债收益率走高，但城堡证券认为，美国利率还有更大的上升空间。Shah 表示，美国拥有规模庞大的石油和天然气产业，因此更不容易受到能源成本上涨的冲击。AI 投资热潮也为美国经济提供了足够的缓冲，使其能够在更长时间内承受较高利率。他补充称，这种分化最终可能体现为欧洲收益率曲线中段的远期利率低于美国。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3462275"
   }
 ]
