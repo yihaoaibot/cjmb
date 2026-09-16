@@ -1,9 +1,90 @@
 [
   {
+    "post": "Financial_Express/3468954",
+    "datetime": "2026-09-16T18:56:43+00:00",
+    "views": "2",
+    "text": "标普 500 指数下跌 0.3%，纳斯达克指数上涨 0.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468954"
+  },
+  {
+    "post": "Financial_Express/3468953",
+    "datetime": "2026-09-16T18:56:42+00:00",
+    "views": "2",
+    "text": "美联储主席沃什：今天的行动表明我们对控制通胀是认真的。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468953"
+  },
+  {
+    "post": "Financial_Express/3468952",
+    "datetime": "2026-09-16T18:56:22+00:00",
+    "views": "2",
+    "text": "纽约期金失守 4300 美元/盎司，日内跌 0.76%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468952"
+  },
+  {
+    "post": "Financial_Express/3468951",
+    "datetime": "2026-09-16T18:56:02+00:00",
+    "views": "2",
+    "text": "SpaceXAI 在 Grok 大模型中推出记忆功能，以实现对话会话连续性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468951"
+  },
+  {
+    "post": "Financial_Express/3468950",
+    "datetime": "2026-09-16T18:56:01+00:00",
+    "views": "2",
+    "text": "美联储主席沃什：美债收益率上涨系多种因素所致，其中包括经济走强。\n收益率还与资本竞争、地缘政治有关。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468950"
+  },
+  {
+    "post": "Financial_Express/3468949",
+    "datetime": "2026-09-16T18:55:43+00:00",
+    "views": "3",
+    "text": "标普 500 指数跌至盘中新低，下跌 0.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468949"
+  },
+  {
+    "post": "Financial_Express/3468948",
+    "datetime": "2026-09-16T18:55:42+00:00",
+    "views": "3",
+    "text": "美联储主席沃什：全球热点局势正在推动企业增加相关投资活动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468948"
+  },
+  {
+    "post": "Financial_Express/3468947",
+    "datetime": "2026-09-16T18:55:03+00:00",
+    "views": "4",
+    "text": "美联储主席沃什：认为债券收益率上升有三个原因，首先是经济实力；资本竞争是次要问题，资本支出激增是真实存在的；第三点是地缘政治。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468947"
+  },
+  {
+    "post": "Financial_Express/3468946",
+    "datetime": "2026-09-16T18:55:02+00:00",
+    "views": "4",
+    "text": "沃什列举收益率上升的三个原因\n金十数据 9 月 17 日讯，美联储主席沃什：认为债券收益率上升有三个原因。首先是经济强劲。第二个原因是资本竞争；资本支出激增是真实存在的。第三是地缘政治。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468946"
+  },
+  {
     "post": "Financial_Express/3468945",
     "datetime": "2026-09-16T18:54:37+00:00",
-    "views": "3",
-    "text": "美联储主席沃什：我们现在掌握了有关经济的确已经走强的数据。",
+    "views": "5",
+    "text": "美联储主席沃什：我们现在掌握了有关经济的确已经走强的数据。\n基础经济增速更高，通胀是问题所在。\n价格稳定性是经济增长的根基。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3468945"
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3468944",
     "datetime": "2026-09-16T18:54:22+00:00",
-    "views": "3",
+    "views": "5",
     "text": "美联储主席沃什：首先是经济强劲。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3468942",
     "datetime": "2026-09-16T18:53:42+00:00",
-    "views": "3",
+    "views": "5",
     "text": "高盛跌幅扩大至 2%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3468943",
     "datetime": "2026-09-16T18:53:42+00:00",
-    "views": "3",
+    "views": "5",
     "text": "波音股价继续下跌，跌幅达 4%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3468941",
     "datetime": "2026-09-16T18:53:28+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美联储主席沃什：中性利率并未对利率决定构成可操作的影响。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3468939",
     "datetime": "2026-09-16T18:53:22+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美联储主席沃什：价格稳定是经济增长的基础。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3468940",
     "datetime": "2026-09-16T18:53:22+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美联储主席沃什：物价稳定是经济增长的基础，今天我们朝着实现这一目标迈出了一步。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3468938",
     "datetime": "2026-09-16T18:53:05+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美联储主席沃什：几乎没有迹象表明通胀趋势通过考验。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3468936",
     "datetime": "2026-09-16T18:53:03+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美联储主席沃什：潜在经济增长更高，问题在于通胀。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3468937",
     "datetime": "2026-09-16T18:53:03+00:00",
-    "views": "3",
+    "views": "34",
     "text": "美联储主席沃什：经济确实已增强，通胀是问题所在。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3468935",
     "datetime": "2026-09-16T18:53:02+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美联储主席沃什：我们现在有数据显示经济确实已经增强。",
     "media_only": false,
     "image_url": null,
@@ -61432,23 +61513,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3462066"
-  },
-  {
-    "post": "Financial_Express/3462065",
-    "datetime": "2026-09-14T18:56:22+00:00",
-    "views": "68",
-    "text": "伊朗革命卫队：霍尔木兹海峡已封锁并管控。一艘超大型油轮试图穿越海峡南部限制区时触碰水雷爆炸，火势无法控制，整船陷入大火，此前已对非法通行发出过警告。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3462065"
-  },
-  {
-    "post": "Financial_Express/3462064",
-    "datetime": "2026-09-14T18:55:02+00:00",
-    "views": "104",
-    "text": "Visa 与万事达股价快速回落，跌至日内低点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3462064"
   }
 ]
