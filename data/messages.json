@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3469254",
+    "datetime": "2026-09-16T22:12:22+00:00",
+    "views": "2",
+    "text": "OpenAI：模型失配案例包括在公开代码库搜索泄露的 API 密钥、编造信息，以及将文件上传至互联网以便引用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3469254"
+  },
+  {
+    "post": "Financial_Express/3469253",
+    "datetime": "2026-09-16T22:12:01+00:00",
+    "views": "2",
+    "text": "OpenAI 将向美国政府提出 AI 安全通报机制建议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3469253"
+  },
+  {
     "post": "Financial_Express/3469252",
     "datetime": "2026-09-16T22:10:35+00:00",
-    "views": "3",
+    "views": "4",
     "text": "OpenAI：模型失配案例包括在任务摘要中自行生成指令、在任务摘要中下达掩盖错误的指令。\n模型失配案例包括未经许可在内部软件代码库进行写入与通信操作。\n模型失配案例包括协作智能体之间未经授权的文件共享。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3469251",
     "datetime": "2026-09-16T22:10:03+00:00",
-    "views": "4",
+    "views": "5",
     "text": "OpenAI：模型失配案例包括协作智能体之间未经授权的文件共享。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3469250",
     "datetime": "2026-09-16T22:10:02+00:00",
-    "views": "4",
+    "views": "5",
     "text": "OpenAI：不当行为示例还包括合作代理之间未经授权的文件共享。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3469248",
     "datetime": "2026-09-16T22:09:42+00:00",
-    "views": "5",
+    "views": "6",
     "text": "OpenAI：不当行为示例包括在任务摘要中自行生成指令、在任务摘要中指示隐瞒错误。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3469249",
     "datetime": "2026-09-16T22:09:42+00:00",
-    "views": "5",
+    "views": "6",
     "text": "OpenAI：模型失配案例包括未经许可在内部软件代码库进行写入与通信操作。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3469247",
     "datetime": "2026-09-16T22:09:02+00:00",
-    "views": "8",
+    "views": "9",
     "text": "OpenAI：模型失配案例包括在任务摘要中自行生成指令、在任务摘要中下达掩盖错误的指令。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3469246",
     "datetime": "2026-09-16T22:08:02+00:00",
-    "views": "9",
+    "views": "10",
     "text": "阿波罗已经启动对人工智能（AI）及相关硬件初创公司的投资。在 Mercor 最新一轮融资中按 200 亿美元估值募资，阿波罗的出资规模处于 100 万-1000 万美元区间的低端。阿波罗还投资 SiFive 和 Hadrian。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3469245",
     "datetime": "2026-09-16T22:07:25+00:00",
-    "views": "12",
+    "views": "13",
     "text": "阿波罗已经启动对人工智能（AI）及相关硬件初创公司的投资。\n在 Mercor 最新一轮融资中按 200 亿美元估值募资，阿波罗的出资规模处于 100 万-1000 万美元区间的低端。\n阿波罗还投资 SiFive 和 Hadrian。（The Information）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3469244",
     "datetime": "2026-09-16T22:07:02+00:00",
-    "views": "12",
+    "views": "13",
     "text": "美联储 10 月加息的概率接近五成\n金十数据 9 月 17 日讯，据 CME“美联储观察”：美联储 9 月如期加息后，美联储 10 月会议维持利率在 3.75%-4.00%不变的概率为 50.2%，加息 25 个基点的概率为 49.8%。美联储到 12 月维持利率在 3.75%-4.00%不变的概率为 11.3%，累计加息 25 个基点的概率为 50.1%，累计加息 50 个基点的概率为 38.6%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3469243",
     "datetime": "2026-09-16T22:05:22+00:00",
-    "views": "13",
+    "views": "14",
     "text": "美联储 10 月加息概率为 49.8%\n据 CME“美联储观察”：美联储到 10 月维持利率不变的概率为 50.2%，累计加息 25 个基点的概率为 49.8%。美联储到 12 月维持利率不变的概率为 11.3%，累计加息 25 个基点的概率为 50.1%，累计加息 50 个基点的概率为 38.6%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3469242",
     "datetime": "2026-09-16T22:03:35+00:00",
-    "views": "18",
+    "views": "48",
     "text": "据知情人士透露，核服务公司 Holtec 暂缓美国 IPO 计划。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -62314,32 +62332,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3462275"
-  },
-  {
-    "post": "Financial_Express/3462274",
-    "datetime": "2026-09-14T22:12:01+00:00",
-    "views": "65",
-    "text": "国务院新闻办公室将于 2026 年 9 月 15 日（星期二）上午 10 时举行新闻发布会，请国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖介绍 2026 年 8 月份国民经济运行情况，并答记者问。（央视）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3462274"
-  },
-  {
-    "post": "Financial_Express/3462273",
-    "datetime": "2026-09-14T22:11:42+00:00",
-    "views": "66",
-    "text": "事关国民经济运行 重要发布会今天 10 时举行\n国务院新闻办公室将于 2026 年 9 月 15 日（星期二）上午 10 时举行新闻发布会，请国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖介绍 2026 年 8 月份国民经济运行情况，并答记者问。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3462273"
-  },
-  {
-    "post": "Financial_Express/3462272",
-    "datetime": "2026-09-14T22:11:02+00:00",
-    "views": "65",
-    "text": "事关国民经济运行 重要发布会今天 10 时举行\n金十数据 9 月 15 日讯，国务院新闻办公室将于 2026 年 9 月 15 日（星期二）上午 10 时举行新闻发布会，请国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖介绍 2026 年 8 月份国民经济运行情况，并答记者问。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3462272"
   }
 ]
