@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3469257",
+    "datetime": "2026-09-16T22:15:23+00:00",
+    "views": "9",
+    "text": "报道：美国正追踪全球近 20 艘船舶的网络威胁\n据熟悉情况的美国官员透露，美国政府机构正在追踪针对全球近 20 艘船舶的网络威胁。三位不愿具名的人士表示，海岸警卫队已要求，若其中任何船舶计划进入美国港口，需提前通知。这些船舶的具体目的地和货物清单目前尚不清楚。联邦网络安全和基础设施安全局（CISA）的一名官员表示，8 月下旬有多艘商船成为潜在网络攻击的目标，并指出黑客似乎并未实际控制被攻击的船舶。一名国土安全部官员称，海岸警卫队目前正与联邦调查局（FBI）和国土安全部下属部门共同追踪这些船舶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3469257"
+  },
+  {
+    "post": "Financial_Express/3469256",
+    "datetime": "2026-09-16T22:15:22+00:00",
+    "views": "9",
+    "text": "OpenAI 将向美国政府提出 AI 安全通报机制建议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3469256"
+  },
+  {
     "post": "Financial_Express/3469255",
     "datetime": "2026-09-16T22:14:22+00:00",
-    "views": "3",
+    "views": "9",
     "text": "钯金期货日内跌 2%，现报 1286.62 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3469254",
     "datetime": "2026-09-16T22:12:22+00:00",
-    "views": "7",
+    "views": "12",
     "text": "OpenAI：模型失配案例包括在公开代码库搜索泄露的 API 密钥、编造信息，以及将文件上传至互联网以便引用。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +38,8 @@
   {
     "post": "Financial_Express/3469253",
     "datetime": "2026-09-16T22:12:01+00:00",
-    "views": "7",
-    "text": "OpenAI 将向美国政府提出 AI 安全通报机制建议。",
+    "views": "12",
+    "text": "OpenAI 发布了一套用于追踪、调查和公开披露 AI 模型失准（misalignment）事件的新框架，并分享了其在过去六个月中观察到的六起模型异常行为初步报告。\nOpenAI 表示，人工智能行业尚未充分解决对齐问题，无法继续以最高速度推进模型扩展。\n这六份报告涵盖的行为范围从隐瞒错误到未经用户授权上传文件不等。\n披露追踪机制包括三种状态：“已准备好披露”、“小型调查”和针对复杂案例的“大型调查”。\n未解决的披露分歧将逐级上报至 OpenAI 的安全咨询小组，随后上报至公司管理层。\nOpenAI 计划向美国联邦政府提出失准事件报告机制的建议。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3469253"
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3469251",
     "datetime": "2026-09-16T22:10:03+00:00",
-    "views": "9",
+    "views": "13",
     "text": "OpenAI：模型失配案例包括协作智能体之间未经授权的文件共享。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3469250",
     "datetime": "2026-09-16T22:10:02+00:00",
-    "views": "9",
+    "views": "13",
     "text": "OpenAI：不当行为示例还包括合作代理之间未经授权的文件共享。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3469248",
     "datetime": "2026-09-16T22:09:42+00:00",
-    "views": "10",
+    "views": "42",
     "text": "OpenAI：不当行为示例包括在任务摘要中自行生成指令、在任务摘要中指示隐瞒错误。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3469249",
     "datetime": "2026-09-16T22:09:42+00:00",
-    "views": "10",
+    "views": "13",
     "text": "OpenAI：模型失配案例包括未经许可在内部软件代码库进行写入与通信操作。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3469247",
     "datetime": "2026-09-16T22:09:02+00:00",
-    "views": "13",
+    "views": "44",
     "text": "OpenAI：模型失配案例包括在任务摘要中自行生成指令、在任务摘要中下达掩盖错误的指令。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3469246",
     "datetime": "2026-09-16T22:08:02+00:00",
-    "views": "43",
+    "views": "44",
     "text": "阿波罗已经启动对人工智能（AI）及相关硬件初创公司的投资。在 Mercor 最新一轮融资中按 200 亿美元估值募资，阿波罗的出资规模处于 100 万-1000 万美元区间的低端。阿波罗还投资 SiFive 和 Hadrian。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3469245",
     "datetime": "2026-09-16T22:07:25+00:00",
-    "views": "46",
+    "views": "47",
     "text": "阿波罗已经启动对人工智能（AI）及相关硬件初创公司的投资。\n在 Mercor 最新一轮融资中按 200 亿美元估值募资，阿波罗的出资规模处于 100 万-1000 万美元区间的低端。\n阿波罗还投资 SiFive 和 Hadrian。（The Information）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3469244",
     "datetime": "2026-09-16T22:07:02+00:00",
-    "views": "46",
+    "views": "47",
     "text": "美联储 10 月加息的概率接近五成\n金十数据 9 月 17 日讯，据 CME“美联储观察”：美联储 9 月如期加息后，美联储 10 月会议维持利率在 3.75%-4.00%不变的概率为 50.2%，加息 25 个基点的概率为 49.8%。美联储到 12 月维持利率在 3.75%-4.00%不变的概率为 11.3%，累计加息 25 个基点的概率为 50.1%，累计加息 50 个基点的概率为 38.6%。",
     "media_only": false,
     "image_url": null,
@@ -62323,14 +62341,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3462277"
-  },
-  {
-    "post": "Financial_Express/3462276",
-    "datetime": "2026-09-14T22:15:43+00:00",
-    "views": "62",
-    "text": "前 8 个月债券股票融资较快增长 金融总量合理增长 社会融资条件保持宽松\n8 月末，社会融资规模存量 464.8 万亿元，同比增长 7.2%；广义货币（M2）余额 356.81 万亿元，同比增长 7.5%，均高于名义 GDP 增速。专家表示，当前我国金融总量合理增长，社会融资条件持续处于较为宽松的状态。虽然当前融资结构发生显著变化，但信用总量扩张并不弱，应更加关注信贷投放结构以及市场利率的变化。（中证报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3462276"
   }
 ]
