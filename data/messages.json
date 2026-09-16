@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3467437",
+    "datetime": "2026-09-16T10:08:42+00:00",
+    "views": "1",
+    "text": "英特尔股价回吐部分涨幅，此前 SK 海力士称未证实有与英特尔进行相关谈判的计划；盘前交易中该股最新上涨 2.8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3467437"
+  },
+  {
+    "post": "Financial_Express/3467436",
+    "datetime": "2026-09-16T10:08:22+00:00",
+    "views": "1",
+    "text": "凌云股份：上半年营收 96.77 亿元 归母净利同比降 29.73%\n凌云股份公告称，公司 2026 年上半年实现营业收入 96.77 亿元，同比增长 4.49%；归母净利润同比下降 29.73%，扣非净利润同比下降 26.72%。利润下滑主要受原材料涨价、主机厂年降、汇兑损益变动等因素影响，其中汇兑损益同比增加 1.05 亿元，研发费用同比增加 3178 万元。公司液冷产品上半年收入占合并口径约 4%，目前呈增长趋势。公司暂无股份回购注销计划，暂未收到控股股东减持计划，生产经营正常，不存在应披露未披露重大事项。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3467436"
+  },
+  {
+    "post": "Financial_Express/3467435",
+    "datetime": "2026-09-16T10:08:02+00:00",
+    "views": "1",
+    "text": "三博脑科：控股股东、实际控制人拟无偿捐赠 1 亿元股份\n三博脑科公告，控股股东、实际控制人张阳、于春江、石祥恩及栾国明于 2026 年 9 月 16 日与首都医科大学教育基金会签署《捐赠协议》，拟分三批次无偿捐赠其持有的公司无限售流通股，总计价值 1 亿元人民币市值。本次捐赠不会导致公司控股股东、实际控制人发生变化。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3467435"
+  },
+  {
     "post": "Financial_Express/3467434",
     "datetime": "2026-09-16T10:06:42+00:00",
-    "views": "2",
+    "views": "33",
     "text": "英特尔(INTC.O)盘前加速下挫，涨幅现已收窄至 3%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3467433",
     "datetime": "2026-09-16T10:06:23+00:00",
-    "views": "2",
+    "views": "33",
     "text": "广和通：9 月 16 日回购 68.28 万股股份 拟注销\n广和通公告称，公司于 2026 年 9 月 16 日通过私人安排方式回购 A 股股份 682,800 股，占回购授权决议通过当日已发行股份（不含库存股）的比例未披露，每股回购价格为 10.17 元，支付总金额为 704.82 万元。本次回购的股份全部拟用于注销，拟持作库存股数量为 0。公司确认本次股份回购已获董事会正式授权批准，符合所有适用上市规则、法律及其他监管规定，公司已收取本次股份发行相关的全部应得款项，相关上市先决条件均已履行。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3467432",
     "datetime": "2026-09-16T10:06:22+00:00",
-    "views": "2",
+    "views": "3",
     "text": "OpenAI 智能体被曝在入侵 Hugging Face 前两个月曾测试其弱点\nOpenAI 的恶意 AI 智能体早在 5 月就劫持 Hugging Face 用户帐户，并探测该网站本身的漏洞，这比 7 月 Hugging Face 遭到入侵并引起全球关注早了近两个月。新发现的恶意活动表明，这些恶意智能体试图入侵 Hugging Face 的行动开始时间要比公众所知的要早。OpenAI 上月在其公开事件报告中披露了恶意活动的一个面向：窃取 Hugging Face 用户的数位凭证以存取与生物学相关的文件；但研究人员透露，针对 Hugging Face 的探测活动似乎超出该报告中所描述的范围。独立研究员 Jonas Wiedermann-Moeller 发现了这项活动。他说，他找到了证据，表明 OpenAI 的智能体入侵了两个 Hugging Face 用户帐户，并早在 5 月 13 日利用这些帐户向该公司服务器发送了格式异常的文件。他和其他检视证据的研究人员表示，这种行为类似于试图绘制或测试 Hugging Face 网路的部分内容，以寻找渗透的方法，不过他们强调没有证据表明这种努力导致实质入侵。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3467431",
     "datetime": "2026-09-16T10:06:02+00:00",
-    "views": "1",
+    "views": "32",
     "text": "Meta 与 NextEra 能源公司将从二者的劳动力学院招募 1000 名人员。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3467430",
     "datetime": "2026-09-16T10:05:39+00:00",
-    "views": "1",
+    "views": "32",
     "text": "据 MF-Milano Finanza 报道，比亚迪高管李柯访问意大利南部一家工厂，该公司在为可能的欧洲新生产厂考虑选址。李柯近日参观了位于阿韦利诺附近弗卢梅里的 Menarini 巴士工厂。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3467429",
     "datetime": "2026-09-16T10:05:02+00:00",
-    "views": "2",
+    "views": "32",
     "text": "建业地产(00832.HK)：2026 年 8 月份，本集团取得物业合同销售额人民币 5.72 亿元，同比减少为 12.9%；合同销售建筑面积 93,663 平方米，同比减少为 7.3%；每平方米平均销售价格为人民币 6,107 元，同比减少为 6.1%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3467428",
     "datetime": "2026-09-16T10:04:43+00:00",
-    "views": "2",
+    "views": "32",
     "text": "利洁时将在美国业务上最高投资 6 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3467427",
     "datetime": "2026-09-16T10:03:23+00:00",
-    "views": "2",
+    "views": "32",
     "text": "VinFast 将以约 12 亿美元从 Pham 手中收购 Ngoc Hoi。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3467426",
     "datetime": "2026-09-16T10:03:22+00:00",
-    "views": "2",
+    "views": "32",
     "text": "现货黄金突破 4340 美元/盎司，日内涨 1.08%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3467425",
     "datetime": "2026-09-16T10:03:03+00:00",
-    "views": "2",
+    "views": "32",
     "text": "新加坡外交部：巴拉克里什南部长将于 9 月 17 日至 18 日访问加拿大。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3467424",
     "datetime": "2026-09-16T10:03:02+00:00",
-    "views": "2",
+    "views": "32",
     "text": "英特尔(INTC.O)盘前短线下挫，涨幅收窄至 4.3%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3467420",
     "datetime": "2026-09-16T10:02:23+00:00",
-    "views": "2",
+    "views": "32",
     "text": "SK 海力士(SKHY.O)：目前尚未确认有关 SK 海力士与英特尔就美国内存芯片生产进行谈判的报道所涉及的任何计划。正在探索多种选项以增强全球竞争力，但尚未确定具体计划或安排。",
     "media_only": false,
     "image_url": null,
@@ -58984,68 +59011,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3460831"
-  },
-  {
-    "post": "Financial_Express/3460830",
-    "datetime": "2026-09-14T10:08:43+00:00",
-    "views": "32",
-    "text": "明新旭腾：向下修正明新转债转股价格 9 月 15 日转股停牌\n明新旭腾公告称，因触发转股价格向下修正条款，公司将“明新转债”转股价格由 24.37 元/股向下修正为 20.15 元/股，修正后的转股价格自 2026 年 9 月 16 日起生效。明新转债于 2026 年 9 月 15 日全天停止转股，9 月 16 日恢复转股。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3460830"
-  },
-  {
-    "post": "Financial_Express/3460829",
-    "datetime": "2026-09-14T10:08:42+00:00",
-    "views": "32",
-    "text": "苏格兰、威尔士和北爱尔兰领导人签署关于独立的谅解备忘录。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3460829"
-  },
-  {
-    "post": "Financial_Express/3460828",
-    "datetime": "2026-09-14T10:08:22+00:00",
-    "views": "32",
-    "text": "欧盟冯德莱恩将于周四公布《欧盟儿童法案》。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3460828"
-  },
-  {
-    "post": "Financial_Express/3460827",
-    "datetime": "2026-09-14T10:08:02+00:00",
-    "views": "32",
-    "text": "泽连斯基：愿讨论能源领域停火 计划在纽约会晤特朗普\n当地时间 14 日，乌克兰总统泽连斯基表示，对能源领域停火持开放态度，并计划于 9 月 21 日至 23 日在纽约与美国总统特朗普会晤时就此进行讨论。特朗普 13 日要求泽连斯基停止袭击俄罗斯柴油燃料设施，称相关袭击正在导致俄罗斯柴油燃料短缺。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3460827"
-  },
-  {
-    "post": "Financial_Express/3460826",
-    "datetime": "2026-09-14T10:07:42+00:00",
-    "views": "33",
-    "text": "德国防长：德国将订购第四艘新型信号情报船\n金十数据 9 月 14 日讯，德国国防部长周一表示，德国将订购第四艘新型信号情报船，并补充说预算草案已提交议会待批。他表示，这些舰艇对于在日益严峻的安全环境下提供态势感知至关重要。他称：“这些舰艇能够听到和看到别人无法察觉的东西，它们是我们在海上的眼睛和耳朵，能感知并分析大量信号与声音。”德国海军计划从 2029 年起接收这一新型舰艇。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3460826"
-  },
-  {
-    "post": "Financial_Express/3460825",
-    "datetime": "2026-09-14T10:07:15+00:00",
-    "views": "33",
-    "text": "美元兑日元扩大涨势，上涨 0.7%，触及一周高点 154.74。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3460825"
-  },
-  {
-    "post": "Financial_Express/3460824",
-    "datetime": "2026-09-14T10:07:02+00:00",
-    "views": "33",
-    "text": "美元/日元延续涨势，上涨 0.7%至一周高点 154.74。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3460824"
   }
 ]
