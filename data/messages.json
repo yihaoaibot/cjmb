@@ -1,8 +1,116 @@
 [
   {
+    "post": "Financial_Express/3468979",
+    "datetime": "2026-09-16T19:01:23+00:00",
+    "views": "1",
+    "text": "金十提示：美联储主席沃什发布会结束，本次发布会仅持续约 30 分钟。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468979"
+  },
+  {
+    "post": "Financial_Express/3468978",
+    "datetime": "2026-09-16T19:01:17+00:00",
+    "views": "1",
+    "text": "恒生指数主连夜盘收跌 1.16%，报 24401 点。\n恒生科技指数主连夜盘收跌 1.04%，报 4283 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468978"
+  },
+  {
+    "post": "Financial_Express/3468977",
+    "datetime": "2026-09-16T19:01:02+00:00",
+    "views": "1",
+    "text": "美联储主席沃什：我们今天完成的工作以及未来将继续开展的工作，就是确保价格稳定，从而让可持续增长能够继续。我不认为我们必须损害劳动力市场才能实现目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468977"
+  },
+  {
+    "post": "Financial_Express/3468975",
+    "datetime": "2026-09-16T19:00:22+00:00",
+    "views": "2",
+    "text": "美联储主席沃什：我们今天完成的工作以及未来将继续开展的工作，就是确保价格稳定，从而让可持续增长能够继续。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468975"
+  },
+  {
+    "post": "Financial_Express/3468976",
+    "datetime": "2026-09-16T19:00:22+00:00",
+    "views": "2",
+    "text": "恒指期货夜盘收跌 1.16%，报 24400.91 点，低水 312.87 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468976"
+  },
+  {
+    "post": "Financial_Express/3468974",
+    "datetime": "2026-09-16T19:00:17+00:00",
+    "views": "2",
+    "text": "提醒：美联储主席沃什新闻发布会（较以往提前）结束。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468974"
+  },
+  {
+    "post": "Financial_Express/3468973",
+    "datetime": "2026-09-16T19:00:02+00:00",
+    "views": "2",
+    "text": "道指跌 1.01%，现报 51564.512 点；纳指跌 0.05%，现报 25968.875 点；标普 500 指数跌 0.41%，现报 7554.790 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468973"
+  },
+  {
+    "post": "Financial_Express/3468972",
+    "datetime": "2026-09-16T18:59:46+00:00",
+    "views": "2",
+    "text": "美联储主席沃什：不相信我们必须通过伤害劳动力市场来实现目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468972"
+  },
+  {
+    "post": "Financial_Express/3468971",
+    "datetime": "2026-09-16T18:59:43+00:00",
+    "views": "2",
+    "text": "美国 2 年期国债收益率上涨 6 个基点至年内高点 4.73%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468971"
+  },
+  {
+    "post": "Financial_Express/3468970",
+    "datetime": "2026-09-16T18:59:42+00:00",
+    "views": "2",
+    "text": "美联储主席沃什：AI 工作组应在年底前向我们提交报告。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468970"
+  },
+  {
+    "post": "Financial_Express/3468968",
+    "datetime": "2026-09-16T18:59:22+00:00",
+    "views": "3",
+    "text": "美联储主席沃什：我们关心人工智能的发展及其对需求和供应的影响。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468968"
+  },
+  {
+    "post": "Financial_Express/3468969",
+    "datetime": "2026-09-16T18:59:22+00:00",
+    "views": "2",
+    "text": "美国国债收益率持续上行，10 年期美国国债收益率转涨，最新上涨 0.6 个基点，报 5.002%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3468969"
+  },
+  {
     "post": "Financial_Express/3468967",
     "datetime": "2026-09-16T18:59:02+00:00",
-    "views": "1",
+    "views": "3",
     "text": "钯金期货日内跌 1%，现报 1289.50 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +119,7 @@
   {
     "post": "Financial_Express/3468966",
     "datetime": "2026-09-16T18:58:40+00:00",
-    "views": "3",
+    "views": "5",
     "text": "现货黄金较日高回落 100 美元，跌破 4260 美元/盎司，日内跌 0.78%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +128,7 @@
   {
     "post": "Financial_Express/3468965",
     "datetime": "2026-09-16T18:58:22+00:00",
-    "views": "5",
+    "views": "7",
     "text": "美联储主席沃什：（在被问及人工智能安全性问题时）我们非常关注人工智能领域的发展动向，但风险与收益相关决策应由其他政策制定者做出。",
     "media_only": false,
     "image_url": null,
@@ -29,8 +137,8 @@
   {
     "post": "Financial_Express/3468964",
     "datetime": "2026-09-16T18:58:20+00:00",
-    "views": "5",
-    "text": "美联储主席沃什：我们非常在意人工智能（AI）领域发生的事。",
+    "views": "7",
+    "text": "美联储主席沃什：我们非常在意人工智能（AI）领域发生的事。\n（新成立的）工作组可能会在年底之前向我们通报有关 AI 的情况。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3468964"
@@ -38,7 +146,7 @@
   {
     "post": "Financial_Express/3468962",
     "datetime": "2026-09-16T18:58:02+00:00",
-    "views": "5",
+    "views": "7",
     "text": "纳斯达克 100 指数转跌。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +155,7 @@
   {
     "post": "Financial_Express/3468963",
     "datetime": "2026-09-16T18:58:02+00:00",
-    "views": "5",
+    "views": "7",
     "text": "现货金转跌，最新下跌 0.6%，报每盎司 4,266.29 美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +164,7 @@
   {
     "post": "Financial_Express/3468961",
     "datetime": "2026-09-16T18:57:54+00:00",
-    "views": "5",
+    "views": "7",
     "text": "美联储主席沃什：今天的（加息）行动表明，我们对抑制通胀是认真的。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +182,7 @@
   {
     "post": "Financial_Express/3468960",
     "datetime": "2026-09-16T18:57:42+00:00",
-    "views": "6",
+    "views": "8",
     "text": "美联储主席沃什：今天的行动表明我们严肃对待遏制通胀。",
     "media_only": false,
     "image_url": null,
@@ -61567,41 +61675,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3462073"
-  },
-  {
-    "post": "Financial_Express/3462072",
-    "datetime": "2026-09-14T19:01:14+00:00",
-    "views": "90",
-    "text": "斯洛伐克经济部长 Sakova：日本制铁（新日铁）将在斯洛伐克钢铁厂投资 9 亿欧元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3462072"
-  },
-  {
-    "post": "Financial_Express/3462071",
-    "datetime": "2026-09-14T19:00:23+00:00",
-    "views": "89",
-    "text": "恒生指数主连夜盘收涨 0.62%，报 25028 点。\n恒生科技指数主连夜盘收涨 1.09%，报 4362 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3462071"
-  },
-  {
-    "post": "Financial_Express/3462070",
-    "datetime": "2026-09-14T19:00:22+00:00",
-    "views": "88",
-    "text": "恒指期货夜盘收涨 0.64%，报 25032.95 点，高水 115.35 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3462070"
-  },
-  {
-    "post": "Financial_Express/3462069",
-    "datetime": "2026-09-14T18:59:16+00:00",
-    "views": "92",
-    "text": "美国银行 CEO Brian Moynihan：投行团队做得很好。（彭博电视）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3462069"
   }
 ]
