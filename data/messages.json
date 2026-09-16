@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3465873",
+    "datetime": "2026-09-16T01:20:53+00:00",
+    "views": "1",
+    "text": "香港恒生指数开盘上涨 0.50%，恒生科技指数涨 0.47%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465873"
+  },
+  {
+    "post": "Financial_Express/3465872",
+    "datetime": "2026-09-16T01:20:42+00:00",
+    "views": "1",
+    "text": "OpenAI 首席执行官：AI 行业有能力在不造成重大伤害的情况下安全发展\nOpenAI 首席执行官山姆·奥特曼表示，他相信人工智能企业能够在不对社会造成重大伤害的情况下安全推进技术发展，并对行业实现这一目标“非常有信心”。奥特曼表示，AI 企业应当能够自主推进模型能力提升并确保安全。他同时表示，对近期围绕 AI 发展速度及监管必要性的讨论方式感到失望。此前，Anthropic 首席执行官达里奥·阿莫迪撰文警告 AI 潜在风险，并提出应放缓技术发展。OpenAI 目前正与 Anthropic 及谷歌 DeepMind 合作处理 AI 安全问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465872"
+  },
+  {
+    "post": "Financial_Express/3465871",
+    "datetime": "2026-09-16T01:19:02+00:00",
+    "views": "10",
+    "text": "对二甲苯连续主力合约日内涨 4%，现报 9870.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3465871"
+  },
+  {
     "post": "Financial_Express/3465870",
     "datetime": "2026-09-16T01:16:42+00:00",
-    "views": "18",
+    "views": "54",
     "text": "恒指期货日盘开盘涨 0.43%，报 24781 点，高水 114 点。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3465869",
     "datetime": "2026-09-16T01:16:36+00:00",
-    "views": "18",
+    "views": "54",
     "text": "人民币对美元中间价报 6.7628，上调 42 个点。前一交易日中间价报 6.7670。在岸人民币 16:30 收盘价报 6.7134，夜盘收报 6.7112。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3465868",
     "datetime": "2026-09-16T01:16:02+00:00",
-    "views": "49",
+    "views": "55",
     "text": "人民币兑美元中间价报 6.7628，较上日调高 42 点\n人民币兑美元中间价报 6.7628，较上日调高 42 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3465866",
     "datetime": "2026-09-16T01:15:43+00:00",
-    "views": "51",
+    "views": "56",
     "text": "黄仁勋：人工智能行业不需要新法律，安全与速度可以兼得\n当地时间 9 月 15 日，英伟达首席执行官黄仁勋表示，无需针对人工智能安全出台新监管规定，因为市场力量将推动企业在创新的同时确保安全性。他重申，不应认为 AI 开发只能在安全与速度之间二选一。“两者绝对可以兼得。你可以控制开发节奏，直到有信心推出被市场认可的产品。市场力量在其间会发挥作用。”黄仁勋说。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3465865",
     "datetime": "2026-09-16T01:15:42+00:00",
-    "views": "51",
+    "views": "57",
     "text": "星星冷链重启 IPO\n证监会网站披露，浙江星星冷链集成股份有限公司于 2026 年 9 月 15 日在浙江证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为中信证券。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3465864",
     "datetime": "2026-09-16T01:15:23+00:00",
-    "views": "50",
+    "views": "86",
     "text": "光环新网：截至目前已投产机柜约 9.2 万个\n光环新网(300383)9 月 16 日在互动平台表示，2025 年以来公司高密机柜投放提速，新增投产 3.6 万台，截至目前已投产机柜约 9.2 万个。新交付机柜上架率存在爬坡周期，目前正逐步提升。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3465863",
     "datetime": "2026-09-16T01:15:22+00:00",
-    "views": "49",
+    "views": "55",
     "text": "恒指期货日盘开盘涨 0.28%，报 24746.12 点，高水 78.88 点。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3465862",
     "datetime": "2026-09-16T01:15:03+00:00",
-    "views": "49",
+    "views": "85",
     "text": "花旗称，新加坡房地产销售势头将在第四季度恢复。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3465861",
     "datetime": "2026-09-16T01:15:02+00:00",
-    "views": "49",
+    "views": "54",
     "text": "联合国：也门西海岸战事升级 超 10 万人流离失所\n 当地时间 15 日，联合国秘书长发言人迪雅里克在纽约总部表示，也门西海岸战事持续升级，已造成超过 10 万人在也门境内流离失所，数千人跨越曼德海峡前往吉布提。联合国当天宣布紧急拨款 900 万美元用于救助流离失所民众。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3465860",
     "datetime": "2026-09-16T01:13:23+00:00",
-    "views": "95",
+    "views": "98",
     "text": "敦煌种业股价波动，近 1 个月登上龙虎榜 15 次，公司回应\n近一个月，敦煌种业登上龙虎榜 15 次。其中，国泰海通证券总部、中信证券上海分公司、高盛（中国）证券上海浦东新区世纪大道证券营业部交投最为活跃，上榜次数分别为 12 次、11 次、9 次。对此，敦煌种业方面回应，种业是农业的前端，受厄尔尼诺气候变化消息影响，近期农业板块受到资金关注。大田玉米种子从 8 月底开始进入收获期，收获期会持续到 10 月份。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3465859",
     "datetime": "2026-09-16T01:12:22+00:00",
-    "views": "91",
+    "views": "93",
     "text": "敦煌种业股价波动，近 1 个月登上龙虎榜 15 次，公司回应\n近一个月，敦煌种业登上龙虎榜 15 次。对此，敦煌种业方面回应中国证券报·中证金牛座记者，种业是农业的前端，受厄尔尼诺气候变化消息影响，近期农业板块受到资金关注。大田玉米种子从 8 月底开始进入收获期，收获期会持续到 10 月份。对于市场关注的种业预收款问题，敦煌种业董秘张玉财称，种子行业基本都会有预收款，但每家公司预收的情况不一样，行业一般是 7 月份开始进行。种子通常 10 月份陆续完成加工，会优先给交了预付资金的经销商安排发货。经销商拿到种子后，省级经销商会先铺货到县级经销商，县级经销商再去农户做宣传。如果订得早，价格会有优惠。且如果有预付，经销商的销售压力会增加，也会及时进行销售。(中证金牛座)",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3465857",
     "datetime": "2026-09-16T01:11:23+00:00",
-    "views": "94",
+    "views": "96",
     "text": "平陆运河将于今日通航 “黄金水道”重塑西南物流新格局\n全长 134.2 公里、总投资约 727 亿元的西南“黄金水道”——平陆运河将于今天通航。平路运河不仅将改写广西无江海直航的历史，更将深刻重塑我国西南地区的物流与经济版图。 （央视）",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3465858",
     "datetime": "2026-09-16T01:11:23+00:00",
-    "views": "94",
+    "views": "96",
     "text": "上海合作组织开发银行多边磋商第五次会议在浙江杭州举行\n2026 年 9 月 14 日至 15 日，上海合作组织开发银行多边磋商第五次会议在浙江杭州举行。财政部副部长廖岷与巴基斯坦驻华使馆经济公使阿斯拉姆·乔杜里共同主持会议，部长助理常军红出席会议并发言。（财政部）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3465855",
     "datetime": "2026-09-16T01:11:22+00:00",
-    "views": "93",
+    "views": "95",
     "text": "上海合作组织开发银行多边磋商第五次会议在浙江杭州举行\n金十数据 9 月 16 日讯，2026 年 9 月 14 日至 15 日，上海合作组织开发银行多边磋商第五次会议在浙江杭州举行。财政部副部长廖岷与巴基斯坦驻华使馆经济公使阿斯拉姆·乔杜里共同主持会议，部长助理常军红出席会议并发言。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3465856",
     "datetime": "2026-09-16T01:11:22+00:00",
-    "views": "92",
+    "views": "94",
     "text": "Meta：THREADS 在亚太地区为青少年引入家长监督功能。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3465854",
     "datetime": "2026-09-16T01:10:02+00:00",
-    "views": "96",
+    "views": "98",
     "text": "OpenAI 最新投资或将用于并购。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3465853",
     "datetime": "2026-09-16T01:09:35+00:00",
-    "views": "96",
+    "views": "98",
     "text": "如果 OpenAI 进行新一轮融资，可能会推迟 IPO。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -58948,59 +58975,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3459275"
-  },
-  {
-    "post": "Financial_Express/3459273",
-    "datetime": "2026-09-14T01:20:43+00:00",
-    "views": "50",
-    "text": "燃料油连续主力合约日内涨 5%，现报 4507.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3459273"
-  },
-  {
-    "post": "Financial_Express/3459272",
-    "datetime": "2026-09-14T01:20:42+00:00",
-    "views": "51",
-    "text": "MSCI 亚太指数下跌 1%至 274.89 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3459272"
-  },
-  {
-    "post": "Financial_Express/3459271",
-    "datetime": "2026-09-14T01:20:02+00:00",
-    "views": "56",
-    "text": "预告：商务部定于 9 月 17 日下午 3 时举行新闻发布会\n金十数据 9 月 14 日讯，商务部定于 2026 年 9 月 17 日(星期四)下午 3 时举行新闻发布会，新闻发言人介绍近期商务领域重点工作有关情况，并答记者问。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3459271"
-  },
-  {
-    "post": "Financial_Express/3459270",
-    "datetime": "2026-09-14T01:19:42+00:00",
-    "views": "57",
-    "text": "低硫燃料油连续主力合约日内涨 4%，现报 5707.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3459270"
-  },
-  {
-    "post": "Financial_Express/3459269",
-    "datetime": "2026-09-14T01:19:03+00:00",
-    "views": "88",
-    "text": "王文涛在新德里会见印度商工部部长高耶尔\n9 月 12 日，王文涛部长在新德里会见印度商工部部长高耶尔。王文涛表示，印度是中国重要邻邦。中方愿同印方一道努力，落实好两国领导人重要共识，扩大经贸领域互利合作，平衡解决彼此经贸关切，更好惠及两国企业和人民。高耶尔表示，印方高度重视印中关系，两国关系保持健康稳定发展符合双方利益。印方愿同中方一道努力，在两国领导人战略引领下，加强交流合作，推动互利共赢。（商务部）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3459269"
-  },
-  {
-    "post": "Financial_Express/3459268",
-    "datetime": "2026-09-14T01:19:02+00:00",
-    "views": "58",
-    "text": "东莞证券股份有限公司原副总裁郜泽民主动投案接受监察调查\n东莞市纪委监委 9 月 14 日通报，东莞证券股份有限公司原副总裁郜泽民涉嫌严重职务违法，主动投案，目前正接受东莞市监委监察调查。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3459268"
   }
 ]
