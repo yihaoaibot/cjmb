@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3472069",
+    "datetime": "2026-09-17T17:51:02+00:00",
+    "views": "3",
+    "text": "消息人士：美国页岩油生产商 HighPeak Energy 在收到收购意向后，正在探索出售事宜。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3472069"
+  },
+  {
+    "post": "Financial_Express/3472068",
+    "datetime": "2026-09-17T17:50:42+00:00",
+    "views": "4",
+    "text": "苹果 iOS 系统新增反诈功能\n日前，苹果官方在 iOS 27 和 iPadOS 27 系统中正式引入了冒充风险检测（Impersonation Risk Detection）功能，用于防范正在实施的社会工程类诈骗。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3472068"
+  },
+  {
     "post": "Financial_Express/3472067",
     "datetime": "2026-09-17T17:48:02+00:00",
-    "views": "2",
+    "views": "34",
     "text": "乌克兰总统泽连斯基：与欧盟委员会主席冯德莱恩进行了富有成效的通话，讨论乌克兰安全、防务融资以及欧洲防御能力建设。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3472066",
     "datetime": "2026-09-17T17:47:22+00:00",
-    "views": "32",
+    "views": "34",
     "text": "普京下令将雀巢、欧尚在俄资产转交临时管理\n俄罗斯总统普京下令，将瑞士雀巢（Nestle）在俄罗斯本地企业持有的股份转交临时管理。据俄罗斯官方法律信息门户网站周四公布的一项总统令，普京还下令将法国欧尚（Auchan）在俄资产转交临时管理。自 2023 年以来，俄罗斯一直利用临时管理机制接管其认定为“不友好国家”的企业资产。此前，俄罗斯当局也曾对达能（Danone）和嘉士伯（Carlsberg）等外国公司的资产实施临时管理，其中部分企业资产随后被转让给俄罗斯买家。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3472065",
     "datetime": "2026-09-17T17:46:22+00:00",
-    "views": "32",
+    "views": "34",
     "text": "纽约联储接受了隔夜回购操作中 100 万美元的投标。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3472064",
     "datetime": "2026-09-17T17:45:22+00:00",
-    "views": "32",
+    "views": "34",
     "text": "SEC 深入调查古根海姆 CEO 马克·沃尔特商业帝国，员工遭问询\n美国证券交易委员会（SEC）正就古根海姆合伙公司 CEO 马克·沃尔特旗下业务潜在不当行为展开调查，已向管理 3670 亿美元资产的古根海姆投资公司现任及前任员工发出问询函，重点约谈曾负责保险公司资产组合的人员。部分受访员工已聘请律师应对。尽管古根海姆声明“全力配合”，并称会计处理“合理”、审计师认可，但调查范围已从早期举报人指控的私募部门收入费用披露问题，扩大至沃尔特旗下保险公司的关联交易披露缺失——今年两家保险子公司被曝超 200 亿美元贷款未依规标记为关联方交易，并已于 6 月收到曼哈顿联邦检察官传票。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3472063",
     "datetime": "2026-09-17T17:44:42+00:00",
-    "views": "33",
+    "views": "35",
     "text": "古根海姆员工将就沃尔特相关交易调查接受美国证券交易委员会问询。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3472062",
     "datetime": "2026-09-17T17:43:22+00:00",
-    "views": "33",
+    "views": "65",
     "text": "四大 AI 编程代理曝相同安全漏洞，“技能”更新机制遭劫持风险\n网络安全初创公司 Air 独家披露，Anthropic Claude Code、OpenAI Codex、Google Gemini CLI 及 GitHub Copilot 四款主流 AI 编程代理存在相同逻辑缺陷：其“技能”（Skills）自动更新机制未校验内容变更，攻击者可伪装同名恶意更新绕过扫描，静默窃取企业代码或知识产权。该漏洞源于各厂商验证机制设计雷同，凸显行业共性盲区。目前除 GitHub 外其余三家已修复；GitHub 称平台机制可阻断此类攻击，但未确认补丁状态。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3472061",
     "datetime": "2026-09-17T17:42:22+00:00",
-    "views": "63",
+    "views": "65",
     "text": "伦敦股市 17 日上涨\n英国伦敦股市《金融时报》100 种股票平均价格指数 17 日报收于 10816.14 点，较前一交易日上涨 127.67 点，涨幅为 1.19%。欧洲三大股指当天全线上涨。当天伦敦股市成分股中位于涨幅前五位的个股分别为：奋进矿业公司股价上涨 3.64%，能源供应商 SSE 股价上涨 3.58%，英美资源股价上涨 3.58%，贵金属生产商弗雷斯尼洛股价上涨 3.05%，矿业公司安托法加斯塔股价上涨 3.01%。当天伦敦股市成分股中位于跌幅前五位的个股分别为：潘兴广场控股公司股价下跌 1.93%，玛莎百货股价下跌 1.64%，可口可乐欧洲太平洋合作伙伴公司股价下跌 1.30%，家用清洁用品公司利洁时集团股价下跌 0.99%，安检与质检服务商天祥集团股价下跌 0.68%。欧洲其他两大主要股指方面，法国巴黎股市 CAC40 指数报收于 8186.93 点，较前一交易日上涨 46.34 点，涨幅为 0.57%；德国法兰克福股市 DAX 指数报收于 25716.71 点，较前一交易日上涨 178.96 点，涨幅为 0.70%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3472060",
     "datetime": "2026-09-17T17:41:22+00:00",
-    "views": "32",
+    "views": "63",
     "text": "AMWAY 将支付 2.25 亿美元，了结美国联邦贸易委员会的执法诉讼。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3472059",
     "datetime": "2026-09-17T17:40:23+00:00",
-    "views": "62",
+    "views": "93",
     "text": "美国将古巴实体列入制裁名单。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3472058",
     "datetime": "2026-09-17T17:40:22+00:00",
-    "views": "62",
+    "views": "93",
     "text": "美国财政部制裁总部位于伊朗的一架银行。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3472057",
     "datetime": "2026-09-17T17:39:02+00:00",
-    "views": "62",
+    "views": "93",
     "text": "Anthropic 宣布推出生命科学验证计划 Beta 版，为团队和机构提供生物学相关 AI 模型访问权限。该计划面向生命科学领域用户开放模型使用资格，并适用于 Mythos 5.1、Opus 5 和 Sonnet 5 等模型。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3472056",
     "datetime": "2026-09-17T17:37:22+00:00",
-    "views": "93",
+    "views": "95",
     "text": "美国财政部网站：美国对古巴实施新制裁。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3472055",
     "datetime": "2026-09-17T17:37:02+00:00",
-    "views": "94",
+    "views": "95",
     "text": "谷歌(GOOG.O)：我们正在用全新的工具框架更新 Gemini 托管代理。新版本“antigravity-preview-09-2026”将 Antigravity 工具和行为集成至 Google AI Studio 及 Interactions API。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3472054",
     "datetime": "2026-09-17T17:36:43+00:00",
-    "views": "94",
+    "views": "96",
     "text": "Anthropic：的 Mythos 5.1、Opus 5 以及 Sonnet 5 模型，均适用生命科学计划的标准使用授权条款。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3472053",
     "datetime": "2026-09-17T17:36:42+00:00",
-    "views": "93",
+    "views": "94",
     "text": "英伟达承诺向布鲁克菲尔德 AI 基金投资 20 亿美元\n金十数据 9 月 18 日讯，据投资者文件披露，英伟达(NVDA.O)已向布鲁克菲尔德资产管理公司（Brookfield Asset Management）的全球人工智能基础设施基金承诺投资 20 亿美元。此前该项投资已经披露，但最新文件首次公开了具体金额。布鲁克菲尔德去年表示，英伟达是布鲁克菲尔德人工智能基础设施基金的基石投资者之一，另一家基石投资者为科威特投资局。该基金主要投资于人工智能基础设施建设，包括工厂、专用的表后电力解决方案以及算力基础设施。总部位于纽约的布鲁克菲尔德已经成为为 AI 基础设施建设提供私人资本的重要参与者。该公司正为 AI 基础设施基金筹集 100 亿美元，同时计划在未来两年为其基础设施业务筹集约 500 亿美元，AI 将覆盖其中每一项投资策略。此外，布鲁克菲尔德还是英伟达牵头组建的 5000 亿美元 AI 计算基础设施融资平台的成员之一。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3472052",
     "datetime": "2026-09-17T17:35:09+00:00",
-    "views": "95",
+    "views": "96",
     "text": "Anthropic 推出生命科学认证计划。\nMythos 5.1、Opus 5 以及 Sonnet 5 模型，均适用生命科学计划的标准使用授权条款。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3472051",
     "datetime": "2026-09-17T17:34:42+00:00",
-    "views": "95",
+    "views": "96",
     "text": "Anthropic 推出生命科学验证项目。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3472050",
     "datetime": "2026-09-17T17:34:10+00:00",
-    "views": "95",
+    "views": "96",
     "text": "OpenAI CEO Altman 与英伟达 CEO 将列席美国总统特朗普为习近平准备的国宴。（ABC）",
     "media_only": false,
     "image_url": null,
@@ -60415,14 +60433,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3465296"
-  },
-  {
-    "post": "Financial_Express/3465295",
-    "datetime": "2026-09-15T17:50:57+00:00",
-    "views": "102",
-    "text": "欧洲 STOXX 600 指数收跌 0.28%，报 634.18 点，逼近 6 月 12 日收盘位 633.21 点、6 月 10 日收盘位 618.17 点。\n欧元区 STOXX 50 指数收跌 0.38%，报 6236.50 点，逼近 7 月 23 日收盘位 6210.17 点、6 月 12 日收盘位 6187.63 点。\n富时泛欧绩优 300 指数收跌 0.36%，报 2533.03 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3465295"
   }
 ]
