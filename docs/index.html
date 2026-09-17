@@ -1,9 +1,21 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-17T14:03:22.171942+00:00","clsvipUpdated":"2026-09-17T14:03:33.490194+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月17日</h2><div class="feed"><article class="item" data-search="王毅同美国国务卿鲁比奥通电话。（央视）"><div class="time">22:03</div><div class="content"><div class="text" data-full="王毅同美国国务卿鲁比奥通电话。（央视）" data-short="王毅同美国国务卿鲁比奥通电话。（央视）">王毅同美国国务卿鲁比奥通电话。（央视）</div></div></article><article class="item" data-search="王毅同美国国务卿鲁比奥通电话。(央视新闻）"><div class="time">22:02</div><div class="content"><div class="text" data-full="王毅同美国国务卿鲁比奥通电话。(央视新闻）" data-short="王毅同美国国务卿鲁比奥通电话。(央视新闻）">王毅同美国国务卿鲁比奥通电话。(央视新闻）</div></div></article><article class="item" data-search="英国央行行长贝利：前景尚未明朗，无法对市场四次加息的预期作出判断
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-17T14:05:23.571486+00:00","clsvipUpdated":"2026-09-17T14:05:31.527573+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月17日</h2><div class="feed"><article class="item" data-search="据 the information：openai 接近解决又一个“千禧年大奖难题”。"><div class="time">22:05</div><div class="content"><div class="text" data-full="据 The Information：OpenAI 接近解决又一个“千禧年大奖难题”。" data-short="据 The Information：OpenAI 接近解决又一个“千禧年大奖难题”。">据 The Information：OpenAI 接近解决又一个“千禧年大奖难题”。</div></div></article><article class="item" data-search="油价大幅走低
+据美国财经媒体 cnbc 最新消息，沙特除了继续抢修一处受损主要输油管线外，还通过阿曼一侧水域，增加了经霍尔木兹海峡海运原油出口的供应，此举在很大程度上缓解了市场对中东地区原油出口受阻的担忧，国际油价在当天美国交易时段延续跌势，纽约油价盘中一度跌破每桶 100 美元整数关口。截至北京时间 17 日 21 时 38 分，纽约商品交易所 10 月交货的轻质原油期货价格报每桶 100.77 美元，跌幅为 1.62%；11 月交货的伦敦布伦特原油期货价格报每桶 103.07 美元，跌幅为 2.64%。（央视财经）"><div class="time">22:04</div><div class="content"><div class="text" data-full="油价大幅走低
+据美国财经媒体 CNBC 最新消息，沙特除了继续抢修一处受损主要输油管线外，还通过阿曼一侧水域，增加了经霍尔木兹海峡海运原油出口的供应，此举在很大程度上缓解了市场对中东地区原油出口受阻的担忧，国际油价在当天美国交易时段延续跌势，纽约油价盘中一度跌破每桶 100 美元整数关口。截至北京时间 17 日 21 时 38 分，纽约商品交易所 10 月交货的轻质原油期货价格报每桶 100.77 美元，跌幅为 1.62%；11 月交货的伦敦布伦特原油期货价格报每桶 103.07 美元，跌幅为 2.64%。（央视财经）" data-short="油价大幅走低
+据美国财经媒体 CNBC 最新消息，沙特除了继续抢修一处受损主要输油管线外，还通过阿曼一侧水域，增加了经霍尔木兹海峡海运原油出口的供应，此举在很大程度上缓解了市场对中东地区原油出口受阻的担忧，国际油价在当天美国交易时段延续跌势，纽约油价盘中一度跌破每桶 100 美元整数关口。截至北京时间 17 日 21 时 38 分，纽约商品交易所 10 月交...">油价大幅走低
+据美国财经媒体 CNBC 最新消息，沙特除了继续抢修一处受损主要输油管线外，还通过阿曼一侧水域，增加了经霍尔木兹海峡海运原油出口的供应，此举在很大程度上缓解了市场对中东地区原油出口受阻的担忧，国际油价在当天美国交易时段延续跌势，纽约油价盘中一度跌破每桶 100 美元整数关口。截至北京时间 17 日 21 时 38 分，纽约商品交易所 10 月交...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="openai 即将攻克另一项千禧年难题。"><div class="time">22:04</div><div class="content"><div class="text" data-full="OpenAI 即将攻克另一项千禧年难题。" data-short="OpenAI 即将攻克另一项千禧年难题。">OpenAI 即将攻克另一项千禧年难题。</div></div></article><article class="item" data-search="太力科技：暂未向太空光伏、柔性光伏供应材料 也未向 mlcc 供应膜材料的业务
+太力科技 9 月 17 日在互动平台表示，公司暂未向太空光伏、柔性光伏供应材料，目前也暂未向 mlcc 供应膜材料的业务。公司相关材料具备一定技术迁移潜力，将持续关注材料应用新领域与新机会，若后续开展相关业务拓展，将及时依规披露。公司纳米材料围绕安全防护、功能膜材、表界面材料三大方向开展市场开发，存量业务深耕军警安防、工业防护、家居等领域，新兴方向布局商业航天、人形机器人、半导体、新能源等战略赛道，持续拓展下游应用边界。上述新兴业务尚处于验证阶段，产业化落地存在不确定性。"><div class="time">22:03</div><div class="content"><div class="text" data-full="太力科技：暂未向太空光伏、柔性光伏供应材料 也未向 MLCC 供应膜材料的业务
+太力科技 9 月 17 日在互动平台表示，公司暂未向太空光伏、柔性光伏供应材料，目前也暂未向 MLCC 供应膜材料的业务。公司相关材料具备一定技术迁移潜力，将持续关注材料应用新领域与新机会，若后续开展相关业务拓展，将及时依规披露。公司纳米材料围绕安全防护、功能膜材、表界面材料三大方向开展市场开发，存量业务深耕军警安防、工业防护、家居等领域，新兴方向布局商业航天、人形机器人、半导体、新能源等战略赛道，持续拓展下游应用边界。上述新兴业务尚处于验证阶段，产业化落地存在不确定性。" data-short="太力科技：暂未向太空光伏、柔性光伏供应材料 也未向 MLCC 供应膜材料的业务
+太力科技 9 月 17 日在互动平台表示，公司暂未向太空光伏、柔性光伏供应材料，目前也暂未向 MLCC 供应膜材料的业务。公司相关材料具备一定技术迁移潜力，将持续关注材料应用新领域与新机会，若后续开展相关业务拓展，将及时依规披露。公司纳米材料围绕安全防护、功能膜材、表界面材料三大...">太力科技：暂未向太空光伏、柔性光伏供应材料 也未向 MLCC 供应膜材料的业务
+太力科技 9 月 17 日在互动平台表示，公司暂未向太空光伏、柔性光伏供应材料，目前也暂未向 MLCC 供应膜材料的业务。公司相关材料具备一定技术迁移潜力，将持续关注材料应用新领域与新机会，若后续开展相关业务拓展，将及时依规披露。公司纳米材料围绕安全防护、功能膜材、表界面材料三大...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="王毅同美国国务卿鲁比奥通电话。（央视）"><div class="time">22:03</div><div class="content"><div class="text" data-full="王毅同美国国务卿鲁比奥通电话。（央视）" data-short="王毅同美国国务卿鲁比奥通电话。（央视）">王毅同美国国务卿鲁比奥通电话。（央视）</div></div></article><article class="item" data-search="王毅同美国国务卿鲁比奥通电话。(央视新闻）"><div class="time">22:02</div><div class="content"><div class="text" data-full="王毅同美国国务卿鲁比奥通电话。(央视新闻）" data-short="王毅同美国国务卿鲁比奥通电话。(央视新闻）">王毅同美国国务卿鲁比奥通电话。(央视新闻）</div></div></article><article class="item" data-search="英国央行行长贝利：前景尚未明朗，无法对市场四次加息的预期作出判断
 金十数据 9 月 17 日讯，当被问及市场将未来一年内近四次加息纳入定价是否合理时，英国央行行长贝利周四表示，前景过于难以预测，并补充说其官员们尚未就此进行讨论。“我们这次进行了大量讨论，但并未讨论加息四次的前景，”贝利在英国央行维持利率不变但警告通胀压力加剧后，对媒体表示。他补充称：“市场必须形成自己的判断，但我必须指出：目前情况……实在太过不可预测。”贝利表示，英国国债市场的状况——本周 30 年期国债收益率创下 1998 年以来的最高水平——并未影响该行的此次公告。贝利说“我们在中东冲突爆发前很久就已计划开展这项工作，因此这完全不是对市场状况的反应。”"><div class="time">22:02</div><div class="content"><div class="text" data-full="英国央行行长贝利：前景尚未明朗，无法对市场四次加息的预期作出判断
 金十数据 9 月 17 日讯，当被问及市场将未来一年内近四次加息纳入定价是否合理时，英国央行行长贝利周四表示，前景过于难以预测，并补充说其官员们尚未就此进行讨论。“我们这次进行了大量讨论，但并未讨论加息四次的前景，”贝利在英国央行维持利率不变但警告通胀压力加剧后，对媒体表示。他补充称：“市场必须形成自己的判断，但我必须指出：目前情况……实在太过不可预测。”贝利表示，英国国债市场的状况——本周 30 年期国债收益率创下 1998 年以来的最高水平——并未影响该行的此次公告。贝利说“我们在中东冲突爆发前很久就已计划开展这项工作，因此这完全不是对市场状况的反应。”" data-short="英国央行行长贝利：前景尚未明朗，无法对市场四次加息的预期作出判断
 金十数据 9 月 17 日讯，当被问及市场将未来一年内近四次加息纳入定价是否合理时，英国央行行长贝利周四表示，前景过于难以预测，并补充说其官员们尚未就此进行讨论。“我们这次进行了大量讨论，但并未讨论加息四次的前景，”贝利在英国央行维持利率不变但警告通胀压力加剧后，对媒体表示。他补充称：“市场必...">英国央行行长贝利：前景尚未明朗，无法对市场四次加息的预期作出判断
-金十数据 9 月 17 日讯，当被问及市场将未来一年内近四次加息纳入定价是否合理时，英国央行行长贝利周四表示，前景过于难以预测，并补充说其官员们尚未就此进行讨论。“我们这次进行了大量讨论，但并未讨论加息四次的前景，”贝利在英国央行维持利率不变但警告通胀压力加剧后，对媒体表示。他补充称：“市场必...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="白宫考虑为网络研究与初创公司设立孵化器。"><div class="time">22:01</div><div class="content"><div class="text" data-full="白宫考虑为网络研究与初创公司设立孵化器。" data-short="白宫考虑为网络研究与初创公司设立孵化器。">白宫考虑为网络研究与初创公司设立孵化器。</div></div></article><article class="item" data-search="惠誉维持摩洛哥“bb+”评级，展望稳定。"><div class="time">22:01</div><div class="content"><div class="text" data-full="惠誉维持摩洛哥“BB+”评级，展望稳定。" data-short="惠誉维持摩洛哥“BB+”评级，展望稳定。">惠誉维持摩洛哥“BB+”评级，展望稳定。</div></div></article><article class="item" data-search="洲际交易所纽约可可期货跌幅超 4%，跌至每吨 5732 美元。"><div class="time">22:01</div><div class="content"><div class="text" data-full="洲际交易所纽约可可期货跌幅超 4%，跌至每吨 5732 美元。" data-short="洲际交易所纽约可可期货跌幅超 4%，跌至每吨 5732 美元。">洲际交易所纽约可可期货跌幅超 4%，跌至每吨 5732 美元。</div></div></article><article class="item" data-search="白宫行政令草案包含一项网络技术发展计划，旨在与美国相关工作保持一致。"><div class="time">22:00</div><div class="content"><div class="text" data-full="白宫行政令草案包含一项网络技术发展计划，旨在与美国相关工作保持一致。" data-short="白宫行政令草案包含一项网络技术发展计划，旨在与美国相关工作保持一致。">白宫行政令草案包含一项网络技术发展计划，旨在与美国相关工作保持一致。</div></div></article><article class="item" data-search="美国 8 月未季调成屋签约销售指数年率 -4.9%，预期-3.9%，前值-2.50%。"><div class="time">22:00</div><div class="content"><div class="text" data-full="美国 8 月未季调成屋签约销售指数年率 -4.9%，预期-3.9%，前值-2.50%。" data-short="美国 8 月未季调成屋签约销售指数年率 -4.9%，预期-3.9%，前值-2.50%。">美国 8 月未季调成屋签约销售指数年率 -4.9%，预期-3.9%，前值-2.50%。</div></div></article><article class="item" data-search="美国 8 月成屋签约销售指数月率 0.3%，预期-0.6%，前值由-2.30%修正为-2.6%。美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。"><div class="time">22:00</div><div class="content"><div class="text" data-full="美国 8 月成屋签约销售指数月率 0.3%，预期-0.6%，前值由-2.30%修正为-2.6%。美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。" data-short="美国 8 月成屋签约销售指数月率 0.3%，预期-0.6%，前值由-2.30%修正为-2.6%。美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。">美国 8 月成屋签约销售指数月率 0.3%，预期-0.6%，前值由-2.30%修正为-2.6%。美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。</div></div></article><article class="item" data-search="美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。"><div class="time">22:00</div><div class="content"><div class="text" data-full="美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。" data-short="美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。">美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。</div></div></article><article class="item" data-search="美国 8 月成屋签约销售指数环比 0.3%，预期 -0.1%，前值 -2.3%。"><div class="time">22:00</div><div class="content"><div class="text" data-full="美国 8 月成屋签约销售指数环比 0.3%，预期 -0.1%，前值 -2.3%。" data-short="美国 8 月成屋签约销售指数环比 0.3%，预期 -0.1%，前值 -2.3%。">美国 8 月成屋签约销售指数环比 0.3%，预期 -0.1%，前值 -2.3%。</div></div></article><article class="item" data-search="美国 8 月成屋签约销售指数同比 -4.9%，预期 -5%，前值 -2.5%。"><div class="time">22:00</div><div class="content"><div class="text" data-full="美国 8 月成屋签约销售指数同比 -4.9%，预期 -5%，前值 -2.5%。" data-short="美国 8 月成屋签约销售指数同比 -4.9%，预期 -5%，前值 -2.5%。">美国 8 月成屋签约销售指数同比 -4.9%，预期 -5%，前值 -2.5%。</div></div></article><article class="item" data-search="白宫考虑设立美国网络安全研究和初创企业孵化器。"><div class="time">21:59</div><div class="content"><div class="text" data-full="白宫考虑设立美国网络安全研究和初创企业孵化器。" data-short="白宫考虑设立美国网络安全研究和初创企业孵化器。">白宫考虑设立美国网络安全研究和初创企业孵化器。</div></div></article><article class="item" data-search="美国白宫正考虑在美国设立网络安全研究与初创企业孵化器。"><div class="time">21:59</div><div class="content"><div class="text" data-full="美国白宫正考虑在美国设立网络安全研究与初创企业孵化器。" data-short="美国白宫正考虑在美国设立网络安全研究与初创企业孵化器。">美国白宫正考虑在美国设立网络安全研究与初创企业孵化器。</div></div></article><article class="item" data-search="中蒙电网首次实现“网对网”互联互通
+金十数据 9 月 17 日讯，当被问及市场将未来一年内近四次加息纳入定价是否合理时，英国央行行长贝利周四表示，前景过于难以预测，并补充说其官员们尚未就此进行讨论。“我们这次进行了大量讨论，但并未讨论加息四次的前景，”贝利在英国央行维持利率不变但警告通胀压力加剧后，对媒体表示。他补充称：“市场必...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="据知情人士透露，美国总统特朗普的政府正在考虑一项计划，拟建立一个由政府主导的孵化器，旨在投资网络安全研究，并孵化专注于开发供政府使用的工具的初创企业。
+白宫国家网络总监办公室一直在起草一项行政命令，将设立一个项目，用于研发与美国政府优先事项相一致的网络安全技术。该计划的目标是吸引私人风险投资机构的资金。在某一版本的草案中，该项目被描述为一个“网络铸造厂”（cyber foundry），将催生新的公司。"><div class="time">22:01</div><div class="content"><div class="text" data-full="据知情人士透露，美国总统特朗普的政府正在考虑一项计划，拟建立一个由政府主导的孵化器，旨在投资网络安全研究，并孵化专注于开发供政府使用的工具的初创企业。
+白宫国家网络总监办公室一直在起草一项行政命令，将设立一个项目，用于研发与美国政府优先事项相一致的网络安全技术。该计划的目标是吸引私人风险投资机构的资金。在某一版本的草案中，该项目被描述为一个“网络铸造厂”（cyber foundry），将催生新的公司。" data-short="据知情人士透露，美国总统特朗普的政府正在考虑一项计划，拟建立一个由政府主导的孵化器，旨在投资网络安全研究，并孵化专注于开发供政府使用的工具的初创企业。
+白宫国家网络总监办公室一直在起草一项行政命令，将设立一个项目，用于研发与美国政府优先事项相一致的网络安全技术。该计划的目标是吸引私人风险投资机构的资金。在某一版本的草案中，该项目被描述为一个“网络铸造厂”（c...">据知情人士透露，美国总统特朗普的政府正在考虑一项计划，拟建立一个由政府主导的孵化器，旨在投资网络安全研究，并孵化专注于开发供政府使用的工具的初创企业。
+白宫国家网络总监办公室一直在起草一项行政命令，将设立一个项目，用于研发与美国政府优先事项相一致的网络安全技术。该计划的目标是吸引私人风险投资机构的资金。在某一版本的草案中，该项目被描述为一个“网络铸造厂”（c...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="惠誉维持摩洛哥“bb+”评级，展望稳定。"><div class="time">22:01</div><div class="content"><div class="text" data-full="惠誉维持摩洛哥“BB+”评级，展望稳定。" data-short="惠誉维持摩洛哥“BB+”评级，展望稳定。">惠誉维持摩洛哥“BB+”评级，展望稳定。</div></div></article><article class="item" data-search="洲际交易所纽约可可期货跌幅超 4%，跌至每吨 5732 美元。"><div class="time">22:01</div><div class="content"><div class="text" data-full="洲际交易所纽约可可期货跌幅超 4%，跌至每吨 5732 美元。" data-short="洲际交易所纽约可可期货跌幅超 4%，跌至每吨 5732 美元。">洲际交易所纽约可可期货跌幅超 4%，跌至每吨 5732 美元。</div></div></article><article class="item" data-search="白宫行政令草案包含一项网络技术发展计划，旨在与美国相关工作保持一致。"><div class="time">22:00</div><div class="content"><div class="text" data-full="白宫行政令草案包含一项网络技术发展计划，旨在与美国相关工作保持一致。" data-short="白宫行政令草案包含一项网络技术发展计划，旨在与美国相关工作保持一致。">白宫行政令草案包含一项网络技术发展计划，旨在与美国相关工作保持一致。</div></div></article><article class="item" data-search="美国 8 月未季调成屋签约销售指数年率 -4.9%，预期-3.9%，前值-2.50%。"><div class="time">22:00</div><div class="content"><div class="text" data-full="美国 8 月未季调成屋签约销售指数年率 -4.9%，预期-3.9%，前值-2.50%。" data-short="美国 8 月未季调成屋签约销售指数年率 -4.9%，预期-3.9%，前值-2.50%。">美国 8 月未季调成屋签约销售指数年率 -4.9%，预期-3.9%，前值-2.50%。</div></div></article><article class="item" data-search="美国 8 月成屋签约销售指数月率 0.3%，预期-0.6%，前值由-2.30%修正为-2.6%。美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。"><div class="time">22:00</div><div class="content"><div class="text" data-full="美国 8 月成屋签约销售指数月率 0.3%，预期-0.6%，前值由-2.30%修正为-2.6%。美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。" data-short="美国 8 月成屋签约销售指数月率 0.3%，预期-0.6%，前值由-2.30%修正为-2.6%。美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。">美国 8 月成屋签约销售指数月率 0.3%，预期-0.6%，前值由-2.30%修正为-2.6%。美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。</div></div></article><article class="item" data-search="美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。"><div class="time">22:00</div><div class="content"><div class="text" data-full="美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。" data-short="美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。">美国 8 月成屋签约销售指数 71.2，前值由 71.2 修正为 71。</div></div></article><article class="item" data-search="美国 8 月成屋签约销售指数环比 0.3%，预期 -0.1%，前值 -2.3%。"><div class="time">22:00</div><div class="content"><div class="text" data-full="美国 8 月成屋签约销售指数环比 0.3%，预期 -0.1%，前值 -2.3%。" data-short="美国 8 月成屋签约销售指数环比 0.3%，预期 -0.1%，前值 -2.3%。">美国 8 月成屋签约销售指数环比 0.3%，预期 -0.1%，前值 -2.3%。</div></div></article><article class="item" data-search="美国 8 月成屋签约销售指数同比 -4.9%，预期 -5%，前值 -2.5%。"><div class="time">22:00</div><div class="content"><div class="text" data-full="美国 8 月成屋签约销售指数同比 -4.9%，预期 -5%，前值 -2.5%。" data-short="美国 8 月成屋签约销售指数同比 -4.9%，预期 -5%，前值 -2.5%。">美国 8 月成屋签约销售指数同比 -4.9%，预期 -5%，前值 -2.5%。</div></div></article><article class="item" data-search="白宫考虑设立美国网络安全研究和初创企业孵化器。"><div class="time">21:59</div><div class="content"><div class="text" data-full="白宫考虑设立美国网络安全研究和初创企业孵化器。" data-short="白宫考虑设立美国网络安全研究和初创企业孵化器。">白宫考虑设立美国网络安全研究和初创企业孵化器。</div></div></article><article class="item" data-search="美国白宫正考虑在美国设立网络安全研究与初创企业孵化器。"><div class="time">21:59</div><div class="content"><div class="text" data-full="美国白宫正考虑在美国设立网络安全研究与初创企业孵化器。" data-short="美国白宫正考虑在美国设立网络安全研究与初创企业孵化器。">美国白宫正考虑在美国设立网络安全研究与初创企业孵化器。</div></div></article><article class="item" data-search="中蒙电网首次实现“网对网”互联互通
 记者 17 日从内蒙古电力集团获悉，9 月 16 日 0 时 32 分，随着蒙古国塔旺陶勒盖 220 千伏变电站接入内蒙古电网，内蒙古电力集团对蒙古国南部地区电网供电项目正式投运送电，标志着中蒙两国电网从过去的“点对点”专线补给，升级为“网对网”跨境互联互通。(新华社)"><div class="time">21:59</div><div class="content"><div class="text" data-full="中蒙电网首次实现“网对网”互联互通
 记者 17 日从内蒙古电力集团获悉，9 月 16 日 0 时 32 分，随着蒙古国塔旺陶勒盖 220 千伏变电站接入内蒙古电网，内蒙古电力集团对蒙古国南部地区电网供电项目正式投运送电，标志着中蒙两国电网从过去的“点对点”专线补给，升级为“网对网”跨境互联互通。(新华社)" data-short="中蒙电网首次实现“网对网”互联互通
 记者 17 日从内蒙古电力集团获悉，9 月 16 日 0 时 32 分，随着蒙古国塔旺陶勒盖 220 千伏变电站接入内蒙古电网，内蒙古电力集团对蒙古国南部地区电网供电项目正式投运送电，标志着中蒙两国电网从过去的“点对点”专线补给，升级为“网对网”跨境互联互通。(新华社)">中蒙电网首次实现“网对网”互联互通
@@ -483,7 +495,17 @@ ST 华闻公告，控股子公司安可充与小鸡科技签署《充电资产�
 2026 年全球电视面板全年出货预计约 2.4 亿片，总量小幅回落，但内部尺寸结构发生显著变化。受存储、芯片等元器件成本上涨影响，需求向 55 英寸及以上产品转移。未来两到三年，大尺寸面板或将出现旺季抢货现象。"><div class="time">20:22</div><div class="content"><div class="text" data-full="机构：显示行业告别规模扩张 超大尺寸与 OLED 成竞争主线
 2026 年全球电视面板全年出货预计约 2.4 亿片，总量小幅回落，但内部尺寸结构发生显著变化。受存储、芯片等元器件成本上涨影响，需求向 55 英寸及以上产品转移。未来两到三年，大尺寸面板或将出现旺季抢货现象。" data-short="机构：显示行业告别规模扩张 超大尺寸与 OLED 成竞争主线
 2026 年全球电视面板全年出货预计约 2.4 亿片，总量小幅回落，但内部尺寸结构发生显著变化。受存储、芯片等元器件成本上涨影响，需求向 55 英寸及以上产品转移。未来两到三年，大尺寸面板或将出现旺季抢货现象。">机构：显示行业告别规模扩张 超大尺寸与 OLED 成竞争主线
-2026 年全球电视面板全年出货预计约 2.4 亿片，总量小幅回落，但内部尺寸结构发生显著变化。受存储、芯片等元器件成本上涨影响，需求向 55 英寸及以上产品转移。未来两到三年，大尺寸面板或将出现旺季抢货现象。</div></div></article><article class="item" data-search="现货白银日内涨 4%，现报 65.49 美元/盎司。"><div class="time">20:21</div><div class="content"><div class="text" data-full="现货白银日内涨 4%，现报 65.49 美元/盎司。" data-short="现货白银日内涨 4%，现报 65.49 美元/盎司。">现货白银日内涨 4%，现报 65.49 美元/盎司。</div></div></article><article class="item" data-search="纽约期银突破 66 美元/盎司，日内涨 1.69%。"><div class="time">20:21</div><div class="content"><div class="text" data-full="纽约期银突破 66 美元/盎司，日内涨 1.69%。" data-short="纽约期银突破 66 美元/盎司，日内涨 1.69%。">纽约期银突破 66 美元/盎司，日内涨 1.69%。</div></div></article><article class="item" data-search="现货黄金突破 4370 美元/盎司，日内涨 2.53%。"><div class="time">20:21</div><div class="content"><div class="text" data-full="现货黄金突破 4370 美元/盎司，日内涨 2.53%。" data-short="现货黄金突破 4370 美元/盎司，日内涨 2.53%。">现货黄金突破 4370 美元/盎司，日内涨 2.53%。</div></div></article><article class="item" data-search="纽约期金突破 4410 美元/盎司，日内涨 0.52%。"><div class="time">20:21</div><div class="content"><div class="text" data-full="纽约期金突破 4410 美元/盎司，日内涨 0.52%。" data-short="纽约期金突破 4410 美元/盎司，日内涨 0.52%。">纽约期金突破 4410 美元/盎司，日内涨 0.52%。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月17日 · VIP</h2> <div class="feed"> <article class="item" data-search="2026/09/17-(晚) 机构研究总结和市场消息汇总解读
+2026 年全球电视面板全年出货预计约 2.4 亿片，总量小幅回落，但内部尺寸结构发生显著变化。受存储、芯片等元器件成本上涨影响，需求向 55 英寸及以上产品转移。未来两到三年，大尺寸面板或将出现旺季抢货现象。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月17日 · VIP</h2> <div class="feed"> <article class="item" data-search="【机构龙虎榜解读】pcb+固态电池，产品可有效提高环氧树脂材料的性能，下游主要应用于pcb板等领域，黑磷吨级中试装置调试工作已完成，并已小批量投料试验，这家公司获净买入
+
+#瑞丰高材"> <div class="time">22:04</div> <div class="content"> <div class="text">【机构龙虎榜解读】PCB+固态电池，产品可有效提高环氧树脂材料的性能，下游主要应用于PCB板等领域，黑磷吨级中试装置调试工作已完成，并已小批量投料试验，这家公司获净买入
+
+#瑞丰高材</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【风口研报·公司】已构建起自有+独家代理的户外品牌王国，公司还依托“赛事赋能品牌、品牌赋能赛事”的双向驱动模式，全渠道协同打开成长空间；另有一农牧行业经过多年底部后供需逐步反转，明后年或迎来景气周期
+
+#三夫户外
+#伊利股份"> <div class="time">22:03</div> <div class="content"> <div class="text">【风口研报·公司】已构建起自有+独家代理的户外品牌王国，公司还依托“赛事赋能品牌、品牌赋能赛事”的双向驱动模式，全渠道协同打开成长空间；另有一农牧行业经过多年底部后供需逐步反转，明后年或迎来景气周期
+
+#三夫户外
+#伊利股份</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="2026/09/17-(晚) 机构研究总结和市场消息汇总解读
 
 https://hi189.com/6910.html"> <div class="time">20:11</div> <div class="content"> <div class="text">2026/09/17-(晚) 机构研究总结和市场消息汇总解读
 
@@ -611,108 +633,7 @@ https://hi189.com/6906.html</div> <div style="margin-top:8px;font-size:12px;colo
 
 权益：一般当天晚上更新（免费版第二天早上9点更新）
 
-联系：@cn50etf</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="频道收费项目：频道vip
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大v收费群盘中消息同步：
-
-vip资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-妖股刺客
-
-新生代作手
-邢者狩猎营
-g界孙悟空
-大师兄擒妖
-浮光
-天赢居
-
-清北游资
-时冲
-主升真经
-天机短线
-爱尔兰画眉
-震哥
-李梦尘
-
-红旗大街发哥
-游资胖大叔
-大周先生
-姆爷
-游资混江龙
-徐小明
-天地同力
-
-诗诗复利游
-a股通天宗
-
-先知
-林荫大道
-逻辑派a哥
-
-复盘哥
-鑫多多
-大将潘凤
-奶爸只做核心
-浮光知顶底
-
-借势而为
-来去由心
-嗅嗅掘金
-k神会
-
-费用：100元/月
-
-联系 @cn50etf"> <div class="time">10:20</div> <div class="content"> <div class="text">频道收费项目：频道VIP
-
-包括内容：
-
-红宝书
-各种小作文
-机构观点
-盘中消息通报
-彭博、金融时报一些资讯
-
-专属股票交流群
-游资大V收费群盘中消息同步：
-
-VIP资讯
-机构资讯
-老樊
-老多
-梅森投研
-格兰投研
-妖股刺客
-
-新生代作手
-邢者狩猎营
-G界孙悟空
-大师兄擒妖
-浮光
-天赢居
-
-清北游资
-时冲
-主升真经
-天机...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【盘中宝】成本下降超80%，该ai细分领域市场高速扩容，2026年市场规模预计超400亿元，这家企业细分业务产量同比增长超300%
-
-#掌阅科技
-#中文在线"> <div class="time">10:16</div> <div class="content"> <div class="text">【盘中宝】成本下降超80%，该AI细分领域市场高速扩容，2026年市场规模预计超400亿元，这家企业细分业务产量同比增长超300%
-
-#掌阅科技
-#中文在线</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">9月16日 · VIP</h2> <div class="feed"> <article class="item" data-search="古月9.16 深度复盘/操作计划 
+联系：@cn50etf</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">9月16日 · VIP</h2> <div class="feed"> <article class="item" data-search="古月9.16 深度复盘/操作计划 
 
 https://hi189.com/6901.html"> <div class="time">23:05</div> <div class="content"> <div class="text">古月9.16 深度复盘/操作计划 
 
