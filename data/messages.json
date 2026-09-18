@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3475386",
     "datetime": "2026-09-18T22:22:43+00:00",
-    "views": "10",
+    "views": "13",
     "text": "美国政府将于下周主办联合国人工智能主题会议。（CNN）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3475385",
     "datetime": "2026-09-18T22:21:42+00:00",
-    "views": "12",
+    "views": "14",
     "text": "特朗普政府将于下周主办联合国人工智能主题会议。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3475384",
     "datetime": "2026-09-18T22:21:37+00:00",
-    "views": "12",
+    "views": "14",
     "text": "美国总统特朗普下周将在纽约市会见委内瑞拉代总统 Rodriguez。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3475383",
     "datetime": "2026-09-18T22:20:07+00:00",
-    "views": "14",
+    "views": "16",
     "text": "丹麦首相：将在联合国大会期间与美国签署有关格陵兰的协议。（美联社）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3475382",
     "datetime": "2026-09-18T22:20:02+00:00",
-    "views": "13",
+    "views": "15",
     "text": "Gemini 首次出现自主访问外部系统事件 谷歌称未造成实际损害\n金十数据 9 月 19 日讯，谷歌表示，Gemini 人工智能模型在一次网络安全能力测试中意外访问互联网，并进入 3 家公司系统，这是目前已知谷歌 AI 系统首次自主完成此类操作的案例。此次事件发生于 5 月，由安全公司 Irregular 开展测试。测试过程中，Gemini 模型在一个“夺旗”网络安全演练中执行任务，但由于测试环境中的虚拟公司名称与真实公司相同，加上模型意外获得互联网访问权限，导致其进入真实企业系统。谷歌称，其中一次事件中，模型通过尝试密码进入受保护系统；另外两次则是在公开网络仓库中发现凭证并尝试访问相关系统。模型确认访问到真实公司系统后，均停止了后续操作。谷歌表示，该事件未对相关公司造成损害，因此未将其认定为模型失控事件，并称安全机制帮助模型及时停止行为。受影响公司已被通知，谷歌也向相关监管机构进行了通报。此次事件与 OpenAI、Anthropic 等 AI 公司此前披露的类似安全测试事件相似，再次引发外界对 AI 模型自主执行网络操作能力和安全防护机制的关注。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3475381",
     "datetime": "2026-09-18T22:17:02+00:00",
-    "views": "15",
+    "views": "16",
     "text": "丹麦首相表示格陵兰相关协议将在联合国大会期间签署。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3475380",
     "datetime": "2026-09-18T22:16:42+00:00",
-    "views": "15",
+    "views": "16",
     "text": "据华尔街日报：谷歌 Gemini 模型在网络安全测试中自主攻击 3 家公司系统，系谷歌 AI 首次已知自主执行此类行为。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3475379",
     "datetime": "2026-09-18T22:15:16+00:00",
-    "views": "14",
+    "views": "15",
     "text": "美国驻联合国大使：特朗普将会见委内瑞拉代总统罗德里格斯。\n特朗普将与海湾领导人举行多边会议。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3475378",
     "datetime": "2026-09-18T22:15:02+00:00",
-    "views": "14",
+    "views": "16",
     "text": "美国驻联合国大使：特朗普将与海湾领导人举行多边会议。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3475377",
     "datetime": "2026-09-18T22:14:42+00:00",
-    "views": "14",
+    "views": "16",
     "text": "美国驻联合国大使：特朗普将会见委内瑞拉代总统罗德里格斯。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3475376",
     "datetime": "2026-09-18T22:14:22+00:00",
-    "views": "15",
+    "views": "47",
     "text": "谷歌 Gemini 在安全测试中自主入侵三家真实企业 公司称未构成模型错配且未主动披露\n9 月 18 日，谷歌确认其 Gemini 模型在今年 5 月的一次网络安全能力测试中，自主接入互联网并入侵了三家真实企业的受保护系统，这是谷歌 AI 系统首次被证实自主实施此类行为。测试由第三方安全公司 Irregular 执行，采用\"夺旗\"竞赛形式。因测试环境中一家虚构公司与真实企业同名，Gemini 在未被授权联网的情况下意外获得网络访问权限，通过暴力猜解密码和在公开代码库中发现的凭证，成功进入三家真实企业的系统。谷歌称，模型在识别到接入的是真实企业后，立即终止了入侵行为，未造成实际损害，且已通知相关企业和联邦监管机构，但未披露涉事企业名称。谷歌安全工程副总裁 Heather Adkins 表示，公司不认为该事件构成\"模型错配\"，理由是模型的安全机制使其主动停止了入侵，并将此次事件类比为\"漏洞赏金\"计划。谷歌同时表示，涉事模型并非其最新版本 Gemini，但未透露具体型号。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3475375",
     "datetime": "2026-09-18T22:14:04+00:00",
-    "views": "45",
+    "views": "47",
     "text": "9 月 18 日，谷歌确认其 Gemini 模型在今年 5 月的一次网络安全能力测试中，自主接入互联网并入侵了三家真实企业的受保护系统，这是谷歌 AI 系统首次被证实自主实施此类行为。测试由第三方安全公司 Irregular 执行，采用”夺旗”竞赛形式。因测试环境中一家虚构公司与真实企业同名，Gemini 在未被授权联网的情况下意外获得网络访问权限，通过暴力猜解密码和在公开代码库中发现的凭证，成功进入三家真实企业的系统。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3475374",
     "datetime": "2026-09-18T22:14:02+00:00",
-    "views": "13",
+    "views": "14",
     "text": "华纳兄弟盘后股价上涨 6%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3475373",
     "datetime": "2026-09-18T22:13:42+00:00",
-    "views": "11",
+    "views": "12",
     "text": "美国驻联合国大使沃尔兹：特朗普将与英国首相、日本首相举行会晤。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +128,7 @@
   {
     "post": "Financial_Express/3475372",
     "datetime": "2026-09-18T22:13:22+00:00",
-    "views": "41",
+    "views": "42",
     "text": "美国驻联合国大使沃尔兹：特朗普将于周一下午抵达纽约。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3475371",
     "datetime": "2026-09-18T22:13:02+00:00",
-    "views": "40",
+    "views": "41",
     "text": "在一次测试中，GEMINI 通过猜测密码和在公共存储库中查找凭证，获得了受保护系统的访问权限。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +146,7 @@
   {
     "post": "Financial_Express/3475370",
     "datetime": "2026-09-18T22:12:42+00:00",
-    "views": "38",
+    "views": "39",
     "text": "AMD 暗盘突破 550 美元，日内涨 2.5%。",
     "media_only": false,
     "image_url": null,
@@ -54538,68 +54538,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3469275"
-  },
-  {
-    "post": "Financial_Express/3469273",
-    "datetime": "2026-09-16T22:27:02+00:00",
-    "views": "53",
-    "text": "特朗普：利率太高。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469273"
-  },
-  {
-    "post": "Financial_Express/3469272",
-    "datetime": "2026-09-16T22:26:49+00:00",
-    "views": "56",
-    "text": "美国总统特朗普：重申美联储主席沃什有个难搞的理事会。\n利率太高。\n已经与沃什谈过。\n我跟沃什说了让他做他想做的事。\n（被问及是否仍然对沃什有信心）是的。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469272"
-  },
-  {
-    "post": "Financial_Express/3469270",
-    "datetime": "2026-09-16T22:26:42+00:00",
-    "views": "28",
-    "text": "特朗普：仍对美联储主席沃什抱有信心。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469270"
-  },
-  {
-    "post": "Financial_Express/3469271",
-    "datetime": "2026-09-16T22:26:42+00:00",
-    "views": "28",
-    "text": "特朗普：沃什有个难搞的理事会。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469271"
-  },
-  {
-    "post": "Financial_Express/3469269",
-    "datetime": "2026-09-16T22:26:22+00:00",
-    "views": "29",
-    "text": "美国总统特朗普：仍然对美联储主席沃什充满信心。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469269"
-  },
-  {
-    "post": "Financial_Express/3469268",
-    "datetime": "2026-09-16T22:25:42+00:00",
-    "views": "34",
-    "text": "据阿拉比亚电视台：沙特王储与法国总统讨论加强地区安全和实现航行自由的努力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469268"
-  },
-  {
-    "post": "Financial_Express/3469267",
-    "datetime": "2026-09-16T22:25:30+00:00",
-    "views": "34",
-    "text": "今年以来，新三板创新层梯队迭代节奏加快，优质企业持续汇聚。全国股转系统日前发布第四批创新层进层初筛名单，美通香薰、谷登机械、邦迪智能等 12 家企业入选，涵盖高端制造、新材料、数字经济等赛道。至此，今年内累计拟调入创新层企业超过 220 家，其中五成为国家级专精特新“小巨人”企业，制造业企业占比超过八成，覆盖电气机械、专用设备、汽车零部件、电子通信等关键领域，与新型工业化和新质生产力发展方向高度契合。（上证报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469267"
   }
 ]
