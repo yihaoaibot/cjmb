@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3475396",
+    "datetime": "2026-09-18T22:35:18+00:00",
+    "views": "1",
+    "text": "报道：OpenAI 到 2030 年这段时间料将烧钱 2800 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475396"
+  },
+  {
+    "post": "Financial_Express/3475395",
+    "datetime": "2026-09-18T22:34:42+00:00",
+    "views": "4",
+    "text": "OpenAI 预计到 2030 年将消耗 2800 亿美元现金。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475395"
+  },
+  {
+    "post": "Financial_Express/3475394",
+    "datetime": "2026-09-18T22:34:24+00:00",
+    "views": "12",
+    "text": "美国农业部（USDA）证实，新墨西哥州格兰特县一匹马感染新大陆螺旋蝇蛆（New World screwworm）。\n该病例公布当日，美国农业部长布鲁克·罗林斯（Brooke Rollins）宣布重新开放位于圣特雷莎（Santa Teresa）的全国最大墨西哥活牛进口口岸。\n该口岸仍按计划于 9 月 24 日重开，USDA 已设立隔离区并投放不育蝇以遏制潜在扩散。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475394"
+  },
+  {
+    "post": "Financial_Express/3475393",
+    "datetime": "2026-09-18T22:34:22+00:00",
+    "views": "12",
+    "text": "13 岁以下禁用 满 15 岁才可开号 欧盟拟推未成年人社媒禁令引关注\n当地时间 9 月 17 日，欧盟委员会正式公布了《欧盟儿童法案》提案文本，准备重新规定欧盟未成年人使用社交媒体的年龄限制。16 日，欧盟委员会主席冯德莱恩宣布，欧盟将进一步加强对未成年人网络使用的保护，并提出分年龄段限制未成年人使用社交媒体等数字服务。法案公布后不少民众支持新规，不过多方认为立法落地仍需漫长博弈。分析认为，提案有望通过，但年龄核验、规避管控等落地难题仍待解决。（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475393"
+  },
+  {
+    "post": "Financial_Express/3475392",
+    "datetime": "2026-09-18T22:33:22+00:00",
+    "views": "24",
+    "text": "美国官员：以色列总理内塔尼亚胡在纽约的行程将受到限制。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475392"
+  },
+  {
     "post": "Financial_Express/3475391",
     "datetime": "2026-09-18T22:29:22+00:00",
-    "views": "34",
+    "views": "47",
     "text": "美国高级政府官员：在联合国大会上继续与海湾伙伴进行外交活动至关重要。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3475390",
     "datetime": "2026-09-18T22:29:03+00:00",
-    "views": "36",
+    "views": "49",
     "text": "千问新一代原生全模态模型 Qwen3.8-Omni-Flash 式上线。该模型的核心目标是提升其在真实生产力场景中的 Agent 能力，推动全模态模型从“理解全模态内容”进一步走向“规划任务、调用工具并完成创作”。在具备编程、文本知识工作和 GUI 操作等通用 Agentic 能力的基础上，Qwen3.8-Omni-Flash 进一步拓展了以音视频为核心的 Agentic 应用，在视频剪辑、音乐视频创作、影视制作与解说、音视频转图文摘要和音视频对话等，需要综合处理文本、图像、音频与视频的工作流中取得了显著效果。（千问大模型）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3475389",
     "datetime": "2026-09-18T22:28:10+00:00",
-    "views": "34",
+    "views": "45",
     "text": "美国总统特朗普下周三将安排在安德鲁联合基地迎接。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3475388",
     "datetime": "2026-09-18T22:28:02+00:00",
-    "views": "35",
+    "views": "45",
     "text": "千问发布 Qwen3.8-Omni-Flash， 提升其在真实生产力场景中的 Agent 能力\n千问新一代原生全模态模型 Qwen3.8-Omni-Flash 正式上线。该模型的核心目标是提升其在真实生产力场景中的 Agent 能力，推动全模态模型从“理解全模态内容”进一步走向“规划任务、调用工具并完成创作”。在具备编程、文本知识工作和 GUI 操作等通用 Agentic 能力的基础上，Qwen3.8-Omni-Flash 进一步拓展了以音视频为核心的 Agentic 应用，在视频剪辑、音乐视频创作、影视制作与解说、音视频转图文摘要和音视频对话等，需要综合处理文本、图像、音频与视频的工作流中取得了显著效果。（千问大模型）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3475387",
     "datetime": "2026-09-18T22:27:38+00:00",
-    "views": "36",
+    "views": "43",
     "text": "标普 500 指数收涨 12.74 点，涨幅 0.17%，报 7650.50 点，本周累计下跌 0.08%，9 月 16 日（美联储宣布加息、点阵图暗示今年还有一次降息机会之后）美联储主席沃什新闻发布会结束时跌至 7507.77 点。\n道琼斯工业平均指数收跌 95.40 点，跌幅 0.18%，报 51682.64 点，本周累跌 1.69%，整体持续走低。\n纳斯达克综合指数（纳指）收涨 104.247 点，涨幅 0.40%，报 26522.545 点，本周累涨 0.72%。\n纳斯达克 100 指数收涨 197.186 点，涨幅 0.67%，报 29644.168 点，本周累涨 0.94%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3475386",
     "datetime": "2026-09-18T22:22:43+00:00",
-    "views": "35",
+    "views": "40",
     "text": "美国政府将于下周主办联合国人工智能主题会议。（CNN）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3475385",
     "datetime": "2026-09-18T22:21:42+00:00",
-    "views": "35",
+    "views": "40",
     "text": "特朗普政府将于下周主办联合国人工智能主题会议。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3475384",
     "datetime": "2026-09-18T22:21:37+00:00",
-    "views": "32",
+    "views": "37",
     "text": "美国总统特朗普下周将在纽约市会见委内瑞拉代总统 Rodriguez。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3475383",
     "datetime": "2026-09-18T22:20:07+00:00",
-    "views": "31",
+    "views": "36",
     "text": "丹麦首相：将在联合国大会期间与美国签署有关格陵兰的协议。（美联社）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3475382",
     "datetime": "2026-09-18T22:20:02+00:00",
-    "views": "27",
+    "views": "32",
     "text": "Gemini 首次出现自主访问外部系统事件 谷歌称未造成实际损害\n金十数据 9 月 19 日讯，谷歌表示，Gemini 人工智能模型在一次网络安全能力测试中意外访问互联网，并进入 3 家公司系统，这是目前已知谷歌 AI 系统首次自主完成此类操作的案例。此次事件发生于 5 月，由安全公司 Irregular 开展测试。测试过程中，Gemini 模型在一个“夺旗”网络安全演练中执行任务，但由于测试环境中的虚拟公司名称与真实公司相同，加上模型意外获得互联网访问权限，导致其进入真实企业系统。谷歌称，其中一次事件中，模型通过尝试密码进入受保护系统；另外两次则是在公开网络仓库中发现凭证并尝试访问相关系统。模型确认访问到真实公司系统后，均停止了后续操作。谷歌表示，该事件未对相关公司造成损害，因此未将其认定为模型失控事件，并称安全机制帮助模型及时停止行为。受影响公司已被通知，谷歌也向相关监管机构进行了通报。此次事件与 OpenAI、Anthropic 等 AI 公司此前披露的类似安全测试事件相似，再次引发外界对 AI 模型自主执行网络操作能力和安全防护机制的关注。\n😁1",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3475381",
     "datetime": "2026-09-18T22:17:02+00:00",
-    "views": "57",
+    "views": "62",
     "text": "丹麦首相表示格陵兰相关协议将在联合国大会期间签署。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3475380",
     "datetime": "2026-09-18T22:16:42+00:00",
-    "views": "24",
+    "views": "29",
     "text": "据华尔街日报：谷歌 Gemini 模型在网络安全测试中自主攻击 3 家公司系统，系谷歌 AI 首次已知自主执行此类行为。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3475379",
     "datetime": "2026-09-18T22:15:16+00:00",
-    "views": "52",
+    "views": "57",
     "text": "美国驻联合国大使：特朗普将会见委内瑞拉代总统罗德里格斯。\n特朗普将与海湾领导人举行多边会议。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3475378",
     "datetime": "2026-09-18T22:15:02+00:00",
-    "views": "53",
+    "views": "59",
     "text": "美国驻联合国大使：特朗普将与海湾领导人举行多边会议。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3475377",
     "datetime": "2026-09-18T22:14:42+00:00",
-    "views": "52",
+    "views": "57",
     "text": "美国驻联合国大使：特朗普将会见委内瑞拉代总统罗德里格斯。",
     "media_only": false,
     "image_url": null,
@@ -54349,59 +54394,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3469300"
-  },
-  {
-    "post": "Financial_Express/3469299",
-    "datetime": "2026-09-16T22:35:11+00:00",
-    "views": "55",
-    "text": "今年以来，新发基金规模突破 8000 亿元。从产品类型来看，权益类基金占比过半，“固收+”和 FOF 产品持续“吸金”。从最新发展动向看，近期创新产品密集推出，首批创业板算力基础设施 ETF、首批创业板金融科技 ETF、首批中证新能源金属 50 ETF 等纷纷上报。（上证报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469299"
-  },
-  {
-    "post": "Financial_Express/3469298",
-    "datetime": "2026-09-16T22:35:02+00:00",
-    "views": "55",
-    "text": "切尔西俱乐部宣布所有权变更。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469298"
-  },
-  {
-    "post": "Financial_Express/3469296",
-    "datetime": "2026-09-16T22:34:02+00:00",
-    "views": "51",
-    "text": "安全消息人士称，一架携带爆炸物的无人机袭击了伊拉克苏莱曼尼亚西北部一个伊朗库尔德反对派组织的营地；无人员伤亡报告。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469296"
-  },
-  {
-    "post": "Financial_Express/3469297",
-    "datetime": "2026-09-16T22:34:02+00:00",
-    "views": "55",
-    "text": "9 月 17 日隔夜要闻一览\n\n1、时隔三年，美联储首次加息 25 基点，全员同意，主席沃什强调通胀“太高持续太久了”。\n2、白宫发言人：美联储加息决定“相当令人遗憾”。\n3、特朗普称利率应为 1%或更低，敦促降息，而且要快。\n4、外国再抛美债，中国减持之外比利时也降低仓位。\n5、苹果考虑重返服务器市场，已与英伟达洽谈采用其网络互联技术。\n6、亚马逊将美国全职核心运营岗位最低时薪提升至 20 美元。\n7、国际油价 16 日显著下跌，WTI 原油期货价格下跌 3.40 美元，收于每桶 102.43 美元，跌幅为 3.21%；伦特原油期货下跌 2.92 美元，收于每桶 105.83 美元，跌幅为 2.69%。\n8、多家银行向黑石集团与谷歌母公司 Alphabet 提供 220 亿美元与芯片相关的贷款。\n9、美国众议院获得足够票数通过法案，拟对俄罗斯实施新一轮 “大范围” 制裁，并将现行对伊朗制裁延长 5 年。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469297"
-  },
-  {
-    "post": "Financial_Express/3469295",
-    "datetime": "2026-09-16T22:33:48+00:00",
-    "views": "51",
-    "text": "9 月 16 日，美联储主席凯文·沃什主持了美联储主席在常规政策会议后有史以来最短的新闻发布会，时长约 30 分钟。主席将重点放在本周会议及美联储官员对当前经济的看法上，坚守其不为美联储未来行动做前瞻暗示的承诺。记者会的未来仍存不确定性，沃什设立的专项工作组之一将对沟通机制展开审查，包括美联储如何在不确定性中传达政策审议与决策。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469295"
-  },
-  {
-    "post": "Financial_Express/3469294",
-    "datetime": "2026-09-16T22:33:42+00:00",
-    "views": "52",
-    "text": "美国总统特朗普：如果我们认为欧盟把加拿大列为观察员国是敌对行为，我们可能对欧洲征收高额关税。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469294"
   }
 ]
