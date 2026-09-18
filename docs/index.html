@@ -1,5 +1,165 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-18T08:27:25.913020+00:00","clsvipUpdated":"2026-09-18T08:27:39.103626+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月18日</h2><div class="feed"><article class="item" data-search="加拿大皇家银行资本市场预计英国央行将在 2026 年 11 月将银行利率上调 25 个基点。"><div class="time">16:27</div><div class="content"><div class="text" data-full="加拿大皇家银行资本市场预计英国央行将在 2026 年 11 月将银行利率上调 25 个基点。" data-short="加拿大皇家银行资本市场预计英国央行将在 2026 年 11 月将银行利率上调 25 个基点。">加拿大皇家银行资本市场预计英国央行将在 2026 年 11 月将银行利率上调 25 个基点。</div></div></article><article class="item" data-search="工业富联：回购实施完毕，回购 1583.34 万股，价格 59.91 元/股~66.4 元/股，支付 10 亿元
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-18T08:29:29.848466+00:00","clsvipUpdated":"2026-09-18T08:29:44.151934+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月18日</h2><div class="feed"><article class="item" data-search="鼎智科技：首次回购股份 57603 股，支付 129.6 万元
+鼎智科技公告，公司拟以 2000 万-2800 万回购股份，用于实施员工持股计划或股权激励，回购价格不超过 40 元/股。2026 年 9 月 17 日，公司完成首次回购，回购股份 57603 股，占总股本的 0.03%，最高成交价格为 22.53 元/股，最低成交价格为 22.48 元/股，已支付总金额 129.6 万元（不含印花税、佣金等交易费用）。"><div class="time">16:29</div><div class="content"><div class="text" data-full="鼎智科技：首次回购股份 57603 股，支付 129.6 万元
+鼎智科技公告，公司拟以 2000 万-2800 万回购股份，用于实施员工持股计划或股权激励，回购价格不超过 40 元/股。2026 年 9 月 17 日，公司完成首次回购，回购股份 57603 股，占总股本的 0.03%，最高成交价格为 22.53 元/股，最低成交价格为 22.48 元/股，已支付总金额 129.6 万元（不含印花税、佣金等交易费用）。" data-short="鼎智科技：首次回购股份 57603 股，支付 129.6 万元
+鼎智科技公告，公司拟以 2000 万-2800 万回购股份，用于实施员工持股计划或股权激励，回购价格不超过 40 元/股。2026 年 9 月 17 日，公司完成首次回购，回购股份 57603 股，占总股本的 0.03%，最高成交价格为 22.53 元/股，最低成交价格为 22.48 元/股，已...">鼎智科技：首次回购股份 57603 股，支付 129.6 万元
+鼎智科技公告，公司拟以 2000 万-2800 万回购股份，用于实施员工持股计划或股权激励，回购价格不超过 40 元/股。2026 年 9 月 17 日，公司完成首次回购，回购股份 57603 股，占总股本的 0.03%，最高成交价格为 22.53 元/股，最低成交价格为 22.48 元/股，已...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="算力涨价！gpu 租赁最高涨 21%，创业板算力 etf 华夏（158041）大涨 2.11%
+9 月 18 日，创业板算力 etf 华夏（158041）表现活跃，截至收盘大涨 2.11%，成交额达 2.11 亿元，交投情绪高涨。该 etf 跟踪创业板算力基础设施指数，成分股中联特科技、明阳电路、科泰电源等涨幅居前。消息面上，海外算力租赁价格再度上行成为核心催化。欧洲算力云厂商 nebius 宣布自 10 月 1 日起全面上调按需 gpu 租金，系年内第二次提价，h100、b200、b300 涨幅分别约 17%、19%、21%。浙商证券指出，本轮 nebius 按需价全面上调 17%-21%，意味着边际零售价格体系同步上移——按需价是新签及中小客户最直接的定价锚，其上调对行业价格中枢的指示意义更强。海外按需价、海外长约价、国内合同价三条线同时上行，国内“有卡”公司直接受益于价格中枢抬升。国盛证券认为，中国算力市场规模 2025 年已达 8351 亿元，预计 2030 年接近 2 万亿元，叠加国内云厂商、运营商及互联网企业资本开支合计超万亿元的投入规模，算力产业链上下游有望迎来持续性高景气。在国家级战略定位与万亿级市场空间的双重支撑下，算力基础设施长期配置价值凸显。创业板算力 etf 华夏（158041）跟踪创业板算力基础设施指数（970083），聚焦数据中心（aidc）建设与运营、算力租赁、液冷服务器等算力核心环节。该指数“数据中心（aidc）”概念含量达 91.03%，为全市场最高，算力租赁概念含量 38.84%，成分股覆盖协创数据、润泽科技、光环新网等算力基建核心标的。截至 9 月 18 日，该指数最新市盈率（pe-ttm）为 54.25 倍，处于近 10 年 5.02%分位，估值处于历史低位区间。看好算力的投资者，请认准创业板算力 etf 华夏（158041）。"><div class="time">16:29</div><div class="content"><div class="text" data-full="算力涨价！GPU 租赁最高涨 21%，创业板算力 ETF 华夏（158041）大涨 2.11%
+9 月 18 日，创业板算力 ETF 华夏（158041）表现活跃，截至收盘大涨 2.11%，成交额达 2.11 亿元，交投情绪高涨。该 ETF 跟踪创业板算力基础设施指数，成分股中联特科技、明阳电路、科泰电源等涨幅居前。消息面上，海外算力租赁价格再度上行成为核心催化。欧洲算力云厂商 Nebius 宣布自 10 月 1 日起全面上调按需 GPU 租金，系年内第二次提价，H100、B200、B300 涨幅分别约 17%、19%、21%。浙商证券指出，本轮 Nebius 按需价全面上调 17%-21%，意味着边际零售价格体系同步上移——按需价是新签及中小客户最直接的定价锚，其上调对行业价格中枢的指示意义更强。海外按需价、海外长约价、国内合同价三条线同时上行，国内“有卡”公司直接受益于价格中枢抬升。国盛证券认为，中国算力市场规模 2025 年已达 8351 亿元，预计 2030 年接近 2 万亿元，叠加国内云厂商、运营商及互联网企业资本开支合计超万亿元的投入规模，算力产业链上下游有望迎来持续性高景气。在国家级战略定位与万亿级市场空间的双重支撑下，算力基础设施长期配置价值凸显。创业板算力 ETF 华夏（158041）跟踪创业板算力基础设施指数（970083），聚焦数据中心（AIDC）建设与运营、算力租赁、液冷服务器等算力核心环节。该指数“数据中心（AIDC）”概念含量达 91.03%，为全市场最高，算力租赁概念含量 38.84%，成分股覆盖协创数据、润泽科技、光环新网等算力基建核心标的。截至 9 月 18 日，该指数最新市盈率（PE-TTM）为 54.25 倍，处于近 10 年 5.02%分位，估值处于历史低位区间。看好算力的投资者，请认准创业板算力 ETF 华夏（158041）。" data-short="算力涨价！GPU 租赁最高涨 21%，创业板算力 ETF 华夏（158041）大涨 2.11%
+9 月 18 日，创业板算力 ETF 华夏（158041）表现活跃，截至收盘大涨 2.11%，成交额达 2.11 亿元，交投情绪高涨。该 ETF 跟踪创业板算力基础设施指数，成分股中联特科技、明阳电路、科泰电源等涨幅居前。消息面上，海外算力租赁价格再度上行成为核心...">算力涨价！GPU 租赁最高涨 21%，创业板算力 ETF 华夏（158041）大涨 2.11%
+9 月 18 日，创业板算力 ETF 华夏（158041）表现活跃，截至收盘大涨 2.11%，成交额达 2.11 亿元，交投情绪高涨。该 ETF 跟踪创业板算力基础设施指数，成分股中联特科技、明阳电路、科泰电源等涨幅居前。消息面上，海外算力租赁价格再度上行成为核心...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="财政部：1—8 月证券交易印花税 2160 亿元，同比增长 82%
+1—8 月，全国一般公共预算收入 156633 亿元，同比增长 5.7%。其中，证券交易印花税 2160 亿元，同比增长 82%。1—8 月，全国一般公共预算支出 181451 亿元，同比增长 1.2%。"><div class="time">16:28</div><div class="content"><div class="text" data-full="财政部：1—8 月证券交易印花税 2160 亿元，同比增长 82%
+1—8 月，全国一般公共预算收入 156633 亿元，同比增长 5.7%。其中，证券交易印花税 2160 亿元，同比增长 82%。1—8 月，全国一般公共预算支出 181451 亿元，同比增长 1.2%。" data-short="财政部：1—8 月证券交易印花税 2160 亿元，同比增长 82%
+1—8 月，全国一般公共预算收入 156633 亿元，同比增长 5.7%。其中，证券交易印花税 2160 亿元，同比增长 82%。1—8 月，全国一般公共预算支出 181451 亿元，同比增长 1.2%。">财政部：1—8 月证券交易印花税 2160 亿元，同比增长 82%
+1—8 月，全国一般公共预算收入 156633 亿元，同比增长 5.7%。其中，证券交易印花税 2160 亿元，同比增长 82%。1—8 月，全国一般公共预算支出 181451 亿元，同比增长 1.2%。</div></div></article><article class="item" data-search="财政部：2026 年 1—8 月财政收入情况
+1—8 月，全国一般公共预算收入 156633 亿元，同比增长 5.7%。其中，全国税收收入 129104 亿元，同比增长 6.6%；非税收入 27529 亿元，同比增长 1.5%。分中央和地方看，中央一般公共预算收入 70118 亿元，同比增长 9.1%；地方一般公共预算本级收入 86515 亿元，同比增长 3.1%。 
+
+主要税收收入项目情况如下： 
+
+1.国内增值税 50179 亿元，同比增长 5.9%。 
+
+2.国内消费税 11111 亿元，同比下降 3.6%。 
+
+3.企业所得税 33786 亿元，同比增长 7.3%。 
+
+4.个人所得税 12080 亿元，同比增长 14.5%。 
+
+5.进口货物增值税、消费税 13258 亿元，同比增长 12.6%。关税 1542 亿元，同比增长 1%。 
+
+6.出口货物退增值税、消费税 16472 亿元，同比增长 4.5%。 
+
+7.城市维护建设税 3604 亿元，同比增长 3.9%。 
+
+8.车辆购置税 1511 亿元，同比增长 13.3%。 
+
+9.印花税 3858 亿元，同比增长 35.6%。其中，证券交易印花税 2160 亿元，同比增长 82%。 
+
+10.资源税 2183 亿元，同比增长 12.4%。 
+
+11.契税 2585 亿元，同比下降 14.2%。 
+
+12.房产税 3521 亿元，同比增长 6.5%。 
+
+13.城镇土地使用税 1766 亿元，同比增长 3.7%。 
+
+14.土地增值税 2562 亿元，同比下降 13.6%。 
+
+15.耕地占用税 959 亿元，同比下降 4.2%。 
+
+16.环境保护税 232 亿元，同比增长 18%。 
+
+17.车船税、船舶吨税、烟叶税等其他各项税收收入合计 839 亿元，同比增长 0.2%。"><div class="time">16:28</div><div class="content"><div class="text" data-full="财政部：2026 年 1—8 月财政收入情况
+1—8 月，全国一般公共预算收入 156633 亿元，同比增长 5.7%。其中，全国税收收入 129104 亿元，同比增长 6.6%；非税收入 27529 亿元，同比增长 1.5%。分中央和地方看，中央一般公共预算收入 70118 亿元，同比增长 9.1%；地方一般公共预算本级收入 86515 亿元，同比增长 3.1%。 
+
+主要税收收入项目情况如下： 
+
+1.国内增值税 50179 亿元，同比增长 5.9%。 
+
+2.国内消费税 11111 亿元，同比下降 3.6%。 
+
+3.企业所得税 33786 亿元，同比增长 7.3%。 
+
+4.个人所得税 12080 亿元，同比增长 14.5%。 
+
+5.进口货物增值税、消费税 13258 亿元，同比增长 12.6%。关税 1542 亿元，同比增长 1%。 
+
+6.出口货物退增值税、消费税 16472 亿元，同比增长 4.5%。 
+
+7.城市维护建设税 3604 亿元，同比增长 3.9%。 
+
+8.车辆购置税 1511 亿元，同比增长 13.3%。 
+
+9.印花税 3858 亿元，同比增长 35.6%。其中，证券交易印花税 2160 亿元，同比增长 82%。 
+
+10.资源税 2183 亿元，同比增长 12.4%。 
+
+11.契税 2585 亿元，同比下降 14.2%。 
+
+12.房产税 3521 亿元，同比增长 6.5%。 
+
+13.城镇土地使用税 1766 亿元，同比增长 3.7%。 
+
+14.土地增值税 2562 亿元，同比下降 13.6%。 
+
+15.耕地占用税 959 亿元，同比下降 4.2%。 
+
+16.环境保护税 232 亿元，同比增长 18%。 
+
+17.车船税、船舶吨税、烟叶税等其他各项税收收入合计 839 亿元，同比增长 0.2%。" data-short="财政部：2026 年 1—8 月财政收入情况
+1—8 月，全国一般公共预算收入 156633 亿元，同比增长 5.7%。其中，全国税收收入 129104 亿元，同比增长 6.6%；非税收入 27529 亿元，同比增长 1.5%。分中央和地方看，中央一般公共预算收入 70118 亿元，同比增长 9.1%；地方一般公共预算本级收入 86515 亿元，同比增长 3...">财政部：2026 年 1—8 月财政收入情况
+1—8 月，全国一般公共预算收入 156633 亿元，同比增长 5.7%。其中，全国税收收入 129104 亿元，同比增长 6.6%；非税收入 27529 亿元，同比增长 1.5%。分中央和地方看，中央一般公共预算收入 70118 亿元，同比增长 9.1%；地方一般公共预算本级收入 86515 亿元，同比增长 3...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="财政部：2026 年 1—8 月财政支出情况
+ 1—8 月，全国一般公共预算支出 181451 亿元，同比增长 1.2%。分中央和地方看，中央一般公共预算本级支出 28177 亿元，同比增长 6%；地方一般公共预算支出 153274 亿元，同比增长 0.3%。 
+
+主要支出科目情况如下： 
+
+1.教育支出 27279 亿元，同比增长 0.7%。 
+
+2.科学技术支出 6001 亿元，同比增长 2.2%。 
+
+3.文化旅游体育与传媒支出 2108 亿元，同比下降 7.2%。 
+
+4.社会保障和就业支出 32730 亿元，同比增长 6.5%。 
+
+5.卫生健康支出 14978 亿元，同比增长 9.2%。 
+
+6.节能环保支出 2906 亿元，同比下降 12.3%。 
+
+7.城乡社区支出 11955 亿元，同比下降 3%。 
+
+8.农林水支出 12769 亿元，同比下降 6%。 
+
+9.交通运输支出 6924 亿元，同比下降 2.9%。 
+
+10.债务付息支出 9188 亿元，同比增长 5.4%。"><div class="time">16:28</div><div class="content"><div class="text" data-full="财政部：2026 年 1—8 月财政支出情况
+ 1—8 月，全国一般公共预算支出 181451 亿元，同比增长 1.2%。分中央和地方看，中央一般公共预算本级支出 28177 亿元，同比增长 6%；地方一般公共预算支出 153274 亿元，同比增长 0.3%。 
+
+主要支出科目情况如下： 
+
+1.教育支出 27279 亿元，同比增长 0.7%。 
+
+2.科学技术支出 6001 亿元，同比增长 2.2%。 
+
+3.文化旅游体育与传媒支出 2108 亿元，同比下降 7.2%。 
+
+4.社会保障和就业支出 32730 亿元，同比增长 6.5%。 
+
+5.卫生健康支出 14978 亿元，同比增长 9.2%。 
+
+6.节能环保支出 2906 亿元，同比下降 12.3%。 
+
+7.城乡社区支出 11955 亿元，同比下降 3%。 
+
+8.农林水支出 12769 亿元，同比下降 6%。 
+
+9.交通运输支出 6924 亿元，同比下降 2.9%。 
+
+10.债务付息支出 9188 亿元，同比增长 5.4%。" data-short="财政部：2026 年 1—8 月财政支出情况
+ 1—8 月，全国一般公共预算支出 181451 亿元，同比增长 1.2%。分中央和地方看，中央一般公共预算本级支出 28177 亿元，同比增长 6%；地方一般公共预算支出 153274 亿元，同比增长 0.3%。 
+
+主要支出科目情况如下： 
+
+1.教育支出 27279 亿元，同比增长 0.7%。 
+
+2.科学...">财政部：2026 年 1—8 月财政支出情况
+ 1—8 月，全国一般公共预算支出 181451 亿元，同比增长 1.2%。分中央和地方看，中央一般公共预算本级支出 28177 亿元，同比增长 6%；地方一般公共预算支出 153274 亿元，同比增长 0.3%。 
+
+主要支出科目情况如下： 
+
+1.教育支出 27279 亿元，同比增长 0.7%。 
+
+2.科学...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="财政部：1—8 月，印花税 3858 亿元，同比增长 35.6%。其中，证券交易印花税 2160 亿元，同比增长 82%。"><div class="time">16:28</div><div class="content"><div class="text" data-full="财政部：1—8 月，印花税 3858 亿元，同比增长 35.6%。其中，证券交易印花税 2160 亿元，同比增长 82%。" data-short="财政部：1—8 月，印花税 3858 亿元，同比增长 35.6%。其中，证券交易印花税 2160 亿元，同比增长 82%。">财政部：1—8 月，印花税 3858 亿元，同比增长 35.6%。其中，证券交易印花税 2160 亿元，同比增长 82%。</div></div></article><article class="item" data-search="乌克兰总理表示，乌克兰已收到欧洲支持贷款项下的 33 亿欧元分期拨款。"><div class="time">16:28</div><div class="content"><div class="text" data-full="乌克兰总理表示，乌克兰已收到欧洲支持贷款项下的 33 亿欧元分期拨款。" data-short="乌克兰总理表示，乌克兰已收到欧洲支持贷款项下的 33 亿欧元分期拨款。">乌克兰总理表示，乌克兰已收到欧洲支持贷款项下的 33 亿欧元分期拨款。</div></div></article><article class="item" data-search="财政部：1—8 月，全国一般公共预算收入 156633 亿元，同比增长 5.7%。"><div class="time">16:28</div><div class="content"><div class="text" data-full="财政部：1—8 月，全国一般公共预算收入 156633 亿元，同比增长 5.7%。" data-short="财政部：1—8 月，全国一般公共预算收入 156633 亿元，同比增长 5.7%。">财政部：1—8 月，全国一般公共预算收入 156633 亿元，同比增长 5.7%。</div></div></article><article class="item" data-search="中国对外贸易中心主任朱咏：已有 170 家头部采购企业确认参加第 140 届广交会
+中国对外贸易中心主任朱咏 18 日在国新办新闻发布会上介绍，第 140 届广交会招商精准化，海外路演、合作伙伴、数字营销等 6 大渠道协同发力。加强定向邀约，已有 170 家头部采购企业和 48 家全球合作伙伴确认组团参会。"><div class="time">16:27</div><div class="content"><div class="text" data-full="中国对外贸易中心主任朱咏：已有 170 家头部采购企业确认参加第 140 届广交会
+中国对外贸易中心主任朱咏 18 日在国新办新闻发布会上介绍，第 140 届广交会招商精准化，海外路演、合作伙伴、数字营销等 6 大渠道协同发力。加强定向邀约，已有 170 家头部采购企业和 48 家全球合作伙伴确认组团参会。" data-short="中国对外贸易中心主任朱咏：已有 170 家头部采购企业确认参加第 140 届广交会
+中国对外贸易中心主任朱咏 18 日在国新办新闻发布会上介绍，第 140 届广交会招商精准化，海外路演、合作伙伴、数字营销等 6 大渠道协同发力。加强定向邀约，已有 170 家头部采购企业和 48 家全球合作伙伴确认组团参会。">中国对外贸易中心主任朱咏：已有 170 家头部采购企业确认参加第 140 届广交会
+中国对外贸易中心主任朱咏 18 日在国新办新闻发布会上介绍，第 140 届广交会招商精准化，海外路演、合作伙伴、数字营销等 6 大渠道协同发力。加强定向邀约，已有 170 家头部采购企业和 48 家全球合作伙伴确认组团参会。</div></div></article><article class="item" data-search="工业富联：回购 1583.34 万股 使用资金约 10 亿元
+金十数据 9 月 18 日讯，工业富联公告，公司此前拟使用自有资金 10 亿元~20 亿元回购股份，价格不超过 103 元/股，用于维护公司价值及股东权益，回购股份拟出售，逾期未实施出售部分依法注销。截至公告披露日，公司已累计回购 1583.34 万股，占总股本的 0.08%，回购均价为 63.16 元/股，回购实施完毕。"><div class="time">16:27</div><div class="content"><div class="text" data-full="工业富联：回购 1583.34 万股 使用资金约 10 亿元
+金十数据 9 月 18 日讯，工业富联公告，公司此前拟使用自有资金 10 亿元~20 亿元回购股份，价格不超过 103 元/股，用于维护公司价值及股东权益，回购股份拟出售，逾期未实施出售部分依法注销。截至公告披露日，公司已累计回购 1583.34 万股，占总股本的 0.08%，回购均价为 63.16 元/股，回购实施完毕。" data-short="工业富联：回购 1583.34 万股 使用资金约 10 亿元
+金十数据 9 月 18 日讯，工业富联公告，公司此前拟使用自有资金 10 亿元~20 亿元回购股份，价格不超过 103 元/股，用于维护公司价值及股东权益，回购股份拟出售，逾期未实施出售部分依法注销。截至公告披露日，公司已累计回购 1583.34 万股，占总股本的 0.08%，回购均价为 63.1...">工业富联：回购 1583.34 万股 使用资金约 10 亿元
+金十数据 9 月 18 日讯，工业富联公告，公司此前拟使用自有资金 10 亿元~20 亿元回购股份，价格不超过 103 元/股，用于维护公司价值及股东权益，回购股份拟出售，逾期未实施出售部分依法注销。截至公告披露日，公司已累计回购 1583.34 万股，占总股本的 0.08%，回购均价为 63.1...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="杭萧钢构：聘任王赛雁为公司董事会秘书
+杭萧钢构公告称，鉴于姚剑峰因个人原因不再担任公司董事会秘书职务，经董事长提名、董事会提名委员会资格审查，公司第九届董事会第十三次会议审议通过议案，同意聘任王赛雁为公司董事会秘书，任期自本次董事会审议通过之日起至第九届董事会任期届满之日止。本次会议应出席董事 9 人，实际出席 9 人，该议案获全票通过。"><div class="time">16:27</div><div class="content"><div class="text" data-full="杭萧钢构：聘任王赛雁为公司董事会秘书
+杭萧钢构公告称，鉴于姚剑峰因个人原因不再担任公司董事会秘书职务，经董事长提名、董事会提名委员会资格审查，公司第九届董事会第十三次会议审议通过议案，同意聘任王赛雁为公司董事会秘书，任期自本次董事会审议通过之日起至第九届董事会任期届满之日止。本次会议应出席董事 9 人，实际出席 9 人，该议案获全票通过。" data-short="杭萧钢构：聘任王赛雁为公司董事会秘书
+杭萧钢构公告称，鉴于姚剑峰因个人原因不再担任公司董事会秘书职务，经董事长提名、董事会提名委员会资格审查，公司第九届董事会第十三次会议审议通过议案，同意聘任王赛雁为公司董事会秘书，任期自本次董事会审议通过之日起至第九届董事会任期届满之日止。本次会议应出席董事 9 人，实际出席 9 人，该议案获全票通过。">杭萧钢构：聘任王赛雁为公司董事会秘书
+杭萧钢构公告称，鉴于姚剑峰因个人原因不再担任公司董事会秘书职务，经董事长提名、董事会提名委员会资格审查，公司第九届董事会第十三次会议审议通过议案，同意聘任王赛雁为公司董事会秘书，任期自本次董事会审议通过之日起至第九届董事会任期届满之日止。本次会议应出席董事 9 人，实际出席 9 人，该议案获全票通过。</div></div></article><article class="item" data-search="加拿大皇家银行资本市场预计英国央行将在 2026 年 11 月将银行利率上调 25 个基点。"><div class="time">16:27</div><div class="content"><div class="text" data-full="加拿大皇家银行资本市场预计英国央行将在 2026 年 11 月将银行利率上调 25 个基点。" data-short="加拿大皇家银行资本市场预计英国央行将在 2026 年 11 月将银行利率上调 25 个基点。">加拿大皇家银行资本市场预计英国央行将在 2026 年 11 月将银行利率上调 25 个基点。</div></div></article><article class="item" data-search="工业富联：回购实施完毕，回购 1583.34 万股，价格 59.91 元/股~66.4 元/股，支付 10 亿元
 工业富联公告，公司此前拟使用自有资金 10 亿元~20 亿元回购股份，价格不超过 103 元/股，用于维护公司价值及股东权益，回购股份拟出售，逾期未实施出售部分依法注销。截至公告披露日，公司已累计回购 1583.34 万股，占总股本的 0.08%，回购均价为 63.16 元/股，回购实施完毕。"><div class="time">16:26</div><div class="content"><div class="text" data-full="工业富联：回购实施完毕，回购 1583.34 万股，价格 59.91 元/股~66.4 元/股，支付 10 亿元
 工业富联公告，公司此前拟使用自有资金 10 亿元~20 亿元回购股份，价格不超过 103 元/股，用于维护公司价值及股东权益，回购股份拟出售，逾期未实施出售部分依法注销。截至公告披露日，公司已累计回购 1583.34 万股，占总股本的 0.08%，回购均价为 63.16 元/股，回购实施完毕。" data-short="工业富联：回购实施完毕，回购 1583.34 万股，价格 59.91 元/股~66.4 元/股，支付 10 亿元
 工业富联公告，公司此前拟使用自有资金 10 亿元~20 亿元回购股份，价格不超过 103 元/股，用于维护公司价值及股东权益，回购股份拟出售，逾期未实施出售部分依法注销。截至公告披露日，公司已累计回购 1583.34 万股，占总股本的 0.08%...">工业富联：回购实施完毕，回购 1583.34 万股，价格 59.91 元/股~66.4 元/股，支付 10 亿元
@@ -783,15 +943,7 @@ ST 喜临门公告称，越城法院已于 2026 年 5 月 29 日决定受理公�
 金十数据 9 月 18 日讯，今日，a 股三大指数开涨后震荡走高，创业板指盘中一度涨超 3%。截至收盘，上证指数收涨 0.94%，深证成指收涨 1.72%，创业板指收涨 2.25%。半导体产业链大涨，先进封装、光刻机、ai 芯片等板块涨幅居前，托伦斯 20cm 涨停，惠科股份、华天科技等多股涨停；光伏设备板块震荡走高，拉普拉斯涨超 11%，亚玛顿涨停；房地产板块午后拉升，万科 a、绿地控股等多股涨停；除此以外，玻璃基板、cpo、零售、可控核聚变、液冷服务器、mlcc 等板块日内走强。煤炭、汽车整车、渔业、种植业、航运港口等板块日内低迷。个股方面，部分次新股午后拉升，c 沈鼓收涨 177%，盘中一度涨超 297%；c 信诺维收涨 34%。沪深两市成交额约 2.08 万亿元，较昨日同期放量约 2540 亿元；全市约 3900 股上涨，1100 股下跌。"><div class="time">15:06</div><div class="content"><div class="text" data-full="A 股收评：创业板指收涨 2.25%，半导体产业链大涨
 金十数据 9 月 18 日讯，今日，A 股三大指数开涨后震荡走高，创业板指盘中一度涨超 3%。截至收盘，上证指数收涨 0.94%，深证成指收涨 1.72%，创业板指收涨 2.25%。半导体产业链大涨，先进封装、光刻机、AI 芯片等板块涨幅居前，托伦斯 20cm 涨停，惠科股份、华天科技等多股涨停；光伏设备板块震荡走高，拉普拉斯涨超 11%，亚玛顿涨停；房地产板块午后拉升，万科 A、绿地控股等多股涨停；除此以外，玻璃基板、CPO、零售、可控核聚变、液冷服务器、MLCC 等板块日内走强。煤炭、汽车整车、渔业、种植业、航运港口等板块日内低迷。个股方面，部分次新股午后拉升，C 沈鼓收涨 177%，盘中一度涨超 297%；C 信诺维收涨 34%。沪深两市成交额约 2.08 万亿元，较昨日同期放量约 2540 亿元；全市约 3900 股上涨，1100 股下跌。" data-short="A 股收评：创业板指收涨 2.25%，半导体产业链大涨
 金十数据 9 月 18 日讯，今日，A 股三大指数开涨后震荡走高，创业板指盘中一度涨超 3%。截至收盘，上证指数收涨 0.94%，深证成指收涨 1.72%，创业板指收涨 2.25%。半导体产业链大涨，先进封装、光刻机、AI 芯片等板块涨幅居前，托伦斯 20cm 涨停，惠科股份、华天科技等多股涨停；光伏设...">A 股收评：创业板指收涨 2.25%，半导体产业链大涨
-金十数据 9 月 18 日讯，今日，A 股三大指数开涨后震荡走高，创业板指盘中一度涨超 3%。截至收盘，上证指数收涨 0.94%，深证成指收涨 1.72%，创业板指收涨 2.25%。半导体产业链大涨，先进封装、光刻机、AI 芯片等板块涨幅居前，托伦斯 20cm 涨停，惠科股份、华天科技等多股涨停；光伏设...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="土耳其财政部长：市场波动由少数投资基金的流动性与信贷问题引发。"><div class="time">15:06</div><div class="content"><div class="text" data-full="土耳其财政部长：市场波动由少数投资基金的流动性与信贷问题引发。" data-short="土耳其财政部长：市场波动由少数投资基金的流动性与信贷问题引发。">土耳其财政部长：市场波动由少数投资基金的流动性与信贷问题引发。</div></div></article><article class="item" data-search="美国大众汽车集团正在召回部分美国市场车辆，因转向机壳体可能断裂导致转向失控，增加碰撞风险。"><div class="time">15:05</div><div class="content"><div class="text" data-full="美国大众汽车集团正在召回部分美国市场车辆，因转向机壳体可能断裂导致转向失控，增加碰撞风险。" data-short="美国大众汽车集团正在召回部分美国市场车辆，因转向机壳体可能断裂导致转向失控，增加碰撞风险。">美国大众汽车集团正在召回部分美国市场车辆，因转向机壳体可能断裂导致转向失控，增加碰撞风险。</div></div></article><article class="item" data-search="摩根士丹利将 orange 评级从&#34;中性&#34;下调至&#34;减持&#34;后，该公司股价下跌 3.1%。"><div class="time">15:05</div><div class="content"><div class="text" data-full="摩根士丹利将 Orange 评级从&#34;中性&#34;下调至&#34;减持&#34;后，该公司股价下跌 3.1%。" data-short="摩根士丹利将 Orange 评级从&#34;中性&#34;下调至&#34;减持&#34;后，该公司股价下跌 3.1%。">摩根士丹利将 Orange 评级从&quot;中性&quot;下调至&quot;减持&quot;后，该公司股价下跌 3.1%。</div></div></article><article class="item" data-search="美国大众汽车集团将召回 208,724 辆美国市场车辆。"><div class="time">15:05</div><div class="content"><div class="text" data-full="美国大众汽车集团将召回 208,724 辆美国市场车辆。" data-short="美国大众汽车集团将召回 208,724 辆美国市场车辆。">美国大众汽车集团将召回 208,724 辆美国市场车辆。</div></div></article><article class="item" data-search="美国大众汽车集团将召回 49,958 辆美国市场车辆。"><div class="time">15:05</div><div class="content"><div class="text" data-full="美国大众汽车集团将召回 49,958 辆美国市场车辆。" data-short="美国大众汽车集团将召回 49,958 辆美国市场车辆。">美国大众汽车集团将召回 49,958 辆美国市场车辆。</div></div></article><article class="item" data-search="美国大众汽车集团正在召回部分美国市场车辆，因发动机意外熄火、外部照明或警示灯失效，或后视摄像头系统故障可能增加碰撞风险。"><div class="time">15:05</div><div class="content"><div class="text" data-full="美国大众汽车集团正在召回部分美国市场车辆，因发动机意外熄火、外部照明或警示灯失效，或后视摄像头系统故障可能增加碰撞风险。" data-short="美国大众汽车集团正在召回部分美国市场车辆，因发动机意外熄火、外部照明或警示灯失效，或后视摄像头系统故障可能增加碰撞风险。">美国大众汽车集团正在召回部分美国市场车辆，因发动机意外熄火、外部照明或警示灯失效，或后视摄像头系统故障可能增加碰撞风险。</div></div></article><article class="item" data-search="就涉伊朗制裁委员会专家小组授权延期决议草案，中俄投反对票，伊朗表态
-综合伊朗伊斯兰共和国通讯社等媒体报道，伊朗常驻联合国代表团当地时间 17 日在社交平台上发帖，对中国与俄罗斯就有关问题所持原则立场表示赞赏。（环球网）"><div class="time">15:05</div><div class="content"><div class="text" data-full="就涉伊朗制裁委员会专家小组授权延期决议草案，中俄投反对票，伊朗表态
-综合伊朗伊斯兰共和国通讯社等媒体报道，伊朗常驻联合国代表团当地时间 17 日在社交平台上发帖，对中国与俄罗斯就有关问题所持原则立场表示赞赏。（环球网）" data-short="就涉伊朗制裁委员会专家小组授权延期决议草案，中俄投反对票，伊朗表态
-综合伊朗伊斯兰共和国通讯社等媒体报道，伊朗常驻联合国代表团当地时间 17 日在社交平台上发帖，对中国与俄罗斯就有关问题所持原则立场表示赞赏。（环球网）">就涉伊朗制裁委员会专家小组授权延期决议草案，中俄投反对票，伊朗表态
-综合伊朗伊斯兰共和国通讯社等媒体报道，伊朗常驻联合国代表团当地时间 17 日在社交平台上发帖，对中国与俄罗斯就有关问题所持原则立场表示赞赏。（环球网）</div></div></article><article class="item" data-search="日本财务大臣片山皋月：美国财长贝森特对“高市经济学”评价很高。"><div class="time">15:04</div><div class="content"><div class="text" data-full="日本财务大臣片山皋月：美国财长贝森特对“高市经济学”评价很高。" data-short="日本财务大臣片山皋月：美国财长贝森特对“高市经济学”评价很高。">日本财务大臣片山皋月：美国财长贝森特对“高市经济学”评价很高。</div></div></article><article class="item" data-search="soitec 股价下跌 3%，此前该公司发行 5 亿欧元 2033 年 9 月到期的 ornane 债券。"><div class="time">15:04</div><div class="content"><div class="text" data-full="SOITEC 股价下跌 3%，此前该公司发行 5 亿欧元 2033 年 9 月到期的 ORNANE 债券。" data-short="SOITEC 股价下跌 3%，此前该公司发行 5 亿欧元 2033 年 9 月到期的 ORNANE 债券。">SOITEC 股价下跌 3%，此前该公司发行 5 亿欧元 2033 年 9 月到期的 ORNANE 债券。</div></div></article><article class="item" data-search="巴基斯坦外汇储备创历史新高。"><div class="time">15:04</div><div class="content"><div class="text" data-full="巴基斯坦外汇储备创历史新高。" data-short="巴基斯坦外汇储备创历史新高。">巴基斯坦外汇储备创历史新高。</div></div></article><article class="item" data-search="范波会见罗氏诊断全球运营总裁瑞秋·克莱因一行
-9 月 18 日，苏州市委书记范波会见了罗氏诊断全球运营总裁瑞秋·克莱因一行。范波代表市委、市政府对罗氏给予苏州发展的关心支持表示感谢。他说，苏州是中国东部地区重要的中心城市，当前正深入学习贯彻习近平总书记就发展先进制造业作出的重要指示精神和全国先进制造业大会部署，强化创新驱动，因地制宜发展新质生产力，优化完善“1030”产业体系，纵深开展“人工智能+制造”行动，建设具有国际竞争力的“智能制造之城”。生物医药及高端医疗器械是苏州加力布局的十大重点新兴产业之一，罗氏是全球领先的生物医药企业，双方合作基础深厚、深化合作空间广阔。希望罗氏持续加大在苏投资力度，积极导入更多优质项目、创新技术、先进理念，助力苏州推动生物医药全产业链开放创新，共同书写互利共赢新篇章。苏州将积极扩大高水平对外开放，深入开展“三服务”专项行动，努力打造“有呼必应、事事闭环”营商环境品牌，更好服务广大企业扎根苏州、创新发展。（苏州日报）"><div class="time">15:03</div><div class="content"><div class="text" data-full="范波会见罗氏诊断全球运营总裁瑞秋·克莱因一行
-9 月 18 日，苏州市委书记范波会见了罗氏诊断全球运营总裁瑞秋·克莱因一行。范波代表市委、市政府对罗氏给予苏州发展的关心支持表示感谢。他说，苏州是中国东部地区重要的中心城市，当前正深入学习贯彻习近平总书记就发展先进制造业作出的重要指示精神和全国先进制造业大会部署，强化创新驱动，因地制宜发展新质生产力，优化完善“1030”产业体系，纵深开展“人工智能+制造”行动，建设具有国际竞争力的“智能制造之城”。生物医药及高端医疗器械是苏州加力布局的十大重点新兴产业之一，罗氏是全球领先的生物医药企业，双方合作基础深厚、深化合作空间广阔。希望罗氏持续加大在苏投资力度，积极导入更多优质项目、创新技术、先进理念，助力苏州推动生物医药全产业链开放创新，共同书写互利共赢新篇章。苏州将积极扩大高水平对外开放，深入开展“三服务”专项行动，努力打造“有呼必应、事事闭环”营商环境品牌，更好服务广大企业扎根苏州、创新发展。（苏州日报）" data-short="范波会见罗氏诊断全球运营总裁瑞秋·克莱因一行
-9 月 18 日，苏州市委书记范波会见了罗氏诊断全球运营总裁瑞秋·克莱因一行。范波代表市委、市政府对罗氏给予苏州发展的关心支持表示感谢。他说，苏州是中国东部地区重要的中心城市，当前正深入学习贯彻习近平总书记就发展先进制造业作出的重要指示精神和全国先进制造业大会部署，强化创新驱动，因地制宜发展新质生产力，优化完善“...">范波会见罗氏诊断全球运营总裁瑞秋·克莱因一行
-9 月 18 日，苏州市委书记范波会见了罗氏诊断全球运营总裁瑞秋·克莱因一行。范波代表市委、市政府对罗氏给予苏州发展的关心支持表示感谢。他说，苏州是中国东部地区重要的中心城市，当前正深入学习贯彻习近平总书记就发展先进制造业作出的重要指示精神和全国先进制造业大会部署，强化创新驱动，因地制宜发展新质生产力，优化完善“...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="意法半导体米兰上市股价早盘上涨 2.1%。"><div class="time">15:03</div><div class="content"><div class="text" data-full="意法半导体米兰上市股价早盘上涨 2.1%。" data-short="意法半导体米兰上市股价早盘上涨 2.1%。">意法半导体米兰上市股价早盘上涨 2.1%。</div></div></article><article class="item" data-search="雀巢欧股下跌 1.5%，此前该公司表示，在克里姆林宫采取行动没收其在俄业务之际，正在权衡所有选项。"><div class="time">15:03</div><div class="content"><div class="text" data-full="雀巢欧股下跌 1.5%，此前该公司表示，在克里姆林宫采取行动没收其在俄业务之际，正在权衡所有选项。" data-short="雀巢欧股下跌 1.5%，此前该公司表示，在克里姆林宫采取行动没收其在俄业务之际，正在权衡所有选项。">雀巢欧股下跌 1.5%，此前该公司表示，在克里姆林宫采取行动没收其在俄业务之际，正在权衡所有选项。</div></div></article><article class="item" data-search="欧洲斯托克 50 指数开盘跌 0.2%，德国 dax 指数跌 0.4%，英国富时 100 指数跌 0.2%，法国 cac 40 指数跌 0.4%。"><div class="time">15:02</div><div class="content"><div class="text" data-full="欧洲斯托克 50 指数开盘跌 0.2%，德国 DAX 指数跌 0.4%，英国富时 100 指数跌 0.2%，法国 CAC 40 指数跌 0.4%。" data-short="欧洲斯托克 50 指数开盘跌 0.2%，德国 DAX 指数跌 0.4%，英国富时 100 指数跌 0.2%，法国 CAC 40 指数跌 0.4%。">欧洲斯托克 50 指数开盘跌 0.2%，德国 DAX 指数跌 0.4%，英国富时 100 指数跌 0.2%，法国 CAC 40 指数跌 0.4%。</div></div></article><article class="item" data-search="日本央行行长植田和男：将继续根据日本央行的法律进行适当的货币政策操作。"><div class="time">15:02</div><div class="content"><div class="text" data-full="日本央行行长植田和男：将继续根据日本央行的法律进行适当的货币政策操作。" data-short="日本央行行长植田和男：将继续根据日本央行的法律进行适当的货币政策操作。">日本央行行长植田和男：将继续根据日本央行的法律进行适当的货币政策操作。</div></div></article><article class="item" data-search="挪威阿克石油英国石油公司股价早盘交易下跌 3.5%。"><div class="time">15:02</div><div class="content"><div class="text" data-full="挪威阿克石油英国石油公司股价早盘交易下跌 3.5%。" data-short="挪威阿克石油英国石油公司股价早盘交易下跌 3.5%。">挪威阿克石油英国石油公司股价早盘交易下跌 3.5%。</div></div></article><article class="item" data-search="市场全天高开高走，双创指数均涨超 2%。次新股集体爆发，c 沈鼓盘中涨近 300%，c 信诺维一度涨超 90%。半导体芯片股延续涨势，托伦斯、华天科技、诚邦股份、博通集成等多股涨停。消费股表现活跃，七匹狼、华纺股份、国芳集团、上海九百等涨停。个股涨多跌少，沪深京三市超 4200 股飘红，今日成交 2.09 万亿。截止收盘沪指涨 0.94%，深成指涨 1.72%，创业板指涨 2.25%。"><div class="time">15:02</div><div class="content"><div class="text" data-full="市场全天高开高走，双创指数均涨超 2%。次新股集体爆发，C 沈鼓盘中涨近 300%，C 信诺维一度涨超 90%。半导体芯片股延续涨势，托伦斯、华天科技、诚邦股份、博通集成等多股涨停。消费股表现活跃，七匹狼、华纺股份、国芳集团、上海九百等涨停。个股涨多跌少，沪深京三市超 4200 股飘红，今日成交 2.09 万亿。截止收盘沪指涨 0.94%，深成指涨 1.72%，创业板指涨 2.25%。" data-short="市场全天高开高走，双创指数均涨超 2%。次新股集体爆发，C 沈鼓盘中涨近 300%，C 信诺维一度涨超 90%。半导体芯片股延续涨势，托伦斯、华天科技、诚邦股份、博通集成等多股涨停。消费股表现活跃，七匹狼、华纺股份、国芳集团、上海九百等涨停。个股涨多跌少，沪深京三市超 4200 股飘红，今日成交 2.09 万亿。截止收盘沪指涨 0.94%，深成指涨 1.72...">市场全天高开高走，双创指数均涨超 2%。次新股集体爆发，C 沈鼓盘中涨近 300%，C 信诺维一度涨超 90%。半导体芯片股延续涨势，托伦斯、华天科技、诚邦股份、博通集成等多股涨停。消费股表现活跃，七匹狼、华纺股份、国芳集团、上海九百等涨停。个股涨多跌少，沪深京三市超 4200 股飘红，今日成交 2.09 万亿。截止收盘沪指涨 0.94%，深成指涨 1.72...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月18日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】价值量有望提升超5倍，ai浪潮给该行业带来历史性拐点，未来市场规模或突破400亿，这家企业新产品已批量供货
+金十数据 9 月 18 日讯，今日，A 股三大指数开涨后震荡走高，创业板指盘中一度涨超 3%。截至收盘，上证指数收涨 0.94%，深证成指收涨 1.72%，创业板指收涨 2.25%。半导体产业链大涨，先进封装、光刻机、AI 芯片等板块涨幅居前，托伦斯 20cm 涨停，惠科股份、华天科技等多股涨停；光伏设...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="土耳其财政部长：市场波动由少数投资基金的流动性与信贷问题引发。"><div class="time">15:06</div><div class="content"><div class="text" data-full="土耳其财政部长：市场波动由少数投资基金的流动性与信贷问题引发。" data-short="土耳其财政部长：市场波动由少数投资基金的流动性与信贷问题引发。">土耳其财政部长：市场波动由少数投资基金的流动性与信贷问题引发。</div></div></article><article class="item" data-search="美国大众汽车集团正在召回部分美国市场车辆，因转向机壳体可能断裂导致转向失控，增加碰撞风险。"><div class="time">15:05</div><div class="content"><div class="text" data-full="美国大众汽车集团正在召回部分美国市场车辆，因转向机壳体可能断裂导致转向失控，增加碰撞风险。" data-short="美国大众汽车集团正在召回部分美国市场车辆，因转向机壳体可能断裂导致转向失控，增加碰撞风险。">美国大众汽车集团正在召回部分美国市场车辆，因转向机壳体可能断裂导致转向失控，增加碰撞风险。</div></div></article><article class="item" data-search="摩根士丹利将 orange 评级从&#34;中性&#34;下调至&#34;减持&#34;后，该公司股价下跌 3.1%。"><div class="time">15:05</div><div class="content"><div class="text" data-full="摩根士丹利将 Orange 评级从&#34;中性&#34;下调至&#34;减持&#34;后，该公司股价下跌 3.1%。" data-short="摩根士丹利将 Orange 评级从&#34;中性&#34;下调至&#34;减持&#34;后，该公司股价下跌 3.1%。">摩根士丹利将 Orange 评级从&quot;中性&quot;下调至&quot;减持&quot;后，该公司股价下跌 3.1%。</div></div></article><article class="item" data-search="美国大众汽车集团将召回 208,724 辆美国市场车辆。"><div class="time">15:05</div><div class="content"><div class="text" data-full="美国大众汽车集团将召回 208,724 辆美国市场车辆。" data-short="美国大众汽车集团将召回 208,724 辆美国市场车辆。">美国大众汽车集团将召回 208,724 辆美国市场车辆。</div></div></article><article class="item" data-search="美国大众汽车集团将召回 49,958 辆美国市场车辆。"><div class="time">15:05</div><div class="content"><div class="text" data-full="美国大众汽车集团将召回 49,958 辆美国市场车辆。" data-short="美国大众汽车集团将召回 49,958 辆美国市场车辆。">美国大众汽车集团将召回 49,958 辆美国市场车辆。</div></div></article><article class="item" data-search="美国大众汽车集团正在召回部分美国市场车辆，因发动机意外熄火、外部照明或警示灯失效，或后视摄像头系统故障可能增加碰撞风险。"><div class="time">15:05</div><div class="content"><div class="text" data-full="美国大众汽车集团正在召回部分美国市场车辆，因发动机意外熄火、外部照明或警示灯失效，或后视摄像头系统故障可能增加碰撞风险。" data-short="美国大众汽车集团正在召回部分美国市场车辆，因发动机意外熄火、外部照明或警示灯失效，或后视摄像头系统故障可能增加碰撞风险。">美国大众汽车集团正在召回部分美国市场车辆，因发动机意外熄火、外部照明或警示灯失效，或后视摄像头系统故障可能增加碰撞风险。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月18日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】价值量有望提升超5倍，ai浪潮给该行业带来历史性拐点，未来市场规模或突破400亿，这家企业新产品已批量供货
 
 #富满微
 #士兰微"> <div class="time">14:01</div> <div class="content"> <div class="text">【盘中宝】价值量有望提升超5倍，AI浪潮给该行业带来历史性拐点，未来市场规模或突破400亿，这家企业新产品已批量供货
