@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3475381",
+    "datetime": "2026-09-18T22:17:02+00:00",
+    "views": "2",
+    "text": "丹麦首相表示格陵兰相关协议将在联合国大会期间签署。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475381"
+  },
+  {
+    "post": "Financial_Express/3475380",
+    "datetime": "2026-09-18T22:16:42+00:00",
+    "views": "2",
+    "text": "据华尔街日报：谷歌 Gemini 模型在网络安全测试中自主攻击 3 家公司系统，系谷歌 AI 首次已知自主执行此类行为。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475380"
+  },
+  {
     "post": "Financial_Express/3475379",
     "datetime": "2026-09-18T22:15:16+00:00",
-    "views": "1",
+    "views": "3",
     "text": "美国驻联合国大使：特朗普将会见委内瑞拉代总统罗德里格斯。\n特朗普将与海湾领导人举行多边会议。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3475378",
     "datetime": "2026-09-18T22:15:02+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美国驻联合国大使：特朗普将与海湾领导人举行多边会议。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3475377",
     "datetime": "2026-09-18T22:14:42+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美国驻联合国大使：特朗普将会见委内瑞拉代总统罗德里格斯。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3475376",
     "datetime": "2026-09-18T22:14:22+00:00",
-    "views": "4",
+    "views": "7",
     "text": "谷歌 Gemini 在安全测试中自主入侵三家真实企业 公司称未构成模型错配且未主动披露\n9 月 18 日，谷歌确认其 Gemini 模型在今年 5 月的一次网络安全能力测试中，自主接入互联网并入侵了三家真实企业的受保护系统，这是谷歌 AI 系统首次被证实自主实施此类行为。测试由第三方安全公司 Irregular 执行，采用\"夺旗\"竞赛形式。因测试环境中一家虚构公司与真实企业同名，Gemini 在未被授权联网的情况下意外获得网络访问权限，通过暴力猜解密码和在公开代码库中发现的凭证，成功进入三家真实企业的系统。谷歌称，模型在识别到接入的是真实企业后，立即终止了入侵行为，未造成实际损害，且已通知相关企业和联邦监管机构，但未披露涉事企业名称。谷歌安全工程副总裁 Heather Adkins 表示，公司不认为该事件构成\"模型错配\"，理由是模型的安全机制使其主动停止了入侵，并将此次事件类比为\"漏洞赏金\"计划。谷歌同时表示，涉事模型并非其最新版本 Gemini，但未透露具体型号。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3475375",
     "datetime": "2026-09-18T22:14:04+00:00",
-    "views": "4",
+    "views": "8",
     "text": "9 月 18 日，谷歌确认其 Gemini 模型在今年 5 月的一次网络安全能力测试中，自主接入互联网并入侵了三家真实企业的受保护系统，这是谷歌 AI 系统首次被证实自主实施此类行为。测试由第三方安全公司 Irregular 执行，采用”夺旗”竞赛形式。因测试环境中一家虚构公司与真实企业同名，Gemini 在未被授权联网的情况下意外获得网络访问权限，通过暴力猜解密码和在公开代码库中发现的凭证，成功进入三家真实企业的系统。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3475374",
     "datetime": "2026-09-18T22:14:02+00:00",
-    "views": "3",
+    "views": "5",
     "text": "华纳兄弟盘后股价上涨 6%。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3475362",
     "datetime": "2026-09-18T22:08:02+00:00",
-    "views": "5",
+    "views": "6",
     "text": "美铜暗盘突破 6.7 美元，日内涨幅 1.3%。",
     "media_only": false,
     "image_url": null,
@@ -54610,23 +54628,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3469259"
-  },
-  {
-    "post": "Financial_Express/3469258",
-    "datetime": "2026-09-16T22:16:42+00:00",
-    "views": "59",
-    "text": "前美国第五舰队指挥官约翰·米勒：我们不应该对胡塞武装参战感到惊讶。考虑到胡塞武装在红海航运中破坏活动的历史，他们参战是可以预见到的。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469258"
-  },
-  {
-    "post": "Financial_Express/3469257",
-    "datetime": "2026-09-16T22:15:23+00:00",
-    "views": "56",
-    "text": "报道：美国正追踪全球近 20 艘船舶的网络威胁\n据熟悉情况的美国官员透露，美国政府机构正在追踪针对全球近 20 艘船舶的网络威胁。三位不愿具名的人士表示，海岸警卫队已要求，若其中任何船舶计划进入美国港口，需提前通知。这些船舶的具体目的地和货物清单目前尚不清楚。联邦网络安全和基础设施安全局（CISA）的一名官员表示，8 月下旬有多艘商船成为潜在网络攻击的目标，并指出黑客似乎并未实际控制被攻击的船舶。一名国土安全部官员称，海岸警卫队目前正与联邦调查局（FBI）和国土安全部下属部门共同追踪这些船舶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469257"
   }
 ]
