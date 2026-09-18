@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3475001",
     "datetime": "2026-09-18T17:39:18+00:00",
-    "views": "1",
+    "views": "10",
     "text": "五角大楼已告知国会，截至目前，美国在伊朗相关行动上的支出已达 436 亿美元。\n根据彭博政府查阅的中央司令部评估报告，截至 9 月 3 日，五角大楼已拨付约 112 亿美元用于支付与行动相关的增量成本，约 281 亿美元用于补充已消耗的弹药，约 43 亿美元用于替换损失的装备。\n随着更多评估数据出炉，装备损失成本还将进行调整。提交给议员的这份估算并未包含因伊朗袭击导致美国中东基地可能遭受的数百亿美元损失。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3475000",
     "datetime": "2026-09-18T17:35:42+00:00",
-    "views": "53",
+    "views": "58",
     "text": "SpaceXAI：推出 Grok 语音转写 2.0 版本，在保持原有定价不变的情况下，准确率提升一倍。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3474999",
     "datetime": "2026-09-18T17:35:14+00:00",
-    "views": "52",
+    "views": "87",
     "text": "据知情人士透露，Westinghouse 寻求在美国 IPO 中获得超过 500 亿美元估值。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3474998",
     "datetime": "2026-09-18T17:33:42+00:00",
-    "views": "46",
+    "views": "78",
     "text": "消息人士：西屋电气计划在美国 IPO 中寻求超过 500 亿美元估值。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3474997",
     "datetime": "2026-09-18T17:32:22+00:00",
-    "views": "42",
+    "views": "74",
     "text": "西屋电气寻求在美国首次公开募股中获得超 500 亿美元估值。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3474996",
     "datetime": "2026-09-18T17:27:42+00:00",
-    "views": "100",
+    "views": "132",
     "text": "国际原子能机构新增 11 个理事会成员国\n金十数据 9 月 19 日讯，当地时间 9 月 18 日，国际原子能机构宣布，11 个新当选国家将加入国际原子能机构理事会，任期为 2026 年至 2028 年。此次选举于 9 月 17 日在国际原子能机构第 70 届大会第七次全体会议上举行。新当选的理事会成员国包括安哥拉、巴西、希腊、洪都拉斯、科威特、马来西亚、墨西哥、新西兰、尼日利亚、斯洛伐克和瑞典。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3474995",
     "datetime": "2026-09-18T17:25:42+00:00",
-    "views": "101",
+    "views": "133",
     "text": "杜克能源呼吁南北卡罗来纳州用户减少用电。",
     "media_only": false,
     "image_url": null,
@@ -56680,23 +56680,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3468650"
-  },
-  {
-    "post": "Financial_Express/3468649",
-    "datetime": "2026-09-16T17:40:42+00:00",
-    "views": "74",
-    "text": "摩根大通全球固定收益负责人米歇尔：这可能是我们最后一次获得的点阵图。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3468649"
-  },
-  {
-    "post": "Financial_Express/3468648",
-    "datetime": "2026-09-16T17:40:02+00:00",
-    "views": "70",
-    "text": "阿塞拜疆财政部：阿塞拜疆在 2027 年预算草案中将油价设定为每桶 65 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3468648"
   }
 ]
