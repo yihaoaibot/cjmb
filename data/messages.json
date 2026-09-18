@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3475403",
     "datetime": "2026-09-18T22:42:12+00:00",
-    "views": "14",
+    "views": "15",
     "text": "据美国官员透露，英伟达 CEO 黄仁勋、OpenAI 的 CEO Sam Altman、谷歌公司 CEO Sundar Pichai、花旗集团 CEO Jane Fraser、亚马逊创始人贝佐斯、特斯拉 CEO 马斯克、戴尔科技 CEO Michael Dell、苹果公司原 CEO 库克将列席总统特朗普为习近平准备的国宴。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3475402",
     "datetime": "2026-09-18T22:41:42+00:00",
-    "views": "17",
+    "views": "18",
     "text": "Adobe 首席执行官兼董事长称，于 9 月 16 日和 9 月 17 日在公开市场出售了 12.5 万股公司股票，每股价格介于 249.53 美元至 253.74 美元之间。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3475401",
     "datetime": "2026-09-18T22:38:02+00:00",
-    "views": "34",
+    "views": "35",
     "text": "OpenAI 预计从现在到 2030 年底，总收入将达到 8400 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3475400",
     "datetime": "2026-09-18T22:37:02+00:00",
-    "views": "38",
+    "views": "39",
     "text": "OpenAI 预计今年营收 360 亿美元，2030 年营收将达到 3500 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3475399",
     "datetime": "2026-09-18T22:36:42+00:00",
-    "views": "38",
+    "views": "39",
     "text": "特朗普：美国将获得对格陵兰岛安全“永久控制权”\n当地时间 9 月 18 日，美国总统特朗普在社交媒体上发文称，美国已与丹麦及其自治领地格陵兰岛达成一项协议，将获得对格陵兰岛安全及所有其他相关事务的“永久控制权”，美方无需为此支付费用。特朗普称，这是一份无限期协议，确保美国永远拥有在格陵兰岛采取必要行动、保障格陵兰岛及美国自身安全的完整权力。未经美方书面许可，美方敌对势力不得在格陵兰岛设立军事基地、保持军事存在或进行敏感投资。特朗普还称，美方将在格陵兰岛合适区域建立大规模军事存在，并同当地民众合作开展相关开发建设。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3475398",
     "datetime": "2026-09-18T22:36:03+00:00",
-    "views": "38",
+    "views": "40",
     "text": "OpenAI 预计 2026 至 2030 年自由现金流累计缺口 2780 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3475397",
     "datetime": "2026-09-18T22:36:02+00:00",
-    "views": "39",
+    "views": "41",
     "text": "美国高级政府官员：将就人工智能与治理问题召开安理会会议。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3475396",
     "datetime": "2026-09-18T22:35:18+00:00",
-    "views": "40",
+    "views": "42",
     "text": "OpenAI 到 2030 年这段时间料将烧钱 2800 亿美元。\n预计 2026-30 年自由现金流（FCF）将为-2780 亿美元，预定收入料将为 8400 亿美元。\n预计 2030 年营收为 3500 亿美元，而 2026 年料将为 360 亿美元。（英国金融时报）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3475395",
     "datetime": "2026-09-18T22:34:42+00:00",
-    "views": "41",
+    "views": "43",
     "text": "OpenAI 预计到 2030 年将消耗 2800 亿美元现金。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +128,7 @@
   {
     "post": "Financial_Express/3475389",
     "datetime": "2026-09-18T22:28:10+00:00",
-    "views": "56",
+    "views": "57",
     "text": "白宫发言人 Kelly：美国总统特朗普下周三将安排在安德鲁联合基地迎接习近平。\n特朗普将于下周五陪同习近平参观美国档案馆。（PBS）",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3475388",
     "datetime": "2026-09-18T22:28:02+00:00",
-    "views": "56",
+    "views": "57",
     "text": "千问发布 Qwen3.8-Omni-Flash， 提升其在真实生产力场景中的 Agent 能力\n千问新一代原生全模态模型 Qwen3.8-Omni-Flash 正式上线。该模型的核心目标是提升其在真实生产力场景中的 Agent 能力，推动全模态模型从“理解全模态内容”进一步走向“规划任务、调用工具并完成创作”。在具备编程、文本知识工作和 GUI 操作等通用 Agentic 能力的基础上，Qwen3.8-Omni-Flash 进一步拓展了以音视频为核心的 Agentic 应用，在视频剪辑、音乐视频创作、影视制作与解说、音视频转图文摘要和音视频对话等，需要综合处理文本、图像、音频与视频的工作流中取得了显著效果。（千问大模型）",
     "media_only": false,
     "image_url": null,
@@ -54349,41 +54349,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3469313"
-  },
-  {
-    "post": "Financial_Express/3469310",
-    "datetime": "2026-09-16T22:45:01+00:00",
-    "views": "47",
-    "text": "新西兰二季度 GDP 同比 2.6%，预期 2.2%，前值 1.5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469310"
-  },
-  {
-    "post": "Financial_Express/3469311",
-    "datetime": "2026-09-16T22:45:01+00:00",
-    "views": "47",
-    "text": "新西兰二季度 GDP 季环比 0.2%，预期 0.1%，前值 0.8%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469311"
-  },
-  {
-    "post": "Financial_Express/3469309",
-    "datetime": "2026-09-16T22:44:22+00:00",
-    "views": "46",
-    "text": "美国众议院通过俄罗斯制裁法案，将送交特朗普签署\n金十数据 9 月 17 日讯，美国众议院以 262 票对 159 票通过法案，对俄罗斯实施制裁和关税，该法案将送交特朗普签署。方案旨在向俄罗斯经济施压，以迫使普京结束俄乌冲突。制裁针对协助支撑战争的俄罗斯官员、公司和金融机构。该法案还授权总统对从俄罗斯进口石油和天然气的主要国家征收关税。关税授权是许多反对该法案的民主党人的症结所在，他们担心特朗普可能会获得新的途径对他选择的国家征收关税。弗吉尼亚州民主党众议员唐·拜尔表示：“这项法案有一个漏洞，允许他基本上将任何国家定义为规避俄罗斯制裁的协助者。然后他就可以对它们征收高达 100%的关税，没有任何护栏或监督，也没有到期期限。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469309"
-  },
-  {
-    "post": "Financial_Express/3469308",
-    "datetime": "2026-09-16T22:44:02+00:00",
-    "views": "49",
-    "text": "私募五大策略业绩分化，量化多头领跑\n截至 8 月 31 日，在该平台有业绩记录的 12597 只私募产品 8 月平均收益率达 4.53%，今年以来的平均收益率提升至 4.99%，超六成产品实现正收益。五大策略表现显著分化：8 月股票策略以 5.44%的平均收益率领跑，多资产策略、组合基金策略、期货及衍生品策略的平均收益率分别为 3.84%、3.47%和 3.14%，债券策略当月的平均收益率为 0.44%。 更值得关注的是股票策略内部的结构性分化——量化多头单月平均收益率达 9.71%，年内收益率由负转正至 6.62%，而主观多头 8 月平均收益率仅 3.82%。有私募人士表示，这种分化的本质是各策略贝塔来源不同，并非简单的“谁强谁弱”。（中证报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469308"
   }
 ]
