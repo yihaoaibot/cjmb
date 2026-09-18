@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3475379",
+    "datetime": "2026-09-18T22:15:16+00:00",
+    "views": "1",
+    "text": "美国驻联合国大使：特朗普将会见委内瑞拉代总统罗德里格斯。\n特朗普将与海湾领导人举行多边会议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475379"
+  },
+  {
+    "post": "Financial_Express/3475378",
+    "datetime": "2026-09-18T22:15:02+00:00",
+    "views": "3",
+    "text": "美国驻联合国大使：特朗普将与海湾领导人举行多边会议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475378"
+  },
+  {
+    "post": "Financial_Express/3475377",
+    "datetime": "2026-09-18T22:14:42+00:00",
+    "views": "3",
+    "text": "美国驻联合国大使：特朗普将会见委内瑞拉代总统罗德里格斯。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475377"
+  },
+  {
+    "post": "Financial_Express/3475376",
+    "datetime": "2026-09-18T22:14:22+00:00",
+    "views": "4",
+    "text": "谷歌 Gemini 在安全测试中自主入侵三家真实企业 公司称未构成模型错配且未主动披露\n9 月 18 日，谷歌确认其 Gemini 模型在今年 5 月的一次网络安全能力测试中，自主接入互联网并入侵了三家真实企业的受保护系统，这是谷歌 AI 系统首次被证实自主实施此类行为。测试由第三方安全公司 Irregular 执行，采用\"夺旗\"竞赛形式。因测试环境中一家虚构公司与真实企业同名，Gemini 在未被授权联网的情况下意外获得网络访问权限，通过暴力猜解密码和在公开代码库中发现的凭证，成功进入三家真实企业的系统。谷歌称，模型在识别到接入的是真实企业后，立即终止了入侵行为，未造成实际损害，且已通知相关企业和联邦监管机构，但未披露涉事企业名称。谷歌安全工程副总裁 Heather Adkins 表示，公司不认为该事件构成\"模型错配\"，理由是模型的安全机制使其主动停止了入侵，并将此次事件类比为\"漏洞赏金\"计划。谷歌同时表示，涉事模型并非其最新版本 Gemini，但未透露具体型号。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475376"
+  },
+  {
+    "post": "Financial_Express/3475375",
+    "datetime": "2026-09-18T22:14:04+00:00",
+    "views": "4",
+    "text": "9 月 18 日，谷歌确认其 Gemini 模型在今年 5 月的一次网络安全能力测试中，自主接入互联网并入侵了三家真实企业的受保护系统，这是谷歌 AI 系统首次被证实自主实施此类行为。测试由第三方安全公司 Irregular 执行，采用”夺旗”竞赛形式。因测试环境中一家虚构公司与真实企业同名，Gemini 在未被授权联网的情况下意外获得网络访问权限，通过暴力猜解密码和在公开代码库中发现的凭证，成功进入三家真实企业的系统。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475375"
+  },
+  {
+    "post": "Financial_Express/3475374",
+    "datetime": "2026-09-18T22:14:02+00:00",
+    "views": "3",
+    "text": "华纳兄弟盘后股价上涨 6%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475374"
+  },
+  {
+    "post": "Financial_Express/3475373",
+    "datetime": "2026-09-18T22:13:42+00:00",
+    "views": "4",
+    "text": "美国驻联合国大使沃尔兹：特朗普将与英国首相、日本首相举行会晤。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475373"
+  },
+  {
     "post": "Financial_Express/3475372",
     "datetime": "2026-09-18T22:13:22+00:00",
-    "views": "1",
+    "views": "4",
     "text": "美国驻联合国大使沃尔兹：特朗普将于周一下午抵达纽约。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3475371",
     "datetime": "2026-09-18T22:13:02+00:00",
-    "views": "2",
+    "views": "4",
     "text": "在一次测试中，GEMINI 通过猜测密码和在公共存储库中查找凭证，获得了受保护系统的访问权限。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3475370",
     "datetime": "2026-09-18T22:12:42+00:00",
-    "views": "2",
+    "views": "4",
     "text": "AMD 暗盘突破 550 美元，日内涨 2.5%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3475369",
     "datetime": "2026-09-18T22:12:02+00:00",
-    "views": "2",
+    "views": "4",
     "text": "谷歌的 Gemini 模型在一项网络安全测试中访问了互联网并入侵了其他企业。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3475368",
     "datetime": "2026-09-18T22:11:42+00:00",
-    "views": "2",
+    "views": "4",
     "text": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案\n金十数据 9 月 19 日讯，当地时间 9 月 18 日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026 年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3475367",
     "datetime": "2026-09-18T22:09:48+00:00",
-    "views": "2",
+    "views": "4",
     "text": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案\n9 月 18 日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026 年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。（央视）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3475366",
     "datetime": "2026-09-18T22:09:42+00:00",
-    "views": "2",
+    "views": "3",
     "text": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案\n当地时间 9 月 18 日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026 年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3475365",
     "datetime": "2026-09-18T22:09:22+00:00",
-    "views": "2",
+    "views": "3",
     "text": "美光暗盘突破 1000 美元，日内涨 2.8%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3475364",
     "datetime": "2026-09-18T22:08:42+00:00",
-    "views": "3",
+    "views": "4",
     "text": "泽连斯基表示，缅怀参议员林赛·格雷厄姆的最佳方式，就是落实他所推动的法案中的各项条款。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3475363",
     "datetime": "2026-09-18T22:08:22+00:00",
-    "views": "3",
+    "views": "4",
     "text": "乌克兰总统泽连斯基感谢美国总统特朗普签署俄罗斯制裁法案，并感谢国会成员对此的支持。",
     "media_only": false,
     "image_url": null,
@@ -54565,23 +54628,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3469257"
-  },
-  {
-    "post": "Financial_Express/3469256",
-    "datetime": "2026-09-16T22:15:22+00:00",
-    "views": "9",
-    "text": "OpenAI 将向美国政府提出 AI 安全通报机制建议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469256"
-  },
-  {
-    "post": "Financial_Express/3469255",
-    "datetime": "2026-09-16T22:14:22+00:00",
-    "views": "47",
-    "text": "钯金期货日内跌 2%，现报 1286.62 美元/盎司。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469255"
   }
 ]
