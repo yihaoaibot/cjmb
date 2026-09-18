@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3474986",
     "datetime": "2026-09-18T17:03:42+00:00",
-    "views": "10",
+    "views": "41",
     "text": "贝克休斯：美国能源公司连续第二周增加钻井平台。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3474985",
     "datetime": "2026-09-18T17:03:03+00:00",
-    "views": "20",
+    "views": "51",
     "text": "秘鲁央行行长：尽管当前形势严峻，但秘鲁仍具备 “巨大潜力”，主要体现在矿业领域。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3474983",
     "datetime": "2026-09-18T17:02:22+00:00",
-    "views": "28",
+    "views": "29",
     "text": "美国至 9 月 18 日当周天然气钻井总数 134 口，前值 132 口。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3474984",
     "datetime": "2026-09-18T17:02:22+00:00",
-    "views": "28",
+    "views": "29",
     "text": "美国至 9 月 18 日当周总钻井总数 595 口，前值 591 口。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3474980",
     "datetime": "2026-09-18T17:01:42+00:00",
-    "views": "37",
+    "views": "67",
     "text": "截至 9 月 18 日当周，美国石油钻井平台数量增加 2 座，至 452 座，较去年同期增加 34 座。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3474979",
     "datetime": "2026-09-18T17:00:40+00:00",
-    "views": "50",
+    "views": "80",
     "text": "国际铜夜盘收涨 0.56%，沪铜收涨 0.34%，沪铝收跌 0.04%，沪锌收涨 0.64%，沪铅收涨 0.37%，沪镍收跌 0.36%，沪锡收涨 0.84%。\n氧化铝夜盘收涨 1.41%，铝合金收涨 0.25%。\n不锈钢夜盘收跌 0.26%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3474978",
     "datetime": "2026-09-18T17:00:22+00:00",
-    "views": "53",
+    "views": "83",
     "text": "夜盘期货收盘\n国际铜夜盘收涨 0.56%，沪铜收涨 0.34%，沪铝收跌 0.04%，沪锌收涨 0.64%，沪铅收涨 0.31%，沪镍收跌 0.32%，沪锡收涨 0.84%。氧化铝夜盘收涨 1.41%，铝合金收涨 0.25%。不锈钢夜盘收跌 0.26%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3474977",
     "datetime": "2026-09-18T16:58:03+00:00",
-    "views": "63",
+    "views": "93",
     "text": "欧洲地中海地震中心：智利大都会区发生 5 级地震。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3474976",
     "datetime": "2026-09-18T16:58:02+00:00",
-    "views": "63",
+    "views": "93",
     "text": "消息人士：美国总统特朗普预计当地时间今天签署针对俄罗斯的制裁法案。",
     "media_only": false,
     "image_url": null,
@@ -57148,14 +57148,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3468583"
-  },
-  {
-    "post": "Financial_Express/3468582",
-    "datetime": "2026-09-16T17:07:42+00:00",
-    "views": "99",
-    "text": "OpenAI、GitHub 在 AI 编程工具版权诉讼中取得胜利。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3468582"
   }
 ]
