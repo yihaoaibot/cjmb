@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3474990",
+    "datetime": "2026-09-18T17:16:38+00:00",
+    "views": "2",
+    "text": "周五（9 月 18 日），美联储隔夜逆回购协议（RRP）使用规模为 5.76 亿美元（交易对手 3 家），上个交易日报 2.76 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3474990"
+  },
+  {
+    "post": "Financial_Express/3474989",
+    "datetime": "2026-09-18T17:16:22+00:00",
+    "views": "2",
+    "text": "美联储在固定利率逆回购操作中总计接纳了 3 个对手方的 5.76 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3474989"
+  },
+  {
     "post": "Financial_Express/3474988",
     "datetime": "2026-09-18T17:12:43+00:00",
-    "views": "34",
+    "views": "35",
     "text": "Polymarket 与雅虎财经的合作伙伴关系到期。\nPolymarket 仍然是后者的顾问伙伴。（华尔街日报）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3474986",
     "datetime": "2026-09-18T17:03:42+00:00",
-    "views": "105",
+    "views": "106",
     "text": "贝克休斯：美国能源公司连续第二周增加钻井平台。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3474985",
     "datetime": "2026-09-18T17:03:03+00:00",
-    "views": "85",
+    "views": "116",
     "text": "秘鲁央行行长：尽管当前形势严峻，但秘鲁仍具备 “巨大潜力”，主要体现在矿业领域。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3474976",
     "datetime": "2026-09-18T16:58:02+00:00",
-    "views": "95",
+    "views": "125",
     "text": "消息人士：美国总统特朗普预计当地时间今天签署针对俄罗斯的制裁法案。",
     "media_only": false,
     "image_url": null,
@@ -57094,23 +57112,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3468591"
-  },
-  {
-    "post": "Financial_Express/3468589",
-    "datetime": "2026-09-16T17:16:42+00:00",
-    "views": "97",
-    "text": "黎巴嫩总理：我们拒绝让黎巴嫩成为各方冲突的战场。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3468589"
-  },
-  {
-    "post": "Financial_Express/3468590",
-    "datetime": "2026-09-16T17:16:42+00:00",
-    "views": "97",
-    "text": "周三（9 月 16 日），美联储隔夜逆回购协议（RRP）使用规模为 53.75 亿美元（交易对手 4 家），上个交易日报 7 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3468590"
   }
 ]
