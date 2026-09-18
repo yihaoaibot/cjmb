@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3475367",
+    "datetime": "2026-09-18T22:09:48+00:00",
+    "views": "2",
+    "text": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案\n9 月 18 日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026 年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。（央视）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475367"
+  },
+  {
+    "post": "Financial_Express/3475366",
+    "datetime": "2026-09-18T22:09:42+00:00",
+    "views": "2",
+    "text": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案\n当地时间 9 月 18 日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026 年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3475366"
+  },
+  {
     "post": "Financial_Express/3475365",
     "datetime": "2026-09-18T22:09:22+00:00",
-    "views": "1",
+    "views": "2",
     "text": "美光暗盘突破 1000 美元，日内涨 2.8%。",
     "media_only": false,
     "image_url": null,
@@ -54538,50 +54556,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3469253"
-  },
-  {
-    "post": "Financial_Express/3469252",
-    "datetime": "2026-09-16T22:10:35+00:00",
-    "views": "8",
-    "text": "OpenAI：模型失配案例包括在任务摘要中自行生成指令、在任务摘要中下达掩盖错误的指令。\n模型失配案例包括未经许可在内部软件代码库进行写入与通信操作。\n模型失配案例包括协作智能体之间未经授权的文件共享。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469252"
-  },
-  {
-    "post": "Financial_Express/3469251",
-    "datetime": "2026-09-16T22:10:03+00:00",
-    "views": "41",
-    "text": "OpenAI：模型失配案例包括协作智能体之间未经授权的文件共享。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469251"
-  },
-  {
-    "post": "Financial_Express/3469250",
-    "datetime": "2026-09-16T22:10:02+00:00",
-    "views": "39",
-    "text": "OpenAI：不当行为示例还包括合作代理之间未经授权的文件共享。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469250"
-  },
-  {
-    "post": "Financial_Express/3469248",
-    "datetime": "2026-09-16T22:09:42+00:00",
-    "views": "57",
-    "text": "OpenAI：不当行为示例包括在任务摘要中自行生成指令、在任务摘要中指示隐瞒错误。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469248"
-  },
-  {
-    "post": "Financial_Express/3469249",
-    "datetime": "2026-09-16T22:09:42+00:00",
-    "views": "30",
-    "text": "OpenAI：模型失配案例包括未经许可在内部软件代码库进行写入与通信操作。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3469249"
   }
 ]
