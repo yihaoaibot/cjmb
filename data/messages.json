@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3472600",
+    "datetime": "2026-09-18T01:25:43+00:00",
+    "views": "2",
+    "text": "A 股三大股指开盘齐涨，上证指数涨 0.42%，深证成指涨 1.15%，创业板指涨 1.61%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3472600"
+  },
+  {
+    "post": "Financial_Express/3472599",
+    "datetime": "2026-09-18T01:25:42+00:00",
+    "views": "2",
+    "text": "A 股开盘，沪指开涨 0.42%，深证成指开涨 1.15%，创业板指开涨 1.61%；贵金属、半导体、CPO、先进封装、PCB 等板块涨幅居前。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3472599"
+  },
+  {
     "post": "Financial_Express/3472598",
     "datetime": "2026-09-18T01:25:11+00:00",
-    "views": "2",
+    "views": "35",
     "text": "离岸人民币兑美元涨至 6.6967 元，为 2022 年 7 月来盘中新高。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3472597",
     "datetime": "2026-09-18T01:25:02+00:00",
-    "views": "2",
+    "views": "34",
     "text": "港股人工智能股走强 壁仞科技涨近 5%\n截至发稿，壁仞科技(06082.HK)涨 4.73%，傅里叶(03625.HK)涨 4.01%，MINIMAX-W(00100.HK)涨 4%，剑桥科技(06166.HK)涨 3.53%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3472596",
     "datetime": "2026-09-18T01:23:42+00:00",
-    "views": "34",
+    "views": "36",
     "text": "中国央行公开市场开展 4633 亿元 7 天期逆回购操作，操作利率 1.40%，持平上次。开展 1000 亿元 14 天期逆回购操作。今日 6040 亿元逆回购到期。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3472595",
     "datetime": "2026-09-18T01:23:22+00:00",
-    "views": "34",
+    "views": "36",
     "text": "港股人工智能股高开，佑驾创新(02431.HK)涨超 6%，MINIMAX-W(00100.HK)涨近 4%，智谱(02513.HK)涨超 3%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3472594",
     "datetime": "2026-09-18T01:23:02+00:00",
-    "views": "35",
+    "views": "37",
     "text": "央行公开市场今日净回笼 407 亿元人民币。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3472593",
     "datetime": "2026-09-18T01:22:42+00:00",
-    "views": "36",
+    "views": "67",
     "text": "央行进行 1,000 亿元 14 天期逆回购操作。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3472590",
     "datetime": "2026-09-18T01:22:23+00:00",
-    "views": "36",
+    "views": "66",
     "text": "医药工业发展“十五五”规划：培育医药工业文化价值 推动中医药文化传承创新\n工业和信息化部等十部门印发《医药工业发展“十五五”规划》。规划提出，培育医药工业文化价值。推动中医药文化传承创新，加强中医药古籍整理与经典名方开发，展示中医药传统文化与发展成就。鼓励中药原料生产基地、中药企业开展农文旅融合的科普研学活动。培育现代医药产业文化，开发权威科普资源，强化公众对医药产业创新、科技创新的认知与了解。提升文化软实力，推动医药文化融入国民教育，在中小学开展中医药文化、生命科学教育，支持医药题材文艺创作，讲好医药领域中国故事。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3472591",
     "datetime": "2026-09-18T01:22:23+00:00",
-    "views": "36",
+    "views": "66",
     "text": "港股恒指高开涨 0.49％，恒生科技指数开涨 0.41%。人工智能、生物医药、贵金属等板块涨幅居前。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3472592",
     "datetime": "2026-09-18T01:22:23+00:00",
-    "views": "36",
+    "views": "67",
     "text": "央行公告称，开展 4633 亿元人民币 7 天期逆回购操作，利率 1.40%，与上次持平。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3472589",
     "datetime": "2026-09-18T01:22:22+00:00",
-    "views": "37",
+    "views": "67",
     "text": "中国央行：今日开展 4633 亿元 7 天逆回购操作，投标量 4633 亿元，中标量 4633 亿元，操作利率为 1.40%。另外，以固定数量、利率招标、多重价位中标方式开展了 1000 亿元 14 天期逆回购操作。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3472588",
     "datetime": "2026-09-18T01:22:03+00:00",
-    "views": "37",
+    "views": "67",
     "text": "香港恒生指数高开 0.49%，报 24723.85 点；恒生科技指数涨 0.41%。MNIMAX 涨近 4%，智谱涨 3.6%，华虹宏力涨 2.8%。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3472581",
     "datetime": "2026-09-18T01:20:02+00:00",
-    "views": "35",
+    "views": "65",
     "text": "十部门：壮大精准诊断产业规模，加快创新诊断产品产业化\n工业和信息化部、国家发展改革委等十部门近日联合印发《医药工业发展“十五五”规划》。《规划》提出，壮大精准诊断产业规模。重点发展高通量基因测序、微流控、高灵敏生物检测等技术，推动体外诊断、医学影像、病理诊断、分子诊断、多组学检测等领域融合升级，加快创新诊断产品产业化。完善精准诊断产品质量控制、临床评价及标准体系。推动有条件的医疗机构发展精准诊断中心，加强与相关企业合作，促进诊疗数据互联互通、共享共用，加快精准诊断技术与数字健康、人工智能深度融合，提升罕见病、肿瘤、遗传病等精准诊断水平。",
     "media_only": false,
     "image_url": null,
@@ -59857,59 +59875,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3465892"
-  },
-  {
-    "post": "Financial_Express/3465891",
-    "datetime": "2026-09-16T01:26:02+00:00",
-    "views": "33",
-    "text": "PTA 连续主力合约日内涨 2%，现报 6568.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3465891"
-  },
-  {
-    "post": "Financial_Express/3465890",
-    "datetime": "2026-09-16T01:25:49+00:00",
-    "views": "33",
-    "text": "上证指数开盘报 3861.75 点，跌 0.07%。\n深证成指开盘报 13276.85 点，跌 0.08%。\n创业板指开盘报 3246.89 点，跌 0.03%。\n沪深 300 开盘报 4449.88 点，跌 0.00%。\n科创 50 开盘报 1558.38 点，涨 0.41%。\n中证 500 开盘报 7556.90 点，跌 0.06%。\n中证 1000 开盘报 7437.82 点，涨 0.00%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3465890"
-  },
-  {
-    "post": "Financial_Express/3465888",
-    "datetime": "2026-09-16T01:25:43+00:00",
-    "views": "33",
-    "text": "A 股开盘，上证指数跌 0.07%，深证成指跌 0.08%，创业板指跌 0.03%。N 信诺维上市首日开涨 72.36%，N 腾信开涨 73.28%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3465888"
-  },
-  {
-    "post": "Financial_Express/3465889",
-    "datetime": "2026-09-16T01:25:43+00:00",
-    "views": "33",
-    "text": "A 股三大股指开盘齐跌，上证指数跌 0.07%，深证成指跌 0.08%，创业板指跌 0.03%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3465889"
-  },
-  {
-    "post": "Financial_Express/3465887",
-    "datetime": "2026-09-16T01:25:42+00:00",
-    "views": "33",
-    "text": "OpenAI 首席执行官：AI 行业有能力在不造成重大伤害的情况下安全发展\n金十数据 9 月 16 日讯，OpenAI 首席执行官山姆·奥尔特曼表示，他相信人工智能企业能够在不对社会造成重大伤害的情况下安全推进技术发展，并对行业实现这一目标“非常有信心”。奥尔特曼表示，AI 企业应当能够自主推进模型能力提升并确保安全。他同时表示，对近期围绕 AI 发展速度及监管必要性的讨论方式感到失望。此前，Anthropic 首席执行官达里奥·阿莫迪撰文警告 AI 潜在风险，并提出应放缓技术发展。OpenAI 目前正与 Anthropic 及谷歌 DeepMind 合作处理 AI 安全问题。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3465887"
-  },
-  {
-    "post": "Financial_Express/3465886",
-    "datetime": "2026-09-16T01:25:40+00:00",
-    "views": "33",
-    "text": "三大指数小幅低开，沪指低开 0.07%，深成指低开 0.08%，创业板指低开 0.03%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3465886"
   }
 ]
