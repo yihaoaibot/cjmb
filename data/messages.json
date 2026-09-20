@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3476819",
+    "datetime": "2026-09-20T13:30:42+00:00",
+    "views": "5",
+    "text": "特朗普说，他可能愿意与伊朗总统会面。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3476819"
+  },
+  {
+    "post": "Financial_Express/3476818",
+    "datetime": "2026-09-20T13:30:23+00:00",
+    "views": "5",
+    "text": "特朗普就伊朗问题表示： 正处于抉择阶段，他们最好保持克制。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3476818"
+  },
+  {
     "post": "Financial_Express/3476817",
     "datetime": "2026-09-20T13:22:50+00:00",
-    "views": "46",
+    "views": "78",
     "text": "橡树资本管理公司（Oaktree Capital Management）联席董事长 Howard Marks 表示，他希望美联储减少沟通，因为美联储主席凯文·沃什正致力于削减他所说的近年来束缚央行手脚的部分前瞻性指引。“我个人更倾向于一个不那么积极干预的央行，正常情况下让经济自行运转，除非它面临脱轨风险——过热或过冷。”\n本月早些时候，美联储为抑制通胀而加息。马克斯表示，减少前瞻性指引意味着投资者必须让自己的投资组合具备”反脆弱性，这对社会是有益的。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3476816",
     "datetime": "2026-09-20T13:18:44+00:00",
-    "views": "67",
+    "views": "99",
     "text": "阿萨亚德航运以约 1750 万美元出售 MR 型油轮 “阿尔・阿梅拉特” 号。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3476815",
     "datetime": "2026-09-20T13:16:07+00:00",
-    "views": "101",
+    "views": "134",
     "text": "美国总统特朗普科技顾问 Michael Kratsios 告诉 AI 领袖们：美方希望与中国讨论避免共同面临的风险。（福克斯新闻）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3476814",
     "datetime": "2026-09-20T13:15:03+00:00",
-    "views": "109",
+    "views": "111",
     "text": "克拉齐奥斯评人工智能领导者：你们不需要有人来拖慢速度。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3476813",
     "datetime": "2026-09-20T13:14:27+00:00",
-    "views": "111",
+    "views": "143",
     "text": "美国总统特朗普科技顾问 Michael Kratsios：AI 领袖们无需某个人来放慢（AI 模型开发）节奏。\n美国工具箱中有工具来应对 AI 安全问题。（福克斯新闻）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3476812",
     "datetime": "2026-09-20T13:14:02+00:00",
-    "views": "115",
+    "views": "117",
     "text": "白宫科技政策办公室主任克拉齐奥斯：美国拥有应对人工智能安全问题的工具包。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3476811",
     "datetime": "2026-09-20T13:12:43+00:00",
-    "views": "123",
+    "views": "125",
     "text": "造谣“宁德时代宜宾基地班长不让普工上厕所” 男子被行拘\n此前有报道称“宁德时代宜宾基地班长不让普工上厕所””系谣言迎来最新进展。经警方调查，网民林某某（男，33 岁）于 2026 年 9 月 9 日，在某社交平台编造关于“某企业宜宾基地员工被管理人员侮辱，导致心理崩溃，做出过激行为”的谣言信息，引发各网络平台迅速传播，大量网民关注和讨论，造成不良社会影响。经警方核实，该信息所述涉事企业、事发地均与事实不符，林某某为了“博取眼球”“营造掌握行业内幕人设”编造网络谣言，其行为涉嫌故意虚构事实扰乱公共秩序。目前，三江新区公安分局已依据《中华人民共和国治安管理处罚法》对林某某做出行政拘留并处罚款的行政处罚。 (封面新闻)",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3476810",
     "datetime": "2026-09-20T13:10:42+00:00",
-    "views": "125",
+    "views": "126",
     "text": "Qwen-Image-2.1 开源：轻量高能，创作编辑一体化\n金十数据 9 月 20 日讯，据千问大模型，今天开源 Qwen-Image-2.1，一个兼顾生成效果、推理效率与使用成本的图像模型。Qwen-Image-2.1 将文生图与图像编辑整合在同一模型中，视觉生成部分仅有 7B 参数，并原生支持透明图像的生成与编辑。本次更新的模型主要特色包括四个方面：\n1、小模强效，极致价比：轻量的模型结构与推理优化，在生成质量和计算成本之间取得平衡。2、原生透明，创改一体：根据提示词生成普通图像或透明图像，并支持透明图层编辑与抠图。3、全能编辑，多局保全：支持最多 10 张参考图，增强局部编辑、人像与商品保真，并覆盖多种编辑任务。4、真实质感，字雅人美：提升文字排版、人物光影与细节表现，让生成结果更具美感。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3476809",
     "datetime": "2026-09-20T13:09:13+00:00",
-    "views": "126",
+    "views": "127",
     "text": "9 月 20 日，引望智能技术有限公司发文，回应引望与问界后续合作、用户关心升级及服务保障等问题。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3476808",
     "datetime": "2026-09-20T13:08:22+00:00",
-    "views": "125",
+    "views": "126",
     "text": "Qwen-Image-2.1 开源：轻量高能，创作编辑一体化\n据千问大模型，今天，开源 Qwen-Image-2.1，一个兼顾生成效果、推理效率与使用成本的图像模型。Qwen-Image-2.1 将文生图与图像编辑整合在同一模型中，视觉生成部分仅有 7B 参数，并原生支持透明图像的生成与编辑。本次更新的模型主要特色包括四个方面：\n1、小模强效，极致价比：轻量的模型结构与推理优化，在生成质量和计算成本之间取得平衡。2、原生透明，创改一体：根据提示词生成普通图像或透明图像，并支持透明图层编辑与抠图。3、全能编辑，多局保全：支持最多 10 张参考图，增强局部编辑、人像与商品保真，并覆盖多种编辑任务。4、真实质感，字雅人美：提升文字排版、人物光影与细节表现，让生成结果更具美感。",
     "media_only": false,
     "image_url": null,
@@ -19942,77 +19960,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3474590"
-  },
-  {
-    "post": "Financial_Express/3474588",
-    "datetime": "2026-09-18T13:31:22+00:00",
-    "views": "14",
-    "text": "鲍曼称，相关调整将使压力测试更加可靠，并降低银行资本要求的波动性。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474588"
-  },
-  {
-    "post": "Financial_Express/3474587",
-    "datetime": "2026-09-18T13:31:04+00:00",
-    "views": "14",
-    "text": "美联储鲍曼称，美联储将在\"未来几周\"敲定改革方案，使银行压力测试更加透明和可问责。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474587"
-  },
-  {
-    "post": "Financial_Express/3474585",
-    "datetime": "2026-09-18T13:31:03+00:00",
-    "views": "14",
-    "text": "美股开盘：三大股指涨跌不一\n道指跌 0.11%，标普 500 指数涨 0.13%，纳指涨 0.38%。罗宾汉涨 4.27%，Lumentum Holdings Inc.涨 3.72%，Coherent Corp 涨 3.55%，奈飞跌 6.71%，国际纸业跌 3.23%。“七姐妹”方面：谷歌涨 2.32%，特斯拉涨 1.07%，Meta Platforms 涨 0.87%，亚马逊涨 0.70%，苹果涨 0.30%，微软跌 0.24%，英伟达跌 0.34%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474585"
-  },
-  {
-    "post": "Financial_Express/3474586",
-    "datetime": "2026-09-18T13:31:03+00:00",
-    "views": "13",
-    "text": "美股光通信股开盘普涨\nLumentum 涨 3.72%，康宁涨 3.37%，Coherent 涨 3.48%，应用光电涨 3.04%，Ciena 涨 2.72%，博通涨 1.69%，迈威尔科技跌 0.54%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474586"
-  },
-  {
-    "post": "Financial_Express/3474584",
-    "datetime": "2026-09-18T13:31:02+00:00",
-    "views": "2",
-    "text": "美股开盘，道指跌 0.1%，标普 500 指数跌 0.1%，纳指涨 0.3%。明星科技股涨跌不一，谷歌(GOOG.O)涨 2.5%，英特尔(INTC.O)涨 1.3%，SK 海力士(SKHY.O)涨 0.4%，奈飞(NFLX.O)跌 6%。康宁(GLW.N)上涨 3.2%，公司宣布对以日元计价的显示玻璃基板产品实施 15%及以上的价格调整。运动品牌昂跑涨 3%，昂跑从耐克签下法国足球巨星姆巴佩。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474584"
-  },
-  {
-    "post": "Financial_Express/3474583",
-    "datetime": "2026-09-18T13:30:43+00:00",
-    "views": "7",
-    "text": "鲍曼称，修订后的压力测试将提供有关测试模型和情景的详细信息。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474583"
-  },
-  {
-    "post": "Financial_Express/3474582",
-    "datetime": "2026-09-18T13:30:42+00:00",
-    "views": "7",
-    "text": "美国工厂生产因成本上升而意外萎缩\n制造业产出下降了 0.3%。此前对经济学家的调查显示，市场预期中值为增长 0.3%。包括采矿业和公用事业在内的工业总产出持平。公用事业产出增长 1.8%，而采矿业产出则小幅上升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474582"
-  },
-  {
-    "post": "Financial_Express/3474581",
-    "datetime": "2026-09-18T13:30:22+00:00",
-    "views": "8",
-    "text": "美联储将在未来几周内考虑对压力测试进行最终修订。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474581"
   }
 ]
