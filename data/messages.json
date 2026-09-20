@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3476942",
+    "datetime": "2026-09-20T15:21:22+00:00",
+    "views": "6",
+    "text": "花旗集团 CEO：未来数月经济波动将超出预期。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3476942"
+  },
+  {
+    "post": "Financial_Express/3476941",
+    "datetime": "2026-09-20T15:20:03+00:00",
+    "views": "8",
+    "text": "卡塔尔财政大臣：2027 年经济反弹将弥补 2026 年国内生产总值损失。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3476941"
+  },
+  {
+    "post": "Financial_Express/3476940",
+    "datetime": "2026-09-20T15:19:43+00:00",
+    "views": "11",
+    "text": "白宫经济顾问哈塞特：（谈石油和伊朗）特朗普会决定何时适可而止。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3476940"
+  },
+  {
     "post": "Financial_Express/3476939",
     "datetime": "2026-09-20T15:19:23+00:00",
-    "views": "3",
+    "views": "12",
     "text": "花旗集团 CEO：人工智能发展瓶颈不再是芯片，而是能源。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3476938",
     "datetime": "2026-09-20T15:17:22+00:00",
-    "views": "18",
+    "views": "53",
     "text": "白宫经济顾问哈塞特：（被问及石油相关问题）伊朗与胡塞武装已经“失控”。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3476937",
     "datetime": "2026-09-20T15:17:02+00:00",
-    "views": "48",
+    "views": "53",
     "text": "花旗集团 CEO：中东地区正经历一段“痛苦”时期，但属于暂时性的。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3476936",
     "datetime": "2026-09-20T15:13:43+00:00",
-    "views": "58",
+    "views": "93",
     "text": "白宫经济顾问哈塞特：看到价格朝着正确的方向发展。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3476935",
     "datetime": "2026-09-20T15:08:22+00:00",
-    "views": "96",
+    "views": "101",
     "text": "卡塔尔能源首席执行官：由于霍尔木兹危机导致部分关键设备无法运抵卡塔尔，卡塔尔能源的一些扩建项目可能会推迟。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3476934",
     "datetime": "2026-09-20T15:08:02+00:00",
-    "views": "95",
+    "views": "100",
     "text": "卡塔尔能源公司首席执行官：因霍尔木兹海峡危机无法运抵卡塔尔的关键设备，可能导致公司部分扩建项目延期。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3476933",
     "datetime": "2026-09-20T15:06:22+00:00",
-    "views": "98",
+    "views": "133",
     "text": "卡塔尔能源首席执行官：卡塔尔液化天然气供应规模巨大，因此一旦霍尔木兹危机结束，买家将很难忽视卡塔尔能源。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3476932",
     "datetime": "2026-09-20T15:06:02+00:00",
-    "views": "100",
+    "views": "135",
     "text": "卡塔尔能源公司首席执行官：卡塔尔液化天然气产能规模极大，霍尔木兹危机结束后，买家很难忽视卡塔尔能源公司的供应。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3476931",
     "datetime": "2026-09-20T15:05:02+00:00",
-    "views": "99",
+    "views": "134",
     "text": "卡塔尔能源首席执行官：北方气田东扩项目（NFE）的部分液化天然气生产线将于 2027 年开始投产，北方气田南扩项目（NFS）将于 2028 年开始产气。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3476930",
     "datetime": "2026-09-20T15:04:23+00:00",
-    "views": "130",
+    "views": "134",
     "text": "美联储卡什卡利：希望地区冲突消退，经济增长与通胀回落成为主线。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3476929",
     "datetime": "2026-09-20T15:04:22+00:00",
-    "views": "130",
+    "views": "134",
     "text": "美联储卡什卡利：通胀存在于经济各个领域，远不止石油。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3476928",
     "datetime": "2026-09-20T15:03:42+00:00",
-    "views": "132",
+    "views": "136",
     "text": "美联储卡什卡利：劳动力市场“相当强劲”，失业率为 4.1%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3476926",
     "datetime": "2026-09-20T15:03:24+00:00",
-    "views": "133",
+    "views": "137",
     "text": "卡塔尔能源首席执行官：卡塔尔能源正认真考虑与合作伙伴共同进入委内瑞拉市场。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3476927",
     "datetime": "2026-09-20T15:03:24+00:00",
-    "views": "133",
+    "views": "137",
     "text": "卡塔尔能源公司首席执行官：北部油田东扩项目（NFE）的数条液化天然气生产线将于 2027 年投产，北部油田南扩项目（NFS）将于 2028 年投产。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3476925",
     "datetime": "2026-09-20T15:01:23+00:00",
-    "views": "133",
+    "views": "137",
     "text": "日本发现失联“全球鹰”无人机部分残骸\n日本航空自卫队 20 日说，日前在鸟取县附近海域失联的一架“全球鹰”无人侦察机的部分残骸已漂至岸边并被寻获。日本航空自卫队披露，这块残骸长约 1.5 米、宽约 1.4 米，但没有说明具体是哪种部件。搜寻工作目前仍在继续。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3476924",
     "datetime": "2026-09-20T15:00:43+00:00",
-    "views": "133",
+    "views": "136",
     "text": "卡塔尔能源公司首席执行官：戈尔登帕斯液化天然气项目的第二条和第三条生产线将于 2027 年投入运营。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3476923",
     "datetime": "2026-09-20T15:00:42+00:00",
-    "views": "130",
+    "views": "131",
     "text": "卡塔尔能源首席执行官：Golden Pass 液化天然气项目第二和第三条生产线将在 2027 年投入运营。",
     "media_only": false,
     "image_url": null,
@@ -18691,59 +18718,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3474852"
-  },
-  {
-    "post": "Financial_Express/3474851",
-    "datetime": "2026-09-18T15:21:44+00:00",
-    "views": "113",
-    "text": "弗吉尼亚州州长表示，该州将禁止数据中心相关保密协议，对这类服务器仓储设施实施更严格的审批，并设定清洁能源强制要求。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474851"
-  },
-  {
-    "post": "Financial_Express/3474850",
-    "datetime": "2026-09-18T15:21:43+00:00",
-    "views": "112",
-    "text": "美国弗吉尼亚州州长：将禁止数据中心签署保密协议，并要求服务器仓库实施更严格的许可审批规定和清洁能源要求。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474850"
-  },
-  {
-    "post": "Financial_Express/3474849",
-    "datetime": "2026-09-18T15:21:23+00:00",
-    "views": "106",
-    "text": "法国达飞海运：本次紧急燃油附加费将取代现行费率，自 10 月 1 日起生效。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474849"
-  },
-  {
-    "post": "Financial_Express/3474848",
-    "datetime": "2026-09-18T15:20:23+00:00",
-    "views": "129",
-    "text": "法国达飞海运： 因油价大幅上涨，集团将新增一项紧急燃油附加费。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474848"
-  },
-  {
-    "post": "Financial_Express/3474847",
-    "datetime": "2026-09-18T15:20:22+00:00",
-    "views": "115",
-    "text": "法国达飞海运：由于价格大幅上涨，将实施新的紧急燃油附加费。这些紧急燃油附加费将取代目前实施的费率，将于 10 月 1 日起生效。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474847"
-  },
-  {
-    "post": "Financial_Express/3474846",
-    "datetime": "2026-09-18T15:19:40+00:00",
-    "views": "118",
-    "text": "德国大众汽车集团 预计 2026 年利润为-5 亿欧元至+15 亿欧元，原本预计 15 亿-35 亿欧元。\n预计全年营业销售回报率/营业利润率（ROS）高达 1%，分析师预期 4.29%，公司原本预计 4%-5.5%。\n2026 年展望公司目前预计集团销售收入约 3150 亿欧元。\n2026 年目前预计销售营业利润率最高可达 1%。\n营业利润走势将受到市场环境进一步恶化以及市场需求加速向纯电动汽车倾斜的影响。\n2026 年汽车业务板块净现金流仍预计维持在 30 亿-60 亿欧元区间。\n根据 2024 年末达成的 “大众未来” 协议，集团预计将产生额外重组费用，源于提前退休方案扩容以及计划出售大众奥斯纳布吕克有限公司。\n集团管理董事会与监事会将拟定 2026 财年股息提案，该股息将于 2027 年 6 月发放，并提交 2027 年初召开的年度股东大会审议。该业绩预测基于国际贸易当前关税形势将维持不变的假设。\n法兰克福交易所即将收盘之际，大众股价下跌 7.5%。斯泰兰蒂斯集团 Stellantis NV、雷诺、保时捷均跌超 5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3474846"
   }
 ]
