@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3479938",
+    "datetime": "2026-09-21T17:41:22+00:00",
+    "views": "2",
+    "text": "美国联邦航空管理局（FAA）将纽瓦克机场的地面停飞令延长至美国东部时间下午 2 点 45 分。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3479938"
+  },
+  {
+    "post": "Financial_Express/3479937",
+    "datetime": "2026-09-21T17:41:03+00:00",
+    "views": "10",
+    "text": "美国总统特朗普周二将会见丹麦和格陵兰领导人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3479937"
+  },
+  {
+    "post": "Financial_Express/3479936",
+    "datetime": "2026-09-21T17:41:02+00:00",
+    "views": "10",
+    "text": "美国联邦航空管理局（FAA）局长就电信问题导致的航班中断致歉，并表示在‘确保空域安全之前’，不会恢复部分东海岸机场进港航班的系统运行。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3479936"
+  },
+  {
+    "post": "Financial_Express/3479935",
+    "datetime": "2026-09-21T17:40:31+00:00",
+    "views": "17",
+    "text": "美国联邦航空管理局（FAA）：将 Newark 机场停飞时间延长至美东时间 14:45。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3479935"
+  },
+  {
+    "post": "Financial_Express/3479934",
+    "datetime": "2026-09-21T17:40:02+00:00",
+    "views": "25",
+    "text": "国际移民组织：苏丹已有超过 510 万流离失所者返回家园\n当地时间 9 月 21 日，国际移民组织就苏丹局势发布最新报告称，已有超过 510 万苏丹流离失所者返回家园，但目前仍有约 860 万人处于流离失所状态。报告指出，对许多人来说，返回家园并不意味着生活恢复正常。冲突造成的基础设施损毁、脆弱的当地经济以及有限的生计机会，仍给返乡人员及当地社区带来巨大压力。（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3479934"
+  },
+  {
+    "post": "Financial_Express/3479933",
+    "datetime": "2026-09-21T17:39:43+00:00",
+    "views": "29",
+    "text": "德国 DAX 30 指数收张 1.07%，报 25575.01 点，意味着 9 月 18 日失地收复过半。\n法国 CAC 40 指数收涨 0.92%，报 8138.94 点。\n意大利富时 MIB 指数收涨 1.60%，报 52371.54 点，富时意大利综合股价银行指数收涨 2.45%。\n英国富时 100 指数收涨 0.75%，报 10739.01 点，富时 250 指数收涨 1.18%，富时 350 指数收涨 0.8%。\n荷兰 AEX 指数收涨 0.66%，丹麦 OMX 哥本哈根 20 指数收跌 2.38%，北京时间 16:00 过后显著跳水、美股开盘前后再次显著地扩大跌幅，哥本哈根 25 指数收跌 0.62%。\n希腊雅典证交所综合指数收涨 0.55%，西班牙 IBEX 35 指数收涨 1.08%。\n挪威 OSE 基准指数收跌 0.47%，挪威 OBX 指数收跌 0.54%。\n德国上市的 WisdomTree Europe Defence UCITS ETF 收涨 0.83%，英国伦敦上市、对军工股“照收不误”的 Future of Defence UCITS ETF 收涨 1.91%；彭博欧洲国防精选指数涨 1.28%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3479933"
+  },
+  {
+    "post": "Financial_Express/3479932",
+    "datetime": "2026-09-21T17:39:42+00:00",
+    "views": "29",
+    "text": "特朗普将于周二会见丹麦和格陵兰领导人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3479932"
+  },
+  {
+    "post": "Financial_Express/3479931",
+    "datetime": "2026-09-21T17:39:22+00:00",
+    "views": "36",
+    "text": "派拉蒙：在解决了美国各州总检察长及美国编剧工会（WGA）的担忧后，我们已获得收购华纳兄弟探索公司交易的完全批准。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3479931"
+  },
+  {
     "post": "Financial_Express/3479930",
     "datetime": "2026-09-21T17:39:19+00:00",
-    "views": "2",
+    "views": "37",
     "text": "Anthropic 没能解决 Reddit 针对 AI 抓取问题提出的指控。（彭博法律 Blaw）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3479929",
     "datetime": "2026-09-21T17:39:02+00:00",
-    "views": "12",
+    "views": "41",
     "text": "Anthropic 未能驳回 Reddit 关于 AI 数据抓取的诉讼。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3479928",
     "datetime": "2026-09-21T17:38:42+00:00",
-    "views": "14",
+    "views": "43",
     "text": "新泽西州总检察长：根据派拉蒙的和解协议，该公司同意为 CNN 和 CBS 设立一个保障编辑独立性的委员会。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3479927",
     "datetime": "2026-09-21T17:37:02+00:00",
-    "views": "36",
+    "views": "57",
     "text": "OpenAI 模型自 8 月 28 日以来，已解决了 100 多个未解数学问题。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3479926",
     "datetime": "2026-09-21T17:36:33+00:00",
-    "views": "39",
+    "views": "58",
     "text": "美国新泽西州总检察长：就华纳兄弟/派拉蒙诉讼案达成和解。\n和解方案包含一项最低承诺，即额外投入至少 15 亿美元，以提振本土影视制作。\n如果派拉蒙在任何一年未能满足此项电影产量要求，将被要求剥离 Miramax Studios。\n和解方案包含一项为期五年的法院可执行承诺，旨在增加电影产量。如果派拉蒙在任何一年未能满足电影产量要求，每少制作一部电影，公司必须支付 3000 万美元的罚款。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3479925",
     "datetime": "2026-09-21T17:36:02+00:00",
-    "views": "49",
+    "views": "64",
     "text": "新泽西州总检察长：总检察长宣布，就华纳兄弟/派拉蒙诉讼案达成和解。和解方案包含一项最低承诺，即额外投入至少 15 亿美元，以提振本土影视制作。如果派拉蒙在任何一年未能满足此项电影产量要求，将被要求剥离 Miramax Studios。和解方案包含一项为期五年的法院可执行承诺，旨在增加电影产量。如果派拉蒙在任何一年未能满足电影产量要求，每少制作一部电影，公司必须支付 3000 万美元的罚款。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3479924",
     "datetime": "2026-09-21T17:35:42+00:00",
-    "views": "52",
+    "views": "63",
     "text": "美国新泽西州总检察长：如果派拉蒙在任何一年未能满足电影产出要求，公司必须为每部未完成的电影支付 3000 万美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3479923",
     "datetime": "2026-09-21T17:35:22+00:00",
-    "views": "53",
+    "views": "64",
     "text": "美国新泽西州总检察长：如果派拉蒙在任何一年未能达到这一电影产量要求，该公司将被要求剥离米拉麦克斯影业。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3479922",
     "datetime": "2026-09-21T17:34:56+00:00",
-    "views": "59",
+    "views": "70",
     "text": "OpenAI 成立独立的数学顾问团队。\n自 8 月 28 日以来，OpenAI 模型解决了超过 100 个数学问题。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3479921",
     "datetime": "2026-09-21T17:34:42+00:00",
-    "views": "59",
+    "views": "70",
     "text": "美国联邦航空管理局（FAA）局长：目前尚不清楚纽约地区机场的停飞禁令何时能够解除。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3479920",
     "datetime": "2026-09-21T17:34:22+00:00",
-    "views": "61",
+    "views": "70",
     "text": "美国新泽西州总检察长：派拉蒙与华纳兄弟探索公司(WBD.O)的和解协议包含一项为期五年的、可由法院强制执行的承诺，旨在增加电影产量。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +182,7 @@
   {
     "post": "Financial_Express/3479919",
     "datetime": "2026-09-21T17:34:02+00:00",
-    "views": "65",
+    "views": "74",
     "text": "美国联邦航空管理局（FAA）：目前尚不清楚纽约地区各机场的地面停飞指令何时能够解除。",
     "media_only": false,
     "image_url": null,
