@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3482731",
+    "datetime": "2026-09-22T14:03:22+00:00",
+    "views": "3",
+    "text": "欧盟委员会将计划中的电商海关处理费定为 2 欧元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3482731"
+  },
+  {
+    "post": "Financial_Express/3482730",
+    "datetime": "2026-09-22T14:03:03+00:00",
+    "views": "4",
+    "text": "美国财长贝森特：事今年制造业就业人数已激增近 5.8 万人，商品生产行业也新增了 15 万个就业岗位。美国正在重建工业基础，这将为我们国家的经济提供动力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3482730"
+  },
+  {
+    "post": "Financial_Express/3482729",
+    "datetime": "2026-09-22T14:03:02+00:00",
+    "views": "4",
+    "text": "降低 AI 存储成本 69% 阿里云发布新一代全栈自研高性能存储 CPFS\n金十数据 9 月 22 日讯，在 2026 云栖大会上，阿里云正式推出面向下一代 AI 训练集群的新一代高性能存储 CPFS（Cloud Parallel File Storage），提供高达百 TB/s 级吞吐和亿级 IOPS，单文件系统规模提升 5 倍至 100PiB，为百万卡模型训练加速，支撑大规模模型训练和多模态数据处理。在实际训练中，可将模型启动平均耗时降低 50%、峰值算力利用率提升 30%、AI 存储成本降低 69%，业务承载能力翻倍。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3482729"
+  },
+  {
+    "post": "Financial_Express/3482727",
+    "datetime": "2026-09-22T14:02:22+00:00",
+    "views": "11",
+    "text": "联合国秘书长呼吁达成 AI 协议 防止“杀手机器人”兴起\n金十数据 9 月 22 日讯，联合国秘书长古特雷斯进一步呼吁加强人工智能监管，以避免出现一个企业权力过度集中、杀手机器人横行的反乌托邦未来。古特雷斯表示，前沿人工智能模型的快速发展可能危及主权国家的地位。他说：“我们正在目睹一场非同寻常的权力转移，权力正从政府转向少数私人企业和个人。”他呼吁国际社会就新的人工智能安全保障措施达成协议。他补充称：“人工智能正以惊人的速度发展，已经超过了我们理解其全部后果的能力。”他特别指出，人工智能和数据中心竞赛正在成为这个剧烈变化时代的关键力量，并呼吁建立防护机制，确保这项技术能够安全发展。古特雷斯表示：“拥有最强人工智能能力的政府，对人类负有最大的责任，应建立对话、透明、信任与合作的渠道。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3482727"
+  },
+  {
+    "post": "Financial_Express/3482728",
+    "datetime": "2026-09-22T14:02:22+00:00",
+    "views": "11",
+    "text": "降低 AI 存储成本 69% 阿里云发布新一代全栈自研高性能存储 CPFS\n在 2026 云栖大会上，阿里云正式推出面向下一代 AI 训练集群的新一代高性能存储 CPFS（Cloud Parallel File Storage），提供高达百 TB/s 级吞吐和亿级 IOPS，单文件系统规模提升 5 倍至 100PiB，为百万卡模型训练加速，支撑大规模模型训练和多模态数据处理。在实际训练中，可将模型启动平均耗时降低 50%、峰值算力利用率提升 30%、AI 存储成本降低 69%，业务承载能力翻倍。 (上证报)",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3482728"
+  },
+  {
+    "post": "Financial_Express/3482726",
+    "datetime": "2026-09-22T14:02:03+00:00",
+    "views": "12",
+    "text": "财通证券与阿里云签署战略合作协议\n9 月 22 日，在 2026 云栖大会期间，财通证券与阿里云计算有限公司正式签署战略合作协议。双方将立足浙江数字经济产业优势，依托多年合作基础，围绕人工智能在证券领域的创新落地开展长期、体系化深度协同，共同打造可复制、可推广的证券行业 AI 应用范式。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3482726"
+  },
+  {
+    "post": "Financial_Express/3482725",
+    "datetime": "2026-09-22T14:02:02+00:00",
+    "views": "11",
+    "text": "美国总统特朗普：美国将不再允许任何对美国构成威胁的势力在西半球任何地方立足。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3482725"
+  },
+  {
     "post": "Financial_Express/3482724",
     "datetime": "2026-09-22T14:01:43+00:00",
-    "views": "1",
+    "views": "42",
     "text": "西门子交通在奥地利获得约 13 亿欧元的合同。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3482723",
     "datetime": "2026-09-22T14:01:42+00:00",
-    "views": "1",
+    "views": "42",
     "text": "里士满联储 9 月服务业收入指数为 0，8 月为-8。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3482722",
     "datetime": "2026-09-22T14:01:22+00:00",
-    "views": "6",
+    "views": "45",
     "text": "美国 9 月里奇蒙德联储服务业收入指数 0，前值-8。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3482721",
     "datetime": "2026-09-22T14:01:03+00:00",
-    "views": "8",
+    "views": "44",
     "text": "里士满联邦储备银行 9 月制造业装运指数为-5，8 月该指数为+11。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3482720",
     "datetime": "2026-09-22T14:01:02+00:00",
-    "views": "8",
+    "views": "43",
     "text": "美国 9 月里士满联储非制造业本地商业状况指数为-8。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3482719",
     "datetime": "2026-09-22T14:00:44+00:00",
-    "views": "39",
+    "views": "44",
     "text": "美国 9 月里士满联储工厂指数为-2.0；预期为+2。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3482718",
     "datetime": "2026-09-22T14:00:43+00:00",
-    "views": "39",
+    "views": "44",
     "text": "欧元区 9 月消费者信心指数初值 -16.5，预期-16，前值-15.5。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3482716",
     "datetime": "2026-09-22T14:00:42+00:00",
-    "views": "38",
+    "views": "44",
     "text": "美国 9 月里奇蒙德联储制造业装船指数 -5，前值 11。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3482717",
     "datetime": "2026-09-22T14:00:42+00:00",
-    "views": "9",
+    "views": "44",
     "text": "金十图示：2026 年 09 月 22 日（周二）全球股市指数-美洲市场（盘初）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3482715",
     "datetime": "2026-09-22T14:00:41+00:00",
-    "views": "39",
+    "views": "44",
     "text": "联合国秘书长安东尼奥·古特雷斯进一步呼吁加强人工智能监管，以避免出现企业权力失控和“杀手机器人”横行的反乌托邦未来。古特雷斯在联合国大会最后一次面向各国领导人的讲话中，就 AI 风险发出警告，称前沿模型快速发展可能削弱民族国家的权力。古特雷斯周二在呼吁国际社会就新的 AI 安全防护措施达成协议时表示：“我们正在目睹权力非同寻常地从政府转移到少数私人企业和个人手中。”古特雷斯还表示：“AI 正以惊人的速度发展，超过我们理解其全部后果的能力。”（彭博）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3482714",
     "datetime": "2026-09-22T14:00:22+00:00",
-    "views": "41",
+    "views": "46",
     "text": "苹果公司旗下 Beats 品牌推出售价 350 美元的“Beats 360”头戴式耳机。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3482713",
     "datetime": "2026-09-22T13:59:42+00:00",
-    "views": "43",
+    "views": "47",
     "text": "古特雷斯最后一次以秘书长身份出席联大 以悲观的图景警告 AI 失控风险\n联合国秘书长安东尼奥·古特雷斯进一步呼吁加强人工智能监管，以避免出现企业权力失控和“杀手机器人”横行的反乌托邦未来。古特雷斯在联合国大会最后一次面向各国领导人的讲话中，就 AI 风险发出警告，称前沿模型快速发展可能削弱民族国家的权力。古特雷斯周二在呼吁国际社会就新的 AI 安全防护措施达成协议时表示：“我们正在目睹权力非同寻常地从政府转移到少数私人企业和个人手中。”他还表示：“AI 正以惊人的速度发展，超过我们理解其全部后果的能力。”他说：“拥有最强 AI 能力的政府，对全人类负有最大的责任，应建立对话、透明、信任与合作的渠道。”联合国人工智能专家小组周一发布报告警告称，能力日益增强的 AI 模型可能脱离人类控制。与此同时，20 多个国家和欧盟的领导人呼吁对先进 AI 模型实施强制性安全测试，并考虑设立一个新的全球机构，以确保人类继续掌握控制权。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3482712",
     "datetime": "2026-09-22T13:58:02+00:00",
-    "views": "45",
+    "views": "48",
     "text": "蓝湾资产管理公司固定收益首席投资官多丁表示，今年以来他首次看好短期债券。",
     "media_only": false,
     "image_url": null,
@@ -52648,14 +52711,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3476850"
-  },
-  {
-    "post": "Financial_Express/3476849",
-    "datetime": "2026-09-20T14:02:34+00:00",
-    "views": "94",
-    "text": "随着自由民主党（Liberal Democrats）本周末聚集在布莱顿召开年度大会，领袖埃德·戴维（Ed Davey）正面临回答一个简单问题的压力：为什么英国第三大政党表现不够出色？尽管在上一届大选中赢得了超过 70 个席位——创下自民党历史纪录，但此后两年内，这个中间派政党的民调支持率一直停滞不前。\n戴维计划利用此次大会聚焦生活成本、经济增长和政治体系改革等议题，同时也会强调改革党与保守党组成联合政府的威胁。该党计划大力推动与欧盟建立更紧密关系，作为将在大会上公布的 30 页”增长计划”的一部分，相关提议包括加入单一市场、建立新的关税同盟和新的防务联盟。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3476849"
   }
 ]
