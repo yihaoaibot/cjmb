@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3483405",
+    "datetime": "2026-09-22T18:01:03+00:00",
+    "views": "3",
+    "text": "OpenAI：GPT-6 SOL 与 GPT-6 LUNA 的 API 价格较其 GPT-5.6 促销定价下调 50%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483405"
+  },
+  {
+    "post": "Financial_Express/3483404",
+    "datetime": "2026-09-22T18:01:02+00:00",
+    "views": "3",
+    "text": "OpenAI：免费版及 Go 版用户可在桌面端应用中访问 GPT-6 LUNA。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483404"
+  },
+  {
+    "post": "Financial_Express/3483403",
+    "datetime": "2026-09-22T18:00:42+00:00",
+    "views": "3",
+    "text": "OpenAI：GPT-6 SOL 与 GPT-6 LUNA 模型尚未在聊天中开放使用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483403"
+  },
+  {
+    "post": "Financial_Express/3483402",
+    "datetime": "2026-09-22T18:00:22+00:00",
+    "views": "3",
+    "text": "伊朗媒体：从德黑兰飞往巴格达和马斯喀特的航班自当地时间周三午夜起取消。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483402"
+  },
+  {
+    "post": "Financial_Express/3483401",
+    "datetime": "2026-09-22T18:00:02+00:00",
+    "views": "4",
+    "text": "墨西哥主要股指涨幅超 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483401"
+  },
+  {
+    "post": "Financial_Express/3483400",
+    "datetime": "2026-09-22T17:59:50+00:00",
+    "views": "4",
+    "text": "美国财长贝森特被特朗普视为“AI 主管”人选。（Semafor）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483400"
+  },
+  {
     "post": "Financial_Express/3483399",
     "datetime": "2026-09-22T17:59:09+00:00",
-    "views": "1",
+    "views": "36",
     "text": "美国特使 Witkoff：现在（对于伊朗问题）感觉非常好。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3483397",
     "datetime": "2026-09-22T17:58:43+00:00",
-    "views": "3",
+    "views": "36",
     "text": "上海原油连续主力合约日内跌 5%，现报 681.20 元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3483398",
     "datetime": "2026-09-22T17:58:43+00:00",
-    "views": "3",
+    "views": "36",
     "text": "美国特使威特科夫谈伊朗会晤：现在感觉非常好。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3483396",
     "datetime": "2026-09-22T17:58:42+00:00",
-    "views": "3",
+    "views": "36",
     "text": "欧盟外交政策负责人卡拉斯：在联合国大会期间会见了伊朗外长阿拉格齐，就结束美伊战争及全面重新开放霍尔木兹海峡的外交前景进行了磋商。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3483395",
     "datetime": "2026-09-22T17:57:22+00:00",
-    "views": "3",
+    "views": "35",
     "text": "美国财长贝森特被特朗普视为“AI 主管”人选。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3483394",
     "datetime": "2026-09-22T17:57:02+00:00",
-    "views": "5",
+    "views": "37",
     "text": "美国总统特朗普：与伊朗的会晤非常富有成效；不久的将来将安排另一次会谈。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3483392",
     "datetime": "2026-09-22T17:56:03+00:00",
-    "views": "35",
+    "views": "37",
     "text": "美国总统特朗普：将与乌克兰总统泽连斯基讨论爱国者导弹问题。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3483393",
     "datetime": "2026-09-22T17:56:03+00:00",
-    "views": "35",
+    "views": "37",
     "text": "标普 500 指数和纳斯达克 100 指数上涨。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3483390",
     "datetime": "2026-09-22T17:55:42+00:00",
-    "views": "35",
+    "views": "37",
     "text": "美、布两油短线下挫 1 美元，现分别报 89.60 美元/桶和 95.33 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3483391",
     "datetime": "2026-09-22T17:55:42+00:00",
-    "views": "35",
+    "views": "37",
     "text": "特朗普：与乌克兰讨论爱国者导弹（出售事宜）。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3483389",
     "datetime": "2026-09-22T17:55:02+00:00",
-    "views": "41",
+    "views": "43",
     "text": "特朗普：与伊朗会谈成果丰硕，另一次会谈已安排妥当。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3483388",
     "datetime": "2026-09-22T17:55:01+00:00",
-    "views": "41",
+    "views": "43",
     "text": "美国总统特朗普：美国官员会见了伊朗代表团。\n美国官员与伊朗代表团会晤三小时。\n与伊朗人员会晤进行得非常顺利，持续了 3 个小时。\n与伊朗会谈成果丰硕，另一次会谈已安排妥当。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3483386",
     "datetime": "2026-09-22T17:54:42+00:00",
-    "views": "41",
+    "views": "42",
     "text": "斯洛伐克总理：欧盟未解决能源价格飙升问题 应召开紧急峰会\n金十数据 9 月 23 日讯，斯洛伐克总理菲佐 22 日表示，欧盟未能解决能源价格飙升的问题，应该就此召开紧急峰会。菲佐说，欧盟任由所有成员国被石油危机的可怕影响摆布，这显示出欧盟的无能和没有作为。欧盟本应关心普通民众福祉，却在乌克兰问题上耗费大量资金。他还表示，斯洛伐克政府将采取措施控制能源价格，并在 23 日做出决定。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3483387",
     "datetime": "2026-09-22T17:54:42+00:00",
-    "views": "41",
+    "views": "43",
     "text": "美国财长贝森特：正在研究全面或部分（柴油出口）禁令是否可行。",
     "media_only": false,
     "image_url": null,
@@ -57013,41 +57067,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3477037"
-  },
-  {
-    "post": "Financial_Express/3477036",
-    "datetime": "2026-09-20T18:01:23+00:00",
-    "views": "123",
-    "text": "马斯克：无聊公司（Boring Company）正在建设超回路列车的前置试验隧道。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3477036"
-  },
-  {
-    "post": "Financial_Express/3477035",
-    "datetime": "2026-09-20T18:01:22+00:00",
-    "views": "122",
-    "text": "俄罗斯联邦安全委员会副主席梅德韦杰夫表示，出口民调显示“统一俄罗斯党”表现良好。\n😁1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3477035"
-  },
-  {
-    "post": "Financial_Express/3477034",
-    "datetime": "2026-09-20T18:01:02+00:00",
-    "views": "120",
-    "text": "据国际文传电讯社：出口民调结果，执政党统一俄罗斯党预计在俄罗斯议会选举中获得 49.4%的选票。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3477034"
-  },
-  {
-    "post": "Financial_Express/3477033",
-    "datetime": "2026-09-20T18:00:42+00:00",
-    "views": "116",
-    "text": "伊朗军方称在霍尔木兹海峡上空击落一“轨道飞行器”无人机\n当地时间 20 日晚，伊朗军队宣布，当天 18 时 30 分，在伊朗东南部地区，军队防空部队利用其自主研发的防空系统，在霍尔木兹海峡上空击落并摧毁了一架先进的“轨道飞行器”无人机。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3477033"
   }
 ]
