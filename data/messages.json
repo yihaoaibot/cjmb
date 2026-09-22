@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3483445",
+    "datetime": "2026-09-22T18:25:42+00:00",
+    "views": "1",
+    "text": "纳斯达克 100 指数攀升至盘中新高，上涨 0.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483445"
+  },
+  {
+    "post": "Financial_Express/3483444",
+    "datetime": "2026-09-22T18:25:22+00:00",
+    "views": "1",
+    "text": "苹果正开发一款新的健身追踪器，旨在与 Whoop 竞争\n金十数据 9 月 23 日讯，据知情人士透露，苹果(AAPL.O)正在研发一款类似 Whoop 公司腕带设备的无屏幕健康与健身追踪器，这是其重新规划智能手表产品线并引入新型可穿戴技术的一部分。知情人士表示，该公司已对该领域进行了数月探索，并正着手开发原型。该项目获得了高层管理者的支持，但苹果尚未决定是否推出该产品。目前项目仍处于初步阶段，内部称为“技术调查”。如果苹果决定发布，该设备很可能不会早于 2028 年上市。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483444"
+  },
+  {
+    "post": "Financial_Express/3483443",
+    "datetime": "2026-09-22T18:23:57+00:00",
+    "views": "32",
+    "text": "印度总理莫迪预计将于 12 月访问加拿大并签署贸易协定。（加拿大媒体 Globe）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483443"
+  },
+  {
     "post": "Financial_Express/3483442",
     "datetime": "2026-09-22T18:21:02+00:00",
-    "views": "5",
+    "views": "36",
     "text": "Anthropic 在 IPO 前推出更经济实惠的 Opus 5.5 模型\n金十数据 9 月 23 日讯，Anthropic 正在推出一款新型人工智能模型，旨在以更低的成本应对多种商业任务，这是该公司为在备受期待的华尔街上市前保持竞争优势而采取的举措之一。公司周二发布了 Claude Opus 5.5 模型，据称该模型在大多数工作场景下性能与 Anthropic 更强大的 Fable 5.1 相当，但使用成本远低于此前的 Opus 5 版本。Anthropic 表示，新模型的输出速度也比 Opus 5 更快，并且被发现生成的内容更加清晰。这家 AI 开发公司计划在未来几周内，继续扩展其 5.5 系列模型，推出 Claude Sonnet 和 Haiku 的新版本。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3483441",
     "datetime": "2026-09-22T18:20:42+00:00",
-    "views": "5",
+    "views": "36",
     "text": "倍耐力：董事会多数批准美国多年投资计划，规模约为 10 亿欧元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3483434",
     "datetime": "2026-09-22T18:16:43+00:00",
-    "views": "38",
+    "views": "68",
     "text": "美联储巴尔金：当前银行业状况看起来十分稳健。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3483433",
     "datetime": "2026-09-22T18:16:42+00:00",
-    "views": "38",
+    "views": "68",
     "text": "美联储巴尔金：目前银行业状况似乎非常健康。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3483432",
     "datetime": "2026-09-22T18:16:24+00:00",
-    "views": "38",
+    "views": "68",
     "text": "美联储巴尔金：压低企业的通胀预期或有助于缓解价格压力，不必依赖需求破坏。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3483430",
     "datetime": "2026-09-22T18:16:23+00:00",
-    "views": "38",
+    "views": "68",
     "text": "美联储巴尔金：目前还不会断言经济过热，但经济正在走强而非走弱。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3483431",
     "datetime": "2026-09-22T18:16:23+00:00",
-    "views": "38",
+    "views": "68",
     "text": "美联储巴尔金：许多企业仍认为自己拥有定价权。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3483429",
     "datetime": "2026-09-22T18:16:22+00:00",
-    "views": "37",
+    "views": "67",
     "text": "美联储巴尔金：许多企业仍然感到他们拥有定价权。",
     "media_only": false,
     "image_url": null,
