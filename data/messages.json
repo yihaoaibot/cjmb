@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3483217",
+    "datetime": "2026-09-22T16:32:42+00:00",
+    "views": "3",
+    "text": "Anthropic：Claude Opus 5.5 在多数任务中表现与 Claude Opus 5.1 相当，运行成本比 Opus 5 低约 40%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483217"
+  },
+  {
+    "post": "Financial_Express/3483216",
+    "datetime": "2026-09-22T16:32:22+00:00",
+    "views": "4",
+    "text": "Anthropic：推出 Claude Opus 5.5。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483216"
+  },
+  {
+    "post": "Financial_Express/3483214",
+    "datetime": "2026-09-22T16:32:02+00:00",
+    "views": "4",
+    "text": "Anthropic：由于 Opus 5.5 定价低于 Opus 5，5 小时及周额度将扩容 25%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483214"
+  },
+  {
+    "post": "Financial_Express/3483215",
+    "datetime": "2026-09-22T16:32:02+00:00",
+    "views": "4",
+    "text": "Anthropic：Opus 5.5 定价为每百万输入 token 收费 4 美元，每百万输出 token 收费 20 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483215"
+  },
+  {
+    "post": "Financial_Express/3483213",
+    "datetime": "2026-09-22T16:31:42+00:00",
+    "views": "35",
+    "text": "Anthropic：未来几周，我们还将推出 Claude Sonnet 5.5 与 Claude Haiku 5.5 两款大模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483213"
+  },
+  {
+    "post": "Financial_Express/3483212",
+    "datetime": "2026-09-22T16:31:35+00:00",
+    "views": "35",
+    "text": "Anthropic：Claude Opus 5.5 现已全面登陆各平台，包括亚马逊云科技（AWS）、谷歌云（Google Cloud）以及微软 Azure 云平台。\n由于 Opus 5.5 定价低于 Opus 5，5 小时及周额度将扩容 25%。\n针对订阅用户，我们所有套餐的 Opus 5.5 五小时使用限额将上调 20%。\nClaude Opus 5.5 在多数任务中表现与 Claude Opus 5.1 相当，运行成本比 Opus 5 低约 40%。\nOpus 5.5 定价为每百万输入 token 收费 4 美元，每百万输出 token 收费 20 美元。\n未来几周，我们还将推出 Claude Sonnet 5.5 与 Claude Haiku 5.5 两款大模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483212"
+  },
+  {
     "post": "Financial_Express/3483211",
     "datetime": "2026-09-22T16:31:22+00:00",
-    "views": "2",
+    "views": "35",
     "text": "Anthropic：Claude Opus 5.5 现已全面登陆各平台，包括亚马逊云科技（AWS）、谷歌云（Google Cloud）以及微软 Azure 云平台。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3483210",
     "datetime": "2026-09-22T16:31:03+00:00",
-    "views": "2",
+    "views": "35",
     "text": "Anthropic：针对订阅用户，我们所有套餐的 Opus 5.5 五小时使用限额将上调 20%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3483209",
     "datetime": "2026-09-22T16:30:43+00:00",
-    "views": "2",
+    "views": "35",
     "text": "伊朗：未经许可通行船只处以货物价值 20%的罚款\n伊朗议会安全委员会已批准新的霍尔木兹海峡规则，对未经许可通行的船只处以相当于其货物价值 20%的罚款。违规船只还可能面临临时扣押，直至罚款缴清。司法部门将设立专门的海事法庭分支以监督执行。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3483208",
     "datetime": "2026-09-22T16:30:42+00:00",
-    "views": "2",
+    "views": "34",
     "text": "Anthropic：Claude Opus 5.5 现已在所有平台上线，包括亚马逊云服务(AWS)、谷歌云和微软 Azure。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3483207",
     "datetime": "2026-09-22T16:28:02+00:00",
-    "views": "36",
+    "views": "37",
     "text": "周二（9 月 22 日）欧市尾盘，德国 10 年期国债收益率涨 0.5 个基点，报 3.463%，日内交投于 3.486%-3.422%区间，整体呈现出宽底 U 型反转、北京时间 16:30-17:00 显著下挫。\n两年期德债收益率涨 1.3 个基点，报 3.226%，日内交投于 3.258%-3.175%区间；30 年期德债收益率涨 0.7 个基点，报 3.811%。\n2/10 年期德债收益率利差跌 0.625 个基点，报+23.292 个基点。\n法国 10 年期国债收益率涨 3.3 个基点，报 4.505%。\n意大利 10 年期国债收益率涨 1.9 个基点，报 4.356%。\n西班牙 10 年期国债收益率涨 1.1 个基点，报 3.925%。\n希腊 10 年期国债收益率涨 1.6 个基点，报 4.235%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3483206",
     "datetime": "2026-09-22T16:25:22+00:00",
-    "views": "69",
+    "views": "101",
     "text": "格陵兰岛政府：安全协议承认格陵兰岛为平等伙伴，并满足格陵兰岛在国防合作中的关键优先事项。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3483205",
     "datetime": "2026-09-22T16:25:02+00:00",
-    "views": "69",
+    "views": "100",
     "text": "格陵兰自治政府：该安全协议承认格陵兰为平等合作伙伴，符合格陵兰在防务合作方面的核心优先事项。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3483204",
     "datetime": "2026-09-22T16:24:42+00:00",
-    "views": "99",
+    "views": "100",
     "text": "土耳其、埃及、沙特阿拉伯和巴基斯坦在联合声明中确认，沙特阿拉伯根据国际法拥有自卫、保护其领土和人民的固有权利。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3483203",
     "datetime": "2026-09-22T16:24:22+00:00",
-    "views": "99",
+    "views": "100",
     "text": "苹果(AAPL.O)正在开发一款新的健身追踪器，旨在与 Whoop 竞争。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3483202",
     "datetime": "2026-09-22T16:24:02+00:00",
-    "views": "100",
+    "views": "101",
     "text": "土耳其、埃及、沙特阿拉伯、巴基斯坦在联合声明中确认，沙特阿拉伯根据国际法享有捍卫自身、其领土与人民的固有权利。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3483201",
     "datetime": "2026-09-22T16:23:32+00:00",
-    "views": "100",
+    "views": "101",
     "text": "伊朗计划继续扣押船只，直至它们因霍尔木兹海峡问题而支付 20%的罚款。（伊朗媒体 FARS）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3483200",
     "datetime": "2026-09-22T16:23:02+00:00",
-    "views": "100",
+    "views": "101",
     "text": "苹果正开发新型健身追踪器，旨在对标 WHOOP\n苹果公司正在开发一款无屏幕的健康与健身追踪器，类似于 Whoop 公司的腕戴设备，此举是其重新规划智能手表产品线并增加新可穿戴技术的一部分。该公司已探索该领域数月，目前正开发原型机，该项目仍处于内部称为“技术调查”的初步阶段。这款潜在设备采用配备传感器计算模块的纤细织物表带，已引起苹果执行董事长蒂姆·库克和服务主管埃迪·库的兴趣。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3483199",
     "datetime": "2026-09-22T16:22:22+00:00",
-    "views": "100",
+    "views": "101",
     "text": "伊朗议会正在审议的《确保霍尔木兹海峡和波斯湾安全与可持续发展的战略行动》法案草案，其中明确规定对违规船只处以最高货物价值 20%的罚款。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3483198",
     "datetime": "2026-09-22T16:21:42+00:00",
-    "views": "100",
+    "views": "101",
     "text": "土耳其、埃及、沙特阿拉伯、巴基斯坦外长发表联合声明，对中东地区敌对行动深表关切。",
     "media_only": false,
     "image_url": null,
@@ -55771,14 +55825,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3476988"
-  },
-  {
-    "post": "Financial_Express/3476987",
-    "datetime": "2026-09-20T16:33:02+00:00",
-    "views": "123",
-    "text": "前八个月税收增速小幅高于 GDP 三大因素叠加彰显经济韧性\n今年前八个月，税务部门征收税收收入（不含海关代征进口增值税、消费税和关税、船舶吨税，未扣除出口退税）同比增长 5.9%，与上半年现价 GDP 增速 5.4%相比，略高出 0.5 个百分点。 国家税务总局税收科学研究所所长黄立新解释，从核心数据来看，本次税收增速与 GDP 增速的小幅差值，是价格修复、资本市场回暖、税制优化三大特殊因素叠加所致。“整体税收增长与经济税源基本面高度匹配，彰显了我国经济发展的韧性与活力。”（中国经营报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3476987"
   }
 ]
