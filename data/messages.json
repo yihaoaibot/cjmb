@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3486823",
+    "datetime": "2026-09-23T18:55:22+00:00",
+    "views": "1",
+    "text": "微软总裁：AI 安全不能仅依赖少数模型公司\n金十数据 9 月 24 日讯，微软(MSFT.O)总裁布拉德·史密斯表示，微软支持为人工智能部署独立安全评估机构，以推动 AI 安全发展。他称，AI 安全不能只依赖一两家模型公司，虽然 OpenAI 和 Anthropic 等模型企业至关重要，但负责控制 AI 智能体和监测其行为的软件企业同样重要。史密斯表示，微软已通过与合作伙伴 OpenAI 共同设立的安全委员会参与 AI 安全评估，并支持为先进 AI 系统设置人工关闭机制。他认为，AI 安全需要建立多层防护，关键控制权不应只集中在一个地方。此外，史密斯表示，微软仍计划推进此前在阿联酋 AI 数据中心使用 200 兆瓦计算能力的计划，并认为当前仍是投资中东的合适时机。对于微软 2030 年前实现碳负排放目标，他表示公司可能需要调整此前设定的路径。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486823"
+  },
+  {
+    "post": "Financial_Express/3486822",
+    "datetime": "2026-09-23T18:54:50+00:00",
+    "views": "9",
+    "text": "美国国务院：国务卿鲁比奥与印度外长苏杰生讨论针对与伊朗合作的国家采取行动。\n讨论对有关国家的潜在制裁。\n制裁可能针对与俄罗斯、伊朗合作的国家。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486822"
+  },
+  {
+    "post": "Financial_Express/3486821",
+    "datetime": "2026-09-23T18:53:42+00:00",
+    "views": "16",
+    "text": "美国参议员格拉斯利：石油公司没必要把柴油价格定得这么离谱。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486821"
+  },
+  {
     "post": "Financial_Express/3486820",
     "datetime": "2026-09-23T18:53:02+00:00",
-    "views": "6",
+    "views": "19",
     "text": "美国参议员格拉斯利：我希望美国不要听从大型石油公司的意见，实施柴油出口禁令。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3486819",
     "datetime": "2026-09-23T18:52:42+00:00",
-    "views": "8",
+    "views": "18",
     "text": "美国财长贝森特：2025 年以来美国私营部门新增就业超 100 万个。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3486818",
     "datetime": "2026-09-23T18:51:49+00:00",
-    "views": "14",
+    "views": "53",
     "text": "美国参议院 Grassley：希望美国不至于在（出台）柴油出口禁令问题上听从（那些）大型石油公司。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3486817",
     "datetime": "2026-09-23T18:50:42+00:00",
-    "views": "18",
+    "views": "56",
     "text": "美国财长贝森特：私营部门正在推动美国经济复苏。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3486816",
     "datetime": "2026-09-23T18:49:22+00:00",
-    "views": "23",
+    "views": "61",
     "text": "微软总裁：微软与其紧密合作伙伴 OpenAI 开展了人工智能安全相关讨论。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3486815",
     "datetime": "2026-09-23T18:49:08+00:00",
-    "views": "24",
+    "views": "62",
     "text": "路透社记者 Jarrett Renshaw 援引一名白宫官员在 X 平台发文称，Politico 有关美国政府正准备实施为期 90 天柴油出口禁令的报道不准确。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3486814",
     "datetime": "2026-09-23T18:48:43+00:00",
-    "views": "58",
+    "views": "65",
     "text": "美国国务院：国务卿鲁比奥会见印度外长，讨论可对与俄罗斯、伊朗开展经济往来的国家实施制裁事宜。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3486813",
     "datetime": "2026-09-23T18:48:42+00:00",
-    "views": "28",
+    "views": "65",
     "text": "伊拉克总理办公室：伊拉克总理与土耳其总统同意，土耳其军队将逐步把驻扎在伊拉克北部的营地移交给伊拉克联邦政府。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3486812",
     "datetime": "2026-09-23T18:48:22+00:00",
-    "views": "60",
+    "views": "66",
     "text": "伊拉克总理办公室声明：伊拉克总理与土耳其总统达成一致，土耳其部队将把伊拉克北部营地逐步移交伊拉克联邦政府。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3486811",
     "datetime": "2026-09-23T18:43:22+00:00",
-    "views": "71",
+    "views": "104",
     "text": "乌克兰总统泽连斯基：与澳大利亚总理签署了乌克兰与澳大利亚双边安全协议。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3486810",
     "datetime": "2026-09-23T18:43:02+00:00",
-    "views": "70",
+    "views": "73",
     "text": "法航荷航集团：往返迪拜航班暂停运营，直至 2026 年 10 月 13 日（含当日）。计划于 2026 年 9 月 26 日恢复往返贝鲁特的航班。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3486809",
     "datetime": "2026-09-23T18:34:49+00:00",
-    "views": "129",
+    "views": "131",
     "text": "英国首相安迪·伯纳姆表示，英国对全球债券市场的“暴露过度”，并为自己去年曾引发投资者担忧的争议性言论进行辩护。\n伯纳姆表示，他仍然坚持自己在出任首相前的说法，即英国不应“受制于”债券市场。相关言论后来一度引发担忧，认为他未来领导的政府可能采取更为宽松的财政政策。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3486808",
     "datetime": "2026-09-23T18:32:19+00:00",
-    "views": "111",
+    "views": "113",
     "text": "WTI 11 月原油期货收涨 1.64 美元，涨幅 1.81%，（主力合约更换日）报 92.16 美元/桶。\n布伦特 11 月原油期货收涨 3.83 美元，涨幅将近 3.86%，报 103.08 美元/桶。\n中东 Abu Dhabi Murban 原油期货涨 2.57%，报 111.46 美元/桶。\nNYMEX 10 月天然气期货收报 3.0230 美元/百万英热单位。\nNYMEX 10 月汽油期货收报 3.5870 美元/加仑，NYMEX 10 月取暖油期货收报 4.7764 美元/加仑。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3486807",
     "datetime": "2026-09-23T18:31:22+00:00",
-    "views": "104",
+    "views": "106",
     "text": "美国原油期货结算价为每桶 92.16 美元，上涨 1.64 美元，涨幅 1.81%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3486805",
     "datetime": "2026-09-23T18:30:22+00:00",
-    "views": "101",
+    "views": "103",
     "text": "上期所原油期货夜盘收涨 5.02%，报 730.00 元人民币/桶。沪金夜盘收跌 0.97%，沪银收跌 2.60%。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3486804",
     "datetime": "2026-09-23T18:30:15+00:00",
-    "views": "102",
+    "views": "104",
     "text": "上期所原油期货 2611 合约夜盘收涨 5.02%，报 730 元人民币/桶。\n沪金夜盘收跌 0.98%，沪银收跌 2.51%。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +182,7 @@
   {
     "post": "Financial_Express/3486803",
     "datetime": "2026-09-23T18:28:22+00:00",
-    "views": "94",
+    "views": "96",
     "text": "巴西石油公司高管表示，该公司在获得哥伦比亚天然气项目的环境许可证方面取得了显著进展。",
     "media_only": false,
     "image_url": null,
@@ -60910,23 +60937,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3480008"
-  },
-  {
-    "post": "Financial_Express/3480007",
-    "datetime": "2026-09-21T18:54:22+00:00",
-    "views": "119",
-    "text": "选举失利 德国梅前州基民盟主席辞职\n金十数据 9 月 22 日讯，德国梅前州基民盟主席、此次州议会选举该党头号候选人丹尼尔·彼得斯 21 日宣布辞去州党主席职务。彼得斯表示，他将为这次“惨败”承担个人责任。在 20 日举行的梅前州议会选举中，基民盟获得 4.9%的选票，未能跨过 5%的得票率进入门槛，首次未能进入该州议会。选举中，选择党以 38.2%得票率成为第一大党，社民党以 35.5%位居第二。据悉，基民盟州党主席一职将暂由联邦总理府负责联邦与州合作事务的国务部长阿姆托尔代理。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3480007"
-  },
-  {
-    "post": "Financial_Express/3480006",
-    "datetime": "2026-09-21T18:54:02+00:00",
-    "views": "104",
-    "text": "国际足联主席因凡蒂诺谈及该投资提案时表示：该提案现已撤回，将不再推进。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3480006"
   }
 ]
