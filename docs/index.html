@@ -1,5 +1,85 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-23T04:29:27.690325+00:00","clsvipUpdated":"2026-09-23T04:29:38.106280+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月23日</h2><div class="feed"><article class="item" data-search="港交所：陆续推出更多人民币计价贵金属等商品投资产品
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-23T04:31:19.901528+00:00","clsvipUpdated":"2026-09-23T04:31:27.917491+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月23日</h2><div class="feed"><article class="item" data-search="吉利汽车(00175)发布公告，于 2026 年 9 月 23 日因集团雇员根据认股权计划(于 2023 年 4 月 28 日获采纳)行使认股权而发行 2 万股。"><div class="time">12:31</div><div class="content"><div class="text" data-full="吉利汽车(00175)发布公告，于 2026 年 9 月 23 日因集团雇员根据认股权计划(于 2023 年 4 月 28 日获采纳)行使认股权而发行 2 万股。" data-short="吉利汽车(00175)发布公告，于 2026 年 9 月 23 日因集团雇员根据认股权计划(于 2023 年 4 月 28 日获采纳)行使认股权而发行 2 万股。">吉利汽车(00175)发布公告，于 2026 年 9 月 23 日因集团雇员根据认股权计划(于 2023 年 4 月 28 日获采纳)行使认股权而发行 2 万股。</div></div></article><article class="item" data-search="北证 50 指数涨超 2%，pcb、玻璃基板概念走强。
+恒指半日跌 0.76%，恒生科技指数跌 0.97%，天数智芯跌超 7%，智谱跌超 6%。
+香港财政司司长陈茂波：香港需要丰富人民币产品，完善相关基础设施。
+区分药用、非药用！芬太尼类物质犯罪定罪量刑有新标准。
+软银启动逾 110 亿美元的高收益债发行，为 ai 领域扩张筹资。
+阿里云未来一年将在 8 个国家和地区新增数据中心。"><div class="time">12:30</div><div class="content"><div class="text" data-full="北证 50 指数涨超 2%，PCB、玻璃基板概念走强。
+恒指半日跌 0.76%，恒生科技指数跌 0.97%，天数智芯跌超 7%，智谱跌超 6%。
+香港财政司司长陈茂波：香港需要丰富人民币产品，完善相关基础设施。
+区分药用、非药用！芬太尼类物质犯罪定罪量刑有新标准。
+软银启动逾 110 亿美元的高收益债发行，为 AI 领域扩张筹资。
+阿里云未来一年将在 8 个国家和地区新增数据中心。" data-short="北证 50 指数涨超 2%，PCB、玻璃基板概念走强。
+恒指半日跌 0.76%，恒生科技指数跌 0.97%，天数智芯跌超 7%，智谱跌超 6%。
+香港财政司司长陈茂波：香港需要丰富人民币产品，完善相关基础设施。
+区分药用、非药用！芬太尼类物质犯罪定罪量刑有新标准。
+软银启动逾 110 亿美元的高收益债发行，为 AI 领域扩张筹资。
+阿里云未来一年将在 8 个...">北证 50 指数涨超 2%，PCB、玻璃基板概念走强。
+恒指半日跌 0.76%，恒生科技指数跌 0.97%，天数智芯跌超 7%，智谱跌超 6%。
+香港财政司司长陈茂波：香港需要丰富人民币产品，完善相关基础设施。
+区分药用、非药用！芬太尼类物质犯罪定罪量刑有新标准。
+软银启动逾 110 亿美元的高收益债发行，为 AI 领域扩张筹资。
+阿里云未来一年将在 8 个...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="① 全天 日本股市因假期休市；
+② 时间待定 2026 世界制造业大会闭幕，2026 年家用服务机器人产业生态技术交流会，第五届全球数字贸易博览会（9 月 23-27 日）；
+③ 13:00 印度 9 月制造业、服务业、综合 pmi 初值；
+④ 15:00 欧洲央行副行长 boris vujcic 谈论数字银行、数字监管等问题；
+⑤ 15:15 法国 9 月制造业、服务业、综合 pmi 初值；
+⑥ 15:30 德国 9 月制造业、服务业、综合 pmi 初值；
+⑦ 15:45 欧洲央行管委兼爱沙尼亚央行行长 ulo kaasik 讲话；
+⑧ 16:00 欧元区 9 月制造业、服务业、综合 pmi 初值；
+⑨ 16:30 英国 9 月制造业、服务业、综合 pmi 初值；
+⑩ 16:50 欧洲央行管委兼克罗地亚央行行长 zigman 谈论货币政策与信贷问题；
+⑪ 时间待定 高通骁龙峰会（9 月 22-24 日），meta connect 2026；伊朗总统佩泽希齐扬预计将在联合国大会上讲话；
+⑫ 21:45 美国 9 月标普全球服务业、制造业、综合 pmi 初值；
+⑬ 22:05 美联储理事 barr 在芝加哥联储谈论住房问题；
+⑭ 22:30 美国能源信息署（eia）发布政府版原油库存周报；
+⑮ 次日 00:00 美国芝加哥联储主席 goolsbee 就经济问题接受 podcast 采访，欧洲央行执委 cipollone 讲话；
+⑯ 次日 00:30 欧洲央行首席经济学家 lane 讲话；
+⑰ 次日 07:00 meta 开发者大会（9 月 23-24 日），扎克伯格将发表主题演讲；"><div class="time">12:30</div><div class="content"><div class="text" data-full="① 全天 日本股市因假期休市；
+② 时间待定 2026 世界制造业大会闭幕，2026 年家用服务机器人产业生态技术交流会，第五届全球数字贸易博览会（9 月 23-27 日）；
+③ 13:00 印度 9 月制造业、服务业、综合 PMI 初值；
+④ 15:00 欧洲央行副行长 Boris Vujcic 谈论数字银行、数字监管等问题；
+⑤ 15:15 法国 9 月制造业、服务业、综合 PMI 初值；
+⑥ 15:30 德国 9 月制造业、服务业、综合 PMI 初值；
+⑦ 15:45 欧洲央行管委兼爱沙尼亚央行行长 Ulo Kaasik 讲话；
+⑧ 16:00 欧元区 9 月制造业、服务业、综合 PMI 初值；
+⑨ 16:30 英国 9 月制造业、服务业、综合 PMI 初值；
+⑩ 16:50 欧洲央行管委兼克罗地亚央行行长 Zigman 谈论货币政策与信贷问题；
+⑪ 时间待定 高通骁龙峰会（9 月 22-24 日），Meta Connect 2026；伊朗总统佩泽希齐扬预计将在联合国大会上讲话；
+⑫ 21:45 美国 9 月标普全球服务业、制造业、综合 PMI 初值；
+⑬ 22:05 美联储理事 Barr 在芝加哥联储谈论住房问题；
+⑭ 22:30 美国能源信息署（EIA）发布政府版原油库存周报；
+⑮ 次日 00:00 美国芝加哥联储主席 Goolsbee 就经济问题接受 Podcast 采访，欧洲央行执委 Cipollone 讲话；
+⑯ 次日 00:30 欧洲央行首席经济学家 Lane 讲话；
+⑰ 次日 07:00 Meta 开发者大会（9 月 23-24 日），扎克伯格将发表主题演讲；" data-short="① 全天 日本股市因假期休市；
+② 时间待定 2026 世界制造业大会闭幕，2026 年家用服务机器人产业生态技术交流会，第五届全球数字贸易博览会（9 月 23-27 日）；
+③ 13:00 印度 9 月制造业、服务业、综合 PMI 初值；
+④ 15:00 欧洲央行副行长 Boris Vujcic 谈论数字银行、数字监管等问题；
+⑤ 15:15 法国 9 月...">① 全天 日本股市因假期休市；
+② 时间待定 2026 世界制造业大会闭幕，2026 年家用服务机器人产业生态技术交流会，第五届全球数字贸易博览会（9 月 23-27 日）；
+③ 13:00 印度 9 月制造业、服务业、综合 PMI 初值；
+④ 15:00 欧洲央行副行长 Boris Vujcic 谈论数字银行、数字监管等问题；
+⑤ 15:15 法国 9 月...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="港交所董事总经理兼市场主管余学勤表示，预计明年初将推出以人民币计价、在香港交收的黄金期货合约，并陆续推出更多以人民币计价贵金属等商品的投资产品，以丰富人民币计价资产选择。（香港电台网）"><div class="time">12:30</div><div class="content"><div class="text" data-full="港交所董事总经理兼市场主管余学勤表示，预计明年初将推出以人民币计价、在香港交收的黄金期货合约，并陆续推出更多以人民币计价贵金属等商品的投资产品，以丰富人民币计价资产选择。（香港电台网）" data-short="港交所董事总经理兼市场主管余学勤表示，预计明年初将推出以人民币计价、在香港交收的黄金期货合约，并陆续推出更多以人民币计价贵金属等商品的投资产品，以丰富人民币计价资产选择。（香港电台网）">港交所董事总经理兼市场主管余学勤表示，预计明年初将推出以人民币计价、在香港交收的黄金期货合约，并陆续推出更多以人民币计价贵金属等商品的投资产品，以丰富人民币计价资产选择。（香港电台网）</div></div></article><article class="item" data-search="港交所：陆续推出更多人民币计价贵金属等商品投资产品
+港交所董事总经理兼市场主管余学勤表示，金管局与证监会去年共同制定固定收益及货币市场发展路线图，当中很多细节经港交所落实。他提到今年 8 月推出 5 年期国债期货，未平仓合约由推出首个星期约 900 张，增至目前近 3000 张，吸引来自中东、欧美、东南亚等地的市场参与者，反映是值得发展的方向。
+
+他在财资市场高峰会上透露，预计明年初将推出以人民币计价、在香港交收的黄金期货合约，并陆续推出更多以人民币计价贵金属等商品的投资产品，以丰富人民币计价资产选择。
+
+金管局助理总裁何汉杰在论坛上说，推动人民币国际化最大挑战是国际间依然习惯使用美元，企业亦缺乏相应财资管理与融资工具。他指出，部分银行为大客户提供定制化方案，认为银行可以将这些方案转化为现成产品，再推广至其他客户。
+
+他又说，香港人民币资金池约 1.1 万亿元，金管局早前将人民币流动资金安排规模扩充至 5000 亿元人民币，即相当于存款基础 40-50%，认为能为银行体系提供坚实后盾，满足市场营运、贸易及投资等方面融资的流动性需求。"><div class="time">12:30</div><div class="content"><div class="text" data-full="港交所：陆续推出更多人民币计价贵金属等商品投资产品
+港交所董事总经理兼市场主管余学勤表示，金管局与证监会去年共同制定固定收益及货币市场发展路线图，当中很多细节经港交所落实。他提到今年 8 月推出 5 年期国债期货，未平仓合约由推出首个星期约 900 张，增至目前近 3000 张，吸引来自中东、欧美、东南亚等地的市场参与者，反映是值得发展的方向。
+
+他在财资市场高峰会上透露，预计明年初将推出以人民币计价、在香港交收的黄金期货合约，并陆续推出更多以人民币计价贵金属等商品的投资产品，以丰富人民币计价资产选择。
+
+金管局助理总裁何汉杰在论坛上说，推动人民币国际化最大挑战是国际间依然习惯使用美元，企业亦缺乏相应财资管理与融资工具。他指出，部分银行为大客户提供定制化方案，认为银行可以将这些方案转化为现成产品，再推广至其他客户。
+
+他又说，香港人民币资金池约 1.1 万亿元，金管局早前将人民币流动资金安排规模扩充至 5000 亿元人民币，即相当于存款基础 40-50%，认为能为银行体系提供坚实后盾，满足市场营运、贸易及投资等方面融资的流动性需求。" data-short="港交所：陆续推出更多人民币计价贵金属等商品投资产品
+港交所董事总经理兼市场主管余学勤表示，金管局与证监会去年共同制定固定收益及货币市场发展路线图，当中很多细节经港交所落实。他提到今年 8 月推出 5 年期国债期货，未平仓合约由推出首个星期约 900 张，增至目前近 3000 张，吸引来自中东、欧美、东南亚等地的市场参与者，反映是值得发展的方向。
+
+他在财资市...">港交所：陆续推出更多人民币计价贵金属等商品投资产品
+港交所董事总经理兼市场主管余学勤表示，金管局与证监会去年共同制定固定收益及货币市场发展路线图，当中很多细节经港交所落实。他提到今年 8 月推出 5 年期国债期货，未平仓合约由推出首个星期约 900 张，增至目前近 3000 张，吸引来自中东、欧美、东南亚等地的市场参与者，反映是值得发展的方向。
+
+他在财资市...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="港交所：陆续推出更多人民币计价贵金属等商品投资产品
 金十数据 9 月 23 日讯，港交所董事总经理兼市场主管余学勤表示，金管局与证监会去年共同制定固定收益及货币市场发展路线图，当中很多细节经港交所落实。他提到今年 8 月推出 5 年期国债期货，未平仓合约由推出首个星期约 900 张，增至目前近 3000 张，吸引来自中东、欧美、东南亚等地的市场参与者，反映是值得发展的方向。他在财资市场高峰会上透露，预计明年初将推出以人民币计价、在香港交收的黄金期货合约，并陆续推出更多以人民币计价贵金属等商品的投资产品，以丰富人民币计价资产选择。"><div class="time">12:28</div><div class="content"><div class="text" data-full="港交所：陆续推出更多人民币计价贵金属等商品投资产品
 金十数据 9 月 23 日讯，港交所董事总经理兼市场主管余学勤表示，金管局与证监会去年共同制定固定收益及货币市场发展路线图，当中很多细节经港交所落实。他提到今年 8 月推出 5 年期国债期货，未平仓合约由推出首个星期约 900 张，增至目前近 3000 张，吸引来自中东、欧美、东南亚等地的市场参与者，反映是值得发展的方向。他在财资市场高峰会上透露，预计明年初将推出以人民币计价、在香港交收的黄金期货合约，并陆续推出更多以人民币计价贵金属等商品的投资产品，以丰富人民币计价资产选择。" data-short="港交所：陆续推出更多人民币计价贵金属等商品投资产品
 金十数据 9 月 23 日讯，港交所董事总经理兼市场主管余学勤表示，金管局与证监会去年共同制定固定收益及货币市场发展路线图，当中很多细节经港交所落实。他提到今年 8 月推出 5 年期国债期货，未平仓合约由推出首个星期约 900 张，增至目前近 3000 张，吸引来自中东、欧美、东南亚等地的市场参与者，反映是...">港交所：陆续推出更多人民币计价贵金属等商品投资产品
@@ -827,11 +907,7 @@ CPO 概念盘中震荡回升，富信科技触及 20cm 涨停，中石科技、�
 9 月 23 日，界面新闻获悉，physical ai 初创公司息壤开物连续完成种子轮及天使轮融资，累计融资金额达数亿元，由敦鸿资产领投，华控基金、三花控股、银杏谷资本、泽然资本、本坚基金、上海天使会、标朴投资等机构跟投。据公司披露，目前其估值达 5 亿美元。息壤开物今年 7 月成立，由前华为云大模型 cto 李寅创办，据公司披露，现任华为多模态首席科学家张含望将担任息壤开物联合创始人、首席科学家。公司主要研发物理基础模型 lpm，面向机器人等物理智能场景。"><div class="time">09:45</div><div class="content"><div class="text" data-full="Physical AI 初创公司息壤开物连续完成数亿元融资
 9 月 23 日，界面新闻获悉，Physical AI 初创公司息壤开物连续完成种子轮及天使轮融资，累计融资金额达数亿元，由敦鸿资产领投，华控基金、三花控股、银杏谷资本、泽然资本、本坚基金、上海天使会、标朴投资等机构跟投。据公司披露，目前其估值达 5 亿美元。息壤开物今年 7 月成立，由前华为云大模型 CTO 李寅创办，据公司披露，现任华为多模态首席科学家张含望将担任息壤开物联合创始人、首席科学家。公司主要研发物理基础模型 LPM，面向机器人等物理智能场景。" data-short="Physical AI 初创公司息壤开物连续完成数亿元融资
 9 月 23 日，界面新闻获悉，Physical AI 初创公司息壤开物连续完成种子轮及天使轮融资，累计融资金额达数亿元，由敦鸿资产领投，华控基金、三花控股、银杏谷资本、泽然资本、本坚基金、上海天使会、标朴投资等机构跟投。据公司披露，目前其估值达 5 亿美元。息壤开物今年 7 月成立，由前华为云大模...">Physical AI 初创公司息壤开物连续完成数亿元融资
-9 月 23 日，界面新闻获悉，Physical AI 初创公司息壤开物连续完成种子轮及天使轮融资，累计融资金额达数亿元，由敦鸿资产领投，华控基金、三花控股、银杏谷资本、泽然资本、本坚基金、上海天使会、标朴投资等机构跟投。据公司披露，目前其估值达 5 亿美元。息壤开物今年 7 月成立，由前华为云大模...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="惠誉评级：新西兰主要银行保持强劲的竞争地位。"><div class="time">09:45</div><div class="content"><div class="text" data-full="惠誉评级：新西兰主要银行保持强劲的竞争地位。" data-short="惠誉评级：新西兰主要银行保持强劲的竞争地位。">惠誉评级：新西兰主要银行保持强劲的竞争地位。</div></div></article><article class="item" data-search="a 股房地产板块再度拉升，我爱我家、华远控股 3 连板，中华企业直线涨停，万科 a、华丽家族、世联行、特发服务跟涨。"><div class="time">09:45</div><div class="content"><div class="text" data-full="A 股房地产板块再度拉升，我爱我家、华远控股 3 连板，中华企业直线涨停，万科 A、华丽家族、世联行、特发服务跟涨。" data-short="A 股房地产板块再度拉升，我爱我家、华远控股 3 连板，中华企业直线涨停，万科 A、华丽家族、世联行、特发服务跟涨。">A 股房地产板块再度拉升，我爱我家、华远控股 3 连板，中华企业直线涨停，万科 A、华丽家族、世联行、特发服务跟涨。</div></div></article><article class="item" data-search="美委首脑在纽约会谈
-金十数据 9 月 23 日讯，据日本共同社报道，特朗普于 22 日在联合国大会召开期间与委内瑞拉的罗德里格斯临时总统会谈。美国政府官员透露，双方的面对面会谈是自 1 月美国军队对委内瑞拉发动攻击以来的首次。"><div class="time">09:45</div><div class="content"><div class="text" data-full="美委首脑在纽约会谈
-金十数据 9 月 23 日讯，据日本共同社报道，特朗普于 22 日在联合国大会召开期间与委内瑞拉的罗德里格斯临时总统会谈。美国政府官员透露，双方的面对面会谈是自 1 月美国军队对委内瑞拉发动攻击以来的首次。" data-short="美委首脑在纽约会谈
-金十数据 9 月 23 日讯，据日本共同社报道，特朗普于 22 日在联合国大会召开期间与委内瑞拉的罗德里格斯临时总统会谈。美国政府官员透露，双方的面对面会谈是自 1 月美国军队对委内瑞拉发动攻击以来的首次。">美委首脑在纽约会谈
-金十数据 9 月 23 日讯，据日本共同社报道，特朗普于 22 日在联合国大会召开期间与委内瑞拉的罗德里格斯临时总统会谈。美国政府官员透露，双方的面对面会谈是自 1 月美国军队对委内瑞拉发动攻击以来的首次。</div></div></article><article class="item" data-search="港股内房股持续走强，万科企业(02202.hk)涨超 10%，融信中国(03301.hk)涨超 7%，融创中国(01918.hk)、碧桂园(02007.hk)等跟涨。"><div class="time">09:45</div><div class="content"><div class="text" data-full="港股内房股持续走强，万科企业(02202.HK)涨超 10%，融信中国(03301.HK)涨超 7%，融创中国(01918.HK)、碧桂园(02007.HK)等跟涨。" data-short="港股内房股持续走强，万科企业(02202.HK)涨超 10%，融信中国(03301.HK)涨超 7%，融创中国(01918.HK)、碧桂园(02007.HK)等跟涨。">港股内房股持续走强，万科企业(02202.HK)涨超 10%，融信中国(03301.HK)涨超 7%，融创中国(01918.HK)、碧桂园(02007.HK)等跟涨。</div></div></article><article class="item" data-search="日本首相高市早苗：日本始终与乌克兰站在一起，坚定不移地与国际社会合作，致力于支持乌克兰和对俄制裁。"><div class="time">09:44</div><div class="content"><div class="text" data-full="日本首相高市早苗：日本始终与乌克兰站在一起，坚定不移地与国际社会合作，致力于支持乌克兰和对俄制裁。" data-short="日本首相高市早苗：日本始终与乌克兰站在一起，坚定不移地与国际社会合作，致力于支持乌克兰和对俄制裁。">日本首相高市早苗：日本始终与乌克兰站在一起，坚定不移地与国际社会合作，致力于支持乌克兰和对俄制裁。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月23日 · VIP</h2> <div class="feed"> <article class="item" data-search="【午间分析】
+9 月 23 日，界面新闻获悉，Physical AI 初创公司息壤开物连续完成种子轮及天使轮融资，累计融资金额达数亿元，由敦鸿资产领投，华控基金、三花控股、银杏谷资本、泽然资本、本坚基金、上海天使会、标朴投资等机构跟投。据公司披露，目前其估值达 5 亿美元。息壤开物今年 7 月成立，由前华为云大模...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月23日 · VIP</h2> <div class="feed"> <article class="item" data-search="【午间分析】
 今天板块特别快速的轮动，追哪个都可能是错误的，最好的策略就是“以不变应万变”，资金来回的切换收割，如果冲动追涨，那可能是很难受的，
 对于目前的盘面，小盘子个股比较活跃，大金融震荡压制了上证，进而又影响了整个盘面，为什么会出现这样，说不清楚，
 只能做应对策略，平均股价目前比较强一点，两个指数的差异，所以我们只能多观察，有机会做做t。"> <div class="time">11:14</div> <div class="content"> <div class="text">【午间分析】
