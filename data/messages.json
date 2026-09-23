@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3486880",
+    "datetime": "2026-09-23T19:30:42+00:00",
+    "views": "8",
+    "text": "据 Politico：据知情人士透露，随着共和党在中期选举前对选情担忧加剧，少数白宫官员正在讨论是否减少特朗普此前决定增加的外国牛肉进口量。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486880"
+  },
+  {
+    "post": "Financial_Express/3486879",
+    "datetime": "2026-09-23T19:30:22+00:00",
+    "views": "9",
+    "text": "美国能源部长赖特重申，柴油出口禁令并未进入讨论议程。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486879"
+  },
+  {
+    "post": "Financial_Express/3486878",
+    "datetime": "2026-09-23T19:30:19+00:00",
+    "views": "11",
+    "text": "美国能源部长 Wright 重申特朗普政府“并没有讨论”出台柴油出口禁令。（纽约时报）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486878"
+  },
+  {
     "post": "Financial_Express/3486876",
     "datetime": "2026-09-23T19:28:22+00:00",
-    "views": "7",
+    "views": "48",
     "text": "美国贸易代表办公室不同意削减牛肉进口。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3486877",
     "datetime": "2026-09-23T19:28:22+00:00",
-    "views": "7",
+    "views": "48",
     "text": "市场资讯：美国拒绝了伊朗提出的开放霍尔木兹海峡的提议。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3486875",
     "datetime": "2026-09-23T19:26:56+00:00",
-    "views": "13",
+    "views": "50",
     "text": "特朗普政府官员正在考虑取消牛肉进口。（Politico）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3486874",
     "datetime": "2026-09-23T19:26:42+00:00",
-    "views": "14",
+    "views": "51",
     "text": "Anthropic 首席执行官阿莫迪：支持全球共同行动，防止人工智能被用于制造生物武器。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3486873",
     "datetime": "2026-09-23T19:26:22+00:00",
-    "views": "17",
+    "views": "53",
     "text": "Anthropic 首席执行官阿莫迪：呼吁各国开展人工智能监管领域的全球合作。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3486872",
     "datetime": "2026-09-23T19:26:02+00:00",
-    "views": "48",
+    "views": "54",
     "text": "特朗普政府官员正在考虑取消牛肉进口。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3486871",
     "datetime": "2026-09-23T19:25:42+00:00",
-    "views": "49",
+    "views": "54",
     "text": "Anthropic 首席执行官达里奥：如果管理不善，我甚至认为人工智能可能对人类造成风险。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3486870",
     "datetime": "2026-09-23T19:25:02+00:00",
-    "views": "52",
+    "views": "57",
     "text": "Anthropic 首席执行官阿莫迪：Anthropic 会出于安全考量，在必要时放缓人工智能研发进度。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3486869",
     "datetime": "2026-09-23T19:24:42+00:00",
-    "views": "53",
+    "views": "58",
     "text": "Anthropic 首席执行官阿莫迪：存在人工智能模型发展超出人类管控的风险。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3486868",
     "datetime": "2026-09-23T19:24:23+00:00",
-    "views": "53",
+    "views": "58",
     "text": "Anthropic 首席执行官阿莫迪：如果管理不善，确实认为人工智能可能会对全人类构成生存风险。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3486867",
     "datetime": "2026-09-23T19:24:22+00:00",
-    "views": "53",
+    "views": "58",
     "text": "Anthropic 首席执行官阿莫迪：认为存在不法分子利用人工智能制造生物武器的风险。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3486866",
     "datetime": "2026-09-23T19:24:04+00:00",
-    "views": "52",
+    "views": "56",
     "text": "Anthropic 首席执行官 Amodei 在联合国安理会就人工智能议题发言：人工智能的快速发展推动了健康科学领域的进步。\n人工智能可能对全人类构成风险。\n认为存在不法分子利用人工智能制造生物武器的风险。\n如果管理不善，确实认为人工智能可能会对全人类构成生存风险。\n由于安全的缘故，公司将放慢 AI 的研发进度。\n呼吁针对 AI 安全制定认证系统。\n呼吁出台全球层面的 AI 标准。\n呼吁全球在人工智能监管方面合作。\n支持阻止将 AI 用于生化武器的全球努力。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3486865",
     "datetime": "2026-09-23T19:23:42+00:00",
-    "views": "53",
+    "views": "55",
     "text": "Anthropic 首席执行官阿莫迪：人工智能可能对全人类构成风险。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3486864",
     "datetime": "2026-09-23T19:23:22+00:00",
-    "views": "53",
+    "views": "55",
     "text": "Anthropic 首席执行官阿莫迪：人工智能的快速发展推动了健康科学领域的进步。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3486863",
     "datetime": "2026-09-23T19:22:22+00:00",
-    "views": "55",
+    "views": "57",
     "text": "Anthropic 首席执行官达里奥·阿莫迪在联合国安理会就人工智能议题发言。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3486862",
     "datetime": "2026-09-23T19:21:23+00:00",
-    "views": "56",
+    "views": "58",
     "text": "谷歌公司发布 Gemini 3.8 Flash TTS 音频模型系列。\n在 Gemini 模型家族新增两款文字转语音模型，Gemini 3.8 Flash TTS 与 Gemini 3.8 Flash-Lite TTS。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3486861",
     "datetime": "2026-09-23T19:20:44+00:00",
-    "views": "56",
+    "views": "58",
     "text": "OpenAI 的 CEO Altman：认为安全发展人工智能存在务实可行的路径。\n若要实现人工智能民主化，最核心决策绝不能仅由（美国加州）旧金山的实验室作出。\n呼吁将人们置于 AI 决策的中心。",
     "media_only": false,
     "image_url": null,
@@ -61045,23 +61072,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3480050"
-  },
-  {
-    "post": "Financial_Express/3480049",
-    "datetime": "2026-09-21T19:31:02+00:00",
-    "views": "57",
-    "text": "利比亚国家石油公司（NOC）在一份声明中表示，一个武装组织于周一关闭了通往扎维耶港的沙拉拉原油管道的 7 号阀门，导致沙拉拉油田产量大幅下降。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3480049"
-  },
-  {
-    "post": "Financial_Express/3480048",
-    "datetime": "2026-09-21T19:30:22+00:00",
-    "views": "54",
-    "text": "特朗普政府拟拨款 50 亿美元用于重建中东能源设施\n金十数据 9 月 22 日讯，据华尔街日报报道，特朗普政府提议向一项新基金投资 50 亿美元，该基金旨在帮助中东国家重建在伊朗战争中受损的能源基础设施，并减少这些国家在石油和天然气运输方面对霍尔木兹海峡的依赖。根据特朗普政府的计划，美国将寻求从合作伙伴——沙特、阿联酋、卡塔尔、巴林、科威特、阿曼、伊拉克和约旦——获得等额出资，筹集 100 亿美元的投资基金。该投资计划将命名为“盟友信任与建设伙伴关系”（简称 Pact）。目前相关谈判正在进行中。一些中东官员表示，这一举措似乎是美国试图将霍尔木兹海峡定位为影响较小的能源通道，并展示美国及其盟友团结一致应对伊朗的姿态。他们还指出，在未与德黑兰达成和平协议的情况下设立基金以重建被毁的能源设施为时过早，因为伊朗可能利用无人机和导弹攻击新的基础设施。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3480048"
   }
 ]
