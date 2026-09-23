@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3486498",
+    "datetime": "2026-09-23T15:06:42+00:00",
+    "views": "6",
+    "text": "美国国务卿鲁比奥：危机的最佳解决方案是让加沙摆脱哈马斯，并由反映本国人民意愿的巴勒斯坦领导层治理。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486498"
+  },
+  {
+    "post": "Financial_Express/3486497",
+    "datetime": "2026-09-23T15:06:03+00:00",
+    "views": "7",
+    "text": "DeepSeek 又发新论文！让智能体干活得解决“开工”难题\n金十数据 9 月 23 日讯，9 月 23 日，DeepSeek 公开的一篇关于智能体训练的新论文引发关注。这篇 31 页的论文介绍了其内部使用的生产级沙箱平台 DSec，论文作者超过百人，梁文锋也在其中。论文中比较有意思的一节是“智能体的不当行为”。DeepSeek 发现，智能体会通过非预期渠道获取答案，比如搜索平台管理文件里的残留答案等，破坏训练和评估结果有效性。引入访问控制后，还有智能体交换文件数据块映射，试图让受保护文件内容可通过另一文件描述符访问，损害任务或共享基础设施。DeepSeek 认为，没有单一机制能防止所有智能体不当行为和系统故障。因此团队的方法是加强可观测性以识别新问题，并随模型演进持续加固 Dsec，包括限制智能体通过非预期渠道获取答案的访问控制，减少对欺骗行为的奖励。这些控制能解决部分问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486497"
+  },
+  {
+    "post": "Financial_Express/3486496",
+    "datetime": "2026-09-23T15:06:02+00:00",
+    "views": "6",
+    "text": "美国国务卿鲁比奥：美国将维护霍尔木兹海峡通畅 与伊朗协议仍需时间\n金十数据 9 月 23 日讯，美国国务卿鲁比奥表示，美国将继续采取措施维护并保持霍尔木兹海峡畅通。他提到，伊朗当天早些时候曾向商业船只开火。鲁比奥表示，美国理解海峡是一个问题，与伊朗达成协议需要艰苦努力和时间，周二关于伊朗的会谈主要是思想和信息的交流，虽然会议积极，但尚未取得突破。目前伊朗谈判受到革命卫队领导层的阻碍。他还表示，美国总统特朗普拥有包括军事选项在内的多种应对选择，并强调在伊朗问题上采取行动将伴随一定代价。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486496"
+  },
+  {
     "post": "Financial_Express/3486495",
     "datetime": "2026-09-23T15:05:22+00:00",
-    "views": "1",
+    "views": "4",
     "text": "俄罗斯外长拉夫罗夫在联合国大会第 81 届会议高级别会议周期间，与古巴外交部长举行会谈。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3486494",
     "datetime": "2026-09-23T15:05:13+00:00",
-    "views": "1",
+    "views": "34",
     "text": "当地时间 9 月 23 日，伊朗总统佩泽希齐扬在联大一般性辩论上发表讲话。他表示，伊朗不会在对美战争中投降，但相信通过外交途径可以结束冲突。霍尔木兹海峡不能用于运输用于对抗伊朗的武器，伊朗必须强大有力才能抵抗美国及敌人，伊朗需要的是核能而不是核弹。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3486493",
     "datetime": "2026-09-23T15:05:02+00:00",
-    "views": "1",
+    "views": "34",
     "text": "美国国务卿鲁比奥：伊朗革命卫队领导人阻碍了伊朗谈判。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3486491",
     "datetime": "2026-09-23T15:03:43+00:00",
-    "views": "33",
+    "views": "34",
     "text": "美国国务卿鲁比奥：伊朗谈判受到革命卫队领导层的阻碍。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3486492",
     "datetime": "2026-09-23T15:03:43+00:00",
-    "views": "32",
+    "views": "34",
     "text": "美国财政部将于周四回购至多 60 亿美元的长期债券\n美国财政部将于周四回购至多 60 亿美元的长期债券。美国财政部此前表示，回购规模至少为 40 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3486490",
     "datetime": "2026-09-23T15:03:22+00:00",
-    "views": "33",
+    "views": "34",
     "text": "美国 30 年期国债收益率触及 5.367%，有望创下 2004 年 6 月以来最高结算价。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3486489",
     "datetime": "2026-09-23T15:03:02+00:00",
-    "views": "34",
+    "views": "35",
     "text": "雅本化学：目前来自恒瑞医药的收入仍未形成规模\n金十数据 9 月 23 日讯，雅本化学 9 月 23 接受机构调研时表示，公司与恒瑞医药的合作覆盖其相关重点产品领域，原则上可承接全生命周期各阶段项目，目前在研项目约 20 个，滚动推进。目前来自恒瑞医药的收入仍未形成规模，核心原因是现阶段主要为其尚未上市、处于研发阶段的产品提供中间体小批量供货，服务于工艺验证与研发需求，公司尚未为恒瑞医药提供商业化产品，公司的供应能力尚需通过稳定的商业化生产、交付逐步验证。与此同时，公司现有医药产能较为有限，因此在同步配套建设产能，支撑其产品后续的商业化生产需求。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3486488",
     "datetime": "2026-09-23T15:02:20+00:00",
-    "views": "35",
+    "views": "36",
     "text": "美国财政部宣布，周四将回购 40 亿-60 亿美元长期债券。\n此前公布的回购规模为“至少 40 亿美元”。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3486487",
     "datetime": "2026-09-23T15:01:22+00:00",
-    "views": "36",
+    "views": "67",
     "text": "美国财政部：将于周四回购至多 60 亿美元长期国债\n金十数据 9 月 23 日讯，美国财政部：将在周四回购至少 40 亿美元，最多 60 亿美元的长期国债。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3486485",
     "datetime": "2026-09-23T15:00:23+00:00",
-    "views": "37",
+    "views": "67",
     "text": "夜盘期货收盘\n燃料油连续涨 3.33%，低硫燃料油连续涨 3.15%，苯乙烯连续涨 3.00%，20 号胶连续涨 2.66%，PTA 连续涨 2.54%，液化石油气连续涨 2.48%，乙二醇连续涨 2.11%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3486486",
     "datetime": "2026-09-23T15:00:23+00:00",
-    "views": "38",
+    "views": "69",
     "text": "合成橡胶夜盘收涨约 3.7%，燃油涨约 3.3%，低硫燃油涨约 3.1%，焦炭跌约 0.3%，玻璃跌约 0.8%，焦煤跌约 1%。",
     "media_only": false,
     "image_url": null,
@@ -129,7 +156,7 @@
     "post": "Financial_Express/3486481",
     "datetime": "2026-09-23T14:58:31+00:00",
     "views": "71",
-    "text": "美国国务卿鲁比奥：伊朗会谈是此前讨论的“延续”。\n此次会谈是积极的，但并未取得突破。",
+    "text": "美国国务卿鲁比奥：伊朗会谈是此前讨论的“延续”。\n此次会谈是积极的，但并未取得突破。\n伊朗伊斯兰革命卫队领导人阻碍了伊朗对话。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3486481"
@@ -60415,122 +60442,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3479740"
-  },
-  {
-    "post": "Financial_Express/3479738",
-    "datetime": "2026-09-21T15:07:02+00:00",
-    "views": "66",
-    "text": "俄罗斯总统普京将不出席在美国举行、特朗普参加的 G20 峰会，但将出席亚太经合组织峰会。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479738"
-  },
-  {
-    "post": "Financial_Express/3479739",
-    "datetime": "2026-09-21T15:07:02+00:00",
-    "views": "69",
-    "text": "加拿大央行行长麦克勒姆：到目前为止，我们尚未看到更高的油价正在向其他商品和服务扩散的证据。最近的天然气价格与油价相比更加一致，油价几乎比之前高出 40 美元。如果通胀压力得到控制，我们不希望加息以抑制增长。越来越多的证据表明，许多加拿大企业已开始适应美国关税政策。预计未来几年劳动力增长将接近零。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479739"
-  },
-  {
-    "post": "Financial_Express/3479737",
-    "datetime": "2026-09-21T15:06:42+00:00",
-    "views": "65",
-    "text": "美国国务卿鲁比奥：在联合国与玻利维亚总统进行了富有成效的会晤。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479737"
-  },
-  {
-    "post": "Financial_Express/3479736",
-    "datetime": "2026-09-21T15:06:37+00:00",
-    "views": "64",
-    "text": "AMD 涨 15%，刷新日高。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479736"
-  },
-  {
-    "post": "Financial_Express/3479734",
-    "datetime": "2026-09-21T15:06:22+00:00",
-    "views": "59",
-    "text": "加拿大央行行长麦克勒姆：越来越多的证据表明，许多加拿大企业已开始适应美国关税政策。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479734"
-  },
-  {
-    "post": "Financial_Express/3479735",
-    "datetime": "2026-09-21T15:06:22+00:00",
-    "views": "63",
-    "text": "加拿大央行行长麦克勒姆：预计未来几年劳动力增长将接近零。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479735"
-  },
-  {
-    "post": "Financial_Express/3479733",
-    "datetime": "2026-09-21T15:06:04+00:00",
-    "views": "57",
-    "text": "加拿大央行行长麦克勒姆：拖延加息时间过长存在风险。如果新的美国关税继续实施，第四季度增长可能会大幅减半，降至 1%以下。如果油价维持在每桶接近 100 美元的水平，我们预计未来几个月通胀将小幅上升。燃料价格上涨幅度超出我们通常预期，反映出全球炼油能力受到损害。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479733"
-  },
-  {
-    "post": "Financial_Express/3479731",
-    "datetime": "2026-09-21T15:06:03+00:00",
-    "views": "52",
-    "text": "加拿大央行行长麦克勒姆：最近的天然气价格与油价相比更加一致，油价几乎比之前高出 40 美元。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479731"
-  },
-  {
-    "post": "Financial_Express/3479732",
-    "datetime": "2026-09-21T15:06:03+00:00",
-    "views": "54",
-    "text": "加拿大央行行长麦克勒姆：如果通胀压力得到控制，我们不希望加息以抑制增长。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479732"
-  },
-  {
-    "post": "Financial_Express/3479730",
-    "datetime": "2026-09-21T15:06:02+00:00",
-    "views": "52",
-    "text": "加拿大央行行长麦克勒姆：到目前为止，我们尚未看到更高的油价正在向其他商品和服务扩散的证据。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479730"
-  },
-  {
-    "post": "Financial_Express/3479729",
-    "datetime": "2026-09-21T15:05:43+00:00",
-    "views": "51",
-    "text": "加拿大央行行长麦克勒姆：燃料价格上涨幅度超出我们通常预期，反映出全球炼油能力受到损害。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479729"
-  },
-  {
-    "post": "Financial_Express/3479728",
-    "datetime": "2026-09-21T15:05:42+00:00",
-    "views": "50",
-    "text": "加拿大央行行长麦克勒姆：如果油价维持在每桶接近 100 美元的水平，我们预计未来几个月通胀将小幅上升。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479728"
-  },
-  {
-    "post": "Financial_Express/3479727",
-    "datetime": "2026-09-21T15:05:33+00:00",
-    "views": "48",
-    "text": "加拿大央行行长 Macklem 提出，存在加息推迟太久的风险。\n央行称，（与美国的）贸易战可能会造成四季度增速低于 1%。\n高油价意味着通胀可能会上扬。\n到目前为止，尚未看到更高的油价正在向其他商品和服务扩散的证据。\n最近的天然气价格与油价相比更加一致，油价几乎比之前高出 40 美元。\n如果通胀压力得到控制，不希望加息以抑制增长。\n越来越多的证据表明，许多加拿大企业已开始适应美国关税政策。\n预计未来几年劳动力增长将接近零。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479727"
   }
 ]
