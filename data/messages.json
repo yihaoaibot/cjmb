@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3483844",
+    "datetime": "2026-09-23T00:05:02+00:00",
+    "views": "4",
+    "text": "布伦特原油期货跌向 98 美元/桶，连续第六个交易日下跌。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483844"
+  },
+  {
+    "post": "Financial_Express/3483843",
+    "datetime": "2026-09-23T00:04:42+00:00",
+    "views": "6",
+    "text": "美国国务卿卢比奥将于美国东部时间周三上午 9 点在纽约会见俄罗斯外长拉夫罗夫。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483843"
+  },
+  {
+    "post": "Financial_Express/3483842",
+    "datetime": "2026-09-23T00:03:59+00:00",
+    "views": "8",
+    "text": "亚洲开发银行(ADB)将 2026 年亚太发展中经济体的增长预估从此前的 4.9%小幅上调至 5.0%，同时下调通胀预期。该行表示，强劲的投资、政府刺激措施以及人工智能(AI)相关出口正抵消能源价格上涨和地缘政治紧张局势带来的影响。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3483842"
+  },
+  {
     "post": "Financial_Express/3483841",
     "datetime": "2026-09-23T00:03:02+00:00",
-    "views": "2",
+    "views": "12",
     "text": "韩国 SK 海力士股价上涨 3%，三星电子涨近 3%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3483840",
     "datetime": "2026-09-23T00:02:22+00:00",
-    "views": "5",
+    "views": "43",
     "text": "亚洲开发银行：维持 2026 年日本经济增长预测为 0.7%，将 2026 年印度经济增长预测从 6.6%上调至 7.0%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3483837",
     "datetime": "2026-09-23T00:02:02+00:00",
-    "views": "6",
+    "views": "43",
     "text": "韩国首尔综指高开 1.9%，日本股市今日继续休市。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3483838",
     "datetime": "2026-09-23T00:02:02+00:00",
-    "views": "6",
+    "views": "43",
     "text": "亚洲开发银行：维持 2027 年亚太发展中经济体 GDP 增长预测在 5.1%不变。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3483839",
     "datetime": "2026-09-23T00:02:02+00:00",
-    "views": "6",
+    "views": "43",
     "text": "亚洲开发银行：将 2027 年亚洲通胀预测上调至 3.5%，此前为 3.4%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3483836",
     "datetime": "2026-09-23T00:01:22+00:00",
-    "views": "6",
+    "views": "43",
     "text": "亚洲开发银行：将 2026 年亚洲通胀预期从 4.3%下调至 4.2%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3483835",
     "datetime": "2026-09-23T00:01:02+00:00",
-    "views": "8",
+    "views": "44",
     "text": "韩国综合股价指数（KOSPI）开盘上涨 1.9%，至 7153.99 点。日本股市今日继续休市。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3483834",
     "datetime": "2026-09-23T00:00:22+00:00",
-    "views": "42",
+    "views": "47",
     "text": "据华尔街日报：乌克兰总统泽连斯基表示，俄罗斯总统普京不太可能在没有新压力和制裁的情况下作出回应。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3483833",
     "datetime": "2026-09-23T00:00:03+00:00",
-    "views": "44",
+    "views": "49",
     "text": "据华尔街日报：乌克兰总统泽连斯基请求美国总统特朗普提供“冬季装备”军事物资，认为特朗普将寻求就能源基础设施达成停火。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3483831",
     "datetime": "2026-09-23T00:00:01+00:00",
-    "views": "44",
+    "views": "48",
     "text": "中国即将发行或正在发行的国债和政策性金融债",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3483832",
     "datetime": "2026-09-23T00:00:01+00:00",
-    "views": "44",
+    "views": "48",
     "text": "中国即将发行或正在发行的地方政府债",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3483830",
     "datetime": "2026-09-22T23:59:42+00:00",
-    "views": "45",
+    "views": "49",
     "text": "美国财长贝森特披露财务状况 文件显示了价值至少 2.28 亿美元的资产\n根据覆盖了美国财政部长斯科特·贝森特担任公职首年的财务披露文件，2025 年他从价值至少 2.28 亿美元的资产中至少赚了 510 万美元。贝森特周二披露了九个余额至少六位数的银行账户，其中有三个账户都超过了 5000 万美元。文件还显示，他持有药物研发公司 Cambrian Biopharma Inc.的少量股份，出售了专注于德国和泰国的 ETF 的股份。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3483829",
     "datetime": "2026-09-22T23:59:22+00:00",
-    "views": "46",
+    "views": "48",
     "text": "华泰证券：玻纤行业发展存在三个趋势 建议关注两条主线\n华泰证券通过复盘六家玻纤及制品一体化上市企业的 2026 年半年报及过去十年财务情况，总结认为当前国内玻纤行业发展存在三个重要趋势：1.电子布正成为推动玻纤行业分化的重要因素，且电子领域应用的景气度有望延续；2.随着织布机和纱端新产能陆续落地，特种电子布正进入加速放量期；3.电子纱及电子布进口均价持续攀升，特种电子布国产替代有望快速提升。展望 2026 年下半年，建议关注两条主线：1.普通电子布的供给约束将由布（织布机）向纱（窑炉+漏板）端转换，重视纱+布一体化；2.继续看好二代低介电（Low-DK2）和 Low-CTE 等特种电子布的量价齐升。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3483828",
     "datetime": "2026-09-22T23:58:22+00:00",
-    "views": "46",
+    "views": "48",
     "text": "提醒\n日本股市今日因秋分节继续休市。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3483827",
     "datetime": "2026-09-22T23:57:42+00:00",
-    "views": "51",
+    "views": "53",
     "text": "贝森特身家披露：资产至少 2.28 亿美元，去年赚 510 万美元\n金十数据 9 月 23 日讯，最新公布的财务披露文件显示，美国财政部长斯科特·贝森特在 2025 年——其担任公职的第一年——从至少价值 2.28 亿美元的资产中获得至少 510 万美元收入。贝森特周二披露，他拥有九个银行账户，每个至少持有六位数资金，其中三个各持有超过 5000 万美元。文件还显示，他在药物开发公司 Cambrian Biopharma Inc.持有较小股份，并出售了专注于德国和泰国的 ETF。他还列出位于巴哈马、价值至少 500 万美元的住宅房地产，以及价值至少 500 万美元的艺术和古董收藏。北卡罗来纳州一块未开发土地的估值在 25 万零 1 美元至 50 万美元之间。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3483826",
     "datetime": "2026-09-22T23:57:22+00:00",
-    "views": "51",
+    "views": "52",
     "text": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸： 今日日本股市因秋分节休市一日，伊朗总统佩泽希齐扬将在联合国大会发表讲话。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3483825",
     "datetime": "2026-09-22T23:56:00+00:00",
-    "views": "52",
+    "views": "53",
     "text": "微软将加大 Copilot 折扣，推出人工智能“超级应用”。（The Information）",
     "media_only": false,
     "image_url": null,
@@ -59299,32 +59326,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3477228"
-  },
-  {
-    "post": "Financial_Express/3477227",
-    "datetime": "2026-09-21T00:05:02+00:00",
-    "views": "2",
-    "text": "掉期市场目前预测 10 月底下次政策会议加息的概率不到 20%，12 月会议加息概率则接近 90%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3477227"
-  },
-  {
-    "post": "Financial_Express/3477225",
-    "datetime": "2026-09-21T00:04:02+00:00",
-    "views": "36",
-    "text": "新华时评：莫让开屏广告变成“数字路障”\n金十数据 9 月 21 日讯，文章称，半分钟内弹窗跳转 20 多次，想拍张照片都没拍成；广告怎么也关不掉，只能一遍遍息屏再打开；稍一误触，手机里马上多了个“不请自来”的陌生 App……这段时间，老年群体被开屏广告“困住”的现象引发关注。广告可以有，但不能成为横在用户面前的“数字路障”。系统整治开屏广告，关键要从治一时向管长远转变，让监管更早一步、约束更深一层、惩治力度更严一寸。全链条压实责任，必须做到谁接入、谁审核，谁运营、谁负责。针对隐蔽和虚假关闭按钮、高灵敏度“摇一摇”误导跳转、诱导点击等高频违规问题，需要强化常态化监测排查，加大打击力度，全面抬高违法违规成本。还要对已整改的平台和问题 App“回头看”，防止此类广告“换个马甲”卷土重来。只有铲除“数字路障”，才能让用户在数字社会无障碍畅行。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3477225"
-  },
-  {
-    "post": "Financial_Express/3477226",
-    "datetime": "2026-09-21T00:04:02+00:00",
-    "views": "36",
-    "text": "日本长假期间日元恐进一步走低 干预窗口或再次打开\n日元未来一周可能出现剧烈波动并进一步走低，日本的三天假期势将降低交易流动性，且投资者对日本央行未就未来加息步伐提供更明确的指引感到失望。周一，日元兑美元汇率持稳于 156.86 附近，上周五一度下跌 1.3%，原因是两名日本央行委员对加息投下反对票。随后有报道称，官员们致电市场参与者进行汇率询价，这一举动通常被视为官方干预的前兆，但日元也仅仅是收窄了跌幅。日元上周累计下跌超过 2%，创下近一年来最大单周跌幅。“就像最近日元在日本央行会议前大多表现强劲一样，日本央行又一次扼杀了它的涨势，”凯投宏观高级市场经济学家 James Reilly 在一份报告中写道。“似乎可以说，日元兑美元能否出现实质性回升，取决于美国方面。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3477226"
   }
 ]
