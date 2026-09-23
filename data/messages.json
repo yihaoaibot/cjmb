@@ -1,9 +1,90 @@
 [
   {
+    "post": "Financial_Express/3486256",
+    "datetime": "2026-09-23T14:11:23+00:00",
+    "views": "1",
+    "text": "沙特民防部门就奈季兰潜在危险发布警报。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486256"
+  },
+  {
+    "post": "Financial_Express/3486255",
+    "datetime": "2026-09-23T14:11:22+00:00",
+    "views": "1",
+    "text": "据伊拉克媒体：伊拉克部长与美国总统特朗普讨论合作及地区事务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486255"
+  },
+  {
+    "post": "Financial_Express/3486254",
+    "datetime": "2026-09-23T14:11:02+00:00",
+    "views": "1",
+    "text": "伊拉克总理与特朗普讨论合作及地区问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486254"
+  },
+  {
+    "post": "Financial_Express/3486253",
+    "datetime": "2026-09-23T14:10:43+00:00",
+    "views": "3",
+    "text": "沙特民防部门就吉赞地区潜在危险发布警报。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486253"
+  },
+  {
+    "post": "Financial_Express/3486252",
+    "datetime": "2026-09-23T14:10:42+00:00",
+    "views": "3",
+    "text": "欧盟通过 2026-2027 年对黎巴嫩 5.05 亿欧元一揽子支持计划。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486252"
+  },
+  {
+    "post": "Financial_Express/3486251",
+    "datetime": "2026-09-23T14:10:22+00:00",
+    "views": "4",
+    "text": "美元因美联储加息预期升温升至八周高位\n金十数据 9 月 23 日讯，周三，随着市场押注美联储将进一步加息，美元兑一篮子货币升至 7 月底以来最高水平。美联储上周将利率上调 25 个基点，并暗示今年至少还会再加息一次，随着市场加息预期继续升温，美元获得支撑。欧洲午后交易时段，能源价格重新上涨也提振了美元，布伦特原油价格重新升至每桶 100 美元上方。由于美元的避险属性以及美国作为石油净出口国的地位，能源价格上涨通常有利于美元。不过，随着利率预期成为主导因素，美元对油价波动的敏感度有所下降。“我们此前预测的中长期美元走强趋势可能终于开始显现。”渣打银行策略师 Steve Englander 在一份报告中表示。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486251"
+  },
+  {
+    "post": "Financial_Express/3486250",
+    "datetime": "2026-09-23T14:10:02+00:00",
+    "views": "35",
+    "text": "美国解除对刚果民主共和国总统奥伦加的制裁。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486250"
+  },
+  {
+    "post": "Financial_Express/3486249",
+    "datetime": "2026-09-23T14:09:59+00:00",
+    "views": "35",
+    "text": "美国参议院民主党成员们致函总统特朗普，要求他设法与中国达成 AI 协议。（Politico）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486249"
+  },
+  {
+    "post": "Financial_Express/3486248",
+    "datetime": "2026-09-23T14:09:42+00:00",
+    "views": "36",
+    "text": "Crusoe 与 Thinking Machines Labs 达成算力合作协议\n数据中心厂商 Crusoe 新增托管推理业务，替客户运行 AI 模型；周三宣布与米拉・穆拉蒂创立的 Thinking Machines Lab 签署一份年度 6500 万美元合同。Crusoe 产品管理高级副总裁埃尔万・梅纳尔介绍，该算力负载将依托英伟达 B200 服务器芯片，主要部署在 Crusoe 小型 1 兆瓦 Spark 数据中心内。这批芯片主要用于模型推理，而非模型训练。梅纳尔表示：“我们帮他们节省时间，拓展其工程能力边界，客户认为这项服务价值很高。”Crusoe 的工程师会借助软件优化，提升 Thinking Machines 的模型运行效率。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3486248"
+  },
+  {
     "post": "Financial_Express/3486247",
     "datetime": "2026-09-23T14:09:23+00:00",
-    "views": "1",
-    "text": "9 月 23 日，国内基金净买入 234 亿印度卢比印度股票。",
+    "views": "36",
+    "text": "9 月 23 日，印度国内基金净买入 234 亿印度卢比印度股票。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3486247"
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3486246",
     "datetime": "2026-09-23T14:09:22+00:00",
-    "views": "1",
+    "views": "36",
     "text": "美国将刚果民主共和国相关个人从制裁名单中移除。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3486245",
     "datetime": "2026-09-23T14:09:02+00:00",
-    "views": "3",
+    "views": "38",
     "text": "利比亚国家石油委员会主席：利比亚沙拉拉原油日产量目前低于 10 万桶。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3486244",
     "datetime": "2026-09-23T14:08:22+00:00",
-    "views": "4",
+    "views": "38",
     "text": "巴尔：实现通胀目标面临的风险有所增加。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3486242",
     "datetime": "2026-09-23T14:07:23+00:00",
-    "views": "35",
+    "views": "39",
     "text": "美国两年期和 10 年期公债收益率曲线最新报正 17.9 个基点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3486243",
     "datetime": "2026-09-23T14:07:23+00:00",
-    "views": "35",
+    "views": "39",
     "text": "美联储理事巴尔：可能需要进一步调整政策。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3486241",
     "datetime": "2026-09-23T14:07:22+00:00",
-    "views": "35",
+    "views": "39",
     "text": "美国两年期公债收益率触及 2024 年 6 月以来最高，最新上涨 7.66 个基点至 4.854%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3486240",
     "datetime": "2026-09-23T14:06:43+00:00",
-    "views": "37",
+    "views": "69",
     "text": "玻璃连续主力合约日内跌 1%，现报 918.00 元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3486239",
     "datetime": "2026-09-23T14:06:42+00:00",
-    "views": "37",
+    "views": "39",
     "text": "美联储理事巴尔：抵押贷款利率有所上升，但随着通胀下降，利率也会降低。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3486238",
     "datetime": "2026-09-23T14:06:03+00:00",
-    "views": "37",
+    "views": "69",
     "text": "特朗普的和平委员会称已为加沙灾后重建筹集到 24.5 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3486237",
     "datetime": "2026-09-23T14:06:02+00:00",
-    "views": "36",
+    "views": "68",
     "text": "美联储理事巴尔：多种因素导致美国住房负担能力下降。",
     "media_only": false,
     "image_url": null,
@@ -59488,23 +59569,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3479604"
-  },
-  {
-    "post": "Financial_Express/3479603",
-    "datetime": "2026-09-21T14:11:22+00:00",
-    "views": "77",
-    "text": "国家开发银行安徽省分行党委委员、副行长吴迎新一行到访安徽建工集团\n金十数据 9 月 21 日讯，9 月 21 日，国家开发银行安徽省分行党委委员、副行长吴迎新一行赴安徽建工集团走访交流。双方围绕产业布局、项目建设及金融服务等事宜深入洽谈。双方表示，将以此次座谈为契机，进一步深化银企协同，立足各自资源优势与发展定位，持续拓宽康养产业等重点领域合作空间。聚焦重点项目建设、产业模式创新等工作方向，强化精准对接、优化服务方案、创新融资模式，依托金融活水赋能集团高质量发展。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479603"
-  },
-  {
-    "post": "Financial_Express/3479602",
-    "datetime": "2026-09-21T14:11:11+00:00",
-    "views": "75",
-    "text": "国家开发银行安徽省分行党委委员、副行长吴迎新一行赴安徽建工集团走访交流。集团党委副书记、董事、总经理龚健勇会见来访一行并主持召开座谈会。双方围绕产业布局、项目建设及金融服务等事宜深入洽谈。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3479602"
   }
 ]
