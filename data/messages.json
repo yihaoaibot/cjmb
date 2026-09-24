@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3489942",
+    "datetime": "2026-09-24T16:05:22+00:00",
+    "views": "1",
+    "text": "CNN 和 MSNOW 的记者现在已经重新进入了白宫园区。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3489942"
+  },
+  {
+    "post": "Financial_Express/3489941",
+    "datetime": "2026-09-24T16:05:02+00:00",
+    "views": "8",
+    "text": "雷诺计划推出五款新车型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3489941"
+  },
+  {
+    "post": "Financial_Express/3489940",
+    "datetime": "2026-09-24T16:04:48+00:00",
+    "views": "9",
+    "text": "WTI 原油日内涨幅达 5.0%，报 96.77 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3489940"
+  },
+  {
+    "post": "Financial_Express/3489939",
+    "datetime": "2026-09-24T16:04:02+00:00",
+    "views": "15",
+    "text": "WTI 原油日内涨 5%，现报 96.77 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3489939"
+  },
+  {
+    "post": "Financial_Express/3489938",
+    "datetime": "2026-09-24T16:03:42+00:00",
+    "views": "18",
+    "text": "法国巴黎银行与谷歌(GOOG.O)云签署五年人工智能协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3489938"
+  },
+  {
     "post": "Financial_Express/3489937",
     "datetime": "2026-09-24T16:01:23+00:00",
-    "views": "47",
+    "views": "60",
     "text": "法国巴黎银行与谷歌云签署五年协议，拓展巴黎银行对谷歌云人工智能基础设施及 Gemini 大模型的使用权限。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3489936",
     "datetime": "2026-09-24T16:01:22+00:00",
-    "views": "47",
+    "views": "60",
     "text": "房利美：截至 9 月 24 日当周，美国 30 年期固定利率抵押贷款平均为 7.03%，为 2025 年 1 月 16 日以来的最高水平，较前一周的 6.95%上升。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3489935",
     "datetime": "2026-09-24T16:00:42+00:00",
-    "views": "52",
+    "views": "61",
     "text": "法国巴黎银行与谷歌云宣布达成智能代理人工智能与云创新领域新合作关系。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3489934",
     "datetime": "2026-09-24T16:00:22+00:00",
-    "views": "52",
+    "views": "61",
     "text": "美国抵押贷款利率自 2025 年初以来首次升至 7%以上。",
     "media_only": false,
     "image_url": null,
@@ -38,8 +83,8 @@
   {
     "post": "Financial_Express/3489933",
     "datetime": "2026-09-24T16:00:15+00:00",
-    "views": "52",
-    "text": "房地美：美国上周 30 年期按揭贷款/抵押贷款利率 7.03%——连涨五周、（至少）创 2025 年 1 月底以来最高，前值 6.95%。",
+    "views": "61",
+    "text": "房地美：美国上周 30 年期按揭贷款/抵押贷款利率 7.03%——连涨五周、创 2025 年 1 月 16 日以来最高，前值 6.95%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3489933"
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3489932",
     "datetime": "2026-09-24T15:59:42+00:00",
-    "views": "53",
+    "views": "91",
     "text": "乌克兰总理科列茨基（Koretskyi）与美国代办就液化天然气（LNG）供应事宜进行讨论。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3489931",
     "datetime": "2026-09-24T15:59:02+00:00",
-    "views": "57",
+    "views": "93",
     "text": "智利总统：我们已基本实现了对边境的全面管控。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3489930",
     "datetime": "2026-09-24T15:58:42+00:00",
-    "views": "59",
+    "views": "95",
     "text": "美国 30 年期国债收益率升至 5.4583%，创下 22 年来新高；两年期美国国债收益率上涨 0.85 个基点，报 4.904%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3489929",
     "datetime": "2026-09-24T15:58:02+00:00",
-    "views": "64",
+    "views": "98",
     "text": "美国两年期国债收益率最新上涨 0.85 个基点，报 4.904%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3489928",
     "datetime": "2026-09-24T15:57:43+00:00",
-    "views": "96",
+    "views": "100",
     "text": "美国 30 年期国债收益率触及 22 年新高，报 5.4583%；最新上涨 4.85 个基点，报 5.451%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3489927",
     "datetime": "2026-09-24T15:57:29+00:00",
-    "views": "96",
+    "views": "100",
     "text": "周四（9 月 24 日）欧市尾盘，ICE 英国天然气期货涨 5.70%，报 190.050 便士/千卡，北京时间 22:00 以来显著扩大涨幅。\nTTF 基准荷兰天然气期货涨 2.50%，报 76.171 欧元/兆瓦时。\nICE 欧盟碳排放交易许可（期货价格）涨 1.05%，报 86.36 欧元/吨。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3489926",
     "datetime": "2026-09-24T15:57:22+00:00",
-    "views": "97",
+    "views": "101",
     "text": "智利总统：我们对经济前景非常乐观。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3489925",
     "datetime": "2026-09-24T15:57:02+00:00",
-    "views": "99",
+    "views": "103",
     "text": "美国寻求加入马斯克与欧盟就 X 罚款的法庭斗争。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3489924",
     "datetime": "2026-09-24T15:56:22+00:00",
-    "views": "90",
+    "views": "124",
     "text": "谷歌推出搭载实时虚拟形象功能的 Gemini 3.8 Live。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3489923",
     "datetime": "2026-09-24T15:56:02+00:00",
-    "views": "94",
+    "views": "97",
     "text": "智利总统：我们在可再生能源领域正取得巨大进展。",
     "media_only": false,
     "image_url": null,
@@ -60388,50 +60433,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3483175"
-  },
-  {
-    "post": "Financial_Express/3483173",
-    "datetime": "2026-09-22T16:05:23+00:00",
-    "views": "87",
-    "text": "美国-丹麦-格陵兰岛协议：丹麦将继续加强其在北极的安全态势。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3483173"
-  },
-  {
-    "post": "Financial_Express/3483172",
-    "datetime": "2026-09-22T16:05:22+00:00",
-    "views": "87",
-    "text": "美国-丹麦-格陵兰岛协议：美国将被允许在格陵兰岛的皮图菲克太空基地现代化和扩展其活动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3483172"
-  },
-  {
-    "post": "Financial_Express/3483171",
-    "datetime": "2026-09-22T16:04:02+00:00",
-    "views": "93",
-    "text": "美国-丹麦-格陵兰岛协议：美国飞机可以在格陵兰岛的任何领土上飞行和降落，包括领海。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3483171"
-  },
-  {
-    "post": "Financial_Express/3483170",
-    "datetime": "2026-09-22T16:03:43+00:00",
-    "views": "93",
-    "text": "美丹格陵兰协议：该协议须经丹麦王国与格陵兰共同完成必要议会程序后方可生效。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3483170"
-  },
-  {
-    "post": "Financial_Express/3483169",
-    "datetime": "2026-09-22T16:03:42+00:00",
-    "views": "93",
-    "text": "惠誉评级上调近期石油和欧洲天然气价格预期。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3483169"
   }
 ]
