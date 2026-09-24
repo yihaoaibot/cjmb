@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3490264",
+    "datetime": "2026-09-24T18:49:02+00:00",
+    "views": "15",
+    "text": "法国总统马克龙：拒绝公开支持明年法国总统选举中的任何候选人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3490264"
+  },
+  {
+    "post": "Financial_Express/3490265",
+    "datetime": "2026-09-24T18:49:02+00:00",
+    "views": "15",
+    "text": "法国总统马克龙拒绝公开支持明年总统选举的任何候选人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3490265"
+  },
+  {
+    "post": "Financial_Express/3490263",
+    "datetime": "2026-09-24T18:48:22+00:00",
+    "views": "26",
+    "text": "瑞银集团：预计特斯拉三季度车辆销售/交付 47 万辆。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3490263"
+  },
+  {
+    "post": "Financial_Express/3490262",
+    "datetime": "2026-09-24T18:47:53+00:00",
+    "views": "33",
+    "text": "瑞银集团：预计特斯拉三季度车辆销售/交付 47 万辆（彭博调查结果为 46.6 万）。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3490262"
+  },
+  {
     "post": "Financial_Express/3490261",
     "datetime": "2026-09-24T18:47:22+00:00",
-    "views": "4",
+    "views": "37",
     "text": "据 The Information：TypeSafe AI 正洽谈新一轮融资，规模或达至少 10 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3490260",
     "datetime": "2026-09-24T18:46:42+00:00",
-    "views": "23",
+    "views": "49",
     "text": "内塔尼亚胡：我们将继续取得胜利。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3490259",
     "datetime": "2026-09-24T18:45:27+00:00",
-    "views": "43",
+    "views": "63",
     "text": "据媒体报道：伊朗代表团未出席内塔尼亚胡在联合国大会上的演讲。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3490257",
     "datetime": "2026-09-24T18:45:23+00:00",
-    "views": "44",
+    "views": "64",
     "text": "伊朗代表团未出席内塔尼亚胡在联合国大会上的演讲。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3490258",
     "datetime": "2026-09-24T18:45:23+00:00",
-    "views": "44",
+    "views": "64",
     "text": "布伦特原油期货收于每桶 106.60 美元，上涨 3.52 美元，涨幅 3.41%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3490256",
     "datetime": "2026-09-24T18:45:22+00:00",
-    "views": "45",
+    "views": "65",
     "text": "布伦特原油期货结算价为每桶 106.60 美元，上涨 3.52 美元，涨幅 3.41%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3490255",
     "datetime": "2026-09-24T18:45:04+00:00",
-    "views": "47",
+    "views": "66",
     "text": "TypeSafe AI 洽谈融资至少 10 亿美元。（The Information）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3490254",
     "datetime": "2026-09-24T18:44:42+00:00",
-    "views": "47",
+    "views": "64",
     "text": "摩根士丹利股价下跌 1.7%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3490253",
     "datetime": "2026-09-24T18:43:59+00:00",
-    "views": "48",
+    "views": "65",
     "text": "9 月 23 日当周，美国杠杆贷款基金最近一周资金流入 13 亿美元，创 2025 年 2 月 19 日以来新高，连续 13 周获得资金流入、创一年来最长连涨。\n上周，美联储加息。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3490252",
     "datetime": "2026-09-24T18:42:22+00:00",
-    "views": "54",
+    "views": "71",
     "text": "内塔尼亚胡：伊朗政权将会倒台。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3490251",
     "datetime": "2026-09-24T18:42:04+00:00",
-    "views": "52",
+    "views": "67",
     "text": "据 Semafor 报道，瑞银考虑与外国银行合作。\n摩根士丹利跌幅扩大至 1.7%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3490250",
     "datetime": "2026-09-24T18:42:02+00:00",
-    "views": "52",
+    "views": "66",
     "text": "伊拉克石油部发言人被问及伊拉克是否会退出欧佩克……他回应称：“伊拉克是该组织的创始国，无意也无计划退出欧佩克。”",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3490249",
     "datetime": "2026-09-24T18:41:22+00:00",
-    "views": "54",
+    "views": "66",
     "text": "以色列总理内塔尼亚胡：伊朗政权终将垮台，我们将庆祝那一天的到来。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3490248",
     "datetime": "2026-09-24T18:41:02+00:00",
-    "views": "54",
+    "views": "65",
     "text": "消息人士：瑞银(UBS.N)正考虑与一家外国银行进行合并。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3490247",
     "datetime": "2026-09-24T18:40:22+00:00",
-    "views": "58",
+    "views": "67",
     "text": "瑞银集团（UBS）正考虑与一家外国银行进行合并。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3490246",
     "datetime": "2026-09-24T18:40:02+00:00",
-    "views": "59",
+    "views": "68",
     "text": "美国参议院否决了限制特朗普伊朗战争权力的决议。",
     "media_only": false,
     "image_url": null,
@@ -60604,23 +60640,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3483474"
-  },
-  {
-    "post": "Financial_Express/3483473",
-    "datetime": "2026-09-22T18:48:03+00:00",
-    "views": "94",
-    "text": "也门胡塞武装称多地遭沙特空袭 致人员伤亡\n也门胡塞武装当地时间 22 日晚表示，在过去 24 小时内，沙特的 F-15 战机和“台风”战机共对胡塞武装控制区进行了 19 次空袭，袭击目标是也门塔伊兹省，焦夫省和马里卜省，造成包括妇女和儿童在内的人员伤亡。胡塞武装方面称，本轮局势升级后，沙特已对也门共进行了 936 次空袭和导弹袭击。沙特方面对此暂无回应。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3483473"
-  },
-  {
-    "post": "Financial_Express/3483472",
-    "datetime": "2026-09-22T18:48:02+00:00",
-    "views": "94",
-    "text": "也门胡塞武装称多地遭沙特空袭 致人员伤亡\n金十数据 9 月 23 日讯，也门胡塞武装当地时间 22 日晚表示，在过去 24 小时内，沙特的 F-15 战机和“台风”战机共对胡塞武装控制区进行了 19 次空袭，袭击目标是也门塔伊兹省，焦夫省和马里卜省，造成包括妇女和儿童在内的人员伤亡。胡塞武装方面称，本轮局势升级后，沙特已对也门共进行了 936 次空袭和导弹袭击。沙特方面对此暂无回应。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3483472"
   }
 ]
