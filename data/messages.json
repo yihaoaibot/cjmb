@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3491572",
+    "datetime": "2026-09-25T13:46:43+00:00",
+    "views": "4",
+    "text": "美国天然气期货跌超 5.00%，现报 3.201 美元/百万英热。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3491572"
+  },
+  {
+    "post": "Financial_Express/3491571",
+    "datetime": "2026-09-25T13:46:42+00:00",
+    "views": "4",
+    "text": "日本财务省：日本财务大臣片山皋月, 美国财长贝森特举行了电话会议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3491571"
+  },
+  {
     "post": "Financial_Express/3491570",
     "datetime": "2026-09-25T13:45:22+00:00",
-    "views": "1",
+    "views": "10",
     "text": "Anthropic 大单引爆股价 美股阿克迈开盘飙升超 14%\n阿克迈(AKAM.US)跳空高开，截至发稿，涨幅超 14%。消息面上，阿克迈宣布大幅扩大与 Anthropic 的合作，获得这家 AI 公司七年期、总额 116 亿美元的合同承诺，标志着 AI 算力基础设施领域的又一巨额交易落地。此次合作将深刻重塑 Akamai 的业务结构。在巨额资本支出预期的同时，该公司的云计算业务收入有望在未来几年内实现激增，并可能很快超越其传统的网络安全和内容分发业务。根据公告，阿克迈将通过旗下云业务的分布式 AI 基础设施和软件，支持 Anthropic 快速增长的 CPU 工作负载需求。双方合作还有继续扩大的空间。阿克迈披露，这项交易允许未来额外扩大最多 90 亿美元的合作，潜在总承诺规模约为 200 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3491569",
     "datetime": "2026-09-25T13:44:29+00:00",
-    "views": "12",
+    "views": "45",
     "text": "微软股价上涨 3%，公司对 Copilot 进行全面升级，新增代码生成和代理式 AI 工具。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3491568",
     "datetime": "2026-09-25T13:43:43+00:00",
-    "views": "12",
+    "views": "45",
     "text": "有报道称美国陆军正在评估未来几个月内可能支持针对古巴行动的部队单位。所需单位包括一个战斗支援营、一个医疗旅、一个前沿外科排以及一个宪兵旅。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3491567",
     "datetime": "2026-09-25T13:43:42+00:00",
-    "views": "12",
+    "views": "45",
     "text": "微软(MSFT.O)股价上涨 3%；公司重塑 Copilot，推出代码生成和智能 AI 工具。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3491566",
     "datetime": "2026-09-25T13:43:04+00:00",
-    "views": "15",
+    "views": "47",
     "text": "Akamai 因与 Anthropic 达成合作协议，股价大涨 16%，为 5 月 8 日以来最大涨幅。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3491565",
     "datetime": "2026-09-25T13:43:03+00:00",
-    "views": "15",
+    "views": "47",
     "text": "微软股价上涨 3%；公司通过代码生成和智能代理 AI 工具重塑 Copilot 功能。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3491564",
     "datetime": "2026-09-25T13:43:02+00:00",
-    "views": "15",
+    "views": "46",
     "text": "据美国哥伦比亚广播公司（CBS）：美国陆军正在评估未来几个月内可能支持针对古巴行动的部队单位。所需单位包括一个战斗支援营、一个医疗旅、一个前沿外科排以及一个宪兵旅。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3491562",
     "datetime": "2026-09-25T13:37:23+00:00",
-    "views": "52",
+    "views": "82",
     "text": "萨博：加拿大拟购买六架萨博 GlobalEye 飞机，含系统、培训及支持。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3491558",
     "datetime": "2026-09-25T13:36:22+00:00",
-    "views": "53",
+    "views": "83",
     "text": "汇丰将雪佛龙目标价从每股 218.00 美元上调至 250.00 美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3491557",
     "datetime": "2026-09-25T13:36:12+00:00",
-    "views": "53",
+    "views": "83",
     "text": "美国银行将 AMD 目标股价从 620 美元上调至 720 美元。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3491556",
     "datetime": "2026-09-25T13:35:42+00:00",
-    "views": "52",
+    "views": "82",
     "text": "金十图示：2026 年 09 月 25 日（周五）热门中概股行情一览",
     "media_only": false,
     "image_url": null,
@@ -48310,104 +48328,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3486160"
-  },
-  {
-    "post": "Financial_Express/3486158",
-    "datetime": "2026-09-23T13:47:23+00:00",
-    "views": "3",
-    "text": "美元兑日元 USD/JPY 日内涨幅扩大至 0.50%，现报 158.13。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486158"
-  },
-  {
-    "post": "Financial_Express/3486159",
-    "datetime": "2026-09-23T13:47:23+00:00",
-    "views": "3",
-    "text": "英国国债价格下跌；英国 10 年期国债收益率上涨 5 个基点至 5.29%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486159"
-  },
-  {
-    "post": "Financial_Express/3486157",
-    "datetime": "2026-09-23T13:47:22+00:00",
-    "views": "3",
-    "text": "意大利两年期公债收益率日内上涨多达 10 个基点，报 3.5679%，创 2024 年 7 月以来新高。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486157"
-  },
-  {
-    "post": "Financial_Express/3486155",
-    "datetime": "2026-09-23T13:47:03+00:00",
-    "views": "34",
-    "text": "意大利两年期国债收益率当天上涨最多 10 个基点，达到 3.5679%，创下自 2024 年 7 月以来的最高水平。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486155"
-  },
-  {
-    "post": "Financial_Express/3486156",
-    "datetime": "2026-09-23T13:47:03+00:00",
-    "views": "34",
-    "text": "纽约期银失守 65 美元/盎司，日内跌 2.33%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486156"
-  },
-  {
-    "post": "Financial_Express/3486154",
-    "datetime": "2026-09-23T13:46:43+00:00",
-    "views": "34",
-    "text": "标普全球美国 PMI 数据强劲后，美国国债跌幅延续。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486154"
-  },
-  {
-    "post": "Financial_Express/3486153",
-    "datetime": "2026-09-23T13:46:42+00:00",
-    "views": "34",
-    "text": "AYLO：认为苹果所采用的方案，比目前英国市场上在售的其他任何年龄验证方法，防护效果都要显著出色。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486153"
-  },
-  {
-    "post": "Financial_Express/3486152",
-    "datetime": "2026-09-23T13:46:29+00:00",
-    "views": "34",
-    "text": "纽约期金失守 4320 美元/盎司，日内跌 1.30%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486152"
-  },
-  {
-    "post": "Financial_Express/3486151",
-    "datetime": "2026-09-23T13:45:44+00:00",
-    "views": "35",
-    "text": "燃料油连续主力合约日内涨 3%，现报 4240.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486151"
-  },
-  {
-    "post": "Financial_Express/3486150",
-    "datetime": "2026-09-23T13:45:42+00:00",
-    "views": "34",
-    "text": "美国 9 月标普全球综合 PMI 初值 58.4，前值 56。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486150"
-  },
-  {
-    "post": "Financial_Express/3486149",
-    "datetime": "2026-09-23T13:45:27+00:00",
-    "views": "34",
-    "text": "美国 9 月标普全球制造业 PMI 初值 57，创 52 个月新高。\n美国 9 月标普全球服务业 PMI 初值 58.7，创 59 个月新高。\n美国 9 月标普全球综合 PMI 初值 58.4，创 62 个月新高。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486149"
   }
 ]
