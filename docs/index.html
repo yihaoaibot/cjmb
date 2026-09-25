@@ -1,5 +1,9 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-25T02:13:23.273347+00:00","clsvipUpdated":"2026-09-25T02:13:30.262288+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月25日</h2><div class="feed"><article class="item" data-search="日本财务大臣片山皋月：日本首相高市早苗对日元贬值表示担忧。"><div class="time">10:12</div><div class="content"><div class="text" data-full="日本财务大臣片山皋月：日本首相高市早苗对日元贬值表示担忧。" data-short="日本财务大臣片山皋月：日本首相高市早苗对日元贬值表示担忧。">日本财务大臣片山皋月：日本首相高市早苗对日元贬值表示担忧。</div></div></article><article class="item" data-search="巴基斯坦安全消息人士：安全部队与阿富汗塔利班之间的间歇性交火仍在继续。"><div class="time">10:12</div><div class="content"><div class="text" data-full="巴基斯坦安全消息人士：安全部队与阿富汗塔利班之间的间歇性交火仍在继续。" data-short="巴基斯坦安全消息人士：安全部队与阿富汗塔利班之间的间歇性交火仍在继续。">巴基斯坦安全消息人士：安全部队与阿富汗塔利班之间的间歇性交火仍在继续。</div></div></article><article class="item" data-search="日本财务大臣片山皋月：收益率受到多种因素的影响。
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-09-25T02:15:19.491171+00:00","clsvipUpdated":"2026-09-25T02:15:27.682232+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">9月25日</h2><div class="feed"><article class="item" data-search="媒体：sk 海力士、三星敲定全南-光州芯片项目规划
+媒体援引全南-光州特别自治市与芯片厂商磋商报告称，sk 海力士表达强烈意向，希望拿到规模尽可能大的生产用地；三星电子则着重强调，需要加快投资落地节奏。 针对两家企业的诉求，该一体化城市规划在总面积 826 万平方米的国家产业园内，优先提供约 208 万平方米可立即开发的土地。 该一体化城市计划于 10 月与 sk 海力士签订入驻协议，并以此为契机，就投资落地阶段事宜启动全面磋商，涉及发展策略、厂房建设与配套基础设施。 当地计划于 10 月 6 日通过实地选址考察以及高层会谈，继续与三星推进洽谈。"><div class="time">10:14</div><div class="content"><div class="text" data-full="媒体：SK 海力士、三星敲定全南-光州芯片项目规划
+媒体援引全南-光州特别自治市与芯片厂商磋商报告称，SK 海力士表达强烈意向，希望拿到规模尽可能大的生产用地；三星电子则着重强调，需要加快投资落地节奏。 针对两家企业的诉求，该一体化城市规划在总面积 826 万平方米的国家产业园内，优先提供约 208 万平方米可立即开发的土地。 该一体化城市计划于 10 月与 SK 海力士签订入驻协议，并以此为契机，就投资落地阶段事宜启动全面磋商，涉及发展策略、厂房建设与配套基础设施。 当地计划于 10 月 6 日通过实地选址考察以及高层会谈，继续与三星推进洽谈。" data-short="媒体：SK 海力士、三星敲定全南-光州芯片项目规划
+媒体援引全南-光州特别自治市与芯片厂商磋商报告称，SK 海力士表达强烈意向，希望拿到规模尽可能大的生产用地；三星电子则着重强调，需要加快投资落地节奏。 针对两家企业的诉求，该一体化城市规划在总面积 826 万平方米的国家产业园内，优先提供约 208 万平方米可立即开发的土地。 该一体化城市计划于 10 月与...">媒体：SK 海力士、三星敲定全南-光州芯片项目规划
+媒体援引全南-光州特别自治市与芯片厂商磋商报告称，SK 海力士表达强烈意向，希望拿到规模尽可能大的生产用地；三星电子则着重强调，需要加快投资落地节奏。 针对两家企业的诉求，该一体化城市规划在总面积 826 万平方米的国家产业园内，优先提供约 208 万平方米可立即开发的土地。 该一体化城市计划于 10 月与...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="日本财务大臣片山皋月：收益率受到多种因素的影响，正在尽力采取措施应对收益率上升。"><div class="time">10:13</div><div class="content"><div class="text" data-full="日本财务大臣片山皋月：收益率受到多种因素的影响，正在尽力采取措施应对收益率上升。" data-short="日本财务大臣片山皋月：收益率受到多种因素的影响，正在尽力采取措施应对收益率上升。">日本财务大臣片山皋月：收益率受到多种因素的影响，正在尽力采取措施应对收益率上升。</div></div></article><article class="item" data-search="日本财务大臣片山皋月：日本首相高市早苗对日元贬值表示担忧。"><div class="time">10:12</div><div class="content"><div class="text" data-full="日本财务大臣片山皋月：日本首相高市早苗对日元贬值表示担忧。" data-short="日本财务大臣片山皋月：日本首相高市早苗对日元贬值表示担忧。">日本财务大臣片山皋月：日本首相高市早苗对日元贬值表示担忧。</div></div></article><article class="item" data-search="巴基斯坦安全消息人士：安全部队与阿富汗塔利班之间的间歇性交火仍在继续。"><div class="time">10:12</div><div class="content"><div class="text" data-full="巴基斯坦安全消息人士：安全部队与阿富汗塔利班之间的间歇性交火仍在继续。" data-short="巴基斯坦安全消息人士：安全部队与阿富汗塔利班之间的间歇性交火仍在继续。">巴基斯坦安全消息人士：安全部队与阿富汗塔利班之间的间歇性交火仍在继续。</div></div></article><article class="item" data-search="日本财务大臣片山皋月：收益率受到多种因素的影响。
 我们正在尽力采取措施应对收益率上升。"><div class="time">10:11</div><div class="content"><div class="text" data-full="日本财务大臣片山皋月：收益率受到多种因素的影响。
 我们正在尽力采取措施应对收益率上升。" data-short="日本财务大臣片山皋月：收益率受到多种因素的影响。
 我们正在尽力采取措施应对收益率上升。">日本财务大臣片山皋月：收益率受到多种因素的影响。
@@ -633,31 +637,7 @@ Anthropic 与 Akamai Technologies 签署一项为期七年、价值 116 亿美�
 金十数据 9 月 25 日讯，meta platforms(meta.o)股价 9 月迄今上涨 36%，有望创下 2013 年 7 月以来最佳单月表现，并逼近 2 万亿美元市值关口。市场上涨主要受到 meta 推出个人 ai 助手 muse 后的积极反应推动，投资者认为 ai 产品可能带来新的增长机会，并缓解此前对公司大规模 ai 投入回报的担忧。今年早些时候，meta 股价因高额 ai 支出、社交媒体业务面临的法律风险以及营收预期疲软承压，一度较年初下跌 18%。但随着公司解决部分诉讼压力，以及 muse 等 ai 产品发布，meta 股价自 8 月低点以来已上涨约 43%。meta 正在扩大 ai 产品布局，包括推出用于随身使用 muse 的设备，以及无摄像头版本的智能眼镜。公司预计 2026 年资本支出接近 1400 亿美元，2027 年和 2028 年进一步升至 1970 亿美元和 2150 亿美元。市场仍关注 meta 能否通过 ai 业务创造足够回报，目前分析师预计 meta2026 年营收将增长 26%至 2540 亿美元，净利润增长 33%至 806 亿美元。"><div class="time">05:01</div><div class="content"><div class="text" data-full="Meta 市值逼近 2 万亿美元 Muse 推动股价创 13 年最佳月表现
 金十数据 9 月 25 日讯，Meta Platforms(META.O)股价 9 月迄今上涨 36%，有望创下 2013 年 7 月以来最佳单月表现，并逼近 2 万亿美元市值关口。市场上涨主要受到 Meta 推出个人 AI 助手 Muse 后的积极反应推动，投资者认为 AI 产品可能带来新的增长机会，并缓解此前对公司大规模 AI 投入回报的担忧。今年早些时候，Meta 股价因高额 AI 支出、社交媒体业务面临的法律风险以及营收预期疲软承压，一度较年初下跌 18%。但随着公司解决部分诉讼压力，以及 Muse 等 AI 产品发布，Meta 股价自 8 月低点以来已上涨约 43%。Meta 正在扩大 AI 产品布局，包括推出用于随身使用 Muse 的设备，以及无摄像头版本的智能眼镜。公司预计 2026 年资本支出接近 1400 亿美元，2027 年和 2028 年进一步升至 1970 亿美元和 2150 亿美元。市场仍关注 Meta 能否通过 AI 业务创造足够回报，目前分析师预计 Meta2026 年营收将增长 26%至 2540 亿美元，净利润增长 33%至 806 亿美元。" data-short="Meta 市值逼近 2 万亿美元 Muse 推动股价创 13 年最佳月表现
 金十数据 9 月 25 日讯，Meta Platforms(META.O)股价 9 月迄今上涨 36%，有望创下 2013 年 7 月以来最佳单月表现，并逼近 2 万亿美元市值关口。市场上涨主要受到 Meta 推出个人 AI 助手 Muse 后的积极反应推动，投资者认为 AI 产品可...">Meta 市值逼近 2 万亿美元 Muse 推动股价创 13 年最佳月表现
-金十数据 9 月 25 日讯，Meta Platforms(META.O)股价 9 月迄今上涨 36%，有望创下 2013 年 7 月以来最佳单月表现，并逼近 2 万亿美元市值关口。市场上涨主要受到 Meta 推出个人 AI 助手 Muse 后的积极反应推动，投资者认为 AI 产品可...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="周四（9 月 24 日）纽约尾盘，现货黄金跌 0.37%，报 4271.49 美元/盎司。
-现货白银跌 1%，报 63.7915 美元/盎司。
-comex 铜期货涨 0.16%，报 6.7645 美元/磅。
-在美股时段交易的费城金银指数收跌 1.53%，报 381.05 点。
-在全球市场全天交易的纽约证交所 arca 金矿开采商指数跌 1.75%，报 2645.04 点，全天处于下跌状态，开盘之前维持微幅下跌状态——持续交投于 2680 点一线，之后“跳空”下挫并持续低位震荡。
-在美股时段交易的原材料指数收跌 1.30%，金属与矿业指数收跌 0.59%。
-state street 金属与矿业 etf 收跌 1.48%，报 107.96 美元。"><div class="time">04:59</div><div class="content"><div class="text" data-full="周四（9 月 24 日）纽约尾盘，现货黄金跌 0.37%，报 4271.49 美元/盎司。
-现货白银跌 1%，报 63.7915 美元/盎司。
-COMEX 铜期货涨 0.16%，报 6.7645 美元/磅。
-在美股时段交易的费城金银指数收跌 1.53%，报 381.05 点。
-在全球市场全天交易的纽约证交所 ARCA 金矿开采商指数跌 1.75%，报 2645.04 点，全天处于下跌状态，开盘之前维持微幅下跌状态——持续交投于 2680 点一线，之后“跳空”下挫并持续低位震荡。
-在美股时段交易的原材料指数收跌 1.30%，金属与矿业指数收跌 0.59%。
-State Street 金属与矿业 ETF 收跌 1.48%，报 107.96 美元。" data-short="周四（9 月 24 日）纽约尾盘，现货黄金跌 0.37%，报 4271.49 美元/盎司。
-现货白银跌 1%，报 63.7915 美元/盎司。
-COMEX 铜期货涨 0.16%，报 6.7645 美元/磅。
-在美股时段交易的费城金银指数收跌 1.53%，报 381.05 点。
-在全球市场全天交易的纽约证交所 ARCA 金矿开采商指数跌 1.75%，报 264...">周四（9 月 24 日）纽约尾盘，现货黄金跌 0.37%，报 4271.49 美元/盎司。
-现货白银跌 1%，报 63.7915 美元/盎司。
-COMEX 铜期货涨 0.16%，报 6.7645 美元/磅。
-在美股时段交易的费城金银指数收跌 1.53%，报 381.05 点。
-在全球市场全天交易的纽约证交所 ARCA 金矿开采商指数跌 1.75%，报 264...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="对冲基金 situational awareness 今年成为高盛最大客户
-对冲基金 situational awareness 今年成为高盛规模最大的主经纪商客户。这家机构此前名不见经传，却在遭遇数百亿美元巨额亏损之后，依然拥有如此惊人的业务体量，这件事十分值得关注。 知情人士透露，今年高盛从向 situational awareness 提供借贷服务中赚取了超 2 亿美元手续费，这也是高盛面向对冲基金的主经纪业务板块从单一客户身上取得的最高收入。 消息人士补充称，由 leopold aschenbrenner 管理的该基金，依靠多笔高收益 ai 押注一战成名，今年同样也是高盛交易部门最重要的客户之一。 situational awareness 成立才不到两年，就能和城堡投资（citadel）、千禧管理（millennium）这类老牌顶级对冲基金并列，成为高盛这样头部投行的核心大客户，这在华尔街几乎闻所未闻。"><div class="time">04:59</div><div class="content"><div class="text" data-full="对冲基金 Situational Awareness 今年成为高盛最大客户
-对冲基金 Situational Awareness 今年成为高盛规模最大的主经纪商客户。这家机构此前名不见经传，却在遭遇数百亿美元巨额亏损之后，依然拥有如此惊人的业务体量，这件事十分值得关注。 知情人士透露，今年高盛从向 Situational Awareness 提供借贷服务中赚取了超 2 亿美元手续费，这也是高盛面向对冲基金的主经纪业务板块从单一客户身上取得的最高收入。 消息人士补充称，由 Leopold Aschenbrenner 管理的该基金，依靠多笔高收益 AI 押注一战成名，今年同样也是高盛交易部门最重要的客户之一。 Situational Awareness 成立才不到两年，就能和城堡投资（Citadel）、千禧管理（Millennium）这类老牌顶级对冲基金并列，成为高盛这样头部投行的核心大客户，这在华尔街几乎闻所未闻。" data-short="对冲基金 Situational Awareness 今年成为高盛最大客户
-对冲基金 Situational Awareness 今年成为高盛规模最大的主经纪商客户。这家机构此前名不见经传，却在遭遇数百亿美元巨额亏损之后，依然拥有如此惊人的业务体量，这件事十分值得关注。 知情人士透露，今年高盛从向 Situational Awareness 提供借贷服务中赚...">对冲基金 Situational Awareness 今年成为高盛最大客户
-对冲基金 Situational Awareness 今年成为高盛规模最大的主经纪商客户。这家机构此前名不见经传，却在遭遇数百亿美元巨额亏损之后，依然拥有如此惊人的业务体量，这件事十分值得关注。 知情人士透露，今年高盛从向 Situational Awareness 提供借贷服务中赚...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月23日 · VIP</h2> <div class="feed"> <article class="item" data-search="2026/09/23(晚) 机构研究总结和市场消息汇总解读
+金十数据 9 月 25 日讯，Meta Platforms(META.O)股价 9 月迄今上涨 36%，有望创下 2013 年 7 月以来最佳单月表现，并逼近 2 万亿美元市值关口。市场上涨主要受到 Meta 推出个人 AI 助手 Muse 后的积极反应推动，投资者认为 AI 产品可...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">9月23日 · VIP</h2> <div class="feed"> <article class="item" data-search="2026/09/23(晚) 机构研究总结和市场消息汇总解读
 
 https://hi189.com/6960.html"> <div class="time">22:28</div> <div class="content"> <div class="text">2026/09/23(晚) 机构研究总结和市场消息汇总解读
 
@@ -777,72 +757,7 @@ https://hi189.com/6958.html</div> <div style="margin-top:8px;font-size:12px;colo
 --来自百度网盘超级会员v7的分享"> <div class="time">10:28</div> <div class="content"> <div class="text">美联储加息落地，到底关注科技还是红利？.mp3
 
 链接: https://pan.baidu.com/s/154cLEaLiDpP7_cAg0lll0Q?pwd=auin 提取码: auin 
---来自百度网盘超级会员v7的分享</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="宏观要闻
-
-李强在上海调研时强调，坚持智能化、绿色化、融合化方向，推进科技创新和产业创新深度融合，大力发展新一代智能制造，加快培育壮大新兴产业和未来产业，持续做大做强先进制造业。
-
-市场监管总局就企业境外反垄断合规指引修订草案公开征求意见，新增数字经济监管趋势、主要司法辖区经营者集中申报标准及私人民事诉讼等内容。
-
-商务部等五部门调整向特定国家（地区）出口易制毒化学品管理目录，新增2个品种。
-
-国家卫健委等发布50项食品安全国家标准和修改单，涵盖丙烯酰胺、铅、锡等污染物控制规范。
-
-文旅部启动全国国庆文化和旅游消费月，各地将举办超2万场次文旅活动，发放超3.1亿元消费券等补贴。
-
-全国工商联发布2026中国民营企业500强，营收总额44.93万亿元，千亿级企业110家，京东、阿里、恒力居前三。
-
-行业资讯
-
-发改委：十五五时期推动北斗产业规模五年内突破1万亿元，实现市场化、产业化、国际化新突破。预计到2030年全国海洋生产总值突破13万亿元，海上风电装机达1亿千瓦。
-
-工信部等三部门印发轻工纺织产业发展十五五规划，力争2030年规模以上企业营业收入突破30万亿元。
-
-中基协数据显示，截至8月底公募基金资产净值合计39.63万亿元，环比增长1.35%。
-
-市场监管总局、生态环境部联合部署对全国碳市场重点排放单位开展碳排放计量审查摸底。
-
-中电联数据显示，8月全国算力中心用电指数300.9，同比增长22.8%，算力用电保持高速扩张。
-
-公司动态
-
-中金公司a股9月23日复牌，换股吸收合并东兴证券、信达证券，有效申报异议股份732.19万股，行权价34.57元/股。
-
-佰维存储拟投约45亿元建设晶圆级先进封测制造项目三期。
-
-杉杉股份拟投约51.06亿元建设内蒙古年产15万吨锂电负极材料一体化基地。
-
-中塑股份上市首日涨683.29%，公司提示交易风险。
-
-奥尼电子子公司签署16.7亿元gpu算力卡采购合同。
-
-华媒控股控股股东近期卖出530.54万股，计划卖出数量不超过此前增持数量。
-
-赛力斯董事长回应与华为合作模式生变，称升级为问界专属专营模式。
-
-雷军澄清打新宇树科技赚百亿传言，称系顺为投资支持早期创业，非打新。
-
-贵州茅台四季文化产品上线i茅台，2199元/瓶瞬间售罄。
-
-海外市场
-
-美股三大指数涨跌不一，纳指涨0.45%再创历史新高，费城半导体指数涨超2%。苹果市值一度突破5万亿美元。amd市值首次突破1万亿美元。大型银行股集体下跌。
-
-国际贵金属集体上涨，现货黄金涨0.38%报4359.95美元/盎司，现货白银涨1.59%。国际油价收跌，美油跌2.73%报89.85美元/桶。
-
-特朗普在联大称美伊会谈非常有建设性，不排除中期选举后达成协议。沙特阿美重启东西输油管道，绕开霍尔木兹海峡恢复红海港口出口。
-
-anthropic发布claude opus 5.5，成本较上代降40%。openai发布gpt-6 sol与luna，价格均降五成。
-
-韩国确认对美投资首个项目，在得州建6.3吉瓦燃气电厂，总投资逾200亿美元。
-
-高通发布第六代骁龙8，小米、vivo等首批适配。paypal与meta合作支持ai智能体购物支付。小鹏第二代vla全量推送。
-❤1"> <div class="time">10:14</div> <div class="content"> <div class="text">宏观要闻
-
-李强在上海调研时强调，坚持智能化、绿色化、融合化方向，推进科技创新和产业创新深度融合，大力发展新一代智能制造，加快培育壮大新兴产业和未来产业，持续做大做强先进制造业。
-
-市场监管总局就企业境外反垄断合规指引修订草案公开征求意见，新增数字经济监管趋势、主要司法辖区经营者集中申报标准及私人民事诉讼等内容。
-
-商...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section> </div> </main> <script>
+--来自百度网盘超级会员v7的分享</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section> </div> </main> <script>
       (() => {
         const mainBtn = document.getElementById('topic-main');
         const vipBtn = document.getElementById('topic-clsvip');
