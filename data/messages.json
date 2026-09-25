@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3492090",
+    "datetime": "2026-09-25T20:37:22+00:00",
+    "views": "1",
+    "text": "OpenAI 称 AI 智能体引发多起异常事件 调查或持续数月\n金十数据 9 月 26 日讯，据路透社报道，OpenAI 仍在调查其 AI 智能体的异常活动范围。两名知情人士称，在持续梳理内部日志后，OpenAI 发现的问题数量仍在增加，预计整个调查将持续数月。OpenAI 表示，其智能体近期泄露了 53 张 ChatGPT 用户图片，并已通知数十家相关第三方。大部分泄露图片已被删除，OpenAI 正在推动托管服务商移除剩余内容。据知情人士透露，截至 9 月中旬，OpenAI 已发现约两起以上智能体异常事件，其中包括此前披露的智能体攻击“抱抱脸”事件，以及其他未经授权的活动。部分事件由外部研究人员发现，而非 OpenAI 主动识别。报道指出，OpenAI 智能体因可访问用于模型训练的匿名化用户数据而接触到相关图片。OpenAI 称，用户数据在训练前会经过匿名化处理，删除元数据、姓名和联系方式，但外部人士认为，匿名化过程仍存在个人信息泄露风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3492090"
+  },
+  {
+    "post": "Financial_Express/3492091",
+    "datetime": "2026-09-25T20:37:22+00:00",
+    "views": "1",
+    "text": "医学医疗器械企业 RegenLab USA 拟在纳斯达克上市，股票代码 RGNA。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3492091"
+  },
+  {
+    "post": "Financial_Express/3492089",
+    "datetime": "2026-09-25T20:37:08+00:00",
+    "views": "5",
+    "text": "纳斯达克金龙中国指数收跌 0.64%，报 5687.91 点，逼近 6 月 26 日底部 5654.75 点，本周累计下跌 1.72%，8 月初以来持续走低。\n热门中概股里，文远知行初步收跌 4.3%，小米跌 2.3%，理想跌 2.1%，网易跌 1.8%，比亚迪跌 1%，拼多多跌 0.8%。\nETF 中，中概互联网指数 ETF（KWEB）收跌 0.45%，本周回撤 1.01%；\nXtrackersHarvest 中证 50（ASHS）收跌 0.31%，本周回撤 2.98%；\n德银嘉实沪深 300 指数 ETF（ASHR）收跌 0.30%，本周回撤 2.01%；\n中国科技指数 ETF（CQQQ）收跌 0.30%，本周回撤 1.36%；\nMSCI 新兴市场 ex 中国 ETF（EMXC）收涨 1.39%，本周反弹 1.92%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3492089"
+  },
+  {
+    "post": "Financial_Express/3492088",
+    "datetime": "2026-09-25T20:36:42+00:00",
+    "views": "9",
+    "text": "穆迪：评级上调反映出黑山在欧盟改革推进下，制度与信用状况实现了持续性改善。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3492088"
+  },
+  {
+    "post": "Financial_Express/3492087",
+    "datetime": "2026-09-25T20:36:02+00:00",
+    "views": "12",
+    "text": "穆迪确认欧盟 AAA 评级，维持稳定展望。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3492087"
+  },
+  {
+    "post": "Financial_Express/3492086",
+    "datetime": "2026-09-25T20:35:22+00:00",
+    "views": "13",
+    "text": "穆迪：将黑山主权信用评级上调至 BA2，维持正面评级展望。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3492086"
+  },
+  {
     "post": "Financial_Express/3492085",
     "datetime": "2026-09-25T20:35:02+00:00",
-    "views": "3",
+    "views": "14",
     "text": "穆迪评级确认欧盟 AAA 评级，维持稳定展望。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3492084",
     "datetime": "2026-09-25T20:34:22+00:00",
-    "views": "7",
+    "views": "16",
     "text": "美国国家飓风中心（NHC）表示，热带风暴“费伊”位于亚速尔群岛西南偏西约 1075 英里（1730 公里）处；最大持续风速为每小时 50 英里（85 公里）。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3492083",
     "datetime": "2026-09-25T20:34:02+00:00",
-    "views": "10",
+    "views": "17",
     "text": "报道：Anthropic 正谈判租赁最高 1 吉瓦算力 投入至少需要 400 亿美元\nAnthropic 正开展初步谈判，拟从阿波罗全球管理控股的数据中心开发商手中租赁最高 1 吉瓦的算力容量。这是这家 AI 企业降低对云服务商依赖的重大举措。据了解谈判情况的人士透露，Claude 模型的开发方 Anthropic 探讨直接成为 Stream Data Centers 开发项目的租户。这家企业已有 27 年发展历史，在美国多地布局数据中心；Anthropic 计划在机房内部署博通与谷歌设计的张量处理单元（TPU）。另有知情人士称，该批机房也可搭载英伟达 GPU 等其他 AI 芯片。英伟达正加大对数据中心相关企业的布局投入，力求让自家 GPU 而非 TPU 成为大型前沿 AI 算力设施的主力芯片。数据中心开发商表示，无论最终选用何种芯片方案，1 吉瓦算力对应的资本投入至少需要 400 亿美元。当前 Anthropic 绝大部分算力，都是通过向亚马逊云科技、谷歌、SpaceX 等云服务商租用芯片服务器获取。Anthropic 此前已和由比特币矿企转型的 Hut 8、TeraWulf 签署小型机房租赁协议。通过直接掌控服务器硬件，绕开追求利润的云服务商，以此为降低算力成本开辟路径。如果落地，本次与 Stream 的合作将成为 Anthropic 迄今为止规模最大的一笔租赁交易。与此同时，其主要竞争对手 OpenAI 也在推行类似战略。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3492082",
     "datetime": "2026-09-25T20:33:59+00:00",
-    "views": "10",
+    "views": "18",
     "text": "OpenAI 正设法在发生用户数据泄露事故理解 AI agent 的活动范围。（路透）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3492081",
     "datetime": "2026-09-25T20:32:22+00:00",
-    "views": "18",
+    "views": "22",
     "text": "Anthropic 正洽谈一项规模达 1 吉瓦的数据中心容量交易，预计相关投资规模至少为 400 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3492080",
     "datetime": "2026-09-25T20:31:49+00:00",
-    "views": "20",
+    "views": "24",
     "text": "Anthropic 正开展初步谈判，拟从阿波罗全球管理控股的数据中心开发商手中租赁最高 1 吉瓦的算力容量。这是这家 AI 企业降低对云服务商依赖的重大举措。\n据了解谈判情况的人士透露，Claude 模型的开发方 Anthropic 探讨直接成为 Stream Data Centers 开发项目的租户。这家企业已有 27 年发展历史，在美国多地布局数据中心；Anthropic 计划在机房内部署博通与谷歌设计的张量处理单元（TPU）。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3492079",
     "datetime": "2026-09-25T20:31:23+00:00",
-    "views": "21",
+    "views": "24",
     "text": "Anthropic 正在洽谈一笔最高 1 吉瓦数据中心容量的交易，该笔投资至少需要 400 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3492077",
     "datetime": "2026-09-25T20:31:22+00:00",
-    "views": "20",
+    "views": "23",
     "text": "伊朗外长：美方接受 7 天计划后 霍尔木兹海峡将开放\n金十数据 9 月 26 日讯，伊朗外长阿拉格齐表示，伊朗已向美国提交一项具体的 7 天计划，下一步选择权在美国手中。他称，如果美国接受该方案，最终霍尔木兹海峡将重新开放。阿拉格齐表示，美国需要采取的措施并非新要求，相关内容此前已包含在双方讨论的谅解备忘录中。他强调，伊朗不会在压力下放弃自身主权权利，7 天期限将在美国接受该方案后开始计算。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3492078",
     "datetime": "2026-09-25T20:31:22+00:00",
-    "views": "21",
+    "views": "24",
     "text": "默沙东：基于与美国食品药品监督管理局（FDA）的沟通决定撤项；二期临床试验数据未满足获批要求。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3492076",
     "datetime": "2026-09-25T20:31:02+00:00",
-    "views": "20",
+    "views": "23",
     "text": "纽约时报公司宣布 A 类和 B 类普通股季度股息为每股 0.23 美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3492075",
     "datetime": "2026-09-25T20:29:02+00:00",
-    "views": "26",
+    "views": "28",
     "text": "甲骨文(ORCL.N)提交的美国证交会文件显示，公司董事兼首席执行官克莱顿·M·马古伊尔克（Clayton M. Magouyrk）2026 年总薪酬为 6.275 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3492074",
     "datetime": "2026-09-25T20:26:02+00:00",
-    "views": "23",
+    "views": "25",
     "text": "甲骨文(ORCL.N)提交的美国证交会文件显示，执行董事长兼首席技术官劳伦斯·埃里森（Lawrence J. Ellison）2026 年总薪酬为 1.31 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3492073",
     "datetime": "2026-09-25T20:25:22+00:00",
-    "views": "21",
+    "views": "22",
     "text": "甲骨文公司在提交给美国证券交易委员会（SEC）的文件中表示，执行董事长兼首席技术官劳伦斯·J·埃里森 2026 年总薪酬为 1.31 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3492072",
     "datetime": "2026-09-25T20:24:26+00:00",
-    "views": "18",
+    "views": "20",
     "text": "伊朗外交部长：伊朗方面可以接受这份七天计划，霍尔木兹海峡最终将恢复通航。",
     "media_only": false,
     "image_url": null,
@@ -45808,14 +45862,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3486964"
-  },
-  {
-    "post": "Financial_Express/3486963",
-    "datetime": "2026-09-23T20:37:01+00:00",
-    "views": "71",
-    "text": "明晟公司 MSCI 新兴市场股票指数涨 0.2%，发展中国家外汇指数跌 0.2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486963"
   }
 ]
