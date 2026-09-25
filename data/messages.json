@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3491570",
+    "datetime": "2026-09-25T13:45:22+00:00",
+    "views": "1",
+    "text": "Anthropic 大单引爆股价 美股阿克迈开盘飙升超 14%\n阿克迈(AKAM.US)跳空高开，截至发稿，涨幅超 14%。消息面上，阿克迈宣布大幅扩大与 Anthropic 的合作，获得这家 AI 公司七年期、总额 116 亿美元的合同承诺，标志着 AI 算力基础设施领域的又一巨额交易落地。此次合作将深刻重塑 Akamai 的业务结构。在巨额资本支出预期的同时，该公司的云计算业务收入有望在未来几年内实现激增，并可能很快超越其传统的网络安全和内容分发业务。根据公告，阿克迈将通过旗下云业务的分布式 AI 基础设施和软件，支持 Anthropic 快速增长的 CPU 工作负载需求。双方合作还有继续扩大的空间。阿克迈披露，这项交易允许未来额外扩大最多 90 亿美元的合作，潜在总承诺规模约为 200 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3491570"
+  },
+  {
+    "post": "Financial_Express/3491569",
+    "datetime": "2026-09-25T13:44:29+00:00",
+    "views": "12",
+    "text": "微软股价上涨 3%，公司对 Copilot 进行全面升级，新增代码生成和代理式 AI 工具。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3491569"
+  },
+  {
+    "post": "Financial_Express/3491568",
+    "datetime": "2026-09-25T13:43:43+00:00",
+    "views": "12",
+    "text": "有报道称美国陆军正在评估未来几个月内可能支持针对古巴行动的部队单位。所需单位包括一个战斗支援营、一个医疗旅、一个前沿外科排以及一个宪兵旅。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3491568"
+  },
+  {
+    "post": "Financial_Express/3491567",
+    "datetime": "2026-09-25T13:43:42+00:00",
+    "views": "12",
+    "text": "微软(MSFT.O)股价上涨 3%；公司重塑 Copilot，推出代码生成和智能 AI 工具。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3491567"
+  },
+  {
     "post": "Financial_Express/3491566",
     "datetime": "2026-09-25T13:43:04+00:00",
-    "views": "4",
+    "views": "15",
     "text": "Akamai 因与 Anthropic 达成合作协议，股价大涨 16%，为 5 月 8 日以来最大涨幅。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3491565",
     "datetime": "2026-09-25T13:43:03+00:00",
-    "views": "4",
+    "views": "15",
     "text": "微软股价上涨 3%；公司通过代码生成和智能代理 AI 工具重塑 Copilot 功能。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3491564",
     "datetime": "2026-09-25T13:43:02+00:00",
-    "views": "4",
+    "views": "15",
     "text": "据美国哥伦比亚广播公司（CBS）：美国陆军正在评估未来几个月内可能支持针对古巴行动的部队单位。所需单位包括一个战斗支援营、一个医疗旅、一个前沿外科排以及一个宪兵旅。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3491563",
     "datetime": "2026-09-25T13:41:22+00:00",
-    "views": "10",
+    "views": "48",
     "text": "金十图示：2026 年 09 月 25 日（周五）美股热门股票行情一览",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3491562",
     "datetime": "2026-09-25T13:37:23+00:00",
-    "views": "46",
+    "views": "52",
     "text": "萨博：加拿大拟购买六架萨博 GlobalEye 飞机，含系统、培训及支持。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3491560",
     "datetime": "2026-09-25T13:37:22+00:00",
-    "views": "47",
+    "views": "53",
     "text": "马尔代夫副总统：印度洋必须保持和平。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3491561",
     "datetime": "2026-09-25T13:37:22+00:00",
-    "views": "47",
+    "views": "53",
     "text": "美国银行：将 AMD 目标股价从 620 美元上调至 720 美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3491559",
     "datetime": "2026-09-25T13:37:02+00:00",
-    "views": "46",
+    "views": "52",
     "text": "萨博与加拿大签署 GlobalEye 空中预警与控制机条款清单。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3491558",
     "datetime": "2026-09-25T13:36:22+00:00",
-    "views": "47",
+    "views": "53",
     "text": "汇丰将雪佛龙目标价从每股 218.00 美元上调至 250.00 美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3491557",
     "datetime": "2026-09-25T13:36:12+00:00",
-    "views": "47",
+    "views": "53",
     "text": "美国银行将 AMD 目标股价从 620 美元上调至 720 美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3491556",
     "datetime": "2026-09-25T13:35:42+00:00",
-    "views": "47",
+    "views": "52",
     "text": "金十图示：2026 年 09 月 25 日（周五）热门中概股行情一览",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3491555",
     "datetime": "2026-09-25T13:34:42+00:00",
-    "views": "49",
+    "views": "82",
     "text": "美银全球研究将耐克(NIKE, INC.)评级从中性下调至跑输大盘，目标价从 47 美元下调至 30 美元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3491553",
     "datetime": "2026-09-25T13:33:59+00:00",
-    "views": "82",
+    "views": "85",
     "text": "标普 500 指数高开 5.73 点，涨幅 0.07%，报 7709.86 点；\n道琼斯工业平均指数高开 9.72 点，涨幅 0.02%，报 51359.70 点；\n纳斯达克综合指数高开 31.58 点，涨幅 0.12%，报 26970.95 点。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3491552",
     "datetime": "2026-09-25T13:32:42+00:00",
-    "views": "83",
+    "views": "86",
     "text": "PEOPLE INC 股价上涨 9%，此前有报道称美高梅国际酒店集团讨论对其提出收购。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3491550",
     "datetime": "2026-09-25T13:32:03+00:00",
-    "views": "82",
+    "views": "86",
     "text": "纳斯达克中国金龙指数跌超 0.5%，DCX 跌 15.26%，小马智行跌 3.95%，陆金所控股跌 2.79%，理想汽车跌 2.33%，网易跌 2.13%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3491551",
     "datetime": "2026-09-25T13:32:03+00:00",
-    "views": "83",
+    "views": "86",
     "text": "汇丰将 Twilio 评级下调至减持后，Twilio 股价下跌 2.7%。",
     "media_only": false,
     "image_url": null,
@@ -48373,131 +48409,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3486149"
-  },
-  {
-    "post": "Financial_Express/3486148",
-    "datetime": "2026-09-23T13:45:24+00:00",
-    "views": "34",
-    "text": "美国 9 月标普全球制造业 PMI 初值 57，预期 53.6，前值 53.9。美国 9 月标普全球服务业 PMI 初值 58.7，预期 56，前值 56.5。美国 9 月标普全球综合 PMI 初值 58.4，前值 56。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486148"
-  },
-  {
-    "post": "Financial_Express/3486146",
-    "datetime": "2026-09-23T13:45:23+00:00",
-    "views": "34",
-    "text": "布伦特原油突破 97 美元/桶，日内涨 1.69%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486146"
-  },
-  {
-    "post": "Financial_Express/3486147",
-    "datetime": "2026-09-23T13:45:23+00:00",
-    "views": "34",
-    "text": "美国标普全球 9 月综合 PMI 升至五年高位。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486147"
-  },
-  {
-    "post": "Financial_Express/3486144",
-    "datetime": "2026-09-23T13:45:03+00:00",
-    "views": "35",
-    "text": "伊朗官员：不会急于谈判 开放霍尔木兹海峡需满足伊朗的条件\n金十数据 9 月 23 日讯，伊朗最高国家安全委员会秘书发言表示，美国总统特朗普在联合国大会上的讲话是试图以“失败的侵略者”形象为自身行为辩护。他称，特朗普几乎所有言论都围绕伊朗展开，说明伊朗已成为美国政策面临的主要问题。他批评特朗普将战争描述为和平、将恐怖主义描述为安全，并称美国针对伊朗的军事行动未削弱伊朗实力，反而提升了伊朗的国际影响力。他指出，美国先进无人机和战机被摧毁，暴露了美国军事实力的局限，并宣称伊朗已成为“世界第四大强国”。他提到，伊朗首次在美国“华盛顿号”航母上空引爆反舰导弹。他表示，只要伊朗提出的条件未得到满足，霍尔木兹海峡就不会重新开放，也不会进行谈判。他称，目前伊朗方面的条件已经拟定，并已交给卡塔尔和巴基斯坦方面。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486144"
-  },
-  {
-    "post": "Financial_Express/3486142",
-    "datetime": "2026-09-23T13:45:02+00:00",
-    "views": "35",
-    "text": "美国 9 月标普全球服务业 PMI 初值 58.7，预期 55.8，前值 56.5。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486142"
-  },
-  {
-    "post": "Financial_Express/3486143",
-    "datetime": "2026-09-23T13:45:02+00:00",
-    "views": "35",
-    "text": "美国 9 月标普全球制造业 PMI 初值 57，预期 53.7，前值 53.9。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486143"
-  },
-  {
-    "post": "Financial_Express/3486141",
-    "datetime": "2026-09-23T13:45:00+00:00",
-    "views": "36",
-    "text": "美国 9 月标普全球综合 PMI 初值 58.4，预期 55.3，前值 56。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486141"
-  },
-  {
-    "post": "Financial_Express/3486140",
-    "datetime": "2026-09-23T13:44:27+00:00",
-    "views": "38",
-    "text": "中际旭创：9 月 23 日在深圳证券交易所购回 85.698 万股 A 股，每股购回价人民币 921.85 元至 935 元，付出价格总额人民币 7.95 亿元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486140"
-  },
-  {
-    "post": "Financial_Express/3486139",
-    "datetime": "2026-09-23T13:44:24+00:00",
-    "views": "38",
-    "text": "以色列议会批准追加近 150 亿新谢克尔国防预算\n当地时间 23 日，以色列议会财政委员会通过一项预算案，紧急批准向以色列国防部及军队追加拨付近 150 亿新谢克尔（约合 49.7 亿美元）的本年度追加预算，以应对当前持续升级的军事行动。以色列议会当日发表的声明称，在这笔紧急拨款中，有 117.5 亿新谢克尔（约合 38.96 亿美元）直接自国家总准备金中调拨，另有 30 亿新谢克尔（约合 9.95 亿美元）来自对现有国防开支和交通预算项目的结构性缩减。以色列议会表示，由于涉及军事机密，该笔追加资金的具体使用明细仅在财政委员会与外交和国防委员会的内部联席会议上进行了呈报。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486139"
-  },
-  {
-    "post": "Financial_Express/3486138",
-    "datetime": "2026-09-23T13:44:23+00:00",
-    "views": "6",
-    "text": "苯乙烯连续主力合约日内涨 2%，现报 9516.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486138"
-  },
-  {
-    "post": "Financial_Express/3486137",
-    "datetime": "2026-09-23T13:44:22+00:00",
-    "views": "5",
-    "text": "金十图示：2026 年 09 月 23 日（周三）美股热门股票行情一览",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486137"
-  },
-  {
-    "post": "Financial_Express/3486136",
-    "datetime": "2026-09-23T13:43:58+00:00",
-    "views": "5",
-    "text": "现货白银日内跌幅达 3.5%，报 64.66 美元/盎司。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486136"
-  },
-  {
-    "post": "Financial_Express/3486135",
-    "datetime": "2026-09-23T13:43:42+00:00",
-    "views": "5",
-    "text": "麦当劳股价下跌约 3%；公司在投资者日公布对加盟商的 85 亿美元长期投资计划。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486135"
-  },
-  {
-    "post": "Financial_Express/3486134",
-    "datetime": "2026-09-23T13:43:23+00:00",
-    "views": "36",
-    "text": "现货黄金失守 4290 美元/盎司，日内跌 1.62%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486134"
   }
 ]
