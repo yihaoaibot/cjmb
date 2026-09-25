@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3491552",
+    "datetime": "2026-09-25T13:32:42+00:00",
+    "views": "4",
+    "text": "PEOPLE INC 股价上涨 9%，此前有报道称美高梅国际酒店集团讨论对其提出收购。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3491552"
+  },
+  {
+    "post": "Financial_Express/3491550",
+    "datetime": "2026-09-25T13:32:03+00:00",
+    "views": "5",
+    "text": "纳斯达克中国金龙指数跌超 0.5%，DCX 跌 15.26%，小马智行跌 3.95%，陆金所控股跌 2.79%，理想汽车跌 2.33%，网易跌 2.13%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3491550"
+  },
+  {
+    "post": "Financial_Express/3491551",
+    "datetime": "2026-09-25T13:32:03+00:00",
+    "views": "5",
+    "text": "汇丰将 Twilio 评级下调至减持后，Twilio 股价下跌 2.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3491551"
+  },
+  {
+    "post": "Financial_Express/3491549",
+    "datetime": "2026-09-25T13:31:44+00:00",
+    "views": "5",
+    "text": "多伦多证券交易所指数.GSPTSE 开盘上涨 39.75 点，涨幅 0.11%，报 35,746.21 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3491549"
+  },
+  {
+    "post": "Financial_Express/3491548",
+    "datetime": "2026-09-25T13:31:43+00:00",
+    "views": "5",
+    "text": "受 ANTHROPIC 协议提振，AKAMAI 股价上涨 16%，创 5 月 8 日以来最大涨幅。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3491548"
+  },
+  {
     "post": "Financial_Express/3491547",
     "datetime": "2026-09-25T13:31:23+00:00",
-    "views": "1",
+    "views": "5",
     "text": "康卡斯特股价下跌 1.9%，此前 KeyBanc 下调其评级，花旗集团下调目标价。",
     "media_only": false,
     "image_url": null,
@@ -11,8 +56,8 @@
   {
     "post": "Financial_Express/3491546",
     "datetime": "2026-09-25T13:31:18+00:00",
-    "views": "3",
-    "text": "美股三大股指小幅高开，道指涨 0.02%，标普 500 指数涨 0.07%，纳指涨 0.1%。",
+    "views": "37",
+    "text": "美股三大股指小幅高开，道指涨 0.02%，标普 500 指数涨 0.07%，纳指涨 0.1%。特斯拉涨超 2%，报道称特斯拉近几个月已将其 Optimus 人形机器人的产量提升约 10 倍；内存股多数走高，SK 海力士、美光科技均涨超 1%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3491546"
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3491544",
     "datetime": "2026-09-25T13:31:04+00:00",
-    "views": "4",
+    "views": "36",
     "text": "美股光通信股开盘普涨\nLumentum 涨 0.88%，康宁涨 1.08%，Coherent 涨 1.63%，应用光电涨 0.79%，Ciena 涨 0.95%，博通涨 0.54%，迈威尔科技涨 1.95%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3491545",
     "datetime": "2026-09-25T13:31:04+00:00",
-    "views": "4",
+    "views": "37",
     "text": "美股生物科技板块盘初涨跌不一\n礼来涨 0.28%，强生跌 0.09%，Moderna 涨 0.66%，诺和诺德涨 0.48%，艾伯维跌 0.20%，默沙东跌 0.21%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3491542",
     "datetime": "2026-09-25T13:31:03+00:00",
-    "views": "4",
+    "views": "37",
     "text": "美股开盘：三大股指齐涨\n道指涨 0.10%，标普 500 指数涨 0.05%，纳指涨 0.15%。阿克迈涨 15.06%，Arm Holdings Plc 涨 5.02%，新思科技涨 4.12%，Datadog 涨 3.79%，休曼纳涨 3.32%。“七姐妹”方面：特斯拉涨 1.96%，英伟达涨 0.30%，谷歌涨 0.19%，微软涨 0.11%，苹果涨 0.01%，亚马逊跌 0.51%，Meta Platforms 跌 1.83%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3491543",
     "datetime": "2026-09-25T13:31:03+00:00",
-    "views": "4",
+    "views": "36",
     "text": "美股存储板块盘初普涨\n美光涨 1.32%，闪迪涨 1.95%，SK 海力士涨 1.81%，西部数据涨 0.72%，希捷科技涨 1.34%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3491541",
     "datetime": "2026-09-25T13:31:02+00:00",
-    "views": "4",
+    "views": "7",
     "text": "美股三大指数高开 存储板块普涨\n金十数据 9 月 25 日讯，美股开盘，道指开涨 0.02%，标普 500 指数涨 0.07%，纳指涨 0.1%，特斯拉(TSLA.O)涨 2%，公司表示希望在今年年底前建立一条每周可生产超过 1000 台机器人的生产线。SK 海力士(SKHY.O)涨 1.4%，美光科技(MU.O)涨 1.05%，闪迪(SNDK.O)涨 1.8%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3491540",
     "datetime": "2026-09-25T13:22:26+00:00",
-    "views": "61",
+    "views": "93",
     "text": "日本财务大臣片山皋月：市场“误解”了疲软日元。\n日元过度抛售或可得到纠正。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3491539",
     "datetime": "2026-09-25T13:21:52+00:00",
-    "views": "64",
+    "views": "96",
     "text": "美元兑日元日内下跌 1.00%，现报 157.25。",
     "media_only": false,
     "image_url": null,
@@ -48553,113 +48598,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3486110"
-  },
-  {
-    "post": "Financial_Express/3486109",
-    "datetime": "2026-09-23T13:33:09+00:00",
-    "views": "82",
-    "text": "奥联电子公告，瑞盈资产拟将所持 2772 万股（占总股本 16.20%）转让给骏图天泽、855.56 万股（占总股本 5%）转让给衢州信安广合，完成后控股股东由瑞盈资产变更为骏图天泽，实际控制人由钱明飞变更为陈扬。公司股票自 2026 年 9 月 24 日开市起复牌，股份转让尚需深交所合规性确认及中登深圳分公司办理过户登记。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486109"
-  },
-  {
-    "post": "Financial_Express/3486108",
-    "datetime": "2026-09-23T13:33:02+00:00",
-    "views": "81",
-    "text": "沃辛顿开盘上涨 6%，此前第一季度业绩令人印象深刻。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486108"
-  },
-  {
-    "post": "Financial_Express/3486107",
-    "datetime": "2026-09-23T13:32:51+00:00",
-    "views": "81",
-    "text": "上峰材料公告，公司控股股东上峰控股的一致行动人俞孟琼、俞聪减持计划期限已届满。2026 年 6 月 25 日，俞孟琼通过集中竞价交易减持 77 万股，占总股本 0.08%，减持均价 21.79 元/股；俞聪减持 76.99 万股，占总股本 0.08%，减持均价 21.78 元/股；合计减持 153.99 万股，占总股本 0.16%。减持后，俞孟琼持股由 1.01%降至 0.93%，俞聪持股由 1.01%降至 0.93%，上峰控股仍持有公司 31.15%股权，不会导致公司控股股东及实际控制人发生变化。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486107"
-  },
-  {
-    "post": "Financial_Express/3486106",
-    "datetime": "2026-09-23T13:32:46+00:00",
-    "views": "79",
-    "text": "标普 500 指数低开 2.70 点，跌幅 0.03%，报 7761.94 点；\n道琼斯工业平均指数低开 92.28 点，跌幅 0.18%，报 51771.41 点；\n纳斯达克综合指数低开 30.76 点，跌幅 0.11%，报 27213.52 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486106"
-  },
-  {
-    "post": "Financial_Express/3486105",
-    "datetime": "2026-09-23T13:32:43+00:00",
-    "views": "49",
-    "text": "曼联股价下跌 5.8%，此前公布连续第七年录得年度亏损。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486105"
-  },
-  {
-    "post": "Financial_Express/3486103",
-    "datetime": "2026-09-23T13:32:42+00:00",
-    "views": "47",
-    "text": "伊朗最高国家安全委员会秘书：我们首次成功在美国“华盛顿号”航母上空引爆了一枚反舰导弹。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486103"
-  },
-  {
-    "post": "Financial_Express/3486104",
-    "datetime": "2026-09-23T13:32:42+00:00",
-    "views": "48",
-    "text": "凯投宏观：AI 股票与债券收益率相关性或进一步增强\n金十数据 9 月 23 日讯，凯投宏观分析师 James Reilly 在一份报告中指出，随着大型科技公司发行更多债务，人工智能相关股票与债券收益率之间的关联可能会进一步增强。赖利表示，人工智能相关板块在油价下跌时往往表现良好，这反映出它们对债券收益率的敏感度有所提高。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486104"
-  },
-  {
-    "post": "Financial_Express/3486102",
-    "datetime": "2026-09-23T13:32:22+00:00",
-    "views": "47",
-    "text": "摩根士丹利意外泄露逾百个交易储备项目\n摩根士丹利一名员工误发送邮件，附带一份内部文件，文件详述其在亚洲及其他地区正在推介或跟进监控的 100 余笔投行交易。据报道，这份清单包含潜在 IPO 项目、私募股权投资方、养老基金以及已搁置项目。摩根士丹利表示，已迅速处理本次意外泄密事件，并正在与相关各方沟通。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486102"
-  },
-  {
-    "post": "Financial_Express/3486101",
-    "datetime": "2026-09-23T13:32:19+00:00",
-    "views": "42",
-    "text": "9 月 23 日，腾势 Z9S 上市，亮相纯电轿跑市场。该车推出闪充尊荣型、闪充旗舰型和易三方闪充性能型三款车型，官方指导价 25.58 万—32.58 万元。新车搭载第二代刀片电池及闪充技术，官方公布的 CLTC 纯电续航为 1100 公里。截至目前，比亚迪闪充站已建成超 1 万座，高速闪充站即将突破 2000 座。车辆还搭载天神之眼 5.0 辅助驾驶系统和云辇-A 智能空气车身控制系统。其中，易三方闪充性能型采用三电机独立驱动和后轮双电机独立转向，零百加速最快为 2.68 秒。新车支持双向 10 度后轮转向，最小转弯半径为 4.75 米。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486101"
-  },
-  {
-    "post": "Financial_Express/3486100",
-    "datetime": "2026-09-23T13:32:03+00:00",
-    "views": "41",
-    "text": "Paychex 股价下跌 4.6%，此前管理解决方案部门第一季度营收未达预期。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486100"
-  },
-  {
-    "post": "Financial_Express/3486099",
-    "datetime": "2026-09-23T13:32:02+00:00",
-    "views": "41",
-    "text": "中富电路：泰国工厂已通过多家海外客户审核 在手订单增长较快\n金十数据 9 月 23 日讯，中富电路 9 月 23 日在互动平台表示，泰国工厂目前处于批量生产阶段，已经通过多家海外客户审核，受益于 AI 一次电源和二次电源订单的导入认证，在手订单增长较快，客户覆盖工业控制、通信及数据中心等领域。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486099"
-  },
-  {
-    "post": "Financial_Express/3486098",
-    "datetime": "2026-09-23T13:31:26+00:00",
-    "views": "43",
-    "text": "美股三大股指集体低开，道指开跌 0.18%，标普 500 指数跌 0.11%，纳指跌 0.13%。热门科技股涨跌不一，Meta 涨 1.13%，SK 海力士股价跌 1.57%；IONQ 股价上涨 13%，创 7 月 30 日以来最大盘中涨幅。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3486098"
   }
 ]
