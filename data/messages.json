@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3493424",
     "datetime": "2026-09-27T19:26:23+00:00",
-    "views": "11",
+    "views": "21",
     "text": "悉尼早盘交易中，美元兑 G10 主要货币汇率保持稳定。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3493423",
     "datetime": "2026-09-27T19:22:22+00:00",
-    "views": "43",
+    "views": "47",
     "text": "市场资讯：多家大型国际银行已向瑞银集团发出信号，表示对潜在合并有兴趣。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3493422",
     "datetime": "2026-09-27T19:19:02+00:00",
-    "views": "69",
+    "views": "73",
     "text": "伊朗伊玛目霍梅尼国际机场负责人：尽管美国针对伊朗航空业出台新制裁，机场飞往 30 多个国际目的地的航班仍在正常运营，周日有超过 60 架次航班起降，机场维持满负荷运转。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3493421",
     "datetime": "2026-09-27T19:17:02+00:00",
-    "views": "83",
+    "views": "86",
     "text": "据半岛电视台：以色列军队在加沙各地射杀四名巴勒斯坦人。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3493420",
     "datetime": "2026-09-27T19:16:02+00:00",
-    "views": "85",
+    "views": "88",
     "text": "以色列总理内塔尼亚胡在阿联酋会见总统穆罕默德·本·扎耶德后返回以色列。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3493419",
     "datetime": "2026-09-27T19:05:02+00:00",
-    "views": "112",
+    "views": "114",
     "text": "以色列总理周日访问阿布扎比，并与阿联酋总统举行会晤。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3493418",
     "datetime": "2026-09-27T19:01:02+00:00",
-    "views": "120",
+    "views": "122",
     "text": "法国极右翼领导人称已赢得足够席位组建参议院党团。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3493417",
     "datetime": "2026-09-27T18:50:22+00:00",
-    "views": "135",
+    "views": "137",
     "text": "以色列媒体报道称，以色列总理内塔尼亚胡今天飞往阿联酋，会见该国总统。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3493416",
     "datetime": "2026-09-27T18:40:02+00:00",
-    "views": "142",
+    "views": "143",
     "text": "美国国务院发布安全提示：美国驻英国大使馆获悉，在英国费尔福德皇家空军基地附近，有多人因涉嫌筹备恐怖主义行为被捕。建议美国公民提高警惕，注意个人安全。请美国公民务必听从当地相关部门的指示。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3493415",
     "datetime": "2026-09-27T18:36:22+00:00",
-    "views": "140",
+    "views": "141",
     "text": "法国外长：自伊朗战争爆发以来，法国已向该地区增派了额外的军事力量和装备，以保护合作伙伴及部分盟友免受德黑兰方面的袭击。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3493414",
     "datetime": "2026-09-27T18:33:42+00:00",
-    "views": "142",
+    "views": "143",
     "text": "中国地震台网自动测定：09 月 28 日 02 时 29 分在云南丽江市宁蒗县附近（北纬 27.80 度，东经 100.59 度）发生 3.8 级左右地震，最终结果以正式速报为准。",
     "media_only": false,
     "image_url": null,
@@ -13318,59 +13318,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3491942"
-  },
-  {
-    "post": "Financial_Express/3491940",
-    "datetime": "2026-09-25T19:28:42+00:00",
-    "views": "22",
-    "text": "OpenAI：鉴于事件所需的审查规模，以及需要评估每个案例，我们预计这项工作将需要几个月才能完成。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3491940"
-  },
-  {
-    "post": "Financial_Express/3491941",
-    "datetime": "2026-09-25T19:28:42+00:00",
-    "views": "25",
-    "text": "OpenAI 在 Hugging Face 事件后开展范围更广的审查 预计耗时数月\nOpenAI 表示：发生 Hugging Face 事件后，承诺对模型在训练与评估阶段执行的各类操作开展范围更广的审查，并对调查结果保持透明。这项大规模审查工作仍在进行中。我们已核查的绝大多数操作，均为普通研究任务的文本生成，例如访问公开网页内容以回答问题。本次调查重点关注智能体在访问第三方网站时，超出指定任务或预设方式开展交互的情形。目前发现的大多数案例严重程度较低，几乎没有证据表明对第三方服务造成实质性影响。审查仍在推进，我们希望披露更多相关工作细节，确保外界了解我们的信息披露流程以及对受影响第三方的通知机制。鉴于本次审查工作量巨大，且需要对每起案例逐一评估，预计该项工作将耗时数月才能完成。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3491941"
-  },
-  {
-    "post": "Financial_Express/3491939",
-    "datetime": "2026-09-25T19:28:22+00:00",
-    "views": "23",
-    "text": "国际油价 25 日下跌\n金十数据 9 月 26 日讯，截至当天收盘，纽约商品交易所 11 月交货的轻质原油期货价格下跌 2.20 美元，收于每桶 92.41 美元，跌幅为 2.33%；11 月交货的伦敦布伦特原油期货价格下跌 2.28 美元，收于每桶 104.32 美元，跌幅为 2.14%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3491939"
-  },
-  {
-    "post": "Financial_Express/3491937",
-    "datetime": "2026-09-25T19:28:02+00:00",
-    "views": "17",
-    "text": "OpenAI：在“抱抱脸”事件后，我们承诺对我们的模型所采取的行动进行更广泛的审查。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3491937"
-  },
-  {
-    "post": "Financial_Express/3491938",
-    "datetime": "2026-09-25T19:28:02+00:00",
-    "views": "17",
-    "text": "国际油价 25 日下跌\n截至当天收盘，纽约商品交易所 11 月交货的轻质原油期货价格下跌 2.20 美元，收于每桶 92.41 美元，跌幅为 2.33%；11 月交货的伦敦布伦特原油期货价格下跌 2.28 美元，收于每桶 104.32 美元，跌幅为 2.14%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3491938"
-  },
-  {
-    "post": "Financial_Express/3491936",
-    "datetime": "2026-09-25T19:27:22+00:00",
-    "views": "22",
-    "text": "OpenAI：发生 Hugging Face 事件后，我们承诺对模型在训练与评估阶段执行的各类操作开展范围更广的审查，并对调查结果保持透明。这项大规模审查工作仍在进行中。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3491936"
   }
 ]
