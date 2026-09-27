@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3493407",
     "datetime": "2026-09-27T17:55:42+00:00",
-    "views": "36",
+    "views": "43",
     "text": "以色列外交部：驻拉姆安拉荷兰外交官的外交身份将于七天后到期。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3493406",
     "datetime": "2026-09-27T17:55:22+00:00",
-    "views": "41",
+    "views": "48",
     "text": "以色列外交部：荷兰驻拉马拉外交人员的外交身份将于 7 日后失效。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3493404",
     "datetime": "2026-09-27T17:54:22+00:00",
-    "views": "47",
+    "views": "52",
     "text": "以色列外交部：以色列已撤销荷兰驻拉姆安拉外交官的外交身份。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3493405",
     "datetime": "2026-09-27T17:54:22+00:00",
-    "views": "45",
+    "views": "52",
     "text": "以色列外交部：以色列已撤销荷兰驻拉马拉外交官的外交身份。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3493403",
     "datetime": "2026-09-27T17:53:22+00:00",
-    "views": "55",
+    "views": "59",
     "text": "亚历山大·武契奇宣布辞去塞尔维亚总统一职。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3493402",
     "datetime": "2026-09-27T17:49:42+00:00",
-    "views": "80",
+    "views": "82",
     "text": "塞尔维亚总统武契奇发表辞职演说。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3493401",
     "datetime": "2026-09-27T17:48:22+00:00",
-    "views": "84",
+    "views": "86",
     "text": "塞尔维亚总统武契奇发表辞职讲话。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3493400",
     "datetime": "2026-09-27T17:44:02+00:00",
-    "views": "92",
+    "views": "93",
     "text": "美国加州州长纽森签署法案，禁止加州公职人员发行模因币。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3493399",
     "datetime": "2026-09-27T17:42:02+00:00",
-    "views": "99",
+    "views": "101",
     "text": "以色列总理内塔尼亚胡下令就库尔德人及资助哈马斯问题，准备在国际刑事法院（ICC）对土耳其总统埃尔多安提起诉讼。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3493398",
     "datetime": "2026-09-27T17:34:42+00:00",
-    "views": "148",
+    "views": "149",
     "text": "谷歌、OpenAI 与 Anthropic 的 AI 安全组织正逐渐成型\n据知情人士透露，谷歌、OpenAI 和 Anthropic 正在推进一项计划，拟在不受政府监管的情况下，自行成立一个专注于 AI 安全的新标准机构，希望能在今年年底或 2027 年初正式启动。知情人士称，这三家公司初步计划将该自律组织命名为“前沿 AI 标准局”（Standards Authority for Frontier AI，简称 SAFA）。工作组的部分成员曾考虑邀请多位知名人士担任首席执行官（CEO）。据知情人士透露，他们已向 Sriram Krishnan 抛出橄榄枝，邀请其出任该职位。Krishnan 曾是一名风险投资家，并在特朗普政府中担任过高级 AI 政策顾问。",
     "media_only": false,
     "image_url": null,
@@ -14263,14 +14263,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3491820"
-  },
-  {
-    "post": "Financial_Express/3491819",
-    "datetime": "2026-09-25T18:02:42+00:00",
-    "views": "58",
-    "text": "微软(MSFT.O)盘中股价短暂触及 10 个月高点，日内上涨 4%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3491819"
   }
 ]
