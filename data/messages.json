@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3496821",
+    "datetime": "2026-09-28T19:09:02+00:00",
+    "views": "3",
+    "text": "特朗普结束在白宫的讲话。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496821"
+  },
+  {
+    "post": "Financial_Express/3496820",
+    "datetime": "2026-09-28T19:08:57+00:00",
+    "views": "6",
+    "text": "恒生指数主连夜盘收跌 0.06%，报 24698 点。\n恒生科技指数主连夜盘收跌 0.02%，报 4304 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496820"
+  },
+  {
+    "post": "Financial_Express/3496819",
+    "datetime": "2026-09-28T19:08:03+00:00",
+    "views": "13",
+    "text": "特朗普：与伊朗的战争结束后，通胀问题将得到根除。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496819"
+  },
+  {
+    "post": "Financial_Express/3496818",
+    "datetime": "2026-09-28T19:08:02+00:00",
+    "views": "13",
+    "text": "美国航空航天局（NASA）局长：波音(BA.N)的星际飞船将为 NASA 执行多达 5 次载人任务前往国际空间站。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496818"
+  },
+  {
+    "post": "Financial_Express/3496817",
+    "datetime": "2026-09-28T19:07:43+00:00",
+    "views": "16",
+    "text": "NASA 局长：波音星际线飞船将为 NASA 执行最多五次前往国际空间站的载人任务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496817"
+  },
+  {
+    "post": "Financial_Express/3496816",
+    "datetime": "2026-09-28T19:07:42+00:00",
+    "views": "16",
+    "text": "美国航空航天局（NASA）局长：波音“星际客机”（Starliner）飞船的部分部件将在 2028 年载人飞行任务前进行重新设计。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496816"
+  },
+  {
     "post": "Financial_Express/3496815",
     "datetime": "2026-09-28T19:07:02+00:00",
-    "views": "7",
+    "views": "23",
     "text": "NASA 局长：波音星际线飞船部分组件将重新设计，为 2028 年载人飞行做准备。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3496814",
     "datetime": "2026-09-28T19:06:02+00:00",
-    "views": "13",
+    "views": "27",
     "text": "AWS：Claude Sonnet 5.5 现已在 Amazon Bedrock 以及 AWS 上的 Claude 平台上线。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3496813",
     "datetime": "2026-09-28T19:05:42+00:00",
-    "views": "17",
+    "views": "31",
     "text": "亚马逊云服务(AWS)：Claude SONNET 5.5 在亚马逊基石及 AWS 上线。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3496812",
     "datetime": "2026-09-28T19:05:22+00:00",
-    "views": "18",
+    "views": "32",
     "text": "Meta Platforms(META.O)和亚马逊(AMZN.O)因涉及人工智能投资的税收优惠问题正接受质询。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3496811",
     "datetime": "2026-09-28T19:04:02+00:00",
-    "views": "26",
+    "views": "38",
     "text": "恒指期货夜盘收跌 0.09%，报 24663 点，高水 20 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3496810",
     "datetime": "2026-09-28T19:03:42+00:00",
-    "views": "25",
+    "views": "37",
     "text": "特朗普：认为将与加拿大达成贸易协议。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3496809",
     "datetime": "2026-09-28T19:03:22+00:00",
-    "views": "24",
+    "views": "36",
     "text": "美国总统特朗普：认为加拿大贸易将达成协议。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3496808",
     "datetime": "2026-09-28T19:02:42+00:00",
-    "views": "21",
+    "views": "32",
     "text": "特斯拉(TSLA.O)：Roadster 活动重新安排至 10 月 15 日举行。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3496807",
     "datetime": "2026-09-28T19:02:02+00:00",
-    "views": "19",
+    "views": "30",
     "text": "伊朗陆军参谋长：霍尔木兹海峡已关闭。敌人只是在口头上声称霍尔木兹海峡开放，但实际上该海峡已关闭。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3496806",
     "datetime": "2026-09-28T19:01:42+00:00",
-    "views": "17",
+    "views": "27",
     "text": "特斯拉：Roadster 活动改期，新日期为 10 月 15 日。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3496805",
     "datetime": "2026-09-28T19:01:22+00:00",
-    "views": "15",
+    "views": "26",
     "text": "伊朗陆军参谋长：在“强加给伊朗的 3 场战争”中，敌人均未能实现其目标，这意味着敌人已经失败。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3496803",
     "datetime": "2026-09-28T19:00:22+00:00",
-    "views": "14",
+    "views": "21",
     "text": "美国总统特朗普：加拿大希望与我们达成协议，他们一直在打电话。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3496804",
     "datetime": "2026-09-28T19:00:22+00:00",
-    "views": "15",
+    "views": "23",
     "text": "恒指期货夜盘收跌 0.10%，报 24658.50 点，高水 15.99 点。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3496802",
     "datetime": "2026-09-28T18:59:42+00:00",
-    "views": "44",
+    "views": "50",
     "text": "美国总统特朗普：若出现违反卢旺达与刚果（金）协议的行为，我们将予以制止。",
     "media_only": false,
     "image_url": null,
