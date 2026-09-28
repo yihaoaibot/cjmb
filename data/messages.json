@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3496279",
+    "datetime": "2026-09-28T14:16:44+00:00",
+    "views": "10",
+    "text": "Evonik Industrie AG 拒绝巴斯夫价值 103 亿欧元（折合 117 亿美元）的收购要约。\nEvonik 认为，巴斯夫报价太低，不足以保证（启动）正式的谈判，也不足以其竞争者实施尽职调查。（英国金融时报）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496279"
+  },
+  {
+    "post": "Financial_Express/3496278",
+    "datetime": "2026-09-28T14:16:42+00:00",
+    "views": "10",
+    "text": "SPACEX：星舰将比原计划提前返回地球。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496278"
+  },
+  {
+    "post": "Financial_Express/3496277",
+    "datetime": "2026-09-28T14:16:03+00:00",
+    "views": "10",
+    "text": "交易员减少对欧洲央行加息的押注，认为 10 月份加息的可能性不足 40%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496277"
+  },
+  {
+    "post": "Financial_Express/3496276",
+    "datetime": "2026-09-28T14:16:02+00:00",
+    "views": "10",
+    "text": "清溢光电：55nm PSM 产品已进入客户上线认证阶段\n金十数据 9 月 28 日讯，清溢光电公告，公司 55nm PSM（相移掩膜版）产品已与客户签署保密协议并确认产品规格书，已收到客户采购订单（PO），产品现已交货，进入客户上线认证阶段。PSM 相移掩膜版主要用于半导体芯片制造中对图形精度要求较高的关键光刻层，覆盖逻辑、存储、部分特色工艺及功率器件等高精密图形场景。若顺利完成客户认证并实现规模化批量供货，将完善公司高端半导体掩膜产品矩阵，提升盈利能力。但认证周期及结果存在不确定性，批量供货时间尚不能确定。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496276"
+  },
+  {
+    "post": "Financial_Express/3496275",
+    "datetime": "2026-09-28T14:15:22+00:00",
+    "views": "13",
+    "text": "伯纳姆：如果社会照护体系崩溃，将把国家医疗服务体系（NHS）一并拖垮。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496275"
+  },
+  {
     "post": "Financial_Express/3496274",
     "datetime": "2026-09-28T14:15:02+00:00",
-    "views": "3",
+    "views": "44",
     "text": "以色列国防军称，已击毙哈马斯军事部门一名关键资金兑换商。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3496273",
     "datetime": "2026-09-28T14:14:42+00:00",
-    "views": "5",
+    "views": "46",
     "text": "英国首相伯纳姆：国防投资计划将全额按预算拨款。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3496272",
     "datetime": "2026-09-28T14:14:22+00:00",
-    "views": "9",
+    "views": "49",
     "text": "英伟达推出 Open Agent 安全平台，帮助用户控制 AI 智能体可以访问和操作的范围。智能体能够编写代码、使用工具，并持续数小时甚至数天处理复杂任务，这需要访问数据和系统，同时对其使用方式设定明确限制。英伟达 OpenShell 对智能体的工作执行权限管理，BlueField-4 和 DOCA 在基础设施层面增加独立于智能体控制范围的监控和安全控制，Vera CPU 为工作负载提供算力支持。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3496270",
     "datetime": "2026-09-28T14:12:23+00:00",
-    "views": "48",
+    "views": "54",
     "text": "费城半导体指数日内跌 2%\n费城半导体指数日内跌 2.00%，现报 12415.34 点。英伟达涨 2.53%，博通跌 0.61%，美光跌 3.03%，英特尔跌 4.59%，AMD 跌 3.56%，高通跌 7.02%，台积电跌 1.15%，阿斯麦涨 0.50%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3496271",
     "datetime": "2026-09-28T14:12:23+00:00",
-    "views": "48",
+    "views": "54",
     "text": "伯纳姆：国防投资计划将在预算中获得全额资金支持。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3496269",
     "datetime": "2026-09-28T14:12:22+00:00",
-    "views": "49",
+    "views": "54",
     "text": "英国首相伯纳姆：说英国在国防上毫无准备，这是不可接受的。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3496268",
     "datetime": "2026-09-28T14:12:02+00:00",
-    "views": "50",
+    "views": "56",
     "text": "英国首相伯纳姆：我们在防御方面处于强势地位。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3496267",
     "datetime": "2026-09-28T14:11:42+00:00",
-    "views": "54",
+    "views": "60",
     "text": "纳斯达克 100 指数跌幅扩大至逾 1%，标普 500 指数现跌 0.5%，道指跌 0.4%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3496266",
     "datetime": "2026-09-28T14:11:22+00:00",
-    "views": "57",
+    "views": "62",
     "text": "英国首相伯纳姆：英国在国防方面毫无准备的说法站不住脚。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3496265",
     "datetime": "2026-09-28T14:11:14+00:00",
-    "views": "58",
+    "views": "62",
     "text": "德国 27%的从业人员有移民背景，在一些行业比例超过 50%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3496264",
     "datetime": "2026-09-28T14:11:13+00:00",
-    "views": "58",
+    "views": "61",
     "text": "纳斯达克 100 指数跌幅扩大至 1.1%，成分股中，Arm 控股跌 9.3%，高通跌 7.1%，闪迪跌 4.7%，英特尔、西部数据、Lumentum、美满电子至少跌超 3.7%，Nebius Group 则涨 0.9%，英伟达涨 2.5%。\n费城半导体指数跌 2%。\n标普 500 指数跌 0.5%，道指跌 0.4%，纳指跌 0.8%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3496263",
     "datetime": "2026-09-28T14:11:02+00:00",
-    "views": "59",
+    "views": "61",
     "text": "欧洲央行行长拉加德：大多数政府燃油支持措施既非临时性，也非针对性。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3496262",
     "datetime": "2026-09-28T14:10:43+00:00",
-    "views": "61",
+    "views": "62",
     "text": "纳斯达克 100 指数下跌超过 1%；标普 500 指数下跌 0.5%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3496261",
     "datetime": "2026-09-28T14:10:42+00:00",
-    "views": "59",
+    "views": "60",
     "text": "英国首相伯纳姆：将确保我们拥有充分资金支持防御计划。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3496260",
     "datetime": "2026-09-28T14:10:22+00:00",
-    "views": "61",
+    "views": "62",
     "text": "美联储监察长指出，一名员工可能在离职时带走了美联储的机密信息。",
     "media_only": false,
     "image_url": null,
@@ -32776,23 +32821,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3492607"
-  },
-  {
-    "post": "Financial_Express/3492606",
-    "datetime": "2026-09-26T14:16:02+00:00",
-    "views": "188",
-    "text": "特朗普：按照全球变暖的说法，你们现在本该全都死了。这根本就是一场骗局。\n😈2",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3492606"
-  },
-  {
-    "post": "Financial_Express/3492605",
-    "datetime": "2026-09-26T14:15:22+00:00",
-    "views": "165",
-    "text": "特朗普：美国不会对人工智能踩刹车。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3492605"
   }
 ]
