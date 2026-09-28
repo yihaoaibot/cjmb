@@ -1,8 +1,134 @@
 [
   {
+    "post": "Financial_Express/3496318",
+    "datetime": "2026-09-28T14:33:02+00:00",
+    "views": "1",
+    "text": "俄罗斯方面任命的卢甘斯克地区负责人表示，卢甘斯克地区遭袭，造成一人死亡。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496318"
+  },
+  {
+    "post": "Financial_Express/3496316",
+    "datetime": "2026-09-28T14:32:22+00:00",
+    "views": "2",
+    "text": "欧洲央行行长拉加德：不以中性利率为参考来制定政策。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496316"
+  },
+  {
+    "post": "Financial_Express/3496317",
+    "datetime": "2026-09-28T14:32:22+00:00",
+    "views": "2",
+    "text": "花旗集团：花旗旗下 Spring 平台使机构客户能够在结账时接受稳定币支付。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496317"
+  },
+  {
+    "post": "Financial_Express/3496314",
+    "datetime": "2026-09-28T14:32:05+00:00",
+    "views": "2",
+    "text": "欧洲央行行长拉加德：利率处于中性区间的上限。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496314"
+  },
+  {
+    "post": "Financial_Express/3496315",
+    "datetime": "2026-09-28T14:32:05+00:00",
+    "views": "2",
+    "text": "欧洲央行行长拉加德：货币政策制定并未以中性利率为参考依据。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496315"
+  },
+  {
+    "post": "Financial_Express/3496313",
+    "datetime": "2026-09-28T14:32:04+00:00",
+    "views": "2",
+    "text": "美国 9 月达拉斯联储制造业原材料支付价格指数 52.2，前值 44.1。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496313"
+  },
+  {
+    "post": "Financial_Express/3496312",
+    "datetime": "2026-09-28T14:32:03+00:00",
+    "views": "2",
+    "text": "美国 9 月达拉斯联储制造业装船指数 24.8，前值 14.1。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496312"
+  },
+  {
+    "post": "Financial_Express/3496311",
+    "datetime": "2026-09-28T14:31:52+00:00",
+    "views": "2",
+    "text": "交易员降低对欧洲央行的赌注，预计 10 月份加息的概率不足 40%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496311"
+  },
+  {
+    "post": "Financial_Express/3496309",
+    "datetime": "2026-09-28T14:31:43+00:00",
+    "views": "2",
+    "text": "美国 9 月达拉斯联储制造业就业指数 15.1，前值 8。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496309"
+  },
+  {
+    "post": "Financial_Express/3496310",
+    "datetime": "2026-09-28T14:31:43+00:00",
+    "views": "2",
+    "text": "花旗与 Coinbase 扩大合作，为企业和消费者打通数字支付与法币支付渠道。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496310"
+  },
+  {
+    "post": "Financial_Express/3496308",
+    "datetime": "2026-09-28T14:31:42+00:00",
+    "views": "2",
+    "text": "美国 9 月达拉斯联储制成品价格指数 27.6，前值 22.7。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496308"
+  },
+  {
+    "post": "Financial_Express/3496306",
+    "datetime": "2026-09-28T14:31:23+00:00",
+    "views": "2",
+    "text": "美国 9 月达拉斯联储新订单指数 30.7，前值 22。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496306"
+  },
+  {
+    "post": "Financial_Express/3496307",
+    "datetime": "2026-09-28T14:31:23+00:00",
+    "views": "2",
+    "text": "拉加德：欧洲央行处于中性利率区间上端。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496307"
+  },
+  {
+    "post": "Financial_Express/3496305",
+    "datetime": "2026-09-28T14:31:22+00:00",
+    "views": "2",
+    "text": "美国 9 月达拉斯联储制造业产出指数 29.5，前值 16.1。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3496305"
+  },
+  {
     "post": "Financial_Express/3496304",
     "datetime": "2026-09-28T14:31:02+00:00",
-    "views": "1",
+    "views": "2",
     "text": "达拉斯联储德克萨斯州产出指数 9 月为 29.5，8 月为 16.1。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +137,7 @@
   {
     "post": "Financial_Express/3496303",
     "datetime": "2026-09-28T14:30:42+00:00",
-    "views": "2",
+    "views": "33",
     "text": "美国 9 月达拉斯联储商业活动指数 9.8，预期 8.2，前值 11.6。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +146,7 @@
   {
     "post": "Financial_Express/3496302",
     "datetime": "2026-09-28T14:30:31+00:00",
-    "views": "2",
+    "views": "33",
     "text": "美国 9 月达拉斯联储商业活动指数 9.8，预期 7.8，前值 11.6。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +155,7 @@
   {
     "post": "Financial_Express/3496300",
     "datetime": "2026-09-28T14:28:23+00:00",
-    "views": "33",
+    "views": "64",
     "text": "特朗普政府预测，通用汽车(GM.N)技术成本到 2031 年将总计下降 204 亿美元，因燃油经济标准降低。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +164,7 @@
   {
     "post": "Financial_Express/3496301",
     "datetime": "2026-09-28T14:28:23+00:00",
-    "views": "33",
+    "views": "64",
     "text": "特朗普政府预测，由于燃油经济性标准降低，到 2031 年通用汽车的技术成本将累计减少 204 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +173,7 @@
   {
     "post": "Financial_Express/3496299",
     "datetime": "2026-09-28T14:26:43+00:00",
-    "views": "48",
+    "views": "79",
     "text": "马斯克：星舰首次轨道飞行成功！\n❤1",
     "media_only": false,
     "image_url": null,
@@ -32947,32 +33073,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3492618"
-  },
-  {
-    "post": "Financial_Express/3492617",
-    "datetime": "2026-09-26T14:32:22+00:00",
-    "views": "171",
-    "text": "据国际文传电讯社：俄罗斯外长拉夫罗夫在联合国大会期间与德国外长举行会晤。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3492617"
-  },
-  {
-    "post": "Financial_Express/3492616",
-    "datetime": "2026-09-26T14:32:02+00:00",
-    "views": "178",
-    "text": "美国总统特朗普：“超级智能”（Super Intelligence），这个名字更贴切。这个名字之所以更准确，是因为“Artificial”一词往往暗示着“虚假”或“非真实”；但它（AI）并非虚假之物，而是一种极其强大的智能。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3492616"
-  },
-  {
-    "post": "Financial_Express/3492615",
-    "datetime": "2026-09-26T14:31:23+00:00",
-    "views": "162",
-    "text": "俄罗斯外长拉夫罗夫在联合国大会间隙与德国外长举行会晤。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3492615"
   }
 ]
