@@ -1,8 +1,107 @@
 [
   {
+    "post": "Financial_Express/3500101",
+    "datetime": "2026-09-29T18:01:03+00:00",
+    "views": "6",
+    "text": "美联储威廉姆斯：美联储的政策能够确保供给冲击带来的影响不会持久。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500101"
+  },
+  {
+    "post": "Financial_Express/3500100",
+    "datetime": "2026-09-29T18:01:02+00:00",
+    "views": "6",
+    "text": "美联储古尔斯比：2023 年和 2024 年时，我曾认为通胀正回落至 2%的目标水平，但这一进程后来停滞。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500100"
+  },
+  {
+    "post": "Financial_Express/3500099",
+    "datetime": "2026-09-29T18:00:50+00:00",
+    "views": "9",
+    "text": "美联储“三把手”威廉姆斯：2026 年稍晚可能还需加息一次。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500099"
+  },
+  {
+    "post": "Financial_Express/3500098",
+    "datetime": "2026-09-29T18:00:43+00:00",
+    "views": "9",
+    "text": "美国天然气期货跌超 3.00%，现报 3.011 美元/百万英热。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500098"
+  },
+  {
+    "post": "Financial_Express/3500097",
+    "datetime": "2026-09-29T18:00:42+00:00",
+    "views": "9",
+    "text": "美联储威廉姆斯：预计美国今年 GDP 增速 2.25%，2027 年失业率为 4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500097"
+  },
+  {
+    "post": "Financial_Express/3500096",
+    "datetime": "2026-09-29T18:00:23+00:00",
+    "views": "11",
+    "text": "美联储威廉姆斯：2026 年末或还需要一次加息。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500096"
+  },
+  {
+    "post": "Financial_Express/3500095",
+    "datetime": "2026-09-29T18:00:22+00:00",
+    "views": "11",
+    "text": "WTI 原油失守 90 美元/桶，日内跌 2.81%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500095"
+  },
+  {
+    "post": "Financial_Express/3500094",
+    "datetime": "2026-09-29T18:00:09+00:00",
+    "views": "15",
+    "text": "美联储 Goolsbee：2023-24 年，我曾认为美国通胀会回落至 2%，但之后通胀陷入停滞。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500094"
+  },
+  {
+    "post": "Financial_Express/3500092",
+    "datetime": "2026-09-29T18:00:03+00:00",
+    "views": "15",
+    "text": "美联储古尔斯比：2023 至 2024 年，我曾认为通胀会回落至 2%，但之后通胀陷入停滞。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500092"
+  },
+  {
+    "post": "Financial_Express/3500093",
+    "datetime": "2026-09-29T18:00:03+00:00",
+    "views": "15",
+    "text": "美联储古尔斯比：在点阵图里，我属于美联储内部偏乐观的那批人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500093"
+  },
+  {
+    "post": "Financial_Express/3500091",
+    "datetime": "2026-09-29T18:00:02+00:00",
+    "views": "15",
+    "text": "据 CBS：伊拉克开始经由叙利亚港口进口汽油，以绕过关闭的霍尔木兹海峡。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500091"
+  },
+  {
     "post": "Financial_Express/3500090",
     "datetime": "2026-09-29T17:58:22+00:00",
-    "views": "14",
+    "views": "26",
     "text": "美联储古尔斯比：巨额赤字是一种刺激形式，可能导致经济过热。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +110,7 @@
   {
     "post": "Financial_Express/3500089",
     "datetime": "2026-09-29T17:58:02+00:00",
-    "views": "14",
+    "views": "26",
     "text": "加拿大央行副行长格拉维尔：必须确保对冲基金具备稳健的流动性管理。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +119,7 @@
   {
     "post": "Financial_Express/3500088",
     "datetime": "2026-09-29T17:57:02+00:00",
-    "views": "18",
+    "views": "57",
     "text": "美联储古尔斯比：巨额赤字属于一种刺激手段，可能导致经济过热。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +128,7 @@
   {
     "post": "Financial_Express/3500087",
     "datetime": "2026-09-29T17:56:43+00:00",
-    "views": "17",
+    "views": "55",
     "text": "加拿大央行副行长格拉维尔：对冲基金的持仓可能放大债券市场压力。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +137,7 @@
   {
     "post": "Financial_Express/3500086",
     "datetime": "2026-09-29T17:56:42+00:00",
-    "views": "17",
+    "views": "55",
     "text": "OpenAI：正在调查 ChatGPT 和 Codex 错误率升高的问题。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +146,7 @@
   {
     "post": "Financial_Express/3500085",
     "datetime": "2026-09-29T17:56:22+00:00",
-    "views": "19",
+    "views": "56",
     "text": "OpenAI：正在调查 ChatGPT 与 Codex 错误率升高问题。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +155,7 @@
   {
     "post": "Financial_Express/3500084",
     "datetime": "2026-09-29T17:55:29+00:00",
-    "views": "49",
+    "views": "55",
     "text": "OpenAI：正调查 ChatGPT、Codex 出错率偏高这个问题。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +164,7 @@
   {
     "post": "Financial_Express/3500083",
     "datetime": "2026-09-29T17:55:22+00:00",
-    "views": "51",
+    "views": "57",
     "text": "加拿大央行副行长格拉维尔：资产负债表项下的加拿大政府债券购买操作可能要到 2028 年才会启动。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +173,7 @@
   {
     "post": "Financial_Express/3500082",
     "datetime": "2026-09-29T17:54:59+00:00",
-    "views": "51",
+    "views": "57",
     "text": "加拿大央行副行长格拉维尔（Toni Gravelle）表示，央行正通过定期加大两周回购操作的规模，试图减轻 Corra（加拿大隔夜回购利率均值）面临的上行压力。\n央行正在应对 Corra 的上行偏移。Corra 即加拿大隔夜回购利率均值，以加拿大政府国库券和债券作为回购交易的担保品，用以衡量隔夜资金的成本。\n格拉维尔表示，央行将于 2027 年第一季度启用加拿大抵押品管理服务，实现回购交易部分环节的自动化，以降低低效问题。",
     "media_only": false,
     "image_url": null,
