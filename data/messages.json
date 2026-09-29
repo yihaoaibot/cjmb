@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3500239",
+    "datetime": "2026-09-29T19:16:15+00:00",
+    "views": "1",
+    "text": "周二（9 月 29 日）纽约尾盘，ICE 美元指数涨 0.17%，报 101.366 点，日内交投区间为 101.177-101.612 点，亚太盘初以来持续震荡上行、北京时间 00:58 刷新日高。\n彭博美元指数涨 0.16%，报 1218.26 点，日内交投区间为 1215.49-1220.52 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500239"
+  },
+  {
     "post": "Financial_Express/3500238",
     "datetime": "2026-09-29T19:14:42+00:00",
-    "views": "1",
+    "views": "2",
     "text": "据伊朗媒体 Fars News：伊朗外交部就内塔尼亚胡访问阿联酋可能带来的后果向地区国家发出警告。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3500232",
     "datetime": "2026-09-29T19:06:22+00:00",
-    "views": "35",
+    "views": "36",
     "text": "美国最高法院将于 12 月就驱逐移民出境问题进行听证辩论。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3500231",
     "datetime": "2026-09-29T19:06:02+00:00",
-    "views": "36",
+    "views": "37",
     "text": "OpenAI 首席执行官奥特曼：OpenAI 正经历“非常陡峭的增长期”。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3500230",
     "datetime": "2026-09-29T19:05:28+00:00",
-    "views": "36",
+    "views": "37",
     "text": "OpenAI 的 CEO Altman：公司将提供多个市场版本的 Dots 智能体。\n公司处于“非常陡峭的成长期”。\n投资者对本公司的 IPO 计划有耐心。（彭博电视）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3500229",
     "datetime": "2026-09-29T19:05:02+00:00",
-    "views": "36",
+    "views": "37",
     "text": "Spotify：发生服务中断，目前情况已大幅好转。",
     "media_only": false,
     "image_url": null,
@@ -60901,23 +60910,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3493422"
-  },
-  {
-    "post": "Financial_Express/3493421",
-    "datetime": "2026-09-27T19:17:02+00:00",
-    "views": "137",
-    "text": "据半岛电视台：以色列军队在加沙各地射杀四名巴勒斯坦人。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3493421"
-  },
-  {
-    "post": "Financial_Express/3493420",
-    "datetime": "2026-09-27T19:16:02+00:00",
-    "views": "132",
-    "text": "以色列总理内塔尼亚胡在阿联酋会见总统穆罕默德·本·扎耶德后返回以色列。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3493420"
   }
 ]
