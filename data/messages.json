@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3500127",
+    "datetime": "2026-09-29T18:06:42+00:00",
+    "views": "3",
+    "text": "美联储古尔斯比：部分供给冲击，美联储必须做出应对。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500127"
+  },
+  {
+    "post": "Financial_Express/3500125",
+    "datetime": "2026-09-29T18:06:22+00:00",
+    "views": "5",
+    "text": "美联储穆萨莱姆：目前，人工智能资本支出热潮导致了需求压力，生产率和“供应缓解”尚未显现。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500125"
+  },
+  {
+    "post": "Financial_Express/3500126",
+    "datetime": "2026-09-29T18:06:22+00:00",
+    "views": "5",
+    "text": "美联储穆萨莱姆：目前经济非常强劲，但依赖于持续增长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500126"
+  },
+  {
+    "post": "Financial_Express/3500124",
+    "datetime": "2026-09-29T18:05:42+00:00",
+    "views": "8",
+    "text": "美联储穆萨莱姆：美国经济增长强劲，劳动力市场状况良好。 当前经济十分强劲，但这依赖经济持续增长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500124"
+  },
+  {
+    "post": "Financial_Express/3500123",
+    "datetime": "2026-09-29T18:05:32+00:00",
+    "views": "9",
+    "text": "美国两年期国债收益率刷新日低，美联储三把手威廉姆斯认为，9 月加息后，“没有必要急于行动”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500123"
+  },
+  {
     "post": "Financial_Express/3500122",
     "datetime": "2026-09-29T18:05:02+00:00",
-    "views": "1",
+    "views": "11",
     "text": "美联储穆萨莱姆：美联储不能基于预期的 AI 生产率提升而降息。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3500121",
     "datetime": "2026-09-29T18:04:42+00:00",
-    "views": "3",
+    "views": "13",
     "text": "美联储穆萨莱姆：当前 AI 资本开支热潮正带来需求端压力，生产率提升与 “供给缓解效应” 尚未显现。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3500120",
     "datetime": "2026-09-29T18:04:22+00:00",
-    "views": "8",
+    "views": "17",
     "text": "WTI 原油日内跌 3%，现报 89.82 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3500119",
     "datetime": "2026-09-29T18:03:42+00:00",
-    "views": "10",
+    "views": "18",
     "text": "美联储威廉姆斯：我预计能源价格对通胀的影响将更大且持续更长时间。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3500118",
     "datetime": "2026-09-29T18:03:22+00:00",
-    "views": "11",
+    "views": "19",
     "text": "美联储古尔斯比：必须获得通胀回落的证据。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3500117",
     "datetime": "2026-09-29T18:03:03+00:00",
-    "views": "13",
+    "views": "50",
     "text": "美联储威廉姆斯：今年晚些时候，联邦基金利率目标区间或适宜再度上调。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3500116",
     "datetime": "2026-09-29T18:03:02+00:00",
-    "views": "13",
+    "views": "51",
     "text": "美联储威廉姆斯：9 月加息后，“没有必要急于行动”。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3500114",
     "datetime": "2026-09-29T18:02:43+00:00",
-    "views": "14",
+    "views": "51",
     "text": "美联储威廉姆斯：美联储将在制定货币政策时根据数据作出回应。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3500115",
     "datetime": "2026-09-29T18:02:43+00:00",
-    "views": "14",
+    "views": "51",
     "text": "美联储古尔斯比：必须看到通胀正在回落的证据。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3500112",
     "datetime": "2026-09-29T18:02:42+00:00",
-    "views": "14",
+    "views": "52",
     "text": "美联储威廉姆斯：让通胀回到 2%目标水平至关重要。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3500113",
     "datetime": "2026-09-29T18:02:42+00:00",
-    "views": "14",
+    "views": "51",
     "text": "美联储威廉姆斯：更多数据将帮助美联储决定下一步利率政策。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3500110",
     "datetime": "2026-09-29T18:02:22+00:00",
-    "views": "14",
+    "views": "50",
     "text": "美联储威廉姆斯：美联储政策可以确保供应冲击不会长期持续。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3500111",
     "datetime": "2026-09-29T18:02:22+00:00",
-    "views": "14",
+    "views": "51",
     "text": "美联储威廉姆斯：美联储必须确保高通胀不会根深蒂固。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3500108",
     "datetime": "2026-09-29T18:02:04+00:00",
-    "views": "15",
+    "views": "50",
     "text": "美联储威廉姆斯：若经济符合预期，今年大概率还会再加息一次。更多数据将帮助美联储决定利率政策下一步走向。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3500109",
     "datetime": "2026-09-29T18:02:04+00:00",
-    "views": "15",
+    "views": "50",
     "text": "美联储威廉姆斯：美国经济动能强劲，且可能持续增强。AI 投资相关问题对通胀的影响正变得越来越大。",
     "media_only": false,
     "image_url": null,
@@ -59938,14 +59983,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3493413"
-  },
-  {
-    "post": "Financial_Express/3493412",
-    "datetime": "2026-09-27T18:05:42+00:00",
-    "views": "219",
-    "text": "塞尔维亚总统武契奇宣布辞职\n当地时间 9 月 27 日晚，塞尔维亚总统武契奇向民众发表讲话，宣布辞职。本月 5 日，塞尔维亚前进党总委员会决定，推举武契奇为该党议会选举名单领衔人和总理候选人，武契奇随后接受推举。9 日，武契奇签署总统令解散议会，并宣布于 10 月 25 日提前举行议会选举。 武契奇 2017 年 4 月当选总统，2022 年 5 月连任。根据塞尔维亚宪法，总统任期 5 年，可连任一次。（CCTV 国际时讯）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3493412"
   }
 ]
