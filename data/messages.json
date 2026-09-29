@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3500526",
+    "datetime": "2026-09-29T21:37:53+00:00",
+    "views": "15",
+    "text": "Bloom Energy Corp.首席执行官 KR Sridhar 表示，他有信心人工智能（AI）基础设施建设中的“减速带”不会影响该公司的增长计划。\n“道路上会不会出现颠簸，比如增速略有放缓？答案可能是会的，”。尽管部分数据中心的建设将出现延误，“但我们的项目组合足够丰富，我们对自己预测的数字充满信心。”（彭博电视）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500526"
+  },
+  {
     "post": "Financial_Express/3500525",
     "datetime": "2026-09-29T21:36:03+00:00",
-    "views": "10",
+    "views": "20",
     "text": "波音股价盘后涨 3.4%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3500524",
     "datetime": "2026-09-29T21:36:02+00:00",
-    "views": "10",
+    "views": "20",
     "text": "五角大楼：波音(BA.N)赢得美国海军下一代战斗机合同，价值数十亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3500523",
     "datetime": "2026-09-29T21:35:42+00:00",
-    "views": "11",
+    "views": "20",
     "text": "美国白宫发布人工智能协议，声称为给美国民众与全世界创造美好的未来，认为每家企业都有责任安全地研发自身技术，并建立客户与公众的信任。\n所有训练和部署前沿模型的企业，首先必须建立完善的内部流程与管控机制，确保技术按预期运行，并且能够及时发现、解决各类问题。因此，除其他防范措施外，认为每家企业应当落实以下四层管控与审计机制：\n1. 建立健全的内部管控体系，在模型训练与部署阶段，针对网络安全、生物安全、化学威胁等领域，监测模型能力与合规性，确保模型不会以非预期方式入侵或访问技术系统。\n2. 设立内部专项团队，保障所有管控、监测和检测机制按设计运行，并且对发现的所有问题开展整改。\n3. 与独立外部审计或评估机构合作，针对管控、监测与检测机制是否正常运行开展独立评估。\n4. 设立董事会独立委员会，监督管控执行团队、内部及外部审计评估机构，并接收其报告，同时确保所有发现的问题得到整改。\n以上举措共同作用，能够让企业、客户以及公众相信技术正在按预期运行。\n参与企业将定期会晤，制定标准与最佳实践，提升系统安全性。\n长期来看，或将把上述举措纳入法律法规。无论企业是否被强制要求执行，白宫认为落实这套管控与审计机制对保障所有人的安全未来至关重要，各家企业承诺将践行上述要求。",
     "media_only": false,
     "image_url": null,
@@ -29,8 +38,8 @@
   {
     "post": "Financial_Express/3500521",
     "datetime": "2026-09-29T21:35:22+00:00",
-    "views": "11",
-    "text": "美国选择波音公司负责制造下一代战斗机。",
+    "views": "18",
+    "text": "美国选择波音公司负责制造下一代战斗机。\n波音股价盘后涨 3.4%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3500521"
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3500522",
     "datetime": "2026-09-29T21:35:22+00:00",
-    "views": "11",
+    "views": "18",
     "text": "美国选择波音公司制造下一代战斗机。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3500520",
     "datetime": "2026-09-29T21:34:22+00:00",
-    "views": "13",
+    "views": "18",
     "text": "白宫人工智能协议：英伟达(NVDA.O)、OpenAI、Anthropic、xAI，谷歌(GOOG.O)将定期讨论人工智能安全标准。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3500519",
     "datetime": "2026-09-29T21:33:02+00:00",
-    "views": "15",
+    "views": "19",
     "text": "白宫人工智能协议：英伟达、OpenAI、Anthropic、xAI、谷歌将定期就人工智能安全标准举行会议。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3500518",
     "datetime": "2026-09-29T21:30:49+00:00",
-    "views": "21",
+    "views": "25",
     "text": "Anthropic 在 2025 年通过亚马逊、谷歌完成 47%的销售。（路透）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3500517",
     "datetime": "2026-09-29T21:30:22+00:00",
-    "views": "23",
+    "views": "26",
     "text": "白宫人工智能协议：指定一个独立委员会，负责监督并接收运营控制的团队，以及内部和外部审计师和评估师的报告。",
     "media_only": false,
     "image_url": null,
