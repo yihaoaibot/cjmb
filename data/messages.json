@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3500156",
+    "datetime": "2026-09-29T18:29:02+00:00",
+    "views": "8",
+    "text": "美联储威廉姆斯：通胀应该会回落，因为最大的冲击已基本消退。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500156"
+  },
+  {
+    "post": "Financial_Express/3500155",
+    "datetime": "2026-09-29T18:28:42+00:00",
+    "views": "11",
+    "text": "美联储威廉姆斯：通胀应会缓解，因为最大的冲击已基本消退。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500155"
+  },
+  {
+    "post": "Financial_Express/3500154",
+    "datetime": "2026-09-29T18:27:52+00:00",
+    "views": "22",
+    "text": "MongoDB 股价迅速转涨，目前涨幅 4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500154"
+  },
+  {
+    "post": "Financial_Express/3500153",
+    "datetime": "2026-09-29T18:27:42+00:00",
+    "views": "22",
+    "text": "美联储穆萨莱姆：即使在最近一次加息之后，货币政策仍然略显宽松。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500153"
+  },
+  {
+    "post": "Financial_Express/3500152",
+    "datetime": "2026-09-29T18:27:22+00:00",
+    "views": "26",
+    "text": "美联储穆萨莱姆：即便在上次加息之后，货币政策仍具备一定宽松属性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500152"
+  },
+  {
     "post": "Financial_Express/3500151",
     "datetime": "2026-09-29T18:26:42+00:00",
-    "views": "13",
+    "views": "32",
     "text": "美联储威廉姆斯：物价稳定是经济运行的基石。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3500150",
     "datetime": "2026-09-29T18:26:02+00:00",
-    "views": "15",
+    "views": "29",
     "text": "美联储古尔斯比：通胀持续高于目标是在“玩火”\n金十数据 9 月 30 日讯，芝加哥联储主席奥斯坦·古尔斯比表示，美国通胀持续高于美联储 2%的目标已超过五年半，长期维持高通胀水平是在“玩火”，美联储需要关注持续性供应冲击带来的影响。古尔斯比表示，当前情况“令人不快”，但如果供应冲击产生长期影响，美联储可能需要重新考虑此前“忽略供应冲击”的政策逻辑。他称，在考虑降息前，美联储需要看到更多证据，确认通胀正在回落，以及此前被认为是暂时性的因素正在消退。古尔斯比还警告，巨额财政赤字本身就是一种刺激措施，可能导致经济过热。他表示，市场对未来 AI 生产率提升的预期也可能带来当前经济过热风险，美联储需要密切关注生产率变化。他指出，油价可能快速回落，但更深层的问题在于炼油设施恢复运营的过程。古尔斯比表示，能源价格、AI 投资和财政刺激等因素都可能影响未来通胀路径。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3500149",
     "datetime": "2026-09-29T18:25:34+00:00",
-    "views": "17",
+    "views": "29",
     "text": "World Labs 出售给超威半导体（AMD），为这家成立仅两年的 AI 初创公司的快速崛起画上句号，同时也将使联合创始人李飞飞的财富增加一半以上。据彭博亿万富豪指数，交易完成后，这位斯坦福大学资深教授的净资产将升至至少 16 亿美元。专注于空间智能和物理智能的 World Labs 于周一同意以 82 亿美元的估值被这家芯片制造商收购。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3500148",
     "datetime": "2026-09-29T18:23:22+00:00",
-    "views": "53",
+    "views": "62",
     "text": "美联储穆萨莱姆：美联储经济预测摘要（SEP）可以通过匿名方式将利率“点阵图”与经济预测对应起来，从而得到改进。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3500147",
     "datetime": "2026-09-29T18:23:14+00:00",
-    "views": "53",
+    "views": "62",
     "text": "美联储 Musalem：美联储的经济预期概要（SEP）可以通过将利率 “点阵” 匿名对应到各项经济预测来加以完善。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3500146",
     "datetime": "2026-09-29T18:22:42+00:00",
-    "views": "57",
+    "views": "66",
     "text": "美联储穆萨莱姆：美联储的经济预测摘要（SEP）可以通过将利率 “点阵” 匿名对应到各项经济预测来加以完善。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3500145",
     "datetime": "2026-09-29T18:21:42+00:00",
-    "views": "61",
+    "views": "68",
     "text": "巴克莱：若生产率增长持续加快 美国 30 年期国债收益率或升至 6%\n巴克莱资本(Barclays Capital)美国利率研究主管在报告中表示，美国 30 年期国债收益率有升至 6%的空间，因为本月美债市场的抛售尚未计入生产率增速持续上升的风险。Anshul Pradhan 写道，市场“仍然假设当前处于高位的中性利率最终将被证明是周期性而非结构性的”。在这种周期性框架下，投资者预计美联储将加息以遏制通胀，但“不认为这种上升是永久性的”。Pradhan 写道，这一观点面临的主要挑战在于经济生产率提高。预计美国科技巨头今年在人工智能基础设施上的支出将与过去三年的合计支出相当。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3500144",
     "datetime": "2026-09-29T18:21:13+00:00",
-    "views": "61",
+    "views": "66",
     "text": "巴克莱资本美国利率研究主管在报告中表示，美国 30 年期国债收益率有升至 6%的空间，因为本月美债市场的抛售尚未计入生产率增速持续上升的风险。\nAnshul Pradhan 写道，市场“仍然假设当前处于高位的中性利率最终将被证明是周期性而非结构性的”。在这种周期性框架下，投资者预计美联储将加息以遏制通胀，但“不认为这种上升是永久性的”。这一观点面临的主要挑战在于经济生产率提高。预计美国科技巨头今年在人工智能基础设施上的支出将与过去三年的合计支出相当。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3500143",
     "datetime": "2026-09-29T18:21:02+00:00",
-    "views": "62",
+    "views": "65",
     "text": "OpenAI：“抱抱脸”事件是迄今为止最严重的平台事故。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3500142",
     "datetime": "2026-09-29T18:20:42+00:00",
-    "views": "63",
+    "views": "66",
     "text": "伊朗革命卫队：波斯湾岛屿是伊朗领土防御的“前沿阵地”，伊方将持续加强当地防御能力、作战准备和情报监控能力。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3500141",
     "datetime": "2026-09-29T18:19:02+00:00",
-    "views": "63",
+    "views": "66",
     "text": "OpenAI：公司持续（针对 AI 安全问题）进行更大范围活动的评估。Hugging Face 事件是该平台迄今为止最严重的事故。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3500140",
     "datetime": "2026-09-29T18:18:34+00:00",
-    "views": "63",
+    "views": "66",
     "text": "OpenAI：公司持续（针对 AI 安全问题）进行更大范围活动的评估。\n（OpenAI 大模型）未经授权访问 Hugging Facebook 事故是平台历史上最严重的事故。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3500139",
     "datetime": "2026-09-29T18:17:42+00:00",
-    "views": "62",
+    "views": "65",
     "text": "洛克希德·马丁公司：阿维奥美国公司（Avio USA）已在弗吉尼亚州破土动工建设其在美国的首座固体火箭发动机工厂。该厂每年将生产数千台固体火箭发动机，并创造 1500 个就业岗位；预计 2028 年底竣工，2029 年初启动生产。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3500138",
     "datetime": "2026-09-29T18:14:22+00:00",
-    "views": "65",
+    "views": "67",
     "text": "美联储穆萨莱姆：长期通胀预期仍与 2% 通胀目标保持一致。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3500137",
     "datetime": "2026-09-29T18:13:42+00:00",
-    "views": "97",
+    "views": "99",
     "text": "美联储穆萨莱姆：通胀预期与长期 2%的通胀水平保持一致。",
     "media_only": false,
     "image_url": null,
