@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3499981",
+    "datetime": "2026-09-29T17:13:02+00:00",
+    "views": "1",
+    "text": "美联储理事巴尔：美联储的独立性帮助我们更好地服务于美国人民。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499981"
+  },
+  {
+    "post": "Financial_Express/3499980",
+    "datetime": "2026-09-29T17:12:42+00:00",
+    "views": "1",
+    "text": "美联储理事巴尔：美联储的独立性有助于我们更好地服务美国民众。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499980"
+  },
+  {
+    "post": "Financial_Express/3499979",
+    "datetime": "2026-09-29T17:12:02+00:00",
+    "views": "2",
+    "text": "美联储理事巴尔：经济动能似乎正在持续增强。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499979"
+  },
+  {
+    "post": "Financial_Express/3499978",
+    "datetime": "2026-09-29T17:11:46+00:00",
+    "views": "2",
+    "text": "Meta Platforms 股价转跌，OpenAI 发布新款 AI 智能体工具 Dots。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499978"
+  },
+  {
+    "post": "Financial_Express/3499977",
+    "datetime": "2026-09-29T17:11:23+00:00",
+    "views": "33",
+    "text": "美联储理事巴尔：我的基准情景并未预测会出现衰退。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499977"
+  },
+  {
+    "post": "Financial_Express/3499976",
+    "datetime": "2026-09-29T17:11:22+00:00",
+    "views": "33",
+    "text": "OpenAI：将于未来数日推出 GPT‑6.1 Sol 超快版。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499976"
+  },
+  {
     "post": "Financial_Express/3499975",
     "datetime": "2026-09-29T17:10:43+00:00",
-    "views": "1",
+    "views": "34",
     "text": "OpenAI 发布了一款名为 Dots 的常驻人工智能智能体，可以主动代表用户处理工作。\nDots 能够操作电脑，并从各种互联应用中提取信息，以开展研究、起草文档和开发软件。\nOpenAI 正在向付费用户推出 Dots，每位用户最初可使用一个可充当助手的“点”（dot），并计划推出新的高端 500 美元付费档位，提供更高的使用额度和更快的处理速度。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3499974",
     "datetime": "2026-09-29T17:10:22+00:00",
-    "views": "1",
+    "views": "33",
     "text": "OpenAI：正与微软合作，将专业版 Dots 智能体接入 Agent 365，配套微软企业级治理与安全管控能力。首个 Dot 智能体已纳入 Pro 及高级商业版套餐，无需额外付费。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3499973",
     "datetime": "2026-09-29T17:10:02+00:00",
-    "views": "2",
+    "views": "34",
     "text": "OpenAI 推出全天候自主智能体 Dots。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3499972",
     "datetime": "2026-09-29T17:09:43+00:00",
-    "views": "2",
+    "views": "34",
     "text": "OpenAI：GPT‑6.1 Sol 自今日起，面向 ChatGPT Work 与 Codex 内所有 Plus、Pro、Business、Enterprise 及 Edu 用户开放。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3499970",
     "datetime": "2026-09-29T17:09:23+00:00",
-    "views": "33",
+    "views": "35",
     "text": "OpenAI：面向 ChatGPT 专业版与高级商业版用户推出 Dots 人工智能智能体。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3499971",
     "datetime": "2026-09-29T17:09:23+00:00",
-    "views": "33",
+    "views": "35",
     "text": "OpenAI：ChatGPT 的周活跃用户已达 12 亿。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3499969",
     "datetime": "2026-09-29T17:09:22+00:00",
-    "views": "33",
+    "views": "35",
     "text": "OpenAI 推出 GPT-6.1 Sol 模型，其性能接近 Astra，但标准词元价格仅为 Astra 的五分之一。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3499968",
     "datetime": "2026-09-29T17:09:02+00:00",
-    "views": "33",
+    "views": "35",
     "text": "OpenAI：推出 GPT‑6.1 Sol。GPT‑6.1 Sol 标准 API 定价为每百万输入 token 2 美元，每百万缓存输入 token 0.10 美元，每百万输出 token 10 美元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3499967",
     "datetime": "2026-09-29T17:08:42+00:00",
-    "views": "32",
+    "views": "33",
     "text": "OpenAI 无视员工警示：公司在安全方面做得远远不够\n据美媒报道称，在 OpenAI 人工智能模型出现失控事件数月前，两名员工已向高管发出警报，但他们的警告被无视。、美媒查阅相关邮件后获悉，这两名员工担忧 OpenAI 最新 AI 模型未得到恰当监控，无法评估技术能力并保障模型安全。员工表示，高管对此的答复是，必须尽快推进测试，保障 AI 模型按时发布，并未增设任何安全管控流程。后续，OpenAI 模型突破测试环境，入侵 Hugging Face 及其他机构，引发连锁反应。独立安全研究人员称，近几个月发现多处漏洞，可查看 OpenAI 员工内部通信记录；还有其他漏洞，能够获取公司内部代码以及 ChatGPT 用户的对话日志。研究人员向 OpenAI 反馈问题时，公司起初不予理会。OpenAI 员工称，安全日常决策主要由总裁格雷格・布罗克曼与首席信息安全官戴恩・斯塔基负责，首席执行官山姆・奥特曼并未深度参与安全事务。",
     "media_only": false,
     "image_url": null,
@@ -83,8 +137,8 @@
   {
     "post": "Financial_Express/3499966",
     "datetime": "2026-09-29T17:08:34+00:00",
-    "views": "32",
-    "text": "OpenAI 的 CEO Altman 发布新款 AI 智能体工具，名叫 Dots。\n发布 GPT-6.1 SOL。",
+    "views": "33",
+    "text": "OpenAI 发布一款常驻人工智能（AI）智能体，旨在主动代表用户处理工作，在日益壮大的 AI 数字助手领域与 Meta 平台等公司展开竞争。\nOpenAI 周二表示，这款名为 Dots 的产品能够操作电脑，并从各种互联应用中提取信息，以开展研究、起草文档和开发软件。用户可以通过 ChatGPT 向该智能体发送消息来指挥它并与之互动。\n这款新工具在周二的 OpenAI 开发者日活动中亮相，同时发布的还有其 Sol 模型的更新版本以及一个供团队与 AI 协作的共享空间。OpenAI 还对订阅方案进行了调整：首次推出新的高端 500 美元付费档位，提供更高的使用额度和更快的处理速度，同时下调了 200 美元套餐的部分使用额度。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3499966"
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3499965",
     "datetime": "2026-09-29T17:08:22+00:00",
-    "views": "32",
+    "views": "33",
     "text": "OpenAI 称 ChatGPT 的周活跃用户已达 12 亿。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3499964",
     "datetime": "2026-09-29T17:07:49+00:00",
-    "views": "32",
+    "views": "33",
     "text": "由花旗集团牵头的银行为一笔约 75 亿美元的贷款吸引了约 115 亿美元投资者订单，该贷款旨在为派拉蒙天空之舞（Paramount Skydance Corp.）收购华纳兄弟探索（Warner Bros. Discovery Inc.）提供资金。投资者已为其中 65 亿美元美元部分下单超过 100 亿美元，10 亿欧元等值部分则吸引了约 13.5 亿欧元的需求。贷款机构还在考虑将截止期限从最初定于本周三的目标提前。此外，银行为派拉蒙的垃圾债已吸引约 156 亿美元订单。",
     "media_only": false,
     "image_url": null,
