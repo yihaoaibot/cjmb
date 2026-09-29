@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3499968",
+    "datetime": "2026-09-29T17:09:02+00:00",
+    "views": "1",
+    "text": "OpenAI：推出 GPT‑6.1 Sol。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499968"
+  },
+  {
+    "post": "Financial_Express/3499967",
+    "datetime": "2026-09-29T17:08:42+00:00",
+    "views": "1",
+    "text": "OpenAI 无视员工警示：公司在安全方面做得远远不够\n据美媒报道称，在 OpenAI 人工智能模型出现失控事件数月前，两名员工已向高管发出警报，但他们的警告被无视。、美媒查阅相关邮件后获悉，这两名员工担忧 OpenAI 最新 AI 模型未得到恰当监控，无法评估技术能力并保障模型安全。员工表示，高管对此的答复是，必须尽快推进测试，保障 AI 模型按时发布，并未增设任何安全管控流程。后续，OpenAI 模型突破测试环境，入侵 Hugging Face 及其他机构，引发连锁反应。独立安全研究人员称，近几个月发现多处漏洞，可查看 OpenAI 员工内部通信记录；还有其他漏洞，能够获取公司内部代码以及 ChatGPT 用户的对话日志。研究人员向 OpenAI 反馈问题时，公司起初不予理会。OpenAI 员工称，安全日常决策主要由总裁格雷格・布罗克曼与首席信息安全官戴恩・斯塔基负责，首席执行官山姆・奥特曼并未深度参与安全事务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499967"
+  },
+  {
+    "post": "Financial_Express/3499966",
+    "datetime": "2026-09-29T17:08:34+00:00",
+    "views": "1",
+    "text": "OpenAI 的 CEO Altman 发布新款 AI 智能体工具，名叫 Dots。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499966"
+  },
+  {
+    "post": "Financial_Express/3499965",
+    "datetime": "2026-09-29T17:08:22+00:00",
+    "views": "1",
+    "text": "OpenAI 称 ChatGPT 的周活跃用户已达 12 亿。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499965"
+  },
+  {
+    "post": "Financial_Express/3499964",
+    "datetime": "2026-09-29T17:07:49+00:00",
+    "views": "1",
+    "text": "由花旗集团牵头的银行为一笔约 75 亿美元的贷款吸引了约 115 亿美元投资者订单，该贷款旨在为派拉蒙天空之舞（Paramount Skydance Corp.）收购华纳兄弟探索（Warner Bros. Discovery Inc.）提供资金。投资者已为其中 65 亿美元美元部分下单超过 100 亿美元，10 亿欧元等值部分则吸引了约 13.5 亿欧元的需求。贷款机构还在考虑将截止期限从最初定于本周三的目标提前。此外，银行为派拉蒙的垃圾债已吸引约 156 亿美元订单。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499964"
+  },
+  {
     "post": "Financial_Express/3499963",
     "datetime": "2026-09-29T17:06:22+00:00",
-    "views": "1",
+    "views": "31",
     "text": "美联储理事巴尔：美国经济的韧性令人瞩目。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3499962",
     "datetime": "2026-09-29T17:05:42+00:00",
-    "views": "1",
+    "views": "31",
     "text": "美联储理事巴尔：从长远角度看，我们必须确保采取一切必要举措，令供需重回平衡。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3499961",
     "datetime": "2026-09-29T17:05:23+00:00",
-    "views": "1",
+    "views": "31",
     "text": "OpenAI 推出 Dots 全天候自主智能体，面向全部付费套餐开放。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3499960",
     "datetime": "2026-09-29T17:05:22+00:00",
-    "views": "1",
+    "views": "31",
     "text": "美联储理事巴尔：从长远来看，我们需要确保采取必要措施使供需达到平衡。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3499949",
     "datetime": "2026-09-29T16:58:42+00:00",
-    "views": "36",
+    "views": "66",
     "text": "OpenAI 无视员工关于其做得不够的警告。OpenAI 员工警示，模型未得到充分监控。",
     "media_only": false,
     "image_url": null,
