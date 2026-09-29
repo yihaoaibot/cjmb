@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3500122",
+    "datetime": "2026-09-29T18:05:02+00:00",
+    "views": "1",
+    "text": "美联储穆萨莱姆：美联储不能基于预期的 AI 生产率提升而降息。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500122"
+  },
+  {
+    "post": "Financial_Express/3500121",
+    "datetime": "2026-09-29T18:04:42+00:00",
+    "views": "3",
+    "text": "美联储穆萨莱姆：当前 AI 资本开支热潮正带来需求端压力，生产率提升与 “供给缓解效应” 尚未显现。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500121"
+  },
+  {
+    "post": "Financial_Express/3500120",
+    "datetime": "2026-09-29T18:04:22+00:00",
+    "views": "8",
+    "text": "WTI 原油日内跌 3%，现报 89.82 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500120"
+  },
+  {
+    "post": "Financial_Express/3500119",
+    "datetime": "2026-09-29T18:03:42+00:00",
+    "views": "10",
+    "text": "美联储威廉姆斯：我预计能源价格对通胀的影响将更大且持续更长时间。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500119"
+  },
+  {
+    "post": "Financial_Express/3500118",
+    "datetime": "2026-09-29T18:03:22+00:00",
+    "views": "11",
+    "text": "美联储古尔斯比：必须获得通胀回落的证据。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500118"
+  },
+  {
     "post": "Financial_Express/3500117",
     "datetime": "2026-09-29T18:03:03+00:00",
-    "views": "4",
+    "views": "13",
     "text": "美联储威廉姆斯：今年晚些时候，联邦基金利率目标区间或适宜再度上调。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3500116",
     "datetime": "2026-09-29T18:03:02+00:00",
-    "views": "4",
+    "views": "13",
     "text": "美联储威廉姆斯：9 月加息后，“没有必要急于行动”。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3500114",
     "datetime": "2026-09-29T18:02:43+00:00",
-    "views": "8",
+    "views": "14",
     "text": "美联储威廉姆斯：美联储将在制定货币政策时根据数据作出回应。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3500115",
     "datetime": "2026-09-29T18:02:43+00:00",
-    "views": "8",
+    "views": "14",
     "text": "美联储古尔斯比：必须看到通胀正在回落的证据。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3500112",
     "datetime": "2026-09-29T18:02:42+00:00",
-    "views": "8",
+    "views": "14",
     "text": "美联储威廉姆斯：让通胀回到 2%目标水平至关重要。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3500113",
     "datetime": "2026-09-29T18:02:42+00:00",
-    "views": "8",
+    "views": "14",
     "text": "美联储威廉姆斯：更多数据将帮助美联储决定下一步利率政策。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3500110",
     "datetime": "2026-09-29T18:02:22+00:00",
-    "views": "9",
+    "views": "14",
     "text": "美联储威廉姆斯：美联储政策可以确保供应冲击不会长期持续。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3500111",
     "datetime": "2026-09-29T18:02:22+00:00",
-    "views": "9",
+    "views": "14",
     "text": "美联储威廉姆斯：美联储必须确保高通胀不会根深蒂固。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3500108",
     "datetime": "2026-09-29T18:02:04+00:00",
-    "views": "10",
+    "views": "15",
     "text": "美联储威廉姆斯：若经济符合预期，今年大概率还会再加息一次。更多数据将帮助美联储决定利率政策下一步走向。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3500109",
     "datetime": "2026-09-29T18:02:04+00:00",
-    "views": "10",
+    "views": "15",
     "text": "美联储威廉姆斯：美国经济动能强劲，且可能持续增强。AI 投资相关问题对通胀的影响正变得越来越大。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3500106",
     "datetime": "2026-09-29T18:02:03+00:00",
-    "views": "10",
+    "views": "16",
     "text": "美联储威廉姆斯：人工智能投资问题正日益成为影响通胀的重要因素。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3500107",
     "datetime": "2026-09-29T18:02:03+00:00",
-    "views": "10",
+    "views": "15",
     "text": "美联储威廉姆斯：预计美国 GDP 今年增长 2.25%，2027 年失业率为 4%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3500105",
     "datetime": "2026-09-29T18:02:02+00:00",
-    "views": "10",
+    "views": "16",
     "text": "美联储威廉姆斯：美国经济动能强劲，并可能正在增强。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3500104",
     "datetime": "2026-09-29T18:01:42+00:00",
-    "views": "13",
+    "views": "49",
     "text": "美联储威廉姆斯：必须将通胀回落至 2%。美联储制定货币政策时将依据数据做出应对。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3500103",
     "datetime": "2026-09-29T18:01:23+00:00",
-    "views": "16",
+    "views": "50",
     "text": "美联储威廉姆斯：预计今年通胀为 3.5%，2028 年达到 2% 目标。美联储必须确保高通胀不会固化。",
     "media_only": false,
     "image_url": null,
@@ -59902,41 +59947,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3493412"
-  },
-  {
-    "post": "Financial_Express/3493411",
-    "datetime": "2026-09-27T18:05:02+00:00",
-    "views": "191",
-    "text": "唐宁街：英国首相伯纳姆与挪威首相对丹麦、格陵兰和美国之间达成的协议表示欢迎。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3493411"
-  },
-  {
-    "post": "Financial_Express/3493410",
-    "datetime": "2026-09-27T18:04:42+00:00",
-    "views": "188",
-    "text": "唐宁街：英国首相伯纳姆今日在利物浦接待了挪威首相约纳斯·加尔·斯特勒。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3493410"
-  },
-  {
-    "post": "Financial_Express/3493409",
-    "datetime": "2026-09-27T18:04:22+00:00",
-    "views": "188",
-    "text": "唐宁街：英国首相与挪威首相就英国和挪威之间的《伦纳豪斯战略防御协定》进行了讨论。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3493409"
-  },
-  {
-    "post": "Financial_Express/3493408",
-    "datetime": "2026-09-27T18:03:22+00:00",
-    "views": "186",
-    "text": "塞尔维亚总统武契奇辞职，为提前总统选举铺平道路。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3493408"
   }
 ]
