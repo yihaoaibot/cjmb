@@ -1,5 +1,23 @@
 [
   {
+    "post": "Financial_Express/3499990",
+    "datetime": "2026-09-29T17:16:27+00:00",
+    "views": "1",
+    "text": "周二（9 月 29 日），美联储隔夜逆回购协议（RRP）使用规模为 114.46 亿美元（交易对手 10 家），上个交易日报 8.51 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499990"
+  },
+  {
+    "post": "Financial_Express/3499989",
+    "datetime": "2026-09-29T17:16:22+00:00",
+    "views": "1",
+    "text": "OpenAI：全新 500 美元 Pro 套餐，可在 Codex 与 ChatGPT 中使用超快处理功能。GPT‑6.1 Sol 模型性能接近 Astra，成本仅为后者的五分之一。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499989"
+  },
+  {
     "post": "Financial_Express/3499988",
     "datetime": "2026-09-29T17:14:42+00:00",
     "views": "1",
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3499987",
     "datetime": "2026-09-29T17:14:26+00:00",
-    "views": "1",
+    "views": "31",
     "text": "美联储理事巴尔：美国经济动能似乎正在持续增强。\n美联储的独立性有助于我们更好地服务美国民众。\n我们所关注的一切，就是数据如何反映不断变化的前景，以及实现国会赋予我们的使命所面临的风险平衡。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3499986",
     "datetime": "2026-09-29T17:14:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美联储理事巴尔：经济似乎正在积聚动能。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3499985",
     "datetime": "2026-09-29T17:13:43+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美联储理事巴尔：我们所关注的一切，就是数据如何反映不断变化的前景，以及实现国会赋予我们的使命所面临的风险平衡。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3499984",
     "datetime": "2026-09-29T17:13:42+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美国财政部表示，美国已对 10 名个人和实体实施制裁，指其为伊朗国防部及武装部队后勤部门采购武器和武器相关零部件。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3499983",
     "datetime": "2026-09-29T17:13:41+00:00",
-    "views": "3",
+    "views": "33",
     "text": "OpenAI 推出 GPT-6.1 Sol 模型，其性能接近 Astra，但标准词元价格仅为 Astra 的五分之一。\nGPT‑6.1 Sol 自今日起，面向 ChatGPT Work 与 Codex 内所有 Plus、Pro、Business、Enterprise 及 Edu 用户开放。\nGPT‑6.1 Sol 标准 API 定价为每百万输入 token2 美元，每百万缓存输入 token0.10 美元，每百万输出 token10 美元。\n将于未来数日推出 GPT‑6.1 Sol 超快版。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3499982",
     "datetime": "2026-09-29T17:13:22+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美联储理事巴尔：我在基本情景中没有经济衰退的预期。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3499981",
     "datetime": "2026-09-29T17:13:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美联储理事巴尔：美联储的独立性帮助我们更好地服务于美国人民。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3499980",
     "datetime": "2026-09-29T17:12:42+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美联储理事巴尔：美联储的独立性有助于我们更好地服务美国民众。",
     "media_only": false,
     "image_url": null,
@@ -58957,14 +58975,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3493388"
-  },
-  {
-    "post": "Financial_Express/3493387",
-    "datetime": "2026-09-27T17:15:22+00:00",
-    "views": "124",
-    "text": "伊朗外长阿拉格齐：伊朗并不关心美国的中期选举，只关注本国的国家利益。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3493387"
   }
 ]
