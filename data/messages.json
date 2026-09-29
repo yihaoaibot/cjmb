@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3500054",
+    "datetime": "2026-09-29T17:36:42+00:00",
+    "views": "3",
+    "text": "OpenAI 计划以 1.4 万亿美元估值融资 300 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500054"
+  },
+  {
+    "post": "Financial_Express/3500053",
+    "datetime": "2026-09-29T17:35:42+00:00",
+    "views": "4",
+    "text": "OpenAI 目标融资 300 亿美元，估值定为 1.4 万亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500053"
+  },
+  {
+    "post": "Financial_Express/3500052",
+    "datetime": "2026-09-29T17:35:32+00:00",
+    "views": "5",
+    "text": "OpenAI 考虑按 1.4 万亿美元估值融资 300 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500052"
+  },
+  {
     "post": "Financial_Express/3500051",
     "datetime": "2026-09-29T17:34:57+00:00",
-    "views": "1",
+    "views": "5",
     "text": "Kalshi 与现有投资者、新投资者洽谈融资，考虑募集 10 亿美元新资金，对公司估值大约为 400 亿美元。（路透）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3500050",
     "datetime": "2026-09-29T17:34:22+00:00",
-    "views": "2",
+    "views": "6",
     "text": "CrowdStrike(CRWD.O)：将 Falcon 平台接入 OpenAI 应用市场（OpenAI marketplace）。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3500049",
     "datetime": "2026-09-29T17:34:02+00:00",
-    "views": "2",
+    "views": "6",
     "text": "NetApp 与甲骨文(ORCL.N)将推出一项完全托管式云存储服务，面向高性能 AI 和企业级工作负载。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3500048",
     "datetime": "2026-09-29T17:33:24+00:00",
-    "views": "3",
+    "views": "7",
     "text": "美联储穆萨莱姆：清晰传达的政策框架，同样有助于防范通胀螺旋与通缩螺旋。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3500047",
     "datetime": "2026-09-29T17:33:23+00:00",
-    "views": "3",
+    "views": "7",
     "text": "美联储穆萨莱姆：央行官员不应该作出承诺，但应该向公众解释央行如何以及为何作出政策决定。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3500046",
     "datetime": "2026-09-29T17:33:22+00:00",
-    "views": "3",
+    "views": "7",
     "text": "美联储穆萨莱姆：一个清晰阐述的政策框架应包括两到三个可能出现的情景。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3500045",
     "datetime": "2026-09-29T17:33:08+00:00",
-    "views": "4",
+    "views": "37",
     "text": "NetAPP 与 SuperMicro 合作，将在任何范畴上支持 AI。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3500044",
     "datetime": "2026-09-29T17:33:02+00:00",
-    "views": "4",
+    "views": "37",
     "text": "美联储穆萨莱姆：表述清晰的政策框架应包含两至三种可能情景。具备可预测性且阐释清晰的政策框架，是央行获得民主层面合法性的要素之一。若公众理解政策框架，市场预期将与美联储的政策意图保持一致，从而改善通胀与就业之间的权衡。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3500043",
     "datetime": "2026-09-29T17:32:42+00:00",
-    "views": "5",
+    "views": "37",
     "text": "美联储穆萨莱姆： 央行应当避免发布缺乏政策框架支撑的沟通表述与政策行动，否则市场无法理解其逻辑。央行也不应 “完全退出沟通对话”，此举会带来通胀方面的风险。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3500042",
     "datetime": "2026-09-29T17:32:33+00:00",
-    "views": "5",
+    "views": "7",
     "text": "CrowdStrike 将 Falcon 平台提供至 OpenAI 的 Marketplace。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3500040",
     "datetime": "2026-09-29T17:32:03+00:00",
-    "views": "5",
+    "views": "37",
     "text": "美联储穆萨莱姆：一个不向外界公开自身框架的央行，会迫使市场参与者去猜测央行反应，而不是关注数据。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3500041",
     "datetime": "2026-09-29T17:32:03+00:00",
-    "views": "5",
+    "views": "37",
     "text": "美联储穆萨莱姆：若央行将政策框架秘而不宣，会迫使市场参与者去揣测央行的反应，而非聚焦于经济数据。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3500039",
     "datetime": "2026-09-29T17:32:02+00:00",
-    "views": "5",
+    "views": "37",
     "text": "美联储穆萨莱姆：沟通政策框架能够提高政策有效性，降低家庭和企业成本。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3500037",
     "datetime": "2026-09-29T17:31:44+00:00",
-    "views": "5",
+    "views": "37",
     "text": "美联储穆萨莱姆：“镜厅效应”（hall of mirrors）发生在美联储公布预测，而不是公布政策框架时。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3500038",
     "datetime": "2026-09-29T17:31:44+00:00",
-    "views": "5",
+    "views": "37",
     "text": "美联储穆萨莱姆：沟通政策框架能提升政策有效性，降低家庭与企业的融资成本。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3500036",
     "datetime": "2026-09-29T17:31:43+00:00",
-    "views": "4",
+    "views": "35",
     "text": "美联储穆萨莱姆：“市场猜测会增加噪音”，导致利率更加波动，并提高企业和家庭的融资成本。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3500035",
     "datetime": "2026-09-29T17:31:42+00:00",
-    "views": "3",
+    "views": "34",
     "text": "美联储穆萨莱姆：授予央行利率决策权，也要求美联储解释“如何以及为什么使用这一权力”。",
     "media_only": false,
     "image_url": null,
