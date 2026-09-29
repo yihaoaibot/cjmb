@@ -1,8 +1,116 @@
 [
   {
+    "post": "Financial_Express/3499916",
+    "datetime": "2026-09-29T16:43:03+00:00",
+    "views": "2",
+    "text": "美联储理事巴尔：对人工智能将在长期内提升生产力持乐观态度。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499916"
+  },
+  {
+    "post": "Financial_Express/3499915",
+    "datetime": "2026-09-29T16:43:02+00:00",
+    "views": "2",
+    "text": "美联储理事巴尔：在中期内考虑人工智能提升生产力是合理的，但很难预测具体方式或时间。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499915"
+  },
+  {
+    "post": "Financial_Express/3499914",
+    "datetime": "2026-09-29T16:42:43+00:00",
+    "views": "5",
+    "text": "美联储理事巴尔：人工智能带来的广泛生产率提升可能尚需时日。应当做好准备，人工智能可能给劳动力市场带来严重的短期冲击。人工智能的建设扩张或将在未来一年左右强力提振美国经济活动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499914"
+  },
+  {
+    "post": "Financial_Express/3499913",
+    "datetime": "2026-09-29T16:42:42+00:00",
+    "views": "5",
+    "text": "美联储理事巴尔：通胀及时回归 2%的趋势并不明显，实现通胀目标的风险已增加。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499913"
+  },
+  {
+    "post": "Financial_Express/3499912",
+    "datetime": "2026-09-29T16:42:22+00:00",
+    "views": "6",
+    "text": "美联储理事巴尔：达成通胀目标的风险有所上升，劳动力市场相关风险已经下降。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499912"
+  },
+  {
+    "post": "Financial_Express/3499910",
+    "datetime": "2026-09-29T16:42:03+00:00",
+    "views": "7",
+    "text": "美联储理事巴尔：劳动力市场稳健，受到企业投资与居民消费的支撑。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499910"
+  },
+  {
+    "post": "Financial_Express/3499911",
+    "datetime": "2026-09-29T16:42:03+00:00",
+    "views": "7",
+    "text": "美联储理事巴尔：有必要重新校准政策；基准情景下，大概率需要进一步政策调整。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499911"
+  },
+  {
+    "post": "Financial_Express/3499909",
+    "datetime": "2026-09-29T16:42:02+00:00",
+    "views": "7",
+    "text": "美联储理事巴尔：通胀是一个关键问题；美联储已被“迫使偏离”2%的目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499909"
+  },
+  {
+    "post": "Financial_Express/3499908",
+    "datetime": "2026-09-29T16:41:43+00:00",
+    "views": "7",
+    "text": "美联储理事巴尔：通胀是核心关切；美联储在实现 2% 通胀目标的进程上已偏离轨道。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499908"
+  },
+  {
+    "post": "Financial_Express/3499907",
+    "datetime": "2026-09-29T16:41:42+00:00",
+    "views": "6",
+    "text": "美联储理事巴尔：受到企业投资和消费者支出的支持，劳动力市场稳健。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499907"
+  },
+  {
+    "post": "Financial_Express/3499906",
+    "datetime": "2026-09-29T16:41:23+00:00",
+    "views": "9",
+    "text": "美联储理事巴尔：尚未看到通胀及时回落至 2% 目标的明确趋势。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499906"
+  },
+  {
+    "post": "Financial_Express/3499905",
+    "datetime": "2026-09-29T16:41:22+00:00",
+    "views": "9",
+    "text": "美联储理事巴尔：实现通胀目标的风险增加，劳动力市场的风险减小。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499905"
+  },
+  {
     "post": "Financial_Express/3499903",
     "datetime": "2026-09-29T16:41:03+00:00",
-    "views": "3",
+    "views": "9",
     "text": "美联储理事巴尔：对人工智能长期提振生产率持乐观态度。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +119,7 @@
   {
     "post": "Financial_Express/3499904",
     "datetime": "2026-09-29T16:41:03+00:00",
-    "views": "3",
+    "views": "9",
     "text": "美联储理事巴尔：在中期预估人工智能带来的生产率提升是合理的，但很难预判提升的方式与时间。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +128,7 @@
   {
     "post": "Financial_Express/3499902",
     "datetime": "2026-09-29T16:41:02+00:00",
-    "views": "4",
+    "views": "9",
     "text": "美联储理事巴尔：相比上半年 2%的增速，预计下半年 GDP 增长将“略有回升”。",
     "media_only": false,
     "image_url": null,
@@ -29,8 +137,8 @@
   {
     "post": "Financial_Express/3499901",
     "datetime": "2026-09-29T16:40:47+00:00",
-    "views": "6",
-    "text": "美联储理事 Barr：可能需要继续加息。",
+    "views": "40",
+    "text": "美联储理事 Barr：可能需要继续加息。\n并没有看到通胀及时回落至 2%的明确趋势。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3499901"
@@ -38,7 +146,7 @@
   {
     "post": "Financial_Express/3499900",
     "datetime": "2026-09-29T16:40:42+00:00",
-    "views": "8",
+    "views": "12",
     "text": "美联储理事巴尔：现在尚无法确定人工智能是否会推高中性利率。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +155,7 @@
   {
     "post": "Financial_Express/3499899",
     "datetime": "2026-09-29T16:40:22+00:00",
-    "views": "11",
+    "views": "15",
     "text": "据 Variety：迪士尼(DIS.N)进一步裁员，解雇数百名员工。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +164,7 @@
   {
     "post": "Financial_Express/3499898",
     "datetime": "2026-09-29T16:39:22+00:00",
-    "views": "17",
+    "views": "50",
     "text": "美国原油基金 8 月利息收入 283 万美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +173,7 @@
   {
     "post": "Financial_Express/3499897",
     "datetime": "2026-09-29T16:39:02+00:00",
-    "views": "17",
+    "views": "50",
     "text": "迪士尼裁员数百名员工。",
     "media_only": false,
     "image_url": null,
