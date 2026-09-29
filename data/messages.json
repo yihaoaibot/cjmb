@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3500203",
+    "datetime": "2026-09-29T18:51:02+00:00",
+    "views": "1",
+    "text": "美联储威廉姆斯：美联储应置身党派政治之外，专注于数据。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500203"
+  },
+  {
+    "post": "Financial_Express/3500202",
+    "datetime": "2026-09-29T18:50:42+00:00",
+    "views": "2",
+    "text": "美联储威廉姆斯：美联储应避免卷入党派政治，专注于数据。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500202"
+  },
+  {
+    "post": "Financial_Express/3500201",
+    "datetime": "2026-09-29T18:49:42+00:00",
+    "views": "2",
+    "text": "交易员削减对美联储 10 月加息的押注。在美联储威廉姆斯表示“不急于采取行动”后，市场目前预计美联储到今年年底仅会再加息一次。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500201"
+  },
+  {
+    "post": "Financial_Express/3500200",
+    "datetime": "2026-09-29T18:49:22+00:00",
+    "views": "2",
+    "text": "美联储威廉姆斯称政策行动 “并无紧迫性” 后，交易员下调对美联储 10 月加息的押注，预计美联储年底前仅会加息一次。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500200"
+  },
+  {
     "post": "Financial_Express/3500199",
     "datetime": "2026-09-29T18:48:43+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美联储威廉姆斯：开始看到一些数据显示人工智能正在提升生产力增长。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3500198",
     "datetime": "2026-09-29T18:48:42+00:00",
-    "views": "3",
+    "views": "4",
     "text": "据 Axios 网站：特朗普亲自挑选的政府资助广告即将大规模增加。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3500197",
     "datetime": "2026-09-29T18:48:03+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美联储威廉姆斯：已开始出现数据表明人工智能正推动生产率提升。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3500196",
     "datetime": "2026-09-29T18:48:02+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美联储威廉姆斯：人工智能正在推高资产市场估值，强化财富效应。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3500193",
     "datetime": "2026-09-29T18:44:02+00:00",
-    "views": "14",
+    "views": "44",
     "text": "以色列国防军：以色列南部响起的警报是由于误识别，目前事件已结束。",
     "media_only": false,
     "image_url": null,
@@ -60586,14 +60622,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3493418"
-  },
-  {
-    "post": "Financial_Express/3493417",
-    "datetime": "2026-09-27T18:50:22+00:00",
-    "views": "167",
-    "text": "以色列媒体报道称，以色列总理内塔尼亚胡今天飞往阿联酋，会见该国总统。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3493417"
   }
 ]
