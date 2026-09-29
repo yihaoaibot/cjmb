@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3500059",
+    "datetime": "2026-09-29T17:41:04+00:00",
+    "views": "6",
+    "text": "美联储理事巴尔：通胀居高不下，民众感到沮丧且充满不确定性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500059"
+  },
+  {
+    "post": "Financial_Express/3500058",
+    "datetime": "2026-09-29T17:41:03+00:00",
+    "views": "5",
+    "text": "美联储理事巴尔：人们感到沮丧和不确定，因为通胀过高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500058"
+  },
+  {
+    "post": "Financial_Express/3500057",
+    "datetime": "2026-09-29T17:41:02+00:00",
+    "views": "7",
+    "text": "据 Axios：约旦高级官员否认以媒有关“约旦代表在内塔尼亚胡近期访阿联酋期间与其举行会晤”的报道。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500057"
+  },
+  {
+    "post": "Financial_Express/3500056",
+    "datetime": "2026-09-29T17:39:42+00:00",
+    "views": "26",
+    "text": "消息人士：白宫敦促欧盟动用应急柴油库存\n金十数据 9 月 30 日讯，据路透援引两名了解相关行动的消息人士称，白宫已敦促欧盟动用应急柴油库存，以压低全球价格。特朗普总统及其政府正在研究一系列方案，以期在 11 月中期选举前降低燃料成本。柴油价格急升已成为特朗普和共和党面临的一大政治难题，在燃料对农业、卡车运输业和制造业至关重要的农业州尤其如此。共和党面临在选举前缓解生活成本压力的要求，特朗普政府正考虑采取一系列措施，包括推动外国释放库存、限制美国柴油出口，以及与炼油商合作增加国内供应。白宫未立即回应置评请求。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500056"
+  },
+  {
+    "post": "Financial_Express/3500055",
+    "datetime": "2026-09-29T17:39:22+00:00",
+    "views": "24",
+    "text": "约旦一名高级官员否认以色列媒体的报道，称没有约旦代表在内塔尼亚胡近期访问阿联酋期间与其举行会晤。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500055"
+  },
+  {
     "post": "Financial_Express/3500054",
     "datetime": "2026-09-29T17:36:42+00:00",
-    "views": "7",
+    "views": "55",
     "text": "OpenAI 计划以 1.4 万亿美元估值融资 300 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3500053",
     "datetime": "2026-09-29T17:35:42+00:00",
-    "views": "37",
+    "views": "54",
     "text": "OpenAI 目标融资 300 亿美元，估值定为 1.4 万亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +65,8 @@
   {
     "post": "Financial_Express/3500052",
     "datetime": "2026-09-29T17:35:32+00:00",
-    "views": "37",
-    "text": "OpenAI 考虑按 1.4 万亿美元估值融资 300 亿美元。",
+    "views": "54",
+    "text": "据知情人士透露，在推迟首次公开募股（IPO）计划后，OpenAI 旨在于新一轮融资中向投资者筹集至少 300 亿美元。该公司正在寻求约 1.4 万亿美元的估值（不含所筹资金），目前融资讨论尚处于早期阶段，可能会有变化。最新这轮融资旨在作为过桥轮，在 OpenAI 专注于解决 AI 安全担忧之际，代替 IPO 为公司提供额外资金。\n这可能使其估值重新跃居老对手 Anthropic 最新私募市场估值之上。此前消息称，OpenAI 曾考虑以 1.2 万亿美元估值进行新一轮融资。（彭博）",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3500052"
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3500051",
     "datetime": "2026-09-29T17:34:57+00:00",
-    "views": "37",
+    "views": "52",
     "text": "Kalshi 与现有投资者、新投资者洽谈融资，考虑募集 10 亿美元新资金，对公司估值大约为 400 亿美元。（路透）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3500050",
     "datetime": "2026-09-29T17:34:22+00:00",
-    "views": "37",
+    "views": "51",
     "text": "CrowdStrike(CRWD.O)：将 Falcon 平台接入 OpenAI 应用市场（OpenAI marketplace）。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3500049",
     "datetime": "2026-09-29T17:34:02+00:00",
-    "views": "37",
+    "views": "50",
     "text": "NetApp 与甲骨文(ORCL.N)将推出一项完全托管式云存储服务，面向高性能 AI 和企业级工作负载。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3500048",
     "datetime": "2026-09-29T17:33:24+00:00",
-    "views": "38",
+    "views": "50",
     "text": "美联储穆萨莱姆：清晰传达的政策框架，同样有助于防范通胀螺旋与通缩螺旋。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3500047",
     "datetime": "2026-09-29T17:33:23+00:00",
-    "views": "38",
+    "views": "50",
     "text": "美联储穆萨莱姆：央行官员不应该作出承诺，但应该向公众解释央行如何以及为何作出政策决定。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3500046",
     "datetime": "2026-09-29T17:33:22+00:00",
-    "views": "38",
+    "views": "50",
     "text": "美联储穆萨莱姆：一个清晰阐述的政策框架应包括两到三个可能出现的情景。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3500045",
     "datetime": "2026-09-29T17:33:08+00:00",
-    "views": "38",
+    "views": "50",
     "text": "NetAPP 与 SuperMicro 合作，将在任何范畴上支持 AI。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3500044",
     "datetime": "2026-09-29T17:33:02+00:00",
-    "views": "38",
+    "views": "49",
     "text": "美联储穆萨莱姆：表述清晰的政策框架应包含两至三种可能情景。具备可预测性且阐释清晰的政策框架，是央行获得民主层面合法性的要素之一。若公众理解政策框架，市场预期将与美联储的政策意图保持一致，从而改善通胀与就业之间的权衡。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3500043",
     "datetime": "2026-09-29T17:32:42+00:00",
-    "views": "38",
+    "views": "47",
     "text": "美联储穆萨莱姆： 央行应当避免发布缺乏政策框架支撑的沟通表述与政策行动，否则市场无法理解其逻辑。央行也不应 “完全退出沟通对话”，此举会带来通胀方面的风险。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3500042",
     "datetime": "2026-09-29T17:32:33+00:00",
-    "views": "38",
+    "views": "47",
     "text": "CrowdStrike 将 Falcon 平台提供至 OpenAI 的 Marketplace。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3500040",
     "datetime": "2026-09-29T17:32:03+00:00",
-    "views": "38",
+    "views": "46",
     "text": "美联储穆萨莱姆：一个不向外界公开自身框架的央行，会迫使市场参与者去猜测央行反应，而不是关注数据。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3500041",
     "datetime": "2026-09-29T17:32:03+00:00",
-    "views": "38",
+    "views": "47",
     "text": "美联储穆萨莱姆：若央行将政策框架秘而不宣，会迫使市场参与者去揣测央行的反应，而非聚焦于经济数据。",
     "media_only": false,
     "image_url": null,
