@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3500316",
+    "datetime": "2026-09-29T19:52:43+00:00",
+    "views": "7",
+    "text": "特朗普：（被问及数据中心与中期选举问题时）必须做正确的事。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500316"
+  },
+  {
+    "post": "Financial_Express/3500315",
+    "datetime": "2026-09-29T19:52:42+00:00",
+    "views": "7",
+    "text": "美国总统特朗普在谈及数据中心和中期选举时表示：我们必须做正确的事情。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500315"
+  },
+  {
+    "post": "Financial_Express/3500314",
+    "datetime": "2026-09-29T19:52:02+00:00",
+    "views": "12",
+    "text": "英伟达 CEO 黄仁勋：人工智能创新与安全之间不存在冲突。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500314"
+  },
+  {
+    "post": "Financial_Express/3500313",
+    "datetime": "2026-09-29T19:51:26+00:00",
+    "views": "16",
+    "text": "英伟达 CEO 黄仁勋：我们将以负责任且安全的方式推进这项（人工智能）业务。\n创新、技术与安全三者之间并无矛盾。\n人工智能创新与安全之间不存在冲突。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500313"
+  },
+  {
+    "post": "Financial_Express/3500312",
+    "datetime": "2026-09-29T19:51:22+00:00",
+    "views": "16",
+    "text": "英伟达 CEO 黄仁勋：创新、技术与安全三者之间并无矛盾。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3500312"
+  },
+  {
     "post": "Financial_Express/3500311",
     "datetime": "2026-09-29T19:51:08+00:00",
-    "views": "3",
+    "views": "18",
     "text": "美国总统特朗普被问及 AI 企业能否自我监管，称：是的。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3500310",
     "datetime": "2026-09-29T19:51:03+00:00",
-    "views": "4",
+    "views": "18",
     "text": "特朗普：（当被问及人工智能公司是否可以自我监管时）是的。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3500309",
     "datetime": "2026-09-29T19:51:02+00:00",
-    "views": "4",
+    "views": "18",
     "text": "英伟达(NVDA.O)CEO 黄仁勋：创新、技术与安全之间没有冲突。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3500308",
     "datetime": "2026-09-29T19:50:42+00:00",
-    "views": "7",
+    "views": "20",
     "text": "英伟达 CEO 黄仁勋：我们将以负责任且安全的方式推进这项（人工智能）业务。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3500307",
     "datetime": "2026-09-29T19:50:40+00:00",
-    "views": "7",
+    "views": "20",
     "text": "美国总统特朗普被问及 AI 防护栏是否没有必要，称：是的。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3500306",
     "datetime": "2026-09-29T19:50:22+00:00",
-    "views": "8",
+    "views": "20",
     "text": "特朗普：（被问及人工智能安全防护措施是否必要）是的。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3500305",
     "datetime": "2026-09-29T19:50:02+00:00",
-    "views": "12",
+    "views": "21",
     "text": "美国总统特朗普赞扬了英伟达(NVDA.O)的 CEO 黄仁勋。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3500304",
     "datetime": "2026-09-29T19:49:42+00:00",
-    "views": "12",
+    "views": "50",
     "text": "特朗普：比尔·盖茨昨天似乎并未对人工智能表现出担忧。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3500303",
     "datetime": "2026-09-29T19:49:24+00:00",
-    "views": "14",
+    "views": "51",
     "text": "美国总统特朗普：比尔·盖茨昨天并没有对 AI 表达担忧。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3500302",
     "datetime": "2026-09-29T19:49:22+00:00",
-    "views": "14",
+    "views": "50",
     "text": "特朗普称赞英伟达 CEO 黄仁勋。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3500301",
     "datetime": "2026-09-29T19:49:01+00:00",
-    "views": "14",
+    "views": "50",
     "text": "美国总统特朗普：赞赏黄仁勋。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3500300",
     "datetime": "2026-09-29T19:48:42+00:00",
-    "views": "45",
+    "views": "50",
     "text": "OpenAI 首席财务官：OpenAI 的资金“非常充裕”。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3500298",
     "datetime": "2026-09-29T19:47:42+00:00",
-    "views": "48",
+    "views": "50",
     "text": "特朗普：如果人工智能模型被用于作恶，我们将予以查处。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3500299",
     "datetime": "2026-09-29T19:47:42+00:00",
-    "views": "48",
+    "views": "51",
     "text": "受野火影响的美国加州房主或将受益于新签署的保险立法，该立法为解决针对 State Farm 等保险公司的索赔确立了示范模式。\n新条款将对保险公司处理索赔及支付赔款设定更严格的时限，并将把针对保险公司不公平或欺诈行为的最高罚金提高一倍。\n据支持者和业内人士称，该立法的实际效果将取决于加州保险监管机构如何执行，以及涉及大型保险公司的诉讼如何演变。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +182,7 @@
   {
     "post": "Financial_Express/3500297",
     "datetime": "2026-09-29T19:47:02+00:00",
-    "views": "48",
+    "views": "49",
     "text": "OpenAI 首席财务官：市场存在对新一轮融资的需求。",
     "media_only": false,
     "image_url": null,
@@ -61468,14 +61513,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3493432"
-  },
-  {
-    "post": "Financial_Express/3493431",
-    "datetime": "2026-09-27T19:53:02+00:00",
-    "views": "142",
-    "text": "武契奇辞去塞尔维亚总统职务 准备竞选下届政府总理\n塞尔维亚总统武契奇 27 日提交辞呈，辞去总统职务。根据此前宣布，他将竞选下届政府总理。根据塞尔维亚宪法及《总统法》，总统向国民议会议长提交书面辞呈，辞呈送达国民议会后，其任期于当日终止，无需经国民议会或议长批准。总统辞职后，国民议会议长将代行总统职权，最长不得超过 3 个月，且须在这 3 个月内宣布举行总统选举。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3493431"
   }
 ]
