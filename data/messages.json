@@ -1,5 +1,41 @@
 [
   {
+    "post": "Financial_Express/3499999",
+    "datetime": "2026-09-29T17:21:20+00:00",
+    "views": "1",
+    "text": "加拿大央行副行长：加拿大金融机构无需顾虑使用常设流动性工具获取隔夜流动性。\n加拿大中央清算基础设施与服务的现代化改造预计将于 2028 年基本完工。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499999"
+  },
+  {
+    "post": "Financial_Express/3499998",
+    "datetime": "2026-09-29T17:21:02+00:00",
+    "views": "1",
+    "text": "加拿大央行副行长：加拿大金融机构无需顾虑使用常设流动性工具获取隔夜流动性。 加拿大中央清算基础设施与服务的现代化改造预计将于 2028 年基本完工。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499998"
+  },
+  {
+    "post": "Financial_Express/3499997",
+    "datetime": "2026-09-29T17:20:42+00:00",
+    "views": "1",
+    "text": "美联储在固定利率逆回购操作中总计接纳了 10 个对手方的 114.46 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499997"
+  },
+  {
+    "post": "Financial_Express/3499996",
+    "datetime": "2026-09-29T17:19:55+00:00",
+    "views": "1",
+    "text": "OpenAI 将于今年秋季预览基于机密计算的 “私有推理” 技术。\n将 ChatGPT 部署至 Slack 与微软 Teams，用户无需单独申领许可证。\n推出企业市场平台，上线时拥有 32 家首发合作伙伴，包括 Salesforce、Adobe、CrowdStrike。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499996"
+  },
+  {
     "post": "Financial_Express/3499995",
     "datetime": "2026-09-29T17:19:02+00:00",
     "views": "1",
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3499994",
     "datetime": "2026-09-29T17:18:03+00:00",
-    "views": "1",
+    "views": "31",
     "text": "OpenAI 发布常驻 AI 智能体 Dots，推出新的 500 美元付费档位\nOpenAI 发布一款常驻人工智能（AI）智能体，旨在主动代表用户处理工作，在日益壮大的 AI 数字助手领域与 Meta 平台等公司展开竞争。OpenAI 周二表示，这款名为 Dots 的产品能够操作电脑，并从各种互联应用中提取信息，以开展研究、起草文档和开发软件。用户可以通过 ChatGPT 向该智能体发送消息来指挥它并与之互动。这款新工具在周二的 OpenAI 开发者日活动中亮相，同时发布的还有其 Sol 模型的更新版本以及一个供团队与 AI 协作的共享空间。OpenAI 还对订阅方案进行了调整：首次推出新的高端 500 美元付费档位，提供更高的使用额度和更快的处理速度，同时下调了 200 美元套餐的部分使用额度。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3499993",
     "datetime": "2026-09-29T17:18:02+00:00",
-    "views": "1",
+    "views": "31",
     "text": "OpenAI 将于今年秋季预览基于机密计算的 “私有推理” 技术。将 ChatGPT 部署至 Slack 与微软 Teams，用户无需单独申领许可证。推出企业市场平台，上线时拥有 32 家首发合作伙伴，包括 Salesforce、奥多比、CrowdStrike。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3499992",
     "datetime": "2026-09-29T17:17:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "OpenAI 将把 ChatGPT 部署至 Slack 和微软(MSFT.O)Teams，用户无需单独购买个人许可证即可使用相关功能。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3499991",
     "datetime": "2026-09-29T17:17:22+00:00",
-    "views": "2",
+    "views": "32",
     "text": "OpenAI 宣布与亚马逊(AMZN.O)云服务（AWS）合作，利用 AWS 基础设施运行托管式 AI 智能体（Managed Agents）。",
     "media_only": false,
     "image_url": null,
@@ -59002,14 +59038,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3493390"
-  },
-  {
-    "post": "Financial_Express/3493389",
-    "datetime": "2026-09-27T17:20:42+00:00",
-    "views": "130",
-    "text": "德国外长表示，与拉夫罗夫的会晤是出于俄罗斯安全担忧的驱动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3493389"
   }
 ]
