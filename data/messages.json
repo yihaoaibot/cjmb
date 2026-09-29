@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3499873",
+    "datetime": "2026-09-29T16:22:22+00:00",
+    "views": "8",
+    "text": "OpenAI 首席执行官奥特曼：暂无 IPO 时间表。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499873"
+  },
+  {
+    "post": "Financial_Express/3499872",
+    "datetime": "2026-09-29T16:22:02+00:00",
+    "views": "10",
+    "text": "消息人士：白宫已敦促欧盟动用柴油应急库存，以降低全球柴油价格。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499872"
+  },
+  {
+    "post": "Financial_Express/3499871",
+    "datetime": "2026-09-29T16:21:42+00:00",
+    "views": "13",
+    "text": "白宫已敦促欧盟动用柴油应急储备，以期压低全球价格。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499871"
+  },
+  {
+    "post": "Financial_Express/3499870",
+    "datetime": "2026-09-29T16:21:41+00:00",
+    "views": "13",
+    "text": "OpenAI 的 CEO Altman：我脑子里没有 IPO 时间线。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499870"
+  },
+  {
+    "post": "Financial_Express/3499869",
+    "datetime": "2026-09-29T16:21:23+00:00",
+    "views": "48",
+    "text": "英国央行泰勒：我认为隔夜指数掉期利率（OIS）利率并未清晰传达英国央行市场利率预期，我对此并不赞同。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3499869"
+  },
+  {
     "post": "Financial_Express/3499868",
     "datetime": "2026-09-29T16:21:06+00:00",
-    "views": "3",
+    "views": "51",
     "text": "Altman 解释 OpenAI 为何决定暂不发布 GPT-6.1 Astra\nOpenAI 的 CEO Altman 说，OpenAI 决定暂不发布即将推出的 AI 模型 GPT-6.1 Astra，他将这一决定归入“常规情况”一类。\n“很多时候，我们构建了一个模型，进行测试后发现它达不到我们的标准，于是我们就改进它，之后再发布。”\n“其中一部分原因是，它必须是安全的，必须始终处于人类的控制之下，必须做到人们期望的事情。你要能够放心地使用它，并确信不会发生任何糟糕的事情。”",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3499867",
     "datetime": "2026-09-29T16:21:02+00:00",
-    "views": "4",
+    "views": "52",
     "text": "英国央行货币政策委员会委员泰勒：我认为隔夜指数互换利率并不能清晰反映市场对英国央行政策利率的预期，我并不看好这一指标。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3499866",
     "datetime": "2026-09-29T16:18:22+00:00",
-    "views": "17",
+    "views": "58",
     "text": "英国央行泰勒：英国央行代理机构对企业薪资计划的调查将于 2027 年 1 月公布，这将是一个非常重要的数据指标。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3499865",
     "datetime": "2026-09-29T16:18:03+00:00",
-    "views": "50",
+    "views": "59",
     "text": "英国央行货币政策委员会委员泰勒：英国央行调研员针对企业薪资预期的调查将于 2027 年 1 月发布，该数据将是非常重要的参考指标。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3499864",
     "datetime": "2026-09-29T16:18:02+00:00",
-    "views": "50",
+    "views": "59",
     "text": "OpenAI 首席执行官奥尔特曼：Muse 是一款不错的产品，不会受到 Meta Platforms(META.O)的威胁。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3499863",
     "datetime": "2026-09-29T16:17:23+00:00",
-    "views": "46",
+    "views": "54",
     "text": "OpenAI 首席执行官奥特曼：Muse 是一款不错的产品，（我方）并未受到 Meta 的威胁。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3499862",
     "datetime": "2026-09-29T16:17:22+00:00",
-    "views": "46",
+    "views": "53",
     "text": "OpenAI 首席执行官奥尔特曼：AI 面临的科学问题多于工程问题。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3499861",
     "datetime": "2026-09-29T16:17:00+00:00",
-    "views": "46",
+    "views": "53",
     "text": "Meta 针对 Forum APP 推出新功能。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3499860",
     "datetime": "2026-09-29T16:16:22+00:00",
-    "views": "44",
+    "views": "80",
     "text": "OpenAI 首席执行官奥尔特曼：英伟达(NVDA.O)的安全系统并非万全之策。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3499859",
     "datetime": "2026-09-29T16:15:22+00:00",
-    "views": "41",
+    "views": "77",
     "text": "OpenAI 首席执行官奥特曼：英伟达的安全系统并非 “完整解决方案”。人工智能面临更多的是科学层面难题，而非工程层面问题。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3499858",
     "datetime": "2026-09-29T16:15:02+00:00",
-    "views": "40",
+    "views": "76",
     "text": "OpenAI 首席执行官奥尔特曼：将推出多款优秀的新模型。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3499857",
     "datetime": "2026-09-29T16:12:34+00:00",
-    "views": "70",
+    "views": "75",
     "text": "周二（9 月 29 日）欧市尾盘，英国 10 年期国债收益率跌 1.2 个基点，报 5.410%，全天处于下跌状态，呈现出 W 形走势。\n两年期英债收益率跌 1.4 个基点，报 4.913%，北京时间 20:33 曾跌至 4.855%。\n30 年期英债收益率涨 0.7 个基点，50 年期英债收益率涨 2.4 个基点。\n2/10 年期英债收益率利差涨 0.262 个基点，报+49.594 个基点。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3499856",
     "datetime": "2026-09-29T16:12:22+00:00",
-    "views": "71",
+    "views": "76",
     "text": "OpenAI 首席执行官奥特曼：OpenAI 将推出多款优秀的新模型。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3499855",
     "datetime": "2026-09-29T16:12:14+00:00",
-    "views": "69",
+    "views": "74",
     "text": "OpenAI 的 CEO Altman：OpenAI 将拥有“许多伟大的新模型”。\n英伟达针对 AI 提供的安全系统并非“完整的解决方案”。\nAI 更多的是一个科学问题，而非工程问题。\nMeta Platforms 的 Muse 模型是一个不错的产品，（OpenAI）不受 Meta 的威胁。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3499854",
     "datetime": "2026-09-29T16:11:42+00:00",
-    "views": "69",
+    "views": "73",
     "text": "OpenAI 首席执行官奥特曼：出于高度谨慎，该模型被放弃。",
     "media_only": false,
     "image_url": null,
