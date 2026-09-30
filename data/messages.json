@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3503536",
+    "datetime": "2026-09-30T17:07:02+00:00",
+    "views": "4",
+    "text": "阿富汗与伊朗边境口岸发生火灾\n阿富汗时间 9 月 30 日晚，阿当地媒体黎明新闻网报道称，阿西部赫拉特与伊朗接壤的边境口岸发生大火。 一段发布于社交平台的视频显示，十多辆疑似运输能源的大型车辆正在燃烧。目前阿官方尚未发布此次火灾造成的伤亡和损失信息。（新华社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503536"
+  },
+  {
+    "post": "Financial_Express/3503535",
+    "datetime": "2026-09-30T17:06:42+00:00",
+    "views": "9",
+    "text": "以色列总理内塔尼亚胡与特朗普将讨论针对迪拜航空的袭击事件。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503535"
+  },
+  {
+    "post": "Financial_Express/3503534",
+    "datetime": "2026-09-30T17:05:42+00:00",
+    "views": "14",
+    "text": "美国参议院委员会主席斯科特：参议院小组将继续监督美联储的透明度。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503534"
+  },
+  {
     "post": "Financial_Express/3503533",
     "datetime": "2026-09-30T17:05:02+00:00",
-    "views": "1",
+    "views": "17",
     "text": "OpenAI：我们在相关时段观测到的所有操作行为是否均来自同一行为方，目前尚不明确。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3503532",
     "datetime": "2026-09-30T17:04:43+00:00",
-    "views": "3",
+    "views": "48",
     "text": "巴西声明：巴西与美国愿就贸易问题迅速推进，达成双方都满意的共识。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3503531",
     "datetime": "2026-09-30T17:04:42+00:00",
-    "views": "4",
+    "views": "49",
     "text": "美国参议院委员会主席斯科特欢迎美联储监察长关于美联储总部情况的报告。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3503530",
     "datetime": "2026-09-30T17:04:03+00:00",
-    "views": "7",
+    "views": "49",
     "text": "OpenAI：进一步调查发现，超过 1.5 万名用户组成的群组中存在关联的提示词模式攻击活动，我们已于 7 月 28 日彻底清除了该活动。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3503529",
     "datetime": "2026-09-30T17:04:02+00:00",
-    "views": "7",
+    "views": "50",
     "text": "OpenAI：本次协同行动最早被观测到的活动发生于 7 月第一周。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3503528",
     "datetime": "2026-09-30T17:03:42+00:00",
-    "views": "8",
+    "views": "50",
     "text": "美联储监察报告：美联储主席沃什表示，美联储理事会将与福斯特一起，为剩余项目制定固定指标、预算和时间表。福斯特将向美联储理事会和主席报告项目进展。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3503527",
     "datetime": "2026-09-30T17:03:30+00:00",
-    "views": "10",
+    "views": "50",
     "text": "OpenAI：已识别并瓦解一场旨在窃取我们模型受保护推理能力的协同攻击活动。\n运营人员并未破解我们的加密系统，未入侵数据库，也未直接获取存储的用户对话记录。\n操纵风险并非 OpenAI 模型独有的漏洞，我们已通过前沿模型论坛与行业合作伙伴共享相关信息。\n本次协同行动最早被观测到的活动发生于 7 月第一周。\n进一步调查发现，超过 1.5 万名用户组成的群组中存在关联的提示词模式攻击活动，我们已于 7 月 28 日彻底清除了该活动。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3503526",
     "datetime": "2026-09-30T17:03:23+00:00",
-    "views": "10",
+    "views": "51",
     "text": "OpenAI：操纵风险并非 OpenAI 模型独有的漏洞，我们已通过前沿模型论坛与行业合作伙伴共享相关信息。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3503525",
     "datetime": "2026-09-30T17:03:22+00:00",
-    "views": "10",
+    "views": "49",
     "text": "美联储监察报告：美联储主席沃什表示，他将遵循美联储监察长关于项目管理的建议；同时将聘请独立审计机构，核查截至目前所有授予合同的准确性和合规性。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3503524",
     "datetime": "2026-09-30T17:03:03+00:00",
-    "views": "12",
+    "views": "49",
     "text": "OpenAI：运营人员并未破解我们的加密系统，未入侵数据库，也未直接获取存储的用户对话记录。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3503521",
     "datetime": "2026-09-30T17:03:02+00:00",
-    "views": "12",
+    "views": "47",
     "text": "瑞士央行三位利率决策者之一表示，稳定币可能使货币政策传导复杂化，并呼吁出台监管措施以保障政策制定者的影响力。\n瑞士央行管委会成员丘丁（Petra Tschudin）周三在苏黎世一场活动上表示：“支付体系现代化是合理的。”但她补充称，未融入现有双层金融体系的大型稳定币，构成了“一种使央行更难履行其职责的局面”。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3503522",
     "datetime": "2026-09-30T17:03:02+00:00",
-    "views": "12",
+    "views": "47",
     "text": "美联储监察报告：美联储主席沃什表示，他正在任命总务管理局行政官爱德华·福斯特担任项目负责人，以推动翻修项目“快速并成功”完成。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3503523",
     "datetime": "2026-09-30T17:03:02+00:00",
-    "views": "11",
+    "views": "48",
     "text": "美联储监察报告：翻修设计中的一些元素，例如大理石装饰、水景设施和屋顶花园露台，并未对功能产生实质性贡献，却导致成本超支。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3503520",
     "datetime": "2026-09-30T17:02:43+00:00",
-    "views": "12",
+    "views": "47",
     "text": "OpenAI：已识别并瓦解一场旨在窃取我们模型受保护推理能力的协同攻击活动。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3503518",
     "datetime": "2026-09-30T17:02:23+00:00",
-    "views": "13",
+    "views": "45",
     "text": "美联储监察报告：部分成本超支本可通过更有效的项目管理避免。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3503519",
     "datetime": "2026-09-30T17:02:23+00:00",
-    "views": "13",
+    "views": "47",
     "text": "美联储监察长：该项目在管理上存在“缺陷”。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3503517",
     "datetime": "2026-09-30T17:02:22+00:00",
-    "views": "13",
+    "views": "44",
     "text": "美联储监察报告：包括通胀、分包商竞标受限、董事会设计变更以及施工现场条件等多项因素，共同导致了成本增加。",
     "media_only": false,
     "image_url": null,
@@ -61630,32 +61657,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3496631"
-  },
-  {
-    "post": "Financial_Express/3496630",
-    "datetime": "2026-09-28T17:06:30+00:00",
-    "views": "54",
-    "text": "道达尔能源在一份投资者演示材料中表示，其位于诺曼底、产能约 24 万桶/日的炼油厂检修工作将推迟至 2027 年。\n道达尔能源下游、炼油与化工业务总裁文森特·斯托夸特周一在美国纽约表示，该检修原计划“几天内”启动。\n斯托夸特称，诺曼底炼油厂将在 2026 年多运行三个月。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496630"
-  },
-  {
-    "post": "Financial_Express/3496629",
-    "datetime": "2026-09-28T17:06:22+00:00",
-    "views": "49",
-    "text": "美“星舰”实现首次地球轨道飞行 但提前结束任务\n美国太空探索技术公司“星舰”飞船 28 日实现首次地球轨道飞行，将 26 颗新一代“星链”V3 卫星送入轨道，但试飞任务较原计划提前结束。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496629"
-  },
-  {
-    "post": "Financial_Express/3496628",
-    "datetime": "2026-09-28T17:05:14+00:00",
-    "views": "54",
-    "text": "也门胡塞武装：在过去 24 小时内，沙特战机从海米斯穆谢特和塔伊夫空军基地起飞，出动 F-15 和台风战斗机实施了 38 次空袭和导弹打击。\n同时，从纳季兰和吉赞发起的导弹袭击，针对了塔伊兹、萨达和荷台达等敌方省份，导致包括妇女和儿童在内的平民出现伤亡。\n自本轮冲突升级以来，沙特发动的空袭和导弹袭击总数已达 1123 次。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496628"
   }
 ]
