@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3503792",
+    "datetime": "2026-09-30T20:14:42+00:00",
+    "views": "12",
+    "text": "谷歌发布 Gemini 4 Argon 模型 主打复杂推理与 AI 编程能力\n金十数据 10 月 1 日讯，谷歌(GOOG.O)旗下 DeepMind 发布新一代前沿模型 Gemini 4 Argon，称该模型在软件工程、企业知识工作（包括法律和金融）以及网络安全防御等复杂任务中具备前沿性能。谷歌表示，Gemini 4 Argon 目前正通过“Fairwind 计划”向部分可信网络安全防御人员开放，并将在进一步完善安全措施后逐步向开发者、企业和消费者推出。该模型初始定价为每百万输入词元 2 美元、每百万输出词元 10 美元，缓存输入词元价格较输入价格低 95%。谷歌称，Argon 支持最高 100 万词元输出长度，高于此前 6.4 万词元，可用于处理更长、更复杂的任务。谷歌表示，Argon 已用于内部代码开发、研究和工程优化任务，包括帮助量子计算团队优化算法、分析数据中心运行数据并释放超过 300TiB 内存资源。在软件工程方面，谷歌称 Gemini 4 Argon 在 DeepSWE v1.1 真实软件工程测试中取得 77.9%的成绩，并在金融研究、法律研究、企业自动化等领域评测中表现领先。在网络安全领域，谷歌称 Argon 能够自主发现、验证并修复软件漏洞，并在 CWE-bench v1 漏洞修复测试中取得 68%的成绩，与最高水平模型并列第一。谷歌表示，在全面开放前，将继续加强防滥用、提示注入攻击防护、模型行为监控和安全沙箱等措施。谷歌称，Gemini 4 Argon 后续将向付费 API 客户和 Google AI Ultra 用户开放。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503792"
+  },
+  {
     "post": "Financial_Express/3503790",
     "datetime": "2026-09-30T20:08:42+00:00",
-    "views": "20",
+    "views": "27",
     "text": "谷歌(GOOG.O)：我们正在参与美国政府关于模型的自愿流程。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3503788",
     "datetime": "2026-09-30T20:08:23+00:00",
-    "views": "23",
+    "views": "28",
     "text": "派拉蒙天舞：预计 2026 年营收及 PRESBC 口径息税折旧摊销前利润增长 16%-19%，预期常态化协同效应规模超 60 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3503789",
     "datetime": "2026-09-30T20:08:23+00:00",
-    "views": "23",
+    "views": "28",
     "text": "美光科技：战略客户协议进一步增强公司对财务表现可持续性的信心。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3503787",
     "datetime": "2026-09-30T20:08:22+00:00",
-    "views": "23",
+    "views": "28",
     "text": "谷歌(GOOG.O)将 Argon 定价为每百万输入令牌 2 美元，每百万输出令牌 10 美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3503786",
     "datetime": "2026-09-30T20:08:02+00:00",
-    "views": "25",
+    "views": "30",
     "text": "谷歌(GOOG.O)CEO 皮查伊：推出 Gemini 4 Argon。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3503785",
     "datetime": "2026-09-30T20:07:08+00:00",
-    "views": "63",
+    "views": "67",
     "text": "核电股 Constellation Energy 美股盘后涨 3.5%，该公司与亚马逊达成 20 年期电力采购协议。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3503784",
     "datetime": "2026-09-30T20:07:02+00:00",
-    "views": "62",
+    "views": "66",
     "text": "美光科技(MU.O)预计下一财年 Q1 经调整营收 600 亿美元至 630 亿美元，高于市场预期的 567.7 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3503783",
     "datetime": "2026-09-30T20:06:03+00:00",
-    "views": "68",
+    "views": "72",
     "text": "金十图示：2026 年 09 月 30 日（周三）美股热门股票行情一览（美股收盘）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3503782",
     "datetime": "2026-09-30T20:06:02+00:00",
-    "views": "68",
+    "views": "72",
     "text": "金十图示：2026 年 09 月 30 日（周三）热门中概股行情一览（美股收盘）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3503781",
     "datetime": "2026-09-30T20:05:57+00:00",
-    "views": "69",
+    "views": "73",
     "text": "谷歌母公司 Alphabet 向部分网络安全合作伙伴推出 Gemini Argon。 该模型是公司迄今最先进的模型，在编程、网络安全和复杂专业工作方面均有重大提升。 首席执行官桑达尔·皮查伊本周与美国总统唐纳德·特朗普及多位科技行业领袖签署了一项自愿性 AI 安全协议。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3503780",
     "datetime": "2026-09-30T20:05:33+00:00",
-    "views": "69",
+    "views": "72",
     "text": "9 月 30 日，谷歌母公司 Alphabet 发布 Gemini 4 Argon，称这是其迄今最先进的人工智能（AI）模型，在编程、网络安全和复杂专业工作方面提供重大改进。\n公司表示，该模型在真实世界软件工程领域创下新纪录，在网络安全方面并列第一，并在衡量金融、法律及其他专业任务表现的基准测试中领先。\n公司称，Argon 已在谷歌内部用于优化数据中心内存，在不增加额外硬件的情况下释放了数百 TB 内存。量子计算研究人员也已开始使用该模型。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3503779",
     "datetime": "2026-09-30T20:04:02+00:00",
-    "views": "73",
+    "views": "76",
     "text": "美光科技(MU.O)2026 财年 Q4 净利润 377.01 亿美元，去年同期 32.01 亿美元，市场预期 301.59 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3503778",
     "datetime": "2026-09-30T20:03:22+00:00",
-    "views": "74",
+    "views": "77",
     "text": "美光科技(MU.O)2026 财年 Q4 营收 542.29 亿美元，去年同期 113.15 亿美元，市场预期 505.84 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -119,8 +128,8 @@
   {
     "post": "Financial_Express/3503777",
     "datetime": "2026-09-30T20:03:07+00:00",
-    "views": "74",
-    "text": "美光科技第四财季调整后营收 542.3 亿美元，分析师预期 514.9 亿美元。预计第一财季调整后营收 600 亿-630 亿美元，分析师预期 567.7 亿美元。美光盘后跌 0.7%。",
+    "views": "77",
+    "text": "美光科技第四财季调整后营收 542.3 亿美元，分析师预期 514.9 亿美元。\n预计第一财季调整后营收 600 亿-630 亿美元，分析师预期 567.7 亿美元。\n美光盘后跌 0.7%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3503777"
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3503776",
     "datetime": "2026-09-30T20:02:42+00:00",
-    "views": "73",
+    "views": "74",
     "text": "美光科技：预计下一财年第一季度经调整营收 600 亿美元至 630 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3503775",
     "datetime": "2026-09-30T20:02:02+00:00",
-    "views": "72",
+    "views": "73",
     "text": "美股收盘：三大股指涨跌不一 英特尔涨超 3%\n金十数据 10 月 1 日讯，美股周三收盘，道指初步收跌 0.86%，标普 500 指数跌 0.25%，纳指涨 0.24%。英特尔(INTC.O)涨 3.71%，苹果(AAPL.O)涨 1.1%，英伟达(NVDA.O)涨 0.51%，谷歌(GOOG.O)涨 0.93%；莫德纳(MRNA.O)跌 5.35%，福特汽车(F.N)跌 1.95%。纳斯达克中国金龙指数涨 0.6%，百度(BIDU.O)涨 0.18%，阿里巴巴(BABA.N)跌 0.17%。",
     "media_only": false,
     "image_url": null,
@@ -155,8 +164,8 @@
   {
     "post": "Financial_Express/3503774",
     "datetime": "2026-09-30T20:01:22+00:00",
-    "views": "69",
-    "text": "美光科技：第四季度经调整毛利率 87％，预估 86.2％。\n第四季度经调整营收 542.3 亿美元，预估 514.9 亿美元。 \n第四季度调整后每股收益 33.42 美元，预估 31.83 美元。\n第四季度营业现金流 439.7 亿美元，预估 338.7 亿美元。\n第四季度调整后运营收益 446.4 亿美元，预估 427.5 亿美元。",
+    "views": "70",
+    "text": "美光科技第四季度经调整营收 542.3 亿美元\n\n美光科技 2026 财年第四季度经调整营收 542.3 亿美元，预估 514.9 亿美元；\n第四季度营业现金流 439.7 亿美元，预估 338.7 亿美元；\n第四季度调整后运营收益 446.4 亿美元，预估 427.5 亿美元；\n第四季度经调整毛利率 87％，预估 86.2％；\n第四季度调整后每股收益 33.42 美元，预估 31.83 美元。\n预计 2027 财年第一季度经调整营收 600 亿美元至 630 亿美元，\n预计第一季度调整后每股收益 37.15 美元至 39.15 美元，\n预计第一季度经调整毛利率大约 86.3％，预估 86.7％。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3503774"
