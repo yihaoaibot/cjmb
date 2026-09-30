@@ -1,5 +1,32 @@
 [
   {
+    "post": "Financial_Express/3503253",
+    "datetime": "2026-09-30T15:11:02+00:00",
+    "views": "1",
+    "text": "土耳其股市收盘下跌 2.8%，进入熊市。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503253"
+  },
+  {
+    "post": "Financial_Express/3503252",
+    "datetime": "2026-09-30T15:10:22+00:00",
+    "views": "1",
+    "text": "美国联邦通信委员会投票开放 12.7GHz 与 42GHz 频段以及更多频谱用于卫星互联网。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503252"
+  },
+  {
+    "post": "Financial_Express/3503251",
+    "datetime": "2026-09-30T15:09:42+00:00",
+    "views": "1",
+    "text": "罗马尼亚总统表示，将于周一前提名新总理。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503251"
+  },
+  {
     "post": "Financial_Express/3503249",
     "datetime": "2026-09-30T15:09:02+00:00",
     "views": "2",
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3503248",
     "datetime": "2026-09-30T15:08:23+00:00",
-    "views": "2",
+    "views": "32",
     "text": "以色列总理办公室发言人表示，在迪拜航空航班出事之后，内塔尼亚胡已下令“加强”以色列航企与非以色列航企的安保工作。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3503247",
     "datetime": "2026-09-30T15:08:22+00:00",
-    "views": "2",
+    "views": "32",
     "text": "日本三菱重工计划投资 6.4 亿美元扩建商用造船厂，该项目将利用日本国土交通省基金提供的补贴，作为政府扩大造船能力计划的一部分。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3503246",
     "datetime": "2026-09-30T15:07:43+00:00",
-    "views": "3",
+    "views": "33",
     "text": "现货黄金失守 4160 美元/盎司，日内跌 0.52%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3503245",
     "datetime": "2026-09-30T15:07:42+00:00",
-    "views": "3",
+    "views": "33",
     "text": "洛克希德·马丁：“黑鹰”协议维持西科斯基生产运营以及涵盖 230 家供应商的产业基础。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3503244",
     "datetime": "2026-09-30T15:07:23+00:00",
-    "views": "3",
+    "views": "33",
     "text": "洛克希德·马丁：初步协议涵盖为美国陆军供应 16 架飞机，预计未来几年订单量将增加逾 100 架。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3503243",
     "datetime": "2026-09-30T15:07:22+00:00",
-    "views": "3",
+    "views": "33",
     "text": "洛克希德马丁旗下西科斯基与美国陆军签署新型黑鹰直升机生产协议，首批 16 架。该协议允许美军在盟友需求增长时增购该型飞机，交付工作将于 2028 年启动。",
     "media_only": false,
     "image_url": null,
@@ -61225,32 +61252,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3496393"
-  },
-  {
-    "post": "Financial_Express/3496392",
-    "datetime": "2026-09-28T15:11:03+00:00",
-    "views": "82",
-    "text": "Meta 聘请 MongoDB 首席执行官领导全新企业级 AI 平台，马克·扎克伯格称其为“公司业务的下一个重要支柱”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496392"
-  },
-  {
-    "post": "Financial_Express/3496391",
-    "datetime": "2026-09-28T15:10:05+00:00",
-    "views": "80",
-    "text": "英国 10 年期国债收益率涨至 5.441%，创 2007 年 7 月份以来新高。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496391"
-  },
-  {
-    "post": "Financial_Express/3496390",
-    "datetime": "2026-09-28T15:09:22+00:00",
-    "views": "75",
-    "text": "英国内政大臣：英国将重新开放难民安置通道，首批人员将于今年抵达。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496390"
   }
 ]
