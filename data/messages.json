@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3503445",
+    "datetime": "2026-09-30T16:24:42+00:00",
+    "views": "2",
+    "text": "沙特阿拉伯目前预计 2026 年预算赤字为 4.9%，此前预期为 3.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503445"
+  },
+  {
+    "post": "Financial_Express/3503444",
+    "datetime": "2026-09-30T16:24:31+00:00",
+    "views": "2",
+    "text": "沙特上调 2026 年预算赤字占 GDP 比重预期至 4.9%，之前预计为 3.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503444"
+  },
+  {
+    "post": "Financial_Express/3503443",
+    "datetime": "2026-09-30T16:24:22+00:00",
+    "views": "3",
+    "text": "意大利总理梅洛尼：意大利希望欧盟给予成员国在预算规则上“额外灵活性”，以考虑因能源成本导致的通胀影响。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503443"
+  },
+  {
+    "post": "Financial_Express/3503441",
+    "datetime": "2026-09-30T16:24:03+00:00",
+    "views": "4",
+    "text": "俄罗斯就丹麦空军直升机“不专业且挑衅的行为”提出抗议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503441"
+  },
+  {
+    "post": "Financial_Express/3503442",
+    "datetime": "2026-09-30T16:24:03+00:00",
+    "views": "4",
+    "text": "意大利总理梅洛尼表示，意方希望欧盟在预算规则上给予成员国“额外灵活性”，以将能源成本引发的通胀影响纳入考量。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503442"
+  },
+  {
+    "post": "Financial_Express/3503440",
+    "datetime": "2026-09-30T16:24:02+00:00",
+    "views": "4",
+    "text": "消息人士：俄罗斯召见丹麦大使。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503440"
+  },
+  {
+    "post": "Financial_Express/3503439",
+    "datetime": "2026-09-30T16:23:50+00:00",
+    "views": "4",
+    "text": "新兴市场借款人正加大瑞士法郎债券销售力度，其中许多是首次进入该市场，以实现融资多元化，并抓住这个政策利率为零的国家对收益的需求。\n智利周一通过一笔两部分组成的首次交易发行 3.8 亿瑞士法郎（约合 4.58 亿美元），此前墨西哥企业集团 Fomento Economico Mexicano SA 上周完成了其首次瑞士法郎发行。智利 BICE 银行本周也就瑞士法郎债务发行举行了投资者会议；而在拉丁美洲之外，拉脱维亚于 7 月提供了首次瑞士法郎债券发行。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503439"
+  },
+  {
     "post": "Financial_Express/3503438",
     "datetime": "2026-09-30T16:23:02+00:00",
-    "views": "2",
+    "views": "4",
     "text": "据相关文件：巴西矿业监管机构因存在“迫在眉睫的风险”，暂停西格玛锂业部分采矿作业，但未披露具体风险原因。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3503437",
     "datetime": "2026-09-30T16:22:22+00:00",
-    "views": "2",
+    "views": "4",
     "text": "俄罗斯就丹麦空军一架直升机“不专业且具挑衅性的行为”提出抗议。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3503435",
     "datetime": "2026-09-30T16:21:42+00:00",
-    "views": "2",
+    "views": "33",
     "text": "文件显示：巴西矿业监管机构因未明确说明的迫在眉睫风险，部分暂停西格玛锂业的采矿作业。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3503436",
     "datetime": "2026-09-30T16:21:42+00:00",
-    "views": "2",
+    "views": "34",
     "text": "美国石油行业警告，柴油价格在一年内都难以恢复正常水平。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3503434",
     "datetime": "2026-09-30T16:21:03+00:00",
-    "views": "2",
+    "views": "33",
     "text": "俄罗斯召见丹麦大使。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3503433",
     "datetime": "2026-09-30T16:21:02+00:00",
-    "views": "2",
+    "views": "33",
     "text": "意大利总理梅洛尼：欧盟关于修订碳排放交易体系（ETS）的提案是不充分的。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3503430",
     "datetime": "2026-09-30T16:17:42+00:00",
-    "views": "32",
+    "views": "92",
     "text": "欧盟委员会主席冯德莱恩：阿尔巴尼亚是我国入盟进程的首批候选国之一。对于所有首批候选国，我们正在制定入盟路线图。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3503429",
     "datetime": "2026-09-30T16:17:28+00:00",
-    "views": "32",
+    "views": "92",
     "text": "多位熟悉情况的墨西哥官员表示，墨西哥政府对可能与美国达成贸易协议愈发有信心，该协议或将降低钢铁、铝和轻型汽车等关键出口产品的关税。两国正在敲定一项协议细节，计划将美国对轻型汽车的关税从目前的 25%降至 15%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3503428",
     "datetime": "2026-09-30T16:17:02+00:00",
-    "views": "32",
+    "views": "92",
     "text": "对冲基金亿万富豪比尔·阿克曼：女儿的疾病促使我投资了大脑研究所。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3503427",
     "datetime": "2026-09-30T16:16:42+00:00",
-    "views": "32",
+    "views": "62",
     "text": "意大利总理梅洛尼表示，意大利计划动用欧盟例外条款释放的 140 亿欧元资金，用于降低企业能源成本。",
     "media_only": false,
     "image_url": null,
@@ -61684,68 +61747,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3496530"
-  },
-  {
-    "post": "Financial_Express/3496529",
-    "datetime": "2026-09-28T16:25:02+00:00",
-    "views": "104",
-    "text": "美国官员：伊朗称在核问题上态度灵活，但我们在谁应率先采取行动的问题上仍存在分歧。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496529"
-  },
-  {
-    "post": "Financial_Express/3496528",
-    "datetime": "2026-09-28T16:24:42+00:00",
-    "views": "101",
-    "text": "美国官员：华盛顿对伊朗的承诺存疑，因其违反谅解备忘录，向商船开火。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496528"
-  },
-  {
-    "post": "Financial_Express/3496527",
-    "datetime": "2026-09-28T16:24:22+00:00",
-    "views": "103",
-    "text": "白宫顾问哈塞特：目前估计生产率增长约为 2.5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496527"
-  },
-  {
-    "post": "Financial_Express/3496526",
-    "datetime": "2026-09-28T16:24:11+00:00",
-    "views": "12",
-    "text": "标普 500 指数跌幅收窄至 0.5%，此前一度跌 1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496526"
-  },
-  {
-    "post": "Financial_Express/3496525",
-    "datetime": "2026-09-28T16:23:46+00:00",
-    "views": "102",
-    "text": "德意志银行预计，随着买家争夺不断减少的铜库存，铜价未来六个月可能上涨逾 50%，达到每吨 22,050 美元。\n今年以来铜价已经大幅上涨，有关美国政府可能对精炼铜加征关税的预期推动大量铜流向美国，加剧了其他地区市场供应紧张。德意志银行金属研究主管 Daniel Ghali 在报告中写道，“各大铜交易市场正在展开一场史无前例的金属争夺战。随着各个市场争相把铜留在各自辖区内，我们预计全球基准铜价将持续走高。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496525"
-  },
-  {
-    "post": "Financial_Express/3496524",
-    "datetime": "2026-09-28T16:23:42+00:00",
-    "views": "102",
-    "text": "标普 500 指数下跌 0.5%，此前一度下跌 1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496524"
-  },
-  {
-    "post": "Financial_Express/3496523",
-    "datetime": "2026-09-28T16:23:22+00:00",
-    "views": "103",
-    "text": "美国官员：这一次需要得到保证，证明伊朗是认真的，而不仅仅是为了摆脱当前的困境。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496523"
   }
 ]
