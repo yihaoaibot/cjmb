@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3503672",
+    "datetime": "2026-09-30T18:37:02+00:00",
+    "views": "2",
+    "text": "特朗普：如果我治理委内瑞拉，我会做与马杜罗完全相同的事。他把监狱里的人清空送进了美国。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503672"
+  },
+  {
+    "post": "Financial_Express/3503671",
+    "datetime": "2026-09-30T18:36:42+00:00",
+    "views": "7",
+    "text": "白宫表示，韩国计划在美国能源领域投资数十亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503671"
+  },
+  {
+    "post": "Financial_Express/3503670",
+    "datetime": "2026-09-30T18:36:16+00:00",
+    "views": "17",
+    "text": "白宫：韩国将投资美国的能源。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503670"
+  },
+  {
+    "post": "Financial_Express/3503669",
+    "datetime": "2026-09-30T18:35:50+00:00",
+    "views": "22",
+    "text": "新思科技（Synopsys）与 OpenAI 签署了一份多年期具有法律约束力的协议，将联合开发 GPT-Synopsys，这是一款将 OpenAI 的前沿 AI 技术与新思科技的电子设计自动化（EDA）工具相结合的专业半导体设计模型。\n合作要点包括：\n1、新思科技提供 EDA 工具和芯片设计专业知识；OpenAI 提供前沿 AI 模型和托管基础设施\n2、该具有法律约束力的协议包含收入分成安排和联合市场推广合作\n3、OpenAI 将获得新思科技 EDA 工具的使用许可，用于开发 GPT-Synopsys 专业模型\n4、GPT-Synopsys 将运行在 OpenAI 托管的基础设施上，并与 Synopsys.ai 和 Synopsys Autopilot 平台集成\n5、客户设计数据将采用加密保护，不用于模型训练，并受可配置访问控制机制保护",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503669"
+  },
+  {
+    "post": "Financial_Express/3503668",
+    "datetime": "2026-09-30T18:35:22+00:00",
+    "views": "24",
+    "text": "OpenAI 与半导体设计软件公司新思科技宣布达成多年战略合作，共同开发专用于芯片设计的 AI 模型 GPT-Synopsys。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503668"
+  },
+  {
     "post": "Financial_Express/3503667",
     "datetime": "2026-09-30T18:34:42+00:00",
-    "views": "9",
+    "views": "26",
     "text": "OpenAI 与 Synopsys 已与客户开展早期技术对接。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3503666",
     "datetime": "2026-09-30T18:34:22+00:00",
-    "views": "12",
+    "views": "27",
     "text": "新思科技与 OpenAI 签署多年期芯片设计模型框架协议\n新思科技与 OpenAI 签署了一项多年期约束性协议，将联合开发 GPT-Synopsys，这是一款专业半导体设计模型，将 OpenAI 的前沿 AI 技术与新思科技的电子设计自动化工具相结合。新思科技提供 EDA 工具和芯片设计专业知识；OpenAI 提供前沿 AI 模型和托管基础设施。该约束性协议包含收入分成安排和联合市场推广合作。OpenAI 将获得新思科技 EDA 工具的授权，用于开发 GPT-Synopsys 专用模型。GPT-Synopsys 将在 OpenAI 托管基础设施上运行，并与 Synopsys.ai 和新思科技 Autopilot 平台集成。客户设计数据经过加密，不用于模型训练，并受可配置的访问控制保护。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3503665",
     "datetime": "2026-09-30T18:32:22+00:00",
-    "views": "34",
+    "views": "44",
     "text": "新思科技：OpenAI 将获得新思科技值得信赖的电子设计自动化(EDA)工具授权，用于开发专用模型。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3503664",
     "datetime": "2026-09-30T18:32:02+00:00",
-    "views": "36",
+    "views": "46",
     "text": "新思科技：OpenAI 与新思科技签署多年协议，共同开发面向芯片设计的 GPT-新思定制模型。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3503663",
     "datetime": "2026-09-30T18:31:42+00:00",
-    "views": "37",
+    "views": "47",
     "text": "美国原油期货结算价报每桶 90.42 美元，上涨 1.04 美元，涨幅 1.16%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3503662",
     "datetime": "2026-09-30T18:31:12+00:00",
-    "views": "38",
+    "views": "47",
     "text": "WTI 11 月原油期货收报 90.42 美元/桶。\nNYMEX 11 月天然气期货收报 3.0260 美元/百万英热单位。\nNYMEX 10 月汽油期货收报 3.4378 美元/加仑，NYMEX 10 月取暖油期货收报 4.9569 美元/加仑。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3503661",
     "datetime": "2026-09-30T18:30:22+00:00",
-    "views": "39",
+    "views": "48",
     "text": "美国劳工部长提名人桑德林获准进行参议院最终投票。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3503660",
     "datetime": "2026-09-30T18:27:42+00:00",
-    "views": "83",
+    "views": "88",
     "text": "据塔斯尼姆通讯社：消息人士称，位于大马士革国际机场附近“赫兰·阿瓦米德”地区的“提什林”热电厂天然气输送管道发生爆炸。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3503659",
     "datetime": "2026-09-30T18:27:07+00:00",
-    "views": "87",
+    "views": "90",
     "text": "新思科技涨幅迅速扩大至 6.7%，刷新日高。\nOpenAI 与该公司通报称，将联合开发 ChatGPT-Synopsys 模型。\n双方签署多年的合作协议，将在研发领域紧密合作。\nOpenAI 将围绕芯片设计模型授权对方的电子设计自动化（EDA）工具。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3503658",
     "datetime": "2026-09-30T18:24:22+00:00",
-    "views": "99",
+    "views": "101",
     "text": "特朗普赞扬 Goya Foods（戈雅食品）的首席执行官。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3503657",
     "datetime": "2026-09-30T18:24:14+00:00",
-    "views": "100",
+    "views": "102",
     "text": "美国总统特朗普赞赏礼来制药、Merck、辉瑞制药的投资。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3503656",
     "datetime": "2026-09-30T18:24:02+00:00",
-    "views": "99",
+    "views": "101",
     "text": "特朗普赞扬礼来、默克和辉瑞的投资。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3503655",
     "datetime": "2026-09-30T18:23:57+00:00",
-    "views": "100",
+    "views": "102",
     "text": "美国总统特朗普：加拿大已经利用了美国许多年。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3503654",
     "datetime": "2026-09-30T18:23:42+00:00",
-    "views": "102",
+    "views": "106",
     "text": "特朗普：加拿大多年来一直占美国的便宜。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3503653",
     "datetime": "2026-09-30T18:23:02+00:00",
-    "views": "101",
+    "views": "105",
     "text": "特朗普评价鲁比奥：无论他与谁打交道，不管是世界上哪里的任何人，他都是大师。",
     "media_only": false,
     "image_url": null,
@@ -61540,23 +61585,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3496775"
-  },
-  {
-    "post": "Financial_Express/3496774",
-    "datetime": "2026-09-28T18:36:34+00:00",
-    "views": "100",
-    "text": "美国商务部长卢特尼克兜售来自巴西的铁球团贸易。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496774"
-  },
-  {
-    "post": "Financial_Express/3496773",
-    "datetime": "2026-09-28T18:36:02+00:00",
-    "views": "103",
-    "text": "美国商务部长卢特尼克强调美国从巴西进口铁矿石球团的贸易情况。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496773"
   }
 ]
