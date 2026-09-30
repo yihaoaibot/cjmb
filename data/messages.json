@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3502916",
+    "datetime": "2026-09-30T13:05:03+00:00",
+    "views": "7",
+    "text": "SK Pharmteco 宣布，将在美国投资超过 2 亿美元，用于扩大小分子和肽类产能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3502916"
+  },
+  {
+    "post": "Financial_Express/3502915",
+    "datetime": "2026-09-30T13:04:42+00:00",
+    "views": "11",
+    "text": "中国地震台网自动测定：09 月 30 日 21 时 03 分在贵州毕节市威宁县附近（北纬 26.75 度，东经 104.18 度）发生 3.7 级左右地震，最终结果以正式速报为准。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3502915"
+  },
+  {
+    "post": "Financial_Express/3502913",
+    "datetime": "2026-09-30T13:04:03+00:00",
+    "views": "16",
+    "text": "美联储就与银行模式和手续费收入相关的计划征求意见。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3502913"
+  },
+  {
+    "post": "Financial_Express/3502914",
+    "datetime": "2026-09-30T13:04:03+00:00",
+    "views": "16",
+    "text": "ALK 将与 Catalent 的片剂供应协议扩大至每年 11 亿片。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3502914"
+  },
+  {
+    "post": "Financial_Express/3502912",
+    "datetime": "2026-09-30T13:04:02+00:00",
+    "views": "16",
+    "text": "Coreweave(CRWV.O)实现生产级规模的英伟达(NVDA.O)Vera Rubin NVL72 性能，首发支持 Cognition。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3502912"
+  },
+  {
+    "post": "Financial_Express/3502911",
+    "datetime": "2026-09-30T13:03:43+00:00",
+    "views": "17",
+    "text": "Quantum Space 与 All Points Logistics 签署发射处理协议，为 Prime Mission 任务提供服务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3502911"
+  },
+  {
+    "post": "Financial_Express/3502910",
+    "datetime": "2026-09-30T13:03:42+00:00",
+    "views": "18",
+    "text": "亚马逊：Alexa+在 Fire TV 上获得专属中心，推荐电影和节目时具备更智能的推理能力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3502910"
+  },
+  {
+    "post": "Financial_Express/3502908",
+    "datetime": "2026-09-30T13:03:23+00:00",
+    "views": "20",
+    "text": "美联储在声明中表示，已最终确定年度压力测试的变更方案。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3502908"
+  },
+  {
+    "post": "Financial_Express/3502909",
+    "datetime": "2026-09-30T13:03:23+00:00",
+    "views": "20",
+    "text": "CSCALE：英伟达和英特尔作为 CSCALE 的首批战略投资者加入。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3502909"
+  },
+  {
+    "post": "Financial_Express/3502907",
+    "datetime": "2026-09-30T13:03:22+00:00",
+    "views": "20",
+    "text": "CoreWeave 将为智能体 AI 提供英伟达 Vera CPU。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3502907"
+  },
+  {
     "post": "Financial_Express/3502906",
     "datetime": "2026-09-30T13:03:02+00:00",
-    "views": "13",
+    "views": "27",
     "text": "据灯塔专业版，截至 9 月 30 日 21 时，2026 年 9 月总票房 13.68 亿，《欢迎来龙餐馆》《空枪》《奥德赛》《八仙！》《复仇者联盟 4：终局之战（加码臻享版）》位列 9 月票房榜前五！",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3502905",
     "datetime": "2026-09-30T13:03:00+00:00",
-    "views": "13",
+    "views": "27",
     "text": "法国 10 年期国债收益率较德国国债收益率溢价上升 5 个基点至 124 个基点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3502904",
     "datetime": "2026-09-30T13:02:42+00:00",
-    "views": "18",
+    "views": "30",
     "text": "法国 10 年期国债收益率较德国国债的溢价上升 5 个基点，至 124 个基点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3502903",
     "datetime": "2026-09-30T13:02:23+00:00",
-    "views": "20",
+    "views": "30",
     "text": "卧安 AI 网球机器人 Acemate 亮相 2026 中国网球公开赛\n卧安机器人旗下 AI 网球机器人 Acemate 正式亮相 2026 中国网球公开赛。作为本届中网唯一指定网球训练机器人供应商，Acemate 成为首个进入中网的运动机器人。据介绍，Acemate 无需在球场周围部署外部动作捕捉系统，仅依靠机器人本体搭载的纯双目视觉，即可感知场地、球员和来球信息，并进一步完成来球轨迹预测、自主移动与击球执行。（新浪科技）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3502902",
     "datetime": "2026-09-30T13:02:22+00:00",
-    "views": "20",
+    "views": "29",
     "text": "阿斯特拉尼斯获得美国进出口银行 4.68 亿美元融资，用于扩大下一代地球同步轨道卫星的产能。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3502900",
     "datetime": "2026-09-30T13:01:43+00:00",
-    "views": "22",
+    "views": "31",
     "text": "宝马计划增加更多高端车型，并考虑在美国推出定位高于 X7 的车型。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3502901",
     "datetime": "2026-09-30T13:01:43+00:00",
-    "views": "22",
+    "views": "31",
     "text": "大众汽车的软件子公司 CARIAD 计划再裁员约 1000 人。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3502899",
     "datetime": "2026-09-30T13:01:42+00:00",
-    "views": "22",
+    "views": "30",
     "text": "美联储就与银行模型及手续费收入相关的计划征求意见。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3502898",
     "datetime": "2026-09-30T13:01:23+00:00",
-    "views": "27",
+    "views": "34",
     "text": "美联储表示，两项最终规则与 2025 年的提案基本相似。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +182,7 @@
   {
     "post": "Financial_Express/3502896",
     "datetime": "2026-09-30T13:00:56+00:00",
-    "views": "37",
+    "views": "43",
     "text": "宝马汽车计划在明年年中前，通过部署 AI 帮助削减五分之一的管理职位。这是公司已达成协议的买断计划的一部分，旨在削减成本并提升盈利能力。宝马希望通过“高效利用人工智能”使公司更加敏捷，并计划裁减约 8000 个职位，相当于该汽车制造商全球员工总数的 5%左右。宝马的目标是到下个十年初，将汽车业务利润率恢复至 8%至 10%的长期目标区间，并以 2028 年实现 3%至 5%的回报率作为过渡目标。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -61234,59 +61324,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3496049"
-  },
-  {
-    "post": "Financial_Express/3496048",
-    "datetime": "2026-09-28T13:05:02+00:00",
-    "views": "1",
-    "text": "SpaceX 盘前跌超 2%，此前星舰的其中一台发动机熄火，因此今天不会进入轨道。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496048"
-  },
-  {
-    "post": "Financial_Express/3496047",
-    "datetime": "2026-09-28T13:04:22+00:00",
-    "views": "44",
-    "text": "太空探索技术公司（SpaceX）：因星舰发动机故障，星舰任务中新一代星链 V3 卫星将不进行轨道部署。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496047"
-  },
-  {
-    "post": "Financial_Express/3496046",
-    "datetime": "2026-09-28T13:04:05+00:00",
-    "views": "75",
-    "text": "SpaceX 美股盘前转跌，现跌近 0.8%。星舰的其中一台发动机熄火，因此今天不会进入轨道。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496046"
-  },
-  {
-    "post": "Financial_Express/3496045",
-    "datetime": "2026-09-28T13:03:42+00:00",
-    "views": "45",
-    "text": "希音：上半年净收入为 201 亿美元，同比增长 1%\n金十数据 9 月 28 日讯，希音-W(00625.HK)在港交所公告上市以来的首份中期业绩，2026 年上半年，总订单量达 5.49 亿单，同比增长 6.4%。净收入为 201 亿美元，同比增长 1.0%。截至 2026 年 6 月 30 日止六个月的经调整净利润为 4.99 亿美元，占净收入的 2.5%。2026 年第二季度净收入为 110.8 亿美元，同比增长 0.9%；经调整净利润为 2.28 亿美元，占净收入的 2.1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496045"
-  },
-  {
-    "post": "Financial_Express/3496044",
-    "datetime": "2026-09-28T13:03:31+00:00",
-    "views": "45",
-    "text": "中国商务部公布中美贸易理事会和“300 亿对 300 亿”对等降税框架有关情况。\n美伊局势僵持，布油重回 100 美元，贵金属全线承压，10 年期美债收益率创 2007 年来最高水平。\n日本央行 7 月会议纪要：委员们称根据经济和通胀情况持续加息是适当的，一位委员称日本央行加息步伐可能更快。\n英伟达盘前涨超 2%，公司追加 1500 亿美元回购，规模创美企历史纪录。\nAI 需求催化台积电加速扩产，2 纳米月产能年底冲刺 12 万片。\n扎克伯格：Meta 启动新业务支柱，向企业提供完整 AI 技术栈。\n日经 225 指数收跌 0.7%，沪指收跌 1.67%，恒指收涨 0.54%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496044"
-  },
-  {
-    "post": "Financial_Express/3496043",
-    "datetime": "2026-09-28T13:03:22+00:00",
-    "views": "44",
-    "text": "SIMA.AI：本轮融资由 Fidelity Management & Research Company 和 Amplify 联合领投，Dell Technologies Capital、摩根大通等参与。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496043"
   }
 ]
