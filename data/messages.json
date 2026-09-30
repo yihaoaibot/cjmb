@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3503797",
+    "datetime": "2026-09-30T20:19:02+00:00",
+    "views": "2",
+    "text": "美光科技(MU.O)：预计 2027 财年和 2028 财年的内存及存储供需状况将比 2026 年紧张得多。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503797"
+  },
+  {
+    "post": "Financial_Express/3503796",
+    "datetime": "2026-09-30T20:18:25+00:00",
+    "views": "7",
+    "text": "新思科技（Synopsys）预计全年营收 110 亿-112 亿美元，公司原本预计 96.9 亿-97.4 亿美元。\n预计 2027 财年营收将较之前一年增长大约 15%。\n预计全年调整后每股收益（EPS）为 19.04-19.12 美元，公司原本预计 15.04-15.10 美元。\n预计通过回购恢复高达 50%的自由现金流（FCF）。\n未来数月将回购大约 10 亿美元股票。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503796"
+  },
+  {
+    "post": "Financial_Express/3503795",
+    "datetime": "2026-09-30T20:18:23+00:00",
+    "views": "7",
+    "text": "美光科技：预计 2027 及 2028 财年存储芯片供需格局相比 2026 年将大幅收紧。2027 财年运营支出将增加约 25 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503795"
+  },
+  {
+    "post": "Financial_Express/3503794",
+    "datetime": "2026-09-30T20:18:22+00:00",
+    "views": "7",
+    "text": "美光科技(MU.O)：预计 2027 财年的运营费用将增加约 25 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503794"
+  },
+  {
     "post": "Financial_Express/3503793",
     "datetime": "2026-09-30T20:17:02+00:00",
-    "views": "2",
+    "views": "17",
     "text": "新思科技预计 2026 财年调整后每股收益为 19.04 美元至 19.12 美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3503792",
     "datetime": "2026-09-30T20:14:42+00:00",
-    "views": "22",
+    "views": "28",
     "text": "谷歌发布 Gemini 4 Argon 模型 主打复杂推理与 AI 编程能力\n金十数据 10 月 1 日讯，谷歌(GOOG.O)旗下 DeepMind 发布新一代前沿模型 Gemini 4 Argon，称该模型在软件工程、企业知识工作（包括法律和金融）以及网络安全防御等复杂任务中具备前沿性能。谷歌表示，Gemini 4 Argon 目前正通过“Fairwind 计划”向部分可信网络安全防御人员开放，并将在进一步完善安全措施后逐步向开发者、企业和消费者推出。该模型初始定价为每百万输入词元 2 美元、每百万输出词元 10 美元，缓存输入词元价格较输入价格低 95%。谷歌称，Argon 支持最高 100 万词元输出长度，高于此前 6.4 万词元，可用于处理更长、更复杂的任务。谷歌表示，Argon 已用于内部代码开发、研究和工程优化任务，包括帮助量子计算团队优化算法、分析数据中心运行数据并释放超过 300TiB 内存资源。在软件工程方面，谷歌称 Gemini 4 Argon 在 DeepSWE v1.1 真实软件工程测试中取得 77.9%的成绩，并在金融研究、法律研究、企业自动化等领域评测中表现领先。在网络安全领域，谷歌称 Argon 能够自主发现、验证并修复软件漏洞，并在 CWE-bench v1 漏洞修复测试中取得 68%的成绩，与最高水平模型并列第一。谷歌表示，在全面开放前，将继续加强防滥用、提示注入攻击防护、模型行为监控和安全沙箱等措施。谷歌称，Gemini 4 Argon 后续将向付费 API 客户和 Google AI Ultra 用户开放。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3503790",
     "datetime": "2026-09-30T20:08:42+00:00",
-    "views": "32",
+    "views": "34",
     "text": "谷歌(GOOG.O)：我们正在参与美国政府关于模型的自愿流程。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3503788",
     "datetime": "2026-09-30T20:08:23+00:00",
-    "views": "32",
+    "views": "34",
     "text": "派拉蒙天舞：预计 2026 年营收及 PRESBC 口径息税折旧摊销前利润增长 16%-19%，预期常态化协同效应规模超 60 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3503789",
     "datetime": "2026-09-30T20:08:23+00:00",
-    "views": "33",
+    "views": "35",
     "text": "美光科技：战略客户协议进一步增强公司对财务表现可持续性的信心。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3503787",
     "datetime": "2026-09-30T20:08:22+00:00",
-    "views": "32",
+    "views": "34",
     "text": "谷歌(GOOG.O)将 Argon 定价为每百万输入令牌 2 美元，每百万输出令牌 10 美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3503786",
     "datetime": "2026-09-30T20:08:02+00:00",
-    "views": "33",
+    "views": "35",
     "text": "谷歌(GOOG.O)CEO 皮查伊：推出 Gemini 4 Argon。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3503785",
     "datetime": "2026-09-30T20:07:08+00:00",
-    "views": "69",
+    "views": "71",
     "text": "核电股 Constellation Energy 美股盘后涨 3.5%，该公司与亚马逊达成 20 年期电力采购协议。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3503784",
     "datetime": "2026-09-30T20:07:02+00:00",
-    "views": "68",
+    "views": "70",
     "text": "美光科技(MU.O)预计下一财年 Q1 经调整营收 600 亿美元至 630 亿美元，高于市场预期的 567.7 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3503783",
     "datetime": "2026-09-30T20:06:03+00:00",
-    "views": "74",
+    "views": "76",
     "text": "金十图示：2026 年 09 月 30 日（周三）美股热门股票行情一览（美股收盘）",
     "media_only": false,
     "image_url": null,
@@ -61495,14 +61531,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3496903"
-  },
-  {
-    "post": "Financial_Express/3496902",
-    "datetime": "2026-09-28T20:18:22+00:00",
-    "views": "55",
-    "text": "明晟公司：科迪华从大盘股成分股中剔除，纳入 MSCI 全球标准指数中盘股，2026 年 10 月 2 日生效。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496902"
   }
 ]
