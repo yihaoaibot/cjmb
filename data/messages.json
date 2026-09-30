@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3503408",
+    "datetime": "2026-09-30T16:09:02+00:00",
+    "views": "1",
+    "text": "沙特政府声明：预计 2027 年财政赤字占国内生产总值的 3.6%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503408"
+  },
+  {
+    "post": "Financial_Express/3503407",
+    "datetime": "2026-09-30T16:08:43+00:00",
+    "views": "2",
+    "text": "沙特政府声明：预计 2027 年政府总收入为 1.20 万亿里亚尔。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503407"
+  },
+  {
+    "post": "Financial_Express/3503406",
+    "datetime": "2026-09-30T16:08:42+00:00",
+    "views": "2",
+    "text": "据沙特阿拉伯国家通讯社：预计 2027 年政府总支出为 1.39 万亿里亚尔。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503406"
+  },
+  {
+    "post": "Financial_Express/3503405",
+    "datetime": "2026-09-30T16:08:22+00:00",
+    "views": "2",
+    "text": "声明显示：沙特阿拉伯预计 2027 年财政赤字占国内生产总值的 3.6%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503405"
+  },
+  {
+    "post": "Financial_Express/3503403",
+    "datetime": "2026-09-30T16:07:42+00:00",
+    "views": "3",
+    "text": "伊朗最高国家安全委员会秘书雷扎伊警告阿联酋不要接待以色列总理内塔尼亚胡，声称此举将带来后果。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503403"
+  },
+  {
+    "post": "Financial_Express/3503404",
+    "datetime": "2026-09-30T16:07:42+00:00",
+    "views": "3",
+    "text": "沙特阿拉伯在一份声明中预计，2027 年该国财政总收入将达到 1.2 万亿里亚尔。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503404"
+  },
+  {
+    "post": "Financial_Express/3503402",
+    "datetime": "2026-09-30T16:07:24+00:00",
+    "views": "3",
+    "text": "CoreWeave 认为，“新云”这一标签已不再适用于自己，因为公司现在提供一系列软件产品，并服务非科技类客户。公司正计划通过一套名为 Forge 的新开发工具进一步丰富产品阵容，帮助客户训练和优化 AI 模型。CoreWeave 仍专注于提供最新英伟达 GPU 的算力接入，目前供应“基本售罄”，但也在持续关注各类可用加速器。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3503402"
+  },
+  {
     "post": "Financial_Express/3503401",
     "datetime": "2026-09-30T16:06:02+00:00",
-    "views": "3",
+    "views": "4",
     "text": "欧洲航空安全局就沙特空域发布安全建议\n欧洲航空安全局 9 月 30 日表示，鉴于也门胡塞武装近期扩大对沙特阿拉伯目标的袭击，相关空域的民航安全风险上升，建议航空运营商不要在其划定的沙特部分空域的任何高度飞行。欧洲航空安全局在当天发布的一份信息通报中说，9 月以来，胡塞武装对沙特海上、能源和基础设施目标的袭击频率及范围明显加大。沙特南部和西南部空域因靠近胡塞武装控制区，面临的风险尤为突出。通报还说，导弹和无人机袭击及防空系统启动增加了民航飞机被误判的风险，同时带来拦截和残骸坠落等风险。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3503399",
     "datetime": "2026-09-30T16:04:42+00:00",
-    "views": "3",
+    "views": "33",
     "text": "俄罗斯 8 月失业率为 2.2%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3503398",
     "datetime": "2026-09-30T16:04:22+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美国农业部数据显示美国玉米供应量超预期，玉米期货价格下跌 2.9%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3503397",
     "datetime": "2026-09-30T16:04:04+00:00",
-    "views": "3",
+    "views": "33",
     "text": "俄罗斯 8 月建筑业同比增长 2.7%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3503396",
     "datetime": "2026-09-30T16:04:03+00:00",
-    "views": "3",
+    "views": "33",
     "text": "俄罗斯统计局：8 月零售销售额同比增长 3.3%，上月为增长 5.3%（市场预期为增长 5.6%）。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3503395",
     "datetime": "2026-09-30T16:03:43+00:00",
-    "views": "3",
+    "views": "33",
     "text": "英国首相伯纳姆：尽管财政状况严峻，我们仍将竭尽所能。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3503394",
     "datetime": "2026-09-30T16:03:42+00:00",
-    "views": "3",
+    "views": "33",
     "text": "1 月至 7 月俄罗斯企业利润同比下降 15.7%，至 13.03 万亿卢布。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3503393",
     "datetime": "2026-09-30T16:03:22+00:00",
-    "views": "3",
+    "views": "33",
     "text": "俄罗斯统计局：截至 9 月 28 日当周，俄罗斯周度消费者通胀率为 0.12%，此前一周为 0.06%。",
     "media_only": false,
     "image_url": null,
@@ -61576,23 +61639,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3496505"
-  },
-  {
-    "post": "Financial_Express/3496504",
-    "datetime": "2026-09-28T16:08:22+00:00",
-    "views": "118",
-    "text": "美国联邦调查局（FBI）联合副局长安德鲁·贝利即将离职。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496504"
-  },
-  {
-    "post": "Financial_Express/3496503",
-    "datetime": "2026-09-28T16:07:22+00:00",
-    "views": "131",
-    "text": "美国 FBI 联合副局长安德鲁·贝利（Andrew Bailey）即将离职。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3496503"
   }
 ]
