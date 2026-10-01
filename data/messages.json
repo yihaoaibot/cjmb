@@ -1,5 +1,23 @@
 [
   {
+    "post": "Financial_Express/3506407",
+    "datetime": "2026-10-01T23:33:22+00:00",
+    "views": "1",
+    "text": "日元兑美元小幅走强，此前东京 9 月 CPI 数据高于预期。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3506407"
+  },
+  {
+    "post": "Financial_Express/3506406",
+    "datetime": "2026-10-01T23:33:02+00:00",
+    "views": "1",
+    "text": "深圳市解除所有暴雨预警信号\n雷雨云团明显减弱，深圳市气象台 2026 年 10 月 02 日 07 时 30 分解除所有暴雨预警信号，市民仍需注意远离河道和危险边坡等。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3506406"
+  },
+  {
     "post": "Financial_Express/3506405",
     "datetime": "2026-10-01T23:32:02+00:00",
     "views": "1",
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3506403",
     "datetime": "2026-10-01T23:30:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "日本 8 月失业率 2.5%，预期 2.40%，前值 2.40%。\n日本 9 月东京核心 CPI 年率 2.7%，预期 2.3%，前值 1.80%。\n日本 9 月东京 CPI 年率 2.7%，预期 2.5%，前值 1.90%。\n日本 8 月求才求职比 1.18，预期 1.18，前值 1.18。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3506402",
     "datetime": "2026-10-01T23:30:40+00:00",
-    "views": "2",
+    "views": "32",
     "text": "美国达拉斯联储主席 Logan：相比经济增长，能源价格引发的通胀更令人担忧。\n对人工智能将提升劳动生产率持高度乐观态度。\nAI 建设需求正在推高通胀。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3506401",
     "datetime": "2026-10-01T23:30:23+00:00",
-    "views": "2",
+    "views": "32",
     "text": "美联储洛根：对人工智能将提高劳动生产率持高度乐观态度。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3506400",
     "datetime": "2026-10-01T23:30:22+00:00",
-    "views": "2",
+    "views": "32",
     "text": "日本 9 月东京 CPI 年率 2.7%，预期 2.5%，前值 1.90%。",
     "media_only": false,
     "image_url": null,
@@ -51523,32 +51541,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3500632"
-  },
-  {
-    "post": "Financial_Express/3500631",
-    "datetime": "2026-09-29T23:33:03+00:00",
-    "views": "65",
-    "text": "《自然》：下一代 CAR-T 在研药物，82%由中国团队主导\n在癌症与自身免疫性疾病的治疗前沿，中国正成为创新细胞疗法开发与试验的核心阵地，尤其在下一代体内（in vivo）CAR-T 细胞疗法的研发中已展现出全球领跑之势。《自然》（Nature）杂志近日刊发的报道援引了一项对体内 CAR-T 疗法研发现状的综合分析研究，指出尽管该领域的基础和临床前研究主要由美、德等国团队完成，但中国在临床转化方面动作极为迅速，目前全球处于动物与人体试验阶段的 140 种体内 CAR-T 在研药物中，有 82%由中国团队主导开发。（澎湃新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500631"
-  },
-  {
-    "post": "Financial_Express/3500630",
-    "datetime": "2026-09-29T23:33:02+00:00",
-    "views": "65",
-    "text": "美国国家飓风中心：墨西哥西北部上空的飓风波罗正在迅速减弱。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500630"
-  },
-  {
-    "post": "Financial_Express/3500629",
-    "datetime": "2026-09-29T23:32:42+00:00",
-    "views": "70",
-    "text": "苹果支付据悉将在印度上线，初期接入 Axis 银行信用卡\n9 月 30 日消息，据报道，苹果支付（Apple Pay）将于当地时间周三在印度上线，首批支持 Axis 银行发行的 Visa 和 Mastercard 信用卡。由于印度数字支付市场已由统一支付接口（UPI）占据主导，Apple Pay 在印度的初期推广预计较为有限。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500629"
   }
 ]
