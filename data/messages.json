@@ -1,9 +1,45 @@
 [
   {
+    "post": "Financial_Express/3505562",
+    "datetime": "2026-10-01T15:15:02+00:00",
+    "views": "1",
+    "text": "俄罗斯总统普京：世界正处于发展的转折点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505562"
+  },
+  {
+    "post": "Financial_Express/3505561",
+    "datetime": "2026-10-01T15:14:43+00:00",
+    "views": "1",
+    "text": "俄罗斯总统普京：我们必须思考如何避免出现灾难性局面。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505561"
+  },
+  {
+    "post": "Financial_Express/3505560",
+    "datetime": "2026-10-01T15:14:42+00:00",
+    "views": "1",
+    "text": "俄罗斯总统普京：我们现在必须思考如何维护全球安全。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505560"
+  },
+  {
+    "post": "Financial_Express/3505559",
+    "datetime": "2026-10-01T15:14:22+00:00",
+    "views": "1",
+    "text": "美国两年期国债收益率短暂触及一周低位，下跌 6.03 个基点，报 4.827%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505559"
+  },
+  {
     "post": "Financial_Express/3505558",
     "datetime": "2026-10-01T15:12:43+00:00",
-    "views": "2",
-    "text": "阿根廷经济部长：泛美能源将向塞罗德拉贡油田投资 12 亿美元",
+    "views": "32",
+    "text": "阿根廷经济部长：泛美能源将向塞罗德拉贡油田投资 12 亿美元。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3505558"
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3505557",
     "datetime": "2026-10-01T15:12:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "SpaceX(SPCX.O)执行第 13 次龙飞船长期任务，将四名宇航员送往国际空间站，为 NASA 执行任务。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3505556",
     "datetime": "2026-10-01T15:11:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "SpaceX 为美国国家航空航天局发射四人乘组前往空间站。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3505548",
     "datetime": "2026-10-01T15:08:02+00:00",
-    "views": "48",
+    "views": "78",
     "text": "加拿大总理卡尼：管道项目将创造 14 万个就业岗位，每年为 GDP 贡献超过 200 亿加元，并在 2060 年前为政府带来 1000 亿加元收入。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3505547",
     "datetime": "2026-10-01T15:07:42+00:00",
-    "views": "49",
+    "views": "79",
     "text": "加拿大总理卡尼：加拿大将把拟建的西海岸石油管道定为国家利益项目。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3505546",
     "datetime": "2026-10-01T15:06:38+00:00",
-    "views": "52",
+    "views": "82",
     "text": "据美国纽约联储数据，上个交易日（9 月 30 日）担保隔夜融资利率（SOFR）报 3.90%，之前一天报 3.88%。\n上个交易日有效的联邦基金利率报 3.88%，之前一天报 3.88%。",
     "media_only": false,
     "image_url": null,
@@ -51847,23 +51883,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3499749"
-  },
-  {
-    "post": "Financial_Express/3499748",
-    "datetime": "2026-09-29T15:15:02+00:00",
-    "views": "78",
-    "text": "苹果新任 CEO 着手对公司进行全面改革，以期实现更高效、精简的运营。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3499748"
-  },
-  {
-    "post": "Financial_Express/3499747",
-    "datetime": "2026-09-29T15:13:22+00:00",
-    "views": "87",
-    "text": "据 CNN：美国总统特朗普将于下周一在内布拉斯加州举行中期选举集会。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3499747"
   }
 ]
