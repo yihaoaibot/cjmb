@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3505748",
+    "datetime": "2026-10-01T16:49:02+00:00",
+    "views": "1",
+    "text": "特朗普：我没能向民众很好地解释通胀问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505748"
+  },
+  {
+    "post": "Financial_Express/3505747",
+    "datetime": "2026-10-01T16:48:43+00:00",
+    "views": "1",
+    "text": "俄罗斯总统普京：俄罗斯有意与日本开展合作，但对日本的军事化进程感到担忧。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505747"
+  },
+  {
+    "post": "Financial_Express/3505746",
+    "datetime": "2026-10-01T16:48:42+00:00",
+    "views": "1",
+    "text": "俄罗斯总统普京：俄罗斯有兴趣与日本合作，但我们对日本的军事化感到担忧。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505746"
+  },
+  {
+    "post": "Financial_Express/3505745",
+    "datetime": "2026-10-01T16:48:30+00:00",
+    "views": "1",
+    "text": "周四（10 月 1 日）欧市尾盘，德国 10 年期国债收益率跌 7.8 个基点，连续三个交易日回撤，报 3.508%，日内交投于 3.645%-3.506%区间，欧市早盘逼近 9 月 28 日顶部 3.654%。\n两年期德债收益率跌 14.2 个基点，报 3.065%，日内交投于 3.266%-3.043%区间，最近三天累计下跌 24.3 个基点；30 年期德债收益率跌 4.2 个基点，报 3.894%。\n2/10 年期德债收益率利差涨 6.413 个基点，报+44.064 个基点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505745"
+  },
+  {
+    "post": "Financial_Express/3505744",
+    "datetime": "2026-10-01T16:47:42+00:00",
+    "views": "1",
+    "text": "消息人士：美国联邦航空管理局（FAA）最早将于周五召集专家组，就波音(BA.N)软件故障问题展开审议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505744"
+  },
+  {
     "post": "Financial_Express/3505742",
     "datetime": "2026-10-01T16:46:22+00:00",
-    "views": "1",
+    "views": "31",
     "text": "伊朗常驻联合国代表团：美西方盟友在包庇以色列免受问责、并对其核武库保持沉默的同时，根本没有资格在防扩散或国际法问题上对伊朗说教。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3505743",
     "datetime": "2026-10-01T16:46:22+00:00",
-    "views": "1",
+    "views": "31",
     "text": "特朗普：我接手了拜登时期史上最严重的通胀，如今我们已将其控制住。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3505741",
     "datetime": "2026-10-01T16:46:02+00:00",
-    "views": "1",
+    "views": "31",
     "text": "美国联邦航空管理局将于最早周五召开专家组会议，审议波音软件故障问题。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3505729",
     "datetime": "2026-10-01T16:40:23+00:00",
-    "views": "34",
+    "views": "64",
     "text": "特朗普：利率会损害我们的增长。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3505730",
     "datetime": "2026-10-01T16:40:23+00:00",
-    "views": "34",
+    "views": "64",
     "text": "特朗普谈沃什：我希望他按自己的意愿投票。",
     "media_only": false,
     "image_url": null,
@@ -51874,23 +51919,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3499931"
-  },
-  {
-    "post": "Financial_Express/3499930",
-    "datetime": "2026-09-29T16:49:02+00:00",
-    "views": "77",
-    "text": "英国央行泰勒：我不知道英国央行是否能够进行一次不会被误解为系列加息的单次“保险加息”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3499930"
-  },
-  {
-    "post": "Financial_Express/3499929",
-    "datetime": "2026-09-29T16:48:22+00:00",
-    "views": "79",
-    "text": "欧元兑美元跌至 1.1318，创 2025 年 5 月以来最低。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3499929"
   }
 ]
