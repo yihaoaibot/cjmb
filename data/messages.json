@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3505906",
+    "datetime": "2026-10-01T18:05:43+00:00",
+    "views": "3",
+    "text": "Anthropic：今日推出 Mods，这类小型 TypeScript 函数可改变 Claude Code 的运行方式。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505906"
+  },
+  {
+    "post": "Financial_Express/3505905",
+    "datetime": "2026-10-01T18:05:42+00:00",
+    "views": "3",
+    "text": "报道：美国向中东派遣第三艘航母，并增派至多 1 万名士兵\n据美媒援引美国官员报道，五角大楼正向中东派遣第三支航母打击群以及多艘新增海军陆战队舰船，将向该地区增派 9000‑10000 名士兵。当下特朗普总统正考虑中期选举结束之后重启对伊朗的打击行动。官员表示，上述舰船及士兵将于 11 月底前抵达中东。特朗普近期向幕僚表示，他预计会在 11 月恢复对伊朗的轰炸。目前中东已经部署了 “乔治・H・W・布什” 号与 “乔治・华盛顿” 号两艘航母。如果 “华盛顿” 号在 “罗斯福” 号抵达之后继续留守，中东将自 4 月以来再度同时部署三支航母打击群。一名官员称，本周启航战舰上新增的作战人员，将叠加至中东已有的 5 万美军之上。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505905"
+  },
+  {
     "post": "Financial_Express/3505904",
     "datetime": "2026-10-01T18:03:42+00:00",
-    "views": "1",
+    "views": "33",
     "text": "美联储副主席杰斐逊：美联储的双重使命蕴含着深刻的智慧。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3505903",
     "datetime": "2026-10-01T18:03:22+00:00",
-    "views": "1",
+    "views": "33",
     "text": "美国财政部 10 至 20 年期美债回购达 60 亿美元上限\n金十数据 10 月 2 日讯，美国财政部：在 10 月 1 日进行了价值 60 亿美元的 10 至 20 年期美国国债流动性回购操作。10 至 20 年期买回操作共收到 463.9 亿美元投标。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3505902",
     "datetime": "2026-10-01T18:02:22+00:00",
-    "views": "31",
+    "views": "33",
     "text": "特朗普：一夜之间消除了伊朗核威胁\n金十数据 10 月 2 日讯，美国总统特朗普：我曾多次说过，消除伊朗核威胁需要 4 到 6 周时间，而我只用了一夜就做到了！剩下的时间只是为了确保这种情况持续下去。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3505901",
     "datetime": "2026-10-01T18:00:02+00:00",
-    "views": "63",
+    "views": "95",
     "text": "特朗普：伊朗核威胁 “一夜之间” 被消除\n美国总统特朗普在真相社交平台发文称，他此前多次预估，消除他所说的 “伊朗核威胁” 需要 4 至 6 周时间，但他宣称该目标已在 “一夜之间” 完成。 特朗普表示，美国后续采取的行动旨在确保这一威胁不再卷土重来。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3505900",
     "datetime": "2026-10-01T17:59:43+00:00",
-    "views": "62",
+    "views": "94",
     "text": "布伦特原油突破 103 美元/桶，日内涨 5.09%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3505899",
     "datetime": "2026-10-01T17:59:42+00:00",
-    "views": "62",
+    "views": "94",
     "text": "布伦特原油日内涨 5%，现报 102.97 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3505898",
     "datetime": "2026-10-01T17:58:22+00:00",
-    "views": "63",
+    "views": "94",
     "text": "以色列财政部长：已拨款用于接回因航班取消而滞留在迪拜的以色列公民。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3505897",
     "datetime": "2026-10-01T17:57:42+00:00",
-    "views": "93",
+    "views": "94",
     "text": "以色列财政部长：已为因航班取消而滞留迪拜的以色列公民安排专项预算，用于资助其回国航班。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3505896",
     "datetime": "2026-10-01T17:57:22+00:00",
-    "views": "94",
+    "views": "95",
     "text": "WTI 原油日内涨 3%，现报 93.16 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3505895",
     "datetime": "2026-10-01T17:56:22+00:00",
-    "views": "94",
+    "views": "95",
     "text": "美联储副主席杰斐逊：美联储当前有更多余地聚焦通胀目标。",
     "media_only": false,
     "image_url": null,
@@ -51550,50 +51568,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3500128"
-  },
-  {
-    "post": "Financial_Express/3500127",
-    "datetime": "2026-09-29T18:06:42+00:00",
-    "views": "59",
-    "text": "美联储古尔斯比：部分供给冲击，美联储必须做出应对。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500127"
-  },
-  {
-    "post": "Financial_Express/3500125",
-    "datetime": "2026-09-29T18:06:22+00:00",
-    "views": "57",
-    "text": "美联储穆萨莱姆：目前，人工智能资本支出热潮导致了需求压力，生产率和“供应缓解”尚未显现。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500125"
-  },
-  {
-    "post": "Financial_Express/3500126",
-    "datetime": "2026-09-29T18:06:22+00:00",
-    "views": "57",
-    "text": "美联储穆萨莱姆：目前经济非常强劲，但依赖于持续增长。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500126"
-  },
-  {
-    "post": "Financial_Express/3500124",
-    "datetime": "2026-09-29T18:05:42+00:00",
-    "views": "58",
-    "text": "美联储穆萨莱姆：美国经济增长强劲，劳动力市场状况良好。 当前经济十分强劲，但这依赖经济持续增长。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500124"
-  },
-  {
-    "post": "Financial_Express/3500123",
-    "datetime": "2026-09-29T18:05:32+00:00",
-    "views": "59",
-    "text": "美国两年期国债收益率刷新日低，美联储三把手威廉姆斯认为，9 月加息后，“没有必要急于行动”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500123"
   }
 ]
