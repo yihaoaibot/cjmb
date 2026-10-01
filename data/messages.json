@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3505802",
+    "datetime": "2026-10-01T17:22:42+00:00",
+    "views": "5",
+    "text": "美国国务院：美国国务卿鲁比奥将访问冰岛雷克雅未克、希腊雅典和葡萄牙里斯本。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505802"
+  },
+  {
+    "post": "Financial_Express/3505801",
+    "datetime": "2026-10-01T17:22:23+00:00",
+    "views": "6",
+    "text": "美国国务院：国务卿鲁比奥将出访雷克雅未克、雅典与里斯本。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505801"
+  },
+  {
+    "post": "Financial_Express/3505800",
+    "datetime": "2026-10-01T17:22:22+00:00",
+    "views": "6",
+    "text": "消息人士：英国宇航系统公司（BAE）考虑竞购 Robin 雷达，交易金额可能达 23 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505800"
+  },
+  {
     "post": "Financial_Express/3505799",
     "datetime": "2026-10-01T17:20:19+00:00",
-    "views": "4",
+    "views": "43",
     "text": "美国联邦航空管理局（FAA）可能召集审查小组，调查波音 737 Max 飞机软件故障的严重程度。该故障可能在特定着陆场景下增加飞行员工作负荷。FAA 将在完成安全审查前推迟 737 Max 10 的认证，波音正开发软件更新以解决该故障。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3505798",
     "datetime": "2026-10-01T17:20:02+00:00",
-    "views": "4",
+    "views": "43",
     "text": "纳斯达克 100 指数转涨。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3505797",
     "datetime": "2026-10-01T17:19:42+00:00",
-    "views": "5",
+    "views": "44",
     "text": "费城半导体指数涨至盘中高点，现涨 1.18%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3505795",
     "datetime": "2026-10-01T17:18:02+00:00",
-    "views": "43",
+    "views": "49",
     "text": "加州总检察长：我办公室正在就涉及 OpenAI 公司及其 AI 模型的网络安全事件与风险，向 OpenAI 提出进一步质询。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3505796",
     "datetime": "2026-10-01T17:18:02+00:00",
-    "views": "43",
+    "views": "49",
     "text": "加州总检察长：我的办公室正就涉及该公司及其人工智能模型的网络安全事件与风险，向 OpenAI 提出更多问题。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3505794",
     "datetime": "2026-10-01T17:17:42+00:00",
-    "views": "44",
+    "views": "49",
     "text": "美联储在固定利率逆回购操作中总计接纳了 1 个对手方的 3.5 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3505793",
     "datetime": "2026-10-01T17:16:43+00:00",
-    "views": "46",
+    "views": "51",
     "text": "加州总检察长：就网络安全事件向 OpenAI 送达调查传票。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3505791",
     "datetime": "2026-10-01T17:16:42+00:00",
-    "views": "46",
+    "views": "51",
     "text": "俄罗斯总统普京：在有利情形下，他们或许能拿回这些（东西）。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3505792",
     "datetime": "2026-10-01T17:16:42+00:00",
-    "views": "46",
+    "views": "51",
     "text": "俄罗斯总统普京：在有利情形下，他们可以取回这些资产。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3505790",
     "datetime": "2026-10-01T17:16:17+00:00",
-    "views": "49",
+    "views": "54",
     "text": "周四（10 月 1 日），美联储隔夜逆回购协议（RRP）使用规模为 3.5 亿美元（交易对手 1 家），上个交易日报 115.39 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3505789",
     "datetime": "2026-10-01T17:15:42+00:00",
-    "views": "51",
+    "views": "55",
     "text": "俄罗斯总统普京谈及西方企业在俄资产的管理事宜：我们不会将任何资产国有化。\n部分欧洲国家，包括德国，扣押俄罗斯资产。\n我们将对等回应。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3505787",
     "datetime": "2026-10-01T17:15:03+00:00",
-    "views": "52",
+    "views": "55",
     "text": "俄罗斯总统普京：部分欧洲国家，包括德国，扣押俄罗斯资产。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3505788",
     "datetime": "2026-10-01T17:15:03+00:00",
-    "views": "53",
+    "views": "56",
     "text": "俄罗斯总统普京：我们将对等回应。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3505786",
     "datetime": "2026-10-01T17:15:02+00:00",
-    "views": "51",
+    "views": "54",
     "text": "俄罗斯总统普京：包括德国在内的一些欧洲国家查封俄罗斯资产，我们会以同样的方式回应。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3505785",
     "datetime": "2026-10-01T17:14:43+00:00",
-    "views": "52",
+    "views": "55",
     "text": "俄罗斯总统普京谈及西方企业在俄资产的管理事宜：我们不会将任何资产国有化。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3505784",
     "datetime": "2026-10-01T17:14:42+00:00",
-    "views": "52",
+    "views": "55",
     "text": "俄罗斯总统普京：（关于西方公司在俄资产管理）我们并不打算国有化任何东西。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3505783",
     "datetime": "2026-10-01T17:14:02+00:00",
-    "views": "54",
+    "views": "55",
     "text": "俄罗斯总统普京：俄罗斯与欧盟对话没有任何前提条件。",
     "media_only": false,
     "image_url": null,
@@ -51739,32 +51766,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3500002"
-  },
-  {
-    "post": "Financial_Express/3500001",
-    "datetime": "2026-09-29T17:22:42+00:00",
-    "views": "3",
-    "text": "加拿大央行副行长格拉维尔： 但我们对加拿大隔夜平均利率（CORRA）的上行压力容忍度有限，因为大幅偏离会干扰货币政策传导。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500001"
-  },
-  {
-    "post": "Financial_Express/3500000",
-    "datetime": "2026-09-29T17:21:42+00:00",
-    "views": "33",
-    "text": "加拿大央行副行长：最重要的是，当回购市场失衡状况发生变化时，按需部署操作以管控政策利率。将准备金供应量维持在该区间本身并非政策目标。更积极地使用两周期回购工具，可能会使准备金规模有时超出我们对稳态需求的最优估算值，该估算区间仍为 500 亿至 700 亿加元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500000"
-  },
-  {
-    "post": "Financial_Express/3499999",
-    "datetime": "2026-09-29T17:21:20+00:00",
-    "views": "3",
-    "text": "加拿大央行副行长：加拿大金融机构无需顾虑使用常设流动性工具获取隔夜流动性。\n加拿大中央清算基础设施与服务的现代化改造预计将于 2028 年基本完工。\n最重要的是，当回购市场失衡状况发生变化时，按需部署操作以管控政策利率。\n将准备金供应量维持在该区间本身并非政策目标。\n更积极地使用两周期回购工具，可能会使准备金规模有时超出我们对稳态需求的最优估算值，该估算区间仍为 500 亿-700 亿加元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3499999"
   }
 ]
