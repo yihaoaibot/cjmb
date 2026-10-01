@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3505918",
+    "datetime": "2026-10-01T18:12:42+00:00",
+    "views": "2",
+    "text": "俄罗斯总统普京：乌克兰中立是俄罗斯的目标之一。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505918"
+  },
+  {
+    "post": "Financial_Express/3505917",
+    "datetime": "2026-10-01T18:12:22+00:00",
+    "views": "2",
+    "text": "俄罗斯总统普京：实现乌克兰中立是俄罗斯的目标之一。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505917"
+  },
+  {
+    "post": "Financial_Express/3505916",
+    "datetime": "2026-10-01T18:11:22+00:00",
+    "views": "2",
+    "text": "美国法官裁定恢复被美国总统特朗普在西雅图解雇的法院指定首席联邦检察官职务。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3505916"
+  },
+  {
     "post": "Financial_Express/3505914",
     "datetime": "2026-10-01T18:09:22+00:00",
-    "views": "2",
+    "views": "32",
     "text": "美联储副主席杰斐逊：鼓励负责任的人工智能发展。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3505915",
     "datetime": "2026-10-01T18:09:22+00:00",
-    "views": "2",
+    "views": "32",
     "text": "美联储副主席杰斐逊： 鼓励人工智能的负责任发展。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3505913",
     "datetime": "2026-10-01T18:09:02+00:00",
-    "views": "2",
+    "views": "32",
     "text": "Anthropic：推出 Mods，可通过小型 TypeScript 函数自定义 Claude Code 的运行方式。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3505904",
     "datetime": "2026-10-01T18:03:42+00:00",
-    "views": "63",
+    "views": "93",
     "text": "美联储副主席杰斐逊：美联储的双重使命蕴含着深刻的智慧。",
     "media_only": false,
     "image_url": null,
@@ -51577,32 +51604,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3500136"
-  },
-  {
-    "post": "Financial_Express/3500135",
-    "datetime": "2026-09-29T18:12:42+00:00",
-    "views": "93",
-    "text": "美联储威廉姆斯：年内或再加息一次 但无需急于行动\n金十数据 9 月 30 日讯，纽约联储主席约翰·威廉姆斯表示，美联储在 9 月会议加息后没有必要急于再次行动，可以等待更多经济数据，以判断下一步政策方向。威廉姆斯表示，如果经济发展大致符合他的预期，年底前可能需要进一步上调联邦基金利率目标区间，以推动通胀更及时回归 2%目标。但他强调，这只是个人预测，最终决定将取决于未来数据表现。威廉姆斯称，在经济增长保持稳健、就业市场表现良好的情况下，通胀压力将继续成为货币政策重点。他表示，美联储必须确保通胀不会因冲击而持续高企，并避免二次通胀效应形成。他指出，今年通胀压力受到特朗普关税政策和中东冲突导致能源价格上涨影响，同时人工智能投资也推高部分价格压力。威廉姆斯预计美国通胀率将在今年年底达到约 3.5%，随后逐步回落，并在 2028 年回到目标水平。威廉姆斯预计，今年美国经济增长约为 2.25%，明年失业率约为 4%。他表示，移民因素、人口老龄化以及生产率增长有限，限制了经济长期增长空间。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500135"
-  },
-  {
-    "post": "Financial_Express/3500134",
-    "datetime": "2026-09-29T18:12:02+00:00",
-    "views": "89",
-    "text": "美联储穆萨莱姆：当供给冲击接连发生时，“无视短期供给冲击” 这一政策逻辑的有效性会下降，会提升大范围通胀固化的风险。 当前约一半通胀来自持续性需求压力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500134"
-  },
-  {
-    "post": "Financial_Express/3500133",
-    "datetime": "2026-09-29T18:11:42+00:00",
-    "views": "58",
-    "text": "美联储穆萨莱姆：目前约一半的通胀来自持续的需求压力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500133"
   }
 ]
