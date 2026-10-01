@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3506415",
+    "datetime": "2026-10-01T23:40:02+00:00",
+    "views": "2",
+    "text": "特朗普：即将前往俄克拉荷马州。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3506415"
+  },
+  {
+    "post": "Financial_Express/3506414",
+    "datetime": "2026-10-01T23:39:42+00:00",
+    "views": "3",
+    "text": "澳大利亚 AI 基础设施公司 Firmus IPO 发行价定为每股 11 澳元，上市后市值将达 437 亿澳元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3506414"
+  },
+  {
+    "post": "Financial_Express/3506413",
+    "datetime": "2026-10-01T23:39:03+00:00",
+    "views": "3",
+    "text": "东京通胀数据超预期，日本国债承压\n东京通胀高于预期，且较上月大幅上行，日本国债短端将面临压力，收益率曲线趋于平坦。交易商认为本月加息依据尚不充分，但加息可能性已十分接近。而 12 月几乎确定将迎来下一次 25 个基点的加息。美元兑日元汇率小幅走低。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3506413"
+  },
+  {
+    "post": "Financial_Express/3506412",
+    "datetime": "2026-10-01T23:39:02+00:00",
+    "views": "3",
+    "text": "美国新墨西哥州寻求对 Meta 罚款 400 亿美元\n美国新墨西哥州周四请求法官下令 Meta 支付 350 亿至 400 亿美元罚款；此前，在一桩源于剑桥分析公司（Cambridge Analytica）丑闻的诉讼中，陪审团认定该公司在 Facebook 用户数据隐私问题上误导了该州消费者。在听证会上，Meta 与新墨西哥州的律师就罚款的适当数额发生了分歧。新墨西哥州的律师表示，法院应当用 Meta 唯一能听懂的语言——即金钱和股价——来与该公司对话，指出 350 亿至 400 亿美元的罚款金额既能对股价产生影响，又符合宪法赋予 Meta 的正当程序权利。Meta 则请求法官将罚款上限设定为 34.5 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3506412"
+  },
+  {
+    "post": "Financial_Express/3506411",
+    "datetime": "2026-10-01T23:38:42+00:00",
+    "views": "3",
+    "text": "Netflix 宣布与西班牙流媒体平台 Filmin 达成合作协议，向西班牙用户开放精选内容的月度观看权限。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3506411"
+  },
+  {
     "post": "Financial_Express/3506410",
     "datetime": "2026-10-01T23:37:03+00:00",
-    "views": "2",
+    "views": "34",
     "text": "东京通胀加速，大幅高于日本央行目标\n东京 9 月剔除生鲜食品的消费者物价指数同比上涨 2.7%。该数据高于经济学家预期中值 2.3%，上月增幅为 1.8%。此前，东京扩大育儿补贴以及夏季水费减免政策压低了该项通胀指标，因此市场普遍预期本次数据将出现加速上涨。CPI 的飙升印证了日本央行的担忧：通胀上行风险或将推动核心物价趋势突破 2%的目标。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3506409",
     "datetime": "2026-10-01T23:37:02+00:00",
-    "views": "2",
+    "views": "34",
     "text": "日本 9 月东京未季调 CPI 月率 0.6%，前值 0.4%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3506408",
     "datetime": "2026-10-01T23:36:02+00:00",
-    "views": "3",
+    "views": "34",
     "text": "美联储洛根：对人工智能将提升劳动生产率持高度乐观态度。AI 建设需求正在推高通胀。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3506402",
     "datetime": "2026-10-01T23:30:40+00:00",
-    "views": "32",
+    "views": "33",
     "text": "美国达拉斯联储主席 Logan：相比经济增长，能源价格引发的通胀更令人担忧。\n对人工智能将提升劳动生产率持高度乐观态度。\nAI 建设需求正在推高通胀。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3506398",
     "datetime": "2026-10-01T23:30:11+00:00",
-    "views": "32",
+    "views": "33",
     "text": "日本 8 月失业率 2.5%，预期 2.4%，前值 2.4%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3506397",
     "datetime": "2026-10-01T23:30:06+00:00",
-    "views": "32",
+    "views": "33",
     "text": "日本 9 月东京 CPI 同比 2.7%，预期 2.5%，前值 1.9%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3506396",
     "datetime": "2026-10-01T23:30:03+00:00",
-    "views": "32",
+    "views": "33",
     "text": "据香港交易所披露文件显示，渣打银行于 9 月 30 日在其他交易所回购合计 35.6496 万股股票，总回购金额为 830 万英镑。",
     "media_only": false,
     "image_url": null,
@@ -51523,23 +51568,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3500637"
-  },
-  {
-    "post": "Financial_Express/3500636",
-    "datetime": "2026-09-29T23:40:22+00:00",
-    "views": "41",
-    "text": "中信建投：成本支撑+供给扰动，镍价底部反弹\n中信建投研报称，本周镍价小幅走高，SMM 现货 1#镍周均价 12.67 万元，周环比上涨约 1.3%。由于成本支撑、供给扰动因素，镍价近期表现较强。供应端，由于印尼厄尔尼诺干旱，导致 IMIP 园区 RKEF 镍铁厂因生产供水紧张开始减产，运行负荷较此前降低约 30%-40%，若持续半个月，预计影响高镍生铁产量约 5 万-7 万实物吨，折合约 5500-7700 镍吨。消费端迎来“金九银十”，需求边际上修，节前备货支撑下货。国内精炼镍延续去库，上期所及社会镍库存均有所下降。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500636"
-  },
-  {
-    "post": "Financial_Express/3500635",
-    "datetime": "2026-09-29T23:38:42+00:00",
-    "views": "48",
-    "text": "金与正：韩国借所谓地雷事件挑衅朝鲜\n朝鲜劳动党中央委员会部长金与正 29 日发表谈话说，近日，南部边境一带发生了一起地雷爆炸事件，韩国军方借此再次挑衅朝鲜。金与正说，韩国把地雷爆炸事件的责任推卸给朝方，企图捏造“物证”来证明它，这种做法非常荒谬。金与正警告，韩方将会为其挑衅行为承担责任。据韩联社电视台 21 日援引韩国军方人士消息报道，韩国陆军第 25 师在韩朝军事分界线附近韩方一侧非军事区内执行任务过程中，发生疑似地雷爆炸事故，造成 3 人受伤，其中 2 人伤势严重。韩国总统李在明 29 日要求军方迅速查明真相，并表示政府将视调查结果采取必要措施。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3500635"
   }
 ]
