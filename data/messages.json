@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3507885",
+    "datetime": "2026-10-02T16:01:22+00:00",
+    "views": "7",
+    "text": "俄罗斯第二季度 GDP 最终数据同比增长 1.3%，与初值一致，均为 1.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507885"
+  },
+  {
+    "post": "Financial_Express/3507884",
+    "datetime": "2026-10-02T16:01:03+00:00",
+    "views": "8",
+    "text": "俄罗斯第二季度国内生产总值（GDP）终值同比增长 1.3%，与初步估计值一致。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507884"
+  },
+  {
     "post": "Financial_Express/3507883",
     "datetime": "2026-10-02T16:00:58+00:00",
-    "views": "2",
+    "views": "8",
     "text": "俄罗斯二季度 GDP 同比终值增长 1.3%，初值增长 1.3%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3507882",
     "datetime": "2026-10-02T16:00:22+00:00",
-    "views": "3",
+    "views": "9",
     "text": "欧洲天然气期货涨 4%，本周涨超 7.7%\n周五（10 月 2 日）欧市尾盘，ICE 英国天然气期货涨 2.72%，报 191.600 便士/千卡，本周累计上涨 4.68%。TTF 基准荷兰天然气期货涨 4%，报 76.095 欧元/兆瓦时，本周累涨 7.72%。ICE 欧盟碳排放交易许可（期货价格）跌 1.63%，报 84.24 欧元/吨，本周累跌 2.32%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3507881",
     "datetime": "2026-10-02T16:00:12+00:00",
-    "views": "5",
+    "views": "11",
     "text": "周五（10 月 2 日）欧市尾盘，ICE 英国天然气期货涨 2.72%，报 191.600 便士/千卡，本周累计上涨 4.68%。\nTTF 基准荷兰天然气期货涨 4%，报 76.095 欧元/兆瓦时，本周累涨 7.72%。\nICE 欧盟碳排放交易许可（期货价格）跌 1.63%，报 84.24 欧元/吨，本周累跌 2.32%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3507880",
     "datetime": "2026-10-02T16:00:02+00:00",
-    "views": "7",
+    "views": "11",
     "text": "美元指数跌破 101 关口，日内跌 0.13%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3507879",
     "datetime": "2026-10-02T15:59:22+00:00",
-    "views": "39",
+    "views": "43",
     "text": "巴基斯坦安全消息人士称，2 名巴基斯坦无武装平民遭印度边境安全部队开火而遇害。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3507878",
     "datetime": "2026-10-02T15:58:42+00:00",
-    "views": "41",
+    "views": "45",
     "text": "巴基斯坦安全消息源称，两名手无寸铁的巴基斯坦平民遭印度边境安全部队枪击身亡。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3507877",
     "datetime": "2026-10-02T15:58:22+00:00",
-    "views": "42",
+    "views": "46",
     "text": "美国财长贝森特：美国财政部将继续查明、孤立那些为哈马斯提供生存所需资金命脉的个人或实体，并对其施加制裁。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3507876",
     "datetime": "2026-10-02T15:58:17+00:00",
-    "views": "43",
+    "views": "46",
     "text": "现货白银日内跌幅达 2.0%，报 59.75 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3507875",
     "datetime": "2026-10-02T15:57:43+00:00",
-    "views": "49",
+    "views": "51",
     "text": "纽约期银失守 60 美元/盎司，日内跌 1.94%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3507874",
     "datetime": "2026-10-02T15:57:42+00:00",
-    "views": "49",
+    "views": "51",
     "text": "国际能源署法提赫·比罗尔：油价已开始回落。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3507872",
     "datetime": "2026-10-02T15:57:23+00:00",
-    "views": "56",
+    "views": "58",
     "text": "谷歌：推出面向智能体事务型消息服务的 Spanner 队列通用版。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3507873",
     "datetime": "2026-10-02T15:57:23+00:00",
-    "views": "56",
+    "views": "57",
     "text": "现货白银日内跌 2%，现报 59.75 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3507871",
     "datetime": "2026-10-02T15:57:22+00:00",
-    "views": "56",
+    "views": "58",
     "text": "谷歌：Spanner Queues 正式全面开放，支持智能体工作流中的事务性消息传递。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3507869",
     "datetime": "2026-10-02T15:56:43+00:00",
-    "views": "67",
+    "views": "69",
     "text": "谷歌云：宣布面向人工智能智能体负载事务型消息处理的 Spanner 队列全面可用。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3507870",
     "datetime": "2026-10-02T15:56:43+00:00",
-    "views": "69",
+    "views": "71",
     "text": "谷歌：Spanner 队列现已全面支持智能体工作流中的事务性消息处理。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3507868",
     "datetime": "2026-10-02T15:55:57+00:00",
-    "views": "46",
+    "views": "48",
     "text": "纽约金日内跌幅达 1.0%，报 4159.48 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3507867",
     "datetime": "2026-10-02T15:55:02+00:00",
-    "views": "54",
+    "views": "56",
     "text": "2026 国庆档票房破 4 亿\n据猫眼专业版数据，2026 年国庆档（10 月 1 日-10 月 7 日）总票房破 4 亿，《神探之痕迹》《什么意思夫妇》《欢迎来龙餐馆》暂列国庆档票房榜前三位！",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3507866",
     "datetime": "2026-10-02T15:54:46+00:00",
-    "views": "53",
+    "views": "55",
     "text": "根据欧盟委员会 10 月 1 日公布的数据，欧盟平均柴油售价已达到创纪录的每升 2.24 欧元，而中东地区冲突爆发前的价格为每升 1.59 欧元。其中，包括比利时、意大利、罗马尼亚和波兰在内的 12 个欧盟成员国柴油价格创下历史新高。（央视）",
     "media_only": false,
     "image_url": null,
@@ -40111,113 +40129,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3503392"
-  },
-  {
-    "post": "Financial_Express/3503391",
-    "datetime": "2026-09-30T16:02:42+00:00",
-    "views": "33",
-    "text": "俄罗斯统计局：8 月失业率为 2.2%，上月为 2.3%（市场预期为 2.2%）。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3503391"
-  },
-  {
-    "post": "Financial_Express/3503390",
-    "datetime": "2026-09-30T16:02:39+00:00",
-    "views": "32",
-    "text": "英国首相伯纳姆：加拿大与欧盟的关系是一个值得考虑的模版。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3503390"
-  },
-  {
-    "post": "Financial_Express/3503389",
-    "datetime": "2026-09-30T16:02:22+00:00",
-    "views": "32",
-    "text": "俄罗斯 8 月份货物运输量同比增长 4.2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3503389"
-  },
-  {
-    "post": "Financial_Express/3503387",
-    "datetime": "2026-09-30T16:02:02+00:00",
-    "views": "32",
-    "text": "俄罗斯统计局：7 月实际工资同比增长 3.3%（市场预期为增长 2.4%）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3503387"
-  },
-  {
-    "post": "Financial_Express/3503388",
-    "datetime": "2026-09-30T16:02:02+00:00",
-    "views": "32",
-    "text": "俄罗斯 8 月国内生产总值同比增长 0.8%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3503388"
-  },
-  {
-    "post": "Financial_Express/3503386",
-    "datetime": "2026-09-30T16:01:57+00:00",
-    "views": "32",
-    "text": "俄罗斯 9 月 28 日当周 CPI 周环比上升 0.12%，2026 年迄今累计上升 4.93%。\n俄罗斯 8 月 GDP 同比增长 0.8%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3503386"
-  },
-  {
-    "post": "Financial_Express/3503385",
-    "datetime": "2026-09-30T16:01:43+00:00",
-    "views": "33",
-    "text": "俄罗斯联邦统计局公布数据：7 月俄罗斯实际工资同比增长 3.3%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3503385"
-  },
-  {
-    "post": "Financial_Express/3503384",
-    "datetime": "2026-09-30T16:01:42+00:00",
-    "views": "32",
-    "text": "俄罗斯经济部：8 月 GDP 同比增长 0.8%，上月为增长 0.6%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3503384"
-  },
-  {
-    "post": "Financial_Express/3503383",
-    "datetime": "2026-09-30T16:01:22+00:00",
-    "views": "32",
-    "text": "英国首相伯纳姆就费尔福德空军基地事件表态：有强烈迹象表明伊朗参与了上周末发生的事件。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3503383"
-  },
-  {
-    "post": "Financial_Express/3503382",
-    "datetime": "2026-09-30T16:01:21+00:00",
-    "views": "32",
-    "text": "美国农业部（USDA）：美国三季度大豆库存 3.15 亿蒲式耳，玉米库存 20.95 亿蒲式耳，小麦总库存 18.46 亿蒲式耳。\n所有小麦产量预计 15.34 亿蒲式耳、春小麦产量预计为 4.50 亿蒲式耳、冬小麦产量预计 10.19 亿蒲式耳。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3503382"
-  },
-  {
-    "post": "Financial_Express/3503380",
-    "datetime": "2026-09-30T16:01:03+00:00",
-    "views": "3",
-    "text": "俄罗斯国家统计局公布：8 月失业率为 2.2%，前一个月失业率为 2.3%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3503380"
-  },
-  {
-    "post": "Financial_Express/3503381",
-    "datetime": "2026-09-30T16:01:03+00:00",
-    "views": "32",
-    "text": "俄罗斯统计局公布：截至 9 月 28 日的一周，俄罗斯周度消费者通胀率为 0.12%，前一周该数据为 0.06%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3503381"
   }
 ]
