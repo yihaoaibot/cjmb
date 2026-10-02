@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3507348",
+    "datetime": "2026-10-02T11:34:42+00:00",
+    "views": "7",
+    "text": "美国地质调查局：巴布亚新几内亚潘古纳西南 63 公里处发生 5.0 级地震。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507348"
+  },
+  {
+    "post": "Financial_Express/3507346",
+    "datetime": "2026-10-02T11:34:22+00:00",
+    "views": "10",
+    "text": "海油工程中标卡塔尔 MM EPIC2 项目\n据海油工程微讯，近日，公司收到卡塔尔能源公司发来的授标通知，公司成功中标卡塔尔 MM EPIC2 项目。该项目的中标，标志着近三年公司中东区域累计签约订单金额突破 500 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507346"
+  },
+  {
+    "post": "Financial_Express/3507347",
+    "datetime": "2026-10-02T11:34:22+00:00",
+    "views": "10",
+    "text": "空客：这些是欧星集团 669 颗 OneWeb 卫星组网的第一批次卫星。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507347"
+  },
+  {
+    "post": "Financial_Express/3507345",
+    "datetime": "2026-10-02T11:34:02+00:00",
+    "views": "11",
+    "text": "沙特阿拉伯在东西输油管道输送量接近 600 万桶/日，约有 450 万桶/日的管道输送能力可用于出口。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507345"
+  },
+  {
+    "post": "Financial_Express/3507344",
+    "datetime": "2026-10-02T11:33:42+00:00",
+    "views": "14",
+    "text": "沙特约有 450 万桶/日的管道输送能力可用于出口。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507344"
+  },
+  {
+    "post": "Financial_Express/3507343",
+    "datetime": "2026-10-02T11:33:22+00:00",
+    "views": "20",
+    "text": "沙特阿拉伯通过东西输油管道输送近 600 万桶/日的石油。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507343"
+  },
+  {
+    "post": "Financial_Express/3507342",
+    "datetime": "2026-10-02T11:33:02+00:00",
+    "views": "23",
+    "text": "摩根士丹利将耐克目标股价从 31.00 美元下调至 27.00 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507342"
+  },
+  {
     "post": "Financial_Express/3507341",
     "datetime": "2026-10-02T11:31:43+00:00",
-    "views": "20",
+    "views": "34",
     "text": "欧洲通信卫星组织：一网首批 32 颗新型低轨卫星已制造完成，启运前往发射筹备点。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3507340",
     "datetime": "2026-10-02T11:31:42+00:00",
-    "views": "20",
+    "views": "33",
     "text": "大信证券：将康宁(GLW.N)目标价从 175 美元上调至 182 美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3507339",
     "datetime": "2026-10-02T11:31:22+00:00",
-    "views": "24",
+    "views": "35",
     "text": "欧盟正在对一项调查进行最后收尾，该调查将认定微软(MSFT.O)Azure 和亚马逊(AMZN.O)AWS 满足条件，应被纳入其规则管辖范围。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3507338",
     "datetime": "2026-10-02T11:31:02+00:00",
-    "views": "26",
+    "views": "37",
     "text": "欧盟正就一项调查收尾，该调查将认定 Azure 与 AWS 符合纳入欧盟监管规则适用范围的条件。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3507337",
     "datetime": "2026-10-02T11:30:43+00:00",
-    "views": "27",
+    "views": "38",
     "text": "印度外汇储备在 9 月 25 日当周降至 7475.6 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3507336",
     "datetime": "2026-10-02T11:30:42+00:00",
-    "views": "28",
+    "views": "38",
     "text": "印度外汇储备较上周下降 183.43 亿美元，至 7475.6 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3507335",
     "datetime": "2026-10-02T11:30:22+00:00",
-    "views": "28",
+    "views": "38",
     "text": "巴基斯坦 KSE-100 指数初值下跌 0.2%，报 168,374.90 点。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3507334",
     "datetime": "2026-10-02T11:29:22+00:00",
-    "views": "35",
+    "views": "43",
     "text": "外媒分析：非农只需不再助推美联储加息即可影响市场\n金十数据 10 月 2 日讯，据外媒分析报道，周五公布的非农就业报告正值利率市场一个微妙的时刻。美国国债收益率终于从数十年高位回落，较为疲软的核心 PCE 数据缓解了市场对美联储近期政策路径的部分担忧，而 FOMC 票委威廉姆斯和杰斐逊近期的表态也让鸽派观点获得了更有力的支撑。因此，下一份就业数据并不需要出现大幅崩跌才会产生影响。它只需要不要再给美联储一个加息的理由即可。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3507333",
     "datetime": "2026-10-02T11:28:22+00:00",
-    "views": "38",
+    "views": "44",
     "text": "美媒：加州一市长被控工作期间酗酒、骚扰和侮辱员工\n据美国《纽约邮报》10 月 1 日报道，美国加利福尼亚州阿纳海姆市市长正面临一起不同寻常的职场投诉，而投诉人正是她的幕僚长，投诉内容涉及酗酒、涉嫌骚扰以及市政运作严重失控等。（环球网）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3507332",
     "datetime": "2026-10-02T11:27:42+00:00",
-    "views": "41",
+    "views": "46",
     "text": "据伊通社（IRNA）：伊朗方面称一名伊斯兰革命卫队成员在路边炸弹袭击中遇害。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3507331",
     "datetime": "2026-10-02T11:27:22+00:00",
-    "views": "40",
+    "views": "44",
     "text": "欧盟委员会主席冯德莱恩：我们对北马其顿（准备入盟）表示欢迎。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3507330",
     "datetime": "2026-10-02T11:26:22+00:00",
-    "views": "48",
+    "views": "51",
     "text": "伊朗伊斯兰共和国广播电视台：伊朗称一名伊斯兰革命卫队成员死于路边炸弹袭击。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3507329",
     "datetime": "2026-10-02T11:25:43+00:00",
-    "views": "50",
+    "views": "52",
     "text": "冯德莱恩：今天，北马其顿是一个宝贵的盟友。",
     "media_only": false,
     "image_url": null,
@@ -41947,32 +42010,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3502646"
-  },
-  {
-    "post": "Financial_Express/3502645",
-    "datetime": "2026-09-30T11:34:22+00:00",
-    "views": "32",
-    "text": "新加坡披露首例 AI 泄露案例\n据报道援引新加坡个人数据保护委员会（PDPC）消息，新加坡已收到首起与人工智能（AI）相关的数据泄露通知。此前，一家食品公司在群发邮件时意外泄露了客户的电子邮箱地址。当地知名中式猪肉干生产商“美珍香”（Bee Cheng Hiang）向委员会报告称，该事件发生于今年 4 月。当时，一名员工使用生成式 AI 工具编写了一个程序，用于向本地邮件列表批量发送邮件。然而，该员工未能指示程序对其他客户隐藏各自的邮箱地址。据报道，这是该公司首次在日常业务运营中使用 AI 工具。这起事件发生两天后，该公司向委员会进行了上报。此次泄露导致逾 9.5 万名客户的邮箱地址被公开。委员会表示，除邮箱外，没有其他个人数据受到影响，且泄露的信息并未由任何 AI 驱动的操作或流程进行管理、处理或生成。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3502645"
-  },
-  {
-    "post": "Financial_Express/3502644",
-    "datetime": "2026-09-30T11:33:22+00:00",
-    "views": "61",
-    "text": "纳睿雷达：拟现金 1.62 亿元收购芯泰通信 51%股权\n纳睿雷达公告，公司于 2026 年 9 月 30 日与交易对方、芯泰通信签署股权转让协议，拟以自有资金 1.62 亿元收购芯泰通信 51%股权；本次交易已经公司第三届董事会第三次会议审议通过，无需提交股东会审议，交易完成后芯泰通信将成为公司控股子公司并纳入合并报表范围。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3502644"
-  },
-  {
-    "post": "Financial_Express/3502643",
-    "datetime": "2026-09-30T11:33:02+00:00",
-    "views": "29",
-    "text": "印度 10 年期国债收益率在 9 月份累计上升 24 个基点，7 月至 9 月当季接近上升 44 个基点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3502643"
   }
 ]
