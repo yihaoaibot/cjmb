@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3507010",
+    "datetime": "2026-10-02T08:01:05+00:00",
+    "views": "2",
+    "text": "伦敦金属交易所镍库存增加 486 吨，至 285,168 吨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507010"
+  },
+  {
+    "post": "Financial_Express/3507008",
+    "datetime": "2026-10-02T08:01:04+00:00",
+    "views": "2",
+    "text": "美股生物科技板块盘前普涨\n礼来涨 0.27%，强生涨 0.25%，Moderna 涨 2.38%，诺和诺德涨 0.40%，艾伯维涨 0.29%，默沙东涨 0.17%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507008"
+  },
+  {
+    "post": "Financial_Express/3507009",
+    "datetime": "2026-10-02T08:01:04+00:00",
+    "views": "2",
+    "text": "美股存储板块盘前普跌\n美光跌 0.08%，闪迪涨 0.22%，SK 海力士跌 0.23%，西部数据跌 0.34%，希捷科技跌 0.35%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507009"
+  },
+  {
+    "post": "Financial_Express/3507007",
+    "datetime": "2026-10-02T08:01:03+00:00",
+    "views": "3",
+    "text": "美股盘前：“七姐妹”普涨\n英伟达涨 0.69%，苹果涨 0.33%，微软涨 0.75%，谷歌涨 0.59%，亚马逊涨 0.67%，Meta 涨 0.48%，特斯拉涨 1.09%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507007"
+  },
+  {
+    "post": "Financial_Express/3507006",
+    "datetime": "2026-10-02T08:01:02+00:00",
+    "views": "4",
+    "text": "美股光通信股盘前普涨\nLumentum 涨 0.68%，康宁涨 0.80%，Coherent 涨 0.85%，应用光电涨 1.25%，Ciena 涨 1.29%，博通涨 1.26%，迈威尔科技涨 1.45%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507006"
+  },
+  {
+    "post": "Financial_Express/3507005",
+    "datetime": "2026-10-02T08:00:42+00:00",
+    "views": "6",
+    "text": "伦敦金属交易所铅的注销仓单减少 2425 吨，至 27400 吨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507005"
+  },
+  {
+    "post": "Financial_Express/3507004",
+    "datetime": "2026-10-02T07:59:22+00:00",
+    "views": "24",
+    "text": "据路透社援引知情人士：法国已提出一项计划，拟从欧洲释放 5000 万桶柴油库存，并在国际能源署成员国范围内释放 5000 万桶原油。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3507004"
+  },
+  {
     "post": "Financial_Express/3507003",
     "datetime": "2026-10-02T07:58:42+00:00",
-    "views": "4",
+    "views": "26",
     "text": "一位了解讨论情况的消息人士表示，任何关于释放原油储备的协议都应包含美国承诺避免单方面实施柴油出口禁令。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3507002",
     "datetime": "2026-10-02T07:58:22+00:00",
-    "views": "15",
+    "views": "30",
     "text": "一位熟悉讨论的消息人士称，法国已提议从欧洲释放 5000 万桶柴油，并在国际能源署成员国范围内释放 5000 万桶原油。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3507001",
     "datetime": "2026-10-02T07:58:02+00:00",
-    "views": "17",
+    "views": "31",
     "text": "OpenAI 升级 ChatGPT 购物体验，新增 AI 衣服虚拟试穿体验\nOpenAI 宣布进一步升级 ChatGPT 的购物功能，新增虚拟试穿和 Favorites（收藏）两项功能，用户现在可以上传自己的照片，让 ChatGPT 生成穿着特定服饰或配饰后的效果图，同时也可以将感兴趣的商品保存下来，方便之后继续查看。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3507000",
     "datetime": "2026-10-02T07:57:23+00:00",
-    "views": "25",
+    "views": "37",
     "text": "日本东京 9 月物价同比上涨 2.7% 受食品价格和水费影响\n日本总务省 2 日发布 9 月东京都 23 区消费者物价指数（中旬初值，2025 年为 100），剔除价格波动较大的生鲜食品的综合指数为 102.6，较去年同期上升 2.7%。升幅较 8 月的 1.8%扩大，8 个月来首次达到 2%以上，也是 2025 年 11 月（2.8%）以来的高水平。食品价格和水费推升了指数。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3506999",
     "datetime": "2026-10-02T07:57:22+00:00",
-    "views": "25",
+    "views": "36",
     "text": "马斯克：“超级智能”（以前被称为“人工智能”）如今在会计测试中表现出色。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3506997",
     "datetime": "2026-10-02T07:56:02+00:00",
-    "views": "34",
+    "views": "44",
     "text": "马斯克：“超级智能”（Super Intelligence）如今在会计测试中表现出色。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3506996",
     "datetime": "2026-10-02T07:54:22+00:00",
-    "views": "45",
+    "views": "53",
     "text": "欧洲斯托克 600 指数涨幅扩大至 0.5%，创盘中新高。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3506995",
     "datetime": "2026-10-02T07:54:02+00:00",
-    "views": "46",
+    "views": "54",
     "text": "英国 2 年期国债收益率降至自 9 月 22 日以来的最低水平，日内下跌 9 个基点至 4.726%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3506994",
     "datetime": "2026-10-02T07:53:42+00:00",
-    "views": "45",
+    "views": "53",
     "text": "据路透社援引知情人士：欧盟国家在周五的会议上讨论了美国要求释放柴油库存的要求，以及美国威胁实施柴油出口禁令的问题。美国已要求欧洲大型国家在六个月内释放 80 万吨柴油。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3506993",
     "datetime": "2026-10-02T07:53:23+00:00",
-    "views": "46",
+    "views": "52",
     "text": "英国两年期国债收益率跌至 9 月 22 日以来最低，当日下跌 9 个基点至 4.726%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3506992",
     "datetime": "2026-10-02T07:53:22+00:00",
-    "views": "44",
+    "views": "49",
     "text": "一位知情人士透露，美国已要求欧洲大国在六个月内释放 80 万吨柴油。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3506991",
     "datetime": "2026-10-02T07:53:03+00:00",
-    "views": "44",
+    "views": "49",
     "text": "空客表示，在今年早些时候发现装配过程中存在遗留物后，已建议航空公司在计划维护前检查 A330neo 飞机是否有松动物件。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +182,7 @@
   {
     "post": "Financial_Express/3506990",
     "datetime": "2026-10-02T07:53:02+00:00",
-    "views": "43",
+    "views": "48",
     "text": "欧盟国家在周五的会议上讨论了美国要求释放柴油库存以及美国威胁实施柴油出口禁令的问题。",
     "media_only": false,
     "image_url": null,
@@ -46771,194 +46834,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3501767"
-  },
-  {
-    "post": "Financial_Express/3501766",
-    "datetime": "2026-09-30T08:01:08+00:00",
-    "views": "12",
-    "text": "伦敦金属交易所(LME)：铝库存持平，铅库存减少 200 吨，镍库存持平，锡库存增加 25 吨，锌库存减少 1950 吨，铜库存减少 1075 吨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501766"
-  },
-  {
-    "post": "Financial_Express/3501764",
-    "datetime": "2026-09-30T08:01:04+00:00",
-    "views": "11",
-    "text": "美股盘前：“七姐妹”普涨\n英伟达涨 0.65%，苹果涨 0.21%，微软涨 0.21%，谷歌涨 0.42%，亚马逊涨 0.21%，Meta 涨 0.05%，特斯拉涨 0.52%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501764"
-  },
-  {
-    "post": "Financial_Express/3501765",
-    "datetime": "2026-09-30T08:01:04+00:00",
-    "views": "41",
-    "text": "美股光通信股盘前普涨\nLumentum 涨 0.75%，康宁涨 0.82%，Coherent 涨 0.88%，应用光电涨 0.75%，Ciena 涨 0.60%，博通涨 0.48%，迈威尔科技涨 0.12%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501765"
-  },
-  {
-    "post": "Financial_Express/3501762",
-    "datetime": "2026-09-30T08:01:03+00:00",
-    "views": "7",
-    "text": "美股存储板块盘前涨跌不一\n美光涨 0.72%，闪迪涨 0.05%，SK 海力士跌 0.29%，西部数据持平，希捷科技跌 0.01%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501762"
-  },
-  {
-    "post": "Financial_Express/3501763",
-    "datetime": "2026-09-30T08:01:03+00:00",
-    "views": "7",
-    "text": "美股生物科技板块盘前涨跌不一\n礼来涨 0.12%，强生持平，Moderna 涨 1.03%，诺和诺德持平，艾伯维持平，默沙东持平。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501763"
-  },
-  {
-    "post": "Financial_Express/3501761",
-    "datetime": "2026-09-30T08:01:02+00:00",
-    "views": "7",
-    "text": "商务部：对应用 DNA 科学公司等 6 家美国实体采取反制措施\n近期，美国以所谓“强迫劳动”为由制裁中国企业，严重违反国际法和国际关系基本准则，严重侵犯我国主权、安全、发展利益。应用 DNA 科学公司等 6 家美国实体协助、支持美国涉疆非法制裁，性质恶劣。依据《中华人民共和国反外国制裁法》第三条、第四条、第六条、第九条、第十条、第十五条，《实施〈中华人民共和国反外国制裁法〉的规定》第三条、第五条、第八条、第十条规定，中方决定将应用 DNA 科学公司等 6 家美国实体列入反制清单，并采取以下反制措施：禁止我国境内的组织、个人与其进行有关交易、合作等活动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501761"
-  },
-  {
-    "post": "Financial_Express/3501760",
-    "datetime": "2026-09-30T08:00:47+00:00",
-    "views": "7",
-    "text": "智能眼镜声学性能测试规范 10 月 2 日起正式实施\n记者今天从市场监管总局了解到，《智能眼镜声学性能测试规范》国家计量技术规范将自 10 月 2 日起正式实施，将为智能眼镜声学性能检测划定统一技术标尺。随着人工智能快速发展，智能眼镜被应用于大众日常生活与办公场景，成为人机交互的重要载体，通过蓝牙连接手机实现通话、音频播放、语音交互等核心功能，声学性能直接关系使用者使用体验和听力健康。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501760"
-  },
-  {
-    "post": "Financial_Express/3501758",
-    "datetime": "2026-09-30T08:00:43+00:00",
-    "views": "7",
-    "text": "意大利 9 月 Istat 制造业信心指数 91.9，预期 90.5，前值由 89.9 修正为 90.2。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501758"
-  },
-  {
-    "post": "Financial_Express/3501759",
-    "datetime": "2026-09-30T08:00:43+00:00",
-    "views": "7",
-    "text": "意大利 9 月 Istat 消费者信心指数 91.2，预期 94，前值 94.5。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501759"
-  },
-  {
-    "post": "Financial_Express/3501757",
-    "datetime": "2026-09-30T08:00:42+00:00",
-    "views": "7",
-    "text": "瑞士 9 月 ZEW 经济现况指数 17.9，前值 8.8。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501757"
-  },
-  {
-    "post": "Financial_Express/3501756",
-    "datetime": "2026-09-30T08:00:40+00:00",
-    "views": "6",
-    "text": "意大利 9 月 Istat 商业信心指数 91.9，预期 90.5，前值 89.9。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501756"
-  },
-  {
-    "post": "Financial_Express/3501755",
-    "datetime": "2026-09-30T08:00:39+00:00",
-    "views": "6",
-    "text": "意大利 9 月 Istat 消费者信心指数 91.2，预期 94.4，前值 94.5。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501755"
-  },
-  {
-    "post": "Financial_Express/3501754",
-    "datetime": "2026-09-30T08:00:27+00:00",
-    "views": "7",
-    "text": "从市场监管总局了解到，《智能眼镜声学性能测试规范》国家计量技术规范将自 10 月 2 日起正式实施，将为智能眼镜声学性能检测划定统一技术标尺。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501754"
-  },
-  {
-    "post": "Financial_Express/3501753",
-    "datetime": "2026-09-30T08:00:22+00:00",
-    "views": "3",
-    "text": "四部门开展 2026 年度享受增值税加计抵减政策的集成电路企业清单制定工作\n金十数据 9 月 30 日讯，四部门开展 2026 年度享受增值税加计抵减政策的集成电路企业清单制定工作。本通知所称清单是指财税〔2023〕17 号文中提及的享受增值税加计抵减政策的集成电路设计、生产、封测、装备、材料企业清单。已列入 2025 年清单的企业，拟继续申请进入 2026 年清单的，须重新提交《享受增值税加计抵减政策的集成电路企业提交材料明细表》（附件 2）中的相关材料。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501753"
-  },
-  {
-    "post": "Financial_Express/3501752",
-    "datetime": "2026-09-30T08:00:08+00:00",
-    "views": "3",
-    "text": "国债期货收盘，30 年期主力合约跌 0.58%，10 年期主力合约跌 0.19%，5 年期主力合约跌 0.12%，2 年期主力合约跌 0.04%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501752"
-  },
-  {
-    "post": "Financial_Express/3501751",
-    "datetime": "2026-09-30T08:00:00+00:00",
-    "views": "3",
-    "text": "瑞士 9 月投资者信心指数 2.6，前值 12.1。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501751"
-  },
-  {
-    "post": "Financial_Express/3501750",
-    "datetime": "2026-09-30T07:59:42+00:00",
-    "views": "4",
-    "text": "汇宇制药：注射用紫杉醇获法国上市许可\n汇宇制药公告称，公司子公司 Seacross (Europe) Pharma Ltd.近期收到法国国家药品和健康产品安全管理局核准签发的注射用紫杉醇（白蛋白结合型）上市许可，规格为 100mg。该产品适用于转移性乳腺癌、转移性胰腺腺癌、非小细胞肺癌等适应症，目前已在英国、法国等 15 个国家获得上市许可。本次获法国上市许可有利于丰富公司国际市场产品管线，短期内对公司经营业绩不构成重大影响，未来收入存在不确定性。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501750"
-  },
-  {
-    "post": "Financial_Express/3501748",
-    "datetime": "2026-09-30T07:59:02+00:00",
-    "views": "6",
-    "text": "宇信科技：选举吴红为董事长并聘任其为总经理\n宇信科技公告称，公司于 2026 年 9 月 30 日召开第四届董事会第十六次会议，审议通过选举董事、副总经理吴红为公司第四届董事会董事长，同时聘任其为公司总经理，任期均自本次董事会审议通过之日起至第四届董事会任期届满之日止。后续公司将尽快办理法定代表人、总经理的工商变更登记手续。吴红为公司联合创始人，未直接或间接持有公司股份，系公司创始人洪卫东之配偶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501748"
-  },
-  {
-    "post": "Financial_Express/3501749",
-    "datetime": "2026-09-30T07:59:02+00:00",
-    "views": "6",
-    "text": "希腊石油公司 Helleniq 将机动车燃油补贴延长至 10 月中旬。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501749"
-  },
-  {
-    "post": "Financial_Express/3501747",
-    "datetime": "2026-09-30T07:59:01+00:00",
-    "views": "6",
-    "text": "致尚科技公告，公司与 PH 客户签订《2027 年度需求预测合作备忘录》，2027 年度 PH 客户预计向公司采购光纤连接器（MPO 光纤跳线等光通信产品），预计总需求预测目标金额为 5 亿美金，协议期限为 2027 年 1 月 1 日至 2027 年 12 月 31 日。该备忘录为意向性约定，无强制约束力，最终供货、结算及交付计划以 PH 客户后续正式下达并经双方确认的采购订单为准。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501747"
-  },
-  {
-    "post": "Financial_Express/3501746",
-    "datetime": "2026-09-30T07:59:00+00:00",
-    "views": "1",
-    "text": "当前，我国“菜篮子”产品供应充足，市场运行总体平稳。一是生产供给充足。目前，全国蔬菜在田面积 1.08 亿亩，同比增加 20 多万亩，9 月中旬产量 2700 万吨以上，能够满足国庆等节日消费需求。上半年，全国猪牛羊禽肉产量 5050 万吨、同比增长 4.3%，牛奶产量 1909 万吨、增长 2.4%；1—8 月，国内水产品总产量 4305.1 万吨，同比增长 3.9%。（央视）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3501746"
   }
 ]
