@@ -1,5 +1,32 @@
 [
   {
+    "post": "Financial_Express/3509292",
+    "datetime": "2026-10-05T01:06:42+00:00",
+    "views": "1",
+    "text": "现货白银日内涨 2%，现报 61.56 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3509292"
+  },
+  {
+    "post": "Financial_Express/3509291",
+    "datetime": "2026-10-05T01:05:42+00:00",
+    "views": "2",
+    "text": "现货黄金突破 4160 美元/盎司，日内涨 0.50%。\n👍1",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3509291"
+  },
+  {
+    "post": "Financial_Express/3509290",
+    "datetime": "2026-10-05T01:05:22+00:00",
+    "views": "2",
+    "text": "现货黄金站上 4160 美元/盎司，日内涨 0.50%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3509290"
+  },
+  {
     "post": "Financial_Express/3509289",
     "datetime": "2026-10-05T01:02:43+00:00",
     "views": "2",
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3509287",
     "datetime": "2026-10-05T01:01:47+00:00",
-    "views": "2",
+    "views": "32",
     "text": "台湾证交所加权股价指数上涨 2%至 49,465.19 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3509286",
     "datetime": "2026-10-05T01:01:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "台湾加权股价指数上涨 2%至 49,465.19 点。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3509284",
     "datetime": "2026-10-05T01:01:22+00:00",
-    "views": "2",
+    "views": "32",
     "text": "台湾证交所加权股价指数盘初上涨 1.6%至 49,244.14 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3509285",
     "datetime": "2026-10-05T01:01:22+00:00",
-    "views": "2",
+    "views": "32",
     "text": "新加坡海峡时报指数开盘上涨 0.3%，报 5,650.28 点。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3509273",
     "datetime": "2026-10-05T00:48:22+00:00",
-    "views": "80",
+    "views": "110",
     "text": "印度 AI 基础设施公司 AM Intelligence 据悉斥资 40 亿美元订购了 20,000 块英伟达 GPU。",
     "media_only": false,
     "image_url": null,
@@ -8818,41 +8845,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3508310"
-  },
-  {
-    "post": "Financial_Express/3508309",
-    "datetime": "2026-10-03T01:06:22+00:00",
-    "views": "133",
-    "text": "日本财务大臣片山皋月：美日双方同意随时准备对汇市波动采取果断行动，这一点意义重大。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3508309"
-  },
-  {
-    "post": "Financial_Express/3508308",
-    "datetime": "2026-10-03T01:05:23+00:00",
-    "views": "138",
-    "text": "越南 9 月贸易顺差 12.71 亿美元，市场预期为逆差 15 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3508308"
-  },
-  {
-    "post": "Financial_Express/3508307",
-    "datetime": "2026-10-03T01:05:22+00:00",
-    "views": "137",
-    "text": "越南 9 月贸易帐 12.71 亿美元，前值-1.13 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3508307"
-  },
-  {
-    "post": "Financial_Express/3508306",
-    "datetime": "2026-10-03T01:05:02+00:00",
-    "views": "138",
-    "text": "越南 9 月零售销售年率 14.1%，前值 14.90%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3508306"
   }
 ]
