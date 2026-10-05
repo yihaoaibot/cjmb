@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3511032",
+    "datetime": "2026-10-05T23:03:42+00:00",
+    "views": "2",
+    "text": "韩美半导体赢得三星电机 245 亿韩元订单。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3511032"
+  },
+  {
+    "post": "Financial_Express/3511031",
+    "datetime": "2026-10-05T23:03:02+00:00",
+    "views": "3",
+    "text": "美国 Applied Intuition 与本田达成协议，联合开发软件定义汽车（SDV）平台。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3511031"
+  },
+  {
     "post": "Financial_Express/3511030",
     "datetime": "2026-10-05T23:02:02+00:00",
-    "views": "1",
+    "views": "3",
     "text": "受降雪影响，国道 318 线折多山路段临时交通管制\n据四川甘孜藏族自治州交通运输局消息，10 月 5 日晚，国道 318 线折多山路段受降雪影响，实施临时交通管制。降雪造成路面结冰湿滑，部分车辆通行受阻。当地交管部门随即启动临时管制，禁止大型车辆通行，对小型车辆予以劝返；对已上山的车辆，在沿线执勤点位做好保障服务，目前除雪作业车辆已开展除冰除雪作业。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3511029",
     "datetime": "2026-10-05T23:01:42+00:00",
-    "views": "1",
+    "views": "3",
     "text": "沙特主导联军称在也门荷台达省实施军事行动\n沙特阿拉伯主导的多国联军发言人图尔基·马利基 5 日晚在社交媒体上说，多国联军海军部队在也门荷台达省实施军事行动，摧毁也门胡塞武装多个军事目标，挫败了其针对红海南部水道发动袭击的企图。马利基说，此次行动摧毁了胡塞武装的武器库，以及存放爆炸物的设施。他表示，此次行动旨在保护曼德海峡航运安全。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3511027",
     "datetime": "2026-10-05T22:59:22+00:00",
-    "views": "3",
+    "views": "34",
     "text": "俄罗斯称乌克兰袭击了扎波罗热核电站的两处设施。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3511026",
     "datetime": "2026-10-05T22:58:42+00:00",
-    "views": "3",
+    "views": "34",
     "text": "特朗普抵达内布拉斯加州格兰德艾兰，走下空军一号，准备参加中期选举集会。特朗普将在这场竞选活动上向支持者发表讲话，共和党正为 11 月的中期选举造势冲刺。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3511025",
     "datetime": "2026-10-05T22:53:22+00:00",
-    "views": "35",
+    "views": "36",
     "text": "巴西总统候选人博索纳罗竞选团队负责人：争取到周四获得相关党派支持。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3511024",
     "datetime": "2026-10-05T22:52:42+00:00",
-    "views": "43",
+    "views": "44",
     "text": "市场资讯：日产汽车拟在栃木工场安装全新主冲压设备。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3511023",
     "datetime": "2026-10-05T22:47:02+00:00",
-    "views": "64",
+    "views": "65",
     "text": "据澳大利亚广播公司：澳大利亚北部一次训练演习中，一名澳大利亚陆军士兵死亡，另有五人受伤。",
     "media_only": false,
     "image_url": null,
@@ -20365,14 +20383,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3508706"
-  },
-  {
-    "post": "Financial_Express/3508705",
-    "datetime": "2026-10-03T23:03:22+00:00",
-    "views": "165",
-    "text": "德国地学研究中心（GFZ）：印度尼西亚松巴哇地区发生 5.92 级地震。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3508705"
   }
 ]
