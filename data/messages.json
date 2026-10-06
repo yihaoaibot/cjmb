@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3513160",
+    "datetime": "2026-10-06T17:47:22+00:00",
+    "views": "1",
+    "text": "智利国家铜业公司（Codelco）表示，正在调查 2024 年至 2025 年期间存在超产的新证据。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513160"
+  },
+  {
+    "post": "Financial_Express/3513159",
+    "datetime": "2026-10-06T17:47:02+00:00",
+    "views": "1",
+    "text": "达美航空：全球技术问题影响数据连接后，系统正恢复稳定。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513159"
+  },
+  {
+    "post": "Financial_Express/3513158",
+    "datetime": "2026-10-06T17:46:43+00:00",
+    "views": "1",
+    "text": "美联储施密特：尽管长期收益率走高，美联储在短期利率方面仍有工作要做。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513158"
+  },
+  {
+    "post": "Financial_Express/3513157",
+    "datetime": "2026-10-06T17:46:42+00:00",
+    "views": "1",
+    "text": "美国司法部：多伦多道明银行前员工为哥伦比亚洗钱超 48 亿美元，该员工承认收受贿赂。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513157"
+  },
+  {
+    "post": "Financial_Express/3513156",
+    "datetime": "2026-10-06T17:46:23+00:00",
+    "views": "1",
+    "text": "NASA：SUNRISE 任务发射时间不早于 2027 年年中。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513156"
+  },
+  {
+    "post": "Financial_Express/3513155",
+    "datetime": "2026-10-06T17:46:22+00:00",
+    "views": "1",
+    "text": "美联储施密德：尽管长期收益率上升，但美联储在短期利率方面仍需努力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513155"
+  },
+  {
+    "post": "Financial_Express/3513154",
+    "datetime": "2026-10-06T17:45:42+00:00",
+    "views": "1",
+    "text": "OpenAI：正探索如何训练模型理解企业业务规则、执行多步骤工作流程，并验证其工作成果符合要求。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513154"
+  },
+  {
+    "post": "Financial_Express/3513153",
+    "datetime": "2026-10-06T17:45:22+00:00",
+    "views": "31",
+    "text": "OpenAI：正与选定软件公司开展合作，针对专业化商业任务训练模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513153"
+  },
+  {
     "post": "Financial_Express/3513152",
     "datetime": "2026-10-06T17:45:02+00:00",
-    "views": "1",
+    "views": "31",
     "text": "OpenAI：将把这一合作框架扩大至更多软件公司合作伙伴。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3513151",
     "datetime": "2026-10-06T17:44:02+00:00",
-    "views": "1",
+    "views": "31",
     "text": "OpenAI：与 Ironclad 合作，研究利用 AI 智能体处理复杂合同工作流。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3513150",
     "datetime": "2026-10-06T17:43:02+00:00",
-    "views": "1",
+    "views": "31",
     "text": "OpenAI：与 Ironclad 开展合作，针对复杂合同工作流开展人工智能智能体研究。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3513148",
     "datetime": "2026-10-06T17:39:22+00:00",
-    "views": "31",
+    "views": "61",
     "text": "市场资讯：埃克森美孚将目光投向特立尼达和多巴哥的海上项目，寻求下一个增长点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3513147",
     "datetime": "2026-10-06T17:38:02+00:00",
-    "views": "31",
+    "views": "61",
     "text": "美联储施密德：美联储在抗击通胀中面临信誉危机。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3513146",
     "datetime": "2026-10-06T17:37:46+00:00",
-    "views": "31",
+    "views": "61",
     "text": "美国堪萨斯城联储主席 Jeff Schmid：抗击通胀让美联储的公信力正面临考验。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3513145",
     "datetime": "2026-10-06T17:37:22+00:00",
-    "views": "31",
+    "views": "61",
     "text": "美联储施密德：美联储在对抗通胀的过程中，公信力正面临考验。",
     "media_only": false,
     "image_url": null,
