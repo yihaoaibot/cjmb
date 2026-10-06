@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3513022",
+    "datetime": "2026-10-06T16:08:59+00:00",
+    "views": "1",
+    "text": "智利通报称：Cap 铁矿石矿场一名工人死亡。（Bio Bio）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513022"
+  },
+  {
+    "post": "Financial_Express/3513021",
+    "datetime": "2026-10-06T16:08:15+00:00",
+    "views": "4",
+    "text": "俄罗斯总统普京将于 10 月 8 日会见土库曼斯坦领导人，届时将会见伊朗总统。（塔斯社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513021"
+  },
+  {
+    "post": "Financial_Express/3513020",
+    "datetime": "2026-10-06T16:07:42+00:00",
+    "views": "10",
+    "text": "克里姆林宫：普京将于 10 月 8 日会见土库曼斯坦领导人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513020"
+  },
+  {
+    "post": "Financial_Express/3513019",
+    "datetime": "2026-10-06T16:07:03+00:00",
+    "views": "14",
+    "text": "加拿大总理卡尼将在访问期间会见土耳其总统埃尔多安。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513019"
+  },
+  {
+    "post": "Financial_Express/3513018",
+    "datetime": "2026-10-06T16:07:02+00:00",
+    "views": "14",
+    "text": "美国 10 月 EIA 当年短期前景美国原油产量预期 1387 万桶/日，前值 1383 万桶/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513018"
+  },
+  {
     "post": "Financial_Express/3513017",
     "datetime": "2026-10-06T16:06:45+00:00",
-    "views": "2",
+    "views": "15",
     "text": "加拿大总理卡尼将于 10 月 21-23 日访问土耳其，将会见土耳其总统埃尔多安。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3513016",
     "datetime": "2026-10-06T16:06:43+00:00",
-    "views": "2",
+    "views": "15",
     "text": "加拿大总理卡尼将于 10 月 21 日至 23 日访问土耳其。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3513015",
     "datetime": "2026-10-06T16:06:42+00:00",
-    "views": "2",
+    "views": "15",
     "text": "美国 10 月 EIA 次年短期前景美国原油产量预期 1430 万桶/日，前值 1426 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3513014",
     "datetime": "2026-10-06T16:06:23+00:00",
-    "views": "5",
+    "views": "17",
     "text": "俄罗斯总统普京将在出访土库曼斯坦期间会见伊朗总统。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3513013",
     "datetime": "2026-10-06T16:06:22+00:00",
-    "views": "5",
+    "views": "17",
     "text": "美国 10 月 EIA 当年布伦特原油均价预期 96.32 美元/桶，前值 91.01 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3513012",
     "datetime": "2026-10-06T16:06:03+00:00",
-    "views": "6",
+    "views": "47",
     "text": "美国西南航空上线 ChatGPT 插件，可直接在 ChatGPT 内查询、选购西南航空航班。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3513010",
     "datetime": "2026-10-06T16:06:02+00:00",
-    "views": "6",
+    "views": "46",
     "text": "OpenAI：本公司与 Atlassian 拓展合作伙伴关系。\n根据新协议，OpenAI 前沿模型将为 Atlassian 全平台以及 Rovo 的智能代理提供算力支持。\n该协议将扩大 Atlassian 对 OpenAI 最新前沿模型的使用权限，包括 GPT‑6 Astra 以及 GPT‑5.6 系列。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3513011",
     "datetime": "2026-10-06T16:06:02+00:00",
-    "views": "6",
+    "views": "46",
     "text": "美国 10 月 EIA 当年 WTI 原油均价预期 88.21 美元/桶，前值 84.65 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3513009",
     "datetime": "2026-10-06T16:05:23+00:00",
-    "views": "8",
+    "views": "47",
     "text": "谷歌推出 Gemini Embedding 2 多模态嵌入模型。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3513008",
     "datetime": "2026-10-06T16:05:03+00:00",
-    "views": "10",
+    "views": "48",
     "text": "谷歌推出 EmbeddingGemma 2 多模态嵌入模型。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3513007",
     "datetime": "2026-10-06T16:05:02+00:00",
-    "views": "10",
+    "views": "47",
     "text": "美国能源信息署（EIA）：预计美国 10 月天然气产量平均为 1250 亿立方英尺/日，9 月为 1249 亿立方英尺/日；预计 11 月进一步升至 1253 亿立方英尺/日。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3513006",
     "datetime": "2026-10-06T16:04:43+00:00",
-    "views": "10",
+    "views": "47",
     "text": "OpenAI：根据新协议，OpenAI 前沿模型将为 Atlassian 全平台以及 Rovo 的智能代理提供算力支持。该协议将扩大 Atlassian 对 OpenAI 最新前沿模型的使用权限，包括 GPT‑6 Astra 以及 GPT‑5.6 系列。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3513005",
     "datetime": "2026-10-06T16:04:42+00:00",
-    "views": "10",
+    "views": "47",
     "text": "美国能源信息署（EIA）：美国 10 月份石油产量预计将平均达到 1400 万桶/日，较 9 月份的 1396 万桶/日有所上升；11 月份预计将平均达到 1404 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3513004",
     "datetime": "2026-10-06T16:04:02+00:00",
-    "views": "41",
+    "views": "47",
     "text": "美国能源信息署（EIA）：预计 2026 年全球石油需求为 1.024 亿桶/日，低于之前预测的 1.026 亿桶/日；预计 2027 年需求为 1.046 亿桶/日（之前预测为 1.05 亿桶/日）。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3513003",
     "datetime": "2026-10-06T16:03:43+00:00",
-    "views": "41",
+    "views": "46",
     "text": "美国能源信息署（EIA）：预计 2026 年全球石油产量为 1.011 亿桶/日，较之前预测的 1.006 亿桶/日有所上调；预计 2027 年产量为 1.096 亿桶/日（之前为 1.099 亿桶/日）。",
     "media_only": false,
     "image_url": null,
@@ -34711,23 +34756,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3509091"
-  },
-  {
-    "post": "Financial_Express/3509090",
-    "datetime": "2026-10-04T16:08:02+00:00",
-    "views": "200",
-    "text": "日本将召集第 222 届临时国会\n日本定于当地时间 10 月 5 日召集第 222 届临时国会，首相高市早苗将在当天分别出席参议院和众议院全体会议，发表施政演说。本期国会会期预计持续至 12 月 12 日，为期 69 天。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3509090"
-  },
-  {
-    "post": "Financial_Express/3509089",
-    "datetime": "2026-10-04T16:07:42+00:00",
-    "views": "188",
-    "text": "日本将召集第 222 届临时国会\n金十数据 10 月 5 日讯，日本定于当地时间 10 月 5 日召集第 222 届临时国会，首相高市早苗将在当天分别出席参议院和众议院全体会议，发表施政演说。本期国会会期预计持续至 12 月 12 日，为期 69 天。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3509089"
   }
 ]
