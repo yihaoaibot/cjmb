@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3511448",
+    "datetime": "2026-10-06T05:06:02+00:00",
+    "views": "2",
+    "text": "日企开发出纯电汽车行驶中无线充电技术\n据报道，日本本田公司与大成建设集团 5 日宣布，双方共同开发出一项基础技术，可通过无线方式向行驶中的纯电动汽车（EV）输送电力实现充电。如果该技术得以应用，将使需要停车充电的情况减少，提高纯电汽车的便利性。双方预计将于 2027 年度以后在千叶县的馆山自动车道开展实证试验。 此次开发的技术采用了从铺设在地面的线圈向行驶中的 EV 供电的方式。本田技术研究所利用自主技术开发出从道路向 EV 输送电力的“供电单元”。与普通系统相比，该技术可简化布线，缩减埋设范围。大成建设集团正在对本田技术研究所开发的系统在道路上的施工方法以及供电能力等进行调研。据测算，车辆以约 80 公里时速在供电单元上行驶的短暂时间内，有望瞬间获得最大 150 千瓦的电力供应。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3511448"
+  },
+  {
+    "post": "Financial_Express/3511447",
+    "datetime": "2026-10-06T05:05:42+00:00",
+    "views": "3",
+    "text": "贝伦贝格将耐克评级从持有下调至卖出，将目标股价从 49 美元下调至 27.50 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3511447"
+  },
+  {
+    "post": "Financial_Express/3511446",
+    "datetime": "2026-10-06T05:05:23+00:00",
+    "views": "3",
+    "text": "印度 9 月综合 PMI 终值 55.9，前值 56.5。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3511446"
+  },
+  {
+    "post": "Financial_Express/3511445",
+    "datetime": "2026-10-06T05:05:22+00:00",
+    "views": "3",
+    "text": "印度 9 月服务业 PMI 终值 55.2，预期 56.2，前值 55.8。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3511445"
+  },
+  {
     "post": "Financial_Express/3511444",
     "datetime": "2026-10-06T05:04:02+00:00",
-    "views": "1",
+    "views": "4",
     "text": "瑞典政府：首相及其他内阁大臣将于周二进行安全情况通报。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3511443",
     "datetime": "2026-10-06T05:03:02+00:00",
-    "views": "5",
+    "views": "7",
     "text": "机构：维持对韩国市场的中性立场\n法国兴业银行策略师在一份报告中称，随着投资者参与度下降、存储芯片盈利动能减弱，韩国股市近期可能总体维持区间震荡。外国投资者在 8 月至 9 月卖出了 250 亿美元韩国股票，而韩国国内散户投资者在 9 月转为卖方，资金流出达 100 亿美元。韩国综合指数成交额已较 6 月峰值下降约 75%，至 20 万亿韩元，为今年最低水平。“问题不再是被迫降低风险敞口，而是缺乏边际买家。“这些策略师称，存储芯片供应仍然偏紧，但未来价格涨幅预计将放缓。该行维持对韩国市场的中性立场。该行看好有全球资本支出敞口的工业和材料类股，以及受益于治理改革的金融股。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3511442",
     "datetime": "2026-10-06T05:02:02+00:00",
-    "views": "18",
+    "views": "20",
     "text": "森浩集团股份有限公司在香港暂停交易。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3511441",
     "datetime": "2026-10-06T05:00:42+00:00",
-    "views": "35",
+    "views": "37",
     "text": "DeepSeek 将在腾讯、宁德时代牵头的融资轮中募资至少 120 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3511440",
     "datetime": "2026-10-06T05:00:03+00:00",
-    "views": "41",
+    "views": "43",
     "text": "AMD 苏姿丰：看到对更多计算能力的强劲需求。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3511439",
     "datetime": "2026-10-06T05:00:02+00:00",
-    "views": "41",
+    "views": "43",
     "text": "AMD(AMD.O)CEO 苏姿丰表示，超级智能工作组将有助于未来的协调。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3511438",
     "datetime": "2026-10-06T05:00:01+00:00",
-    "views": "41",
+    "views": "43",
     "text": "印度 9 月综合 PMI 终值 55.9，初值 56.5。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3511437",
     "datetime": "2026-10-06T05:00:00+00:00",
-    "views": "41",
+    "views": "42",
     "text": "印度 9 月服务业 PMI 终值 55.2，初值 55.8。",
     "media_only": false,
     "image_url": null,
@@ -23407,14 +23443,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3508782"
-  },
-  {
-    "post": "Financial_Express/3508781",
-    "datetime": "2026-10-04T05:05:42+00:00",
-    "views": "172",
-    "text": "国庆前三天珠海各口岸查验客流超 224 万人次 同比增长约 5%\n10 月 4 日，记者从珠海边检总站了解到，国庆假期珠海毗邻港澳口岸迎来客流车流高峰，前三天该总站查验出入境客流量达 224 万人次，出入境交通运输工具达 13 万辆/艘/架次，分别同比增长约 5%和 10%。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3508781"
   }
 ]
