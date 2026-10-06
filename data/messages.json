@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3513140",
+    "datetime": "2026-10-06T17:26:22+00:00",
+    "views": "1",
+    "text": "谷歌：国家域名劫持事件未攻破 Chrome\n谷歌在一篇博客文章中表示，多起国家代码顶级域名劫持事件并未造成谷歌系统遭入侵。谷歌上周发现.gh（加纳）、.sl（塞拉利昂）、.as（美属萨摩亚）国家代码顶级域名空间发生多起域名劫持。谷歌表示，有理由认为签发受影响证书的证书机构存在不当行为。谷歌已立即采取保护措施，拦截谷歌自有域名下未经授权证书的使用。在初步迁移之后，数据显示还有更多机构受到同一攻击影响，其中包含多个国际知名品牌与广泛使用的线上服务。谷歌已在 Chrome 中主动拦截这些证书，尽快保障访问相关网站的用户安全。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513140"
+  },
+  {
+    "post": "Financial_Express/3513139",
+    "datetime": "2026-10-06T17:26:02+00:00",
+    "views": "3",
+    "text": "美联储施密德：在抑制通胀方面仍有很长的路要走。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513139"
+  },
+  {
+    "post": "Financial_Express/3513138",
+    "datetime": "2026-10-06T17:25:22+00:00",
+    "views": "7",
+    "text": "美联储施密德：抑制通胀仍有很长的路要走。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513138"
+  },
+  {
     "post": "Financial_Express/3513137",
     "datetime": "2026-10-06T17:25:02+00:00",
-    "views": "1",
+    "views": "8",
     "text": "美联储施密德：劳动力市场依然良好。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3513136",
     "datetime": "2026-10-06T17:24:42+00:00",
-    "views": "2",
+    "views": "9",
     "text": "俄罗斯国防部：今日在俄罗斯联邦多个地区击落了 110 架乌克兰无人机。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3513135",
     "datetime": "2026-10-06T17:24:28+00:00",
-    "views": "3",
+    "views": "9",
     "text": "伊朗格什姆岛附近海域传出爆炸声。（IRNA）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3513134",
     "datetime": "2026-10-06T17:24:22+00:00",
-    "views": "3",
+    "views": "9",
     "text": "美联储施密德：通胀形势令人棘手，必须得到遏制。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3513133",
     "datetime": "2026-10-06T17:24:02+00:00",
-    "views": "3",
+    "views": "39",
     "text": "俄罗斯国防部：全天在俄联邦多个地区击落 110 架乌克兰无人机。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3513132",
     "datetime": "2026-10-06T17:24:01+00:00",
-    "views": "3",
+    "views": "39",
     "text": "美国堪萨斯城联储主席 Jeff Schmid：劳动力仍然形势良好。\n通胀令人感到沮丧，必须解决。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3513131",
     "datetime": "2026-10-06T17:23:42+00:00",
-    "views": "6",
+    "views": "40",
     "text": "美联储施密德：劳动力市场状况依然良好。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3513130",
     "datetime": "2026-10-06T17:23:23+00:00",
-    "views": "7",
+    "views": "41",
     "text": "据市场情报公司 IIR Energy：预计沙特 Jazan 炼油厂要到 11 月份才会回复运营。\n该国毗邻红海、靠近 Yanbu 的 Samref 炼油厂因东西输油管道破损而降低运营规模。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3513129",
     "datetime": "2026-10-06T17:23:02+00:00",
-    "views": "9",
+    "views": "43",
     "text": "伊朗格什姆岛附近海域传出爆炸声。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3513127",
     "datetime": "2026-10-06T17:21:23+00:00",
-    "views": "45",
+    "views": "47",
     "text": "乌克兰总统泽连斯基表示，最新情报显示俄罗斯正准备发动“大规模袭击”。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3513128",
     "datetime": "2026-10-06T17:21:23+00:00",
-    "views": "45",
+    "views": "48",
     "text": "泽连斯基：这在很大程度上取决于世界领导人的反应，他们“拥有我们所需的防御能力，并且能够向我们提供这些能力”。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3513126",
     "datetime": "2026-10-06T17:21:22+00:00",
-    "views": "46",
+    "views": "48",
     "text": "乌克兰总统泽连斯基：许多事情取决于“拥有我们所需防御能力并能提供给我们的”世界领导人的反应。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3513125",
     "datetime": "2026-10-06T17:21:02+00:00",
-    "views": "49",
+    "views": "51",
     "text": "乌克兰总统泽连斯基：最新情报显示，俄罗斯正在准备一次“大规模攻击”。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3513124",
     "datetime": "2026-10-06T17:20:22+00:00",
-    "views": "49",
+    "views": "51",
     "text": "阿曼：已对一艘在阿曼穆桑代姆省利马东北部遇袭的巴拿马籍商船的十名船员实施医疗撤离。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3513123",
     "datetime": "2026-10-06T17:19:43+00:00",
-    "views": "53",
+    "views": "54",
     "text": "国际能源署（IEA）将于周三开会，讨论柴油、原油库存的释放事宜。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3513122",
     "datetime": "2026-10-06T17:19:42+00:00",
-    "views": "52",
+    "views": "53",
     "text": "阿曼方面表示，已对一艘遭袭的巴拿马籍商船上的 10 名船员实施医疗后送。该船在阿曼穆桑达姆省利马东北方向遭到袭击。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3513121",
     "datetime": "2026-10-06T17:18:41+00:00",
-    "views": "51",
+    "views": "52",
     "text": "谷歌公司与美国最大核电运营商 Constellation Energy 达成一项为期 20 年的核电协议。（华尔街日报）",
     "media_only": false,
     "image_url": null,
@@ -35629,14 +35656,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3509109"
-  },
-  {
-    "post": "Financial_Express/3509108",
-    "datetime": "2026-10-04T17:25:22+00:00",
-    "views": "188",
-    "text": "尼加拉瓜宣布退出中美洲议会\n尼加拉瓜外交部 3 日签署公告，宣布立即退出中美洲议会。尼加拉瓜外交部表示，“在充分行使主权的情况下”做出这一决定，该决定“立即生效”。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3509108"
   }
 ]
