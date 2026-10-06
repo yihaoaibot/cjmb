@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3513537",
+    "datetime": "2026-10-06T23:50:42+00:00",
+    "views": "5",
+    "text": "日本财务省：截至 9 月底日本外汇储备为 1.178396 万亿美元（8 月底为 1.207524 万亿美元）。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513537"
+  },
+  {
+    "post": "Financial_Express/3513536",
+    "datetime": "2026-10-06T23:50:22+00:00",
+    "views": "5",
+    "text": "日本 9 月外汇储备 11784 亿美元，前值 12075 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513536"
+  },
+  {
     "post": "Financial_Express/3513535",
     "datetime": "2026-10-06T23:48:02+00:00",
-    "views": "3",
+    "views": "7",
     "text": "基准 10 年期日本国债期货早盘上涨 0.1 点。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3513534",
     "datetime": "2026-10-06T23:47:22+00:00",
-    "views": "3",
+    "views": "7",
     "text": "日本日经指数期货早盘上涨 0.07%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3513533",
     "datetime": "2026-10-06T23:46:42+00:00",
-    "views": "6",
+    "views": "39",
     "text": "派拉蒙首席执行官表示，长期计划是将派拉蒙+与 HBO Max 合并，并补充说，他不想让公司政治化。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3513532",
     "datetime": "2026-10-06T23:45:43+00:00",
-    "views": "10",
+    "views": "43",
     "text": "OpenAI：我们将发布由内部前沿模型得出的一系列全新数学研究成果。我们一直与普林斯顿高等研究院数学与人工智能独立顾问组保持沟通，并参考其意见与公开建议，以此作为发布这些成果的依据。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3513531",
     "datetime": "2026-10-06T23:43:42+00:00",
-    "views": "45",
+    "views": "48",
     "text": "10 月 91 股面临解禁\n据数据宝统计，10 月将有 91 只股解禁，按照最新收盘价计算，合计解禁市值 2950.1 亿元。西安奕材-U 将 28.37 亿股上市流通，主要为首发原股东限售股份和首发战略配售股份，解禁市值达 763.68 亿元。中船特气的解禁规模次之，将有 3.84 亿股上市流通，解禁股主要为首发原股东限售股份，解禁市值达 732.98 亿元。陕西能源、中国神华的解禁市值规模居前，均超 200 亿元。相比之下，伟测科技、海能技术、厦门银行、正邦科技的解禁压力较小，解禁市值均不足千万元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3513530",
     "datetime": "2026-10-06T23:41:43+00:00",
-    "views": "48",
+    "views": "49",
     "text": "雪佛龙撤离墨西哥湾平台非必要人员\n雪佛龙正对九号热带低压的预测路径进行监测，撤离其墨西哥湾海上平台的非必要工作人员，公司运营资产的产量目前维持正常水平。面对该天气，雪佛龙陆上设施已启动风暴应对预案。雪佛龙未披露财务影响、损失预估，也未就保险相关事宜置评。雪佛龙称，现阶段尚未调整产量。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3513529",
     "datetime": "2026-10-06T23:41:42+00:00",
-    "views": "47",
+    "views": "48",
     "text": "消息人士：必和必拓(BHP.N)正在评估其西澳大利亚镍资产的多种处置选项，其中包括资产剥离出售；相关业务目前仍处于临时停产状态，公司预计将在 2027 年 2 月前完成本次评估决策。",
     "media_only": false,
     "image_url": null,
@@ -38329,14 +38347,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3509207"
-  },
-  {
-    "post": "Financial_Express/3509206",
-    "datetime": "2026-10-04T23:49:08+00:00",
-    "views": "98",
-    "text": "日经期货在早盘交易中上涨 1.9%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3509206"
   }
 ]
