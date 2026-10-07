@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3515916",
+    "datetime": "2026-10-07T21:31:02+00:00",
+    "views": "4",
+    "text": "Anthropic 推出 Claude Haiku 5.5\nAnthropic 推出 Claude Haiku 5.5，这是一款面向编程工作的子智能体，适用于大规模、成本敏感型任务。Haiku 5.5 的价格远低于 Haiku 4.5，同时将 Sonnet 5.5 缓存读取价格下调 50%，至每百万词元 0.10 美元。将面向所有 Max 和 Team 用户推出新的每月 API 额度。Haiku 5.5 已在所有平台上线，包括亚马逊的 AWS、谷歌云和微软 Azure。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3515916"
+  },
+  {
+    "post": "Financial_Express/3515915",
+    "datetime": "2026-10-07T21:29:02+00:00",
+    "views": "24",
+    "text": "SK 海力士旗下 Solidigm 聘请高盛、摩根士丹利负责 IPO 事宜。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3515915"
+  },
+  {
     "post": "Financial_Express/3515914",
     "datetime": "2026-10-07T21:27:02+00:00",
-    "views": "27",
+    "views": "42",
     "text": "空客：罗马尼亚订购 12 架军用直升机。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3515913",
     "datetime": "2026-10-07T21:25:15+00:00",
-    "views": "39",
+    "views": "53",
     "text": "美股加密货币与加密货币关联指数跌 5.05%，报 69.01 点，跳空低开之后持续低位窄幅震荡。\n最近 24 小时，现货比特币跌 2.65%，暂报 83348.19 美元，期内持续下跌、北京时间 09:51 出现一波短线加速下跌行情。\n现货以太坊跌 4.68%，报 2571.064 美元。\nMarketVectorTM 数字资产 100 小盘指数跌 1.54%，MarketVectorTM 数字资产 100 中盘指数跌 0.32%，MarketVector 数字资产 100 指数跌 1.03%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3515912",
     "datetime": "2026-10-07T21:22:02+00:00",
-    "views": "56",
+    "views": "64",
     "text": "李维斯高管：第三季度营收增长中有一半来自非牛仔下装产品，其中上衣品类增长最为强劲。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3515911",
     "datetime": "2026-10-07T21:20:22+00:00",
-    "views": "61",
+    "views": "69",
     "text": "据华尔街日报：知情人士称，甲骨文(ORCL.N)正与阿波罗和高盛等机构洽谈融资，为一笔大规模芯片采购提供资金，并希望最快于今年完成交易。这笔融资旨在填补甲骨文支付硬件采购款与云计算业务开始产生收入之间的资金缺口。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3515910",
     "datetime": "2026-10-07T21:19:42+00:00",
-    "views": "63",
+    "views": "71",
     "text": "伊朗将通过中间人回应美方提议，伊阿敲定霍尔木兹海峡安全航道方案\n伊朗外交部发言人巴加埃周三表示，伊朗将通过中间人对美方提议作出回应，并补充称德黑兰已明确提出结束战争的条件。巴加埃称：“我们已清晰、坚定地阐明结束各条战线强加战争、恢复波斯湾地区及霍尔木兹海峡安全的考量与条件。针对对方提议的必要答复，也将通过中间人转交。”巴加埃称，伊朗与阿曼还已就霍尔木兹海峡安全过境航线，以及向相关国际机构通报该航线的方式达成一致。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3515909",
     "datetime": "2026-10-07T21:19:02+00:00",
-    "views": "64",
+    "views": "68",
     "text": "标普道琼斯指数：2026 年 9 月对 IBOX 固定收益指数的国家分类审核结果为无调整。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3515908",
     "datetime": "2026-10-07T21:15:42+00:00",
-    "views": "74",
+    "views": "77",
     "text": "甲骨文正与阿波罗全球管理、高盛洽谈芯片融资事宜。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3515907",
     "datetime": "2026-10-07T21:15:14+00:00",
-    "views": "73",
+    "views": "78",
     "text": "富时 A50 期指连续夜盘收跌 0.13%，报 13816 点。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3515906",
     "datetime": "2026-10-07T21:14:42+00:00",
-    "views": "75",
+    "views": "78",
     "text": "伊朗革命卫队顾问：霍尔木兹海峡仍处于“关闭”状态，非法航道很快将被封锁。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3515905",
     "datetime": "2026-10-07T21:12:56+00:00",
-    "views": "80",
+    "views": "84",
     "text": "美国国务卿马尔科·鲁比奥在希腊雅典发表演讲，讨论美国对“毫不掩饰”的实力追求。鲁比奥警告欧洲西方衰落的危险，并批评其他西方国家任由军队衰落、将主权让渡给全球机构。鲁比奥表示，美国选择追求国家实力，包括夺回供应链控制权、推动经济再工业化、重建国防力量，并为争夺未来技术的主导权而战。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3515904",
     "datetime": "2026-10-07T21:12:02+00:00",
-    "views": "75",
+    "views": "78",
     "text": "美媒：博通为 OpenAI 定制芯片研发寻求逾 500 亿美元融资\n金十数据 10 月 8 日讯，据华尔街日报援引知情人士报道，博通(AVGO.O)近几周一直在为与 OpenAI 共同开发的定制 AI 芯片寻求超过 500 亿美元融资，阿波罗和黑石等机构已就参与融资展开洽谈，目前谈判仍处于早期阶段，融资规模可能调整。 此次融资可能覆盖数吉瓦的 OpenAI 定制芯片产能，预计最早今年年底前完成。OpenAI 内部将该芯片项目称为“Nexus”，第一代和第二代芯片分别代号 Jalapeño 和 Serrano。OpenAI 与博通此前已宣布合作开发 10 吉瓦定制芯片系统，计划从 2026 年下半年持续部署至 2029 年底。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3515903",
     "datetime": "2026-10-07T21:11:02+00:00",
-    "views": "74",
+    "views": "76",
     "text": "亚马逊云科技（AWS）：推出 AWS 实体人工智能工具链。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3515902",
     "datetime": "2026-10-07T21:10:42+00:00",
-    "views": "73",
+    "views": "75",
     "text": "亚马逊云服务(AWS)推出物理人工智能工具链。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3515901",
     "datetime": "2026-10-07T21:09:22+00:00",
-    "views": "76",
+    "views": "78",
     "text": "甲骨文力争在今年内敲定芯片相关交易。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3515900",
     "datetime": "2026-10-07T21:08:35+00:00",
-    "views": "77",
+    "views": "79",
     "text": "周三（10 月 7 日）纽约尾盘，标普 500 股指期货最终跌 0.27%，道指期货跌 0.71%，纳斯达克 100 股指期货跌 0.21%。\n罗素 2000 股指期货跌 1.25%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3515899",
     "datetime": "2026-10-07T21:08:22+00:00",
-    "views": "76",
+    "views": "78",
     "text": "博通着手安排逾 500 亿美元融资，用于 OpenAI 购买芯片。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3515898",
     "datetime": "2026-10-07T21:06:22+00:00",
-    "views": "84",
+    "views": "86",
     "text": "甲骨文、博通正寻求债务融资，用于 AI 芯片资金安排。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3515897",
     "datetime": "2026-10-07T21:06:13+00:00",
-    "views": "81",
+    "views": "83",
     "text": "周三（10 月 7 日）纽约尾盘（周四北京时间 04:59），离岸人民币（CNH）兑美元报 6.7026 元，较周二纽约尾盘跌 11 点，日内整体交投于 6.7005-6.7099 元区间。",
     "media_only": false,
     "image_url": null,
@@ -44098,14 +44116,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3510998"
-  },
-  {
-    "post": "Financial_Express/3510997",
-    "datetime": "2026-10-05T21:31:02+00:00",
-    "views": "115",
-    "text": "美军称遭伊朗袭击后靠谷歌找医院\n今年 3 月 1 日上午，美国、以色列对伊朗发动大规模空袭次日，伊朗在反击行动中发射无人机，打击了科威特南部舒艾拜港的美军基地，造成美军 6 人死亡，此外还有数十人受伤。美联社近日对经历了那场军事打击的数十名美军人员进行了采访。据他们当中的美军军官透露，遭袭前就有评估报告显示，该处美军设施——一座带有木墙的长方形建筑“极易受到无人机袭击”，但这一警告被置若罔闻。而且当时该基地的防卫措施根本就防不住无人机袭击。 还有接受采访的美军军官称，遭袭后现场一片混乱，他们当中的一些伤者能及时去医院接受救治，完全靠的是“一些人的手机还能用、还能通过谷歌查找附近医院”。 有消息称，美国军方早在今年 6 月就已完成了对舒艾拜港基地遭袭一事的调查，但一直未发布相关报告，理由是“需要对敏感信息进行编辑”。对美联社的这一最新报道，美国军方也拒绝发表评论。（CCTV 国际时讯）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3510997"
   }
 ]
