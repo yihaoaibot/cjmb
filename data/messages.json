@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3513987",
+    "datetime": "2026-10-07T06:02:22+00:00",
+    "views": "3",
+    "text": "芬兰航空 9 月收入客公里下降 10.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513987"
+  },
+  {
+    "post": "Financial_Express/3513986",
+    "datetime": "2026-10-07T06:02:08+00:00",
+    "views": "3",
+    "text": "英国 9 月 Halifax 季调后房价指数月率 0%，预期 0.1%，前值由-0.2%修正为-0.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513986"
+  },
+  {
+    "post": "Financial_Express/3513984",
+    "datetime": "2026-10-07T06:02:04+00:00",
+    "views": "3",
+    "text": "IMF 总裁格奥尔基耶娃：IMF 研究显示，人工智能有望为全球经济增长贡献 0.5 个百分点，但超大规模云服务商的杠杆效应可能引发深远的冲击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513984"
+  },
+  {
+    "post": "Financial_Express/3513985",
+    "datetime": "2026-10-07T06:02:04+00:00",
+    "views": "3",
+    "text": "瑞典 9 月预算出现赤字，赤字金额达 229.86 亿瑞典克朗。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513985"
+  },
+  {
+    "post": "Financial_Express/3513983",
+    "datetime": "2026-10-07T06:02:03+00:00",
+    "views": "3",
+    "text": "IMF 总裁格奥尔基耶娃：短期内仅靠增长来减轻债务负担似乎难以实现，需要制定可信的中期财政整顿计划。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513983"
+  },
+  {
+    "post": "Financial_Express/3513982",
+    "datetime": "2026-10-07T06:02:02+00:00",
+    "views": "3",
+    "text": "IMF 总裁格奥尔基耶娃：各国央行货币政策需保持“审慎的鹰派倾向”，美联储、欧洲央行及日本央行加息举措“非常恰当”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513982"
+  },
+  {
+    "post": "Financial_Express/3513981",
+    "datetime": "2026-10-07T06:01:43+00:00",
+    "views": "4",
+    "text": "IMF 总裁格奥尔基耶娃：全球公共债务即将超过全球 GDP 的 100%，发达经济体在高债务负担方面表现最差。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513981"
+  },
+  {
+    "post": "Financial_Express/3513980",
+    "datetime": "2026-10-07T06:01:42+00:00",
+    "views": "4",
+    "text": "IMF 总裁格奥尔基耶娃：人工智能建设热潮、能源和食品冲击推动通胀；关税、高额国防开支和高公共债务可能导致通胀。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3513980"
+  },
+  {
     "post": "Financial_Express/3513979",
     "datetime": "2026-10-07T06:01:25+00:00",
-    "views": "2",
+    "views": "4",
     "text": "挪威 2027 年支出预测为财富基金的 2.7%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3513978",
     "datetime": "2026-10-07T06:01:24+00:00",
-    "views": "2",
+    "views": "4",
     "text": "IMF 总裁格奥尔基耶娃：持续高企的能源价格、创纪录的公共债务水平以及人工智能投资热潮带来的风险威胁全球经济增长前景。国际货币基金组织最新预测显示，乌克兰、海湾国家及部分能源进口国的增长前景下调。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3513976",
     "datetime": "2026-10-07T06:01:23+00:00",
-    "views": "2",
+    "views": "4",
     "text": "德国 8 月工作日调整后工业产出年率 2.3%，前值-1.60%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3513977",
     "datetime": "2026-10-07T06:01:23+00:00",
-    "views": "2",
+    "views": "4",
     "text": "IMF 总裁格奥尔基耶娃：全球人工智能投资占 GDP 的比例可能会超过对铁路、电网和电信网络的投资，但许多经济体将被忽视。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3513975",
     "datetime": "2026-10-07T06:01:22+00:00",
-    "views": "2",
+    "views": "4",
     "text": "IMF 总裁格奥尔基耶娃：能源价格冲击已得到遏制，但高油价和柴油价格、天然气短缺将持续。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3513974",
     "datetime": "2026-10-07T06:01:03+00:00",
-    "views": "2",
+    "views": "4",
     "text": "IMF 总裁格奥尔基耶娃：全球经济在冲击中展现出显著的灵活性。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3513973",
     "datetime": "2026-10-07T06:01:02+00:00",
-    "views": "2",
+    "views": "4",
     "text": "IMF 总裁格奥尔基耶娃：人工智能投资正在推动包括美国、中国、印度在内的一些经济体的增长。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3513972",
     "datetime": "2026-10-07T06:00:43+00:00",
-    "views": "2",
+    "views": "4",
     "text": "德国 8 月季调后工业产出月率 2%，预期 0.5%，前值-1.10%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3513971",
     "datetime": "2026-10-07T06:00:42+00:00",
-    "views": "2",
+    "views": "4",
     "text": "IMF 总裁格奥尔基耶娃：国际货币基金组织最新预测显示，乌克兰、海湾国家及部分能源进口国的增长前景下调。",
     "media_only": false,
     "image_url": null,
@@ -83,8 +155,8 @@
   {
     "post": "Financial_Express/3513970",
     "datetime": "2026-10-07T06:00:24+00:00",
-    "views": "2",
-    "text": "国际货币基金组织的格奥尔基耶娃：人工智能和能源冲击的影响在全球范围内分布不均。",
+    "views": "4",
+    "text": "IMF 总裁格奥尔基耶娃：人工智能和能源冲击的影响在全球范围内分布不均。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3513970"
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3513969",
     "datetime": "2026-10-07T06:00:23+00:00",
-    "views": "2",
+    "views": "4",
     "text": "IMF 总裁格奥尔基耶娃：负面能源供应冲击与正面人工智能需求冲击对全球的影响高度不均衡。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3513968",
     "datetime": "2026-10-07T06:00:22+00:00",
-    "views": "2",
+    "views": "4",
     "text": "IMF 总裁格奥尔基耶娃：持续高企的能源价格、创纪录的公共债务水平以及人工智能投资热潮带来的风险威胁全球经济增长前景。",
     "media_only": false,
     "image_url": null,
@@ -39499,14 +39571,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3509521"
-  },
-  {
-    "post": "Financial_Express/3509520",
-    "datetime": "2026-10-05T06:02:02+00:00",
-    "views": "36",
-    "text": "盐野义将以 20 亿美元预付款收购 IntraBio。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3509520"
   }
 ]
