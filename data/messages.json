@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3515712",
+    "datetime": "2026-10-07T18:06:51+00:00",
+    "views": "1",
+    "text": "美联储会议纪要：纽约联储代表美国财政部干预了外汇市场。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3515712"
+  },
+  {
+    "post": "Financial_Express/3515711",
+    "datetime": "2026-10-07T18:06:42+00:00",
+    "views": "2",
+    "text": "OpenAI：GPT-6 现可通过文本、视觉内容和交互式体验提供回答。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3515711"
+  },
+  {
+    "post": "Financial_Express/3515710",
+    "datetime": "2026-10-07T18:05:42+00:00",
+    "views": "8",
+    "text": "美联储会议纪要：纽约联储代表财政部干预了外汇市场。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3515710"
+  },
+  {
+    "post": "Financial_Express/3515709",
+    "datetime": "2026-10-07T18:05:22+00:00",
+    "views": "8",
+    "text": "巴西汽车制造商协会（ANFAVEA）：巴西 9 月汽车销量环比 8 月增长 2.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3515709"
+  },
+  {
     "post": "Financial_Express/3515707",
     "datetime": "2026-10-07T18:04:42+00:00",
-    "views": "3",
+    "views": "40",
     "text": "戴尔(DELL.N)推出搭载英伟达(NVDA.O)RTX SPARK 的 XPS 16 创作者版笔记本电脑。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3515708",
     "datetime": "2026-10-07T18:04:42+00:00",
-    "views": "3",
+    "views": "40",
     "text": "Anthropic 发布最新模型 Claude Haiku 5.5。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3515706",
     "datetime": "2026-10-07T18:04:23+00:00",
-    "views": "6",
+    "views": "41",
     "text": "美联储会议纪要：许多与会者表示，尽管近期长期国债收益率上升，但金融状况似乎仍支持经济增长。少数与会者指出，美国国债市场运行一直顺畅，但强调为市场压力预作规划的重要性。官员表示，未来的数据将决定利率走向。多位官员表示政策尚未足够紧缩。官员表示，过去几个月在降低通胀方面未见足够进展。多位官员表示，进一步加征关税的可能性存在提升通胀风险。官员们普遍预计短期内通胀将保持高位。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3515705",
     "datetime": "2026-10-07T18:04:22+00:00",
-    "views": "6",
+    "views": "41",
     "text": "沙特主导的联军：已摧毁用于袭击利雅得的弹道导弹发射器。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3515704",
     "datetime": "2026-10-07T18:04:02+00:00",
-    "views": "7",
+    "views": "42",
     "text": "美联储会议纪要：官员们普遍预计短期内通胀将保持高位。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3515703",
     "datetime": "2026-10-07T18:03:43+00:00",
-    "views": "9",
+    "views": "44",
     "text": "美联储会议纪要：多位官员表示，进一步加征关税的可能性存在提升通胀风险。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3515702",
     "datetime": "2026-10-07T18:03:42+00:00",
-    "views": "9",
+    "views": "45",
     "text": "美联储会议纪要：官员表示，过去几个月在降低通胀方面未见足够进展。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3515701",
     "datetime": "2026-10-07T18:03:24+00:00",
-    "views": "9",
+    "views": "45",
     "text": "OpenAI：搭载智能交互界面的 GPT‑6 今日在聊天标签页面向全球 ChatGPT Plus、Pro、商业版及企业版用户逐步推送。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3515700",
     "datetime": "2026-10-07T18:03:23+00:00",
-    "views": "9",
+    "views": "45",
     "text": "美联储会议纪要：部分官员表示，提高利率将阻止特定行业价格上涨的蔓延。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3515699",
     "datetime": "2026-10-07T18:03:22+00:00",
-    "views": "9",
+    "views": "45",
     "text": "美联储会议纪要：多位官员表示政策尚未足够紧缩。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3515698",
     "datetime": "2026-10-07T18:03:02+00:00",
-    "views": "14",
+    "views": "48",
     "text": "美联储会议纪要：官员表示，未来的数据将决定利率走向。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3515697",
     "datetime": "2026-10-07T18:02:42+00:00",
-    "views": "15",
+    "views": "49",
     "text": "现货黄金在美联储会议纪要公布后基本持平，最新下跌 1.3%，报 4109.71 美元 / 盎司。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3515696",
     "datetime": "2026-10-07T18:02:24+00:00",
-    "views": "46",
+    "views": "49",
     "text": "美元指数在美联储会议纪要公布后涨幅小幅收窄，最新上涨 0.31%，报 102.22。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3515694",
     "datetime": "2026-10-07T18:02:23+00:00",
-    "views": "46",
+    "views": "48",
     "text": "美联储会议纪要：少数与会者指出，美国国债市场运行一直顺畅，但强调为市场压力预作规划的重要性。",
     "media_only": false,
     "image_url": null,
@@ -128,8 +164,8 @@
   {
     "post": "Financial_Express/3515695",
     "datetime": "2026-10-07T18:02:23+00:00",
-    "views": "46",
-    "text": "戴尔科技借助全新 Windows 个人电脑与工作站，引领智能体 AI 时代。",
+    "views": "48",
+    "text": "戴尔科技借助全新 Windows 个人电脑与工作站，引领智能体 AI 时代。戴尔科技推出搭载英伟达 RTX Spark 的 XPS 16 创作者版笔记本电脑。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3515695"
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3515693",
     "datetime": "2026-10-07T18:02:22+00:00",
-    "views": "16",
+    "views": "48",
     "text": "美联储会议纪要：许多与会者表示，尽管近期长期国债收益率上升，但金融状况似乎仍支持经济增长。",
     "media_only": false,
     "image_url": null,
@@ -43738,68 +43774,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3510776"
-  },
-  {
-    "post": "Financial_Express/3510775",
-    "datetime": "2026-10-05T18:06:42+00:00",
-    "views": "88",
-    "text": "据伊朗伊斯兰共和国广播电视台（IRIB）：有消息称一枚导弹可能击中利雅得机场。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3510775"
-  },
-  {
-    "post": "Financial_Express/3510774",
-    "datetime": "2026-10-05T18:06:28+00:00",
-    "views": "87",
-    "text": "巴基斯坦外交部：沙特阿拉伯、巴基斯坦、土耳其召开麦加联盟战略政治及防务委员会紧急会议。\n巴基斯坦的瑙曼・马哈茂德出任麦加防务联盟首任秘书长，任期三年。\n巴基斯坦、沙特阿拉伯和土耳其同意提供各方商定的军事力量及相关能力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3510774"
-  },
-  {
-    "post": "Financial_Express/3510773",
-    "datetime": "2026-10-05T18:06:22+00:00",
-    "views": "85",
-    "text": "巴基斯坦外交部：巴基斯坦的瑙曼·马哈茂德出任“麦加防务联盟”首任秘书长，任期三年。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3510773"
-  },
-  {
-    "post": "Financial_Express/3510772",
-    "datetime": "2026-10-05T18:06:03+00:00",
-    "views": "80",
-    "text": "巴基斯坦外交部：巴基斯坦、沙特阿拉伯和土耳其同意提供各方商定的军事力量及相关能力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3510772"
-  },
-  {
-    "post": "Financial_Express/3510771",
-    "datetime": "2026-10-05T18:06:02+00:00",
-    "views": "79",
-    "text": "巴基斯坦外交部：巴基斯坦、沙特阿拉伯和土耳其达成协议，提供约定的军事力量和能力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3510771"
-  },
-  {
-    "post": "Financial_Express/3510770",
-    "datetime": "2026-10-05T18:05:03+00:00",
-    "views": "82",
-    "text": "10 月 5 日，瑞典卡罗琳医学院宣布，将 2026 年诺贝尔生理学或医学奖授予三位科学家，以表彰他们在光门控离子通道和光遗传学（optogenetics）方面的发现。诺奖委员会评价称，这项技术“能够揭示活体大脑中神经细胞如何塑造记忆、情感和行为的方法”。\n中眸医疗科技（上海）有限公司创始人沈吟表示，通道视紫红质的发现，让用光控制细胞从设想变为现实，从当前产业界研究来看，眼科成为该项技术最接近临床的突破口。中国已有多家企业在这一方向上取得实质性进展。沈吟介绍称，依托光遗传学平台，中眸医疗正在全球推进多项临床开发项目。\n健达九州（北京）生物科技有限公司（以下简称健达九州）的光遗传学核心管线 GA001，已于 2026 年 9 月在上海交通大学医学院附属第一人民医院眼科中心完成中国首个光遗传学注册临床试验参与者入组及给药，目标适应证为遗传性致盲眼病视网膜色素变性（RP）。\n此外，星明优健的光遗传基因治疗产品 UGX202 也于 2026 年 8 月获得国家药监局药品审评中心临床试验许可，适应证同为晚期遗传性视网膜色素变性（RP），目前 UGX202 临床试验正在开展受试者招募。（每经网）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3510770"
-  },
-  {
-    "post": "Financial_Express/3510769",
-    "datetime": "2026-10-05T18:05:02+00:00",
-    "views": "71",
-    "text": "巴基斯坦外交部：巴基斯坦的瑙曼・马哈茂德出任麦加防务联盟首任秘书长，任期三年。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3510769"
   }
 ]
