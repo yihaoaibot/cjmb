@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3515613",
+    "datetime": "2026-10-07T17:28:24+00:00",
+    "views": "6",
+    "text": "特朗普：俄罗斯称局势已得到控制。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3515613"
+  },
+  {
+    "post": "Financial_Express/3515612",
+    "datetime": "2026-10-07T17:28:23+00:00",
+    "views": "6",
+    "text": "特朗普就俄罗斯实验室工作人员死亡事件表态：我们认为这并非生物武器，但会查明真相。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3515612"
+  },
+  {
+    "post": "Financial_Express/3515611",
+    "datetime": "2026-10-07T17:28:22+00:00",
+    "views": "6",
+    "text": "美国总统特朗普：（关于俄罗斯实验室工人死亡）我们认为这不是生物武器，但会查明真相。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3515611"
+  },
+  {
     "post": "Financial_Express/3515610",
     "datetime": "2026-10-07T17:26:02+00:00",
-    "views": "7",
+    "views": "46",
     "text": "五名前巴克莱交易员操纵基准利率案定罪被英国上诉法院推翻\n五名前巴克莱交易员曾在一系列具有标志性的欺诈案中被判操纵基准利率罪名成立，如今其定罪已被伦敦一家法院推翻。英国上诉法院法官撤销了 Alex Pabon、Jay Merchant 和 Jonathan Mathew 的定罪。三人 2016 年因协助操纵伦敦银行间同业拆借利率（Libor）被判串谋欺诈罪成立并入狱。另外两名前巴克莱交易员 Philippe Moryoussef 和 Colin Bermingham 分别于 2018 年和 2019 年被判操纵欧元银行间同业拆借利率（Euribor）罪名成立。此前，前瑞银集团交易员 Tom Hayes 的定罪已被英国最高法院推翻。Hayes 是首名因操纵利率被定罪的人士，也是其中最受瞩目的人物之一。最高法院法官裁定，Hayes 案审判中陪审团受到错误指引，他和另一名交易员 Carlo Palombo 应被宣告无罪。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3515609",
     "datetime": "2026-10-07T17:25:22+00:00",
-    "views": "8",
+    "views": "46",
     "text": "微软(MSFT.O)：微软执行容器将可跨 Windows、macOS 和 Linux 运行，但与 Windows 的集成更深。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3515608",
     "datetime": "2026-10-07T17:25:02+00:00",
-    "views": "9",
+    "views": "46",
     "text": "微软执行容器可在 Windows、macOS 和 Linux 系统上运行，但与 Windows 的集成度更深。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3515607",
     "datetime": "2026-10-07T17:24:23+00:00",
-    "views": "42",
+    "views": "49",
     "text": "OpenAI 与 Anthropic 将采用微软执行容器实现 AI 智能体隔离管控。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3515606",
     "datetime": "2026-10-07T17:24:22+00:00",
-    "views": "42",
+    "views": "49",
     "text": "微软(MSFT.O)：OpenAI 和 Anthropic 将采用微软的执行容器智能体管控。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3515605",
     "datetime": "2026-10-07T17:22:52+00:00",
-    "views": "45",
+    "views": "51",
     "text": "微软发布可在个人笔记本上运行的 AI 代码模型。\n英伟达全新 Nemotron 模型可在个人笔记本与 PC 上本地运行。\nDeepSeek V4 Flash 模型可在配备 60GB 内存的台式机与笔记本上运行，在部分编码任务上性能优于 GPT5。\nOpenAI 与 Anthropic 将采用微软执行容器实现 AI 智能体隔离管控。\n微软执行容器可在 Windows、macOS 和 Linux 系统上运行，但与 Windows 的集成度更深。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3515604",
     "datetime": "2026-10-07T17:22:42+00:00",
-    "views": "47",
+    "views": "52",
     "text": "美债收益率小幅回落，涨幅收窄；10 年期美债收益率最新变动不大，报 5.279%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3515602",
     "datetime": "2026-10-07T17:22:03+00:00",
-    "views": "49",
+    "views": "53",
     "text": "微软(MSFT.O)：DeepSeek V4 Flash 模型可在配备 60GB 内存的台式机和笔记本电脑上运行，在某些编程任务上表现优于 GPT-5。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3515603",
     "datetime": "2026-10-07T17:22:03+00:00",
-    "views": "48",
+    "views": "53",
     "text": "微软：DeepSeek V4 Flash 模型可在配备 60GB 内存的台式机与笔记本上运行，在部分编码任务上性能优于 GPT5。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3515601",
     "datetime": "2026-10-07T17:21:42+00:00",
-    "views": "50",
+    "views": "54",
     "text": "微软(MSFT.O)：新的英伟达(NVDA.O)Nemotron 模型将可在单台笔记本电脑和 PC 上运行。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3515600",
     "datetime": "2026-10-07T17:21:22+00:00",
-    "views": "50",
+    "views": "53",
     "text": "微软：英伟达全新 Nemotron 模型可在个人笔记本与 PC 上本地运行。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3515599",
     "datetime": "2026-10-07T17:21:03+00:00",
-    "views": "51",
+    "views": "55",
     "text": "微软发布可在个人笔记本上运行的 AI 代码模型。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3515598",
     "datetime": "2026-10-07T17:21:02+00:00",
-    "views": "51",
+    "views": "54",
     "text": "微软(MSFT.O)推出可在个人笔记本电脑上运行的人工智能编码模型。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3515597",
     "datetime": "2026-10-07T17:20:42+00:00",
-    "views": "50",
+    "views": "52",
     "text": "布伦特原油失守 100 美元/桶，日内跌 0.65%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3515596",
     "datetime": "2026-10-07T17:20:09+00:00",
-    "views": "50",
+    "views": "52",
     "text": "丹麦医药公司 Zealand Pharma：胰淀素类似物 petrelintide 在超重/肥胖合并 2 型糖尿病人群中取得积极 II 期 ZUPREME-2 顶线结果。\n第 28 周，petrelintide 组平均体重降幅最高达 9.2%，安慰剂组为 2.0%。\n第 28 周，petrelintide 组 HbA1c 降幅最高达 0.65%，安慰剂组上升 0.23%。\nPetrelintide 的安全性和耐受性与 II 期 ZUPREME-1 研究一致。\n因胃肠道不良事件导致的停药率极低，petrelintide 组为 1.9%，安慰剂组为 1.7%。\n数据进一步支持 petrelintide 成为未来慢性体重管理一线治疗的潜力。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3515595",
     "datetime": "2026-10-07T17:19:42+00:00",
-    "views": "52",
+    "views": "53",
     "text": "胡塞武装发言人：过去 24 小时使用 12 枚弹道导弹打击沙特军队及“第 13 巨人旅”集结点，造成数十人死伤。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3515594",
     "datetime": "2026-10-07T17:18:42+00:00",
-    "views": "51",
+    "views": "52",
     "text": "美国 SEC 警告加入气候行动 100+等组织的合规风险\n美国证券交易委员会（SEC）发布一份报告，审视气候行动 100+（Climate Action 100+）在 2021 年埃克森美孚年度股东大会上推动异议董事当选过程中所扮演的角色。SEC 决定，基于目前掌握的信息，不就此采取执法行动。SEC 表示，“对气候行动 100+成员及其他参与者在上述活动中的行为存在严重关切”。 SEC 发布该报告旨在提醒考虑加入气候行动 100+等组织的资产管理公司和投资者：必须确保其符合针对投资者群体的受益所有权申报要求。SEC 审查了贝莱德、道富和先锋在埃克森美孚股东投票过程中的相关行为。",
     "media_only": false,
     "image_url": null,
