@@ -1,9 +1,27 @@
 [
   {
+    "post": "Financial_Express/3515718",
+    "datetime": "2026-10-07T18:11:02+00:00",
+    "views": "1",
+    "text": "Anthropic 将 Sonnet 5.5 缓存读取价格下调 50%，至每百万 token 0.10 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3515718"
+  },
+  {
+    "post": "Financial_Express/3515717",
+    "datetime": "2026-10-07T18:09:22+00:00",
+    "views": "10",
+    "text": "Anthropic：Haiku 5.5 定价远低于 4.5 版本。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3515717"
+  },
+  {
     "post": "Financial_Express/3515716",
     "datetime": "2026-10-07T18:08:42+00:00",
-    "views": "1",
-    "text": "Anthropic 发布最新 AI 模型 Claude Haiku 5.5，用于执行那些对成本敏感的任务。",
+    "views": "43",
+    "text": "Anthropic 发布最新 AI 模型 Claude Haiku 5.5，用于执行那些对成本敏感的任务。\n这款模型“到手价”将明显低于 4.5 版。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3515716"
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3515715",
     "datetime": "2026-10-07T18:07:42+00:00",
-    "views": "12",
+    "views": "48",
     "text": "Anthropic：Claude Haiku 5.5 专为成本敏感型任务打造。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3515714",
     "datetime": "2026-10-07T18:07:28+00:00",
-    "views": "12",
+    "views": "48",
     "text": "美联储会议纪要：多位与会者称，AI 建设的规模持续，让他们感到惊讶。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3515713",
     "datetime": "2026-10-07T18:07:22+00:00",
-    "views": "13",
+    "views": "49",
     "text": "美联储会议纪要显示 9 月美联储官员对加息理由存在分歧\n金十数据 10 月 8 日讯，美联储政策制定者上月在加息理由上存在分歧。“一些与会者”认为，有必要加息以遏制能源及其他价格冲击的影响，而立场更为鹰派的官员则认为，需要加息以防范正在显现的需求驱动型通胀。美联储 9 月一致投票决定加息 25 个基点，但官员们对于此次行动究竟属于预防性举措、还是意味着政策转向明显更为紧缩存在分歧。这种分歧以及官员们对当前经济状况的不同判断，意味着 10 会议可能会展开激烈讨论。会议纪要称：“许多与会者强调，从风险管理角度看，提高联邦基金利率目标区间的路径是审慎之举，可为通胀因需求强于预期或进一步出现不利供应冲击而持续高于目标的风险提供保障。”另一些与会者认为，加息对于防止近期能源及其他冲击对价格产生更广泛影响十分重要；另有两名与会者表示，支持加息是因为此举与他们对中性利率估值上升的判断相符。纪要称：“数名与会者表示，他们认为当前政策利率不具有限制性，或仅具有轻微限制性。”“大多数与会者认为，到年底前可能适合再次加息。”",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3515712",
     "datetime": "2026-10-07T18:06:51+00:00",
-    "views": "14",
+    "views": "50",
     "text": "美联储会议纪要：纽约联储代表美国财政部干预了外汇市场。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3515711",
     "datetime": "2026-10-07T18:06:42+00:00",
-    "views": "15",
+    "views": "50",
     "text": "OpenAI：GPT-6 现可通过文本、视觉内容和交互式体验提供回答。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3515710",
     "datetime": "2026-10-07T18:05:42+00:00",
-    "views": "46",
+    "views": "49",
     "text": "美联储会议纪要：纽约联储代表财政部干预了外汇市场。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3515709",
     "datetime": "2026-10-07T18:05:22+00:00",
-    "views": "46",
+    "views": "49",
     "text": "巴西汽车制造商协会（ANFAVEA）：巴西 9 月汽车销量环比 8 月增长 2.3%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3515707",
     "datetime": "2026-10-07T18:04:42+00:00",
-    "views": "44",
+    "views": "51",
     "text": "戴尔(DELL.N)推出搭载英伟达(NVDA.O)RTX SPARK 的 XPS 16 创作者版笔记本电脑。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3515708",
     "datetime": "2026-10-07T18:04:42+00:00",
-    "views": "47",
+    "views": "50",
     "text": "Anthropic 发布最新模型 Claude Haiku 5.5。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3515706",
     "datetime": "2026-10-07T18:04:23+00:00",
-    "views": "45",
+    "views": "50",
     "text": "美联储会议纪要：许多与会者表示，尽管近期长期国债收益率上升，但金融状况似乎仍支持经济增长。少数与会者指出，美国国债市场运行一直顺畅，但强调为市场压力预作规划的重要性。官员表示，未来的数据将决定利率走向。多位官员表示政策尚未足够紧缩。官员表示，过去几个月在降低通胀方面未见足够进展。多位官员表示，进一步加征关税的可能性存在提升通胀风险。官员们普遍预计短期内通胀将保持高位。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3515705",
     "datetime": "2026-10-07T18:04:22+00:00",
-    "views": "48",
+    "views": "49",
     "text": "沙特主导的联军：已摧毁用于袭击利雅得的弹道导弹发射器。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3515704",
     "datetime": "2026-10-07T18:04:02+00:00",
-    "views": "46",
+    "views": "48",
     "text": "美联储会议纪要：官员们普遍预计短期内通胀将保持高位。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3515701",
     "datetime": "2026-10-07T18:03:24+00:00",
-    "views": "49",
+    "views": "51",
     "text": "OpenAI：搭载智能交互界面的 GPT‑6 今日在聊天标签页面向全球 ChatGPT Plus、Pro、商业版及企业版用户逐步推送。",
     "media_only": false,
     "image_url": null,
@@ -43783,23 +43801,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3510779"
-  },
-  {
-    "post": "Financial_Express/3510778",
-    "datetime": "2026-10-05T18:09:42+00:00",
-    "views": "90",
-    "text": "巴基斯坦外交部：各方商定的军事力量与作战能力将在沙特阿拉伯迅速部署。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3510778"
-  },
-  {
-    "post": "Financial_Express/3510777",
-    "datetime": "2026-10-05T18:09:22+00:00",
-    "views": "82",
-    "text": "巴基斯坦外交部：同意迅速在沙特阿拉伯部署军事力量和能力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3510777"
   }
 ]
