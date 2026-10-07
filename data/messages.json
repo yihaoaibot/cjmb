@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3514073",
+    "datetime": "2026-10-07T06:38:42+00:00",
+    "views": "1",
+    "text": "美国向俄罗斯发出正式外交请求，要求其提供信息。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3514073"
+  },
+  {
+    "post": "Financial_Express/3514072",
+    "datetime": "2026-10-07T06:38:22+00:00",
+    "views": "1",
+    "text": "印度央行行长马尔霍特拉：政策决定基于国内状况，但这并不意味着外部因素不重要。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3514072"
+  },
+  {
+    "post": "Financial_Express/3514071",
+    "datetime": "2026-10-07T06:37:42+00:00",
+    "views": "1",
+    "text": "保加利亚救援人员已结束对一艘在黑海遭无人机袭击后沉没的货船船员的搜救工作，据称未发现任何船员。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3514071"
+  },
+  {
+    "post": "Financial_Express/3514070",
+    "datetime": "2026-10-07T06:37:22+00:00",
+    "views": "2",
+    "text": "印度央行行长马尔霍特拉：预计未来信贷增长将继续保持强劲。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3514070"
+  },
+  {
     "post": "Financial_Express/3514069",
     "datetime": "2026-10-07T06:36:42+00:00",
-    "views": "1",
+    "views": "2",
     "text": "保时捷股份公司在设定中长期目标后，股价在法兰克福早盘交易中下跌 2.5%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3514068",
     "datetime": "2026-10-07T06:36:23+00:00",
-    "views": "2",
+    "views": "3",
     "text": "印度证券交易委员会已向 Jane Street 提供了交易日志中的定价细节。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3514067",
     "datetime": "2026-10-07T06:36:22+00:00",
-    "views": "2",
+    "views": "3",
     "text": "马斯克：我们将建造并运营该芯片工厂。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3514066",
     "datetime": "2026-10-07T06:36:02+00:00",
-    "views": "3",
+    "views": "4",
     "text": "马斯克：我们将建造并运营该晶圆厂。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3514064",
     "datetime": "2026-10-07T06:35:43+00:00",
-    "views": "3",
+    "views": "4",
     "text": "印度央行总裁马尔霍特拉：必须关注核心通胀和扩散指数，以判断潜在通胀水平。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3514065",
     "datetime": "2026-10-07T06:35:43+00:00",
-    "views": "3",
+    "views": "4",
     "text": "印度央行总裁马尔霍特拉：仅凭整体通胀率可能不是正确的衡量标准。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3514063",
     "datetime": "2026-10-07T06:35:42+00:00",
-    "views": "3",
+    "views": "4",
     "text": "马斯克：如果台积电(TSM.N)愿意，或许可以转租 TeraFab 的部分区域，但仅限于此。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3514061",
     "datetime": "2026-10-07T06:35:23+00:00",
-    "views": "3",
+    "views": "4",
     "text": "AMD 首席执行官苏姿丰：AMD 继续与三星电子在存储和代工领域探索合作机会。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3514062",
     "datetime": "2026-10-07T06:35:23+00:00",
-    "views": "3",
+    "views": "4",
     "text": "马斯克：如果台积电有意，或许可以转租“太字节工厂”（TerraFab）的部分场地，但也就仅此而已。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3514060",
     "datetime": "2026-10-07T06:35:22+00:00",
-    "views": "3",
+    "views": "4",
     "text": "AMD(AMD.O)CEO 苏姿丰：将继续探索与三星电子在存储芯片及晶圆代工领域的合作机会。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3514059",
     "datetime": "2026-10-07T06:35:02+00:00",
-    "views": "3",
+    "views": "4",
     "text": "印度央行总裁马尔霍特拉：继续专注于努力将总体通胀率降至 4%的目标。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3514057",
     "datetime": "2026-10-07T06:34:43+00:00",
-    "views": "3",
+    "views": "34",
     "text": "7 国有意申办 2036 年夏奥会\n据 CCTV 国际时讯， 国际奥委  会 10 月 6 日公布 2036 年夏季奥运会主办方遴选下一阶段安排。据介绍，目前已明确表示有意申办 2036 年奥运会的意向方有德国、匈牙利、印度、卡塔尔、韩国、南非和土耳其七国。根据国际奥委会公布的遴选后续步骤，各意向方将于 11 月提交方案。随后国际奥委会将进行可行性评估。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3514058",
     "datetime": "2026-10-07T06:34:43+00:00",
-    "views": "3",
+    "views": "34",
     "text": "意大利 10 年期国债收益率上升近 8 个基点，至 4.6147%。法国 10 年期国债收益率上升逾 7 个基点，报 4.8192%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3514056",
     "datetime": "2026-10-07T06:34:42+00:00",
-    "views": "3",
+    "views": "4",
     "text": "意大利 10 年期国债收益率上涨近 8 个基点，至 4.6147%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3514055",
     "datetime": "2026-10-07T06:33:42+00:00",
-    "views": "3",
+    "views": "34",
     "text": "印度储备银行行长：是否需要进一步加息，将在日后再作决定。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3514054",
     "datetime": "2026-10-07T06:33:22+00:00",
-    "views": "2",
+    "views": "32",
     "text": "以色列 i24News：新的卫星图像显示，伊朗正迅速着手重建位于德黑兰东北郊的明扎德黑（Minzadehei）核武器研发设施，该设施此前曾遭以色列打击。",
     "media_only": false,
     "image_url": null,
@@ -39787,41 +39823,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3509579"
-  },
-  {
-    "post": "Financial_Express/3509578",
-    "datetime": "2026-10-05T06:38:42+00:00",
-    "views": "38",
-    "text": "AI 订阅费不变服务缩水 AI 使用费通胀\nOpenAI 和谷歌在维持现有 AI 服务订阅费的同时，削减了使用额度或可用模型数量。用户如今花同样的钱却得到更少的服务，或者必须升级到更高档位的套餐才能继续使用现有模型。这实际上构成了一种“AI 使用费通胀”，因为维持同等服务水平所需的成本已经上升。谷歌根据问题复杂程度、所用功能和对话长度扣减使用额度。需要更高推理能力或复杂操作的任务会更快消耗额度，这意味着即使用户订阅费用不变，也可能更早触及月度上限。OpenAI 将限额调整归因于模型效率提升。尽管两家公司做法不同，但都旨在引导用户转向更高档位的套餐，以获得更多高性能 AI 的使用权限。一位科技行业消息人士指出：“即便订阅价格不变，获取所需模型和使用量所需的成本也可能上升。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3509578"
-  },
-  {
-    "post": "Financial_Express/3509577",
-    "datetime": "2026-10-05T06:37:42+00:00",
-    "views": "36",
-    "text": "阿联酋环球铝业宣布，根据与几内亚铝土矿公司续签的协议，首批几内亚铝土矿正运往阿联酋。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3509577"
-  },
-  {
-    "post": "Financial_Express/3509576",
-    "datetime": "2026-10-05T06:37:22+00:00",
-    "views": "35",
-    "text": "阿联酋环球铝业（EGA）与几内亚铝矾土公司续签协议，协议规定截至 2044 年，几内亚铝矾土公司每年将向阿联酋环球铝业供应最高 490 万吨铝矾土。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3509576"
-  },
-  {
-    "post": "Financial_Express/3509575",
-    "datetime": "2026-10-05T06:37:02+00:00",
-    "views": "34",
-    "text": "前三季度公募总经理更迭同比增近三成，董事长、副总变动趋缓\n据 Wind 数据统计，截至 9 月 30 日，今年以来（2026 年前三季度）公募基金行业已发生 273 起高管变更（包括代任人数），涉及基金公司 104 家（包括有公募牌照的券商及券商资管，下同）。与去年同期相比，高管变更总人数与家数明显减少。不过，若将观察口径收窄至董事长、总经理及副总经理三大核心岗位，结构性变化随之浮现，总经理更替频率上升，董事长与副总经理则趋于收缩。（澎湃）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3509575"
   }
 ]
