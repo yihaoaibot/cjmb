@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3515610",
+    "datetime": "2026-10-07T17:26:02+00:00",
+    "views": "7",
+    "text": "五名前巴克莱交易员操纵基准利率案定罪被英国上诉法院推翻\n五名前巴克莱交易员曾在一系列具有标志性的欺诈案中被判操纵基准利率罪名成立，如今其定罪已被伦敦一家法院推翻。英国上诉法院法官撤销了 Alex Pabon、Jay Merchant 和 Jonathan Mathew 的定罪。三人 2016 年因协助操纵伦敦银行间同业拆借利率（Libor）被判串谋欺诈罪成立并入狱。另外两名前巴克莱交易员 Philippe Moryoussef 和 Colin Bermingham 分别于 2018 年和 2019 年被判操纵欧元银行间同业拆借利率（Euribor）罪名成立。此前，前瑞银集团交易员 Tom Hayes 的定罪已被英国最高法院推翻。Hayes 是首名因操纵利率被定罪的人士，也是其中最受瞩目的人物之一。最高法院法官裁定，Hayes 案审判中陪审团受到错误指引，他和另一名交易员 Carlo Palombo 应被宣告无罪。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3515610"
+  },
+  {
+    "post": "Financial_Express/3515609",
+    "datetime": "2026-10-07T17:25:22+00:00",
+    "views": "8",
+    "text": "微软(MSFT.O)：微软执行容器将可跨 Windows、macOS 和 Linux 运行，但与 Windows 的集成更深。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3515609"
+  },
+  {
     "post": "Financial_Express/3515608",
     "datetime": "2026-10-07T17:25:02+00:00",
-    "views": "3",
+    "views": "9",
     "text": "微软执行容器可在 Windows、macOS 和 Linux 系统上运行，但与 Windows 的集成度更深。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3515607",
     "datetime": "2026-10-07T17:24:23+00:00",
-    "views": "7",
+    "views": "42",
     "text": "OpenAI 与 Anthropic 将采用微软执行容器实现 AI 智能体隔离管控。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3515606",
     "datetime": "2026-10-07T17:24:22+00:00",
-    "views": "7",
+    "views": "42",
     "text": "微软(MSFT.O)：OpenAI 和 Anthropic 将采用微软的执行容器智能体管控。",
     "media_only": false,
     "image_url": null,
@@ -29,8 +47,8 @@
   {
     "post": "Financial_Express/3515605",
     "datetime": "2026-10-07T17:22:52+00:00",
-    "views": "11",
-    "text": "微软发布可在个人笔记本上运行的 AI 代码模型。\n英伟达全新 Nemotron 模型可在个人笔记本与 PC 上本地运行。\nDeepSeek V4 Flash 模型可在配备 60GB 内存的台式机与笔记本上运行，在部分编码任务上性能优于 GPT5。\nOpenAI 与 Anthropic 将采用微软执行容器实现 AI 智能体隔离管控。",
+    "views": "45",
+    "text": "微软发布可在个人笔记本上运行的 AI 代码模型。\n英伟达全新 Nemotron 模型可在个人笔记本与 PC 上本地运行。\nDeepSeek V4 Flash 模型可在配备 60GB 内存的台式机与笔记本上运行，在部分编码任务上性能优于 GPT5。\nOpenAI 与 Anthropic 将采用微软执行容器实现 AI 智能体隔离管控。\n微软执行容器可在 Windows、macOS 和 Linux 系统上运行，但与 Windows 的集成度更深。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3515605"
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3515604",
     "datetime": "2026-10-07T17:22:42+00:00",
-    "views": "13",
+    "views": "47",
     "text": "美债收益率小幅回落，涨幅收窄；10 年期美债收益率最新变动不大，报 5.279%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3515602",
     "datetime": "2026-10-07T17:22:03+00:00",
-    "views": "46",
+    "views": "49",
     "text": "微软(MSFT.O)：DeepSeek V4 Flash 模型可在配备 60GB 内存的台式机和笔记本电脑上运行，在某些编程任务上表现优于 GPT-5。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3515603",
     "datetime": "2026-10-07T17:22:03+00:00",
-    "views": "45",
+    "views": "48",
     "text": "微软：DeepSeek V4 Flash 模型可在配备 60GB 内存的台式机与笔记本上运行，在部分编码任务上性能优于 GPT5。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3515601",
     "datetime": "2026-10-07T17:21:42+00:00",
-    "views": "47",
+    "views": "50",
     "text": "微软(MSFT.O)：新的英伟达(NVDA.O)Nemotron 模型将可在单台笔记本电脑和 PC 上运行。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3515600",
     "datetime": "2026-10-07T17:21:22+00:00",
-    "views": "47",
+    "views": "50",
     "text": "微软：英伟达全新 Nemotron 模型可在个人笔记本与 PC 上本地运行。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3515599",
     "datetime": "2026-10-07T17:21:03+00:00",
-    "views": "48",
+    "views": "51",
     "text": "微软发布可在个人笔记本上运行的 AI 代码模型。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3515598",
     "datetime": "2026-10-07T17:21:02+00:00",
-    "views": "48",
+    "views": "51",
     "text": "微软(MSFT.O)推出可在个人笔记本电脑上运行的人工智能编码模型。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3515597",
     "datetime": "2026-10-07T17:20:42+00:00",
-    "views": "47",
+    "views": "50",
     "text": "布伦特原油失守 100 美元/桶，日内跌 0.65%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3515596",
     "datetime": "2026-10-07T17:20:09+00:00",
-    "views": "47",
+    "views": "50",
     "text": "丹麦医药公司 Zealand Pharma：胰淀素类似物 petrelintide 在超重/肥胖合并 2 型糖尿病人群中取得积极 II 期 ZUPREME-2 顶线结果。\n第 28 周，petrelintide 组平均体重降幅最高达 9.2%，安慰剂组为 2.0%。\n第 28 周，petrelintide 组 HbA1c 降幅最高达 0.65%，安慰剂组上升 0.23%。\nPetrelintide 的安全性和耐受性与 II 期 ZUPREME-1 研究一致。\n因胃肠道不良事件导致的停药率极低，petrelintide 组为 1.9%，安慰剂组为 1.7%。\n数据进一步支持 petrelintide 成为未来慢性体重管理一线治疗的潜力。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3515595",
     "datetime": "2026-10-07T17:19:42+00:00",
-    "views": "51",
+    "views": "52",
     "text": "胡塞武装发言人：过去 24 小时使用 12 枚弹道导弹打击沙特军队及“第 13 巨人旅”集结点，造成数十人死伤。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3515594",
     "datetime": "2026-10-07T17:18:42+00:00",
-    "views": "50",
+    "views": "51",
     "text": "美国 SEC 警告加入气候行动 100+等组织的合规风险\n美国证券交易委员会（SEC）发布一份报告，审视气候行动 100+（Climate Action 100+）在 2021 年埃克森美孚年度股东大会上推动异议董事当选过程中所扮演的角色。SEC 决定，基于目前掌握的信息，不就此采取执法行动。SEC 表示，“对气候行动 100+成员及其他参与者在上述活动中的行为存在严重关切”。 SEC 发布该报告旨在提醒考虑加入气候行动 100+等组织的资产管理公司和投资者：必须确保其符合针对投资者群体的受益所有权申报要求。SEC 审查了贝莱德、道富和先锋在埃克森美孚股东投票过程中的相关行为。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3515593",
     "datetime": "2026-10-07T17:18:23+00:00",
-    "views": "50",
+    "views": "51",
     "text": "俄称打击乌军工企业 乌称打击俄多个目标\n金十数据 10 月 8 日讯，俄罗斯国防部 7 日发布战报称，过去 24 小时，俄军在 146 个区域对乌军无人机生产车间和储存点、弹药和军用物资仓库，以及乌军和外国雇佣兵临时部署点发动打击。俄防空力量还击落 4 枚制导航空炸弹和 764 架固定翼无人机。乌克兰武装部队总参谋部 7 日通报称，10 月 6 日及 7 日凌晨，乌军在布良斯克州、顿涅茨克和卢甘斯克等地打击了俄军多个目标，包括俄军机场、雷达站、无人机指挥所、后勤物资仓库以及燃料库等。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3515592",
     "datetime": "2026-10-07T17:18:22+00:00",
-    "views": "50",
+    "views": "51",
     "text": "10 年期美债拍卖需求强劲 美债收益率下跌\n金十数据 10 月 8 日讯，在 390 亿美元 10 年期美债标售获得投资者强劲需求后，美债收益率进一步从盘中高位回落。此次 10 年期美债以 5.3%的收益率中标，低于标售前交易员的预期水平。蒙特利尔银行表示，必须参与国债标售投标的债券交易商此次获配比例异常低，显示其他类型投资者的需求十分强劲。美国国债收益率在美盘开始前大幅攀升，但随着油价回落，目前已回吐大部分涨幅。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3515591",
     "datetime": "2026-10-07T17:18:03+00:00",
-    "views": "48",
+    "views": "49",
     "text": "美国证券交易委员会（SEC）发布一份报告，审视气候行动 100+（Climate Action 100+）在 2021 年埃克森美孚年度股东大会上推动异议董事当选过程中所扮演的角色。\nSEC 决定，基于目前掌握的信息，不就此采取执法行动。\nSEC 表示，“对气候行动 100+成员及其他参与者在上述活动中的行为存在严重关切”。",
     "media_only": false,
     "image_url": null,
@@ -43144,14 +43162,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3510742"
-  },
-  {
-    "post": "Financial_Express/3510741",
-    "datetime": "2026-10-05T17:25:43+00:00",
-    "views": "148",
-    "text": "俄外交部：将对日本新的反俄措施采取对等反制\n金十数据 10 月 6 日讯，俄罗斯外交部发言人扎哈罗娃 5 日在俄外交部网站发表评论说，俄方将对东京的不友好举措采取对等反制，首先针对那些对日本具有重要利益的领域。扎哈罗娃表示，日方表现出对国际法和双边协定的漠视，日本政府的举动使俄日关系进一步恶化。她表示，东京所推行的外交方针缺乏独立性，“并非由本国利益所决定”，而是一味地与所谓“志同道合者”保持一致。\n❤1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3510741"
   }
 ]
