@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3519063",
+    "datetime": "2026-10-08T14:02:23+00:00",
+    "views": "3",
+    "text": "AT&T(T.N)与 OpenAI 推出旗舰合作协议，双方组建内部法律设计合作伙伴关系。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519063"
+  },
+  {
+    "post": "Financial_Express/3519062",
+    "datetime": "2026-10-08T14:02:03+00:00",
+    "views": "4",
+    "text": "AT&T 与 OpenAI 建立内部法律设计合作伙伴关系。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519062"
+  },
+  {
+    "post": "Financial_Express/3519061",
+    "datetime": "2026-10-08T14:02:02+00:00",
+    "views": "4",
+    "text": "AT&T 与 OpenAI 达成旗舰合作协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519061"
+  },
+  {
+    "post": "Financial_Express/3519060",
+    "datetime": "2026-10-08T14:01:43+00:00",
+    "views": "5",
+    "text": "英国 BAE 系统公司：两栖战斗车-改进型（ACV-R）项目的工程工作截至 2029 年将主要在宾夕法尼亚州约克开展。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519060"
+  },
+  {
+    "post": "Financial_Express/3519059",
+    "datetime": "2026-10-08T14:01:42+00:00",
+    "views": "5",
+    "text": "加拉西亚航空发射服务公司与海事发射服务公司宣布达成合作，将为新斯科舍航天港开发自主飞行安全系统。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519059"
+  },
+  {
+    "post": "Financial_Express/3519058",
+    "datetime": "2026-10-08T14:01:23+00:00",
+    "views": "5",
+    "text": "锡连续主力合约日内跌 4%，现报 392340.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519058"
+  },
+  {
+    "post": "Financial_Express/3519057",
+    "datetime": "2026-10-08T14:01:04+00:00",
+    "views": "6",
+    "text": "金斯瑞与英伟达联合推出生命科学初创企业推介大赛，以推动生物技术创新加速发展。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519057"
+  },
+  {
+    "post": "Financial_Express/3519055",
+    "datetime": "2026-10-08T14:01:03+00:00",
+    "views": "6",
+    "text": "房利美报告出售不良贷款。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519055"
+  },
+  {
+    "post": "Financial_Express/3519056",
+    "datetime": "2026-10-08T14:01:03+00:00",
+    "views": "6",
+    "text": "房利美：更大规模贷款池包含 1217 笔严重拖欠贷款，未偿本金余额总计 2.599 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519056"
+  },
+  {
     "post": "Financial_Express/3519054",
     "datetime": "2026-10-08T14:00:43+00:00",
-    "views": "3",
+    "views": "37",
     "text": "美国 8 月批发库存最终数据增长 0.5%；预期增长 0.7%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3519053",
     "datetime": "2026-10-08T14:00:42+00:00",
-    "views": "3",
+    "views": "37",
     "text": "金十图示：2026 年 10 月 08 日（周四）全球股市指数-美洲市场（盘初）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3519052",
     "datetime": "2026-10-08T14:00:23+00:00",
-    "views": "3",
+    "views": "37",
     "text": "美国 8 月批发销售额环比增长 1.8%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3519051",
     "datetime": "2026-10-08T14:00:03+00:00",
-    "views": "5",
+    "views": "39",
     "text": "美国 8 月批发库存月率终值 0.5%，预期 0.7%，前值 0.70%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3519049",
     "datetime": "2026-10-08T14:00:01+00:00",
-    "views": "5",
+    "views": "37",
     "text": "美国 8 月批发销售环比 1.8%，前值 0.8%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3519050",
     "datetime": "2026-10-08T14:00:01+00:00",
-    "views": "5",
+    "views": "37",
     "text": "美国 8 月批发库存环比终值 0.5%，预期 0.7%，初值 0.7%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3519048",
     "datetime": "2026-10-08T13:59:42+00:00",
-    "views": "7",
+    "views": "39",
     "text": "荷兰公司利用人工智能实现乌克兰战场上的无人机通信。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3519047",
     "datetime": "2026-10-08T13:59:23+00:00",
-    "views": "7",
+    "views": "39",
     "text": "坦桑尼亚 9 月份消费者价格同比上涨 4.3%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3519046",
     "datetime": "2026-10-08T13:59:22+00:00",
-    "views": "7",
+    "views": "39",
     "text": "据伊朗媒体 Fars News：巴基斯坦方面表示，有关巴基斯坦战斗机参与袭击也门的新闻报道是虚假和捏造的。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3519044",
     "datetime": "2026-10-08T13:59:03+00:00",
-    "views": "8",
+    "views": "40",
     "text": "光弘科技：已开始为国内外头部客户提供各类服务算力器板卡、冷却组件等产品的制造服务\n金十数据 10 月 8 日讯，光弘科技 10 月 8 日在互动平台表示，随着算力基础设施需求的不断增长，公司算力业务有望成为公司未来增长的重要助力。目前公司已开始为国内外头部客户提供各类服务算力器板卡、冷却组件、数据中心交换机、服务器专用电源、高速连接组件等产品的制造服务，新导入的液冷服务器超节点业务现也已进入生产阶段。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3519045",
     "datetime": "2026-10-08T13:59:03+00:00",
-    "views": "8",
+    "views": "40",
     "text": "巴基斯坦方面称，有关巴基斯坦战斗机参与袭击也门的新闻报道是虚假和捏造的。",
     "media_only": false,
     "image_url": null,
@@ -56437,41 +56518,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3512745"
-  },
-  {
-    "post": "Financial_Express/3512744",
-    "datetime": "2026-10-06T14:02:42+00:00",
-    "views": "79",
-    "text": "美国雅马哈发动机公司：与约翰迪尔将各自保留原有品牌、经销商及销售渠道和客户关系。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3512744"
-  },
-  {
-    "post": "Financial_Express/3512743",
-    "datetime": "2026-10-06T14:02:03+00:00",
-    "views": "77",
-    "text": "雅马哈将为迪尔公司提供动力总成技术支持。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3512743"
-  },
-  {
-    "post": "Financial_Express/3512742",
-    "datetime": "2026-10-06T14:02:02+00:00",
-    "views": "76",
-    "text": "雅马哈和迪尔将共同开发未来的并排座车辆。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3512742"
-  },
-  {
-    "post": "Financial_Express/3512741",
-    "datetime": "2026-10-06T14:01:22+00:00",
-    "views": "75",
-    "text": "金十图示：2026 年 10 月 06 日（周二）全球股市指数-美洲市场（盘初）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3512741"
   }
 ]
