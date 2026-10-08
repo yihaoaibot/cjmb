@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3519552",
+    "datetime": "2026-10-08T17:05:02+00:00",
+    "views": "1",
+    "text": "微软股价跌幅扩大至 1.2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519552"
+  },
+  {
+    "post": "Financial_Express/3519551",
+    "datetime": "2026-10-08T17:04:56+00:00",
+    "views": "2",
+    "text": "欧元集团主席 Pierkakis：将 10 月 28 日作为欧洲央行官员提名人的截止日期。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519551"
+  },
+  {
+    "post": "Financial_Express/3519550",
+    "datetime": "2026-10-08T17:04:42+00:00",
+    "views": "4",
+    "text": "凯雷集团表示，收购卢克石油国际资产的交易已到期失效。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519550"
+  },
+  {
+    "post": "Financial_Express/3519549",
+    "datetime": "2026-10-08T17:04:22+00:00",
+    "views": "8",
+    "text": "美国财长贝森特：财政部正在切断德黑兰用于战争的资金来源。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519549"
+  },
+  {
+    "post": "Financial_Express/3519548",
+    "datetime": "2026-10-08T17:03:45+00:00",
+    "views": "12",
+    "text": "美国财政部：伊朗因美国封锁和制裁已停止原油船舶的装卸作业。\n美国正打击伊朗影子船队的残余力量。\n美国估计伊朗在美国封锁伊朗港口之外船只上还剩 2000 万桶原油。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519548"
+  },
+  {
+    "post": "Financial_Express/3519547",
+    "datetime": "2026-10-08T17:03:43+00:00",
+    "views": "12",
+    "text": "美国 30 年期国债收益率下降 5.618%，低于预售时的 5.617%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519547"
+  },
+  {
+    "post": "Financial_Express/3519546",
+    "datetime": "2026-10-08T17:03:42+00:00",
+    "views": "12",
+    "text": "欧元集团主席皮埃拉卡基斯：欧元区国家须在 10 月 28 日前提交接替欧洲央行施纳贝尔的候选人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519546"
+  },
+  {
+    "post": "Financial_Express/3519545",
+    "datetime": "2026-10-08T17:03:22+00:00",
+    "views": "14",
+    "text": "欧元集团主席皮埃拉卡基斯：欧元区各国需在 10 月 28 日前提交欧洲央行施纳贝尔继任者的候选人提名。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519545"
+  },
+  {
+    "post": "Financial_Express/3519544",
+    "datetime": "2026-10-08T17:03:03+00:00",
+    "views": "49",
+    "text": "美国财政部：美国正打击伊朗影子船队的残余力量。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519544"
+  },
+  {
     "post": "Financial_Express/3519543",
     "datetime": "2026-10-08T17:02:42+00:00",
-    "views": "7",
+    "views": "51",
     "text": "甲骨文(ORCL.N)预计创下 12 周来最大单日跌幅，最新下跌 6%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3519541",
     "datetime": "2026-10-08T17:02:23+00:00",
-    "views": "11",
+    "views": "54",
     "text": "美国至 10 月 8 日 30 年期国债竞拍-投标倍数 2.54，前值 2.61。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3519542",
     "datetime": "2026-10-08T17:02:23+00:00",
-    "views": "11",
+    "views": "54",
     "text": "纳斯达克 100 指数跌幅扩大至 1.5%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3519540",
     "datetime": "2026-10-08T17:02:22+00:00",
-    "views": "11",
+    "views": "54",
     "text": "美国至 10 月 8 日 30 年期国债竞拍-得标利率 5.618%，前值 5.308%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3519539",
     "datetime": "2026-10-08T17:02:11+00:00",
-    "views": "13",
+    "views": "54",
     "text": "美国财政部发行 220 亿美元 30 年期国债，得标利率 5.618%（9 月 10 日为 5.308%），投标倍数 2.54（前次为 2.61）。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3519538",
     "datetime": "2026-10-08T17:01:44+00:00",
-    "views": "43",
+    "views": "53",
     "text": "美国财政部官员称，美国估计伊朗在美国封锁伊朗港口之外船只上还剩 2000 万桶原油。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3519536",
     "datetime": "2026-10-08T17:01:43+00:00",
-    "views": "43",
+    "views": "53",
     "text": "美国财政部官员：美方估计，在美国对伊朗港口的封锁范围之外，伊朗仍有约 2000 万桶原油装载在船舶上。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3519537",
     "datetime": "2026-10-08T17:01:43+00:00",
-    "views": "43",
+    "views": "53",
     "text": "美国财政部：伊朗因美国封锁和制裁已停止原油船舶的装卸作业。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3519535",
     "datetime": "2026-10-08T17:01:04+00:00",
-    "views": "44",
+    "views": "52",
     "text": "美国财政部宣布，美国对 17 艘运输伊朗原油、石油产品及石化产品的船舶实施制裁。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3519534",
     "datetime": "2026-10-08T17:01:03+00:00",
-    "views": "44",
+    "views": "52",
     "text": "美国国债 30 年期收益率在 220 亿美元拍卖前为 5.617%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3519533",
     "datetime": "2026-10-08T17:01:02+00:00",
-    "views": "44",
+    "views": "52",
     "text": "英特尔：依托至强 CPU 扩展沙箱式智能体 AI 的部署规模。",
     "media_only": false,
     "image_url": null,
@@ -57598,23 +57679,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3513104"
-  },
-  {
-    "post": "Financial_Express/3513103",
-    "datetime": "2026-10-06T17:05:02+00:00",
-    "views": "90",
-    "text": "一艘油轮在俄罗斯黑海海岸附近起火。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3513103"
-  },
-  {
-    "post": "Financial_Express/3513102",
-    "datetime": "2026-10-06T17:04:37+00:00",
-    "views": "90",
-    "text": "美国财政部长贝森特表示，经济增长和财政撙节双管齐下能够遏制联邦赤字，但面对政府庞大的负债额，市场策略师怀疑这种做法未必奏效。\nElias Haddad 等 Brown Brothers Harriman 策略师在报告中写道：“10 年期美债收益率飙升后，贝森特试图通过口头干预压低长端收益率。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3513102"
   }
 ]
