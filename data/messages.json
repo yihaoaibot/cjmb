@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3519794",
+    "datetime": "2026-10-08T19:06:22+00:00",
+    "views": "1",
+    "text": "恒指期货夜盘收涨 0.12%，报 23802 点，高水 16 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519794"
+  },
+  {
+    "post": "Financial_Express/3519793",
+    "datetime": "2026-10-08T19:06:03+00:00",
+    "views": "1",
+    "text": "刚果民主共和国央行将主要利率维持在 12.5%不变。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519793"
+  },
+  {
+    "post": "Financial_Express/3519792",
+    "datetime": "2026-10-08T19:06:02+00:00",
+    "views": "1",
+    "text": "Anthropic：关键基础设施防御项目的创始合作伙伴包括埃森哲、博思艾伦、CrowdStrike、德勤、Palo Alto Networks 等。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519792"
+  },
+  {
+    "post": "Financial_Express/3519791",
+    "datetime": "2026-10-08T19:05:43+00:00",
+    "views": "12",
+    "text": "Anthropic：埃森哲、博思艾伦和 CrowdStrike 等为其合作伙伴。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519791"
+  },
+  {
+    "post": "Financial_Express/3519790",
+    "datetime": "2026-10-08T19:05:42+00:00",
+    "views": "13",
+    "text": "据 Axios：Anthropic 正在推出一项新的网络安全计划。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3519790"
+  },
+  {
     "post": "Financial_Express/3519789",
     "datetime": "2026-10-08T19:05:02+00:00",
-    "views": "1",
+    "views": "12",
     "text": "俄罗斯总统会见伊朗总统 讨论中东地区局势\n克里姆林宫 10 月 8 日发布消息称，俄罗斯总统普京当天在土库曼斯坦会见伊朗总统佩泽希齐扬。普京在会见中表示，当前中东地区局势是一个严峻的问题。普京表示，俄罗斯愿尽一切努力，帮助伊朗推动解决当前中东地区局势问题。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3519788",
     "datetime": "2026-10-08T19:04:42+00:00",
-    "views": "1",
+    "views": "12",
     "text": "普京在土库曼斯坦会见伊朗总统佩泽希齐扬\n金十数据 10 月 9 日讯，俄罗斯总统普京与伊朗总统马苏德·佩泽希齐扬讨论了双边关系和中东局势。普京表示，俄罗斯准备尽一切可能帮助伊朗解决中东冲突。当今最紧迫的问题是地区局势。我们知道伊朗正在为结束冲突作出真诚努力。普京称，俄罗斯与伊朗关系积极发展；截至 2025 年底，两国贸易额增长超过 21%，这一趋势在 2026 年前七个月得以延续。普京请伊朗总统转达对伊朗最高领袖穆杰塔巴的最良好祝愿。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3519787",
     "datetime": "2026-10-08T19:04:22+00:00",
-    "views": "1",
+    "views": "13",
     "text": "约旦河西岸发生激烈冲突 数十名巴勒斯坦人受伤\n当地时间 8 日，据巴勒斯坦方面消息，以色列军队及以色列犹太人定居者当天在约旦河西岸希伯伦多地与巴勒斯坦人发生激烈冲突，造成数十名巴勒斯坦人受伤。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3519786",
     "datetime": "2026-10-08T19:03:22+00:00",
-    "views": "6",
+    "views": "15",
     "text": "Anthropic：Claude Dashboards 和 Claude Motion 今天进入测试阶段。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3519785",
     "datetime": "2026-10-08T19:03:02+00:00",
-    "views": "10",
+    "views": "15",
     "text": "Anthropic 推出 OSS 扫描器，可免费为开源项目提供安全扫描。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3519784",
     "datetime": "2026-10-08T19:02:43+00:00",
-    "views": "12",
+    "views": "20",
     "text": "Anthropic 推出网络安全计划，旨在保障软件和系统安全。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3519783",
     "datetime": "2026-10-08T19:02:42+00:00",
-    "views": "9",
+    "views": "18",
     "text": "Anthropic：从今天起，Claude 文档、幻灯片和设计功能结束测试，所有套餐均可使用，包括免费版。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3519782",
     "datetime": "2026-10-08T19:02:22+00:00",
-    "views": "14",
+    "views": "21",
     "text": "美国总统特朗普：“虚假新闻”声称我在邀请敌人轰炸圣迭戈和洛杉矶，但我的原意是，为阻止伊朗获得核武器而导致的汽油价格短期上涨，只是一个“小代价”。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3519781",
     "datetime": "2026-10-08T19:02:07+00:00",
-    "views": "16",
+    "views": "19",
     "text": "Anaconda 扩大与英特尔的合作协议，为企业提供安全解决方案。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3519780",
     "datetime": "2026-10-08T19:00:43+00:00",
-    "views": "22",
+    "views": "58",
     "text": "Anthropic：Claude Dashboards 已在付费套餐中进入测试阶段，Claude Motion 已在团队和企业套餐中进入测试阶段。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3519779",
     "datetime": "2026-10-08T19:00:42+00:00",
-    "views": "53",
+    "views": "58",
     "text": "Anthropic：Claude Docs、Slides 和 Design 已结束测试，现已登陆所有 Claude 套餐，包括免费版。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3519778",
     "datetime": "2026-10-08T19:00:23+00:00",
-    "views": "53",
+    "views": "59",
     "text": "马赛警方：维克多·雨果高中一名教师在最新抗议活动中遇袭，已就此事提起刑事诉讼。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3519777",
     "datetime": "2026-10-08T19:00:22+00:00",
-    "views": "23",
+    "views": "58",
     "text": "恒指期货夜盘收涨 0.15%，报 23807.52 点，高水 21.73 点。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3519776",
     "datetime": "2026-10-08T18:56:02+00:00",
-    "views": "63",
+    "views": "69",
     "text": "据伊朗媒体 Fars News：伊朗国防部发言人表示，我方武器产量在战争期间增至战前的 2.5 倍。我们此前已为生产设施安排了安全的替代地点，武装部队的装备供应和生产甚至一天都未中断。战争期间，9000 家企业自愿投入军事生产。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3519775",
     "datetime": "2026-10-08T18:55:22+00:00",
-    "views": "63",
+    "views": "68",
     "text": "俄罗斯总统普京在与伊朗总统佩泽什基扬会谈时表示，俄罗斯已准备好采取一切措施结束伊朗冲突。",
     "media_only": false,
     "image_url": null,
@@ -58399,14 +58444,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3513261"
-  },
-  {
-    "post": "Financial_Express/3513260",
-    "datetime": "2026-10-06T19:05:22+00:00",
-    "views": "64",
-    "text": "芝加哥玉米期货涨超 2.2%，豆粕涨约 2.4%\n周二（10 月 6 日）纽约尾盘，彭博谷物分类指数涨 1.90%，报 33.6875 点，北京时间 14:00 以来持续扩大涨幅。CBOT 玉米期货张 2.26%，报 5.0850 美元/蒲式耳。CBOT 小麦期货涨 1.77%，报 7.0450 美元/蒲式耳。CBOT 大豆期货涨 1.87%，报 13.0475 美元/蒲式耳，豆粕期货涨 2.39%，豆油期货涨 0.79%。CBOT 瘦肉猪期货跌 0.81%，活牛期货涨 1.76%，饲牛期货涨 2.46%。ICE 原糖期货涨 0.68%，ICE 白糖期货涨 1.75%。ICE 阿拉比卡咖啡期货涨 3.64%，咖啡“C”期货涨 3.64%。罗布斯塔咖啡期货涨 2.01%。纽约可可期货跌 1.79%，报 5762 美元/吨。伦敦可可期货跌 2.98%。芝加哥 WCE 双低油菜籽期货涨 0.82%。ICE 棉花期货涨 0.42%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3513260"
   }
 ]
