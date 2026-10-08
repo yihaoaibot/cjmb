@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3516432",
+    "datetime": "2026-10-08T02:01:03+00:00",
+    "views": "1",
+    "text": "南向资金净买入额达 20 亿港元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516432"
+  },
+  {
+    "post": "Financial_Express/3516431",
+    "datetime": "2026-10-08T02:01:02+00:00",
+    "views": "1",
+    "text": "恒生科技指数早盘走低，现跌幅扩大至 1%；恒生指数现跌 0.31%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516431"
+  },
+  {
+    "post": "Financial_Express/3516429",
+    "datetime": "2026-10-08T02:00:43+00:00",
+    "views": "2",
+    "text": "恒生科技指数跌超 1%，现报 4152.450 点；恒生指数现跌 0.295%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516429"
+  },
+  {
+    "post": "Financial_Express/3516430",
+    "datetime": "2026-10-08T02:00:43+00:00",
+    "views": "2",
+    "text": "对二甲苯连续主力合约日内涨 8%，现报 9930.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516430"
+  },
+  {
+    "post": "Financial_Express/3516428",
+    "datetime": "2026-10-08T02:00:42+00:00",
+    "views": "2",
+    "text": "甲醇连续主力合约日内涨 9%，现报 3200.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516428"
+  },
+  {
+    "post": "Financial_Express/3516427",
+    "datetime": "2026-10-08T02:00:23+00:00",
+    "views": "2",
+    "text": "沥青连续主力合约日内涨 7%，现报 5448.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516427"
+  },
+  {
+    "post": "Financial_Express/3516426",
+    "datetime": "2026-10-08T02:00:22+00:00",
+    "views": "2",
+    "text": "短纤连续主力合约日内涨 6%，现报 8702.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516426"
+  },
+  {
     "post": "Financial_Express/3516425",
     "datetime": "2026-10-08T01:58:43+00:00",
-    "views": "2",
+    "views": "33",
     "text": "CPO 概念股震荡走弱，源杰科技触及 20cm 跌停，长光华芯逼近跌停，仕佳光子跌超 13%，德科立、联特科技、炬光科技跌超 5%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3516424",
     "datetime": "2026-10-08T01:58:42+00:00",
-    "views": "2",
+    "views": "33",
     "text": "SK 海力士旗下 Solidigm 据悉已为明年美国 IPO 选定承销商\n当地时间 10 月 7 日，据报道，知情人士透露，SK 海力士旗下的 Solidigm 已为明年在美国的首次公开募股（IPO）选定主承销商。知情人士表示，这家韩国芯片巨头的闪存业务部门已选定高盛和摩根士丹利负责此次发行，预计 IPO 募资规模将达到约 100 亿美元。Solidigm 正与这两家投行敲定一轮 IPO 前融资。知情人士称，摩根大通、花旗和瑞银也已获选参与 Solidigm 的 IPO。此前消息称，Solidigm 最快明年上市，估值或高达 1000 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3516423",
     "datetime": "2026-10-08T01:58:24+00:00",
-    "views": "3",
+    "views": "33",
     "text": "燃料油连续主力合约日内涨 16%，现报 5077.00 元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3516421",
     "datetime": "2026-10-08T01:58:23+00:00",
-    "views": "3",
+    "views": "33",
     "text": "欧洲天然气价格上涨，近月期货一度上涨 2.6%，至每兆瓦时 80.070 欧元。此前有报道援引两位美国政府官员的话称，美国可能在中期选举前打击伊朗。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3516422",
     "datetime": "2026-10-08T01:58:23+00:00",
-    "views": "3",
+    "views": "33",
     "text": "丙烯连续主力合约日内涨 7%，现报 9837.00 元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3516420",
     "datetime": "2026-10-08T01:58:22+00:00",
-    "views": "3",
+    "views": "33",
     "text": "国庆假期武汉线下零售消费近 150 亿元\n金十数据 10 月 8 日讯，武汉市商务局消息，据银联商务大数据监测，国庆假期，武汉市累计线下零售消费 149.54 亿元，同比增长 7.76%；消费人次 3723.95 万，同比增长 23.99%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3516419",
     "datetime": "2026-10-08T01:58:14+00:00",
-    "views": "3",
+    "views": "33",
     "text": "东山精密、源杰科技双双跌停，光芯片指数跌超 4%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3516417",
     "datetime": "2026-10-08T01:56:03+00:00",
-    "views": "45",
+    "views": "75",
     "text": "半导体板块短线走弱，源杰科技触及 20cm 跌停\n半导体板块短线走弱，源杰科技触及 20cm 跌停，长光华芯跌超 19%，纳芯微、炬光科技、盛美上海跟跌。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3516416",
     "datetime": "2026-10-08T01:56:02+00:00",
-    "views": "45",
+    "views": "75",
     "text": "东京金融交易所推出日本央行利率期货\n金十数据 10 月 8 日讯，随着日本央行政策调整步伐加快，东京金融交易所本月将推出一项新的期货合约——与日本央行隔夜无担保拆借利率挂钩的期货合约，使交易员能够针对两次央行政策会议期间的利率变动进行布局，对冲利率波动加剧带来的风险。交易所表示，现有的三个月期 TONA（东京隔夜平均利率）期货合约未能满足交易员的需求，交易员希望通过相关工具，对冲因日本央行每次政策会议决定而不断变化的利率预期。东京金融交易所批发业务部门董事表示：“近期利率波动更加活跃，对衍生品交易的需求也在增加。”尽管市场预计日本央行将继续加息，3 个月期 TONA 期货的交易量近几个月却有所下降，9 月交易量较上年同期下降近 50%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3516415",
     "datetime": "2026-10-08T01:55:42+00:00",
-    "views": "48",
+    "views": "78",
     "text": "A 股半导体板块短线走弱，源杰科技触及跌停，长光华芯跌超 19%，纳芯微、炬光科技、盛美上海跟跌。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3516414",
     "datetime": "2026-10-08T01:55:40+00:00",
-    "views": "48",
+    "views": "78",
     "text": "创业板指翻绿，此前一度涨超 1%。",
     "media_only": false,
     "image_url": null,
