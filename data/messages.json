@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3516886",
+    "datetime": "2026-10-08T05:38:52+00:00",
+    "views": "3",
+    "text": "创业板指跌超 3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516886"
+  },
+  {
+    "post": "Financial_Express/3516885",
+    "datetime": "2026-10-08T05:38:36+00:00",
+    "views": "4",
+    "text": "腾讯控股短线跳水跌超 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516885"
+  },
+  {
+    "post": "Financial_Express/3516884",
+    "datetime": "2026-10-08T05:38:22+00:00",
+    "views": "5",
+    "text": "野村证券首席执行官奥田健太郎：预计日经 225 指数年底前将在 75000 点左右波动，并在 2027 年底超过 80000 点。预计日元兑美元汇率将在今年年底徘徊在 156 左右，并随着地缘政治风险担忧的减弱而逐步走强。海外投资者对日本仍然抱有浓厚的兴趣。目前来看，日本利率上升的负面影响并不大。风险在于人工智能投资周期可能逆转另一个风险是中东和乌克兰的地缘政治冲突旷日持久，这将推高能源价格并扰乱供应链，从而损害经济。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516884"
+  },
+  {
+    "post": "Financial_Express/3516883",
+    "datetime": "2026-10-08T05:38:02+00:00",
+    "views": "7",
+    "text": "台积电(TSM.N)：第三季度收入为 1.49 万亿新台币（市场预测为 1.46 万亿新台币）。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516883"
+  },
+  {
+    "post": "Financial_Express/3516882",
+    "datetime": "2026-10-08T05:37:38+00:00",
+    "views": "8",
+    "text": "腾讯考虑发行 50 亿美元债券，以加速 AI 投入。（彭博）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516882"
+  },
+  {
+    "post": "Financial_Express/3516881",
+    "datetime": "2026-10-08T05:37:01+00:00",
+    "views": "42",
+    "text": "13 点 36 分，22 盛京银行二级资本债 01（232280013.IB）外汇交易中心显示成交价 98.93 元，较前一交易日中债估值 92.59 元偏离+6.84%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516881"
+  },
+  {
     "post": "Financial_Express/3516880",
     "datetime": "2026-10-08T05:36:43+00:00",
-    "views": "2",
+    "views": "42",
     "text": "腾讯考虑发行 50 亿美元债券。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3516879",
     "datetime": "2026-10-08T05:36:18+00:00",
-    "views": "2",
+    "views": "42",
     "text": "台交所加权股价指数收低 1%报 49,313.44 点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3516878",
     "datetime": "2026-10-08T05:36:02+00:00",
-    "views": "1",
+    "views": "40",
     "text": "野村证券、大和证券 CEO 警告称，人工智能市场情绪可能转为负面。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3516877",
     "datetime": "2026-10-08T05:35:43+00:00",
-    "views": "1",
+    "views": "38",
     "text": "台湾证交所加权股价指数收低 1%报 49,313.44。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3516876",
     "datetime": "2026-10-08T05:35:42+00:00",
-    "views": "1",
+    "views": "38",
     "text": "野村证券、大和证券 CEO 认为利率上升是件好事。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3516875",
     "datetime": "2026-10-08T05:35:24+00:00",
-    "views": "1",
+    "views": "37",
     "text": "短纤期货主力合约日内触及涨停，报 8948 元/吨，涨幅 9.02%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3516874",
     "datetime": "2026-10-08T05:35:22+00:00",
-    "views": "1",
+    "views": "37",
     "text": "野村证券、大和证券 CEO 预计日本股市涨势将持续。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3516873",
     "datetime": "2026-10-08T05:34:22+00:00",
-    "views": "1",
+    "views": "37",
     "text": "台积电前 9 月累计销售额 3.90 万亿元台币，同比增长 41.4％。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3516872",
     "datetime": "2026-10-08T05:33:22+00:00",
-    "views": "31",
+    "views": "36",
     "text": "CPO 概念股午后进一步下挫，天孚通信跌超 10%\nCPO 概念股午后进一步下挫，天孚通信跌超 10%，沃格光电午后跌停，长光华芯、源杰科技、东山精密等股此前跌停。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3516871",
     "datetime": "2026-10-08T05:32:01+00:00",
-    "views": "31",
+    "views": "36",
     "text": "台积电：9 月销售额 5,118.6 亿元台币，同比增长 54.6％。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3516869",
     "datetime": "2026-10-08T05:31:23+00:00",
-    "views": "36",
+    "views": "41",
     "text": "低硫燃料油连续主力合约日内涨 11%，现报 5782.00 元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3516870",
     "datetime": "2026-10-08T05:31:23+00:00",
-    "views": "36",
+    "views": "41",
     "text": "澳大利亚 9 月底外汇储备为 1097.2 亿澳元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3516868",
     "datetime": "2026-10-08T05:31:22+00:00",
-    "views": "36",
+    "views": "41",
     "text": "台积电第三季度累计销售额为 1.49 万亿台币。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3516867",
     "datetime": "2026-10-08T05:30:43+00:00",
-    "views": "44",
+    "views": "48",
     "text": "北证 50 日内跌幅达 2.02%，成分股中，戈碧迦跌 9.87%，锦波生物跌 7.22%，蘅东光跌 6.27%，凯德石英跌 5.40%。",
     "media_only": false,
     "image_url": null,
