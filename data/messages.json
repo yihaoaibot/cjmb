@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3516285",
+    "datetime": "2026-10-08T01:18:42+00:00",
+    "views": "1",
+    "text": "甲醇连续主力合约日内涨 8%，现报 3170.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516285"
+  },
+  {
+    "post": "Financial_Express/3516284",
+    "datetime": "2026-10-08T01:18:22+00:00",
+    "views": "1",
+    "text": "韩国外交部：若非法运输属实，将采取法律行动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516284"
+  },
+  {
+    "post": "Financial_Express/3516283",
+    "datetime": "2026-10-08T01:17:42+00:00",
+    "views": "1",
+    "text": "韩国外交部：尚未确认韩国燃料是否出口至俄罗斯。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516283"
+  },
+  {
+    "post": "Financial_Express/3516281",
+    "datetime": "2026-10-08T01:17:23+00:00",
+    "views": "2",
+    "text": "韩国外交部：对俄出口管制不包括商用柴油和航空燃油。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516281"
+  },
+  {
+    "post": "Financial_Express/3516282",
+    "datetime": "2026-10-08T01:17:23+00:00",
+    "views": "2",
+    "text": "韩国外交部：商用柴油、航空燃油未纳入对俄出口管制范围。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516282"
+  },
+  {
+    "post": "Financial_Express/3516280",
+    "datetime": "2026-10-08T01:17:22+00:00",
+    "views": "2",
+    "text": "美国总统特朗普政府批准来自 Aurora 及其他公司的自动驾驶卡车免于遵守要求人类驾驶员在停靠卡车周围放置反光三角警示牌的规定。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3516280"
+  },
+  {
     "post": "Financial_Express/3516279",
     "datetime": "2026-10-08T01:16:43+00:00",
-    "views": "1",
+    "views": "32",
     "text": "灵生科技完成亿元级 A 轮融资\n10 月 8 日，灵生科技正式官宣完成亿元级 A 轮融资，本次融资由华方资本、道禾长期旗下道禾元启、苏文电能、某具身智能领域头部产业战略投资方联合投资。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3516278",
     "datetime": "2026-10-08T01:16:42+00:00",
-    "views": "1",
+    "views": "32",
     "text": "LG 新能源与 Elevra 签署锂供应协议\n根据声明，LG 新能源有限公司（LG Energy Solution Ltd.）已与 Elevra 锂业有限公司（Elevra Lithium Ltd.）签署协议，购买加拿大出产的锂辉石精矿，协议期限为四年。从今年晚些时候开始，Elevra 将在协议期内供应 24 万干吨锂辉石精矿。LG 表示，该协议将加强北美地区的供应链，并支持日益增长的储能系统需求。Elevra 首席执行官 Lucas Dow 表示，该公司位于魁北克省的项目产出中，已有“相当大的一部分”获得了“有明确承诺的客户”。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3516277",
     "datetime": "2026-10-08T01:16:36+00:00",
-    "views": "1",
+    "views": "32",
     "text": "人民币兑美元中间价报 6.7367，下调 16 点；上一交易日中间价 6.7351，上一交易日官方收盘价 6.7053，上日夜盘报收 6.7050。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3516276",
     "datetime": "2026-10-08T01:16:23+00:00",
-    "views": "1",
+    "views": "32",
     "text": "新加坡海峡时报指数跌幅扩大至 2%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3516275",
     "datetime": "2026-10-08T01:16:22+00:00",
-    "views": "1",
+    "views": "32",
     "text": "液化石油气连续主力合约日内涨 9%，现报 7194.00 元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3516274",
     "datetime": "2026-10-08T01:16:02+00:00",
-    "views": "1",
+    "views": "32",
     "text": "启云方将推出 EDA 系统级电子设计工具链等新品\n 记者从知情人士方面获悉，启云方科技有限公司将于 10 月 14 日-16 日举行的 2026 湾区半导体产业生态博览会（简称：湾芯展）上发布多款新品，其中包括：EDA 系统级电子设计工具链、“小笼虾™”智能体安全解决方案（安全+AI），分别聚焦硬件研发效率提升与 AI Agent 进入企业核心业务后的安全治理。据悉，该 EDA 系统级电子设计工具链，贯通硬件研发全流程，支持多角色协同与研发数据统一管理，推动国产工业软件电子设计能力由单点工具向系统级协同升级。（科创板日报）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3516273",
     "datetime": "2026-10-08T01:15:42+00:00",
-    "views": "1",
+    "views": "32",
     "text": "人民币兑美元中间价报 6.7367 元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3516271",
     "datetime": "2026-10-08T01:15:23+00:00",
-    "views": "31",
+    "views": "32",
     "text": "燃料油连续主力合约日内涨 12%，现报 4905.00 元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3516272",
     "datetime": "2026-10-08T01:15:23+00:00",
-    "views": "31",
+    "views": "32",
     "text": "纯苯连续主力合约日内涨 7%，现报 9279.00 元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3516270",
     "datetime": "2026-10-08T01:15:22+00:00",
-    "views": "31",
+    "views": "32",
     "text": "恒指期货日盘开盘跌 0.97%，报 23881.08 点，低水 249.42 点。",
     "media_only": false,
     "image_url": null,
@@ -45763,23 +45817,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3511174"
-  },
-  {
-    "post": "Financial_Express/3511173",
-    "datetime": "2026-10-06T01:18:02+00:00",
-    "views": "61",
-    "text": "特斯拉连续八个月蝉联韩国进口车销量冠军\n特斯拉在 9 月份连续第八个月成为韩国销量最高的进口乘用车品牌。据韩国汽车进口商和分销商协会（KAIDA）统计，上个月韩国新注册进口乘用车总数为 34904 辆，同比增长 6.3%。特斯拉以 12372 辆的销量领跑市场，自 2 月以来一直稳居榜首。宝马以 6066 辆位居第二，紧随其后的是梅赛德斯奔驰（5477 辆）和比亚迪（2614 辆）。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3511173"
-  },
-  {
-    "post": "Financial_Express/3511172",
-    "datetime": "2026-10-06T01:17:02+00:00",
-    "views": "64",
-    "text": "白宫发布有关柴油紧急税收减免的命令。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3511172"
   }
 ]
