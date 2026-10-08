@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3518799",
+    "datetime": "2026-10-08T12:48:42+00:00",
+    "views": "1",
+    "text": "葡萄牙外长呼吁俄乌停火。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3518799"
+  },
+  {
+    "post": "Financial_Express/3518798",
+    "datetime": "2026-10-08T12:48:23+00:00",
+    "views": "1",
+    "text": "美国国务卿鲁比奥就乌克兰战争表示：美国将继续努力推动达成解决方案以结束战争。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3518798"
+  },
+  {
+    "post": "Financial_Express/3518797",
+    "datetime": "2026-10-08T12:48:22+00:00",
+    "views": "1",
+    "text": "德国思灵机器人通过拍摄人类动作训练机器人\n金十数据 10 月 8 日讯，德国机器人企业思灵机器人（Agile Robots）首席执行官 Zhaopeng Chen 表示，该公司正通过拍摄人类执行任务的过程来训练机器人，以弥补制约工业自动化发展的训练数据缺口。Chen 周四在意大利都灵举行的 Wave by Vento 科技活动上表示，该公司设立的“机器人学院”（Robot Academy）安排工作人员拍摄自己执行特定任务的过程，记录双手及手指的运动方式。思灵机器人随后将这些信息与其他训练数据相结合，让机器人在模拟环境中反复练习相关动作。目前，欧洲及其他地区涌现出一批初创企业，致力于将人形机器人和其他类型的机器人引入工厂，以提高生产效率并降低成本。然而，机器人的普及仍面临障碍，部分原因是训练数据不足，导致机器人连一些基本任务都难以完成。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3518797"
+  },
+  {
+    "post": "Financial_Express/3518796",
+    "datetime": "2026-10-08T12:47:22+00:00",
+    "views": "31",
+    "text": "世界银行预测，若改革能持续推进，尼日利亚通胀率将逐步回落，到 2028 年降至约 12%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3518796"
+  },
+  {
     "post": "Financial_Express/3518795",
     "datetime": "2026-10-08T12:46:43+00:00",
-    "views": "1",
+    "views": "32",
     "text": "英国央行行长贝利：不能放松对更广泛干扰的风险警惕。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3518793",
     "datetime": "2026-10-08T12:46:42+00:00",
-    "views": "1",
+    "views": "32",
     "text": "英国央行行长贝利：在发生负面冲击时，比以往任何时候都更需要对财政政策做出明确承诺。\n我们绝不能对市场中大规模且集中的头寸掉以轻心。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3518794",
     "datetime": "2026-10-08T12:46:42+00:00",
-    "views": "1",
+    "views": "32",
     "text": "美国国务卿鲁比奥：美国随时准备为乌克兰和平提供协助。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3518792",
     "datetime": "2026-10-08T12:46:22+00:00",
-    "views": "2",
+    "views": "33",
     "text": "英国央行行长贝利：对于市场中庞大且集中的头寸，我们绝不能掉以轻心。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3518791",
     "datetime": "2026-10-08T12:46:07+00:00",
-    "views": "3",
+    "views": "33",
     "text": "ASML 及其光学合作伙伴 Carl Zeiss 的工程师在一篇经同行评审的论文中表示，作为 ASML 最先进芯片制造设备 ASML.AS 的继任者，新一代设备预计将在约 10 年内问世。论文称，这款被命名为“Hyper NA”的设备将在大量复用两家公司现有技术的同时，实现更精细的电路图案化，尽管仍面临诸多挑战。ASML 已开始研发该设备，但尚未承诺投入生产。该设备不仅关乎该公司未来的发展前景，也关系到其合作伙伴和竞争对手的前景。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3518789",
     "datetime": "2026-10-08T12:46:03+00:00",
-    "views": "3",
+    "views": "33",
     "text": "鲁比奥谈乌克兰战争：我们认为需要通过谈判达成和解。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3518790",
     "datetime": "2026-10-08T12:46:03+00:00",
-    "views": "3",
+    "views": "33",
     "text": "鲁比奥就乌克兰战争表态：解决方案应具有永久性、持久性和公平性。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3518788",
     "datetime": "2026-10-08T12:46:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美国国务卿鲁比奥：（关于乌克兰战争）我们认为需要通过谈判达成解决方案，该方案应是永久的、持久的和公正的。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3518787",
     "datetime": "2026-10-08T12:45:44+00:00",
-    "views": "3",
+    "views": "33",
     "text": "九阳股份发布股票交易异常波动公告，公司目前持有深思考人工智能机器人科技（北京）有限公司（简称“深思考”）7.92%股权，该公司深耕类脑人工智能与多模态语义理解技术。截至公告披露日，公司与华为不存在市场传闻所称的战略合作关系。公司与华为的关联主要系双方均持有深思考股权，其中华为旗下投资主体持有其部分股权。除前述情况外，公司未发现应披露而未披露的与华为相关重大合作事项。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3518785",
     "datetime": "2026-10-08T12:45:43+00:00",
-    "views": "3",
+    "views": "33",
     "text": "金浦钛业：全资子公司徐州钛白被罚款 37.9 万元，仍停产整改\n金十数据 10 月 8 日讯，金浦钛业公告，因外排水氟化物超标外排，全资子公司徐州钛白自 2026 年 7 月 15 日起停产整改。2026 年 9 月 30 日，徐州钛白收到行政处罚决定书，被责令立即停止违法行为并处以罚款 37.9 万元。目前徐州钛白仍处于停产整改中，持续时间及复产时间尚存在不确定性。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3518786",
     "datetime": "2026-10-08T12:45:43+00:00",
-    "views": "3",
+    "views": "33",
     "text": "格芯股价盘前上涨 4%，此前该公司与台积电达成了价值 20 亿美元的硅中介层交易。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3518784",
     "datetime": "2026-10-08T12:45:42+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美国国务卿鲁比奥：希望升级风险能促使俄乌双方坐到谈判桌前。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3518783",
     "datetime": "2026-10-08T12:45:23+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美国国务卿鲁比奥：乌克兰战争陷入僵局非常危险。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3518782",
     "datetime": "2026-10-08T12:45:22+00:00",
-    "views": "3",
+    "views": "33",
     "text": "英国央行行长贝利：在负面冲击发生时，财政政策的承诺比以往任何时候都更加必要。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3518780",
     "datetime": "2026-10-08T12:45:03+00:00",
-    "views": "4",
+    "views": "34",
     "text": "美国国务卿鲁比奥：（关于乌克兰战争）美国将继续努力促成解决方案以结束战争。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3518781",
     "datetime": "2026-10-08T12:45:03+00:00",
-    "views": "4",
+    "views": "34",
     "text": "派拉蒙 CEO 埃里森称 Skydance 完全有能力在三年内降杠杆。",
     "media_only": false,
     "image_url": null,
@@ -55879,32 +55915,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3512547"
-  },
-  {
-    "post": "Financial_Express/3512546",
-    "datetime": "2026-10-06T12:47:42+00:00",
-    "views": "53",
-    "text": "太平洋投资管理公司（PIMCO）高级顾问鲁珀特・哈里森表示，美债收益率在近期上行之后，具备极高的配置价值。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3512546"
-  },
-  {
-    "post": "Financial_Express/3512545",
-    "datetime": "2026-10-06T12:47:23+00:00",
-    "views": "55",
-    "text": "驻日美军涉嫌抢劫杀人案细节曝出 嫌疑人拒认罪\n日本媒体 6 日披露驻日美军涉嫌抢劫杀人案细节，引发民众愤慨。警方怀疑，涉案美军士兵用酒店客房内的电话线将一名日本女性杀害，抢走钱包等物品后逃走，并更换衣物试图躲避追捕。被捕后，嫌疑人面对讯问均回答“不知道”，拒绝认罪。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3512545"
-  },
-  {
-    "post": "Financial_Express/3512544",
-    "datetime": "2026-10-06T12:47:22+00:00",
-    "views": "56",
-    "text": "太平洋投资管理公司高级顾问哈里森：美国国债收益率在近期上涨后“极具价值”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3512544"
   }
 ]
