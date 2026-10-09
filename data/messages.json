@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3522726",
+    "datetime": "2026-10-09T17:14:43+00:00",
+    "views": "1",
+    "text": "秘鲁央行表示，8 月 GDP 增速与 7 月 3.56%的增速“相近”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3522726"
+  },
+  {
+    "post": "Financial_Express/3522725",
+    "datetime": "2026-10-09T17:14:42+00:00",
+    "views": "1",
+    "text": "惠誉评级：尽管债务能力收紧，英国天然气网络仍保有缓冲空间。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3522725"
+  },
+  {
     "post": "Financial_Express/3522724",
     "datetime": "2026-10-09T17:12:42+00:00",
-    "views": "1",
+    "views": "54",
     "text": "马斯克：（关于 SpaceX(SPCX.O)1000 万亿估值）这是迈向 K2 级文明过程中不可避免的。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3522723",
     "datetime": "2026-10-09T17:09:28+00:00",
-    "views": "42",
+    "views": "78",
     "text": "国际铜夜盘收涨 0.78%，沪铜收涨 0.84%，沪铝收涨 0.96%，沪锌收涨 1.39%，沪铅收涨 0.72%，沪镍收跌 0.44%，沪锡收涨 1.73%。\n氧化铝夜盘收涨 0.19%，铝合金收涨 0.41%。\n不锈钢夜盘收跌 0.26%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3522722",
     "datetime": "2026-10-09T17:08:02+00:00",
-    "views": "49",
+    "views": "79",
     "text": "土耳其外交部长在首都安卡拉会见了由哈马斯政治局主席哈利勒·哈亚率领的哈马斯代表团。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3522721",
     "datetime": "2026-10-09T17:04:18+00:00",
-    "views": "60",
+    "views": "80",
     "text": "诺贝尔经济学奖得主保罗·克鲁格曼警告称，法国不断恶化的公共财政正走在一条“不可持续的道路”上，有可能引发一场席卷欧元区的债务危机。\n克鲁格曼在 10 月 8 日发布的一篇文章中写道：“法国目前的状况确实令人担忧。尤其是这并不只是法国自己的问题。法国作为欧元区成员可能爆发一场失控的债务危机，而这样的危机可能会破坏欧洲团结。”",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3522720",
     "datetime": "2026-10-09T17:03:43+00:00",
-    "views": "60",
+    "views": "79",
     "text": "贝克休斯：美国能源公司在五周内第四次增加钻井平台。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3522719",
     "datetime": "2026-10-09T17:02:22+00:00",
-    "views": "92",
+    "views": "108",
     "text": "贝克休斯：美国能源企业五周内第四次增加钻井平台。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3522717",
     "datetime": "2026-10-09T17:01:42+00:00",
-    "views": "92",
+    "views": "110",
     "text": "美国至 10 月 9 日当周总钻井总数 603 口，前值 598 口。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3522718",
     "datetime": "2026-10-09T17:01:42+00:00",
-    "views": "97",
+    "views": "108",
     "text": "贝克休斯：截至 10 月 9 日当周，墨西哥湾钻机数增加 3 台；北达科他州钻机数持平；宾夕法尼亚州钻机数持平；得克萨斯州钻机数增加 3 台。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3522716",
     "datetime": "2026-10-09T17:01:30+00:00",
-    "views": "95",
+    "views": "110",
     "text": "美国 10 月 9 日当周总钻井数 603，前值 598。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3522714",
     "datetime": "2026-10-09T17:01:29+00:00",
-    "views": "62",
+    "views": "77",
     "text": "美国 10 月 9 日当周天然气钻井数 132，前值 133。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3522715",
     "datetime": "2026-10-09T17:01:29+00:00",
-    "views": "66",
+    "views": "82",
     "text": "美国 10 月 9 日当周石油钻井数 462，前值 456。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3522713",
     "datetime": "2026-10-09T17:01:03+00:00",
-    "views": "91",
+    "views": "105",
     "text": "美国至 10 月 9 日当周石油钻井总数 462 口，前值 456 口。美国至 10 月 9 日当周天然气钻井总数 132 口，前值 133 口。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3522712",
     "datetime": "2026-10-09T17:01:02+00:00",
-    "views": "88",
+    "views": "99",
     "text": "塞舌尔首批享受零关税政策野生干海参启运输华\n维多利亚消息：塞舌尔首批享受零关税政策野生干海参对华出口启运仪式 9 日在塞舌尔首都维多利亚举行。塞舌尔首席部长兼渔业、农业和蓝色经济部长科斯格罗、中国驻塞舌尔大使林楠等出席活动。 科斯格罗在启运仪式上感谢中方支持塞野生干海参产品出口，期待未来进一步深化塞中渔业合作，让更多合作成果惠及两国民众。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3522711",
     "datetime": "2026-10-09T17:00:42+00:00",
-    "views": "58",
+    "views": "65",
     "text": "美国至 10 月 9 日当周天然气钻井总数 132 口，前值 133 口。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3522709",
     "datetime": "2026-10-09T17:00:22+00:00",
-    "views": "58",
+    "views": "69",
     "text": "夜盘期货收盘\n国际铜夜盘收涨 0.78%，沪铜收涨 0.84%，沪铝收涨 0.96%，沪锌收涨 1.39%，沪铅收涨 0.72%，沪镍收跌 0.44%，沪锡收涨 1.73%。氧化铝夜盘收涨 0.19%，铝合金收涨 0.41%。不锈钢夜盘收跌 0.26%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3522710",
     "datetime": "2026-10-09T17:00:22+00:00",
-    "views": "56",
+    "views": "61",
     "text": "截至 10 月 1 日，美国农作物补贴计划下，已登记参与的小麦种植面积为 4616.8 万英亩，上月公布数据为 4616.4 万英亩，该数据包含 2026 年种植失败的耕地面积。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3522708",
     "datetime": "2026-10-09T17:00:03+00:00",
-    "views": "63",
+    "views": "72",
     "text": "截至 10 月 1 日，在美国农作物补贴计划（含 2026 种植季绝收面积申报）中，农户申报登记的大豆种植面积为 8597.3 万英亩，上月公布的申报数据为 8595.5 万英亩。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3522707",
     "datetime": "2026-10-09T17:00:02+00:00",
-    "views": "62",
+    "views": "70",
     "text": "美国农业部：截至 10 月 1 日，参加美国农作物补贴项目（含未能种植面积）的农户登记玉米种植面积为 9534.3 万英亩，上月报告为 9530.6 万英亩。",
     "media_only": false,
     "image_url": null,
@@ -63853,32 +63871,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3515584"
-  },
-  {
-    "post": "Financial_Express/3515583",
-    "datetime": "2026-10-07T17:14:28+00:00",
-    "views": "54",
-    "text": "三名熟知情况外交官称，欧盟只有在国际能源署（IEA）明确确认进一步释放石油和柴油储备不会损害欧盟能源安全后，才会进一步释放石油和柴油储备。（Politico）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3515583"
-  },
-  {
-    "post": "Financial_Express/3515582",
-    "datetime": "2026-10-07T17:14:02+00:00",
-    "views": "55",
-    "text": "美国疾控中心主任施瓦茨：疾控中心正与多个联邦机构合作，监测是否有来自西伯利亚的人员入境美国。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3515582"
-  },
-  {
-    "post": "Financial_Express/3515581",
-    "datetime": "2026-10-07T17:13:02+00:00",
-    "views": "57",
-    "text": "据 Politico：三名熟知情况外交官称，欧盟只有在国际能源署（IEA）明确确认进一步释放石油和柴油储备不会损害欧盟能源安全后，才会采取进一步释储行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3515581"
   }
 ]
