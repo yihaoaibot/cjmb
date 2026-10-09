@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3523214",
+    "datetime": "2026-10-09T22:13:02+00:00",
+    "views": "13",
+    "text": "克里姆林宫：通话期间，普京和特朗普都不想先挂断电话。\n😁1",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3523214"
+  },
+  {
     "post": "Financial_Express/3523213",
     "datetime": "2026-10-09T22:12:02+00:00",
-    "views": "13",
+    "views": "17",
     "text": "Anthropic：所描述的部分案例涉及美国联邦、州和地方各级政府机构运营的网站。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3523212",
     "datetime": "2026-10-09T22:11:43+00:00",
-    "views": "15",
+    "views": "19",
     "text": "Anthropic：已就这些案例向白宫进行汇报，并通知了所有相关机构。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3523211",
     "datetime": "2026-10-09T22:11:42+00:00",
-    "views": "16",
+    "views": "20",
     "text": "委内瑞拉代总统罗德里格斯向地震后的巴拿马提供援助。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3523210",
     "datetime": "2026-10-09T22:09:42+00:00",
-    "views": "22",
+    "views": "25",
     "text": "Anthropic：已更新部分联网工具的防护机制。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3523209",
     "datetime": "2026-10-09T22:07:34+00:00",
-    "views": "26",
+    "views": "28",
     "text": "Anthropic：已更新部分联网工具的防护机制。\n针对评估及内部应用中模型出现的非预期行为展开调查。\nClaude 非预期行为相关事件对现实世界的影响微乎其微，严重程度低于 7 月 30 日和 9 月 9 日的网络安全报告。\n非预期模型行为包括 Claude 利用软件中的一个基本漏洞在服务器上运行命令。\n模型的意外行为包括 Claude 在不应提交时在真实网站上提交了敏感表单。\n模型的非预期行为包括 Claude 绕过限制，获取原本需通过 token 或付费才能访问的数据。\n在安全验证完成前，将禁用所有内部评估的实时互联网访问。\n模型的非预期行为包括 Claude 利用网址缩短服务绕过其抓取工具的限制。\n已就这些案例向白宫进行汇报，并通知了所有相关机构。\n所描述的部分案例涉及美国联邦、州和地方各级政府机构运营的网站。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3523204",
     "datetime": "2026-10-09T22:06:02+00:00",
-    "views": "31",
+    "views": "32",
     "text": "Anthropic：非预期模型行为包括 Claude 利用软件中的一个基本漏洞在服务器上运行命令。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3523205",
     "datetime": "2026-10-09T22:06:02+00:00",
-    "views": "30",
+    "views": "31",
     "text": "Anthropic：模型的意外行为包括 Claude 在不应提交时在真实网站上提交了敏感表单。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3523203",
     "datetime": "2026-10-09T22:05:42+00:00",
-    "views": "30",
+    "views": "31",
     "text": "Anthropic：Claude 非预期行为相关事件对现实世界的影响微乎其微，严重程度低于 7 月 30 日和 9 月 9 日的网络安全报告。",
     "media_only": false,
     "image_url": null,
@@ -64825,50 +64834,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3515956"
-  },
-  {
-    "post": "Financial_Express/3515955",
-    "datetime": "2026-10-07T22:14:42+00:00",
-    "views": "65",
-    "text": "据福克斯新闻：杰夫·贝索斯表示，蓝色起源首次从外部投资者筹集了 100 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3515955"
-  },
-  {
-    "post": "Financial_Express/3515954",
-    "datetime": "2026-10-07T22:13:42+00:00",
-    "views": "64",
-    "text": "据福克斯新闻：杰夫·贝索斯表示，蓝色起源未来将上市。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3515954"
-  },
-  {
-    "post": "Financial_Express/3515953",
-    "datetime": "2026-10-07T22:13:23+00:00",
-    "views": "62",
-    "text": "昨日全社会跨区域人员流动量超 2.9 亿人次\n记者从交通运输部了解到，国庆假期最后一天，全社会跨区域人员流动量超 2.9 亿人次。其中铁路客运量预计 2415 万人次，公路人员流动量预计超 2.6 亿人次，水路客运量预计 98 万人次，民航客运量预计 251 万人次。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3515953"
-  },
-  {
-    "post": "Financial_Express/3515951",
-    "datetime": "2026-10-07T22:13:22+00:00",
-    "views": "59",
-    "text": "据福克斯新闻：杰夫·贝索斯表示，其个人已投资 280 亿美元于蓝色起源。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3515951"
-  },
-  {
-    "post": "Financial_Express/3515952",
-    "datetime": "2026-10-07T22:13:22+00:00",
-    "views": "59",
-    "text": "联黎部队在黎以临时边界附近阵地遭袭\n联合国驻黎巴嫩临时部队（联黎部队）7 日发表声明说，位于黎巴嫩和以色列临时边界“蓝线”附近舒巴村的一处阵地当天上午遭数轮轻武器射击，事件未造成人员伤亡。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3515952"
   }
 ]
