@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3523102",
+    "datetime": "2026-10-09T20:44:22+00:00",
+    "views": "6",
+    "text": "俄罗斯副总理诺瓦克：俄罗斯 10 月可出口 30 万吨柴油，11 月可出口 50 万吨，12 月可出口 100 万吨。出口量最终可能达到每月 300 万吨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3523102"
+  },
+  {
+    "post": "Financial_Express/3523101",
+    "datetime": "2026-10-09T20:43:34+00:00",
+    "views": "15",
+    "text": "印度储备银行（RBI）宣布多项措施，以确保外汇市场有序运行。\n禁止授权交易商允许用户重新订立任何在该指引发布后被取消的、涉及印度卢比（INR）的外汇衍生品合约。\n合约到期时的展期仍被允许。\n将为对冲已签约风险敞口而进行外汇衍生品交易、且无需证明基础风险敞口的门槛，从 1 亿美元下调至 500 万美元。\n要求授权交易商就与用户开展的涉及印度卢比的外汇衍生品合约，维持外汇风险准备金（FERR）。\n该准备金适用于用户以卢比购买外币、用于对冲经常账户交易的外汇交易，且单笔交易等值超过 200 万美元。\n准备金金额等于每份衍生品合约名义本金卢比等值金额的 20%。\n准备金须以现金形式每日缴存并维持，直至合约终止。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3523101"
+  },
+  {
     "post": "Financial_Express/3523100",
     "datetime": "2026-10-09T20:42:02+00:00",
-    "views": "7",
+    "views": "18",
     "text": "中国地震台网自动测定：10 月 10 日 04 时 25 分在巴拿马以南海域附近（北纬 7.65 度，西经 81.40 度）发生 6.9 级左右地震，最终结果以正式速报为准。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3523099",
     "datetime": "2026-10-09T20:41:43+00:00",
-    "views": "12",
+    "views": "20",
     "text": "穆迪：（关于加纳）尽管中东冲突带来外部压力，融资成本仍保持较低水平。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3523098",
     "datetime": "2026-10-09T20:41:42+00:00",
-    "views": "12",
+    "views": "20",
     "text": "穆迪：（关于加纳）升级反映了加纳国内融资条件的持续改善。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3523097",
     "datetime": "2026-10-09T20:41:22+00:00",
-    "views": "13",
+    "views": "21",
     "text": "穆迪：（关于加纳）本币国家评级已从 B1 上调至 BA3，外币国家评级已从 B2 上调至 B1。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3523096",
     "datetime": "2026-10-09T20:41:03+00:00",
-    "views": "13",
+    "views": "21",
     "text": "乌克兰外交部长：我们已准备好立即在能源领域实现停火，迫使莫斯科同意亦属可能。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3523095",
     "datetime": "2026-10-09T20:41:02+00:00",
-    "views": "13",
+    "views": "21",
     "text": "乌克兰外交部长：真正能够有效降低油价的唯一办法，就是达成能源领域的停火。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3523094",
     "datetime": "2026-10-09T20:40:42+00:00",
-    "views": "13",
+    "views": "21",
     "text": "乌克兰外交部长：放松（对俄）制裁既无助于实现和平，也无益于全球市场。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3523093",
     "datetime": "2026-10-09T20:40:22+00:00",
-    "views": "16",
+    "views": "23",
     "text": "克里姆林宫：普京与特朗普同意继续保持个人沟通，并加强两国情报机构与部门之间的合作。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3523092",
     "datetime": "2026-10-09T20:39:42+00:00",
-    "views": "19",
+    "views": "24",
     "text": "乌克兰总统泽连斯基：就在我们谈论和平的此时此刻，美国却在给俄罗斯出口柴油的机会。我不知道该怎么说。我认为我们的团队只是被当作挡箭牌。这绝对不公平。这绝对不像伙伴所为。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3523091",
     "datetime": "2026-10-09T20:38:22+00:00",
-    "views": "19",
+    "views": "24",
     "text": "穆迪：将加纳外币高级无担保债务评级从 CAA1 上调至 B3。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3523090",
     "datetime": "2026-10-09T20:38:03+00:00",
-    "views": "18",
+    "views": "21",
     "text": "纳斯达克金龙中国指数收涨 2.69%，报 5753.78 点，本周累计上涨 4.25%，10 月 5-8 日持稳于 5600 点附近、9 日高开、盘初显著扩大涨幅、随后持续高位企稳。\n热门中概股里，小米 ADR 初步收 9.9%，网易有道涨 7.8%，文远知行、世纪互联涨约 6.7%，金山云涨 6%，阿里涨 5.4%，比亚迪涨 4.1%，拼多多涨 3.9%。\nETF 中，中概互联网指数 ETF（KWEB）收涨 3.79%，本周反弹 3.79%；\n中国科技指数 ETF（CQQQ）收涨 1.88%，本周累跌 0.20%连跌三周；\nMSCI 新兴市场 ex 中国 ETF（EMXC）收涨 0.81%，本周跌 2.24%；\n德银嘉实沪深 300 指数 ETF（ASHR）收涨 0.75%，本周累跌 0.4%，此前两周先后跌 2.01%和 1.75%；\nXtrackersHarvest 中证 50（ASHS）收涨 0.55%，本周累跌 1.78%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3523089",
     "datetime": "2026-10-09T20:37:42+00:00",
-    "views": "19",
+    "views": "21",
     "text": "穆迪针对加纳的评级行动：本次评级上调反映加纳国内融资环境持续改善。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3523088",
     "datetime": "2026-10-09T20:37:22+00:00",
-    "views": "19",
+    "views": "21",
     "text": "穆迪对加纳评级调整：本币主权信用上限从 B1 上调至 BA3，外币主权信用上限从 B2 上调至 B1。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3523087",
     "datetime": "2026-10-09T20:36:02+00:00",
-    "views": "17",
+    "views": "19",
     "text": "Ramp 在最新一轮融资中筹集 18.5 亿美元，估值达到 600 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3523086",
     "datetime": "2026-10-09T20:35:57+00:00",
-    "views": "16",
+    "views": "18",
     "text": "穆迪：上调加纳评级至 B3。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3523085",
     "datetime": "2026-10-09T20:34:42+00:00",
-    "views": "12",
+    "views": "14",
     "text": "巴拿马发生多次余震\n继强震之后，巴拿马 9 日又发生多次余震，其中一次震级达到 6 级。目前，当地有关部门正在评估地震造成的损失。 当日中午发生地震后，巴拿马大学地球科学研究所称已记录到多次余震，其中一次震级达到 6 级。地震还造成部分地区建筑物受损，具体损失仍在统计中。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3523084",
     "datetime": "2026-10-09T20:34:02+00:00",
-    "views": "12",
+    "views": "14",
     "text": "穆迪将加纳的信用评级上调至 B3，展望调整为稳定。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3523083",
     "datetime": "2026-10-09T20:33:09+00:00",
-    "views": "11",
+    "views": "14",
     "text": "美光科技董事会批准扩大股票回购计划，将于 12 月起生效。美光在 10-K 文件中表示，董事会“批准将自 12 月 9 日起可酌情回购的普通股最高金额上调至 351.6 亿美元”。美光此前批准了一项 100 亿美元的股票回购计划，其中约 22 亿美元额度尚未使用美光股价周五下跌 1%；今年以来累计上涨约 260%。",
     "media_only": false,
     "image_url": null,
