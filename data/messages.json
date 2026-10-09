@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3523208",
+    "datetime": "2026-10-09T22:06:42+00:00",
+    "views": "6",
+    "text": "Anthropic：模型的非预期行为包括 Claude 利用网址缩短服务绕过其抓取工具的限制。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3523208"
+  },
+  {
+    "post": "Financial_Express/3523207",
+    "datetime": "2026-10-09T22:06:23+00:00",
+    "views": "10",
+    "text": "Anthropic：在安全验证完成前，将禁用所有内部评估的实时互联网访问。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3523207"
+  },
+  {
+    "post": "Financial_Express/3523206",
+    "datetime": "2026-10-09T22:06:22+00:00",
+    "views": "10",
+    "text": "Anthropic：模型的非预期行为包括 Claude 绕过限制，获取原本需通过 token 或付费才能访问的数据。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3523206"
+  },
+  {
+    "post": "Financial_Express/3523204",
+    "datetime": "2026-10-09T22:06:02+00:00",
+    "views": "12",
+    "text": "Anthropic：非预期模型行为包括 Claude 利用软件中的一个基本漏洞在服务器上运行命令。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3523204"
+  },
+  {
+    "post": "Financial_Express/3523205",
+    "datetime": "2026-10-09T22:06:02+00:00",
+    "views": "12",
+    "text": "Anthropic：模型的意外行为包括 Claude 在不应提交时在真实网站上提交了敏感表单。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3523205"
+  },
+  {
+    "post": "Financial_Express/3523203",
+    "datetime": "2026-10-09T22:05:42+00:00",
+    "views": "14",
+    "text": "Anthropic：Claude 非预期行为相关事件对现实世界的影响微乎其微，严重程度低于 7 月 30 日和 9 月 9 日的网络安全报告。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3523203"
+  },
+  {
     "post": "Financial_Express/3523202",
     "datetime": "2026-10-09T22:04:02+00:00",
-    "views": "13",
+    "views": "22",
     "text": "Anthropic：针对评估及内部应用中模型出现的非预期行为展开调查。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3523201",
     "datetime": "2026-10-09T22:02:10+00:00",
-    "views": "16",
+    "views": "23",
     "text": "美国商品期货交易委员会（CFTC）提议，将金融“互换”的定义扩展至涵盖基于体育、政治、文化和天气相关押注的事件合约。该机构通过一项临时最终规则，将赌场式博彩产品和体育博 彩平台上的押注排除在“互换”定义之外。CFTC 将在该措施刊登于《联邦公报》后接受为期 30 天的公众意见。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3523199",
     "datetime": "2026-10-09T22:00:42+00:00",
-    "views": "24",
+    "views": "28",
     "text": "暗盘金价突破 4150 美元/盎司，日内涨幅 0.9%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3523200",
     "datetime": "2026-10-09T22:00:42+00:00",
-    "views": "24",
+    "views": "28",
     "text": "暗盘金价（人民币）突破 900 元/克，日内涨幅 0.9%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3523198",
     "datetime": "2026-10-09T21:59:42+00:00",
-    "views": "29",
+    "views": "33",
     "text": "淡水河谷公司称将对原董事会副主席加斯帕里诺提起刑事诉讼，指控后者泄露企业机密信息。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3523197",
     "datetime": "2026-10-09T21:57:22+00:00",
-    "views": "33",
+    "views": "37",
     "text": "美国国务卿鲁比奥：正在密切关注巴拿马南部地震的报道。应巴拿马政府请求，国务院正迅速调动资源和人员提供援助。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3523196",
     "datetime": "2026-10-09T21:55:42+00:00",
-    "views": "34",
+    "views": "37",
     "text": "巴拿马城机场声明：巴拿马城托库门机场在地震后重新开放。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3523195",
     "datetime": "2026-10-09T21:51:02+00:00",
-    "views": "45",
+    "views": "47",
     "text": "巴拿马科布雷铜矿（Cobre Panamá）：地震后矿区设施和基础设施状况稳定，人员安全。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3523194",
     "datetime": "2026-10-09T21:50:22+00:00",
-    "views": "47",
+    "views": "49",
     "text": "俄副总理：俄将提前解除柴油出口禁令\n金十数据 10 月 10 日讯，俄罗斯副总理诺瓦克表示，俄方将立即开始解除柴油出口限制，比原计划提前。据他介绍，俄罗斯 10 月愿向美国及所有伙伴追加供应柴油，10 月为 30 万吨，11 月增至 50 万吨，12 月增至 100 万吨。诺瓦克还指出，俄罗斯市场也将完全得到柴油供应。俄罗斯政府此前曾作出决定，将针对柴油、船用燃料和瓦斯油生产商的相关产品出口禁令延长至 10 月 31 日。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3523193",
     "datetime": "2026-10-09T21:50:02+00:00",
-    "views": "49",
+    "views": "51",
     "text": "巴拿马铜矿（Cobre Panama）：地震后生产设施与基础设施状况稳定。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3523191",
     "datetime": "2026-10-09T21:49:22+00:00",
-    "views": "49",
+    "views": "50",
     "text": "据华尔街日报：预测市场平台 Kalshi 已就其平台上涉及特朗普总统新任白宫新闻秘书人选的一系列可疑交易展开调查。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3523192",
     "datetime": "2026-10-09T21:49:22+00:00",
-    "views": "50",
+    "views": "51",
     "text": "预测平台 Kalshi 调查有关特朗普新闻秘书人选的押注。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3523190",
     "datetime": "2026-10-09T21:48:42+00:00",
-    "views": "47",
+    "views": "48",
     "text": "俄副总理：俄将提前解除柴油出口禁令\n俄罗斯副总理诺瓦克表示，俄方将立即开始解除柴油出口限制，比原计划提前。据他介绍，俄罗斯 10 月愿向美国及所有伙伴追加供应柴油，10 月为 30 万吨，11 月增至 50 万吨，12 月增至 100 万吨。诺瓦克还指出，俄罗斯市场也将完全得到柴油供应。俄罗斯政府此前曾作出决定，将针对柴油、船用燃料和瓦斯油生产商的相关产品出口禁令延长至 10 月 31 日。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3523189",
     "datetime": "2026-10-09T21:47:42+00:00",
-    "views": "44",
+    "views": "45",
     "text": "供需关系持续改善 有机硅行业景气修复\n10 月 9 日，A 股有机硅概念板块继续走强，东岳硅材、晨光新材、新亚强涨停，硅宝科技、合盛硅业等多股跟涨。业内人士分析称，行业供需关系改善、产品价格回升及上市公司盈利修复预期，共同推动有机硅板块走高。",
     "media_only": false,
     "image_url": null,
@@ -64825,14 +64879,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3515945"
-  },
-  {
-    "post": "Financial_Express/3515944",
-    "datetime": "2026-10-07T22:05:02+00:00",
-    "views": "73",
-    "text": "美军中央司令部驳斥伊朗革命卫队将领海峡关闭言论：霍尔木兹海峡航运正常，每日有 2000 万桶原油过境，美及其地区伙伴掌控海峡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3515944"
   }
 ]
