@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3523209",
+    "datetime": "2026-10-09T22:07:34+00:00",
+    "views": "10",
+    "text": "Anthropic：针对评估及内部应用中模型出现的非预期行为展开调查。\nClaude 非预期行为相关事件对现实世界的影响微乎其微，严重程度低于 7 月 30 日和 9 月 9 日的网络安全报告。\n非预期模型行为包括 Claude 利用软件中的一个基本漏洞在服务器上运行命令。\n模型的意外行为包括 Claude 在不应提交时在真实网站上提交了敏感表单。\n模型的非预期行为包括 Claude 绕过限制，获取原本需通过 token 或付费才能访问的数据。\n在安全验证完成前，将禁用所有内部评估的实时互联网访问。\n模型的非预期行为包括 Claude 利用网址缩短服务绕过其抓取工具的限制。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3523209"
+  },
+  {
     "post": "Financial_Express/3523208",
     "datetime": "2026-10-09T22:06:42+00:00",
-    "views": "6",
+    "views": "15",
     "text": "Anthropic：模型的非预期行为包括 Claude 利用网址缩短服务绕过其抓取工具的限制。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3523207",
     "datetime": "2026-10-09T22:06:23+00:00",
-    "views": "10",
+    "views": "19",
     "text": "Anthropic：在安全验证完成前，将禁用所有内部评估的实时互联网访问。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3523206",
     "datetime": "2026-10-09T22:06:22+00:00",
-    "views": "10",
+    "views": "18",
     "text": "Anthropic：模型的非预期行为包括 Claude 绕过限制，获取原本需通过 token 或付费才能访问的数据。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3523204",
     "datetime": "2026-10-09T22:06:02+00:00",
-    "views": "12",
+    "views": "20",
     "text": "Anthropic：非预期模型行为包括 Claude 利用软件中的一个基本漏洞在服务器上运行命令。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3523205",
     "datetime": "2026-10-09T22:06:02+00:00",
-    "views": "12",
+    "views": "19",
     "text": "Anthropic：模型的意外行为包括 Claude 在不应提交时在真实网站上提交了敏感表单。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3523203",
     "datetime": "2026-10-09T22:05:42+00:00",
-    "views": "14",
+    "views": "20",
     "text": "Anthropic：Claude 非预期行为相关事件对现实世界的影响微乎其微，严重程度低于 7 月 30 日和 9 月 9 日的网络安全报告。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3523202",
     "datetime": "2026-10-09T22:04:02+00:00",
-    "views": "22",
+    "views": "25",
     "text": "Anthropic：针对评估及内部应用中模型出现的非预期行为展开调查。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3523201",
     "datetime": "2026-10-09T22:02:10+00:00",
-    "views": "23",
+    "views": "27",
     "text": "美国商品期货交易委员会（CFTC）提议，将金融“互换”的定义扩展至涵盖基于体育、政治、文化和天气相关押注的事件合约。该机构通过一项临时最终规则，将赌场式博彩产品和体育博 彩平台上的押注排除在“互换”定义之外。CFTC 将在该措施刊登于《联邦公报》后接受为期 30 天的公众意见。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3523199",
     "datetime": "2026-10-09T22:00:42+00:00",
-    "views": "28",
+    "views": "30",
     "text": "暗盘金价突破 4150 美元/盎司，日内涨幅 0.9%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3523200",
     "datetime": "2026-10-09T22:00:42+00:00",
-    "views": "28",
+    "views": "31",
     "text": "暗盘金价（人民币）突破 900 元/克，日内涨幅 0.9%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3523198",
     "datetime": "2026-10-09T21:59:42+00:00",
-    "views": "33",
+    "views": "35",
     "text": "淡水河谷公司称将对原董事会副主席加斯帕里诺提起刑事诉讼，指控后者泄露企业机密信息。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3523197",
     "datetime": "2026-10-09T21:57:22+00:00",
-    "views": "37",
+    "views": "39",
     "text": "美国国务卿鲁比奥：正在密切关注巴拿马南部地震的报道。应巴拿马政府请求，国务院正迅速调动资源和人员提供援助。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3523196",
     "datetime": "2026-10-09T21:55:42+00:00",
-    "views": "37",
+    "views": "39",
     "text": "巴拿马城机场声明：巴拿马城托库门机场在地震后重新开放。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3523193",
     "datetime": "2026-10-09T21:50:02+00:00",
-    "views": "51",
+    "views": "52",
     "text": "巴拿马铜矿（Cobre Panama）：地震后生产设施与基础设施状况稳定。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3523191",
     "datetime": "2026-10-09T21:49:22+00:00",
-    "views": "50",
+    "views": "51",
     "text": "据华尔街日报：预测市场平台 Kalshi 已就其平台上涉及特朗普总统新任白宫新闻秘书人选的一系列可疑交易展开调查。",
     "media_only": false,
     "image_url": null,
@@ -64870,14 +64879,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3515946"
-  },
-  {
-    "post": "Financial_Express/3515945",
-    "datetime": "2026-10-07T22:07:42+00:00",
-    "views": "67",
-    "text": "美联储 10 月维持利率不变的概率为 80.6%\n金十数据 10 月 8 日讯，据 CME“美联储观察”：美联储到 10 月维持利率不变的概率为 80.6%，累计加息 25 个基点的概率为 19.4%。美联储到 12 月维持利率不变的概率为 21.7%，累计加息 25 个基点的概率 64.1%，累计加息 50 个基点的概率为 14.2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3515945"
   }
 ]
