@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3523215",
+    "datetime": "2026-10-09T22:16:22+00:00",
+    "views": "10",
+    "text": "巴拿马总统穆利诺在震中附近表示，地震后暂无人员死亡报告。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3523215"
+  },
+  {
     "post": "Financial_Express/3523214",
     "datetime": "2026-10-09T22:13:02+00:00",
-    "views": "13",
+    "views": "21",
     "text": "克里姆林宫：通话期间，普京和特朗普都不想先挂断电话。\n😁1",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3523213",
     "datetime": "2026-10-09T22:12:02+00:00",
-    "views": "17",
+    "views": "22",
     "text": "Anthropic：所描述的部分案例涉及美国联邦、州和地方各级政府机构运营的网站。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3523212",
     "datetime": "2026-10-09T22:11:43+00:00",
-    "views": "19",
+    "views": "24",
     "text": "Anthropic：已就这些案例向白宫进行汇报，并通知了所有相关机构。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3523211",
     "datetime": "2026-10-09T22:11:42+00:00",
-    "views": "20",
+    "views": "25",
     "text": "委内瑞拉代总统罗德里格斯向地震后的巴拿马提供援助。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3523210",
     "datetime": "2026-10-09T22:09:42+00:00",
-    "views": "25",
+    "views": "30",
     "text": "Anthropic：已更新部分联网工具的防护机制。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3523209",
     "datetime": "2026-10-09T22:07:34+00:00",
-    "views": "28",
+    "views": "32",
     "text": "Anthropic：已更新部分联网工具的防护机制。\n针对评估及内部应用中模型出现的非预期行为展开调查。\nClaude 非预期行为相关事件对现实世界的影响微乎其微，严重程度低于 7 月 30 日和 9 月 9 日的网络安全报告。\n非预期模型行为包括 Claude 利用软件中的一个基本漏洞在服务器上运行命令。\n模型的意外行为包括 Claude 在不应提交时在真实网站上提交了敏感表单。\n模型的非预期行为包括 Claude 绕过限制，获取原本需通过 token 或付费才能访问的数据。\n在安全验证完成前，将禁用所有内部评估的实时互联网访问。\n模型的非预期行为包括 Claude 利用网址缩短服务绕过其抓取工具的限制。\n已就这些案例向白宫进行汇报，并通知了所有相关机构。\n所描述的部分案例涉及美国联邦、州和地方各级政府机构运营的网站。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3523208",
     "datetime": "2026-10-09T22:06:42+00:00",
-    "views": "28",
+    "views": "30",
     "text": "Anthropic：模型的非预期行为包括 Claude 利用网址缩短服务绕过其抓取工具的限制。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3523207",
     "datetime": "2026-10-09T22:06:23+00:00",
-    "views": "31",
+    "views": "33",
     "text": "Anthropic：在安全验证完成前，将禁用所有内部评估的实时互联网访问。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3523206",
     "datetime": "2026-10-09T22:06:22+00:00",
-    "views": "30",
+    "views": "32",
     "text": "Anthropic：模型的非预期行为包括 Claude 绕过限制，获取原本需通过 token 或付费才能访问的数据。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3523204",
     "datetime": "2026-10-09T22:06:02+00:00",
-    "views": "32",
+    "views": "34",
     "text": "Anthropic：非预期模型行为包括 Claude 利用软件中的一个基本漏洞在服务器上运行命令。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3523205",
     "datetime": "2026-10-09T22:06:02+00:00",
-    "views": "31",
+    "views": "33",
     "text": "Anthropic：模型的意外行为包括 Claude 在不应提交时在真实网站上提交了敏感表单。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3523203",
     "datetime": "2026-10-09T22:05:42+00:00",
-    "views": "31",
+    "views": "33",
     "text": "Anthropic：Claude 非预期行为相关事件对现实世界的影响微乎其微，严重程度低于 7 月 30 日和 9 月 9 日的网络安全报告。",
     "media_only": false,
     "image_url": null,
