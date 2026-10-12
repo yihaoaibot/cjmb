@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3527805",
+    "datetime": "2026-10-12T16:08:53+00:00",
+    "views": "1",
+    "text": "谷歌云宣布：推出预览版 Looker 数据应用，这是具备原生治理与安全能力的 AI 生成式应用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527805"
+  },
+  {
+    "post": "Financial_Express/3527804",
+    "datetime": "2026-10-12T16:08:22+00:00",
+    "views": "4",
+    "text": "谷歌云：宣布推出预览版 Looker 数据应用，这是具备原生治理与安全能力的 AI 生成式应用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527804"
+  },
+  {
+    "post": "Financial_Express/3527803",
+    "datetime": "2026-10-12T16:08:03+00:00",
+    "views": "9",
+    "text": "乌克兰总统泽连斯基：这是谈判小组在美国会谈后，并结合与美国总统团队日常沟通形成的报告。乌克兰愿意拿出切实方案与缓和局势举措，推动冲突走向终结。乌克兰支持能源停火。我方立场十分明确：如美国总统所宣布，乌克兰愿意承诺落实能源停火，但俄罗斯必须采取相应行动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527803"
+  },
+  {
+    "post": "Financial_Express/3527802",
+    "datetime": "2026-10-12T16:08:02+00:00",
+    "views": "9",
+    "text": "谷歌云：推出预览版 Looker 数据应用，支持通过 AI 生成应用，并内置治理与安全功能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527802"
+  },
+  {
+    "post": "Financial_Express/3527801",
+    "datetime": "2026-10-12T16:07:50+00:00",
+    "views": "11",
+    "text": "再生元制药将针对 FOP 儿童群体启动 pasatru 第三阶段临床试验。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527801"
+  },
+  {
     "post": "Financial_Express/3527800",
     "datetime": "2026-10-12T16:06:42+00:00",
-    "views": "3",
+    "views": "45",
     "text": "欧盟外交与安全政策高级代表卡拉斯：国际航行必须对所有人开放，而不是只对能支付的人开放。今天，60 个国家加入我们的“零费用、零通行费”全球倡议，承诺反对在国际航运航线上征收通行费或其他费用。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3527799",
     "datetime": "2026-10-12T16:05:23+00:00",
-    "views": "15",
+    "views": "51",
     "text": "路威酩轩：除日本外的亚洲地区下降了 5%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3527798",
     "datetime": "2026-10-12T16:04:48+00:00",
-    "views": "46",
+    "views": "52",
     "text": "英国外交大臣米利班德表示，英国已就伊朗持续开展的所谓“恶意活动”正式召见伊朗驻英国大使阿里·穆萨维，提出严正交涉。英国政府当天还宣布，对两名伊朗籍人士实施制裁，包括立即冻结资产、禁止入境英国及取消担任公司董事的资格。两人分别为伊朗伊斯兰革命卫队反间谍行动负责人鲁霍拉·巴兹甘迪，以及涉嫌协助津达什蒂犯罪网络的沙赫拉姆·阿里·礼萨·塔马尔扎德·贾基。英方称，该犯罪网络涉及多起针对伊朗异见人士的阴谋。（央视）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3527797",
     "datetime": "2026-10-12T16:04:42+00:00",
-    "views": "78",
+    "views": "84",
     "text": "路威酩轩：第三季度美国地区营收增长 5%，不含日本的亚洲地区营收下降 5%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3527796",
     "datetime": "2026-10-12T16:04:22+00:00",
-    "views": "81",
+    "views": "86",
     "text": "路威酩轩：美国第三季度收入增长 5%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3527795",
     "datetime": "2026-10-12T16:04:12+00:00",
-    "views": "53",
+    "views": "57",
     "text": "华硕推出 XA P2N-E2，进一步扩展其人工智能（AI）基础设施产品组合。这是一款基于英伟达 NVIDIA MGX 架构的 2U 服务器，搭载 NVIDIA Vera CPU，专为智能体 AI 和强化学习工作负载设计。该产品在 OCP 全球峰会 2026 上首次亮相，面向 AI 应用的执行层，处理代码执行、工具调用、沙箱隔离、数据处理和编排等超出 AI 模型本身的工作负载。XA P2N-E2 最多支持两颗双槽位 NVIDIA RTX PRO 6000 Blackwell Server Edition GPU，在紧凑的 2U 平台中将高性能 CPU 计算与灵活的 GPU 加速相结合。其高单线程 CPU 性能和高带宽、高能效内存设计，旨在确保 AI 智能体在繁重的执行和评估任务中保持响应能力。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3527794",
     "datetime": "2026-10-12T16:04:03+00:00",
-    "views": "54",
+    "views": "57",
     "text": "英国召见伊朗驻英大使并制裁两名伊朗籍人士\n英国外交大臣米利班德表示，英国已就伊朗持续开展的所谓“恶意活动”正式召见伊朗驻英国大使阿里·穆萨维，提出严正交涉。英国政府当天还宣布，对两名伊朗籍人士实施制裁，包括立即冻结资产、禁止入境英国及取消担任公司董事的资格。两人分别为伊朗伊斯兰革命卫队反间谍行动负责人鲁霍拉·巴兹甘迪，以及涉嫌协助津达什蒂犯罪网络的沙赫拉姆·阿里·礼萨·塔马尔扎德·贾基。英方称，该犯罪网络涉及多起针对伊朗异见人士的阴谋。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3527793",
     "datetime": "2026-10-12T16:00:42+00:00",
-    "views": "59",
+    "views": "60",
     "text": "南非方面表示铁矿石码头将在 10 月 16 日前恢复运营。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3527792",
     "datetime": "2026-10-12T16:00:15+00:00",
-    "views": "62",
+    "views": "64",
     "text": "周一（10 月 12 日）欧市尾盘，英国 10 年期国债收益率跌 0.5 个基点，报 5.439%，北京时间 15:39 跌至 5.399 刷新日低、随后持续收复失地。\n两年期英债收益率涨 1.8 个基点，报 4.909%，15:39 跌至 4.853%刷新日低，随后震荡上行。\n30 年期英债收益率跌 2.3 个基点，50 年期英债收益率跌 2.3 个基点。\n2/10 年期英债收益率利差跌 2.247 个基点，报+52.881 个基点，整体持续下挫。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3527791",
     "datetime": "2026-10-12T15:57:22+00:00",
-    "views": "100",
+    "views": "101",
     "text": "英国海事贸易组织收到霍尔木兹海峡事件的延迟报告：一艘出港油轮于 10 月 11 日遭投射物击中。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3527790",
     "datetime": "2026-10-12T15:53:42+00:00",
-    "views": "136",
+    "views": "137",
     "text": "乌克兰总统泽连斯基：我们正在筹备与欧盟的重要谈判。我们已详细磋商核心立场以及关键资金需求。我们同欧盟委员会及欧洲各国领导人的合作始终具有高度建设性。乌克兰对各方支持心怀感激，我们正全力为本国争取必要资金，保障今明两年国家存续抗压能力。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3527789",
     "datetime": "2026-10-12T15:53:05+00:00",
-    "views": "138",
+    "views": "139",
     "text": "Getty：部分票据持有人将赎回 2.7 亿美元优先无担保票据。\n公司将继续正常运营，并获得 1.43 亿美元融资支持。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3527788",
     "datetime": "2026-10-12T15:50:02+00:00",
-    "views": "145",
+    "views": "147",
     "text": "路威酩轩：美国、欧洲和日本市场第三季度实现良好增长。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3527787",
     "datetime": "2026-10-12T15:49:24+00:00",
-    "views": "144",
+    "views": "146",
     "text": "ICE 原糖期货日内涨幅达 2.5%，报 20.76 美分。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3527786",
     "datetime": "2026-10-12T15:49:02+00:00",
-    "views": "145",
+    "views": "146",
     "text": "伊朗革命卫队说在霍尔木兹海峡打击了一艘违规油轮\n金十数据 10 月 12 日讯，伊朗伊斯兰革命卫队海军 12 日发表声明说，当天早些时候在霍尔木兹海峡打击了一艘违规的大型油轮。伊朗伊斯兰革命卫队旗下媒体赛帕新闻网发表该声明说，涉事油轮在无视伊朗海军警告的情况下关闭了导航系统并试图驶出霍尔木兹海峡。这是过去两天内第三艘在试图驶离霍尔木兹海峡时被打击的违规大型油轮。革命卫队海军在声明中警告，任何商船或油轮在霍尔木兹海峡及波斯湾与美军合作，都将招致其部队的果断行动。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -33640,59 +33685,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3524041"
-  },
-  {
-    "post": "Financial_Express/3524040",
-    "datetime": "2026-10-10T16:08:42+00:00",
-    "views": "156",
-    "text": "美国驻利雅得大使馆：敦促所有美国公民避免前往哈立德国王国际机场及其周边地区。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3524040"
-  },
-  {
-    "post": "Financial_Express/3524039",
-    "datetime": "2026-10-10T16:08:03+00:00",
-    "views": "152",
-    "text": "美国驻利雅得大使馆：我们已获悉 10 月 10 日利雅得哈立德国王国际机场遇袭一事。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3524039"
-  },
-  {
-    "post": "Financial_Express/3524038",
-    "datetime": "2026-10-10T16:08:02+00:00",
-    "views": "144",
-    "text": "美国方面表示已获悉沙特哈立德国王国际机场遭受袭击事件。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3524038"
-  },
-  {
-    "post": "Financial_Express/3524037",
-    "datetime": "2026-10-10T16:07:43+00:00",
-    "views": "142",
-    "text": "美国驻利雅得大使馆：强烈建议所有美国公民避开哈立德国王国际机场及周边区域。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3524037"
-  },
-  {
-    "post": "Financial_Express/3524036",
-    "datetime": "2026-10-10T16:07:42+00:00",
-    "views": "136",
-    "text": "美国方面表示已获悉哈立德国王国际机场遭受袭击事件。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3524036"
-  },
-  {
-    "post": "Financial_Express/3524035",
-    "datetime": "2026-10-10T16:07:02+00:00",
-    "views": "131",
-    "text": "据安全提醒通知，英国驻利雅得大使馆表示，鉴于发生“严重事件”，建议英国公民避免前往沙特阿拉伯哈立德国王国际机场。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3524035"
   }
 ]
