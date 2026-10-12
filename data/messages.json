@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3527553",
+    "datetime": "2026-10-12T13:33:03+00:00",
+    "views": "1",
+    "text": "First Tracks Biotherapeutics 股价触及近三周高点，在该公司乳糜泻药物试验传出阳性结果后，股价最新上涨 21.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527553"
+  },
+  {
+    "post": "Financial_Express/3527551",
+    "datetime": "2026-10-12T13:33:02+00:00",
+    "views": "2",
+    "text": "Biogen 股价上涨 4.2%，此前摩根大通将其评级从中性上调至增持。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527551"
+  },
+  {
+    "post": "Financial_Express/3527552",
+    "datetime": "2026-10-12T13:33:02+00:00",
+    "views": "1",
+    "text": "乌克兰央行表示，乌克兰 9 月同比通胀率为 10%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527552"
+  },
+  {
+    "post": "Financial_Express/3527550",
+    "datetime": "2026-10-12T13:32:59+00:00",
+    "views": "3",
+    "text": "费城半导体指数跌幅扩大至逾 2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527550"
+  },
+  {
+    "post": "Financial_Express/3527549",
+    "datetime": "2026-10-12T13:32:42+00:00",
+    "views": "6",
+    "text": "费城半导体指数日内跌 2%\n费城半导体指数日内跌 2.03%，现报 12317.18 点。英伟达跌 0.35%，博通跌 0.66%，美光跌 3.95%，英特尔跌 2.40%，AMD 跌 2.23%，高通跌 1.08%，台积电跌 0.62%，阿斯麦跌 0.77%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527549"
+  },
+  {
+    "post": "Financial_Express/3527548",
+    "datetime": "2026-10-12T13:32:04+00:00",
+    "views": "10",
+    "text": "IREN 股价上涨 2.1%，此前报道称，IREN 与 Anthropic 已达成多年期云服务协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527548"
+  },
+  {
+    "post": "Financial_Express/3527546",
+    "datetime": "2026-10-12T13:32:03+00:00",
+    "views": "10",
+    "text": "美国银行上调评级后，SALESFORCE 股价开盘上涨 3.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527546"
+  },
+  {
+    "post": "Financial_Express/3527547",
+    "datetime": "2026-10-12T13:32:03+00:00",
+    "views": "10",
+    "text": "星巴克股价开盘上涨 1%，CHIPOTLE 股价下跌 2.9%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527547"
+  },
+  {
+    "post": "Financial_Express/3527545",
+    "datetime": "2026-10-12T13:31:41+00:00",
+    "views": "12",
+    "text": "道指涨 0.2%，标普 500 指数涨 0.1%，纳指跌 0.1%。费城半导体指数跌 1.9%，存储芯片股普跌，SK 海力士跌约 3%，美光科技跌约 4%，西部数据跌约 2%，闪迪跌约 4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527545"
+  },
+  {
+    "post": "Financial_Express/3527544",
+    "datetime": "2026-10-12T13:31:08+00:00",
+    "views": "46",
+    "text": "IonQ 股价下跌 3.4%，此前公司同意以最高 13 亿美元收购 Elisity。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527544"
+  },
+  {
     "post": "Financial_Express/3527541",
     "datetime": "2026-10-12T13:31:04+00:00",
-    "views": "3",
+    "views": "45",
     "text": "美股存储板块盘初普跌\n美光跌 4.00%，闪迪跌 3.73%，SK 海力士跌 3.25%，西部数据跌 2.33%，希捷科技跌 2.52%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3527542",
     "datetime": "2026-10-12T13:31:04+00:00",
-    "views": "3",
+    "views": "45",
     "text": "美股生物科技板块盘初普跌\n礼来跌 0.12%，强生跌 0.10%，Moderna 跌 0.89%，诺和诺德涨 0.13%，艾伯维涨 0.43%，默沙东跌 0.32%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3527543",
     "datetime": "2026-10-12T13:31:04+00:00",
-    "views": "3",
+    "views": "46",
     "text": "美股光通信股开盘普跌\nLumentum 跌 2.61%，康宁跌 1.55%，Coherent 跌 3.82%，应用光电跌 4.99%，Ciena 跌 2.59%，博通跌 0.80%，迈威尔科技跌 0.88%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3527540",
     "datetime": "2026-10-12T13:31:03+00:00",
-    "views": "3",
+    "views": "45",
     "text": "美股开盘：三大股指涨跌不一\n道指涨 0.17%，标普 500 指数涨 0.04%，纳指跌 0.05%。渤健涨 4.71%，现在服务涨 3.49%，美敦力涨 3.20%，赛富时涨 3.16%，雅保化工跌 4.06%，美光跌 3.96%。“七姐妹”方面：Meta Platforms 涨 2.54%，苹果涨 1.32%，微软涨 0.57%，亚马逊涨 0.22%，谷歌涨 0.17%，英伟达跌 0.38%，特斯拉跌 0.63%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3527539",
     "datetime": "2026-10-12T13:31:02+00:00",
-    "views": "3",
+    "views": "45",
     "text": "纳斯达克中国金龙指数跌超 0.5%，虎虎科技跌 17.01%，DCX 跌 8.70%，蔚来跌 3.35%，禾赛科技跌 3.37%，哔哩哔哩跌 3.18%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3527537",
     "datetime": "2026-10-12T13:30:43+00:00",
-    "views": "7",
+    "views": "44",
     "text": "造谣“月之暗面高管被带走” 警方披露对相关人员采取刑事强制措施\n10 月 12 日，北京警方通过其官方微信公众号披露多起网络谣言处置情况。据披露，郭某（男，50 岁）、常某（男，51 岁）为博取流量、获得行业关注，编造“某科技公司多人被带走”的谣言信息，在网络平台发布，造成传播扩散，误导大量网民关注和讨论，严重扰乱社会秩序，造成不良影响。目前，郭某、常某已被属地公安机关依法采取刑事强制措施。经记者确认，该案例系此前关于月之暗面 KIMI 的谣言。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3527538",
     "datetime": "2026-10-12T13:30:43+00:00",
-    "views": "7",
+    "views": "45",
     "text": "HCL 科技高管：随着更多知识产权融入 IT 服务的运营模式，营收与员工数量将逐步脱钩。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3527536",
     "datetime": "2026-10-12T13:30:42+00:00",
-    "views": "7",
+    "views": "42",
     "text": "美股开盘，道指涨 0.18%，标普 500 指数涨 0.05%，纳指跌 0.04%。芯片股走弱，SK 海力士(SKHY.O)跌 3.2%，美光科技(MU.O)跌 3.16%，闪迪(SNDK.O)跌 3.28%，西部数据(WDC.O)跌超 2%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3527535",
     "datetime": "2026-10-12T13:30:03+00:00",
-    "views": "12",
+    "views": "44",
     "text": "莱斯特城老板本周寻求收购报价。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3527534",
     "datetime": "2026-10-12T13:29:42+00:00",
-    "views": "42",
+    "views": "44",
     "text": "意大利 8 月广告支出同比增长 1%。",
     "media_only": false,
     "image_url": null,
@@ -31930,14 +32020,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3523974"
-  },
-  {
-    "post": "Financial_Express/3523973",
-    "datetime": "2026-10-10T13:32:42+00:00",
-    "views": "181",
-    "text": "美国宾州发生枪击事件致 9 人死亡\n美国宾夕法尼亚州伊利市 9 日晚发生大规模枪击事件，造成 9 人死亡，其中包括多名儿童。目前，枪手和死者身份尚未公布，枪击动机及事发原因等具体情况仍在调查中。（央视新闻）\n🤯1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3523973"
   }
 ]
