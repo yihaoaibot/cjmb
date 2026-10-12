@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3527474",
+    "datetime": "2026-10-12T13:02:44+00:00",
+    "views": "2",
+    "text": "夜盘期货开盘，低硫燃料油、原油涨超 4%，燃料油涨近 4%，聚丙烯涨近 2%，纯苯、塑料、液化石油气、丙烯涨超 1%；甲醇跌超 3%，20 号胶跌超 1%，PVC、纸浆、纯碱、沪金跌近 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527474"
+  },
+  {
+    "post": "Financial_Express/3527475",
+    "datetime": "2026-10-12T13:02:44+00:00",
+    "views": "2",
+    "text": "微软准备在数据中心部署数吉瓦的芯片。（彭博）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527475"
+  },
+  {
+    "post": "Financial_Express/3527473",
+    "datetime": "2026-10-12T13:02:42+00:00",
+    "views": "2",
+    "text": "微软计划 2027 年将 Azure Maia 扩展至多吉瓦规模。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527473"
+  },
+  {
+    "post": "Financial_Express/3527472",
+    "datetime": "2026-10-12T13:02:23+00:00",
+    "views": "5",
+    "text": "低硫燃料油连续主力合约日内涨 7%，现报 6005.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527472"
+  },
+  {
+    "post": "Financial_Express/3527471",
+    "datetime": "2026-10-12T13:02:22+00:00",
+    "views": "5",
+    "text": "苏丹成立委员会调查北部矿区遇袭事件\n当地时间 10 月 12 日，苏丹主权委员会发布声明称，苏丹主权委员会主席兼武装部队总司令布尔汉已下令成立一个调查委员会，对 10 日发生的北部金矿矿区遇袭事件展开调查。声明表示，该委员会由司法、检察机关和安全部门的代表组成，负责调查事件经过，并提交调查报告。声明强调，保护苏丹公民的生命、安全与尊严是国家的基本责任。声明还指出，自袭击事件发生以来，苏丹和埃及两国领导层一直保持沟通，旨在保障人员安全、维护两国人民之间的友好关系、查明事件真相。（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527471"
+  },
+  {
+    "post": "Financial_Express/3527470",
+    "datetime": "2026-10-12T13:02:03+00:00",
+    "views": "5",
+    "text": "国际货币基金组织结束与马尔代夫就 2026 年第四条款进行的磋商。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527470"
+  },
+  {
+    "post": "Financial_Express/3527469",
+    "datetime": "2026-10-12T13:01:23+00:00",
+    "views": "10",
+    "text": "AMD 推出机架级 Helion 代理式 AI 机架。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527469"
+  },
+  {
+    "post": "Financial_Express/3527468",
+    "datetime": "2026-10-12T13:01:02+00:00",
+    "views": "41",
+    "text": "超微半导体(AMD)：Helion Agentic 机架配置计划于 2026 年 11 月上市。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3527468"
+  },
+  {
     "post": "Financial_Express/3527467",
     "datetime": "2026-10-12T13:00:44+00:00",
-    "views": "2",
+    "views": "42",
     "text": "低硫燃料油连续主力合约日内涨 6%，现报 5948.00 元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3527465",
     "datetime": "2026-10-12T13:00:43+00:00",
-    "views": "3",
+    "views": "43",
     "text": "微软(MSFT.O)准备在数据中心部署数吉瓦的芯片。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3527466",
     "datetime": "2026-10-12T13:00:43+00:00",
-    "views": "3",
+    "views": "43",
     "text": "微软准备在数据中心部署数千兆瓦计的自研芯片。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3527463",
     "datetime": "2026-10-12T13:00:29+00:00",
-    "views": "4",
+    "views": "44",
     "text": "低硫燃料油连续主力合约日内涨 5%，现报 5892.00 元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3527464",
     "datetime": "2026-10-12T13:00:29+00:00",
-    "views": "4",
+    "views": "44",
     "text": "谷歌推出售价 180 美元的 Fitbit Edge 追踪器，持续推进健康领域布局。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3527461",
     "datetime": "2026-10-12T13:00:28+00:00",
-    "views": "4",
+    "views": "45",
     "text": "燃料油连续主力合约日内涨 3%，现报 4639.00 元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3527462",
     "datetime": "2026-10-12T13:00:28+00:00",
-    "views": "4",
+    "views": "44",
     "text": "燃料油连续主力合约日内涨 4%，现报 4655.00 元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3527460",
     "datetime": "2026-10-12T13:00:25+00:00",
-    "views": "4",
+    "views": "45",
     "text": "低硫燃料油连续主力合约日内涨 4%，现报 5871.00 元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3527459",
     "datetime": "2026-10-12T13:00:24+00:00",
-    "views": "4",
+    "views": "45",
     "text": "乙二醇连续主力合约日内涨 1%，现报 5292.00 元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3527457",
     "datetime": "2026-10-12T13:00:23+00:00",
-    "views": "4",
+    "views": "43",
     "text": "国内期货夜盘开盘\n碳酸锂连续跌 11.79%，低硫燃料油连续涨 4.69%，上海原油连续涨 4.12%，燃料油连续涨 3.60%，生猪连续跌 3.24%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3527458",
     "datetime": "2026-10-12T13:00:23+00:00",
-    "views": "4",
+    "views": "45",
     "text": "PTA 连续主力合约日内涨 1%，现报 6648.00 元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3527456",
     "datetime": "2026-10-12T13:00:22+00:00",
-    "views": "4",
+    "views": "44",
     "text": "香港中旅：国庆假期旗下景区接待人数约 73 万人次，实现销售收入 1 亿元\n今年国庆假期集团旅游景区业务接待人数合计约 73 万人次，较去年 10 月 1 日至 8 日的国庆及中秋假期增长约 6%；实现销售收入约 1 亿元，较去年国庆中秋假期增长约 13%；日均接待人数、销售收入较去年国庆中秋假期分别增长约 21%及 29%。其中广西德天景区门票连续 6 天售罄，日均客流量激增约 87%，宁夏沙坡头景区日均客流量同比增长约 32%，青海黑独山景区接待游客近 7 万人。",
     "media_only": false,
     "image_url": null,
@@ -31354,23 +31426,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3523962"
-  },
-  {
-    "post": "Financial_Express/3523961",
-    "datetime": "2026-10-10T13:02:42+00:00",
-    "views": "171",
-    "text": "2%年化利率大额存单重出江湖\n近日，大额存单市场再添新变化，年化利率为 2%的大额存单重出江湖。记者注意到，锡商银行、邯郸银行等多家银行于日前相继发布上新公告称，推出 3 年期个人大额存单，年化利率达 2%，20 万元起存。这意味着，市场经过一段沉寂后，再次出现“2 字头”利率的存款产品。自 8 月以来，湖北、广东等多地中小银行还纷纷逆势上调存款利率。甚至更早前，五年期存款也被多家银行重新上架。在业内看来，部分银行此次重新上架大额存单等行为的背后，并非简单的回归“高息”揽储竞争，而是在面对定期存款集中到期、资金再配置需求上升等挑战时，揽储行为的应变之举。（中国基金报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3523961"
-  },
-  {
-    "post": "Financial_Express/3523960",
-    "datetime": "2026-10-10T13:01:59+00:00",
-    "views": "169",
-    "text": "近日，大额存单市场再添新变化，年化利率为 2%的大额存单重出江湖。记者注意到，锡商银行、邯郸银行等多家银行于日前相继发布上新公告称，推出 3 年期个人大额存单，年化利率达 2%，20 万元起存。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3523960"
   }
 ]
