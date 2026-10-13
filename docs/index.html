@@ -1,9 +1,13 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-10-13T05:26:59.604505+00:00","clsvipUpdated":"2026-10-13T05:27:09.414729+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">10月13日</h2><div class="feed"><article class="item" data-search="a 股有机硅板块再度拉升，东岳硅材涨超 10%，硅宝科技、润禾材料、合盛硅业、锦华新材、集泰股份等跟涨。"><div class="time">13:26</div><div class="content"><div class="text" data-full="A 股有机硅板块再度拉升，东岳硅材涨超 10%，硅宝科技、润禾材料、合盛硅业、锦华新材、集泰股份等跟涨。" data-short="A 股有机硅板块再度拉升，东岳硅材涨超 10%，硅宝科技、润禾材料、合盛硅业、锦华新材、集泰股份等跟涨。">A 股有机硅板块再度拉升，东岳硅材涨超 10%，硅宝科技、润禾材料、合盛硅业、锦华新材、集泰股份等跟涨。</div></div></article><article class="item" data-search="有机硅板块再度拉升，东岳硅材涨超 10%
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-10-13T05:28:58.809665+00:00","clsvipUpdated":"2026-10-13T05:29:13.363335+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">10月13日</h2><div class="feed"><article class="item" data-search="科创 50 指数午后涨超 1%，早盘一度跌超 3%。中科飞测、拓荆科技、源杰科技涨幅居前。"><div class="time">13:28</div><div class="content"><div class="text" data-full="科创 50 指数午后涨超 1%，早盘一度跌超 3%。中科飞测、拓荆科技、源杰科技涨幅居前。" data-short="科创 50 指数午后涨超 1%，早盘一度跌超 3%。中科飞测、拓荆科技、源杰科技涨幅居前。">科创 50 指数午后涨超 1%，早盘一度跌超 3%。中科飞测、拓荆科技、源杰科技涨幅居前。</div></div></article><article class="item" data-search="游戏传媒板块再度拉升，天娱数科直线涨停
+游戏传媒板块再度拉升，天娱数科直线涨停，实丰文化此前封板，掌趣科技、方正科技、名臣健康、上海电影、华如科技等跟涨。"><div class="time">13:28</div><div class="content"><div class="text" data-full="游戏传媒板块再度拉升，天娱数科直线涨停
+游戏传媒板块再度拉升，天娱数科直线涨停，实丰文化此前封板，掌趣科技、方正科技、名臣健康、上海电影、华如科技等跟涨。" data-short="游戏传媒板块再度拉升，天娱数科直线涨停
+游戏传媒板块再度拉升，天娱数科直线涨停，实丰文化此前封板，掌趣科技、方正科技、名臣健康、上海电影、华如科技等跟涨。">游戏传媒板块再度拉升，天娱数科直线涨停
+游戏传媒板块再度拉升，天娱数科直线涨停，实丰文化此前封板，掌趣科技、方正科技、名臣健康、上海电影、华如科技等跟涨。</div></div></article><article class="item" data-search="村田社长称，人工智能投资势头依然强劲。"><div class="time">13:28</div><div class="content"><div class="text" data-full="村田社长称，人工智能投资势头依然强劲。" data-short="村田社长称，人工智能投资势头依然强劲。">村田社长称，人工智能投资势头依然强劲。</div></div></article><article class="item" data-search="村田制作所社长称，mlcc 订单出货比接近 1.5。"><div class="time">13:28</div><div class="content"><div class="text" data-full="村田制作所社长称，MLCC 订单出货比接近 1.5。" data-short="村田制作所社长称，MLCC 订单出货比接近 1.5。">村田制作所社长称，MLCC 订单出货比接近 1.5。</div></div></article><article class="item" data-search="科创 50 日内涨幅达 1.00%，成分股中，源杰科技涨 5.74%，拓荆科技涨 5.59%，中科飞测涨 5.59%，生益电子涨 4.97%。"><div class="time">13:27</div><div class="content"><div class="text" data-full="科创 50 日内涨幅达 1.00%，成分股中，源杰科技涨 5.74%，拓荆科技涨 5.59%，中科飞测涨 5.59%，生益电子涨 4.97%。" data-short="科创 50 日内涨幅达 1.00%，成分股中，源杰科技涨 5.74%，拓荆科技涨 5.59%，中科飞测涨 5.59%，生益电子涨 4.97%。">科创 50 日内涨幅达 1.00%，成分股中，源杰科技涨 5.74%，拓荆科技涨 5.59%，中科飞测涨 5.59%，生益电子涨 4.97%。</div></div></article><article class="item" data-search="科创 50 指数涨超 1%，此前盘中跌超 3%，半导体、光伏设备板块涨幅居前；成分股中，中科飞测涨超 5%。"><div class="time">13:27</div><div class="content"><div class="text" data-full="科创 50 指数涨超 1%，此前盘中跌超 3%，半导体、光伏设备板块涨幅居前；成分股中，中科飞测涨超 5%。" data-short="科创 50 指数涨超 1%，此前盘中跌超 3%，半导体、光伏设备板块涨幅居前；成分股中，中科飞测涨超 5%。">科创 50 指数涨超 1%，此前盘中跌超 3%，半导体、光伏设备板块涨幅居前；成分股中，中科飞测涨超 5%。</div></div></article><article class="item" data-search="a 股有机硅板块再度拉升，东岳硅材涨超 10%，硅宝科技、润禾材料、合盛硅业、锦华新材、集泰股份等跟涨。"><div class="time">13:26</div><div class="content"><div class="text" data-full="A 股有机硅板块再度拉升，东岳硅材涨超 10%，硅宝科技、润禾材料、合盛硅业、锦华新材、集泰股份等跟涨。" data-short="A 股有机硅板块再度拉升，东岳硅材涨超 10%，硅宝科技、润禾材料、合盛硅业、锦华新材、集泰股份等跟涨。">A 股有机硅板块再度拉升，东岳硅材涨超 10%，硅宝科技、润禾材料、合盛硅业、锦华新材、集泰股份等跟涨。</div></div></article><article class="item" data-search="有机硅板块再度拉升，东岳硅材涨超 10%
 有机硅板块再度拉升，东岳硅材涨超 10%，硅宝科技、润禾材料、合盛硅业、锦华新材、集泰股份等跟涨。"><div class="time">13:26</div><div class="content"><div class="text" data-full="有机硅板块再度拉升，东岳硅材涨超 10%
 有机硅板块再度拉升，东岳硅材涨超 10%，硅宝科技、润禾材料、合盛硅业、锦华新材、集泰股份等跟涨。" data-short="有机硅板块再度拉升，东岳硅材涨超 10%
 有机硅板块再度拉升，东岳硅材涨超 10%，硅宝科技、润禾材料、合盛硅业、锦华新材、集泰股份等跟涨。">有机硅板块再度拉升，东岳硅材涨超 10%
-有机硅板块再度拉升，东岳硅材涨超 10%，硅宝科技、润禾材料、合盛硅业、锦华新材、集泰股份等跟涨。</div></div></article><article class="item" data-search="沙特钢管公司：合同价值约 1.77 亿沙特里亚尔。"><div class="time">13:26</div><div class="content"><div class="text" data-full="沙特钢管公司：合同价值约 1.77 亿沙特里亚尔。" data-short="沙特钢管公司：合同价值约 1.77 亿沙特里亚尔。">沙特钢管公司：合同价值约 1.77 亿沙特里亚尔。</div></div></article><article class="item" data-search="沙特钢管公司宣布与沙特阿美签署合同。"><div class="time">13:26</div><div class="content"><div class="text" data-full="沙特钢管公司宣布与沙特阿美签署合同。" data-short="沙特钢管公司宣布与沙特阿美签署合同。">沙特钢管公司宣布与沙特阿美签署合同。</div></div></article><article class="item" data-search="村田社长：正在考虑追加 mlcc 产能投资。"><div class="time">13:25</div><div class="content"><div class="text" data-full="村田社长：正在考虑追加 MLCC 产能投资。" data-short="村田社长：正在考虑追加 MLCC 产能投资。">村田社长：正在考虑追加 MLCC 产能投资。</div></div></article><article class="item" data-search="a 股游戏传媒板块再度拉升，天娱数科直线涨停，实丰文化此前封板，掌趣科技、方正科技、名臣健康、上海电影、华如科技等个股跟涨。"><div class="time">13:24</div><div class="content"><div class="text" data-full="A 股游戏传媒板块再度拉升，天娱数科直线涨停，实丰文化此前封板，掌趣科技、方正科技、名臣健康、上海电影、华如科技等个股跟涨。" data-short="A 股游戏传媒板块再度拉升，天娱数科直线涨停，实丰文化此前封板，掌趣科技、方正科技、名臣健康、上海电影、华如科技等个股跟涨。">A 股游戏传媒板块再度拉升，天娱数科直线涨停，实丰文化此前封板，掌趣科技、方正科技、名臣健康、上海电影、华如科技等个股跟涨。</div></div></article><article class="item" data-search="交易员称，印度央行在扩大外汇管制后，可能出售了美元以支撑卢比。"><div class="time">13:24</div><div class="content"><div class="text" data-full="交易员称，印度央行在扩大外汇管制后，可能出售了美元以支撑卢比。" data-short="交易员称，印度央行在扩大外汇管制后，可能出售了美元以支撑卢比。">交易员称，印度央行在扩大外汇管制后，可能出售了美元以支撑卢比。</div></div></article><article class="item" data-search="交易员：印度央行可能已抛售美元以支撑卢比汇率，此前央行放宽外汇管制措施。"><div class="time">13:24</div><div class="content"><div class="text" data-full="交易员：印度央行可能已抛售美元以支撑卢比汇率，此前央行放宽外汇管制措施。" data-short="交易员：印度央行可能已抛售美元以支撑卢比汇率，此前央行放宽外汇管制措施。">交易员：印度央行可能已抛售美元以支撑卢比汇率，此前央行放宽外汇管制措施。</div></div></article><article class="item" data-search="保加利亚在最新船舶遇袭事件后将召见俄罗斯大使
+有机硅板块再度拉升，东岳硅材涨超 10%，硅宝科技、润禾材料、合盛硅业、锦华新材、集泰股份等跟涨。</div></div></article><article class="item" data-search="沙特钢管公司：合同价值约 1.77 亿沙特里亚尔。"><div class="time">13:26</div><div class="content"><div class="text" data-full="沙特钢管公司：合同价值约 1.77 亿沙特里亚尔。" data-short="沙特钢管公司：合同价值约 1.77 亿沙特里亚尔。">沙特钢管公司：合同价值约 1.77 亿沙特里亚尔。</div></div></article><article class="item" data-search="沙特钢管公司宣布与沙特阿美签署天然气钢管供应合同。"><div class="time">13:26</div><div class="content"><div class="text" data-full="沙特钢管公司宣布与沙特阿美签署天然气钢管供应合同。" data-short="沙特钢管公司宣布与沙特阿美签署天然气钢管供应合同。">沙特钢管公司宣布与沙特阿美签署天然气钢管供应合同。</div></div></article><article class="item" data-search="村田社长：正在考虑追加 mlcc 产能投资。"><div class="time">13:25</div><div class="content"><div class="text" data-full="村田社长：正在考虑追加 MLCC 产能投资。" data-short="村田社长：正在考虑追加 MLCC 产能投资。">村田社长：正在考虑追加 MLCC 产能投资。</div></div></article><article class="item" data-search="a 股游戏传媒板块再度拉升，天娱数科直线涨停，实丰文化此前封板，掌趣科技、方正科技、名臣健康、上海电影、华如科技等个股跟涨。"><div class="time">13:24</div><div class="content"><div class="text" data-full="A 股游戏传媒板块再度拉升，天娱数科直线涨停，实丰文化此前封板，掌趣科技、方正科技、名臣健康、上海电影、华如科技等个股跟涨。" data-short="A 股游戏传媒板块再度拉升，天娱数科直线涨停，实丰文化此前封板，掌趣科技、方正科技、名臣健康、上海电影、华如科技等个股跟涨。">A 股游戏传媒板块再度拉升，天娱数科直线涨停，实丰文化此前封板，掌趣科技、方正科技、名臣健康、上海电影、华如科技等个股跟涨。</div></div></article><article class="item" data-search="交易员称，印度央行在扩大外汇管制后，可能出售了美元以支撑卢比。"><div class="time">13:24</div><div class="content"><div class="text" data-full="交易员称，印度央行在扩大外汇管制后，可能出售了美元以支撑卢比。" data-short="交易员称，印度央行在扩大外汇管制后，可能出售了美元以支撑卢比。">交易员称，印度央行在扩大外汇管制后，可能出售了美元以支撑卢比。</div></div></article><article class="item" data-search="交易员：印度央行可能已抛售美元以支撑卢比汇率，此前央行放宽外汇管制措施。"><div class="time">13:24</div><div class="content"><div class="text" data-full="交易员：印度央行可能已抛售美元以支撑卢比汇率，此前央行放宽外汇管制措施。" data-short="交易员：印度央行可能已抛售美元以支撑卢比汇率，此前央行放宽外汇管制措施。">交易员：印度央行可能已抛售美元以支撑卢比汇率，此前央行放宽外汇管制措施。</div></div></article><article class="item" data-search="保加利亚在最新船舶遇袭事件后将召见俄罗斯大使
 保加利亚总理鲁门・拉德夫（rumen radev）在社交媒体发文称，在一艘货船据称遭到三架无人机袭击后，计划于今日召见俄罗斯大使埃莱奥诺拉・米特罗法诺娃（eleonora mitrofanova）举行会面。拉德夫写道：“我们目前缺乏确凿清晰的证据来指控任何特定一方。但正如我此前所言，从逻辑上看，该事件结果对俄罗斯联邦有利。”拉德夫表示，chelsea 3 货轮在距离保加利亚领海约 18 英里处遇袭，并于凌晨 1 点 30 分发出求救信号。chelsea 3 为乌克兰所有，在敖德萨注册，悬挂马耳他国旗。船上船员包含 7 名乌克兰公民与 8 名阿塞拜疆公民，均已获救。其中 5 人受轻伤，正在接受医疗处置。拉德夫称，后续收到消息，另一艘船只在克拉佩茨（krapets）以东 17 英里处遭到袭击。该船已经沉没，一名船员获救。拉德夫补充，他计划与北约秘书长马克・吕特通话，并将继续争取各方支持，对三艘船只遇袭事件展开调查。"><div class="time">13:23</div><div class="content"><div class="text" data-full="保加利亚在最新船舶遇袭事件后将召见俄罗斯大使
 保加利亚总理鲁门・拉德夫（Rumen Radev）在社交媒体发文称，在一艘货船据称遭到三架无人机袭击后，计划于今日召见俄罗斯大使埃莱奥诺拉・米特罗法诺娃（Eleonora Mitrofanova）举行会面。拉德夫写道：“我们目前缺乏确凿清晰的证据来指控任何特定一方。但正如我此前所言，从逻辑上看，该事件结果对俄罗斯联邦有利。”拉德夫表示，Chelsea 3 货轮在距离保加利亚领海约 18 英里处遇袭，并于凌晨 1 点 30 分发出求救信号。Chelsea 3 为乌克兰所有，在敖德萨注册，悬挂马耳他国旗。船上船员包含 7 名乌克兰公民与 8 名阿塞拜疆公民，均已获救。其中 5 人受轻伤，正在接受医疗处置。拉德夫称，后续收到消息，另一艘船只在克拉佩茨（Krapets）以东 17 英里处遭到袭击。该船已经沉没，一名船员获救。拉德夫补充，他计划与北约秘书长马克・吕特通话，并将继续争取各方支持，对三艘船只遇袭事件展开调查。" data-short="保加利亚在最新船舶遇袭事件后将召见俄罗斯大使
 保加利亚总理鲁门・拉德夫（Rumen Radev）在社交媒体发文称，在一艘货船据称遭到三架无人机袭击后，计划于今日召见俄罗斯大使埃莱奥诺拉・米特罗法诺娃（Eleonora Mitrofanova）举行会面。拉德夫写道：“我们目前缺乏确凿清晰的证据来指控任何特定一方。但正如我此前所言，从逻辑上看，该事件结果对俄罗斯...">保加利亚在最新船舶遇袭事件后将召见俄罗斯大使
@@ -619,15 +623,113 @@ IMF 在最新报告中强调了三个突出风险，这些风险可能是金融�
 国际货币基金组织（imf）资本市场部副主任阿塔纳西奥斯·瓦姆瓦基迪斯表示，政府债券收益率飙升是全球金融体系面临的最大新兴风险。瓦姆瓦基迪斯说，收益率的上升“显然”是自国际货币基金组织 4 月份发布上次评估以来风险前景的最大变化。他表示，“其他风险和脆弱性也已加剧”，并指出人工智能领域可能出现“市场调整”，从而引发更广泛的影响。不过，主权债券收益率大幅上升的风险被认为是更为直接和紧迫的威胁。imf 在其《全球金融稳定报告》中写道：“高额债务和展期风险仍未得到解决，使得债券市场更容易受到更频繁的财政和通胀冲击。”"><div class="time">11:17</div><div class="content"><div class="text" data-full="IMF 称债券收益率飙升是金融体系面临的最大新兴风险
 国际货币基金组织（IMF）资本市场部副主任阿塔纳西奥斯·瓦姆瓦基迪斯表示，政府债券收益率飙升是全球金融体系面临的最大新兴风险。瓦姆瓦基迪斯说，收益率的上升“显然”是自国际货币基金组织 4 月份发布上次评估以来风险前景的最大变化。他表示，“其他风险和脆弱性也已加剧”，并指出人工智能领域可能出现“市场调整”，从而引发更广泛的影响。不过，主权债券收益率大幅上升的风险被认为是更为直接和紧迫的威胁。IMF 在其《全球金融稳定报告》中写道：“高额债务和展期风险仍未得到解决，使得债券市场更容易受到更频繁的财政和通胀冲击。”" data-short="IMF 称债券收益率飙升是金融体系面临的最大新兴风险
 国际货币基金组织（IMF）资本市场部副主任阿塔纳西奥斯·瓦姆瓦基迪斯表示，政府债券收益率飙升是全球金融体系面临的最大新兴风险。瓦姆瓦基迪斯说，收益率的上升“显然”是自国际货币基金组织 4 月份发布上次评估以来风险前景的最大变化。他表示，“其他风险和脆弱性也已加剧”，并指出人工智能领域可能出现“市场调整”，...">IMF 称债券收益率飙升是金融体系面临的最大新兴风险
-国际货币基金组织（IMF）资本市场部副主任阿塔纳西奥斯·瓦姆瓦基迪斯表示，政府债券收益率飙升是全球金融体系面临的最大新兴风险。瓦姆瓦基迪斯说，收益率的上升“显然”是自国际货币基金组织 4 月份发布上次评估以来风险前景的最大变化。他表示，“其他风险和脆弱性也已加剧”，并指出人工智能领域可能出现“市场调整”，...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="imf 首席经济学家：还没看到人工智能带来的生产力提升。"><div class="time">11:17</div><div class="content"><div class="text" data-full="IMF 首席经济学家：还没看到人工智能带来的生产力提升。" data-short="IMF 首席经济学家：还没看到人工智能带来的生产力提升。">IMF 首席经济学家：还没看到人工智能带来的生产力提升。</div></div></article><article class="item" data-search="imf：ai 驱动的抛售与债市收益率急剧飙升，系金融市场面临的潜在威胁之一。
-ai 相关投资的调整可能会产生“全球性”后果。
-自今年 4 月发布上期稳定性报告以来，债券市场的风险已有所上升。"><div class="time">11:16</div><div class="content"><div class="text" data-full="IMF：AI 驱动的抛售与债市收益率急剧飙升，系金融市场面临的潜在威胁之一。
-AI 相关投资的调整可能会产生“全球性”后果。
-自今年 4 月发布上期稳定性报告以来，债券市场的风险已有所上升。" data-short="IMF：AI 驱动的抛售与债市收益率急剧飙升，系金融市场面临的潜在威胁之一。
-AI 相关投资的调整可能会产生“全球性”后果。
-自今年 4 月发布上期稳定性报告以来，债券市场的风险已有所上升。">IMF：AI 驱动的抛售与债市收益率急剧飙升，系金融市场面临的潜在威胁之一。
-AI 相关投资的调整可能会产生“全球性”后果。
-自今年 4 月发布上期稳定性报告以来，债券市场的风险已有所上升。</div></div></article><article class="item" data-search="国际货币基金组织警告，人工智能驱动的抛售和债券收益率急剧上升是金融市场面临的潜在威胁。"><div class="time">11:16</div><div class="content"><div class="text" data-full="国际货币基金组织警告，人工智能驱动的抛售和债券收益率急剧上升是金融市场面临的潜在威胁。" data-short="国际货币基金组织警告，人工智能驱动的抛售和债券收益率急剧上升是金融市场面临的潜在威胁。">国际货币基金组织警告，人工智能驱动的抛售和债券收益率急剧上升是金融市场面临的潜在威胁。</div></div></article><article class="item" data-search="国际货币基金组织：人工智能相关投资的调整可能会产生“全球”影响。"><div class="time">11:16</div><div class="content"><div class="text" data-full="国际货币基金组织：人工智能相关投资的调整可能会产生“全球”影响。" data-short="国际货币基金组织：人工智能相关投资的调整可能会产生“全球”影响。">国际货币基金组织：人工智能相关投资的调整可能会产生“全球”影响。</div></div></article><article class="item" data-search="国际货币基金组织警告，自上次四月份的稳定报告以来，债券市场风险已上升。"><div class="time">11:15</div><div class="content"><div class="text" data-full="国际货币基金组织警告，自上次四月份的稳定报告以来，债券市场风险已上升。" data-short="国际货币基金组织警告，自上次四月份的稳定报告以来，债券市场风险已上升。">国际货币基金组织警告，自上次四月份的稳定报告以来，债券市场风险已上升。</div></div></article><article class="item" data-search="有市场消息称，多家硅料头部企业近日于杭州召开闭门会，约定硅料平均成本含税价及对应销售价格不得低于每吨 4.3 万元。据悉，此事属实。除了价格约束方面，此次闭门会议还透露出多项配套安排，包括产能统筹、同业监督举报机制等内容。在价格约束方面，会议除了划定市场传闻的硅料平均成本含税价外，还划定了电池片报价底线。（中证金牛座）"><div class="time">11:15</div><div class="content"><div class="text" data-full="有市场消息称，多家硅料头部企业近日于杭州召开闭门会，约定硅料平均成本含税价及对应销售价格不得低于每吨 4.3 万元。据悉，此事属实。除了价格约束方面，此次闭门会议还透露出多项配套安排，包括产能统筹、同业监督举报机制等内容。在价格约束方面，会议除了划定市场传闻的硅料平均成本含税价外，还划定了电池片报价底线。（中证金牛座）" data-short="有市场消息称，多家硅料头部企业近日于杭州召开闭门会，约定硅料平均成本含税价及对应销售价格不得低于每吨 4.3 万元。据悉，此事属实。除了价格约束方面，此次闭门会议还透露出多项配套安排，包括产能统筹、同业监督举报机制等内容。在价格约束方面，会议除了划定市场传闻的硅料平均成本含税价外，还划定了电池片报价底线。（中证金牛座）">有市场消息称，多家硅料头部企业近日于杭州召开闭门会，约定硅料平均成本含税价及对应销售价格不得低于每吨 4.3 万元。据悉，此事属实。除了价格约束方面，此次闭门会议还透露出多项配套安排，包括产能统筹、同业监督举报机制等内容。在价格约束方面，会议除了划定市场传闻的硅料平均成本含税价外，还划定了电池片报价底线。（中证金牛座）</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">10月13日 · VIP</h2> <div class="feed"> <article class="item" data-search="【狙击龙虎榜午盘】科技股集体回暖资金博弈阶段性底部
+国际货币基金组织（IMF）资本市场部副主任阿塔纳西奥斯·瓦姆瓦基迪斯表示，政府债券收益率飙升是全球金融体系面临的最大新兴风险。瓦姆瓦基迪斯说，收益率的上升“显然”是自国际货币基金组织 4 月份发布上次评估以来风险前景的最大变化。他表示，“其他风险和脆弱性也已加剧”，并指出人工智能领域可能出现“市场调整”，...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">10月13日 · VIP</h2> <div class="feed"> <article class="item" data-search="众筹项目：红宝书（市场逻辑精选）
+
+众筹价：120/年
+
+权益：一般当天晚上更新（免费版第二天早上9点更新）
+
+联系：@cn50etf"> <div class="time">13:27</div> <div class="content"> <div class="text">众筹项目：红宝书（市场逻辑精选）
+
+众筹价：120/年
+
+权益：一般当天晚上更新（免费版第二天早上9点更新）
+
+联系：@cn50etf</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="包括内容：
+
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大v收费群盘中消息同步：
+
+vip资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+妖股刺客
+
+新生代作手
+邢者狩猎营
+g界孙悟空
+大师兄擒妖
+浮光
+天赢居
+
+清北游资
+时冲
+主升真经
+天机短线
+爱尔兰画眉
+震哥
+李梦尘
+
+红旗大街发哥
+游资胖大叔
+大周先生
+姆爷
+游资混江龙
+徐小明
+天地同力
+
+诗诗复利游
+a股通天宗
+
+先知
+林荫大道
+逻辑派a哥
+
+复盘哥
+鑫多多
+大将潘凤
+奶爸只做核心
+浮光知顶底
+
+借势而为
+来去由心
+嗅嗅掘金
+k神会
+
+费用：100元/月
+
+联系 @cn50etf"> <div class="time">13:27</div> <div class="content"> <div class="text">包括内容：
+
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大V收费群盘中消息同步：
+
+VIP资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+妖股刺客
+
+新生代作手
+邢者狩猎营
+G界孙悟空
+大师兄擒妖
+浮光
+天赢居
+
+清北游资
+时冲
+主升真经
+天机短线
+爱尔兰画眉
+震哥
+李梦尘
+
+红...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【狙击龙虎榜午盘】科技股集体回暖资金博弈阶段性底部
 
 #致尚科技"> <div class="time">13:26</div> <div class="content"> <div class="text">【狙击龙虎榜午盘】科技股集体回暖资金博弈阶段性底部
 
