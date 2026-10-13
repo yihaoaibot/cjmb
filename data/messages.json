@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3530885",
+    "datetime": "2026-10-13T13:04:43+00:00",
+    "views": "3",
+    "text": "沥青连续主力合约日内涨 3%，现报 4583.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3530885"
+  },
+  {
+    "post": "Financial_Express/3530886",
+    "datetime": "2026-10-13T13:04:43+00:00",
+    "views": "3",
+    "text": "国际货币基金组织委员会将主席 Mohammed Aljadaan 的任期延长一年。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3530886"
+  },
+  {
+    "post": "Financial_Express/3530884",
+    "datetime": "2026-10-13T13:04:42+00:00",
+    "views": "3",
+    "text": "苹果推出智能家居中枢 HomeView，售价 299 美元\n10 月 13 日，苹果公司宣布推出智能家居设备 HomeView，配备 7 英寸 Liquid Retina 显示屏，集音乐播放、视频通话、家庭监控及智能家居控制等功能于一体，并搭载基于 Apple Intelligence 的新一代 Siri。设备支持最多 6 名用户，通过面部识别提供个性化内容，并强调隐私与数据安全。HomeView 提供桌面版和壁挂版，售价均为 299 美元，已于当日开启预订，11 月 13 日起在美国、英国、加拿大、澳大利亚等市场发售。苹果还宣布与 LG 电子及施耐德电气合作推出智能摄像头、温控器和门锁等配套产品。由于 Siri AI 目前尚未在欧盟地区的 iOS 系统中推出，HomeView 暂不在欧盟销售。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3530884"
+  },
+  {
+    "post": "Financial_Express/3530883",
+    "datetime": "2026-10-13T13:03:42+00:00",
+    "views": "6",
+    "text": "花旗集团首席财务官：已允许沙特阿拉伯的员工在家办公。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3530883"
+  },
+  {
+    "post": "Financial_Express/3530882",
+    "datetime": "2026-10-13T13:03:02+00:00",
+    "views": "10",
+    "text": "花旗集团首席财务官：已调任支持沙特阿拉伯的员工。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3530882"
+  },
+  {
     "post": "Financial_Express/3530880",
     "datetime": "2026-10-13T13:02:42+00:00",
-    "views": "5",
+    "views": "11",
     "text": "Marvell、微软和甲骨文成立 OCP 工作组。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3530881",
     "datetime": "2026-10-13T13:02:42+00:00",
-    "views": "5",
+    "views": "11",
     "text": "美满电子：公司已成立工作小组，为云及超大规模数据中心基础设施制定基于硅芯片、经认证安全的集成式硬件安全模块解决方案的统一标准。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3530879",
     "datetime": "2026-10-13T13:02:22+00:00",
-    "views": "7",
+    "views": "41",
     "text": "苹果：HomePod mini 2 在美国售价为 149 美元，LG 智能门锁在美国和加拿大起售价 349.95 美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3530878",
     "datetime": "2026-10-13T13:02:02+00:00",
-    "views": "11",
+    "views": "44",
     "text": "受与 ANTHROPIC 合作消息提振，WORKDAY 盘前股价上涨 2.8%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3530877",
     "datetime": "2026-10-13T13:01:43+00:00",
-    "views": "20",
+    "views": "52",
     "text": "欧洲央行称外汇储备减少 7 亿欧元，至 3496 亿欧元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3530875",
     "datetime": "2026-10-13T13:01:23+00:00",
-    "views": "25",
+    "views": "57",
     "text": "Credo 利用 AMD 基于可编程逻辑的 AI 加速器突破内存墙。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3530876",
     "datetime": "2026-10-13T13:01:23+00:00",
-    "views": "25",
+    "views": "57",
     "text": "施耐德电气与苹果推出适用于 Apple Home 系列的全新智能温控器，以及适用于 Apple HomeView 的电源支架。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3530874",
     "datetime": "2026-10-13T13:01:22+00:00",
-    "views": "25",
+    "views": "57",
     "text": "Workday 推出 Work Intelligence，用于 AI 任务映射。Workday 将把 Sana AI 与 Claude 进行整合。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3530873",
     "datetime": "2026-10-13T13:01:04+00:00",
-    "views": "31",
+    "views": "33",
     "text": "Workday 与 Anthropic 宣布建立新的合作伙伴关系。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3530872",
     "datetime": "2026-10-13T13:01:03+00:00",
-    "views": "31",
+    "views": "33",
     "text": "BNB 标准公司推出全新企业网站，迈出将 BNB 标准引入华尔街的第一步。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3530871",
     "datetime": "2026-10-13T13:00:33+00:00",
-    "views": "27",
+    "views": "28",
     "text": "夜盘期货开盘，20 号胶、橡胶跌近 2%，液化石油气、纯碱、甲醇、聚丙烯、燃料油跌超 1%，塑料跌近 1%；纯苯、沪铅涨超 1%，苯乙烯涨近 1%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3530869",
     "datetime": "2026-10-13T13:00:23+00:00",
-    "views": "26",
+    "views": "28",
     "text": "国内期货夜盘开盘\n生猪连续跌 3.33%，燃料油连续涨 3.04%，红枣连续跌 2.58%，20 号胶连续跌 2.31%，天然橡胶连续跌 2.29%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3530870",
     "datetime": "2026-10-13T13:00:23+00:00",
-    "views": "25",
+    "views": "57",
     "text": "中核集团核燃料与材料研发中心揭牌\n据中核集团消息，10 月 13 日，中核集团核燃料与材料研发中心（下称“核燃料与材料中心”）揭牌仪式在中国原子能举行。核燃料与材料中心将围绕产业发展需求，聚焦核燃料前沿方向，集中力量攻克关键技术、打造核心产品，持续提升核燃料可靠性与经济性，推动核燃料自主化进程。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3530868",
     "datetime": "2026-10-13T13:00:22+00:00",
-    "views": "25",
+    "views": "26",
     "text": "苹果与 LG 合作的有线可视门铃起售价为 249.95 美元，泛光照明摄像头售价 399.95 美元，户外摄像头售价 299.95 美元。",
     "media_only": false,
     "image_url": null,
@@ -128,8 +173,8 @@
   {
     "post": "Financial_Express/3530867",
     "datetime": "2026-10-13T13:00:18+00:00",
-    "views": "25",
-    "text": "苹果推出智能家居中枢 HomeView，售价 299 美元。\n苹果发布新款 APPLE TV 4K。\n苹果推出智能家居配件系列。",
+    "views": "26",
+    "text": "苹果公司宣布推出智能家居设备 HomeView，配备 7 英寸 Liquid Retina 显示屏，集音乐播放、视频通话、家庭监控及智能家居控制等功能于一体，并搭载基于 Apple Intelligence 的新一代 Siri。设备支持最多 6 名用户，通过面部识别提供个性化内容，并强调隐私与数据安全。HomeView 提供桌面版和壁挂版，售价均为 299 美元，已于当日开启预订，11 月 13 日起在美国、英国、加拿大、澳大利亚等市场发售。苹果还宣布与 LG 电子及施耐德电气合作推出智能摄像头、温控器和门锁等配套产品。由于 Siri AI 目前尚未在欧盟地区的 iOS 系统中推出，HomeView 暂不在欧盟销售。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3530867"
@@ -54421,32 +54466,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3524799"
-  },
-  {
-    "post": "Financial_Express/3524798",
-    "datetime": "2026-10-11T13:04:22+00:00",
-    "views": "101",
-    "text": "美国财长贝森特：将继续扣押伊朗加密货币。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3524798"
-  },
-  {
-    "post": "Financial_Express/3524797",
-    "datetime": "2026-10-11T13:04:03+00:00",
-    "views": "101",
-    "text": "雷诺计划未来 5 年在法国投资 100 亿欧元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3524797"
-  },
-  {
-    "post": "Financial_Express/3524796",
-    "datetime": "2026-10-11T13:04:02+00:00",
-    "views": "101",
-    "text": "美国财长贝森特：我们对伊朗采取了“绝对孤立”行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3524796"
   }
 ]
