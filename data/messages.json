@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3531721",
+    "datetime": "2026-10-13T19:54:42+00:00",
+    "views": "7",
+    "text": "目击者称：基辅发生多起爆炸，事前未收到预警或警报。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3531721"
+  },
+  {
+    "post": "Financial_Express/3531720",
+    "datetime": "2026-10-13T19:54:02+00:00",
+    "views": "15",
+    "text": "消息人士：基辅发生系列爆炸，暂未收到任何提前警告或警报。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3531720"
+  },
+  {
+    "post": "Financial_Express/3531719",
+    "datetime": "2026-10-13T19:53:54+00:00",
+    "views": "17",
+    "text": "周二（10 月 13 日）纽约尾盘，欧元兑美元涨 0.38%，报 1.1198，亚太盘初以来持续震荡上行、北京时间 21:36 刷新日高至 1.1205。\n英镑兑美元涨 0.35%，报 1.3254，持续上行行情中，02:56 刷新日高至 1.3259。\n美元兑瑞郎跌 0.25%，报 0.8326。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3531719"
+  },
+  {
+    "post": "Financial_Express/3531718",
+    "datetime": "2026-10-13T19:53:43+00:00",
+    "views": "18",
+    "text": "OpenAI：一员工在办公室安装录音设备 已解雇并知会 FBI\n金十数据 10 月 14 日讯，OpenAI：我们办公室内发现了一台精密录音设备；某员工在数天前放置了该设备，该员工已被解雇。目前，我们没有迹象表明该员工不当访问或提取模型权重、源代码或客户数据。我们已将此事转交给美国联邦调查局（FBI）。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3531718"
+  },
+  {
     "post": "Financial_Express/3531717",
     "datetime": "2026-10-13T19:51:51+00:00",
-    "views": "19",
+    "views": "39",
     "text": "周二（10 月 13 日，美国债市周一休市）纽约尾盘，美国 10 年期国债收益率跌 2.52 个基点，报 5.2126%，全天处于下跌状态，亚太盘初至美股盘初呈现出宽底 U 形走势，北京时间 19:12 刷新日低至 5.1706%。\n两年期美债收益率持平，报 4.7869%，19:04 刷新日低至 4.7553%，随后反弹、在 21:50 刷新日高至 4.8165%；30 年期美债收益率跌 3.41 个基点，报 5.5614%，亚太盘初持续走低、09:55 逼近 5.54%，19:12 刷新日低至 5.5332%。\n2/10 年期美债收益率利差跌 2.308 个基点，报+42.149 个基点。\n10 年期通胀保值国债（TIPS）收益率跌 1.60 个基点，至 2.8691%；两年期 TIPS 收益率涨 1.16 个基点，至 2.2303%；30 年期 TIPS 收益率跌 2.93 个基点，至 3.2959%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3531716",
     "datetime": "2026-10-13T19:51:22+00:00",
-    "views": "27",
+    "views": "48",
     "text": "OpenAI：我们发现一台精密录音设备被藏匿在公司一处办公室内。\n我们已将此事移交联邦调查局（FBI）。\n利用模型分析该设备及其来源，确认是一名特定员工在数日前放置了该设备。\n目前没有迹象表明该人员不当访问或窃取模型权重、源代码或客户数据。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3531715",
     "datetime": "2026-10-13T19:51:02+00:00",
-    "views": "31",
+    "views": "51",
     "text": "OpenAI：目前没有迹象表明该人员不当访问或窃取模型权重、源代码或客户数据。该员工已被解雇。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3531714",
     "datetime": "2026-10-13T19:50:42+00:00",
-    "views": "36",
+    "views": "53",
     "text": "OpenAI：利用模型分析该设备及其来源，确认是一名特定员工在数日前放置了该设备。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3531712",
     "datetime": "2026-10-13T19:50:23+00:00",
-    "views": "39",
+    "views": "54",
     "text": "OpenAI：我们已将此事移交联邦调查局（FBI）。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3531713",
     "datetime": "2026-10-13T19:50:23+00:00",
-    "views": "39",
+    "views": "54",
     "text": "美国纽约证券交易所（NYSE）母公司洲际交易所（ICE）计划推出用于押注未来牛和生猪价格的合约，与长期占据主导地位的芝商所集团展开竞争。与此同时，芝商所正将其系统迁移至云端。\nICE 高管表示，首批牛和生猪期货合约将在年底前上市，目标推出日期为 12 月 7 日。该交易所运营商将提供实物交割的活牛期货，以及三种以现金结算的牛和生猪价格合约，所有产品均有待监管审查。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3531711",
     "datetime": "2026-10-13T19:50:22+00:00",
-    "views": "38",
+    "views": "50",
     "text": "花旗集团(C.N)跌至盘中低点，现跌 5.12%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3531710",
     "datetime": "2026-10-13T19:50:02+00:00",
-    "views": "38",
+    "views": "48",
     "text": "OpenAI：我们发现一台精密录音设备被藏匿在公司一处办公室内。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3531709",
     "datetime": "2026-10-13T19:49:39+00:00",
-    "views": "41",
+    "views": "50",
     "text": "花旗集团跌幅扩大至 5%，创 7 月份以来最差盘中表现。\n费城银行指数目前跌 1.1%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3531708",
     "datetime": "2026-10-13T19:49:22+00:00",
-    "views": "44",
+    "views": "51",
     "text": "被指行为不当 美国驻希腊大使辞职\n金十数据 10 月 14 日讯，当地时间 10 月 13 日，美国驻希腊大使金伯莉·吉尔福伊尔因被指控行为不当辞职。金伯利·吉尔福伊尔称，她将针对“虚假”指控“积极为自己辩护”。据悉，吉尔福伊尔在担任大使前及任职期间存在接受奢华礼品、试图利用其在美政府内部影响力换取金钱等不当行为。美国国务院监察长办公室正在就上述指控进行调查。特朗普 12 日对媒体说，他正在考虑解除吉尔福伊尔的职务。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3531707",
     "datetime": "2026-10-13T19:49:02+00:00",
-    "views": "46",
+    "views": "51",
     "text": "贝莱德和 Baillie Gifford 大举押注 Icon 3D 打印住宅\n总部位于美国奥斯汀的 Icon 是 3D 打印房地产领域最大的参与者之一，该公司 10 月 13 日宣布完成 2 亿美元 D 轮融资，由 Baillie Gifford 与贝莱德旗下基金等联合领投。本轮融资使 Icon 累计融资额达到 7 亿美元，公司估值报 14 亿美元。 此轮融资紧随 Icon 最新技术 Titan 多层机器人 3D 建筑系统之后，该系统已于今年 3 月正式商业化。Icon 此前的技术只能建造单层建筑。据 Icon 称，Titan 还能将房屋平均建造周期缩短六周，减少所需工人数量，并将整体成本降低 40%。Icon 联合创始人兼首席执行官杰森·巴拉德表示：“我们一直在寻找能够帮助实体建造类公司从早期初创验证阶段走向规模化的投资者群体。”他提到 Baillie Gifford 在英伟达、特斯拉和 SpaceX 等公司上的投资经验，以及贝莱德庞大的房地产投资组合。“这对我们来说确实是一个世界级的成果。”",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3531705",
     "datetime": "2026-10-13T19:48:42+00:00",
-    "views": "45",
+    "views": "51",
     "text": "花旗集团跌幅扩大至 5%，创 7 月以来最大跌幅。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3531704",
     "datetime": "2026-10-13T19:48:32+00:00",
-    "views": "45",
+    "views": "53",
     "text": "总部位于美国奥斯汀的 Icon 是 3D 打印房地产领域最大的参与者之一，该公司 10 月 13 日宣布完成 2 亿美元 D 轮融资，由 Baillie Gifford 与贝莱德旗下基金等联合领投。本轮融资使 Icon 累计融资额达到 7 亿美元，公司估值报 14 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3531703",
     "datetime": "2026-10-13T19:48:02+00:00",
-    "views": "46",
+    "views": "55",
     "text": "据以色列第 14 频道：以色列总理内塔尼亚胡表示，中东乃至西方几乎没有哪个国家不向以色列寻求帮助。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3531702",
     "datetime": "2026-10-13T19:47:42+00:00",
-    "views": "48",
+    "views": "56",
     "text": "内塔尼亚胡与特朗普上周进行了会谈，讨论了可能采取的针对伊朗的新行动。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +182,7 @@
   {
     "post": "Financial_Express/3531701",
     "datetime": "2026-10-13T19:44:42+00:00",
-    "views": "64",
+    "views": "69",
     "text": "沙特联军：已在利雅得拦截并摧毁了一枚导弹。",
     "media_only": false,
     "image_url": null,
@@ -59605,23 +59641,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3525062"
-  },
-  {
-    "post": "Financial_Express/3525061",
-    "datetime": "2026-10-11T19:53:23+00:00",
-    "views": "102",
-    "text": "英国首相伯纳姆：今日与特朗普通话，讨论立即启动俄罗斯与乌克兰之间的持续性能源停火。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3525061"
-  },
-  {
-    "post": "Financial_Express/3525060",
-    "datetime": "2026-10-11T19:53:22+00:00",
-    "views": "102",
-    "text": "英国首相伯纳姆：今日与美国总统特朗普通话，讨论了立即启动俄罗斯与乌克兰之间持续的能源停火。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3525060"
   }
 ]
