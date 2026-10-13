@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3530880",
+    "datetime": "2026-10-13T13:02:42+00:00",
+    "views": "5",
+    "text": "Marvell、微软和甲骨文成立 OCP 工作组。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3530880"
+  },
+  {
+    "post": "Financial_Express/3530881",
+    "datetime": "2026-10-13T13:02:42+00:00",
+    "views": "5",
+    "text": "美满电子：公司已成立工作小组，为云及超大规模数据中心基础设施制定基于硅芯片、经认证安全的集成式硬件安全模块解决方案的统一标准。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3530881"
+  },
+  {
+    "post": "Financial_Express/3530879",
+    "datetime": "2026-10-13T13:02:22+00:00",
+    "views": "7",
+    "text": "苹果：HomePod mini 2 在美国售价为 149 美元，LG 智能门锁在美国和加拿大起售价 349.95 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3530879"
+  },
+  {
+    "post": "Financial_Express/3530878",
+    "datetime": "2026-10-13T13:02:02+00:00",
+    "views": "11",
+    "text": "受与 ANTHROPIC 合作消息提振，WORKDAY 盘前股价上涨 2.8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3530878"
+  },
+  {
+    "post": "Financial_Express/3530877",
+    "datetime": "2026-10-13T13:01:43+00:00",
+    "views": "20",
+    "text": "欧洲央行称外汇储备减少 7 亿欧元，至 3496 亿欧元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3530877"
+  },
+  {
+    "post": "Financial_Express/3530875",
+    "datetime": "2026-10-13T13:01:23+00:00",
+    "views": "25",
+    "text": "Credo 利用 AMD 基于可编程逻辑的 AI 加速器突破内存墙。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3530875"
+  },
+  {
+    "post": "Financial_Express/3530876",
+    "datetime": "2026-10-13T13:01:23+00:00",
+    "views": "25",
+    "text": "施耐德电气与苹果推出适用于 Apple Home 系列的全新智能温控器，以及适用于 Apple HomeView 的电源支架。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3530876"
+  },
+  {
+    "post": "Financial_Express/3530874",
+    "datetime": "2026-10-13T13:01:22+00:00",
+    "views": "25",
+    "text": "Workday 推出 Work Intelligence，用于 AI 任务映射。Workday 将把 Sana AI 与 Claude 进行整合。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3530874"
+  },
+  {
     "post": "Financial_Express/3530873",
     "datetime": "2026-10-13T13:01:04+00:00",
-    "views": "6",
+    "views": "31",
     "text": "Workday 与 Anthropic 宣布建立新的合作伙伴关系。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3530872",
     "datetime": "2026-10-13T13:01:03+00:00",
-    "views": "6",
+    "views": "31",
     "text": "BNB 标准公司推出全新企业网站，迈出将 BNB 标准引入华尔街的第一步。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3530871",
     "datetime": "2026-10-13T13:00:33+00:00",
-    "views": "10",
+    "views": "27",
     "text": "夜盘期货开盘，20 号胶、橡胶跌近 2%，液化石油气、纯碱、甲醇、聚丙烯、燃料油跌超 1%，塑料跌近 1%；纯苯、沪铅涨超 1%，苯乙烯涨近 1%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3530869",
     "datetime": "2026-10-13T13:00:23+00:00",
-    "views": "11",
+    "views": "26",
     "text": "国内期货夜盘开盘\n生猪连续跌 3.33%，燃料油连续涨 3.04%，红枣连续跌 2.58%，20 号胶连续跌 2.31%，天然橡胶连续跌 2.29%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3530870",
     "datetime": "2026-10-13T13:00:23+00:00",
-    "views": "10",
+    "views": "25",
     "text": "中核集团核燃料与材料研发中心揭牌\n据中核集团消息，10 月 13 日，中核集团核燃料与材料研发中心（下称“核燃料与材料中心”）揭牌仪式在中国原子能举行。核燃料与材料中心将围绕产业发展需求，聚焦核燃料前沿方向，集中力量攻克关键技术、打造核心产品，持续提升核燃料可靠性与经济性，推动核燃料自主化进程。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3530868",
     "datetime": "2026-10-13T13:00:22+00:00",
-    "views": "11",
+    "views": "25",
     "text": "苹果与 LG 合作的有线可视门铃起售价为 249.95 美元，泛光照明摄像头售价 399.95 美元，户外摄像头售价 299.95 美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3530867",
     "datetime": "2026-10-13T13:00:18+00:00",
-    "views": "11",
+    "views": "25",
     "text": "苹果推出智能家居中枢 HomeView，售价 299 美元。\n苹果发布新款 APPLE TV 4K。\n苹果推出智能家居配件系列。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3530866",
     "datetime": "2026-10-13T12:59:42+00:00",
-    "views": "13",
+    "views": "55",
     "text": "苹果：家居系列产品将于 12 月起开售，部分配件将于 2027 年初上市。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3530865",
     "datetime": "2026-10-13T12:59:02+00:00",
-    "views": "44",
+    "views": "54",
     "text": "苹果 HomeView 功能配 7 英寸显示屏，可通过人脸识别用户。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3530864",
     "datetime": "2026-10-13T12:58:42+00:00",
-    "views": "44",
+    "views": "52",
     "text": "苹果 Apple TV 4K 搭载远场拾音麦克风，支持用户完全免手持通过 Siri 语音操控。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3530863",
     "datetime": "2026-10-13T12:58:22+00:00",
-    "views": "46",
+    "views": "54",
     "text": "苹果(AAPL.O)：第四代 Apple TV 4K 今日开始接受预订；将于 11 月 13 日上市。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3530862",
     "datetime": "2026-10-13T12:58:02+00:00",
-    "views": "48",
+    "views": "55",
     "text": "苹果第四代 Apple TV 4K 今日开启预购，11 月 13 日起线下门店开售。",
     "media_only": false,
     "image_url": null,
