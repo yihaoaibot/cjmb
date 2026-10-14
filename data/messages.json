@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3535443",
+    "datetime": "2026-10-14T19:35:02+00:00",
+    "views": "2",
+    "text": "Anthropic：Claude 将在美国大选之夜及后续数日展示实时选举结果。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535443"
+  },
+  {
+    "post": "Financial_Express/3535442",
+    "datetime": "2026-10-14T19:34:22+00:00",
+    "views": "9",
+    "text": "Anthropic：本月晚些时候，Claude 将为美国用户接入 Democracy Works 提供的官方投票信息。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535442"
+  },
+  {
+    "post": "Financial_Express/3535441",
+    "datetime": "2026-10-14T19:33:42+00:00",
+    "views": "12",
+    "text": "据美国哥伦比亚广播公司：也门政府外长已请求美国为政府军和海岸警卫队提供训练及情报支持，也门政府目前不寻求与胡塞武装启动谈判。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535441"
+  },
+  {
     "post": "Financial_Express/3535440",
     "datetime": "2026-10-14T19:26:42+00:00",
-    "views": "54",
+    "views": "62",
     "text": "美银聘请 1000 名承包商 修补 Anthropic 的 Mythos 暴露的软件漏洞\n美国银行已聘请大批外部承包商，帮助修补包括 Anthropic 的 Mythos 在内的先进人工智能模型所暴露的软件漏洞。在银行发布第三季度财报后接受采访时，该行 CEO 莫伊尼汉表示，今年早些时候，公司动用数千名员工和外部人员，紧急加固其广泛的内部和供应商代码。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3535439",
     "datetime": "2026-10-14T19:26:40+00:00",
-    "views": "54",
+    "views": "62",
     "text": "周三（10 月 14 日）纽约尾盘，美元兑日元跌 0.04%，报 158.26 日元，日内交投区间为 158.95-158.05 日元，美国 CPI 数据带来一波短线加速上涨行情，临近美股开盘时逼近 9 月 24 日顶部 159.04 日元、9 月 2 日顶部 160.39 日元。\n欧元兑日元跌 0.45%，报 176.50 日元；英镑兑日元跌 0.55%，报 208.694 日元；日元兑离岸人民币涨 0.07%，报 4.2306 元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3535438",
     "datetime": "2026-10-14T19:25:23+00:00",
-    "views": "58",
+    "views": "64",
     "text": "马斯克：星盾系统由美国政府控制 使用限制最终由特朗普决定\n金十数据 10 月 15 日讯，乌克兰前国防部长费多罗夫（Mykhailo Fedorov）表示，星链（Starlink）正在恢复对移动速度不超过 160 公里/小时的设备提供连接服务，但彻底取消星盾（Starshield）的速度限制对乌克兰防御至关重要，并呼吁马斯克继续提供支持。马斯克随后回应称，星盾系统由美国政府拥有和控制，任何速度或使用限制均由美军决定，最终决定权属于美国总统特朗普。马斯克同时强调，星链是由 SpaceX 拥有和控制的商业服务，仅允许用于民用或防御性活动，不得用于进攻性军事行动，因为商业公司参与此类行动并不合适。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3535437",
     "datetime": "2026-10-14T19:23:48+00:00",
-    "views": "59",
+    "views": "65",
     "text": "周三（10 月 14 日）纽约尾盘，ICE 美元指数涨 0.37%，报 102.559 点，日内交投区间为 102.075-102.945 点，北京时间 20:30 发布美国 CPI 通胀数据之前大致持平，数据发布后迅速拉升，23:12 逼近 2025 年 4 月 10 日顶部 103.027 点、当年 3 月 26 日顶部 104.683 点。\n彭博美元指数涨 0.26%，报 1228.40 点，日内交投区间为 1223.76-1232.19 点，23:08 逼近 2025 年 5 月 12 日顶部 1241.71 点、当年 4 月 1 日顶部 1275.68 点。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3535436",
     "datetime": "2026-10-14T19:21:02+00:00",
-    "views": "61",
+    "views": "66",
     "text": "美联储古尔斯比：需要关注 AI 投资对金融稳定带来的潜在影响。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3535435",
     "datetime": "2026-10-14T19:20:43+00:00",
-    "views": "65",
+    "views": "69",
     "text": "美联储古尔斯比：AI 投资放缓并不等同于经济衰退。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3535434",
     "datetime": "2026-10-14T19:20:42+00:00",
-    "views": "65",
+    "views": "67",
     "text": "美元指数 14 日上涨\n金十数据 10 月 15 日讯，衡量美元对六种主要货币的美元指数当天上涨 0.37%，在汇市尾市收于 102.554。截至纽约汇市尾市，1 欧元兑换 1.1153 美元，低于前一交易日的 1.1201 美元；1 英镑兑换 1.3181 美元，低于前一交易日的 1.3257 美元。1 美元兑换 158.20 日元，低于前一交易日的 158.30 日元；1 美元兑换 0.8345 瑞士法郎，高于前一交易日的 0.8325 瑞士法郎；1 美元兑换 1.4247 加元，高于前一交易日的 1.4215 加元；1 美元兑换 10.0321 瑞典克朗，高于前一交易日的 9.9618 瑞典克朗。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3535433",
     "datetime": "2026-10-14T19:20:22+00:00",
-    "views": "64",
+    "views": "66",
     "text": "阿根廷外长：阿根廷与美国签署贸易协定附加议定书。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3535432",
     "datetime": "2026-10-14T19:20:02+00:00",
-    "views": "64",
+    "views": "67",
     "text": "美元指数 14 日上涨\n衡量美元对六种主要货币的美元指数当天上涨 0.37%，在汇市尾市收于 102.554。截至纽约汇市尾市，1 欧元兑换 1.1153 美元，低于前一交易日的 1.1201 美元；1 英镑兑换 1.3181 美元，低于前一交易日的 1.3257 美元。1 美元兑换 158.20 日元，低于前一交易日的 158.30 日元；1 美元兑换 0.8345 瑞士法郎，高于前一交易日的 0.8325 瑞士法郎；1 美元兑换 1.4247 加元，高于前一交易日的 1.4215 加元；1 美元兑换 10.0321 瑞典克朗，高于前一交易日的 9.9618 瑞典克朗。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3535431",
     "datetime": "2026-10-14T19:19:42+00:00",
-    "views": "60",
+    "views": "63",
     "text": "英伟达 CEO 黄仁勋称会对开发不安全 AI 软件的客户断供芯片\n英伟达首席执行官黄仁勋表示，假如客户正在开发不安全的人工智能(AI)软件，他会停止向其供应芯片，不过他认为目前没有必要如此担忧这项技术。在伦敦接受采访时，当被问及是否会停止向不负责任的开发商供货，黄仁勋表示，“这是一个假设性问题，但答案是肯定的。不过，在这样做之前，你会先进行沟通。我们并不经营别人的公司，对于其他公司如何使用我们的技术，我们能作出的评判也是有限的。我们的技术是通用型的。”",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3535430",
     "datetime": "2026-10-14T19:19:02+00:00",
-    "views": "62",
+    "views": "64",
     "text": "美联储古尔斯比：AI 热潮可能进一步推高科技行业投资，存在引发经济过热的风险。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3535429",
     "datetime": "2026-10-14T19:18:02+00:00",
-    "views": "60",
+    "views": "61",
     "text": "美联储古尔斯比：消费、国内生产总值以及投资数据表现强劲。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3535428",
     "datetime": "2026-10-14T19:17:42+00:00",
-    "views": "60",
+    "views": "61",
     "text": "古巴外长指责美方施压多国支持其封锁古巴立场\n古巴外长罗德里格斯 14 日说美国国务卿鲁比奥正对多个国家元首和政府首脑施压，试图迫使他们在联合国大会上改变反对封锁古巴的立场。罗德里格斯在社交媒体上表示，鲁比奥企图掩盖对古巴人民实施的集体惩罚，并让国际社会其他成员变成这一野蛮行径的帮凶。根据美国国务院官网消息，鲁比奥 13 日与萨尔瓦多总统布克尔通电话时敦促萨尔瓦多和美国及其他伙伴国家一起，在联合国推进共同优先事项。鲁比奥专门提及对古巴的政策考虑。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3535427",
     "datetime": "2026-10-14T19:17:22+00:00",
-    "views": "55",
+    "views": "56",
     "text": "美联储古尔斯比：如果通胀维持当前水平，货币政策就需要对此作出应对。",
     "media_only": false,
     "image_url": null,
@@ -65824,41 +65851,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3528084"
-  },
-  {
-    "post": "Financial_Express/3528083",
-    "datetime": "2026-10-12T19:35:03+00:00",
-    "views": "80",
-    "text": "英特尔加速推进面向智能体 AI 时代的开放基础设施。\n开始向客户提供 GPU D 系列样品。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528083"
-  },
-  {
-    "post": "Financial_Express/3528082",
-    "datetime": "2026-10-12T19:34:42+00:00",
-    "views": "85",
-    "text": "美国国家橄榄球联盟（NFL）第 4 周赛事美国收视人数增长 7%，达 1660 万。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528082"
-  },
-  {
-    "post": "Financial_Express/3528081",
-    "datetime": "2026-10-12T19:34:02+00:00",
-    "views": "91",
-    "text": "英特尔(INTC.O)：开始向客户提供 GPU D 系列样品。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528081"
-  },
-  {
-    "post": "Financial_Express/3528080",
-    "datetime": "2026-10-12T19:33:42+00:00",
-    "views": "87",
-    "text": "英特尔(INTC.O)：加速推进面向智能体 AI 时代的开放基础设施。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528080"
   }
 ]
