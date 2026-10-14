@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3535219",
+    "datetime": "2026-10-14T16:50:33+00:00",
+    "views": "5",
+    "text": "摩根士丹利：需求抵消利率压力，黄金有望触及 5000 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535219"
+  },
+  {
+    "post": "Financial_Express/3535218",
+    "datetime": "2026-10-14T16:50:02+00:00",
+    "views": "14",
+    "text": "特朗普宣布格芯与阿拉斯加 LNG 投资计划 日韩将提供资金\n金十数据 10 月 15 日讯，美国总统特朗普宣布，格芯（GlobalFoundries）将在纽约州马耳他投资 210 亿美元，新建两座大型半导体制造设施，资金将由日本根据此前达成的贸易协议提供。项目预计创造 2.7 万个建筑及供应链岗位，以及超过 1000 个高技能制造岗位。特朗普同时宣布，美国政府将获得格芯股份，商务部将向硅光子学、硅锗及先进封装领域追加投资 9.55 亿美元，使累计投资达到 16.3 亿美元，目前政府持股价值据称已超过 20 亿美元。能源方面，特朗普宣布启动阿拉斯加液化天然气（AlaskaLNG）项目，称其为阿拉斯加州历史上规模最大的能源基础设施项目。根据此前达成的贸易和投资协议，韩国将向该项目投资 500 亿美元。特朗普表示，该项目已成为美国联邦政府项目，所有必要许可证和授权均已取得，可立即推进。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535218"
+  },
+  {
+    "post": "Financial_Express/3535217",
+    "datetime": "2026-10-14T16:49:42+00:00",
+    "views": "14",
+    "text": "特朗普：美国迎来又一笔 210 亿美元的巨额投资\n美国总统特朗普表示，在其领导下，格芯与由卢特尼克主管的美国商务部共同宣布，计划投入 210 亿美元，在纽约州马尔塔建设两座大型半导体制造工厂。该项目预计将在纽约创造 27000 个高薪建筑与供应链岗位，新增超过 1000 个高技能制造岗位。日本将为这项 210 亿美元的投资提供资金。他宣布，美国与格芯达成新协议，美国纳税人将获得格芯的股份。美国商务部将投入 9.55 亿美元用于硅光子、硅锗与先进封装领域。叠加这笔资金，总投资额达到 16.3 亿美元，美国政府所持股权当前价值已超 20 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535217"
+  },
+  {
     "post": "Financial_Express/3535216",
     "datetime": "2026-10-14T16:43:23+00:00",
-    "views": "65",
+    "views": "102",
     "text": "美国总统特朗普：美国商务部将向硅光子学、硅锗及先进封装领域追加投资 9.55 亿美元，使政府累计投资达到 16.3 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3535215",
     "datetime": "2026-10-14T16:43:22+00:00",
-    "views": "65",
+    "views": "72",
     "text": "美国总统特朗普：美国政府目前持有的 GlobalFoundries 股份价值已超过 20 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3535214",
     "datetime": "2026-10-14T16:42:42+00:00",
-    "views": "68",
+    "views": "104",
     "text": "SpaceXAI：Grok Voice 3.0 现已在语音代理 API 中上线，费用为每分钟 0.08 美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3535213",
     "datetime": "2026-10-14T16:42:35+00:00",
-    "views": "67",
+    "views": "103",
     "text": "SpaceXAI 宣布推出 Grok 语音 3.0，客户支持问题解决率创纪录，同时成本更低。\nGrok 语音 3.0 现已接入语音代理 API，定价为每分钟 0.08 美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3535212",
     "datetime": "2026-10-14T16:42:02+00:00",
-    "views": "99",
+    "views": "105",
     "text": "SpaceXAI 旗下 Grok 语音 3.0 现已接入语音代理 API，定价为每分钟 0.08 美元。",
     "media_only": false,
     "image_url": null,
@@ -47,8 +74,8 @@
   {
     "post": "Financial_Express/3535211",
     "datetime": "2026-10-14T16:41:53+00:00",
-    "views": "99",
-    "text": "美国总统特朗普：商务部长卢特尼克宣布一项 210 亿美元的大规模投资，将在纽约州马耳他新建两座大型半导体制造工厂。\n日本将为 210 亿美元的投资提供资金。\n与格芯达成附加协议，美国纳税人将获得格芯股份。\n商务部将向硅光子学、硅锗和先进封装领域投资 9.55 亿美元。",
+    "views": "104",
+    "text": "美国总统特朗普表示，在其领导下，格芯与由卢特尼克主管的美国商务部共同宣布，计划投入 210 亿美元，在纽约州马尔塔建设两座大型半导体制造工厂。该项目预计将在纽约创造 27000 个高薪建筑与供应链岗位，新增超过 1000 个高技能制造岗位。日本将为这项 210 亿美元的投资提供资金。他宣布，美国与格芯达成新协议，美国纳税人将获得格芯的股份。美国商务部将投入 9.55 亿美元用于硅光子、硅锗与先进封装领域。叠加这笔资金，总投资额达到 16.3 亿美元，美国政府所持股权当前价值已超 20 亿美元。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3535211"
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3535210",
     "datetime": "2026-10-14T16:41:43+00:00",
-    "views": "100",
+    "views": "103",
     "text": "SpaceXAI 宣布推出 Grok 语音 3.0，客户支持问题解决率创纪录，同时成本更低。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3535208",
     "datetime": "2026-10-14T16:41:42+00:00",
-    "views": "70",
+    "views": "103",
     "text": "美国总统特朗普：美国政府与 GlobalFoundries 达成额外协议，将获得该公司股份。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3535209",
     "datetime": "2026-10-14T16:41:42+00:00",
-    "views": "100",
+    "views": "103",
     "text": "特朗普：商务部将向硅光子学、硅锗和先进封装领域投资 9.55 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3535206",
     "datetime": "2026-10-14T16:41:23+00:00",
-    "views": "101",
+    "views": "104",
     "text": "特朗普：日本将为 210 亿美元的投资提供资金。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3535207",
     "datetime": "2026-10-14T16:41:23+00:00",
-    "views": "101",
+    "views": "104",
     "text": "特朗普：与格芯达成附加协议，美国纳税人将获得格芯股份。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3535205",
     "datetime": "2026-10-14T16:41:22+00:00",
-    "views": "71",
+    "views": "103",
     "text": "美国总统特朗普：该项目预计创造 2.7 万个建筑及供应链岗位，以及超过 1000 个高技能制造岗位。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3535204",
     "datetime": "2026-10-14T16:41:03+00:00",
-    "views": "72",
+    "views": "104",
     "text": "特朗普：卢特尼克宣布一项 210 亿美元的大规模投资，将在纽约州马耳他新建两座大型半导体制造工厂。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3535203",
     "datetime": "2026-10-14T16:41:02+00:00",
-    "views": "67",
+    "views": "69",
     "text": "美国总统特朗普：GlobalFoundries 将在纽约州马耳他投资 210 亿美元，新建两座大型半导体制造设施，资金将由日本根据此前达成的贸易协议提供。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3535202",
     "datetime": "2026-10-14T16:40:48+00:00",
-    "views": "63",
+    "views": "66",
     "text": "当地时间 14 日，伊朗伊斯兰革命卫队发言人穆赫比表示，尽管美国发动新的对伊战事不合逻辑，但这仍然很有可能发生。伊朗已做好准备，并会以更强大的力量回应任何新的侵略。如发动战争，美国将付出更加惨痛的代价。他还表示，美国官员声称伊朗领导人之间存在分歧和缺乏合作的说法完全是错误的，其目的只是为了掩盖美国在战争中的失败。（央视）",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3535201",
     "datetime": "2026-10-14T16:40:42+00:00",
-    "views": "58",
+    "views": "61",
     "text": "泽连斯基：星链问题可能是技术故障，星链疑似中断是一个重大错误，敦促马斯克恢复星链服务，星链服务中断可能导致人员伤亡。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3535200",
     "datetime": "2026-10-14T16:40:23+00:00",
-    "views": "60",
+    "views": "63",
     "text": "金十图示：2026 年 10 月 14 日（周三）美股热门股票行情一览（美股盘中）",
     "media_only": false,
     "image_url": null,
@@ -65761,95 +65788,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3527866"
-  },
-  {
-    "post": "Financial_Express/3527865",
-    "datetime": "2026-10-12T16:51:03+00:00",
-    "views": "70",
-    "text": "美联储哈玛克：清晰阐明政策反应机制十分重要，这样企业和家庭才能有效制定规划。美联储官员有责任解释他们的决策。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3527865"
-  },
-  {
-    "post": "Financial_Express/3527864",
-    "datetime": "2026-10-12T16:51:02+00:00",
-    "views": "68",
-    "text": "美联储哈玛克：认为明确反应机制对企业和家庭有效规划至关重要。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3527864"
-  },
-  {
-    "post": "Financial_Express/3527861",
-    "datetime": "2026-10-12T16:50:43+00:00",
-    "views": "61",
-    "text": "美联储哈玛克：不要理所当然地认为通胀预期已经固定，企业计划在任何原材料成本上涨之外提高价格，这表明“通胀思维”正在形成。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3527861"
-  },
-  {
-    "post": "Financial_Express/3527862",
-    "datetime": "2026-10-12T16:50:43+00:00",
-    "views": "60",
-    "text": "美联储哈玛克：美联储官员有责任解释他们的决策。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3527862"
-  },
-  {
-    "post": "Financial_Express/3527863",
-    "datetime": "2026-10-12T16:50:43+00:00",
-    "views": "58",
-    "text": "美联储哈玛克：如果公众理解美联储的政策方向，将有助于抑制市场波动、避免误判。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3527863"
-  },
-  {
-    "post": "Financial_Express/3527860",
-    "datetime": "2026-10-12T16:50:42+00:00",
-    "views": "62",
-    "text": "美联储哈玛克：稳定的劳动力市场为应对通胀留出了空间。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3527860"
-  },
-  {
-    "post": "Financial_Express/3527859",
-    "datetime": "2026-10-12T16:50:22+00:00",
-    "views": "63",
-    "text": "美联储哈玛克：能源并非唯一因素，强劲需求也在推动价格压力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3527859"
-  },
-  {
-    "post": "Financial_Express/3527858",
-    "datetime": "2026-10-12T16:49:43+00:00",
-    "views": "53",
-    "text": "英国内政大臣马哈茂德：在前大臣遇害事件后，宣布扩大对非议员政治人士的警务安保支持。宣布对知名人士安保安排展开审查。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3527858"
-  },
-  {
-    "post": "Financial_Express/3527857",
-    "datetime": "2026-10-12T16:49:42+00:00",
-    "views": "53",
-    "text": "美联储哈玛克：对合适的时机保持开放态度。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3527857"
-  },
-  {
-    "post": "Financial_Express/3527856",
-    "datetime": "2026-10-12T16:49:22+00:00",
-    "views": "58",
-    "text": "美联储哈玛克：最大风险是通胀思维。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3527856"
   }
 ]
