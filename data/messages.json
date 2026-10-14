@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3535384",
+    "datetime": "2026-10-14T18:50:43+00:00",
+    "views": "13",
+    "text": "布伦特原油期货收于每桶 106.06 美元，上涨 37 美分，涨幅 0.35%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535384"
+  },
+  {
+    "post": "Financial_Express/3535383",
+    "datetime": "2026-10-14T18:50:42+00:00",
+    "views": "14",
+    "text": "美国正向拉丁美洲部署数百名士兵，美军将与当地部队开展培训与演习。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535383"
+  },
+  {
+    "post": "Financial_Express/3535382",
+    "datetime": "2026-10-14T18:50:22+00:00",
+    "views": "19",
+    "text": "布伦特原油期货结算价为每桶 106.06 美元，上涨 37 美分，涨幅 0.35%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535382"
+  },
+  {
+    "post": "Financial_Express/3535381",
+    "datetime": "2026-10-14T18:50:02+00:00",
+    "views": "28",
+    "text": "OpenAI：欧洲企业正在迅速扩大对 AI 智能体的使用。如今，我们欧盟企业和商业客户使用 AI 的案例中，超过一半涉及这类工具；小企业用户数量也在整个地区增长了 8 倍。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535381"
+  },
+  {
+    "post": "Financial_Express/3535380",
+    "datetime": "2026-10-14T18:49:42+00:00",
+    "views": "31",
+    "text": "市场资讯：美国向拉丁美洲派遣数百名士兵。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535380"
+  },
+  {
     "post": "Financial_Express/3535379",
     "datetime": "2026-10-14T18:49:03+00:00",
-    "views": "4",
+    "views": "35",
     "text": "美国国务院：鲁比奥支持埃塞俄比亚与厄立特里亚缓和局势。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3535378",
     "datetime": "2026-10-14T18:49:02+00:00",
-    "views": "5",
+    "views": "36",
     "text": "美国国务院：鲁比奥周三与埃塞俄比亚总理阿比·艾哈迈德·阿里讨论了埃塞俄比亚与厄立特里亚之间的紧张局势。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3535377",
     "datetime": "2026-10-14T18:47:42+00:00",
-    "views": "34",
+    "views": "51",
     "text": "泽连斯基：不是特朗普，不是马斯克，世界上任何人都不能决定乌克兰的总统人选。只有乌克兰人民才能决定。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3535376",
     "datetime": "2026-10-14T18:40:42+00:00",
-    "views": "63",
+    "views": "72",
     "text": "美联储巴尔金：明天的 PPI 数据将有助于我判断通货膨胀的走势。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3535375",
     "datetime": "2026-10-14T18:40:02+00:00",
-    "views": "61",
+    "views": "69",
     "text": "美国八个州起诉 OpenAI，称 ChatGPT 对儿童造成伤害。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3535374",
     "datetime": "2026-10-14T18:39:42+00:00",
-    "views": "58",
+    "views": "65",
     "text": "美国八个州起诉 OpenAI，称 ChatGPT 对儿童有害。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3535373",
     "datetime": "2026-10-14T18:38:42+00:00",
-    "views": "86",
+    "views": "92",
     "text": "市场资讯：苹果起诉 OpenAI 窃取商业秘密一案的主审法官表示，他“极有可能”批准苹果的禁令申请，禁止目前任职于 OpenAI 的苹果前员工使用苹果的专有信息。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3535371",
     "datetime": "2026-10-14T18:37:43+00:00",
-    "views": "86",
+    "views": "90",
     "text": "美联储巴尔金：CPI 报告高于我的预期。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3535372",
     "datetime": "2026-10-14T18:37:43+00:00",
-    "views": "86",
+    "views": "91",
     "text": "美联储巴尔金：生产者价格数据将有助于研判通胀前景。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3535370",
     "datetime": "2026-10-14T18:37:42+00:00",
-    "views": "86",
+    "views": "89",
     "text": "美联储巴尔金：我不想对 10 月 FOMC 会议的结果做出预测。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3535369",
     "datetime": "2026-10-14T18:36:59+00:00",
-    "views": "81",
+    "views": "84",
     "text": "美国里士满联储主席 Barkin：不希望预测 10 月份 FOMC 货币政策会议的结果。\n美国 9 月 CPI 通胀数据高于我本来想要看到的水平。\nPPI 数据将对通胀前景提供帮助。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3535368",
     "datetime": "2026-10-14T18:36:23+00:00",
-    "views": "79",
+    "views": "81",
     "text": "美联储巴尔金：不想预测 10 月 FOMC 会议的结果。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3535367",
     "datetime": "2026-10-14T18:36:22+00:00",
-    "views": "78",
+    "views": "80",
     "text": "美联储巴尔金：CPI 报告高于希望看到的水平。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3535366",
     "datetime": "2026-10-14T18:36:02+00:00",
-    "views": "74",
+    "views": "77",
     "text": "美国联邦调查局局长帕特尔：MS NOW 刚刚报道称我“抵达俄罗斯”与俄联邦安全局会面。这家媒体不断散布关于 FBI 及执法部门在保护美国人民方面历史性成就的谎言。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3535365",
     "datetime": "2026-10-14T18:32:37+00:00",
-    "views": "68",
+    "views": "71",
     "text": "WTI 11 月原油期货收涨 0.95 美元，涨幅 1.01%，报 95.09 美元/桶。\nNYMEX 11 月天然气期货收报 3.1980 美元/百万英热单位。\nNYMEX 11 月汽油期货收报 3.2595 美元/加仑，NYMEX 11 月取暖油期货收报 4.9274 美元/加仑。",
     "media_only": false,
     "image_url": null,
@@ -65824,14 +65869,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3528022"
-  },
-  {
-    "post": "Financial_Express/3528021",
-    "datetime": "2026-10-12T18:51:03+00:00",
-    "views": "79",
-    "text": "惠誉评级：墨西哥地方政府在温和增长前景下维持财务稳定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528021"
   }
 ]
