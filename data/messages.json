@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3535505",
     "datetime": "2026-10-14T20:35:22+00:00",
-    "views": "7",
+    "views": "9",
     "text": "美国最高法院在有关低价政治广告费率使用资格的争议中，再次作出有利于共和党的裁决。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3535504",
     "datetime": "2026-10-14T20:34:22+00:00",
-    "views": "10",
+    "views": "13",
     "text": "美国至 10 月 9 日当周 API 成品油进口 3 万桶/日，前值-38 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3535502",
     "datetime": "2026-10-14T20:34:02+00:00",
-    "views": "10",
+    "views": "13",
     "text": "美国至 10 月 9 日当周 API 取暖油库存 -7 万桶，前值 90.2 万桶。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3535503",
     "datetime": "2026-10-14T20:34:02+00:00",
-    "views": "10",
+    "views": "13",
     "text": "美国至 10 月 9 日当周 API 原油进口 -109.1 万桶，前值 119.5 万桶。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3535501",
     "datetime": "2026-10-14T20:33:43+00:00",
-    "views": "11",
+    "views": "14",
     "text": "美国至 10 月 9 日当周 API 原油库存 -1112.3 万桶，预期 190 万桶，前值-209 万桶。\n美国至 10 月 9 日当周 API 汽油库存 109.1 万桶，预期-80 万桶，前值-136.5 万桶。\n美国至 10 月 9 日当周 API 精炼油库存 -145.8 万桶，预期-200 万桶，前值 46.1 万桶。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3535500",
     "datetime": "2026-10-14T20:33:42+00:00",
-    "views": "11",
+    "views": "14",
     "text": "美国至 10 月 9 日当周 API 库欣原油库存 182.3 万桶，前值 86.6 万桶。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3535499",
     "datetime": "2026-10-14T20:33:23+00:00",
-    "views": "13",
+    "views": "16",
     "text": "美国至 10 月 9 日当周 API 精炼油库存 -145.8 万桶，预期-200 万桶，前值 46.1 万桶。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3535498",
     "datetime": "2026-10-14T20:33:22+00:00",
-    "views": "14",
+    "views": "17",
     "text": "美国至 10 月 9 日当周 API 汽油库存 109.1 万桶，预期-80 万桶，前值-136.5 万桶。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3535497",
     "datetime": "2026-10-14T20:33:07+00:00",
-    "views": "14",
+    "views": "16",
     "text": "上周，美国 API 原油库存 -1112.3 万桶，之前一周 -210 万桶。\n上周 API 库欣原油库存 +182.3 万桶，前值 +86.6 万桶。\n上周 API 成品油汽油库存 +109.1 万桶（前值 -140 万桶）、馏分油库存 -145.8 万桶（前值 +46.1 万桶）。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3535496",
     "datetime": "2026-10-14T20:32:02+00:00",
-    "views": "18",
+    "views": "20",
     "text": "特朗普谈及埃隆・马斯克：埃隆八成是超级天才，剩下两成有点问题。我一直这么跟他说。他是个很棒的人。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3535495",
     "datetime": "2026-10-14T20:31:42+00:00",
-    "views": "20",
+    "views": "21",
     "text": "美国至 10 月 9 日当周 API 投产原油量 11.8 万桶/日，前值 9.2 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3535494",
     "datetime": "2026-10-14T20:28:55+00:00",
-    "views": "31",
+    "views": "32",
     "text": "标普 500 指数的 11 个板块中，信息技术/科技板块收跌 2.62%，电信板块跌 1.73%，可选消费板块跌 1.1%，能源板块涨 0.8%——雪佛龙、埃克森美孚、Marathon Petroleum 创历史新高，保健板块涨 2.44%。",
     "media_only": false,
     "image_url": null,
@@ -65878,23 +65878,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3528143"
-  },
-  {
-    "post": "Financial_Express/3528142",
-    "datetime": "2026-10-12T20:37:42+00:00",
-    "views": "84",
-    "text": "Meta Platforms(META.O)将于 2026 年第三季度公布财报。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528142"
-  },
-  {
-    "post": "Financial_Express/3528141",
-    "datetime": "2026-10-12T20:37:22+00:00",
-    "views": "84",
-    "text": "Meta 将公布 2026 年第三季度财报。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528141"
   }
 ]
