@@ -1,9 +1,63 @@
 [
   {
+    "post": "Financial_Express/3534729",
+    "datetime": "2026-10-14T13:22:42+00:00",
+    "views": "1",
+    "text": "哈塞特：经济实力显而易见。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3534729"
+  },
+  {
+    "post": "Financial_Express/3534727",
+    "datetime": "2026-10-14T13:22:03+00:00",
+    "views": "2",
+    "text": "哈塞特：能源冲击才是今天真正的头条新闻。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3534727"
+  },
+  {
+    "post": "Financial_Express/3534728",
+    "datetime": "2026-10-14T13:22:03+00:00",
+    "views": "2",
+    "text": "哈塞特：在总体数据之下，有很多好消息。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3534728"
+  },
+  {
+    "post": "Financial_Express/3534726",
+    "datetime": "2026-10-14T13:22:02+00:00",
+    "views": "2",
+    "text": "美国白宫国家经济委员会主任哈塞特：从整体数据来看，其中有不少积极信号。今天的头条新闻确实是能源冲击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3534726"
+  },
+  {
+    "post": "Financial_Express/3534725",
+    "datetime": "2026-10-14T13:21:42+00:00",
+    "views": "2",
+    "text": "美国银行首席执行官布莱恩·莫伊尼汉：我们对公司现有的团队和领导层非常有信心。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3534725"
+  },
+  {
+    "post": "Financial_Express/3534724",
+    "datetime": "2026-10-14T13:21:26+00:00",
+    "views": "2",
+    "text": "白宫国家经济委员会主任哈塞特：总体通胀数据令人失望。\n总体通胀数据内部有很多好消息。\n能源冲击确实是今天的主要新闻。\n经济强劲势头显而易见。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3534724"
+  },
+  {
     "post": "Financial_Express/3534723",
     "datetime": "2026-10-14T13:21:03+00:00",
-    "views": "1",
-    "text": "哈塞特：整体通胀数据令人失望。",
+    "views": "33",
+    "text": "美国白宫国家经济委员会主任哈塞特：总体通胀数据令人失望。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3534723"
@@ -11,8 +65,8 @@
   {
     "post": "Financial_Express/3534722",
     "datetime": "2026-10-14T13:21:02+00:00",
-    "views": "1",
-    "text": "美国白宫国家经济委员会主任哈塞特：核心通胀数据令人失望。",
+    "views": "33",
+    "text": "美国白宫国家经济委员会主任哈塞特：总体通胀数据令人失望。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3534722"
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3534721",
     "datetime": "2026-10-14T13:20:22+00:00",
-    "views": "2",
+    "views": "34",
     "text": "惠誉：通胀数据是对美联储的红灯警告，月底加息已进入讨论范围\n金十数据 10 月 14 日讯，惠誉评级美国经济主管奥卢·索诺拉表示，这份通胀报告对美联储来说是红灯警告。能源通胀如预期般推高了整体数据，但真正的问题在于核心通胀（超级核心服务通胀）仍卡在 3%以上。更高的能源成本正开始渗入更广泛的服务价格，增加了这轮通胀爆发持续下去的风险。月底加息现在已明确进入讨论范围，但 12 月仍是更可能的行动时点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3534720",
     "datetime": "2026-10-14T13:20:02+00:00",
-    "views": "3",
+    "views": "35",
     "text": "阿斯麦首席执行官：我们机器价格上涨的全面影响将在 2028 年显现。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3534718",
     "datetime": "2026-10-14T13:19:42+00:00",
-    "views": "4",
+    "views": "35",
     "text": "英国能源大臣：英国政府即将决定是否批准开发北海 Jackdaw 天然气田。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3534719",
     "datetime": "2026-10-14T13:19:42+00:00",
-    "views": "4",
+    "views": "35",
     "text": "英国能源大臣：我们已经获得有关 Jackdaw 气田的全部资料，相关部门也已完成审查，因此很快就会作出决定。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3534717",
     "datetime": "2026-10-14T13:19:03+00:00",
-    "views": "34",
+    "views": "36",
     "text": "新加坡西部 24 小时 PSI 达到“非常不健康”水平。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3534716",
     "datetime": "2026-10-14T13:19:02+00:00",
-    "views": "34",
+    "views": "35",
     "text": "江丰电子：2026 年 10 月 14 日董事会审议通过 H 股上市议案\n江丰电子公告，公司拟发行境外上市股票（H 股）并申请在香港联合交易所有限公司主板挂牌上市。2026 年 10 月 14 日，公司董事会审议通过相关议案，目前正与相关中介机构商讨本次发行上市工作，具体细节尚未确定，尚需提交股东会审议并取得相关批准、核准或备案。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3534715",
     "datetime": "2026-10-14T13:18:44+00:00",
-    "views": "34",
+    "views": "35",
     "text": "江丰电子：拟发行 H 股并申请在香港联交所主板挂牌上市。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3534714",
     "datetime": "2026-10-14T13:18:24+00:00",
-    "views": "34",
+    "views": "35",
     "text": "本季度国内智能手机总出货量 5930 万台，同比下滑 12%，创下自 2013 年以来同期最低出货水平。市场格局出现明显分化，前五品牌中只有华为与苹果实现正增长。（界面新闻）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3534713",
     "datetime": "2026-10-14T13:18:03+00:00",
-    "views": "34",
+    "views": "35",
     "text": "Regan Capital 首席投资官：美国通胀顽固，且正朝错误方向发展\nRegan Capital 首席投资官 Skyler Weinand 表示，美国最新通胀数据进一步表明价格压力依然顽固，而且走势正在恶化。他称，“现在比以往任何时候都更清楚，通胀依然顽固，并且正朝错误的方向发展。”",
     "media_only": false,
     "image_url": null,
