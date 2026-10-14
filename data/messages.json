@@ -1,8 +1,116 @@
 [
   {
+    "post": "Financial_Express/3533412",
+    "datetime": "2026-10-14T08:09:03+00:00",
+    "views": "1",
+    "text": "XBOW 借助 GPT-5.6 Sol 攻破 Chrome 安全沙箱，获谷歌 25 万美元漏洞奖励\n网络安全公司 XBOW 10 月 13 日宣布，其一名安全研究人员在 OpenAI GPT-5.6 Sol 模型及 AI 智能体协助下，用 6 天时间构建出由 3 个此前未知漏洞组成的 Chrome 完整攻击链，并获得谷歌 25 万美元漏洞奖励，为谷歌 2026 年新规则下首个 Chrome 全链路奖励。该攻击链首先利用 V8 JavaScript 引擎漏洞取得沙箱内存控制，再通过 Chrome 动态 WebP 解码器漏洞 CVE-2026-85045 突破沙箱，最终借助运行于沙箱外的 Crashpad 漏洞 CVE-2026-78952 实现完整代码执行，仅需用户加载网页即可触发，无需额外下载或点击。XBOW 称，这类漏洞在修复前理论上影响全球约 10 亿 Windows 版 Chrome 用户，整个研究过程估算消耗约 4 万美元算力。相关漏洞已上报谷歌并完成修复，XBOW 称没有证据表明这些漏洞曾被用于实际攻击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3533412"
+  },
+  {
+    "post": "Financial_Express/3533411",
+    "datetime": "2026-10-14T08:09:02+00:00",
+    "views": "1",
+    "text": "田中精机：原子公司佑富智能破产清算程序终结\n田中精机公告称，公司于 2026 年 10 月 13 日收到深圳中院民事裁定书，裁定终结原子公司深圳市佑富智能装备有限公司破产清算程序。佑富智能现有破产财产已完成分配，破产程序终结后管理人将继续处置其对外投资股权、追收应收账款并进行追加分配，遗留事项处理完毕后办理注销登记。佑富智能自 2025 年 8 月 25 日起不再纳入公司合并报表范围，本次破产程序终结不影响公司现有业务经营，后续破产财产分配对公司财务的影响以执行结果及审计为准。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3533411"
+  },
+  {
+    "post": "Financial_Express/3533409",
+    "datetime": "2026-10-14T08:08:43+00:00",
+    "views": "2",
+    "text": "IEA 月报：前景仍取决于霍尔木兹海峡流量的持续恢复。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3533409"
+  },
+  {
+    "post": "Financial_Express/3533410",
+    "datetime": "2026-10-14T08:08:43+00:00",
+    "views": "2",
+    "text": "瑞士官员：瑞士人必须保持冷静，和美国打交道时保持清醒的头脑。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3533410"
+  },
+  {
+    "post": "Financial_Express/3533408",
+    "datetime": "2026-10-14T08:08:42+00:00",
+    "views": "2",
+    "text": "IEA 月报：海湾产油国（不包括阿曼）的石油出口量比战争前水平低 33%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3533408"
+  },
+  {
+    "post": "Financial_Express/3533407",
+    "datetime": "2026-10-14T08:08:22+00:00",
+    "views": "2",
+    "text": "IEA 月报：预测欧佩克产量将在 2027 年增加 500 万桶/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3533407"
+  },
+  {
+    "post": "Financial_Express/3533406",
+    "datetime": "2026-10-14T08:08:03+00:00",
+    "views": "3",
+    "text": "国际能源署：中东炼厂开工提升，燃料外运量增加\n国际能源署在月度石油市场报告中表示，中东主要产油国成品油出口增长，反映该地区炼油活动回暖，四季度原油加工量将走高。9 月中东成品油出口增加 21 万桶/日，至 190 万桶/日；液化石油气出口增加 9 万桶/日，至 67 万桶/日，而战前二者分别为 470 万桶/日与 150 万桶/日。中东成品油及液化石油气出口增速不及原油，出口规模仍不足战前水平的一半。科威特炼厂生产符合欧 5 标准的中间馏分油，是欧洲供应的重要来源，近期开工情况出现好转迹象。关于祖尔炼厂，国际能源署称，据报道该厂三套原油蒸馏装置现已全部投产；但出口流量仍远低于约 60%产能利用率所对应的理论出口水平。对于巴林锡特拉炼厂，国际能源署表示，初步海运贸易数据显示近几周成品油出口持续增长，不过出口仍主要局限于海湾区域内贸易。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3533406"
+  },
+  {
+    "post": "Financial_Express/3533405",
+    "datetime": "2026-10-14T08:08:02+00:00",
+    "views": "3",
+    "text": "IEA 月报：预测欧佩克产量将在 2026 年下降 650 万桶/日；非欧佩克产量将在 2026 年增加 270 万桶/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3533405"
+  },
+  {
+    "post": "Financial_Express/3533402",
+    "datetime": "2026-10-14T08:07:43+00:00",
+    "views": "7",
+    "text": "IEA 月报：预计全球石油供应将在 2027 年反弹 770 万桶/日，之前预测为 800 万桶/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3533402"
+  },
+  {
+    "post": "Financial_Express/3533403",
+    "datetime": "2026-10-14T08:07:43+00:00",
+    "views": "7",
+    "text": "IEA 警告全球柴油供应紧张将持续至明年，中东出口恢复缓慢拖累市场\n2026 年前九个月，全球柴油出口平均为 470 万桶/日，同比下降 10%。其中，9 月份中东和俄罗斯的合计柴油净出口量下降超过 60%。IEA 表示，近期原油运输恢复并未同步带动柴油供应恢复，原因在于炼厂运营、成品油出口能力以及区域物流仍受到地缘政治冲突影响。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3533403"
+  },
+  {
+    "post": "Financial_Express/3533404",
+    "datetime": "2026-10-14T08:07:43+00:00",
+    "views": "7",
+    "text": "Liquidia 股价在盘前交易中大涨 44.4%，此前该公司已了结与联合治疗公司（United Therapeutics）的全部诉讼。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3533404"
+  },
+  {
+    "post": "Financial_Express/3533401",
+    "datetime": "2026-10-14T08:07:42+00:00",
+    "views": "7",
+    "text": "乘联分会：10 月 1-11 日，全国乘用车新能源市场零售 28.1 万辆\n10 月 1-11 日，全国乘用车新能源市场零售 28.1 万辆，同比去年 10 月同期下降 13%，较上月同期下降 7%，今年以来累计零售 803.9 万辆，同比下降 13%；10 月 1-11 日，全国乘用车厂商新能源批发 30.1 万辆，同比去年 10 月同期增长 6%，较上月同期下降 11%，今年以来累计批发 1175 万辆，同比增长 9%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3533401"
+  },
+  {
     "post": "Financial_Express/3533400",
     "datetime": "2026-10-14T08:07:14+00:00",
-    "views": "1",
+    "views": "8",
     "text": "东方锆业公告，预计 2026 年前三季度归母净利润 1.4 亿元至 1.8 亿元，上年同期 3868.12 万元，同比增长 261.93%至 365.34%；扣非净利润 1.4 亿元至 1.8 亿元，同比增长 263.64%至 367.53%。主要因锆材料下游新兴应用领域需求快速增长，国产替代进程加快，公司主要产品量价齐升，带动营业收入实现较快增长；公司加强内部管理，深入推进降本增效，通过工艺改良和设备改造降低原辅材料单耗与能源消耗，系统优化主要原材料采购策略，有效压降生产成本；公司持续优化产品结构，强化精细化运营和费用管控，产能利用率进一步提升，有效摊薄单位固定成本，规模效应持续显现。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +119,7 @@
   {
     "post": "Financial_Express/3533399",
     "datetime": "2026-10-14T08:07:02+00:00",
-    "views": "3",
+    "views": "10",
     "text": "IEA 月报：非欧佩克产量在九月份增加了 48 万桶/日，主要受阿联酋推动。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +128,7 @@
   {
     "post": "Financial_Express/3533398",
     "datetime": "2026-10-14T08:06:42+00:00",
-    "views": "5",
+    "views": "10",
     "text": "IEA 月报：欧佩克+ 产量在九月份增加了 210 万桶/日，主要受沙特推动。",
     "media_only": false,
     "image_url": null,
@@ -29,8 +137,8 @@
   {
     "post": "Financial_Express/3533397",
     "datetime": "2026-10-14T08:06:38+00:00",
-    "views": "5",
-    "text": "IEA 月报：9 月海湾地区原油出口约为冲突前水平的 75%。",
+    "views": "10",
+    "text": "IEA 月报：9 月海湾地区原油出口约为冲突前水平的 75%。\n9 月海湾地区原油出口增加 440 万桶/日至 1390 万桶/日，由沙特领涨。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3533397"
@@ -38,7 +146,7 @@
   {
     "post": "Financial_Express/3533395",
     "datetime": "2026-10-14T08:06:22+00:00",
-    "views": "5",
+    "views": "10",
     "text": "IEA 月报：由于航运袭击和胡塞武装的打击，经济复苏依然脆弱。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +155,7 @@
   {
     "post": "Financial_Express/3533396",
     "datetime": "2026-10-14T08:06:22+00:00",
-    "views": "5",
+    "views": "10",
     "text": "乘联分会：10 月 1-11 日，全国乘用车新能源市场零售 28.1 万辆\n据乘联分会，10 月 1-11 日，全国乘用车新能源市场零售 28.1 万辆，同比去年 10 月同期下降 13%，较上月同期下降 7%，今年以来累计零售 803.9 万辆，同比下降 13%；10 月 1-11 日，全国乘用车厂商新能源批发 30.1 万辆，同比去年 10 月同期增长 6%，较上月同期下降 11%，今年以来累计批发 1,175 万辆，同比增长 9%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +164,7 @@
   {
     "post": "Financial_Express/3533394",
     "datetime": "2026-10-14T08:06:02+00:00",
-    "views": "7",
+    "views": "40",
     "text": "IEA 月报：全球柴油出口在九月份同比减少 70 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +173,7 @@
   {
     "post": "Financial_Express/3533393",
     "datetime": "2026-10-14T08:05:42+00:00",
-    "views": "7",
+    "views": "39",
     "text": "IEA 月报：增产主要由波斯湾产油国推动。",
     "media_only": false,
     "image_url": null,
@@ -62683,50 +62791,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3526402"
-  },
-  {
-    "post": "Financial_Express/3526397",
-    "datetime": "2026-10-12T08:08:02+00:00",
-    "views": "2",
-    "text": "坤彩科技：实控人终止减持计划，体现其对公司长期价值的认可\n有投资者向坤彩科技（603826.SH）提问，公司实控人前脚终止减持，后脚就高位解押、低位补质押，质押股数反倒净增加了四百多万股，请问实控人资金压力是不是反而越来越大？接下来会不会继续通过新增质押腾挪资金，质押比例还要升到多少？10 月 12 日，公司回答表示，实控人终止减持计划，体现其对公司长期价值的认可。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3526397"
-  },
-  {
-    "post": "Financial_Express/3526398",
-    "datetime": "2026-10-12T08:08:02+00:00",
-    "views": "2",
-    "text": "泽连斯基称乌克兰正面临俄罗斯新一轮的升级行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3526398"
-  },
-  {
-    "post": "Financial_Express/3526396",
-    "datetime": "2026-10-12T08:08:01+00:00",
-    "views": "2",
-    "text": "16 点 07 分，22 光大银行二级资本债 01A（092280080.IB）外汇交易中心显示成交价 101.40 元，较前一交易日中债估值 107.10 元偏离-5.32%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3526396"
-  },
-  {
-    "post": "Financial_Express/3526395",
-    "datetime": "2026-10-12T08:07:43+00:00",
-    "views": "2",
-    "text": "新加坡总理表示，新加坡希望全面拥抱和利用人工智能。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3526395"
-  },
-  {
-    "post": "Financial_Express/3526394",
-    "datetime": "2026-10-12T08:07:23+00:00",
-    "views": "2",
-    "text": "波兰总理图斯克：从华沙到华盛顿的每一笔资本都必须展现我们对乌克兰问题的团结。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3526394"
   }
 ]
