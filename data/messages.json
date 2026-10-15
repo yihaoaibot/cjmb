@@ -1,5 +1,41 @@
 [
   {
+    "post": "Financial_Express/3535736",
+    "datetime": "2026-10-15T00:04:03+00:00",
+    "views": "1",
+    "text": "日经指数下跌 2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535736"
+  },
+  {
+    "post": "Financial_Express/3535735",
+    "datetime": "2026-10-15T00:04:02+00:00",
+    "views": "1",
+    "text": "受人工智能投资担忧和美国加息预期的影响，日经平均指数下跌超过 1400 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535735"
+  },
+  {
+    "post": "Financial_Express/3535734",
+    "datetime": "2026-10-15T00:03:42+00:00",
+    "views": "1",
+    "text": "MSCI 亚太指数下跌 1%至 266.28 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535734"
+  },
+  {
+    "post": "Financial_Express/3535733",
+    "datetime": "2026-10-15T00:03:22+00:00",
+    "views": "1",
+    "text": "美监督组织寻求阻止特朗普女婿担任美国外交特使\n金十数据 10 月 15 日讯，华盛顿公民责任与道德组织（CREW）周三起诉美国总统特朗普的女婿库什纳，要求阻止其在未披露个人财务状况及潜在利益冲突的情况下，以志愿者身份担任政府重要外交特使。CREW 认为，库什纳深度参与美国重大外交事务，应被视为正式政府雇员，遵守相关财务披露和道德规范。库什纳目前经营一家管理数十亿美元外国资产的投资公司，同时参与以色列与哈马斯、俄罗斯与乌克兰以及美国与伊朗等事务的谈判。库什纳的律师称诉讼毫无法律依据，并表示外部道德合规顾问及政府道德事务律师已确认其志愿服务安排符合规定。白宫则称，库什纳的商业活动与外交工作无关，相关费用均由其自行承担。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535733"
+  },
+  {
     "post": "Financial_Express/3535732",
     "datetime": "2026-10-15T00:01:23+00:00",
     "views": "3",
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3535731",
     "datetime": "2026-10-15T00:01:22+00:00",
-    "views": "3",
+    "views": "34",
     "text": "韩国股指开盘大跌逾 5%\n金十数据 10 月 15 日讯，韩国 KOSPI 指数跌破 6000 点，日内跌 5.59%。SK 海力士跌超 7%，三星电子跌超 6%。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +56,8 @@
   {
     "post": "Financial_Express/3535730",
     "datetime": "2026-10-15T00:01:03+00:00",
-    "views": "3",
-    "text": "SK 海力士股价下跌 7%。",
+    "views": "33",
+    "text": "SK 海力士股价下跌 7％，三星电子股价下跌逾 6％。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3535730"
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3535729",
     "datetime": "2026-10-15T00:01:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "韩国综合股价指数（KOSPI）开盘下跌 5.6%，至 5673.01 点。",
     "media_only": false,
     "image_url": null,
@@ -38,8 +74,8 @@
   {
     "post": "Financial_Express/3535728",
     "datetime": "2026-10-15T00:00:49+00:00",
-    "views": "3",
-    "text": "日经 225 指数低开 1.3%，韩国首尔综指低开 5.6%。",
+    "views": "33",
+    "text": "日经 225 指数低开 1.3%，韩国首尔综指低开 5.6%。\nSK 海力士跌 7%，三星电子跌超 6%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3535728"
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3535727",
     "datetime": "2026-10-15T00:00:42+00:00",
-    "views": "3",
+    "views": "33",
     "text": "日韩股市开盘\n日经 225 指数上午开盘报 66880.37 点，跌幅 1.28％。韩国综合股价指数（KOSPI）开盘下跌 5.6％，至 5673.01 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3535726",
     "datetime": "2026-10-15T00:00:22+00:00",
-    "views": "3",
+    "views": "33",
     "text": "布伦特原油突破 106 美元/桶，日内跌 0.24%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3535725",
     "datetime": "2026-10-15T00:00:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "日本 10 年期国债收益率下跌 4.5 个基点，至 2.95%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3535722",
     "datetime": "2026-10-14T23:59:02+00:00",
-    "views": "5",
+    "views": "35",
     "text": "10 年期日本国债收益率下跌 4.5 个基点至 2.95%。",
     "media_only": false,
     "image_url": null,
@@ -65644,32 +65680,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3528391"
-  },
-  {
-    "post": "Financial_Express/3528390",
-    "datetime": "2026-10-13T00:04:42+00:00",
-    "views": "51",
-    "text": "法国数百家超市制冷系统遭网攻 大量食品变质\n金十数据 10 月 13 日讯，据法国方面 12 日消息，法国数百家超市的制冷系统 11 日夜间遭遇大规模网络攻击，导致大量生鲜及冷冻产品变质。据悉，黑客利用制冷控制系统的漏洞发动攻击，这款系统被法国众多商超使用。黑客远程启动制冷设备的强制除霜功能，并将温度设定为 50 摄氏度，导致设备连续数小时加热，无法维持相关商品所需的低温存放环境。据业内消息人士表示，此次网络攻击在法国全国范围造成的损失可能高达数百万欧元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528390"
-  },
-  {
-    "post": "Financial_Express/3528389",
-    "datetime": "2026-10-13T00:04:22+00:00",
-    "views": "50",
-    "text": "法国数百家超市制冷系统遭网攻 大量食品变质\n据法国方面 12 日消息，法国数百家超市的制冷系统 11 日夜间遭遇大规模网络攻击，导致大量生鲜及冷冻产品变质。据悉，黑客利用制冷控制系统的漏洞发动攻击，这款系统被法国众多商超使用。黑客远程启动制冷设备的强制除霜功能，并将温度设定为 50 摄氏度，导致设备连续数小时加热，无法维持相关商品所需的低温存放环境。据业内消息人士表示，此次网络攻击在法国全国范围造成的损失可能高达数百万欧元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528389"
-  },
-  {
-    "post": "Financial_Express/3528388",
-    "datetime": "2026-10-13T00:04:02+00:00",
-    "views": "47",
-    "text": "搜狗问问将于 11 月 7 日停服\n10 月 13 日消息，搜狗问问日前发布停止服务公告。搜狗问问及问问商城将于 2026 年 11 月 7 日 23 时 59 分正式停止服务，届时相关页面将无法继续访问，问豆兑换功能同步关闭。停服后，用户账号将自动注销，无需手动操作。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528388"
   }
 ]
