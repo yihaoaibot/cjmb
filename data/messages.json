@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3538943",
+    "datetime": "2026-10-15T17:25:42+00:00",
+    "views": "8",
+    "text": "特朗普：我们实现了有记录以来暴力犯罪的最大降幅。谋杀率骤降至 125 年来最低水平。自我上任以来，药物过量致死人数逐月下降。执勤中殉职的警察人数降至 80 年来最低点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3538943"
+  },
+  {
+    "post": "Financial_Express/3538942",
+    "datetime": "2026-10-15T17:25:32+00:00",
+    "views": "9",
+    "text": "美国财政部长斯科特·贝森特 8 月出人意料扩大旧券回购规模的决定曾令一些华尔街交易员措手不及，他们如今正在为财政部可能采取更多主动干预措施做准备。随着财政部准备在 11 月份发布最新的债务管理计划，市场本周五或许会获得关键线索。贝森特所谓的“财政部扭曲操作”，是对美国国债收益率大幅攀升的回应。\n本周五，主要国债一级交易商将在再融资公告前收到财政部的一份调查问卷。市场人士认为，问卷内容本身可能成为观察贝森特政策倾向的一种“罗夏墨迹测试”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3538942"
+  },
+  {
     "post": "Financial_Express/3538941",
     "datetime": "2026-10-15T17:24:43+00:00",
-    "views": "3",
+    "views": "13",
     "text": "ANTHROPIC：向其他几家评估机构提供更有限的信息，且这些机构的发布权限也受到更多限制。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3538940",
     "datetime": "2026-10-15T17:24:42+00:00",
-    "views": "3",
+    "views": "13",
     "text": "墨西哥主要股指上涨 1%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3538939",
     "datetime": "2026-10-15T17:24:22+00:00",
-    "views": "6",
+    "views": "43",
     "text": "美国总统特朗普： 墨西哥应该打击贩毒集团，但他们做不到。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3538938",
     "datetime": "2026-10-15T17:24:02+00:00",
-    "views": "9",
+    "views": "46",
     "text": "Anthropic 还在与其他潜在评估方进行洽谈。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3538937",
     "datetime": "2026-10-15T17:21:43+00:00",
-    "views": "9",
+    "views": "45",
     "text": "ANTHROPIC：埃森哲、FACULTY 合作开展模型红队评估与保障测试。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3538936",
     "datetime": "2026-10-15T17:21:42+00:00",
-    "views": "9",
+    "views": "45",
     "text": "Anthropic：将向相关评估人员提供员工级访问权限，以开展前沿 AI 模型风险评估。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3538935",
     "datetime": "2026-10-15T17:21:24+00:00",
-    "views": "9",
+    "views": "45",
     "text": "CoreWeave 股价转账，此前一度跌 9.5%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3538934",
     "datetime": "2026-10-15T17:21:22+00:00",
-    "views": "9",
+    "views": "45",
     "text": "COREWEAVE 股价转涨，此前一度下跌 9.5%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3538933",
     "datetime": "2026-10-15T17:21:05+00:00",
-    "views": "39",
+    "views": "44",
     "text": "Anthropic PBC：授予员工级访问权限，用于前沿人工智能（AI）模型评估。\nMETR 将发布 Anthropic AI 模型的风险评估结果。\n公司正与独立评估员（包括埃森哲、Faculty）合作，来测试诸多模型。\nMETR 将披露风险评估的结果。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3538932",
     "datetime": "2026-10-15T17:21:03+00:00",
-    "views": "8",
+    "views": "43",
     "text": "ANTHROPIC：为前沿人工智能模型的独立评估机构建立三级访问框架。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3538930",
     "datetime": "2026-10-15T17:21:02+00:00",
-    "views": "8",
+    "views": "42",
     "text": "Meta Platforms(META.O)：Muse Spark Open 的模型权重现已开放下载，可通过亚马逊 SageMaker AI、谷歌云 Model Garden、Hugging Face 及微软 Foundry Models 获取。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3538931",
     "datetime": "2026-10-15T17:21:02+00:00",
-    "views": "8",
+    "views": "43",
     "text": "Meta Platforms(META.O)：将根据 Muse 模型许可证发布模型权重，附带有限的商业使用条款，允许众多开发者免费使用该模型。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3538929",
     "datetime": "2026-10-15T17:20:43+00:00",
-    "views": "39",
+    "views": "43",
     "text": "ANTHROPIC：与 SECUREBIO、埃森哲合作；正在与 HUGGING FACE 就评估事宜进行谈判。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3538928",
     "datetime": "2026-10-15T17:20:42+00:00",
-    "views": "39",
+    "views": "43",
     "text": "Meta Platforms(META.O)：Muse Spark Open 今日起可通过 Baseten、Fireworks AI、Groq、Modal、Nebius、OpenRouter 和 Together AI 等平台的 API 使用。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3538926",
     "datetime": "2026-10-15T17:20:23+00:00",
-    "views": "39",
+    "views": "43",
     "text": "ANTHROPIC 授予员工级访问权限，用于前沿人工智能模型评估。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3538927",
     "datetime": "2026-10-15T17:20:23+00:00",
-    "views": "39",
+    "views": "43",
     "text": "ANTHROPIC：METR 将发布 Anthropic AI 模型的风险评估结果。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3538925",
     "datetime": "2026-10-15T17:20:22+00:00",
-    "views": "39",
+    "views": "43",
     "text": "Meta Platforms(META.O)： Muse Spark Open 今日正式推出，首次将领先的智能体能力带到苹果 M5 Ultra 芯片的 Mac Studio 桌面电脑上。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3538924",
     "datetime": "2026-10-15T17:19:42+00:00",
-    "views": "37",
+    "views": "41",
     "text": "美军称霍尔木兹海峡航道仍保持畅通\n金十数据 10 月 16 日讯，美国中央司令部发表声明，驳斥伊朗革命卫队过去 24 小时内有关霍尔木兹海峡控制权、商船遇袭及美军伤亡的三项说法。美方称，美国及地区伙伴仍控制霍尔木兹海峡，商业船舶持续通行。针对伊朗革命卫队声称一艘悬挂新加坡国旗的集装箱船周三在海峡触雷，美方表示，涉事船舶 GFS Pride 号实际遭伊朗革命卫队发射的炮弹击中，并在被拖往岸边途中沉没，并非触雷。美方强调，霍尔木兹海峡主要航道仍未受到水雷阻断，过去 24 小时已有超过 40 艘船舶通行。此外，美方否认伊朗革命卫队关于在约旦打死数百名美军人员的说法，称今年 7 月有 3 名美军人员在伙伴部队抵御伊朗袭击期间阵亡。",
     "media_only": false,
     "image_url": null,
@@ -66310,50 +66328,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3531506"
-  },
-  {
-    "post": "Financial_Express/3531505",
-    "datetime": "2026-10-13T17:26:42+00:00",
-    "views": "104",
-    "text": "高通赢得针对安谋的陪审团裁决，安谋被判违反架构许可协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531505"
-  },
-  {
-    "post": "Financial_Express/3531504",
-    "datetime": "2026-10-13T17:26:22+00:00",
-    "views": "103",
-    "text": "波音将于 12 月开始向全日空交付 737 MAX。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531504"
-  },
-  {
-    "post": "Financial_Express/3531503",
-    "datetime": "2026-10-13T17:26:20+00:00",
-    "views": "99",
-    "text": "高通：陪审团认为，Arm 有意干扰业务。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531503"
-  },
-  {
-    "post": "Financial_Express/3531501",
-    "datetime": "2026-10-13T17:25:42+00:00",
-    "views": "95",
-    "text": "高通表示，陪审团认定 Arm 违反了许可协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531501"
-  },
-  {
-    "post": "Financial_Express/3531502",
-    "datetime": "2026-10-13T17:25:42+00:00",
-    "views": "99",
-    "text": "高通：陪审团认定 Arm 故意干扰业务。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531502"
   }
 ]
