@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3538941",
+    "datetime": "2026-10-15T17:24:43+00:00",
+    "views": "3",
+    "text": "ANTHROPIC：向其他几家评估机构提供更有限的信息，且这些机构的发布权限也受到更多限制。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3538941"
+  },
+  {
+    "post": "Financial_Express/3538940",
+    "datetime": "2026-10-15T17:24:42+00:00",
+    "views": "3",
+    "text": "墨西哥主要股指上涨 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3538940"
+  },
+  {
+    "post": "Financial_Express/3538939",
+    "datetime": "2026-10-15T17:24:22+00:00",
+    "views": "6",
+    "text": "美国总统特朗普： 墨西哥应该打击贩毒集团，但他们做不到。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3538939"
+  },
+  {
+    "post": "Financial_Express/3538938",
+    "datetime": "2026-10-15T17:24:02+00:00",
+    "views": "9",
+    "text": "Anthropic 还在与其他潜在评估方进行洽谈。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3538938"
+  },
+  {
     "post": "Financial_Express/3538937",
     "datetime": "2026-10-15T17:21:43+00:00",
-    "views": "3",
+    "views": "9",
     "text": "ANTHROPIC：埃森哲、FACULTY 合作开展模型红队评估与保障测试。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3538936",
     "datetime": "2026-10-15T17:21:42+00:00",
-    "views": "3",
+    "views": "9",
     "text": "Anthropic：将向相关评估人员提供员工级访问权限，以开展前沿 AI 模型风险评估。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3538935",
     "datetime": "2026-10-15T17:21:24+00:00",
-    "views": "3",
+    "views": "9",
     "text": "CoreWeave 股价转账，此前一度跌 9.5%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3538934",
     "datetime": "2026-10-15T17:21:22+00:00",
-    "views": "3",
+    "views": "9",
     "text": "COREWEAVE 股价转涨，此前一度下跌 9.5%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3538933",
     "datetime": "2026-10-15T17:21:05+00:00",
-    "views": "3",
+    "views": "39",
     "text": "Anthropic PBC：授予员工级访问权限，用于前沿人工智能（AI）模型评估。\nMETR 将发布 Anthropic AI 模型的风险评估结果。\n公司正与独立评估员（包括埃森哲、Faculty）合作，来测试诸多模型。\nMETR 将披露风险评估的结果。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3538932",
     "datetime": "2026-10-15T17:21:03+00:00",
-    "views": "3",
+    "views": "8",
     "text": "ANTHROPIC：为前沿人工智能模型的独立评估机构建立三级访问框架。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3538930",
     "datetime": "2026-10-15T17:21:02+00:00",
-    "views": "3",
+    "views": "8",
     "text": "Meta Platforms(META.O)：Muse Spark Open 的模型权重现已开放下载，可通过亚马逊 SageMaker AI、谷歌云 Model Garden、Hugging Face 及微软 Foundry Models 获取。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3538931",
     "datetime": "2026-10-15T17:21:02+00:00",
-    "views": "3",
+    "views": "8",
     "text": "Meta Platforms(META.O)：将根据 Muse 模型许可证发布模型权重，附带有限的商业使用条款，允许众多开发者免费使用该模型。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3538929",
     "datetime": "2026-10-15T17:20:43+00:00",
-    "views": "4",
+    "views": "39",
     "text": "ANTHROPIC：与 SECUREBIO、埃森哲合作；正在与 HUGGING FACE 就评估事宜进行谈判。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3538928",
     "datetime": "2026-10-15T17:20:42+00:00",
-    "views": "4",
+    "views": "39",
     "text": "Meta Platforms(META.O)：Muse Spark Open 今日起可通过 Baseten、Fireworks AI、Groq、Modal、Nebius、OpenRouter 和 Together AI 等平台的 API 使用。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3538926",
     "datetime": "2026-10-15T17:20:23+00:00",
-    "views": "34",
+    "views": "39",
     "text": "ANTHROPIC 授予员工级访问权限，用于前沿人工智能模型评估。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3538927",
     "datetime": "2026-10-15T17:20:23+00:00",
-    "views": "34",
+    "views": "39",
     "text": "ANTHROPIC：METR 将发布 Anthropic AI 模型的风险评估结果。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3538925",
     "datetime": "2026-10-15T17:20:22+00:00",
-    "views": "34",
+    "views": "39",
     "text": "Meta Platforms(META.O)： Muse Spark Open 今日正式推出，首次将领先的智能体能力带到苹果 M5 Ultra 芯片的 Mac Studio 桌面电脑上。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3538924",
     "datetime": "2026-10-15T17:19:42+00:00",
-    "views": "34",
+    "views": "37",
     "text": "美军称霍尔木兹海峡航道仍保持畅通\n金十数据 10 月 16 日讯，美国中央司令部发表声明，驳斥伊朗革命卫队过去 24 小时内有关霍尔木兹海峡控制权、商船遇袭及美军伤亡的三项说法。美方称，美国及地区伙伴仍控制霍尔木兹海峡，商业船舶持续通行。针对伊朗革命卫队声称一艘悬挂新加坡国旗的集装箱船周三在海峡触雷，美方表示，涉事船舶 GFS Pride 号实际遭伊朗革命卫队发射的炮弹击中，并在被拖往岸边途中沉没，并非触雷。美方强调，霍尔木兹海峡主要航道仍未受到水雷阻断，过去 24 小时已有超过 40 艘船舶通行。此外，美方否认伊朗革命卫队关于在约旦打死数百名美军人员的说法，称今年 7 月有 3 名美军人员在伙伴部队抵御伊朗袭击期间阵亡。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3538923",
     "datetime": "2026-10-15T17:19:02+00:00",
-    "views": "35",
+    "views": "37",
     "text": "伦敦股市 15 日上涨\n 英国伦敦股市《金融时报》100 种股票平均价格指数 15 日报收于 10840.35 点，较前一交易日上涨 115.49 点，涨幅为 1.08%。欧洲三大股指当天全线上涨。当天伦敦股市成分股中位于涨幅前五位的个股分别为：市场征信服务商益博睿股价上涨 5.90%，软件公司赛奇股价上涨 5.64%，餐饮服务公司金巴斯集团股价上涨 4.40%，约翰-戴维运动时装公司股价上涨 4.32%，英国电信集团股价上涨 4.26%。当天伦敦股市成分股中位于跌幅前五位的个股分别为：信息技术服务公司康普塔森特股价下跌 5.58%，极地资本科技信托公司股价下跌 4.65%，矿业公司安托法加斯塔股价下跌 4.09%，工程公司韦尔集团股价下跌 3.97%，伊萨卡能源公司股价下跌 2.41%。欧洲其他两大主要股指方面，法国巴黎股市 CAC40 指数报收于 7934.7 点，较前一交易日上涨 61.59 点，涨幅为 0.78%；德国法兰克福股市 DAX 指数报收于 25382.62 点，较前一交易日上涨 84.01 点，涨幅为 0.33%。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3538922",
     "datetime": "2026-10-15T17:18:42+00:00",
-    "views": "35",
+    "views": "37",
     "text": "美国中央司令部：尽管发生袭击，商业船舶仍在通过霍尔木兹海峡，主要航道依然没有水雷。过去 24 小时内，已有超过 40 艘船舶通行。",
     "media_only": false,
     "image_url": null,
@@ -66319,32 +66355,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3531502"
-  },
-  {
-    "post": "Financial_Express/3531500",
-    "datetime": "2026-10-13T17:24:42+00:00",
-    "views": "95",
-    "text": "伊朗革命卫队海军司令：如果美国人认为霍尔木兹海峡是开放的，那就靠近试试。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531500"
-  },
-  {
-    "post": "Financial_Express/3531499",
-    "datetime": "2026-10-13T17:24:21+00:00",
-    "views": "96",
-    "text": "高盛集团面向对冲基金的融资业务季度收入首次超过了股票部门的交易额，因大型投资者在波动剧烈的市场中踏浪时进一步加杠杆。\n这家华尔街大行周二公布，第三财季股票融资收入报 33.7 亿美元，同比大增 96%。高盛交易员充当中间人撮合股票买卖双方的股票中介业务囊获了 30.8 亿美元，增长 52%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531499"
-  },
-  {
-    "post": "Financial_Express/3531498",
-    "datetime": "2026-10-13T17:23:02+00:00",
-    "views": "97",
-    "text": "爱尔兰负责欧洲事务的国务部长：乌克兰在加入欧盟谈判中向前迈出一步。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531498"
   }
 ]
