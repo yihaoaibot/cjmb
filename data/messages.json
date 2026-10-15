@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3538896",
+    "datetime": "2026-10-15T17:10:03+00:00",
+    "views": "1",
+    "text": "报告称：以色列公司通过广告向半岛电视台植入间谍软件\n多伦多大学公民实验室（Citizen Lab）的一份报告称，两家以色列公司 Candiru 和 Discover Tech 操纵在线广告，在半岛电视台的设备上安装监控软件。Discover Tech 利用在线广告平台锁定并感染设备，并伪装成合法广告公司，通过包括谷歌运营在内的多个主要广告网络投放广告。利用广告投放间谍软件并入侵手机和电脑是较新的发展动向，研究人员警告在线广告生态系统已构成安全威胁，并呼吁网络安全机构和监管机构展开紧急调查。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3538896"
+  },
+  {
+    "post": "Financial_Express/3538895",
+    "datetime": "2026-10-15T17:10:02+00:00",
+    "views": "1",
+    "text": "Meta 发布开放权重 AI 模型 最强技术仍保持闭源\n金十数据 10 月 16 日讯，据 CNBC 和《华尔街日报》报道，Meta Platforms(META.O)推出新款开放权重 AI 模型 Muse Spark Open，主要面向编程和 AI 智能体任务，但并未开放其性能最强的模型。Meta 首席 AI 官 Alexandr Wang 表示，Muse Spark Open 并非公司开发或发布的最强模型。Meta 本周早些时候推出的 Muse Wonder 仍采用闭源模式。Meta 同时承认，在软件开发及部分其他任务上，中国开放权重模型的表现仍优于 Muse Spark Open。与此同时，Meta 与苹果(AAPL.O)达成合作，支持开发者通过多台高端 Mac 电脑在本地运行 Muse Spark Open。苹果已更新 MLX 软件工具包，以支持该模型在 Mac 设备上运行。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3538895"
+  },
+  {
     "post": "Financial_Express/3538894",
     "datetime": "2026-10-15T17:07:42+00:00",
-    "views": "5",
+    "views": "35",
     "text": "特朗普开玩笑称，如果他嗓子哑了，就派一个机器人版的自己代他跑竞选活动，这样他就能待在家里看电视。特朗普说：“他们做得相当不错”，并暗示如今的技术可以造出一个逼真到“你根本看不出区别”的替身。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3538892",
     "datetime": "2026-10-15T17:06:04+00:00",
-    "views": "36",
+    "views": "38",
     "text": "Meta Platforms 宣布正在发布 Muse Spark Open 的“权重”——即允许开发者自行运行和适配模型的参数设置。 根据 Meta 的说法，这款专为编程和支持 AI 智能体设计的模型，不如该公司本周早些时候首次亮相的 Muse Wonder 先进。 发布一款较不先进的开放权重模型，兑现了 Meta 此前让其技术广泛可用的承诺。\n“出于安全性和能力两方面的考虑，我们通常不会开源我们最强大的模型，”Meta 首席 AI 官 Alexandr Wang 表示。“但我们确实认为，随着时间的推移，持续开源优秀的模型非常重要，我们打算继续这样做。”（彭博）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3538888",
     "datetime": "2026-10-15T17:04:42+00:00",
-    "views": "34",
+    "views": "64",
     "text": "Meta Platforms(META.O)CEO 扎克伯格：Muse Spark 的开放权重版本将于今日发布。得益于与苹果(AAPL.O)及苹果新任 CEO 特努斯的合作，该模型在新款 Mac Studio 上运行表现出色。",
     "media_only": false,
     "image_url": null,
@@ -66157,32 +66175,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3531476"
-  },
-  {
-    "post": "Financial_Express/3531475",
-    "datetime": "2026-10-13T17:10:22+00:00",
-    "views": "57",
-    "text": "谷歌(GOOG.O)重新设计车载 Play 商店，采用动态布局，并将提供 700 多款应用，目前已覆盖 16 个品牌、100 多款车型。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531475"
-  },
-  {
-    "post": "Financial_Express/3531474",
-    "datetime": "2026-10-13T17:09:58+00:00",
-    "views": "56",
-    "text": "谷歌为搭载谷歌内置系统的车辆推出改版后的车载谷歌应用商店，新增多款娱乐应用，YouTube 上线一项新功能：车辆从驻车切换为行驶状态后，音频仍可持续播放。本次谷歌应用商店更新将在未来数周逐步推送。新版车载应用商店界面经过重新设计，新增 Starz、火狐浏览器、Ludo King 以及 JioHotstar 等应用，供驻车状态下使用。\n同时上线 YouTube 新功能，驻车观看视频的音频可在车辆行驶后继续播放。谷歌表示，搭载谷歌内置系统的车型覆盖 16 个品牌、超过 100 款车型。谷歌地图、Gemini 等应用可直接在车机运行，无需连接手机。车载谷歌应用商店拥有 700 余款应用。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531474"
-  },
-  {
-    "post": "Financial_Express/3531473",
-    "datetime": "2026-10-13T17:09:38+00:00",
-    "views": "56",
-    "text": "数据分析公司 Verisk 表示，飓风“伊萨亚斯”造成的陆上财产保险损失 预计将在 10 亿-20 亿美元之间。 该估算包括风损以及由私人保险承保的风暴潮造成的损失。预计风损将占保险损失的大部分。\n上周，  飓风“伊萨亚斯  ”在美国佛罗里达州德斯廷附近 登陆，导致数十万居民断电。据报道，上周六已有至少四人遇难。伊萨亚斯飓风登陆佛罗里达州海岸时为 2 级飓风，也是 2026 年大西洋飓风季的首场飓风，在佛罗里达州圣罗莎县和埃斯坎比亚县东北部等地造成了最严重的风灾损失。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531473"
   }
 ]
