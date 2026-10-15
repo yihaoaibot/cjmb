@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3539035",
+    "datetime": "2026-10-15T19:00:22+00:00",
+    "views": "6",
+    "text": "恒指期货夜盘收涨 0.88%，报 24275.30 点，高水 212.58 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3539035"
+  },
+  {
+    "post": "Financial_Express/3539034",
+    "datetime": "2026-10-15T19:00:18+00:00",
+    "views": "7",
+    "text": "恒生指数主连夜盘收涨 0.88%，报 24274 点。\n恒生科技指数主连夜盘收涨 1.28%，报 4114 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3539034"
+  },
+  {
     "post": "Financial_Express/3539033",
     "datetime": "2026-10-15T18:55:43+00:00",
-    "views": "25",
+    "views": "37",
     "text": "斯洛伐克成功将新核反应堆接入电网。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3539032",
     "datetime": "2026-10-15T18:55:42+00:00",
-    "views": "25",
+    "views": "37",
     "text": "谷歌量子计算取得新突破 Willow 芯片错误率降低约 40 倍\n金十数据 10 月 16 日讯，谷歌(GOOG.O)10 月 15 日宣布，其量子 AI 团队在 Willow 量子芯片上成功验证一项名为“魔态培育”（Magic State Cultivation）的新技术，使特定量子态的错误率降低约 40 倍，制备出的量子态准确度达到 99.99%。相关研究成果已发表于《科学》期刊。谷歌解释，量子计算机容易受到干扰而产生错误，为了完成复杂计算，需要提前制备特殊的量子态，但这一过程十分耗费计算资源。部分研究估计，传统方法可能占用量子计算机高达 95%的计算能力。此次新技术通过检测并剔除存在错误的量子态，提高了制备效率，有望减少未来量子计算机在纠错方面的资源消耗。谷歌表示，这项成果是迈向实用量子计算的重要一步，但仍需进一步验证能否应用于更大规模的量子计算系统。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3539031",
     "datetime": "2026-10-15T18:53:22+00:00",
-    "views": "41",
+    "views": "52",
     "text": "美国司法部就选民名单问题起诉加利福尼亚州。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3539030",
     "datetime": "2026-10-15T18:52:22+00:00",
-    "views": "47",
+    "views": "57",
     "text": "美国财长贝森特：伊朗经济正被步步紧逼，就连其所谓的盟友也无力回天。除非伊朗政权金库耗尽、支撑其战争机器的每一条金融生命线都被切断，否则美国财政部绝不会罢休。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3539029",
     "datetime": "2026-10-15T18:51:42+00:00",
-    "views": "50",
+    "views": "60",
     "text": "布伦特原油期货结算价为每桶 105.92 美元，下跌 14 美分，跌幅 0.13%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3539028",
     "datetime": "2026-10-15T18:49:42+00:00",
-    "views": "57",
+    "views": "66",
     "text": "据印度政府命令，自 10 月 16 日起，印度对汽油出口征收每升 2.5 卢比的暴利税，对柴油出口征收每升 8.5 卢比的暴利税。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3539027",
     "datetime": "2026-10-15T18:47:42+00:00",
-    "views": "66",
+    "views": "74",
     "text": "印度将汽油出口暴利税定为每升 2.5 卢比，自 10 月 16 日起生效。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3539026",
     "datetime": "2026-10-15T18:44:02+00:00",
-    "views": "89",
+    "views": "97",
     "text": "美国暂缓对 Meta Platforms 涉毒品销售刑事调查。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3539025",
     "datetime": "2026-10-15T18:43:22+00:00",
-    "views": "86",
+    "views": "93",
     "text": "不列颠哥伦比亚省的铜矿勘探者正利用电流来选定钻探目标。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3539024",
     "datetime": "2026-10-15T18:42:22+00:00",
-    "views": "81",
+    "views": "87",
     "text": "泽连斯基：我会见了波兰总理唐纳德·图斯克。唐纳德对俄罗斯袭击的情况以及局势如何日益升级非常了解。俄罗斯人几乎不间断地使用“沙赫德”无人机。仅今天一天，就有 52 人受伤。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3539023",
     "datetime": "2026-10-15T18:41:48+00:00",
-    "views": "79",
+    "views": "85",
     "text": "德国上市的爱思强股份（Aixtron SE）三季度营收初步估算为大约 1.84 亿欧元，分析师预期 1.82 亿欧元。\n获得的订单、运营利润大幅超过分析师预期。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3539022",
     "datetime": "2026-10-15T18:38:19+00:00",
-    "views": "106",
+    "views": "110",
     "text": "亚马逊发布两款新设备，旨在全天候聆听并记录用户信息，从而提供日历提醒及其他由人工智能驱动的洞察。这两款设备隶属于该公司去年收购的 Bee 品牌。\nFrontier 是一款手环，Eclipse 则是一款形似便携式磁吸充电器的方块状设备。用户将 Eclipse 连接至智能手机后，亚马逊表示，该设备会全天汇总来自日历、应用程序及其他数据的信息。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3539021",
     "datetime": "2026-10-15T18:36:22+00:00",
-    "views": "98",
+    "views": "101",
     "text": "OpenAI 通过招募 Meta Platforms(META.O)员工及降低广告价格，加快拓展广告业务。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3539020",
     "datetime": "2026-10-15T18:35:05+00:00",
-    "views": "97",
+    "views": "100",
     "text": "今年，OpenAI 与 Anthropic 不断推出新模型和工具争夺开发者，广告业务一度只是次要业务，但如今局面已经改变。近几个月，OpenAI 密集推出多款新产品与工具吸引广告主，同时下调广告定价，数据显示此举吸引了大量新增广告客户，公司还在大规模招人。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3539019",
     "datetime": "2026-10-15T18:35:02+00:00",
-    "views": "97",
+    "views": "100",
     "text": "OpenAI 扩张广告业务 大榄 Meta 人才\nOpenAI 约 140 名广告相关员工中，近半数是 7 月至 9 月入职，人才主要来自 Meta，广告业务负责人戴夫·杜根曾在 Meta 任职 12 年。大规模招聘叠加部分高管离职，推动内部发生诸多变动。两名知情人士称，自 2 月广告业务上线以来，OpenAI 广告团队已经经历七次重组。尽管广告收入实现增长，但 OpenAI 大概率无法实现年初向投资者提出的宏大目标。公司当时预计 2026 全年广告收入将达到 24 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3539018",
     "datetime": "2026-10-15T18:34:40+00:00",
-    "views": "67",
+    "views": "69",
     "text": "美元/瑞郎日内跌幅达 1.0%，报 0.8262。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3539017",
     "datetime": "2026-10-15T18:30:33+00:00",
-    "views": "68",
+    "views": "70",
     "text": "上期所原油期货 2612 合约夜盘收涨 0.11%，报 726 元人民币/桶。\n沪金夜盘收涨 0.99%，沪银收涨 1.58%。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3539016",
     "datetime": "2026-10-15T18:30:22+00:00",
-    "views": "66",
+    "views": "69",
     "text": "上期所原油期货夜盘收涨 0.11%，报 726.00 元人民币/桶。沪金夜盘收涨 0.99%，沪银收涨 1.58%。",
     "media_only": false,
     "image_url": null,
@@ -65770,32 +65788,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3531658"
-  },
-  {
-    "post": "Financial_Express/3531657",
-    "datetime": "2026-10-13T19:00:23+00:00",
-    "views": "95",
-    "text": "恒指期货夜盘收跌 0.05%，报 24344.84 点，低水 0.38 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531657"
-  },
-  {
-    "post": "Financial_Express/3531656",
-    "datetime": "2026-10-13T19:00:22+00:00",
-    "views": "90",
-    "text": "芝加哥期货交易所（CBOT）玉米期货收平。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531656"
-  },
-  {
-    "post": "Financial_Express/3531655",
-    "datetime": "2026-10-13T19:00:18+00:00",
-    "views": "89",
-    "text": "恒生指数主连夜盘收跌 0.07%，报 24340 点。\n恒生科技指数主连夜盘收涨 0.05%，报 4143 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3531655"
   }
 ]
