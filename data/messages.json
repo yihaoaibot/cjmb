@@ -1,9 +1,63 @@
 [
   {
+    "post": "Financial_Express/3535754",
+    "datetime": "2026-10-15T00:12:23+00:00",
+    "views": "3",
+    "text": "日本日经指数下跌 3%，至 65706.40。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535754"
+  },
+  {
+    "post": "Financial_Express/3535753",
+    "datetime": "2026-10-15T00:12:03+00:00",
+    "views": "3",
+    "text": "现货黄金突破 4120 美元/盎司，日内涨 0.37%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535753"
+  },
+  {
+    "post": "Financial_Express/3535752",
+    "datetime": "2026-10-15T00:12:02+00:00",
+    "views": "3",
+    "text": "日经 225 指数下跌超过 2000 点，人工智能相关股票暴跌。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535752"
+  },
+  {
+    "post": "Financial_Express/3535750",
+    "datetime": "2026-10-15T00:11:22+00:00",
+    "views": "3",
+    "text": "日本 5 年期国债收益率下降 3.5 个基点，至 2.335%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535750"
+  },
+  {
+    "post": "Financial_Express/3535751",
+    "datetime": "2026-10-15T00:11:22+00:00",
+    "views": "3",
+    "text": "5 年期日本国债收益率下跌 3.5 个基点，至 2.335%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535751"
+  },
+  {
+    "post": "Financial_Express/3535749",
+    "datetime": "2026-10-15T00:10:42+00:00",
+    "views": "3",
+    "text": "软银集团股价下跌 8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3535749"
+  },
+  {
     "post": "Financial_Express/3535748",
     "datetime": "2026-10-15T00:10:12+00:00",
-    "views": "2",
-    "text": "日经 225 指数跌超 2.5%。",
+    "views": "34",
+    "text": "日经 225 指数跌超 2.5%。软银大跌 8%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3535748"
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3535747",
     "datetime": "2026-10-15T00:09:43+00:00",
-    "views": "3",
+    "views": "35",
     "text": "中信建投：当前乘用车内需悲观预期已充分定价，建议积极把握中长期周期底部配置买点\n中信建投研报指出，本周中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解，并继续推进电动车反补贴案价格承诺程序。当前乘用车内需悲观预期已充分定价，短期压制在于出口退税退坡、消费税加征等政策预期变化，建议积极把握中长期周期底部配置买点。商用车、缺电基本面整体维持稳健，重视低估值强业绩龙头标的阶段性回调配置机会。机器人板块已进入市场对 Optimus 量产置信度逐步提升的阶段，量产节奏的兑现或催生新一轮产业趋势拐点。智驾板块当前关注度仍在低位，预计随着中期 L3/L4 的技术及商业化突破，估值有望迎来上修。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3535746",
     "datetime": "2026-10-15T00:09:42+00:00",
-    "views": "3",
+    "views": "35",
     "text": "韩国 KOSPI 指数现跌 4.5%，较盘初逾 5.5%的跌幅有所反弹。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3535745",
     "datetime": "2026-10-15T00:09:02+00:00",
-    "views": "5",
+    "views": "37",
     "text": "韩国交易所对韩国 KOSPI 指数启动了侧车机制，暂停程序化卖盘。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3535744",
     "datetime": "2026-10-15T00:08:23+00:00",
-    "views": "35",
+    "views": "37",
     "text": "韩国交易所启动 SIDECAR 机制，暂停 KOSPI 程序化卖盘。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3535743",
     "datetime": "2026-10-15T00:08:22+00:00",
-    "views": "35",
+    "views": "37",
     "text": "昆仑万维发布消费级显卡视频大模型游戏，同步开源\n金十数据 10 月 15 日讯，昆仑万维表示，10 月 15 日，昆仑万维正式发布世界上第一款运行在单张消费级显卡上的视频大模型游戏——Matrix-Game4.0。昆仑万维称，Matrix-Game4.0 构建起了游戏世界模型的新范式：由游戏引擎维护世界状态与交互规则，由视频生成模型实时呈现精细画面。它把 480p、60FPS 的实时游戏体验，装进了一张 NVIDIA RTX 5090。项目已同步开源。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3535742",
     "datetime": "2026-10-15T00:07:42+00:00",
-    "views": "35",
+    "views": "37",
     "text": "随芯片股抛售潮延续，韩国综合股价指数跌至 7 月以来最低\n受投资者对人工智能相关交易的疑虑加剧影响，韩国综合指数连续七日下跌，盘中最大跌幅达 5.7%。该基准指数触及 7 月 31 日以来最低点位。SK 海力士、三星为主要拖累个股，跌幅均超 5%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3535741",
     "datetime": "2026-10-15T00:07:22+00:00",
-    "views": "35",
+    "views": "37",
     "text": "爱德万测试股价下跌 4.5%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3535740",
     "datetime": "2026-10-15T00:06:03+00:00",
-    "views": "35",
+    "views": "36",
     "text": "中信建投：AI4S 迈向产业化临界点\n中信建投证券研报称，当前，AI 制药产业链已经演化为以平台和技术中台为核心，上中下游深度协同的网状赋能体系，并呈现出多种商业模式兼容并进的发展趋势。AI4S 正由模型能力竞赛迈向产业化临界点，技术、产业、需求、政策四重共振，价值锚点由模型能力向科研生产力、数据资产与系统化生物设计升维。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3535739",
     "datetime": "2026-10-15T00:06:02+00:00",
-    "views": "35",
+    "views": "36",
     "text": "纽约期金突破 4140 美元/盎司，日内涨 0.78%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3535738",
     "datetime": "2026-10-15T00:05:02+00:00",
-    "views": "36",
+    "views": "67",
     "text": "东京电子股价下跌 4%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3535737",
     "datetime": "2026-10-15T00:04:57+00:00",
-    "views": "36",
+    "views": "37",
     "text": "美债全线上涨，10 年期收益率下行 3 个基点至 5.15%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3535736",
     "datetime": "2026-10-15T00:04:03+00:00",
-    "views": "36",
+    "views": "67",
     "text": "日经 225 指数跌幅扩大至 2%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3535735",
     "datetime": "2026-10-15T00:04:02+00:00",
-    "views": "36",
+    "views": "67",
     "text": "受人工智能投资担忧和美国加息预期的影响，日经平均指数下跌超过 1400 点。",
     "media_only": false,
     "image_url": null,
@@ -65653,23 +65707,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3528406"
-  },
-  {
-    "post": "Financial_Express/3528405",
-    "datetime": "2026-10-13T00:12:42+00:00",
-    "views": "97",
-    "text": "日韩股市盘初扩大跌幅，韩国综合指数跌幅扩大，最新跌 4.5%。日经 225 指数盘中跌 2.24%，报 67486.28 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528405"
-  },
-  {
-    "post": "Financial_Express/3528404",
-    "datetime": "2026-10-13T00:11:22+00:00",
-    "views": "97",
-    "text": "2 年期日本国债收益率上涨 0.5 个基点，至 1.910%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528404"
   }
 ]
