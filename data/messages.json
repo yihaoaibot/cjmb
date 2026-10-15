@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3536050",
+    "datetime": "2026-10-15T01:48:43+00:00",
+    "views": "4",
+    "text": "台积电股价下跌 2.0%；联发科股价下跌 4.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3536050"
+  },
+  {
+    "post": "Financial_Express/3536049",
+    "datetime": "2026-10-15T01:48:42+00:00",
+    "views": "4",
+    "text": "港股存储概念走低，南方两倍做多海力士(07709.HK)跌超 22%，南方两倍做多三星电子(07747.HK)跌超 20%，澜起科技(06809.HK)跌超 9%，兆易创新(03986.HK)跌超 6%。此前，韩国 KOSPI 指数跌幅达 7%，SK 海力士跌 10%，三星电子跌近 8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3536049"
+  },
+  {
+    "post": "Financial_Express/3536048",
+    "datetime": "2026-10-15T01:47:46+00:00",
+    "views": "8",
+    "text": "电力股局部活跃，湖南发展、惠天热电涨停，闽东电力、韶能股份、江苏新能、大连热电跟涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3536048"
+  },
+  {
+    "post": "Financial_Express/3536047",
+    "datetime": "2026-10-15T01:47:22+00:00",
+    "views": "9",
+    "text": "新加坡海峡时报指数下跌 1%至 5369.10 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3536047"
+  },
+  {
+    "post": "Financial_Express/3536046",
+    "datetime": "2026-10-15T01:47:15+00:00",
+    "views": "11",
+    "text": "英国财政大臣 John Healey：将采纳 IMF 的建议，在 10 月 28 日的财政预算案中坚持收紧赤字的计划 。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3536046"
+  },
+  {
+    "post": "Financial_Express/3536045",
+    "datetime": "2026-10-15T01:47:03+00:00",
+    "views": "42",
+    "text": "我国出台新规规范牙膏功效标注\n国家药监局 10 月 15 日发布《牙膏分类目录》，为牙膏功效分类与宣称划定规范边界。目录将牙膏功效划分为八大类别，分别为基础清洁类、防龋类、抑牙菌斑类、抗牙本质敏感类、减轻牙龈问题类、去渍美白类、抗牙石类和减轻口臭类。每类功效均对应明确的作用机理，产品须符合相应作用机理方可标注该类功效。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3536045"
+  },
+  {
+    "post": "Financial_Express/3536044",
+    "datetime": "2026-10-15T01:47:02+00:00",
+    "views": "42",
+    "text": "欧洲央行管委佩雷拉：收益率上升更多与财政问题有关。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3536044"
+  },
+  {
     "post": "Financial_Express/3536043",
     "datetime": "2026-10-15T01:46:42+00:00",
-    "views": "1",
+    "views": "43",
     "text": "英国财政部长希利：将遵循国际货币基金组织的建议，在 10 月 28 日的预算中坚持削减赤字的计划。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3536041",
     "datetime": "2026-10-15T01:46:02+00:00",
-    "views": "7",
+    "views": "47",
     "text": "英国财政部长希利：呼吁其他国家在对俄制裁上“坚持不懈”。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3536042",
     "datetime": "2026-10-15T01:46:02+00:00",
-    "views": "7",
+    "views": "47",
     "text": "英国财政部长希利：需要对与俄罗斯相关的航运服务实施更严格的禁令。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3536039",
     "datetime": "2026-10-15T01:45:43+00:00",
-    "views": "10",
+    "views": "48",
     "text": "台币兑美元贬至 32.29，创 8 月中旬以来新低。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3536040",
     "datetime": "2026-10-15T01:45:43+00:00",
-    "views": "10",
+    "views": "49",
     "text": "欧洲央行官员桑托斯·佩雷拉：收益率上升更多与财政问题相关。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3536037",
     "datetime": "2026-10-15T01:45:42+00:00",
-    "views": "10",
+    "views": "48",
     "text": "新西兰联储首席经济学家康威：下一次官方现金利率（OCR）的决策存在诸多变数。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3536038",
     "datetime": "2026-10-15T01:45:42+00:00",
-    "views": "10",
+    "views": "48",
     "text": "新西兰联储首席经济学家康威：有信心将新西兰通胀率重新拉回目标区间。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3536035",
     "datetime": "2026-10-15T01:45:22+00:00",
-    "views": "10",
+    "views": "45",
     "text": "A 股电力板块局部异动，惠天热电涨停，海南发展此前封板，江苏新能、京能热力、韶能股份、闽东电力等个股跟涨。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3536036",
     "datetime": "2026-10-15T01:45:22+00:00",
-    "views": "10",
+    "views": "47",
     "text": "新西兰联储首席经济学家康威：官方现金利率（OCR）最有可能上调。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3536034",
     "datetime": "2026-10-15T01:45:02+00:00",
-    "views": "40",
+    "views": "45",
     "text": "新西兰联储首席经济学家康威：新西兰正感受到油价冲击的影响。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3536033",
     "datetime": "2026-10-15T01:44:30+00:00",
-    "views": "42",
+    "views": "48",
     "text": "创新药概念低开高走，百花医药直线涨停，近岸蛋白涨超 7%，昭衍新药、哈药股份、万邦医药跟涨。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3536031",
     "datetime": "2026-10-15T01:44:02+00:00",
-    "views": "41",
+    "views": "45",
     "text": "希利表示，需要对与俄罗斯有关联的航运服务实施更严格的禁令。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3536032",
     "datetime": "2026-10-15T01:44:02+00:00",
-    "views": "42",
+    "views": "46",
     "text": "希利表示将遵循国际货币基金组织建议，在 10 月 28 日预算案中坚持削减赤字计划。",
     "media_only": false,
     "image_url": null,
@@ -66247,59 +66310,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3528633"
-  },
-  {
-    "post": "Financial_Express/3528632",
-    "datetime": "2026-10-13T01:49:02+00:00",
-    "views": "62",
-    "text": "台湾加权指数跌逾 2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528632"
-  },
-  {
-    "post": "Financial_Express/3528631",
-    "datetime": "2026-10-13T01:48:57+00:00",
-    "views": "63",
-    "text": "电池板块震荡下挫，紫竹高科跌停，雄韬股份、先导智能、纳科诺尔、杭可科技、海科新源跟跌。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528631"
-  },
-  {
-    "post": "Financial_Express/3528630",
-    "datetime": "2026-10-13T01:48:26+00:00",
-    "views": "68",
-    "text": "台湾证交所加权股价指数下跌 2%至 48,312.50 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528630"
-  },
-  {
-    "post": "Financial_Express/3528629",
-    "datetime": "2026-10-13T01:48:23+00:00",
-    "views": "66",
-    "text": "进出口银行前三季度投放外贸领域贷款近万亿元\n记者 10 月 13 日从中国进出口银行获悉，今年前三季度，进出口银行新发放外贸领域贷款近万亿元，同比增长 9%，其中近 40%投向稳外贸主体和稳外贸产业链领域。据介绍，进出口银行制定并实施稳住外贸基本盘工作方案，统筹支持货物贸易与服务贸易、传统贸易与新业态新模式，助力发展数字贸易、绿色贸易；聚焦企业“走出去”的新形势、新需求，在跨境结算、贸易融资、供应链金融等方面提供全方位支持，助力企业稳健开拓国际市场。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528629"
-  },
-  {
-    "post": "Financial_Express/3528628",
-    "datetime": "2026-10-13T01:48:22+00:00",
-    "views": "54",
-    "text": "台湾加权股价指数下跌 2%至 48,312.50 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528628"
-  },
-  {
-    "post": "Financial_Express/3528627",
-    "datetime": "2026-10-13T01:47:42+00:00",
-    "views": "73",
-    "text": "电池板块多数下挫，紫竹高科跌停\n电池板块多数下挫，紫竹高科跌停，雄韬股份、先导智能、纳科诺尔、杭可科技、海科新源跟跌。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3528627"
   }
 ]
