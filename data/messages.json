@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3538276",
     "datetime": "2026-10-15T13:09:43+00:00",
-    "views": "2",
+    "views": "32",
     "text": "超微电脑首席财务官 Long 将获得 50 万美元签约奖金。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3538275",
     "datetime": "2026-10-15T13:09:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "超微电脑新任首席财务官 Long 的基本年薪为 72.5 万美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3538274",
     "datetime": "2026-10-15T13:09:17+00:00",
-    "views": "2",
+    "views": "32",
     "text": "超微电脑任命 Mark Long 为首席财务官，接替 David Weigand。Mark Long 的基本年薪为 72.5 万美元，签约奖金为 50 万美元。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3538272",
     "datetime": "2026-10-15T13:07:23+00:00",
-    "views": "32",
+    "views": "62",
     "text": "超微电脑任命 Mark Long 为首席财务官，接替 David Weigand。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3538269",
     "datetime": "2026-10-15T13:06:03+00:00",
-    "views": "32",
+    "views": "62",
     "text": "Canaan Treasury 现持有 1,875 枚比特币，9 月挖矿产出 44 枚比特币 。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3538270",
     "datetime": "2026-10-15T13:06:03+00:00",
-    "views": "32",
+    "views": "62",
     "text": "Axon 在联邦部门展现强劲增长势头，美国政府财年即将收官。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3538268",
     "datetime": "2026-10-15T13:05:42+00:00",
-    "views": "32",
+    "views": "62",
     "text": "AXON 报告称，随着美国政府财政年度结束，其在联邦部门的业务势头显著增强。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3538266",
     "datetime": "2026-10-15T13:05:22+00:00",
-    "views": "32",
+    "views": "62",
     "text": "Cursor 员工调查机密数据是否流入 SpaceX 用于 AI 训练\nCursor 员工调查发现，内部测试 GrokBot（项目代号 Sand）产生的数据或包含客户、合作方机密信息，并可能已传输至收购方 SpaceX 旗下 AI 部门 SpaceX SI。Cursor 一名律师警示，使用这类数据训练模型缺乏合法权限，一旦曝光将引发巨大信任危机。公司随即开展内部核查，要求员工必须使用企业邮箱登录该工具，并决定后续模型训练剔除员工使用数据。此外 Cursor 还曝出多起数据泄露事故：市场团队搭建的 GTM 网站底层代码内嵌客户资料与访问密码，导致博世、威瑞森等企业信息暴露。而 SpaceXSI 并入 Cursor 前，也曾发生 API 密钥、代码仓库信息外泄事件。SpaceX SI 未对此置评。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3538265",
     "datetime": "2026-10-15T13:04:42+00:00",
-    "views": "32",
+    "views": "62",
     "text": "消息人士称，世界经济论坛最早可能在 11 月 2 日任命欧洲央行行长拉加德为下一任主席。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +128,7 @@
   {
     "post": "Financial_Express/3538264",
     "datetime": "2026-10-15T13:04:22+00:00",
-    "views": "32",
+    "views": "62",
     "text": "俄罗斯央行：8 月经常账户顺差 33 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3538263",
     "datetime": "2026-10-15T13:03:43+00:00",
-    "views": "32",
+    "views": "62",
     "text": "小鹏 MONA L05 预售已开启， 预售价 16.98 万元起。",
     "media_only": false,
     "image_url": null,
@@ -65833,32 +65833,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3530902"
-  },
-  {
-    "post": "Financial_Express/3530901",
-    "datetime": "2026-10-13T13:12:42+00:00",
-    "views": "74",
-    "text": "“沙特阿美石油设施将是合法打击目标” 胡塞武装发撤离警告\n金十数据 10 月 13 日讯，当地时间 13 日下午，也门胡塞武装对外发布信息，警告所有在沙特阿美石油公司设施附近的工作人员和民众立即撤离相关区域，并与这些设施保持距离。胡塞武装称，“沙特阿美旗下石油设施将成为其合法打击目标”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3530901"
-  },
-  {
-    "post": "Financial_Express/3530900",
-    "datetime": "2026-10-13T13:12:23+00:00",
-    "views": "73",
-    "text": "“沙特阿美石油设施将是合法打击目标” 胡塞武装发撤离警告\n当地时间 13 日下午，也门胡塞武装对外发布信息，警告所有在沙特阿美石油公司设施附近的工作人员和民众立即撤离相关区域，并与这些设施保持距离。胡塞武装称，“沙特阿美旗下石油设施将成为其合法打击目标”。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3530900"
-  },
-  {
-    "post": "Financial_Express/3530899",
-    "datetime": "2026-10-13T13:12:22+00:00",
-    "views": "44",
-    "text": "巴基斯坦三军新闻局 13 日发表声明说，巴陆军当天成功试射了“法塔赫-2”增程型高超音速弹道导弹。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3530899"
   }
 ]
