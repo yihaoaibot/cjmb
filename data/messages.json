@@ -1,5 +1,23 @@
 [
   {
+    "post": "Financial_Express/3542604",
+    "datetime": "2026-10-16T21:15:18+00:00",
+    "views": "1",
+    "text": "富时 A50 期指连续夜盘收跌 0.45%，报 13280 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3542604"
+  },
+  {
+    "post": "Financial_Express/3542603",
+    "datetime": "2026-10-16T21:14:19+00:00",
+    "views": "1",
+    "text": "周五（10 月 16 日）纽约尾盘，欧元兑美元涨 0.17%，报 1.1239，本周累计上涨 0.35%，结束之前连续五周下跌的趋势，10 月 14 日曾跌至 1.1113——逼近 2025 年 5 月 12 日底部 1.1065、当年 3 月 27 日底部 1.0733、以及当年 2 月 28 日底部 1.0360。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3542603"
+  },
+  {
     "post": "Financial_Express/3542602",
     "datetime": "2026-10-16T21:13:02+00:00",
     "views": "1",
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3542593",
     "datetime": "2026-10-16T21:06:02+00:00",
-    "views": "15",
+    "views": "18",
     "text": "特朗普：如果你不确定某个中东人叫什么名字，直接叫穆罕默德就行。大约有 65%的概率是对的。我这么干了好多年了，从没出过错。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3542588",
     "datetime": "2026-10-16T21:02:02+00:00",
-    "views": "6",
+    "views": "36",
     "text": "美国交通部将把空中交通管制员工资上调 2.8%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3542587",
     "datetime": "2026-10-16T21:01:22+00:00",
-    "views": "7",
+    "views": "37",
     "text": "特朗普谈伊朗：他们的一举一动我们都听得到，他们说的每一句话我们也听得到。这属于机密信息。我刚刚将其解密。",
     "media_only": false,
     "image_url": null,
@@ -62926,41 +62944,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3535535"
-  },
-  {
-    "post": "Financial_Express/3535534",
-    "datetime": "2026-10-14T21:16:22+00:00",
-    "views": "61",
-    "text": "美国总统特朗普：我们攻击伊朗的原因其实是出于防御，因为我们不想让他们拥有能一击炸死数百万人的武器。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3535534"
-  },
-  {
-    "post": "Financial_Express/3535533",
-    "datetime": "2026-10-14T21:16:11+00:00",
-    "views": "62",
-    "text": "富时 A50 期指连续夜盘收跌 0.86%，报 13397 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3535533"
-  },
-  {
-    "post": "Financial_Express/3535532",
-    "datetime": "2026-10-14T21:15:42+00:00",
-    "views": "66",
-    "text": "特朗普：刚和台积电董事长交谈。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3535532"
-  },
-  {
-    "post": "Financial_Express/3535530",
-    "datetime": "2026-10-14T21:14:52+00:00",
-    "views": "69",
-    "text": "美国总统特朗普：刚刚与台积电高管通电话。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3535530"
   }
 ]
