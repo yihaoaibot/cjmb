@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3542651",
     "datetime": "2026-10-16T22:05:02+00:00",
-    "views": "8",
+    "views": "18",
     "text": "微软被告知员工应将 OpenAI 抓取项目列为“机密”\n10 月 16 日解封的一份法庭文件显示，微软公司曾命令员工对其网站抓取项目“保密”；该项目为 OpenAI 公司采集人工智能（AI）训练数据。在这项代号为“Project Mango”的项目中，OpenAI 向微软支付费用，由微软开发并运营一个网络爬虫，用于复制网页内容；这些内容随后被用于训练包括 GPT-4o 在内的模型。新闻出版商在部分解封的简易判决动议中称。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3542650",
     "datetime": "2026-10-16T22:04:03+00:00",
-    "views": "11",
+    "views": "20",
     "text": "提示：特朗普结束在佐治亚州的讲话。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3542649",
     "datetime": "2026-10-16T22:02:03+00:00",
-    "views": "22",
+    "views": "27",
     "text": "墨西哥部长：与美国的贸易谈判并未陷入僵局。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3542648",
     "datetime": "2026-10-16T22:02:02+00:00",
-    "views": "22",
+    "views": "27",
     "text": "墨西哥部长：美国商务部长卢特尼克并不反对降低对墨西哥征收的 232 号关税。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3542647",
     "datetime": "2026-10-16T21:59:54+00:00",
-    "views": "33",
+    "views": "38",
     "text": "10 月 16 日解封的一份法庭文件显示，微软公司曾命令员工对其网站抓取项目“保密”；该项目为 OpenAI 公司采集人工智能（AI）训练数据。\n在这项代号为“Project Mango”的项目中，OpenAI 向微软支付费用，由微软开发并运营一个网络爬虫，用于复制网页内容；这些内容随后被用于训练包括 GPT-4o 在内的模型。新闻出版商在部分解封的简易判决动议中称。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3542646",
     "datetime": "2026-10-16T21:58:02+00:00",
-    "views": "41",
+    "views": "44",
     "text": "微软员工被告知继续挖掘 OpenAI 的“秘密”。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3542645",
     "datetime": "2026-10-16T21:56:42+00:00",
-    "views": "45",
+    "views": "48",
     "text": "据 Politico：Anthropic 正在向立法者悄然推销其自身的人工智能安全法案。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3542644",
     "datetime": "2026-10-16T21:55:22+00:00",
-    "views": "48",
+    "views": "51",
     "text": "美国总统特朗普： 在佐治亚州，优时比（UCB）将投资 20 亿美元，建设其在美国的首座制药工厂。\n倍耐力（Pirelli）刚刚宣布，将投资 12 亿美元扩建罗马市工厂，新增 1000 个就业岗位。\n现代汽车（Hyundai）宣布，将投资 5.6 亿美元扩建西点市的工厂。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3542643",
     "datetime": "2026-10-16T21:54:22+00:00",
-    "views": "51",
+    "views": "52",
     "text": "特朗普： 在佐治亚州，优时比（UCB）将投资 20 亿美元，建设其在美国的首座制药工厂。倍耐力（Pirelli）刚刚宣布，将投资 12 亿美元扩建罗马市工厂，新增 1000 个就业岗位。现代汽车（Hyundai）宣布，将投资 5.6 亿美元扩建西点市的工厂。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3542642",
     "datetime": "2026-10-16T21:53:02+00:00",
-    "views": "53",
+    "views": "54",
     "text": "Anthropic 向国会推介 AI 监管草案 将允许出现严重风险时封锁模型\n据三名了解相关行动、获准匿名讨论内部磋商的人士透露，人工智能巨头 Anthropic 的代表已经悄悄向美国国会山的议员推介一份前沿 AI 安全监管法案草案。 在国会正斟酌如何应对快速发展的 AI 行业之际，这份文件代表这家前沿 AI 实验室的一项重要行动——试图塑造管理自身技术的法规。 Anthropic 发言人表示：“本法案体现了我们《高级人工智能框架》中提出的各项方案，自 6 月起，我们一直在向联邦及各州议员倡导这套框架。我们认为这些是合理的政策，国会应当就此采取行动。” 根据该法案，只有在满足以下条件时，政府才有权阻止模型的发布或投入使用：模型存在可预见的紧迫风险，可能造成超过 10 亿美元损失，或是导致 50 人以上死亡或重伤。该风险必须来源于生物武器研发与释放、模型绕开开发者管控，或是网络攻击。条款文字借鉴了加州 AI 相关法律，包括去年签署生效的 SB 53 法案。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3542641",
     "datetime": "2026-10-16T21:52:01+00:00",
-    "views": "49",
+    "views": "50",
     "text": "据媒体报道，美国中央司令部司令库珀称，真主党、哈马斯及伊拉克什叶派民兵等亲伊朗武装组织正向伊朗革命卫队回输资金，伊朗政府还被指拖欠革命卫队及公共部门人员的工资、养老金和福利。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3542640",
     "datetime": "2026-10-16T21:50:38+00:00",
-    "views": "55",
+    "views": "56",
     "text": "半导体股遭遇历史性暴跌，给那些敢于做空的投资者带来了丰厚收益。过去一年大部分时间里，半导体一直是美国股市涨幅最突出的板块之一。\n随着费城半导体指数下跌逾 12%，过去 7 天逆势做空的交易员估计获得了 320 亿美元的账面总收益。这个代码为 SOX 的芯片股基准指数周五连续第八个交易日下跌，追平 2006 年以来最长连跌纪录。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3542638",
     "datetime": "2026-10-16T21:50:22+00:00",
-    "views": "51",
+    "views": "52",
     "text": "苹果聘请 Meta 副总法律顾问斯科特·塔克。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3542639",
     "datetime": "2026-10-16T21:50:22+00:00",
-    "views": "52",
+    "views": "53",
     "text": "苹果任命 Meta 资深人士为诉讼主管，进行法务团队调整。",
     "media_only": false,
     "image_url": null,
@@ -62989,23 +62989,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3535577"
-  },
-  {
-    "post": "Financial_Express/3535576",
-    "datetime": "2026-10-14T22:08:22+00:00",
-    "views": "56",
-    "text": "美联储 10 月加息概率升至 33.2%\n金十数据 10 月 15 日讯，据 CME“美联储观察”：美联储到 10 月维持利率不变的概率为 66.8%，累计加息 25 个基点的概率为 33.2%。美联储到 12 月维持利率不变的概率为 9.1%，累计加息 25 个基点的概率 62.2%，累计加息 50 个基点的概率为 28.7%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3535576"
-  },
-  {
-    "post": "Financial_Express/3535575",
-    "datetime": "2026-10-14T22:08:08+00:00",
-    "views": "57",
-    "text": "Rocket Lab Corp.（RKLB）收跌 7.85%，美股盘后跌 7.76%。\nRocket Lab 推迟了其中子（Neutron）火箭的首次亮相，将该火箭的首飞时间延后至 2027 年。\n此次推迟的原因是，公司在发射准备阶段发现了火箭推进剂贮箱制造环节存在新问题。\nRocket Lab 首席执行官彼得·贝克表示，公司不会带着不必要的风险仓促走向发射台，并称中子火箭这类研发项目难免会遇到挑战。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3535575"
   }
 ]
