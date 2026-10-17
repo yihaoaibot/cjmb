@@ -67,7 +67,7 @@
     "media_only": false,
     "image_url": "https://cdn1.telesco.pe/file/lUMgl5AjFVVis8eKA0P-f5mrzadWgzWp9M_0KM0a6ock2hJ9HNqablcScsuEqFpeMdty-8EFyexiEd-PQ2ZC6CnKo4Gh0wEyOO880tcyHfVFR9RoVwY50RQDCxd81nSoKczO5jIQhMiV8iuVYdII5hRRVYjWVfcT_1Uw2A4Bcgx0grK41n9VVwv2h9h7BjaZ1vR4nEwnW3LEwTkIMSU5XTTxhemc6yhv0sF43kTTfrII2cR9XEWw2NJjZ4v8RCZA4JYeKRvc36tAnpaoHxBAuvYri5Nt29-q27sfLQqD4tNvrdRSK5TWV6TmW9quJ1QY6IwU0kVf7gjj0orE5wUNWQ.jpg",
     "url": "https://t.me/clsvip/36720",
-    "image": null
+    "image": "./vip-media/36720.jpg"
   },
   {
     "post": "clsvip/36718",
@@ -222,7 +222,7 @@
   {
     "post": "clsvip/36703",
     "datetime": "2026-10-16T01:30:21+00:00",
-    "views": "551",
+    "views": "552",
     "text": "",
     "media_only": true,
     "image_url": null,
