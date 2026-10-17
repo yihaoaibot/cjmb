@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3543209",
+    "datetime": "2026-10-17T14:11:14+00:00",
+    "views": "4",
+    "text": "工会组织：Antofagasta 与参与罢工的工人们达成薪资协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3543209"
+  },
+  {
     "post": "Financial_Express/3543208",
     "datetime": "2026-10-17T14:01:42+00:00",
-    "views": "53",
+    "views": "85",
     "text": "美国联邦住房金融局局长普尔特：预计年底前就贷款层级定价调整（LLPAs）的任何修订作出决定。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3543207",
     "datetime": "2026-10-17T13:57:08+00:00",
-    "views": "135",
+    "views": "136",
     "text": "全球知名 AI 开源社区 Hugging Face 上的 Decision Index 0.3.2 榜单近日更新，中国 AI 创业公司 StartLux（原点星辉）推出的 StartLux-Decision-v1.1-27B Instant 以 69.1 分登顶全球第一，在 173 项公开复现模型中排名榜首，领先第二名近 3 分，也是榜单中唯一突破 69 分的模型。继 9 月底发布首代模型后，StartLux 仅用十余天再次刷新行业最佳成绩，稳居全球决策模型 SOTA。（硬 AI）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3543206",
     "datetime": "2026-10-17T13:54:04+00:00",
-    "views": "136",
+    "views": "137",
     "text": "“郑和号+铁路快通”海公铁多式联运班列首发\n10 月 16 日，满载 49 柜集装箱的国际班列由昆明市晋宁区腾俊国际陆港驶出，标志着“郑和号+铁路快通”海公铁多式联运班列正式首发。腾俊国际陆港地处昆明南部核心物流枢纽，紧邻中老铁路干线，依托陆港内海关监管作业场所，出口货物在腾俊国际陆港即可一站式完成申报、查验、放行全流程作业，抵达边境口岸后可直接出境。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3543205",
     "datetime": "2026-10-17T13:52:53+00:00",
-    "views": "137",
+    "views": "138",
     "text": "国家医保局印发的《全民医疗保障“十五五”规划》提出，积极将新技术、新药品、新器械应用纳入商业健康保险保障范围。\n记者近日走访了解到，目前北京、上海、江苏、浙江等多地，已将“医用外骨骼康复训练”项目纳入医保或长护险试点。医用外骨骼，是一种可穿戴的智能康复机器人，能够为患者提供标准化、重复性的步态训练，针对髋、膝、踝关节的运动控制、躯干平衡和步态控制进行训练，帮助患者重新建立站立、迈步和行走的能力。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3543204",
     "datetime": "2026-10-17T13:52:00+00:00",
-    "views": "133",
+    "views": "134",
     "text": "印度计算机应急响应小组（CERT-In）周四晚间表示，正在接受安全测试的人工智能（AI）模型突破了印度机构的实时计算机系统，并在未被察觉的情况下访问了包括商业记录在内的机密数据。这一事件凸显出能够执行复杂黑客操作的 AI 系统正带来日益增长的风险。\nCERT-In 称，多家 AI 模型供应商主动报告，其 AI 智能体在测试运行期间“超出指定任务的授权范围”，访问了印度企业的数据。该机构未披露涉事 AI 公司、受影响组织、事件数量、数据访问规模，也未说明相关机构是否遭受财务损失。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3543203",
     "datetime": "2026-10-17T13:49:42+00:00",
-    "views": "133",
+    "views": "134",
     "text": "医用外骨骼康复训练项目纳入多地医保\n2025 年，中国医疗康复外骨骼机器人市场规模约 14.2 亿元，专家表示，低成本、高实用性的康复医疗外骨骼机器人，将成为未来发展重点。（央视财经）",
     "media_only": false,
     "image_url": null,
@@ -42397,59 +42406,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3538453"
-  },
-  {
-    "post": "Financial_Express/3538452",
-    "datetime": "2026-10-15T14:12:43+00:00",
-    "views": "51",
-    "text": "甲骨文股价在周三下跌后企稳，最新上涨 1.1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3538452"
-  },
-  {
-    "post": "Financial_Express/3538451",
-    "datetime": "2026-10-15T14:12:42+00:00",
-    "views": "50",
-    "text": "美国议员提议要求美联储披露与爱泼斯坦相关的记录。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3538451"
-  },
-  {
-    "post": "Financial_Express/3538450",
-    "datetime": "2026-10-15T14:12:32+00:00",
-    "views": "52",
-    "text": "德意志银行：CoreWeave 的抛售是“买入良机”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3538450"
-  },
-  {
-    "post": "Financial_Express/3538449",
-    "datetime": "2026-10-15T14:11:22+00:00",
-    "views": "83",
-    "text": "美国零售联合会预计，假日季销售额将突破 1 万亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3538449"
-  },
-  {
-    "post": "Financial_Express/3538448",
-    "datetime": "2026-10-15T14:11:03+00:00",
-    "views": "51",
-    "text": "美国零售行业团体预计，今年假日季销售额将增长 4.2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3538448"
-  },
-  {
-    "post": "Financial_Express/3538447",
-    "datetime": "2026-10-15T14:11:02+00:00",
-    "views": "51",
-    "text": "德意志银行称，CoreWeave 的抛售是“买入机会”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3538447"
   }
 ]
