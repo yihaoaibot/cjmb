@@ -147,7 +147,7 @@
     "media_only": false,
     "image_url": "https://cdn1.telesco.pe/file/vWvWc8oeK_oF9e5LlhOtTi_YvvlWDVy-HjzDdNWEEsmomKnR7znqs9cFTVsYCQZG84cEJde_jJ9JuUujheI41nlnnm_Rpt9vpdREtjW-hSPdWQmmZqxFeqOcAOd5M7vsETuy6Q8qU70N-UCxtVAyjY4YGOjkw6CvKvfJHZhVIJJPswyWTKEg8tdacOP57bfVAvXVk9Yj0p2FiWKs-Y1S5wX4XIFVyEBDixYVWmdichKuo-2MqjV2djnCx8BMa4YkWeLPtWCLgkA439DugCXhxdVh9DHsCRDbch96rvc3YUJMoQEZplAGwVEnqr7WrnNwXA5Nxclr78IzEbHV18kODA.jpg",
     "url": "https://t.me/clsvip/36711",
-    "image": "./vip-media/36711.jpg"
+    "image": null
   },
   {
     "post": "clsvip/36710",
@@ -218,15 +218,5 @@
     "image_url": "https://cdn1.telesco.pe/file/ci6hllGZgyN9c9DLYHEEcTsWF2_ZeNbD8ebgQ4dPXVGw9HfD6w7v47JgiADmqKyFCaJM6TPmG3gouXhDrQw2aFgql0ZNx4qmMHecgvm4Ruwc-alg2-3fqAhC5oAraZHZJzLLFIXLbPcuUkHDyPRYG2h30hfvQF4sHVw7f22TKJLgEzguvjr7l2PjMnhtRBjULRi3b3e73DiLLgTkkYbqMFSw-CjyDpG63j7Z3YH7z9pMHJeX0k2CmK1JDApzvZDh7jqIsRt0YZJwnOQ0Wl1jFulkCl0y-5lqcugFx6fmmLT2SY5Y2viDS48WSL9tx6x-iwYprMivnzh1-EM4Pf0T-g.jpg",
     "url": "https://t.me/clsvip/36704",
     "image": "./vip-media/36704.jpg"
-  },
-  {
-    "post": "clsvip/36703",
-    "datetime": "2026-10-16T01:30:21+00:00",
-    "views": "573",
-    "text": "",
-    "media_only": true,
-    "image_url": null,
-    "url": "https://t.me/clsvip/36703",
-    "image": null
   }
 ]
