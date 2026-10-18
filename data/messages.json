@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3544131",
+    "datetime": "2026-10-18T22:00:23+00:00",
+    "views": "1",
+    "text": "纽约期银突破 57 美元/盎司，日内跌 0.71%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3544131"
+  },
+  {
+    "post": "Financial_Express/3544132",
+    "datetime": "2026-10-18T22:00:23+00:00",
+    "views": "1",
+    "text": "WTI 原油突破 99 美元/桶，日内跌 0.22%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3544132"
+  },
+  {
+    "post": "Financial_Express/3544130",
+    "datetime": "2026-10-18T22:00:22+00:00",
+    "views": "1",
+    "text": "纽约期金突破 4180 美元/盎司，日内持平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3544130"
+  },
+  {
     "post": "Financial_Express/3544129",
     "datetime": "2026-10-18T21:56:22+00:00",
-    "views": "5",
+    "views": "11",
     "text": "美联储 10 月维持利率不变的概率为 83.9%\n金十数据 10 月 19 日讯，据 CME“美联储观察”：美联储到 10 月维持利率不变的概率为 83.9%，累计加息 25 个基点的概率为 16.1%。美联储到 12 月维持利率不变的概率为 8.2%，累计加息 25 个基点的概率 77.3%，累计加息 50 个基点的概率为 14.5%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3544128",
     "datetime": "2026-10-18T21:53:22+00:00",
-    "views": "12",
+    "views": "14",
     "text": "欧洲天然气价格开盘上涨 2%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3544127",
     "datetime": "2026-10-18T21:52:42+00:00",
-    "views": "14",
+    "views": "46",
     "text": "闪迪暗盘涨超 1%，现报 1277.685 美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3544124",
     "datetime": "2026-10-18T21:45:23+00:00",
-    "views": "54",
+    "views": "55",
     "text": "新西兰 9 月进口 84.4 亿纽元，前值由 80 亿纽元修正为 80.2 亿纽元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3544125",
     "datetime": "2026-10-18T21:45:23+00:00",
-    "views": "54",
+    "views": "55",
     "text": "新西兰 9 月 12 个月贸易帐 -61.8 亿纽元，前值由-54.42 亿纽元修正为-56.1 亿纽元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3544126",
     "datetime": "2026-10-18T21:45:23+00:00",
-    "views": "54",
+    "views": "55",
     "text": "新西兰 9 月出口 64.7 亿纽元，前值由 66.6 亿纽元修正为 64.8 亿纽元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3544123",
     "datetime": "2026-10-18T21:45:22+00:00",
-    "views": "54",
+    "views": "55",
     "text": "新西兰 9 月贸易帐 -19.71 亿纽元，前值由-13.49 亿纽元修正为-15.36 亿纽元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3544121",
     "datetime": "2026-10-18T21:45:02+00:00",
-    "views": "26",
+    "views": "57",
     "text": "新西兰 9 月贸易帐 -19.71 亿纽元，前值 -13.49 亿纽元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3544122",
     "datetime": "2026-10-18T21:45:02+00:00",
-    "views": "56",
+    "views": "57",
     "text": "新西兰 9 月 12 个月贸易帐 -61.75 亿纽元，前值 -54.42 亿纽元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3544119",
     "datetime": "2026-10-18T21:45:01+00:00",
-    "views": "26",
+    "views": "27",
     "text": "新西兰 9 月进口 84.4 亿纽元，前值 80 亿纽元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3544120",
     "datetime": "2026-10-18T21:45:01+00:00",
-    "views": "26",
+    "views": "27",
     "text": "新西兰 9 月出口 64.7 亿纽元，前值 66.6 亿纽元。",
     "media_only": false,
     "image_url": null,
@@ -13309,14 +13336,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3542648"
-  },
-  {
-    "post": "Financial_Express/3542647",
-    "datetime": "2026-10-16T21:59:54+00:00",
-    "views": "62",
-    "text": "10 月 16 日解封的一份法庭文件显示，微软公司曾命令员工对其网站抓取项目“保密”；该项目为 OpenAI 公司采集人工智能（AI）训练数据。\n在这项代号为“Project Mango”的项目中，OpenAI 向微软支付费用，由微软开发并运营一个网络爬虫，用于复制网页内容；这些内容随后被用于训练包括 GPT-4o 在内的模型。新闻出版商在部分解封的简易判决动议中称。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3542647"
   }
 ]
