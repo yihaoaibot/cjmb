@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3544318",
+    "datetime": "2026-10-19T00:12:42+00:00",
+    "views": "2",
+    "text": "日本日经 225 指数下跌 2%.",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3544318"
+  },
+  {
+    "post": "Financial_Express/3544319",
+    "datetime": "2026-10-19T00:12:42+00:00",
+    "views": "2",
+    "text": "韩国首尔综指日内跌幅收窄至不到 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3544319"
+  },
+  {
+    "post": "Financial_Express/3544317",
+    "datetime": "2026-10-19T00:12:25+00:00",
+    "views": "14",
+    "text": "日经 225 指数日内跌幅扩大至 2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3544317"
+  },
+  {
+    "post": "Financial_Express/3544316",
+    "datetime": "2026-10-19T00:12:22+00:00",
+    "views": "14",
+    "text": "中信建投：特斯拉第二代 Roadster 发布，看好商业航天、低空经济主题性机会\n中信建投研报表示，当地时间 10 月 15 日晚间，特斯拉在美国得州展示了重新设计的第二代 Roadster 跑车，搭载与 SpaceX 联合开发、代号 A71 的冷气推进系统。新款 roadster 体现了航天技术在低空经济领域的下沉应用，预计将推动商业航天、低空经济产业的共同发展，看好上述两大板块的主题性投资机会。商业航天板块看好卫星制造、火箭制造、地面设备和运营服务中的核心细分环节，低空经济板块看好无人机/eVTOL 制造、轻量化材料、空管及核心细分环节。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3544316"
+  },
+  {
+    "post": "Financial_Express/3544315",
+    "datetime": "2026-10-19T00:12:13+00:00",
+    "views": "16",
+    "text": "日本首相高市早苗：得益于“安倍经济学”，日本已不再处于通货紧缩状态。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3544315"
+  },
+  {
+    "post": "Financial_Express/3544314",
+    "datetime": "2026-10-19T00:12:02+00:00",
+    "views": "20",
+    "text": "日本首相高市早苗：多亏了安倍经济学，日本已经摆脱了通货紧缩。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3544314"
+  },
+  {
     "post": "Financial_Express/3544313",
     "datetime": "2026-10-19T00:09:22+00:00",
-    "views": "17",
+    "views": "41",
     "text": "日本央行行长植田和男：日本经济温和复苏、就业市场趋紧也在推高通胀。",
     "media_only": false,
     "image_url": null,
@@ -11,8 +65,8 @@
   {
     "post": "Financial_Express/3544312",
     "datetime": "2026-10-19T00:09:05+00:00",
-    "views": "25",
-    "text": "日本央行行长植田和男：潜在通胀率已非常接近 2%。\n工资与物价同步上涨的良性机制已经恢复。\n核心通胀率稳定在 2%附近至关重要。",
+    "views": "46",
+    "text": "日本央行行长植田和男：潜在通胀率已非常接近 2%。\n工资与物价同步上涨的良性机制已经恢复。\n核心通胀率稳定在 2%附近至关重要。\n很难在需求拉动型和成本推动型通胀之间划出清晰界限。\n工资上涨继续传导至商品和服务价格。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3544312"
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3544311",
     "datetime": "2026-10-19T00:09:03+00:00",
-    "views": "25",
+    "views": "46",
     "text": "日本央行行长植田和男：全球对人工智能的强劲需求正在推高国内资本支出、出口以及各类商品的价格，这可以解释为需求拉动型通胀。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3544310",
     "datetime": "2026-10-19T00:08:22+00:00",
-    "views": "35",
+    "views": "55",
     "text": "日本央行行长植田和男：中东冲突正在推高能源成本和各类价格，这可以被定义为供给驱动型通胀。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3544309",
     "datetime": "2026-10-19T00:07:43+00:00",
-    "views": "40",
+    "views": "60",
     "text": "日本央行行长植田和男：工资增长持续向各种商品和服务转嫁，这也是一种趋势。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3544308",
     "datetime": "2026-10-19T00:07:23+00:00",
-    "views": "41",
+    "views": "60",
     "text": "日本央行行长植田和男：很难明确区分需求拉动型通货膨胀和成本推动型通货膨胀。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3544307",
     "datetime": "2026-10-19T00:07:22+00:00",
-    "views": "41",
+    "views": "60",
     "text": "日本央行行长植田和男：基础通胀接近我们的 2%目标。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3544306",
     "datetime": "2026-10-19T00:07:03+00:00",
-    "views": "42",
+    "views": "61",
     "text": "日本央行行长植田和男：日本正出现工资上涨、物价回升的良性循环。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3544305",
     "datetime": "2026-10-19T00:07:02+00:00",
-    "views": "43",
+    "views": "62",
     "text": "日本央行行长植田和男：将潜在通胀稳定在 2%左右变得越来越重要。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3544304",
     "datetime": "2026-10-19T00:06:23+00:00",
-    "views": "47",
+    "views": "65",
     "text": "日本央行行长植田和男：潜在通胀已相当接近我们 2%的目标",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3544303",
     "datetime": "2026-10-19T00:06:22+00:00",
-    "views": "48",
+    "views": "66",
     "text": "日本央行行长植田和男：工资和物价上涨的机制已经恢复。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3544302",
     "datetime": "2026-10-19T00:06:03+00:00",
-    "views": "49",
+    "views": "64",
     "text": "国金证券 A 股策略：A 股当下最差的环境已经过去\n国金证券 A 股策略指出，对于 A 股投资者而言，至少当下最差的环境已经过去：AI 投资带来高利率与全球资本成本上升，但 AI 缩圈至美国科技。当下，美国科技投资的裂痕将在一段时间支撑实际利率的下行。市场当下不具备 V 型的基础，但是风险期阶段性度过，非 AI 领域开始去做适当下注。总体而言，国金证券推荐：第一，在 AI 产业趋势存在放缓趋势、基本面产生分歧的背景下，实际利率的利率压制逐步缓和，黄金正在迎来配置时机。第二，以煤炭、石油、油运为代表的能化链条将继续受益于全球对能源的补库需求，同时是具备红利属性的资产。第三，出口数据看不再是 AI 一枝独秀，若未来利率继续下行，出口出海板块将会迎来修复，其中白电、纺织制造、商用车、家居等同样兼具红利属性。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3544301",
     "datetime": "2026-10-19T00:06:02+00:00",
-    "views": "46",
+    "views": "59",
     "text": "中金：当前的投资预期还不至于给全球科技行业的景气度构成全面压力\n中金指出，当前的投资预期，还不至于给全球科技行业的景气度构成全面压力。但在不同竞争格局下，供给扩张对 ROE 和景气度的影响将有所差异：未来两年供给环境相对有利，资本回报和景气度相对受益的主要是中国半导体设备和电网设备；面临较大考验的是全球数字芯片设计。中国光模块、美国光模块和 PCB 可能阶段性受益；美国有色金属则可能阶段性承压。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3544300",
     "datetime": "2026-10-19T00:05:42+00:00",
-    "views": "45",
+    "views": "57",
     "text": "日本首相高市早苗：日本正处于一个转折点，可以开启良性增长循环。",
     "media_only": false,
     "image_url": null,
@@ -14317,32 +14371,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3542719"
-  },
-  {
-    "post": "Financial_Express/3542718",
-    "datetime": "2026-10-17T00:12:22+00:00",
-    "views": "109",
-    "text": "“双 11”大战提前启幕 AI 成为重要抓手\n2026 年“双 11”大促拉开帷幕，天猫、京东于 10 月 15 日举办大促发布会，抖音同日官宣启动，头部平台同台竞逐。面对存量市场竞争，平台一改往年繁复的玩法，将大促提前、简化活动规则，争夺用户注意力与商家资源。不同于以往主要依靠价格补贴拉动增长，本届“双 11”的显著变化是，AI 成为重要抓手，AI 工具、电商智能体覆盖了商家经营全链路。与此同时，一键出海工具、海外仓履约体系与跨境 AI 应用持续降低跨境运营门槛，出海业务有望成为本届大促新亮点。业内人士表示，一键出海大幅降低商家出海门槛，海外仓破解跨境物流时效、售后体验痛点，跨境 AI 智能体补齐询盘、报关、合规风控等短板。整体来看，电商出海竞争正从单纯商品输出，转向综合服务能力比拼。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3542718"
-  },
-  {
-    "post": "Financial_Express/3542717",
-    "datetime": "2026-10-17T00:11:22+00:00",
-    "views": "78",
-    "text": "名创优品称与迪士尼联名周边“双层价签”商品非门店售卖，赛事主办方回应将记录情况\n近日，有网友在社交媒体上发文反映，名创优品与迪士尼联名“出‘奇’制胜”网球主题系列商品，以覆盖原价签的方式加价销售。名创优品回应，相关商品不是在名创优品门店出售，应联系售卖方。上海大师赛票务热线人员称，将把情况同步给赛事主办方。（澎湃新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3542717"
-  },
-  {
-    "post": "Financial_Express/3542716",
-    "datetime": "2026-10-17T00:11:02+00:00",
-    "views": "75",
-    "text": "港股停牌退市常态化 年内 25 家公司遭强制退市\n截至 10 月 15 日，年内已有 36 家港股公司完成退市，其中 25 家为港交所强制除牌；另有多家企业已获港交所上市委员会批准除牌，即将退出港股市场。对比 2025 年同期，长期停牌企业的退市节奏加快。多位市场受访人士表示，加速清退劣质上市主体，能够提升港股整体市场质量，改善市场流动性，引导资金向优质企业集聚。但退市出清不等于简单“一摘了之”：如何压缩停牌的不确定性周期，同时保障中小投资者享有充分信息披露以及完备的维权救济途径，仍是这套退市机制需要持续完善的地方。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3542716"
   }
 ]
