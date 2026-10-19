@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3544296",
+    "datetime": "2026-10-19T00:03:43+00:00",
+    "views": "2",
+    "text": "日本日经平均股价下跌 1.03%，报 64,654.35 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3544296"
+  },
+  {
+    "post": "Financial_Express/3544295",
+    "datetime": "2026-10-19T00:03:42+00:00",
+    "views": "2",
+    "text": "日本央行行长植田和男于当地时间上午 9 点在国会出席会议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3544295"
+  },
+  {
     "post": "Financial_Express/3544294",
     "datetime": "2026-10-19T00:02:23+00:00",
-    "views": "12",
+    "views": "30",
     "text": "钯金期货日内涨 1%，现报 1129.95 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3544293",
     "datetime": "2026-10-19T00:02:22+00:00",
-    "views": "12",
+    "views": "30",
     "text": "第一生命证实向澳大利亚 Challenger 公司提交非约束性收购提案\n第一生命集团 10 月 19 日发布公告，部分媒体报道称，本公司的澳大利亚子公司 TAL Daiichi Life Australia Pty Limited（以下简称“TDA”）已提交收购 Challenger Limited 股份的非约束性提案。然而，此类报道并非基于本公司发布的任何公告。本公司确认，TDA 已向 Challenger 董事会提交了一份非约束性提案。不过，目前本公司尚未就是否推进具有约束力的交易作出任何决定。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3544292",
     "datetime": "2026-10-19T00:01:42+00:00",
-    "views": "26",
+    "views": "38",
     "text": "SK 海力士股价下跌 4%，三星电子股价下跌 3%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3544291",
     "datetime": "2026-10-19T00:01:14+00:00",
-    "views": "34",
+    "views": "45",
     "text": "日经 225 指数低开 0.9%，韩国首尔综指低开 3.2%。\nSK 海力士股价下跌 4%、三星电子下跌 3%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3544290",
     "datetime": "2026-10-19T00:01:03+00:00",
-    "views": "37",
+    "views": "47",
     "text": "全球最大的黄金 ETF SPDR Gold Trust 持仓较前日增加 5.13 吨\n截至 2026 年 10 月 16 日，全球最大的黄金 ETF SPDR Gold Trust 持仓量为 1059.04 吨，较前一个交易日增加 5.13 吨。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3544289",
     "datetime": "2026-10-19T00:01:02+00:00",
-    "views": "37",
+    "views": "47",
     "text": "韩国综合股价指数（KOSPI）开盘下跌 3.2%，至 5488.41 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3544287",
     "datetime": "2026-10-19T00:00:42+00:00",
-    "views": "39",
+    "views": "48",
     "text": "布伦特原油失守 108 美元/桶，日内跌 1.71%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3544288",
     "datetime": "2026-10-19T00:00:42+00:00",
-    "views": "39",
+    "views": "49",
     "text": "日经 225 指数上午开盘报 64819.56 点，跌幅 0.77%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3544285",
     "datetime": "2026-10-19T00:00:01+00:00",
-    "views": "45",
+    "views": "53",
     "text": "中国即将发行或正在发行的地方政府债",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3544286",
     "datetime": "2026-10-19T00:00:01+00:00",
-    "views": "44",
+    "views": "52",
     "text": "中国即将发行或正在发行的国债和政策性金融债",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3544284",
     "datetime": "2026-10-18T23:59:22+00:00",
-    "views": "49",
+    "views": "55",
     "text": "AI 企业 Nscale 投资者敦促公司下调 300 亿美元的 IPO 估值目标\n知情人士称，在多家人工智能企业接连遭遇市场挫折后，Nscale 有限公司本次 IPO 寻求的估值目标遭到投资方反对。消息人士表示，这家由英伟达投资的数据中心开发商原本希望 IPO 估值约 300 亿美元。部分知情人士称，考虑澳大利亚 AI 数据中心企业 Firmus 的上市计划宣告失败等因素，不少投资者近期提出，估值设在 160 亿至 190 亿美元区间才更容易获得市场认购。 估值分歧令 Nscale 的 IPO 计划雪上加霜。该公司周日表示，其最大客户之一微软已经退出英国数据中心合作项目，该项目此前受电力供应约束影响，工期持续延误。随着融资成本走高，叠加市场对 AI 技术长期回报的不确定性上升，市场对芯片厂商、云计算企业这类 AI 基础设施公司的情绪已经转弱。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3544283",
     "datetime": "2026-10-18T23:58:42+00:00",
-    "views": "49",
+    "views": "52",
     "text": "经济日报：华为麒麟走出突围之路\n10 月中旬，华为在其终端创新技术沟通会上放出两个重磅消息：使用“逻辑折叠”新技术的麒麟 9050 系列芯片已顺利量产；自 2023 年 8 月麒麟回归以来，基于麒麟芯片的终端产品累计发货已经过亿。量产，是技术闯关成功；过亿，是市场用脚投票。这两个消息足够提气，说明中国高端芯片在重重约束下走出了一条差异化突围之路。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3544282",
     "datetime": "2026-10-18T23:57:42+00:00",
-    "views": "49",
+    "views": "52",
     "text": "法国发生严重骚乱 暴力抗议活动在欧洲蔓延 欧元下挫\n法国总统马克龙表示，法国对周末发生的广泛暴力事件感到愤怒和羞耻，并呼吁恢复秩序。多个城市的抗议活动演变成警察与示威者之间的冲突，引发了法国多年来最严重的街头暴力，包括抢劫和纵火焚烧地标建筑。马克龙在周日晚间的讲话中表示，“国家需要秩序与和平，而不是局势升级。”他还补充说，地区官员将与市长们共同决定如何保护公共建筑和企业，包括在必要时禁止游行。法国是欧洲一系列示威活动中规模最大的，比利时、意大利和葡萄牙也受到影响。欧元走弱，亚洲周一早盘一度下跌 0.5%至 1.1183 美元。乌克兰局势也令欧元承压，泽连斯基指责特朗普正在迫使基辅向莫斯科投降，并表示乌克兰可以停止打击俄炼油厂，条件是美国交付更多“爱国者”拦截弹。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3544281",
     "datetime": "2026-10-18T23:54:47+00:00",
-    "views": "66",
+    "views": "67",
     "text": "据报道，三星电子计划采用台积电的 3 纳米工艺生产英伟达的下一代定制高带宽内存（HBM）基底裸片。据悉，英伟达希望供应商统一制造工艺以确保性能的一致性，已要求三星、SK 海力士和美光在 NVHBM 的基底裸片生产中采用台积电的 3 纳米工艺。此举标志着三星将首次在 HBM 制造阶段与台积电展开合作。（界面）",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3544280",
     "datetime": "2026-10-18T23:54:42+00:00",
-    "views": "66",
+    "views": "67",
     "text": "华泰证券港股策略：红利继续做底仓 可阶段性重点关注创新药及 CXO 龙头\n华泰证券研报表示，上周美国 9 月 CPI、PPI 双双超预期，推动 10 月加息概率上升、美债长端收益率盘中触及二十四年来新高。但随后 AI 产业链在融资压力与增长担忧的双重影响下回撤，反向带动美债利率自高点回落。资产表现因此出现小幅逆转，非 AI 主线但受益于美债压力部分缓解的市场如印度和恒生指数相对收益跑赢，传统行业小幅修复。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3544279",
     "datetime": "2026-10-18T23:54:22+00:00",
-    "views": "61",
+    "views": "62",
     "text": "澳洲联储肯特：就业数据公布后的市场走势是合理的。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3544278",
     "datetime": "2026-10-18T23:53:45+00:00",
-    "views": "61",
+    "views": "62",
     "text": "受冬储补库需求以及供给偏紧影响，近期动力煤价格时隔 3 年再度重返千元上方。“煤炭行业成本相对稳定，煤炭价格上涨可以直接改善煤炭企业的盈利预期，对业绩改善形成支撑。”广东华辉创富投资管理有限公司总经理袁华明表示。受今年以来煤价上行影响，上半年已有八成动力煤行业上市公司业绩同比改善。进入三季度，煤价进一步上行，继续增厚上市公司利润。（证券日报）",
     "media_only": false,
     "image_url": null,
@@ -14227,23 +14245,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3542710"
-  },
-  {
-    "post": "Financial_Express/3542709",
-    "datetime": "2026-10-17T00:04:22+00:00",
-    "views": "75",
-    "text": "默茨：欧盟应保持财政克制 反对大幅扩增预算规模\n金十数据 10 月 17 日讯，德国总理默茨 16 日在比利时首都布鲁塞尔表示，欧盟在协商下一轮长期预算时应保持财政克制，反对大幅扩增预算规模，并强调有限资金必须优先投向防务与竞争力领域。在为期两天的欧盟峰会闭幕后，默茨在记者会上明确反对将下一期预算规模扩增约 50%的提议。他说，大幅推高欧盟预算“在财政上不可行”，最终达成的预算数字必须在欧盟委员会提议的基础上显著下调。默茨 15 日在社交媒体发文称，欧洲的资金是有限的，必须设定明确的优先事项。“我们必须把资金投向决定欧洲未来的关键领域——防务和竞争力。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3542709"
-  },
-  {
-    "post": "Financial_Express/3542708",
-    "datetime": "2026-10-17T00:03:03+00:00",
-    "views": "78",
-    "text": "OpenAICodex 产品负责人 Tibo：我们对 Codex 和 Work 进行了优化，以提升实际使用效果。我们通过在子代理之间复用上下文、延长上下文缓存时间，以及改进请求路由（从而提高缓存命中率）来实现这一目标。此外，我们还为所有专业版用户显著提升了 GPT-6 Pro 的性能",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3542708"
   }
 ]
