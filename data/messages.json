@@ -1,9 +1,45 @@
 [
   {
+    "post": "Financial_Express/3551054",
+    "datetime": "2026-10-20T20:51:42+00:00",
+    "views": "1",
+    "text": "马斯克：SpaceX 预计到 2027 年底年度经常性收入（ARR）可达 5000 亿至 1 万亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3551054"
+  },
+  {
+    "post": "Financial_Express/3551052",
+    "datetime": "2026-10-20T20:50:42+00:00",
+    "views": "4",
+    "text": "马斯克：如果到明年年底我们的算力新增不足 13 吉瓦，我会感到意外。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3551052"
+  },
+  {
+    "post": "Financial_Express/3551053",
+    "datetime": "2026-10-20T20:50:42+00:00",
+    "views": "3",
+    "text": "马斯克：Grok Bot 是我见过增长速度最快的产品。随着 Grok Bot 持续优化，用户使用频次也在提升。SpaceX 将在几周内面向企业大规模部署 Grok Bot。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3551053"
+  },
+  {
+    "post": "Financial_Express/3551051",
+    "datetime": "2026-10-20T20:50:22+00:00",
+    "views": "3",
+    "text": "美媒：马斯克下令限制乌军星链服务 SpaceX 希望与白宫统一口径\n金十数据 10 月 21 日讯，据华尔街日报报道，美国官员及知情人士透露，上周，马斯克下令对乌克兰依赖的军用级星链服务实施速度限制，导致部分攻击型无人机和拦截无人机几乎无法发挥作用。两名知情人士透露，上周，在星链限速措施曝光后不久，马斯克和特朗普就此事进行了通话。其中一名知情人士还称，两人在实施星链限速措施之前就曾讨论过此事。乌克兰总统泽连斯基公开表达不满，他的表态引发了外界对究竟是谁下令实施限速措施的广泛疑问，白宫内部也因此展开了非正式调查。知情人士透露，在争议持续发酵期间，SpaceX 代表曾致电白宫相关人员，希望双方统一对此事的理解，并随后对外传达一致信息，即马斯克下达指令之前，SpaceX 已经与特朗普政府进行过协调。一些美国官员表示，马斯克的行动是单方面进行的，特朗普并未明确下令对乌克兰采取任何措施。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3551051"
+  },
+  {
     "post": "Financial_Express/3551050",
     "datetime": "2026-10-20T20:50:04+00:00",
-    "views": "1",
-    "text": "马斯克：存在“明年算力达到 20 GW”的可能。",
+    "views": "4",
+    "text": "马斯克：存在“明年算力达到 20 GW”的可能。\n如果到明年年底上线算力不足 13 吉瓦，我会感到意外。\nSpaceX 计划在 2027 年新增 20 吉瓦的电力与冷却基础设施。\nSpaceX 部署电力、冷却及配套基础设施的速度，有望超过其他所有厂商的总和。\nSpaceX 相当有信心在 2027 年实现 10 吉瓦算力上线。\n预计人工智能代理将在 3 至 5 年内推动带宽需求增长 1000 倍。超级智能的制约因素更多在于电力、冷却和基础设施，而非芯片。\nGrok Bot 是我见过增长速度最快的产品。\n随着 Grok Bot 持续优化，用户使用频次也在提升。\nSpaceX 将在几周内面向企业大规模部署 Grok Bot。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3551050"
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3551049",
     "datetime": "2026-10-20T20:49:22+00:00",
-    "views": "2",
+    "views": "4",
     "text": "马斯克：如果到明年年底上线算力不足 13 吉瓦，我会感到意外。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3551048",
     "datetime": "2026-10-20T20:48:22+00:00",
-    "views": "10",
+    "views": "13",
     "text": "马斯克：SpaceX 计划在 2027 年新增 20 吉瓦的电力与冷却基础设施。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3551047",
     "datetime": "2026-10-20T20:48:02+00:00",
-    "views": "10",
+    "views": "13",
     "text": "马斯克：SpaceX 部署电力、冷却及配套基础设施的速度，有望超过其他所有厂商的总和。SpaceX 相当有信心在 2027 年实现 10 吉瓦算力上线。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3551045",
     "datetime": "2026-10-20T20:47:02+00:00",
-    "views": "21",
+    "views": "22",
     "text": "马斯克：预测 3 年内星链卫星将达 10 万颗，网络容量提升 100 倍。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3551046",
     "datetime": "2026-10-20T20:47:02+00:00",
-    "views": "20",
+    "views": "21",
     "text": "美国交通部长达菲：（谈及航油价格）我们会渡过这一关。我一直在关注航油供应，目前没有问题。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3551040",
     "datetime": "2026-10-20T20:44:42+00:00",
-    "views": "30",
+    "views": "31",
     "text": "美官员：美总统特使将于 21 日与普京会面\n当地时间 10 月 20 日，据美国官员透露，美国总统特使威特科夫将于 21 日与俄罗斯总统普京会面，特朗普女婿库什纳将以视频方式参与。美方表示，此前与乌克兰及欧洲方面的讨论涉及包括安全保障在内的全面和平框架相关内容。乌克兰提出了新的想法和建议，各方对此进行了详细讨论。目前，美国、乌克兰和欧洲在工作层面已就下一步行动达成高度共识。美方的目标是在与乌克兰和欧洲取得的进展基础上，进一步与俄罗斯讨论相关提议。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3551039",
     "datetime": "2026-10-20T20:44:02+00:00",
-    "views": "36",
+    "views": "37",
     "text": "马斯克：SpaceX 将建设地面网络。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3551038",
     "datetime": "2026-10-20T20:43:42+00:00",
-    "views": "36",
+    "views": "37",
     "text": "美国交通部长达菲：波音的认证流程已持续近 10 年。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3551037",
     "datetime": "2026-10-20T20:43:22+00:00",
-    "views": "35",
+    "views": "36",
     "text": "马斯克：三年内，星链带宽将提升至当前的 100 倍。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3551036",
     "datetime": "2026-10-20T20:41:42+00:00",
-    "views": "42",
+    "views": "43",
     "text": "马斯克：SpaceX 路易斯安那太空港或将配备 22 座及以上发射塔。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3551035",
     "datetime": "2026-10-20T20:41:03+00:00",
-    "views": "46",
+    "views": "47",
     "text": "马斯克：星舰将在 2027 年加快飞行频次，计划在明年上半年实现星舰每周发射一次，下半年提升至每周两次。",
     "media_only": false,
     "image_url": null,
@@ -61666,14 +61702,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3544092"
-  },
-  {
-    "post": "Financial_Express/3544091",
-    "datetime": "2026-10-18T20:52:02+00:00",
-    "views": "85",
-    "text": "伊朗海军发布油轮在海峡南部触雷视频\n金十数据 10 月 19 日讯，伊朗伊斯兰革命卫队海军发布视频称，一艘违规油轮在霍尔木兹海峡南部海域触及水雷，导致机舱发生爆炸并引发火灾。该油轮原计划驶离霍尔木兹海峡，但从启航起便关闭了所有定位和导航系统，并无视霍尔木兹海峡的通航规定，试图通过海峡南部未经许可的航道通行，最终发生事故。任何在霍尔木兹海峡及波斯湾海域航行的船只，如果关闭导航和身份识别系统，都将遭到严厉、坚决的处置。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3544091"
   }
 ]
