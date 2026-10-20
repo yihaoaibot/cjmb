@@ -1,5 +1,25 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-10-20T02:04:47.019205+00:00","clsvipUpdated":"2026-10-20T02:04:58.933136+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">10月20日</h2><div class="feed"><article class="item" data-search="中国人民银行：为支持外资人民币业务清算行做好流动性管理、更好服务境外人民币业务，境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。"><div class="time">10:03</div><div class="content"><div class="text" data-full="中国人民银行：为支持外资人民币业务清算行做好流动性管理、更好服务境外人民币业务，境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。" data-short="中国人民银行：为支持外资人民币业务清算行做好流动性管理、更好服务境外人民币业务，境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。">中国人民银行：为支持外资人民币业务清算行做好流动性管理、更好服务境外人民币业务，境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。</div></div></article><article class="item" data-search="印尼盾兑美元走强，至 18010。"><div class="time">10:03</div><div class="content"><div class="text" data-full="印尼盾兑美元走强，至 18010。" data-short="印尼盾兑美元走强，至 18010。">印尼盾兑美元走强，至 18010。</div></div></article><article class="item" data-search="新石器据悉完成近 4 亿美元的 e 轮融资，推动总投资超过 14 亿美元。"><div class="time">10:03</div><div class="content"><div class="text" data-full="新石器据悉完成近 4 亿美元的 E 轮融资，推动总投资超过 14 亿美元。" data-short="新石器据悉完成近 4 亿美元的 E 轮融资，推动总投资超过 14 亿美元。">新石器据悉完成近 4 亿美元的 E 轮融资，推动总投资超过 14 亿美元。</div></div></article><article class="item" data-search="三季度 1.92 亿人次出入境，入境外国人超七成免签。（新华社）"><div class="time">10:03</div><div class="content"><div class="text" data-full="三季度 1.92 亿人次出入境，入境外国人超七成免签。（新华社）" data-short="三季度 1.92 亿人次出入境，入境外国人超七成免签。（新华社）">三季度 1.92 亿人次出入境，入境外国人超七成免签。（新华社）</div></div></article><article class="item" data-search="印尼股市基准指数上涨 1%，至 5047.20 点。"><div class="time">10:03</div><div class="content"><div class="text" data-full="印尼股市基准指数上涨 1%，至 5047.20 点。" data-short="印尼股市基准指数上涨 1%，至 5047.20 点。">印尼股市基准指数上涨 1%，至 5047.20 点。</div></div></article><article class="item" data-search="中国人民银行：境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。"><div class="time">10:02</div><div class="content"><div class="text" data-full="中国人民银行：境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。" data-short="中国人民银行：境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。">中国人民银行：境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。</div></div></article><article class="item" data-search="阿里巴巴据悉参与无人配送车制造商新石器（neolix）4 亿美元融资。"><div class="time">10:02</div><div class="content"><div class="text" data-full="阿里巴巴据悉参与无人配送车制造商新石器（Neolix）4 亿美元融资。" data-short="阿里巴巴据悉参与无人配送车制造商新石器（Neolix）4 亿美元融资。">阿里巴巴据悉参与无人配送车制造商新石器（Neolix）4 亿美元融资。</div></div></article><article class="item" data-search="在岸人民币兑美元早盘涨 24 点至 6.6793 元，创 2022 年 6 月 28 日以来新高。"><div class="time">10:01</div><div class="content"><div class="text" data-full="在岸人民币兑美元早盘涨 24 点至 6.6793 元，创 2022 年 6 月 28 日以来新高。" data-short="在岸人民币兑美元早盘涨 24 点至 6.6793 元，创 2022 年 6 月 28 日以来新高。">在岸人民币兑美元早盘涨 24 点至 6.6793 元，创 2022 年 6 月 28 日以来新高。</div></div></article><article class="item" data-search="中国人民银行：将在 10 月 21 日至 11 月 2 日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过 10000 亿元。"><div class="time">10:01</div><div class="content"><div class="text" data-full="中国人民银行：将在 10 月 21 日至 11 月 2 日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过 10000 亿元。" data-short="中国人民银行：将在 10 月 21 日至 11 月 2 日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过 10000 亿元。">中国人民银行：将在 10 月 21 日至 11 月 2 日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过 10000 亿元。</div></div></article><article class="item" data-search="花旗预计 2026 年第四季度东盟并购交易市场将非常活跃。"><div class="time">10:00</div><div class="content"><div class="text" data-full="花旗预计 2026 年第四季度东盟并购交易市场将非常活跃。" data-short="花旗预计 2026 年第四季度东盟并购交易市场将非常活跃。">花旗预计 2026 年第四季度东盟并购交易市场将非常活跃。</div></div></article><article class="item" data-search="整点回顾：沪指早间小幅调整，创业板指探底回升，pcb、教育、消费电子、半导体等方向领涨，军工、煤炭、保险、民航机场等板块下挫，个股涨多跌少，沪深京三市超 3200 股飘红，开盘半小时成交 4488 亿，较上日此时缩量超 250 亿。"><div class="time">10:00</div><div class="content"><div class="text" data-full="整点回顾：沪指早间小幅调整，创业板指探底回升，PCB、教育、消费电子、半导体等方向领涨，军工、煤炭、保险、民航机场等板块下挫，个股涨多跌少，沪深京三市超 3200 股飘红，开盘半小时成交 4488 亿，较上日此时缩量超 250 亿。" data-short="整点回顾：沪指早间小幅调整，创业板指探底回升，PCB、教育、消费电子、半导体等方向领涨，军工、煤炭、保险、民航机场等板块下挫，个股涨多跌少，沪深京三市超 3200 股飘红，开盘半小时成交 4488 亿，较上日此时缩量超 250 亿。">整点回顾：沪指早间小幅调整，创业板指探底回升，PCB、教育、消费电子、半导体等方向领涨，军工、煤炭、保险、民航机场等板块下挫，个股涨多跌少，沪深京三市超 3200 股飘红，开盘半小时成交 4488 亿，较上日此时缩量超 250 亿。</div></div></article><article class="item" data-search="日本发射火星卫星探测器
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-10-20T02:06:48.104524+00:00","clsvipUpdated":"2026-10-20T02:06:58.466838+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">10月20日</h2><div class="feed"><article class="item" data-search="三季度全国共侦办妨害国（边）境管理犯罪案件 4432 起
+从今天国家移民管理局召开的新闻发布会了解到，三季度，全国共侦办妨害国（边）境管理犯罪案件 4432 起，抓获犯罪嫌疑人 1.2 万余人，打掉重大犯罪团伙 100 个，挂牌督办重特大案件 66 起。依法严厉打击口岸边境涉枪爆、贩毒走私等违法犯罪，破获毒品案件 110 起，抓获犯罪嫌疑人 123 人，缴获各类毒品 1.88 吨，破获万克以上案件 21 起；查缴各类枪支 402 支，子弹 1.3 万余发。"><div class="time">10:06</div><div class="content"><div class="text" data-full="三季度全国共侦办妨害国（边）境管理犯罪案件 4432 起
+从今天国家移民管理局召开的新闻发布会了解到，三季度，全国共侦办妨害国（边）境管理犯罪案件 4432 起，抓获犯罪嫌疑人 1.2 万余人，打掉重大犯罪团伙 100 个，挂牌督办重特大案件 66 起。依法严厉打击口岸边境涉枪爆、贩毒走私等违法犯罪，破获毒品案件 110 起，抓获犯罪嫌疑人 123 人，缴获各类毒品 1.88 吨，破获万克以上案件 21 起；查缴各类枪支 402 支，子弹 1.3 万余发。" data-short="三季度全国共侦办妨害国（边）境管理犯罪案件 4432 起
+从今天国家移民管理局召开的新闻发布会了解到，三季度，全国共侦办妨害国（边）境管理犯罪案件 4432 起，抓获犯罪嫌疑人 1.2 万余人，打掉重大犯罪团伙 100 个，挂牌督办重特大案件 66 起。依法严厉打击口岸边境涉枪爆、贩毒走私等违法犯罪，破获毒品案件 110 起，抓获犯罪嫌疑人 123 人，缴获...">三季度全国共侦办妨害国（边）境管理犯罪案件 4432 起
+从今天国家移民管理局召开的新闻发布会了解到，三季度，全国共侦办妨害国（边）境管理犯罪案件 4432 起，抓获犯罪嫌疑人 1.2 万余人，打掉重大犯罪团伙 100 个，挂牌督办重特大案件 66 起。依法严厉打击口岸边境涉枪爆、贩毒走私等违法犯罪，破获毒品案件 110 起，抓获犯罪嫌疑人 123 人，缴获...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="在采取措施应对 msci 相关风险后，印尼股市上涨 1.9%。"><div class="time">10:05</div><div class="content"><div class="text" data-full="在采取措施应对 MSCI 相关风险后，印尼股市上涨 1.9%。" data-short="在采取措施应对 MSCI 相关风险后，印尼股市上涨 1.9%。">在采取措施应对 MSCI 相关风险后，印尼股市上涨 1.9%。</div></div></article><article class="item" data-search="中国人民银行：为支持外资人民币业务清算行做好流动性管理、更好服务境外人民币业务，境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。"><div class="time">10:05</div><div class="content"><div class="text" data-full="中国人民银行：为支持外资人民币业务清算行做好流动性管理、更好服务境外人民币业务，境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。" data-short="中国人民银行：为支持外资人民币业务清算行做好流动性管理、更好服务境外人民币业务，境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。">中国人民银行：为支持外资人民币业务清算行做好流动性管理、更好服务境外人民币业务，境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。</div></div></article><article class="item" data-search="三季度全国移民管理机构累计查验出入境交通运输工具同比上升 10.6%
+从今天（10 月 20 日）国家移民管理局召开的新闻发布会了解到，三季度，全国移民管理机构累计查验出入境交通运输工具 1095.5 万架（列、艘、辆）次，同比上升 10.6%；其中，飞机 25.9 万架次，与去年同期基本持平，列车 2.8 万列次、船舶 11.7 万艘次、机动车 1055.1 万辆次，同比分别上升 3.7%、2.6%、11%。共签发普通护照 533.8 万本、内地（大陆）居民往来港澳台证件签注 2878.9 万张（件）次，签发港澳台居民来往内地（大陆）通行证 47.3 万张；签发外国人签证证件 60.3 万证次。国家移民局政务服务平台为中外出入境人员提供查询等政务服务 2286.3 万人次，为港澳台居民、海外华侨免费提供身份核验服务 1227.16 万人次；移民管理机构 12367 服务平台受理中外人员咨询等 203 万人次，涉及全球 100 多个国家和地区，平均满意率达 99.03%。"><div class="time">10:04</div><div class="content"><div class="text" data-full="三季度全国移民管理机构累计查验出入境交通运输工具同比上升 10.6%
+从今天（10 月 20 日）国家移民管理局召开的新闻发布会了解到，三季度，全国移民管理机构累计查验出入境交通运输工具 1095.5 万架（列、艘、辆）次，同比上升 10.6%；其中，飞机 25.9 万架次，与去年同期基本持平，列车 2.8 万列次、船舶 11.7 万艘次、机动车 1055.1 万辆次，同比分别上升 3.7%、2.6%、11%。共签发普通护照 533.8 万本、内地（大陆）居民往来港澳台证件签注 2878.9 万张（件）次，签发港澳台居民来往内地（大陆）通行证 47.3 万张；签发外国人签证证件 60.3 万证次。国家移民局政务服务平台为中外出入境人员提供查询等政务服务 2286.3 万人次，为港澳台居民、海外华侨免费提供身份核验服务 1227.16 万人次；移民管理机构 12367 服务平台受理中外人员咨询等 203 万人次，涉及全球 100 多个国家和地区，平均满意率达 99.03%。" data-short="三季度全国移民管理机构累计查验出入境交通运输工具同比上升 10.6%
+从今天（10 月 20 日）国家移民管理局召开的新闻发布会了解到，三季度，全国移民管理机构累计查验出入境交通运输工具 1095.5 万架（列、艘、辆）次，同比上升 10.6%；其中，飞机 25.9 万架次，与去年同期基本持平，列车 2.8 万列次、船舶 11.7 万艘次、机动车 1055....">三季度全国移民管理机构累计查验出入境交通运输工具同比上升 10.6%
+从今天（10 月 20 日）国家移民管理局召开的新闻发布会了解到，三季度，全国移民管理机构累计查验出入境交通运输工具 1095.5 万架（列、艘、辆）次，同比上升 10.6%；其中，飞机 25.9 万架次，与去年同期基本持平，列车 2.8 万列次、船舶 11.7 万艘次、机动车 1055....</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="三季度 1.92 亿人次出入境 免签入境外国人同比上升 24.1%
+国家移民管理局 10 月 20 日召开新闻发布会，发布 2026 年三季度移民管理主要数据。三季度，全国移民管理机构累计查验出入境人员 1.92 亿人次，同比上升 7.9%；其中内地（大陆）居民 9596 万人次、港澳台居民 7314 万人次、外国人 2327.2 万人次，同比分别上升 7.4%、6.4%、15.6%。其中，免签入境外国人达 899.2 万人次，占入境外国人总数的 77.5%，同比上升 24.1%。入境外籍旅客排名前十位的国家为俄罗斯、韩国、越南、马来西亚、美国、蒙古国、日本、新加坡、泰国、澳大利亚，占入境旅客总数的 63.9%。"><div class="time">10:04</div><div class="content"><div class="text" data-full="三季度 1.92 亿人次出入境 免签入境外国人同比上升 24.1%
+国家移民管理局 10 月 20 日召开新闻发布会，发布 2026 年三季度移民管理主要数据。三季度，全国移民管理机构累计查验出入境人员 1.92 亿人次，同比上升 7.9%；其中内地（大陆）居民 9596 万人次、港澳台居民 7314 万人次、外国人 2327.2 万人次，同比分别上升 7.4%、6.4%、15.6%。其中，免签入境外国人达 899.2 万人次，占入境外国人总数的 77.5%，同比上升 24.1%。入境外籍旅客排名前十位的国家为俄罗斯、韩国、越南、马来西亚、美国、蒙古国、日本、新加坡、泰国、澳大利亚，占入境旅客总数的 63.9%。" data-short="三季度 1.92 亿人次出入境 免签入境外国人同比上升 24.1%
+国家移民管理局 10 月 20 日召开新闻发布会，发布 2026 年三季度移民管理主要数据。三季度，全国移民管理机构累计查验出入境人员 1.92 亿人次，同比上升 7.9%；其中内地（大陆）居民 9596 万人次、港澳台居民 7314 万人次、外国人 2327.2 万人次，同比分别上升 7....">三季度 1.92 亿人次出入境 免签入境外国人同比上升 24.1%
+国家移民管理局 10 月 20 日召开新闻发布会，发布 2026 年三季度移民管理主要数据。三季度，全国移民管理机构累计查验出入境人员 1.92 亿人次，同比上升 7.9%；其中内地（大陆）居民 9596 万人次、港澳台居民 7314 万人次、外国人 2327.2 万人次，同比分别上升 7....</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="物理 ai 概念走强，凡拓数创 20%收获 2 连板，索辰科技涨超 10%，奥比中光、格灵深瞳、达实智能、能科科技涨幅靠前。"><div class="time">10:04</div><div class="content"><div class="text" data-full="物理 AI 概念走强，凡拓数创 20%收获 2 连板，索辰科技涨超 10%，奥比中光、格灵深瞳、达实智能、能科科技涨幅靠前。" data-short="物理 AI 概念走强，凡拓数创 20%收获 2 连板，索辰科技涨超 10%，奥比中光、格灵深瞳、达实智能、能科科技涨幅靠前。">物理 AI 概念走强，凡拓数创 20%收获 2 连板，索辰科技涨超 10%，奥比中光、格灵深瞳、达实智能、能科科技涨幅靠前。</div></div></article><article class="item" data-search="中国人民银行：为支持外资人民币业务清算行做好流动性管理、更好服务境外人民币业务，境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。"><div class="time">10:03</div><div class="content"><div class="text" data-full="中国人民银行：为支持外资人民币业务清算行做好流动性管理、更好服务境外人民币业务，境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。" data-short="中国人民银行：为支持外资人民币业务清算行做好流动性管理、更好服务境外人民币业务，境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。">中国人民银行：为支持外资人民币业务清算行做好流动性管理、更好服务境外人民币业务，境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。</div></div></article><article class="item" data-search="印尼盾兑美元走强，至 18010。"><div class="time">10:03</div><div class="content"><div class="text" data-full="印尼盾兑美元走强，至 18010。" data-short="印尼盾兑美元走强，至 18010。">印尼盾兑美元走强，至 18010。</div></div></article><article class="item" data-search="新石器据悉完成近 4 亿美元的 e 轮融资，推动总投资超过 14 亿美元。"><div class="time">10:03</div><div class="content"><div class="text" data-full="新石器据悉完成近 4 亿美元的 E 轮融资，推动总投资超过 14 亿美元。" data-short="新石器据悉完成近 4 亿美元的 E 轮融资，推动总投资超过 14 亿美元。">新石器据悉完成近 4 亿美元的 E 轮融资，推动总投资超过 14 亿美元。</div></div></article><article class="item" data-search="三季度 1.92 亿人次出入境，入境外国人超七成免签
+金十数据 10 月 20 日讯，10 月 20 日从国家移民管理局获悉，2026 年三季度，全国移民管理机构累计查验出入境人员 1.92 亿人次，同比上升 7.9%。其中，内地（大陆）居民 9596 万人次、港澳台居民 7314 万人次、外国人 2327.2 万人次，同比分别上升 7.4%、6.4%、15.6%。免签入境外国人达 899.2 万人次，占入境外国人总数的 77.5%，同比上升 24.1%。三季度，全国移民管理机构累计查验出入境交通运输工具 1095.5 万架（列、艘、辆）次，同比上升 10.6%。"><div class="time">10:03</div><div class="content"><div class="text" data-full="三季度 1.92 亿人次出入境，入境外国人超七成免签
+金十数据 10 月 20 日讯，10 月 20 日从国家移民管理局获悉，2026 年三季度，全国移民管理机构累计查验出入境人员 1.92 亿人次，同比上升 7.9%。其中，内地（大陆）居民 9596 万人次、港澳台居民 7314 万人次、外国人 2327.2 万人次，同比分别上升 7.4%、6.4%、15.6%。免签入境外国人达 899.2 万人次，占入境外国人总数的 77.5%，同比上升 24.1%。三季度，全国移民管理机构累计查验出入境交通运输工具 1095.5 万架（列、艘、辆）次，同比上升 10.6%。" data-short="三季度 1.92 亿人次出入境，入境外国人超七成免签
+金十数据 10 月 20 日讯，10 月 20 日从国家移民管理局获悉，2026 年三季度，全国移民管理机构累计查验出入境人员 1.92 亿人次，同比上升 7.9%。其中，内地（大陆）居民 9596 万人次、港澳台居民 7314 万人次、外国人 2327.2 万人次，同比分别上升 7.4%、6.4%、15...">三季度 1.92 亿人次出入境，入境外国人超七成免签
+金十数据 10 月 20 日讯，10 月 20 日从国家移民管理局获悉，2026 年三季度，全国移民管理机构累计查验出入境人员 1.92 亿人次，同比上升 7.9%。其中，内地（大陆）居民 9596 万人次、港澳台居民 7314 万人次、外国人 2327.2 万人次，同比分别上升 7.4%、6.4%、15...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="印尼股市基准指数上涨 1%，至 5047.20 点。"><div class="time">10:03</div><div class="content"><div class="text" data-full="印尼股市基准指数上涨 1%，至 5047.20 点。" data-short="印尼股市基准指数上涨 1%，至 5047.20 点。">印尼股市基准指数上涨 1%，至 5047.20 点。</div></div></article><article class="item" data-search="中国人民银行：境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。"><div class="time">10:02</div><div class="content"><div class="text" data-full="中国人民银行：境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。" data-short="中国人民银行：境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。">中国人民银行：境外央行类机构回购工具的操作对象纳入外资人民币业务清算行，操作要素按照现行境外央行类机构回购工具执行。</div></div></article><article class="item" data-search="阿里巴巴据悉参与无人配送车制造商新石器（neolix）4 亿美元融资。"><div class="time">10:02</div><div class="content"><div class="text" data-full="阿里巴巴据悉参与无人配送车制造商新石器（Neolix）4 亿美元融资。" data-short="阿里巴巴据悉参与无人配送车制造商新石器（Neolix）4 亿美元融资。">阿里巴巴据悉参与无人配送车制造商新石器（Neolix）4 亿美元融资。</div></div></article><article class="item" data-search="在岸人民币兑美元早盘涨 24 点至 6.6793 元，创 2022 年 6 月 28 日以来新高。"><div class="time">10:01</div><div class="content"><div class="text" data-full="在岸人民币兑美元早盘涨 24 点至 6.6793 元，创 2022 年 6 月 28 日以来新高。" data-short="在岸人民币兑美元早盘涨 24 点至 6.6793 元，创 2022 年 6 月 28 日以来新高。">在岸人民币兑美元早盘涨 24 点至 6.6793 元，创 2022 年 6 月 28 日以来新高。</div></div></article><article class="item" data-search="央行预告将开展隔夜逆回购操作
+金十数据 10 月 20 日讯，中国人民银行：将在 10 月 21 日至 11 月 2 日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过 10000 亿元。"><div class="time">10:01</div><div class="content"><div class="text" data-full="央行预告将开展隔夜逆回购操作
+金十数据 10 月 20 日讯，中国人民银行：将在 10 月 21 日至 11 月 2 日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过 10000 亿元。" data-short="央行预告将开展隔夜逆回购操作
+金十数据 10 月 20 日讯，中国人民银行：将在 10 月 21 日至 11 月 2 日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过 10000 亿元。">央行预告将开展隔夜逆回购操作
+金十数据 10 月 20 日讯，中国人民银行：将在 10 月 21 日至 11 月 2 日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过 10000 亿元。</div></div></article><article class="item" data-search="花旗预计 2026 年第四季度东盟并购交易市场将非常活跃。"><div class="time">10:00</div><div class="content"><div class="text" data-full="花旗预计 2026 年第四季度东盟并购交易市场将非常活跃。" data-short="花旗预计 2026 年第四季度东盟并购交易市场将非常活跃。">花旗预计 2026 年第四季度东盟并购交易市场将非常活跃。</div></div></article><article class="item" data-search="整点回顾：沪指早间小幅调整，创业板指探底回升，pcb、教育、消费电子、半导体等方向领涨，军工、煤炭、保险、民航机场等板块下挫，个股涨多跌少，沪深京三市超 3200 股飘红，开盘半小时成交 4488 亿，较上日此时缩量超 250 亿。"><div class="time">10:00</div><div class="content"><div class="text" data-full="整点回顾：沪指早间小幅调整，创业板指探底回升，PCB、教育、消费电子、半导体等方向领涨，军工、煤炭、保险、民航机场等板块下挫，个股涨多跌少，沪深京三市超 3200 股飘红，开盘半小时成交 4488 亿，较上日此时缩量超 250 亿。" data-short="整点回顾：沪指早间小幅调整，创业板指探底回升，PCB、教育、消费电子、半导体等方向领涨，军工、煤炭、保险、民航机场等板块下挫，个股涨多跌少，沪深京三市超 3200 股飘红，开盘半小时成交 4488 亿，较上日此时缩量超 250 亿。">整点回顾：沪指早间小幅调整，创业板指探底回升，PCB、教育、消费电子、半导体等方向领涨，军工、煤炭、保险、民航机场等板块下挫，个股涨多跌少，沪深京三市超 3200 股飘红，开盘半小时成交 4488 亿，较上日此时缩量超 250 亿。</div></div></article><article class="item" data-search="日本发射火星卫星探测器
 金十数据 10 月 20 日讯，日本火星卫星探测器 20 日凌晨发射升空。该探测器将对火星的卫星“火卫一”进行详细观测，并采样返回地球。火星卫星探测项目由日本宇宙航空研究开发机构主导，美国国家航空航天局、法国国家航天研究中心、德国航空航天中心和欧洲航天局等参与。探测器将用约一年时间飞抵火星附近，进入环绕火星的“准卫星轨道”。在环绕火星运行期间，探测器将对“火卫一”进行详细观测，调查“火卫一”上几十个地点的地形、化学组成等，并确定在“火卫一”上着陆的地点。此后，探测器将尝试在“火卫一”着陆并采集 10 克以上的卫星表面砂子和岩石样本。按计划，探测器将于 2030 年开始返程，并于 2031 年带着样本回到地球。"><div class="time">10:00</div><div class="content"><div class="text" data-full="日本发射火星卫星探测器
 金十数据 10 月 20 日讯，日本火星卫星探测器 20 日凌晨发射升空。该探测器将对火星的卫星“火卫一”进行详细观测，并采样返回地球。火星卫星探测项目由日本宇宙航空研究开发机构主导，美国国家航空航天局、法国国家航天研究中心、德国航空航天中心和欧洲航天局等参与。探测器将用约一年时间飞抵火星附近，进入环绕火星的“准卫星轨道”。在环绕火星运行期间，探测器将对“火卫一”进行详细观测，调查“火卫一”上几十个地点的地形、化学组成等，并确定在“火卫一”上着陆的地点。此后，探测器将尝试在“火卫一”着陆并采集 10 克以上的卫星表面砂子和岩石样本。按计划，探测器将于 2030 年开始返程，并于 2031 年带着样本回到地球。" data-short="日本发射火星卫星探测器
 金十数据 10 月 20 日讯，日本火星卫星探测器 20 日凌晨发射升空。该探测器将对火星的卫星“火卫一”进行详细观测，并采样返回地球。火星卫星探测项目由日本宇宙航空研究开发机构主导，美国国家航空航天局、法国国家航天研究中心、德国航空航天中心和欧洲航天局等参与。探测器将用约一年时间飞抵火星附近，进入环绕火星的“准卫星轨道”。在环绕火星...">日本发射火星卫星探测器
@@ -631,23 +651,157 @@ AI（人工智能）硬件迎新一轮上新潮。从智能手机、智能眼镜
 哥伦比亚总统德拉埃斯普列亚 19 日在社交媒体发文称，哥警方近日在该国北部城市卡塔赫纳一处港口查获 7.6 吨可卡因，创下该港口近 10 年来最大规模的毒品查获纪录。 德拉埃斯普列亚表示，此次行动使贩毒集团遭受超过 420 亿哥伦比亚比索（约合 1320 万美元）的经济损失，并阻止超过 1900 万剂毒品流入市场。 他强调，无论贩毒分子如何藏匿毒品、采取何种手段逃避检查，政府都将继续打击其犯罪网络和资金来源。"><div class="time">07:32</div><div class="content"><div class="text" data-full="哥伦比亚警方查获 7.6 吨可卡因
 哥伦比亚总统德拉埃斯普列亚 19 日在社交媒体发文称，哥警方近日在该国北部城市卡塔赫纳一处港口查获 7.6 吨可卡因，创下该港口近 10 年来最大规模的毒品查获纪录。 德拉埃斯普列亚表示，此次行动使贩毒集团遭受超过 420 亿哥伦比亚比索（约合 1320 万美元）的经济损失，并阻止超过 1900 万剂毒品流入市场。 他强调，无论贩毒分子如何藏匿毒品、采取何种手段逃避检查，政府都将继续打击其犯罪网络和资金来源。" data-short="哥伦比亚警方查获 7.6 吨可卡因
 哥伦比亚总统德拉埃斯普列亚 19 日在社交媒体发文称，哥警方近日在该国北部城市卡塔赫纳一处港口查获 7.6 吨可卡因，创下该港口近 10 年来最大规模的毒品查获纪录。 德拉埃斯普列亚表示，此次行动使贩毒集团遭受超过 420 亿哥伦比亚比索（约合 1320 万美元）的经济损失，并阻止超过 1900 万剂毒品流入市场。 他强调...">哥伦比亚警方查获 7.6 吨可卡因
-哥伦比亚总统德拉埃斯普列亚 19 日在社交媒体发文称，哥警方近日在该国北部城市卡塔赫纳一处港口查获 7.6 吨可卡因，创下该港口近 10 年来最大规模的毒品查获纪录。 德拉埃斯普列亚表示，此次行动使贩毒集团遭受超过 420 亿哥伦比亚比索（约合 1320 万美元）的经济损失，并阻止超过 1900 万剂毒品流入市场。 他强调...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="日经指数期货开盘下跌 30 点，报 64855。"><div class="time">07:32</div><div class="content"><div class="text" data-full="日经指数期货开盘下跌 30 点，报 64855。" data-short="日经指数期货开盘下跌 30 点，报 64855。">日经指数期货开盘下跌 30 点，报 64855。</div></div></article><article class="item" data-search="我国首份“科技兴商”系统性文件出炉 推动商贸全链条智能化、绿色化、融合化
-10 月 19 日，商务部等 9 部门发布《关于加快推进科技兴商的意见》（下称《意见》），从科技赋能商品消费提质、推动服务消费扩容、畅通商贸流通链条等方面推出 18 条具体举措。记者获悉，这是我国首份以“科技兴商”为主题的综合性、系统性文件，把科技创新作为贯穿商贸全链条的重要驱动力，推动科技与商贸深度融合。业界认为，这份文件的核心是，把科技从商贸领域的辅助工具升级为系统性重构力量。苏商银行特约分析师付一夫表示，过往政策多聚焦“互联网+流通”的渠道拓展，此次《意见》以人工智能、大数据、数字孪生、具身智能等新技术为驱动，推动商贸全链条智能化、绿色化、融合化。“这标志着科技兴商的着力点，从流通效率的单点改进转向对整个商贸运行逻辑的系统性重塑。”（经济参考报）"><div class="time">07:31</div><div class="content"><div class="text" data-full="我国首份“科技兴商”系统性文件出炉 推动商贸全链条智能化、绿色化、融合化
-10 月 19 日，商务部等 9 部门发布《关于加快推进科技兴商的意见》（下称《意见》），从科技赋能商品消费提质、推动服务消费扩容、畅通商贸流通链条等方面推出 18 条具体举措。记者获悉，这是我国首份以“科技兴商”为主题的综合性、系统性文件，把科技创新作为贯穿商贸全链条的重要驱动力，推动科技与商贸深度融合。业界认为，这份文件的核心是，把科技从商贸领域的辅助工具升级为系统性重构力量。苏商银行特约分析师付一夫表示，过往政策多聚焦“互联网+流通”的渠道拓展，此次《意见》以人工智能、大数据、数字孪生、具身智能等新技术为驱动，推动商贸全链条智能化、绿色化、融合化。“这标志着科技兴商的着力点，从流通效率的单点改进转向对整个商贸运行逻辑的系统性重塑。”（经济参考报）" data-short="我国首份“科技兴商”系统性文件出炉 推动商贸全链条智能化、绿色化、融合化
-10 月 19 日，商务部等 9 部门发布《关于加快推进科技兴商的意见》（下称《意见》），从科技赋能商品消费提质、推动服务消费扩容、畅通商贸流通链条等方面推出 18 条具体举措。记者获悉，这是我国首份以“科技兴商”为主题的综合性、系统性文件，把科技创新作为贯穿商贸全链条的重要驱动力，推...">我国首份“科技兴商”系统性文件出炉 推动商贸全链条智能化、绿色化、融合化
-10 月 19 日，商务部等 9 部门发布《关于加快推进科技兴商的意见》（下称《意见》），从科技赋能商品消费提质、推动服务消费扩容、畅通商贸流通链条等方面推出 18 条具体举措。记者获悉，这是我国首份以“科技兴商”为主题的综合性、系统性文件，把科技创新作为贯穿商贸全链条的重要驱动力，推...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="证券时报头条评论：ai 是助手不是替身 研报责任主体仍是分析师
-生成式 ai（人工智能）近两年在券商投研领域快速普及。从研报初稿、会议纪要到估值模型搭建，ai 都已深度介入。效率提升的同时，合规风险也接踵而至：个别分析师将 ai 生成的数据和观点未经核验直接引入研报；更有甚者，ai 编造的政策信息、虚构的行业数据经分析师署名后发向市场，导致研报出现政策时间错位、数据来源无法追溯等问题。中国证券业协会近日下发的《2025 年证券公司发布证券研究报告业务经营情况统计报告》，首次将“建立 ai 投研内容审核内控机制”写进行业规范，明确禁止分析师直接采信 ai 生成的未经核验的数据、观点、推演和研究结论。这一条文内容虽简，但分量不轻。它重新界定了 ai 与分析师在投研链条中的位置：ai 可以是辅助工具，但不能替代专业判断；分析师可以借力技术，但必须对最终发布的报告负责。技术本身是中性的。它既可以放大研究效率，也可以放大研究错误。唯有把 ai 的辅助角色摆正，把分析师的守门责任压实，把机构的内控闭环建全，技术红利才能真正转化为研究质量。"><div class="time">07:30</div><div class="content"><div class="text" data-full="证券时报头条评论：AI 是助手不是替身 研报责任主体仍是分析师
-生成式 AI（人工智能）近两年在券商投研领域快速普及。从研报初稿、会议纪要到估值模型搭建，AI 都已深度介入。效率提升的同时，合规风险也接踵而至：个别分析师将 AI 生成的数据和观点未经核验直接引入研报；更有甚者，AI 编造的政策信息、虚构的行业数据经分析师署名后发向市场，导致研报出现政策时间错位、数据来源无法追溯等问题。中国证券业协会近日下发的《2025 年证券公司发布证券研究报告业务经营情况统计报告》，首次将“建立 AI 投研内容审核内控机制”写进行业规范，明确禁止分析师直接采信 AI 生成的未经核验的数据、观点、推演和研究结论。这一条文内容虽简，但分量不轻。它重新界定了 AI 与分析师在投研链条中的位置：AI 可以是辅助工具，但不能替代专业判断；分析师可以借力技术，但必须对最终发布的报告负责。技术本身是中性的。它既可以放大研究效率，也可以放大研究错误。唯有把 AI 的辅助角色摆正，把分析师的守门责任压实，把机构的内控闭环建全，技术红利才能真正转化为研究质量。" data-short="证券时报头条评论：AI 是助手不是替身 研报责任主体仍是分析师
-生成式 AI（人工智能）近两年在券商投研领域快速普及。从研报初稿、会议纪要到估值模型搭建，AI 都已深度介入。效率提升的同时，合规风险也接踵而至：个别分析师将 AI 生成的数据和观点未经核验直接引入研报；更有甚者，AI 编造的政策信息、虚构的行业数据经分析师署名后发向市场，导致研报出现政策时间错...">证券时报头条评论：AI 是助手不是替身 研报责任主体仍是分析师
-生成式 AI（人工智能）近两年在券商投研领域快速普及。从研报初稿、会议纪要到估值模型搭建，AI 都已深度介入。效率提升的同时，合规风险也接踵而至：个别分析师将 AI 生成的数据和观点未经核验直接引入研报；更有甚者，AI 编造的政策信息、虚构的行业数据经分析师署名后发向市场，导致研报出现政策时间错...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="3℃！今天北京迎弱降水大风降温 气温将创下半年来新低
-今天（10 月 20 日），受冷空气影响，北京有弱降水、大风、降温天气，其中，高海拔山区将出现雨夹雪或雪，大部地区阵风可达 6 级左右，最高和最低气温将创下半年来新低，分别会跌至 13℃、3℃，冷意十足。"><div class="time">07:29</div><div class="content"><div class="text" data-full="3℃！今天北京迎弱降水大风降温 气温将创下半年来新低
-今天（10 月 20 日），受冷空气影响，北京有弱降水、大风、降温天气，其中，高海拔山区将出现雨夹雪或雪，大部地区阵风可达 6 级左右，最高和最低气温将创下半年来新低，分别会跌至 13℃、3℃，冷意十足。" data-short="3℃！今天北京迎弱降水大风降温 气温将创下半年来新低
-今天（10 月 20 日），受冷空气影响，北京有弱降水、大风、降温天气，其中，高海拔山区将出现雨夹雪或雪，大部地区阵风可达 6 级左右，最高和最低气温将创下半年来新低，分别会跌至 13℃、3℃，冷意十足。">3℃！今天北京迎弱降水大风降温 气温将创下半年来新低
-今天（10 月 20 日），受冷空气影响，北京有弱降水、大风、降温天气，其中，高海拔山区将出现雨夹雪或雪，大部地区阵风可达 6 级左右，最高和最低气温将创下半年来新低，分别会跌至 13℃、3℃，冷意十足。</div></div></article><article class="item" data-search="当地时间 19 日，伊朗伊斯兰革命卫队发言人穆赫比表示，7 条主要海底光缆已穿过霍尔木兹海峡，全球互联网和商业数据都依赖于此，伊朗提醒敌人，他们需知晓这一信息。（央视新闻）"><div class="time">07:29</div><div class="content"><div class="text" data-full="当地时间 19 日，伊朗伊斯兰革命卫队发言人穆赫比表示，7 条主要海底光缆已穿过霍尔木兹海峡，全球互联网和商业数据都依赖于此，伊朗提醒敌人，他们需知晓这一信息。（央视新闻）" data-short="当地时间 19 日，伊朗伊斯兰革命卫队发言人穆赫比表示，7 条主要海底光缆已穿过霍尔木兹海峡，全球互联网和商业数据都依赖于此，伊朗提醒敌人，他们需知晓这一信息。（央视新闻）">当地时间 19 日，伊朗伊斯兰革命卫队发言人穆赫比表示，7 条主要海底光缆已穿过霍尔木兹海峡，全球互联网和商业数据都依赖于此，伊朗提醒敌人，他们需知晓这一信息。（央视新闻）</div></div></article><article class="item" data-search="《北京科学宣言》发布 形成面向 2030 年后全球科学发展共同主张
-2026 年国际科学理事会中期会员大会暨北京科学对话昨天（19 日）在北京开幕。来自 88 个国家和地区的 1230 余名中外科技界代表参会。开幕式上，《北京科学宣言》发布，倡议围绕科学作为全球公共产品、负责任人工智能、科学与社会信任等重大议题，形成面向 2030 年后全球科学发展的共同主张。"><div class="time">07:29</div><div class="content"><div class="text" data-full="《北京科学宣言》发布 形成面向 2030 年后全球科学发展共同主张
-2026 年国际科学理事会中期会员大会暨北京科学对话昨天（19 日）在北京开幕。来自 88 个国家和地区的 1230 余名中外科技界代表参会。开幕式上，《北京科学宣言》发布，倡议围绕科学作为全球公共产品、负责任人工智能、科学与社会信任等重大议题，形成面向 2030 年后全球科学发展的共同主张。" data-short="《北京科学宣言》发布 形成面向 2030 年后全球科学发展共同主张
-2026 年国际科学理事会中期会员大会暨北京科学对话昨天（19 日）在北京开幕。来自 88 个国家和地区的 1230 余名中外科技界代表参会。开幕式上，《北京科学宣言》发布，倡议围绕科学作为全球公共产品、负责任人工智能、科学与社会信任等重大议题，形成面向 2030 年后全球科学发展的共同主张...">《北京科学宣言》发布 形成面向 2030 年后全球科学发展共同主张
-2026 年国际科学理事会中期会员大会暨北京科学对话昨天（19 日）在北京开幕。来自 88 个国家和地区的 1230 余名中外科技界代表参会。开幕式上，《北京科学宣言》发布，倡议围绕科学作为全球公共产品、负责任人工智能、科学与社会信任等重大议题，形成面向 2030 年后全球科学发展的共同主张...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="知情人士透露，openai 正争分夺秒地争取投资者承诺，以赶在竞争对手 anthropic 预计于 11 月中旬首次公开募股之前完成融资。此次融资速度异常之快，可能使这家 chatgpt 开发商的估值超过 1.4 万亿美元。 知情人士表示，这一紧凑的时间表在一定程度上反映了 openai 希望抢在 anthropic 之前取得领先的意愿，因为这两家前沿实验室正越来越多地从相似的投资者群体中获取资金。软银集团 、mgx 以及 openai 的其他现有投资者正在商谈参与这轮约 300 亿美元的融资。（路透）"><div class="time">07:28</div><div class="content"><div class="text" data-full="知情人士透露，OpenAI 正争分夺秒地争取投资者承诺，以赶在竞争对手 Anthropic 预计于 11 月中旬首次公开募股之前完成融资。此次融资速度异常之快，可能使这家 ChatGPT 开发商的估值超过 1.4 万亿美元。 知情人士表示，这一紧凑的时间表在一定程度上反映了 OpenAI 希望抢在 Anthropic 之前取得领先的意愿，因为这两家前沿实验室正越来越多地从相似的投资者群体中获取资金。软银集团 、MGX 以及 OpenAI 的其他现有投资者正在商谈参与这轮约 300 亿美元的融资。（路透）" data-short="知情人士透露，OpenAI 正争分夺秒地争取投资者承诺，以赶在竞争对手 Anthropic 预计于 11 月中旬首次公开募股之前完成融资。此次融资速度异常之快，可能使这家 ChatGPT 开发商的估值超过 1.4 万亿美元。 知情人士表示，这一紧凑的时间表在一定程度上反映了 OpenAI 希望抢在 Anthropic 之前取得领先的意愿，因为这两家前沿实验室...">知情人士透露，OpenAI 正争分夺秒地争取投资者承诺，以赶在竞争对手 Anthropic 预计于 11 月中旬首次公开募股之前完成融资。此次融资速度异常之快，可能使这家 ChatGPT 开发商的估值超过 1.4 万亿美元。 知情人士表示，这一紧凑的时间表在一定程度上反映了 OpenAI 希望抢在 Anthropic 之前取得领先的意愿，因为这两家前沿实验室...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">10月20日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">10:00</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="【盘中宝】需求明显提升，该行业或成为装备建设重要方向，未来全球市场规模预计翻5倍，这家企业已完成多型号产品研发
+哥伦比亚总统德拉埃斯普列亚 19 日在社交媒体发文称，哥警方近日在该国北部城市卡塔赫纳一处港口查获 7.6 吨可卡因，创下该港口近 10 年来最大规模的毒品查获纪录。 德拉埃斯普列亚表示，此次行动使贩毒集团遭受超过 420 亿哥伦比亚比索（约合 1320 万美元）的经济损失，并阻止超过 1900 万剂毒品流入市场。 他强调...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="日经指数期货开盘下跌 30 点，报 64855。"><div class="time">07:32</div><div class="content"><div class="text" data-full="日经指数期货开盘下跌 30 点，报 64855。" data-short="日经指数期货开盘下跌 30 点，报 64855。">日经指数期货开盘下跌 30 点，报 64855。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">10月20日 · VIP</h2> <div class="feed"> <article class="item" data-search="尾盘先锋
+
+✅项目介绍：
+
+1、挖掘真实人气龙头
+
+注册制下越来越多个股被边缘化，尾盘狙击基于全市场真实交易数据及个股基本面因子指标，智能挖掘市场“真实人气龙头”，让投资更聚焦。
+
+2、接近“t+0”交易效果
+
+交易日14点30分智能计算选股，投资者尾盘决策买入，抢占先手，次日可从容应对。
+
+3、短线情绪一目了然
+
+短线情绪至关重要，尾盘狙击通过个股温度值、龙头接力情绪值及连板成功率指标，为短线交易提供决策依据。
+
+4、捕捉全新热点机会
+
+当出现某个行业多只个股入选进攻梯队时，表示该方向人气正在迅速攀升，可重点关注投资机会。
+
+✅历史数据：https://hi189.com/7061.html
+
+✅运作方式：我每天下午2:30把系统选出的股票发到群里
+
+✅费用：200/年（频道vip免费看）
+
+联系：@cn50etf"> <div class="time">10:06</div> <div class="content"> <div class="text">尾盘先锋
+
+✅项目介绍：
+
+1、挖掘真实人气龙头
+
+注册制下越来越多个股被边缘化，尾盘狙击基于全市场真实交易数据及个股基本面因子指标，智能挖掘市场“真实人气龙头”，让投资更聚焦。
+
+2、接近“T+0”交易效果
+
+交易日14点30分智能计算选股，投资者尾盘决策买入，抢占先手，次日可从容应对。
+
+3、短线情绪一目了然
+
+短...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="鞠磊线下私享会
+
+课程官方介绍：https://mp.weixin.qq.com/s/-q-yfbzzefpidgqyxs9svg
+
+一、报名参加学员，鞠磊老师会建一个小群，小群会思想指导（懂得都懂），至少服务半年左右时间，50000元的课程内容，干货应该不少，我们这里办理人员独立建一个小群转发同步学习。
+二、咨询了一下鞠磊老师，说这次线下课费用贵，是不是还有福利鞠磊老师答复，除了小群内容，可能会增加一个一次性掘金小栏目。
+
+小群内容到时候会统一发到创建的小群，单独发鞠老师的消息，跟踪半年时间，小范围群有具体的标的，鞠老师每天都在群里交流，日常课程不包含这些内容。
+
+请大家考虑清楚之后再购买，因为本次人员太少仅限30名，只能保证全程有录音。300元一人合购，一经付费不退不换。
+
+联系 @cn50etf"> <div class="time">10:05</div> <div class="content"> <div class="text">鞠磊线下私享会
+
+课程官方介绍：https://mp.weixin.qq.com/s/-Q-YFBzZeFpIdGqYXs9Svg
+
+一、报名参加学员，鞠磊老师会建一个小群，小群会思想指导（懂得都懂），至少服务半年左右时间，50000元的课程内容，干货应该不少，我们这里办理人员独立建一个小群转发同步学习。
+二、咨询了一...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="包括内容：
+
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大v收费群盘中消息同步：
+
+vip资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+妖股刺客
+
+新生代作手
+邢者狩猎营
+g界孙悟空
+大师兄擒妖
+浮光
+天赢居
+
+清北游资
+时冲
+主升真经
+天机短线
+爱尔兰画眉
+震哥
+李梦尘
+
+红旗大街发哥
+游资胖大叔
+大周先生
+姆爷
+游资混江龙
+徐小明
+天地同力
+
+诗诗复利游
+a股通天宗
+
+先知
+林荫大道
+逻辑派a哥
+
+复盘哥
+鑫多多
+大将潘凤
+奶爸只做核心
+浮光知顶底
+
+借势而为
+来去由心
+嗅嗅掘金
+k神会
+
+费用：100元/月
+
+联系 @cn50etf"> <div class="time">10:05</div> <div class="content"> <div class="text">包括内容：
+
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大V收费群盘中消息同步：
+
+VIP资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+妖股刺客
+
+新生代作手
+邢者狩猎营
+G界孙悟空
+大师兄擒妖
+浮光
+天赢居
+
+清北游资
+时冲
+主升真经
+天机短线
+爱尔兰画眉
+震哥
+李梦尘
+
+红...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">10:00</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="【盘中宝】需求明显提升，该行业或成为装备建设重要方向，未来全球市场规模预计翻5倍，这家企业已完成多型号产品研发
 
 #"> <div class="time">09:59</div> <div class="content"> <div class="text">【盘中宝】需求明显提升，该行业或成为装备建设重要方向，未来全球市场规模预计翻5倍，这家企业已完成多型号产品研发
 
