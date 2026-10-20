@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3550510",
+    "datetime": "2026-10-20T16:06:42+00:00",
+    "views": "1",
+    "text": "据伊朗 NourNews：伊朗总统佩泽希齐扬在德黑兰会见巴基斯坦陆军参谋长时，讨论了调解努力和地区事态发展。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550510"
+  },
+  {
+    "post": "Financial_Express/3550509",
+    "datetime": "2026-10-20T16:06:22+00:00",
+    "views": "1",
+    "text": "伊朗总统在德黑兰会见巴基斯坦陆军参谋长时，讨论了调解努力和地区事态发展。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550509"
+  },
+  {
+    "post": "Financial_Express/3550508",
+    "datetime": "2026-10-20T16:06:02+00:00",
+    "views": "6",
+    "text": "亚马逊公布假日招工计划，美国招聘规模超 30 万人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550508"
+  },
+  {
+    "post": "Financial_Express/3550507",
+    "datetime": "2026-10-20T16:05:42+00:00",
+    "views": "1",
+    "text": "迪娜·鲍威尔·麦考密克出任 Meta 对外事务负责人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550507"
+  },
+  {
+    "post": "Financial_Express/3550506",
+    "datetime": "2026-10-20T16:04:42+00:00",
+    "views": "1",
+    "text": "美国拟放开肾病治疗市场竞争，两大透析龙头达维塔、费森尤斯医疗快速走弱。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550506"
+  },
+  {
+    "post": "Financial_Express/3550505",
+    "datetime": "2026-10-20T16:04:40+00:00",
+    "views": "2",
+    "text": "Meta Platforms 全球事务主管卡普兰（Kaplan）将离职。（Axios）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550505"
+  },
+  {
+    "post": "Financial_Express/3550504",
+    "datetime": "2026-10-20T16:04:22+00:00",
+    "views": "1",
+    "text": "英特尔：AMD 加入 UXL 基金会成为指导成员，以推进 oneDNN PyTorch 工作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550504"
+  },
+  {
+    "post": "Financial_Express/3550503",
+    "datetime": "2026-10-20T16:04:07+00:00",
+    "views": "5",
+    "text": "英特尔：AMD 和英特尔合作，使用 PyTorch 简化 X86 CPU 上的 AI 开发。\nAMD 与英特尔已达成一致，将 oneDNN 作为 PyTorch 中 x86 加速的默认开源库。\nAMD 加入 UXL 基金会成为指导成员，以推进 oneDNN PyTorch 工作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550503"
+  },
+  {
     "post": "Financial_Express/3550502",
     "datetime": "2026-10-20T16:04:02+00:00",
-    "views": "1",
+    "views": "5",
     "text": "英特尔：AMD(AMD.O)与英特尔(INTC.O)已就在 PyTorch 内将 oneDNN 作为 x86 加速的默认开源库达成一致。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3550500",
     "datetime": "2026-10-20T16:03:42+00:00",
-    "views": "1",
+    "views": "39",
     "text": "英特尔：AMD(AMD.O)与英特尔(INTC.O)合作，利用 PyTorch 简化在 x86 CPU 上的 AI 开发。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3550501",
     "datetime": "2026-10-20T16:03:42+00:00",
-    "views": "1",
+    "views": "37",
     "text": "英特尔：AMD 与英特尔已达成一致，将 oneDNN 作为 PyTorch 中 x86 加速的默认开源库。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3550498",
     "datetime": "2026-10-20T16:03:23+00:00",
-    "views": "1",
+    "views": "40",
     "text": "乔尔·卡普兰在担任政策主管 15 年后离开 Meta。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3550499",
     "datetime": "2026-10-20T16:03:23+00:00",
-    "views": "1",
+    "views": "41",
     "text": "英特尔：AMD 和英特尔合作，使用 PyTorch 简化 X86 CPU 上的 AI 开发。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3550497",
     "datetime": "2026-10-20T16:03:22+00:00",
-    "views": "7",
+    "views": "40",
     "text": "据 Axios：乔尔·卡普兰（Joel Kaplan）在担任政策主管 15 年后将离开 Meta Platforms(META.O)。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3550496",
     "datetime": "2026-10-20T16:02:09+00:00",
-    "views": "7",
+    "views": "43",
     "text": "美国食品药品管理局（FDA） 批准每周一次的女性通用型激素疗法贴片。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3550494",
     "datetime": "2026-10-20T16:01:42+00:00",
-    "views": "43",
+    "views": "46",
     "text": "北约军方发言人：增派至黑海的资产将包括海上巡逻机、雷达系统、无人机和情报人员。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3550495",
     "datetime": "2026-10-20T16:01:42+00:00",
-    "views": "43",
+    "views": "46",
     "text": "市场资讯：美国推动肾病治疗市场引入更多竞争。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3550493",
     "datetime": "2026-10-20T16:00:41+00:00",
-    "views": "47",
+    "views": "49",
     "text": "依视路陆逊梯三季度营收（剔除汇率因素）增长 7.2%，分析师预期增长 6.3%。\n三季度营收 74.9 亿欧元，分析师预期 73.7 亿欧元。\n三季度北美营收 32 亿欧元，分析师预期 31.5 亿欧元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3550492",
     "datetime": "2026-10-20T16:00:22+00:00",
-    "views": "50",
+    "views": "52",
     "text": "依视路陆逊梯卡第三季度按固定汇率计算营收增长 7.2%，预期为增长 6.3%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3550491",
     "datetime": "2026-10-20T15:58:56+00:00",
-    "views": "52",
+    "views": "53",
     "text": "美国财政部长斯科特·贝森特表示，他不认为收益率飙升引发财政状况之忧的法国债券市场会对外产生溢出效应。\n“我不认为法国的情况会蔓延到其他地方，” 贝森特周二在 2Way 接受采访时说，“法国人的处境挺棘手的，但我非常了解马克龙总统的经济团队，他们确实是一流的。”",
     "media_only": false,
     "image_url": null,
@@ -58075,23 +58147,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3543961"
-  },
-  {
-    "post": "Financial_Express/3543960",
-    "datetime": "2026-10-18T16:06:42+00:00",
-    "views": "98",
-    "text": "俄军用卫星多次变轨抵近美注册雷达卫星，最近距离或仅 48 米\n荷兰卫星追踪人员称，俄罗斯军用卫星“宇宙 2612 号”实施轨道机动，抵近至美国注册的 ICEYE‑X36 雷达成像卫星 136 米范围内，预计周一将进一步近距离飞越，最近距离约 48 米。荷兰卫星追踪专家马尔科·朗布鲁克表示，自 9 月 30 日以来，该卫星开展一系列变轨操作，目的是匹配 ICEYE‑X36 的轨道。天文学家乔纳森·麦克道尔称，这是已知首例在轨活跃卫星未经许可，在近地轨道近距离抵近另一颗活跃卫星的事件。芬兰企业 ICEYE 自 2022 年起向乌克兰提供雷达影像，目前尚不清楚这颗卫星是否为乌克兰提供服务。现阶段暂未发现卫星受损迹象，俄方的意图仍不明朗。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3543960"
-  },
-  {
-    "post": "Financial_Express/3543959",
-    "datetime": "2026-10-18T16:05:02+00:00",
-    "views": "102",
-    "text": "据英国金融时报：美国驻欧盟大使普兹德警告称，若欧盟限制非欧盟企业获取频谱资源，布鲁塞尔将面临“毁灭性”报复。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3543959"
   }
 ]
