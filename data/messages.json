@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3550502",
+    "datetime": "2026-10-20T16:04:02+00:00",
+    "views": "1",
+    "text": "英特尔：AMD(AMD.O)与英特尔(INTC.O)已就在 PyTorch 内将 oneDNN 作为 x86 加速的默认开源库达成一致。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550502"
+  },
+  {
+    "post": "Financial_Express/3550500",
+    "datetime": "2026-10-20T16:03:42+00:00",
+    "views": "1",
+    "text": "英特尔：AMD(AMD.O)与英特尔(INTC.O)合作，利用 PyTorch 简化在 x86 CPU 上的 AI 开发。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550500"
+  },
+  {
+    "post": "Financial_Express/3550501",
+    "datetime": "2026-10-20T16:03:42+00:00",
+    "views": "1",
+    "text": "英特尔：AMD 与英特尔已达成一致，将 oneDNN 作为 PyTorch 中 x86 加速的默认开源库。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550501"
+  },
+  {
+    "post": "Financial_Express/3550498",
+    "datetime": "2026-10-20T16:03:23+00:00",
+    "views": "1",
+    "text": "乔尔·卡普兰在担任政策主管 15 年后离开 Meta。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550498"
+  },
+  {
+    "post": "Financial_Express/3550499",
+    "datetime": "2026-10-20T16:03:23+00:00",
+    "views": "1",
+    "text": "英特尔：AMD 和英特尔合作，使用 PyTorch 简化 X86 CPU 上的 AI 开发。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550499"
+  },
+  {
+    "post": "Financial_Express/3550497",
+    "datetime": "2026-10-20T16:03:22+00:00",
+    "views": "7",
+    "text": "据 Axios：乔尔·卡普兰（Joel Kaplan）在担任政策主管 15 年后将离开 Meta Platforms(META.O)。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3550497"
+  },
+  {
     "post": "Financial_Express/3550496",
     "datetime": "2026-10-20T16:02:09+00:00",
-    "views": "1",
+    "views": "7",
     "text": "美国食品药品管理局（FDA） 批准每周一次的女性通用型激素疗法贴片。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3550494",
     "datetime": "2026-10-20T16:01:42+00:00",
-    "views": "1",
+    "views": "43",
     "text": "北约军方发言人：增派至黑海的资产将包括海上巡逻机、雷达系统、无人机和情报人员。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3550495",
     "datetime": "2026-10-20T16:01:42+00:00",
-    "views": "1",
+    "views": "43",
     "text": "市场资讯：美国推动肾病治疗市场引入更多竞争。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3550493",
     "datetime": "2026-10-20T16:00:41+00:00",
-    "views": "8",
+    "views": "47",
     "text": "依视路陆逊梯三季度营收（剔除汇率因素）增长 7.2%，分析师预期增长 6.3%。\n三季度营收 74.9 亿欧元，分析师预期 73.7 亿欧元。\n三季度北美营收 32 亿欧元，分析师预期 31.5 亿欧元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3550492",
     "datetime": "2026-10-20T16:00:22+00:00",
-    "views": "11",
+    "views": "50",
     "text": "依视路陆逊梯卡第三季度按固定汇率计算营收增长 7.2%，预期为增长 6.3%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3550491",
     "datetime": "2026-10-20T15:58:56+00:00",
-    "views": "16",
+    "views": "52",
     "text": "美国财政部长斯科特·贝森特表示，他不认为收益率飙升引发财政状况之忧的法国债券市场会对外产生溢出效应。\n“我不认为法国的情况会蔓延到其他地方，” 贝森特周二在 2Way 接受采访时说，“法国人的处境挺棘手的，但我非常了解马克龙总统的经济团队，他们确实是一流的。”",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3550490",
     "datetime": "2026-10-20T15:58:06+00:00",
-    "views": "49",
+    "views": "53",
     "text": "巴克莱出现贷款限制，为对冲基金赌注释放现金。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3550489",
     "datetime": "2026-10-20T15:58:02+00:00",
-    "views": "50",
+    "views": "54",
     "text": "法国议会推进立法，拟对加密资产兑换稳定币的交易征收 31.4%的资本利得税。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3550487",
     "datetime": "2026-10-20T15:57:02+00:00",
-    "views": "51",
+    "views": "54",
     "text": "家乐福股价跌幅扩大至 5.4%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3550486",
     "datetime": "2026-10-20T15:56:02+00:00",
-    "views": "56",
+    "views": "57",
     "text": "希腊反对利比亚批准土耳其与利比亚之间的海上划界协议。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3550485",
     "datetime": "2026-10-20T15:55:42+00:00",
-    "views": "55",
+    "views": "57",
     "text": "美国核管理委员会：奥科尼 1 号反应堆功率从 97%降至 95%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3550484",
     "datetime": "2026-10-20T15:55:22+00:00",
-    "views": "54",
+    "views": "87",
     "text": "家乐福预计 2026 年营业利润率将增长 0 至 15 个基点，此前预期为超过 25 个基点。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3550483",
     "datetime": "2026-10-20T15:54:03+00:00",
-    "views": "60",
+    "views": "93",
     "text": "巴克莱银行因达到贷款限额，释放了现金用于对冲基金。",
     "media_only": false,
     "image_url": null,
@@ -58039,14 +58093,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3543959"
-  },
-  {
-    "post": "Financial_Express/3543958",
-    "datetime": "2026-10-18T16:04:02+00:00",
-    "views": "102",
-    "text": "美国驻欧盟大使普兹德警告称，如果布鲁塞尔继续推进限制非欧盟公司频谱接入的计划，将面临“毁灭性”报复。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3543958"
   }
 ]
