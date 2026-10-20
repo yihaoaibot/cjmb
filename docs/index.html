@@ -1,5 +1,61 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-10-20T04:30:44.262845+00:00","clsvipUpdated":"2026-10-20T04:30:55.157162+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">10月20日</h2><div class="feed"><article class="item" data-search="山西发布寒潮黄色预警 最低气温将下降 10℃以上
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-10-20T04:32:45.807390+00:00","clsvipUpdated":"2026-10-20T04:32:53.176070+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">10月20日</h2><div class="feed"><article class="item" data-search="据自然资源部海啸预警中心初步测定，2026 年 10 月 20 日 12 时 20 分(北京时间)，瓦努阿图群岛海域(14.05°s,165.62°e)发生 6.5 级地震，震源深度为 15 千米。地震确切信息以中国地震台网测定为准。自然资源部海啸预警中心根据初步地震参数判断，地震可能会在震源周围引发局地海啸，但不会对我国沿岸造成影响。白然资源部海啸预警中心将继续跟踪分析地震和海啸监测数据，并及时发布信息。"><div class="time">12:31</div><div class="content"><div class="text" data-full="据自然资源部海啸预警中心初步测定，2026 年 10 月 20 日 12 时 20 分(北京时间)，瓦努阿图群岛海域(14.05°S,165.62°E)发生 6.5 级地震，震源深度为 15 千米。地震确切信息以中国地震台网测定为准。自然资源部海啸预警中心根据初步地震参数判断，地震可能会在震源周围引发局地海啸，但不会对我国沿岸造成影响。白然资源部海啸预警中心将继续跟踪分析地震和海啸监测数据，并及时发布信息。" data-short="据自然资源部海啸预警中心初步测定，2026 年 10 月 20 日 12 时 20 分(北京时间)，瓦努阿图群岛海域(14.05°S,165.62°E)发生 6.5 级地震，震源深度为 15 千米。地震确切信息以中国地震台网测定为准。自然资源部海啸预警中心根据初步地震参数判断，地震可能会在震源周围引发局地海啸，但不会对我国沿岸造成影响。白然资源部海啸预警中心...">据自然资源部海啸预警中心初步测定，2026 年 10 月 20 日 12 时 20 分(北京时间)，瓦努阿图群岛海域(14.05°S,165.62°E)发生 6.5 级地震，震源深度为 15 千米。地震确切信息以中国地震台网测定为准。自然资源部海啸预警中心根据初步地震参数判断，地震可能会在震源周围引发局地海啸，但不会对我国沿岸造成影响。白然资源部海啸预警中心...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="中国与沙特签署协议，相互认可海员证书
+10 月 20 日，2026 北外滩国际航运论坛在上海开幕。开幕式上发布了一系列政府引领性成果，其中，中华人民共和国交通运输部和沙特阿拉伯王国交通运输总局签署关于相互承认海员证书的谅解备忘录。"><div class="time">12:31</div><div class="content"><div class="text" data-full="中国与沙特签署协议，相互认可海员证书
+10 月 20 日，2026 北外滩国际航运论坛在上海开幕。开幕式上发布了一系列政府引领性成果，其中，中华人民共和国交通运输部和沙特阿拉伯王国交通运输总局签署关于相互承认海员证书的谅解备忘录。" data-short="中国与沙特签署协议，相互认可海员证书
+10 月 20 日，2026 北外滩国际航运论坛在上海开幕。开幕式上发布了一系列政府引领性成果，其中，中华人民共和国交通运输部和沙特阿拉伯王国交通运输总局签署关于相互承认海员证书的谅解备忘录。">中国与沙特签署协议，相互认可海员证书
+10 月 20 日，2026 北外滩国际航运论坛在上海开幕。开幕式上发布了一系列政府引领性成果，其中，中华人民共和国交通运输部和沙特阿拉伯王国交通运输总局签署关于相互承认海员证书的谅解备忘录。</div></div></article><article class="item" data-search="北证 50 指数半日涨超 4%，机器人概念股集体爆发。
+恒指半日跌 0.95%，恒生科技指数跌 1.21%，联想集团跌超 7%。
+连续第 17 个月维持不变！10 月 lpr 报价出炉：5 年期以上 3.5%，1 年期 3%。
+中国央行将在 10 月 21 日至 11 月 2 日开展隔夜逆回购操作，每日操作量不超过 10000 亿元。
+中国央行：境外央行类机构回购工具的操作对象纳入外资人民币业务清算行。
+国家发改委：正在研究制定扩大内需战略实施方案。
+证监会法制司司长程合红：研究推进将《证券法》修改纳入下一届全国人大的立法规划。
+日本 20 年期国债拍卖认购倍数创历史新高。
+报道：openai 计划在 anthropic 上市前加快融资步伐。"><div class="time">12:30</div><div class="content"><div class="text" data-full="北证 50 指数半日涨超 4%，机器人概念股集体爆发。
+恒指半日跌 0.95%，恒生科技指数跌 1.21%，联想集团跌超 7%。
+连续第 17 个月维持不变！10 月 LPR 报价出炉：5 年期以上 3.5%，1 年期 3%。
+中国央行将在 10 月 21 日至 11 月 2 日开展隔夜逆回购操作，每日操作量不超过 10000 亿元。
+中国央行：境外央行类机构回购工具的操作对象纳入外资人民币业务清算行。
+国家发改委：正在研究制定扩大内需战略实施方案。
+证监会法制司司长程合红：研究推进将《证券法》修改纳入下一届全国人大的立法规划。
+日本 20 年期国债拍卖认购倍数创历史新高。
+报道：OpenAI 计划在 Anthropic 上市前加快融资步伐。" data-short="北证 50 指数半日涨超 4%，机器人概念股集体爆发。
+恒指半日跌 0.95%，恒生科技指数跌 1.21%，联想集团跌超 7%。
+连续第 17 个月维持不变！10 月 LPR 报价出炉：5 年期以上 3.5%，1 年期 3%。
+中国央行将在 10 月 21 日至 11 月 2 日开展隔夜逆回购操作，每日操作量不超过 10000 亿元。
+中国央行：境外央行类机...">北证 50 指数半日涨超 4%，机器人概念股集体爆发。
+恒指半日跌 0.95%，恒生科技指数跌 1.21%，联想集团跌超 7%。
+连续第 17 个月维持不变！10 月 LPR 报价出炉：5 年期以上 3.5%，1 年期 3%。
+中国央行将在 10 月 21 日至 11 月 2 日开展隔夜逆回购操作，每日操作量不超过 10000 亿元。
+中国央行：境外央行类机...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="① 14:00 英国 9 月三个月 ilo 就业人数、失业率；
+② 17:00 欧元区 10 月 zew 经济景气指数，德国 10 月 zew 经济景气指数；
+③ 17:05 欧洲央行管委 rehn 讲话；
+④ 美股盘前 通用汽车、3m 等发布业绩报告；
+⑤ 20:30 美国 9 月新屋开工、营建许可；
+⑥ 22:00 美国 9 月成屋签约销售指数；
+⑦ 次日 01:00 英国央行货币政策委员 greene 讲话；
+⑧ 美股盘后 美联航、奈飞发布业绩报告；
+⑨ 次日 06:30 澳洲联储副主席 hauser 讲话；"><div class="time">12:30</div><div class="content"><div class="text" data-full="① 14:00 英国 9 月三个月 ILO 就业人数、失业率；
+② 17:00 欧元区 10 月 ZEW 经济景气指数，德国 10 月 ZEW 经济景气指数；
+③ 17:05 欧洲央行管委 Rehn 讲话；
+④ 美股盘前 通用汽车、3M 等发布业绩报告；
+⑤ 20:30 美国 9 月新屋开工、营建许可；
+⑥ 22:00 美国 9 月成屋签约销售指数；
+⑦ 次日 01:00 英国央行货币政策委员 Greene 讲话；
+⑧ 美股盘后 美联航、奈飞发布业绩报告；
+⑨ 次日 06:30 澳洲联储副主席 Hauser 讲话；" data-short="① 14:00 英国 9 月三个月 ILO 就业人数、失业率；
+② 17:00 欧元区 10 月 ZEW 经济景气指数，德国 10 月 ZEW 经济景气指数；
+③ 17:05 欧洲央行管委 Rehn 讲话；
+④ 美股盘前 通用汽车、3M 等发布业绩报告；
+⑤ 20:30 美国 9 月新屋开工、营建许可；
+⑥ 22:00 美国 9 月成屋签约销售指数；
+⑦ 次...">① 14:00 英国 9 月三个月 ILO 就业人数、失业率；
+② 17:00 欧元区 10 月 ZEW 经济景气指数，德国 10 月 ZEW 经济景气指数；
+③ 17:05 欧洲央行管委 Rehn 讲话；
+④ 美股盘前 通用汽车、3M 等发布业绩报告；
+⑤ 20:30 美国 9 月新屋开工、营建许可；
+⑥ 22:00 美国 9 月成屋签约销售指数；
+⑦ 次...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="山西发布寒潮黄色预警 最低气温将下降 10℃以上
 金十数据 10 月 20 日讯，10 月 20 日，山西省气象台发布寒潮黄色预警，预警区域为临汾市北部、忻州市西部、朔州市、大同市、太原市西部、吕梁市西部、晋中市南部、长治市西北部，预警区域 48 小时内最低气温将下降 10℃以上，最低气温小于等于 4℃。"><div class="time">12:29</div><div class="content"><div class="text" data-full="山西发布寒潮黄色预警 最低气温将下降 10℃以上
 金十数据 10 月 20 日讯，10 月 20 日，山西省气象台发布寒潮黄色预警，预警区域为临汾市北部、忻州市西部、朔州市、大同市、太原市西部、吕梁市西部、晋中市南部、长治市西北部，预警区域 48 小时内最低气温将下降 10℃以上，最低气温小于等于 4℃。" data-short="山西发布寒潮黄色预警 最低气温将下降 10℃以上
 金十数据 10 月 20 日讯，10 月 20 日，山西省气象台发布寒潮黄色预警，预警区域为临汾市北部、忻州市西部、朔州市、大同市、太原市西部、吕梁市西部、晋中市南部、长治市西北部，预警区域 48 小时内最低气温将下降 10℃以上，最低气温小于等于 4℃。">山西发布寒潮黄色预警 最低气温将下降 10℃以上
@@ -829,11 +885,7 @@ KeyBanc 分析师 Brandon Nispel 在汇整 iPhone 用户调查的报告中指出
 金十数据 10 月 20 日讯，中央精神文明建设办公室专职副主任、中央文化遗产保护委员会办公室主任胡凯红 10 月 20 日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上表示，中共中央办公厅、国务院办公厅近日印发了《文化遗产保护传承“十五五”规划》，这是我国首次在文化遗产保护领域制定五年规划。围绕推动文化遗产系统性保护这根主线，规划将构建文化遗产大保护格局，提升文化遗产治理能力和水平，强化支撑保障。以文化遗产资源普查调查为基础，以中华优秀传统文化传承发展工程等为依托，以法律法规为保障，推动构建大保护格局。"><div class="time">10:07</div><div class="content"><div class="text" data-full="我国首次在文化遗产保护领域制定五年规划
 金十数据 10 月 20 日讯，中央精神文明建设办公室专职副主任、中央文化遗产保护委员会办公室主任胡凯红 10 月 20 日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上表示，中共中央办公厅、国务院办公厅近日印发了《文化遗产保护传承“十五五”规划》，这是我国首次在文化遗产保护领域制定五年规划。围绕推动文化遗产系统性保护这根主线，规划将构建文化遗产大保护格局，提升文化遗产治理能力和水平，强化支撑保障。以文化遗产资源普查调查为基础，以中华优秀传统文化传承发展工程等为依托，以法律法规为保障，推动构建大保护格局。" data-short="我国首次在文化遗产保护领域制定五年规划
 金十数据 10 月 20 日讯，中央精神文明建设办公室专职副主任、中央文化遗产保护委员会办公室主任胡凯红 10 月 20 日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上表示，中共中央办公厅、国务院办公厅近日印发了《文化遗产保护传承“十五五”规划》，这是我国首次在文化遗产保护领域制定五年规划。围绕推动文化遗产...">我国首次在文化遗产保护领域制定五年规划
-金十数据 10 月 20 日讯，中央精神文明建设办公室专职副主任、中央文化遗产保护委员会办公室主任胡凯红 10 月 20 日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上表示，中共中央办公厅、国务院办公厅近日印发了《文化遗产保护传承“十五五”规划》，这是我国首次在文化遗产保护领域制定五年规划。围绕推动文化遗产...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="从国家移民管理局获悉，2026 年三季度，全国移民管理机构累计查验出入境人员 1.92 亿人次，同比上升 7.9%。其中，内地（大陆）居民 9596 万人次、港澳台居民 7314 万人次、外国人 2327.2 万人次，同比分别上升 7.4%、6.4%、15.6%。免签入境外国人达 899.2 万人次，占入境外国人总数的 77.5%，同比上升 24.1%。（新华社）"><div class="time">10:07</div><div class="content"><div class="text" data-full="从国家移民管理局获悉，2026 年三季度，全国移民管理机构累计查验出入境人员 1.92 亿人次，同比上升 7.9%。其中，内地（大陆）居民 9596 万人次、港澳台居民 7314 万人次、外国人 2327.2 万人次，同比分别上升 7.4%、6.4%、15.6%。免签入境外国人达 899.2 万人次，占入境外国人总数的 77.5%，同比上升 24.1%。（新华社）" data-short="从国家移民管理局获悉，2026 年三季度，全国移民管理机构累计查验出入境人员 1.92 亿人次，同比上升 7.9%。其中，内地（大陆）居民 9596 万人次、港澳台居民 7314 万人次、外国人 2327.2 万人次，同比分别上升 7.4%、6.4%、15.6%。免签入境外国人达 899.2 万人次，占入境外国人总数的 77.5%，同比上升 24.1%。（新...">从国家移民管理局获悉，2026 年三季度，全国移民管理机构累计查验出入境人员 1.92 亿人次，同比上升 7.9%。其中，内地（大陆）居民 9596 万人次、港澳台居民 7314 万人次、外国人 2327.2 万人次，同比分别上升 7.4%、6.4%、15.6%。免签入境外国人达 899.2 万人次，占入境外国人总数的 77.5%，同比上升 24.1%。（新...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="tcl 电子(01070.hk)涨近 7%，公司预计首三季度经调整归母净利润同比增长约 45%至 55%。"><div class="time">10:07</div><div class="content"><div class="text" data-full="TCL 电子(01070.HK)涨近 7%，公司预计首三季度经调整归母净利润同比增长约 45%至 55%。" data-short="TCL 电子(01070.HK)涨近 7%，公司预计首三季度经调整归母净利润同比增长约 45%至 55%。">TCL 电子(01070.HK)涨近 7%，公司预计首三季度经调整归母净利润同比增长约 45%至 55%。</div></div></article><article class="item" data-search="移远通信触及涨停
-移远通信触及涨停，成交额 14.08 亿元。消息面上，移远通信披露 2026 年第三季度报告，前三季度公司实现营业总收入 237.99 亿元，同比增长 33.13%；归母净利润 12.12 亿元，同比增长 65.21%；扣非净利润 12.17 亿元，同比增长 75.25%"><div class="time">10:07</div><div class="content"><div class="text" data-full="移远通信触及涨停
-移远通信触及涨停，成交额 14.08 亿元。消息面上，移远通信披露 2026 年第三季度报告，前三季度公司实现营业总收入 237.99 亿元，同比增长 33.13%；归母净利润 12.12 亿元，同比增长 65.21%；扣非净利润 12.17 亿元，同比增长 75.25%" data-short="移远通信触及涨停
-移远通信触及涨停，成交额 14.08 亿元。消息面上，移远通信披露 2026 年第三季度报告，前三季度公司实现营业总收入 237.99 亿元，同比增长 33.13%；归母净利润 12.12 亿元，同比增长 65.21%；扣非净利润 12.17 亿元，同比增长 75.25%">移远通信触及涨停
-移远通信触及涨停，成交额 14.08 亿元。消息面上，移远通信披露 2026 年第三季度报告，前三季度公司实现营业总收入 237.99 亿元，同比增长 33.13%；归母净利润 12.12 亿元，同比增长 65.21%；扣非净利润 12.17 亿元，同比增长 75.25%</div></div></article><article class="item" data-search="沪深两市成交额超 5000 亿元，较上日此时缩量 479 亿元。"><div class="time">10:07</div><div class="content"><div class="text" data-full="沪深两市成交额超 5000 亿元，较上日此时缩量 479 亿元。" data-short="沪深两市成交额超 5000 亿元，较上日此时缩量 479 亿元。">沪深两市成交额超 5000 亿元，较上日此时缩量 479 亿元。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">10月20日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】具身智能产业关键的基础设施，这一领域掀起建设热潮，这家公司可为机器人厂商提供相关服务
+金十数据 10 月 20 日讯，中央精神文明建设办公室专职副主任、中央文化遗产保护委员会办公室主任胡凯红 10 月 20 日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上表示，中共中央办公厅、国务院办公厅近日印发了《文化遗产保护传承“十五五”规划》，这是我国首次在文化遗产保护领域制定五年规划。围绕推动文化遗产...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">10月20日 · VIP</h2> <div class="feed"> <article class="item" data-search="【盘中宝】具身智能产业关键的基础设施，这一领域掀起建设热潮，这家公司可为机器人厂商提供相关服务
 
 #"> <div class="time">11:03</div> <div class="content"> <div class="text">【盘中宝】具身智能产业关键的基础设施，这一领域掀起建设热潮，这家公司可为机器人厂商提供相关服务
 
