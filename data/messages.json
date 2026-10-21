@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3554380",
+    "datetime": "2026-10-21T15:06:22+00:00",
+    "views": "2",
+    "text": "腾讯云发布 PHP \"php2shell\" 远程代码执行漏洞风险通告\n金十数据 10 月 21 日讯，腾讯云安全中心监测到，PHP 被披露其存在远程代码执行漏洞，漏洞编号分别为 CVE-2026-109618, CVE-2026-109619，代号 \"php2shell\"。可导致未经身份验证的远程攻击者通过发送特制的 multipart POST 请求，触发内存破坏并最终实现远程代码执行，从而完全控制服务器等危害。腾讯云安全建议您及时开展安全自查，如在受影响范围，请您及时进行更新修复，避免被外部攻击者入侵。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554380"
+  },
+  {
+    "post": "Financial_Express/3554379",
+    "datetime": "2026-10-21T15:06:02+00:00",
+    "views": "4",
+    "text": "据知情人士透露，SGB-SMIT MidCo GmbH 为其法兰克福 IPO 新增五家（承销）银行。\n该公司为其股票发行接触瑞银集团、裕信银行、Berenberg、LBBW、RBI。\n该公司 IPO 将由高盛、摩根大通、摩根士丹利牵头，估值大约 40 亿欧元。（彭博）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554379"
+  },
+  {
+    "post": "Financial_Express/3554378",
+    "datetime": "2026-10-21T15:05:43+00:00",
+    "views": "8",
+    "text": "PHP：10 月 20 日前后向少数关键基础设施运营商提供的漏洞缓解建议也可能已经泄露。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554378"
+  },
+  {
+    "post": "Financial_Express/3554377",
+    "datetime": "2026-10-21T15:03:42+00:00",
+    "views": "49",
+    "text": "PHP：10 月 20 日两个漏洞的 CVE 编号在网上传播后，并未泄露任何技术细节。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554377"
+  },
+  {
     "post": "Financial_Express/3554376",
     "datetime": "2026-10-21T15:01:48+00:00",
-    "views": "2",
+    "views": "57",
     "text": "英特尔：美国亚利桑那州工厂即将竣工。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3554375",
     "datetime": "2026-10-21T15:01:42+00:00",
-    "views": "2",
+    "views": "57",
     "text": "苹果股价上涨逾 1%，创盘中新高。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +56,8 @@
   {
     "post": "Financial_Express/3554374",
     "datetime": "2026-10-21T15:01:29+00:00",
-    "views": "5",
-    "text": "羰基化反应是现代化工的基础反应，醋酸、香料、医药中间体等很多产品都依靠它生产。近日，中国科学院大连化学物理研究所刘中民院士团队实现无金属、无配体的分子筛催化烯烃羰基化新反应，相关成果 10 月 21 日在国际学术期刊《自然》发表。（央视）",
+    "views": "59",
+    "text": "羰基化反应是现代化工的基础反应，醋酸、香料、医药中间体等很多产品都依靠它生产。近日，中国科学院大连化学物理研究所刘中民院士团队实现无金属、无配体的分子筛催化烯烃羰基化新反应，相关成果 10 月 21 日在国际学术期刊《自然》发表。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3554374"
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3554373",
     "datetime": "2026-10-21T15:01:03+00:00",
-    "views": "9",
+    "views": "91",
     "text": "苹果涨超 1%，刷新日高。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3554372",
     "datetime": "2026-10-21T15:01:02+00:00",
-    "views": "10",
+    "views": "92",
     "text": "苹果(AAPL.O)涨超 1%，触及盘中高点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3554370",
     "datetime": "2026-10-21T15:00:43+00:00",
-    "views": "12",
+    "views": "93",
     "text": "英特尔(INTC.O)：位于美国亚利桑那州的 Fab 62 晶圆厂正在进行设备安装。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3554371",
     "datetime": "2026-10-21T15:00:43+00:00",
-    "views": "12",
+    "views": "93",
     "text": "英特尔在多年延误后工厂扩建取得进展。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3554368",
     "datetime": "2026-10-21T15:00:42+00:00",
-    "views": "12",
+    "views": "92",
     "text": "苯乙烯夜盘收涨约 2.1%，PVC 涨约 0.9%，焦炭涨约 0.1%。\nPTA 跌 0.3%，铁矿石跌 0.6%，LPG 跌 2.3%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3554369",
     "datetime": "2026-10-21T15:00:42+00:00",
-    "views": "12",
+    "views": "92",
     "text": "我国实现分子筛独自催化烯烃羰基化新反应\n金十数据 10 月 21 日讯，羰基化反应是现代化工的基础反应，醋酸、香料、医药中间体等很多产品都依靠它生产。近日，中国科学院大连化学物理研究所刘中民院士团队实现无金属、无配体的分子筛催化烯烃羰基化新反应，相关成果 10 月 21 日在国际学术期刊《自然》发表。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3554367",
     "datetime": "2026-10-21T15:00:24+00:00",
-    "views": "13",
+    "views": "93",
     "text": "英特尔在其俄亥俄州芯片基地安装首根大型屋顶桁架。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3554365",
     "datetime": "2026-10-21T15:00:23+00:00",
-    "views": "11",
+    "views": "59",
     "text": "夜盘期货收盘\n液化石油气连续跌 2.30%，苯乙烯连续涨 2.06%，纯碱连续跌 1.16%，玻璃连续跌 1.06%，PVC 连续涨 0.92%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3554366",
     "datetime": "2026-10-21T15:00:23+00:00",
-    "views": "13",
+    "views": "92",
     "text": "英特尔表示，亚利桑那州 Fab 62 工厂的设备安装工作正在进行中。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3554364",
     "datetime": "2026-10-21T14:59:42+00:00",
-    "views": "44",
+    "views": "91",
     "text": "PHP：北京时间 10 月 20 日 23 时左右，两个安全漏洞的 CVE 编号开始在网络论坛和社交媒体上传播。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3554363",
     "datetime": "2026-10-21T14:59:22+00:00",
-    "views": "44",
+    "views": "89",
     "text": "巴西总统卢拉提议将 27%的国会修正案资金用于零票价公共交通。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3554362",
     "datetime": "2026-10-21T14:59:02+00:00",
-    "views": "49",
+    "views": "92",
     "text": "联合国环境署：全球减排有成效但力度仍不足\n联合国环境规划署 21 日发布的《2026 年排放差距报告》显示，发展可再生能源和实施气候政策使各国在减排方面取得切实成效，但现行政策和减排承诺仍不足以实现《巴黎协定》提出的控温目标，各方需进一步加快行动。《巴黎协定》提出，到本世纪末，应将全球平均气温较工业化前水平升高幅度控制在 2 摄氏度之内，并为把升温幅度控制在 1.5 摄氏度内而努力。这份报告说，2016 年至 2025 年，全球有 63 个国家或地区的温室气体年排放量下降，同期有 90 个国家或地区电力行业排放下降。研究发现，2000 年至 2020 年间，各国或各相关行业发生过 69 次大幅减排，其中 63 次发生在新出台或强化气候相关政策的 2 年内。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3554361",
     "datetime": "2026-10-21T14:58:23+00:00",
-    "views": "51",
+    "views": "92",
     "text": "PHP：10 月 20 日周二约 15:00 UTC，两个 CVE 编号开始在网络论坛和社交媒体上流传。",
     "media_only": false,
     "image_url": null,
@@ -65401,50 +65437,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3546929"
-  },
-  {
-    "post": "Financial_Express/3546928",
-    "datetime": "2026-10-19T15:06:02+00:00",
-    "views": "128",
-    "text": "法国 10 年期国债收益率势将创 2025 年 3 月以来最大单日涨幅。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546928"
-  },
-  {
-    "post": "Financial_Express/3546927",
-    "datetime": "2026-10-19T15:05:02+00:00",
-    "views": "120",
-    "text": "美国总统特朗普与第一夫人梅拉尼娅·特朗普在玫瑰园活动中签署行政令。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546927"
-  },
-  {
-    "post": "Financial_Express/3546926",
-    "datetime": "2026-10-19T15:04:35+00:00",
-    "views": "118",
-    "text": "内盘期货夜市多数收跌，乙二醇夜盘收跌约 3.7%，合成橡胶跌约 2.5%，焦煤跌约 2.2%。\n纯碱夜盘收平，豆二、玻璃、豆粕、铁矿石至多收涨 0.37%，烧碱、玉米淀粉、菜油、纯苯、PVC 至多涨 0.91%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546926"
-  },
-  {
-    "post": "Financial_Express/3546925",
-    "datetime": "2026-10-19T15:04:22+00:00",
-    "views": "116",
-    "text": "英伟达：欧洲广播联盟与英伟达展开合作，拓展面向欧洲广播机构的主权框架。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546925"
-  },
-  {
-    "post": "Financial_Express/3546924",
-    "datetime": "2026-10-19T15:03:22+00:00",
-    "views": "113",
-    "text": "法国 10 年期国债收益率进一步走高，上升 16 个基点至 4.94%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546924"
   }
 ]
