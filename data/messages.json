@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3553957",
+    "datetime": "2026-10-21T12:40:02+00:00",
+    "views": "3",
+    "text": "上任仅数日 日本农林水产大臣连曝三起丑闻\n日本农林水产大臣武部新走马上任仅数日，便连续被曝出违规收受政治献金、举办“啤酒派对”、违规支付选举事务人员酬金三起丑闻。21 日，武部新就政治献金风波公开致歉，称将查明情况后采取相应措施。日本民众对内阁成员丑闻频出表示不满，质疑首相高市早苗的用人能力。（新华社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553957"
+  },
+  {
+    "post": "Financial_Express/3553955",
+    "datetime": "2026-10-21T12:39:43+00:00",
+    "views": "3",
+    "text": "日本经济产业省：将插电式混合动力汽车的最高补贴额度从 80 万日元下调至 48 万日元，燃料电池汽车的最高补贴额度从 145 万日元下调至 87 万日元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553955"
+  },
+  {
+    "post": "Financial_Express/3553956",
+    "datetime": "2026-10-21T12:39:43+00:00",
+    "views": "3",
+    "text": "巴克莱：将通用汽车目标价从 110 美元下调至 105 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553956"
+  },
+  {
+    "post": "Financial_Express/3553954",
+    "datetime": "2026-10-21T12:39:42+00:00",
+    "views": "3",
+    "text": "日本经济产业省：将轻型（Kei）电动汽车的最高补贴额度从 55 万日元下调至 44 万日元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553954"
+  },
+  {
+    "post": "Financial_Express/3553953",
+    "datetime": "2026-10-21T12:39:03+00:00",
+    "views": "8",
+    "text": "日本经济产业省表示，自 2027 年 1 月 1 日起，新注册电动汽车的最高补贴将从 125 万日元下调 40%至 75 万日元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553953"
+  },
+  {
+    "post": "Financial_Express/3553952",
+    "datetime": "2026-10-21T12:39:02+00:00",
+    "views": "8",
+    "text": "日本经济产业省：自 2027 年 1 月 1 日起，将新注册电动汽车的最高补贴额度从 125 万日元下调 40%至 75 万日元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553952"
+  },
+  {
+    "post": "Financial_Express/3553951",
+    "datetime": "2026-10-21T12:38:42+00:00",
+    "views": "8",
+    "text": "日本经济产业省表示，日本将把插电式混合动力汽车的最高补贴从 80 万日元下调至 48 万日元，燃料电池汽车的最高补贴从 145 万日元下调至 87 万日元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553951"
+  },
+  {
+    "post": "Financial_Express/3553950",
+    "datetime": "2026-10-21T12:38:22+00:00",
+    "views": "8",
+    "text": "OpenAI：微软仍是其主要云服务合作伙伴。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553950"
+  },
+  {
     "post": "Financial_Express/3553949",
     "datetime": "2026-10-21T12:37:42+00:00",
-    "views": "3",
+    "views": "40",
     "text": "中东石油出口回升至战前水平\n在截至 10 月 18 日的一周内，海湾产油国（不含伊朗）的石油出货量日均 2460 万桶，高于战前 2330 万桶的均值。这使得七天平均出口量达到 2 月中旬以来最高水平；就在 2 月中旬过后数日，美国和以色列对伊朗实施打击，引发战事，一度令这个全球最重要产油区的石油出口受阻。该数据波动幅度远大于战前，属于初步统计值，统计范围包含霍尔木兹海峡（战前该地区绝大多数出口原油都经由这里外运）、海峡外海域的船对船过驳作业，以及红海港口的原油外运量。数据同时显示，经由霍尔木兹海峡本身外运的原油量，依旧较战前水平减少逾三分之一。",
     "media_only": false,
     "image_url": null,
@@ -11,8 +83,8 @@
   {
     "post": "Financial_Express/3553948",
     "datetime": "2026-10-21T12:37:06+00:00",
-    "views": "6",
-    "text": "OpenAI：OpenAI 模型即将登陆谷歌云。\nOpenAI 将把前沿模型引入谷歌云 Model Garden。",
+    "views": "42",
+    "text": "OpenAI：OpenAI 模型即将登陆谷歌云。\nOpenAI 将把前沿模型引入谷歌云 Model Garden。\n微软仍是主要云合作伙伴。\n模型即将在谷歌 Antigravity 和 Gemini Agent 中提供。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3553948"
@@ -20,8 +92,8 @@
   {
     "post": "Financial_Express/3553947",
     "datetime": "2026-10-21T12:37:02+00:00",
-    "views": "6",
-    "text": "国风新材：拟发行股份及支付现金收购金张科技 58.33%股权，重组委拟近期审核\n国风新材公告，公司拟通过发行股份及支付现金方式向施克炜等 10 名交易对方购买金张科技 4626.38 万股股份，占金张科技库存股注销后总股本的 58.33%，并募集配套资金。深交所并购重组审核委员会拟于近期审核本次交易，具体会议时间待确定后另行公告；交易尚需深交所审核通过及中国证监会同意注册后方可实施。",
+    "views": "41",
+    "text": "国风新材：拟发行股份及支付现金收购金张科技 58.33%股权，重组委拟近期审核\n国风新材公告，公司拟通过发行股份及支付现金方式向施克炜等 10 名交易对方购买金张科技 4626.38 万股股份，占金张科技库存股注销后总股本的 58.33%，并募集配套资金。深交所并购重组审核委员会拟于近期审核本次交易，具体会议时间待确定后另行公告；交易尚需深交所审核通过及中国证监会同意注册后方可实施。\n❤1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3553947"
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3553946",
     "datetime": "2026-10-21T12:36:42+00:00",
-    "views": "7",
+    "views": "42",
     "text": "默克与英伟达、微软及 Dawn Health 合作，为罕见肿瘤患者开发新型支持模式。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3553945",
     "datetime": "2026-10-21T12:36:17+00:00",
-    "views": "11",
+    "views": "44",
     "text": "谷歌云与英伟达宣布，搭载英伟达 Vera Rubin NVL72 系统的 A5X 实例将于下月正式开放，计划进一步扩展至欧洲市场，为 AI 智能体推理和强化学习提供基础设施。谷歌云计划在多个站点部署多达 96 万块 Rubin GPU。伦敦人工智能公司 Ineffable Intelligence 已率先使用 A5X 平台，开展大规模强化学习研究。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3553944",
     "datetime": "2026-10-21T12:36:02+00:00",
-    "views": "43",
+    "views": "45",
     "text": "Clear Street：将 SpaceX 目标价从 217 美元上调至 248 美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3553943",
     "datetime": "2026-10-21T12:35:35+00:00",
-    "views": "44",
+    "views": "46",
     "text": "原油冲高回落，布伦特原油转跌，WTI 原油接近转跌。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3553942",
     "datetime": "2026-10-21T12:35:23+00:00",
-    "views": "44",
+    "views": "46",
     "text": "OPENAI：模型将在谷歌 Antigravity 和 Gemini Agent 中提供。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3553940",
     "datetime": "2026-10-21T12:35:22+00:00",
-    "views": "44",
+    "views": "45",
     "text": "OpenAI：前沿模型将通过谷歌云市场开放购买。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3553941",
     "datetime": "2026-10-21T12:35:22+00:00",
-    "views": "44",
+    "views": "46",
     "text": "多家国际投行下调奈飞目标价\n加通贝祥将奈飞目标价从 125 美元下调至 110 美元。韦德布什将目标价从 90 美元下调至 80 美元；奥本海默将目标价从 85 美元下调至 80 美元；巴克莱将目标价从 70 美元下调至 65 美元摩根士丹利将目标价从 80.00 美元下调至 77.00 美元；美银全球研究将目标价从 105.00 美元下调至 90.00 美元；高盛将目标价从 90 美元下调至 84 美元；摩根大通将目标价从 85 美元下调至 81 美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3553939",
     "datetime": "2026-10-21T12:35:02+00:00",
-    "views": "45",
+    "views": "46",
     "text": "OPENAI：与谷歌云合作，将前沿模型和 CODEX 引入谷歌云的模型花园。前沿模型将可通过谷歌云市场购买。",
     "media_only": false,
     "image_url": null,
@@ -65059,68 +65131,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3546583"
-  },
-  {
-    "post": "Financial_Express/3546582",
-    "datetime": "2026-10-19T12:39:44+00:00",
-    "views": "46",
-    "text": "特朗普政府幕僚准备对拖欠助学贷款借款人采取惩戒措施\n据五位知情人士透露，特朗普政府官员准备于明年对数百万拖欠联邦助学贷款的美国人施加财务处罚。 其中三名消息人士称，财政部正推进计划，最早可能于 11 月聘请民间债务催收机构。消息人士表示，相关方案不大可能在中期选举前对外公布。 这项此前未曾报道的筹备工作表明，政府准备落地一项此前搁置的政策。此前搁置，是担心该政策会对近 1000 万违约借款人造成冲击。 政府内部各联邦机构，对于如何管理这笔规模 1.7 万亿美元的助学贷款资产组合，一直存在分歧。消息人士称，去年白宫管理与预算办公室曾协助教育部，准备扣押违约借款人的联邦福利与工资；但财政部官员叫停了这项工作，理由是对劳动者采取惩戒措施会带来经济成本。白宫管理与预算办公室和财政部拒绝置评。教育部在一份声明中称：“我们不会回应这类试探性问询。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546582"
-  },
-  {
-    "post": "Financial_Express/3546580",
-    "datetime": "2026-10-19T12:39:43+00:00",
-    "views": "40",
-    "text": "美国白宫国家经济委员会主任哈塞特：旅游和机票支出是经济的好兆头。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546580"
-  },
-  {
-    "post": "Financial_Express/3546581",
-    "datetime": "2026-10-19T12:39:43+00:00",
-    "views": "40",
-    "text": "美国白宫国家经济委员会主任哈塞特认为，旅游和机票消费是经济好兆头。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546581"
-  },
-  {
-    "post": "Financial_Express/3546579",
-    "datetime": "2026-10-19T12:39:42+00:00",
-    "views": "37",
-    "text": "美国白宫国家经济委员会主任哈塞特：非必需的休闲旅行支出表明人们对自身经济状况感觉良好。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546579"
-  },
-  {
-    "post": "Financial_Express/3546578",
-    "datetime": "2026-10-19T12:39:22+00:00",
-    "views": "35",
-    "text": "美国白宫国家经济委员会主任哈塞特：非必要旅行表明人们感觉良好。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546578"
-  },
-  {
-    "post": "Financial_Express/3546577",
-    "datetime": "2026-10-19T12:39:02+00:00",
-    "views": "32",
-    "text": "伊朗外长阿拉格齐迎接俄罗斯外长拉夫罗夫。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546577"
-  },
-  {
-    "post": "Financial_Express/3546576",
-    "datetime": "2026-10-19T12:38:59+00:00",
-    "views": "29",
-    "text": "白宫国家经济委员会主任哈塞特：通胀似乎又回来了，需要做一些工作。\n非必需旅行表明人们感觉良好。\n旅游和机票支出是经济向好信号。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546576"
   }
 ]
