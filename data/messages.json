@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3553474",
+    "datetime": "2026-10-21T10:37:43+00:00",
+    "views": "4",
+    "text": "VERIZON 股价盘前下跌 2.1%，T-MOBILE US 股价下跌 1.4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553474"
+  },
+  {
+    "post": "Financial_Express/3553472",
+    "datetime": "2026-10-21T10:37:42+00:00",
+    "views": "4",
+    "text": "上交所召开首批主动 ETF 市场动员会。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553472"
+  },
+  {
+    "post": "Financial_Express/3553473",
+    "datetime": "2026-10-21T10:37:42+00:00",
+    "views": "4",
+    "text": "英伟达：正与安靠科技、揖斐电、京元电子、三星电机、矽品精密及欣兴电子展开合作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553473"
+  },
+  {
+    "post": "Financial_Express/3553471",
+    "datetime": "2026-10-21T10:37:22+00:00",
+    "views": "5",
+    "text": "英伟达：京元电子将在美国新建生产设施，英伟达提供 11 亿美元产能预订预付款支持。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553471"
+  },
+  {
+    "post": "Financial_Express/3553470",
+    "datetime": "2026-10-21T10:36:43+00:00",
+    "views": "6",
+    "text": "英伟达联合多家供应链伙伴扩产，夯实 AI 全栈算力平台产能\n英伟达今日宣布，将联合一批供应链合作伙伴扩大全球制造产能，以满足其加速计算与全栈 AI 工厂平台持续增长的需求。英伟达将与安靠科技（Amkor Technology）、揖斐电（IBIDEN）、景硕科技（King Yuan Electronics，KYEC）、三星电机（Samsung Electro-Mechanics）、矽品精密（SPIL）以及欣兴电子（Unimicron）合作，推动新老供应商扩充基板、先进封装、测试以及光引擎等关键环节制造能力，提升英伟达全球供应链的韧性与冗余备份能力。英伟达创始人兼首席执行官黄仁勋表示：“我们正处在人类历史上规模最大的基础设施建设浪潮当中，需求极其旺盛，而产能是当前的瓶颈。我们的供应链伙伴都是全球顶尖制造企业。感谢他们在全球各地扩产，助力我们提升产能，交付支撑这场新工业革命的 AI 超算系统。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553470"
+  },
+  {
+    "post": "Financial_Express/3553469",
+    "datetime": "2026-10-21T10:36:42+00:00",
+    "views": "6",
+    "text": "英伟达(NVDA.O)表示，Amkor 计划到 2028 年底将先进封装产能提高逾 300%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553469"
+  },
+  {
+    "post": "Financial_Express/3553468",
+    "datetime": "2026-10-21T10:36:02+00:00",
+    "views": "9",
+    "text": "AT&T 股价在第三季度财报公布后盘前下跌 4.2%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553468"
+  },
+  {
     "post": "Financial_Express/3553467",
     "datetime": "2026-10-21T10:35:43+00:00",
-    "views": "3",
+    "views": "41",
     "text": "惠誉评级：巴西经济因实际利率高企而放缓。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3553466",
     "datetime": "2026-10-21T10:35:38+00:00",
-    "views": "3",
+    "views": "41",
     "text": "英伟达将在未来 3 年提升基板产能。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3553465",
     "datetime": "2026-10-21T10:35:23+00:00",
-    "views": "3",
+    "views": "11",
     "text": "土耳其、卡塔尔、印度尼西亚和巴基斯坦签署防务合作谅解备忘录。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3553464",
     "datetime": "2026-10-21T10:35:22+00:00",
-    "views": "3",
+    "views": "10",
     "text": "英伟达公司将于 2027 年 2 月在新加坡启动大规模试生产。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3553463",
     "datetime": "2026-10-21T10:35:03+00:00",
-    "views": "5",
+    "views": "41",
     "text": "英伟达公司计划在 2026 年至 2027 年将半导体测试能力提升一倍。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3553461",
     "datetime": "2026-10-21T10:35:02+00:00",
-    "views": "5",
+    "views": "40",
     "text": "美国特使威特科夫对俄罗斯总统普京表示：您经常称赞我的总统特朗普具有人道主义精神。先生，您同样具有人道主义精神，我对此表示敬意。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3553462",
     "datetime": "2026-10-21T10:35:02+00:00",
-    "views": "5",
+    "views": "40",
     "text": "伊朗外长阿拉格齐：伊朗打算履行霍尔木兹海峡守护者的角色。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3553460",
     "datetime": "2026-10-21T10:34:52+00:00",
-    "views": "6",
+    "views": "41",
     "text": "英伟达将向京元电子（KYEC）支付 11 亿美元产能预留预付款。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3553458",
     "datetime": "2026-10-21T10:34:42+00:00",
-    "views": "6",
+    "views": "40",
     "text": "英伟达公司： KYEC 将利用英伟达提供的 11 亿美元预付款在美国建设新设施。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3553459",
     "datetime": "2026-10-21T10:34:42+00:00",
-    "views": "6",
+    "views": "40",
     "text": "英伟达公司： 计划在未来三年内将基板产能提高 2.5 倍。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3553457",
     "datetime": "2026-10-21T10:34:22+00:00",
-    "views": "7",
+    "views": "41",
     "text": "英伟达公司：到 2028 年底，安靠将把先进封装产能提高 300%以上。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3553455",
     "datetime": "2026-10-21T10:34:04+00:00",
-    "views": "38",
+    "views": "41",
     "text": "英伟达与供应链合作伙伴扩大产能，以加快人工智能基础设施的建设。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3553456",
     "datetime": "2026-10-21T10:34:04+00:00",
-    "views": "38",
+    "views": "41",
     "text": "英伟达及其供应链合作伙伴扩大产能，以加快人工智能基础设施建设。",
     "media_only": false,
     "image_url": null,
@@ -64546,68 +64609,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3546159"
-  },
-  {
-    "post": "Financial_Express/3546158",
-    "datetime": "2026-10-19T10:38:42+00:00",
-    "views": "9",
-    "text": "星巴克将实施“消费才可入座”规则？星巴克中国：不属实\n近日有网友在社交媒体发帖称，星巴克将实施“消费才可入座”的规则，并表示新规将于 10 月 20 日实施。对此，星巴克中国方面回应称：不属实。 2025 年 11 月，星巴克官宣与博裕投资达成战略合作，双方将成立合资企业共同运营星巴克在中国市场的零售业务。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546158"
-  },
-  {
-    "post": "Financial_Express/3546157",
-    "datetime": "2026-10-19T10:38:22+00:00",
-    "views": "8",
-    "text": "峰岹科技：上海华芯减持计划完成，累计减持 3%\n峰岹科技公告，持股 5%以上股东上海华芯创业投资合伙企业（有限合伙）此前计划减持不超过 3%股份。2026 年 9 月 9 日至 2026 年 10 月 16 日，上海华芯通过集中竞价减持 148.23 万股，变动后持股比例为 6.71%，权益变动触及 1%刻度。本次减持计划期间累计减持 345.34 万股，占公司总股本的 3%，减持计划已实施完毕。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546157"
-  },
-  {
-    "post": "Financial_Express/3546156",
-    "datetime": "2026-10-19T10:37:50+00:00",
-    "views": "8",
-    "text": "峰岹科技公告，持股 5%以上非第一大股东上海华芯创业投资合伙企业（有限合伙）减持计划已实施完毕。2026 年 8 月 18 日至 10 月 16 日期间，上海华芯通过集中竞价及大宗交易方式累计减持公司股份 345.34 万股，占公司总股本的 3%，减持价格区间为 149.31 元/股至 202.00 元/股，减持总金额 6.25 亿元。本次减持后，上海华芯持有公司股份 772.69 万股，持股比例为 6.7123%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546156"
-  },
-  {
-    "post": "Financial_Express/3546154",
-    "datetime": "2026-10-19T10:37:03+00:00",
-    "views": "39",
-    "text": "国际铅锌研究小组（ILZSG）：2026 年全球精炼锌金属需求将超过供应，预计赤字规模为 8.8 万吨，2027 年预计出现 2.5 万吨的盈余。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546154"
-  },
-  {
-    "post": "Financial_Express/3546155",
-    "datetime": "2026-10-19T10:37:03+00:00",
-    "views": "39",
-    "text": "法国总理：从周二起，受影响的企业可申请临时休假措施。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546155"
-  },
-  {
-    "post": "Financial_Express/3546152",
-    "datetime": "2026-10-19T10:37:02+00:00",
-    "views": "9",
-    "text": "金达威：公司股票 2026 年 10 月 15 日、10 月 16 日、10 月 19 日连续三个交易日收盘价涨幅偏离值累计超 20%；截至目前，公司“10 万吨藻油 Omega-3 项目”正在分批分步推进中。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546152"
-  },
-  {
-    "post": "Financial_Express/3546153",
-    "datetime": "2026-10-19T10:37:02+00:00",
-    "views": "6",
-    "text": "担忧供应过剩 印度国家矿业公司暂停镍矿投资计划\n金十数据 10 月 19 日讯，据两位公司官员透露，印度国家矿业开发公司（NMDC）已暂停其进军镍行业的计划，部分原因在于对印尼镍供应过剩的担忧——该国镍产量占全球总产量的 60%以上。此前有报道称，印度国有企业印度钢铁管理局和 NMDC 正考虑增加从俄罗斯进口的镍供应，并收购炼焦煤资产。2023 年，印度将镍列为关键矿产，目前主要依赖进口以满足需求。NMDC 的一位高级官员表示：“鉴于印尼目前存在供过于求的情况，我们暂时搁置了镍矿投资计划。”官员还表示，尽管多次发出邀请，NMDC 仍未能与俄罗斯诺里尔斯克镍公司安排会晤。该人士称，虽然 NMDC 有意收购俄罗斯的镍资产并确保供应，但并未说明希望与诺里尔斯克镍公司会晤的具体原因。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546153"
   }
 ]
