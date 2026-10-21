@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3554689",
+    "datetime": "2026-10-21T19:11:22+00:00",
+    "views": "2",
+    "text": "微软：Storm-0940 利用 OAuth 应用程序，通过 Microsoft Graph 访问并窃取邮件及其他数据。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554689"
+  },
+  {
+    "post": "Financial_Express/3554688",
+    "datetime": "2026-10-21T19:10:32+00:00",
+    "views": "3",
+    "text": "周三（10 月 21 日）纽约尾盘，ICE 美元指数涨 0.07%，报 101.765 点，北京时间 03:00 前后短线拉升，日内交投区间为 101.637-101.837 点，北京时间 18:00 以来呈现出 W 形反转行情。\n彭博美元指数涨 0.11%，报 1221.82 点，03:03 刷新日高至 1222.66 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554688"
+  },
+  {
+    "post": "Financial_Express/3554687",
+    "datetime": "2026-10-21T19:09:55+00:00",
+    "views": "3",
+    "text": "微软：2026 年 9 月，黑客组织 Storm-0940 使用人工智能框架 Artex 对全球数百家组织发起自动化攻击。\nStorm-0940 Artex 驱动的攻击在多个实例中不到 3 小时就获得了特权云访问权限。\n评估认为，Storm-0940 是最近披露的多租户应用程序 Connectwise 供应链攻击事件的幕后黑手。\nStorm-0940“密码喷洒攻击行动”在 10 月 10 日至 14 日期间，针对 8 家机构的 327 个账号发起攻击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554687"
+  },
+  {
     "post": "Financial_Express/3554686",
     "datetime": "2026-10-21T19:09:42+00:00",
-    "views": "1",
+    "views": "3",
     "text": "微软：在多家客户环境中监测到 Storm-0940 身份验证活动，暂未确认发生数据访问。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3554685",
     "datetime": "2026-10-21T19:09:22+00:00",
-    "views": "2",
+    "views": "4",
     "text": "微软：Storm-0940“密码喷洒攻击行动”在 10 月 10 日至 14 日期间，针对 8 家机构的 327 个账号发起攻击。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3554684",
     "datetime": "2026-10-21T19:08:23+00:00",
-    "views": "2",
+    "views": "4",
     "text": "微软：评估认为，Storm-0940 是最近披露的多租户应用程序 Connectwise 供应链攻击事件的幕后黑手。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3554682",
     "datetime": "2026-10-21T19:08:22+00:00",
-    "views": "2",
+    "views": "3",
     "text": "微软：2026 年 9 月，黑客组织 Storm-0940 使用人工智能框架 Artex 对全球数百家组织发起自动化攻击。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3554683",
     "datetime": "2026-10-21T19:08:22+00:00",
-    "views": "2",
+    "views": "3",
     "text": "微软：Storm-0940 Artex 驱动的攻击在多个实例中不到 3 小时就获得了特权云访问权限。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3554681",
     "datetime": "2026-10-21T19:07:22+00:00",
-    "views": "4",
+    "views": "35",
     "text": "美国准备下令撤离驻海湾多国使馆部分工作人员\n美国官员称，美国国务院准备发布指令，安排驻海湾地区各国大使馆的部分人员及其家属撤离。此举原因是敌对行动可能再度爆发，尤其是与也门境内亲伊朗胡塞武装之间的冲突。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3554680",
     "datetime": "2026-10-21T19:06:49+00:00",
-    "views": "4",
+    "views": "35",
     "text": "无人机打击沙特阿美油田，造成两人死亡。（沙特官方媒体 SPA）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3554679",
     "datetime": "2026-10-21T19:05:43+00:00",
-    "views": "37",
+    "views": "38",
     "text": "美国司法部长布兰奇：Meta 与 X 在网络犯罪方面向执法部门提供了协助。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3554678",
     "datetime": "2026-10-21T19:05:42+00:00",
-    "views": "37",
+    "views": "38",
     "text": "沙特能源部：沙特阿拉伯谢巴（Shaybah）油田遭袭事件造成两人死亡。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3554677",
     "datetime": "2026-10-21T19:05:04+00:00",
-    "views": "38",
+    "views": "39",
     "text": "美元现货指数上涨 0.2%，创盘中新高。",
     "media_only": false,
     "image_url": null,
@@ -66085,23 +66112,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3547196"
-  },
-  {
-    "post": "Financial_Express/3547195",
-    "datetime": "2026-10-19T19:12:42+00:00",
-    "views": "41",
-    "text": "伊朗外交部建议公民避免前往法国等国\n伊朗外交部建议公民避免前往法国、比利时和意大利的非必要旅行，理由是这三国的动荡局势加剧、公共秩序受到扰乱。该部在周一的一份声明中还敦促已在上述国家的伊朗人避开骚乱和冲突区域，减少不必要的出行，并在出行前查看安全状况和公共交通的最新信息。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3547195"
-  },
-  {
-    "post": "Financial_Express/3547194",
-    "datetime": "2026-10-19T19:12:22+00:00",
-    "views": "40",
-    "text": "大批日本民众在国会前抗议 反对扩军修宪\n当地时间 19 日晚上，大批日本民众在日本国会前举行抗议集会，反对日本政府扩军修宪动向。集会参加者表示，不希望看到日本再度成为发动战争的一方，呼吁政府维护和平宪法，重视外交沟通。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3547194"
   }
 ]
