@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3553780",
+    "datetime": "2026-10-21T11:39:43+00:00",
+    "views": "13",
+    "text": "鲁比奥：如果不是美国的援助，包括美国总统特朗普政府时期的援助，乌克兰现在就不会存在。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553780"
+  },
+  {
+    "post": "Financial_Express/3553779",
+    "datetime": "2026-10-21T11:39:23+00:00",
+    "views": "12",
+    "text": "三星电机已与英伟达签署具有约束力的多年供应协议，为 AI 处理器和高速网络交换机提供 ABF 封装基板，自 2026 年开始交付。（彭博）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553779"
+  },
+  {
+    "post": "Financial_Express/3553776",
+    "datetime": "2026-10-21T11:38:43+00:00",
+    "views": "11",
+    "text": "三星电机将向英伟达供应 ABF 载板，签署多年供货协议\n三星电机已与英伟达签订具备约束力的多年供货协议，为 AI 处理器与高速网络交换机提供 ABF 封装载板，自 2026 年起开始交付。三星电机负责提供 FC‑BGA 产能以及多层陶瓷电容（MLCC）技术积累；英伟达则锁定需求并投入联合投资资金。双方将共同出资，在韩国世宗、釜山建设专属生产线。协议期内，供给英伟达的载板出货量预计将保持两位数的年均增速。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553776"
+  },
+  {
+    "post": "Financial_Express/3553777",
+    "datetime": "2026-10-21T11:38:43+00:00",
+    "views": "13",
+    "text": "华硕准备出货搭载英伟达 HGX Rubin NVL8 的服务器系统\n华硕今日宣布，基于英伟达 HGX Rubin NVL8 打造的全新华硕服务器系统将于 2026 年第四季度正式上市，提供半机架与整机架两种配置。产品阵容包含 3U 混合散热机型 XR R1I12B‑M1BHFS，以及 2U 全液冷机型 XR R1I12B‑M1BLFS，面向海量 AI 推理等负载，提供灵活的高性能算力平台。 在 2026 柏林 GTC 大会上，华硕（3039 号展位）展出上述服务器，同时完整展示基于英伟达 Grace‑Blackwell 架构的全套解决方案：包括用于 AI 模型微调、原型开发与推理的华硕 Ascent GX10；面向高要求 AI 开发与大模型训练的 ExpertCenter Pro ET900N G3。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553777"
+  },
+  {
+    "post": "Financial_Express/3553778",
+    "datetime": "2026-10-21T11:38:43+00:00",
+    "views": "13",
+    "text": "上交所：对南威软件及有关责任人予以监管警示\n上交所 10 月 21 日公告，南威软件股份有限公司接受媒体采访、上证 e 互动平台回复内容未能准确反映公司 AI 短剧、智算中心等业务的实际开展情况、发展规划的测算依据，未就未来发展存在的不确定性等情况充分提示风险，经监管督促才披露相关公告予以说明，相关信息发布不准确、不完整，风险提示不充分，可能对投资者决策产生误导。上海证券交易所上市公司管理一部决定对南威软件股份有限公司及时任董事会秘书张媛予以监管警示。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553778"
+  },
+  {
+    "post": "Financial_Express/3553775",
+    "datetime": "2026-10-21T11:38:42+00:00",
+    "views": "7",
+    "text": "光启技术：拟以 3.42 亿元增资光启尖端\n光启技术公告，公司拟使用募集资金人民币 3.42 亿元对全资子公司深圳光启尖端技术有限责任公司增资，全部计入资本公积，不增加其注册资本；该事项已获第六届董事会第四次会议审议通过，无需提交股东会审议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553775"
+  },
+  {
     "post": "Financial_Express/3553774",
     "datetime": "2026-10-21T11:38:22+00:00",
-    "views": "2",
+    "views": "6",
     "text": "Armada 与江森自控达成协议，共建超级智能工厂。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3553773",
     "datetime": "2026-10-21T11:38:03+00:00",
-    "views": "2",
+    "views": "6",
     "text": "泰尔股份：工业机器人相关业务收入占比 3.82%\n泰尔股份公告，2026 年 10 月 20 日、10 月 21 日连续 2 个交易日收盘价格涨幅偏离值累计超过 20%。近期市场对工业机器人概念关注度较高，公司主营冶金装备的研发、生产和销售未变；2026 年上半年工业机器人相关业务收入 2172.52 万元，占整体营业收入 3.82%，对整体经营业绩影响较小。截至 2026 年 10 月 21 日，公司市净率 3.36，高于行业最新市净率 3.19；2026 年上半年归母净利润亏损 1975.68 万元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3553772",
     "datetime": "2026-10-21T11:38:02+00:00",
-    "views": "2",
+    "views": "6",
     "text": "IREN 计划在西班牙建设一座 300 兆瓦的人工智能数据中心园区，目标于 2028 年投入运营。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3553771",
     "datetime": "2026-10-21T11:37:22+00:00",
-    "views": "2",
+    "views": "6",
     "text": "IREN 将通过 300 兆瓦的西班牙园区推进欧洲主权人工智能计划。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3553770",
     "datetime": "2026-10-21T11:36:58+00:00",
-    "views": "2",
+    "views": "6",
     "text": "诺基亚与英伟达正通过一个面向跨域网络自主化的主权代理式 AI 平台深化合作，将英伟达 AI Enterprise 软件和 Nemotron 模型集成到诺基亚面向电信运营商的代理式平台中。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3553768",
     "datetime": "2026-10-21T11:36:43+00:00",
-    "views": "4",
+    "views": "6",
     "text": "荷兰网络安全局表示，由于 PHP 存在漏洞，其网站将暂时下线。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3553769",
     "datetime": "2026-10-21T11:36:43+00:00",
-    "views": "4",
+    "views": "6",
     "text": "杉杉股份：提请股东会批准海螺集团免于发出要约，3 年不转让\n杉杉股份公告，公司拟向特定对象发行 A 股股票，发行对象为间接控股股东海螺集团。公司董事会已审议通过提请股东会批准海螺集团免于发出要约的议案；海螺集团承诺认购股份自本次发行结束之日起 3 年内不转让，相关议案尚需股东会审议。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3553767",
     "datetime": "2026-10-21T11:36:42+00:00",
-    "views": "4",
+    "views": "6",
     "text": "NextEra Energy 第三季度调整后每股收益 1.24 美元，预期 1.20 美元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3553766",
     "datetime": "2026-10-21T11:36:23+00:00",
-    "views": "4",
+    "views": "5",
     "text": "Soluna 与 Applied Digital 将开发风电驱动的人工智能数据中心。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3553765",
     "datetime": "2026-10-21T11:36:22+00:00",
-    "views": "4",
+    "views": "5",
     "text": "华硕准备出货 NVIDIA HGX Rubin NVL8 系统。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3553764",
     "datetime": "2026-10-21T11:36:04+00:00",
-    "views": "4",
+    "views": "5",
     "text": "超微电脑与诺基亚合作，将 NVIDIA Aerial RAN 计算机解决方案引入网络边缘，以实现低延迟 AI 服务。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3553762",
     "datetime": "2026-10-21T11:36:03+00:00",
-    "views": "4",
+    "views": "5",
     "text": "土耳其、卡塔尔、巴基斯坦和印尼签署防务合作谅解备忘录\n当地时间 10 月 21 日，土耳其、卡塔尔、巴基斯坦和印度尼西亚在卡塔尔首都多哈签署多边防务合作谅解备忘录。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3553763",
     "datetime": "2026-10-21T11:36:03+00:00",
-    "views": "4",
+    "views": "5",
     "text": "BBVA 计划与英伟达合作，探索 OPENSHELL 参考架构的潜力。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3553761",
     "datetime": "2026-10-21T11:35:43+00:00",
-    "views": "5",
+    "views": "6",
     "text": "安靠科技公司：新达成的 13 亿美元协议将支持公司在韩国的进一步扩张，这是在公司近期与亚利桑那州合作的基础上进行的。",
     "media_only": false,
     "image_url": null,
@@ -65311,68 +65365,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3546381"
-  },
-  {
-    "post": "Financial_Express/3546380",
-    "datetime": "2026-10-19T11:40:43+00:00",
-    "views": "38",
-    "text": "南非主要股指下跌 1%，至 109,821.80 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546380"
-  },
-  {
-    "post": "Financial_Express/3546379",
-    "datetime": "2026-10-19T11:40:42+00:00",
-    "views": "38",
-    "text": "东吴财险：选举李伟为公司第一届董事会董事长\n东吴财险近日发布消息称，公司召开第一届第十二次董事会，会议选举李伟为公司第一届董事会董事长，待监管机构核准其任职资格后正式履职。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546379"
-  },
-  {
-    "post": "Financial_Express/3546378",
-    "datetime": "2026-10-19T11:40:22+00:00",
-    "views": "39",
-    "text": "COREWEAVE 股价盘前交易中飙升 6.3%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546378"
-  },
-  {
-    "post": "Financial_Express/3546377",
-    "datetime": "2026-10-19T11:39:42+00:00",
-    "views": "40",
-    "text": "匈牙利总理发表预算演讲之际，福林兑欧元继续走强。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546377"
-  },
-  {
-    "post": "Financial_Express/3546376",
-    "datetime": "2026-10-19T11:39:22+00:00",
-    "views": "41",
-    "text": "霍尔木兹海峡漂满 iPhone 是假的\n近日，社交媒体上流传着多段“霍尔木兹海峡上货轮沉没，集装箱货物散落，海面飘满苹果手机”的视频。但据伊朗事实核查网站发布的核查，相关视频和图片是基于新加坡货轮沉没时的真实图像、用人工智能（AI）加工生成的。视频中的手机包装盒在水中的运动轨迹、包装盒上的摄像头画面有误等多种迹象都显示，视频并非真实画面。据了解，原视频在发布时本来标注了“由人工智能生成”的标签，但在传播时却被误认为是真实画面。新加坡海事及港务管理局 10 月 14 日晚曾发表声明说，两艘在新加坡注册的集装箱船据报在通过霍尔木兹海峡时被“不明投射物”击中，其中一艘随后沉没。截至目前，沉没的新加坡货轮并未公布完整货物清单，并不清楚船上是否装载大量苹果手机。（CCTV 国际时讯）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546376"
-  },
-  {
-    "post": "Financial_Express/3546375",
-    "datetime": "2026-10-19T11:39:03+00:00",
-    "views": "42",
-    "text": "智界拟获独立生产资质！产线不变，奇瑞内部人士：未来是否单独上市尚未确定\n日前，工信部公示的《道路机动车辆生产企业及产品公告》（第 412 批）拟发布的新准入车辆生产企业及已准入企业变更信息清单显示，安徽智界新能源汽车有限公司（以下简称智界）被列入 “拟发布新准入车辆生产企业”清单，生产地址为安徽省芜湖市经济技术开发区皖江大道 8 号，公示期为 10 月 16 日至 10 月 23 日，若公示无异议，智界将正式获得独立生产资质，有望成为鸿蒙智行之下首个获得整车生产准入资质的品牌。智界内部人士向记者表示，上述信息确实在进行公示，“但目前对于实际的工作暂无影响，而且之前这一工厂也一直是智界在使用，工厂产线其实没有变化”。对于网络上所传的车尾厂商标识也将由奇瑞改为智界，以及智界后续将寻求独立上市等消息，上述内部人士进行了否认，其表示：“现在（我们）还在等待批示，后续这些事情暂时没有任何消息，一切以官方公告为准。”另有奇瑞汽车内部人士也向记者表示，智界未来计划独立上市的可能性并不高，不过目前一切尚未确定。（每经）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546375"
-  },
-  {
-    "post": "Financial_Express/3546374",
-    "datetime": "2026-10-19T11:39:02+00:00",
-    "views": "39",
-    "text": "福日电子：2026 年第三季度净利润亏损 897.87 万元，同比由盈转亏\n福日电子公告，2026 年第三季度营业收入 39.47 亿元，同比下降 1.50%；净利润亏损 897.87 万元，同比由盈转亏；扣非净利润 846.27 万元，同比下降 86.25%。2026 年前三季度营业收入 118.71 亿元，同比增长 27.09%；净利润 7437.11 万元，同比下降 14.87%；扣非净利润 2370.58 万元，同比下降 62.57%。第三季度净利润下降主要受合营、联营企业投资收益下降、期间费用增加及毛利下降影响。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546374"
   }
 ]
