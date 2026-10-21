@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3554381",
+    "datetime": "2026-10-21T15:07:16+00:00",
+    "views": "13",
+    "text": "腾讯云发布 PHP “php2shell” 远程代码执行漏洞风险通告\n腾讯云安全中心监测到，PHP 被披露其存在远程代码执行漏洞，漏洞编号分别为 CVE-2026-109618, CVE-2026-109619，代号 “php2shell”。可导致未经身份验证的远程攻击者通过发送特制的 multipart POST 请求，触发内存破坏并最终实现远程代码执行，从而完全控制服务器等危害。腾讯云安全建议您及时开展安全自查，如在受影响范围，请您及时进行更新修复，避免被外部攻击者入侵。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554381"
+  },
+  {
     "post": "Financial_Express/3554380",
     "datetime": "2026-10-21T15:06:22+00:00",
-    "views": "2",
+    "views": "18",
     "text": "腾讯云发布 PHP \"php2shell\" 远程代码执行漏洞风险通告\n金十数据 10 月 21 日讯，腾讯云安全中心监测到，PHP 被披露其存在远程代码执行漏洞，漏洞编号分别为 CVE-2026-109618, CVE-2026-109619，代号 \"php2shell\"。可导致未经身份验证的远程攻击者通过发送特制的 multipart POST 请求，触发内存破坏并最终实现远程代码执行，从而完全控制服务器等危害。腾讯云安全建议您及时开展安全自查，如在受影响范围，请您及时进行更新修复，避免被外部攻击者入侵。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3554379",
     "datetime": "2026-10-21T15:06:02+00:00",
-    "views": "4",
+    "views": "48",
     "text": "据知情人士透露，SGB-SMIT MidCo GmbH 为其法兰克福 IPO 新增五家（承销）银行。\n该公司为其股票发行接触瑞银集团、裕信银行、Berenberg、LBBW、RBI。\n该公司 IPO 将由高盛、摩根大通、摩根士丹利牵头，估值大约 40 亿欧元。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3554378",
     "datetime": "2026-10-21T15:05:43+00:00",
-    "views": "8",
+    "views": "49",
     "text": "PHP：10 月 20 日前后向少数关键基础设施运营商提供的漏洞缓解建议也可能已经泄露。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3554377",
     "datetime": "2026-10-21T15:03:42+00:00",
-    "views": "49",
+    "views": "58",
     "text": "PHP：10 月 20 日两个漏洞的 CVE 编号在网上传播后，并未泄露任何技术细节。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3554376",
     "datetime": "2026-10-21T15:01:48+00:00",
-    "views": "57",
+    "views": "94",
     "text": "英特尔：美国亚利桑那州工厂即将竣工。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3554375",
     "datetime": "2026-10-21T15:01:42+00:00",
-    "views": "57",
+    "views": "94",
     "text": "苹果股价上涨逾 1%，创盘中新高。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3554374",
     "datetime": "2026-10-21T15:01:29+00:00",
-    "views": "59",
+    "views": "95",
     "text": "羰基化反应是现代化工的基础反应，醋酸、香料、医药中间体等很多产品都依靠它生产。近日，中国科学院大连化学物理研究所刘中民院士团队实现无金属、无配体的分子筛催化烯烃羰基化新反应，相关成果 10 月 21 日在国际学术期刊《自然》发表。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3554373",
     "datetime": "2026-10-21T15:01:03+00:00",
-    "views": "91",
+    "views": "96",
     "text": "苹果涨超 1%，刷新日高。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3554372",
     "datetime": "2026-10-21T15:01:02+00:00",
-    "views": "92",
+    "views": "97",
     "text": "苹果(AAPL.O)涨超 1%，触及盘中高点。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3554370",
     "datetime": "2026-10-21T15:00:43+00:00",
-    "views": "93",
+    "views": "97",
     "text": "英特尔(INTC.O)：位于美国亚利桑那州的 Fab 62 晶圆厂正在进行设备安装。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3554371",
     "datetime": "2026-10-21T15:00:43+00:00",
-    "views": "93",
+    "views": "98",
     "text": "英特尔在多年延误后工厂扩建取得进展。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3554368",
     "datetime": "2026-10-21T15:00:42+00:00",
-    "views": "92",
+    "views": "94",
     "text": "苯乙烯夜盘收涨约 2.1%，PVC 涨约 0.9%，焦炭涨约 0.1%。\nPTA 跌 0.3%，铁矿石跌 0.6%，LPG 跌 2.3%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3554369",
     "datetime": "2026-10-21T15:00:42+00:00",
-    "views": "92",
+    "views": "96",
     "text": "我国实现分子筛独自催化烯烃羰基化新反应\n金十数据 10 月 21 日讯，羰基化反应是现代化工的基础反应，醋酸、香料、医药中间体等很多产品都依靠它生产。近日，中国科学院大连化学物理研究所刘中民院士团队实现无金属、无配体的分子筛催化烯烃羰基化新反应，相关成果 10 月 21 日在国际学术期刊《自然》发表。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3554367",
     "datetime": "2026-10-21T15:00:24+00:00",
-    "views": "93",
+    "views": "95",
     "text": "英特尔在其俄亥俄州芯片基地安装首根大型屋顶桁架。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3554365",
     "datetime": "2026-10-21T15:00:23+00:00",
-    "views": "59",
+    "views": "91",
     "text": "夜盘期货收盘\n液化石油气连续跌 2.30%，苯乙烯连续涨 2.06%，纯碱连续跌 1.16%，玻璃连续跌 1.06%，PVC 连续涨 0.92%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3554366",
     "datetime": "2026-10-21T15:00:23+00:00",
-    "views": "92",
+    "views": "94",
     "text": "英特尔表示，亚利桑那州 Fab 62 工厂的设备安装工作正在进行中。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3554364",
     "datetime": "2026-10-21T14:59:42+00:00",
-    "views": "91",
+    "views": "92",
     "text": "PHP：北京时间 10 月 20 日 23 时左右，两个安全漏洞的 CVE 编号开始在网络论坛和社交媒体上传播。",
     "media_only": false,
     "image_url": null,
@@ -65410,32 +65419,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3546932"
-  },
-  {
-    "post": "Financial_Express/3546931",
-    "datetime": "2026-10-19T15:08:22+00:00",
-    "views": "125",
-    "text": "法德 10 年期国债收益率利差扩大 10 个基点，至 148 个基点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546931"
-  },
-  {
-    "post": "Financial_Express/3546930",
-    "datetime": "2026-10-19T15:07:23+00:00",
-    "views": "128",
-    "text": "胡塞称对也门境内目标发动三轮袭击\n据也门胡塞武装向总台报道员证实，舍卜沃省也门政府军营地遭袭是其所为。胡塞武装称，今天（10 月 19 日）共进行了三轮军事行动，目标分别是焦夫省东部、舍卜沃省的阿拉姆军营和西部拉赫季省的两个地区。（CCTV 国际时讯）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546930"
-  },
-  {
-    "post": "Financial_Express/3546929",
-    "datetime": "2026-10-19T15:07:22+00:00",
-    "views": "127",
-    "text": "也门军方：政府军已掌握战场主动权，并扩大“也门黎明”行动的攻势。过去 24 小时内，政府军动用战机、无人机、野战火炮、火箭发射器及狙击手，实施了 1164 次精确直接打击，袭击胡塞武装人员集结地、增援部队及车辆，摧毁其防御工事，并切断其火力支援和补给路线。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546929"
   }
 ]
