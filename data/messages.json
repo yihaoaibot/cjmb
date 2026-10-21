@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3554217",
+    "datetime": "2026-10-21T14:18:42+00:00",
+    "views": "3",
+    "text": "谷歌：Gemini 4 Argon 为漏洞发现、漏洞利用开发、攻击检测以及补丁验证做出了贡献。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554217"
+  },
+  {
+    "post": "Financial_Express/3554216",
+    "datetime": "2026-10-21T14:18:24+00:00",
+    "views": "4",
+    "text": "瑞银投资银行新晋银行家晋升加薪幅度收窄。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554216"
+  },
+  {
+    "post": "Financial_Express/3554215",
+    "datetime": "2026-10-21T14:18:23+00:00",
+    "views": "5",
+    "text": "谷歌：虽然谷歌云本身并不存在漏洞，但在谷歌云上运行的 PHP 用户可能会受到攻击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554215"
+  },
+  {
+    "post": "Financial_Express/3554214",
+    "datetime": "2026-10-21T14:18:22+00:00",
+    "views": "5",
+    "text": "谷歌：正在应对核心 PHP 漏洞 CVE-2026-109618 和 CVE-2026-109619。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554214"
+  },
+  {
+    "post": "Financial_Express/3554213",
+    "datetime": "2026-10-21T14:18:02+00:00",
+    "views": "13",
+    "text": "PHP 曝出严重安全漏洞 欧洲多国政府网站大规模下线\n金十数据 10 月 21 日讯，由于广泛使用的 PHP 编程语言被曝存在严重安全漏洞，欧洲及其他地区多个政府网站周三被迫下线，网站运营商紧急采取措施保护系统安全。PHP 开发团队当地时间周二宣布发现两个严重安全漏洞，敦促用户在修复补丁发布后立即更新。PHP 团队周三表示，修复漏洞的新版本已正式发布。不过，由于有报道称黑客正利用漏洞入侵网站，荷兰、芬兰等国政府机构在补丁发布前已预防性关闭部分网站。PHP 是互联网最广泛使用的编程语言之一，支撑 WordPress、Drupal、Joomla 和 Magento 等网站平台。根据网站技术统计机构 W3Techs 的数据，在能够识别所用编程语言的网站中，约 75%使用 PHP。全球约 43%的网站由 WordPress 提供支持，涵盖博客、小型企业网站、政府门户、电子商务平台和新闻网站。此次安全事件已导致欧洲多国网站大规模中断。荷兰鹿特丹港、政府门户网站 Overheid.nl、荷兰足协、该国五大政党网站以及多家医院网站均已暂时关闭。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554213"
+  },
+  {
+    "post": "Financial_Express/3554212",
+    "datetime": "2026-10-21T14:17:44+00:00",
+    "views": "14",
+    "text": "在 155 款应用宣布拒绝接入后，豆包手机助手再次公布金融类应用相关限制。\n记者从豆包手机助手官方网站获悉，目前豆包手机助手主动对金融类应用限制相关的操作能力，范围包括但不限于银行、信托服务、支付、互联网金融、信贷类等领域。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554212"
+  },
+  {
+    "post": "Financial_Express/3554211",
+    "datetime": "2026-10-21T14:17:22+00:00",
+    "views": "16",
+    "text": "Gupta：人工智能的应用速度远慢于预期。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554211"
+  },
+  {
+    "post": "Financial_Express/3554210",
+    "datetime": "2026-10-21T14:17:02+00:00",
+    "views": "48",
+    "text": "墨西哥 1 至 9 月追回 19 亿升非法燃料。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3554210"
+  },
+  {
     "post": "Financial_Express/3554209",
     "datetime": "2026-10-21T14:16:22+00:00",
-    "views": "3",
+    "views": "49",
     "text": "Anson Funds 维权投资主管 Sagar Gupta 表示，中小盘股存在巨大机会。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3554208",
     "datetime": "2026-10-21T14:14:42+00:00",
-    "views": "13",
+    "views": "57",
     "text": "加州监管机构抨击美国证券交易委员会的加密货币提案。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3554207",
     "datetime": "2026-10-21T14:13:24+00:00",
-    "views": "54",
+    "views": "95",
     "text": "标普 500 指数转跌，纳斯达克 100 指数目前涨 0.5%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3554206",
     "datetime": "2026-10-21T14:13:23+00:00",
-    "views": "55",
+    "views": "95",
     "text": "标普 500 指数一度转跌；纳斯达克 100 指数上涨 0.5%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3554205",
     "datetime": "2026-10-21T14:12:42+00:00",
-    "views": "58",
+    "views": "97",
     "text": "伯克希尔股价创下新高，摆脱巴菲特退出影响。伯克希尔哈撒韦-B 股价上涨 0.33%，报 541.595 美元/股，总市值报 1.16 万亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3554204",
     "datetime": "2026-10-21T14:12:23+00:00",
-    "views": "90",
+    "views": "99",
     "text": "Cloudflare 表示，在漏洞于正式发布日之前泄露期间，已为其所有客户部署了多项缓解措施。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3554203",
     "datetime": "2026-10-21T14:12:22+00:00",
-    "views": "90",
+    "views": "97",
     "text": "以色列国防部长卡茨：伊朗政权正处于有史以来最虚弱的时刻，我们意识到，这种虚弱可能促使其采取最极端的行动，甚至对以色列发动袭击。如果伊朗袭击以色列，伊朗将陷入火海。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3554202",
     "datetime": "2026-10-21T14:12:04+00:00",
-    "views": "91",
+    "views": "97",
     "text": "Cloudflare 表示，公司参与了保护互联网的协同缓解行动，并与 PHP 基金会、OpenAI 和 Wiz 等机构合作。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3554201",
     "datetime": "2026-10-21T14:11:42+00:00",
-    "views": "89",
+    "views": "94",
     "text": "华纳音乐集团整合唱片与出版业务的全球同步运营。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3554200",
     "datetime": "2026-10-21T14:11:02+00:00",
-    "views": "89",
+    "views": "94",
     "text": "美航空航天局公布月球车最新研发进展及任务规划\n美国航空航天局 20 日公布了其月球车的最新研发进展及任务规划。用于探测月球水资源的“挥发物调查极地探索车”（VIPER）计划于 2027 年运抵月球南极地区开展探测，载人月球地形车则计划于 2028 年前运抵月球南极地区，为未来载人探月和月球基地建设提供支持。美航空航天局表示，VIPER 月球车目前处于休斯敦的约翰逊航天中心，已完成组装，正在进行最终测试。该月球车计划于 2027 年由美国蓝色起源公司研制的着陆器运送至月球表面，收集有关月球南极地区的温度、光照条件和地形等数据。这些数据有助于科学家进一步了解月球水资源的来源与分布，评估月球资源未来用于月球基地建设的潜力。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3554199",
     "datetime": "2026-10-21T14:11:01+00:00",
-    "views": "86",
+    "views": "92",
     "text": "美国航空航天局 20 日公布了其月球车的最新研发进展及任务规划。用于探测月球水资源的“挥发物调查极地探索车”（VIPER）计划于 2027 年运抵月球南极地区开展探测，载人月球地形车则计划于 2028 年前运抵月球南极地区，为未来载人探月和月球基地建设提供支持。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3554198",
     "datetime": "2026-10-21T14:10:42+00:00",
-    "views": "86",
+    "views": "90",
     "text": "刚果（金）埃博拉疫情已致 4646 人死亡\n根据刚果（金）国家生物医学研究所 10 月 21 日发布的统计数据，截至 10 月 19 日，该国本轮埃博拉疫情累计确诊病例升至 9637 例，死亡 4646 例。 (央视新闻)",
     "media_only": false,
     "image_url": null,
@@ -65122,50 +65194,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3546837"
-  },
-  {
-    "post": "Financial_Express/3546836",
-    "datetime": "2026-10-19T14:18:22+00:00",
-    "views": "71",
-    "text": "阿根廷与日本国际协力银行续签 2018 年石油、天然气和矿业合作谅解备忘录。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546836"
-  },
-  {
-    "post": "Financial_Express/3546835",
-    "datetime": "2026-10-19T14:18:08+00:00",
-    "views": "67",
-    "text": "中俄人文合作委员会第二十七次会议 19 日在圣彼得堡举行。国务委员谌贻琴与俄罗斯副总理戈利科娃共同主持。谌贻琴指出，今年是中俄战略协作伙伴关系建立 30 周年、《中俄睦邻友好合作条约》签署 25 周年。双方应深入落实两国元首共识，扎实推进“中俄教育年”重点项目，深化人文合作，加强双多边协作，为中俄新时代全面战略协作伙伴关系发展作出新的贡献。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546835"
-  },
-  {
-    "post": "Financial_Express/3546834",
-    "datetime": "2026-10-19T14:17:56+00:00",
-    "views": "37",
-    "text": "标普 500 指数涨 0.7%，刷新日高。\n纳斯达克 100 指数涨 1.5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546834"
-  },
-  {
-    "post": "Financial_Express/3546833",
-    "datetime": "2026-10-19T14:17:22+00:00",
-    "views": "68",
-    "text": "纳斯达克 100 指数上涨 1.5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546833"
-  },
-  {
-    "post": "Financial_Express/3546832",
-    "datetime": "2026-10-19T14:17:02+00:00",
-    "views": "71",
-    "text": "标普 500 指数反弹至盘中高点，上涨 0.7%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546832"
   }
 ]
