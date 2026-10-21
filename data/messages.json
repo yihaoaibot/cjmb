@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3553943",
+    "datetime": "2026-10-21T12:35:35+00:00",
+    "views": "6",
+    "text": "原油冲高回落，布伦特原油转跌，WTI 原油接近转跌。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553943"
+  },
+  {
+    "post": "Financial_Express/3553942",
+    "datetime": "2026-10-21T12:35:23+00:00",
+    "views": "6",
+    "text": "OPENAI：模型将在谷歌 Antigravity 和 Gemini Agent 中提供。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553942"
+  },
+  {
+    "post": "Financial_Express/3553940",
+    "datetime": "2026-10-21T12:35:22+00:00",
+    "views": "7",
+    "text": "OpenAI：前沿模型将通过谷歌云市场开放购买。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553940"
+  },
+  {
+    "post": "Financial_Express/3553941",
+    "datetime": "2026-10-21T12:35:22+00:00",
+    "views": "6",
+    "text": "多家国际投行下调奈飞目标价\n加通贝祥将奈飞目标价从 125 美元下调至 110 美元。韦德布什将目标价从 90 美元下调至 80 美元；奥本海默将目标价从 85 美元下调至 80 美元；巴克莱将目标价从 70 美元下调至 65 美元摩根士丹利将目标价从 80.00 美元下调至 77.00 美元；美银全球研究将目标价从 105.00 美元下调至 90.00 美元；高盛将目标价从 90 美元下调至 84 美元；摩根大通将目标价从 85 美元下调至 81 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553941"
+  },
+  {
+    "post": "Financial_Express/3553939",
+    "datetime": "2026-10-21T12:35:02+00:00",
+    "views": "9",
+    "text": "OPENAI：与谷歌云合作，将前沿模型和 CODEX 引入谷歌云的模型花园。前沿模型将可通过谷歌云市场购买。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553939"
+  },
+  {
+    "post": "Financial_Express/3553938",
+    "datetime": "2026-10-21T12:34:23+00:00",
+    "views": "11",
+    "text": "国际油价冲高回落，WTI 原油、布伦特原油回吐此前 2.2%的涨幅，现已转跌。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553938"
+  },
+  {
+    "post": "Financial_Express/3553937",
+    "datetime": "2026-10-21T12:34:02+00:00",
+    "views": "40",
+    "text": "据英国卫报：英国能源大臣米亚塔·法恩布勒倾向于拒绝批准北海大型 Rosebank 油田项目，此举将对北海能源行业构成打击，但将被气候活动人士视为重大胜利。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3553937"
+  },
+  {
     "post": "Financial_Express/3553936",
     "datetime": "2026-10-21T12:33:43+00:00",
-    "views": "1",
+    "views": "40",
     "text": "4 连板海洋王：AI+智慧照明相关业务收入规模有限 与“深海科技”概念无关\n海洋王(002724.SZ)公告称，公司 AI+智慧照明相关业务收入规模有限，对公司整体业绩尚不构成重大影响。公司具有耐辐照认证的专业灯具应用在核岛，但照明设备不属于其主生产设备，不属于“核电”概念；目前公司无具备万米深海作业的应用产品，也与“深海科技”概念无关。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3553935",
     "datetime": "2026-10-21T12:33:42+00:00",
-    "views": "1",
+    "views": "40",
     "text": "俄一架苏-30SM 战机坠毁 飞行员弹射逃生\n总台记者当地时间 21 日获悉，一架苏-30SM 军用战机在俄罗斯加里宁格勒州坠毁，机上两名飞行员均及时弹射逃生，但在事故中受伤。据悉，两名飞行员已被送往军队医院接受治疗，伤情为中等程度。俄罗斯国防部通报称，该战机在执行训练飞行任务时坠毁。机组人员弹射逃生，没有生命危险。飞机坠落在无人居住地区，事发时未携带弹药。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3553934",
     "datetime": "2026-10-21T12:33:23+00:00",
-    "views": "5",
+    "views": "42",
     "text": "蚂蚁集团与 vLLM 联合开源 Humming：高性能、灵活的量化推理内核\n蚂蚁集团与 vLLM 社区联合开源 Humming，一个通用、高性能的量化推理算子库。Humming 具备以下特点：广泛的设备支持，覆盖多种 GPU，以及兼容 CUDA 编程的设备；丰富的量化支持，通过统一架构支持 Dense 和 MoE 中丰富的权重与激活格式组合，覆盖多种整数和浮点类型、位宽及缩放方式。出色的执行性能在多种典型负载中显著优于 vLLM Marlin、FlashInfer 和 DeepGEMM 等现有实现。（蚂蚁开源）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3553932",
     "datetime": "2026-10-21T12:33:03+00:00",
-    "views": "5",
+    "views": "42",
     "text": "南威软件：AI 短剧尚未上线\n南威软件公告，公司股价近三个交易日累计涨幅 21.64%，短期涨幅高于同期上证指数，存在大幅上涨后快速下跌风险。AI 短剧年出品 300 部及 2027 年度实现规模化收入仅为初步预计，已制作完成的短剧尚未上线、未产生收入；智算项目尚在建设中，无在手订单、未产生收入。公司因涉嫌信息披露违法违规被证监会立案，调查仍在进行中。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3553933",
     "datetime": "2026-10-21T12:33:03+00:00",
-    "views": "5",
+    "views": "42",
     "text": "匈牙利官员表示，匈牙利很有可能在 2032 年前采用欧元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3553931",
     "datetime": "2026-10-21T12:33:02+00:00",
-    "views": "5",
+    "views": "11",
     "text": "蚂蚁集团与 vLLM 联合开源 Humming：高性能、灵活的量化推理内核\n金十数据 10 月 21 日讯，蚂蚁集团与 vLLM 社区联合开源 Humming，一个通用、高性能的量化推理算子库。Humming 具备以下特点：广泛的设备支持，覆盖多种 GPU，以及兼容 CUDA 编程的设备；丰富的量化支持，通过统一架构支持 Dense 和 MoE 中丰富的权重与激活格式组合，覆盖多种整数和浮点类型、位宽及缩放方式。出色的执行性能在多种典型负载中显著优于 vLLM Marlin、FlashInfer 和 DeepGEMM 等现有实现。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3553930",
     "datetime": "2026-10-21T12:32:22+00:00",
-    "views": "6",
+    "views": "43",
     "text": "英国能源大臣倾向于否决 Rosebank 油田项目。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3553929",
     "datetime": "2026-10-21T12:31:23+00:00",
-    "views": "8",
+    "views": "44",
     "text": "伊斯兰革命卫队副司令：伊朗多地提升战备水平，称对手处于守势\n伊朗伊斯兰革命卫队（IRGC）副司令穆斯塔法·伊扎迪表示，伊朗武装部队已在多个区域提升战备状态。 伊扎迪称：“武装部队在各个区域保持战备与战略存在。”他补充，伊朗的对手目前“处于守势”。他还表示，伊朗武装力量从根本上依靠民众的支持与配合。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3553928",
     "datetime": "2026-10-21T12:31:22+00:00",
-    "views": "7",
+    "views": "42",
     "text": "随着现场电力需求的增长，燃料电池能源区块系统获得了 99.873%的 PJM 容量评级。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3553927",
     "datetime": "2026-10-21T12:31:02+00:00",
-    "views": "39",
+    "views": "43",
     "text": "Firefly Aerospace 完成美国国家航空航天局（NASA）的设计审查。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3553926",
     "datetime": "2026-10-21T12:30:42+00:00",
-    "views": "40",
+    "views": "44",
     "text": "贝莱德(BLK.N)推出主动管理型机器人主题 ETF。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3553925",
     "datetime": "2026-10-21T12:30:22+00:00",
-    "views": "41",
+    "views": "44",
     "text": "贝莱德推出主动型机器人 ETF。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3553923",
     "datetime": "2026-10-21T12:29:22+00:00",
-    "views": "42",
+    "views": "45",
     "text": "俄罗斯央行：10 月份家庭通胀预期从上个月的 14.2%降至 13.2%。",
     "media_only": false,
     "image_url": null,
@@ -65077,77 +65140,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3546568"
-  },
-  {
-    "post": "Financial_Express/3546567",
-    "datetime": "2026-10-19T12:36:23+00:00",
-    "views": "38",
-    "text": "印尼投资部：第三季度外商直接投资同比增长 27.45%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546567"
-  },
-  {
-    "post": "Financial_Express/3546566",
-    "datetime": "2026-10-19T12:36:22+00:00",
-    "views": "38",
-    "text": "亚马逊：该项目可能创造逾 1000 个建筑岗位和逾 100 个长期职位。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546566"
-  },
-  {
-    "post": "Financial_Express/3546564",
-    "datetime": "2026-10-19T12:36:03+00:00",
-    "views": "38",
-    "text": "亚马逊：作为项目开发出资方，将成为首个在电厂投运后购电的客户。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546564"
-  },
-  {
-    "post": "Financial_Express/3546565",
-    "datetime": "2026-10-19T12:36:03+00:00",
-    "views": "38",
-    "text": "天晟新材：终止 2026 年度向特定对象发行股票事项\n天晟新材(300169)10 月 19 日公告，综合考量当前环境，结合公司实际情况、发展规划等多种因素，经充分沟通、审慎评估，公司决定终止 2026 年度向特定对象发行 A 股股票事项并签署《终止协议》。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546565"
-  },
-  {
-    "post": "Financial_Express/3546563",
-    "datetime": "2026-10-19T12:36:02+00:00",
-    "views": "35",
-    "text": "亚马逊：投资印第安纳州核能项目，目标是为该州提供近 1 吉瓦的无碳能源。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546563"
-  },
-  {
-    "post": "Financial_Express/3546562",
-    "datetime": "2026-10-19T12:35:43+00:00",
-    "views": "35",
-    "text": "纽交所为美国期权品种推出延长交易时段\n纽交所为旗下 NYSE American Options 期权市场增设延长交易时段。早市交易时间为美国东部时间每日早 7:30 至 9:25。晚市交易时间为美国东部时间 16:00 至 16:15。可交易标的包括 SPY、IWM、GLD、苹果、微软、英伟达、字母表、亚马逊与甲骨文。纽交所计划于 12 月将同类延长交易时段推广至股票市场。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546562"
-  },
-  {
-    "post": "Financial_Express/3546561",
-    "datetime": "2026-10-19T12:35:42+00:00",
-    "views": "5",
-    "text": "美股盘前要闻速递\n\n①美股三大股指期货涨跌不一，道指期货跌 0.23%，标普 500 指数期货涨 0.252%，纳指期货涨 1.25%。\n②德国 DAX 指数跌 1.36%，英国富时 100 指数跌 1.24%，法国 CAC40 指数跌 1.58%，欧洲斯托克 50 指数跌 1.18%。\n③WTI 原油跌 1.43%，报 97.61 美元/桶。布伦特原油跌 1.63%，报 108.09 美元/桶。\n④伊朗伊斯兰革命卫队（IRGC）发言人侯赛因·穆赫比准将就局势升级可能性表示：“美国过去曾倾尽全力投入战争，但如今肯定已经不具备发动一场新冲突、从中攫取额外利益的条件。\n⑤据报道，特斯拉近日向美国证券交易委员会（SEC）提交的文件披露，CEO 埃隆·马斯克 2025 年总薪酬为 1583.59 亿美元（约合 1.07 万亿元人民币），全部以股票奖励形式发放。 \n⑥花旗集团策略师表示，由于分析师在财报季到来之前以异常强劲的速度不断上调盈利预期，欧洲股市可能还有进一步上涨的空间。\n⑦COREWEAVE 股价盘前交易中飙升 6.3%。高盛分析师 Gabriela Borges 及其团队认为，CoreWeave 在新兴云服务（Neocloud）市场中处于领先地位，是该领域质量较高的企业之一。\n⑧Datadog 盘前上涨 3.7%，此前 Bernstein 将其评级从与大盘持平上调至跑赢大盘。\n⑨摩根大通将英特尔股票评级从“减持”上调至“中性”，盘前股价上涨 3.4%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546561"
-  },
-  {
-    "post": "Financial_Express/3546560",
-    "datetime": "2026-10-19T12:35:23+00:00",
-    "views": "5",
-    "text": "亚马逊：该项目可创造超过 1000 个建筑岗位和 100 多个长期职位。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546560"
   }
 ]
