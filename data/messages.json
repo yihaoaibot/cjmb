@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3554385",
     "datetime": "2026-10-21T15:11:22+00:00",
-    "views": "13",
+    "views": "50",
     "text": "美媒称马斯克下令对乌使用星盾限速\n美国《华尔街日报》10 月 20 日援引美国官员和知情人士的话报道，美国太空探索技术公司首席执行官马斯克上周下令对乌克兰使用的“星链”卫星通信系统的军事级版本“星盾”进行限速。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3554384",
     "datetime": "2026-10-21T15:10:22+00:00",
-    "views": "49",
+    "views": "53",
     "text": "美国总统特朗普希望乌克兰总统泽连斯基和俄罗斯总统普京在迈阿密 G20 峰会上签署和平协议。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3554383",
     "datetime": "2026-10-21T15:10:02+00:00",
-    "views": "50",
+    "views": "84",
     "text": "美国总统特朗普希望乌克兰总统泽连斯基与俄罗斯总统普京在迈阿密举行的二十国集团（G20）峰会上签署和平协议。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3554382",
     "datetime": "2026-10-21T15:09:42+00:00",
-    "views": "50",
+    "views": "84",
     "text": "以色列总理内塔尼亚胡：伊朗人民希望以色列取得胜利。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3554381",
     "datetime": "2026-10-21T15:07:16+00:00",
-    "views": "90",
+    "views": "93",
     "text": "腾讯云安全中心监测到，PHP 被披露其存在远程代码执行漏洞，漏洞编号分别为 CVE-2026-109618, CVE-2026-109619，代号 “php2shell”。可导致未经身份验证的远程攻击者通过发送特制的 multipart POST 请求，触发内存破坏并最终实现远程代码执行，从而完全控制服务器等危害。\n腾讯云安全建议您及时开展安全自查，如在受影响范围，请您及时进行更新修复，避免被外部攻击者入侵。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3554380",
     "datetime": "2026-10-21T15:06:22+00:00",
-    "views": "94",
+    "views": "96",
     "text": "腾讯云发布 PHP \"php2shell\" 远程代码执行漏洞风险通告\n金十数据 10 月 21 日讯，腾讯云安全中心监测到，PHP 被披露其存在远程代码执行漏洞，漏洞编号分别为 CVE-2026-109618, CVE-2026-109619，代号 \"php2shell\"。可导致未经身份验证的远程攻击者通过发送特制的 multipart POST 请求，触发内存破坏并最终实现远程代码执行，从而完全控制服务器等危害。腾讯云安全建议您及时开展安全自查，如在受影响范围，请您及时进行更新修复，避免被外部攻击者入侵。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3554379",
     "datetime": "2026-10-21T15:06:02+00:00",
-    "views": "94",
+    "views": "96",
     "text": "据知情人士透露，SGB-SMIT MidCo GmbH 为其法兰克福 IPO 新增五家（承销）银行。\n该公司为其股票发行接触瑞银集团、裕信银行、Berenberg、LBBW、RBI。\n该公司 IPO 将由高盛、摩根大通、摩根士丹利牵头，估值大约 40 亿欧元。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3554378",
     "datetime": "2026-10-21T15:05:43+00:00",
-    "views": "94",
+    "views": "95",
     "text": "PHP：10 月 20 日前后向少数关键基础设施运营商提供的漏洞缓解建议也可能已经泄露。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3554373",
     "datetime": "2026-10-21T15:01:03+00:00",
-    "views": "105",
+    "views": "135",
     "text": "苹果涨超 1%，刷新日高。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3554372",
     "datetime": "2026-10-21T15:01:02+00:00",
-    "views": "105",
+    "views": "135",
     "text": "苹果(AAPL.O)涨超 1%，触及盘中高点。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +155,7 @@
   {
     "post": "Financial_Express/3554369",
     "datetime": "2026-10-21T15:00:42+00:00",
-    "views": "99",
+    "views": "129",
     "text": "我国实现分子筛独自催化烯烃羰基化新反应\n金十数据 10 月 21 日讯，羰基化反应是现代化工的基础反应，醋酸、香料、医药中间体等很多产品都依靠它生产。近日，中国科学院大连化学物理研究所刘中民院士团队实现无金属、无配体的分子筛催化烯烃羰基化新反应，相关成果 10 月 21 日在国际学术期刊《自然》发表。",
     "media_only": false,
     "image_url": null,
@@ -65374,14 +65374,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3546941"
-  },
-  {
-    "post": "Financial_Express/3546940",
-    "datetime": "2026-10-19T15:14:02+00:00",
-    "views": "123",
-    "text": "高速光模块组件订单排到 2027 年底 一片玻璃价值提升超 60 倍\n在江西南昌一家光学元器件企业，一片看似不起眼的小玻璃，正随 AI 算力需求增长进入高速光通信市场。从光纤入户里的 2.5G PON 类滤光片到 1.6T 光模块产品，经过 11 年发展，价值从一毛钱涨到了原来的 60 倍以上。随着 AI 大模型与算力中心快速建设，5 纳米、10 纳米高精度镀膜产品迎来广阔市场，如今，这家企业传统成像与光通信业务比例从 8:2 优化为 5:5。今年上半年通信光学业务营收增长 118.25%，几乎提前半年完成去年全年利润，他们的高速光模块组件订单已排到 2027 年底。 (央视财经)",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3546940"
   }
 ]
