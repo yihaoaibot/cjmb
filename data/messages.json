@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3558934",
+    "datetime": "2026-10-22T21:19:47+00:00",
+    "views": "8",
+    "text": "Claude：现在，谷歌云上面可以使用 Anthropic 旗下 Claude 平台。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3558934"
+  },
+  {
+    "post": "Financial_Express/3558933",
+    "datetime": "2026-10-22T21:19:14+00:00",
+    "views": "11",
+    "text": "美国总统特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3558933"
+  },
+  {
     "post": "Financial_Express/3558932",
     "datetime": "2026-10-22T21:16:00+00:00",
-    "views": "15",
+    "views": "29",
     "text": "据知情人士透露，加拿大石油勘探公司 Logan Energy 探索出售选项。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3558931",
     "datetime": "2026-10-22T21:15:29+00:00",
-    "views": "20",
+    "views": "33",
     "text": "富时 A50 期指连续夜盘收涨 0.04%，报 12935 点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3558930",
     "datetime": "2026-10-22T21:13:43+00:00",
-    "views": "34",
+    "views": "45",
     "text": "周四（10 月 22 日）纽约尾盘，标普 500 股指期货最终跌 1.22%，道指期货涨 0.05%，纳斯达克 100 股指期货跌 3.07%。\n罗素 2000 股指期货跌 0.05%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3558929",
     "datetime": "2026-10-22T21:12:38+00:00",
-    "views": "42",
+    "views": "53",
     "text": "周四（10 月 22 日）纽约尾盘（周五北京时间 04:59），离岸人民币（CNH）兑美元报 6.6721 元，继续逼近 2022 年 6 月 15 日最终报价 6.6687 元、当年 4 月 27 日最终报价 6.5868 元，较周三纽约尾盘涨 27 点，日内整体交投于 6.6756-6.6715 元区间。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3558928",
     "datetime": "2026-10-22T21:12:01+00:00",
-    "views": "45",
+    "views": "55",
     "text": "谷歌宣布，Google Cloud（谷歌云）上由 Anthropic 负责托管部署的 Claude 模型选项正式全面可用。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3558927",
     "datetime": "2026-10-22T21:10:43+00:00",
-    "views": "49",
+    "views": "59",
     "text": "谷歌宣布，Google Cloud 上由 Anthropic 负责托管部署的 Claude 模型选项正式全面可用。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3558926",
     "datetime": "2026-10-22T21:10:42+00:00",
-    "views": "50",
+    "views": "59",
     "text": "谷歌(GOOG.O)：宣布在谷歌云上正式推出由 Anthropic 管理的 Claude 模型部署选项。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3558925",
     "datetime": "2026-10-22T21:09:22+00:00",
-    "views": "61",
+    "views": "67",
     "text": "美国财政部宣布对外投资审查拟议规则，并将委内瑞拉从“受关注国家”名单中移除。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3558924",
     "datetime": "2026-10-22T21:06:48+00:00",
-    "views": "67",
+    "views": "71",
     "text": "苹果公司将在 APP Store 上提供团购订阅功能。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3558923",
     "datetime": "2026-10-22T21:06:42+00:00",
-    "views": "67",
+    "views": "71",
     "text": "苹果将在 App Store 推出团体订阅购买服务。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3558922",
     "datetime": "2026-10-22T21:04:42+00:00",
-    "views": "72",
+    "views": "76",
     "text": "“特斯拉劲敌”Rivian 收购 Third Dimension AI。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3558921",
     "datetime": "2026-10-22T21:01:02+00:00",
-    "views": "105",
+    "views": "108",
     "text": "西部数据(WDC.O)盘后跌 7%，希捷科技(STX.O)跌 4.5%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3558920",
     "datetime": "2026-10-22T20:59:52+00:00",
-    "views": "95",
+    "views": "97",
     "text": "标普 500 指数收跌 93.74 点，跌幅 1.21%，报 7663.43 点，跳空低开之后持续低位窄幅震荡，逼近 100 日均线（暂报 7603.55 点）。标普 500 相等权重指数涨 0.34%，报 8774.02 点，整体呈现出 W 形走势、北京时间 02:47 出现一波急转直下的行情。\n道琼斯工业平均指数收涨 11.89 点，涨幅 0.02%，报 52867.98 点。\n纳斯达克综合指数（纳指）收跌 693.998 点，跌幅 2.60%，创 6 月份以来最大单日跌幅，报 26008.859 点。\n纳斯达克 100 指数收跌 863.83 点，跌幅 2.90%，报 28958.688 点。\n费城半导体指数收跌 773.578 点，跌幅 6.72%，创 6 月份以来最大单日跌幅，报 10731.978 点。\n费城证交所 KBW 银行指数收涨 0.17%，报 171.84 点。\n罗素 2000 指数收涨 0.11%，报 2784.026 点。\n纳斯达克生物科技指数收跌 0.75%，报 7072.22 点。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3558919",
     "datetime": "2026-10-22T20:59:27+00:00",
-    "views": "91",
+    "views": "92",
     "text": "西部数据美股盘后跌幅扩大至 6.8%，希捷科技跌 5%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3558918",
     "datetime": "2026-10-22T20:59:22+00:00",
-    "views": "91",
+    "views": "92",
     "text": "惠誉：美国非银行抵押贷款公司面临利率环境挑战，杠杆水平上升。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3558917",
     "datetime": "2026-10-22T20:58:22+00:00",
-    "views": "90",
+    "views": "91",
     "text": "惠誉预计，2027 年抵押贷款市场规模缩小将限制盈利上行空间，抵押贷款公司仅将实现温和盈利。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3558916",
     "datetime": "2026-10-22T20:55:22+00:00",
-    "views": "94",
+    "views": "95",
     "text": "特朗普援引《国防生产法》支持美国石油产业扩能\n金十数据 10 月 23 日讯， 美国白宫当地时间 10 月 22 日公布，特朗普援引《国防生产法》，将美国国内石油勘探与生产、管道运输、储存、炼油及海运码头等列为国防所需的关键资源，并授权联邦政府通过采购、采购承诺、资金支持及其他金融措施推动相关能力扩张。特朗普称，融资受限、项目周期长、审批与基础设施瓶颈及供应链限制，导致美国企业难以及时满足相关需求；他因此豁免该法第 303 条的部分要求，以加快扩能。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3558915",
     "datetime": "2026-10-22T20:52:57+00:00",
-    "views": "88",
+    "views": "89",
     "text": "西部数据：预计未来五年资本开支与营收的比率均值将为 4%-6%，未来两年将适度地高于那样的水平。\n预计到第二财季，其将占近线硬盘出货量的近 30%；到第三财季将达到 50%。\n处于日历年 2027 年上半年开始发货的正轨之上。\n在云和超大规模云服务（Hyperscale）之外看到更强劲的需求。\n进入企业环境和更新的终端市场。\n40TB EPMR 将强劲开局。",
     "media_only": false,
     "image_url": null,
@@ -38023,32 +38041,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3551097"
-  },
-  {
-    "post": "Financial_Express/3551096",
-    "datetime": "2026-10-20T21:19:46+00:00",
-    "views": "58",
-    "text": "标普 500 指数收涨 21.84 点，涨幅 0.28%，报 7712.57 点，美股盘初显著上涨，随后平缓地逐步回吐涨幅。标普 500 相等权重指数跌 0.34%，报 8644.83 点。\n道琼斯工业平均指数收涨 529.85 点，涨幅 1.02%，报 52495.88 点。\n纳斯达克综合指数（纳指）收跌 6.069 点，跌幅 0.02%，报 26424.817 点。\n纳斯达克 100 指数收跌 39.061 点，跌幅 0.13%，报 29490.283 点。\n纳斯达克科技市值加权指数收跌 0.60%，报 2976.9358 点，美股早盘一度转涨。\n费城半导体指数收跌 32.531 点，跌幅 0.29%，报 11283.812 点。\n费城证交所 KBW 银行指数收涨 1.45%，报 169.58 点。\n道琼斯 KBW 地区银行指数收涨 1.97%，报 136.88 点，绝大部分交易时间高位窄幅震荡。\n罗素 2000 指数收涨 1.65%，报 2773.42 点。\n纳斯达克生物科技指数收涨 3.23%，报 2773.42 点。\n标普中盘股 400 指数收涨 0.98%，纳斯达克美国中等市值指数涨 1.29%。\n恐慌指数 VIX 收跌 6.13%，报 17.31，北京时间 20:35 刷新日高至 19.13，随后持续震荡下行。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3551096"
-  },
-  {
-    "post": "Financial_Express/3551094",
-    "datetime": "2026-10-20T21:19:22+00:00",
-    "views": "53",
-    "text": "肯·格里芬在全球市场未来大会上表示：AI 模型进步“巨大”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3551094"
-  },
-  {
-    "post": "Financial_Express/3551095",
-    "datetime": "2026-10-20T21:19:22+00:00",
-    "views": "54",
-    "text": "伊朗外长称通过斡旋方与美国的谈判仍在继续 拒绝透露美方附加条件\n金十数据 10 月 21 日讯，伊朗外长阿拉格齐在接受中东一电视台专访时表示，伊朗与美国通过巴基斯坦、卡塔尔等斡旋方持续进行间接谈判。伊朗此前向美方提出“七日计划”，并明确列出伊方条件；按照计划，霍尔木兹海峡原定于第六天全面开放。阿拉格齐称，美方曾告知伊朗同意这些条件，但希望追加几项条款。对于美方新增条件究竟涉及安全还是经济问题，他拒绝透露，称“我们不会通过贵台进行谈判”。阿拉格齐强调，伊朗要求美方履行此前签署的《伊斯兰堡谅解备忘录》中的全部承诺，只有美方履约后，双方才能就其他议题展开谈判。他表示，在谈判最终阶段，双方可以讨论任一方提出的任何主题或问题，并就此达成最终协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3551095"
   }
 ]
