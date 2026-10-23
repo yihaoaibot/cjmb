@@ -1,9 +1,81 @@
 [
   {
+    "post": "Financial_Express/3560017",
+    "datetime": "2026-10-23T06:09:42+00:00",
+    "views": "6",
+    "text": "宇树科技日内涨超 16%，股价突破 600 元关口，本周累涨超 40%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3560017"
+  },
+  {
+    "post": "Financial_Express/3560016",
+    "datetime": "2026-10-23T06:09:22+00:00",
+    "views": "7",
+    "text": "新兴市场股市受 AI 抛售潮与油价拖累继续下挫\n新兴市场股市连续第四周收跌，投资者持续撤离 AI 相关持仓；油价上涨加剧通胀担忧，进一步打压风险偏好。明晟新兴市场指数一度下跌 0.8%，至 1562.47 点，创三个月新低，延续周四 2.5%的跌幅。该指数即将迎来七个月以来持续最久的周线连跌。马来亚银行外汇策略师 Shaun Lim 表示，当前风险资产主要受两大因素影响：AI 板块情绪转弱以及油价上行。两者走势未必同步，但叠加效应会放大市场波动。周五布伦特原油交投于每桶 114 美元附近，本周涨幅接近 4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3560016"
+  },
+  {
+    "post": "Financial_Express/3560015",
+    "datetime": "2026-10-23T06:09:19+00:00",
+    "views": "8",
+    "text": "创业板指涨超 3%，早盘曾一度跌超 3%。机器人、物理 AI、白酒、保险等方向涨幅居前，沪深京三市上涨个股近 3200 只。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3560015"
+  },
+  {
+    "post": "Financial_Express/3560014",
+    "datetime": "2026-10-23T06:09:03+00:00",
+    "views": "8",
+    "text": "创业板指尾盘涨超 3%，深证成指涨 1.9%，沪指涨 0.33%，全市场超 3300 只个股上涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3560014"
+  },
+  {
+    "post": "Financial_Express/3560013",
+    "datetime": "2026-10-23T06:08:48+00:00",
+    "views": "8",
+    "text": "创业板指涨超 3%，宁德时代涨超 6%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3560013"
+  },
+  {
+    "post": "Financial_Express/3560011",
+    "datetime": "2026-10-23T06:08:24+00:00",
+    "views": "8",
+    "text": "日本央行：部分企业相对易受原油价格上涨影响。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3560011"
+  },
+  {
+    "post": "Financial_Express/3560012",
+    "datetime": "2026-10-23T06:08:24+00:00",
+    "views": "8",
+    "text": "创业板指涨 3％，上证指数涨 0.35％，深证成指涨 1.87％。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3560012"
+  },
+  {
+    "post": "Financial_Express/3560010",
+    "datetime": "2026-10-23T06:08:23+00:00",
+    "views": "8",
+    "text": "富时中国 A50 指数期货涨 1%，此前一度跌 1.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3560010"
+  },
+  {
     "post": "Financial_Express/3560008",
     "datetime": "2026-10-23T06:08:03+00:00",
-    "views": "1",
-    "text": "日本央行：原材料和能源价格上涨似乎对利润构成下行压力，尤其是中小企业。",
+    "views": "39",
+    "text": "日本央行：原材料和能源价格上涨似乎对利润构成下行压力，尤其是中小企业。部分企业对原油价格上涨相对敏感。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3560008"
@@ -11,8 +83,8 @@
   {
     "post": "Financial_Express/3560009",
     "datetime": "2026-10-23T06:08:03+00:00",
-    "views": "1",
-    "text": "富时中国 A50 指数期货涨 1%\n富时中国 A50 指数期货涨幅扩大至 1%。",
+    "views": "39",
+    "text": "富时中国 A50 指数期货涨幅扩大至 1％。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3560009"
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3560007",
     "datetime": "2026-10-23T06:08:02+00:00",
-    "views": "1",
+    "views": "39",
     "text": "日本央行：期限超过 35 年的超长期房贷正在增加。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3560006",
     "datetime": "2026-10-23T06:07:50+00:00",
-    "views": "1",
+    "views": "121",
     "text": "恒生指数涨幅扩大至 1%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3560005",
     "datetime": "2026-10-23T06:07:42+00:00",
-    "views": "1",
+    "views": "39",
     "text": "恒生指数涨超 1%，现报 23164.881 点；恒生科技指数现涨 2.217%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3560003",
     "datetime": "2026-10-23T06:07:23+00:00",
-    "views": "2",
+    "views": "39",
     "text": "力拓集团：投资 19 亿美元开发康威南铝土矿项目。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3560004",
     "datetime": "2026-10-23T06:07:23+00:00",
-    "views": "2",
+    "views": "39",
     "text": "A 股空中成像板块异动拉升\n风语筑、创维数字触及涨停，奥比中光、当虹科技、凯盛科技跟涨。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3560002",
     "datetime": "2026-10-23T06:06:23+00:00",
-    "views": "4",
+    "views": "40",
     "text": "日本央行：期限超过 35 年的超长抵押贷款数量持续增长。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3560001",
     "datetime": "2026-10-23T06:06:22+00:00",
-    "views": "4",
+    "views": "40",
     "text": "日本央行：私募基金投资组合集中度上升的可能性值得关注。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3560000",
     "datetime": "2026-10-23T06:06:02+00:00",
-    "views": "5",
+    "views": "40",
     "text": "中澳商会会长：期待澳中经贸合作共拓新机遇\n中国澳大利亚商会会长冯栢文（英文名沃恩·巴伯）日前接受新华社记者专访时说，期待澳中两国深化经贸投资合作，共享技术成果，共拓发展新机遇。中国澳大利亚商会成立于 1994 年，是代表在华澳大利亚企业的主要行业组织，致力于促进澳中商业关系。展望澳中合作，冯栢文认为，澳中可进一步整合专业知识、技术和投资，开发好产品、培养新技能，打造更具实力的企业，通过合作协同发展。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3559999",
     "datetime": "2026-10-23T06:05:42+00:00",
-    "views": "5",
+    "views": "39",
     "text": "日本央行：私人基金投资组合集中度可能上升，值得关注。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3559998",
     "datetime": "2026-10-23T06:05:22+00:00",
-    "views": "36",
+    "views": "40",
     "text": "英国国家统计局：食品和饮料销售额也促进了本季度的增长，部分原因是天气温暖和世界杯。这些增长被珠宝店、五金店和鞋店本季度的下滑部分抵消。",
     "media_only": false,
     "image_url": null,
@@ -38455,50 +38527,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3552142"
-  },
-  {
-    "post": "Financial_Express/3552141",
-    "datetime": "2026-10-21T06:10:42+00:00",
-    "views": "47",
-    "text": "燃油价格上涨是英国通胀高于预期的主因\n金十数据 10 月 21 日讯，据 BBC，英国 9 月份的通胀率为 3.5%，略高于分析师的预期。这一数据至关重要，因为它被用作确定 4 月份各类劳动年龄人口福利金年度上调幅度的依据。近期生活成本的急剧上升，很大程度上是由燃料价格上涨所致。只需去加油站给汽车或货车加满油，人们便能切身感受到家庭月度预算正遭受严重挤压。目前，英国无铅汽油的平均价格约为每升 1.74 英镑，柴油价格则更高，为 1.99 英镑——尽管较本月初创下的 2 英镑历史高点略有回落。由于大多数商品都是通过卡车或货车运输的，因此燃料价格的影响十分深远。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3552141"
-  },
-  {
-    "post": "Financial_Express/3552140",
-    "datetime": "2026-10-21T06:10:22+00:00",
-    "views": "75",
-    "text": "主力资金：纳入富时罗素板块净流出超 66 亿\n截至目前，今日主力资金净流出 34.13 亿；净流入 TMT、电子、芯片概念等板块，其中 TMT 板块净流入 66.67 亿；净流出纳入富时罗素、新能源、MSCI 中国等板块，其中纳入富时罗素板块净流出 66.13 亿。\n  \n个股方面，利通电子净买入 7.79 亿元位居首位，兆易创新、杰瑞股份、天孚通信主力资金净流入居前；宁德时代净卖出 11.82 亿元位居首位，新易盛、阳光电源、比亚迪净流出额居前。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3552140"
-  },
-  {
-    "post": "Financial_Express/3552139",
-    "datetime": "2026-10-21T06:09:42+00:00",
-    "views": "45",
-    "text": "港股新消费概念股走低，泡泡玛特(09992.HK)跌超 5%，老铺黄金(06181.HK)跌 3.4%，鸣鸣很忙(01768.HK)跌近 3%，毛戈平(01318.HK)、奈雪的茶(02150.HK)、名创优品(09896.HK)均跌超 2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3552139"
-  },
-  {
-    "post": "Financial_Express/3552138",
-    "datetime": "2026-10-21T06:09:23+00:00",
-    "views": "45",
-    "text": "钯金期货日内跌 2%，现报 1082.50 美元/盎司。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3552138"
-  },
-  {
-    "post": "Financial_Express/3552137",
-    "datetime": "2026-10-21T06:09:22+00:00",
-    "views": "45",
-    "text": "中东核心原油基准价创三个月低点\n阿曼原油相对迪拜原油的价差回落至每桶 4 美元附近，为 7 月下旬以来最低。该价差是衡量海湾现货原油市场强弱的指标；冲突初期该价差曾飙升至 60 美元以上，当时霍尔木兹海峡近乎封闭，航运严重受阻。中东主要原油出口商或是冒着遇袭风险让油轮通行海峡，或是借助管线绕行、避开霍尔木兹海峡，原油外运愈发顺畅，削弱了伊朗试图通过阻断全球能源通道来掌握谈判筹码的策略。这场伊朗同美国、以色列之间的战争已持续七个月。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3552137"
   }
 ]
