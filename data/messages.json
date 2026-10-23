@@ -1,8 +1,116 @@
 [
   {
+    "post": "Financial_Express/3559410",
+    "datetime": "2026-10-23T01:58:22+00:00",
+    "views": "1",
+    "text": "聚丙烯连续主力合约日内涨 4%，现报 9638.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3559410"
+  },
+  {
+    "post": "Financial_Express/3559408",
+    "datetime": "2026-10-23T01:58:02+00:00",
+    "views": "5",
+    "text": "沪深两市成交额超 5000 亿元，较上日此时放量 733 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3559408"
+  },
+  {
+    "post": "Financial_Express/3559409",
+    "datetime": "2026-10-23T01:58:02+00:00",
+    "views": "5",
+    "text": "液化石油气连续主力合约日内涨 7%，现报 7330.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3559409"
+  },
+  {
+    "post": "Financial_Express/3559407",
+    "datetime": "2026-10-23T01:57:42+00:00",
+    "views": "7",
+    "text": "液化石油气（LPG）多合约触及涨停，其中 2703、2704、2705、2708 合约盘中均触及涨停，主力合约（2612）涨近 7％。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3559407"
+  },
+  {
+    "post": "Financial_Express/3559405",
+    "datetime": "2026-10-23T01:57:03+00:00",
+    "views": "11",
+    "text": "上海原油连续主力合约日内涨 4%，现报 730.20 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3559405"
+  },
+  {
+    "post": "Financial_Express/3559406",
+    "datetime": "2026-10-23T01:57:03+00:00",
+    "views": "11",
+    "text": "PCB 板块走弱，奥士康跌停\nPCB 板块走弱，奥士康跌停，中京电子、东方材料、沃特股份、超声电子、一博科技、依顿电子等跟跌。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3559406"
+  },
+  {
+    "post": "Financial_Express/3559404",
+    "datetime": "2026-10-23T01:57:02+00:00",
+    "views": "11",
+    "text": "白银连续主力合约日内跌 6%，现报 13001.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3559404"
+  },
+  {
+    "post": "Financial_Express/3559402",
+    "datetime": "2026-10-23T01:56:43+00:00",
+    "views": "43",
+    "text": "纽约期金失守 4010 美元/盎司，日内跌 1.24%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3559402"
+  },
+  {
+    "post": "Financial_Express/3559403",
+    "datetime": "2026-10-23T01:56:43+00:00",
+    "views": "43",
+    "text": "布伦特原油日内涨 1%，现报 114.33 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3559403"
+  },
+  {
+    "post": "Financial_Express/3559401",
+    "datetime": "2026-10-23T01:56:42+00:00",
+    "views": "43",
+    "text": "稀土永磁板块下挫，闽东电力跌停\n稀土永磁板块下挫，闽东电力跌停，华新科技跌超 10%，中钢天源、华阳新材、万朗磁塑、龙磁科技、中国瑞林等跟跌。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3559401"
+  },
+  {
+    "post": "Financial_Express/3559400",
+    "datetime": "2026-10-23T01:56:28+00:00",
+    "views": "43",
+    "text": "现货黄金跌破 4000 美元/盎司关口，日内跌幅 0.7%。\n国际油价延续涨势，布油、WTI 原油期货均涨逾 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3559400"
+  },
+  {
+    "post": "Financial_Express/3559399",
+    "datetime": "2026-10-23T01:56:22+00:00",
+    "views": "42",
+    "text": "中证 1000 指数期货连续主力合约日内跌 2%，现报 6339.40 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3559399"
+  },
+  {
     "post": "Financial_Express/3559397",
     "datetime": "2026-10-23T01:56:03+00:00",
-    "views": "4",
+    "views": "42",
     "text": "现货黄金失守 4000 美元/盎司，日内跌 0.60%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +119,7 @@
   {
     "post": "Financial_Express/3559398",
     "datetime": "2026-10-23T01:56:03+00:00",
-    "views": "3",
+    "views": "41",
     "text": "正大天晴 LAMA/LABA 双支扩粉雾剂速欢®获批上市\n10 月 22 日，国家药品监督管理总局（NMPA）官网显示，中国生物制药（01177.HK）核心企业正大天晴自主研发的乌美溴铵维兰特罗吸入粉雾剂——速欢®（TQC3403，LAMA/LABA 双支气管扩张剂）获批上市，用于慢性阻塞性肺疾病（COPD）的长期维持治疗。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +128,7 @@
   {
     "post": "Financial_Express/3559396",
     "datetime": "2026-10-23T01:56:02+00:00",
-    "views": "4",
+    "views": "42",
     "text": "燃料油连续主力合约日内涨 6%，现报 5102.00 元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +137,7 @@
   {
     "post": "Financial_Express/3559395",
     "datetime": "2026-10-23T01:55:43+00:00",
-    "views": "7",
+    "views": "42",
     "text": "WTI 原油日内涨 1%，现报 100.48 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +146,7 @@
   {
     "post": "Financial_Express/3559394",
     "datetime": "2026-10-23T01:55:42+00:00",
-    "views": "7",
+    "views": "42",
     "text": "A 股存储芯片概念表现活跃，大港股份涨停，普冉股份、德明利、长鑫科技跟涨。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +155,7 @@
   {
     "post": "Financial_Express/3559393",
     "datetime": "2026-10-23T01:55:01+00:00",
-    "views": "43",
+    "views": "45",
     "text": "09 点 54 分，22 农行二级资本债 02A（092200008.IB）外汇交易中心显示成交价 101.45 元，较前一交易日中债估值 107.14 元偏离-5.31%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +164,7 @@
   {
     "post": "Financial_Express/3559391",
     "datetime": "2026-10-23T01:54:42+00:00",
-    "views": "44",
+    "views": "45",
     "text": "纽约期银日内跌 2%，现报 53.89 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +173,7 @@
   {
     "post": "Financial_Express/3559392",
     "datetime": "2026-10-23T01:54:42+00:00",
-    "views": "44",
+    "views": "45",
     "text": "液化石油气连续主力合约日内涨 6%，现报 7260.00 元。",
     "media_only": false,
     "image_url": null,
@@ -38068,41 +38176,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3551556"
-  },
-  {
-    "post": "Financial_Express/3551555",
-    "datetime": "2026-10-21T01:58:42+00:00",
-    "views": "52",
-    "text": "特朗普第二任期内美方已吊销逾 30 万份签证\n美国国务院发言人 20 日说，美国在特朗普第二个总统任期内已吊销逾 30 万份签证。美国务院发言人汤米·皮戈特当天在社交平台发布最新数据时表示，特朗普政府“吊销签证的数量和速度均超过历届美国政府”，对“在美违法、欺诈或危害美国国家安全”的签证持有者“采取零容忍态度”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3551555"
-  },
-  {
-    "post": "Financial_Express/3551554",
-    "datetime": "2026-10-21T01:58:23+00:00",
-    "views": "54",
-    "text": "创业板指涨 1.01%，现报 2766.812 点；上证指数涨 0.09%，现报 3738.561 点；深证成指涨 0.92%，现报 11909.614 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3551554"
-  },
-  {
-    "post": "Financial_Express/3551553",
-    "datetime": "2026-10-21T01:58:02+00:00",
-    "views": "56",
-    "text": "两项目落地合肥\n金十数据 10 月 21 日讯，近日，自变量机器人合肥总部项目签约落户合肥高新区。该项目总投资约 3 亿元，聚焦应用型研发，具体场景的算法与模型工程化、交付标准化与产品化等方向，打造集“研发—中试—交付—运营”于一体的产业闭环。此外，汽车零部件供应商麦格纳集团与合肥高新区正式签署协议，将汽车座椅骨架研发及生产基地项目落户合肥。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3551553"
-  },
-  {
-    "post": "Financial_Express/3551552",
-    "datetime": "2026-10-21T01:57:22+00:00",
-    "views": "55",
-    "text": "中证 1000 指数期货连续主力合约日内涨 2%，现报 6798.00 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3551552"
   }
 ]
