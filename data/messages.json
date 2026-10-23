@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3562723",
+    "datetime": "2026-10-23T19:18:02+00:00",
+    "views": "4",
+    "text": "阿根廷刑事法院：针对阿根廷总统哈维尔·米莱和其妹卡里娜·米莱的 LIBRA 加密货币案调查已撤销。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3562723"
+  },
+  {
+    "post": "Financial_Express/3562722",
+    "datetime": "2026-10-23T19:17:22+00:00",
+    "views": "8",
+    "text": "国际原子能机构：750 千伏第聂伯罗夫斯卡主输电线路仍无法使用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3562722"
+  },
+  {
+    "post": "Financial_Express/3562721",
+    "datetime": "2026-10-23T19:17:03+00:00",
+    "views": "8",
+    "text": "OpenAI：与众多云伙伴合作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3562721"
+  },
+  {
+    "post": "Financial_Express/3562720",
+    "datetime": "2026-10-23T19:16:02+00:00",
+    "views": "19",
+    "text": "国际原子能机构：维修工作加强了扎波罗热核电站与其唯一剩余外部供电线路之间的连接。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3562720"
+  },
+  {
     "post": "Financial_Express/3562719",
     "datetime": "2026-10-23T19:15:43+00:00",
-    "views": "1",
+    "views": "19",
     "text": "OPENAI：已实施前沿模型训练无互联网访问政策，该政策将持续有效，直到安全保障措施的进步证明可以扩大互联网访问权限。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3562718",
     "datetime": "2026-10-23T19:15:42+00:00",
-    "views": "1",
+    "views": "19",
     "text": "国际原子能机构：维修工作加强了扎波罗热核电站与其仅剩的外部电力线路之间的连接。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3562717",
     "datetime": "2026-10-23T19:14:22+00:00",
-    "views": "11",
+    "views": "25",
     "text": "国际原子能机构：对防止乌克兰冲突期间发生核事故至关重要的电力基础设施已完成修复。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3562716",
     "datetime": "2026-10-23T19:14:02+00:00",
-    "views": "13",
+    "views": "26",
     "text": "中方强调捍卫《联合国宪章》的重要性\n金十数据 10 月 24 日讯，中国常驻联合国副代表孙磊表示，应践行真正的多边主义。无论大小、强弱、贫富，国家一律平等。国际上的事应由大家共同商量着办，世界命运应由各国共同掌握。大国尤其要带头遵守宪章，旗帜鲜明反对单边主义。中方反对未经安理会授权的单边制裁，重申安理会制裁应以促进有关问题的政治解决为目标，以宪章宗旨和原则为遵循，以穷尽其他和平手段为前提，并最大程度降低对普通民众和第三国的影响。他说，和平解决国际争端是宪章的基本原则之一。中方一贯倡导由争端当事国通过对话协商化解分歧，主张国际司法机构在当事国同意基础上，客观公正解决争端，不得任意扩张管辖权。作为负责任大国，中国在乌克兰危机、巴以冲突等问题上秉持客观公正立场，积极开展外交努力，发挥建设性作用。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3562714",
     "datetime": "2026-10-23T19:13:42+00:00",
-    "views": "16",
+    "views": "59",
     "text": "OpenAI 已将高算力环境下的红队测试(网络攻防测试）纳入安全评估范畴，以此判定其前沿模型训练及评估工作能否安全开展。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3562715",
     "datetime": "2026-10-23T19:13:42+00:00",
-    "views": "15",
+    "views": "58",
     "text": "OpenAI 认为，开展前沿模型训练时应断开互联网连接，这是负责任的做法。",
     "media_only": false,
     "image_url": null,
@@ -56,8 +92,8 @@
   {
     "post": "Financial_Express/3562713",
     "datetime": "2026-10-23T19:13:37+00:00",
-    "views": "16",
-    "text": "OpenAI 在其博客中表示，预计后续模型能够识别并利用目前尚未被察觉的安全漏洞。\n公司于 10 月 1 日恢复了前沿模型强化学习训练及内部推理工作。\n已将高算力环境下的红队测试(网络攻防测试）纳入安全评估范畴，以此判定其前沿模型训练及评估工作能否安全开展。",
+    "views": "56",
+    "text": "OpenAI 在其博客中表示，预计后续模型能够识别并利用目前尚未被察觉的安全漏洞。\n公司于 10 月 1 日恢复了前沿模型强化学习训练及内部推理工作。\n已将高算力环境下的红队测试(网络攻防测试）纳入安全评估范畴，以此判定其前沿模型训练及评估工作能否安全开展。\n开展前沿模型训练时应断开互联网连接，这是负责任的做法。\n已实施前沿模型训练无互联网访问政策，该政策将持续有效，直到安全保障措施的进步证明可以扩大互联网访问权限。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3562713"
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3562712",
     "datetime": "2026-10-23T19:13:22+00:00",
-    "views": "16",
+    "views": "27",
     "text": "OpenAI 于 10 月 1 日恢复了前沿模型强化学习训练及内部推理工作。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3562711",
     "datetime": "2026-10-23T19:12:22+00:00",
-    "views": "21",
+    "views": "59",
     "text": "OpenAI 在其博客中表示，预计后续模型能够识别并利用目前尚未被察觉的安全漏洞。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3562710",
     "datetime": "2026-10-23T19:11:42+00:00",
-    "views": "16",
+    "views": "53",
     "text": "伊朗总统办：港口遭封锁后物资进口量仅下降 25%\n金十数据 10 月 24 日讯，据伊朗学生通讯社报道，伊朗总统办公室主任表示，尽管此前承担全国 75%进口量的南部港口遭封锁，但全国物资进口量仅下降 25%，基本生活必需品供应充足，未出现短缺。目前，支持武装力量、保障民众生活是政府的首要任务。伊朗正处于战争状态，面临多重困难，敌方试图全力使伊朗陷入瘫痪，但民众已通过实际行动展现全面支持。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3562709",
     "datetime": "2026-10-23T19:09:42+00:00",
-    "views": "43",
+    "views": "45",
     "text": "福特汽车公司股价在成交量激增后出现下跌，最新跌幅达 3.0%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3562708",
     "datetime": "2026-10-23T19:06:42+00:00",
-    "views": "41",
+    "views": "44",
     "text": "中方强调捍卫《联合国宪章》的重要性\n中国常驻联合国副代表孙磊 23 日在联大第六委员会“《联合国宪章》和加强联合国作用特别委员会的报告”议题下发言，强调捍卫《联合国宪章》的重要性。他说，《联合国宪章》是当代国际法的坚实基础，在国际法体系中具有最高效力，是处理国际关系的根本遵循。当前，国际形势变乱交织。维护以联合国为核心的国际体系、以国际法为基础的国际秩序，确保宪章的宗旨和原则得到遵守和执行，比以往任何时候都更加迫切和必要。今年是东京审判开庭 80 周年，各方应以史为鉴，共同守护来之不易的和平成果和战后秩序。孙磊表示，应践行真正的多边主义。无论大小、强弱、贫富，国家一律平等。国际上的事应由大家共同商量着办，世界命运应由各国共同掌握。大国尤其要带头遵守宪章，旗帜鲜明反对单边主义。中方反对未经安理会授权的单边制裁，重申安理会制裁应以促进有关问题的政治解决为目标，以宪章宗旨和原则为遵循，以穷尽其他和平手段为前提，并最大程度降低对普通民众和第三国的影响。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3562707",
     "datetime": "2026-10-23T19:04:12+00:00",
-    "views": "40",
+    "views": "42",
     "text": "在岸人民币兑美元（CNY）北京时间 03:00 收报 6.6704 元，较周四夜盘收盘涨 44 点。成交量 388.65 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3562706",
     "datetime": "2026-10-23T19:03:22+00:00",
-    "views": "39",
+    "views": "40",
     "text": "财捷集团成交量放大下跌，股价最新跌 3.0%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3562704",
     "datetime": "2026-10-23T19:03:02+00:00",
-    "views": "38",
+    "views": "39",
     "text": "微软与动视暴雪 2.5 亿美元集体诉讼和解协议获批。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3562705",
     "datetime": "2026-10-23T19:03:02+00:00",
-    "views": "38",
+    "views": "39",
     "text": "伊朗总统办：港口遭封锁后物资进口量仅下降 25%\n伊朗总统办公室主任表示，尽管此前承担全国 75%进口量的南部港口遭封锁，但全国物资进口量仅下降 25%，基本生活必需品供应充足，未出现短缺。目前，支持武装力量、保障民众生活是政府的首要任务。伊朗正处于战争状态，面临多重困难，敌方试图全力使伊朗陷入瘫痪，但民众已通过实际行动展现全面支持。",
     "media_only": false,
     "image_url": null,
@@ -39463,59 +39499,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3554708"
-  },
-  {
-    "post": "Financial_Express/3554707",
-    "datetime": "2026-10-21T19:18:22+00:00",
-    "views": "64",
-    "text": "乌克兰基辅市区传出连续爆炸声\n当地时间 21 日，乌克兰基辅市区响起连续爆炸声。基辅市市长克利奇科称，基辅遭弹道导弹袭击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554707"
-  },
-  {
-    "post": "Financial_Express/3554706",
-    "datetime": "2026-10-21T19:18:02+00:00",
-    "views": "64",
-    "text": "美国国债期货跌至日内低点 油价再度攀升\n美国 2 年至 10 年期国债期货跌至日内低点。美国正准备下令驻海湾地区使馆部分职员撤离，油价随后回升。短端和中段领跌，推动 5s30s 利差降至日内最窄水平。美国国债短端至中段收益率上涨 4-5 个基点，而 20 年期和 30 年期收益率上涨约 2 个基点。WTI 原油期货抹去跌幅，转为上涨，涨幅约 0.4%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554706"
-  },
-  {
-    "post": "Financial_Express/3554704",
-    "datetime": "2026-10-21T19:17:23+00:00",
-    "views": "4",
-    "text": "芝商所首席执行官：使用 VPN 进行的非法石油交易无人监管。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554704"
-  },
-  {
-    "post": "Financial_Express/3554705",
-    "datetime": "2026-10-21T19:17:23+00:00",
-    "views": "4",
-    "text": "周三（10 月 21 日）纽约尾盘，美元兑日元涨 0.10%，报 158.31 日元，逼近亚太盘初刷新的日高，日内交投区间为 157.84-158.39 日元。\n欧元兑日元跌 0.05%，报 177.62 日元，全天呈现出宽底 U 形走势；英镑兑日元涨 0.09%，报 211.847 日元；日元兑离岸人民币跌 0.07%，报 4.2167 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554705"
-  },
-  {
-    "post": "Financial_Express/3554703",
-    "datetime": "2026-10-21T19:17:22+00:00",
-    "views": "4",
-    "text": "美国总统特朗普：距离解决俄乌冲突越来越近了。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554703"
-  },
-  {
-    "post": "Financial_Express/3554702",
-    "datetime": "2026-10-21T19:17:02+00:00",
-    "views": "34",
-    "text": "基辅市长：基辅正遭弹道导弹袭击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554702"
   }
 ]
