@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3562724",
+    "datetime": "2026-10-23T19:19:42+00:00",
+    "views": "11",
+    "text": "OpenAI 将在不接入互联网的情况下训练前沿模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3562724"
+  },
+  {
     "post": "Financial_Express/3562723",
     "datetime": "2026-10-23T19:18:02+00:00",
-    "views": "4",
+    "views": "22",
     "text": "阿根廷刑事法院：针对阿根廷总统哈维尔·米莱和其妹卡里娜·米莱的 LIBRA 加密货币案调查已撤销。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3562722",
     "datetime": "2026-10-23T19:17:22+00:00",
-    "views": "8",
+    "views": "24",
     "text": "国际原子能机构：750 千伏第聂伯罗夫斯卡主输电线路仍无法使用。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3562721",
     "datetime": "2026-10-23T19:17:03+00:00",
-    "views": "8",
+    "views": "24",
     "text": "OpenAI：与众多云伙伴合作。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3562720",
     "datetime": "2026-10-23T19:16:02+00:00",
-    "views": "19",
+    "views": "32",
     "text": "国际原子能机构：维修工作加强了扎波罗热核电站与其唯一剩余外部供电线路之间的连接。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3562719",
     "datetime": "2026-10-23T19:15:43+00:00",
-    "views": "19",
+    "views": "32",
     "text": "OPENAI：已实施前沿模型训练无互联网访问政策，该政策将持续有效，直到安全保障措施的进步证明可以扩大互联网访问权限。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3562718",
     "datetime": "2026-10-23T19:15:42+00:00",
-    "views": "19",
+    "views": "32",
     "text": "国际原子能机构：维修工作加强了扎波罗热核电站与其仅剩的外部电力线路之间的连接。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3562717",
     "datetime": "2026-10-23T19:14:22+00:00",
-    "views": "25",
+    "views": "65",
     "text": "国际原子能机构：对防止乌克兰冲突期间发生核事故至关重要的电力基础设施已完成修复。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3562716",
     "datetime": "2026-10-23T19:14:02+00:00",
-    "views": "26",
+    "views": "64",
     "text": "中方强调捍卫《联合国宪章》的重要性\n金十数据 10 月 24 日讯，中国常驻联合国副代表孙磊表示，应践行真正的多边主义。无论大小、强弱、贫富，国家一律平等。国际上的事应由大家共同商量着办，世界命运应由各国共同掌握。大国尤其要带头遵守宪章，旗帜鲜明反对单边主义。中方反对未经安理会授权的单边制裁，重申安理会制裁应以促进有关问题的政治解决为目标，以宪章宗旨和原则为遵循，以穷尽其他和平手段为前提，并最大程度降低对普通民众和第三国的影响。他说，和平解决国际争端是宪章的基本原则之一。中方一贯倡导由争端当事国通过对话协商化解分歧，主张国际司法机构在当事国同意基础上，客观公正解决争端，不得任意扩张管辖权。作为负责任大国，中国在乌克兰危机、巴以冲突等问题上秉持客观公正立场，积极开展外交努力，发挥建设性作用。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3562714",
     "datetime": "2026-10-23T19:13:42+00:00",
-    "views": "59",
+    "views": "67",
     "text": "OpenAI 已将高算力环境下的红队测试(网络攻防测试）纳入安全评估范畴，以此判定其前沿模型训练及评估工作能否安全开展。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3562715",
     "datetime": "2026-10-23T19:13:42+00:00",
-    "views": "58",
+    "views": "66",
     "text": "OpenAI 认为，开展前沿模型训练时应断开互联网连接，这是负责任的做法。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3562713",
     "datetime": "2026-10-23T19:13:37+00:00",
-    "views": "56",
+    "views": "63",
     "text": "OpenAI 在其博客中表示，预计后续模型能够识别并利用目前尚未被察觉的安全漏洞。\n公司于 10 月 1 日恢复了前沿模型强化学习训练及内部推理工作。\n已将高算力环境下的红队测试(网络攻防测试）纳入安全评估范畴，以此判定其前沿模型训练及评估工作能否安全开展。\n开展前沿模型训练时应断开互联网连接，这是负责任的做法。\n已实施前沿模型训练无互联网访问政策，该政策将持续有效，直到安全保障措施的进步证明可以扩大互联网访问权限。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3562712",
     "datetime": "2026-10-23T19:13:22+00:00",
-    "views": "27",
+    "views": "64",
     "text": "OpenAI 于 10 月 1 日恢复了前沿模型强化学习训练及内部推理工作。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3562711",
     "datetime": "2026-10-23T19:12:22+00:00",
-    "views": "59",
+    "views": "64",
     "text": "OpenAI 在其博客中表示，预计后续模型能够识别并利用目前尚未被察觉的安全漏洞。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3562710",
     "datetime": "2026-10-23T19:11:42+00:00",
-    "views": "53",
+    "views": "58",
     "text": "伊朗总统办：港口遭封锁后物资进口量仅下降 25%\n金十数据 10 月 24 日讯，据伊朗学生通讯社报道，伊朗总统办公室主任表示，尽管此前承担全国 75%进口量的南部港口遭封锁，但全国物资进口量仅下降 25%，基本生活必需品供应充足，未出现短缺。目前，支持武装力量、保障民众生活是政府的首要任务。伊朗正处于战争状态，面临多重困难，敌方试图全力使伊朗陷入瘫痪，但民众已通过实际行动展现全面支持。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3562709",
     "datetime": "2026-10-23T19:09:42+00:00",
-    "views": "45",
+    "views": "51",
     "text": "福特汽车公司股价在成交量激增后出现下跌，最新跌幅达 3.0%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3562708",
     "datetime": "2026-10-23T19:06:42+00:00",
-    "views": "44",
+    "views": "48",
     "text": "中方强调捍卫《联合国宪章》的重要性\n中国常驻联合国副代表孙磊 23 日在联大第六委员会“《联合国宪章》和加强联合国作用特别委员会的报告”议题下发言，强调捍卫《联合国宪章》的重要性。他说，《联合国宪章》是当代国际法的坚实基础，在国际法体系中具有最高效力，是处理国际关系的根本遵循。当前，国际形势变乱交织。维护以联合国为核心的国际体系、以国际法为基础的国际秩序，确保宪章的宗旨和原则得到遵守和执行，比以往任何时候都更加迫切和必要。今年是东京审判开庭 80 周年，各方应以史为鉴，共同守护来之不易的和平成果和战后秩序。孙磊表示，应践行真正的多边主义。无论大小、强弱、贫富，国家一律平等。国际上的事应由大家共同商量着办，世界命运应由各国共同掌握。大国尤其要带头遵守宪章，旗帜鲜明反对单边主义。中方反对未经安理会授权的单边制裁，重申安理会制裁应以促进有关问题的政治解决为目标，以宪章宗旨和原则为遵循，以穷尽其他和平手段为前提，并最大程度降低对普通民众和第三国的影响。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3562707",
     "datetime": "2026-10-23T19:04:12+00:00",
-    "views": "42",
+    "views": "44",
     "text": "在岸人民币兑美元（CNY）北京时间 03:00 收报 6.6704 元，较周四夜盘收盘涨 44 点。成交量 388.65 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3562706",
     "datetime": "2026-10-23T19:03:22+00:00",
-    "views": "40",
+    "views": "43",
     "text": "财捷集团成交量放大下跌，股价最新跌 3.0%。",
     "media_only": false,
     "image_url": null,
@@ -173,7 +182,7 @@
   {
     "post": "Financial_Express/3562705",
     "datetime": "2026-10-23T19:03:02+00:00",
-    "views": "39",
+    "views": "42",
     "text": "伊朗总统办：港口遭封锁后物资进口量仅下降 25%\n伊朗总统办公室主任表示，尽管此前承担全国 75%进口量的南部港口遭封锁，但全国物资进口量仅下降 25%，基本生活必需品供应充足，未出现短缺。目前，支持武装力量、保障民众生活是政府的首要任务。伊朗正处于战争状态，面临多重困难，敌方试图全力使伊朗陷入瘫痪，但民众已通过实际行动展现全面支持。",
     "media_only": false,
     "image_url": null,
@@ -39427,77 +39436,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3554717"
-  },
-  {
-    "post": "Financial_Express/3554714",
-    "datetime": "2026-10-21T19:20:23+00:00",
-    "views": "64",
-    "text": "Meta 的（无投票权股票）计划不会稀释扎克伯格的控制权。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554714"
-  },
-  {
-    "post": "Financial_Express/3554715",
-    "datetime": "2026-10-21T19:20:23+00:00",
-    "views": "64",
-    "text": "OpenAI 呼吁加强前沿人工智能安全保障。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554715"
-  },
-  {
-    "post": "Financial_Express/3554713",
-    "datetime": "2026-10-21T19:20:22+00:00",
-    "views": "64",
-    "text": "据美国财经媒体 Semafor：Meta Platforms(META.O)最早可能于周三在发布季度财报的同时正式宣布无投票权股票计划，旨在为 AI 投资融资。此举不稀释扎克伯格的控制权。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554713"
-  },
-  {
-    "post": "Financial_Express/3554711",
-    "datetime": "2026-10-21T19:19:22+00:00",
-    "views": "64",
-    "text": "Meta Platforms 计划推出新的无投票权股票，相关计划最早可能于周三宣布。。\n这个计划不会稀释 CEO 扎克伯格的控制权。（Semafor）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554711"
-  },
-  {
-    "post": "Financial_Express/3554712",
-    "datetime": "2026-10-21T19:19:22+00:00",
-    "views": "64",
-    "text": "Meta 的相关计划最早可能于周三宣布。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554712"
-  },
-  {
-    "post": "Financial_Express/3554710",
-    "datetime": "2026-10-21T19:19:07+00:00",
-    "views": "64",
-    "text": "当地时间 21 日，乌克兰基辅市区响起连续爆炸声。基辅市市长克利奇科称，基辅遭弹道导弹袭击。（央视）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554710"
-  },
-  {
-    "post": "Financial_Express/3554709",
-    "datetime": "2026-10-21T19:19:03+00:00",
-    "views": "64",
-    "text": "Meta 计划推出新的无投票权股票。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554709"
-  },
-  {
-    "post": "Financial_Express/3554708",
-    "datetime": "2026-10-21T19:19:02+00:00",
-    "views": "64",
-    "text": "芝商所首席执行官：能源行业的大型企业希望暂缓推进全天候石油交易。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554708"
   }
 ]
