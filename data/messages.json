@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3562730",
+    "datetime": "2026-10-23T19:29:22+00:00",
+    "views": "4",
+    "text": "国际油价 23 日显著上涨\n国际油价 23 日显著上涨。截至当天收盘，纽约商品交易所 12 月交货的轻质原油期货价格上涨 3.80 美元，收于每桶 103.27 美元，涨幅为 3.82%；12 月交货的伦敦布伦特原油期货价格上涨 3.55 美元，收于每桶 116.72 美元，涨幅为 3.14%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3562730"
+  },
+  {
+    "post": "Financial_Express/3562729",
+    "datetime": "2026-10-23T19:29:02+00:00",
+    "views": "8",
+    "text": "OpenAI 宣布最先进 AI 模型训练期间禁止直接访问互联网\n金十数据 10 月 24 日讯， OpenAI 10 月 23 日表示，为防止 AI 模型突破安全限制，已要求最先进模型在无法直接访问实时互联网的环境中训练，直至安全防护措施取得足够进展。OpenAI 披露，9 月 20 日，一款内部研究模型曾利用网络配置漏洞，在训练过程中获得有限的互联网访问权限，促使公司暂停最先进模型的训练和评估。经过 11 天的安全整改，OpenAI 于 10 月 1 日恢复了这些模型的强化学习训练及内部推理运行，但仍维持训练期间的互联网访问限制。此外，OpenAI 利用即将推出的 GPT-6 Astra Cyber 等模型开展安全测试，发现并修复了多项隔离环境漏洞。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3562729"
+  },
+  {
     "post": "Financial_Express/3562728",
     "datetime": "2026-10-23T19:23:42+00:00",
-    "views": "47",
+    "views": "51",
     "text": "OpenAI 认为现有安全措施足以支持重启前沿强化学习训练。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3562727",
     "datetime": "2026-10-23T19:22:42+00:00",
-    "views": "49",
+    "views": "53",
     "text": "因特朗普将削减部分加拿大关税，MOSAIC 股价涨幅扩大至 3%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3562726",
     "datetime": "2026-10-23T19:22:15+00:00",
-    "views": "52",
+    "views": "55",
     "text": "俄罗斯副总理诺瓦克表示，10 月份俄罗斯企业可向美国和全球市场出口 50 万吨柴油。\n据他透露，其中大部分货源来自俄石油公司，首批三艘油轮已经驶向大西洋东海岸。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3562725",
     "datetime": "2026-10-23T19:21:22+00:00",
-    "views": "54",
+    "views": "57",
     "text": "俄罗斯副总理诺瓦克：10 月份俄罗斯企业可向美国和全球市场出口 50 万吨柴油。他透露，其中大部分货源来自俄石油公司，首批三艘油轮已经驶向大西洋东海岸。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3562724",
     "datetime": "2026-10-23T19:19:42+00:00",
-    "views": "63",
+    "views": "65",
     "text": "OpenAI 将在不接入互联网的情况下训练前沿模型。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3562723",
     "datetime": "2026-10-23T19:18:02+00:00",
-    "views": "70",
+    "views": "71",
     "text": "阿根廷刑事法院：针对阿根廷总统哈维尔·米莱和其妹卡里娜·米莱的 LIBRA 加密货币案调查已撤销。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3562722",
     "datetime": "2026-10-23T19:17:22+00:00",
-    "views": "72",
+    "views": "73",
     "text": "国际原子能机构：750 千伏第聂伯罗夫斯卡主输电线路仍无法使用。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3562721",
     "datetime": "2026-10-23T19:17:03+00:00",
-    "views": "71",
+    "views": "72",
     "text": "OpenAI：与众多云伙伴合作。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3562720",
     "datetime": "2026-10-23T19:16:02+00:00",
-    "views": "77",
+    "views": "78",
     "text": "国际原子能机构：维修工作加强了扎波罗热核电站与其唯一剩余外部供电线路之间的连接。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3562719",
     "datetime": "2026-10-23T19:15:43+00:00",
-    "views": "76",
+    "views": "77",
     "text": "OPENAI：已实施前沿模型训练无互联网访问政策，该政策将持续有效，直到安全保障措施的进步证明可以扩大互联网访问权限。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3562718",
     "datetime": "2026-10-23T19:15:42+00:00",
-    "views": "76",
+    "views": "77",
     "text": "国际原子能机构：维修工作加强了扎波罗热核电站与其仅剩的外部电力线路之间的连接。",
     "media_only": false,
     "image_url": null,
@@ -39337,23 +39355,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3554731"
-  },
-  {
-    "post": "Financial_Express/3554730",
-    "datetime": "2026-10-21T19:30:42+00:00",
-    "views": "54",
-    "text": "美国国务院：撤离令仅针对沙特阿拉伯境内部分工作人员，并非整个海湾地区。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554730"
-  },
-  {
-    "post": "Financial_Express/3554729",
-    "datetime": "2026-10-21T19:29:42+00:00",
-    "views": "52",
-    "text": "记者：威特科夫称普京富有同情心。\n\n特朗普：我想可以这么说，他毕竟放走了一个原本要终身服刑的人。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554729"
   }
 ]
