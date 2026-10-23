@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3562131",
+    "datetime": "2026-10-23T13:25:23+00:00",
+    "views": "2",
+    "text": "Anthropic：Mythos 5 的行为是严重的对齐失败。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3562131"
+  },
+  {
+    "post": "Financial_Express/3562130",
+    "datetime": "2026-10-23T13:25:02+00:00",
+    "views": "4",
+    "text": "Anthropic：人工智能能力的进步应当有序推进。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3562130"
+  },
+  {
+    "post": "Financial_Express/3562128",
+    "datetime": "2026-10-23T13:24:42+00:00",
+    "views": "6",
+    "text": "Anthropic：Claude Opus 5.5 与 Claude Mythos 5.1 仍存在不足。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3562128"
+  },
+  {
+    "post": "Financial_Express/3562129",
+    "datetime": "2026-10-23T13:24:42+00:00",
+    "views": "6",
+    "text": "Anthropic 认为，人工智能能力的进步应当有序推进。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3562129"
+  },
+  {
     "post": "Financial_Express/3562127",
     "datetime": "2026-10-23T13:24:32+00:00",
-    "views": "4",
+    "views": "37",
     "text": "10 月 23 日，中共中央政治局委员、外交部长王毅在河北雄安新区会见来华出席 2026 全球治理论坛（雄安）的美国亚洲协会董事会共同主席桑顿和《纽约时报》专栏作家弗里德曼。王毅说，中国主张人工智能普惠包容、向上向善发展。中美作为人工智能第一梯队国家，有能力也有责任共同发展好、管控好人工智能，确保其发展始终受控于人、造福于民。我们不仅要防范风险，也要开展合作，共同商讨全球适用的规则标准，使人工智能服务于促进共同繁荣、维护共同安全。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3562126",
     "datetime": "2026-10-23T13:24:23+00:00",
-    "views": "9",
+    "views": "41",
     "text": "Anthropic 表示，较新的模型发动攻击的可能性更低。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3562125",
     "datetime": "2026-10-23T13:24:22+00:00",
-    "views": "9",
+    "views": "41",
     "text": "欧盟委员会对 Meta 的延期表示欢迎。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3562124",
     "datetime": "2026-10-23T13:24:03+00:00",
-    "views": "12",
+    "views": "45",
     "text": "META 表示，延期将使其能够向合作伙伴和利益相关者解释相关变化。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3562123",
     "datetime": "2026-10-23T13:24:02+00:00",
-    "views": "12",
+    "views": "45",
     "text": "Meta Platforms 表示，将把更新后商业条款的实施日期从 10 月 30 日推迟至 11 月 20 日。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3562122",
     "datetime": "2026-10-23T13:23:43+00:00",
-    "views": "12",
+    "views": "45",
     "text": "Anthropic 进一步调查了 Claude Mythos 5 的行为。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3562121",
     "datetime": "2026-10-23T13:23:23+00:00",
-    "views": "16",
+    "views": "50",
     "text": "Anthropic 表示，Mythos 的行为本应被安全防护机制标记。",
     "media_only": false,
     "image_url": null,
@@ -65,8 +101,8 @@
   {
     "post": "Financial_Express/3562119",
     "datetime": "2026-10-23T13:23:02+00:00",
-    "views": "17",
-    "text": "Anthropic：已对英国 AI 安全研究所（AISI）8 月 4 日的报告展开调查。\nMythos 的行为本应已被安全防护机制标记出来。\n已进一步调查 Claude Mythos 5 的行为。\n较新的模型不太可能发起攻击。",
+    "views": "50",
+    "text": "Anthropic：已对英国 AI 安全研究所（AISI）8 月 4 日的报告展开调查。\nMythos 的行为本应已被安全防护机制标记出来。\n已进一步调查 Claude Mythos 5 的行为。\n较新的模型不太可能发起攻击。\nClaude Opus 5.5 和 Claude Mythos 5.1 仍存在不足。\n这些模型未能始终如一地阻止攻击。\n内部研究模型能够始终如一地做到这一点。\nMythos 5 的行为是严重的对齐失败。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3562119"
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3562120",
     "datetime": "2026-10-23T13:23:02+00:00",
-    "views": "17",
+    "views": "51",
     "text": "Anthropic：已对 8 月 4 日英国人工智能安全研究所报告展开调查。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3562118",
     "datetime": "2026-10-23T13:22:43+00:00",
-    "views": "19",
+    "views": "51",
     "text": "Anthropic：已对英国人工智能安全研究所 8 月 4 日的报告展开调查。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3562117",
     "datetime": "2026-10-23T13:22:42+00:00",
-    "views": "18",
+    "views": "50",
     "text": "纯苯连续主力合约日内涨 4%，现报 9305.00 元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3562116",
     "datetime": "2026-10-23T13:22:22+00:00",
-    "views": "18",
+    "views": "50",
     "text": "标普全球评级推出北美数据中心交互式仪表盘。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3562115",
     "datetime": "2026-10-23T13:21:36+00:00",
-    "views": "49",
+    "views": "50",
     "text": "梅拉尼娅促成 Oleshky 地区的俄乌局部停火，乌克兰和俄罗斯局部停火将于 10 月 29 日开始。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3562114",
     "datetime": "2026-10-23T13:20:23+00:00",
-    "views": "51",
+    "views": "52",
     "text": "白宫：一个“中立的美国媒体组织”将全程陪同并记录俄罗斯和乌克兰代表团的工作。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3562113",
     "datetime": "2026-10-23T13:20:02+00:00",
-    "views": "51",
+    "views": "52",
     "text": "PVC 连续主力合约日内涨 2%，现报 5153.00 元。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3562112",
     "datetime": "2026-10-23T13:19:42+00:00",
-    "views": "51",
+    "views": "52",
     "text": "惠泰医疗：2026 年上半年营收 15.26 亿元 净利同比增 26.38%\n惠泰医疗公告称，公司自愿披露生产经营情况，2026 年上半年实现营业收入 15.26 亿元，同比增长 25.75%；归属于上市公司股东的净利润 5.37 亿元，同比增长 26.38%；利润总额 6.03 亿元，同比增长 25.84%。2026 年前三季度营收、净利润增速较上半年有所增加，具体详见拟于 10 月 29 日披露的 2026 年第三季度报告。公司上市以来累计实施四轮回购，回购金额超 6 亿元；2020 年度至 2025 年度累计现金分红 6.53 亿元（含税）。",
     "media_only": false,
     "image_url": null,
@@ -39400,167 +39436,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3554082"
-  },
-  {
-    "post": "Financial_Express/3554080",
-    "datetime": "2026-10-21T13:26:43+00:00",
-    "views": "41",
-    "text": "克里姆林宫：各方讨论了重启三方和平谈判的事宜。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554080"
-  },
-  {
-    "post": "Financial_Express/3554081",
-    "datetime": "2026-10-21T13:26:43+00:00",
-    "views": "41",
-    "text": "克里姆林宫：威特科夫向普京简要介绍了他在奥斯陆的会谈和“新方法”，但在和平解决的背景下没有任何真正有用的东西。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554081"
-  },
-  {
-    "post": "Financial_Express/3554079",
-    "datetime": "2026-10-21T13:26:42+00:00",
-    "views": "41",
-    "text": "克里姆林宫：还讨论了其他重大联合经济项目，落实俄美柴油协议是会谈的重要部分。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554079"
-  },
-  {
-    "post": "Financial_Express/3554078",
-    "datetime": "2026-10-21T13:26:40+00:00",
-    "views": "37",
-    "text": "俄罗斯直接投资基金(RDIF)负责人、普京投资事务特使 Kirill Dmitriev 在 X 平台上表示，普京与美国特使史蒂夫·威特科夫在圣彼得堡举行的会谈非常富有成效。Dmitriev 也参加了此次会谈。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554078"
-  },
-  {
-    "post": "Financial_Express/3554077",
-    "datetime": "2026-10-21T13:26:28+00:00",
-    "views": "37",
-    "text": "克里姆林宫：普京表示，俄罗斯原则上准备在 11 月中旬恢复三方和平谈判。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554077"
-  },
-  {
-    "post": "Financial_Express/3554075",
-    "datetime": "2026-10-21T13:26:24+00:00",
-    "views": "7",
-    "text": "克里姆林宫：威特科夫表示，特朗普将对这一决定非常满意。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554075"
-  },
-  {
-    "post": "Financial_Express/3554076",
-    "datetime": "2026-10-21T13:26:24+00:00",
-    "views": "37",
-    "text": "克里姆林宫：议题将是冲突结束后如何保障俄罗斯和乌克兰的安全。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554076"
-  },
-  {
-    "post": "Financial_Express/3554073",
-    "datetime": "2026-10-21T13:26:23+00:00",
-    "views": "7",
-    "text": "克里姆林宫：一些更多的联合经济项目即将实现。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554073"
-  },
-  {
-    "post": "Financial_Express/3554074",
-    "datetime": "2026-10-21T13:26:23+00:00",
-    "views": "7",
-    "text": "克里姆林宫：落实俄美柴油协议是谈判的重要组成部分。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554074"
-  },
-  {
-    "post": "Financial_Express/3554072",
-    "datetime": "2026-10-21T13:26:22+00:00",
-    "views": "7",
-    "text": "克里姆林宫：曾讨论恢复三方和平谈判事宜。美国总统特使威特科夫表示，美国总统特朗普将对这一决定非常满意。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554072"
-  },
-  {
-    "post": "Financial_Express/3554071",
-    "datetime": "2026-10-21T13:26:07+00:00",
-    "views": "6",
-    "text": "克里姆林宫：普京重申俄罗斯愿意帮助解决伊朗危机。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554071"
-  },
-  {
-    "post": "Financial_Express/3554070",
-    "datetime": "2026-10-21T13:26:04+00:00",
-    "views": "6",
-    "text": "克里姆林宫：普京向威特科夫表示，伊朗问题仍有外交斡旋空间，需要与德黑兰达成协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554070"
-  },
-  {
-    "post": "Financial_Express/3554067",
-    "datetime": "2026-10-21T13:26:03+00:00",
-    "views": "2",
-    "text": "克里姆林宫：俄罗斯总统普京对美国总统特使威特科夫表示，伊朗问题仍有外交空间，需要与德黑兰达成协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554067"
-  },
-  {
-    "post": "Financial_Express/3554068",
-    "datetime": "2026-10-21T13:26:03+00:00",
-    "views": "2",
-    "text": "克里姆林宫：美国总统特使威特科夫向俄罗斯总统普京通报了其在奥斯陆的会谈情况及“新思路”，但在和平解决方案方面并无真正有用的内容。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554068"
-  },
-  {
-    "post": "Financial_Express/3554069",
-    "datetime": "2026-10-21T13:26:03+00:00",
-    "views": "6",
-    "text": "谷歌 CEO：几乎所有企业都面临算力短缺 优先保障前沿研发算力供给\n桑达尔·皮查伊表示：“我们第一优先级，是保障前沿 AI 研发所需的算力投入。2015 年我确立了谷歌 AI 优先战略，AI 是贯穿搜索、云业务、Waymo 所有业务的底层核心。保障研发、训练模型的算力供给，是我们的根基。 在此基础上，各个独立业务线拥有各自长期规划，基于预测来分配算力资源。云团队有自身业务目标、需求信号以及已签署的长期合约，我们以此规划云业务长期算力供给。”他表示， 现在，几乎所有企业都面临算力短缺，大家都希望手里的算力是原定规划的两倍，这是行业常态。我们现在就要预判两到三年后的算力需求。有些两年前定下的决策，放到新的技术环境下看或许不算最优，但我不会过度纠结这件事。 他表示，他的算力分配逻辑是优先保障 Google DeepMind 的前沿研发算力供给，在此之后，再为各个业务部门规划资源。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554069"
-  },
-  {
-    "post": "Financial_Express/3554066",
-    "datetime": "2026-10-21T13:26:02+00:00",
-    "views": "2",
-    "text": "克里姆林宫：俄罗斯总统普京重申俄罗斯愿意协助解决伊朗危机。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554066"
-  },
-  {
-    "post": "Financial_Express/3554065",
-    "datetime": "2026-10-21T13:25:23+00:00",
-    "views": "7",
-    "text": "埃及表示，该批准对埃及不具有任何法律效力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554065"
-  },
-  {
-    "post": "Financial_Express/3554064",
-    "datetime": "2026-10-21T13:25:22+00:00",
-    "views": "7",
-    "text": "美国驻北约大使惠特克表示，哈伯德的获释表明俄罗斯愿意合作。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3554064"
   }
 ]
