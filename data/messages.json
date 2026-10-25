@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3564342",
+    "datetime": "2026-10-25T23:05:42+00:00",
+    "views": "4",
+    "text": "巴西大选第二轮投票已统计 25.19%的选票，博索纳罗以 50.51%的得票率领先。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3564342"
+  },
+  {
     "post": "Financial_Express/3564341",
     "datetime": "2026-10-25T23:04:22+00:00",
-    "views": "3",
+    "views": "7",
     "text": "三星 SDI 与美国 Alpha Omega 签署储能系统供应协议。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3564340",
     "datetime": "2026-10-25T23:03:42+00:00",
-    "views": "6",
+    "views": "9",
     "text": "特朗普在社交媒体发文重申支持以色列总理内塔尼亚胡。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3564335",
     "datetime": "2026-10-25T22:57:02+00:00",
-    "views": "20",
+    "views": "50",
     "text": "SK 海力士这笔 16 万亿韩元（合 120 亿美元）的特别分红，相当于出售铠侠股权所得收益的 70%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3564336",
     "datetime": "2026-10-25T22:57:02+00:00",
-    "views": "20",
+    "views": "50",
     "text": "SK 海力士计划在周三发布财报时宣布特别股息计划。",
     "media_only": false,
     "image_url": null,
@@ -12265,14 +12274,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3562972"
-  },
-  {
-    "post": "Financial_Express/3562971",
-    "datetime": "2026-10-23T23:05:57+00:00",
-    "views": "73",
-    "text": "英国宣布 1 亿英镑资金，用于与 OpenAI、Anthropic、谷歌 Deepmind 成立 AI 生物安全实验室。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3562971"
   }
 ]
