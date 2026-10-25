@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3564084",
+    "datetime": "2026-10-25T13:21:22+00:00",
+    "views": "36",
+    "text": "据利佩茨克州州长表示，乌克兰导弹袭击俄罗斯利佩茨克州一处工业设施，造成 1 人死亡。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3564084"
+  },
+  {
     "post": "Financial_Express/3564083",
     "datetime": "2026-10-25T13:17:22+00:00",
-    "views": "41",
+    "views": "72",
     "text": "利比亚国家石油公司发表声明称，锡尔特公司旗下两座甲醇装置在完成检修后已恢复运行。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3564082",
     "datetime": "2026-10-25T13:16:42+00:00",
-    "views": "42",
+    "views": "73",
     "text": "众议院议长约翰逊：鲁比奥表示美国将进行三方谈判。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3564081",
     "datetime": "2026-10-25T13:16:22+00:00",
-    "views": "42",
+    "views": "73",
     "text": "众议院议长约翰逊：周末与国务卿鲁比奥就俄罗斯问题进行了交谈。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3564080",
     "datetime": "2026-10-25T13:15:37+00:00",
-    "views": "45",
+    "views": "76",
     "text": "美国众议院议长迈克·约翰逊：周六与特朗普讨论了俄罗斯问题。\n周末与鲁比奥就俄罗斯问题进行了交谈。\n鲁比奥表示美国将进行三方谈判。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3564079",
     "datetime": "2026-10-25T13:15:22+00:00",
-    "views": "47",
+    "views": "77",
     "text": "众议院议长约翰逊：俄罗斯总统普京不可信任，我们必须以相应方式对待他。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3564078",
     "datetime": "2026-10-25T13:15:02+00:00",
-    "views": "47",
+    "views": "77",
     "text": "众议院议长约翰逊：周六与美国总统特朗普讨论了俄罗斯问题。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3564075",
     "datetime": "2026-10-25T13:11:22+00:00",
-    "views": "82",
+    "views": "112",
     "text": "埃及交易所更新了 TAMAYUZ 指数的方法，并将其更名为 TAMAYUZ 全股 EWI 指数。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3564074",
     "datetime": "2026-10-25T13:11:07+00:00",
-    "views": "83",
+    "views": "113",
     "text": "阿布扎比王储将于 10 月 26 日至 27 日访问渥太华。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -17584,41 +17593,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3562120"
-  },
-  {
-    "post": "Financial_Express/3562118",
-    "datetime": "2026-10-23T13:22:43+00:00",
-    "views": "51",
-    "text": "Anthropic：已对英国人工智能安全研究所 8 月 4 日的报告展开调查。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3562118"
-  },
-  {
-    "post": "Financial_Express/3562117",
-    "datetime": "2026-10-23T13:22:42+00:00",
-    "views": "50",
-    "text": "纯苯连续主力合约日内涨 4%，现报 9305.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3562117"
-  },
-  {
-    "post": "Financial_Express/3562116",
-    "datetime": "2026-10-23T13:22:22+00:00",
-    "views": "50",
-    "text": "标普全球评级推出北美数据中心交互式仪表盘。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3562116"
-  },
-  {
-    "post": "Financial_Express/3562115",
-    "datetime": "2026-10-23T13:21:36+00:00",
-    "views": "50",
-    "text": "梅拉尼娅促成 Oleshky 地区的俄乌局部停火，乌克兰和俄罗斯局部停火将于 10 月 29 日开始。（彭博）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3562115"
   }
 ]
