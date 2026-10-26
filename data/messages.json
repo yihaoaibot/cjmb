@@ -1,9 +1,54 @@
 [
   {
+    "post": "Financial_Express/3567700",
+    "datetime": "2026-10-26T13:38:02+00:00",
+    "views": "7",
+    "text": "Anthropic 目标估值仍未披露 融资规模有望达到 1000 亿美元\n金十数据 10 月 26 日讯，Anthropic 仍有两项关键信息尚未披露：公司寻求的上市估值，以及计划发行的股票数量。这些细节可能还需要两周左右才会公布。届时，Anthropic 将在收集投资者反馈后提交更新版上市文件。据知情人士透露，Anthropic 计划在 11 月 16 日当周上市，但具体时间仍可能调整。知情人士表示，Anthropic 此次 IPO 的融资规模可能达到 1000 亿美元甚至更高，公司估值有望达到 1.5 万亿至 2 万亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3567700"
+  },
+  {
+    "post": "Financial_Express/3567699",
+    "datetime": "2026-10-26T13:37:42+00:00",
+    "views": "7",
+    "text": "XP 公司在纽约股市一度下跌 55%，再次停牌。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3567699"
+  },
+  {
+    "post": "Financial_Express/3567698",
+    "datetime": "2026-10-26T13:37:32+00:00",
+    "views": "8",
+    "text": "标普 500 指数高开 16.02 点，涨幅 0.21%，报 7639.70 点；\n道琼斯工业平均指数高开 105.29 点，涨幅 0.20%，报 52320.45 点；\n纳斯达克综合指数高开 71.52 点，涨幅 0.28%，报 26026.87 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3567698"
+  },
+  {
+    "post": "Financial_Express/3567697",
+    "datetime": "2026-10-26T13:37:22+00:00",
+    "views": "8",
+    "text": "Meta 股价下跌 1.9%，此前该公司启动 950 亿美元股权融资，以资助人工智能扩张。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3567697"
+  },
+  {
+    "post": "Financial_Express/3567696",
+    "datetime": "2026-10-26T13:37:02+00:00",
+    "views": "9",
+    "text": "美元指数突破 102 关口，日内涨 0.25%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3567696"
+  },
+  {
     "post": "Financial_Express/3567695",
     "datetime": "2026-10-26T13:36:02+00:00",
-    "views": "4",
-    "text": "NEBIUS 下跌 5%，COREWEAVE 下跌 4.1%，IREN 下跌 3.3%。",
+    "views": "43",
+    "text": "美股 AI 算力租赁商盘初下挫，Nebius 下跌 5%，CoreWeave 下跌 4.1%，IREN 下跌 3.3%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3567695"
@@ -11,8 +56,8 @@
   {
     "post": "Financial_Express/3567694",
     "datetime": "2026-10-26T13:35:42+00:00",
-    "views": "5",
-    "text": "据路透社：伊朗高级官员表示，德黑兰与麦加协议成员国的会谈不涉及伊朗核问题。",
+    "views": "43",
+    "text": "伊朗官员：伊与沙土巴的会谈不涉及核问题\n金十数据 10 月 26 日讯，据路透社：伊朗高级官员表示，德黑兰与麦加协议成员国的会谈不涉及伊朗核问题。伊朗不会在美国满足德黑兰要求前讨论其核计划",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3567694"
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3567693",
     "datetime": "2026-10-26T13:35:03+00:00",
-    "views": "39",
+    "views": "44",
     "text": "墨西哥主要股指早盘下跌逾 1%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3567691",
     "datetime": "2026-10-26T13:35:02+00:00",
-    "views": "39",
+    "views": "44",
     "text": "Anthropic 预计算力及基础设施协议相关支出将达 1250 亿至 1500 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3567692",
     "datetime": "2026-10-26T13:35:02+00:00",
-    "views": "39",
+    "views": "44",
     "text": "Strive 股价下跌 5.4%，此前公司宣布 10 亿美元 SATS 按市价发行计划。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3567690",
     "datetime": "2026-10-26T13:34:31+00:00",
-    "views": "42",
+    "views": "75",
     "text": "Anthropic：已设立长期利益信托，以确保公司得到负责任的管理。\nT 类股票将赋予该信托选举和罢免 T 类董事的权力，但不会就提交给股东投票的事项享有其他投票权，也不会享有任何经济权利。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3567689",
     "datetime": "2026-10-26T13:34:22+00:00",
-    "views": "42",
+    "views": "75",
     "text": "Anthropic：截至 6 月 30 日，限制性股票单位费用约 266 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3567686",
     "datetime": "2026-10-26T13:33:43+00:00",
-    "views": "45",
+    "views": "77",
     "text": "巴西股票 ETF(EWZ.N)暴跌 26%，为历史最大跌幅。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3567687",
     "datetime": "2026-10-26T13:33:43+00:00",
-    "views": "45",
+    "views": "77",
     "text": "Meta Health Limited 建议配售 6.4 亿股公司新股本普通股。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3567688",
     "datetime": "2026-10-26T13:33:43+00:00",
-    "views": "44",
+    "views": "76",
     "text": "Anthropic：约 266 亿美元未确认的股票薪酬限制性股票单位费用。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3567685",
     "datetime": "2026-10-26T13:33:40+00:00",
-    "views": "45",
+    "views": "47",
     "text": "瑞芯微公告，2026 年前三季度营业收入 44.49 亿元，同比增长 41.64%；归母净利润 13.32 亿元，同比增长 70.90%；扣非净利润 13.01 亿元，同比增长 72.09%。第三季度单季营业收入 15.73 亿元，同比增长 43.57%；归母净利润 4.73 亿元，同比增长 90.49%；扣非净利润 4.61 亿元，同比增长 92.10%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3567684",
     "datetime": "2026-10-26T13:33:22+00:00",
-    "views": "44",
+    "views": "76",
     "text": "伊朗高级官员：在美国满足德黑兰的要求之前，伊朗不会讨论其核计划。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3567683",
     "datetime": "2026-10-26T13:33:03+00:00",
-    "views": "45",
+    "views": "77",
     "text": "Block 股价下跌 2.1%，此前摩根士丹利将其评级从增持下调至持股观望。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3567681",
     "datetime": "2026-10-26T13:33:02+00:00",
-    "views": "44",
+    "views": "74",
     "text": "Anthropic 员工跻身已披露的最大股东之列\nAnthropic 的创始人跻身公司已披露的最大个人股东之列，占据了通常由大型投资机构持有的重要股东席位。根据监管文件，除首席执行官达里奥·阿莫代伊（Dario Amodei）持有或控制 2.45 亿股股票外，丹妮拉·阿莫代伊（Daniela Amodei）、汤姆·布朗（Tom Brown）、杰克·克拉克（Jack Clark）、贾里德·卡普兰（Jared Kaplan）、萨姆·麦坎德利什（Sam McCandlish）和克里斯托弗·奥拉（Christopher Olah）各自持有超过 2 亿股 A 类普通股。与此同时，多家此前向 Anthropic 投入数亿美元的风险投资机构也有望获得巨额回报，其中包括 Iconiq、光速创投（Lightspeed Venture Partners）和 Menlo Ventures。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3567682",
     "datetime": "2026-10-26T13:33:02+00:00",
-    "views": "45",
+    "views": "76",
     "text": "伊朗高级官员：德黑兰与麦加协议成员国的会谈不涉及伊朗核问题。",
     "media_only": false,
     "image_url": null,
