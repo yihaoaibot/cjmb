@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3568266",
+    "datetime": "2026-10-26T19:40:32+00:00",
+    "views": "3",
+    "text": "周一（10 月 26 日）纽约尾盘，美国 10 年期国债收益率大致持平，报 4.9946%，全天呈现出 W 形走势，北京时间 10:48 刷新日低至 4.9594%，20:10 刷新日高至 5.0070%。\n两年期美债收益率涨 3.63 个基点，报 4.7180%，11:30 跌至 4.6559%刷新日低，随后持续走高，03:34 刷新日高至 4.7202%；30 年期美债收益率跌 1.93 个基点，报 5.3039%。\n2/10 年期美债收益率利差跌 3.607 个基点，报+27.238 个基点。\n10 年期通胀保值国债（TIPS）收益率持平，至 2.6415%；两年期 TIPS 收益率涨 4.02 个基点，至 2.1221%；30 年期 TIPS 收益率跌 1.74 个基点，至 3.0730%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3568266"
+  },
+  {
+    "post": "Financial_Express/3568264",
+    "datetime": "2026-10-26T19:40:22+00:00",
+    "views": "3",
+    "text": "国际油价 26 日下跌\n金十数据 10 月 27 日讯，截至当天收盘，纽约商品交易所 12 月交货的轻质原油期货价格下跌 1.51 美元，收于每桶 101.76 美元，跌幅为 1.46%；12 月交货的伦敦布伦特原油期货价格下跌 91 美分，收于每桶 115.81 美元，跌幅为 0.78%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3568264"
+  },
+  {
+    "post": "Financial_Express/3568265",
+    "datetime": "2026-10-26T19:40:22+00:00",
+    "views": "3",
+    "text": "美国国务卿鲁比奥：美国未对委内瑞拉做出任何不可逆的让步。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3568265"
+  },
+  {
     "post": "Financial_Express/3568263",
     "datetime": "2026-10-26T19:39:42+00:00",
-    "views": "1",
+    "views": "4",
     "text": "美国国务卿鲁比奥：委内瑞拉的选举基础设施必须更换，选举才能有效。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3568262",
     "datetime": "2026-10-26T19:39:22+00:00",
-    "views": "3",
+    "views": "4",
     "text": "国际油价 26 日下跌\n截至当天收盘，纽约商品交易所 12 月交货的轻质原油期货价格下跌 1.51 美元，收于每桶 101.76 美元，跌幅为 1.46%；12 月交货的伦敦布伦特原油期货价格下跌 91 美分，收于每桶 115.81 美元，跌幅为 0.78%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3568261",
     "datetime": "2026-10-26T19:37:42+00:00",
-    "views": "8",
+    "views": "38",
     "text": "美国国务卿鲁比奥：古巴的情况与委内瑞拉不同。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3568260",
     "datetime": "2026-10-26T19:37:22+00:00",
-    "views": "8",
+    "views": "38",
     "text": "美国总统特朗普谈巴西选举：我喜欢巴西总统卢拉，我和他相处得很好。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3568259",
     "datetime": "2026-10-26T19:37:03+00:00",
-    "views": "8",
+    "views": "38",
     "text": "伊朗：若条件得到满足，伊朗愿意接受美国提出的更短时间框架方案。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3568258",
     "datetime": "2026-10-26T19:37:02+00:00",
-    "views": "8",
+    "views": "38",
     "text": "美国总统特朗普：（关于巴西选举）我喜欢巴西总统卢拉，我和他相处得很好。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3568256",
     "datetime": "2026-10-26T19:36:02+00:00",
-    "views": "8",
+    "views": "38",
     "text": "美国总统特朗普谈巴西：我喜欢（赢得连任的）巴西总统卢拉。\n我们相处得很好。\n选举结果看起来很糟糕。",
     "media_only": false,
     "image_url": null,
@@ -41191,32 +41218,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3563456"
-  },
-  {
-    "post": "Financial_Express/3563455",
-    "datetime": "2026-10-24T19:42:42+00:00",
-    "views": "152",
-    "text": "AMD 暗盘涨超 1%，现报 520.585 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3563455"
-  },
-  {
-    "post": "Financial_Express/3563454",
-    "datetime": "2026-10-24T19:42:23+00:00",
-    "views": "152",
-    "text": "意大利抗议者闯入罗马斗兽场\n在罗马，部分示威者向警方投掷瓶子，警方动用高压水枪和催泪瓦斯驱散人群，并对 200 多人进行身份核查，近百人被带往警察局。在都灵，反扩军游行队伍试图冲破警方封锁，部分示威者向警方投掷瓶子、发射烟花，警方使用催泪瓦斯并实施驱离。在博洛尼亚，示威者投掷瓶子和爆竹，警方使用高压水枪驱散人群。 10 月 17 日至 18 日，米兰等地示威中出现打砸抢行为。意大利政府于 10 月 20 日批准新安全法令，设立“暴力参与示威”罪，最高可判处 5 年监禁，将预防性拘留扩大至未成年人，并向米兰增派 500 名军人，协助警方维护治安至年底。（CCTV 国际时讯）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3563454"
-  },
-  {
-    "post": "Financial_Express/3563453",
-    "datetime": "2026-10-24T19:42:02+00:00",
-    "views": "143",
-    "text": "意大利多地抗议爆发冲突\n10 月 24 日，意大利首都罗马及米兰、都灵、博洛尼亚等多座城市举行示威游行，抗议生活成本上涨、反对战争和扩军。其中多地抗议者与警方发生冲突。（CCTV 国际时讯）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3563453"
   }
 ]
