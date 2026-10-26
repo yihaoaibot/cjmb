@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3568168",
     "datetime": "2026-10-26T18:22:22+00:00",
-    "views": "40",
+    "views": "53",
     "text": "伊朗总统抵达俄罗斯莫斯科。\n❤1",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3568167",
     "datetime": "2026-10-26T18:21:12+00:00",
-    "views": "54",
+    "views": "64",
     "text": "德国 DAX 30 指数收涨 0.91%，报 25410.84 点。\n法国 CAC 40 指数收涨 0.83%，报 7847.32 点。\n意大利富时 MIB 指数收涨 1.29%，报 49186.81 点，富时意大利综合股价银行指数收涨 1.92%。\n英国富时 100 指数收涨 0.72%，报 10767.33 点，富时 250 指数收涨 1.09%，富时 350 指数收涨 0.76%。\n荷兰 AEX 指数收涨 0.14%，丹麦 OMX 哥本哈根 20 指数收涨 1.05%、哥本哈根 25 指数收涨 1.34%。\n希腊雅典证交所综合指数收涨 1.56%，西班牙 IBEX 35 指数收涨 0.23%。\n挪威 OSE 基准指数收涨 1.14%，挪威 OBX 指数收涨 0.94%。\n德国上市的 WisdomTree Europe Defence UCITS ETF 收涨 2.43%，英国伦敦上市、对军工股“照收不误”的 Future of Defence UCITS ETF 收涨 2.70%；彭博欧洲国防精选指数涨 2.05%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3568166",
     "datetime": "2026-10-26T18:19:42+00:00",
-    "views": "65",
+    "views": "75",
     "text": "伊朗官员：西亚安全必须依靠自身力量\n当地时间 26 日，伊朗最高国家安全委员会秘书雷扎伊在伊朗、巴基斯坦、土耳其和沙特就地区安全与稳定举行的四方会谈结束后表示，地区合作本应早就启动，土耳其、巴基斯坦和沙特阿拉伯高级官员的访问表明，美国的威胁对世界各国的影响并不大。各方一致认为，西亚安全必须依靠自身力量，避免任何外国干预。雷扎伊还强调，以色列必须从黎巴嫩南部、叙利亚南部、加沙地带和约旦河西岸撤军，停止其侵略行径。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3568165",
     "datetime": "2026-10-26T18:17:02+00:00",
-    "views": "90",
+    "views": "100",
     "text": "OpenAI 推出 GPT-6.1 Terra 电脑操作速度提升逾 3 倍 API 价格降低 50%\n金十数据 10 月 27 日讯，OpenAI 推出 GPT-6.1 Terra，重点提升电脑操作、视觉理解和编程能力，可帮助用户撰写提案、看懂技术图纸、填写表格及编辑视频。与上一代相比，该模型完成电脑操作任务的速度提升逾 3 倍，API 价格降低 50%。API 收费为每百万输入词元 1 美元、缓存输入词元 0.05 美元、输出词元 5 美元。性能方面，内部测试显示，低推理档位的错误率从 53.6%降至 16.7%；最高推理档位的错误率降至 4.3%，较上一代下降 18 个百分点。编程测试中，最高推理档位得分从上一代公布的 21.5%升至 50.3%。新模型已向 ChatGPTWork 和 Codex 的 Plus、Pro、Enterprise 及 Edu 用户开放，并通过 API 提供。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3568164",
     "datetime": "2026-10-26T18:15:22+00:00",
-    "views": "88",
+    "views": "95",
     "text": "欧洲 STOXX 600 指数收涨 0.77%，报 640.66 点，整体持续上涨。\n欧元区 STOXX 50 指数收涨涨 0.79%，报 6116.23 点。\n富时泛欧绩优 300 指数收涨 0.75%，报 2555.62 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3568163",
     "datetime": "2026-10-26T18:15:03+00:00",
-    "views": "92",
+    "views": "100",
     "text": "利比亚交通部表示，对利比亚领空使用的限制和警告已解除。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3568162",
     "datetime": "2026-10-26T18:15:02+00:00",
-    "views": "92",
+    "views": "100",
     "text": "利比亚交通部：对利比亚领空使用的限制和警告已解除。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3568161",
     "datetime": "2026-10-26T18:12:42+00:00",
-    "views": "108",
+    "views": "115",
     "text": "OpenAI 推出 GPT-6.1 Terra\nOpenAI 表示，GPT-6.1 Terra 正在陆续推出，该模型速度更快、成本更低，并提升了计算机操作能力。该模型能够识别屏幕内容、在各类应用中导航，并自动完成日常任务。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3568160",
     "datetime": "2026-10-26T18:09:42+00:00",
-    "views": "116",
+    "views": "120",
     "text": "委内瑞拉临时总统罗德里格斯：在反对派领导人返回后，希望对话能为所有声音提供空间。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3568159",
     "datetime": "2026-10-26T18:08:42+00:00",
-    "views": "118",
+    "views": "121",
     "text": "OpenAI：GPT-6.1 Terra 现已开始推出，面向所有 Plus、Pro、Enterprise 和 Edu 用户开放，可在 ChatGPT Work 和 Codex 中使用。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3568158",
     "datetime": "2026-10-26T18:07:59+00:00",
-    "views": "118",
+    "views": "121",
     "text": "OpenAI 发布 GPT-6.1 Terra。\nGPT-6.1 Terra 现已开始推出，面向所有 Plus、Pro、Enterprise 和 Edu 用户开放，可在 ChatGPT Work 和 Codex 中使用。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3568156",
     "datetime": "2026-10-26T18:07:42+00:00",
-    "views": "117",
+    "views": "120",
     "text": "伊朗最高国家安全委员会秘书雷扎伊：各方强调，以色列必须撤出黎巴嫩南部、叙利亚南部、加沙地带和约旦河西岸，并停止侵略行为。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3568157",
     "datetime": "2026-10-26T18:07:42+00:00",
-    "views": "117",
+    "views": "120",
     "text": "OpenAI：GPT-6.1 Terra 现已开始推送。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3568155",
     "datetime": "2026-10-26T18:07:22+00:00",
-    "views": "117",
+    "views": "120",
     "text": "伊朗最高国家安全委员会秘书雷扎伊：各方已达成共识，西亚安全必须依靠地区国家自身力量，并防止任何外部干预。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +128,7 @@
   {
     "post": "Financial_Express/3568154",
     "datetime": "2026-10-26T18:07:05+00:00",
-    "views": "110",
+    "views": "113",
     "text": "Merck & Co.的一款实验性药物帮助晚期子宫内膜癌患者显著延长了生存期，效果优于接受化疗的患者。\n该公司公布 III 期 KEYNOTE-C93 试验结果。该试验评估 Merck 抗 PD-1 疗法 KEYTRUDA®（帕博利珠单抗）单药治疗错配修复缺陷（dMMR）晚期或复发性子宫内膜癌患者，入组对象为既往未接受过全身化疗、或在接受既往辅助治疗后出现复发的患者。结果显示，与铂类双药化疗相比，KEYTRUDA 单药治疗使此类患者在主要终点无进展生存期（PFS）方面获得具有统计学显著性和临床意义的改善，疾病进展或死亡风险降低 43%（HR=0.57；95% CI，0.42–0.79；p=0.0002）。\n根据一项晚期临床研究的结果，接受 sacituzumab tirumotecan（简称 sac-TMT）治疗的患者中位生存期为 19 个月，而接受化疗的患者仅为 12.1 个月。\n该疗法也伴有显著的副作用，包括贫血和令人痛苦的口腔溃疡，超过 54%的患者出现了严重的治疗相关副作用。\n该最新突破性结果在 2026 年欧洲肿瘤内科学会（ESMO）大会主席专题研讨会期间公布（报告编号 LBA12），入选 ESMO 官方新闻简报，并同步发表于《柳叶刀》。\nMerck 研究实验室总裁李德（Dean Li）在数据公布前表示：“这是少数几种死亡率上升的癌症之一，我们正在努力做的就是改变这种状况。”",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3568153",
     "datetime": "2026-10-26T18:07:03+00:00",
-    "views": "97",
+    "views": "99",
     "text": "委内瑞拉代总统罗德里格斯表示，对话应保障政治参与。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +146,7 @@
   {
     "post": "Financial_Express/3568152",
     "datetime": "2026-10-26T18:07:02+00:00",
-    "views": "95",
+    "views": "97",
     "text": "伊朗最高国家安全委员会秘书雷扎伊：地区合作早就应该启动，土耳其、巴基斯坦和沙特阿拉伯高级官员的到访表明，美国的威胁对世界各国并未产生太大影响。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +155,7 @@
   {
     "post": "Financial_Express/3568151",
     "datetime": "2026-10-26T18:06:42+00:00",
-    "views": "96",
+    "views": "98",
     "text": "原油期权释放中东供应风险上升信号\nWTI 原油期权看涨偏斜已升至+7.2%，为 9 月 10 日以来最高，反映在中东局势紧张背景下，市场对上行价格保护的需求上升。胡塞武装对沙特石油基础设施及地区航运的袭击加剧了供应中断担忧。与此同时，WTI 原油 1 至 2 个月价差从 5.40 美元/桶收窄至 2.30 美元/桶，显示近期现货溢价走弱。尽管近期实物市场紧张状况缓解，期权交易员仍在计入更大的油价上行风险。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +164,7 @@
   {
     "post": "Financial_Express/3568150",
     "datetime": "2026-10-26T18:06:02+00:00",
-    "views": "91",
+    "views": "94",
     "text": "伊朗安全委员会秘书雷扎伊：土耳其、巴基斯坦和沙特阿拉伯高级官员的访问表明，美国的威胁对世界各国影响不大。土耳其、巴基斯坦和沙特阿拉伯高级官员认为，地区问题的解决之道在于四国合作。我们得出结论，西亚的安全必须由地区内部实现，必须防止任何外国干涉。",
     "media_only": false,
     "image_url": null,
@@ -173,7 +173,7 @@
   {
     "post": "Financial_Express/3568149",
     "datetime": "2026-10-26T18:05:42+00:00",
-    "views": "88",
+    "views": "91",
     "text": "地缘政治紧张令黄金看涨逻辑复杂化\n美国哈特福德黄金公司总裁马克斯·贝克表示，中东紧张局势正给黄金带来混杂信号。地缘政治不确定性支撑避险需求，但能源价格上涨可能推升通胀、提振美元并压制金价。各国央行购金量已较 2022 年前水平大致翻倍，某些国家已连续 23 个月增持黄金储备。",
     "media_only": false,
     "image_url": null,
@@ -40561,23 +40561,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3563434"
-  },
-  {
-    "post": "Financial_Express/3563433",
-    "datetime": "2026-10-24T18:26:02+00:00",
-    "views": "173",
-    "text": "金属交易商迎来丰厚红利，连续第二年斩获创纪录利润\n金属交易行业连续第二年迎来火爆行情，交易商赚取数十亿美元，多家头部贸易企业创下利润新高。托克集团在截至 9 月的财年中，金属交易业务利润约 20 亿美元，创下纪录；嘉能可也收获史上最好盈利水平之一。铜、黄金、白银等金属价格飙升至历史高位，不少交易员拿到职业生涯最高收入，同时收到多家竞品公司抛出的工作邀约。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3563433"
-  },
-  {
-    "post": "Financial_Express/3563432",
-    "datetime": "2026-10-24T18:25:42+00:00",
-    "views": "164",
-    "text": "法国内政部长：警方在示威活动中逮捕近千人\n当地时间 24 日晚，法国内政部长努内兹表示，警方在当天的全国性抗议示威活动中逮捕了近一千人。努内兹表示，当天，执法人员面临持续的投掷物袭击和烟火装置攻击，部分示威现场暴力程度较高。警方对相关违法行为进行了干预。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3563432"
   }
 ]
