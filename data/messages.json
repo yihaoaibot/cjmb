@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3572383",
+    "datetime": "2026-10-27T16:05:02+00:00",
+    "views": "16",
+    "text": "以色列总理内塔尼亚胡：还有四小时拯救以色列，投右翼选票。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572383"
+  },
+  {
     "post": "Financial_Express/3572382",
     "datetime": "2026-10-27T16:04:23+00:00",
-    "views": "7",
+    "views": "48",
     "text": "甲骨文推出 Oracle Media Fabric。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3572381",
     "datetime": "2026-10-27T16:04:02+00:00",
-    "views": "11",
+    "views": "52",
     "text": "甲骨文(ORCL.N)推出面向企业级人工智能规模化应用的人工智能数据平台。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3572379",
     "datetime": "2026-10-27T16:03:42+00:00",
-    "views": "16",
+    "views": "56",
     "text": "据 CNBC：甲骨文(ORCL.N)扩大与 OpenAI 的合作关系。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3572380",
     "datetime": "2026-10-27T16:03:42+00:00",
-    "views": "16",
+    "views": "56",
     "text": "洛克希德·马丁公司：将在波兰设立 PAC-3 导弹维护设施。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3572377",
     "datetime": "2026-10-27T16:03:02+00:00",
-    "views": "19",
+    "views": "56",
     "text": "英伟达(NVDA.O)与甲骨文(ORCL.N)扩大英伟达 Vera Rubin 平台部署规模。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3572378",
     "datetime": "2026-10-27T16:03:02+00:00",
-    "views": "19",
+    "views": "56",
     "text": "Crusoe 首席执行官：OpenAI 正与 Abilene 合作开发另一款尚未发布的模型。OpenAI 尚未发布的新模型旨在解决数学问题。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3572376",
     "datetime": "2026-10-27T16:02:43+00:00",
-    "views": "50",
+    "views": "57",
     "text": "甲骨文：将在甲骨文云基础设施（OCI）上提供 Cerebras 的快速推理服务；预计于 2027 日历年推出。\nSnowflake AI 数据云将作为原生第一方服务在甲骨文云基础设施（OCI）上可用。\n宣布与 OpenAI 开展合作。\n谷歌的张量处理单元（TPU）将通过甲骨文云基础设施（OCI）提供；预计于 2027 日历年推出。\n正在将 OpenAI 模型、ChatGPT 及 Codex 与甲骨文应用、数据及云基础设施进行集成。\nSambaNova 与本公司合作，在 OCI 数据中心部署 SambaRack SN50 推理芯片。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3572375",
     "datetime": "2026-10-27T16:02:42+00:00",
-    "views": "50",
+    "views": "56",
     "text": "甲骨文：Snowflake AI 数据云将作为原生第一方服务在甲骨文云基础设施上提供。将在甲骨文云基础设施上提供 Cerebras 的快速推理服务；预计于 2027 日历年上线。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3572374",
     "datetime": "2026-10-27T16:02:23+00:00",
-    "views": "50",
+    "views": "54",
     "text": "甲骨文：宣布与 OpenAI 合作，将前沿 AI 整合到企业计算中。将 OpenAI 模型、ChatGPT 和 Codex 与甲骨文应用、数据及云基础设施进行整合。谷歌的张量处理单元将通过甲骨文云基础设施提供；将于 2027 日历年开放使用。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3572373",
     "datetime": "2026-10-27T16:01:23+00:00",
-    "views": "54",
+    "views": "57",
     "text": "英伟达：甲骨文云将在 x86 服务器中搭载配备八块 Rubin GPU 的 NVIDIA HGX Rubin NVL8。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3572372",
     "datetime": "2026-10-27T16:01:22+00:00",
-    "views": "54",
+    "views": "57",
     "text": "英特尔(INTC.O)与甲骨文(ORCL.N)计划扩大合作协议。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3572370",
     "datetime": "2026-10-27T16:01:03+00:00",
-    "views": "54",
+    "views": "56",
     "text": "纽约期金日内涨 1%，现报 4078.81 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3572371",
     "datetime": "2026-10-27T16:01:03+00:00",
-    "views": "54",
+    "views": "56",
     "text": "英特尔与甲骨文计划扩大合作，在甲骨文云基础设施上支持企业级 AI 以及智能体 AI。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3572369",
     "datetime": "2026-10-27T16:01:02+00:00",
-    "views": "54",
+    "views": "56",
     "text": "Crusoe 首席执行官：OpenAI 尚未发布的新模型旨在解决数学问题。",
     "media_only": false,
     "image_url": null,
@@ -173,7 +182,7 @@
   {
     "post": "Financial_Express/3572364",
     "datetime": "2026-10-27T15:58:42+00:00",
-    "views": "57",
+    "views": "58",
     "text": "叙利亚过渡政府谴责约旦军队空袭叙南部\n叙利亚过渡政府 27 日谴责约旦军队 26 日空袭叙南部多地，称行动前未与叙方协调，对叙领空构成“不可接受的侵犯”。叙过渡政府应急与灾害管理部称，约旦空军 26 日晚袭击德拉省和苏韦达省多地，致 7 人死亡、3 人受伤。约旦武装部队称，经与叙过渡政府协调，空袭叙南部恐怖组织据点，打死打伤多名成员，系报复 23 日卡拉克省教堂恐袭。约旦政府发言人穆罕默德·穆马尼称，空袭“伊斯兰国”据点，打死 20 多名武装人员并摧毁其大型武器库。（新华社）",
     "media_only": false,
     "image_url": null,
