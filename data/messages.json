@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3572394",
+    "datetime": "2026-10-27T16:14:02+00:00",
+    "views": "1",
+    "text": "谷歌：发布 Genie 4 相关研究成果。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572394"
+  },
+  {
+    "post": "Financial_Express/3572392",
+    "datetime": "2026-10-27T16:13:02+00:00",
+    "views": "10",
+    "text": "加拿大总理卡尼与阿布扎比王储在渥太华会面。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572392"
+  },
+  {
+    "post": "Financial_Express/3572393",
+    "datetime": "2026-10-27T16:13:02+00:00",
+    "views": "10",
+    "text": "英特尔与甲骨文计划扩大合作 以支持甲骨文云基础设施上的企业级和智能体 AI\n英特尔与甲骨文宣布计划开展一项多年期合作，以扩大英特尔至强（Xeon）处理器在甲骨文云基础设施（OCI）上的部署，从而满足企业应用、智能体 AI（Agentic AI） 和推理日益增长的需求。双方将协调路线图和产能规划，合作范围将覆盖当前及未来的至强平台，包括基于英特尔下一代服务器处理器（代号 Diamond Rapids）的计划中 OCI X14 实例。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572393"
+  },
+  {
+    "post": "Financial_Express/3572391",
+    "datetime": "2026-10-27T16:12:02+00:00",
+    "views": "14",
+    "text": "据金融时报：欧盟施压盟友应对乌克兰资金缺口。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572391"
+  },
+  {
     "post": "Financial_Express/3572390",
     "datetime": "2026-10-27T16:11:22+00:00",
-    "views": "9",
+    "views": "48",
     "text": "阿布扎比王储会见加拿大总理卡尼。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3572389",
     "datetime": "2026-10-27T16:10:37+00:00",
-    "views": "14",
+    "views": "51",
     "text": "Cerebras 首席执行官费尔德曼（Andrew Feldman）谈及甲骨文合作事宜，称：这是我们一级客户基数的巨大扩展。\n我们正被大规模部署在其他公司的财务数据中心里。（路透）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3572388",
     "datetime": "2026-10-27T16:10:31+00:00",
-    "views": "14",
+    "views": "51",
     "text": "甲骨文云基础设施（Oracle Cloud Infrastructure）总裁蒂亚加拉扬（Mahesh Thiagarajan）：不同的 AI 工作负载有着不同的计算需求。\n这种选择为（客户）提供了灵活性，使其能够针对每项 AI 工作负载的性能、吞吐量和经济性选择恰当的基础设施。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3572387",
     "datetime": "2026-10-27T16:08:42+00:00",
-    "views": "57",
+    "views": "60",
     "text": "巴西联邦最高法院要求调查博索纳罗涉嫌接受外国资金\n巴西联邦最高法院法官弗拉维奥·迪诺 27 日裁定，要求巴西联邦警察就总统选举中败选的自由党候选人博索纳罗在竞选活动中涉嫌接受外国资金和操纵社交媒体展开调查。调查重点将聚焦美国保守派组织“罗克布里奇网络”与博索纳罗竞选团队的资金往来，查明其参与为博索纳罗竞选提供资金支持谈判的性质、参与方及具体目的；部分境外社交媒体账号疑似有偿发布其竞选宣传内容，需查明付款方身份和资金来源。迪诺强调，巴西不允许外国直接或间接干涉属于巴西主权范围的事务。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3572386",
     "datetime": "2026-10-27T16:08:22+00:00",
-    "views": "55",
+    "views": "59",
     "text": "克里姆林宫：挪威和芬兰没有向俄罗斯提出新提议。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3572385",
     "datetime": "2026-10-27T16:07:42+00:00",
-    "views": "56",
+    "views": "60",
     "text": "甲骨文扩大英伟达芯片合作 引入谷歌、Cerebras 等供应商\n金十数据 10 月 28 日讯，甲骨文(ORCL.N)宣布扩大与英伟达(NVDA.O)的云端 AI 芯片合作，计划将搭载英伟达新一代 Vera Rubin 芯片的 AI 服务器部署规模扩大至数吉瓦级，同时引入谷歌 TPU 芯片，以及 SambaNova Systems 和 Cerebras Systems 的 AI 推理芯片，以丰富算力供应。甲骨文还计划在部分英伟达服务器中采用自研 Acceleron 网络芯片，替代英伟达的部分网络产品。公司表示，不同 AI 工作负载对算力的需求各不相同，多元化芯片供应有助于客户根据性能、吞吐量和成本选择合适的基础设施。英伟达在 AI 训练芯片市场占据主导地位，但 AI 推理市场的竞争更加多元。Cerebras 首席执行官安德鲁·费尔德曼表示，与甲骨文的合作将显著扩大其大型客户群，公司正大规模进驻其他企业的数据中心。甲骨文尚未披露此次芯片采购的融资安排。公司上月表示，客户正越来越多地承担芯片采购成本，并维持 2027 财年资本支出约 900 亿至 950 亿美元的目标。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3572384",
     "datetime": "2026-10-27T16:07:22+00:00",
-    "views": "58",
+    "views": "60",
     "text": "克里姆林宫称挪威和芬兰没有向俄罗斯提出新提议。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3572383",
     "datetime": "2026-10-27T16:05:02+00:00",
-    "views": "93",
+    "views": "95",
     "text": "以色列总理内塔尼亚胡：还有四小时拯救以色列，投右翼选票。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3572382",
     "datetime": "2026-10-27T16:04:23+00:00",
-    "views": "94",
+    "views": "96",
     "text": "甲骨文推出 Oracle Media Fabric。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3572381",
     "datetime": "2026-10-27T16:04:02+00:00",
-    "views": "96",
+    "views": "98",
     "text": "甲骨文(ORCL.N)推出面向企业级人工智能规模化应用的人工智能数据平台。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3572379",
     "datetime": "2026-10-27T16:03:42+00:00",
-    "views": "99",
+    "views": "100",
     "text": "据 CNBC：甲骨文(ORCL.N)扩大与 OpenAI 的合作关系。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3572380",
     "datetime": "2026-10-27T16:03:42+00:00",
-    "views": "99",
+    "views": "100",
     "text": "洛克希德·马丁公司：将在波兰设立 PAC-3 导弹维护设施。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3572377",
     "datetime": "2026-10-27T16:03:02+00:00",
-    "views": "98",
+    "views": "99",
     "text": "英伟达(NVDA.O)与甲骨文(ORCL.N)扩大英伟达 Vera Rubin 平台部署规模。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3572378",
     "datetime": "2026-10-27T16:03:02+00:00",
-    "views": "98",
+    "views": "99",
     "text": "Crusoe 首席执行官：OpenAI 正与 Abilene 合作开发另一款尚未发布的模型。OpenAI 尚未发布的新模型旨在解决数学问题。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3572375",
     "datetime": "2026-10-27T16:02:42+00:00",
-    "views": "67",
+    "views": "98",
     "text": "甲骨文：Snowflake AI 数据云将作为原生第一方服务在甲骨文云基础设施上提供。将在甲骨文云基础设施上提供 Cerebras 的快速推理服务；预计于 2027 日历年上线。",
     "media_only": false,
     "image_url": null,
@@ -69676,14 +69712,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3564145"
-  },
-  {
-    "post": "Financial_Express/3564144",
-    "datetime": "2026-10-25T16:13:15+00:00",
-    "views": "205",
-    "text": "当地时间 25 日下午，沙特阿拉伯民防总局发表声明说，也门胡塞武装当天发射的两枚弹道导弹被拦截，导弹碎片坠落在沙特南部阿西尔省，造成 2 人受伤。声明说，导弹碎片还造成一些住宅和车辆受损。\n沙特主导的多国联军发言人图尔基·马利基当天早些时候说，联军当天已在沙特境内多地拦截 12 枚导弹和 2 架无人机。（央视）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3564144"
   }
 ]
