@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3571862",
+    "datetime": "2026-10-27T13:07:02+00:00",
+    "views": "4",
+    "text": "苹果(AAPL.O)：搭载 M6 芯片的 iMac，10 核版本起售价 1499 美元，12 核版本起售价 1699 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3571862"
+  },
+  {
+    "post": "Financial_Express/3571861",
+    "datetime": "2026-10-27T13:06:43+00:00",
+    "views": "34",
+    "text": "万豪国际集团首席执行官：每间可售房收入（RevPAR）的优异表现反映出商务及团体客群需求的强劲势头。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3571861"
+  },
+  {
+    "post": "Financial_Express/3571860",
+    "datetime": "2026-10-27T13:06:42+00:00",
+    "views": "34",
+    "text": "苹果公司-搭载 M6 芯片的 10 核 iMac 起售价为 1499 美元，12 核起售价为 1699 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3571860"
+  },
+  {
+    "post": "Financial_Express/3571859",
+    "datetime": "2026-10-27T13:06:37+00:00",
+    "views": "34",
+    "text": "宁德时代宣布，已与欧洲储能解决方案提供商 INTILION 签署合作谅解备忘录。未来 5 年，双方将在德国、瑞士、奥地利等地区落地 3GWh 宁德时代天恒储能系统，应用在电网级与工商业场景。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3571859"
+  },
+  {
+    "post": "Financial_Express/3571858",
+    "datetime": "2026-10-27T13:06:23+00:00",
+    "views": "34",
+    "text": "万豪国际集团首席执行官：全年向股东返还 35 亿美元的目标仍在推进中。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3571858"
+  },
+  {
+    "post": "Financial_Express/3571856",
+    "datetime": "2026-10-27T13:06:22+00:00",
+    "views": "34",
+    "text": "以色列大选截至当地时间下午 2 点（美国东部时间上午 8 点）的投票率为 44.9%，为 1973 年以来最高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3571856"
+  },
+  {
+    "post": "Financial_Express/3571857",
+    "datetime": "2026-10-27T13:06:22+00:00",
+    "views": "34",
+    "text": "印度官员：正在就促进这 100 种商品本地生产的措施进行磋商。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3571857"
+  },
+  {
     "post": "Financial_Express/3571855",
     "datetime": "2026-10-27T13:06:02+00:00",
-    "views": "1",
+    "views": "34",
     "text": "苹果(AAPL.O)MacBook Pro M6 起售价为 1999 美元，自 11 月 6 日起发售。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3571854",
     "datetime": "2026-10-27T13:05:50+00:00",
-    "views": "2",
+    "views": "34",
     "text": "截至三季度末，债券型基金总规模超过 12.6 万亿元，创历史新高。相较于二季度末，债基规模增加超 5000 亿元，获净申购超过 2800 亿份，成为股票型基金、混合型基金、债券型基金、货币型基金、商品型基金、QDII、FOF 等七大类基金中，获净申购最多的一类基金产品。（中证金牛座）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3571853",
     "datetime": "2026-10-27T13:05:42+00:00",
-    "views": "2",
+    "views": "34",
     "text": "UPS 首席执行官：我们估计，仅与数据中心相关的物流机会就达 150 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3571852",
     "datetime": "2026-10-27T13:05:23+00:00",
-    "views": "2",
+    "views": "34",
     "text": "万豪国际集团首席执行官：预计有利的宏观趋势将支撑强劲的旅游需求，从而推动 2027 年每间可售房收入（RevPAR）表现优于行业平均水平。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3571851",
     "datetime": "2026-10-27T13:05:22+00:00",
-    "views": "2",
+    "views": "34",
     "text": "苹果发布搭载 M6 芯片的新款 iMac，性能和 AI 能力大幅提升。",
     "media_only": false,
     "image_url": null,
@@ -47,8 +110,8 @@
   {
     "post": "Financial_Express/3571850",
     "datetime": "2026-10-27T13:05:17+00:00",
-    "views": "2",
-    "text": "苹果发布搭载 M6 芯片的 14 英寸 MACBOOK PRO 和 IMAC。",
+    "views": "34",
+    "text": "苹果：发布搭载 M6 芯片的 14 英寸 MacBook Pro 和 iMac。\n搭载 M6 芯片的 iMac，10 核版本起售价 1499 美元，12 核版本起售价 1699 美元。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3571850"
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3571848",
     "datetime": "2026-10-27T13:05:03+00:00",
-    "views": "2",
+    "views": "34",
     "text": "耐用品订单数据强劲，美债收益率走高\n金十数据 10 月 27 日讯，美国耐用品订单表现强劲，推动美债收益率扭转早盘跌势并转而上行，市场正等待美联储明日公布利率决议。市场预计，联邦公开市场委员会（FOMC）将维持利率不变，并于 12 月恢复加息。美国 9 月耐用品订单增长 1.8%，略高于市场预期，主要受到运输设备订单增长的推动。美国 10 年期国债收益率盘中升至 4.997%，高于周一的 4.987%；2 年期国债收益率升至 4.731%，高于周一的 4.712%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3571849",
     "datetime": "2026-10-27T13:05:03+00:00",
-    "views": "2",
+    "views": "34",
     "text": "印度官员：已完成确定 100 种推动本地生产的产品的工作。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3571847",
     "datetime": "2026-10-27T13:05:02+00:00",
-    "views": "2",
+    "views": "34",
     "text": "苹果(AAPL.O)推出搭载 M6 芯片的 14 英寸 MacBook Pro 和 M6 iMac。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3571846",
     "datetime": "2026-10-27T13:04:43+00:00",
-    "views": "2",
+    "views": "4",
     "text": "苹果创作者工作室新增多项 AI 功能。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3571845",
     "datetime": "2026-10-27T13:04:42+00:00",
-    "views": "2",
+    "views": "4",
     "text": "苹果 14 英寸 MacBook Pro（M6 芯片）起售价 1999 美元，教育优惠价 1899 美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3571843",
     "datetime": "2026-10-27T13:04:23+00:00",
-    "views": "2",
+    "views": "33",
     "text": "苹果推出搭载 M6 芯片的 14 英寸 MacBook Pro 和 M6 iMac。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3571844",
     "datetime": "2026-10-27T13:04:23+00:00",
-    "views": "2",
+    "views": "33",
     "text": "纯碱连续主力合约日内涨 2%，现报 988.00 元。",
     "media_only": false,
     "image_url": null,
@@ -65716,14 +65779,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3564071"
-  },
-  {
-    "post": "Financial_Express/3564070",
-    "datetime": "2026-10-25T13:07:22+00:00",
-    "views": "142",
-    "text": "华测导航：农机导航与机器人板块前三季度实现良好增长\n华测导航日前在机构调研时表示，农机导航与机器人板块系公司未来几年的重点发展方向之一，2026 年前三季度该板块实现良好增长，农机自动驾驶产品已远销海外数十个国家。该板块当前收入主要来自农机自动驾驶系统，公司不断丰富产品矩阵，推出智能喷雾系统、智能灌溉、农具导航、收获机自动对行系统等产品，市场推广效果良好，预计将逐步贡献业绩。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3564070"
   }
 ]
