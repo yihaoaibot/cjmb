@@ -1,9 +1,45 @@
 [
   {
+    "post": "Financial_Express/3572274",
+    "datetime": "2026-10-27T15:10:03+00:00",
+    "views": "1",
+    "text": "波音(BA.N)高管：首架 737-10 已从埃弗雷特新生产线下线。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572274"
+  },
+  {
+    "post": "Financial_Express/3572273",
+    "datetime": "2026-10-27T15:09:43+00:00",
+    "views": "1",
+    "text": "波音 CEO：目前还无法说我们已经稳定生产机翼以支撑每月 47 架的 737 生产速率。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572273"
+  },
+  {
+    "post": "Financial_Express/3572272",
+    "datetime": "2026-10-27T15:09:02+00:00",
+    "views": "1",
+    "text": "波兰能源部长预计石油库存释放时间表将在 11 月底前准备就绪。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572272"
+  },
+  {
+    "post": "Financial_Express/3572271",
+    "datetime": "2026-10-27T15:08:28+00:00",
+    "views": "8",
+    "text": "纳斯达克 100 指数涨幅扩大至 1%，美联储货币政策会议开幕之际，科技股目前涨幅突出，成分股中，Nebius Group NV 涨 8.9%，西部数据涨 7.5%，希捷科技张 5.6%，CoreWeave 涨 5%，铿腾电子涨 4.4%，AMD、Lumentum、新思科技、闪迪至少涨 3.5%，Autodesk 跌 2%，财捷 INTU 跌 2.7%，莫德纳跌 3.2%，汤森路透跌 3.8%，CTAS 跌 5.9%。\n费城半导体指数涨超 2.3%。\n波音跌幅扩大至 10%，该公司下调交付目标。道指目前微跌不到 0.1%，标普涨 0.48%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572271"
+  },
+  {
     "post": "Financial_Express/3572269",
     "datetime": "2026-10-27T15:07:43+00:00",
-    "views": "1",
-    "text": "波音(BA.N)跌幅扩大至 10%，公司下调交付目标。",
+    "views": "14",
+    "text": "波音(BA.N)跌幅扩大至 10%，公司下调全年交付目标。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3572269"
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3572270",
     "datetime": "2026-10-27T15:07:43+00:00",
-    "views": "1",
+    "views": "15",
     "text": "俄罗斯外长拉夫罗夫：俄罗斯愿帮助非洲国家采用新技术并培训人员，尤其是在人工智能发展的背景下。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3572267",
     "datetime": "2026-10-27T15:06:22+00:00",
-    "views": "12",
+    "views": "45",
     "text": "波音股价跌幅扩大至 10%，此前该公司下调交付目标。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3572266",
     "datetime": "2026-10-27T15:06:02+00:00",
-    "views": "7",
+    "views": "48",
     "text": "俄罗斯外长拉夫罗夫：包括法国在内的多个西方国家指使乌克兰军人在马里实施恐怖活动、策划破坏行动。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3572265",
     "datetime": "2026-10-27T15:05:02+00:00",
-    "views": "44",
+    "views": "51",
     "text": "乌克兰外长：奥列什基停火或可成为和谈中的“建立信任措施”。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3572263",
     "datetime": "2026-10-27T15:04:43+00:00",
-    "views": "44",
+    "views": "51",
     "text": "欧盟官方数据：截至 10 月 25 日，2026/27 年度软小麦出口量为 921 万吨，上年同期为 914 万吨。\n2026/27 年度大麦出口量为 227 万吨，上年同期为 391 万吨。\n2026/27 年度玉米进口量为 711 万吨，上年同期为 524 万吨。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3572262",
     "datetime": "2026-10-27T15:04:42+00:00",
-    "views": "46",
+    "views": "49",
     "text": "匈牙利表示，外长欧尔班与美国国务卿鲁比奥的会晤被推迟。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3572261",
     "datetime": "2026-10-27T15:04:22+00:00",
-    "views": "46",
+    "views": "52",
     "text": "波音(BA.N)预计 2027 年将交付约 10 至 15 架 777X 飞机。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3572260",
     "datetime": "2026-10-27T15:04:11+00:00",
-    "views": "49",
+    "views": "52",
     "text": "Meta Platforms 的 AI 主管 Rohit Patel 离职。（TechCrunch）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3572259",
     "datetime": "2026-10-27T15:04:03+00:00",
-    "views": "45",
+    "views": "51",
     "text": "五角大楼：波兰将设“爱国者-3”导弹维护设施。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3572258",
     "datetime": "2026-10-27T15:03:43+00:00",
-    "views": "48",
+    "views": "50",
     "text": "巴西央行行长：我们打算今年晚些时候宣布更多措施，参照国际最佳实践来规范激进的贷款行为。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3572257",
     "datetime": "2026-10-27T15:03:42+00:00",
-    "views": "47",
+    "views": "50",
     "text": "据 TechCrunch：Meta Platforms(META.O)人工智能总监罗希特·帕特尔（Rohit Patel）离职，将转投与微软(MSFT.O)Office 和谷歌(GOOG.O)Workspace 竞争的领域。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3572256",
     "datetime": "2026-10-27T15:03:23+00:00",
-    "views": "46",
+    "views": "50",
     "text": "乌克兰外长：芬兰和挪威领导人致电俄罗斯总统普京是与基辅协调进行的。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3572255",
     "datetime": "2026-10-27T15:03:22+00:00",
-    "views": "44",
+    "views": "47",
     "text": "渣打：美股与美债收益率齐升利好风险敏感型货币\n金十数据 10 月 27 日讯，渣打银行策略师在一份报告中表示，过去 30 年来，对风险敏感型货币最有利的市场环境，是美国股市上涨与美债收益率走高同时出现。策略师指出，经济复苏初期，收益率往往较低，这反映出货币政策宽松以及信贷需求不足。随着市场对经济增长前景的乐观情绪升温，这种变化通常也会体现在股市、债券收益率以及与风险情绪正相关的货币上，包括加元、澳元、挪威克朗、墨西哥比索和新西兰元。策略师表示：“如果收益率上升反映的是风险溢价提高或通胀风险加剧，那么这种关联可能就不再那么可靠。”",
     "media_only": false,
     "image_url": null,
@@ -146,7 +182,7 @@
   {
     "post": "Financial_Express/3572254",
     "datetime": "2026-10-27T15:03:03+00:00",
-    "views": "45",
+    "views": "48",
     "text": "Meta 人工智能主管 Rohit Patel 离职，将对标微软 Office 与 Google Workspace 开展新业务。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +191,7 @@
   {
     "post": "Financial_Express/3572253",
     "datetime": "2026-10-27T15:03:02+00:00",
-    "views": "44",
+    "views": "46",
     "text": "现货黄金日内涨 1%，现报 4057.59 美元/盎司。",
     "media_only": false,
     "image_url": null,
