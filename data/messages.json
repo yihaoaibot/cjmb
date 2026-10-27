@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3572385",
+    "datetime": "2026-10-27T16:07:42+00:00",
+    "views": "6",
+    "text": "甲骨文扩大英伟达芯片合作 引入谷歌、Cerebras 等供应商\n金十数据 10 月 28 日讯，甲骨文(ORCL.N)宣布扩大与英伟达(NVDA.O)的云端 AI 芯片合作，计划将搭载英伟达新一代 Vera Rubin 芯片的 AI 服务器部署规模扩大至数吉瓦级，同时引入谷歌 TPU 芯片，以及 SambaNova Systems 和 Cerebras Systems 的 AI 推理芯片，以丰富算力供应。甲骨文还计划在部分英伟达服务器中采用自研 Acceleron 网络芯片，替代英伟达的部分网络产品。公司表示，不同 AI 工作负载对算力的需求各不相同，多元化芯片供应有助于客户根据性能、吞吐量和成本选择合适的基础设施。英伟达在 AI 训练芯片市场占据主导地位，但 AI 推理市场的竞争更加多元。Cerebras 首席执行官安德鲁·费尔德曼表示，与甲骨文的合作将显著扩大其大型客户群，公司正大规模进驻其他企业的数据中心。甲骨文尚未披露此次芯片采购的融资安排。公司上月表示，客户正越来越多地承担芯片采购成本，并维持 2027 财年资本支出约 900 亿至 950 亿美元的目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572385"
+  },
+  {
+    "post": "Financial_Express/3572384",
+    "datetime": "2026-10-27T16:07:22+00:00",
+    "views": "11",
+    "text": "克里姆林宫称挪威和芬兰没有向俄罗斯提出新提议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572384"
+  },
+  {
     "post": "Financial_Express/3572383",
     "datetime": "2026-10-27T16:05:02+00:00",
-    "views": "16",
+    "views": "54",
     "text": "以色列总理内塔尼亚胡：还有四小时拯救以色列，投右翼选票。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3572382",
     "datetime": "2026-10-27T16:04:23+00:00",
-    "views": "48",
+    "views": "56",
     "text": "甲骨文推出 Oracle Media Fabric。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3572381",
     "datetime": "2026-10-27T16:04:02+00:00",
-    "views": "52",
+    "views": "58",
     "text": "甲骨文(ORCL.N)推出面向企业级人工智能规模化应用的人工智能数据平台。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3572379",
     "datetime": "2026-10-27T16:03:42+00:00",
-    "views": "56",
+    "views": "62",
     "text": "据 CNBC：甲骨文(ORCL.N)扩大与 OpenAI 的合作关系。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3572380",
     "datetime": "2026-10-27T16:03:42+00:00",
-    "views": "56",
+    "views": "62",
     "text": "洛克希德·马丁公司：将在波兰设立 PAC-3 导弹维护设施。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3572377",
     "datetime": "2026-10-27T16:03:02+00:00",
-    "views": "56",
+    "views": "62",
     "text": "英伟达(NVDA.O)与甲骨文(ORCL.N)扩大英伟达 Vera Rubin 平台部署规模。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3572378",
     "datetime": "2026-10-27T16:03:02+00:00",
-    "views": "56",
+    "views": "62",
     "text": "Crusoe 首席执行官：OpenAI 正与 Abilene 合作开发另一款尚未发布的模型。OpenAI 尚未发布的新模型旨在解决数学问题。",
     "media_only": false,
     "image_url": null,
@@ -65,8 +83,8 @@
   {
     "post": "Financial_Express/3572376",
     "datetime": "2026-10-27T16:02:43+00:00",
-    "views": "57",
-    "text": "甲骨文：将在甲骨文云基础设施（OCI）上提供 Cerebras 的快速推理服务；预计于 2027 日历年推出。\nSnowflake AI 数据云将作为原生第一方服务在甲骨文云基础设施（OCI）上可用。\n宣布与 OpenAI 开展合作。\n谷歌的张量处理单元（TPU）将通过甲骨文云基础设施（OCI）提供；预计于 2027 日历年推出。\n正在将 OpenAI 模型、ChatGPT 及 Codex 与甲骨文应用、数据及云基础设施进行集成。\nSambaNova 与本公司合作，在 OCI 数据中心部署 SambaRack SN50 推理芯片。",
+    "views": "63",
+    "text": "甲骨文：正在扩大与英伟达的云端 AI 芯片协议，通过增加来自英伟达竞争对手（比如谷歌母公司 Alphabet、Cerebras Systems）的产品来实现多样化。\n将在甲骨文云基础设施（OCI）上提供 Cerebras 的快速推理服务；预计于 2027 日历年推出。\nSnowflake AI 数据云将作为原生第一方服务在甲骨文云基础设施（OCI）上可用。\n宣布与 OpenAI 开展合作。\n谷歌的张量处理单元（TPU）将通过甲骨文云基础设施（OCI）提供；预计于 2027 日历年推出。\n正在将 OpenAI 模型、ChatGPT 及 Codex 与甲骨文应用、数据及云基础设施进行集成。\nSambaNova 与本公司合作，在 OCI 数据中心部署 SambaRack SN50 推理芯片。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3572376"
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3572375",
     "datetime": "2026-10-27T16:02:42+00:00",
-    "views": "56",
+    "views": "62",
     "text": "甲骨文：Snowflake AI 数据云将作为原生第一方服务在甲骨文云基础设施上提供。将在甲骨文云基础设施上提供 Cerebras 的快速推理服务；预计于 2027 日历年上线。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3572374",
     "datetime": "2026-10-27T16:02:23+00:00",
-    "views": "54",
+    "views": "60",
     "text": "甲骨文：宣布与 OpenAI 合作，将前沿 AI 整合到企业计算中。将 OpenAI 模型、ChatGPT 和 Codex 与甲骨文应用、数据及云基础设施进行整合。谷歌的张量处理单元将通过甲骨文云基础设施提供；将于 2027 日历年开放使用。",
     "media_only": false,
     "image_url": null,
@@ -92,8 +110,8 @@
   {
     "post": "Financial_Express/3572373",
     "datetime": "2026-10-27T16:01:23+00:00",
-    "views": "57",
-    "text": "英伟达：甲骨文云将在 x86 服务器中搭载配备八块 Rubin GPU 的 NVIDIA HGX Rubin NVL8。",
+    "views": "61",
+    "text": "英伟达：与甲骨文将 Vera Rubin 扩展至吉瓦级规模，并在甲骨文云基础设施上线英伟达 Vera CPU。Vera Rubin NVL72 与 Vera CPU 现已在甲骨文云全面上线。甲骨文云将在 x86 服务器中搭载配备八块 Rubin GPU 的 NVIDIA HGX Rubin NVL8。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3572373"
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3572372",
     "datetime": "2026-10-27T16:01:22+00:00",
-    "views": "57",
+    "views": "60",
     "text": "英特尔(INTC.O)与甲骨文(ORCL.N)计划扩大合作协议。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3572370",
     "datetime": "2026-10-27T16:01:03+00:00",
-    "views": "56",
+    "views": "60",
     "text": "纽约期金日内涨 1%，现报 4078.81 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3572371",
     "datetime": "2026-10-27T16:01:03+00:00",
-    "views": "56",
+    "views": "60",
     "text": "英特尔与甲骨文计划扩大合作，在甲骨文云基础设施上支持企业级 AI 以及智能体 AI。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3572369",
     "datetime": "2026-10-27T16:01:02+00:00",
-    "views": "56",
+    "views": "60",
     "text": "Crusoe 首席执行官：OpenAI 尚未发布的新模型旨在解决数学问题。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3572368",
     "datetime": "2026-10-27T16:00:22+00:00",
-    "views": "55",
+    "views": "59",
     "text": "Crusoe 首席执行官：OpenAI 正与 Abilene 合作开发另一款尚未发布的模型。\n🤔1",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3572367",
     "datetime": "2026-10-27T15:59:42+00:00",
-    "views": "56",
+    "views": "59",
     "text": "俄罗斯外长拉夫罗夫：至于普京与特朗普通话后公布的柴油供应相关协议，这纯粹是一项商业安排，不存在任何附加条件。不存在类似 “我们向你们供应柴油，作为交换，你们要在政治层面或是安全议题上，无论是霍尔木兹海峡或是其他地区做出让步” 这样的约定。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3572366",
     "datetime": "2026-10-27T15:59:02+00:00",
-    "views": "60",
+    "views": "63",
     "text": "美国最高法院拒绝阻止美国总统特朗普与得克萨斯州达成的协议，该协议撤销了移民法官暂时关闭驱逐案件的权限。",
     "media_only": false,
     "image_url": null,
@@ -69631,50 +69649,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3564143"
-  },
-  {
-    "post": "Financial_Express/3564142",
-    "datetime": "2026-10-25T16:08:22+00:00",
-    "views": "177",
-    "text": "法国极右翼总统候选人勒庞在集会上誓言恢复“法治”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3564142"
-  },
-  {
-    "post": "Financial_Express/3564141",
-    "datetime": "2026-10-25T16:07:53+00:00",
-    "views": "167",
-    "text": "据日本方面 25 日消息，日本电信运营商凯迪迪爱公司子公司高管在蒙古国自然保护区活动引发大规模草原火灾后，蒙古国政府表示将通过调查明确相关责任方，并考虑提出赔偿要求。\n据悉，蒙古国副总理诺木泰巴亚尔近日接受采访时说，凯迪迪爱公司“仅道歉是不够的”，有必要就这起火灾向相关责任方索赔。蒙古国环境部门官员表示，将调查火灾原因，并依法追究责任。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3564141"
-  },
-  {
-    "post": "Financial_Express/3564140",
-    "datetime": "2026-10-25T16:07:42+00:00",
-    "views": "164",
-    "text": "以色列对加沙地带南部汗尤尼斯市以东的谢赫纳赛尔街区发动空袭，造成人员伤亡。\n❤1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3564140"
-  },
-  {
-    "post": "Financial_Express/3564139",
-    "datetime": "2026-10-25T16:07:22+00:00",
-    "views": "133",
-    "text": "特朗普谈俄罗斯和乌克兰会谈：很快就会举行一些会谈。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3564139"
-  },
-  {
-    "post": "Financial_Express/3564138",
-    "datetime": "2026-10-25T16:07:17+00:00",
-    "views": "132",
-    "text": "10 月 25 日，秘鲁政府宣布将首都利马大都会区和卡亚俄地区的紧急状态延长 60 天，自 2026 年 10 月 28 日起生效，此举旨在持续打击当地的犯罪行为并维护社会治安与内部秩序。\n今年 1 月至 5 月，利马大都会区和卡亚俄地区共登记 3471 起敲诈勒索报案、197 起凶杀案，同期全国共登记 7694 起敲诈勒索报案和 421 起凶杀案。（央视）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3564138"
   }
 ]
