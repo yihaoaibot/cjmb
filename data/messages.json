@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3572379",
+    "datetime": "2026-10-27T16:03:42+00:00",
+    "views": "6",
+    "text": "据 CNBC：甲骨文(ORCL.N)扩大与 OpenAI 的合作关系。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572379"
+  },
+  {
+    "post": "Financial_Express/3572380",
+    "datetime": "2026-10-27T16:03:42+00:00",
+    "views": "5",
+    "text": "洛克希德·马丁公司：将在波兰设立 PAC-3 导弹维护设施。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572380"
+  },
+  {
+    "post": "Financial_Express/3572377",
+    "datetime": "2026-10-27T16:03:02+00:00",
+    "views": "10",
+    "text": "英伟达(NVDA.O)与甲骨文(ORCL.N)扩大英伟达 Vera Rubin 平台部署规模。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572377"
+  },
+  {
+    "post": "Financial_Express/3572378",
+    "datetime": "2026-10-27T16:03:02+00:00",
+    "views": "10",
+    "text": "Crusoe 首席执行官：OpenAI 正与 Abilene 合作开发另一款尚未发布的模型。OpenAI 尚未发布的新模型旨在解决数学问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572378"
+  },
+  {
+    "post": "Financial_Express/3572376",
+    "datetime": "2026-10-27T16:02:43+00:00",
+    "views": "13",
+    "text": "甲骨文：将在甲骨文云基础设施（OCI）上提供 Cerebras 的快速推理服务；预计于 2027 日历年推出。\nSnowflake AI 数据云将作为原生第一方服务在甲骨文云基础设施（OCI）上可用。\n宣布与 OpenAI 开展合作。\n谷歌的张量处理单元（TPU）将通过甲骨文云基础设施（OCI）提供；预计于 2027 日历年推出。\n正在将 OpenAI 模型、ChatGPT 及 Codex 与甲骨文应用、数据及云基础设施进行集成。\nSambaNova 与本公司合作，在 OCI 数据中心部署 SambaRack SN50 推理芯片。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572376"
+  },
+  {
+    "post": "Financial_Express/3572375",
+    "datetime": "2026-10-27T16:02:42+00:00",
+    "views": "13",
+    "text": "甲骨文：Snowflake AI 数据云将作为原生第一方服务在甲骨文云基础设施上提供。将在甲骨文云基础设施上提供 Cerebras 的快速推理服务；预计于 2027 日历年上线。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572375"
+  },
+  {
+    "post": "Financial_Express/3572374",
+    "datetime": "2026-10-27T16:02:23+00:00",
+    "views": "12",
+    "text": "甲骨文：宣布与 OpenAI 合作，将前沿 AI 整合到企业计算中。将 OpenAI 模型、ChatGPT 和 Codex 与甲骨文应用、数据及云基础设施进行整合。谷歌的张量处理单元将通过甲骨文云基础设施提供；将于 2027 日历年开放使用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3572374"
+  },
+  {
     "post": "Financial_Express/3572373",
     "datetime": "2026-10-27T16:01:23+00:00",
-    "views": "4",
+    "views": "49",
     "text": "英伟达：甲骨文云将在 x86 服务器中搭载配备八块 Rubin GPU 的 NVIDIA HGX Rubin NVL8。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3572372",
     "datetime": "2026-10-27T16:01:22+00:00",
-    "views": "4",
+    "views": "49",
     "text": "英特尔(INTC.O)与甲骨文(ORCL.N)计划扩大合作协议。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3572370",
     "datetime": "2026-10-27T16:01:03+00:00",
-    "views": "5",
+    "views": "49",
     "text": "纽约期金日内涨 1%，现报 4078.81 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3572371",
     "datetime": "2026-10-27T16:01:03+00:00",
-    "views": "5",
+    "views": "49",
     "text": "英特尔与甲骨文计划扩大合作，在甲骨文云基础设施上支持企业级 AI 以及智能体 AI。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3572369",
     "datetime": "2026-10-27T16:01:02+00:00",
-    "views": "5",
+    "views": "49",
     "text": "Crusoe 首席执行官：OpenAI 尚未发布的新模型旨在解决数学问题。",
     "media_only": false,
     "image_url": null,
@@ -47,8 +110,8 @@
   {
     "post": "Financial_Express/3572368",
     "datetime": "2026-10-27T16:00:22+00:00",
-    "views": "12",
-    "text": "Crusoe 首席执行官：OpenAI 正与 Abilene 合作开发另一款尚未发布的模型。",
+    "views": "50",
+    "text": "Crusoe 首席执行官：OpenAI 正与 Abilene 合作开发另一款尚未发布的模型。\n🤔1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3572368"
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3572367",
     "datetime": "2026-10-27T15:59:42+00:00",
-    "views": "16",
+    "views": "52",
     "text": "俄罗斯外长拉夫罗夫：至于普京与特朗普通话后公布的柴油供应相关协议，这纯粹是一项商业安排，不存在任何附加条件。不存在类似 “我们向你们供应柴油，作为交换，你们要在政治层面或是安全议题上，无论是霍尔木兹海峡或是其他地区做出让步” 这样的约定。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3572366",
     "datetime": "2026-10-27T15:59:02+00:00",
-    "views": "51",
+    "views": "56",
     "text": "美国最高法院拒绝阻止美国总统特朗普与得克萨斯州达成的协议，该协议撤销了移民法官暂时关闭驱逐案件的权限。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3572365",
     "datetime": "2026-10-27T15:59:01+00:00",
-    "views": "51",
+    "views": "56",
     "text": "据国际文传电讯社(IFX)报道，俄罗斯外长拉夫罗夫在与非洲媒体编辑会面期间表示，在乌克兰的战争将继续并呈现升级趋势。\n拉夫罗夫表示，芬兰总统 Alexander Stubb 和挪威首相 Jonas Gahr Store 在与俄罗斯总统普京通话期间，没有就乌克兰问题提出任何新内容。\n拉夫罗夫表示，欧洲国家正寻求参与乌克兰谈判进程，尽管特朗普政府继续支持乌克兰，但仍对与俄罗斯对话持开放态度。\n拉夫罗夫表示，俄罗斯与美国达成的柴油供应协议是一项商业交易，与在其他问题上作出政治让步无关。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3572363",
     "datetime": "2026-10-27T15:58:42+00:00",
-    "views": "20",
+    "views": "54",
     "text": "Crusoe 首席执行官：OpenAI 的 Astra 模型在 Abilene 使用 GPU 生成。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3572364",
     "datetime": "2026-10-27T15:58:42+00:00",
-    "views": "50",
+    "views": "55",
     "text": "叙利亚过渡政府谴责约旦军队空袭叙南部\n叙利亚过渡政府 27 日谴责约旦军队 26 日空袭叙南部多地，称行动前未与叙方协调，对叙领空构成“不可接受的侵犯”。叙过渡政府应急与灾害管理部称，约旦空军 26 日晚袭击德拉省和苏韦达省多地，致 7 人死亡、3 人受伤。约旦武装部队称，经与叙过渡政府协调，空袭叙南部恐怖组织据点，打死打伤多名成员，系报复 23 日卡拉克省教堂恐袭。约旦政府发言人穆罕默德·穆马尼称，空袭“伊斯兰国”据点，打死 20 多名武装人员并摧毁其大型武器库。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3572362",
     "datetime": "2026-10-27T15:58:22+00:00",
-    "views": "51",
+    "views": "55",
     "text": "美国最高法院拒绝叫停特朗普政府与得克萨斯州达成的协议，该协议取消了移民法官暂时搁置驱逐案件的权限。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3572361",
     "datetime": "2026-10-27T15:58:14+00:00",
-    "views": "53",
+    "views": "57",
     "text": "本田警告：加拿大汽车关税若升至 50%，将对汽车行业造成灾难性打击。",
     "media_only": false,
     "image_url": null,
@@ -69586,14 +69649,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3564138"
-  },
-  {
-    "post": "Financial_Express/3564137",
-    "datetime": "2026-10-25T16:03:22+00:00",
-    "views": "125",
-    "text": "也门胡塞武装称袭击沙特机场与能源设施\n也门胡塞武装表示，发起多轮军事打击，目标为沙特阿拉伯主要机场和能源基础设施，包括延布的沙特阿美设施、拉比赫炼油厂，以及利雅得、达曼的国际机场。胡塞武装军事发言人叶海亚·萨雷称，本次行动动用弹道导弹与无人机，意在扰乱沙特境内石油运输以及航空枢纽。沙特官方通报称拦截了来袭导弹，目标区域附近发现坠落残骸，暂未确认具体设施受损。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3564137"
   }
 ]
