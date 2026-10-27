@@ -1,5 +1,43 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-10-27T14:42:25.355539+00:00","clsvipUpdated":"2026-10-27T14:42:37.292855+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">10月27日</h2><div class="feed"><article class="item" data-search="meta platforms(meta.o)250 亿美元股票发行最终获得五倍超额认购。"><div class="time">22:41</div><div class="content"><div class="text" data-full="Meta Platforms(META.O)250 亿美元股票发行最终获得五倍超额认购。" data-short="Meta Platforms(META.O)250 亿美元股票发行最终获得五倍超额认购。">Meta Platforms(META.O)250 亿美元股票发行最终获得五倍超额认购。</div></div></article><article class="item" data-search="波音预计，公司具备显著现金流增长潜力，规模将超过 100 亿美元。"><div class="time">22:41</div><div class="content"><div class="text" data-full="波音预计，公司具备显著现金流增长潜力，规模将超过 100 亿美元。" data-short="波音预计，公司具备显著现金流增长潜力，规模将超过 100 亿美元。">波音预计，公司具备显著现金流增长潜力，规模将超过 100 亿美元。</div></div></article><article class="item" data-search="俄罗斯副总理诺瓦克：俄罗斯与美国讨论北极液化天然气（lng）项目。（国际文传通讯社）"><div class="time">22:41</div><div class="content"><div class="text" data-full="俄罗斯副总理诺瓦克：俄罗斯与美国讨论北极液化天然气（LNG）项目。（国际文传通讯社）" data-short="俄罗斯副总理诺瓦克：俄罗斯与美国讨论北极液化天然气（LNG）项目。（国际文传通讯社）">俄罗斯副总理诺瓦克：俄罗斯与美国讨论北极液化天然气（LNG）项目。（国际文传通讯社）</div></div></article><article class="item" data-search="波音股价跌幅扩大至 8.3%，创 2025 年 4 月以来最大跌幅。"><div class="time">22:41</div><div class="content"><div class="text" data-full="波音股价跌幅扩大至 8.3%，创 2025 年 4 月以来最大跌幅。" data-short="波音股价跌幅扩大至 8.3%，创 2025 年 4 月以来最大跌幅。">波音股价跌幅扩大至 8.3%，创 2025 年 4 月以来最大跌幅。</div></div></article><article class="item" data-search="波音预计将在 2029 年实现 100 亿美元自由现金流目标。"><div class="time">22:41</div><div class="content"><div class="text" data-full="波音预计将在 2029 年实现 100 亿美元自由现金流目标。" data-short="波音预计将在 2029 年实现 100 亿美元自由现金流目标。">波音预计将在 2029 年实现 100 亿美元自由现金流目标。</div></div></article><article class="item" data-search="俄罗斯副总理诺瓦克：俄罗斯炼油厂目前正迅速让完成维护的装置恢复运行，几乎所有必要的油气设备均在俄罗斯制造。"><div class="time">22:41</div><div class="content"><div class="text" data-full="俄罗斯副总理诺瓦克：俄罗斯炼油厂目前正迅速让完成维护的装置恢复运行，几乎所有必要的油气设备均在俄罗斯制造。" data-short="俄罗斯副总理诺瓦克：俄罗斯炼油厂目前正迅速让完成维护的装置恢复运行，几乎所有必要的油气设备均在俄罗斯制造。">俄罗斯副总理诺瓦克：俄罗斯炼油厂目前正迅速让完成维护的装置恢复运行，几乎所有必要的油气设备均在俄罗斯制造。</div></div></article><article class="item" data-search="俄罗斯诺瓦克：俄罗斯炼油厂目前在维护后非常迅速地将其装置恢复在线，几乎所有必要的石油和天然气设备都是在俄罗斯制造的。"><div class="time">22:41</div><div class="content"><div class="text" data-full="俄罗斯诺瓦克：俄罗斯炼油厂目前在维护后非常迅速地将其装置恢复在线，几乎所有必要的石油和天然气设备都是在俄罗斯制造的。" data-short="俄罗斯诺瓦克：俄罗斯炼油厂目前在维护后非常迅速地将其装置恢复在线，几乎所有必要的石油和天然气设备都是在俄罗斯制造的。">俄罗斯诺瓦克：俄罗斯炼油厂目前在维护后非常迅速地将其装置恢复在线，几乎所有必要的石油和天然气设备都是在俄罗斯制造的。</div></div></article><article class="item" data-search="现货黄金突破 4050 美元/盎司，日内涨 0.84%。"><div class="time">22:41</div><div class="content"><div class="text" data-full="现货黄金突破 4050 美元/盎司，日内涨 0.84%。" data-short="现货黄金突破 4050 美元/盎司，日内涨 0.84%。">现货黄金突破 4050 美元/盎司，日内涨 0.84%。</div></div></article><article class="item" data-search="美国国家飓风中心（nhc）：vance 勉强形成热带风暴，其势力略微减弱。
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-10-27T14:44:30.677403+00:00","clsvipUpdated":"2026-10-27T14:44:41.939992+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">10月27日</h2><div class="feed"><article class="item" data-search="波音今年将无法达到 500 架交付目标。"><div class="time">22:44</div><div class="content"><div class="text" data-full="波音今年将无法达到 500 架交付目标。" data-short="波音今年将无法达到 500 架交付目标。">波音今年将无法达到 500 架交付目标。</div></div></article><article class="item" data-search="印度海湾石油润滑油公司位于古吉拉特邦的仓库发生火灾。"><div class="time">22:43</div><div class="content"><div class="text" data-full="印度海湾石油润滑油公司位于古吉拉特邦的仓库发生火灾。" data-short="印度海湾石油润滑油公司位于古吉拉特邦的仓库发生火灾。">印度海湾石油润滑油公司位于古吉拉特邦的仓库发生火灾。</div></div></article><article class="item" data-search="俄罗斯副总理诺瓦克表示，俄罗斯准备协助波斯湾国家修复炼油厂，并提供技术和设备。"><div class="time">22:43</div><div class="content"><div class="text" data-full="俄罗斯副总理诺瓦克表示，俄罗斯准备协助波斯湾国家修复炼油厂，并提供技术和设备。" data-short="俄罗斯副总理诺瓦克表示，俄罗斯准备协助波斯湾国家修复炼油厂，并提供技术和设备。">俄罗斯副总理诺瓦克表示，俄罗斯准备协助波斯湾国家修复炼油厂，并提供技术和设备。</div></div></article><article class="item" data-search="meta platforms(meta.o)250 亿美元股票发行最终获得五倍超额认购。
+👍1"><div class="time">22:42</div><div class="content"><div class="text" data-full="Meta Platforms(META.O)250 亿美元股票发行最终获得五倍超额认购。
+👍1" data-short="Meta Platforms(META.O)250 亿美元股票发行最终获得五倍超额认购。
+👍1">Meta Platforms(META.O)250 亿美元股票发行最终获得五倍超额认购。
+👍1</div></div></article><article class="item" data-search="据悉 meta 250 亿美元股票发行获约 5 倍超额认购
+金十数据 10 月 27 日讯，知情人士透露，meta platforms(meta.o)扩大后的 250 亿美元股票发行获得了约为可供认购股份数量 5 倍的认购需求。该公司正计划筹集 980 亿美元资金，用于人工智能领域的支出。知情人士表示，此次普通股发行中，超过一半的股份分配给了长期持股投资者和现有股东。其中，认购规模排名前 15 位的投资者合计获得了约 70%的发行股份。此次发行定价为每股 625 美元，较发行消息公布前的上周五收盘价折让 2.7%。周二，meta 股价在纽约市场一度下跌 1.4%，至每股 621.47 美元。此次股票发行只是 meta 融资计划的一部分。该计划还包括发行 125 亿美元的强制可转换优先股，以及预计将推出的按市价增发股票计划。若最终筹资规模达到 980 亿美元，这将成为历史上规模最大的股权融资计划之一。
+👍1"><div class="time">22:41</div><div class="content"><div class="text" data-full="据悉 Meta 250 亿美元股票发行获约 5 倍超额认购
+金十数据 10 月 27 日讯，知情人士透露，Meta Platforms(META.O)扩大后的 250 亿美元股票发行获得了约为可供认购股份数量 5 倍的认购需求。该公司正计划筹集 980 亿美元资金，用于人工智能领域的支出。知情人士表示，此次普通股发行中，超过一半的股份分配给了长期持股投资者和现有股东。其中，认购规模排名前 15 位的投资者合计获得了约 70%的发行股份。此次发行定价为每股 625 美元，较发行消息公布前的上周五收盘价折让 2.7%。周二，Meta 股价在纽约市场一度下跌 1.4%，至每股 621.47 美元。此次股票发行只是 Meta 融资计划的一部分。该计划还包括发行 125 亿美元的强制可转换优先股，以及预计将推出的按市价增发股票计划。若最终筹资规模达到 980 亿美元，这将成为历史上规模最大的股权融资计划之一。
+👍1" data-short="据悉 Meta 250 亿美元股票发行获约 5 倍超额认购
+金十数据 10 月 27 日讯，知情人士透露，Meta Platforms(META.O)扩大后的 250 亿美元股票发行获得了约为可供认购股份数量 5 倍的认购需求。该公司正计划筹集 980 亿美元资金，用于人工智能领域的支出。知情人士表示，此次普通股发行中，超过一半的股份分配给了长期持股投资者和...">据悉 Meta 250 亿美元股票发行获约 5 倍超额认购
+金十数据 10 月 27 日讯，知情人士透露，Meta Platforms(META.O)扩大后的 250 亿美元股票发行获得了约为可供认购股份数量 5 倍的认购需求。该公司正计划筹集 980 亿美元资金，用于人工智能领域的支出。知情人士表示，此次普通股发行中，超过一半的股份分配给了长期持股投资者和...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="波音预计，公司具备显著现金流增长潜力，规模将超过 100 亿美元。
+👍1"><div class="time">22:41</div><div class="content"><div class="text" data-full="波音预计，公司具备显著现金流增长潜力，规模将超过 100 亿美元。
+👍1" data-short="波音预计，公司具备显著现金流增长潜力，规模将超过 100 亿美元。
+👍1">波音预计，公司具备显著现金流增长潜力，规模将超过 100 亿美元。
+👍1</div></div></article><article class="item" data-search="俄罗斯副总理诺瓦克：俄罗斯与美国讨论北极液化天然气（lng）项目。（国际文传通讯社）
+👍1"><div class="time">22:41</div><div class="content"><div class="text" data-full="俄罗斯副总理诺瓦克：俄罗斯与美国讨论北极液化天然气（LNG）项目。（国际文传通讯社）
+👍1" data-short="俄罗斯副总理诺瓦克：俄罗斯与美国讨论北极液化天然气（LNG）项目。（国际文传通讯社）
+👍1">俄罗斯副总理诺瓦克：俄罗斯与美国讨论北极液化天然气（LNG）项目。（国际文传通讯社）
+👍1</div></div></article><article class="item" data-search="波音股价跌幅扩大至 8.3%，创 2025 年 4 月以来最大跌幅。
+👍1"><div class="time">22:41</div><div class="content"><div class="text" data-full="波音股价跌幅扩大至 8.3%，创 2025 年 4 月以来最大跌幅。
+👍1" data-short="波音股价跌幅扩大至 8.3%，创 2025 年 4 月以来最大跌幅。
+👍1">波音股价跌幅扩大至 8.3%，创 2025 年 4 月以来最大跌幅。
+👍1</div></div></article><article class="item" data-search="波音预计将在 2029 年实现 100 亿美元自由现金流目标。
+👍1"><div class="time">22:41</div><div class="content"><div class="text" data-full="波音预计将在 2029 年实现 100 亿美元自由现金流目标。
+👍1" data-short="波音预计将在 2029 年实现 100 亿美元自由现金流目标。
+👍1">波音预计将在 2029 年实现 100 亿美元自由现金流目标。
+👍1</div></div></article><article class="item" data-search="俄罗斯副总理诺瓦克：俄罗斯炼油厂目前正迅速让完成维护的装置恢复运行，几乎所有必要的油气设备均在俄罗斯制造。
+👍1"><div class="time">22:41</div><div class="content"><div class="text" data-full="俄罗斯副总理诺瓦克：俄罗斯炼油厂目前正迅速让完成维护的装置恢复运行，几乎所有必要的油气设备均在俄罗斯制造。
+👍1" data-short="俄罗斯副总理诺瓦克：俄罗斯炼油厂目前正迅速让完成维护的装置恢复运行，几乎所有必要的油气设备均在俄罗斯制造。
+👍1">俄罗斯副总理诺瓦克：俄罗斯炼油厂目前正迅速让完成维护的装置恢复运行，几乎所有必要的油气设备均在俄罗斯制造。
+👍1</div></div></article><article class="item" data-search="俄罗斯诺瓦克：俄罗斯炼油厂目前在维护后非常迅速地将其装置恢复在线，几乎所有必要的石油和天然气设备都是在俄罗斯制造的。
+👍1"><div class="time">22:41</div><div class="content"><div class="text" data-full="俄罗斯诺瓦克：俄罗斯炼油厂目前在维护后非常迅速地将其装置恢复在线，几乎所有必要的石油和天然气设备都是在俄罗斯制造的。
+👍1" data-short="俄罗斯诺瓦克：俄罗斯炼油厂目前在维护后非常迅速地将其装置恢复在线，几乎所有必要的石油和天然气设备都是在俄罗斯制造的。
+👍1">俄罗斯诺瓦克：俄罗斯炼油厂目前在维护后非常迅速地将其装置恢复在线，几乎所有必要的石油和天然气设备都是在俄罗斯制造的。
+👍1</div></div></article><article class="item" data-search="现货黄金突破 4050 美元/盎司，日内涨 0.84%。
+👍1"><div class="time">22:41</div><div class="content"><div class="text" data-full="现货黄金突破 4050 美元/盎司，日内涨 0.84%。
+👍1" data-short="现货黄金突破 4050 美元/盎司，日内涨 0.84%。
+👍1">现货黄金突破 4050 美元/盎司，日内涨 0.84%。
+👍1</div></div></article><article class="item" data-search="美国国家飓风中心（nhc）：vance 勉强形成热带风暴，其势力略微减弱。
 👍1"><div class="time">22:40</div><div class="content"><div class="text" data-full="美国国家飓风中心（NHC）：Vance 勉强形成热带风暴，其势力略微减弱。
 👍1" data-short="美国国家飓风中心（NHC）：Vance 勉强形成热带风暴，其势力略微减弱。
 👍1">美国国家飓风中心（NHC）：Vance 勉强形成热带风暴，其势力略微减弱。
@@ -11,16 +49,24 @@
 👍1"><div class="time">22:40</div><div class="content"><div class="text" data-full="泰雷兹：罗马尼亚选择泰雷兹提供四套可部署的一次和二次雷达系统。雷达将向国家和北约指挥控制系统提供实时目标数据。
 👍1" data-short="泰雷兹：罗马尼亚选择泰雷兹提供四套可部署的一次和二次雷达系统。雷达将向国家和北约指挥控制系统提供实时目标数据。
 👍1">泰雷兹：罗马尼亚选择泰雷兹提供四套可部署的一次和二次雷达系统。雷达将向国家和北约指挥控制系统提供实时目标数据。
-👍1</div></div></article><article class="item" data-search="俄罗斯副总理诺瓦克：俄美在北极的潜在项目可能包括开发气田或参与联合液化天然气项目。"><div class="time">22:40</div><div class="content"><div class="text" data-full="俄罗斯副总理诺瓦克：俄美在北极的潜在项目可能包括开发气田或参与联合液化天然气项目。" data-short="俄罗斯副总理诺瓦克：俄美在北极的潜在项目可能包括开发气田或参与联合液化天然气项目。">俄罗斯副总理诺瓦克：俄美在北极的潜在项目可能包括开发气田或参与联合液化天然气项目。</div></div></article><article class="item" data-search="机构：原有 iphone 用户需求释放 duo 上市初期将供不应求
+👍1</div></div></article><article class="item" data-search="俄罗斯副总理诺瓦克：俄美在北极的潜在项目可能包括开发气田或参与联合液化天然气项目。
+👍1"><div class="time">22:40</div><div class="content"><div class="text" data-full="俄罗斯副总理诺瓦克：俄美在北极的潜在项目可能包括开发气田或参与联合液化天然气项目。
+👍1" data-short="俄罗斯副总理诺瓦克：俄美在北极的潜在项目可能包括开发气田或参与联合液化天然气项目。
+👍1">俄罗斯副总理诺瓦克：俄美在北极的潜在项目可能包括开发气田或参与联合液化天然气项目。
+👍1</div></div></article><article class="item" data-search="机构：原有 iphone 用户需求释放 duo 上市初期将供不应求
 counterpoint research 总监 tarun pathak 于 27 日接受采访时表示，iphone duo 的初期需求将会超过供给。 pathak 给出的依据是，全球 iphone 存量设备约有 14 亿台。他解释称，哪怕只有一部分老 iphone 用户选择换新购买这款新品，需求规模就可能突破 counterpoint research 预估的 600 万台以内的供货上限。 counterpoint research 预测，今年全球折叠屏智能手机市场规模同比将增长 24%。到明年，受益于苹果销售周期拉长、三星电子与华为推出新品等因素，市场增速有望达到 37%。
 👍1"><div class="time">22:40</div><div class="content"><div class="text" data-full="机构：原有 iPhone 用户需求释放 Duo 上市初期将供不应求
 Counterpoint Research 总监 Tarun Pathak 于 27 日接受采访时表示，iPhone Duo 的初期需求将会超过供给。 Pathak 给出的依据是，全球 iPhone 存量设备约有 14 亿台。他解释称，哪怕只有一部分老 iPhone 用户选择换新购买这款新品，需求规模就可能突破 Counterpoint Research 预估的 600 万台以内的供货上限。 Counterpoint Research 预测，今年全球折叠屏智能手机市场规模同比将增长 24%。到明年，受益于苹果销售周期拉长、三星电子与华为推出新品等因素，市场增速有望达到 37%。
 👍1" data-short="机构：原有 iPhone 用户需求释放 Duo 上市初期将供不应求
 Counterpoint Research 总监 Tarun Pathak 于 27 日接受采访时表示，iPhone Duo 的初期需求将会超过供给。 Pathak 给出的依据是，全球 iPhone 存量设备约有 14 亿台。他解释称，哪怕只有一部分老 iPhone 用户选择换新购买这款新品...">机构：原有 iPhone 用户需求释放 Duo 上市初期将供不应求
 Counterpoint Research 总监 Tarun Pathak 于 27 日接受采访时表示，iPhone Duo 的初期需求将会超过供给。 Pathak 给出的依据是，全球 iPhone 存量设备约有 14 亿台。他解释称，哪怕只有一部分老 iPhone 用户选择换新购买这款新品...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="东山精密通过香港 ipo 募集资金 98.8 亿港元，面向散户部分获得 0.52 倍认购。
+公司股票将于 10 月 28 日在港交所交易。
 👍1"><div class="time">22:39</div><div class="content"><div class="text" data-full="东山精密通过香港 IPO 募集资金 98.8 亿港元，面向散户部分获得 0.52 倍认购。
+公司股票将于 10 月 28 日在港交所交易。
 👍1" data-short="东山精密通过香港 IPO 募集资金 98.8 亿港元，面向散户部分获得 0.52 倍认购。
+公司股票将于 10 月 28 日在港交所交易。
 👍1">东山精密通过香港 IPO 募集资金 98.8 亿港元，面向散户部分获得 0.52 倍认购。
+公司股票将于 10 月 28 日在港交所交易。
 👍1</div></div></article><article class="item" data-search="orlen unipetrol 表示，公司与 cez 旗下 esco 签署合作备忘录及十年期协议，将从利特维诺夫附近新建太阳能电站购电。
 👍1"><div class="time">22:39</div><div class="content"><div class="text" data-full="ORLEN UNIPETROL 表示，公司与 CEZ 旗下 ESCO 签署合作备忘录及十年期协议，将从利特维诺夫附近新建太阳能电站购电。
 👍1" data-short="ORLEN UNIPETROL 表示，公司与 CEZ 旗下 ESCO 签署合作备忘录及十年期协议，将从利特维诺夫附近新建太阳能电站购电。
@@ -493,37 +539,7 @@ SpaceX 涨 0.38%，Rocket Lab 涨 0.24%，Planet Labs 涨 1.31%，AST SpaceMobil
 惠而浦公告称，2026 年第三季度实现营业收入 11.82 亿元，同比增长 6.82%；归母净利润 9962.25 万元，同比下降 1.49%；扣非归母净利润 7728.89 万元，同比下降 17.89%。2026 年前三季度实现营业收入 30.99 亿元，同比下降 6.01%；归母净利润 2.77 亿元，同比下降 12.59%；扣非归母净利润 1.74 亿元，同比下降 41.71%，主要系销售收入下滑、汇率波动影响。"><div class="time">21:03</div><div class="content"><div class="text" data-full="惠而浦：前三季营收 30.99 亿元 净利同比降 12.59%
 惠而浦公告称，2026 年第三季度实现营业收入 11.82 亿元，同比增长 6.82%；归母净利润 9962.25 万元，同比下降 1.49%；扣非归母净利润 7728.89 万元，同比下降 17.89%。2026 年前三季度实现营业收入 30.99 亿元，同比下降 6.01%；归母净利润 2.77 亿元，同比下降 12.59%；扣非归母净利润 1.74 亿元，同比下降 41.71%，主要系销售收入下滑、汇率波动影响。" data-short="惠而浦：前三季营收 30.99 亿元 净利同比降 12.59%
 惠而浦公告称，2026 年第三季度实现营业收入 11.82 亿元，同比增长 6.82%；归母净利润 9962.25 万元，同比下降 1.49%；扣非归母净利润 7728.89 万元，同比下降 17.89%。2026 年前三季度实现营业收入 30.99 亿元，同比下降 6.01%；归母净利润 2....">惠而浦：前三季营收 30.99 亿元 净利同比降 12.59%
-惠而浦公告称，2026 年第三季度实现营业收入 11.82 亿元，同比增长 6.82%；归母净利润 9962.25 万元，同比下降 1.49%；扣非归母净利润 7728.89 万元，同比下降 17.89%。2026 年前三季度实现营业收入 30.99 亿元，同比下降 6.01%；归母净利润 2....</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="general compute 在融资后的估值为 8 亿美元。"><div class="time">21:03</div><div class="content"><div class="text" data-full="General Compute 在融资后的估值为 8 亿美元。" data-short="General Compute 在融资后的估值为 8 亿美元。">General Compute 在融资后的估值为 8 亿美元。</div></div></article><article class="item" data-search="美国 9 月耐用品订单增长 1.8%，创五个月最大增幅。
-芬兰总统和挪威首相与普京通话，讨论俄乌冲突。
-胡塞武装首次袭击沙特最大石油出口终端。
-康宁 q3 核心销售额同比增长 19%，光通信强劲增长 44%，上调 q4 销售指引至 52 亿-53 亿美元。
-英伟达被曝内存大调整：rubin ultra 转向 8 层 hbm4、gpu 带宽同步砍 13%。
-英伟达拟投资 30 亿美元入股 meta，双方深化 ai 助手 muse 合作。
-报道：台积电拟上调先进封装价格 10%-20%，英伟达、amd 成本承压。
-泡泡玛特 q3 整体收益同比下降 45%-50%，美洲最深降 75%，海外市场全面承压。
-日经 225 指数收涨 1.7%，沪指收跌 1.33%，恒指收跌 0.73%。"><div class="time">21:03</div><div class="content"><div class="text" data-full="美国 9 月耐用品订单增长 1.8%，创五个月最大增幅。
-芬兰总统和挪威首相与普京通话，讨论俄乌冲突。
-胡塞武装首次袭击沙特最大石油出口终端。
-康宁 Q3 核心销售额同比增长 19%，光通信强劲增长 44%，上调 Q4 销售指引至 52 亿-53 亿美元。
-英伟达被曝内存大调整：Rubin Ultra 转向 8 层 HBM4、GPU 带宽同步砍 13%。
-英伟达拟投资 30 亿美元入股 Meta，双方深化 AI 助手 Muse 合作。
-报道：台积电拟上调先进封装价格 10%-20%，英伟达、AMD 成本承压。
-泡泡玛特 Q3 整体收益同比下降 45%-50%，美洲最深降 75%，海外市场全面承压。
-日经 225 指数收涨 1.7%，沪指收跌 1.33%，恒指收跌 0.73%。" data-short="美国 9 月耐用品订单增长 1.8%，创五个月最大增幅。
-芬兰总统和挪威首相与普京通话，讨论俄乌冲突。
-胡塞武装首次袭击沙特最大石油出口终端。
-康宁 Q3 核心销售额同比增长 19%，光通信强劲增长 44%，上调 Q4 销售指引至 52 亿-53 亿美元。
-英伟达被曝内存大调整：Rubin Ultra 转向 8 层 HBM4、GPU 带宽同步砍 13%。
-英...">美国 9 月耐用品订单增长 1.8%，创五个月最大增幅。
-芬兰总统和挪威首相与普京通话，讨论俄乌冲突。
-胡塞武装首次袭击沙特最大石油出口终端。
-康宁 Q3 核心销售额同比增长 19%，光通信强劲增长 44%，上调 Q4 销售指引至 52 亿-53 亿美元。
-英伟达被曝内存大调整：Rubin Ultra 转向 8 层 HBM4、GPU 带宽同步砍 13%。
-英...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="通用计算公司完成 1 亿美元 a 轮融资。"><div class="time">21:03</div><div class="content"><div class="text" data-full="通用计算公司完成 1 亿美元 A 轮融资。" data-short="通用计算公司完成 1 亿美元 A 轮融资。">通用计算公司完成 1 亿美元 A 轮融资。</div></div></article><article class="item" data-search="泰凌微：前三季度营收 8.50 亿元 净利同比降 8.79%
-泰凌微公告称，2026 年第三季度实现营业收入 3.09 亿元，同比增长 17.54%；归母净利润 2867.44 万元，同比下降 25.74%；扣非归母净利润 2954.23 万元，同比下降 18.63%。2026 年前三季度实现营业收入 8.50 亿元，同比增长 10.86%；归母净利润 1.27 亿元，同比下降 8.79%；扣非归母净利润 5745.51 万元，同比下降 55.58%。前三季度研发投入 2.44 亿元，同比增长 31.42%，研发投入占营收比例为 28.74%。"><div class="time">21:03</div><div class="content"><div class="text" data-full="泰凌微：前三季度营收 8.50 亿元 净利同比降 8.79%
-泰凌微公告称，2026 年第三季度实现营业收入 3.09 亿元，同比增长 17.54%；归母净利润 2867.44 万元，同比下降 25.74%；扣非归母净利润 2954.23 万元，同比下降 18.63%。2026 年前三季度实现营业收入 8.50 亿元，同比增长 10.86%；归母净利润 1.27 亿元，同比下降 8.79%；扣非归母净利润 5745.51 万元，同比下降 55.58%。前三季度研发投入 2.44 亿元，同比增长 31.42%，研发投入占营收比例为 28.74%。" data-short="泰凌微：前三季度营收 8.50 亿元 净利同比降 8.79%
-泰凌微公告称，2026 年第三季度实现营业收入 3.09 亿元，同比增长 17.54%；归母净利润 2867.44 万元，同比下降 25.74%；扣非归母净利润 2954.23 万元，同比下降 18.63%。2026 年前三季度实现营业收入 8.50 亿元，同比增长 10.86%；归母净利润 1....">泰凌微：前三季度营收 8.50 亿元 净利同比降 8.79%
-泰凌微公告称，2026 年第三季度实现营业收入 3.09 亿元，同比增长 17.54%；归母净利润 2867.44 万元，同比下降 25.74%；扣非归母净利润 2954.23 万元，同比下降 18.63%。2026 年前三季度实现营业收入 8.50 亿元，同比增长 10.86%；归母净利润 1....</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">10月27日 · VIP</h2> <div class="feed"> <article class="item" data-search="徐小明收盘点评20261027
+惠而浦公告称，2026 年第三季度实现营业收入 11.82 亿元，同比增长 6.82%；归母净利润 9962.25 万元，同比下降 1.49%；扣非归母净利润 7728.89 万元，同比下降 17.89%。2026 年前三季度实现营业收入 30.99 亿元，同比下降 6.01%；归母净利润 2....</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">10月27日 · VIP</h2> <div class="feed"> <article class="item" data-search="徐小明收盘点评20261027
 
 邢者狩猎营20261027
 
