@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3577449",
+    "datetime": "2026-10-28T17:13:42+00:00",
+    "views": "2",
+    "text": "苹果新款 MacBook Pro 电池续航最长可达 24 小时。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577449"
+  },
+  {
+    "post": "Financial_Express/3577448",
+    "datetime": "2026-10-28T17:13:22+00:00",
+    "views": "2",
+    "text": "苹果(AAPL.O)：14 英寸 MacBook Pro 搭载 M5 Pro 芯片起售价 2899 美元；16 英寸机型起售价 3399 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577448"
+  },
+  {
+    "post": "Financial_Express/3577447",
+    "datetime": "2026-10-28T17:13:02+00:00",
+    "views": "2",
+    "text": "苹果公司：MacBook Pro 今日（10 月 28 日）起开放预订，11 月 6 日（下周五）开始发售。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577447"
+  },
+  {
+    "post": "Financial_Express/3577446",
+    "datetime": "2026-10-28T17:12:42+00:00",
+    "views": "3",
+    "text": "苹果 14 英寸 MacBook Pro 搭载 M5 Pro 芯片，起售价 2899 美元；16 英寸版本起售价 3399 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577446"
+  },
+  {
+    "post": "Financial_Express/3577444",
+    "datetime": "2026-10-28T17:12:23+00:00",
+    "views": "4",
+    "text": "苹果 14 英寸 MacBook Pro（搭载 M5 Max 芯片）起售价 4499 美元；16 英寸机型起售价 4799 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577444"
+  },
+  {
+    "post": "Financial_Express/3577445",
+    "datetime": "2026-10-28T17:12:23+00:00",
+    "views": "34",
+    "text": "苹果：配备 ProLED XDR 显示屏的 MacBook Pro 租用服务已上线，租期 36 个月，月租 55.99 美元起。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577445"
+  },
+  {
+    "post": "Financial_Express/3577443",
+    "datetime": "2026-10-28T17:12:22+00:00",
+    "views": "4",
+    "text": "苹果(AAPL.O)：14 英寸 MacBook Pro 搭载 M5 Max 芯片起售价 4499 美元；16 英寸机型起售价 4799 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577443"
+  },
+  {
+    "post": "Financial_Express/3577442",
+    "datetime": "2026-10-28T17:12:02+00:00",
+    "views": "34",
+    "text": "苹果首次在 Mac 上推出配备 ProLED XDR 显示屏和触控功能的突破性 MacBook Pro。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577442"
+  },
+  {
     "post": "Financial_Express/3577440",
     "datetime": "2026-10-28T17:10:43+00:00",
-    "views": "10",
+    "views": "44",
     "text": "谷歌：Chrome 增强自动填充功能现可从 Gmail 中提取信息，为在线表单提供建议。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3577441",
     "datetime": "2026-10-28T17:10:43+00:00",
-    "views": "10",
+    "views": "44",
     "text": "谷歌：将通过 Fairwind 计划逐步向更多可信合作伙伴开放 Gemini Carbon 的访问权限。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3577439",
     "datetime": "2026-10-28T17:10:42+00:00",
-    "views": "10",
+    "views": "44",
     "text": "谷歌(GOOG.O)：将通过 Fairwind 计划逐步向更多可信合作伙伴开放 Gemini Carbon 的使用权限。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3577438",
     "datetime": "2026-10-28T17:10:22+00:00",
-    "views": "13",
+    "views": "46",
     "text": "谷歌：从本周开始，将向一部分网络防御人员开放 Carbon 模型。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3577437",
     "datetime": "2026-10-28T17:10:03+00:00",
-    "views": "45",
+    "views": "48",
     "text": "谷歌：XREAL AURA 正式发布，年底前优惠价 1099 美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3577435",
     "datetime": "2026-10-28T17:10:02+00:00",
-    "views": "44",
+    "views": "47",
     "text": "谷歌(GOOG.O)：自本周起，将向部分网络防御人员开放 Google Carbon。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3577436",
     "datetime": "2026-10-28T17:10:02+00:00",
-    "views": "45",
+    "views": "48",
     "text": "谷歌称 Gemini 4 Carbon 将审慎推进落地，主动参与美国政府模型预发布自愿测试流程。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3577434",
     "datetime": "2026-10-28T17:09:43+00:00",
-    "views": "46",
+    "views": "49",
     "text": "纳斯达克中国金龙指数跌超 2%，虎虎科技跌 42.00%，新东方跌 12.44%，陆金所控股跌 8.12%，高途跌 7.20%，迅雷跌 6.77%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3577433",
     "datetime": "2026-10-28T17:09:42+00:00",
-    "views": "46",
+    "views": "48",
     "text": "谷歌(GOOG.O)：正以审慎方式推进 Gemini 4 Carbon 的发布，并积极参与美国政府关于模型发布前测试的自愿流程。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3577432",
     "datetime": "2026-10-28T17:09:22+00:00",
-    "views": "46",
+    "views": "48",
     "text": "Anthropic：IDC Quanta 现已在 Claude 中向 IDC 客户提供。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3577431",
     "datetime": "2026-10-28T17:08:22+00:00",
-    "views": "48",
+    "views": "50",
     "text": "分析：美联储今晚料按兵不动，但通胀恶化恐逼其未来“下猛药”\n金十数据 10 月 29 日讯，市场普遍预期美联储今晚将按兵不动。CNBC 分析指出，美联储当前面临的核心问题是，在通胀较上次会议以来进一步恶化、且多项指标预示后续数据可能更加糟糕的情况下，为何仍选择维持利率不变。此举可能导致美联储未来几个月被迫采取更大力度的紧缩措施。道明证券表示：“一旦出现明显偏高的通胀数据，或劳动力市场连续表现强劲，市场就可能开始加大对美联储在下一次会议上加息 50 个基点的预期。”",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3577430",
     "datetime": "2026-10-28T17:08:02+00:00",
-    "views": "49",
+    "views": "51",
     "text": "谷歌(GOOG.O)：正式推出 XREAL Aura。",
     "media_only": false,
     "image_url": null,
@@ -78505,14 +78577,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3568089"
-  },
-  {
-    "post": "Financial_Express/3568088",
-    "datetime": "2026-10-26T17:14:02+00:00",
-    "views": "94",
-    "text": "达乐公司股价下跌 3.8%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3568088"
   }
 ]
