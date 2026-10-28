@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3578102",
+    "datetime": "2026-10-28T21:01:42+00:00",
+    "views": "3",
+    "text": "Alphabet(GOOG.O)高管：研发支出增长 36%，主要受 AI 人才招聘及折旧推动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3578102"
+  },
+  {
+    "post": "Financial_Express/3578103",
+    "datetime": "2026-10-28T21:01:42+00:00",
+    "views": "3",
+    "text": "谷歌母公司 Alphabet 未来采购承诺规模达 9240 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3578103"
+  },
+  {
+    "post": "Financial_Express/3578101",
+    "datetime": "2026-10-28T21:01:02+00:00",
+    "views": "14",
+    "text": "谷歌：研发支出上涨 36%，受 AI 人才招聘及折旧费用推动。82 亿美元其他收益亏损源于 SpaceX 股价下跌。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3578101"
+  },
+  {
+    "post": "Financial_Express/3578099",
+    "datetime": "2026-10-28T21:00:42+00:00",
+    "views": "19",
+    "text": "谷歌(GOOG.O)直接与 Anthropic 就 TPU 开展合作，并与博通(AVGO.O)合作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3578099"
+  },
+  {
+    "post": "Financial_Express/3578100",
+    "datetime": "2026-10-28T21:00:42+00:00",
+    "views": "19",
+    "text": "Alphabet(GOOG.O)高管：第三季度自由现金流为负，主要受资本支出投资驱动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3578100"
+  },
+  {
+    "post": "Financial_Express/3578097",
+    "datetime": "2026-10-28T21:00:22+00:00",
+    "views": "21",
+    "text": "特朗普：巴西的选举非常奇怪。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3578097"
+  },
+  {
+    "post": "Financial_Express/3578098",
+    "datetime": "2026-10-28T21:00:22+00:00",
+    "views": "21",
+    "text": "特朗普：尚未与博索纳罗通话。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3578098"
+  },
+  {
+    "post": "Financial_Express/3578096",
+    "datetime": "2026-10-28T21:00:02+00:00",
+    "views": "23",
+    "text": "特朗普：我批准博索纳罗入境美国。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3578096"
+  },
+  {
     "post": "Financial_Express/3578095",
     "datetime": "2026-10-28T20:59:42+00:00",
-    "views": "6",
+    "views": "24",
     "text": "谷歌调拨 82 亿美元其他收入，来应对马斯克旗下太空探索公司 SpaceX 股价下跌。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3578094",
     "datetime": "2026-10-28T20:59:22+00:00",
-    "views": "9",
+    "views": "24",
     "text": "Alphabet 首席财务官：第三季度资本支出为 514 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3578093",
     "datetime": "2026-10-28T20:58:43+00:00",
-    "views": "15",
+    "views": "27",
     "text": "Alphabet 首席财务官：第三季度自由现金流为负，原因是公司在资本支出方面的投资。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3578092",
     "datetime": "2026-10-28T20:58:42+00:00",
-    "views": "14",
+    "views": "26",
     "text": "惠誉评级：无论中期选举结果如何，美国财政压力都将持续存在。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3578091",
     "datetime": "2026-10-28T20:58:22+00:00",
-    "views": "18",
+    "views": "29",
     "text": "Alphabet(GOOG.O)高管：运营现金流受到为 TPU 系统销售而增加库存的负面影响。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3578090",
     "datetime": "2026-10-28T20:58:02+00:00",
-    "views": "23",
+    "views": "32",
     "text": "Alphabet 首席财务官：营运现金流受到为 TPU 系统销售备货的库存增加的不利影响。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3578089",
     "datetime": "2026-10-28T20:57:22+00:00",
-    "views": "24",
+    "views": "33",
     "text": "谷歌云首席执行官：谷歌直接与 Anthropic 合作开发 TPU，并同博通开展相关合作。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3578088",
     "datetime": "2026-10-28T20:57:20+00:00",
-    "views": "24",
+    "views": "33",
     "text": "标普 500 指数收涨 21.38 点，涨幅 0.28%，报 7743.98 点。标普 500 相等权重指数涨 0.08%，报 8809.42 点，整体呈现出 W 形反转。\n道琼斯工业平均指数收涨 97.53 点，涨幅 0.19%，报 52475.10 点。\n纳斯达克综合指数（纳指）收涨 72.04 点，涨幅 0.27%，报 26549.851 点。\n纳斯达克 100 指数收涨 161.716 点，涨幅 0.55%，报 29813.157 点。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3578087",
     "datetime": "2026-10-28T20:56:42+00:00",
-    "views": "28",
+    "views": "37",
     "text": "苹果正利用谷歌 TPU 扩大基础模型的预训练规模。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3578086",
     "datetime": "2026-10-28T20:56:02+00:00",
-    "views": "30",
+    "views": "39",
     "text": "谷歌云首席执行官：谷歌与 Meta 合作开发 Torch TPU。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3578085",
     "datetime": "2026-10-28T20:55:17+00:00",
-    "views": "34",
+    "views": "40",
     "text": "谷歌母公司 Alphabet 的云首席执行官 Kurian：在财富 100 榜单上，Gemini Enterprise 用户超过 90%。\nAI 网络安全风险正驱动需求。\n谷歌与 Meta 携手打造 Torch TPU。\n谷歌与直接与 Anthropic 围绕 TPU 合作，公司还与博通合作。\n苹果公司在我司 TUPs 上预训练功能模型。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3578084",
     "datetime": "2026-10-28T20:54:17+00:00",
-    "views": "37",
+    "views": "41",
     "text": "明晟公司 MSCI 新兴市场股票指数涨 1.9%，发展中国家外汇指数跌 0.2%。",
     "media_only": false,
     "image_url": null,
