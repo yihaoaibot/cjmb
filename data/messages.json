@@ -1,9 +1,45 @@
 [
   {
+    "post": "Financial_Express/3578089",
+    "datetime": "2026-10-28T20:57:22+00:00",
+    "views": "6",
+    "text": "谷歌云首席执行官：谷歌直接与 Anthropic 合作开发 TPU，并同博通开展相关合作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3578089"
+  },
+  {
+    "post": "Financial_Express/3578088",
+    "datetime": "2026-10-28T20:57:20+00:00",
+    "views": "6",
+    "text": "标普 500 指数收涨 21.38 点，涨幅 0.28%，报 7743.98 点。标普 500 相等权重指数涨 0.08%，报 8809.42 点，整体呈现出 W 形反转。\n道琼斯工业平均指数收涨 97.53 点，涨幅 0.19%，报 52475.10 点。\n纳斯达克综合指数（纳指）收涨 72.04 点，涨幅 0.27%，报 26549.851 点。\n纳斯达克 100 指数收涨 161.716 点，涨幅 0.55%，报 29813.157 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3578088"
+  },
+  {
+    "post": "Financial_Express/3578087",
+    "datetime": "2026-10-28T20:56:42+00:00",
+    "views": "12",
+    "text": "苹果正利用谷歌 TPU 扩大基础模型的预训练规模。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3578087"
+  },
+  {
+    "post": "Financial_Express/3578086",
+    "datetime": "2026-10-28T20:56:02+00:00",
+    "views": "16",
+    "text": "谷歌云首席执行官：谷歌与 Meta 合作开发 Torch TPU。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3578086"
+  },
+  {
     "post": "Financial_Express/3578085",
     "datetime": "2026-10-28T20:55:17+00:00",
-    "views": "7",
-    "text": "谷歌母公司 Alphabet 的云首席执行官 Kurian 列席公司分析师电话会议，称：在财富 100 榜单上，Gemini Enterprise 用户超过 90%。\nAI 网络安全风险正驱动需求。",
+    "views": "20",
+    "text": "谷歌母公司 Alphabet 的云首席执行官 Kurian：在财富 100 榜单上，Gemini Enterprise 用户超过 90%。\nAI 网络安全风险正驱动需求。\n谷歌与 Meta 携手打造 Torch TPU。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3578085"
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3578084",
     "datetime": "2026-10-28T20:54:17+00:00",
-    "views": "14",
+    "views": "26",
     "text": "明晟公司 MSCI 新兴市场股票指数涨 1.9%，发展中国家外汇指数跌 0.2%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3578083",
     "datetime": "2026-10-28T20:53:02+00:00",
-    "views": "20",
+    "views": "29",
     "text": "特朗普下令美国贸易代表就机器人和机械进口寻求谈判\n美国总统特朗普指示贸易代表和商务部长就机器人及工业机械问题展开谈判以处理国家安全关切。该行政命令指示美国贸易代表办公室与贸易伙伴就协议进行，“以应对从任何国家进口机器人和工业机械及其零部件可能对国家安全造成的威胁”。特朗普“未来可能会考虑其它补救措施，包括征收或修改关税、税收、配额和收费；以及制定计划激励对在美国生产机器人和工业机械及其零部件的新投资”。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3578082",
     "datetime": "2026-10-28T20:52:23+00:00",
-    "views": "21",
+    "views": "29",
     "text": "巴西参议员、自由党候选人弗拉维奥·博索纳罗在社交媒体上删除了一封自称“当选总统”的信件，并将措辞改为“巴西领导人”。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3578081",
     "datetime": "2026-10-28T20:52:22+00:00",
-    "views": "21",
+    "views": "29",
     "text": "Alphabet(GOOG.O)高管：日益增长的网络安全隐患正推动对 AI 驱动安全平台的需求。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3578080",
     "datetime": "2026-10-28T20:52:00+00:00",
-    "views": "22",
+    "views": "29",
     "text": "纳斯达克 100 股指期货在美股盘后达到 1%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3578078",
     "datetime": "2026-10-28T20:51:23+00:00",
-    "views": "24",
+    "views": "32",
     "text": "西班牙高铁事故关键录音曝光：调度员违规下令列车“恢复全速”\n当地时间 28 日，西班牙托莱多省高铁特大追尾事故的关键调度通话录音曝光。据悉，这三段核心通话录音包括控制中心与停在轨道上的伊尔约公司列车司机的两次通话，以及与后方追尾的西班牙国家铁路公司列车司机的一次通话，这些录音证实了事故发生前的关键操作失误。录音内容显示，事发前，位于马德里阿托查的 24 小时调度控制中心操作员，向距离伊尔约公司列车约 25 公里的西班牙国家铁路公司列车下达了明确指令：“断开连接，重新连接，恢复正常速度行驶”。据悉，该指令直接违反了相关安全规程。规程要求，在系统故障区段，列车应以目视方式或限制 40 公里/小时的速度行驶。此外，调度员在未确认前方列车已安全驶离区间的情况下，便允许后方列车全速推进，最终酿成惨剧。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3578077",
     "datetime": "2026-10-28T20:51:22+00:00",
-    "views": "23",
+    "views": "29",
     "text": "Alphabet(GOOG.O)高管：Gemini 企业客户的支出同比增长超过三倍。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3578076",
     "datetime": "2026-10-28T20:50:02+00:00",
-    "views": "31",
+    "views": "36",
     "text": "Alphabet(GOOG.O)高管：云业务拥有 18 条年销售额超过 10 亿美元的产品线。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3578075",
     "datetime": "2026-10-28T20:49:22+00:00",
-    "views": "28",
+    "views": "32",
     "text": "Alphabet(GOOG.O)高管：TPU 系统销售是谷歌云增长的重要贡献因素。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3578074",
     "datetime": "2026-10-28T20:48:43+00:00",
-    "views": "25",
+    "views": "29",
     "text": "Alphabet 高管：TPU 系统销售对谷歌云的增长做出了重要贡献。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3578073",
     "datetime": "2026-10-28T20:48:22+00:00",
-    "views": "21",
+    "views": "25",
     "text": "谷歌云首席执行官：谷歌云旗下有 18 条产品线，每条产品线年收入均超过 10 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3578072",
     "datetime": "2026-10-28T20:48:02+00:00",
-    "views": "21",
+    "views": "25",
     "text": "谷歌 YouTube 每日上传视频超 2000 万个。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3578070",
     "datetime": "2026-10-28T20:47:22+00:00",
-    "views": "20",
+    "views": "24",
     "text": "Alphabet(GOOG.O)高管：谷歌 YouTube 订阅业务增长快于广告业务。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3578071",
     "datetime": "2026-10-28T20:47:22+00:00",
-    "views": "20",
+    "views": "24",
     "text": "谷歌 YouTube 订阅业务增速超过广告业务。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +182,7 @@
   {
     "post": "Financial_Express/3578069",
     "datetime": "2026-10-28T20:47:02+00:00",
-    "views": "18",
+    "views": "22",
     "text": "据知情人士透露，Doordash 收购 Instacart 的交易最快将于周四（美东时间）早间宣布。",
     "media_only": false,
     "image_url": null,
