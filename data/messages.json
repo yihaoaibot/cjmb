@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3577170",
+    "datetime": "2026-10-28T15:09:42+00:00",
+    "views": "1",
+    "text": "英伟达(NVDA.O)：RTX Spark 笔记本电脑现已由华硕、戴尔、惠普、联想、微软和微星发售。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577170"
+  },
+  {
+    "post": "Financial_Express/3577169",
+    "datetime": "2026-10-28T15:09:22+00:00",
+    "views": "1",
+    "text": "英伟达：搭载 RTX Spark 的笔记本电脑现已在华硕、戴尔、惠普、联想、微软和微星上市。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577169"
+  },
+  {
+    "post": "Financial_Express/3577168",
+    "datetime": "2026-10-28T15:09:02+00:00",
+    "views": "2",
+    "text": "乌克兰总统泽连斯基：能源停火并未奏效，俄罗斯仍在发动攻击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577168"
+  },
+  {
+    "post": "Financial_Express/3577166",
+    "datetime": "2026-10-28T15:08:43+00:00",
+    "views": "2",
+    "text": "金十提示：加拿大央行新闻发布会结束。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577166"
+  },
+  {
+    "post": "Financial_Express/3577167",
+    "datetime": "2026-10-28T15:08:43+00:00",
+    "views": "2",
+    "text": "以色列议会选举计票最终截止日期为 10 月 29 日，最终结果将于 11 月 4 日公布。新一届议会定于 11 月 10 日开始工作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577167"
+  },
+  {
+    "post": "Financial_Express/3577165",
+    "datetime": "2026-10-28T15:08:42+00:00",
+    "views": "2",
+    "text": "加拿大央行高级副行长罗杰斯：我们认为中东问题不会很快得到解决。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577165"
+  },
+  {
+    "post": "Financial_Express/3577164",
+    "datetime": "2026-10-28T15:08:22+00:00",
+    "views": "3",
+    "text": "泽连斯基：能源停火并未奏效。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577164"
+  },
+  {
     "post": "Financial_Express/3577163",
     "datetime": "2026-10-28T15:07:22+00:00",
-    "views": "6",
+    "views": "12",
     "text": "欧盟准备取消向加拿大提供的“准成员”地位方案。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3577162",
     "datetime": "2026-10-28T15:07:12+00:00",
-    "views": "6",
+    "views": "12",
     "text": "加拿大央行：央行在抗击通胀方面拥有“强大的共识”。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3577160",
     "datetime": "2026-10-28T15:06:42+00:00",
-    "views": "12",
+    "views": "47",
     "text": "亚马逊(AMZN.O)：联合发射联盟将把 40 颗亚马逊 Leo 卫星送入近地轨道，发射目标定于 11 月 13 日星期五。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3577161",
     "datetime": "2026-10-28T15:06:42+00:00",
-    "views": "12",
+    "views": "47",
     "text": "俄罗斯国防部：今日俄罗斯联邦武装力量继续使用无人机打击向乌克兰运送军用物资的后勤中心、能源基础设施和海军舰艇。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3577159",
     "datetime": "2026-10-28T15:06:31+00:00",
-    "views": "14",
+    "views": "48",
     "text": "亚马逊：联合发射联盟将于 11 月 13 日星期五发射 40 颗亚马逊 LEO 卫星进入近地轨道。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3577157",
     "datetime": "2026-10-28T15:06:03+00:00",
-    "views": "16",
+    "views": "20",
     "text": "摩洛哥王室表示，摩洛哥将启用纳祖尔西地中海港，并将丹吉尔地中海港的吞吐能力扩大至 2000 万集装箱。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3577158",
     "datetime": "2026-10-28T15:06:03+00:00",
-    "views": "16",
+    "views": "50",
     "text": "亚马逊：联合发射联盟将于 2026 年 11 月 13 日星期五发射 40 颗亚马逊 LEO 卫星进入近地轨道。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3577156",
     "datetime": "2026-10-28T15:06:02+00:00",
-    "views": "16",
+    "views": "20",
     "text": "全球冲突推动炼油利润实现历史性回升\n金十数据 10 月 28 日讯，炼油行业正经历着历史性的剧变，但与此同时，其盈利水平也达到了前所未有的高度。今年，中东和俄罗斯遭受的袭击导致全球燃料加工产能严重短缺，迫使其他地区的炼油厂满负荷运转，并得以收取更高的价格。今年 9 月，美国墨西哥湾沿岸的炼油利润率升至每桶 72 美元的历史新高，较年初增长逾两倍。随着汽油、柴油和航空燃油价格飙升，欧洲和亚洲的炼油利润率也出现类似涨幅。对于炼油行业而言，这在某种程度上是一场复兴。此前，随着电动汽车、混合动力汽车普及以及远程办公兴起，许多人曾警告称，该行业将不可避免地走向衰退。马拉松石油公司、瓦莱罗能源公司和菲利普斯 66 公司均在十多年前从母公司分拆，如今已成为标普 500 指数今年表现最好的 20 只股票中的成员，自 1 月以来股价涨幅均超过 100%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3577155",
     "datetime": "2026-10-28T15:05:55+00:00",
-    "views": "16",
+    "views": "20",
     "text": "随着人工智能（AI）债务融资累计达到约 5,000 亿美元，曾帮助开启融资热潮的债券巨头太平洋投资管理公司（PIMCO，品浩）削减了部分最大规模持仓。据知情人士透露，有时候 PIMCO 买入仅数月就开始减仓。\n除了 2025 年约 180 亿美元的 Meta 相关债券（当时该公司以约 180 亿美元成为一项债务融资交易的基石投资者，使 Meta 能够在避免资产负债表受拖累的情况下建设路易斯安那州一个大型数据中心项目）外，PIMCO 旗下基金还投资了 100 亿美元的甲骨文相关交易。文件显示，该公司目前对这两项投资的持仓均已减少约 50%。PIMCO 是在相关债券价格较高时减仓的。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3577154",
     "datetime": "2026-10-28T15:05:42+00:00",
-    "views": "17",
+    "views": "19",
     "text": "加拿大央行行长麦克勒姆：与一年前相比，经济中的闲置产能减少。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3577152",
     "datetime": "2026-10-28T15:05:23+00:00",
-    "views": "19",
+    "views": "23",
     "text": "英国房屋建筑商股价延续跌势，Barratt 下跌 8%，Persimmon 下跌 6%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3577153",
     "datetime": "2026-10-28T15:05:23+00:00",
-    "views": "19",
+    "views": "22",
     "text": "俄罗斯总统助理乌沙科夫：欧洲代表没有资格参与与乌克兰战争相关的谈判。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +182,7 @@
   {
     "post": "Financial_Express/3577151",
     "datetime": "2026-10-28T15:05:22+00:00",
-    "views": "20",
+    "views": "24",
     "text": "加拿大央行行长麦克勒姆：疫情让我们认识到，在产能闲置的情况下通胀仍可能上升。",
     "media_only": false,
     "image_url": null,
@@ -77479,68 +77542,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3567924"
-  },
-  {
-    "post": "Financial_Express/3567922",
-    "datetime": "2026-10-26T15:09:42+00:00",
-    "views": "90",
-    "text": "法官裁定，特朗普政府解雇检察官莫琳·科米（Maurene Comey）的行为违法。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3567922"
-  },
-  {
-    "post": "Financial_Express/3567923",
-    "datetime": "2026-10-26T15:09:42+00:00",
-    "views": "91",
-    "text": "伊朗方面：伊朗、巴基斯坦、土耳其和沙特阿拉伯四国会议结束。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3567923"
-  },
-  {
-    "post": "Financial_Express/3567921",
-    "datetime": "2026-10-26T15:09:30+00:00",
-    "views": "88",
-    "text": "北美科技软件股指数 ETF 一度涨约 1.2%，刷新日高至 111.88 美元，逼近 10 月 12 日盘中最高位 113.70 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3567921"
-  },
-  {
-    "post": "Financial_Express/3567920",
-    "datetime": "2026-10-26T15:09:22+00:00",
-    "views": "88",
-    "text": "工党议员警告：英国工业复兴目标恐难实现\n金十数据 10 月 26 日讯，英国工党议员向英国首相伯纳姆发出警告，称英国重振工业的承诺恐怕难以兑现，因为现行政策与其表态并不相符，仍然更偏向服务业而非制造业。伯纳姆将重振工业列为一项核心优先事项，并表示希望振兴英国各地邮政编码区域的经济、创造就业岗位，而不仅仅是发展城市中心。然而，在财政大臣约翰·希利即将公布首份预算案的前几天，伯纳姆又承诺将在数周内公布英国未来十年发展计划。此时，工党议员对工业振兴工作进展缓慢、缺乏雄心表示不满，并警告称，政府部长们似乎尚未就投资城市服务业以外的行业形成共识。工党议员、工党再工业化研究小组主席安迪·麦克纳指出，英国长期以来存在一种经济正统观念，即固守“服务型经济”模式，并倾向于通过廉价进口商品来满足需求。他补充说，创造制造业就业岗位广受欢迎，但政府内部的关注点仍集中在“主要由城市贡献的 GDP 增长”上。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3567920"
-  },
-  {
-    "post": "Financial_Express/3567919",
-    "datetime": "2026-10-26T15:09:03+00:00",
-    "views": "88",
-    "text": "美国法官裁定，特朗普政府解雇检察官莫琳·科米的行为违法。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3567919"
-  },
-  {
-    "post": "Financial_Express/3567918",
-    "datetime": "2026-10-26T15:09:02+00:00",
-    "views": "88",
-    "text": "Kraken：正在调查导致比特币区块链提款和存款延迟的问题。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3567918"
-  },
-  {
-    "post": "Financial_Express/3567917",
-    "datetime": "2026-10-26T15:08:42+00:00",
-    "views": "89",
-    "text": "俄罗斯 1 至 9 月向非洲出口粮食 1300 万吨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3567917"
   }
 ]
