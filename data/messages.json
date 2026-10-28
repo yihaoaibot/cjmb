@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3577487",
+    "datetime": "2026-10-28T17:37:43+00:00",
+    "views": "13",
+    "text": "空客首席执行官：A320 系列飞机的发动机情况基本没有变化，普惠发动机仍然是增产的主要制约因素。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577487"
+  },
+  {
+    "post": "Financial_Express/3577485",
+    "datetime": "2026-10-28T17:37:42+00:00",
+    "views": "13",
+    "text": "空客首席执行官：普惠发动机问题是影响我们 2026 年飞机交付目标的最重要因素。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577485"
+  },
+  {
+    "post": "Financial_Express/3577486",
+    "datetime": "2026-10-28T17:37:42+00:00",
+    "views": "13",
+    "text": "空客在发现机内遗留工具后，完成全部 A330 飞机的检查工作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577486"
+  },
+  {
+    "post": "Financial_Express/3577484",
+    "datetime": "2026-10-28T17:37:03+00:00",
+    "views": "24",
+    "text": "空客预计将获得足够的普惠发动机，以实现全年目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577484"
+  },
+  {
+    "post": "Financial_Express/3577483",
+    "datetime": "2026-10-28T17:36:42+00:00",
+    "views": "26",
+    "text": "谷歌发布前沿模型 Gemini 4 Carbon 编程与网络安全能力显著提升\n金十数据 10 月 29 日讯，谷歌推出新一代前沿模型 Gemini 4 Carbon，在最新 AI 能力榜单中排名第一，尤其擅长复杂编程、长时间自主执行任务和网络安全。谷歌称，该模型发现软件漏洞的得分达 88.2%，生成安全代码的表现较上一代提升逾一倍，提示词注入攻击成功率降至 0%，高严重性安全对齐问题警报减少近 80%。定价与上一代相同，每百万输入词元 2 美元、每百万输出词元 10 美元，缓存输入词元价格优惠 95%。目前先向部分网络安全防御人员开放，之后再逐步扩大使用范围。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577483"
+  },
+  {
+    "post": "Financial_Express/3577482",
+    "datetime": "2026-10-28T17:36:35+00:00",
+    "views": "28",
+    "text": "空客首席执行官：我们将继续关注宏观经济环境。\n客户正在应对燃油价格波动局面。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577482"
+  },
+  {
+    "post": "Financial_Express/3577481",
+    "datetime": "2026-10-28T17:36:02+00:00",
+    "views": "36",
+    "text": "伊朗国家安全委员会主席：退出《不扩散核武器条约》的议会方案已经准备就绪。从立法层面来说，只要国内形成统一的全国共识，我们就可以采取行动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577481"
+  },
+  {
     "post": "Financial_Express/3577480",
     "datetime": "2026-10-28T17:35:22+00:00",
-    "views": "15",
+    "views": "40",
     "text": "胡塞武装称沙特 24 小时内发动 101 次空袭及导弹袭击\n金十数据 10 月 29 日讯，胡塞武装军事发言人叶海亚·萨雷亚发文称，沙特战机在过去 24 小时内发动了 101 次空袭和导弹袭击，目标是萨那以及焦夫省、塔伊兹省、阿姆兰省、哈杰省、萨达省、达利阿省、马哈维特省和拉赫季省的民用设施。袭击由从海米斯穆谢特和塔伊夫两处空军基地起飞的 F-15 和“台风”战斗机实施，此外，沙特还从奈季兰方向发动了导弹袭击，造成数十人死伤。自沙特对也门升级军事行动以来，沙特发动的空袭和导弹袭击总数已达到 3480 次。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3577479",
     "datetime": "2026-10-28T17:35:02+00:00",
-    "views": "25",
+    "views": "45",
     "text": "空客 CEO：客户正在应对燃油价格波动局面。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3577478",
     "datetime": "2026-10-28T17:34:42+00:00",
-    "views": "29",
+    "views": "46",
     "text": "空客首席执行官：我们将继续关注宏观经济环境。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3577477",
     "datetime": "2026-10-28T17:34:23+00:00",
-    "views": "31",
+    "views": "48",
     "text": "苹果推出触屏 MacBook\n苹果正式发布经过重大更新的 MacBook Pro，搭载触摸屏。这款机型更轻薄，提供 14 英寸与 16 英寸两个版本，也是首款采用 OLED 屏幕的 Mac，配备灵动岛。设备搭载针对触控优化的全新界面，可选 M5 Pro 以及 M5 Max 芯片。14 英寸版本起售价 2899 美元，16 英寸版本起售价 3399 美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3577476",
     "datetime": "2026-10-28T17:34:22+00:00",
-    "views": "32",
+    "views": "47",
     "text": "空客：团队已动员起来，为年底的生产冲刺做准备。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3577475",
     "datetime": "2026-10-28T17:33:10+00:00",
-    "views": "40",
+    "views": "54",
     "text": "欧洲 STOXX 600 指数收涨 0.07%，报 644.14 点。\n欧元区 STOXX 50 指数收涨 0.05%，报 6167.81 点。\n富时泛欧绩优 300 指数收涨 0.09%，报 2569.06 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3577473",
     "datetime": "2026-10-28T17:33:02+00:00",
-    "views": "39",
+    "views": "51",
     "text": "美国银行监管机构就可能的裁员问题警告数百人。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3577474",
     "datetime": "2026-10-28T17:33:02+00:00",
-    "views": "40",
+    "views": "54",
     "text": "巴西警察：无巴西前总统博索纳罗之子离境的官方记录。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3577472",
     "datetime": "2026-10-28T17:32:42+00:00",
-    "views": "41",
+    "views": "52",
     "text": "美国银行监管机构向数百名员工发出可能裁员的警告。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3577471",
     "datetime": "2026-10-28T17:32:07+00:00",
-    "views": "39",
+    "views": "48",
     "text": "当地时间 28 日，伊朗外长阿拉格齐表示，尽管伊朗武装部队已做好充分准备保卫国家，但伊朗仍将继续努力，与各调解人保持密切和持续的联系，探讨如何在不到一周的时间内落实伊朗提出的“7 日计划”，争取外交成功。\n9 月 22 日，美国总统特使威特科夫和特朗普的女婿库什纳在纽约联合国大会期间与伊朗外长阿拉格齐通过调解方卡塔尔进行了间接会谈。据悉，伊方提议，如美国解除海上封锁、取消石油销售制裁并恢复地区停火，伊朗将在七天内重新开放霍尔木兹海峡并重启核谈判。（央视）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3577470",
     "datetime": "2026-10-28T17:31:22+00:00",
-    "views": "47",
+    "views": "57",
     "text": "Anthropic 拟向英国及欧洲散户开放 IPO 认购\n金十数据 10 月 29 日讯，Anthropic 正与英国投资平台 RetailBook 合作，计划在上市时向英国散户投资者提供股票认购机会，并可能覆盖部分欧洲大陆市场。公司已于周一提交美国 IPO 申请，计划在纳斯达克以代码“ANT”上市，规模有望创历史纪录。此前有报道称，Anthropic 正考虑将 IPO 发行股份的 15%—20%分配给全球散户投资者，并由摩根大通负责美国个人投资者的股票销售。英国方案尚未最终确定，具体安排仍可能变化。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3577469",
     "datetime": "2026-10-28T17:28:02+00:00",
-    "views": "64",
+    "views": "99",
     "text": "谷歌推出 Gemini 4 Carbon 前沿 AI 模型\n谷歌发布其新一代前沿 AI 模型 Gemini 4 Carbon 后，股价升至盘中高点。该模型旨在维持网络安全防御能力并处理复杂工程问题。Carbon 能够处理长时间智能体工作流、生成安全代码，并降低模型偏离对齐目标和虚构内容的比率。Carbon 旨在谷歌两周前推出的 Gemini 4 Argon 模型基础上进一步发展。谷歌计划在向消费者开放 Carbon 之前，先收集网络安全防御测试人员的反馈。Carbon 定价为每百万输入 token 收费 2 美元，每百万输出 token 收费 10 美元。谷歌股价上涨 1.5%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3577468",
     "datetime": "2026-10-28T17:27:36+00:00",
-    "views": "68",
+    "views": "104",
     "text": "周三（10 月 28 日）欧市尾盘，德国 10 年期国债收益率涨 1.1 个基点，报 3.371%，日内交投于 3.346%-3.387%区间，全天走出 V 形反转行情，临近结束交易时显著回吐涨幅。\n两年期德债收益率涨 4.3 个基点，报 3.131%，日内交投于 3.097%-3.139%区间，整体高开高走；30 年期德债收益率跌 0.6 个基点，报 3.686%。\n2/10 年期德债收益率利差跌 3.169 个基点，报+23.759 个基点。\n法国 10 年期国债收益率跌 1 个基点，意大利 10 年期国债收益率涨 2.3 个基点，西班牙 10 年期国债收益率跌 0.6 个基点，希腊 10 年期国债收益率跌 0.3 个基点。",
     "media_only": false,
     "image_url": null,
@@ -78550,23 +78613,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3568123"
-  },
-  {
-    "post": "Financial_Express/3568122",
-    "datetime": "2026-10-26T17:37:42+00:00",
-    "views": "132",
-    "text": "英国海事贸易行动办公室：收到第三方报告，一艘船只在伊拉克法奥东南 63 海里处起火，船员状况、损害评估及环境影响均不明。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3568122"
-  },
-  {
-    "post": "Financial_Express/3568121",
-    "datetime": "2026-10-26T17:37:02+00:00",
-    "views": "136",
-    "text": "英国海上贸易行动办公室：截至报告时，船员状况、损害评估及环境影响均未知。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3568121"
   }
 ]
