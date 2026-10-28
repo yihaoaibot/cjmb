@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3577429",
+    "datetime": "2026-10-28T17:07:42+00:00",
+    "views": "3",
+    "text": "Anthropic：Claude 现面向 IDC 客户提供 IDC Quanta。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577429"
+  },
+  {
+    "post": "Financial_Express/3577428",
+    "datetime": "2026-10-28T17:07:22+00:00",
+    "views": "10",
+    "text": "苹果(AAPL.O)：触控版 MacBook Pro 可选配 M5 Pro 和 M5 Max 芯片。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577428"
+  },
+  {
+    "post": "Financial_Express/3577426",
+    "datetime": "2026-10-28T17:07:02+00:00",
+    "views": "14",
+    "text": "Alphabet(GOOG.O)涨至盘中高点，现涨 1.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577426"
+  },
+  {
+    "post": "Financial_Express/3577427",
+    "datetime": "2026-10-28T17:07:02+00:00",
+    "views": "14",
+    "text": "苹果(AAPL.O)：新款 MacBook Pro 采用更轻薄设计。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577427"
+  },
+  {
+    "post": "Financial_Express/3577425",
+    "datetime": "2026-10-28T17:06:43+00:00",
+    "views": "15",
+    "text": "苹果 Touch MacBook Pro 提供 M5 Pro 和 M5 Max 芯片选项。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577425"
+  },
+  {
+    "post": "Financial_Express/3577424",
+    "datetime": "2026-10-28T17:06:42+00:00",
+    "views": "15",
+    "text": "苹果称新款 MacBook Pro 采用更轻薄设计。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577424"
+  },
+  {
+    "post": "Financial_Express/3577423",
+    "datetime": "2026-10-28T17:06:22+00:00",
+    "views": "16",
+    "text": "泽连斯基：乌克兰当前面临的关键缺口是“爱国者”系统的导弹，用于拦截俄罗斯的弹道导弹。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577423"
+  },
+  {
+    "post": "Financial_Express/3577422",
+    "datetime": "2026-10-28T17:06:18+00:00",
+    "views": "17",
+    "text": "谷歌公司称，公司与 xreal 发布 xreal Aura 有线 XR 眼镜，由安卓 XR 支持。\n面向开发者发布 Connected APPs Platforms。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577422"
+  },
+  {
+    "post": "Financial_Express/3577421",
+    "datetime": "2026-10-28T17:05:42+00:00",
+    "views": "19",
+    "text": "谷歌正式发布 XREAL Aura。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3577421"
+  },
+  {
     "post": "Financial_Express/3577420",
     "datetime": "2026-10-28T17:05:02+00:00",
-    "views": "10",
+    "views": "56",
     "text": "Alphabet 涨幅扩大。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3577419",
     "datetime": "2026-10-28T17:04:42+00:00",
-    "views": "14",
+    "views": "57",
     "text": "谷歌(GOOG.O)：将对输入词元定价每百万 2 美元，对输出词元定价每百万 10 美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3577418",
     "datetime": "2026-10-28T17:04:22+00:00",
-    "views": "15",
+    "views": "57",
     "text": "苹果 CEO 约翰·特努斯：苹果触控屏 MacBook Pro 将配备 OLED 屏幕。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3577416",
     "datetime": "2026-10-28T17:04:02+00:00",
-    "views": "20",
+    "views": "63",
     "text": "谷歌(GOOG.O)基准测试显示，Gemini 4 Carbon 在大多数指标上都优于 GPT-6 Astra 和 Claude Opus 5.5。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3577417",
     "datetime": "2026-10-28T17:04:02+00:00",
-    "views": "15",
+    "views": "57",
     "text": "谷歌：将对输入 token 定价为每百万 2 美元，输出 token 定价为每百万 10 美元。",
     "media_only": false,
     "image_url": null,
@@ -47,8 +128,8 @@
   {
     "post": "Financial_Express/3577415",
     "datetime": "2026-10-28T17:03:43+00:00",
-    "views": "15",
-    "text": "苹果公司发布配置触摸屏的大改版 MacBook Pro。",
+    "views": "57",
+    "text": "苹果公司发布配置 OLED 触摸屏的大改版 MacBook Pro。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3577415"
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3577414",
     "datetime": "2026-10-28T17:03:22+00:00",
-    "views": "18",
+    "views": "58",
     "text": "苹果(AAPL.O)发布配备触控屏的全新 MacBook Pro。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3577412",
     "datetime": "2026-10-28T17:03:02+00:00",
-    "views": "19",
+    "views": "58",
     "text": "苹果发布配备触控屏的全新 MacBook Pro。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3577411",
     "datetime": "2026-10-28T17:02:23+00:00",
-    "views": "58",
+    "views": "68",
     "text": "谷歌推出 Gemini 4 Carbon 前沿大模型。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3577410",
     "datetime": "2026-10-28T17:02:22+00:00",
-    "views": "53",
+    "views": "60",
     "text": "微软(MSFT.O)：通过 Microsoft Foundry 提供 Copilot Harness。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3577409",
     "datetime": "2026-10-28T17:02:04+00:00",
-    "views": "56",
+    "views": "63",
     "text": "国际铜夜盘收涨 0.04%，沪铜收涨 0.04%，沪铝收跌 0.98%，沪锌收涨 0.06%，沪铅收跌 1.26%，沪镍收跌 0.05%，沪锡收跌 0.82%。\n氧化铝夜盘收跌 0.46%，铝合金收跌 0.28%。\n不锈钢夜盘收跌 0.3%。",
     "media_only": false,
     "image_url": null,
@@ -78361,23 +78442,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3568084"
-  },
-  {
-    "post": "Financial_Express/3568083",
-    "datetime": "2026-10-26T17:07:36+00:00",
-    "views": "101",
-    "text": "迪拜环球港务集团（DP World Ltd.）公布了一项协议，支持加拿大丘吉尔港（Port of Churchill）的潜在开发。丘吉尔港是加拿大北部的边远据点，总理马克·卡尼旨在对其进行扩建，以向欧洲及其他市场出口商品。\n该协议重点关注港口运营以及一条可能的交通走廊，旨在将丘吉尔港与迪拜环球港务的全球物流网络，以及由加拿大中心港（CentrePort Canada Inc.）管理的内陆港设施连接起来。\n将丘吉尔港开发为主要出口枢纽将需要数百亿美元的投资，一份招股书显示其标价达 570 亿美元，前期投资需求为 39 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3568083"
-  },
-  {
-    "post": "Financial_Express/3568082",
-    "datetime": "2026-10-26T17:07:02+00:00",
-    "views": "102",
-    "text": "美国联邦贸易委员会（FTC）与 20 个州起诉达乐公司（Dollar General），指控其存在欺骗性定价行为，向消费者多收费，攫取了数百万美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3568082"
   }
 ]
