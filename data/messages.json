@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3583043",
+    "datetime": "2026-10-29T21:27:43+00:00",
+    "views": "1",
+    "text": "英特尔首席财务官：自第一季度以来，英特尔 18A 成本下降了约 40%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583043"
+  },
+  {
+    "post": "Financial_Express/3583041",
+    "datetime": "2026-10-29T21:27:42+00:00",
+    "views": "3",
+    "text": "英特尔(INTC.O)首席财务官：受内存短缺影响，个人电脑（PC）潜在市场规模（TAM）面临的压力在第三季度末进一步加剧。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583041"
+  },
+  {
+    "post": "Financial_Express/3583042",
+    "datetime": "2026-10-29T21:27:42+00:00",
+    "views": "1",
+    "text": "亚马逊首席财务官：机器人技术和人工智能正在提高生产力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583042"
+  },
+  {
+    "post": "Financial_Express/3583040",
+    "datetime": "2026-10-29T21:27:00+00:00",
+    "views": "8",
+    "text": "TETHER 首席执行官：TETHER 冻结了超过 15.67 亿枚 USDT，这些 USDT 与币安交易所可能遭遇的黑客攻击有关。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583040"
+  },
+  {
     "post": "Financial_Express/3583037",
     "datetime": "2026-10-29T21:25:49+00:00",
-    "views": "5",
+    "views": "11",
     "text": "英特尔首席财务官：内存短缺对 PC 潜在市场的压力在第三季度末加剧。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3583038",
     "datetime": "2026-10-29T21:25:49+00:00",
-    "views": "5",
+    "views": "11",
     "text": "亚马逊首席财务官：物流团队已消化燃油通胀带来的运输成本上涨 。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3583039",
     "datetime": "2026-10-29T21:25:49+00:00",
-    "views": "5",
+    "views": "11",
     "text": "伯克希尔出售 DaVita 股份后仍持有 2831 万股。",
     "media_only": false,
     "image_url": null,
@@ -29,8 +65,8 @@
   {
     "post": "Financial_Express/3583036",
     "datetime": "2026-10-29T21:25:43+00:00",
-    "views": "5",
-    "text": "伯克希尔哈撒韦按每股 180.43 美元出售 DaVita Inc.（DVA）股票，卖出 2831 万股。",
+    "views": "11",
+    "text": "伯克希尔哈撒韦按每股 180.43 美元出售 DaVita Inc.（DVA）股票，本次套现后仍然持有 2831 万股。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3583036"
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3583034",
     "datetime": "2026-10-29T21:25:22+00:00",
-    "views": "8",
+    "views": "13",
     "text": "巴西石油公司在阿马帕海岸附近发现第三个油田。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3583035",
     "datetime": "2026-10-29T21:25:22+00:00",
-    "views": "8",
+    "views": "13",
     "text": "伯克希尔以每股 180.43 美元的价格出售 382,563 股 DaVita 股票。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3583033",
     "datetime": "2026-10-29T21:25:02+00:00",
-    "views": "10",
+    "views": "14",
     "text": "英特尔(INTC.O)首席财务官：数据中心和人工智能业务收入到年底有望比预期高出近 100 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3583031",
     "datetime": "2026-10-29T21:24:42+00:00",
-    "views": "12",
+    "views": "17",
     "text": "英特尔(INTC.O)首席财务官：数据中心和人工智能产品的需求持续超过供给。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3583032",
     "datetime": "2026-10-29T21:24:42+00:00",
-    "views": "12",
+    "views": "17",
     "text": "英特尔首席财务官：数据中心和人工智能产品的需求持续超过供应。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3583030",
     "datetime": "2026-10-29T21:24:40+00:00",
-    "views": "12",
+    "views": "17",
     "text": "英特尔首席财务官：数据中心和人工智能部门的收入有望在年底前比预期高出近 100 亿美元。\n数据中心和人工智能产品的需求持续超过供应。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3583028",
     "datetime": "2026-10-29T21:24:23+00:00",
-    "views": "14",
+    "views": "18",
     "text": "英特尔首席财务官：数据中心和人工智能部门的收入有望在年底前比预期高出近 100 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3583029",
     "datetime": "2026-10-29T21:24:23+00:00",
-    "views": "15",
+    "views": "19",
     "text": "亚马逊：Amazon Prime Video 业务是有利可图的。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3583027",
     "datetime": "2026-10-29T21:24:22+00:00",
-    "views": "14",
+    "views": "18",
     "text": "洛杉矶县发言人表示，该县官员收到传票，涉及特朗普政府针对所谓非公民投票的调查。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3583026",
     "datetime": "2026-10-29T21:23:02+00:00",
-    "views": "21",
+    "views": "24",
     "text": "亚马逊 Prime Video 业务已实现盈利。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3583025",
     "datetime": "2026-10-29T21:22:44+00:00",
-    "views": "21",
+    "views": "24",
     "text": "英特尔首席财务官：内存短缺和 IT 预算有限导致 PC 市场疲软。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +191,7 @@
   {
     "post": "Financial_Express/3583024",
     "datetime": "2026-10-29T21:22:43+00:00",
-    "views": "22",
+    "views": "25",
     "text": "国际原子能机构：已获悉扎波罗热核电站一名员工今天在无人机袭击中丧生。",
     "media_only": false,
     "image_url": null,
@@ -86236,32 +86272,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3572825"
-  },
-  {
-    "post": "Financial_Express/3572824",
-    "datetime": "2026-10-27T21:28:02+00:00",
-    "views": "92",
-    "text": "巴西总统卢拉：偷偷出境，说明你有所亏欠。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3572824"
-  },
-  {
-    "post": "Financial_Express/3572822",
-    "datetime": "2026-10-27T21:26:42+00:00",
-    "views": "88",
-    "text": "巴西总统卢拉：博索纳罗家族就是这样的人，巴西是他们的第二祖国，美国才是第一祖国。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3572822"
-  },
-  {
-    "post": "Financial_Express/3572823",
-    "datetime": "2026-10-27T21:26:42+00:00",
-    "views": "89",
-    "text": "空客获两份新增伽利略卫星合同。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3572823"
   }
 ]
