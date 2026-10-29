@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3582691",
+    "datetime": "2026-10-29T19:22:22+00:00",
+    "views": "1",
+    "text": "Anthropic 正向 SpaceX 旗下 AI 部门支付算力费用，并在第三季度贡献了 SpaceX 34.5%的收入，成为其最大客户。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3582691"
+  },
+  {
+    "post": "Financial_Express/3582690",
+    "datetime": "2026-10-29T19:21:42+00:00",
+    "views": "10",
+    "text": "美国联邦通信委员会（FCC）的卡尔任命考特尼·莱因哈德为太空局局长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3582690"
+  },
+  {
+    "post": "Financial_Express/3582689",
+    "datetime": "2026-10-29T19:21:22+00:00",
+    "views": "11",
+    "text": "美媒：美军中东司令向特朗普汇报对伊朗打击方案\n金十数据 10 月 30 日讯，据《华尔街日报》援引美国官员及其他知情人士报道，美国中央司令部司令布拉德·库珀当地时间 29 日赴白宫，向特朗普汇报对伊朗的军事选项，国防部长赫格塞思、参谋长联席会议主席丹·凯恩等人参加会议。部分知情人士称，此次会议还讨论了其他议题。此前，美军方高层已于周三在白宫与副总统万斯会面。报道称，特朗普政府此前已告知海湾国家，应为美国中期选举后可能展开的短促、高强度军事行动做好准备。与此同时，万斯受特朗普指示接触伊朗强硬派人士，试图推动恢复和平谈判。美国近几周已向中东增派防空系统、弹药及补给，并将部分驻军撤离被认为易受攻击的基地；美国陆军还正向以色列调派一套“爱国者”防空系统，以加强其导弹防御能力。伊朗则威胁称，若遭美国打击，将攻击该地区广泛的美军及海湾国家目标，并已利用库存部件在地下设施恢复弹道导弹生产。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3582689"
+  },
+  {
+    "post": "Financial_Express/3582688",
+    "datetime": "2026-10-29T19:20:42+00:00",
+    "views": "17",
+    "text": "SpaceX 最大收入来源为与 Anthropic 签订的有限期协议\n据知情人士透露，Anthropic PBC 是 SpaceX 的单一最大客户，在今年第三季度，这家客户为埃隆・马斯克旗下这家同时布局人工智能、卫星与火箭业务的企业贡献了超过三分之一的营收。SpaceX 在上周提交的文件中表示，上个季度约 34.5% 的收入来自一家向其 AI 业务部门支付费用的客户；该 AI 部门现已更名为 Super Intelligence，对外提供算力服务。这份文件中将该客户仅标注为 “客户 B”，知情人士称其就是 Anthropic，相关细节属于保密信息，该人士要求匿名。这笔收入源自 Anthropic 今年早些时候和 SpaceX 达成的算力合作，Anthropic 使用 SpaceX 位于田纳西州孟菲斯的数据中心算力。马斯克正逐步将 SpaceX 的 AI 业务打造成所谓新型算力云，向 Anthropic 以及谷歌等客户出租数据中心算力资源。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3582688"
+  },
+  {
     "post": "Financial_Express/3582687",
     "datetime": "2026-10-29T19:20:07+00:00",
-    "views": "4",
+    "views": "19",
     "text": "据知情人士透露，SpaceX 最大客户为 Anthropic，此前双方达成算力交易。\n在三季度，Anthropic 对 SpaceX 的收入贡献大 34.5%。\nAnthropic 为算力而向 SpaceX 的 AI 部门付费。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3582686",
     "datetime": "2026-10-29T19:20:02+00:00",
-    "views": "4",
+    "views": "18",
     "text": "捷克亿万富翁斯特尔纳德出价约 300 亿欧元收购意大利的 Delfin。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3582685",
     "datetime": "2026-10-29T19:19:42+00:00",
-    "views": "8",
+    "views": "20",
     "text": "美国证券交易委员会批准德克萨斯证券交易所关于上市商品信托份额的提案。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3582683",
     "datetime": "2026-10-29T19:19:03+00:00",
-    "views": "16",
+    "views": "28",
     "text": "消息人士称，Anthropic 在第三季度贡献了 SpaceX 收入的 34.5%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3582684",
     "datetime": "2026-10-29T19:19:03+00:00",
-    "views": "15",
+    "views": "27",
     "text": "Anthropic 正向 SpaceX 旗下人工智能部门支付算力费用。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3582682",
     "datetime": "2026-10-29T19:19:02+00:00",
-    "views": "16",
+    "views": "28",
     "text": "SpaceX 最大客户为 Anthropic，此前双方达成算力交易。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3582681",
     "datetime": "2026-10-29T19:17:43+00:00",
-    "views": "30",
+    "views": "38",
     "text": "美国驻土耳其大使：特朗普与埃尔多安今日通话。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3582680",
     "datetime": "2026-10-29T19:17:42+00:00",
-    "views": "30",
+    "views": "38",
     "text": "世界卫生组织成员国已提名七名候选人角逐世卫组织总干事一职。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3582679",
     "datetime": "2026-10-29T19:17:21+00:00",
-    "views": "35",
+    "views": "44",
     "text": "据美国官员以及了解本次会议的知情人士透露，美国中东最高指挥官周四赴白宫，当面为特朗普总统汇报针对伊朗的军事选项。美国正权衡重启大规模作战行动，这类当面汇报并不常见。布拉德・库珀上将与会，国防部长皮特・赫格塞思、参谋长联席会议主席丹・凯恩一同出席。\n知情人士称，还有其他内阁成员参会，会议也讨论了其他议题。一名知情者表示，在这次高层会议之前，白宫周三已经安排军方官员同副总统 JD・万斯举行会商。特朗普政府已告知海湾阿拉伯国家，做好准备，中期选举结束后将发起一场短促、高强度的军事行动。报道同时称，万斯也已同伊朗一名强硬派核心人物接触，尝试重启和平谈判。白宫召开此次磋商之际，部分议员发出警告，担忧特朗普很快重启同德黑兰方面的战事。康涅狄格州民主党参议员克里斯・墨菲称，他此前听过部分涉密方案简报，认为这些计划 “十分疯狂”。（华尔街日报）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3582678",
     "datetime": "2026-10-29T19:16:42+00:00",
-    "views": "41",
+    "views": "49",
     "text": "世界卫生组织：2027 年 5 月举行的第 80 届世界卫生大会将任命新任总干事，其将于 2027 年 8 月 16 日就职。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3582677",
     "datetime": "2026-10-29T19:16:22+00:00",
-    "views": "41",
+    "views": "46",
     "text": "美军最高上将向特朗普汇报伊朗打击方案\n据美国官员以及了解本次会议的知情人士透露，美国中东最高指挥官周四赴白宫，当面为特朗普总统汇报针对伊朗的军事选项。美国正权衡重启大规模作战行动，这类当面汇报并不常见。布拉德・库珀上将与会，国防部长皮特・赫格塞思、参谋长联席会议主席丹・凯恩一同出席。知情人士称，还有其他内阁成员参会，会议也讨论了其他议题。一名知情者表示，在这次高层会议之前，白宫周三已经安排军方官员同副总统 JD・万斯举行会商。特朗普政府已告知海湾阿拉伯国家，做好准备，中期选举结束后将发起一场短促、高强度的军事行动。报道同时称，万斯也已同伊朗一名强硬派核心人物接触，尝试重启和平谈判。白宫召开此次磋商之际，部分议员发出警告，担忧特朗普很快重启同德黑兰方面的战事。康涅狄格州民主党参议员克里斯・墨菲称，他此前听过部分涉密方案简报，认为这些计划 “十分疯狂”。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3582676",
     "datetime": "2026-10-29T19:15:42+00:00",
-    "views": "44",
+    "views": "48",
     "text": "赫格塞思和凯恩还就伊朗问题选项向特朗普作了简报。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3582675",
     "datetime": "2026-10-29T19:15:22+00:00",
-    "views": "45",
+    "views": "49",
     "text": "库珀上将今日在白宫就伊朗问题向特朗普作简报。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3582674",
     "datetime": "2026-10-29T19:14:43+00:00",
-    "views": "51",
+    "views": "55",
     "text": "世界卫生组织：候选人将于 2026 年 11 月 18 日至 19 日在日内瓦总部举行的首届候选人论坛上与成员国和准成员国进行交流。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3582673",
     "datetime": "2026-10-29T19:14:42+00:00",
-    "views": "48",
+    "views": "52",
     "text": "据华尔街日报：据美国官员和其他直接了解相关会晤的人士透露，美国驻中东最高指挥官当地时间周四向美国总统特朗普汇报了对伊朗的军事选项。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3582672",
     "datetime": "2026-10-29T19:14:22+00:00",
-    "views": "49",
+    "views": "53",
     "text": "据报道，一名高级上将向特朗普汇报了对伊朗发动攻击的选项。",
     "media_only": false,
     "image_url": null,
