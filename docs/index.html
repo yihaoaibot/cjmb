@@ -1,5 +1,69 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-10-30T04:34:32.672422+00:00","clsvipUpdated":"2026-10-30T04:34:46.697318+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">10月30日</h2><div class="feed"><article class="item" data-search="阳光 100 中国称韩斌已辞任公司首席财务官
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-10-30T04:36:32.705516+00:00","clsvipUpdated":"2026-10-30T04:36:44.251255+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">10月30日</h2><div class="feed"><article class="item" data-search="① 日本股市收盘之后 铠侠发布财报；
+② 14:30 法国三季度 gdp 初值，日本央行行长植田和男召开货币政策新闻发布会；
+③ 欧洲股市开盘之前 阿斯利康、英国石油等发布业绩报告；
+④ 15:45 法国 10 月 cpi 初值；
+⑤ 16:55 德国 10 月失业率；
+⑥ 17:00 德国三季度 gdp 初值，欧洲央行管理委员会成员兼意大利央行行长 fabio panetta 讲话；
+⑦ 18:00 欧元区三季度 gdp 初值；
+⑧ 美股盘前 埃克森美孚、雪佛龙等发布业绩报告；
+⑨ 时间待定 美国国务卿主持为期两天的 g20 外长会议；
+⑩ 20:30 加拿大 8 月 gdp；
+⑪ 21:00 德国 10 月 cpi 初值；
+⑫ 21:30 美国里士满联储主席 barkin 参加 sirius xm 一个活动；
+⑬ 次日 00:00 美国旧金山联储主席戴利（2027 年 fomc 票委）在该行 2026 年经济研究活动上发表开场白讲话；
+⑭ 次日 00:10 欧洲央行首席经济学家 lane 在美国旧金山联储关于 ai 和经济的研讨会上讲话；
+⑮ 次日 00:30 美国圣路易斯联储主席 musalem 在“影子公开市场委员会”（somc）会议上讲话；
+⑯ 周六 09:30 中国 10 月官方制造业、非制造业、综合 pmi；
+⑰ 周日 08:00 韩国 10 月出口；
+⑱ 周日 14:00 北美地区开始实行冬令时，美股交易延后一小时；
+⑲ 周日时间待定 opec+会议；"><div class="time">12:35</div><div class="content"><div class="text" data-full="① 日本股市收盘之后 铠侠发布财报；
+② 14:30 法国三季度 GDP 初值，日本央行行长植田和男召开货币政策新闻发布会；
+③ 欧洲股市开盘之前 阿斯利康、英国石油等发布业绩报告；
+④ 15:45 法国 10 月 CPI 初值；
+⑤ 16:55 德国 10 月失业率；
+⑥ 17:00 德国三季度 GDP 初值，欧洲央行管理委员会成员兼意大利央行行长 Fabio Panetta 讲话；
+⑦ 18:00 欧元区三季度 GDP 初值；
+⑧ 美股盘前 埃克森美孚、雪佛龙等发布业绩报告；
+⑨ 时间待定 美国国务卿主持为期两天的 G20 外长会议；
+⑩ 20:30 加拿大 8 月 GDP；
+⑪ 21:00 德国 10 月 CPI 初值；
+⑫ 21:30 美国里士满联储主席 Barkin 参加 Sirius XM 一个活动；
+⑬ 次日 00:00 美国旧金山联储主席戴利（2027 年 FOMC 票委）在该行 2026 年经济研究活动上发表开场白讲话；
+⑭ 次日 00:10 欧洲央行首席经济学家 Lane 在美国旧金山联储关于 AI 和经济的研讨会上讲话；
+⑮ 次日 00:30 美国圣路易斯联储主席 Musalem 在“影子公开市场委员会”（SOMC）会议上讲话；
+⑯ 周六 09:30 中国 10 月官方制造业、非制造业、综合 PMI；
+⑰ 周日 08:00 韩国 10 月出口；
+⑱ 周日 14:00 北美地区开始实行冬令时，美股交易延后一小时；
+⑲ 周日时间待定 OPEC+会议；" data-short="① 日本股市收盘之后 铠侠发布财报；
+② 14:30 法国三季度 GDP 初值，日本央行行长植田和男召开货币政策新闻发布会；
+③ 欧洲股市开盘之前 阿斯利康、英国石油等发布业绩报告；
+④ 15:45 法国 10 月 CPI 初值；
+⑤ 16:55 德国 10 月失业率；
+⑥ 17:00 德国三季度 GDP 初值，欧洲央行管理委员会成员兼意大利央行行长 Fab...">① 日本股市收盘之后 铠侠发布财报；
+② 14:30 法国三季度 GDP 初值，日本央行行长植田和男召开货币政策新闻发布会；
+③ 欧洲股市开盘之前 阿斯利康、英国石油等发布业绩报告；
+④ 15:45 法国 10 月 CPI 初值；
+⑤ 16:55 德国 10 月失业率；
+⑥ 17:00 德国三季度 GDP 初值，欧洲央行管理委员会成员兼意大利央行行长 Fab...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="沪指低开回升跌 0.3%，医药、消费股集体走强。
+恒指半日涨 1.6%，恒生科技指数涨 1.4%，京东健康涨超 5%，美团涨近 5%。
+全球科技股下跌！纳指期货跌 2%，韩国股市跌超 4%，亚洲芯片股重挫。
+日本央行维持基准利率在 1.25%不变，警告通胀超调风险上升，维持渐进加息立场。
+63 亿美元！币安遭“史上最大”黑客洗劫，暂停全部存储和提取功能，承诺将承担所有损失。
+恒大物业易主，太盟 40.26 亿港元入局。"><div class="time">12:35</div><div class="content"><div class="text" data-full="沪指低开回升跌 0.3%，医药、消费股集体走强。
+恒指半日涨 1.6%，恒生科技指数涨 1.4%，京东健康涨超 5%，美团涨近 5%。
+全球科技股下跌！纳指期货跌 2%，韩国股市跌超 4%，亚洲芯片股重挫。
+日本央行维持基准利率在 1.25%不变，警告通胀超调风险上升，维持渐进加息立场。
+63 亿美元！币安遭“史上最大”黑客洗劫，暂停全部存储和提取功能，承诺将承担所有损失。
+恒大物业易主，太盟 40.26 亿港元入局。" data-short="沪指低开回升跌 0.3%，医药、消费股集体走强。
+恒指半日涨 1.6%，恒生科技指数涨 1.4%，京东健康涨超 5%，美团涨近 5%。
+全球科技股下跌！纳指期货跌 2%，韩国股市跌超 4%，亚洲芯片股重挫。
+日本央行维持基准利率在 1.25%不变，警告通胀超调风险上升，维持渐进加息立场。
+63 亿美元！币安遭“史上最大”黑客洗劫，暂停全部存储和提取功能，承诺...">沪指低开回升跌 0.3%，医药、消费股集体走强。
+恒指半日涨 1.6%，恒生科技指数涨 1.4%，京东健康涨超 5%，美团涨近 5%。
+全球科技股下跌！纳指期货跌 2%，韩国股市跌超 4%，亚洲芯片股重挫。
+日本央行维持基准利率在 1.25%不变，警告通胀超调风险上升，维持渐进加息立场。
+63 亿美元！币安遭“史上最大”黑客洗劫，暂停全部存储和提取功能，承诺...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="阳光 100 中国称韩斌已辞任公司首席财务官
 阳光 100 中国在香港交易所公告称，韩斌已辞任公司首席财务官，于 10 月 29 日生效。韩斌确认与董事会之间并无分歧。"><div class="time">12:33</div><div class="content"><div class="text" data-full="阳光 100 中国称韩斌已辞任公司首席财务官
 阳光 100 中国在香港交易所公告称，韩斌已辞任公司首席财务官，于 10 月 29 日生效。韩斌确认与董事会之间并无分歧。" data-short="阳光 100 中国称韩斌已辞任公司首席财务官
 阳光 100 中国在香港交易所公告称，韩斌已辞任公司首席财务官，于 10 月 29 日生效。韩斌确认与董事会之间并无分歧。">阳光 100 中国称韩斌已辞任公司首席财务官
@@ -793,11 +857,7 @@ Intel 14A 也仍按计划推进。" data-short="英特尔 CEO：作为我们首�
 中央组织部分管日常工作的副部长黄建发介绍，《决定》部署突出抓好新兴领域党的建设。深化拓展新经济组织、新社会组织、新就业群体党的组织覆盖和工作覆盖，增强党在新兴领域号召力凝聚力影响力。(新华社)"><div class="time">10:25</div><div class="content"><div class="text" data-full="黄建发：《决定》部署突出抓好新兴领域党的建设
 中央组织部分管日常工作的副部长黄建发介绍，《决定》部署突出抓好新兴领域党的建设。深化拓展新经济组织、新社会组织、新就业群体党的组织覆盖和工作覆盖，增强党在新兴领域号召力凝聚力影响力。(新华社)" data-short="黄建发：《决定》部署突出抓好新兴领域党的建设
 中央组织部分管日常工作的副部长黄建发介绍，《决定》部署突出抓好新兴领域党的建设。深化拓展新经济组织、新社会组织、新就业群体党的组织覆盖和工作覆盖，增强党在新兴领域号召力凝聚力影响力。(新华社)">黄建发：《决定》部署突出抓好新兴领域党的建设
-中央组织部分管日常工作的副部长黄建发介绍，《决定》部署突出抓好新兴领域党的建设。深化拓展新经济组织、新社会组织、新就业群体党的组织覆盖和工作覆盖，增强党在新兴领域号召力凝聚力影响力。(新华社)</div></div></article><article class="item" data-search="a 股元件板块盘中回暖，明阳电路 20cm 涨停，满坤科技涨超 17%，澳弘电子封板涨停，超声电子、金禄电子、金百泽等跟涨。"><div class="time">10:25</div><div class="content"><div class="text" data-full="A 股元件板块盘中回暖，明阳电路 20CM 涨停，满坤科技涨超 17%，澳弘电子封板涨停，超声电子、金禄电子、金百泽等跟涨。" data-short="A 股元件板块盘中回暖，明阳电路 20CM 涨停，满坤科技涨超 17%，澳弘电子封板涨停，超声电子、金禄电子、金百泽等跟涨。">A 股元件板块盘中回暖，明阳电路 20CM 涨停，满坤科技涨超 17%，澳弘电子封板涨停，超声电子、金禄电子、金百泽等跟涨。</div></div></article><article class="item" data-search="生物制品板块短线拉升，近岸蛋白涨超 10%
-生物制品板块短线拉升，近岸蛋白涨超 10%，百普赛斯、三元基因、义翘神州、欧林生物、诺唯赞等跟涨。"><div class="time">10:24</div><div class="content"><div class="text" data-full="生物制品板块短线拉升，近岸蛋白涨超 10%
-生物制品板块短线拉升，近岸蛋白涨超 10%，百普赛斯、三元基因、义翘神州、欧林生物、诺唯赞等跟涨。" data-short="生物制品板块短线拉升，近岸蛋白涨超 10%
-生物制品板块短线拉升，近岸蛋白涨超 10%，百普赛斯、三元基因、义翘神州、欧林生物、诺唯赞等跟涨。">生物制品板块短线拉升，近岸蛋白涨超 10%
-生物制品板块短线拉升，近岸蛋白涨超 10%，百普赛斯、三元基因、义翘神州、欧林生物、诺唯赞等跟涨。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">10月30日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">09:24</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="2026年10月30日股市避雷针：
+中央组织部分管日常工作的副部长黄建发介绍，《决定》部署突出抓好新兴领域党的建设。深化拓展新经济组织、新社会组织、新就业群体党的组织覆盖和工作覆盖，增强党在新兴领域号召力凝聚力影响力。(新华社)</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">10月30日 · VIP</h2> <div class="feed"> <article class="item" data-search="clsvip media"> <div class="time">09:24</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>媒体帖</span> </div> </div> </article><article class="item" data-search="2026年10月30日股市避雷针：
 1、则成电子持股5%以上股东及董监高拟合计减持不超2%股份；
 2、索辰科技、美利信将迎来超四成以上解禁；
 3、国内商品期市夜盘收盘多数下跌，能源品跌幅居前；
