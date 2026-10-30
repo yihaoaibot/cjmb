@@ -1,8 +1,125 @@
 [
   {
+    "post": "Financial_Express/3583406",
+    "datetime": "2026-10-30T01:01:22+00:00",
+    "views": "7",
+    "text": "日本 10 年期国债收益率下行 6 个基点至 2.775%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583406"
+  },
+  {
+    "post": "Financial_Express/3583405",
+    "datetime": "2026-10-30T01:01:02+00:00",
+    "views": "10",
+    "text": "券商资管试水 ETF-FOF 赛道 ETF 扩容催生新型工具\n近日，财通资管推出旗下首只 ETF-FOF 产品，投资于公募基金比例不低于基金资产的 80%，其中投向 ETF 的比例不低于非现金基金资产的 80%。这是第三家推出该产品的券商资管，今年 5 月国泰海通资管、渤海汇金资管曾率先推出。有市场人士称，相关产品凭借低波动特色收获不错市场反馈。2025 年公募 ETF-FOF 备案重启，短短一年多产品数量突破 33 只、管理规模达 145 亿元。业内人士判断，随着首批主动 ETF 陆续成立、全市场 ETF 产品数量突破 1700 只，ETF-FOF 有望从小众探索型产品走向组合化配置工具。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583405"
+  },
+  {
+    "post": "Financial_Express/3583404",
+    "datetime": "2026-10-30T01:00:55+00:00",
+    "views": "10",
+    "text": "纳芯微发布带可配置逻辑块的实时控制 MCU/DSP\n据纳芯微消息，公司近日推出 NSSine™系列实时控制 MCU/DSP 新成员——NS800RT503xC 与 NS800RT5049C 系列。新品在已量产的 NSSine™实时控制平台基础上，新增 4 个可配置逻辑块（CLB）。工程师可通过软件在芯片内搭建自定义硬件逻辑，将原本依赖外部逻辑器件的功能集成到主控芯片中，从而简化系统设计，降低 BOM 成本与 PCB 面积，并获得更确定、更低延迟的控制响应。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583404"
+  },
+  {
+    "post": "Financial_Express/3583402",
+    "datetime": "2026-10-30T01:00:51+00:00",
+    "views": "11",
+    "text": "甲醇连续主力合约日内涨 1%，现报 3489.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583402"
+  },
+  {
+    "post": "Financial_Express/3583403",
+    "datetime": "2026-10-30T01:00:51+00:00",
+    "views": "11",
+    "text": "烧碱连续主力合约日内涨 2%，现报 1496.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583403"
+  },
+  {
+    "post": "Financial_Express/3583399",
+    "datetime": "2026-10-30T01:00:50+00:00",
+    "views": "11",
+    "text": "富时中国 A50 指数期货开盘下跌 0.72%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583399"
+  },
+  {
+    "post": "Financial_Express/3583400",
+    "datetime": "2026-10-30T01:00:50+00:00",
+    "views": "11",
+    "text": "台湾证交所加权股价指数盘初下跌 2.1%至 45,398.89 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583400"
+  },
+  {
+    "post": "Financial_Express/3583401",
+    "datetime": "2026-10-30T01:00:50+00:00",
+    "views": "11",
+    "text": "白银连续主力合约日内跌 5%，现报 12268.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583401"
+  },
+  {
+    "post": "Financial_Express/3583396",
+    "datetime": "2026-10-30T01:00:43+00:00",
+    "views": "11",
+    "text": "MSCI 亚太指数下跌 1.2%至 259.45 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583396"
+  },
+  {
+    "post": "Financial_Express/3583397",
+    "datetime": "2026-10-30T01:00:43+00:00",
+    "views": "11",
+    "text": "现货白银日内跌 1%，现报 51.58 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583397"
+  },
+  {
+    "post": "Financial_Express/3583398",
+    "datetime": "2026-10-30T01:00:43+00:00",
+    "views": "11",
+    "text": "台币兑美元下跌 0.3%至 32.590。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583398"
+  },
+  {
+    "post": "Financial_Express/3583394",
+    "datetime": "2026-10-30T01:00:42+00:00",
+    "views": "11",
+    "text": "富时中国 A50 指数期货开跌 0.76%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583394"
+  },
+  {
+    "post": "Financial_Express/3583395",
+    "datetime": "2026-10-30T01:00:42+00:00",
+    "views": "11",
+    "text": "台湾证交所加权股价指数下跌 2.1%至 45,398.89 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3583395"
+  },
+  {
     "post": "Financial_Express/3583393",
     "datetime": "2026-10-30T01:00:26+00:00",
-    "views": "6",
+    "views": "13",
     "text": "富时中国 A50 指数期货盘初跌 0.67%，上一个交易日夜盘收跌 0.33%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +128,7 @@
   {
     "post": "Financial_Express/3583391",
     "datetime": "2026-10-30T01:00:23+00:00",
-    "views": "7",
+    "views": "15",
     "text": "商品期货开盘\n白银连续跌 4.71%，锡连续跌 4.17%，烧碱连续涨 2.87%，铂连续跌 2.74%，碳酸锂连续跌 2.52%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +137,7 @@
   {
     "post": "Financial_Express/3583392",
     "datetime": "2026-10-30T01:00:23+00:00",
-    "views": "7",
+    "views": "14",
     "text": "台湾证交所加权股价指数开低 0.5%报 46,139.79。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +146,7 @@
   {
     "post": "Financial_Express/3583390",
     "datetime": "2026-10-30T01:00:22+00:00",
-    "views": "8",
+    "views": "14",
     "text": "券商资管试水 ETF-FOF 赛道 ETF 扩容催生新型工具\n金十数据 10 月 30 日讯，近日，财通资管推出旗下首只 ETF-FOF（即以 ETF 为主要投资标的的基金中基金）。该产品投资于公募基金的比例不低于基金资产的 80%，其中投向 ETF 的比例不低于非现金基金资产的 80%。这也是第三家推出 ETF-FOF 产品的券商资管，今年 5 月国泰海通资管、渤海汇金资管曾率先推出此类产品。有市场人士称，相关产品凭借低波动特色收获了不错的市场反馈。2025 年，随着 ETF 和公募 FOF 的市场规模大幅扩张，公募 ETF-FOF 备案随之重启。短短一年多时间里，ETF-FOF 产品数量突破 33 只，管理规模也达到了 145 亿元。业内人士判断，随着近期首批主动 ETF 陆续成立，全市场 ETF 产品数量突破 1700 只，ETF-FOF 有望从小众探索型产品走向组合化配置",
     "media_only": false,
     "image_url": null,
@@ -38,7 +155,7 @@
   {
     "post": "Financial_Express/3583388",
     "datetime": "2026-10-30T01:00:03+00:00",
-    "views": "8",
+    "views": "13",
     "text": "正海生物：口腔种植业务目前仍面临一定经营压力\n正海生物(300653)10 月 30 日在互动平台表示，口腔种植业务目前受行业竞争、终端控费及价格因素叠加影响，仍面临一定经营压力。新品尚处于市场培育期，公司将持续推进市场推广与管线建设。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +164,7 @@
   {
     "post": "Financial_Express/3583389",
     "datetime": "2026-10-30T01:00:03+00:00",
-    "views": "8",
+    "views": "13",
     "text": "商品期货开盘，沪银主力合约跌超 4%，沪锡跌近 4%，碳酸锂跌 3%，对二甲苯、铂、PTA 跌超 2%。烧碱涨超 2%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +182,7 @@
   {
     "post": "Financial_Express/3583387",
     "datetime": "2026-10-30T01:00:02+00:00",
-    "views": "8",
+    "views": "13",
     "text": "10 年期日本国债收益率下跌 6.0 个基点，至 2.775%。",
     "media_only": false,
     "image_url": null,
@@ -86092,158 +86209,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3573197"
-  },
-  {
-    "post": "Financial_Express/3573195",
-    "datetime": "2026-10-28T01:02:22+00:00",
-    "views": "3",
-    "text": "新西兰元下跌逾 1%，该国央行意外维持利率不变。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573195"
-  },
-  {
-    "post": "Financial_Express/3573194",
-    "datetime": "2026-10-28T01:02:08+00:00",
-    "views": "33",
-    "text": "新西兰联储声明：委员会一致认为可能需要收紧货币政策，但这仍取决于经济前景。\n成员们对各项风险的权重赋予以及货币政策回应的时机存在分歧。\n成员们对通胀展望达成一致，但在风险权重上存在分歧。\n全球事件正加剧通胀压力。\n新西兰的复苏可能强于预期，但如果全球环境恶化，也可能失去动能。\n委员会专注于在中期内将通胀率推回 2% 的目标中点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573194"
-  },
-  {
-    "post": "Financial_Express/3573193",
-    "datetime": "2026-10-28T01:02:02+00:00",
-    "views": "3",
-    "text": "新西兰 S&P/NZX 50 指数抹去跌幅，上涨 0.1%，此前新西兰储备银行宣布按兵不动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573193"
-  },
-  {
-    "post": "Financial_Express/3573191",
-    "datetime": "2026-10-28T01:01:43+00:00",
-    "views": "3",
-    "text": "WTI 原油突破 101 美元/桶，日内涨 1.10%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573191"
-  },
-  {
-    "post": "Financial_Express/3573192",
-    "datetime": "2026-10-28T01:01:43+00:00",
-    "views": "3",
-    "text": "新西兰联储：全球事件加剧通胀压力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573192"
-  },
-  {
-    "post": "Financial_Express/3573189",
-    "datetime": "2026-10-28T01:01:42+00:00",
-    "views": "33",
-    "text": "新西兰联储：所有委员会成员对通胀的整体前景达成一致。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573189"
-  },
-  {
-    "post": "Financial_Express/3573190",
-    "datetime": "2026-10-28T01:01:42+00:00",
-    "views": "33",
-    "text": "台湾加权指数 10 月 28 日（周三）开盘上涨 726.07 点，涨幅 1.58%，报 46822.3 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573190"
-  },
-  {
-    "post": "Financial_Express/3573187",
-    "datetime": "2026-10-28T01:01:23+00:00",
-    "views": "33",
-    "text": "韩国综指涨幅扩大至 5%\n韩国综指涨幅扩大至 5%，现报 5922.34 点。个股方面，三星电子涨超 7%，SK 海力士涨超 5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573187"
-  },
-  {
-    "post": "Financial_Express/3573188",
-    "datetime": "2026-10-28T01:01:23+00:00",
-    "views": "33",
-    "text": "集运指数欧线期货连续主力合约日内跌 5%，现报 2605.00 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573188"
-  },
-  {
-    "post": "Financial_Express/3573185",
-    "datetime": "2026-10-28T01:01:22+00:00",
-    "views": "2",
-    "text": "新西兰联储货币政策委员会今日以 4 比 3 的投票结果决定将官方现金利率维持在 2.75%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573185"
-  },
-  {
-    "post": "Financial_Express/3573186",
-    "datetime": "2026-10-28T01:01:22+00:00",
-    "views": "33",
-    "text": "WTI 原油日内涨 1%，现报 100.93 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573186"
-  },
-  {
-    "post": "Financial_Express/3573184",
-    "datetime": "2026-10-28T01:00:56+00:00",
-    "views": "2",
-    "text": "富时中国 A50 指数期货盘初涨 0.51%，上一个交易日夜盘收涨 0.48%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573184"
-  },
-  {
-    "post": "Financial_Express/3573182",
-    "datetime": "2026-10-28T01:00:43+00:00",
-    "views": "2",
-    "text": "台湾证交所加权股价指数上涨 1.4%至 46,722.44 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573182"
-  },
-  {
-    "post": "Financial_Express/3573183",
-    "datetime": "2026-10-28T01:00:43+00:00",
-    "views": "2",
-    "text": "新西兰货币政策委员会今日以 4 比 3 的投票结果决定将官方现金利率维持在 2.75%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573183"
-  },
-  {
-    "post": "Financial_Express/3573180",
-    "datetime": "2026-10-28T01:00:42+00:00",
-    "views": "2",
-    "text": "富时中国 A50 指数期货开涨 0.51%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573180"
-  },
-  {
-    "post": "Financial_Express/3573181",
-    "datetime": "2026-10-28T01:00:42+00:00",
-    "views": "2",
-    "text": "MSCI 亚太指数上涨 1.1%至 263.12 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573181"
-  },
-  {
-    "post": "Financial_Express/3573179",
-    "datetime": "2026-10-28T01:00:41+00:00",
-    "views": "2",
-    "text": "新西兰联储意外按兵不动，市场预期为加息 25 个基点。纽元兑美元跌超 1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3573179"
   }
 ]
