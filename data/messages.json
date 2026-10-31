@@ -2,8 +2,8 @@
   {
     "post": "Financial_Express/3588233",
     "datetime": "2026-10-31T14:40:42+00:00",
-    "views": "1",
-    "text": "DeepSeek 发布全新 Agent 架构\nDeepSeek Harness 团队 10 月 31 日晚在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。DeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。DeepSeek 把这种 Agent 形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部 Super-agent 实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness 自身的迭代。当团队成员在群聊中反馈软件问题时，即使没有人主动@ AI，它也能识别潜在缺陷，在后台尝试复现问题、寻找修复方案。 (第一财经)",
+    "views": "35",
+    "text": "DeepSeek 发布全新 Agent 架构\nDeepSeek Harness 团队 10 月 31 日晚在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。DeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。DeepSeek 把这种 Agent 形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部 Super-agent 实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness 自身的迭代。当团队成员在群聊中反馈软件问题时，即使没有人主动@ AI，它也能识别潜在缺陷，在后台尝试复现问题、寻找修复方案。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3588233"
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3588232",
     "datetime": "2026-10-31T14:39:42+00:00",
-    "views": "41",
+    "views": "44",
     "text": "越南将从 11 月 1 日起将零售电价下调 2%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3588231",
     "datetime": "2026-10-31T14:37:42+00:00",
-    "views": "48",
+    "views": "80",
     "text": "币安就黑客事件：仍有望在先前声明的时间范围内（2026 年 11 月 1 日星期日）恢复提现。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3588230",
     "datetime": "2026-10-31T14:37:03+00:00",
-    "views": "51",
+    "views": "82",
     "text": "币安就黑客事件回应：我们将继续通过市场和场外渠道购买剩余受影响的被盗资产。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3588229",
     "datetime": "2026-10-31T14:36:22+00:00",
-    "views": "82",
+    "views": "83",
     "text": "币安：所动用的补充资金包括币安自身的企业资金。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3588228",
     "datetime": "2026-10-31T14:36:03+00:00",
-    "views": "84",
+    "views": "85",
     "text": "币安针对本次黑客事件：已于 2026 年 10 月 31 日 0 时（世界协调时间）生成最新储备证明（POR）快照。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3588224",
     "datetime": "2026-10-31T14:33:43+00:00",
-    "views": "92",
+    "views": "122",
     "text": "币安：BTC、ETH、USDT、BNB、SOL、USDC、XRP、USD1、RLUSD 以及 ZEC 全部实现 100%足额储备。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3588219",
     "datetime": "2026-10-31T14:27:23+00:00",
-    "views": "92",
+    "views": "122",
     "text": "消息人士称伊朗正在研究万斯来信中的提议\n据沙特方面 10 月 31 日援引消息人士的话称，伊朗正在研究美国副总统万斯在致伊方信件中的提议。消息人士说，万斯来信中提出了双方谈判的总体原则和框架，但并未包含完整方案。目前，伊朗正在讨论美方有关伊朗核计划的提议。消息人士透露，伊朗要求获得有关永久、全面停止战事的保证，以此换取开放霍尔木兹海峡。伊方还坚持要求先全面停战再启动谈判，“预计将举行新一轮谈判，但目前确定具体时间为时尚早”。消息人士还说，卡塔尔与伊朗正在研究磋商一份路线图。一旦双方就路线图达成一致，美国代表团将赴卡塔尔。（央视新闻）\n👍1",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3588218",
     "datetime": "2026-10-31T14:26:43+00:00",
-    "views": "93",
+    "views": "123",
     "text": "伊朗议会国家安全与外交政策委员会成员莫杰塔巴·扎雷伊：新的国防准则基于这样一项原则，任何发起针对伊朗攻击的地点，都可能被纳入伊朗防御性反击的范围之内。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -52216,68 +52216,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3582237"
-  },
-  {
-    "post": "Financial_Express/3582236",
-    "datetime": "2026-10-29T14:44:22+00:00",
-    "views": "37",
-    "text": "富兰克林邓普顿推出两只 ETF，通过系统性股息再投资将美国股票与比特币相结合。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582236"
-  },
-  {
-    "post": "Financial_Express/3582234",
-    "datetime": "2026-10-29T14:44:02+00:00",
-    "views": "38",
-    "text": "美国白宫国家经济委员会主任哈塞特：美联储主席沃什在允许美联储出现“正常”异议方面做得很好。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582234"
-  },
-  {
-    "post": "Financial_Express/3582235",
-    "datetime": "2026-10-29T14:44:02+00:00",
-    "views": "37",
-    "text": "哈塞特：目前对联邦公开市场委员会（FOMC）的人事构成并不担忧。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582235"
-  },
-  {
-    "post": "Financial_Express/3582233",
-    "datetime": "2026-10-29T14:43:43+00:00",
-    "views": "38",
-    "text": "哈塞特：沃什在允许美联储内部存在“正常”异议方面做得很好。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582233"
-  },
-  {
-    "post": "Financial_Express/3582232",
-    "datetime": "2026-10-29T14:43:40+00:00",
-    "views": "38",
-    "text": "意大利西雅那银行的投资者们拒绝关于对 Banco BPM 发送（持股）意向函的计划。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582232"
-  },
-  {
-    "post": "Financial_Express/3582231",
-    "datetime": "2026-10-29T14:43:02+00:00",
-    "views": "40",
-    "text": "乌克兰经济自战争爆发以来将首次出现萎缩\n金十数据 10 月 29 日讯，乌克兰央行表示，随着俄罗斯加大空袭力度，乌克兰经济今年将出现全面战争爆发以来的首次萎缩。乌克兰国家银行周四公布的最新经济预测显示，乌克兰国内生产总值（GDP）2026 年将萎缩 0.4%，此前预测为增长 1.8%；这将是乌克兰经济自 2022 年以来首次萎缩。2022 年，该国 GDP 跌幅超过 30%。乌克兰央行在声明中表示：“俄罗斯的袭击导致商业活动大幅下滑，经济潜力遭受的损失也将制约复苏。”该行预计，2027 年乌克兰经济将反弹 0.4%，主要动力来自国防工业及其他项目投资增加。乌克兰农业部称，本销售季自 7 月以来，乌克兰粮食出口量同比下降 32%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582231"
-  },
-  {
-    "post": "Financial_Express/3582230",
-    "datetime": "2026-10-29T14:42:42+00:00",
-    "views": "40",
-    "text": "伊朗尚未回复万斯信函 坚持要求美国满足七项条件\n金十数据 10 月 29 日讯，据伊朗塔斯尼姆通讯社：伊朗尚未回复美国副总统万斯的信函。德黑兰坚持要求美国满足其七项条件，任何与这一框架相矛盾的立场都是不可接受的。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582230"
   }
 ]
