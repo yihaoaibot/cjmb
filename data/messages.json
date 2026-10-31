@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3588253",
     "datetime": "2026-10-31T15:48:02+00:00",
-    "views": "131",
+    "views": "137",
     "text": "纽约原油暗盘跌破 103 美元，日内跌超 1.2%。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3588252",
     "datetime": "2026-10-31T15:44:02+00:00",
-    "views": "118",
+    "views": "122",
     "text": "布伦特原油暗盘跌破 113 美元，日内跌超 1%。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3588251",
     "datetime": "2026-10-31T15:43:02+00:00",
-    "views": "102",
+    "views": "135",
     "text": "美国：正在与俄罗斯协调应对（恐怖袭击）措施。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3588250",
     "datetime": "2026-10-31T15:27:22+00:00",
-    "views": "169",
+    "views": "200",
     "text": "印度：四方机制部长将提供超过 8500 万美元援助，用于人工智能及技术普惠。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3588249",
     "datetime": "2026-10-31T15:26:43+00:00",
-    "views": "173",
+    "views": "174",
     "text": "印度：四国机制对网络与电信诈骗表示严重关切。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3588248",
     "datetime": "2026-10-31T15:26:22+00:00",
-    "views": "176",
+    "views": "177",
     "text": "印度：四国机制外长强调霍尔木兹海峡航行自由。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3588247",
     "datetime": "2026-10-31T15:16:45+00:00",
-    "views": "265",
+    "views": "266",
     "text": "俄联邦安全局：美已就莫斯科可能的恐袭计划向俄方发出预警\n金十数据 10 月 31 日讯，据俄新社报道，俄罗斯联邦安全局表示，已通过既定的合作伙伴渠道从美国方面获得有关莫斯科恐袭准备工作的信息，并正在采取相应措施。美国驻莫斯科大使馆另行表示，已获悉周六莫斯科察里津诺博物馆保护区（Tsaritsyno Museum Reserve）存在“可信的大规模人员伤亡事件威胁”，并称美国政府正与俄罗斯有关部门协调应对。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3588246",
     "datetime": "2026-10-31T15:08:42+00:00",
-    "views": "232",
+    "views": "233",
     "text": "Rivian、福特等车企正在普及 3D 打印技术，以此降本提速。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3588245",
     "datetime": "2026-10-31T15:07:02+00:00",
-    "views": "230",
+    "views": "261",
     "text": "据俄新社：俄罗斯联邦安全局表示，已从美国方面获悉可能在莫斯科发生恐怖袭击的情况，我们正在采取适当措施。\n🤣3",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3588238",
     "datetime": "2026-10-31T14:52:35+00:00",
-    "views": "267",
+    "views": "268",
     "text": "10 月 31 日晚，DeepSeek Harness 团队在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。\nDeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。",
     "media_only": false,
     "image_url": null,
@@ -50758,32 +50758,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3582419"
-  },
-  {
-    "post": "Financial_Express/3582418",
-    "datetime": "2026-10-29T15:57:22+00:00",
-    "views": "89",
-    "text": "文件显示，Alphabet 的 AI 风险敞口远超 1 万亿美元\n金十数据 10 月 29 日讯，Alphabet 表示，其云服务需求正迅速增长，这从其“积压订单”（即尚未履行的云服务合同）的增加中可见一斑。然而，这种季度增长中，有超过三分之一来自该公司参股的一家合资企业。这一信息披露于周四提交的一份季度文件中。该文件概述了 Alphabet 所面临的 AI 相关风险，其范围超出了公司在前一天财报电话会议上所讨论的内容。除首席财务官在投资者电话会议上披露的超过 1 万亿美元采购承诺、未来租赁付款及其他义务外，文件还列出了约 985 亿美元的或有承诺，即在某些条件下，公司可能需要承担的义务。这一金额较上一季度增加约 230 亿美元。这些承诺包括：为数据中心租赁付款提供担保、支持合作伙伴采购电力设备，以及在特定情况下可能需要从客户手中回购 AI 芯片系统。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582418"
-  },
-  {
-    "post": "Financial_Express/3582417",
-    "datetime": "2026-10-29T15:57:02+00:00",
-    "views": "114",
-    "text": "伊朗海军称一艘违规油轮在霍尔木兹海峡东部触雷\n伊朗海军 29 日说，一艘违规油轮在霍尔木兹海峡以东触碰水雷，导致船体受损并起火，随后被迫停航。伊朗海军在其网站发布声明说，这种未经协调、穿越高风险区域的航行行为，已经并将继续对船只及其船员的安全构成严重威胁。伊朗海军强调，霍尔木兹海峡禁止那些未经协调、试图穿越禁航区及危险区域的船只通行。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582417"
-  },
-  {
-    "post": "Financial_Express/3582416",
-    "datetime": "2026-10-29T15:56:54+00:00",
-    "views": "80",
-    "text": "美国政府周四提起诉讼，指控谷歌未能在一名员工以美国陆军预备役身份完成一年军事休假返岗后，恢复其原职或为其安排类似岗位。根据向曼哈顿联邦法院提交的诉状，马克·戴维斯森曾在谷歌担任关键客户主管两年半，负责管理包括资产管理公司贝莱德、对冲基金桥水联合以及前瑞士信贷在内的客户账户。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582416"
   }
 ]
