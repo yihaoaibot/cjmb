@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3588234",
+    "datetime": "2026-10-31T14:44:22+00:00",
+    "views": "5",
+    "text": "法国内政部：今日全国各地示威者人数约为 1.5 万人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3588234"
+  },
+  {
     "post": "Financial_Express/3588233",
     "datetime": "2026-10-31T14:40:42+00:00",
-    "views": "35",
+    "views": "38",
     "text": "DeepSeek 发布全新 Agent 架构\nDeepSeek Harness 团队 10 月 31 日晚在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。DeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。DeepSeek 把这种 Agent 形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部 Super-agent 实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness 自身的迭代。当团队成员在群聊中反馈软件问题时，即使没有人主动@ AI，它也能识别潜在缺陷，在后台尝试复现问题、寻找修复方案。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3588232",
     "datetime": "2026-10-31T14:39:42+00:00",
-    "views": "44",
+    "views": "77",
     "text": "越南将从 11 月 1 日起将零售电价下调 2%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3588231",
     "datetime": "2026-10-31T14:37:42+00:00",
-    "views": "80",
+    "views": "81",
     "text": "币安就黑客事件：仍有望在先前声明的时间范围内（2026 年 11 月 1 日星期日）恢复提现。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3588230",
     "datetime": "2026-10-31T14:37:03+00:00",
-    "views": "82",
+    "views": "83",
     "text": "币安就黑客事件回应：我们将继续通过市场和场外渠道购买剩余受影响的被盗资产。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3588229",
     "datetime": "2026-10-31T14:36:22+00:00",
-    "views": "83",
+    "views": "84",
     "text": "币安：所动用的补充资金包括币安自身的企业资金。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3588228",
     "datetime": "2026-10-31T14:36:03+00:00",
-    "views": "85",
+    "views": "86",
     "text": "币安针对本次黑客事件：已于 2026 年 10 月 31 日 0 时（世界协调时间）生成最新储备证明（POR）快照。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3588227",
     "datetime": "2026-10-31T14:35:43+00:00",
-    "views": "84",
+    "views": "85",
     "text": "币安：本次拨付的补足资金包含部分期货保险基金。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3588226",
     "datetime": "2026-10-31T14:34:42+00:00",
-    "views": "86",
+    "views": "87",
     "text": "币安：预计未来 24 小时内将部分部署用户安全资产基金（SAFU）。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3588225",
     "datetime": "2026-10-31T14:34:22+00:00",
-    "views": "88",
+    "views": "119",
     "text": "币安就黑客事件发表声明：将承担被盗资金造成的财务损失，不会让用户受损。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3588223",
     "datetime": "2026-10-31T14:33:43+00:00",
-    "views": "89",
+    "views": "119",
     "text": "招商轮船卡气二期项目首制船“LEKHRAIB”轮命名仪式在韩国举行\n金十数据 10 月 31 日讯，据招商轮船消息，10 月 28 日至 29 日，招商轮船在韩国三星重工订造的“卡塔尔能源 LNG 运输船二期项目”（简称“卡气二期项目”）首制船命名仪式及相关活动，在韩国巨济岛和釜山举行。“LEKHRAIB”轮是招商轮船与卡塔尔能源合作的 LNG 项目 6 艘 17.4 万立方米 LNG 运输船中的首制船，也是招商轮船与三星重工首次携手的重要成果。该轮交付后，将为卡塔尔能源提供长期 LNG 运输服务。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3588222",
     "datetime": "2026-10-31T14:33:22+00:00",
-    "views": "89",
+    "views": "119",
     "text": "俄罗斯国防部：俄武装力量对敖德萨以南 37 公里处一处海上通道实施打击，一艘向乌克兰武装部队运送补给物资的干货船被击中。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3588221",
     "datetime": "2026-10-31T14:33:02+00:00",
-    "views": "88",
+    "views": "118",
     "text": "币安：已补足黑客被盗损失中 90%的受影响金额。",
     "media_only": false,
     "image_url": null,
@@ -52189,32 +52198,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3582240"
-  },
-  {
-    "post": "Financial_Express/3582239",
-    "datetime": "2026-10-29T14:45:23+00:00",
-    "views": "36",
-    "text": "哈塞特：10 月 CPI 和 PCE 数据应能明确美联储应采取何种行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582239"
-  },
-  {
-    "post": "Financial_Express/3582238",
-    "datetime": "2026-10-29T14:45:22+00:00",
-    "views": "36",
-    "text": "美国白宫国家经济委员会主任哈塞特：10 月份的 CPI 和 PCE 数据应能明确美联储应采取的行动。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582238"
-  },
-  {
-    "post": "Financial_Express/3582237",
-    "datetime": "2026-10-29T14:45:02+00:00",
-    "views": "37",
-    "text": "壳牌首席执行官表示：由于库存下降，我们正看到油价在较高水平上呈现出更多结构性稳定，补充库存需要时间。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582237"
   }
 ]
