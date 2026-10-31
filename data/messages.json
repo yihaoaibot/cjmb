@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3588242",
+    "datetime": "2026-10-31T15:01:02+00:00",
+    "views": "1",
+    "text": "伊朗外长称目前没有与美方会谈计划\n据卡塔尔半岛电视台 10 月 31 日报道，伊朗外交部长阿拉格齐在接受该电视台采访时表示，伊方目前没有与美国官员会谈的计划，相关说法“只是媒体猜测”。（新华社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3588242"
+  },
+  {
     "post": "Financial_Express/3588241",
     "datetime": "2026-10-31T14:59:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "币安称已补回近期安全事件中 90%的被盗资产 将于周日开放提现\n币安表示，已补回近期一起安全事件中 90%的被盗资产，高于此前的 80%。该公司已拨出超过 63.4 亿美元公司资金，用于弥补黑客攻击造成的损失。剩余 10%为受影响资产中排名前十之外、流动性较低的代币。币安计划周日重新开放用户提款。币安承诺将 SAFU 紧急储备金补充至约 10 亿美元。期货保险基金已进行再平衡，以帮助覆盖受影响资产；基金规模仍高于规定水平。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3588239",
     "datetime": "2026-10-31T14:56:03+00:00",
-    "views": "35",
+    "views": "65",
     "text": "阿尔及利亚外交部：对联合国西撒哈拉特派团任期未获续期表示遗憾。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3588238",
     "datetime": "2026-10-31T14:52:35+00:00",
-    "views": "82",
+    "views": "84",
     "text": "10 月 31 日晚，DeepSeek Harness 团队在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。\nDeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3588236",
     "datetime": "2026-10-31T14:46:22+00:00",
-    "views": "95",
+    "views": "125",
     "text": "也门政府军：过去数小时内，我方针对胡塞武装的领导人、集结点和增援部队实施了 1119 次行动。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3588235",
     "datetime": "2026-10-31T14:46:02+00:00",
-    "views": "92",
+    "views": "122",
     "text": "DeepSeek 发布新的 Agent 架构\n金十数据 10 月 31 日讯，10 月 31 日晚，DeepSeek Harness 团队发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。DeepSeek 表示，模型能力提升催生了新的应用形态，近期个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，Agent 的工作模式仍然以单一 Session 为基本单位，不同 Session 之间彼此独立。在这种设计下，单任务的上限取决于模型能力，多任务的上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。DeepSeek 把这种 Agent 形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部 Super-agent 实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness 自身的迭代。",
     "media_only": false,
     "image_url": null,
@@ -51730,59 +51739,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3582299"
-  },
-  {
-    "post": "Financial_Express/3582298",
-    "datetime": "2026-10-29T15:02:03+00:00",
-    "views": "52",
-    "text": "国际货币基金组织：预计将在未来几周内开始与乌克兰就第二轮和第三轮合并审查展开讨论。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582298"
-  },
-  {
-    "post": "Financial_Express/3582296",
-    "datetime": "2026-10-29T15:01:42+00:00",
-    "views": "45",
-    "text": "国际货币基金组织：美联储和欧洲央行均在高度不确定的环境下采取行动，未来需密切关注数据。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582296"
-  },
-  {
-    "post": "Financial_Express/3582297",
-    "datetime": "2026-10-29T15:01:42+00:00",
-    "views": "45",
-    "text": "国际货币基金组织：完全支持美联储主席沃什关于聚焦物价稳定的表态；美联储密切关注数据是恰当之举。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582297"
-  },
-  {
-    "post": "Financial_Express/3582295",
-    "datetime": "2026-10-29T15:01:23+00:00",
-    "views": "40",
-    "text": "国际货币基金组织：尽管油价和通胀上升，但在私人消费和投资的推动下，美国经济增长迄今仍具韧性。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582295"
-  },
-  {
-    "post": "Financial_Express/3582294",
-    "datetime": "2026-10-29T15:01:22+00:00",
-    "views": "41",
-    "text": "国际货币基金组织：美国应继续扩大技术收益的共享范围，这一点很重要。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582294"
-  },
-  {
-    "post": "Financial_Express/3582293",
-    "datetime": "2026-10-29T15:01:02+00:00",
-    "views": "39",
-    "text": "国际货币基金组织：正致力于加强与伊拉克的伙伴关系，预计伊拉克 2026 年 GDP 将大幅萎缩，并于明年回升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582293"
   }
 ]
