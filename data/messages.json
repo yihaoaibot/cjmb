@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3588237",
+    "datetime": "2026-10-31T14:46:42+00:00",
+    "views": "2",
+    "text": "约旦公共安全部门：在卡拉克省查获携带枪支的热气球，这些热气球被走私进入约旦。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3588237"
+  },
+  {
+    "post": "Financial_Express/3588236",
+    "datetime": "2026-10-31T14:46:22+00:00",
+    "views": "2",
+    "text": "也门政府军：过去数小时内，我方针对胡塞武装的领导人、集结点和增援部队实施了 1119 次行动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3588236"
+  },
+  {
+    "post": "Financial_Express/3588235",
+    "datetime": "2026-10-31T14:46:02+00:00",
+    "views": "2",
+    "text": "DeepSeek 发布新的 Agent 架构\n金十数据 10 月 31 日讯，10 月 31 日晚，DeepSeek Harness 团队发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。DeepSeek 表示，模型能力提升催生了新的应用形态，近期个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，Agent 的工作模式仍然以单一 Session 为基本单位，不同 Session 之间彼此独立。在这种设计下，单任务的上限取决于模型能力，多任务的上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。DeepSeek 把这种 Agent 形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部 Super-agent 实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness 自身的迭代。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3588235"
+  },
+  {
     "post": "Financial_Express/3588234",
     "datetime": "2026-10-31T14:44:22+00:00",
-    "views": "5",
+    "views": "35",
     "text": "法国内政部：今日全国各地示威者人数约为 1.5 万人。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3588233",
     "datetime": "2026-10-31T14:40:42+00:00",
-    "views": "38",
+    "views": "68",
     "text": "DeepSeek 发布全新 Agent 架构\nDeepSeek Harness 团队 10 月 31 日晚在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。DeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。DeepSeek 把这种 Agent 形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部 Super-agent 实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness 自身的迭代。当团队成员在群聊中反馈软件问题时，即使没有人主动@ AI，它也能识别潜在缺陷，在后台尝试复现问题、寻找修复方案。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3588226",
     "datetime": "2026-10-31T14:34:42+00:00",
-    "views": "87",
+    "views": "117",
     "text": "币安：预计未来 24 小时内将部分部署用户安全资产基金（SAFU）。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -52153,50 +52180,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3582246"
-  },
-  {
-    "post": "Financial_Express/3582244",
-    "datetime": "2026-10-29T14:48:02+00:00",
-    "views": "36",
-    "text": "壳牌首席执行官：认为目前油价将在更高水平上保持结构性稳定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582244"
-  },
-  {
-    "post": "Financial_Express/3582243",
-    "datetime": "2026-10-29T14:47:43+00:00",
-    "views": "36",
-    "text": "壳牌首席财务官表示，我们对增加股息并不持谨慎态度。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582243"
-  },
-  {
-    "post": "Financial_Express/3582242",
-    "datetime": "2026-10-29T14:46:52+00:00",
-    "views": "36",
-    "text": "壳牌 CEO：现在看来，更高的油价存在结构性稳定性。\n六个月之前就预料到油价将会暂时上涨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582242"
-  },
-  {
-    "post": "Financial_Express/3582241",
-    "datetime": "2026-10-29T14:46:22+00:00",
-    "views": "37",
-    "text": "希腊总理米佐塔基斯：针对民用商业航运的袭击不可接受，全球海上停火亟需实现。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582241"
-  },
-  {
-    "post": "Financial_Express/3582240",
-    "datetime": "2026-10-29T14:46:02+00:00",
-    "views": "36",
-    "text": "壳牌首席执行官：六个月前曾预计油价将出现暂时性飙升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582240"
   }
 ]
