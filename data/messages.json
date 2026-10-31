@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3588242",
     "datetime": "2026-10-31T15:01:02+00:00",
-    "views": "1",
+    "views": "31",
     "text": "伊朗外长称目前没有与美方会谈计划\n据卡塔尔半岛电视台 10 月 31 日报道，伊朗外交部长阿拉格齐在接受该电视台采访时表示，伊方目前没有与美国官员会谈的计划，相关说法“只是媒体猜测”。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3588240",
     "datetime": "2026-10-31T14:57:22+00:00",
-    "views": "33",
+    "views": "63",
     "text": "阿尔及利亚外交部：联合国安理会关于西撒哈拉的决议草案偏袒摩洛哥，将波利萨里奥阵线边缘化。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3588238",
     "datetime": "2026-10-31T14:52:35+00:00",
-    "views": "84",
+    "views": "114",
     "text": "10 月 31 日晚，DeepSeek Harness 团队在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。\nDeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3588237",
     "datetime": "2026-10-31T14:46:42+00:00",
-    "views": "97",
+    "views": "127",
     "text": "约旦公共安全部门：在卡拉克省查获携带枪支的热气球，这些热气球被走私进入约旦。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3588232",
     "datetime": "2026-10-31T14:39:42+00:00",
-    "views": "111",
+    "views": "141",
     "text": "越南将从 11 月 1 日起将零售电价下调 2%。",
     "media_only": false,
     "image_url": null,
@@ -51685,59 +51685,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3582305"
-  },
-  {
-    "post": "Financial_Express/3582304",
-    "datetime": "2026-10-29T15:04:22+00:00",
-    "views": "57",
-    "text": "武契奇：塞尔维亚前进党将启动改革计划\n塞尔维亚前总统武契奇 29 日在首都贝尔格莱德表示，其领导的塞尔维亚前进党近日将启动党内改革，选举新的领导层。武契奇当天在位于贝尔格莱德的塞尔维亚前进党总部举行新闻发布会时说，该党计划在一个月内召开党代表大会，选举新的领导层。他表示，该党计划大规模调整领导层，中央委员会约三分之二成员、主席团超过半数成员将由新人担任。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582304"
-  },
-  {
-    "post": "Financial_Express/3582303",
-    "datetime": "2026-10-29T15:03:23+00:00",
-    "views": "57",
-    "text": "项目安排显示，构成即期布伦特基准的五个北海原油品种 12 月供应量预计平均为 47.5 万桶/日，11 月为 51.4 万桶/日。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582303"
-  },
-  {
-    "post": "Financial_Express/3582302",
-    "datetime": "2026-10-29T15:03:22+00:00",
-    "views": "55",
-    "text": "装运计划显示，支撑即期布伦特基准的五个北海原油品种 12 月供应量预计平均为 47.5 万桶/日（11 月为 51.4 万桶/日）。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582302"
-  },
-  {
-    "post": "Financial_Express/3582301",
-    "datetime": "2026-10-29T15:03:02+00:00",
-    "views": "55",
-    "text": "国际货币基金组织：过去三年美国经济增长持续受到强劲生产率增长的支撑。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582301"
-  },
-  {
-    "post": "Financial_Express/3582300",
-    "datetime": "2026-10-29T15:02:43+00:00",
-    "views": "56",
-    "text": "国际货币基金组织：正致力于加强与伊拉克的伙伴关系，预计伊拉克 2026 年 GDP 将大幅萎缩，并于明年回升。美国应继续扩大技术收益的共享范围，这一点很重要。尽管油价和通胀上升，但在私人消费和投资的推动下，美国经济增长迄今仍具韧性。美联储和欧洲央行均在高度不确定的环境下采取行动，未来需密切关注数据。完全支持美联储主席沃什关于聚焦物价稳定的表态；美联储密切关注数据是恰当之举。预计将在未来几周内开始与乌克兰就第二轮和第三轮合并审查展开讨论。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582300"
-  },
-  {
-    "post": "Financial_Express/3582299",
-    "datetime": "2026-10-29T15:02:42+00:00",
-    "views": "50",
-    "text": "国际货币基金组织：代表团正在埃及讨论最终计划审查。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582299"
   }
 ]
