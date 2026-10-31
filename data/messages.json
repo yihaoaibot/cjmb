@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3588240",
+    "datetime": "2026-10-31T14:57:22+00:00",
+    "views": "1",
+    "text": "阿尔及利亚外交部：联合国安理会关于西撒哈拉的决议草案偏袒摩洛哥，将波利萨里奥阵线边缘化。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3588240"
+  },
+  {
+    "post": "Financial_Express/3588239",
+    "datetime": "2026-10-31T14:56:03+00:00",
+    "views": "3",
+    "text": "阿尔及利亚外交部：对联合国西撒哈拉特派团任期未获续期表示遗憾。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3588239"
+  },
+  {
     "post": "Financial_Express/3588238",
     "datetime": "2026-10-31T14:52:35+00:00",
-    "views": "50",
+    "views": "51",
     "text": "10 月 31 日晚，DeepSeek Harness 团队在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。\nDeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3588237",
     "datetime": "2026-10-31T14:46:42+00:00",
-    "views": "66",
+    "views": "96",
     "text": "约旦公共安全部门：在卡拉克省查获携带枪支的热气球，这些热气球被走私进入约旦。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3588236",
     "datetime": "2026-10-31T14:46:22+00:00",
-    "views": "64",
+    "views": "94",
     "text": "也门政府军：过去数小时内，我方针对胡塞武装的领导人、集结点和增援部队实施了 1119 次行动。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3588235",
     "datetime": "2026-10-31T14:46:02+00:00",
-    "views": "61",
+    "views": "91",
     "text": "DeepSeek 发布新的 Agent 架构\n金十数据 10 月 31 日讯，10 月 31 日晚，DeepSeek Harness 团队发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。DeepSeek 表示，模型能力提升催生了新的应用形态，近期个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，Agent 的工作模式仍然以单一 Session 为基本单位，不同 Session 之间彼此独立。在这种设计下，单任务的上限取决于模型能力，多任务的上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。DeepSeek 把这种 Agent 形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部 Super-agent 实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness 自身的迭代。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3588234",
     "datetime": "2026-10-31T14:44:22+00:00",
-    "views": "88",
+    "views": "89",
     "text": "法国内政部：今日全国各地示威者人数约为 1.5 万人。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3588230",
     "datetime": "2026-10-31T14:37:03+00:00",
-    "views": "107",
+    "views": "137",
     "text": "币安就黑客事件回应：我们将继续通过市场和场外渠道购买剩余受影响的被盗资产。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3588229",
     "datetime": "2026-10-31T14:36:22+00:00",
-    "views": "103",
+    "views": "133",
     "text": "币安：所动用的补充资金包括币安自身的企业资金。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3588228",
     "datetime": "2026-10-31T14:36:03+00:00",
-    "views": "104",
+    "views": "134",
     "text": "币安针对本次黑客事件：已于 2026 年 10 月 31 日 0 时（世界协调时间）生成最新储备证明（POR）快照。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3588227",
     "datetime": "2026-10-31T14:35:43+00:00",
-    "views": "102",
+    "views": "132",
     "text": "币安：本次拨付的补足资金包含部分期货保险基金。",
     "media_only": false,
     "image_url": null,
@@ -51856,86 +51874,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3582283"
-  },
-  {
-    "post": "Financial_Express/3582281",
-    "datetime": "2026-10-29T14:58:23+00:00",
-    "views": "39",
-    "text": "壳牌首席执行官表示，对于化工资产，一种选择是合并投资组合，在其他项目中持有少数股权，直到我们认为是变现的合适时机。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582281"
-  },
-  {
-    "post": "Financial_Express/3582280",
-    "datetime": "2026-10-29T14:58:22+00:00",
-    "views": "39",
-    "text": "壳牌首席执行官：我们正就化工资产出售进行深入磋商。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582280"
-  },
-  {
-    "post": "Financial_Express/3582279",
-    "datetime": "2026-10-29T14:58:03+00:00",
-    "views": "39",
-    "text": "据以色列媒体报道：第 26 届国会选举的投票结果已完成计票，最终结果将很快公布。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582279"
-  },
-  {
-    "post": "Financial_Express/3582278",
-    "datetime": "2026-10-29T14:57:43+00:00",
-    "views": "37",
-    "text": "Polymarket 正调查以色列选举相关可疑交易。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582278"
-  },
-  {
-    "post": "Financial_Express/3582277",
-    "datetime": "2026-10-29T14:57:23+00:00",
-    "views": "38",
-    "text": "荷兰向市场投放最后一批次 70 万桶成品油。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582277"
-  },
-  {
-    "post": "Financial_Express/3582276",
-    "datetime": "2026-10-29T14:57:03+00:00",
-    "views": "39",
-    "text": "壳牌首席执行官表示，我们正在就出售化工资产进行深入讨论。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582276"
-  },
-  {
-    "post": "Financial_Express/3582275",
-    "datetime": "2026-10-29T14:57:02+00:00",
-    "views": "39",
-    "text": "巴勒斯坦总统：希望以色列新政府为重启和谈创造条件\n巴勒斯坦通讯社 29 日报道，巴勒斯坦总统阿巴斯表示，希望以色列新一届政府的组建能够为重启巴以政治谈判创造条件。据报道，阿巴斯当天与塞浦路斯总统赫里斯托祖利季斯会晤时表示，巴方多年来一直向以色列提出和平谈判倡议，期待双方民众能够在安全、稳定、和平的环境下生活。他说，和谈的目标不仅是为巴以双方创造和平，更是为全面实现整个地区的和平与稳定。(新华社)",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582275"
-  },
-  {
-    "post": "Financial_Express/3582274",
-    "datetime": "2026-10-29T14:56:41+00:00",
-    "views": "39",
-    "text": "百时美施贵宝首席商业化官伦科夫斯基表示，百时美施贵宝正与美国食品药品监督管理局（FDA）合作，力争在 2027 年初恢复其用于治疗自身免疫性疾病的实验性细胞疗法 zolacabtagene autoleucel 的临床试验患者招募工作。\n2026 年 9 月，在诺华公司（Novartis）因三名患者死亡而暂停其八项临床试验后，该公司也自愿暂停了相关研究以审查安全性数据。\n首席医疗官克里斯蒂安·马萨切西（Cristian Massacesi）表示，经全面审查发现，“安全问题的根本原因”涉及生产过程中使用的一种试剂。“我们现已对此进行了适当调整，并正与监管机构合作，以尽快重启临床项目。”\n上周，布里斯托尔公司披露了一名参与该细胞疗法临床试验的患者死亡事件 (link)，该疗法旨在治疗复发性或进展性多发性硬化症。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582274"
-  },
-  {
-    "post": "Financial_Express/3582273",
-    "datetime": "2026-10-29T14:56:34+00:00",
-    "views": "39",
-    "text": "巴勒斯坦通讯社 29 日报道，巴勒斯坦总统阿巴斯表示，希望以色列新一届政府的组建能够为重启巴以政治谈判创造条件。\n据报道，阿巴斯当天与塞浦路斯总统赫里斯托祖利季斯会晤时表示，巴方多年来一直向以色列提出和平谈判倡议，期待双方民众能够在安全、稳定、和平的环境下生活。他说，和谈的目标不仅是为巴以双方创造和平，更是为全面实现整个地区的和平与稳定。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582273"
   }
 ]
