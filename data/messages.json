@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3588237",
     "datetime": "2026-10-31T14:46:42+00:00",
-    "views": "22",
+    "views": "38",
     "text": "约旦公共安全部门：在卡拉克省查获携带枪支的热气球，这些热气球被走私进入约旦。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3588236",
     "datetime": "2026-10-31T14:46:22+00:00",
-    "views": "21",
+    "views": "38",
     "text": "也门政府军：过去数小时内，我方针对胡塞武装的领导人、集结点和增援部队实施了 1119 次行动。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3588235",
     "datetime": "2026-10-31T14:46:02+00:00",
-    "views": "18",
+    "views": "35",
     "text": "DeepSeek 发布新的 Agent 架构\n金十数据 10 月 31 日讯，10 月 31 日晚，DeepSeek Harness 团队发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。DeepSeek 表示，模型能力提升催生了新的应用形态，近期个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，Agent 的工作模式仍然以单一 Session 为基本单位，不同 Session 之间彼此独立。在这种设计下，单任务的上限取决于模型能力，多任务的上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。DeepSeek 把这种 Agent 形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部 Super-agent 实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness 自身的迭代。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3588234",
     "datetime": "2026-10-31T14:44:22+00:00",
-    "views": "49",
+    "views": "69",
     "text": "法国内政部：今日全国各地示威者人数约为 1.5 万人。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3588233",
     "datetime": "2026-10-31T14:40:42+00:00",
-    "views": "79",
+    "views": "92",
     "text": "DeepSeek 发布全新 Agent 架构\nDeepSeek Harness 团队 10 月 31 日晚在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。DeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。DeepSeek 把这种 Agent 形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部 Super-agent 实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness 自身的迭代。当团队成员在群聊中反馈软件问题时，即使没有人主动@ AI，它也能识别潜在缺陷，在后台尝试复现问题、寻找修复方案。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3588232",
     "datetime": "2026-10-31T14:39:42+00:00",
-    "views": "85",
+    "views": "97",
     "text": "越南将从 11 月 1 日起将零售电价下调 2%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3588231",
     "datetime": "2026-10-31T14:37:42+00:00",
-    "views": "86",
+    "views": "98",
     "text": "币安就黑客事件：仍有望在先前声明的时间范围内（2026 年 11 月 1 日星期日）恢复提现。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3588230",
     "datetime": "2026-10-31T14:37:03+00:00",
-    "views": "88",
+    "views": "100",
     "text": "币安就黑客事件回应：我们将继续通过市场和场外渠道购买剩余受影响的被盗资产。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3588229",
     "datetime": "2026-10-31T14:36:22+00:00",
-    "views": "89",
+    "views": "99",
     "text": "币安：所动用的补充资金包括币安自身的企业资金。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3588228",
     "datetime": "2026-10-31T14:36:03+00:00",
-    "views": "91",
+    "views": "101",
     "text": "币安针对本次黑客事件：已于 2026 年 10 月 31 日 0 时（世界协调时间）生成最新储备证明（POR）快照。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3588227",
     "datetime": "2026-10-31T14:35:43+00:00",
-    "views": "90",
+    "views": "99",
     "text": "币安：本次拨付的补足资金包含部分期货保险基金。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3588226",
     "datetime": "2026-10-31T14:34:42+00:00",
-    "views": "122",
+    "views": "131",
     "text": "币安：预计未来 24 小时内将部分部署用户安全资产基金（SAFU）。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3588225",
     "datetime": "2026-10-31T14:34:22+00:00",
-    "views": "124",
+    "views": "133",
     "text": "币安就黑客事件发表声明：将承担被盗资金造成的财务损失，不会让用户受损。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3588223",
     "datetime": "2026-10-31T14:33:43+00:00",
-    "views": "124",
+    "views": "133",
     "text": "招商轮船卡气二期项目首制船“LEKHRAIB”轮命名仪式在韩国举行\n金十数据 10 月 31 日讯，据招商轮船消息，10 月 28 日至 29 日，招商轮船在韩国三星重工订造的“卡塔尔能源 LNG 运输船二期项目”（简称“卡气二期项目”）首制船命名仪式及相关活动，在韩国巨济岛和釜山举行。“LEKHRAIB”轮是招商轮船与卡塔尔能源合作的 LNG 项目 6 艘 17.4 万立方米 LNG 运输船中的首制船，也是招商轮船与三星重工首次携手的重要成果。该轮交付后，将为卡塔尔能源提供长期 LNG 运输服务。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -128,7 +128,7 @@
   {
     "post": "Financial_Express/3588224",
     "datetime": "2026-10-31T14:33:43+00:00",
-    "views": "127",
+    "views": "135",
     "text": "币安：BTC、ETH、USDT、BNB、SOL、USDC、XRP、USD1、RLUSD 以及 ZEC 全部实现 100%足额储备。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -137,7 +137,7 @@
   {
     "post": "Financial_Express/3588222",
     "datetime": "2026-10-31T14:33:22+00:00",
-    "views": "124",
+    "views": "133",
     "text": "俄罗斯国防部：俄武装力量对敖德萨以南 37 公里处一处海上通道实施打击，一艘向乌克兰武装部队运送补给物资的干货船被击中。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -146,7 +146,7 @@
   {
     "post": "Financial_Express/3588221",
     "datetime": "2026-10-31T14:33:02+00:00",
-    "views": "123",
+    "views": "131",
     "text": "币安：已补足黑客被盗损失中 90%的受影响金额。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +155,7 @@
   {
     "post": "Financial_Express/3588219",
     "datetime": "2026-10-31T14:27:23+00:00",
-    "views": "127",
+    "views": "133",
     "text": "消息人士称伊朗正在研究万斯来信中的提议\n据沙特方面 10 月 31 日援引消息人士的话称，伊朗正在研究美国副总统万斯在致伊方信件中的提议。消息人士说，万斯来信中提出了双方谈判的总体原则和框架，但并未包含完整方案。目前，伊朗正在讨论美方有关伊朗核计划的提议。消息人士透露，伊朗要求获得有关永久、全面停止战事的保证，以此换取开放霍尔木兹海峡。伊方还坚持要求先全面停战再启动谈判，“预计将举行新一轮谈判，但目前确定具体时间为时尚早”。消息人士还说，卡塔尔与伊朗正在研究磋商一份路线图。一旦双方就路线图达成一致，美国代表团将赴卡塔尔。（央视新闻）\n👍1",
     "media_only": false,
     "image_url": null,
@@ -164,7 +164,7 @@
   {
     "post": "Financial_Express/3588220",
     "datetime": "2026-10-31T14:27:23+00:00",
-    "views": "129",
+    "views": "136",
     "text": "招商轮船卡气二期项目首制船“LEKHRAIB”轮命名仪式在韩国举行\n据招商轮船消息，10 月 28 日至 29 日，招商轮船在韩国三星重工订造的“卡塔尔能源 LNG 运输船二期项目”（简称“卡气二期项目”）首制船命名仪式及相关活动，在韩国巨济岛和釜山举行。“LEKHRAIB”轮是招商轮船与卡塔尔能源合作的 LNG 项目 6 艘 17.4 万立方米 LNG 运输船中的首制船，也是招商轮船与三星重工首次携手的重要成果。该轮交付后，将为卡塔尔能源提供长期 LNG 运输服务。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -173,7 +173,7 @@
   {
     "post": "Financial_Express/3588218",
     "datetime": "2026-10-31T14:26:43+00:00",
-    "views": "128",
+    "views": "134",
     "text": "伊朗议会国家安全与外交政策委员会成员莫杰塔巴·扎雷伊：新的国防准则基于这样一项原则，任何发起针对伊朗攻击的地点，都可能被纳入伊朗防御性反击的范围之内。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -52009,95 +52009,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3582264"
-  },
-  {
-    "post": "Financial_Express/3582263",
-    "datetime": "2026-10-29T14:52:03+00:00",
-    "views": "40",
-    "text": "卡塔尔据称向伊朗提交结束战事草案\n综合美国阿克西奥斯新闻网站和路透社报道，卡塔尔 10 月 25 日向伊朗提交了一份旨在结束伊朗与美国、以色列之间战事的新协议草案。与伊朗 9 月底提出的“七日计划”不同，新草案尝试说服伊朗允许联合国调查人员访问其遭轰炸的核设施，以换取美国放松部分制裁。(CCTV 国际时讯)",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582263"
-  },
-  {
-    "post": "Financial_Express/3582262",
-    "datetime": "2026-10-29T14:52:02+00:00",
-    "views": "39",
-    "text": "壳牌首席财务官表示，拥有最大的船舶组合之一在获取船舶方面具有优势。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582262"
-  },
-  {
-    "post": "Financial_Express/3582261",
-    "datetime": "2026-10-29T14:51:50+00:00",
-    "views": "39",
-    "text": "长安汽车与伊利集团在伊利现代智慧健康谷成功举行业务合作框架协议签约仪式。后续，双方将建立常态化沟通机制，组建专项对接小组，深挖产业链联动空间，推动合作事项快速落地。（证券时报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582261"
-  },
-  {
-    "post": "Financial_Express/3582260",
-    "datetime": "2026-10-29T14:51:44+00:00",
-    "views": "39",
-    "text": "埃及央行将基准利率上调至 20%，市场预期为 19.00%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582260"
-  },
-  {
-    "post": "Financial_Express/3582259",
-    "datetime": "2026-10-29T14:51:43+00:00",
-    "views": "2",
-    "text": "报道：卡塔尔能源公司采购美国及其他地区的 LNG，来防范未来霍尔木兹海峡可能出现的供应中断\n卡塔尔能源公司首席执行官萨阿德·谢里达·阿尔-卡阿比表示，该公司正从美国及其他生产商处采购长期液化天然气供应，作为一项交易策略的一部分，旨在确保未来若霍尔木兹海峡出口受阻时仍能产生收入。“如果海峡关闭——这正是我们所设想的真正应急情况——天然气价格将立即飙升，卡塔尔能源公司将因此获得原本无法获得的收入，”同时兼任能源事务国务部长的卡比在谈及该计划时表示。卡比的言论首次揭示了作为全球最大液化天然气生产国之一的卡塔尔，计划如何弥补因伊朗战争造成的收入损失，并防范霍尔木兹海峡未来可能出现的供应中断对收入造成的冲击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582259"
-  },
-  {
-    "post": "Financial_Express/3582258",
-    "datetime": "2026-10-29T14:51:38+00:00",
-    "views": "39",
-    "text": "埃及央行加息至 20%，分析师预期为 19%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582258"
-  },
-  {
-    "post": "Financial_Express/3582256",
-    "datetime": "2026-10-29T14:51:23+00:00",
-    "views": "39",
-    "text": "阿迪达斯首席执行官：我们将全年营收指引维持在 9%至 10%，但可能存在上行空间。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582256"
-  },
-  {
-    "post": "Financial_Express/3582257",
-    "datetime": "2026-10-29T14:51:23+00:00",
-    "views": "39",
-    "text": "壳牌首席财务官：当前航运的关键在于能否获得船舶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582257"
-  },
-  {
-    "post": "Financial_Express/3582255",
-    "datetime": "2026-10-29T14:50:52+00:00",
-    "views": "39",
-    "text": "卡塔尔能源公司首席执行官萨阿德·谢里达·阿尔-卡阿比表示，该公司正从美国及其他生产商处采购长期液化天然气供应，作为一项交易策略的一部分，旨在确保未来若霍尔木兹海峡出口受阻时仍能产生收入。\n“如果海峡关闭——这正是我们所设想的真正应急情况——天然气价格将立即飙升，卡塔尔能源公司将因此获得原本无法获得的收入，”同时兼任能源事务国务部长的卡比在谈及该计划时表示。\n卡比的言论首次揭示了作为全球最大液化天然气生产国之一的卡塔尔，计划如何弥补因伊朗战争造成的收入损失，并防范霍尔木兹海峡未来可能出现的供应中断对收入造成的冲击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582255"
-  },
-  {
-    "post": "Financial_Express/3582254",
-    "datetime": "2026-10-29T14:50:42+00:00",
-    "views": "39",
-    "text": "阿迪达斯首席执行官：我们维持第四季度营收指引在 9%至 10%，但可能会有上行空间。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582254"
   }
 ]
