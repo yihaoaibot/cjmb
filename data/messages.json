@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3588241",
+    "datetime": "2026-10-31T14:59:02+00:00",
+    "views": "3",
+    "text": "币安称已补回近期安全事件中 90%的被盗资产 将于周日开放提现\n币安表示，已补回近期一起安全事件中 90%的被盗资产，高于此前的 80%。该公司已拨出超过 63.4 亿美元公司资金，用于弥补黑客攻击造成的损失。剩余 10%为受影响资产中排名前十之外、流动性较低的代币。币安计划周日重新开放用户提款。币安承诺将 SAFU 紧急储备金补充至约 10 亿美元。期货保险基金已进行再平衡，以帮助覆盖受影响资产；基金规模仍高于规定水平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3588241"
+  },
+  {
     "post": "Financial_Express/3588240",
     "datetime": "2026-10-31T14:57:22+00:00",
-    "views": "1",
+    "views": "33",
     "text": "阿尔及利亚外交部：联合国安理会关于西撒哈拉的决议草案偏袒摩洛哥，将波利萨里奥阵线边缘化。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3588239",
     "datetime": "2026-10-31T14:56:03+00:00",
-    "views": "3",
+    "views": "35",
     "text": "阿尔及利亚外交部：对联合国西撒哈拉特派团任期未获续期表示遗憾。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3588238",
     "datetime": "2026-10-31T14:52:35+00:00",
-    "views": "51",
+    "views": "82",
     "text": "10 月 31 日晚，DeepSeek Harness 团队在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。\nDeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3588237",
     "datetime": "2026-10-31T14:46:42+00:00",
-    "views": "96",
+    "views": "97",
     "text": "约旦公共安全部门：在卡拉克省查获携带枪支的热气球，这些热气球被走私进入约旦。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +47,7 @@
   {
     "post": "Financial_Express/3588236",
     "datetime": "2026-10-31T14:46:22+00:00",
-    "views": "94",
+    "views": "95",
     "text": "也门政府军：过去数小时内，我方针对胡塞武装的领导人、集结点和增援部队实施了 1119 次行动。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3588235",
     "datetime": "2026-10-31T14:46:02+00:00",
-    "views": "91",
+    "views": "92",
     "text": "DeepSeek 发布新的 Agent 架构\n金十数据 10 月 31 日讯，10 月 31 日晚，DeepSeek Harness 团队发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。DeepSeek 表示，模型能力提升催生了新的应用形态，近期个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，Agent 的工作模式仍然以单一 Session 为基本单位，不同 Session 之间彼此独立。在这种设计下，单任务的上限取决于模型能力，多任务的上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。DeepSeek 把这种 Agent 形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部 Super-agent 实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness 自身的迭代。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3588234",
     "datetime": "2026-10-31T14:44:22+00:00",
-    "views": "89",
+    "views": "120",
     "text": "法国内政部：今日全国各地示威者人数约为 1.5 万人。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3588233",
     "datetime": "2026-10-31T14:40:42+00:00",
-    "views": "108",
+    "views": "139",
     "text": "DeepSeek 发布全新 Agent 架构\nDeepSeek Harness 团队 10 月 31 日晚在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。DeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。通过双层架构、事件驱动、异步多信道交互、存算分离与外部 Watchdog 等思路，DeepSeek 团队突破了这些限制，系统在底层接管了繁琐的会话管理与上下文同步，使人类得以从具体的执行细节进一步上移到更高层的决策与验收。DeepSeek 把这种 Agent 形态及其系统架构称为 Super-agent，文章提到，目前，基于这套思路构建的内部 Super-agent 实例已经在持续运行，日常参与问题复现与修复、代码审查响应与 DeepSeek Harness 自身的迭代。当团队成员在群聊中反馈软件问题时，即使没有人主动@ AI，它也能识别潜在缺陷，在后台尝试复现问题、寻找修复方案。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3588232",
     "datetime": "2026-10-31T14:39:42+00:00",
-    "views": "110",
+    "views": "111",
     "text": "越南将从 11 月 1 日起将零售电价下调 2%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3588231",
     "datetime": "2026-10-31T14:37:42+00:00",
-    "views": "109",
+    "views": "140",
     "text": "币安就黑客事件：仍有望在先前声明的时间范围内（2026 年 11 月 1 日星期日）恢复提现。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3588230",
     "datetime": "2026-10-31T14:37:03+00:00",
-    "views": "137",
+    "views": "138",
     "text": "币安就黑客事件回应：我们将继续通过市场和场外渠道购买剩余受影响的被盗资产。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +110,7 @@
   {
     "post": "Financial_Express/3588229",
     "datetime": "2026-10-31T14:36:22+00:00",
-    "views": "133",
+    "views": "134",
     "text": "币安：所动用的补充资金包括币安自身的企业资金。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -110,7 +119,7 @@
   {
     "post": "Financial_Express/3588228",
     "datetime": "2026-10-31T14:36:03+00:00",
-    "views": "134",
+    "views": "135",
     "text": "币安针对本次黑客事件：已于 2026 年 10 月 31 日 0 时（世界协调时间）生成最新储备证明（POR）快照。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3588227",
     "datetime": "2026-10-31T14:35:43+00:00",
-    "views": "132",
+    "views": "133",
     "text": "币安：本次拨付的补足资金包含部分期货保险基金。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3588226",
     "datetime": "2026-10-31T14:34:42+00:00",
-    "views": "134",
+    "views": "135",
     "text": "币安：预计未来 24 小时内将部分部署用户安全资产基金（SAFU）。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -137,7 +146,7 @@
   {
     "post": "Financial_Express/3588225",
     "datetime": "2026-10-31T14:34:22+00:00",
-    "views": "135",
+    "views": "136",
     "text": "币安就黑客事件发表声明：将承担被盗资金造成的财务损失，不会让用户受损。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3588223",
     "datetime": "2026-10-31T14:33:43+00:00",
-    "views": "134",
+    "views": "135",
     "text": "招商轮船卡气二期项目首制船“LEKHRAIB”轮命名仪式在韩国举行\n金十数据 10 月 31 日讯，据招商轮船消息，10 月 28 日至 29 日，招商轮船在韩国三星重工订造的“卡塔尔能源 LNG 运输船二期项目”（简称“卡气二期项目”）首制船命名仪式及相关活动，在韩国巨济岛和釜山举行。“LEKHRAIB”轮是招商轮船与卡塔尔能源合作的 LNG 项目 6 艘 17.4 万立方米 LNG 运输船中的首制船，也是招商轮船与三星重工首次携手的重要成果。该轮交付后，将为卡塔尔能源提供长期 LNG 运输服务。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3588224",
     "datetime": "2026-10-31T14:33:43+00:00",
-    "views": "137",
+    "views": "138",
     "text": "币安：BTC、ETH、USDT、BNB、SOL、USDC、XRP、USD1、RLUSD 以及 ZEC 全部实现 100%足额储备。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -164,7 +173,7 @@
   {
     "post": "Financial_Express/3588222",
     "datetime": "2026-10-31T14:33:22+00:00",
-    "views": "135",
+    "views": "136",
     "text": "俄罗斯国防部：俄武装力量对敖德萨以南 37 公里处一处海上通道实施打击，一艘向乌克兰武装部队运送补给物资的干货船被击中。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -51775,104 +51784,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3582293"
-  },
-  {
-    "post": "Financial_Express/3582292",
-    "datetime": "2026-10-29T15:00:24+00:00",
-    "views": "40",
-    "text": "对二甲苯夜盘收跌约 2.8%，低硫燃油跌超 2.4%，PTA、燃油跌 2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582292"
-  },
-  {
-    "post": "Financial_Express/3582290",
-    "datetime": "2026-10-29T15:00:23+00:00",
-    "views": "38",
-    "text": "壳牌首席执行官表示，我们的柴油产量创下纪录。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582290"
-  },
-  {
-    "post": "Financial_Express/3582291",
-    "datetime": "2026-10-29T15:00:23+00:00",
-    "views": "38",
-    "text": "夜盘期货收盘\nPTA 连续跌 2.07%，燃料油连续跌 2.06%，低硫燃料油连续跌 1.88%，焦煤连续跌 1.67%，纸浆连续涨 1.63%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582291"
-  },
-  {
-    "post": "Financial_Express/3582289",
-    "datetime": "2026-10-29T15:00:02+00:00",
-    "views": "37",
-    "text": "壳牌首席执行官：我们的柴油产量创下历史新高。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582289"
-  },
-  {
-    "post": "Financial_Express/3582288",
-    "datetime": "2026-10-29T14:59:42+00:00",
-    "views": "38",
-    "text": "新易盛：公司已对 Q4 及明年订单交付做好充分准备，有信心满足大幅增长的交付需求\n金十数据 10 月 29 日讯，新易盛发布投资者关系活动记录表，其中提到，今年原材料供应整体偏紧，且不局限于单一物料。随着行业交付体量的快速增长，核心原材料备货周期进一步拉长，需充分做好提前规划。公司已对 Q4 及明年订单交付做好充分准备，有信心满足大幅增长的交付需求。预计 Q4 产能产量将实现大幅增长，成都与泰国均在同步快速扩产，公司对明年市场持乐观态度。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582288"
-  },
-  {
-    "post": "Financial_Express/3582287",
-    "datetime": "2026-10-29T14:59:30+00:00",
-    "views": "36",
-    "text": "生物技术公司 Alnylam Pharmaceuticals 表示，将把其治疗罕见遗传性出血性疾病药物的 II 期数据发布时间推迟至 2 月，随后，Alnylam 股价盘中一度下挫 23%，创下 2024 年以来最低盘中水平。\n公司预计将在 2027 年 2 月公布第四季度财报时，一并发布 ALN-6400 治疗遗传性出血性毛细血管扩张症（HHT，一种罕见血管疾病）患者的 II 期试验临床数据。\n此外，公司预计将在同一时间发布 ALN-2232 用于肥胖和体重管理的 I 期试验数据。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582287"
-  },
-  {
-    "post": "Financial_Express/3582286",
-    "datetime": "2026-10-29T14:59:03+00:00",
-    "views": "38",
-    "text": "新易盛：公司已对 Q4 及明年订单交付做好充分准备，有信心满足大幅增长的交付需求\n新易盛发布投资者关系活动记录表，其中提到，今年原材料供应整体偏紧，且不局限于单一物料。随着行业交付体量的快速增长，核心原材料备货周期进一步拉长，需充分做好提前规划。公司已对 Q4 及明年订单交付做好充分准备，有信心满足大幅增长的交付需求。预计 Q4 产能产量将实现大幅增长，成都与泰国均在同步快速扩产，公司对明年市场持乐观态度。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582286"
-  },
-  {
-    "post": "Financial_Express/3582284",
-    "datetime": "2026-10-29T14:59:02+00:00",
-    "views": "38",
-    "text": "荷兰政府：向市场释放最后 70 万桶石油产品，最终释放批次中约一半为柴油。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582284"
-  },
-  {
-    "post": "Financial_Express/3582285",
-    "datetime": "2026-10-29T14:59:02+00:00",
-    "views": "39",
-    "text": "壳牌首席执行官：关于化工资产，一种选择是合并投资组合，在其它项目中持有少数股权，直到我们认为合适的变现时机到来。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582285"
-  },
-  {
-    "post": "Financial_Express/3582282",
-    "datetime": "2026-10-29T14:58:42+00:00",
-    "views": "37",
-    "text": "预测市场 Polymarket 正就以色列选举相关的可疑交易展开调查。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582282"
-  },
-  {
-    "post": "Financial_Express/3582283",
-    "datetime": "2026-10-29T14:58:42+00:00",
-    "views": "37",
-    "text": "荷兰政府：最终释放批次中约半数为柴油。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3582283"
   }
 ]
