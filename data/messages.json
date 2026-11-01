@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3589150",
+    "datetime": "2026-11-01T22:00:42+00:00",
+    "views": "4",
+    "text": "据英国电讯报：英国首相伯纳姆对向英联邦国家提供卫生和教育领域的赔偿持开放态度，作为对殖民历史的补偿。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3589150"
+  },
+  {
     "post": "Financial_Express/3589149",
     "datetime": "2026-11-01T22:00:22+00:00",
-    "views": "2",
+    "views": "5",
     "text": "澳大利亚 10 月标普全球制造业 PMI 终值 49.6，前值 49.7。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3589148",
     "datetime": "2026-11-01T21:59:42+00:00",
-    "views": "8",
+    "views": "10",
     "text": "WTI 原油突破 103 美元/桶，日内跌 1.17%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3589147",
     "datetime": "2026-11-01T21:59:22+00:00",
-    "views": "9",
+    "views": "11",
     "text": "WTI 原油日内跌 1%，现报 102.90 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +38,7 @@
   {
     "post": "Financial_Express/3589146",
     "datetime": "2026-11-01T21:58:22+00:00",
-    "views": "12",
+    "views": "14",
     "text": "特朗普：希望众议员海莉·史蒂文斯加入共和党。",
     "media_only": false,
     "image_url": null,
@@ -13345,23 +13354,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3587658"
-  },
-  {
-    "post": "Financial_Express/3587657",
-    "datetime": "2026-10-30T22:00:43+00:00",
-    "views": "164",
-    "text": "暗盘金价（人民币）跌破 850 元/克，日内跌幅 2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3587657"
-  },
-  {
-    "post": "Financial_Express/3587656",
-    "datetime": "2026-10-30T22:00:42+00:00",
-    "views": "160",
-    "text": "暗盘金价跌破 3900 美元/盎司，日内跌幅 2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3587656"
   }
 ]
