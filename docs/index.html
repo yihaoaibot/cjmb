@@ -1,5 +1,13 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-01T14:34:30.367135+00:00","clsvipUpdated":"2026-11-01T14:34:39.316737+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月1日</h2><div class="feed"><article class="item" data-search="孟加拉国 10 月份出口额同比增长 4.4%，达到 39.9 亿美元。"><div class="time">22:34</div><div class="content"><div class="text" data-full="孟加拉国 10 月份出口额同比增长 4.4%，达到 39.9 亿美元。" data-short="孟加拉国 10 月份出口额同比增长 4.4%，达到 39.9 亿美元。">孟加拉国 10 月份出口额同比增长 4.4%，达到 39.9 亿美元。</div></div></article><article class="item" data-search="币安发言人：提款量在初期出现激增，但目前正呈现大幅下降趋势。"><div class="time">22:34</div><div class="content"><div class="text" data-full="币安发言人：提款量在初期出现激增，但目前正呈现大幅下降趋势。" data-short="币安发言人：提款量在初期出现激增，但目前正呈现大幅下降趋势。">币安发言人：提款量在初期出现激增，但目前正呈现大幅下降趋势。</div></div></article><article class="item" data-search="美议员说中东战争让美民众苦不堪言
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-01T14:36:28.904417+00:00","clsvipUpdated":"2026-11-01T14:36:36.200331+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月1日</h2><div class="feed"><article class="item" data-search="博茨瓦纳总统：博中两国将在诸多领域深化合作
+博茨瓦纳总统博科 10 月 31 日表示，他日前对中国进行的国事访问非常成功，博中两国将在政治、贸易与投资、人文等领域深化合作。（新华社）"><div class="time">22:36</div><div class="content"><div class="text" data-full="博茨瓦纳总统：博中两国将在诸多领域深化合作
+博茨瓦纳总统博科 10 月 31 日表示，他日前对中国进行的国事访问非常成功，博中两国将在政治、贸易与投资、人文等领域深化合作。（新华社）" data-short="博茨瓦纳总统：博中两国将在诸多领域深化合作
+博茨瓦纳总统博科 10 月 31 日表示，他日前对中国进行的国事访问非常成功，博中两国将在政治、贸易与投资、人文等领域深化合作。（新华社）">博茨瓦纳总统：博中两国将在诸多领域深化合作
+博茨瓦纳总统博科 10 月 31 日表示，他日前对中国进行的国事访问非常成功，博中两国将在政治、贸易与投资、人文等领域深化合作。（新华社）</div></div></article><article class="item" data-search="币安发言人：提款水平正趋于稳定，恢复至我们认为属于正常且符合预期的链上活动水平；提款规模占资产管理规模的比例非常小。"><div class="time">22:35</div><div class="content"><div class="text" data-full="币安发言人：提款水平正趋于稳定，恢复至我们认为属于正常且符合预期的链上活动水平；提款规模占资产管理规模的比例非常小。" data-short="币安发言人：提款水平正趋于稳定，恢复至我们认为属于正常且符合预期的链上活动水平；提款规模占资产管理规模的比例非常小。">币安发言人：提款水平正趋于稳定，恢复至我们认为属于正常且符合预期的链上活动水平；提款规模占资产管理规模的比例非常小。</div></div></article><article class="item" data-search="伊朗军方：已购买俄制苏-35 战机，将在战后接收
+金十数据 11 月 1 日讯，据以色列《耶路撒冷邮报》、俄罗斯商业咨询电视台（rbc）等多家媒体 11 月 1 日报道，伊朗军方发言人阿克拉米尼亚近日在接受伊朗媒体“tabnak”和“bitrun”联合采访时表示，伊朗已购买俄罗斯苏-35 战斗机，并将在战争结束后接收。他称，采购工作在战争开始前就已完成，战机原计划在冲突前交付，飞行员培训等准备工作也已完成。不过，阿克拉米尼亚的说法暂未得到俄方证实。"><div class="time">22:35</div><div class="content"><div class="text" data-full="伊朗军方：已购买俄制苏-35 战机，将在战后接收
+金十数据 11 月 1 日讯，据以色列《耶路撒冷邮报》、俄罗斯商业咨询电视台（RBC）等多家媒体 11 月 1 日报道，伊朗军方发言人阿克拉米尼亚近日在接受伊朗媒体“Tabnak”和“BitRun”联合采访时表示，伊朗已购买俄罗斯苏-35 战斗机，并将在战争结束后接收。他称，采购工作在战争开始前就已完成，战机原计划在冲突前交付，飞行员培训等准备工作也已完成。不过，阿克拉米尼亚的说法暂未得到俄方证实。" data-short="伊朗军方：已购买俄制苏-35 战机，将在战后接收
+金十数据 11 月 1 日讯，据以色列《耶路撒冷邮报》、俄罗斯商业咨询电视台（RBC）等多家媒体 11 月 1 日报道，伊朗军方发言人阿克拉米尼亚近日在接受伊朗媒体“Tabnak”和“BitRun”联合采访时表示，伊朗已购买俄罗斯苏-35 战斗机，并将在战争结束后接收。他称，采购工作在战争开始前就已完成，战机...">伊朗军方：已购买俄制苏-35 战机，将在战后接收
+金十数据 11 月 1 日讯，据以色列《耶路撒冷邮报》、俄罗斯商业咨询电视台（RBC）等多家媒体 11 月 1 日报道，伊朗军方发言人阿克拉米尼亚近日在接受伊朗媒体“Tabnak”和“BitRun”联合采访时表示，伊朗已购买俄罗斯苏-35 战斗机，并将在战争结束后接收。他称，采购工作在战争开始前就已完成，战机...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="孟加拉国 10 月份出口额同比增长 4.4%，达到 39.9 亿美元。"><div class="time">22:34</div><div class="content"><div class="text" data-full="孟加拉国 10 月份出口额同比增长 4.4%，达到 39.9 亿美元。" data-short="孟加拉国 10 月份出口额同比增长 4.4%，达到 39.9 亿美元。">孟加拉国 10 月份出口额同比增长 4.4%，达到 39.9 亿美元。</div></div></article><article class="item" data-search="币安发言人：提款量在初期出现激增，但目前正呈现大幅下降趋势。"><div class="time">22:34</div><div class="content"><div class="text" data-full="币安发言人：提款量在初期出现激增，但目前正呈现大幅下降趋势。" data-short="币安发言人：提款量在初期出现激增，但目前正呈现大幅下降趋势。">币安发言人：提款量在初期出现激增，但目前正呈现大幅下降趋势。</div></div></article><article class="item" data-search="美议员说中东战争让美民众苦不堪言
 当地时间 10 月 31 日，美国佐治亚州民主党籍联邦参议员乔恩·奥索夫在亚特兰大举行的一场活动上表示，美国政府用谎言将民众拖入了一场既不知如何结束、也不知如何取胜的中东战争。他指出，在这场战争中，已有 21 名美国人丧生、数百人受伤，然而，伊朗依然拥有无人机、导弹和铀。#美议员说美受创而伊朗仍无恙# 对于战争带来的影响，奥索夫表示，美国国内柴油价格飙升至历史最高水平，关税政策使食品价格达到了历史新高。美国政府为了给富人减税，还大幅削减了医疗补助计划，这一切让佐治亚州的家庭苦不堪言。（cctv 国际时讯）"><div class="time">22:31</div><div class="content"><div class="text" data-full="美议员说中东战争让美民众苦不堪言
 当地时间 10 月 31 日，美国佐治亚州民主党籍联邦参议员乔恩·奥索夫在亚特兰大举行的一场活动上表示，美国政府用谎言将民众拖入了一场既不知如何结束、也不知如何取胜的中东战争。他指出，在这场战争中，已有 21 名美国人丧生、数百人受伤，然而，伊朗依然拥有无人机、导弹和铀。#美议员说美受创而伊朗仍无恙# 对于战争带来的影响，奥索夫表示，美国国内柴油价格飙升至历史最高水平，关税政策使食品价格达到了历史新高。美国政府为了给富人减税，还大幅削减了医疗补助计划，这一切让佐治亚州的家庭苦不堪言。（CCTV 国际时讯）" data-short="美议员说中东战争让美民众苦不堪言
 当地时间 10 月 31 日，美国佐治亚州民主党籍联邦参议员乔恩·奥索夫在亚特兰大举行的一场活动上表示，美国政府用谎言将民众拖入了一场既不知如何结束、也不知如何取胜的中东战争。他指出，在这场战争中，已有 21 名美国人丧生、数百人受伤，然而，伊朗依然拥有无人机、导弹和铀。#美议员说美受创而伊朗仍无恙# 对于战争带来的影响，奥...">美议员说中东战争让美民众苦不堪言
@@ -927,39 +935,13 @@ ST 合纵(300477.SZ)公告称，公司于 2026 年 10 月 30 日收到证监会�
 11 月 1 日，光迅科技高端光电子及硅光芯片器件产业化项目（一期）开工仪式在光迅科技高端光电子产业基地举行。本次项目总占地约 3.5 万平方米，规划总建筑面积 16.63 万平方米，将建设两栋高等级洁净厂房、一栋智能化仓储物流中心、一栋高能效厂务动力站房、一栋员工中心及其他附属设施，员工宿舍等生活配套同步建设。项目中将持续导入世界级先进工艺和自动化装备，提升高端光电子及硅光芯片器件的研发与规模制造能力。"><div class="time">14:31</div><div class="content"><div class="text" data-full="光迅科技高端光电子及硅光芯片器件产业化项目（一期）开工
 11 月 1 日，光迅科技高端光电子及硅光芯片器件产业化项目（一期）开工仪式在光迅科技高端光电子产业基地举行。本次项目总占地约 3.5 万平方米，规划总建筑面积 16.63 万平方米，将建设两栋高等级洁净厂房、一栋智能化仓储物流中心、一栋高能效厂务动力站房、一栋员工中心及其他附属设施，员工宿舍等生活配套同步建设。项目中将持续导入世界级先进工艺和自动化装备，提升高端光电子及硅光芯片器件的研发与规模制造能力。" data-short="光迅科技高端光电子及硅光芯片器件产业化项目（一期）开工
 11 月 1 日，光迅科技高端光电子及硅光芯片器件产业化项目（一期）开工仪式在光迅科技高端光电子产业基地举行。本次项目总占地约 3.5 万平方米，规划总建筑面积 16.63 万平方米，将建设两栋高等级洁净厂房、一栋智能化仓储物流中心、一栋高能效厂务动力站房、一栋员工中心及其他附属设施，员工宿舍等生活配套...">光迅科技高端光电子及硅光芯片器件产业化项目（一期）开工
-11 月 1 日，光迅科技高端光电子及硅光芯片器件产业化项目（一期）开工仪式在光迅科技高端光电子产业基地举行。本次项目总占地约 3.5 万平方米，规划总建筑面积 16.63 万平方米，将建设两栋高等级洁净厂房、一栋智能化仓储物流中心、一栋高能效厂务动力站房、一栋员工中心及其他附属设施，员工宿舍等生活配套...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="马鲁蒂铃木 dzire 累计产量达 350 万辆。"><div class="time">14:20</div><div class="content"><div class="text" data-full="马鲁蒂铃木 Dzire 累计产量达 350 万辆。" data-short="马鲁蒂铃木 Dzire 累计产量达 350 万辆。">马鲁蒂铃木 Dzire 累计产量达 350 万辆。</div></div></article><article class="item" data-search="尼日利亚疾控中心：尼日利亚约拉报告的两例疑似埃博拉病例样本检测结果为阴性。"><div class="time">14:18</div><div class="content"><div class="text" data-full="尼日利亚疾控中心：尼日利亚约拉报告的两例疑似埃博拉病例样本检测结果为阴性。" data-short="尼日利亚疾控中心：尼日利亚约拉报告的两例疑似埃博拉病例样本检测结果为阴性。">尼日利亚疾控中心：尼日利亚约拉报告的两例疑似埃博拉病例样本检测结果为阴性。</div></div></article><article class="item" data-search="分析师：ai 变现不会一蹴而就 2027 年将是重要拐点
-尽管周五市场波动加剧，艾夫斯仍维持对 ai 的看多观点。这位科技分析师认为 2027 年将是重要拐点，ai 商业化变现届时有望支撑行业高额资本开支。他表示 ai 变现不会一蹴而就，并指出亮眼的云业务数据与资本开支是投资逻辑的核心。yorkville ives 合伙人、高级董事总经理丹·艾夫斯周五表示，科技财报季里，人工智能带来的颠覆效应正愈发凸显。他在 x 平台发文称：“ai 带来的颠覆在本轮科技财报中充分展现，市场难以判断哪些公司、板块会成为颠覆者，又有哪些会被颠覆。正如我们一直所说，ai 转型不会一路向上，但赢家依然存在，我们看多的核心逻辑没有改变。”"><div class="time">14:16</div><div class="content"><div class="text" data-full="分析师：AI 变现不会一蹴而就 2027 年将是重要拐点
-尽管周五市场波动加剧，艾夫斯仍维持对 AI 的看多观点。这位科技分析师认为 2027 年将是重要拐点，AI 商业化变现届时有望支撑行业高额资本开支。他表示 AI 变现不会一蹴而就，并指出亮眼的云业务数据与资本开支是投资逻辑的核心。Yorkville Ives 合伙人、高级董事总经理丹·艾夫斯周五表示，科技财报季里，人工智能带来的颠覆效应正愈发凸显。他在 X 平台发文称：“AI 带来的颠覆在本轮科技财报中充分展现，市场难以判断哪些公司、板块会成为颠覆者，又有哪些会被颠覆。正如我们一直所说，AI 转型不会一路向上，但赢家依然存在，我们看多的核心逻辑没有改变。”" data-short="分析师：AI 变现不会一蹴而就 2027 年将是重要拐点
-尽管周五市场波动加剧，艾夫斯仍维持对 AI 的看多观点。这位科技分析师认为 2027 年将是重要拐点，AI 商业化变现届时有望支撑行业高额资本开支。他表示 AI 变现不会一蹴而就，并指出亮眼的云业务数据与资本开支是投资逻辑的核心。Yorkville Ives 合伙人、高级董事总经理丹·艾夫斯周五表示，...">分析师：AI 变现不会一蹴而就 2027 年将是重要拐点
-尽管周五市场波动加剧，艾夫斯仍维持对 AI 的看多观点。这位科技分析师认为 2027 年将是重要拐点，AI 商业化变现届时有望支撑行业高额资本开支。他表示 AI 变现不会一蹴而就，并指出亮眼的云业务数据与资本开支是投资逻辑的核心。Yorkville Ives 合伙人、高级董事总经理丹·艾夫斯周五表示，...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="据广汽埃安消息，2026 年 10 月昊铂埃安 bu 销量 42357 辆，同比增长 56.79%，环比增长 19.33%。"><div class="time">14:16</div><div class="content"><div class="text" data-full="据广汽埃安消息，2026 年 10 月昊铂埃安 BU 销量 42357 辆，同比增长 56.79%，环比增长 19.33%。" data-short="据广汽埃安消息，2026 年 10 月昊铂埃安 BU 销量 42357 辆，同比增长 56.79%，环比增长 19.33%。">据广汽埃安消息，2026 年 10 月昊铂埃安 BU 销量 42357 辆，同比增长 56.79%，环比增长 19.33%。</div></div></article><article class="item" data-search="造车新势力 10 月交付量“成绩单”一览
+11 月 1 日，光迅科技高端光电子及硅光芯片器件产业化项目（一期）开工仪式在光迅科技高端光电子产业基地举行。本次项目总占地约 3.5 万平方米，规划总建筑面积 16.63 万平方米，将建设两栋高等级洁净厂房、一栋智能化仓储物流中心、一栋高能效厂务动力站房、一栋员工中心及其他附属设施，员工宿舍等生活配套...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="马鲁蒂铃木 dzire 累计产量达 350 万辆。"><div class="time">14:20</div><div class="content"><div class="text" data-full="马鲁蒂铃木 Dzire 累计产量达 350 万辆。" data-short="马鲁蒂铃木 Dzire 累计产量达 350 万辆。">马鲁蒂铃木 Dzire 累计产量达 350 万辆。</div></div></article><article class="item" data-search="尼日利亚疾控中心：尼日利亚约拉报告的两例疑似埃博拉病例样本检测结果为阴性。"><div class="time">14:18</div><div class="content"><div class="text" data-full="尼日利亚疾控中心：尼日利亚约拉报告的两例疑似埃博拉病例样本检测结果为阴性。" data-short="尼日利亚疾控中心：尼日利亚约拉报告的两例疑似埃博拉病例样本检测结果为阴性。">尼日利亚疾控中心：尼日利亚约拉报告的两例疑似埃博拉病例样本检测结果为阴性。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月1日 · VIP</h2> <div class="feed"> <article class="item" data-search="【风口研报·公司】这家交运公司三季度业绩经营韧性十足，资产稀缺性+业务确定性+ai外溢需求受益，对应当前pe仅10倍且股息率接近4%；另有一家食品龙头海外营收翻倍增长
 
-截至目前，多家造车新势力企业已公布 10 月的交付量“成绩单”。据不完全统计：
-理想汽车：2026 年 10 月交付 29,025 辆汽车。新一代理想 mega 交付超 3000 台，连续两月位列 50 万以上 mpv 市场销量第一。
-蔚来：2026 年 10 月，蔚来公司交付新车 34,246 台，其中，蔚来品牌交付新车 18,125 台；乐道品牌交付新车 8,383 台；firefly 萤火虫品牌交付新车 7,738 台。2026 年 1-10 月，蔚来公司共交付新车 334,547 台，同比增长 38.5%。
-小鹏汽车：2026 年 10 月，小鹏集团共交付新车 50,237 台，环比增长 22%，同比增长 20%，创单月交付量历史新高。其中，海外市场交付 13,326 台，同比增长 166%，创海外市场单月交付量历史新高。
-小米汽车：2026 年 10 月，小米汽车交付量超过 50000 台。
-零跑汽车：零跑汽车 10 月交付达 106127 台，连续四个月月销超 10 万台，全球累计交付突破 190 万台，即将达成第 200 万台下线里程碑。
-鸿蒙智行：2026 年 10 月交付 33537 台，全系成交均价超 40 万元，累计交付超 160 万台。
-极氪汽车：2026 年 10 月极氪品牌交付 32,483 辆，同比增长 51.6%；1-10 月共交付 320,887 辆，同比增长 94.4%。
-深蓝汽车：2026 年 10 月全球销量 32602 辆，环比增长 8.01%。"><div class="time">14:14</div><div class="content"><div class="text" data-full="造车新势力 10 月交付量“成绩单”一览
+#东航物流
+#紫燕食品"> <div class="time">22:34</div> <div class="content"> <div class="text">【风口研报·公司】这家交运公司三季度业绩经营韧性十足，资产稀缺性+业务确定性+AI外溢需求受益，对应当前PE仅10倍且股息率接近4%；另有一家食品龙头海外营收翻倍增长
 
-截至目前，多家造车新势力企业已公布 10 月的交付量“成绩单”。据不完全统计：
-理想汽车：2026 年 10 月交付 29,025 辆汽车。新一代理想 MEGA 交付超 3000 台，连续两月位列 50 万以上 MPV 市场销量第一。
-蔚来：2026 年 10 月，蔚来公司交付新车 34,246 台，其中，蔚来品牌交付新车 18,125 台；乐道品牌交付新车 8,383 台；firefly 萤火虫品牌交付新车 7,738 台。2026 年 1-10 月，蔚来公司共交付新车 334,547 台，同比增长 38.5%。
-小鹏汽车：2026 年 10 月，小鹏集团共交付新车 50,237 台，环比增长 22%，同比增长 20%，创单月交付量历史新高。其中，海外市场交付 13,326 台，同比增长 166%，创海外市场单月交付量历史新高。
-小米汽车：2026 年 10 月，小米汽车交付量超过 50000 台。
-零跑汽车：零跑汽车 10 月交付达 106127 台，连续四个月月销超 10 万台，全球累计交付突破 190 万台，即将达成第 200 万台下线里程碑。
-鸿蒙智行：2026 年 10 月交付 33537 台，全系成交均价超 40 万元，累计交付超 160 万台。
-极氪汽车：2026 年 10 月极氪品牌交付 32,483 辆，同比增长 51.6%；1-10 月共交付 320,887 辆，同比增长 94.4%。
-深蓝汽车：2026 年 10 月全球销量 32602 辆，环比增长 8.01%。" data-short="造车新势力 10 月交付量“成绩单”一览
-
-截至目前，多家造车新势力企业已公布 10 月的交付量“成绩单”。据不完全统计：
-理想汽车：2026 年 10 月交付 29,025 辆汽车。新一代理想 MEGA 交付超 3000 台，连续两月位列 50 万以上 MPV 市场销量第一。
-蔚来：2026 年 10 月，蔚来公司交付新车 34,246 台，其中，蔚来品牌...">造车新势力 10 月交付量“成绩单”一览
-
-截至目前，多家造车新势力企业已公布 10 月的交付量“成绩单”。据不完全统计：
-理想汽车：2026 年 10 月交付 29,025 辆汽车。新一代理想 MEGA 交付超 3000 台，连续两月位列 50 万以上 MPV 市场销量第一。
-蔚来：2026 年 10 月，蔚来公司交付新车 34,246 台，其中，蔚来品牌...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月1日 · VIP</h2> <div class="feed"> <article class="item" data-search="【电报解读】马斯克公布neuralink脑机新产品进展，机构称国内外植入式脑机接口2026年已进入量产元年，这家公司与华为达成战略合作，共同探索脑科学大模型在精神医学中的应用
+#东航物流
+#紫燕食品</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【电报解读】马斯克公布neuralink脑机新产品进展，机构称国内外植入式脑机接口2026年已进入量产元年，这家公司与华为达成战略合作，共同探索脑科学大模型在精神医学中的应用
 
 #美好医疗
 #塞力医疗
@@ -1061,35 +1043,7 @@ ST 合纵(300477.SZ)公告称，公司于 2026 年 10 月 30 日收到证监会�
 
 https://hi189.com/7146.html"> <div class="time">20:21</div> <div class="content"> <div class="text">2026/11/1 机构研究总结和市场消息汇总解读
 
-https://hi189.com/7146.html</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="#频道互推 #群组推荐
-
-加密货币知识库
-来一点医学科学前沿
-无损音乐分享频道
-白嫖小仓库 丨 抽奖福利之家
-热门短剧每日分享
-txt爽文小说
-影视软件 电视 tvbox
-ai绘画｜ai视频 | ai音乐
-热门短剧夸克百度网盘免费分享
-
-电报频道索引
-互推：@miaomiao333bot
-👍1"> <div class="time">12:02</div> <div class="content"> <div class="text">#频道互推 #群组推荐
-
-加密货币知识库
-来一点医学科学前沿
-无损音乐分享频道
-白嫖小仓库 丨 抽奖福利之家
-热门短剧每日分享
-txt爽文小说
-影视软件 电视 TVBox
-AI绘画｜AI视频 | AI音乐
-热门短剧夸克百度网盘免费分享
-
-电报频道索引
-互推：@miaomiao333bot
-👍1</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section> </div> </main> <script>
+https://hi189.com/7146.html</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section> </div> </main> <script>
       (() => {
         const mainBtn = document.getElementById('topic-main');
         const vipBtn = document.getElementById('topic-clsvip');
