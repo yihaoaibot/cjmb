@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3589124",
     "datetime": "2026-11-01T21:05:42+00:00",
-    "views": "6",
+    "views": "9",
     "text": "保加利亚总统候选人安德烈·久罗夫在第二轮选举中承认败选。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3589123",
     "datetime": "2026-11-01T21:05:22+00:00",
-    "views": "9",
+    "views": "12",
     "text": "澳大利亚内陆数据中心取消 2028 年中期启动目标，监管机构寻求更多时间。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3589122",
     "datetime": "2026-11-01T21:02:02+00:00",
-    "views": "18",
+    "views": "19",
     "text": "澳大利亚内陆数据中心放弃原定 2028 年中的启动目标，因监管机构需要更多时间。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3589121",
     "datetime": "2026-11-01T20:59:03+00:00",
-    "views": "25",
+    "views": "56",
     "text": "乌克兰紧急警报系统可能遭到黑客攻击，基辅收到辐射、化学威胁和街头冲突的警告。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3589120",
     "datetime": "2026-11-01T20:54:42+00:00",
-    "views": "64",
+    "views": "65",
     "text": "美国交通部长达菲：棕榈滩飞机坠毁事故 9 名遇难者全部确认。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3589117",
     "datetime": "2026-11-01T20:45:22+00:00",
-    "views": "76",
+    "views": "106",
     "text": "美国佛罗里达州发生飞机坠毁事故\n当地时间 11 月 1 日，一架私人飞机在美国佛罗里达州棕榈滩附近坠毁，机上载有 9 人。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -13831,95 +13831,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3587579"
-  },
-  {
-    "post": "Financial_Express/3587578",
-    "datetime": "2026-10-30T21:08:23+00:00",
-    "views": "36",
-    "text": "美国司法部在阿拉斯加选举案中提交初步禁令申请。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3587578"
-  },
-  {
-    "post": "Financial_Express/3587576",
-    "datetime": "2026-10-30T21:08:22+00:00",
-    "views": "33",
-    "text": "美国司法部就阿拉斯加选举案提交初步禁令申请。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3587576"
-  },
-  {
-    "post": "Financial_Express/3587577",
-    "datetime": "2026-10-30T21:08:22+00:00",
-    "views": "37",
-    "text": "波兰外长西科尔斯基：波兰希望看到黑海实现停火，以便乌克兰和俄罗斯的粮食供应能够运出。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3587577"
-  },
-  {
-    "post": "Financial_Express/3587575",
-    "datetime": "2026-10-30T21:08:02+00:00",
-    "views": "35",
-    "text": "标普：鉴于 Meta 未来资本支出及多年人工智能投资计划雄心勃勃且缺乏明确性，其是否会如预期般削减支出已变得不那么确定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3587575"
-  },
-  {
-    "post": "Financial_Express/3587574",
-    "datetime": "2026-10-30T21:07:42+00:00",
-    "views": "36",
-    "text": "波兰外长西科尔斯基：二十国集团成员就粮食安全、航行自由和能源问题进行了热烈讨论。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3587574"
-  },
-  {
-    "post": "Financial_Express/3587573",
-    "datetime": "2026-10-30T21:07:22+00:00",
-    "views": "36",
-    "text": "晨星 DBRS 确认西班牙评级为 A（高），趋势稳定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3587573"
-  },
-  {
-    "post": "Financial_Express/3587571",
-    "datetime": "2026-10-30T21:07:03+00:00",
-    "views": "35",
-    "text": "标普：我们预计 Meta Platforms(META.O)在 2028 年将仅通过债务来弥补其预期的自由现金流缺口。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3587571"
-  },
-  {
-    "post": "Financial_Express/3587572",
-    "datetime": "2026-10-30T21:07:03+00:00",
-    "views": "36",
-    "text": "标普：我们预计 Meta 在 2028 年将仅通过发债来弥补其预期的自由现金流缺口。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3587572"
-  },
-  {
-    "post": "Financial_Express/3587570",
-    "datetime": "2026-10-30T21:07:02+00:00",
-    "views": "33",
-    "text": "标普：预计卡塔尔庞大的流动资产储备将有助于缓解持续的地区冲突以及霍尔木兹海峡供应中断所带来的影响。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3587570"
-  },
-  {
-    "post": "Financial_Express/3587569",
-    "datetime": "2026-10-30T21:06:42+00:00",
-    "views": "33",
-    "text": "标普：还认为资本支出上升可能导致 Meta 在 2028 年之后自由经营现金流仍为负值。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3587569"
   }
 ]
