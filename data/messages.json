@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3589853",
+    "datetime": "2026-11-02T03:47:42+00:00",
+    "views": "1",
+    "text": "东山精密港股涨超 10%\n东山精密港股涨 10.51%，报 86.20 港元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3589853"
+  },
+  {
+    "post": "Financial_Express/3589852",
+    "datetime": "2026-11-02T03:47:22+00:00",
+    "views": "1",
+    "text": "印度股指 Nifty 指数上涨 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3589852"
+  },
+  {
+    "post": "Financial_Express/3589851",
+    "datetime": "2026-11-02T03:46:22+00:00",
+    "views": "2",
+    "text": "信实集团股价上涨 6%，此前该公司公布第二季度利润超出预期。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3589851"
+  },
+  {
     "post": "Financial_Express/3589850",
     "datetime": "2026-11-02T03:45:02+00:00",
-    "views": "1",
+    "views": "32",
     "text": "全球投资公司布鲁克菲尔德已委任 KB 国民银行担任牵头安排行，负责韩国有史以来规模最大的银团贷款。贷款资金将用于采购人工智能计算基础设施，包括图形处理器（GPU）。这笔贷款规模为 10.7 万亿韩元（约合 80 亿美元）。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3589849",
     "datetime": "2026-11-02T03:44:02+00:00",
-    "views": "2",
+    "views": "33",
     "text": "机构：到 2030 年，中国网络安全相关 AI Agent 应用市场规模将达到 593.5 亿元\nIDC 认为，生成式 AI 技术的持续突破推动安全智能体市场进入爆发式增长期，到 2030 年，中国网络安全相关 AI Agent 应用市场规模将达到 593.5 亿元，未来五年的复合增长率高达 106.5%。拥有不同基因的多元参与者（AI 云厂商、互联网厂商、综合安全厂商、新兴创新者等）正在共塑市场格局，生态高度活跃。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3589848",
     "datetime": "2026-11-02T03:43:42+00:00",
-    "views": "2",
+    "views": "33",
     "text": "布鲁克菲尔德牵头韩国首笔 80 亿美元 GPU 融资\n金十数据 11 月 2 日讯，全球投资公司布鲁克菲尔德已委任 KB 国民银行担任牵头安排行，负责韩国有史以来规模最大的银团贷款。该贷款旨在为韩国科技巨头 NAVER 采购人工智能芯片提供资金支持。KB 国民银行周日在声明中表示，贷款资金将用于采购人工智能计算基础设施，包括图形处理器（GPU）。该行称，这笔贷款规模为 10.7 万亿韩元（约合 80 亿美元），是总额达 12.6 万亿韩元融资方案的一部分。该行还指出，这是韩国首笔大规模 GPU 融资交易，相关人工智能芯片将以长期租赁方式提供给 NAVER Cloud。亚洲的银行和私人信贷基金正扩大人工智能融资业务，覆盖范围不再局限于数据中心建设，还包括为其提供算力支持的芯片等硬件设备。",
     "media_only": false,
     "image_url": null,
@@ -17359,14 +17386,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3587909"
-  },
-  {
-    "post": "Financial_Express/3587908",
-    "datetime": "2026-10-31T03:47:22+00:00",
-    "views": "93",
-    "text": "东方证券孙金霞：美国 AI 叙事面临高利率与投资回报双重约束，科技投资的可持续性正在受到检验\n东方证券研究所副所长孙金霞认为，美国 AI 投资在产业层面仍具有广阔的发展前景，但其高度依赖资本密集型投资的增长模式，正在面临融资需求和成本上升、商业化回报滞后等多重压力。美国 AI 叙事正从过去的投资规模竞争，转向投资回报和可持续性的考验。孙金霞称，当前美国 AI 投资增长动能放缓，风险由债市向股市扩散。近期美国 AI 企业信用利差扩大，部分高杠杆算力企业出现融资压力，随后风险开始由债券市场向股票市场传导，科技股调整压力上升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3587908"
   }
 ]
