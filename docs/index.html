@@ -1,17 +1,55 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-02T15:34:36.731881+00:00","clsvipUpdated":"2026-11-02T15:34:43.374729+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月2日</h2><div class="feed"><article class="item" data-search="随着华盛顿和德黑兰释放出愿意通过谈判解决动摇中东能源供应的长达数月冲突的信号，国际油价大幅下跌，欧洲能源股票随之创下自 6 月中旬以来的最大单日跌幅。
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-02T15:36:42.674371+00:00","clsvipUpdated":"2026-11-02T15:36:52.890387+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月2日</h2><div class="feed"><article class="item" data-search="随着华盛顿和德黑兰释放出愿意通过谈判解决动摇中东能源供应的长达数月冲突的信号，国际油价大幅下跌，欧洲能源股票随之创下自 6 月中旬以来的最大单日跌幅。
 - 领跌欧洲能源股的包括：挪威国家石油公司（equinor）跌 5%、英国石油（bp）跌 4.4%、壳牌（shell）跌 3.1%、道达尔能源（totalenergies）跌 2.4%。
 - 欧洲 stoxx 600 能源指数一度下跌高达 2.9%，创 6 月 15 日以来最大盘中跌幅。
 - 鉴于对航空燃料价格前景改善的乐观预期，旅游股普遍走高，其中途易集团（tui）上涨 5.6%、瑞安航空（ryanair）上涨 5.5%、汉莎航空（lufthansa）上涨 4.2%。
-在伊朗最高领袖授权政府寻求与美国开展谈判后，布伦特原油价格一度大跌超过 6.5%。"><div class="time">23:33</div><div class="content"><div class="text" data-full="随着华盛顿和德黑兰释放出愿意通过谈判解决动摇中东能源供应的长达数月冲突的信号，国际油价大幅下跌，欧洲能源股票随之创下自 6 月中旬以来的最大单日跌幅。
+在伊朗最高领袖授权政府寻求与美国开展谈判后，布伦特原油价格一度大跌超过 6.5%。
+👍2"><div class="time">23:33</div><div class="content"><div class="text" data-full="随着华盛顿和德黑兰释放出愿意通过谈判解决动摇中东能源供应的长达数月冲突的信号，国际油价大幅下跌，欧洲能源股票随之创下自 6 月中旬以来的最大单日跌幅。
 - 领跌欧洲能源股的包括：挪威国家石油公司（Equinor）跌 5%、英国石油（BP）跌 4.4%、壳牌（Shell）跌 3.1%、道达尔能源（TotalEnergies）跌 2.4%。
 - 欧洲 STOXX 600 能源指数一度下跌高达 2.9%，创 6 月 15 日以来最大盘中跌幅。
 - 鉴于对航空燃料价格前景改善的乐观预期，旅游股普遍走高，其中途易集团（TUI）上涨 5.6%、瑞安航空（Ryanair）上涨 5.5%、汉莎航空（Lufthansa）上涨 4.2%。
-在伊朗最高领袖授权政府寻求与美国开展谈判后，布伦特原油价格一度大跌超过 6.5%。" data-short="随着华盛顿和德黑兰释放出愿意通过谈判解决动摇中东能源供应的长达数月冲突的信号，国际油价大幅下跌，欧洲能源股票随之创下自 6 月中旬以来的最大单日跌幅。
+在伊朗最高领袖授权政府寻求与美国开展谈判后，布伦特原油价格一度大跌超过 6.5%。
+👍2" data-short="随着华盛顿和德黑兰释放出愿意通过谈判解决动摇中东能源供应的长达数月冲突的信号，国际油价大幅下跌，欧洲能源股票随之创下自 6 月中旬以来的最大单日跌幅。
 - 领跌欧洲能源股的包括：挪威国家石油公司（Equinor）跌 5%、英国石油（BP）跌 4.4%、壳牌（Shell）跌 3.1%、道达尔能源（TotalEnergies）跌 2.4%。
 - 欧洲 STOXX...">随着华盛顿和德黑兰释放出愿意通过谈判解决动摇中东能源供应的长达数月冲突的信号，国际油价大幅下跌，欧洲能源股票随之创下自 6 月中旬以来的最大单日跌幅。
 - 领跌欧洲能源股的包括：挪威国家石油公司（Equinor）跌 5%、英国石油（BP）跌 4.4%、壳牌（Shell）跌 3.1%、道达尔能源（TotalEnergies）跌 2.4%。
-- 欧洲 STOXX...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="欧洲央行 escriva：近年来市场对价格风险基本免疫。"><div class="time">23:31</div><div class="content"><div class="text" data-full="欧洲央行 Escriva：近年来市场对价格风险基本免疫。" data-short="欧洲央行 Escriva：近年来市场对价格风险基本免疫。">欧洲央行 Escriva：近年来市场对价格风险基本免疫。</div></div></article><article class="item" data-search="欧洲央行管委艾斯克里瓦：将利率维持在 2%以使通胀保持在 2%左右是合理的。"><div class="time">23:30</div><div class="content"><div class="text" data-full="欧洲央行管委艾斯克里瓦：将利率维持在 2%以使通胀保持在 2%左右是合理的。" data-short="欧洲央行管委艾斯克里瓦：将利率维持在 2%以使通胀保持在 2%左右是合理的。">欧洲央行管委艾斯克里瓦：将利率维持在 2%以使通胀保持在 2%左右是合理的。</div></div></article><article class="item" data-search="欧洲央行 escriva： 将利率维持在 2% 以把通胀稳定在 2% 左右是合理的。"><div class="time">23:29</div><div class="content"><div class="text" data-full="欧洲央行 Escriva： 将利率维持在 2% 以把通胀稳定在 2% 左右是合理的。" data-short="欧洲央行 Escriva： 将利率维持在 2% 以把通胀稳定在 2% 左右是合理的。">欧洲央行 Escriva： 将利率维持在 2% 以把通胀稳定在 2% 左右是合理的。</div></div></article><article class="item" data-search="美国法官驳回针对前联邦调查局官员的刑事案件，这些官员被控在亨特・拜登相关调查一事上撒谎。"><div class="time">23:29</div><div class="content"><div class="text" data-full="美国法官驳回针对前联邦调查局官员的刑事案件，这些官员被控在亨特・拜登相关调查一事上撒谎。" data-short="美国法官驳回针对前联邦调查局官员的刑事案件，这些官员被控在亨特・拜登相关调查一事上撒谎。">美国法官驳回针对前联邦调查局官员的刑事案件，这些官员被控在亨特・拜登相关调查一事上撒谎。</div></div></article><article class="item" data-search="美国法官驳回针对前联邦调查局官员的刑事案件；这些官员被控在亨特·拜登相关调查问题上撒谎。"><div class="time">23:29</div><div class="content"><div class="text" data-full="美国法官驳回针对前联邦调查局官员的刑事案件；这些官员被控在亨特·拜登相关调查问题上撒谎。" data-short="美国法官驳回针对前联邦调查局官员的刑事案件；这些官员被控在亨特·拜登相关调查问题上撒谎。">美国法官驳回针对前联邦调查局官员的刑事案件；这些官员被控在亨特·拜登相关调查问题上撒谎。</div></div></article><article class="item" data-search="金十图示：2026 年 11 月 02 日（周一）华尔街恐惧与贪婪指数（美盘初）"><div class="time">23:28</div><div class="content"><div class="text" data-full="金十图示：2026 年 11 月 02 日（周一）华尔街恐惧与贪婪指数（美盘初）" data-short="金十图示：2026 年 11 月 02 日（周一）华尔街恐惧与贪婪指数（美盘初）">金十图示：2026 年 11 月 02 日（周一）华尔街恐惧与贪婪指数（美盘初）</div></div></article><article class="item" data-search="布伦特原油跌 6%，现报 104.99 美元/桶。"><div class="time">23:26</div><div class="content"><div class="text" data-full="布伦特原油跌 6%，现报 104.99 美元/桶。" data-short="布伦特原油跌 6%，现报 104.99 美元/桶。">布伦特原油跌 6%，现报 104.99 美元/桶。</div></div></article><article class="item" data-search="法国央行行长穆兰：当前形势无法与 2022 年的通胀相提并论。当前宏观经济形势与 2022 年截然不同。"><div class="time">23:26</div><div class="content"><div class="text" data-full="法国央行行长穆兰：当前形势无法与 2022 年的通胀相提并论。当前宏观经济形势与 2022 年截然不同。" data-short="法国央行行长穆兰：当前形势无法与 2022 年的通胀相提并论。当前宏观经济形势与 2022 年截然不同。">法国央行行长穆兰：当前形势无法与 2022 年的通胀相提并论。当前宏观经济形势与 2022 年截然不同。</div></div></article><article class="item" data-search="欧洲央行管委穆兰：宏观经济形势与 2022 年截然不同。"><div class="time">23:26</div><div class="content"><div class="text" data-full="欧洲央行管委穆兰：宏观经济形势与 2022 年截然不同。" data-short="欧洲央行管委穆兰：宏观经济形势与 2022 年截然不同。">欧洲央行管委穆兰：宏观经济形势与 2022 年截然不同。</div></div></article><article class="item" data-search="纳斯达克金龙中国指数涨幅扩大至 3.2%，中概股小鹏涨 8%，小米 adr 涨 6.2%，联想 adr 涨 5.9%，阿里涨 5.8%，拼多多涨 5.1%，日月光半导体涨 4.7%，腾讯 adr 涨 3.3%，比亚迪 adr 涨 3.2%，百度涨 3.1%，京东、美团 adr、新东方至少涨超 2.8%，网易涨 1.9%。
+- 欧洲 STOXX...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="欧洲央行 escriva：近年来市场对价格风险基本免疫。
+👍2"><div class="time">23:31</div><div class="content"><div class="text" data-full="欧洲央行 Escriva：近年来市场对价格风险基本免疫。
+👍2" data-short="欧洲央行 Escriva：近年来市场对价格风险基本免疫。
+👍2">欧洲央行 Escriva：近年来市场对价格风险基本免疫。
+👍2</div></div></article><article class="item" data-search="欧洲央行管委艾斯克里瓦：将利率维持在 2%以使通胀保持在 2%左右是合理的。
+👍2"><div class="time">23:30</div><div class="content"><div class="text" data-full="欧洲央行管委艾斯克里瓦：将利率维持在 2%以使通胀保持在 2%左右是合理的。
+👍2" data-short="欧洲央行管委艾斯克里瓦：将利率维持在 2%以使通胀保持在 2%左右是合理的。
+👍2">欧洲央行管委艾斯克里瓦：将利率维持在 2%以使通胀保持在 2%左右是合理的。
+👍2</div></div></article><article class="item" data-search="欧洲央行 escriva： 将利率维持在 2% 以把通胀稳定在 2% 左右是合理的。
+👍2"><div class="time">23:29</div><div class="content"><div class="text" data-full="欧洲央行 Escriva： 将利率维持在 2% 以把通胀稳定在 2% 左右是合理的。
+👍2" data-short="欧洲央行 Escriva： 将利率维持在 2% 以把通胀稳定在 2% 左右是合理的。
+👍2">欧洲央行 Escriva： 将利率维持在 2% 以把通胀稳定在 2% 左右是合理的。
+👍2</div></div></article><article class="item" data-search="美国法官驳回针对前联邦调查局官员的刑事案件，这些官员被控在亨特・拜登相关调查一事上撒谎。
+👍2"><div class="time">23:29</div><div class="content"><div class="text" data-full="美国法官驳回针对前联邦调查局官员的刑事案件，这些官员被控在亨特・拜登相关调查一事上撒谎。
+👍2" data-short="美国法官驳回针对前联邦调查局官员的刑事案件，这些官员被控在亨特・拜登相关调查一事上撒谎。
+👍2">美国法官驳回针对前联邦调查局官员的刑事案件，这些官员被控在亨特・拜登相关调查一事上撒谎。
+👍2</div></div></article><article class="item" data-search="美国法官驳回针对前联邦调查局官员的刑事案件；这些官员被控在亨特·拜登相关调查问题上撒谎。
+👍1"><div class="time">23:29</div><div class="content"><div class="text" data-full="美国法官驳回针对前联邦调查局官员的刑事案件；这些官员被控在亨特·拜登相关调查问题上撒谎。
+👍1" data-short="美国法官驳回针对前联邦调查局官员的刑事案件；这些官员被控在亨特·拜登相关调查问题上撒谎。
+👍1">美国法官驳回针对前联邦调查局官员的刑事案件；这些官员被控在亨特·拜登相关调查问题上撒谎。
+👍1</div></div></article><article class="item" data-search="金十图示：2026 年 11 月 02 日（周一）华尔街恐惧与贪婪指数（美盘初）
+👍1"><div class="time">23:28</div><div class="content"><div class="text" data-full="金十图示：2026 年 11 月 02 日（周一）华尔街恐惧与贪婪指数（美盘初）
+👍1" data-short="金十图示：2026 年 11 月 02 日（周一）华尔街恐惧与贪婪指数（美盘初）
+👍1">金十图示：2026 年 11 月 02 日（周一）华尔街恐惧与贪婪指数（美盘初）
+👍1</div></div></article><article class="item" data-search="布伦特原油跌 6%，现报 104.99 美元/桶。
+👍1"><div class="time">23:26</div><div class="content"><div class="text" data-full="布伦特原油跌 6%，现报 104.99 美元/桶。
+👍1" data-short="布伦特原油跌 6%，现报 104.99 美元/桶。
+👍1">布伦特原油跌 6%，现报 104.99 美元/桶。
+👍1</div></div></article><article class="item" data-search="法国央行行长穆兰：当前形势无法与 2022 年的通胀相提并论。当前宏观经济形势与 2022 年截然不同。
+👍1"><div class="time">23:26</div><div class="content"><div class="text" data-full="法国央行行长穆兰：当前形势无法与 2022 年的通胀相提并论。当前宏观经济形势与 2022 年截然不同。
+👍1" data-short="法国央行行长穆兰：当前形势无法与 2022 年的通胀相提并论。当前宏观经济形势与 2022 年截然不同。
+👍1">法国央行行长穆兰：当前形势无法与 2022 年的通胀相提并论。当前宏观经济形势与 2022 年截然不同。
+👍1</div></div></article><article class="item" data-search="欧洲央行管委穆兰：宏观经济形势与 2022 年截然不同。
+👍1"><div class="time">23:26</div><div class="content"><div class="text" data-full="欧洲央行管委穆兰：宏观经济形势与 2022 年截然不同。
+👍1" data-short="欧洲央行管委穆兰：宏观经济形势与 2022 年截然不同。
+👍1">欧洲央行管委穆兰：宏观经济形势与 2022 年截然不同。
+👍1</div></div></article><article class="item" data-search="纳斯达克金龙中国指数涨幅扩大至 3.2%，中概股小鹏涨 8%，小米 adr 涨 6.2%，联想 adr 涨 5.9%，阿里涨 5.8%，拼多多涨 5.1%，日月光半导体涨 4.7%，腾讯 adr 涨 3.3%，比亚迪 adr 涨 3.2%，百度涨 3.1%，京东、美团 adr、新东方至少涨超 2.8%，网易涨 1.9%。
 etf 中，kweb 涨 3.9%，cqqq 涨 3.3%。
 富时 a50 夜期涨 0.45%。
 👍1"><div class="time">23:26</div><div class="content"><div class="text" data-full="纳斯达克金龙中国指数涨幅扩大至 3.2%，中概股小鹏涨 8%，小米 ADR 涨 6.2%，联想 ADR 涨 5.9%，阿里涨 5.8%，拼多多涨 5.1%，日月光半导体涨 4.7%，腾讯 ADR 涨 3.3%，比亚迪 ADR 涨 3.2%，百度涨 3.1%，京东、美团 ADR、新东方至少涨超 2.8%，网易涨 1.9%。
@@ -19,15 +57,47 @@ ETF 中，KWEB 涨 3.9%，CQQQ 涨 3.3%。
 富时 A50 夜期涨 0.45%。
 👍1" data-short="纳斯达克金龙中国指数涨幅扩大至 3.2%，中概股小鹏涨 8%，小米 ADR 涨 6.2%，联想 ADR 涨 5.9%，阿里涨 5.8%，拼多多涨 5.1%，日月光半导体涨 4.7%，腾讯 ADR 涨 3.3%，比亚迪 ADR 涨 3.2%，百度涨 3.1%，京东、美团 ADR、新东方至少涨超 2.8%，网易涨 1.9%。
 ETF 中，KWEB 涨 3.9%，...">纳斯达克金龙中国指数涨幅扩大至 3.2%，中概股小鹏涨 8%，小米 ADR 涨 6.2%，联想 ADR 涨 5.9%，阿里涨 5.8%，拼多多涨 5.1%，日月光半导体涨 4.7%，腾讯 ADR 涨 3.3%，比亚迪 ADR 涨 3.2%，百度涨 3.1%，京东、美团 ADR、新东方至少涨超 2.8%，网易涨 1.9%。
-ETF 中，KWEB 涨 3.9%，...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="罗素 2000 指数上涨 1.1%。"><div class="time">23:25</div><div class="content"><div class="text" data-full="罗素 2000 指数上涨 1.1%。" data-short="罗素 2000 指数上涨 1.1%。">罗素 2000 指数上涨 1.1%。</div></div></article><article class="item" data-search="法国央行行长穆兰：当前通胀率远高于我们 2%的目标。"><div class="time">23:24</div><div class="content"><div class="text" data-full="法国央行行长穆兰：当前通胀率远高于我们 2%的目标。" data-short="法国央行行长穆兰：当前通胀率远高于我们 2%的目标。">法国央行行长穆兰：当前通胀率远高于我们 2%的目标。</div></div></article><article class="item" data-search="美国三大股指涨超 1%，半导体指数涨 1.3%，罗素 2000 指数涨 0.8%。vix 波动率日内跌幅达 7.0%，报 18.03。"><div class="time">23:24</div><div class="content"><div class="text" data-full="美国三大股指涨超 1%，半导体指数涨 1.3%，罗素 2000 指数涨 0.8%。VIX 波动率日内跌幅达 7.0%，报 18.03。" data-short="美国三大股指涨超 1%，半导体指数涨 1.3%，罗素 2000 指数涨 0.8%。VIX 波动率日内跌幅达 7.0%，报 18.03。">美国三大股指涨超 1%，半导体指数涨 1.3%，罗素 2000 指数涨 0.8%。VIX 波动率日内跌幅达 7.0%，报 18.03。</div></div></article><article class="item" data-search="哈萨克斯坦：阿特劳 — 萨马拉原油管道因无人机袭击暂停输油。"><div class="time">23:24</div><div class="content"><div class="text" data-full="哈萨克斯坦：阿特劳 — 萨马拉原油管道因无人机袭击暂停输油。" data-short="哈萨克斯坦：阿特劳 — 萨马拉原油管道因无人机袭击暂停输油。">哈萨克斯坦：阿特劳 — 萨马拉原油管道因无人机袭击暂停输油。</div></div></article><article class="item" data-search="法国央行行长穆兰：目前对整体经济的影响相当温和。"><div class="time">23:23</div><div class="content"><div class="text" data-full="法国央行行长穆兰：目前对整体经济的影响相当温和。" data-short="法国央行行长穆兰：目前对整体经济的影响相当温和。">法国央行行长穆兰：目前对整体经济的影响相当温和。</div></div></article><article class="item" data-search="欧洲央行管委 escriva：石油和天然气价格冲击超过预期。
-还没有看到关于第二轮效应的迹象。"><div class="time">23:23</div><div class="content"><div class="text" data-full="欧洲央行管委 Escriva：石油和天然气价格冲击超过预期。
-还没有看到关于第二轮效应的迹象。" data-short="欧洲央行管委 Escriva：石油和天然气价格冲击超过预期。
-还没有看到关于第二轮效应的迹象。">欧洲央行管委 Escriva：石油和天然气价格冲击超过预期。
-还没有看到关于第二轮效应的迹象。</div></div></article><article class="item" data-search="美股三大指数均涨超 1%
-道指涨 1.20%，现报 52389.109 点；纳指涨 1.27%，现报 25760.952 点；标普 500 指数涨 1.01%，现报 7656.420 点。"><div class="time">23:23</div><div class="content"><div class="text" data-full="美股三大指数均涨超 1%
-道指涨 1.20%，现报 52389.109 点；纳指涨 1.27%，现报 25760.952 点；标普 500 指数涨 1.01%，现报 7656.420 点。" data-short="美股三大指数均涨超 1%
-道指涨 1.20%，现报 52389.109 点；纳指涨 1.27%，现报 25760.952 点；标普 500 指数涨 1.01%，现报 7656.420 点。">美股三大指数均涨超 1%
-道指涨 1.20%，现报 52389.109 点；纳指涨 1.27%，现报 25760.952 点；标普 500 指数涨 1.01%，现报 7656.420 点。</div></div></article><article class="item" data-search="莱茵金属股价走低，目前下跌 4.5%，有望创下 7 月以来最差单日表现。"><div class="time">23:23</div><div class="content"><div class="text" data-full="莱茵金属股价走低，目前下跌 4.5%，有望创下 7 月以来最差单日表现。" data-short="莱茵金属股价走低，目前下跌 4.5%，有望创下 7 月以来最差单日表现。">莱茵金属股价走低，目前下跌 4.5%，有望创下 7 月以来最差单日表现。</div></div></article><article class="item" data-search="美股三大股指均涨超 1%，亚马逊(amzn.o)涨 5%；纳斯达克中国金龙指数现涨 3.77%，小鹏汽车(xpev.n)涨超 8%。
+ETF 中，KWEB 涨 3.9%，...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="罗素 2000 指数上涨 1.1%。
+👍1"><div class="time">23:25</div><div class="content"><div class="text" data-full="罗素 2000 指数上涨 1.1%。
+👍1" data-short="罗素 2000 指数上涨 1.1%。
+👍1">罗素 2000 指数上涨 1.1%。
+👍1</div></div></article><article class="item" data-search="法国央行行长穆兰：当前通胀率远高于我们 2%的目标。
+👍1"><div class="time">23:24</div><div class="content"><div class="text" data-full="法国央行行长穆兰：当前通胀率远高于我们 2%的目标。
+👍1" data-short="法国央行行长穆兰：当前通胀率远高于我们 2%的目标。
+👍1">法国央行行长穆兰：当前通胀率远高于我们 2%的目标。
+👍1</div></div></article><article class="item" data-search="美国三大股指涨超 1%，半导体指数涨 1.3%，罗素 2000 指数涨 0.8%。vix 波动率日内跌幅达 7.0%，报 18.03。
+👍1"><div class="time">23:24</div><div class="content"><div class="text" data-full="美国三大股指涨超 1%，半导体指数涨 1.3%，罗素 2000 指数涨 0.8%。VIX 波动率日内跌幅达 7.0%，报 18.03。
+👍1" data-short="美国三大股指涨超 1%，半导体指数涨 1.3%，罗素 2000 指数涨 0.8%。VIX 波动率日内跌幅达 7.0%，报 18.03。
+👍1">美国三大股指涨超 1%，半导体指数涨 1.3%，罗素 2000 指数涨 0.8%。VIX 波动率日内跌幅达 7.0%，报 18.03。
+👍1</div></div></article><article class="item" data-search="哈萨克斯坦：阿特劳 — 萨马拉原油管道因无人机袭击暂停输油。
+👍1"><div class="time">23:24</div><div class="content"><div class="text" data-full="哈萨克斯坦：阿特劳 — 萨马拉原油管道因无人机袭击暂停输油。
+👍1" data-short="哈萨克斯坦：阿特劳 — 萨马拉原油管道因无人机袭击暂停输油。
+👍1">哈萨克斯坦：阿特劳 — 萨马拉原油管道因无人机袭击暂停输油。
+👍1</div></div></article><article class="item" data-search="法国央行行长穆兰：目前对整体经济的影响相当温和。
+👍1"><div class="time">23:23</div><div class="content"><div class="text" data-full="法国央行行长穆兰：目前对整体经济的影响相当温和。
+👍1" data-short="法国央行行长穆兰：目前对整体经济的影响相当温和。
+👍1">法国央行行长穆兰：目前对整体经济的影响相当温和。
+👍1</div></div></article><article class="item" data-search="欧洲央行管委 escriva：石油和天然气价格冲击超过预期。
+还没有看到关于第二轮效应的迹象。
+👍1"><div class="time">23:23</div><div class="content"><div class="text" data-full="欧洲央行管委 Escriva：石油和天然气价格冲击超过预期。
+还没有看到关于第二轮效应的迹象。
+👍1" data-short="欧洲央行管委 Escriva：石油和天然气价格冲击超过预期。
+还没有看到关于第二轮效应的迹象。
+👍1">欧洲央行管委 Escriva：石油和天然气价格冲击超过预期。
+还没有看到关于第二轮效应的迹象。
+👍1</div></div></article><article class="item" data-search="美股三大指数均涨超 1%
+道指涨 1.20%，现报 52389.109 点；纳指涨 1.27%，现报 25760.952 点；标普 500 指数涨 1.01%，现报 7656.420 点。
+👍1"><div class="time">23:23</div><div class="content"><div class="text" data-full="美股三大指数均涨超 1%
+道指涨 1.20%，现报 52389.109 点；纳指涨 1.27%，现报 25760.952 点；标普 500 指数涨 1.01%，现报 7656.420 点。
+👍1" data-short="美股三大指数均涨超 1%
+道指涨 1.20%，现报 52389.109 点；纳指涨 1.27%，现报 25760.952 点；标普 500 指数涨 1.01%，现报 7656.420 点。
+👍1">美股三大指数均涨超 1%
+道指涨 1.20%，现报 52389.109 点；纳指涨 1.27%，现报 25760.952 点；标普 500 指数涨 1.01%，现报 7656.420 点。
+👍1</div></div></article><article class="item" data-search="莱茵金属股价走低，目前下跌 4.5%，有望创下 7 月以来最差单日表现。
+👍1"><div class="time">23:23</div><div class="content"><div class="text" data-full="莱茵金属股价走低，目前下跌 4.5%，有望创下 7 月以来最差单日表现。
+👍1" data-short="莱茵金属股价走低，目前下跌 4.5%，有望创下 7 月以来最差单日表现。
+👍1">莱茵金属股价走低，目前下跌 4.5%，有望创下 7 月以来最差单日表现。
+👍1</div></div></article><article class="item" data-search="美股三大股指均涨超 1%，亚马逊(amzn.o)涨 5%；纳斯达克中国金龙指数现涨 3.77%，小鹏汽车(xpev.n)涨超 8%。
 👍1"><div class="time">23:23</div><div class="content"><div class="text" data-full="美股三大股指均涨超 1%，亚马逊(AMZN.O)涨 5%；纳斯达克中国金龙指数现涨 3.77%，小鹏汽车(XPEV.N)涨超 8%。
 👍1" data-short="美股三大股指均涨超 1%，亚马逊(AMZN.O)涨 5%；纳斯达克中国金龙指数现涨 3.77%，小鹏汽车(XPEV.N)涨超 8%。
 👍1">美股三大股指均涨超 1%，亚马逊(AMZN.O)涨 5%；纳斯达克中国金龙指数现涨 3.77%，小鹏汽车(XPEV.N)涨超 8%。
@@ -689,7 +759,15 @@ OpenAI 承诺，在美国由其直接投建的数据中心园区，当极端天�
 金十数据 11 月 2 日讯，东山精密在业绩说明会表示，公司今年已有小批量光芯片外售，为优先保障自用，尚未大规模对外销售。光芯片大规模外售取决于柜内互联等下一代技术普及进度，预计后续需求逐步起量。公司已完成光芯片产能建设准备，计划自未来特定时点起并行开展光模块、光芯片对外销售。公司今年三季度 1.6t 产品主要做客户测试验证，四季度起进入相对批量出货。dsp 近几个季度仍存在交付压力，预计后续晶圆产能释放后将明显改善，不会影响明年交付。目前 dsp 实行按份额分配供货。公司处于客户快速拓展的增量阶段，具备一定相对优势。"><div class="time">21:44</div><div class="content"><div class="text" data-full="东山精密：1.6T 产品四季度起进入相对批量出货
 金十数据 11 月 2 日讯，东山精密在业绩说明会表示，公司今年已有小批量光芯片外售，为优先保障自用，尚未大规模对外销售。光芯片大规模外售取决于柜内互联等下一代技术普及进度，预计后续需求逐步起量。公司已完成光芯片产能建设准备，计划自未来特定时点起并行开展光模块、光芯片对外销售。公司今年三季度 1.6T 产品主要做客户测试验证，四季度起进入相对批量出货。DSP 近几个季度仍存在交付压力，预计后续晶圆产能释放后将明显改善，不会影响明年交付。目前 DSP 实行按份额分配供货。公司处于客户快速拓展的增量阶段，具备一定相对优势。" data-short="东山精密：1.6T 产品四季度起进入相对批量出货
 金十数据 11 月 2 日讯，东山精密在业绩说明会表示，公司今年已有小批量光芯片外售，为优先保障自用，尚未大规模对外销售。光芯片大规模外售取决于柜内互联等下一代技术普及进度，预计后续需求逐步起量。公司已完成光芯片产能建设准备，计划自未来特定时点起并行开展光模块、光芯片对外销售。公司今年三季度 1.6T 产品主...">东山精密：1.6T 产品四季度起进入相对批量出货
-金十数据 11 月 2 日讯，东山精密在业绩说明会表示，公司今年已有小批量光芯片外售，为优先保障自用，尚未大规模对外销售。光芯片大规模外售取决于柜内互联等下一代技术普及进度，预计后续需求逐步起量。公司已完成光芯片产能建设准备，计划自未来特定时点起并行开展光模块、光芯片对外销售。公司今年三季度 1.6T 产品主...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="乙二醇连续主力合约日内跌 4%，现报 5162.00 元。"><div class="time">21:44</div><div class="content"><div class="text" data-full="乙二醇连续主力合约日内跌 4%，现报 5162.00 元。" data-short="乙二醇连续主力合约日内跌 4%，现报 5162.00 元。">乙二醇连续主力合约日内跌 4%，现报 5162.00 元。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月2日 · VIP</h2> <div class="feed"> <article class="item" data-search="【风口研报·洞察】草铵膦提价节奏明显加快,相较年初涨幅接近60%,当前行业库存水平持续下降，中小产能逐步退出，叠加年底北美进口旺季，四季度盈利修复值得期待；历次超跌反弹是如何展开的
+金十数据 11 月 2 日讯，东山精密在业绩说明会表示，公司今年已有小批量光芯片外售，为优先保障自用，尚未大规模对外销售。光芯片大规模外售取决于柜内互联等下一代技术普及进度，预计后续需求逐步起量。公司已完成光芯片产能建设准备，计划自未来特定时点起并行开展光模块、光芯片对外销售。公司今年三季度 1.6T 产品主...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="乙二醇连续主力合约日内跌 4%，现报 5162.00 元。"><div class="time">21:44</div><div class="content"><div class="text" data-full="乙二醇连续主力合约日内跌 4%，现报 5162.00 元。" data-short="乙二醇连续主力合约日内跌 4%，现报 5162.00 元。">乙二醇连续主力合约日内跌 4%，现报 5162.00 元。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月2日 · VIP</h2> <div class="feed"> <article class="item" data-search="【公告全知道】光模块+光芯片+pcb+光纤+人形机器人！公司光模块产品覆盖10g至1.6t全速率
+
+#春秋电子
+#东山精密
+#源杰科技"> <div class="time">23:34</div> <div class="content"> <div class="text">【公告全知道】光模块+光芯片+PCB+光纤+人形机器人！公司光模块产品覆盖10G至1.6T全速率
+
+#春秋电子
+#东山精密
+#源杰科技</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【风口研报·洞察】草铵膦提价节奏明显加快,相较年初涨幅接近60%,当前行业库存水平持续下降，中小产能逐步退出，叠加年底北美进口旺季，四季度盈利修复值得期待；历次超跌反弹是如何展开的
 
 #泰禾股份
 #广信股份
@@ -837,11 +915,7 @@ OpenAI 承诺，在美国由其直接投建的数据中心园区，当极端天�
 
 链接: https://pan.baidu.com/s/1syb9fa0w6tpdvd9jct-6xg?pwd=zs6b 提取码: zs6b 复制这段内容后打开百度网盘手机app，操作更方便哦 --来自百度网盘超级会员v7的分享"> <div class="time">09:17</div> <div class="content"> <div class="text">游资大V复盘文章汇总20261101
 
-链接: https://pan.baidu.com/s/1SYb9fA0W6Tpdvd9jCt-6xg?pwd=zs6b 提取码: zs6b 复制这段内容后打开百度网盘手机App，操作更方便哦 --来自百度网盘超级会员v7的分享</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="红宝书2026-11-01.pdf 
-
-链接: https://pan.baidu.com/s/1tvzkpucisrsnj6luwr00va?pwd=5ttj 提取码: 5ttj --来自百度网盘超级会员v7的分享"> <div class="time">09:16</div> <div class="content"> <div class="text">红宝书2026-11-01.pdf 
-
-链接: https://pan.baidu.com/s/1tVZKPUCISrsnj6LuWR00VA?pwd=5ttj 提取码: 5ttj --来自百度网盘超级会员v7的分享</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">11月1日 · VIP</h2> <div class="feed"> <article class="item" data-search="游资大v复盘文章汇总20261101
+链接: https://pan.baidu.com/s/1SYb9fA0W6Tpdvd9jCt-6xg?pwd=zs6b 提取码: zs6b 复制这段内容后打开百度网盘手机App，操作更方便哦 --来自百度网盘超级会员v7的分享</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section><section class="date-group"> <h2 class="date-title">11月1日 · VIP</h2> <div class="feed"> <article class="item" data-search="游资大v复盘文章汇总20261101
 
 链接: https://pan.baidu.com/s/1syb9fa0w6tpdvd9jct-6xg?pwd=zs6b 提取码: zs6b 复制这段内容后打开百度网盘手机app，操作更方便哦 --来自百度网盘超级会员v7的分享"> <div class="time">22:47</div> <div class="content"> <div class="text">游资大V复盘文章汇总20261101
 
