@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3596041",
+    "datetime": "2026-11-03T19:29:19+00:00",
+    "views": "10",
+    "text": "OpenAI：吉尔·黑泽尔巴克于 11 月 3 日出任 OpenAI 首席企业事务官。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3596041"
+  },
+  {
+    "post": "Financial_Express/3596040",
+    "datetime": "2026-11-03T19:29:02+00:00",
+    "views": "11",
+    "text": "波兰总理图斯克：就最高法院达成协议将很困难，已提出本周就最高法院问题与纳夫罗茨基总统会面。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3596040"
+  },
+  {
+    "post": "Financial_Express/3596039",
+    "datetime": "2026-11-03T19:28:02+00:00",
+    "views": "18",
+    "text": "OpenAI：吉尔·黑泽尔巴克于 2026 年 11 月 3 日出任 OpenAI 首席企业事务官。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3596039"
+  },
+  {
     "post": "Financial_Express/3596038",
     "datetime": "2026-11-03T19:25:42+00:00",
-    "views": "14",
+    "views": "54",
     "text": "印度 Jio 与南非 MTN 因估值分歧终止谈判。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3596037",
     "datetime": "2026-11-03T19:22:02+00:00",
-    "views": "58",
+    "views": "62",
     "text": "报道：OpenAI 内部代码访问权限过宽 多项安全风险长期未解决\n金十数据 11 月 4 日讯，据外媒援引五名知情人士报道，OpenAI 员工早在 ChatGPT 推出前就曾向管理层及董事会警告，公司代码和研究资料访问权限过宽，可能导致敏感技术外泄，部分员工认为管理层更重视追赶谷歌和 Anthropic，而非安全建设。内部风险包括代码库权限过宽、研究资料广泛存放于 GitHub 和 Slack，以及测试工具缺乏定期安全审查。OpenAI 已加强安全建设，今年 8 月将四分之一生产工程师调配至安全基础设施项目。OpenAI 回应称，已加强敏感资料访问限制及内部安全审查，并将启动新一轮安全专项行动。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3596036",
     "datetime": "2026-11-03T19:21:43+00:00",
-    "views": "58",
+    "views": "62",
     "text": "埃及外交部：埃及外长向伊朗外长强调，有必要继续保持克制，并加大努力和沟通，以防止地区军事升级。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3596035",
     "datetime": "2026-11-03T19:21:42+00:00",
-    "views": "59",
+    "views": "63",
     "text": "埃及外交部：埃及外长向伊朗外长强调，必须继续保持克制，加大努力和沟通，防止地区军事升级。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3596034",
     "datetime": "2026-11-03T19:20:54+00:00",
-    "views": "64",
+    "views": "67",
     "text": "“当由大型语言模型（LLM）驱动的聊天机器人从新闻出版商的网站检索一篇文章，重复使用该文章来生成答案，并将该答案提供给用户时，在某些情况下，新闻出版商的权利可能会受到侵犯，”卢森堡总检察官什普纳尔（Maciej Szpunar）表示 。\n他指出，当聊天机器人通过非法绕过付费墙或其他技术障碍访问出版物，或者以“可识别的方式”重复使用“该出版物的表达形式”时，Gemini 的回答就属于侵犯出版商复制权的行为。版权规则并不保护新闻出版物所报道的“单纯事实”，而“仅保护具体的表达形式”。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3596033",
     "datetime": "2026-11-03T19:20:02+00:00",
-    "views": "62",
+    "views": "64",
     "text": "埃及外交部：埃及部长向伊朗外长表示，各方都需展现必要灵活性，努力推动地区危机实现政治解决。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3596032",
     "datetime": "2026-11-03T19:19:58+00:00",
-    "views": "62",
+    "views": "64",
     "text": "谷歌发言人：欧洲法律中的文本和数据挖掘例外条款对欧洲的竞争力和人工智能发展至关重要，我们认可总检察官的意见，即欧盟法律允许利用公开信息进行人工智能训练。\nGemini 通过学习语言模式来生成原创内容，而非复制现有内容，同时辅以全面的出版商管控措施，这些措施赋予权利人明确的选择权和退出权.",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3596031",
     "datetime": "2026-11-03T19:19:42+00:00",
-    "views": "61",
+    "views": "63",
     "text": "埃及外交部声明：埃及外长向伊朗外长表示，各方都需要展现必要的灵活性，并努力推动地区危机的政治解决。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3596030",
     "datetime": "2026-11-03T19:18:19+00:00",
-    "views": "69",
+    "views": "71",
     "text": "11 月 3 日，谷歌遭遇了一次挫折：欧盟最高法院的一位顾问表示，其 Gemini 聊天机器人使用出版商的文章来回答互联网用户的查询，可能违反了版权规定。此案凸显了出版商与大型在线平台之间日益加剧的紧张关系——平台的人工智能（AI）聊天机器人使用新闻报道，而出版商认为未获得应有的补偿。这种紧张局势已引发向欧盟及各国反垄断监管机构提交的投诉。这起提交至设在卢森堡的欧盟法院的案件，将匈牙利网站运营商 Like Company 与总部位于美国的谷歌旗下公司的人工智能聊天机器人 Gemini 对簿公堂。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3596029",
     "datetime": "2026-11-03T19:15:02+00:00",
-    "views": "78",
+    "views": "109",
     "text": "美媒：特朗普政府与委内瑞拉谈判 为美军长期驻留铺路\n金十数据 11 月 4 日讯，据纽约时报报道，美国政府官员称，美国正与委内瑞拉谈判签署《驻军地位协定》（SOFA），为美军长期驻留建立法律框架，谈判由国务卿鲁比奥主导，具体驻军规模和地点尚待后续协议确定。美国国务院称，协议旨在为军事合作、训练、演习及人道主义援助提供法律保障。美国希望扩大与委内瑞拉的安全合作，但目前尚未讨论建立军事基地。相关谈判面临委内瑞拉国内反美势力及政治反对声音，同时美委也在讨论政治和解、未来选举及释放政治犯等问题。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3596028",
     "datetime": "2026-11-03T19:12:58+00:00",
-    "views": "112",
+    "views": "113",
     "text": "美元兑日元涨 0.5%，报 158.73。",
     "media_only": false,
     "image_url": null,
@@ -61954,14 +61981,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3589082"
-  },
-  {
-    "post": "Financial_Express/3589081",
-    "datetime": "2026-11-01T19:29:42+00:00",
-    "views": "136",
-    "text": "出口民调：保现总统约托娃在总统选举二轮投票中领先\n保加利亚国家电视台 1 日公布的出口民调显示，现任总统约托娃在当天举行的总统选举第二轮投票中领先。 据阿尔法研究机构出口民调，约托娃获得 52.5%的选票，前看守政府总理安德烈·古罗夫获得 43.4%，另有 4.1%的选民选择“不支持任何候选人”。 米亚拉社会学机构出口民调显示，约托娃得票率为 51.1%，古罗夫为 44.6%，“不支持任何候选人”选项为 4.3%。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3589081"
   }
 ]
