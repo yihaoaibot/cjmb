@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3599399",
+    "datetime": "2026-11-04T14:00:03+00:00",
+    "views": "1",
+    "text": "IPO 要暂停了？一线求证：并非“一刀切”\n近日，有关监管对投行进行“非正式”窗口指导、暂停 IPO 的传闻持续发酵，引发市场高度关注。结合此次传闻求证与分析，IPO 暂停并非“一刀切”，更多或是放慢及收紧，也可视作是结合当前市场形势做出的一次一二级市场调节。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3599399"
+  },
+  {
+    "post": "Financial_Express/3599398",
+    "datetime": "2026-11-04T13:59:42+00:00",
+    "views": "1",
+    "text": "11 月 3 日美国有效联邦基金利率为 3.88%，成交规模 1130 亿美元；11 月 2 日为 3.88%，成交规模 1080 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3599398"
+  },
+  {
+    "post": "Financial_Express/3599397",
+    "datetime": "2026-11-04T13:59:36+00:00",
+    "views": "1",
+    "text": "WTI 原油日内跌幅达 3%，报 93.21 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3599397"
+  },
+  {
+    "post": "Financial_Express/3599396",
+    "datetime": "2026-11-04T13:59:02+00:00",
+    "views": "31",
+    "text": "道指期货涨幅扩大至 2%，标普 500 指数期货涨 1.2%，纳斯达克 100 指数期货涨 0.4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3599396"
+  },
+  {
+    "post": "Financial_Express/3599394",
+    "datetime": "2026-11-04T13:58:42+00:00",
+    "views": "1",
+    "text": "WTI 原油日内跌 3%，现报 93.21 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3599394"
+  },
+  {
+    "post": "Financial_Express/3599395",
+    "datetime": "2026-11-04T13:58:42+00:00",
+    "views": "31",
+    "text": "Pliant 获 8000 万美元 C 轮融资，由 Seaya Nova 与 Speedinvest 领投。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3599395"
+  },
+  {
+    "post": "Financial_Express/3599393",
+    "datetime": "2026-11-04T13:58:22+00:00",
+    "views": "1",
+    "text": "美股中期选举后走势存分歧 国会控制权成关键变量\n自 20 世纪 50 年代初以来，当共和党总统执政、民主党同时控制国会两院时，股市表现属于较弱的情形之一，标普 500 指数年均涨幅仅为 4.9%。相比之下，共和党总统执政、国会由两党分控时，市场表现通常更好，标普 500 指数年均上涨 14%。Carson 的数据还显示，在四年总统任期周期中，中期选举年份历来是市场波动最大的年份，平均最大回撤接近 18%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3599393"
+  },
+  {
     "post": "Financial_Express/3599392",
     "datetime": "2026-11-04T13:58:02+00:00",
-    "views": "1",
+    "views": "31",
     "text": "微软盘前涨 3.04%，现报 536.85 美元\n微软盘前涨 3.04%，现报 536.85 美元。消息面上，Anthropic 承诺至 2033 年 6 月向微软采购至少 449 亿美元，叠加 Azure 固定汇率同比增 48%及大摩列为软件首选看好企业 AI 需求。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3599391",
     "datetime": "2026-11-04T13:57:22+00:00",
-    "views": "1",
+    "views": "32",
     "text": "瑞银将可口可乐欧洲太平洋合伙公司的目标价从 107 美元上调至 115 美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3599390",
     "datetime": "2026-11-04T13:56:43+00:00",
-    "views": "2",
+    "views": "32",
     "text": "LME 伦镍日内涨超 3.00%，现报 15810.000 美元/吨。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3599388",
     "datetime": "2026-11-04T13:56:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "汇丰将沙特阿美 2026 年第四季度原油产量预测从先前的 630 万桶/日上调至 830 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3599389",
     "datetime": "2026-11-04T13:56:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "波兰央行维持主要利率在 3.75%不变，符合预期。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3599387",
     "datetime": "2026-11-04T13:56:23+00:00",
-    "views": "1",
+    "views": "32",
     "text": "胡塞武装发言人：今日在沙特阿拉伯吉赞和奈季兰取得三次成功行动。敌方雷达在吉赞北部被自杀式无人机摧毁。奈季兰一处军事基地遭导弹袭击。吉赞边境团指挥楼和控制中心遭导弹击中。这些行动造成多名沙特士兵和军官伤亡。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3599386",
     "datetime": "2026-11-04T13:56:18+00:00",
-    "views": "1",
+    "views": "32",
     "text": "欧股涨幅扩大，德国 DAX 指数涨 2%，欧洲斯托克 50 指数、法国 CAC 40 指数涨超 2%，英国富时 100 指数涨近 2%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3599384",
     "datetime": "2026-11-04T13:54:22+00:00",
-    "views": "31",
+    "views": "32",
     "text": "黑龙江发布寒潮预报和冰冻天气预警\n11 月 4 日，黑龙江省气象台先后发布寒潮预报和冰冻天气预警，提醒相关地区和单位做好防风防寒工作。4 日 16 时，黑龙江省气象台发布寒潮预报，预计 5 日至 6 日，伊春南部、绥化、大庆、哈尔滨、七台河、鸡西、牡丹江等地最低气温自西向东下降 8 至 10 摄氏度，局地 10 至 12 摄氏度，其他大部地区下降 4 至 8 摄氏度。另外，4 日夜间至 5 日黑龙江中南部大部地区有 6 至 7 级阵风。6 日黑龙江大部平均风力 5 至 6 级，阵风 7 至 9 级。4 日 11 时 40 分，黑龙江省气象台发布冰冻天气预警，预计 4 日傍晚至 5 日上午伊春南部、绥化北部、哈尔滨东北部、佳木斯西部、双鸭山东部、七台河、鸡西东部先后出现冻雨、冰粒或雨夹雪，将出现较重的道路结冰、管线积冰等现象。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -66193,23 +66256,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3591875"
-  },
-  {
-    "post": "Financial_Express/3591874",
-    "datetime": "2026-11-02T14:00:22+00:00",
-    "views": "82",
-    "text": "卡特彼勒收购 Fabick CAT 经销商。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3591874"
-  },
-  {
-    "post": "Financial_Express/3591873",
-    "datetime": "2026-11-02T13:59:22+00:00",
-    "views": "82",
-    "text": "乌拉尔原油油轮追踪：10 月石油流量稳定在每日 223 万桶。上个月，俄罗斯三大西部港口的原油装船量观察值与 9 月相比变化不大，原因是普里莫尔斯克出口下降被黑海出口增加所抵消。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3591873"
   }
 ]
