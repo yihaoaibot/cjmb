@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3601013",
+    "datetime": "2026-11-05T03:46:22+00:00",
+    "views": "1",
+    "text": "美国 ITC 发布对荧光鱼线系统和安全头盔系统及其组件的 337 部分终裁\n据中国贸易救济信息网消息，2026 年 11 月 4 日，美国国际贸易委员会（ITC）发布公告称，对特定荧光鱼线系统和安全头盔系统及其组件作出 337 部分终裁：经过复审，确认该案存在侵权美国注册专利号 12,187,573 的行为，发布有限排除令和禁止令，对总统审查期间进口的侵权产品征收 100%保证金，该案调查终止。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3601013"
+  },
+  {
     "post": "Financial_Express/3601011",
     "datetime": "2026-11-05T03:44:23+00:00",
-    "views": "3",
+    "views": "33",
     "text": "印度 NIFTY IT 指数盘前交易上涨 1.65%，印度 NIFTY 汽车指数盘前交易上涨 1.75%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3601012",
     "datetime": "2026-11-05T03:44:23+00:00",
-    "views": "3",
+    "views": "33",
     "text": "印度石油营销公司股票在盘前交易中普遍上涨 2.9%至 5%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +65,7 @@
   {
     "post": "Financial_Express/3601006",
     "datetime": "2026-11-05T03:40:04+00:00",
-    "views": "50",
+    "views": "80",
     "text": "韩国国防部当地时间 5 日表示，将扩大在亚丁湾执行护航任务的清海部队的行动范围，至阿曼南部，进一步靠近霍尔木兹海峡，同时增派海上巡逻机、爆炸物处理小组及无人扫雷等装备。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3601005",
     "datetime": "2026-11-05T03:40:02+00:00",
-    "views": "50",
+    "views": "80",
     "text": "全市场首批！创业板电池 ETF 永赢（158081）今日重磅上市\n今日，永赢基金旗下创业板电池 ETF 永赢（158081）在深交所上市。公开资料显示，该产品跟踪创业板电池指数，是全市场首批聚焦创业板电池核心资产的 ETF，具备 20cm 涨跌幅弹性，“储能+固态电池”双轮驱动，为投资者提供高弹性的电池产业配置工具。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3600999",
     "datetime": "2026-11-05T03:36:42+00:00",
-    "views": "51",
+    "views": "81",
     "text": "奥迪创新技术中心总经理冯思远：AUDI 没有出口海外计划\n11 月 5 日，在奥迪创新技术中心开业仪式上，奥迪创新技术中心总经理冯思远接受采访时表示，AUDI 品牌车型目前没有出口海外的计划，现阶段目标是将通过一系列产品，进一步开拓中国市场。（界面新闻）",
     "media_only": false,
     "image_url": null,
@@ -128,7 +137,7 @@
   {
     "post": "Financial_Express/3600998",
     "datetime": "2026-11-05T03:36:02+00:00",
-    "views": "51",
+    "views": "81",
     "text": "日本 10 年期国债拍卖投标倍数为 3.21，低于 12 个月平均值 3.24。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3600997",
     "datetime": "2026-11-05T03:35:23+00:00",
-    "views": "51",
+    "views": "81",
     "text": "美国对华木制栅栏组件发起反倾销反补贴调查\n美东时间 2026 年 11 月 4 日，美国商务部宣布对进口自中国的木制栅栏组件（certain wooden fence components）发起反倾销和反补贴调查。本案主要涉及美国海关编码 4404.10.0040、4407.19.0092、 4421.99.7020、4421.99.7040 项下产品。税号仅供参考，具体以产品描述为准。案件利害相关方可登录美国商务部网站（https://access.trade.gov），以获得案件相关信息并参与相关调查程序。企业如有应诉意愿，请通过地方商务主管部门告知商务部贸易救济调查局（电话：010-65198425）。（中国贸易救济信息网）",
     "media_only": false,
     "image_url": null,
@@ -66616,23 +66625,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3593431"
-  },
-  {
-    "post": "Financial_Express/3593430",
-    "datetime": "2026-11-03T03:48:02+00:00",
-    "views": "59",
-    "text": "商汤发布日日新 SenseNova 6.8 Flash 正式版，支持动态 PPT 及 3D 设计\n金十数据 11 月 3 日讯，11 月 3 日，商汤发布日日新 SenseNova 6.8 Flash 正式版，重点升级办公协作与设计生成能力。新版本支持长期记忆、跨会话任务协作，设计能力覆盖动态 PPT、动态海报、网页、SVG 及 Blender 3D 创作，并可接入 Figma 等专业设计工作流。目前模型已开放在线体验，并同步上线 SenseNova Token Plan。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3593430"
-  },
-  {
-    "post": "Financial_Express/3593429",
-    "datetime": "2026-11-03T03:47:42+00:00",
-    "views": "56",
-    "text": "政府官员：尼泊尔珠穆朗玛峰地区两架直升机相撞，一名外籍人士遇难。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3593429"
   }
 ]
