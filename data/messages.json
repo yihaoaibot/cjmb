@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3603816",
+    "datetime": "2026-11-05T17:59:28+00:00",
+    "views": "6",
+    "text": "Anthropic 旗下 Claude 推出个人理财，本周将开始推出测试版。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603816"
+  },
+  {
+    "post": "Financial_Express/3603815",
+    "datetime": "2026-11-05T17:59:22+00:00",
+    "views": "6",
+    "text": "Claude 个人理财功能本周开始测试版推送。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603815"
+  },
+  {
+    "post": "Financial_Express/3603814",
+    "datetime": "2026-11-05T17:59:02+00:00",
+    "views": "6",
+    "text": "OpenAI 推出 GPT-6 Cyber 网络安全模型 漏洞检测能力超越 GPT-6 Astra\n金十数据 11 月 6 日讯，据美国科技媒体 The Verge 报道，OpenAI 推出 GPT-6 Cyber，在 ExploitGym 测试中得分 48.5%，高于 GPT-6 Astra 的 42.4%和 GPT-5.6 Cyber 的 32.1%，并帮助发现 Firefox 浏览器 81 个此前未知的漏洞。该模型测试中的越界执行比例降至不足 1%，低于上一代的约 5%，同时加强了滥用防护，可拦截针对电厂、供水设施等关键基础设施的高风险攻击。GPT-6 Cyber 被列为网络安全领域最高级别“关键级”，目前已向部分 Daybreak Red 客户开放，未来几周将扩大至全部客户。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603814"
+  },
+  {
+    "post": "Financial_Express/3603813",
+    "datetime": "2026-11-05T17:58:42+00:00",
+    "views": "7",
+    "text": "巴拉圭总统培尼亚当地时间 5 日上午因该国一家私人银行被查封引发危机而递交辞呈，以避免被弹劾。\n培尼亚当天经由社交媒体发布其在总统府录制的视频宣布辞职决定，并称此举旨在维护“国家稳定、社会和平以及民主制度”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603813"
+  },
+  {
     "post": "Financial_Express/3603812",
     "datetime": "2026-11-05T17:58:06+00:00",
-    "views": "1",
+    "views": "40",
     "text": "加拿大飞机制造商庞巴迪表示，正与波音就贝尔法斯特航空结构厂的未来进行磋商，同时受私人飞行需求持续强劲的提振，该公司还上调 2026 年的自由现金流预测。\n波音公司通过贝尔法斯特工厂为庞巴迪喷气机供应零部件。在波音公司于 2025 年 收购航空结构巨头 Spirit AeroSystems 后，这家美国飞机制造商与欧洲竞争对手空客在该工厂分担生产任务 。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3603811",
     "datetime": "2026-11-05T17:55:05+00:00",
-    "views": "53",
+    "views": "56",
     "text": "美国参议院民主党领导人舒默：将设法（通过立法）禁止当选官员交易股票。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3603810",
     "datetime": "2026-11-05T17:54:42+00:00",
-    "views": "54",
+    "views": "57",
     "text": "伦敦金属交易所三个月期钴收盘持平于每吨 33,525 美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3603809",
     "datetime": "2026-11-05T17:54:16+00:00",
-    "views": "56",
+    "views": "58",
     "text": "LME 期铜收跌 168 美元，报 13844 美元/吨。\nLME 期铝收涨 17 美元，报 3064 美元/吨。\nLME 期锌收跌 14 美元，报 3793 美元/吨。\nLME 期铅收涨 12 美元，报 1894 美元/吨。\nLME 期镍收涨 543 美元，报 16322 美元/吨。\nLME 期锡收跌 1516 美元，报 45479 美元/吨。\nLME 期钴收平。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3603808",
     "datetime": "2026-11-05T17:54:02+00:00",
-    "views": "56",
+    "views": "58",
     "text": "伦敦金属交易所三个月期锡收盘下跌 1516 美元，报每吨 45479 美元。三个月期锌收跌 14 美元，报每吨 3793 美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3603807",
     "datetime": "2026-11-05T17:54:01+00:00",
-    "views": "56",
+    "views": "58",
     "text": "LME 期铜收跌 168 美元，报 13844 美元/吨。\nLME 期铝收涨 17 美元，报 3064 美元/吨。\nLME 期锌收跌 14 美元，报 3793 美元/吨。\nLME 期铅收涨 12 美元，报 1894 美元/吨。\nLME 期镍收涨 543 美元，报 16322 美元/吨。\nLME 期锡收跌 1516 美元，报 45479 美元/吨。\nLME 期钴收平，报 33525 美元/吨。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3603806",
     "datetime": "2026-11-05T17:53:42+00:00",
-    "views": "54",
+    "views": "56",
     "text": "伦敦金属交易所三个月期镍收涨 543 美元，报每吨 16322 美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3603805",
     "datetime": "2026-11-05T17:53:22+00:00",
-    "views": "54",
+    "views": "56",
     "text": "伦敦金属交易所三个月期铝收涨 17 美元，报每吨 3064 美元。三个月期铜收跌 168 美元，报每吨 13844 美元。三个月期铅收涨 12 美元，报每吨 1894 美元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3603803",
     "datetime": "2026-11-05T17:51:42+00:00",
-    "views": "58",
+    "views": "59",
     "text": "据福克斯新闻：美国国防部长赫格塞思最早可能下周面临弹劾投票。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3603802",
     "datetime": "2026-11-05T17:50:50+00:00",
-    "views": "88",
+    "views": "89",
     "text": "美国两年期国债收益率跌 10 个基点，报 4.48%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3603800",
     "datetime": "2026-11-05T17:50:42+00:00",
-    "views": "87",
+    "views": "88",
     "text": "据美国财经媒体 Semafor：若马斯克收购 Boost Mobile，AT&T(T.N)和 T-Mobile US(TMUS.O)可能会放弃与该品牌的合作。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3603801",
     "datetime": "2026-11-05T17:50:42+00:00",
-    "views": "89",
+    "views": "90",
     "text": "美国两年期国债收益率日内下跌 10 个基点至 4.48%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3603799",
     "datetime": "2026-11-05T17:49:13+00:00",
-    "views": "93",
+    "views": "96",
     "text": "美国国防部长赫格塞思最快下周可能就会面临弹劾。（福克斯新闻）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3603798",
     "datetime": "2026-11-05T17:48:42+00:00",
-    "views": "91",
+    "views": "92",
     "text": "若马斯克收购 Boost Mobile，AT&T 和 T-Mobile 可能会放弃与该品牌的合作。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3603797",
     "datetime": "2026-11-05T17:48:02+00:00",
-    "views": "92",
+    "views": "93",
     "text": "美国国防部长赫格塞斯最早可能于下周面临弹劾投票。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3603796",
     "datetime": "2026-11-05T17:47:02+00:00",
-    "views": "92",
+    "views": "93",
     "text": "长端德债收益率跌约 4 个基点，投资者关注美股半导体市场被抛售\n周四（11 月 5 日）欧市尾盘，德国 10 年期国债收益率跌 3.1 个基点，报 3.241%，日内交投于 3.286%-3.233%区间，北京时间 21:18 刷新日高，随后持续下挫。两年期德债收益率跌 2.2 个基点，报 2.978%，日内交投于 3.053%-2.960%区间；30 年期德债收益率跌 3.7 个基点，报 3.632%。2/10 年期德债收益率利差跌 0.815 个基点，报+26.070 个基点。",
     "media_only": false,
     "image_url": null,
@@ -69190,41 +69226,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3595923"
-  },
-  {
-    "post": "Financial_Express/3595922",
-    "datetime": "2026-11-03T18:00:42+00:00",
-    "views": "61",
-    "text": "欧洲央行管委纳格尔：12 月可能不得不加息。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595922"
-  },
-  {
-    "post": "Financial_Express/3595921",
-    "datetime": "2026-11-03T18:00:33+00:00",
-    "views": "57",
-    "text": "欧洲央行管委兼德国央行行长 Nagel：央行可能不得不在 12 月加息。\n能源成本上涨，推高第二轮效应的风险。\n自 9 月份以来，（欧元区）通胀形势已经恶化。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595921"
-  },
-  {
-    "post": "Financial_Express/3595920",
-    "datetime": "2026-11-03T18:00:22+00:00",
-    "views": "55",
-    "text": "以色列告知美国，伊朗正在考虑使用化学武器\n以色列向美国情报官员发出警告，称伊朗可能准备使用化学武器，但这一说法在特朗普政府内部引发巨大分歧。部分美国官员重视该威胁，另一些官员则怀疑内塔尼亚胡试图将美国重新拖入大规模军事行动。海湾国家官员也对以色列的评估提出质疑。与此同时，据报道美国中央司令部拟定了最早在 11 月 4 日实施打击的方案，但特朗普尚未批准发起新一轮袭击。在军事部署推进的同时，各方仍在开展外交斡旋，力求重启霍尔木兹海峡通航。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595920"
-  },
-  {
-    "post": "Financial_Express/3595919",
-    "datetime": "2026-11-03T17:59:02+00:00",
-    "views": "52",
-    "text": "墨西哥 10 月非制造业指数为 50.6。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595919"
   }
 ]
