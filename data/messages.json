@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3604051",
+    "datetime": "2026-11-05T21:27:43+00:00",
+    "views": "1",
+    "text": "云服务公司 Iren：包括收购 GPU 以及开发更多数据中心产能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3604051"
+  },
+  {
+    "post": "Financial_Express/3604050",
+    "datetime": "2026-11-05T21:27:42+00:00",
+    "views": "1",
+    "text": "云服务公司 Iren：预计在可预见的未来将进行重大投资，包括与微软(MSFT.O)及英伟达(NVDA.O)协议相关的资本需求。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3604050"
+  },
+  {
+    "post": "Financial_Express/3604049",
+    "datetime": "2026-11-05T21:27:22+00:00",
+    "views": "2",
+    "text": "Cloudflare 再次上调利润展望 盘后大涨 17%\nCloudflare 将全年调整后每股收益指引上调至 1.35 美元，此前指引为 1.25 至 1.26 美元，市场平均预估为 1.27 美元，这是该公司年内第三次上调利润展望。Cloudflare 盘后大涨 17%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3604049"
+  },
+  {
+    "post": "Financial_Express/3604047",
+    "datetime": "2026-11-05T21:27:02+00:00",
+    "views": "4",
+    "text": "美国总统特朗普：美国参议院民主党领袖舒默其实人还不错。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3604047"
+  },
+  {
+    "post": "Financial_Express/3604048",
+    "datetime": "2026-11-05T21:27:02+00:00",
+    "views": "4",
+    "text": "麦格理集团上半财年净利润 24.8 亿澳元，市场预期为 24.5 亿澳元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3604048"
+  },
+  {
+    "post": "Financial_Express/3604046",
+    "datetime": "2026-11-05T21:26:06+00:00",
+    "views": "12",
+    "text": "标普 500 指数的 11 个板块全线收跌，信息技术/科技板块收跌 7.3%，工业、可选消费、能源、金融等板块至多跌 4.12%，公用事业、日用消费品板块至少跌 0.67%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3604046"
+  },
+  {
     "post": "Financial_Express/3604045",
     "datetime": "2026-11-05T21:25:02+00:00",
-    "views": "11",
+    "views": "15",
     "text": "美国总统特朗普：我们的选举太不公正了，你们根本想象不到。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3604043",
     "datetime": "2026-11-05T21:24:23+00:00",
-    "views": "13",
+    "views": "17",
     "text": "美国总统特朗普：（关于俄柴油油轮被迫改道）我们正在考虑研究一项法律予以禁止。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3604042",
     "datetime": "2026-11-05T21:24:22+00:00",
-    "views": "13",
+    "views": "18",
     "text": "周四（11 月 5 日），美股行业 ETF 全线溃败，半导体 ETF 收跌 11.21%，全球科技股指数 ETF、科技行业 ETF 至少跌 8%，网络股指数 ETF 跌 4.51%，能源业 ETF 跌 2.98%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3604041",
     "datetime": "2026-11-05T21:22:55+00:00",
-    "views": "17",
+    "views": "22",
     "text": "美国总统特朗普就俄罗斯柴油油轮表态：正在研究禁止相关交易的法律。\n伊朗任何行动都必须经过我方批准。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3604040",
     "datetime": "2026-11-05T21:22:42+00:00",
-    "views": "18",
+    "views": "23",
     "text": "美国总统特朗普：参议院民主党领袖舒默其实人还不错。我认识他。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3604039",
     "datetime": "2026-11-05T21:22:03+00:00",
-    "views": "22",
+    "views": "57",
     "text": "加拿大总理马克·卡尼政府发布了一份预算案，显示其计划在五年内增加 1515 亿加元（约合 1080 亿美元）的净支出，重点用于刺激投资和改善负担能力。资金很大一部分来自伊朗战争引发的高油价所带来的意外收益，但如果冲突持续，可能会压低经济增长预期。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3604038",
     "datetime": "2026-11-05T21:21:22+00:00",
-    "views": "23",
+    "views": "57",
     "text": "美国总统特朗普：伊朗任何行动都必须经过我方批准。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3604037",
     "datetime": "2026-11-05T21:21:02+00:00",
-    "views": "23",
+    "views": "57",
     "text": "美国总统特朗普就俄罗斯柴油油轮表态：正在研究禁止相关交易的法律。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3604036",
     "datetime": "2026-11-05T21:20:22+00:00",
-    "views": "22",
+    "views": "57",
     "text": "阿根廷央行市场预期调查显示，2026 年末 GDP 增长预期为 0.7%，较此前预测下调 0.8 个百分点。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3604035",
     "datetime": "2026-11-05T21:19:45+00:00",
-    "views": "23",
+    "views": "58",
     "text": "加拿大总理卡尼的政府正拨出数百亿加元以减少无家可归现象并扩大该国的社会住房储备，目标是在十年内消除无家可归问题。\n财政部长 François-Philippe Champagne 递交的联邦预算报告显示，在 10 年内用于住房措施的 450 亿加元，其中 112 亿加元用于建设支持性和过渡性住房，并解决心理健康和成瘾问题。政府将放宽外国买家禁令，允许购买新房，同时将现房禁令延长两年，以帮助保护住房负担能力并释放对新住房供应的投资。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3604034",
     "datetime": "2026-11-05T21:19:22+00:00",
-    "views": "24",
+    "views": "58",
     "text": "阿根廷央行市场预期调查显示，预计 2026 年底通胀率为 30.4%，较此前预测上调 0.36 个百分点。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3604033",
     "datetime": "2026-11-05T21:18:23+00:00",
-    "views": "28",
+    "views": "61",
     "text": "周四，随着投资者权衡美国本周中期选举中共和党遭受惨败的影响，加之墨西哥中央银行意外降息对比索构成压力，大多数拉丁美洲市场走低。\n墨西哥央行将其关键利率下调 25 个基点至 6.25%，并将此举描述为“一次性调整”，表示维持新的利率水平将有助于使通胀回归目标区间。墨西哥比索在该决议公布后扩大了跌幅，最新交易中下跌 0.75%。墨西哥股市指数上涨 0.23%。尽管墨西哥股票指数是该地区表现最强劲的指数之一（上涨 8.7%），但墨西哥比索在 10 月份下跌约 4%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3604032",
     "datetime": "2026-11-05T21:17:42+00:00",
-    "views": "28",
+    "views": "59",
     "text": "美国总统特朗普：未来几周将做很多事情。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +182,7 @@
   {
     "post": "Financial_Express/3604031",
     "datetime": "2026-11-05T21:17:22+00:00",
-    "views": "31",
+    "views": "62",
     "text": "美国总统特朗普：未来几周将采取诸多行动。",
     "media_only": false,
     "image_url": null,
@@ -69091,32 +69145,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3596165"
-  },
-  {
-    "post": "Financial_Express/3596163",
-    "datetime": "2026-11-03T21:28:22+00:00",
-    "views": "41",
-    "text": "委内瑞拉代总统罗德里格斯：过去 12 个月石油产量增长了 8.5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3596163"
-  },
-  {
-    "post": "Financial_Express/3596164",
-    "datetime": "2026-11-03T21:28:22+00:00",
-    "views": "44",
-    "text": "周二（11 月 3 日），恐慌指数做多收跌 1.97%，农产品基金跌 1.04%，美国国债 20+年 ETF 跌 0.76%，黄金 ETF 跌 0.66%，日元做多跌 0.62%，道指 ETF、大豆基金、美国房地产 ETF、新兴市场 ETF、欧元做多至多跌 0.44%。\n做多美元指数涨 0.17%，罗素 2000 指数 ETF 涨 0.23%，美国布伦特油价基金涨 0.24%，标普 500 ETF 涨 0.3%，纳斯达克 100 ETF 涨 0.62%，巴克莱美国可转债 ETF 涨 0.72%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3596164"
-  },
-  {
-    "post": "Financial_Express/3596162",
-    "datetime": "2026-11-03T21:27:02+00:00",
-    "views": "43",
-    "text": "委内瑞拉临时总统罗德里格斯：10 月通胀环比达 6.2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3596162"
   }
 ]
