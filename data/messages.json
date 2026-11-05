@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3602817",
+    "datetime": "2026-11-05T12:39:53+00:00",
+    "views": "1",
+    "text": "百度正式开源最新基座模型文心 5.5 Flash Base（ERNIE 5.5 Flash Base）。模型采用 MoE 架构，总参数量 2800 亿，每个 Token 激活 140 亿参数，使用 33.5 万亿个 Token 完成预训练，预训练上下文长度最高达 128K，微调与推理阶段支持最长 100 万 Token 上下文。（新华网）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602817"
+  },
+  {
+    "post": "Financial_Express/3602816",
+    "datetime": "2026-11-05T12:39:43+00:00",
+    "views": "9",
+    "text": "哈萨克斯坦已请求俄罗斯允许恢复经由“友谊”输油管道及乌斯季-卢加港的石油运输。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602816"
+  },
+  {
+    "post": "Financial_Express/3602815",
+    "datetime": "2026-11-05T12:39:23+00:00",
+    "views": "17",
+    "text": "瑞典政府：这一评估主要基于俄乌冲突所导致的严峻安全局势，该局势引发了混合威胁，并带来了敌对行为主体。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602815"
+  },
+  {
+    "post": "Financial_Express/3602814",
+    "datetime": "2026-11-05T12:39:02+00:00",
+    "views": "25",
+    "text": "英国央行行长贝利：国内既有通胀压力仍然高企。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602814"
+  },
+  {
     "post": "Financial_Express/3602813",
     "datetime": "2026-11-05T12:38:42+00:00",
-    "views": "4",
+    "views": "32",
     "text": "百度：文心 5.5 Flash Base 正式开源\n今天，百度正式开源最新基座模型文心 5.5 Flash Base。ERNIE 5.5 Flash Base 采用 MoE 架构，总参数量 2800 亿，每个 Token 激活 140 亿参数，使用 33.5 万亿个 Token 完成预训练，预训练上下文长度最高达 128K，微调与推理阶段支持最长 100 万 Token 上下文。",
     "media_only": false,
     "image_url": null,
@@ -11,8 +47,8 @@
   {
     "post": "Financial_Express/3602812",
     "datetime": "2026-11-05T12:38:22+00:00",
-    "views": "13",
-    "text": "印尼野火烟霾影响减弱 新加坡逐步解除雾霾应急措施\n金十数据 11 月 5 日讯，新加坡空气质量在经历数周浓雾后有所改善，政府大多数部门将于周六起停止实施雾霾应对措施。新加坡国家环境局在声明中表示，通过自动售货机和社区俱乐部发放 N95 及同等防护级别口罩的措施将于 11 月 7 日 18 时结束。部分指定避难中心的空调休息室也将于同一时间关闭，针对户外工作者的雾霾防护措施也将于周六结束。该机构表示，随着季风交替期到来、降雨增多，新加坡的雾霾情况已经改善。此前，受印度尼西亚严重野火季影响，新加坡空气质量连续数周处于“不健康”或“非常不健康”水平。近几日，当地污染物标准指数读数有所改善。周三，新加坡还收紧了跨境雾霾相关法律，新增限制措施，并对与涉嫌参与引发野火的实体或个人有业务往来的企业处以罚款。",
+    "views": "38",
+    "text": "印尼野火烟霾影响减弱 新加坡逐步解除雾霾应急措施\n金十数据 11 月 5 日讯，新加坡空气质量在经历数周浓雾后有所改善，政府大多数部门将于周六起停止实施雾霾应对措施。新加坡国家环境局在声明中表示，通过自动售货机和社区俱乐部发放 N95 及同等防护级别口罩的措施将于 11 月 7 日 18 时结束。部分指定避难中心的空调休息室也将于同一时间关闭，针对户外工作者的雾霾防护措施也将于周六结束。该机构表示，随着季风交替期到来、降雨增多，新加坡的雾霾情况已经改善。此前，受印度尼西亚严重野火季影响，新加坡空气质量连续数周处于“不健康”或“非常不健康”水平。近几日，当地污染物标准指数读数有所改善。周三，新加坡还收紧了跨境雾霾相关法律，新增限制措施，并对与涉嫌参与引发野火的实体或个人有业务往来的企业处以罚款。\n👍1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3602812"
@@ -20,8 +56,8 @@
   {
     "post": "Financial_Express/3602811",
     "datetime": "2026-11-05T12:38:02+00:00",
-    "views": "16",
-    "text": "Truist 证券：将万事达卡目标价从 674 美元上调至 735 美元。",
+    "views": "34",
+    "text": "Truist 证券：将万事达卡目标价从 674 美元上调至 735 美元。\n👍1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3602811"
@@ -29,8 +65,8 @@
   {
     "post": "Financial_Express/3602810",
     "datetime": "2026-11-05T12:37:42+00:00",
-    "views": "19",
-    "text": "瑞典政府：决定在瑞典内部边境重新实施边境管控，为期六个月。",
+    "views": "36",
+    "text": "瑞典政府：决定在瑞典内部边境重新实施边境管控，为期六个月。\n👍1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3602810"
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3602808",
     "datetime": "2026-11-05T12:36:23+00:00",
-    "views": "18",
+    "views": "31",
     "text": "国轩高科：合肥市国资委批复同意合肥建投受让大众中国 5.30%股权\n国轩高科公告，公司持股 5%以上股东大众汽车（中国）投资有限公司此前与合肥市建设投资有限公司签署股份转让协议，拟转让公司 96180444 股无限售条件流通股股份（占总股本 5.30%）。近日公司收到受让方通知，合肥市人民政府国有资产监督管理委员会已出具批复，同意合肥市建设投资有限公司协议受让大众汽车（中国）投资有限公司持有的公司 5.30%股权（对应 96180444 股），每股交易价格为 24.09 元，转让价款 23.17 亿元。本次协议转让尚需取得深圳证券交易所合规性确认，并在中国证券登记结算有限责任公司深圳分公司办理股份过户登记等手续。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3602809",
     "datetime": "2026-11-05T12:36:23+00:00",
-    "views": "18",
+    "views": "31",
     "text": "超威半导体美股盘前跌超 4%\n超威半导体美股盘前跌超 4%，现报 469.198 美元。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3602807",
     "datetime": "2026-11-05T12:36:22+00:00",
-    "views": "17",
+    "views": "27",
     "text": "瑞典政府：评估主要基于俄乌冲突导致的严重安全局势，这带来了混合威胁和敌对行为者。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3602806",
     "datetime": "2026-11-05T12:36:02+00:00",
-    "views": "18",
+    "views": "24",
     "text": "印度石油天然气公司（ONGC）第二季度原油官方售价为每桶 92.33 美元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3602804",
     "datetime": "2026-11-05T12:35:43+00:00",
-    "views": "48",
+    "views": "52",
     "text": "据 ABC 新闻：美国总统特朗普还承认，在民主党于一月份接管参议院之前，完成新任国防部长的确认程序会更容易些。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3602805",
     "datetime": "2026-11-05T12:35:43+00:00",
-    "views": "49",
+    "views": "53",
     "text": "哈萨克斯坦已要求俄罗斯允许恢复通过德鲁日巴管道和乌斯季卢加港的石油运输。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3602803",
     "datetime": "2026-11-05T12:35:23+00:00",
-    "views": "47",
+    "views": "51",
     "text": "希捷科技盘前跌 5.04%，现报 529.00 美元\n希捷科技盘前跌 5.04%，现报 529.00 美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3602802",
     "datetime": "2026-11-05T12:35:22+00:00",
-    "views": "46",
+    "views": "50",
     "text": "特朗普：我不明白为什么有人对赫格塞思不满\n金十数据 11 月 5 日讯，据 ABC 新闻：美国总统特朗普表示他打算让赫格塞思继续担任防长。特朗普承认，他接到过一些对赫格塞思不满的人打来的电话，但他表示：“你知道，我确实接到过这类关于他的电话。我不明白这是为什么。”",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3602801",
     "datetime": "2026-11-05T12:35:02+00:00",
-    "views": "45",
+    "views": "49",
     "text": "极星性能业务提交文件，拟转换为荷兰私人有限公司。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3602799",
     "datetime": "2026-11-05T12:34:43+00:00",
-    "views": "47",
+    "views": "50",
     "text": "Enovix：裁员涉及 946 名员工和合同工中的约 220 人，每年可节省 850 万美元。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3602800",
     "datetime": "2026-11-05T12:34:43+00:00",
-    "views": "46",
+    "views": "50",
     "text": "极星部门将把总部留在瑞典哥德堡。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3602798",
     "datetime": "2026-11-05T12:34:04+00:00",
-    "views": "46",
+    "views": "48",
     "text": "瑞典政府：决定在瑞典内部边境重新实施边境管制，为期六个月。",
     "media_only": false,
     "image_url": null,
@@ -67291,59 +67327,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3595149"
-  },
-  {
-    "post": "Financial_Express/3595147",
-    "datetime": "2026-11-03T12:40:26+00:00",
-    "views": "100",
-    "text": "*ST 闻泰公告，近日，Nexperia B.V.委托律师向公司告知，Nexperia B.V.已向荷兰阿姆斯特丹地方法院，对公司及公司实际控制人张学政、安世半导体（中国）有限公司、安世半导体（上海）有限公司提起诉讼。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595147"
-  },
-  {
-    "post": "Financial_Express/3595146",
-    "datetime": "2026-11-03T12:40:02+00:00",
-    "views": "88",
-    "text": "百度 Apollo World 世界模型亮相\n金十数据 11 月 3 日讯，据百度消息，11 月 3 日，在深圳举行的百度 AI Day·Apollo 专场上，百度 Apollo 首次披露面向物理 AI 的智能体驱动全模态世界模型 Apollo World，并提出世界模型“2+3”判断标准。在 Apollo World 构建的虚拟城市中，车辆、行人等交通参与者都不是按照固定脚本行动的“道具”，而是具备决策和交互能力的 AI 智能体。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595146"
-  },
-  {
-    "post": "Financial_Express/3595145",
-    "datetime": "2026-11-03T12:39:45+00:00",
-    "views": "78",
-    "text": "11 月 3 日，在 2026 中国香港国际金融领袖投资峰会上，金融监管总局副局长肖远企谈到以 AI 为代表的科技革命对金融的影响时表示，大家对这个题目有很多讨论，见仁见智。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595145"
-  },
-  {
-    "post": "Financial_Express/3595143",
-    "datetime": "2026-11-03T12:39:23+00:00",
-    "views": "71",
-    "text": "瑞典议会否决中间党领袖的首相候选人资格。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595143"
-  },
-  {
-    "post": "Financial_Express/3595144",
-    "datetime": "2026-11-03T12:39:23+00:00",
-    "views": "66",
-    "text": "龙头股价走强、产业数据向好 新能源板块市场信心持续回暖\n11 月 2 日以来，宁德时代 A 股连续两天涨幅超 3%，多家新能源龙头股价走强。记者 11 月 3 日获悉，本周外资机构持续买入宁德时代等新能源公司股票。分析人士认为，资本市场热度回升背后，是产业数据、重大项目落地与产业链合作共同支撑。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595144"
-  },
-  {
-    "post": "Financial_Express/3595142",
-    "datetime": "2026-11-03T12:39:22+00:00",
-    "views": "66",
-    "text": "瑞典议会否决了中间党领导人担任首相的候选资格。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595142"
   }
 ]
