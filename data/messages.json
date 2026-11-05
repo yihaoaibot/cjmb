@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3603528",
+    "datetime": "2026-11-05T15:46:43+00:00",
+    "views": "1",
+    "text": "罗素 2000 指数下跌 2.5%，有望创下 6 月 5 日以来最大单日跌幅。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603528"
+  },
+  {
+    "post": "Financial_Express/3603527",
+    "datetime": "2026-11-05T15:46:42+00:00",
+    "views": "1",
+    "text": "锡连续主力合约日内跌 4%，现报 339360.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603527"
+  },
+  {
+    "post": "Financial_Express/3603526",
+    "datetime": "2026-11-05T15:46:35+00:00",
+    "views": "1",
+    "text": "标普 500 指数跌幅扩大至 3%，费城半导体指数跌超 10%。\n英伟达跌 7.73%，博通跌 8.12%，美光跌 14.48%，英特尔跌 7.86%，AMD 跌 15.25%，高通跌 12.59%，台积电跌 8.91%，阿斯麦跌 7.80%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603526"
+  },
+  {
+    "post": "Financial_Express/3603525",
+    "datetime": "2026-11-05T15:46:17+00:00",
+    "views": "1",
+    "text": "微软发言人表示，公司根据“我们的需求和客户需求管理与基础设施合作伙伴的关系，包括监控交付进度并在情况发生变化时调整计划。这些都是管理庞大且复杂的基础设施项目的正常且负责任的做法，有助于我们可靠且高效地将产能上线。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603525"
+  },
+  {
+    "post": "Financial_Express/3603524",
+    "datetime": "2026-11-05T15:46:03+00:00",
+    "views": "3",
+    "text": "标普 500 指数跌 3.00%，现报 7457.890 点；道指跌 1.91%，现报 52335.941 点；纳指跌 4.67%，现报 24535.169 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603524"
+  },
+  {
+    "post": "Financial_Express/3603522",
+    "datetime": "2026-11-05T15:46:02+00:00",
+    "views": "3",
+    "text": "标普 500 指数跌幅扩大至 3%，费城半导体指数跌超 10%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603522"
+  },
+  {
+    "post": "Financial_Express/3603523",
+    "datetime": "2026-11-05T15:46:02+00:00",
+    "views": "3",
+    "text": "随着新云（neocloud）公司面临延误、监管障碍以及高昂成本的困扰，微软的一些核心高管产生了买方悔意（Buyer’s Remorse）。据知情人士透露，微软正在收紧对 Nebius Group NV、IREN Ltd.和 Nscale Plc.分数据中心项目的监管，退出了其认为存在风险的项目，并在公司内部就否签署新的新云协议展开辩论。\n在微软最近的财报电话会议上，这种摩擦被公之于众。当时首席财务官胡德（Amy Hood）表示，部分第三方产能交付的延误打乱了公司的支出计划。这是她第三次在财报电话会议上提及此类问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603523"
+  },
+  {
+    "post": "Financial_Express/3603521",
+    "datetime": "2026-11-05T15:45:42+00:00",
+    "views": "34",
+    "text": "费城半导体指数日内跌 10%\n费城半导体指数日内跌 10.02%，现报 9239.93 点。英伟达跌 7.73%，博通跌 8.12%，美光跌 14.48%，英特尔跌 7.86%，AMD 跌 15.25%，高通跌 12.59%，台积电跌 8.91%，阿斯麦跌 7.80%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603521"
+  },
+  {
     "post": "Financial_Express/3603519",
     "datetime": "2026-11-05T15:44:43+00:00",
-    "views": "4",
+    "views": "44",
     "text": "美军已做好大规模打击伊朗的准备\n金十数据 11 月 5 日讯，据半岛电视台引述纽约时报：美军已做好准备，随时听从特朗普命令对伊朗展开大规模作战行动。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3603520",
     "datetime": "2026-11-05T15:44:43+00:00",
-    "views": "3",
+    "views": "44",
     "text": "微软(MSFT.O)数据中心延期与 IREN 在得克萨斯州的选址有关。受数据中心延误及成本问题困扰，微软对 NeoClouds 项目态度转冷。微软加强对 Nebius、IREN 和 NScale 的监管。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3603518",
     "datetime": "2026-11-05T15:44:02+00:00",
-    "views": "14",
+    "views": "81",
     "text": "微软加强对 Nebius、IREN 和 Nscale 的监管。",
     "media_only": false,
     "image_url": null,
@@ -29,8 +101,8 @@
   {
     "post": "Financial_Express/3603516",
     "datetime": "2026-11-05T15:43:42+00:00",
-    "views": "50",
-    "text": "微软已退出三个 Nscale 项目。",
+    "views": "86",
+    "text": "微软因数据中心交付延迟与成本上升而对新兴云服务商态度转冷，微软已退出三个 Nscale 项目。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3603516"
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3603517",
     "datetime": "2026-11-05T15:43:42+00:00",
-    "views": "50",
+    "views": "86",
     "text": "微软数据中心延期与得克萨斯州 IREN 站点有关。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3603515",
     "datetime": "2026-11-05T15:43:22+00:00",
-    "views": "51",
+    "views": "87",
     "text": "数据中心投资前景生变 美股半导体股遭遇重挫\n金十数据 11 月 5 日讯，周四，半导体类股大幅下跌，延续近期跌势。随着民主党在美国中期选举中表现强势，投资者开始对人工智能交易主题的前景产生怀疑。费城证券交易所半导体指数下跌 9.2%，有望创下 6 月以来最大单日跌幅。本周累计下跌约 12%，若维持这一跌幅，将创下 2025 年 4 月以来最差单周表现，同时该指数有望连续第五周下跌，创下自 2025 年 4 月以来最长连跌纪录。此次抛售潮还从芯片制造商蔓延至人工智能产业链的其他领域。存储设备制造商西部数据和希捷科技跌幅均超过 14%；所谓的“新云”企业 CoreWeave 和 Nebius Group 也大幅下跌。不过，华尔街并非所有投资者都对芯片制造商失去信心。例如，德意志银行表示，相较于软件板块，半导体板块仍具有吸引力，尤其是与软件行业相比，半导体股的投资价值依然突出。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3603514",
     "datetime": "2026-11-05T15:42:23+00:00",
-    "views": "85",
+    "views": "91",
     "text": "有报道称美军已做好准备，随时听从特朗普命令对伊朗展开大规模作战行动。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3603513",
     "datetime": "2026-11-05T15:42:22+00:00",
-    "views": "55",
+    "views": "91",
     "text": "摩根士丹利股价创下 2 月以来最大跌幅，下跌 5.6%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3603512",
     "datetime": "2026-11-05T15:41:22+00:00",
-    "views": "94",
+    "views": "100",
     "text": "摩根士丹利股价也创下 2 月份以来最大跌幅，下跌 5.6%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3603511",
     "datetime": "2026-11-05T15:40:22+00:00",
-    "views": "94",
+    "views": "99",
     "text": "福特汽车预计全年本地销量为 65,000 至 75,000 辆。福特汽车仍预计全年出口量为 58 万至 63 万辆。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3603510",
     "datetime": "2026-11-05T15:40:21+00:00",
-    "views": "98",
+    "views": "133",
     "text": "美股费城银行指数跌 2%，高盛跌 5.9%、摩根士丹利跌 5.6%，双双创 2 月份以来最大盘中跌幅。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3603509",
     "datetime": "2026-11-05T15:40:03+00:00",
-    "views": "96",
+    "views": "101",
     "text": "高盛股价下跌 5.9%，创 2 月以来最大跌幅。",
     "media_only": false,
     "image_url": null,
@@ -68245,41 +68317,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3595743"
-  },
-  {
-    "post": "Financial_Express/3595742",
-    "datetime": "2026-11-03T15:47:02+00:00",
-    "views": "125",
-    "text": "罗素 2000 指数上涨 1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595742"
-  },
-  {
-    "post": "Financial_Express/3595741",
-    "datetime": "2026-11-03T15:46:57+00:00",
-    "views": "124",
-    "text": "11 月 3 日，欧洲多国领空及机场在同日遭遇密集安全警报，共有六个航班在飞行或落地期间先后收到炸弹威胁，迫使相关机场紧急启动最高级别安全防范与应急处置机制。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595741"
-  },
-  {
-    "post": "Financial_Express/3595740",
-    "datetime": "2026-11-03T15:46:22+00:00",
-    "views": "113",
-    "text": "沙特阿拉伯内阁：正在与兄弟国家协调，持续进行外交努力，以巩固维护该地区稳定的区域安全。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595740"
-  },
-  {
-    "post": "Financial_Express/3595739",
-    "datetime": "2026-11-03T15:46:21+00:00",
-    "views": "111",
-    "text": "印度中央电力局主席 Ghanshyam Prasad：不会用天然气来支撑数据中心（的电力需求）。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595739"
   }
 ]
