@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3603394",
+    "datetime": "2026-11-05T15:00:23+00:00",
+    "views": "1",
+    "text": "夜盘期货收盘\n液化石油气连续跌 4.46%，聚丙烯连续跌 4.01%，焦炭连续涨 2.80%，乙二醇连续跌 2.33%，菜粕连续涨 2.16%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603394"
+  },
+  {
+    "post": "Financial_Express/3603393",
+    "datetime": "2026-11-05T15:00:03+00:00",
+    "views": "3",
+    "text": "特斯拉、SpaceX 股票跌幅扩大，最新分别下跌 9.7% 和 7.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603393"
+  },
+  {
+    "post": "Financial_Express/3603392",
+    "datetime": "2026-11-05T15:00:02+00:00",
+    "views": "3",
+    "text": "欧洲斯托克 600 指数回吐涨幅，现持平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603392"
+  },
+  {
+    "post": "Financial_Express/3603391",
+    "datetime": "2026-11-05T14:59:43+00:00",
+    "views": "3",
+    "text": "欧洲斯托克 600 指数抹去涨幅。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3603391"
+  },
+  {
     "post": "Financial_Express/3603390",
     "datetime": "2026-11-05T14:58:23+00:00",
-    "views": "2",
+    "views": "35",
     "text": "俄罗斯军事情报总局局长科斯秋科夫参加了俄罗斯总统普京与伊朗方面的会晤。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3603389",
     "datetime": "2026-11-05T14:58:22+00:00",
-    "views": "2",
+    "views": "35",
     "text": "美国民主党参议员怀登的幕僚将调查摩根大通与爱泼斯坦之间的关系。摩根大通(JPM.N)现跌 0.3%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3603388",
     "datetime": "2026-11-05T14:57:42+00:00",
-    "views": "2",
+    "views": "35",
     "text": "波兰央行行长格拉平斯基重申，他反对波兰加入欧元区。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3603387",
     "datetime": "2026-11-05T14:57:23+00:00",
-    "views": "32",
+    "views": "66",
     "text": "瑞银将 Arm Holdings 的目标价从 320 美元下调至 270 美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3603386",
     "datetime": "2026-11-05T14:57:04+00:00",
-    "views": "32",
+    "views": "66",
     "text": "英伟达股价下跌 5.6%，创 4 月以来新低。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3603384",
     "datetime": "2026-11-05T14:57:03+00:00",
-    "views": "32",
+    "views": "96",
     "text": "英伟达(NVDA.O)下跌 5.6%，跌至 4 月以来最低水平。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3603385",
     "datetime": "2026-11-05T14:57:03+00:00",
-    "views": "32",
+    "views": "66",
     "text": "美国参议员怀登的工作人员将调查摩根大通与爱泼斯坦的关系。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3603383",
     "datetime": "2026-11-05T14:56:54+00:00",
-    "views": "32",
+    "views": "66",
     "text": "英伟达跌 5.6%，创 4 月份以来盘中新低。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3603382",
     "datetime": "2026-11-05T14:56:37+00:00",
-    "views": "33",
+    "views": "67",
     "text": "特斯拉股价跌幅扩大至 10%，马斯克旗下太空探索公司 SpaceX 跌 7.5%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3603380",
     "datetime": "2026-11-05T14:56:23+00:00",
-    "views": "34",
+    "views": "98",
     "text": "特斯拉(TSLA.O)跌超 10%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3603381",
     "datetime": "2026-11-05T14:56:23+00:00",
-    "views": "34",
+    "views": "98",
     "text": "特斯拉股价跌幅扩大至 10%，SpaceX 股价下跌 7.5%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3603378",
     "datetime": "2026-11-05T14:56:03+00:00",
-    "views": "34",
+    "views": "97",
     "text": "费城半导体指数日内跌 7%\n费城半导体指数日内跌 7.02%，现报 9547.58 点。英伟达跌 5.29%，博通跌 5.11%，美光跌 10.00%，英特尔跌 8.10%，AMD 跌 12.49%，高通跌 10.11%，台积电跌 6.34%，阿斯麦跌 5.86%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3603379",
     "datetime": "2026-11-05T14:56:03+00:00",
-    "views": "34",
+    "views": "97",
     "text": "纳指跌 3.01%，现报 24962.882 点；道指跌 0.70%，现报 52984.141 点；标普 500 指数跌 1.62%，现报 7563.790 点。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3603377",
     "datetime": "2026-11-05T14:56:02+00:00",
-    "views": "34",
+    "views": "67",
     "text": "美股科技股普跌  美光暴跌 9%\n金十数据 11 月 5 日讯，纳指跌幅扩大至 3%，AMD(AMD.O)跌 12%、美光科技(MU.O)跌 9%、SK 海力士(SKHY.O)跌 8.8%、英伟达(NVDA.O)跌 5%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3603376",
     "datetime": "2026-11-05T14:55:34+00:00",
-    "views": "64",
+    "views": "96",
     "text": "智利国家铜业公司（Codelco）报告安迪纳矿区（Andina Division）发生尾矿泄漏。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3603375",
     "datetime": "2026-11-05T14:55:22+00:00",
-    "views": "64",
+    "views": "66",
     "text": "伊朗海军：霍尔木兹海峡东部发生火灾的油轮数量有所增加\n伊朗海军宣布，霍尔木兹海峡东部发生火灾的油轮数量有所增加。伊朗海军宣布，两艘违规油轮在霍尔木兹海峡东部触雷后起火。今日上午，伊朗海军还宣布，一艘违规油轮今日凌晨因无视海上警告、未经协调进入禁航水道，在霍尔木兹海峡东部起火。",
     "media_only": false,
     "image_url": null,
@@ -67921,140 +67957,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3595650"
-  },
-  {
-    "post": "Financial_Express/3595649",
-    "datetime": "2026-11-03T15:00:42+00:00",
-    "views": "38",
-    "text": "美国 9 月扣除国防的工厂订单月率 2%，前值 0.1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595649"
-  },
-  {
-    "post": "Financial_Express/3595646",
-    "datetime": "2026-11-03T15:00:23+00:00",
-    "views": "39",
-    "text": "美国 9 月耐用品订单月率终值 1.9%，预期 1.8%，前值 1.80%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595646"
-  },
-  {
-    "post": "Financial_Express/3595647",
-    "datetime": "2026-11-03T15:00:23+00:00",
-    "views": "39",
-    "text": "金十图示：2026 年 11 月 03 日（周二）全球股市指数-美洲市场（盘初）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595647"
-  },
-  {
-    "post": "Financial_Express/3595648",
-    "datetime": "2026-11-03T15:00:23+00:00",
-    "views": "39",
-    "text": "夜盘期货收盘\n低硫燃料油连续跌 5.41%，燃料油连续跌 4.80%，棕榈油连续跌 2.62%，液化石油气连续跌 2.33%，沥青连续跌 2.05%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595648"
-  },
-  {
-    "post": "Financial_Express/3595645",
-    "datetime": "2026-11-03T15:00:22+00:00",
-    "views": "39",
-    "text": "美国 9 月扣除运输的工厂订单月率 1.3%，前值由 0.30%修正为 0.4%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595645"
-  },
-  {
-    "post": "Financial_Express/3595644",
-    "datetime": "2026-11-03T15:00:17+00:00",
-    "views": "38",
-    "text": "美国 9 月 JOLTS 职位空缺 752.3 万人，预期 716.4 万人，前值 707.9 万人。\n🖕1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595644"
-  },
-  {
-    "post": "Financial_Express/3595643",
-    "datetime": "2026-11-03T15:00:09+00:00",
-    "views": "38",
-    "text": "西班牙桑坦德银行(Santander)表示，未来五年全球将面临约 30 万亿欧元（33.6 万亿美元）的融资缺口，主要来自能源转型相关投资需求，也涉及人工智能（AI）和国防领域。\n桑坦德银行在一份报告中表示，对 2026 年至 2030 年期间的初步估算显示，全球需要投入约 50 万亿欧元。考虑到可用融资来源和预期经济增长率，由此产生的融资缺口将达到约 30 万亿欧元。\n报告还称，人口老龄化推高医疗支出，并加大养老金体系和政府预算面临的压力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595643"
-  },
-  {
-    "post": "Financial_Express/3595642",
-    "datetime": "2026-11-03T15:00:04+00:00",
-    "views": "36",
-    "text": "美国 9 月耐用品订单环比终值 1.9%，预期 1.8%，初值 1.8%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595642"
-  },
-  {
-    "post": "Financial_Express/3595640",
-    "datetime": "2026-11-03T15:00:02+00:00",
-    "views": "35",
-    "text": "美国 9 月扣除运输类耐用品订单环比终值 0.5%，预期 0.5%，初值 0.5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595640"
-  },
-  {
-    "post": "Financial_Express/3595641",
-    "datetime": "2026-11-03T15:00:02+00:00",
-    "views": "35",
-    "text": "美国 9 月扣除飞机非国防资本耐用品订单环比终值 0.6%，预期 0.5%，初值 0.5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595641"
-  },
-  {
-    "post": "Financial_Express/3595638",
-    "datetime": "2026-11-03T15:00:01+00:00",
-    "views": "35",
-    "text": "美国 9 月工厂订单环比 1.8%，预期 1.2%，前值 0.1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595638"
-  },
-  {
-    "post": "Financial_Express/3595639",
-    "datetime": "2026-11-03T15:00:01+00:00",
-    "views": "35",
-    "text": "美国 9 月扣除运输的工厂订单环比 1.3%，预期 0.5%，前值 0.3%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595639"
-  },
-  {
-    "post": "Financial_Express/3595637",
-    "datetime": "2026-11-03T14:59:42+00:00",
-    "views": "34",
-    "text": "亚马逊网络服务与 GOSH 签署战略合作协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595637"
-  },
-  {
-    "post": "Financial_Express/3595635",
-    "datetime": "2026-11-03T14:59:22+00:00",
-    "views": "34",
-    "text": "亚马逊(AMZN.O)：亚马逊云服务(AWS)与 GOSH 签署战略合作协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595635"
-  },
-  {
-    "post": "Financial_Express/3595636",
-    "datetime": "2026-11-03T14:59:22+00:00",
-    "views": "34",
-    "text": "惠誉将多米尼加共和国评级上调至“BB”，展望稳定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595636"
   }
 ]
