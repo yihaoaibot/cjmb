@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3602862",
+    "datetime": "2026-11-05T12:50:02+00:00",
+    "views": "4",
+    "text": "美国众议院少数党领袖杰弗里斯：为什么美国国防部长赫格塞斯还在任？",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602862"
+  },
+  {
+    "post": "Financial_Express/3602861",
+    "datetime": "2026-11-05T12:49:44+00:00",
+    "views": "6",
+    "text": "金佰利第三季度调整后利润超预期，盘前股价上涨约 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602861"
+  },
+  {
+    "post": "Financial_Express/3602858",
+    "datetime": "2026-11-05T12:49:43+00:00",
+    "views": "6",
+    "text": "英国央行行长贝利：近期油价下跌是利好消息。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602858"
+  },
+  {
+    "post": "Financial_Express/3602859",
+    "datetime": "2026-11-05T12:49:43+00:00",
+    "views": "6",
+    "text": "英国央行行长贝利：可能有必要进一步上调关键利率。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602859"
+  },
+  {
+    "post": "Financial_Express/3602860",
+    "datetime": "2026-11-05T12:49:43+00:00",
+    "views": "6",
+    "text": "昇腾 0Day 支持 Kimi K3.1 Pro 推理部署，2.8 万亿级 MoE 模型能力再进阶\n2026 年 11 月 4 日，月之暗面正式公布 Kimi K3.1 Pro 完整模型权重。昇腾基于 vLLM Ascend、SGLang 同步实现 0Day 推理适配，支持昇腾 Atlas 800 A3、Atlas 900 A3 SuperPod 超节点以及昇腾 950 超节点系列产品进行 Kimi K3.1 Pro 的推理部署。围绕模型新增的稀疏注意力、百万级上下文及推理服务需求，昇腾开展算子与框架协同优化，支持用户及开发者在模型发布首日开展部署与应用验证。（华为中国）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602860"
+  },
+  {
+    "post": "Financial_Express/3602856",
+    "datetime": "2026-11-05T12:49:23+00:00",
+    "views": "7",
+    "text": "民德电子：未来三至五年晶圆代工及功率半导体行业有望维持较高景气水平\n金十数据 11 月 5 日讯，民德电子在投资者关系活动中表示，从行业趋势看，AI 数据中心规模化建设与端侧 AI 应用落地，正推动服务器电源向高压、大电流、高效率方向升级；同时，“双碳”战略下新能源发电、储能、电动汽车等场景持续扩容，共同构成了功率半导体需求的中长期增长动能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602856"
+  },
+  {
+    "post": "Financial_Express/3602857",
+    "datetime": "2026-11-05T12:49:23+00:00",
+    "views": "7",
+    "text": "英国央行行长贝利：冲突方面的好消息将意味着 CPI 在一定程度上见顶于 5%以下。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602857"
+  },
+  {
+    "post": "Financial_Express/3602855",
+    "datetime": "2026-11-05T12:49:22+00:00",
+    "views": "7",
+    "text": "英国央行行长贝利：市场曲线已计入明年进一步收紧政策，但这主要反映的是风险溢价，而非预期利率，这似乎是对能源风险的合理反映。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602855"
+  },
+  {
+    "post": "Financial_Express/3602854",
+    "datetime": "2026-11-05T12:49:03+00:00",
+    "views": "8",
+    "text": "民德电子：未来三至五年晶圆代工及功率半导体行业有望维持较高景气水平\n11 月 5 日，民德电子（300656.SZ）在投资者关系活动中表示，从行业趋势看，AI 数据中心规模化建设与端侧 AI 应用落地，正推动服务器电源向高压、大电流、高效率方向升级；同时，“双碳”战略下新能源发电、储能、电动汽车等场景持续扩容，共同构成了功率半导体需求的中长期增长动能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602854"
+  },
+  {
+    "post": "Financial_Express/3602853",
+    "datetime": "2026-11-05T12:49:02+00:00",
+    "views": "7",
+    "text": "康菲石油(COP.N)表示，截至 9 月 30 日，未发现其卡塔尔投资存在减值迹象。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602853"
+  },
+  {
     "post": "Financial_Express/3602852",
     "datetime": "2026-11-05T12:48:23+00:00",
-    "views": "1",
+    "views": "9",
     "text": "英国央行贝利：除非在解决冲突方面取得进展，否则可能需要进一步提高银行利率。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3602851",
     "datetime": "2026-11-05T12:47:43+00:00",
-    "views": "5",
+    "views": "42",
     "text": "李红泉任首创集团总经理\n11 月 3 日，首创集团召开干部大会，宣布北京市委、市政府决定：李红泉同志任北京首都创业集团有限公司党委副书记、董事、总经理。市委组织部、市国资委相关领导及处室负责人，首创集团领导班子成员、总监、总部部门正副职、二级单位主要负责人参加会议。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3602850",
     "datetime": "2026-11-05T12:47:42+00:00",
-    "views": "5",
+    "views": "41",
     "text": "雷蒙德·詹姆斯将优步目标价从 100 美元下调至 90 美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3602849",
     "datetime": "2026-11-05T12:47:30+00:00",
-    "views": "5",
+    "views": "41",
     "text": "布伦特原油日内涨幅达 2.5%，突破 97 美元/桶，报 97.06 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3602847",
     "datetime": "2026-11-05T12:47:23+00:00",
-    "views": "5",
+    "views": "41",
     "text": "康菲石油公司在提交给美国证券交易委员会的文件中表示，截至 9 月 30 日，尚未发现卡塔尔投资存在减值迹象。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3602848",
     "datetime": "2026-11-05T12:47:23+00:00",
-    "views": "5",
+    "views": "41",
     "text": "英国央行贝利：市场曲线将进一步限制性政策计入明年，但这主要反映的是风险溢价，而非预期利率，这似乎是对能源风险的公平反映。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3602846",
     "datetime": "2026-11-05T12:47:22+00:00",
-    "views": "5",
+    "views": "41",
     "text": "俄罗斯总统普京的特使德米特里耶夫：油轮“继续按既定航线航行”。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3602845",
     "datetime": "2026-11-05T12:47:02+00:00",
-    "views": "8",
+    "views": "44",
     "text": "俄罗斯总统普京的特使德米特里耶夫驳斥了关于“开往美国的俄罗斯柴油油轮改变航向”的报道，称其为“虚假消息”。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3602844",
     "datetime": "2026-11-05T12:46:42+00:00",
-    "views": "8",
+    "views": "42",
     "text": "瑞士央行行长：瑞郎推升政策传导效果，对经济影响强于欧元区\n瑞士央行行长马丁・施莱格尔表示，受瑞郎影响，瑞士央行货币政策对经济产出的影响要强于欧元区。他周四在苏黎世发表演讲称，央行官员观察到，加息会同时抑制通胀与经济增长，该影响 “略强于” 邻近欧元区以及美国。“这体现出汇率在瑞士货币政策传导机制中占据更重要地位。” 施莱格尔说，“一年之后，瑞士通胀的反应幅度和欧元区相近，略高于美国。这同样印证了汇率的重要性更高。”“回顾本世纪以来瑞士的通胀走势可以看到，绝大多数时间通胀都落在物价稳定对应的区间内。” 施莱格尔称，“瑞士央行完成了维持中期物价稳定的使命。这证明我们的货币政策策略能够适应多种环境。”",
     "media_only": false,
     "image_url": null,
@@ -92,7 +182,7 @@
   {
     "post": "Financial_Express/3602843",
     "datetime": "2026-11-05T12:46:23+00:00",
-    "views": "38",
+    "views": "43",
     "text": "康菲石油公司向美国证券交易委员会提交的文件显示，其在卡塔尔液化天然气设施的投资未受到物理损坏。",
     "media_only": false,
     "image_url": null,
@@ -67471,50 +67561,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3595167"
-  },
-  {
-    "post": "Financial_Express/3595166",
-    "datetime": "2026-11-03T12:50:23+00:00",
-    "views": "67",
-    "text": "波兰央行行长格拉平斯基：调查与董事会任命是两回事。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595166"
-  },
-  {
-    "post": "Financial_Express/3595165",
-    "datetime": "2026-11-03T12:50:02+00:00",
-    "views": "68",
-    "text": "美国新泽西州州长警告称，接受俄罗斯燃料将违反州法律。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595165"
-  },
-  {
-    "post": "Financial_Express/3595164",
-    "datetime": "2026-11-03T12:49:23+00:00",
-    "views": "73",
-    "text": "知情人士：Anthropic 今年年底可用算力将达到 3.5 吉瓦\nAI 巨头 Anthropic 上周提交 S-1 招股文件，预计本月将完成创纪录 IPO，搅动华尔街情绪。 周一公司更新招股书，披露亮眼增长数据，但支出端风险同样突出。 过去一年 Anthropic 签下大量算力采购合约，锁定算力资源训练、运行 AI 大模型，押注暴涨的需求可以覆盖巨额投入。 更新版 S-1 显示，Anthropic 第三季度营收 170 亿美元，同比翻 12 倍，环比二季度上涨 47%；但净亏损 230 亿美元，环比增速从上一季度 144%有所回落。 截至 2045 年，Anthropic 的数据中心、芯片、算力采购承诺总额高达 8954 亿美元；未来 12 个月内，近 700 亿美元的合约款项就要开始兑付。 两名知情人士透露：今年年底，公司可用算力将达到 3.5 吉瓦，足够供应芝加哥全部家庭用电；明年目标算力再翻一倍。 Anthropic 甚至深度参与数据中心设计，招聘基建、供应链专家，还向承建方采购冷却系统等硬件。 它的头号竞争对手 OpenAI 同样在算力上疯狂投入。知情人士透露，OpenAI 预计到 2030 年，算力总投入约 7500 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595164"
-  },
-  {
-    "post": "Financial_Express/3595163",
-    "datetime": "2026-11-03T12:49:22+00:00",
-    "views": "42",
-    "text": "纽约时报：新泽西州州长致信 12 家港口及码头运营商。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595163"
-  },
-  {
-    "post": "Financial_Express/3595162",
-    "datetime": "2026-11-03T12:49:02+00:00",
-    "views": "52",
-    "text": "美国新泽西州州长致信 12 家港口和码头运营商，警告本州港口禁止接收俄罗斯燃料。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595162"
   }
 ]
