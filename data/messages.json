@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3602823",
+    "datetime": "2026-11-05T12:42:03+00:00",
+    "views": "1",
+    "text": "西班牙警方 5 日说，马德里机场三架航班当天上午因虚假炸弹威胁受到影响，安全部队已排除风险。（新华社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602823"
+  },
+  {
+    "post": "Financial_Express/3602824",
+    "datetime": "2026-11-05T12:42:03+00:00",
+    "views": "1",
+    "text": "英国央行行长贝利：近期 GDP 增长中略低于五分之一由人工智能驱动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602824"
+  },
+  {
+    "post": "Financial_Express/3602822",
+    "datetime": "2026-11-05T12:41:22+00:00",
+    "views": "20",
+    "text": "在 Truist Securities 将耐克股票评级下调至卖出后，耐克盘前股价下跌 1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602822"
+  },
+  {
+    "post": "Financial_Express/3602821",
+    "datetime": "2026-11-05T12:41:03+00:00",
+    "views": "22",
+    "text": "罗森布拉特证券公司将高通目标价从 235 美元下调至 205 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602821"
+  },
+  {
+    "post": "Financial_Express/3602820",
+    "datetime": "2026-11-05T12:41:02+00:00",
+    "views": "23",
+    "text": "瑞士央行行长施莱格尔：本世纪迄今，瑞士央行已实现物价稳定目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602820"
+  },
+  {
+    "post": "Financial_Express/3602819",
+    "datetime": "2026-11-05T12:40:23+00:00",
+    "views": "31",
+    "text": "瑞士央行行长施莱格尔：瑞士央行本世纪以来已达成物价稳定目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602819"
+  },
+  {
+    "post": "Financial_Express/3602818",
+    "datetime": "2026-11-05T12:40:02+00:00",
+    "views": "38",
+    "text": "英国央行行长贝利：企业投资增长超出我们的预期。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3602818"
+  },
+  {
     "post": "Financial_Express/3602817",
     "datetime": "2026-11-05T12:39:53+00:00",
-    "views": "1",
+    "views": "40",
     "text": "百度正式开源最新基座模型文心 5.5 Flash Base（ERNIE 5.5 Flash Base）。模型采用 MoE 架构，总参数量 2800 亿，每个 Token 激活 140 亿参数，使用 33.5 万亿个 Token 完成预训练，预训练上下文长度最高达 128K，微调与推理阶段支持最长 100 万 Token 上下文。（新华网）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3602816",
     "datetime": "2026-11-05T12:39:43+00:00",
-    "views": "9",
+    "views": "44",
     "text": "哈萨克斯坦已请求俄罗斯允许恢复经由“友谊”输油管道及乌斯季-卢加港的石油运输。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3602815",
     "datetime": "2026-11-05T12:39:23+00:00",
-    "views": "17",
+    "views": "48",
     "text": "瑞典政府：这一评估主要基于俄乌冲突所导致的严峻安全局势，该局势引发了混合威胁，并带来了敌对行为主体。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3602814",
     "datetime": "2026-11-05T12:39:02+00:00",
-    "views": "25",
+    "views": "54",
     "text": "英国央行行长贝利：国内既有通胀压力仍然高企。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3602813",
     "datetime": "2026-11-05T12:38:42+00:00",
-    "views": "32",
+    "views": "59",
     "text": "百度：文心 5.5 Flash Base 正式开源\n今天，百度正式开源最新基座模型文心 5.5 Flash Base。ERNIE 5.5 Flash Base 采用 MoE 架构，总参数量 2800 亿，每个 Token 激活 140 亿参数，使用 33.5 万亿个 Token 完成预训练，预训练上下文长度最高达 128K，微调与推理阶段支持最长 100 万 Token 上下文。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3602812",
     "datetime": "2026-11-05T12:38:22+00:00",
-    "views": "38",
+    "views": "63",
     "text": "印尼野火烟霾影响减弱 新加坡逐步解除雾霾应急措施\n金十数据 11 月 5 日讯，新加坡空气质量在经历数周浓雾后有所改善，政府大多数部门将于周六起停止实施雾霾应对措施。新加坡国家环境局在声明中表示，通过自动售货机和社区俱乐部发放 N95 及同等防护级别口罩的措施将于 11 月 7 日 18 时结束。部分指定避难中心的空调休息室也将于同一时间关闭，针对户外工作者的雾霾防护措施也将于周六结束。该机构表示，随着季风交替期到来、降雨增多，新加坡的雾霾情况已经改善。此前，受印度尼西亚严重野火季影响，新加坡空气质量连续数周处于“不健康”或“非常不健康”水平。近几日，当地污染物标准指数读数有所改善。周三，新加坡还收紧了跨境雾霾相关法律，新增限制措施，并对与涉嫌参与引发野火的实体或个人有业务往来的企业处以罚款。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3602811",
     "datetime": "2026-11-05T12:38:02+00:00",
-    "views": "34",
+    "views": "51",
     "text": "Truist 证券：将万事达卡目标价从 674 美元上调至 735 美元。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3602810",
     "datetime": "2026-11-05T12:37:42+00:00",
-    "views": "36",
+    "views": "53",
     "text": "瑞典政府：决定在瑞典内部边境重新实施边境管控，为期六个月。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3602808",
     "datetime": "2026-11-05T12:36:23+00:00",
-    "views": "31",
+    "views": "47",
     "text": "国轩高科：合肥市国资委批复同意合肥建投受让大众中国 5.30%股权\n国轩高科公告，公司持股 5%以上股东大众汽车（中国）投资有限公司此前与合肥市建设投资有限公司签署股份转让协议，拟转让公司 96180444 股无限售条件流通股股份（占总股本 5.30%）。近日公司收到受让方通知，合肥市人民政府国有资产监督管理委员会已出具批复，同意合肥市建设投资有限公司协议受让大众汽车（中国）投资有限公司持有的公司 5.30%股权（对应 96180444 股），每股交易价格为 24.09 元，转让价款 23.17 亿元。本次协议转让尚需取得深圳证券交易所合规性确认，并在中国证券登记结算有限责任公司深圳分公司办理股份过户登记等手续。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3602809",
     "datetime": "2026-11-05T12:36:23+00:00",
-    "views": "31",
+    "views": "45",
     "text": "超威半导体美股盘前跌超 4%\n超威半导体美股盘前跌超 4%，现报 469.198 美元。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3602807",
     "datetime": "2026-11-05T12:36:22+00:00",
-    "views": "27",
+    "views": "42",
     "text": "瑞典政府：评估主要基于俄乌冲突导致的严重安全局势，这带来了混合威胁和敌对行为者。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3602806",
     "datetime": "2026-11-05T12:36:02+00:00",
-    "views": "24",
+    "views": "38",
     "text": "印度石油天然气公司（ONGC）第二季度原油官方售价为每桶 92.33 美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +182,7 @@
   {
     "post": "Financial_Express/3602805",
     "datetime": "2026-11-05T12:35:43+00:00",
-    "views": "53",
+    "views": "64",
     "text": "哈萨克斯坦已要求俄罗斯允许恢复通过德鲁日巴管道和乌斯季卢加港的石油运输。",
     "media_only": false,
     "image_url": null,
@@ -67300,32 +67363,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3595152"
-  },
-  {
-    "post": "Financial_Express/3595151",
-    "datetime": "2026-11-03T12:42:42+00:00",
-    "views": "84",
-    "text": "胡塞武装发言人：我们用多枚弹道导弹打击了沙特敌方雇佣兵集结地，造成大量人员伤亡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595151"
-  },
-  {
-    "post": "Financial_Express/3595150",
-    "datetime": "2026-11-03T12:42:22+00:00",
-    "views": "86",
-    "text": "厄尔尼诺将对我国今冬明春气候产生明显影响\n记者从中国气象局 11 月 3 日举行的新闻发布会上获悉，有监测记录以来最强厄尔尼诺事件将对我国今冬明春气候产生明显影响。国家气候中心副主任高荣表示，预计 2026 年末至 2027 年初这个冬季全国气温总体偏高，但寒潮频次略偏多，气温冷暖起伏大，北方强降温降雪、南方阶段性低温雨雪冰冻风险突出。除内蒙古东北部、东北地区西部气温偏低外，全国其余大部地区气温接近常年同期到偏高，并呈前冬冷、后冬暖的特点，12 月和 1 月阶段性强降温和强升温事件频繁。全国降水总体偏多，北方大部地区强降雪过程多发，南方降水显著偏多，其中华东西南部、华中中南部、华南地区北部、西南地区东部等地有阶段性低温雨雪冰冻天气。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595150"
-  },
-  {
-    "post": "Financial_Express/3595149",
-    "datetime": "2026-11-03T12:41:36+00:00",
-    "views": "92",
-    "text": "从中国气象局 11 月 3 日举行的新闻发布会上获悉，有监测记录以来最强厄尔尼诺事件将对我国今冬明春气候产生明显影响。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3595149"
   }
 ]
