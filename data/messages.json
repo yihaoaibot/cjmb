@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3604383",
+    "datetime": "2026-11-06T00:36:02+00:00",
+    "views": "1",
+    "text": "韩国交易所对 KOSPI 指数启动侧车机制，程序化交易暂停 5 分钟。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3604383"
+  },
+  {
+    "post": "Financial_Express/3604382",
+    "datetime": "2026-11-06T00:35:42+00:00",
+    "views": "5",
+    "text": "三星电子与 SK 海力士跌幅均收窄至 7%一线。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3604382"
+  },
+  {
+    "post": "Financial_Express/3604381",
+    "datetime": "2026-11-06T00:35:18+00:00",
+    "views": "7",
+    "text": "受俄罗斯接管资产影响，日本烟草股价势将跌停。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3604381"
+  },
+  {
+    "post": "Financial_Express/3604379",
+    "datetime": "2026-11-06T00:34:22+00:00",
+    "views": "14",
+    "text": "韩国 KOSPI 指数从熔断中恢复交易，跌幅收窄至 6.8%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3604379"
+  },
+  {
+    "post": "Financial_Express/3604380",
+    "datetime": "2026-11-06T00:34:22+00:00",
+    "views": "14",
+    "text": "分析师：纳斯达克期货小幅反弹，难给亚洲市场带来慰藉\n在周四纳斯达克指数遭遇“大屠杀”式暴跌后，纳斯达克 100 指数期货正出现小幅回升，进入盘整阶段。目前该合约上涨约 0.4%，而标普 500 E-mini 期货基本持平。正如金融市场策略师马克·克兰菲尔德（Mark Cranfield）所指出的，鉴于韩国 KOSPI 指数和日本日经 225 指数开盘时跌幅极深，这波反弹不太可能促使它们扭转跌势。事实上，这似乎已成为一种规律：一旦亚洲现货市场开盘并成为抛售交易的主战场，纳斯达克期货往往会随之出现反弹。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3604380"
+  },
+  {
+    "post": "Financial_Express/3604378",
+    "datetime": "2026-11-06T00:34:02+00:00",
+    "views": "17",
+    "text": "受隔夜美国股市科技股大跌影响，日本股市人工智能和半导体板块遭抛售，日经 225 种股票平均价格指数盘中跌破 60000 点，为 5 月 20 日以来首次。日经 225 指数较 6 月高点下跌 20%，势将进入技术性熊市。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3604378"
+  },
+  {
     "post": "Financial_Express/3604377",
     "datetime": "2026-11-06T00:32:33+00:00",
-    "views": "17",
+    "views": "60",
     "text": "日本首相高市早苗：已注意到人工智能（AI）及芯片股出现大幅下跌，目前尚难断定此轮跌势是暂时的还是会持续下去。\n市场波动不仅影响到日本，也波及全球各国，因此正密切关注市场动向。\n我们将专注于通过提升日本具备竞争优势的领域，来出台强化经济的举措。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3604376",
     "datetime": "2026-11-06T00:32:23+00:00",
-    "views": "18",
+    "views": "60",
     "text": "中信证券：医美行业结构性机会持续存在\n中信证券研报称，医美行业当前处于上游注册证快速增加的阶段，竞争较为激烈，但结构性机会持续存在：差异化新品红利仍存，营销获客、医学推广、产品组合、渠道运营等综合能力强的上游品牌有望在竞争中胜出。下游显著受益于产业链格局变化，能够夯实自身美誉度、降低获客成本以及提供综合解决方案、提升毛利率的下游品牌有望持续提升份额。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3604374",
     "datetime": "2026-11-06T00:32:22+00:00",
-    "views": "16",
+    "views": "57",
     "text": "日本首相高市早苗：我们将重点采取措施，通过提振日本具有竞争优势的领域来增强经济。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3604375",
     "datetime": "2026-11-06T00:32:22+00:00",
-    "views": "17",
+    "views": "59",
     "text": "日本首相高市早苗：市场波动不仅影响日本，也影响全球各国，因此正密切关注事态发展。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3604373",
     "datetime": "2026-11-06T00:30:42+00:00",
-    "views": "55",
+    "views": "64",
     "text": "MSCI 亚太指数下跌 3%至 247.75 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3604371",
     "datetime": "2026-11-06T00:30:02+00:00",
-    "views": "54",
+    "views": "60",
     "text": "日经 225 指数失守 6 万点大关 跌入熊市\n金十数据 11 月 6 日讯，日经 225 指数跌破了备受关注的 60000 点大关，现跌幅扩大至 6.5%；随着投资者纷纷平仓与人工智能相关的交易，该指数仍面临进一步下挫的风险。自 6 月底以来，日经指数已大幅走低，目前正从高点回落 20%并陷入“技术性熊市”的风险。以科技股为主的日经指数与更广泛的东证指数之间的表现差距，已扩大至数十年来最大。美股芯片股在美国中期选举后的跌势进一步加剧；由于市场猜测民主党可能会对人工智能行业采取限制措施，投资者纷纷抛售科技股。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3604372",
     "datetime": "2026-11-06T00:30:02+00:00",
-    "views": "56",
+    "views": "94",
     "text": "“新材料之王”提价 3000 元/吨 碳纤维新兴应用领域崛起\n11 月 4 日，吉林化纤碳纤维销售中心发布调价函显示，由于碳纤维上游原材料价格持续高位，决定对旗下碳纤维产品价格进行调整——每吨上调 3000 元，此次产品调价当日生效。本轮调价是吉林化纤 2026 年内继年初、3 月之后的又一次价格上调。上游原料丙烯腈走高，成本压力持续向下游传导，推动国内碳纤维行业进入连续提价周期。商业航天、低空经济、人形机器人等新兴领域快速崛起，给碳纤维带来新的增量需求。A 股市场中，碳纤维上市公司主要有上海石化、吉林化纤、吉林碳谷、中复神鹰、中简科技以及精工科技等十余只。从股价表现看，碳纤维相关个股年内普跌，其中中简科技跌幅超 50%，精工科技、光威复材跌超 40%，金发科技、楚江新材、光大同创等跌超 20%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3604370",
     "datetime": "2026-11-06T00:29:02+00:00",
-    "views": "59",
+    "views": "94",
     "text": "美国《纽约时报》5 日报道，美国国务卿鲁比奥否认有关他计划离职竞选总统的报道，称将在本届政府任期结束前一直留任。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3604369",
     "datetime": "2026-11-06T00:28:43+00:00",
-    "views": "60",
+    "views": "93",
     "text": "软银集团股价跌幅扩大至 16%，创 2024 年 8 月来最大单日跌幅。\n铠侠股价大跌 14%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3604368",
     "datetime": "2026-11-06T00:28:42+00:00",
-    "views": "60",
+    "views": "93",
     "text": "软银集团股价下跌幅度扩大至 16%，创下自 2024 年 8 月以来最大跌幅。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3604367",
     "datetime": "2026-11-06T00:28:02+00:00",
-    "views": "93",
+    "views": "96",
     "text": "铠侠股价下跌 14%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3604366",
     "datetime": "2026-11-06T00:27:52+00:00",
-    "views": "92",
+    "views": "96",
     "text": "纳斯达克 100 指数期货日内涨幅扩大至 0.6%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3604365",
     "datetime": "2026-11-06T00:27:22+00:00",
-    "views": "94",
+    "views": "98",
     "text": "日本股指跌近 7% 科技股重挫\n金十数据 11 月 6 日讯，日经 225 指数跌破 57000 点，日内跌 6.72%。东京电子下跌 13%，爱德万测试跌 13%，软银跌 14%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3604364",
     "datetime": "2026-11-06T00:26:42+00:00",
-    "views": "94",
+    "views": "97",
     "text": "日经 225 指数跌破 57000 点，为自 4 月 13 日以来首次。",
     "media_only": false,
     "image_url": null,
@@ -69775,23 +69829,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3596424"
-  },
-  {
-    "post": "Financial_Express/3596422",
-    "datetime": "2026-11-04T00:36:24+00:00",
-    "views": "96",
-    "text": "一个维权组织计划周四向消费者保护机构提出申诉，指特斯拉通过推销一款明知无法在韩国大多数特斯拉汽车上合法使用的驾驶辅助软件，误导了数以万计的韩国消费者。（路透）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3596422"
-  },
-  {
-    "post": "Financial_Express/3596421",
-    "datetime": "2026-11-04T00:35:02+00:00",
-    "views": "128",
-    "text": "纽约期金失守 3930 美元/盎司，日内跌 0.27%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3596421"
   }
 ]
