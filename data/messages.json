@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3607424",
+    "datetime": "2026-11-06T17:52:37+00:00",
+    "views": "1",
+    "text": "LME 期铜收跌 76 美元，报 13768 美元/吨。\nLME 期铝收跌 2 美元，报 3062 美元/吨。\nLME 期锌收跌 82 美元，报 3711 美元/吨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3607424"
+  },
+  {
+    "post": "Financial_Express/3607422",
+    "datetime": "2026-11-06T17:51:42+00:00",
+    "views": "2",
+    "text": "CoreWeave 转跌，此前一度涨 9.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3607422"
+  },
+  {
+    "post": "Financial_Express/3607423",
+    "datetime": "2026-11-06T17:51:42+00:00",
+    "views": "2",
+    "text": "乌总统办公室主任透露将率代表团参加乌美俄三方会谈\n金十数据 11 月 7 日讯，当地时间 11 月 6 日，乌克兰总统办公室主任布达诺夫在采访中透露，他将率领乌克兰代表团，于 11 月 10 日至 11 日在阿联酋阿布扎比参加乌俄美三方会谈。布达诺夫表示，他并不期待本次会谈能够取得突破性成果，但俄乌时隔数月重启面对面磋商，本身就是谈判进程中的积极信号。他强调，能够恢复双方直接接触具有重要意义。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3607423"
+  },
+  {
     "post": "Financial_Express/3607421",
     "datetime": "2026-11-06T17:48:42+00:00",
-    "views": "4",
+    "views": "5",
     "text": "报道：微软逐步终止与甲骨文 AI 算力租赁协议\n金十数据 11 月 7 日讯，据外媒援引知情人士报道，微软（MSFT.O）已不再续签与甲骨文（ORCL.N）的 AI 算力租赁合同，并于近几个月逐步关闭租用的计算资源。知情人士称，甲骨文提供的服务器采用较旧一代英伟达（NVDA.O）芯片，已不再符合微软当前的技术规格。双方于 2023 年达成该协议，为新版 AI 搜索引擎必应提供算力，具体合同金额不明。甲骨文回应称，其 AI 基础设施需求依然强劲，旧一代 GPU 仍有市场。微软正重新评估外部 AI 算力合作，此前已向 CoreWeave、Nscale 和 Nebius 等新兴云服务商承诺超过 800 亿美元的算力租赁支出。此前有报道称，微软管理层对部分供应商的高昂成本及项目延期日益不满，近期加强数据中心项目审查，退出部分高风险项目，并重新考虑是否签订新的算力合作协议。与此同时，甲骨文云业务快速扩张，但高额资本支出导致自由现金流转负，投资者对其 AI 基础设施投入回报的担忧加剧，股价较今年高点已下跌逾一半。受消息影响，甲骨文股价迅速转跌，盘中跌幅一度扩大至 4.6%，目前跌约 3%，此前一度上涨约 3.5%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3607420",
     "datetime": "2026-11-06T17:48:02+00:00",
-    "views": "4",
+    "views": "35",
     "text": "乌总统办公室主任透露将率代表团参加乌美俄三方会谈\n当地时间 11 月 6 日，乌克兰总统办公室主任布达诺夫在采访中透露，他将率领乌克兰代表团，于 11 月 10 日至 11 日在阿联酋阿布扎比参加乌俄美三方会谈。布达诺夫表示，他并不期待本次会谈能够取得突破性成果，但俄乌时隔数月重启面对面磋商，本身就是谈判进程中的积极信号。他强调，能够恢复双方直接接触具有重要意义。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3607419",
     "datetime": "2026-11-06T17:47:42+00:00",
-    "views": "4",
+    "views": "35",
     "text": "马斯克：SpaceX 本季度单季营收将大幅高于 NASA 全年预算。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3607417",
     "datetime": "2026-11-06T17:45:02+00:00",
-    "views": "36",
+    "views": "66",
     "text": "美国国债收益率小幅走低，10 年期和 30 年期国债收益率触及当日低点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3607414",
     "datetime": "2026-11-06T17:43:22+00:00",
-    "views": "66",
+    "views": "96",
     "text": "Bloom Energy 回吐涨幅，刷新日低。",
     "media_only": false,
     "image_url": null,
@@ -66841,68 +66868,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3599906"
-  },
-  {
-    "post": "Financial_Express/3599905",
-    "datetime": "2026-11-04T17:52:10+00:00",
-    "views": "106",
-    "text": "巴拿马运河管理局长称，受近期降雨补给，航道得以维持每日 33 艘次深吃水船舶的通行配额；预计旱季结束前，每日获批通行量将维持在 32 至 33 艘次区间。\n最大授权船舶吃水深度可能根据未来几个月的降雨情况进行调整。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3599905"
-  },
-  {
-    "post": "Financial_Express/3599904",
-    "datetime": "2026-11-04T17:52:03+00:00",
-    "views": "105",
-    "text": "巴拿马运河管理局局长表示，最大授权船舶吃水深度可能根据未来几个月的降雨情况进行调整。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3599904"
-  },
-  {
-    "post": "Financial_Express/3599903",
-    "datetime": "2026-11-04T17:52:02+00:00",
-    "views": "105",
-    "text": "巴拿马运河负责人：最大授权船舶吃水深度可能根据未来几个月的降雨情况进行调整。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3599903"
-  },
-  {
-    "post": "Financial_Express/3599902",
-    "datetime": "2026-11-04T17:51:54+00:00",
-    "views": "97",
-    "text": "LME 期铜收跌 25 美元，报 14011 美元/吨。\nLME 期铝收涨 2 美元，报 3047 美元/吨。\nLME 期锌收涨 16 美元，报 3807 美元/吨。\nLME 期铅收跌 2 美元，报 1882 美元/吨。\nLME 期镍收涨 432 美元，报 15779 美元/吨。\nLME 期锡收跌 440 美元，报 46995 美元/吨。\nLME 期钴收平，报 33525 美元/吨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3599902"
-  },
-  {
-    "post": "Financial_Express/3599901",
-    "datetime": "2026-11-04T17:51:42+00:00",
-    "views": "66",
-    "text": "巴拿马运河管理局长称，受近期降雨补给，航道得以维持每日 33 艘次深吃水船舶的通行配额；预计旱季结束前，每日获批通行量将维持在 32 至 33 艘次区间。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3599901"
-  },
-  {
-    "post": "Financial_Express/3599900",
-    "datetime": "2026-11-04T17:51:22+00:00",
-    "views": "65",
-    "text": "巴拿马运河负责人：近期巴拿马的降雨使运河得以维持每日 33 艘次的通行上限，预计在旱季结束前将保持每日 32 至 33 艘次的获准通行量。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3599900"
-  },
-  {
-    "post": "Financial_Express/3599899",
-    "datetime": "2026-11-04T17:50:46+00:00",
-    "views": "64",
-    "text": "周三（11 月 4 日）欧市尾盘，德国 10 年期国债收益率跌 5.8 个基点，报 3.272%，日内交投于 3.335%-3.263%区间，全天处于下跌状态，亚太尾盘至北京时间 23:22 维持微幅下跌状态、持续交投于 3.320%附近，随后持续扩大跌幅。\n两年期德债收益率跌 6.2 个基点，报 3%，日内交投于 3.081%-2.998%区间，尾盘显著下跌；30 年期德债收益率跌 2.9 个基点，报 3.669%。\n2/10 年期德债收益率利差涨 0.331 个基点，报+26.885 个基点，全天呈现出宽底 U 形反转。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3599899"
   }
 ]
