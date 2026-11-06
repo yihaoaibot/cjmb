@@ -1,9 +1,45 @@
 [
   {
+    "post": "Financial_Express/3607410",
+    "datetime": "2026-11-06T17:39:42+00:00",
+    "views": "2",
+    "text": "纳斯达克 100 指数收窄涨幅，触及盘中低点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3607410"
+  },
+  {
+    "post": "Financial_Express/3607409",
+    "datetime": "2026-11-06T17:38:57+00:00",
+    "views": "2",
+    "text": "微软公司正逐步终止向甲骨文公司租用 AI 算力的安排，这是其对云合作伙伴关系进行更大范围重估的一部分。微软此前租用的甲骨文算力之所以变得不再好用，是因为它已不符合公司的规格要求——该批硬件使用的是英伟达较旧一代芯片。在已承诺投入逾 800 亿美元向其他云公司租用算力之后，微软因对”新云”（neocloud）供应商的高成本和交付延误感到不满，正在重新思考其战略。（彭博）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3607409"
+  },
+  {
+    "post": "Financial_Express/3607408",
+    "datetime": "2026-11-06T17:38:44+00:00",
+    "views": "2",
+    "text": "甲骨文股价快速转跌，当前跌幅 4%，刷新日低。\n纳斯达克 100 指数涨幅收窄至 1.2%，刷新日低，纳指涨 1%，标普涨 0.49%，道指转而重新跌超 0.1%，半导体指数目前涨 3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3607408"
+  },
+  {
+    "post": "Financial_Express/3607407",
+    "datetime": "2026-11-06T17:38:22+00:00",
+    "views": "33",
+    "text": "微软(MSFT.O)正在逐步终止与甲骨文(ORCL.N)有关租用人工智能云算力的交易。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3607407"
+  },
+  {
     "post": "Financial_Express/3607406",
     "datetime": "2026-11-06T17:38:02+00:00",
-    "views": "1",
-    "text": "甲骨文短线跳水。",
+    "views": "34",
+    "text": "甲骨文短线跳水，现跌超 4%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3607406"
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3607405",
     "datetime": "2026-11-06T17:37:41+00:00",
-    "views": "2",
+    "views": "35",
     "text": "报道：微软正逐步终止向甲骨文租用 AI 云算力的安排\n微软公司正逐步终止向甲骨文公司租用 AI 算力的安排，这是其对云合作伙伴关系进行更大范围重估的一部分。微软此前租用的甲骨文算力之所以变得不再好用，是因为它已不符合公司的规格要求——该批硬件使用的是英伟达较旧一代芯片。在已承诺投入逾 800 亿美元向其他云公司租用算力之后，微软因对”新云”（neocloud）供应商的高成本和交付延误感到不满，正在重新思考其战略。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3607404",
     "datetime": "2026-11-06T17:37:02+00:00",
-    "views": "3",
+    "views": "36",
     "text": "微软正在逐步终止与甲骨文有关租用人工智能云算力的交易。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3607403",
     "datetime": "2026-11-06T17:34:51+00:00",
-    "views": "35",
+    "views": "36",
     "text": "周五（11 月 6 日）欧市尾盘，ICE 英国天然气期货跌 5.74%，报 212 便士/千卡，本周累计下跌 17.70%，11 月 2-4 日持续震荡下行。\nTTF 基准荷兰天然气期货跌 4.72%，报 85.702 欧元/兆瓦时，北京时间 20:30 跌至 81.328 欧元，本周累跌 17.83%。\nICE 欧盟碳排放交易许可（期货价格）累跌 2.79%，报 86.70 欧元/吨。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3607402",
     "datetime": "2026-11-06T17:32:39+00:00",
-    "views": "35",
+    "views": "96",
     "text": "美国财长贝森特：要求中国立即全面履行承诺。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3607401",
     "datetime": "2026-11-06T17:32:22+00:00",
-    "views": "37",
+    "views": "98",
     "text": "英国海事机构：今年已记录 155 起与美伊冲突有关的海上安全事件\n金十数据 11 月 7 日讯，当地时间 11 月 6 日，英国海上贸易行动办公室（UKMTO）发布最新一期海上安全周报，报告显示，今年以来其自愿报告区域内已记录 155 起与美国和伊朗冲突有关的海上安全事件；截至 11 月 6 日，该机构今年累计发布 166 份安全警告和 22 份安全通告。UKMTO 持续监测中东及周边重要航运通道的安全形势，并向过往商船发布风险预警。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3607400",
     "datetime": "2026-11-06T17:32:02+00:00",
-    "views": "42",
+    "views": "73",
     "text": "金十图示：2026 年 11 月 06 日（周五）美股热门股票行情一览（美股盘中）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3607399",
     "datetime": "2026-11-06T17:31:42+00:00",
-    "views": "48",
+    "views": "79",
     "text": "加拿大工业部长：已要求竞争事务专员调查是否可对克利夫兰-克利夫斯采取执法行动。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3607398",
     "datetime": "2026-11-06T17:31:02+00:00",
-    "views": "55",
+    "views": "56",
     "text": "卡塔尔首相：美国和伊朗无法达成“完美协议”。美国和伊朗应接受一项好的协议，而非追求完美的协议。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3607397",
     "datetime": "2026-11-06T17:30:53+00:00",
-    "views": "57",
+    "views": "58",
     "text": "11 月 6 日，英国海上贸易行动办公室（UKMTO）发布最新一期海上安全周报，报告显示，今年以来其自愿报告区域内已记录 155 起与美国和伊朗冲突有关的海上安全事件；截至 11 月 6 日，该机构今年累计发布 166 份安全警告和 22 份安全通告。UKMTO 持续监测中东及周边重要航运通道的安全形势，并向过往商船发布风险预警。（央视）",
     "media_only": false,
     "image_url": null,
