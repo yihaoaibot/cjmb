@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3608257",
+    "datetime": "2026-11-07T09:24:53+00:00",
+    "views": "4",
+    "text": "当地时间 11 月 4 日，苹果研究团队在预印本平台 arXiv 提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统 HALO。研究团队将该系统部署在宇树科技的 G1 人形机器人上进行验证，让机器人将在仿真环境中学到的动作，带到陌生的现实房间中执行。\n研究团队还公开了数据生成、模型训练和部署代码，涵盖动作生成、动作跟踪、任务编排以及仿真和真实机器人运行等环节。\n搭载 HALO 系统的宇树 G1 机器人在不同真实环境中演示钻过桌底、坐上沙发和推箱子等任务。\n项目页面展示了机器人听从指令推箱子、跟随人、坐上椅子，以及侧身穿过半开的门、俯身或爬行穿过桌底等动作。这些任务需要机器人理解周围环境，并根据空间条件调整身体姿态。（澎湃）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3608257"
+  },
+  {
     "post": "Financial_Express/3608256",
     "datetime": "2026-11-07T09:24:33+00:00",
-    "views": "2",
+    "views": "6",
     "text": "当地时间 11 月 4 日，苹果研究团队在预印本平台 arXiv 提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统 HALO。研究团队将该系统部署在宇树科技的 G1 人形机器人上进行验证，让机器人将在仿真环境中学到的动作，带到陌生的现实房间中执行。",
     "media_only": false,
     "image_url": null,
@@ -11,8 +20,8 @@
   {
     "post": "Financial_Express/3608255",
     "datetime": "2026-11-07T09:23:42+00:00",
-    "views": "5",
-    "text": "中国驻墨尔本总领事就领区一名中国公民不幸遇害案件同澳大利亚维多利亚州州长紧急通话\n11 月 7 日下午，房新文总领事应约同维多利亚州州长卡罗尔紧急通话。卡罗尔对 11 月 6 日晚一名中国公民在墨尔本市区不幸遇害身亡深感痛心、深表震惊，表示凶手目前已被警方逮捕，请房总领事向遇害者家属转达他的深切哀悼和诚挚慰问。房总领事允尽快向家属转告，并要求卡罗尔州长和维州政府及警方依法公正处理此案，严惩凶手，切实维护中国公民生命安全和合法权益。卡罗尔表示，我们将坚定表明立场，绝不容忍这样的行径，正义必须得到伸张。（中国驻墨尔本总领事馆）",
+    "views": "7",
+    "text": "中国驻墨尔本总领事就领区一名中国公民不幸遇害案件同澳大利亚维多利亚州州长紧急通话\n11 月 7 日下午，房新文总领事应约同维多利亚州州长卡罗尔紧急通话。卡罗尔对 11 月 6 日晚一名中国公民在墨尔本市区不幸遇害身亡深感痛心、深表震惊，表示凶手目前已被警方逮捕，请房总领事向遇害者家属转达他的深切哀悼和诚挚慰问。房总领事允尽快向家属转告，并要求卡罗尔州长和维州政府及警方依法公正处理此案，严惩凶手，切实维护中国公民生命安全和合法权益。卡罗尔表示，我们将坚定表明立场，绝不容忍这样的行径，正义必须得到伸张。（中国驻墨尔本总领事馆）\n👍1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3608255"
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3608254",
     "datetime": "2026-11-07T09:22:22+00:00",
-    "views": "8",
+    "views": "38",
     "text": "美科技股遭抛售 AI 巨头承压，Anthropic 估值预期骤降 40%\n近期，大量美国科技股遭抛售，AI 领域投资回报受到越来越多的审视。据彭博社 6 日报道，部分潜在投资者准备给予 Anthropic1.2 万亿至 1.3 万亿美元的 IPO 估值，较此前预期的 2 万亿美元下降至多 40%。而英国《金融时报》的最新报道称，投资者预计 Anthropic 估值可能接近 1.5 万亿美元。另据外媒报道，OpenAI 最新一轮融资已完成 110 亿美元，后续份额预计在未来数周完成，本轮融资总规模可能增至 200 亿美元，公司估值约为 1.25 万亿美元。报道称，OpenAI 最初的目标是以 1.4 万亿美元的估值筹集至少 300 亿美元资金，但当前市场环境下，公司不得不缩减融资计划。 （央视财经）\n👍1",
     "media_only": false,
     "image_url": null,
@@ -54988,50 +54997,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3602066"
-  },
-  {
-    "post": "Financial_Express/3602065",
-    "datetime": "2026-11-05T09:26:03+00:00",
-    "views": "41",
-    "text": "港交所：衍生产品市场前十个月期货及期权日均成交量为 170 万张合约。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3602065"
-  },
-  {
-    "post": "Financial_Express/3602064",
-    "datetime": "2026-11-05T09:25:58+00:00",
-    "views": "39",
-    "text": "布伦特原油日内涨幅达 1.0%，报 95.57 美元/桶。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3602064"
-  },
-  {
-    "post": "Financial_Express/3602063",
-    "datetime": "2026-11-05T09:25:42+00:00",
-    "views": "39",
-    "text": "港交所：2026 年 10 月日均成交额为 1807 亿港元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3602063"
-  },
-  {
-    "post": "Financial_Express/3602062",
-    "datetime": "2026-11-05T09:25:02+00:00",
-    "views": "39",
-    "text": "沙特阿拉伯就延布地区潜在危险发出警告。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3602062"
-  },
-  {
-    "post": "Financial_Express/3602061",
-    "datetime": "2026-11-05T09:24:42+00:00",
-    "views": "39",
-    "text": "松下在中国台湾工厂发生爆炸，造成两人死亡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3602061"
   }
 ]
