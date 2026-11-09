@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3612204",
+    "datetime": "2026-11-09T19:04:23+00:00",
+    "views": "1",
+    "text": "美国共和党众议员 Thomas Massie：我将在美东时间下午 3 点 30 分左右、也就是宣读弹劾条款后立即在众议院三角地举行新闻发布会。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612204"
+  },
+  {
+    "post": "Financial_Express/3612202",
+    "datetime": "2026-11-09T19:04:22+00:00",
+    "views": "1",
+    "text": "法国央行：增长评估存在很大不确定性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612202"
+  },
+  {
+    "post": "Financial_Express/3612203",
+    "datetime": "2026-11-09T19:04:22+00:00",
+    "views": "1",
+    "text": "法国央行：经济在第四季度将温和增长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612203"
+  },
+  {
+    "post": "Financial_Express/3612201",
+    "datetime": "2026-11-09T19:03:43+00:00",
+    "views": "6",
+    "text": "OpenAI：符合条件的客户还可通过 AWS Marketplace 获取面向医疗健康的 ChatGPT 和面向金融服务的 ChatGPT。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612201"
+  },
+  {
+    "post": "Financial_Express/3612200",
+    "datetime": "2026-11-09T19:03:42+00:00",
+    "views": "6",
+    "text": "恒指期货夜盘收跌 0.01%，报 24506 点，高水 57 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612200"
+  },
+  {
+    "post": "Financial_Express/3612199",
+    "datetime": "2026-11-09T19:03:22+00:00",
+    "views": "7",
+    "text": "Anthropic：Fable 与 Mythos 实际上基于同一个底层模型。Fable 内置了严格的安全防护机制，以防止模型被滥用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612199"
+  },
+  {
+    "post": "Financial_Express/3612198",
+    "datetime": "2026-11-09T19:03:02+00:00",
+    "views": "8",
+    "text": "OpenAI：ChatGPT Enterprise 即日起在 AWS Marketplace 上线。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612198"
+  },
+  {
+    "post": "Financial_Express/3612197",
+    "datetime": "2026-11-09T19:02:22+00:00",
+    "views": "11",
+    "text": "百事公司将在北美裁减约 1000 个工作岗位。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612197"
+  },
+  {
     "post": "Financial_Express/3612196",
     "datetime": "2026-11-09T19:02:02+00:00",
-    "views": "4",
+    "views": "13",
     "text": "在岸人民币兑美元夜盘收盘报 6.6724，较上一交易日上涨 39 点。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3612195",
     "datetime": "2026-11-09T19:01:22+00:00",
-    "views": "8",
+    "views": "46",
     "text": "Anthropic：推出的新模型 Fable 5.2 速度更快、成本更低。美国政府在发布前审查了其新模型。其采用新的评估方法测试模型是否会出现失控行为。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3612193",
     "datetime": "2026-11-09T19:00:48+00:00",
-    "views": "13",
+    "views": "51",
     "text": "恒指期货夜盘收涨 0.03%，报 24500.96 点，高水 52.01 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3612194",
     "datetime": "2026-11-09T19:00:48+00:00",
-    "views": "13",
+    "views": "51",
     "text": "Anthropic 在 IPO 前推出新款 Fable 和 Mythos 人工智能模型。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3612192",
     "datetime": "2026-11-09T19:00:19+00:00",
-    "views": "16",
+    "views": "54",
     "text": "恒生指数主连夜盘收跌 0.01%，报 24506 点。\n恒生科技指数主连夜盘收跌 0.15%，报 4047 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3612191",
     "datetime": "2026-11-09T19:00:04+00:00",
-    "views": "17",
+    "views": "54",
     "text": "SpaceX 计划在得州星基地企业城镇建设燃气电厂与超级算力设施，项目首期预估投资 240 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3612190",
     "datetime": "2026-11-09T19:00:02+00:00",
-    "views": "17",
+    "views": "53",
     "text": "Anthropic：Fable 5.2 和 Mythos 5.2 在我们评估的几乎所有能力上都优于 Opus 5.5。测试者发现，它们比之前的 Fable 和 Mythos 模型沟通更清晰。输出速度比 Fable 5.1 和 Mythos 5.1 快 30%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3612189",
     "datetime": "2026-11-09T18:59:42+00:00",
-    "views": "50",
+    "views": "56",
     "text": "Anthropic：推出 Claude Fable 5.2 和 Claude Mythos 5.2，旨在应对最艰巨的技术挑战。它们能在诸多领域的大型项目中成为得力协作者，并在编程、推理和视觉等能力上均有显著提升。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3612188",
     "datetime": "2026-11-09T18:59:10+00:00",
-    "views": "53",
+    "views": "58",
     "text": "Anthropic PBC：通过 Geometric 问题进行 01 推理。\n我们设计三款正在运作的硬件原型。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3612187",
     "datetime": "2026-11-09T18:58:22+00:00",
-    "views": "56",
+    "views": "61",
     "text": "预测市场认为黄仁勋短期离职概率较低\n黄仁勋在 2027 年 3 月底前辞职或被迫离职的概率约为 25%。英伟达周一美股盘中股价跌逾 5%，费城半导体指数上涨 6.5%，英伟达为该指数中唯一走低的成分股。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3612186",
     "datetime": "2026-11-09T18:58:02+00:00",
-    "views": "59",
+    "views": "63",
     "text": "Anthropic：Claude 已经设计出三套可正常运行的硬件原型。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3612185",
     "datetime": "2026-11-09T18:56:22+00:00",
-    "views": "63",
+    "views": "66",
     "text": "Anthropic：01 模型依托几何问题开展推理能力测试。",
     "media_only": false,
     "image_url": null,
@@ -32578,14 +32650,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3608553"
-  },
-  {
-    "post": "Financial_Express/3608552",
-    "datetime": "2026-11-07T19:02:42+00:00",
-    "views": "144",
-    "text": "俄宇航员：没有核电站进一步探索月球将不可能\n金十数据 11 月 8 日讯，据俄罗斯卫星通讯社报道，俄罗斯航天集团宇航员大队副指挥安德烈·巴布金表示，在月球上建造核电站是进一步探索月球的前提，包括开展载人任务。此前，俄罗斯原子能集团公司总经理阿列克谢·利哈切夫表示，俄罗斯计划在 2030 年代中期前建造月球首座核电站。巴布金在塔什干“科学 0+”国际节期间谈及在月球建设核电站的计划时表示：“没有这样的发电站，月球的进一步探索根本不可能”。他还说，在持续约 14 个地球日的漫长月夜条件下，以及极低的温度，核电站是“唯一能确保稳定和安全的解决方案”。他指出，可靠的能源来源在从无人探索系统向载人远征过渡中尤为重要。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3608552"
   }
 ]
