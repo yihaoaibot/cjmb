@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3612232",
+    "datetime": "2026-11-09T19:15:42+00:00",
+    "views": "5",
+    "text": "美国国务卿鲁比奥：我们需要更多讨论人工智能对经济造成的颠覆性影响。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612232"
+  },
+  {
+    "post": "Financial_Express/3612231",
+    "datetime": "2026-11-09T19:15:02+00:00",
+    "views": "12",
+    "text": "美国国务卿鲁比奥：需要更多谈论人工智能对经济的扰乱。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612231"
+  },
+  {
+    "post": "Financial_Express/3612230",
+    "datetime": "2026-11-09T19:14:42+00:00",
+    "views": "12",
+    "text": "爱尔兰财政部长：欧盟 27 个成员国中有 26 个同意有必要对烟草制品实行最低税收。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612230"
+  },
+  {
+    "post": "Financial_Express/3612228",
+    "datetime": "2026-11-09T19:14:22+00:00",
+    "views": "15",
+    "text": "Anthropic：Fable 5.2 和 Mythos 5.2 所依托的模型在发布前已由英国人工智能安全研究所、Frontier Design 及 METR 等评估机构进行测试。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612228"
+  },
+  {
+    "post": "Financial_Express/3612229",
+    "datetime": "2026-11-09T19:14:22+00:00",
+    "views": "15",
+    "text": "摩根士丹利财富管理主管芬恩：第四季度将较为动荡。正在退出部分房地产，预计将计提一笔费用。预计裁员将在人员精简中产生遣散费。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612229"
+  },
+  {
     "post": "Financial_Express/3612227",
     "datetime": "2026-11-09T19:13:33+00:00",
-    "views": "7",
+    "views": "19",
     "text": "美国银行：预计美国 2027 年高评级债券销售规模将缩水至 1.9 万亿美元。\n超大规模云服务商（Hyperscalers）正将其融资渠道多样化，企业并购活动也在放缓。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3612226",
     "datetime": "2026-11-09T19:12:42+00:00",
-    "views": "13",
+    "views": "55",
     "text": "美国国务卿鲁比奥称针对美国国防部长赫格塞斯的弹劾行动“不公平”。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3612225",
     "datetime": "2026-11-09T19:12:22+00:00",
-    "views": "14",
+    "views": "56",
     "text": "美国国务卿鲁比奥为美国国防部长赫格塞斯辩护，此前有弹劾条款被提出。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3612224",
     "datetime": "2026-11-09T19:12:02+00:00",
-    "views": "16",
+    "views": "58",
     "text": "美国国务卿鲁比奥拒绝就黄仁勋置评。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3612223",
     "datetime": "2026-11-09T19:11:53+00:00",
-    "views": "17",
+    "views": "58",
     "text": "在岸人民币兑美元（CNY）北京时间 03:00 收报 6.6724 元，较上周五夜盘收盘涨 39 点。成交量 365.80 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3612222",
     "datetime": "2026-11-09T19:11:22+00:00",
-    "views": "17",
+    "views": "58",
     "text": "美国国务卿鲁比奥：我们能让国际刑事法院遭受巨大损失。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3612221",
     "datetime": "2026-11-09T19:11:02+00:00",
-    "views": "17",
+    "views": "58",
     "text": "Anthropic：认为 Fable 5.2 和 Mythos 5.2 因目标错位引发高风险的可能性仍然较低。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3612220",
     "datetime": "2026-11-09T19:10:50+00:00",
-    "views": "47",
+    "views": "58",
     "text": "在岸人民币兑美元北京时间 03:00 收报 6.6724，较上一交易日夜盘收盘涨 39 点。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3612219",
     "datetime": "2026-11-09T19:10:42+00:00",
-    "views": "48",
+    "views": "58",
     "text": "Anthropic：Fable 5.2 的网络安全与生物安全防护措施与 Fable 5.1 同样稳健。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3612218",
     "datetime": "2026-11-09T19:10:27+00:00",
-    "views": "50",
+    "views": "59",
     "text": "美国劳工统计局（BLS）披露 CPI 通胀数据时，将不会提供 12 个月 CPI（同比）与核心 CPI 数据。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3612217",
     "datetime": "2026-11-09T19:10:22+00:00",
-    "views": "49",
+    "views": "56",
     "text": "Anthropic：Claude Fable 5.2 与 Mythos 5.2 的每百万输入词元收费 8 美元，每百万输出词元收费 40 美元，低于此前的 10 美元和 50 美元。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3612215",
     "datetime": "2026-11-09T19:09:02+00:00",
-    "views": "48",
+    "views": "55",
     "text": "美国共和党众议员托马斯·马西：将在美国东部时间下午 3 时 30 分（北京时间 11 月 10 日凌晨 4 时 30 分）左右宣读弹劾美国国防部长赫格塞思条款后，立即于国会众议院三角广场举行新闻发布会。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3612216",
     "datetime": "2026-11-09T19:09:02+00:00",
-    "views": "49",
+    "views": "56",
     "text": "Anthropic：Claude Fable 5.2 和 Mythos 5.2 还提供可选快速模式，每百万输入词元 16 美元，每百万输出词元 80 美元。",
     "media_only": false,
     "image_url": null,
@@ -119,8 +164,8 @@
   {
     "post": "Financial_Express/3612214",
     "datetime": "2026-11-09T19:08:48+00:00",
-    "views": "50",
-    "text": "美国众议院提出弹劾国防部长赫格塞思的文件。",
+    "views": "57",
+    "text": "美国众议院提出弹劾国防部长赫格塞思的条款。\n对此，国务卿鲁比奥声称弹劾动议“不公平”。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3612214"
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3612213",
     "datetime": "2026-11-09T19:08:02+00:00",
-    "views": "52",
+    "views": "59",
     "text": "美国农业部预测，2027/28 年度美国玉米种植面积为 9550 万英亩，产量为 160.25 亿蒲式耳。\n2027/28 年度美国大豆种植面积为 8750 万英亩，大豆产量为 46.35 亿蒲式耳。\n2027/28 年度美国小麦种植面积为 4400 万英亩，产量为 17.92 亿蒲式耳。",
     "media_only": false,
     "image_url": null,
@@ -32812,14 +32857,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3608558"
-  },
-  {
-    "post": "Financial_Express/3608557",
-    "datetime": "2026-11-07T19:15:42+00:00",
-    "views": "137",
-    "text": "特朗普宣布邀请达纳·怀特担任白宫新闻秘书\n美国总统特朗普 7 日在社交媒体上发文说，他已邀请美国终极格斗冠军赛总裁达纳·怀特担任白宫新闻秘书一职。他称怀特将会是一名“与众不同”的新闻秘书。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3608557"
   }
 ]
