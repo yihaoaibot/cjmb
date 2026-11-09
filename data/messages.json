@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3612126",
+    "datetime": "2026-11-09T17:55:42+00:00",
+    "views": "5",
+    "text": "扎克伯格：Muse Ember 将成为最小模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612126"
+  },
+  {
+    "post": "Financial_Express/3612125",
+    "datetime": "2026-11-09T17:55:22+00:00",
+    "views": "7",
+    "text": "扎克伯格：今天发布 Muse Ember。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612125"
+  },
+  {
+    "post": "Financial_Express/3612124",
+    "datetime": "2026-11-09T17:54:38+00:00",
+    "views": "14",
+    "text": "11 月 9 日，记者从券商处获悉，为深入了解不同类型券商的股东结构特点，进一步优化股权管理相关工作，中国证券业协会（以下简称“中证协”）近日对 104 家券商股权结构进行了统计分析，梳理了当前境内券商股权管理工作面临的难点，并结合境外市场实践经验，从券商、监管部门、自律组织等三个层面提出意见建议。(证券日报网)",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612124"
+  },
+  {
     "post": "Financial_Express/3612123",
     "datetime": "2026-11-09T17:53:43+00:00",
-    "views": "6",
+    "views": "18",
     "text": "美国官员：美国特使可能在阿布扎比会谈后访问俄罗斯会见普京。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3612122",
     "datetime": "2026-11-09T17:53:42+00:00",
-    "views": "6",
+    "views": "18",
     "text": "美国官员：美方特使可能在阿布扎比会谈后前往俄罗斯会见俄罗斯总统普京。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3612121",
     "datetime": "2026-11-09T17:52:42+00:00",
-    "views": "14",
+    "views": "26",
     "text": "Meta 推出 Muse Ember，这是其最小、最高效的模型，专为复杂推理执行而设计。\n即日起在 Meta Model API 上线，输入和输出 token 价格分别为每百万 0.10 美元和 0.50 美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3612120",
     "datetime": "2026-11-09T17:52:22+00:00",
-    "views": "14",
+    "views": "26",
     "text": "LME 期铜收涨 128 美元，报 13896 美元/吨。\nLME 期铝收涨 4 美元，报 3066 美元/吨。\nLME 期锌收涨 20 美元，报 3731 美元/吨。\nLME 期铅收平，报 1886 美元/吨。\nLME 期镍收跌 128 美元，报 16225 美元/吨。\nLME 期锡收跌 28 美元，报 46439 美元/吨。\nLME 期钴收平，报 33525 美元/吨。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3612119",
     "datetime": "2026-11-09T17:52:02+00:00",
-    "views": "15",
+    "views": "56",
     "text": "Meta：即日起在 Meta Model API 上线，输入和输出 token 价格分别为每百万 0.10 美元和 0.50 美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3612118",
     "datetime": "2026-11-09T17:51:42+00:00",
-    "views": "17",
+    "views": "57",
     "text": "美国官员：（关于乌克兰问题）我们将讨论美方的安全保障。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3612117",
     "datetime": "2026-11-09T17:51:22+00:00",
-    "views": "48",
+    "views": "58",
     "text": "MetaPlatforms(META.O)：Muse Ember 起可通过 Meta Model API 使用，输入和输出每百万词元的价格分别为 0.10 美元和 0.50 美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3612115",
     "datetime": "2026-11-09T17:50:23+00:00",
-    "views": "51",
+    "views": "61",
     "text": "美国官员就乌克兰问题表示：我们将讨论美国的安全保障。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3612114",
     "datetime": "2026-11-09T17:50:22+00:00",
-    "views": "50",
+    "views": "60",
     "text": "美国官员：我们希望找到办法，使北约-俄罗斯理事会更加有力。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3612113",
     "datetime": "2026-11-09T17:49:43+00:00",
-    "views": "54",
+    "views": "63",
     "text": "Meta 推出 Muse Ember，这是其最小、最高效的模型，专为复杂推理执行而设计。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3612111",
     "datetime": "2026-11-09T17:49:23+00:00",
-    "views": "55",
+    "views": "62",
     "text": "美国官员就乌克兰问题表示：我们希望看到对乌克兰的安全保障类似于北约。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3612112",
     "datetime": "2026-11-09T17:49:23+00:00",
-    "views": "55",
+    "views": "63",
     "text": "美国官员就乌克兰问题表示：我们希望找到一种方法，使北约-俄罗斯理事会更加有力。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3612110",
     "datetime": "2026-11-09T17:49:22+00:00",
-    "views": "55",
+    "views": "61",
     "text": "俄副外长重申俄无意进攻欧洲国家\n金十数据 11 月 10 日讯，俄罗斯外交部副部长里亚布科夫表示，俄罗斯“无意、无计划，也无理由”进攻欧洲国家，无论近期、中期还是以后都不打算进攻任何国家，但若遭遇侵略，将“被迫回应”。里亚布科夫还说，俄方相信欧洲各国迟早会愿意基于“平等和不可分割的安全、务实、互谅利益”的原则，同俄对话。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3612108",
     "datetime": "2026-11-09T17:48:02+00:00",
-    "views": "56",
+    "views": "60",
     "text": "英国央行行长贝利：已不再有假设供给冲击会自行消退的余地。\n金融危机记忆逐渐淡化，加大放松监管压力。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3612109",
     "datetime": "2026-11-09T17:48:02+00:00",
-    "views": "57",
+    "views": "61",
     "text": "英国央行行长贝利：我们不能再指望供给冲击会自行消退了。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3612107",
     "datetime": "2026-11-09T17:47:42+00:00",
-    "views": "57",
+    "views": "61",
     "text": "英国央行行长贝利：金融危机记忆逐渐淡化，加大放松监管压力。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3612106",
     "datetime": "2026-11-09T17:47:23+00:00",
-    "views": "57",
+    "views": "61",
     "text": "美国官员就乌克兰问题表态：俄罗斯在推动结束冲突方面正展现出积极迹象。",
     "media_only": false,
     "image_url": null,
@@ -32119,23 +32146,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3608531"
-  },
-  {
-    "post": "Financial_Express/3608530",
-    "datetime": "2026-11-07T17:55:42+00:00",
-    "views": "195",
-    "text": "特朗普称民主党高层寄出威胁信件，下令司法部展开调查\n美国总统特朗普声称收到来自“民主党政界高层”的威胁信件，并表示他正要求司法部对此展开调查。特朗普在真实社交平台发文称：“这属于最高层级的敲诈，相关人员应当为此承担责任。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3608530"
-  },
-  {
-    "post": "Financial_Express/3608529",
-    "datetime": "2026-11-07T17:54:42+00:00",
-    "views": "212",
-    "text": "特朗普下令司法部彻查民主党“敲诈勒索”，指控其滥用弹劾与监禁威胁\n金十数据 11 月 8 日讯，美国总统特朗普在社交平台发文，指责民主党人威胁弹劾美国司法部长等官员，并扬言对他们采取其他惩罚措施。特朗普称，民主党人自己也承认缺乏相关理由，而遭到威胁的人并未实施、甚至没有考虑过任何可能构成弹劾理由的行为。他将此称为“最高级别的敲诈勒索”，并要求追究相关人员的责任。特朗普还指责民主党人威胁共和党捐助者，扬言仅因他们是共和党人或共和党支持者，就对其施以监禁等惩罚。他称，这进一步体现了政治工具化和法律战，并指密歇根州参议员埃莉萨·斯洛特金扬言要追究认同共和党价值观的年轻人，以及任何表现出哪怕一丝倾向支持共和党的人。特朗普表示，真正应该被监禁的是他所称的“敲诈者”，并呼吁共和党人迅速采取行动。特朗普在文末表示，下令司法部立即调查相关行为。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3608529"
   }
 ]
