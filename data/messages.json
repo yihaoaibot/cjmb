@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3611366",
+    "datetime": "2026-11-09T12:35:03+00:00",
+    "views": "6",
+    "text": "巴拉圭总统任命施赖纳为中央银行行长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3611366"
+  },
+  {
+    "post": "Financial_Express/3611365",
+    "datetime": "2026-11-09T12:34:42+00:00",
+    "views": "9",
+    "text": "AST SpaceMobile：将提供卫星为日本主权直连设备星座提供动力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3611365"
+  },
+  {
+    "post": "Financial_Express/3611364",
+    "datetime": "2026-11-09T12:34:22+00:00",
+    "views": "10",
+    "text": "乐天与 AST SpaceMobile 成立“Rakuten AST”合资企业，在日本建设 D2D 卫星通信网络。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3611364"
+  },
+  {
     "post": "Financial_Express/3611363",
     "datetime": "2026-11-09T12:33:43+00:00",
-    "views": "1",
+    "views": "42",
     "text": "谷歌推出两款新型 AI 芯片 加速挑战英伟达\n金十数据 11 月 9 日讯，Alphabet 旗下谷歌正推出更多种类的人工智能芯片，希望利用自身在价值数千亿美元的市场中迅速崛起、挑战英伟达的势头，进一步扩大业务。据美媒报道，谷歌将推出两款新型张量处理单元（TPU）变体 TPU 8tx 和 8i Max。其中，8tx 主要面向政府机构及受监管行业企业等需要安全、机密计算的客户。该系统与超威半导体的芯片配合运行，是两家公司合作的一部分。8i Max 则旨在运行需要长上下文窗口的人工智能应用。总体而言，这些芯片旨在服务于一个正转向人工智能智能体应用、同时面临安全挑战的行业。此次发布标志着谷歌芯片部门正在加快产品开发步伐。该业务过去每两年推出一款新的人工智能处理器，而今年同时推出了两款。计划于周一公布的最新变体，将进一步扩充这两款芯片的产品阵容。谷歌芯片业务负责人 Amin Vahdat 在采访中表示，四款 TPU 产品将针对不同需求进行优化。他说：“这符合谷歌一直坚持的理念，即未来将属于专业化，而专业化带来的优势仍然十分显著。”",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3611362",
     "datetime": "2026-11-09T12:33:23+00:00",
-    "views": "4",
+    "views": "42",
     "text": "纽约证券交易所拟在 Avalanche 区块链上结算代币化股票。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3611361",
     "datetime": "2026-11-09T12:33:02+00:00",
-    "views": "6",
+    "views": "43",
     "text": "土耳其发生 5.2 级地震。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3611360",
     "datetime": "2026-11-09T12:32:42+00:00",
-    "views": "8",
+    "views": "45",
     "text": "英伟达盘前跌 6.5%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3611359",
     "datetime": "2026-11-09T12:32:22+00:00",
-    "views": "10",
+    "views": "46",
     "text": "洲际交易所将推出风电期货合约。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3611358",
     "datetime": "2026-11-09T12:31:43+00:00",
-    "views": "43",
+    "views": "48",
     "text": "洲际交易所将于 2026 年 12 月 14 日推出风电期货，该类期货将覆盖陆上风电、海上风电及风电合计发电量。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3611357",
     "datetime": "2026-11-09T12:31:42+00:00",
-    "views": "43",
+    "views": "47",
     "text": "谷歌(GOOG.O)盘前拉升上涨 2.3%，英伟达(NVDA.O)盘前现跌近 6%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3611356",
     "datetime": "2026-11-09T12:31:23+00:00",
-    "views": "43",
+    "views": "46",
     "text": "谷歌推出新版 TPU 芯片，向英伟达发起竞争\nAlphabet 旗下谷歌正推出更多品类的 AI 芯片，力图在这个规模达数千亿美元的市场快速追赶英伟达。谷歌推出两款全新版本的张量处理单元（TPU），这是用于训练和运行 AI 软件的定制芯片。新款芯片可满足机密计算需求，让模型在处理提问时调取更广范围信息，适配行业转向 AI 智能体、同时面临各类安全挑战的大趋势。本次发布标志着谷歌芯片部门迭代提速。该业务以往每两年推出一款全新 AI 处理器，今年一次性发布两款；周一即将官宣的 8tx、8i Max 变体，是在这两款芯片基础上新增的细分版本。谷歌芯片负责人阿明·瓦德特在采访中表示，四款 TPU 产品分别适配不同需求。“这契合谷歌的核心判断：未来将走向专用化，专用化带来的收益空间依然巨大。”",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3611355",
     "datetime": "2026-11-09T12:31:22+00:00",
-    "views": "43",
+    "views": "46",
     "text": "ALPHABET 股价上涨至盘前高点 2.5%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3611354",
     "datetime": "2026-11-09T12:31:14+00:00",
-    "views": "43",
+    "views": "46",
     "text": "谷歌美股盘前涨 2.5%，英伟达盘前跌超 6%，据报道，谷歌将推出两款新版 TPU 系统，以挑战英伟达。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3611352",
     "datetime": "2026-11-09T12:31:03+00:00",
-    "views": "42",
+    "views": "43",
     "text": "华虹宏力：控股子公司拟挂牌转让华宏置业 100%股权及相关债权\n金十数据 11 月 9 日讯，华虹宏力公告，控股子公司华虹半导体（无锡）有限公司拟通过上海联合产权交易所公开挂牌转让所持华宏置业（无锡）有限公司 100%股权及相关债权，首次挂牌价 2.29 亿元。此次交易有利于盘活华宏置业存量闲置资产，提高资产运营效率。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3611353",
     "datetime": "2026-11-09T12:31:03+00:00",
-    "views": "43",
+    "views": "44",
     "text": "洲际交易所将推出风电期货，覆盖陆上风电、海上风电及风电合计发电量。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3611351",
     "datetime": "2026-11-09T12:31:02+00:00",
-    "views": "41",
+    "views": "42",
     "text": "谷歌(GOOG.O)将推出两个新版本的张量处理单元（TPU）系统，向英伟达发起挑战。谷歌的新款 TPU 8TX 和 TPU 8I Max 将用于处理更多专业化任务。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3611349",
     "datetime": "2026-11-09T12:30:23+00:00",
-    "views": "42",
+    "views": "43",
     "text": "巴克莱银行：我们对风险资产转为战术中性，即使目前估值更具吸引力。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3611350",
     "datetime": "2026-11-09T12:30:23+00:00",
-    "views": "43",
+    "views": "74",
     "text": "谷歌将推出两款新版 TPU 系统，以此对英伟达发起挑战。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3611348",
     "datetime": "2026-11-09T12:30:03+00:00",
-    "views": "43",
+    "views": "44",
     "text": "诺和诺德公司发布股份回购计划。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3611347",
     "datetime": "2026-11-09T12:30:02+00:00",
-    "views": "42",
+    "views": "43",
     "text": "巴克莱：我们对风险资产转为战术性中性立场，尽管当前估值已更具吸引力。",
     "media_only": false,
     "image_url": null,
