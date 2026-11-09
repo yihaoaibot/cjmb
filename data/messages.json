@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3612196",
+    "datetime": "2026-11-09T19:02:02+00:00",
+    "views": "4",
+    "text": "在岸人民币兑美元夜盘收盘报 6.6724，较上一交易日上涨 39 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612196"
+  },
+  {
+    "post": "Financial_Express/3612195",
+    "datetime": "2026-11-09T19:01:22+00:00",
+    "views": "8",
+    "text": "Anthropic：推出的新模型 Fable 5.2 速度更快、成本更低。美国政府在发布前审查了其新模型。其采用新的评估方法测试模型是否会出现失控行为。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612195"
+  },
+  {
+    "post": "Financial_Express/3612193",
+    "datetime": "2026-11-09T19:00:48+00:00",
+    "views": "13",
+    "text": "恒指期货夜盘收涨 0.03%，报 24500.96 点，高水 52.01 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612193"
+  },
+  {
+    "post": "Financial_Express/3612194",
+    "datetime": "2026-11-09T19:00:48+00:00",
+    "views": "13",
+    "text": "Anthropic 在 IPO 前推出新款 Fable 和 Mythos 人工智能模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3612194"
+  },
+  {
     "post": "Financial_Express/3612192",
     "datetime": "2026-11-09T19:00:19+00:00",
-    "views": "1",
+    "views": "16",
     "text": "恒生指数主连夜盘收跌 0.01%，报 24506 点。\n恒生科技指数主连夜盘收跌 0.15%，报 4047 点。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3612191",
     "datetime": "2026-11-09T19:00:04+00:00",
-    "views": "4",
+    "views": "17",
     "text": "SpaceX 计划在得州星基地企业城镇建设燃气电厂与超级算力设施，项目首期预估投资 240 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3612190",
     "datetime": "2026-11-09T19:00:02+00:00",
-    "views": "4",
+    "views": "17",
     "text": "Anthropic：Fable 5.2 和 Mythos 5.2 在我们评估的几乎所有能力上都优于 Opus 5.5。测试者发现，它们比之前的 Fable 和 Mythos 模型沟通更清晰。输出速度比 Fable 5.1 和 Mythos 5.1 快 30%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3612189",
     "datetime": "2026-11-09T18:59:42+00:00",
-    "views": "7",
+    "views": "50",
     "text": "Anthropic：推出 Claude Fable 5.2 和 Claude Mythos 5.2，旨在应对最艰巨的技术挑战。它们能在诸多领域的大型项目中成为得力协作者，并在编程、推理和视觉等能力上均有显著提升。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3612188",
     "datetime": "2026-11-09T18:59:10+00:00",
-    "views": "10",
+    "views": "53",
     "text": "Anthropic PBC：通过 Geometric 问题进行 01 推理。\n我们设计三款正在运作的硬件原型。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3612187",
     "datetime": "2026-11-09T18:58:22+00:00",
-    "views": "17",
+    "views": "56",
     "text": "预测市场认为黄仁勋短期离职概率较低\n黄仁勋在 2027 年 3 月底前辞职或被迫离职的概率约为 25%。英伟达周一美股盘中股价跌逾 5%，费城半导体指数上涨 6.5%，英伟达为该指数中唯一走低的成分股。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3612186",
     "datetime": "2026-11-09T18:58:02+00:00",
-    "views": "49",
+    "views": "59",
     "text": "Anthropic：Claude 已经设计出三套可正常运行的硬件原型。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3612185",
     "datetime": "2026-11-09T18:56:22+00:00",
-    "views": "54",
+    "views": "63",
     "text": "Anthropic：01 模型依托几何问题开展推理能力测试。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3612184",
     "datetime": "2026-11-09T18:54:02+00:00",
-    "views": "66",
+    "views": "71",
     "text": "美国劳工部长桑德林：正寻求实现美国劳工统计局数据现代化的途径。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3612183",
     "datetime": "2026-11-09T18:53:42+00:00",
-    "views": "66",
+    "views": "71",
     "text": "美国劳工部长桑德林：希望确保公众对劳工统计局数据的信任。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3612182",
     "datetime": "2026-11-09T18:47:42+00:00",
-    "views": "108",
+    "views": "112",
     "text": "标普谈苏里南：展望稳定反映了对未来 12-18 个月的预期，高金价带来的强劲经济增长将转化为财政收入。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3612181",
     "datetime": "2026-11-09T18:45:42+00:00",
-    "views": "110",
+    "views": "113",
     "text": "特朗普淡化再袭伊朗可能 国际油价早盘一度跌超 5%\n美国总统特朗普淡化对伊朗发动新一轮大规模军事打击的可能性后，国际原油期货价格 9 日早盘显著下跌，跌幅一度超 5%，随后有所收窄。 截至美东时间 9 日上午 11 时，纽约商品交易所 12 月交货的轻质原油期货价格最低跌至每桶 86.19 美元，下跌 4.64 美元，跌幅为 5.11%；1 月交货的伦敦布伦特原油期货价格最低跌至每桶 92.80 美元，下跌 5.52 美元，跌幅为 5.61%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3612180",
     "datetime": "2026-11-09T18:45:13+00:00",
-    "views": "84",
+    "views": "115",
     "text": "恐慌指数 VIX 波动率日内跌幅达 21.0%，报 20.25；标普 500 指数目前涨超 2.3%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3612179",
     "datetime": "2026-11-09T18:44:43+00:00",
-    "views": "94",
+    "views": "95",
     "text": "标普：预计苏里南未来四年经济将稳健增长，得益于大型油田投资及 2028 年预期增产。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3612178",
     "datetime": "2026-11-09T18:44:42+00:00",
-    "views": "94",
+    "views": "95",
     "text": "标普将苏里南评级从 CCC+/C 上调至 B-/B，因经济前景改善，展望稳定。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3612177",
     "datetime": "2026-11-09T18:42:42+00:00",
-    "views": "110",
+    "views": "111",
     "text": "当地官员称，乌克兰无人机袭击导致俄罗斯边境地区别尔哥罗德两人死亡。",
     "media_only": false,
     "image_url": null,
