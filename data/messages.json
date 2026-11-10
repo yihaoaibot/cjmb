@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3615623",
+    "datetime": "2026-11-10T17:06:02+00:00",
+    "views": "10",
+    "text": "美国 11 月 EIA 当年天然气产量预期 1122 亿立方英尺/日，前值 1122 亿立方英尺/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3615623"
+  },
+  {
+    "post": "Financial_Express/3615622",
+    "datetime": "2026-11-10T17:05:08+00:00",
+    "views": "27",
+    "text": "国际铜夜盘收跌 1.41%，沪铜收跌 1.29%，沪铝收跌 2.74%，沪锌收跌 0.44%，沪铅收跌 0.72%，沪镍收跌 1.29%，沪锡收跌 0.29%。\n氧化铝夜盘收跌 1.17%，铝合金收跌 3.3%。\n不锈钢夜盘收跌 0.54%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3615622"
+  },
+  {
+    "post": "Financial_Express/3615620",
+    "datetime": "2026-11-10T17:05:02+00:00",
+    "views": "29",
+    "text": "美国 11 月 EIA 次年短期前景美国原油产量预期 1430 万桶/日，前值 1430 万桶/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3615620"
+  },
+  {
+    "post": "Financial_Express/3615621",
+    "datetime": "2026-11-10T17:05:02+00:00",
+    "views": "28",
+    "text": "美国 11 月 EIA 次年天然气产量预期 1161 亿立方英尺/日，前值 1161 亿立方英尺/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3615621"
+  },
+  {
+    "post": "Financial_Express/3615619",
+    "datetime": "2026-11-10T17:04:42+00:00",
+    "views": "34",
+    "text": "美国 11 月 EIA 当年短期前景美国原油产量预期 1387 万桶/日，前值 1387 万桶/日。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3615619"
+  },
+  {
+    "post": "Financial_Express/3615617",
+    "datetime": "2026-11-10T17:04:22+00:00",
+    "views": "40",
+    "text": "美国 11 月 EIA 当年布伦特原油均价预期 97.44 美元/桶，前值 96.32 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3615617"
+  },
+  {
+    "post": "Financial_Express/3615618",
+    "datetime": "2026-11-10T17:04:22+00:00",
+    "views": "40",
+    "text": "AMD 宣布，基于 Zen 6 架构的第六代 EPYC SP7 处理器已全面上市。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3615618"
+  },
+  {
     "post": "Financial_Express/3615615",
     "datetime": "2026-11-10T17:04:02+00:00",
-    "views": "11",
+    "views": "43",
     "text": "美国 11 月 EIA 当年 WTI 原油均价预期 88.29 美元/桶，前值 88.21 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3615616",
     "datetime": "2026-11-10T17:04:02+00:00",
-    "views": "11",
+    "views": "42",
     "text": "美国能源信息署预计，2026 年美国石油需求为 2060 万桶/日，与此前预测的 2060 万桶/日持平；预计 2027 年需求为 2090 万桶/日，此前预测为 2080 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3615614",
     "datetime": "2026-11-10T17:03:43+00:00",
-    "views": "16",
+    "views": "46",
     "text": "美国能源信息署预计，2026 年美国天然气需求为 923 亿立方英尺/日，此前预测为 924 亿立方英尺/日；预计 2027 年需求为 944 亿立方英尺/日，此前预测为 938 亿立方英尺/日。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3615612",
     "datetime": "2026-11-10T17:03:42+00:00",
-    "views": "16",
+    "views": "45",
     "text": "美国能源信息署预计，2026 年全球石油需求为 1.024 亿桶/日，与此前预测的 1.024 亿桶/日持平；预计 2027 年需求为 1.044 亿桶/日，此前预测为 1.046 亿桶/日。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3615613",
     "datetime": "2026-11-10T17:03:42+00:00",
-    "views": "16",
+    "views": "44",
     "text": "美国能源信息署预计，2026 年美国天然气产量为 1130 亿立方英尺/日，此前预测为 1122 亿立方英尺/日；预计 2027 年需求为 1176 亿立方英尺/日，此前预测为 1161 亿立方英尺/日。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3615610",
     "datetime": "2026-11-10T17:03:22+00:00",
-    "views": "20",
+    "views": "45",
     "text": "EIA 上调今明两年美、布两油价格预期\n金十数据 11 月 11 日讯，EIA 短期能源展望报告：预计 2026 年 WTI 原油均价为 88.29 美元/桶，此前预期为 88.21 美元/桶；预计 2027 年 WTI 原油均价为 80.54 美元/桶，此前预期为 79.74 美元/桶。预计 2026 年布伦特原油均价为 97.44 美元/桶，此前预期为 96.32 美元/桶；预计 2027 年布伦特原油均价为 85.78 美元/桶，此前预期为 83.74 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3615611",
     "datetime": "2026-11-10T17:03:22+00:00",
-    "views": "19",
+    "views": "45",
     "text": "美国能源信息署预计 2026 年全球石油产量为 1.017 亿桶/日，此前预测为 1.011 亿桶/日；预计 2027 年产量为 1.084 亿桶/日，此前预测为 1.096 亿桶/日。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3615609",
     "datetime": "2026-11-10T17:03:02+00:00",
-    "views": "25",
+    "views": "46",
     "text": "美国农业部发布世界农业供需预估报告后，ICE 棉花期货变动不大，最新报每磅 78.8 美分。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3615608",
     "datetime": "2026-11-10T17:02:42+00:00",
-    "views": "32",
+    "views": "49",
     "text": "美国能源信息署（EIA）预计，11 月美国石油产量平均为 1403 万桶/日，10 月为 1381 万桶/日；12 月平均产量预计为 1414 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -83,8 +146,8 @@
   {
     "post": "Financial_Express/3615607",
     "datetime": "2026-11-10T17:01:17+00:00",
-    "views": "47",
-    "text": "美国能源信息署（EIA）发布短期能源（STEO）：预计 2026 年布伦特原油价格 97 美元/桶（此前预计 96 美元/桶），预计 2027 年 86 美元/桶（此前预计 84 美元/桶）。\n预计 2026 年美国石油产量 1390 万桶/日（此前预计 1390 万桶/日），预计 2027 年生产 1430 万桶/日（此前预计 1430 万桶/日）。",
+    "views": "57",
+    "text": "美国能源信息署（EIA）发布短期能源（STEO）：预计 2026 年布伦特原油价格 97 美元/桶（此前预计 96 美元/桶），预计 2027 年 86 美元/桶（此前预计 84 美元/桶）。\n预计 2026 年美国石油产量 1390 万桶/日（此前预计 1390 万桶/日），预计 2027 年生产 1430 万桶/日（此前预计 1430 万桶/日）。\n维持 2026 年美国石油需求预期在 2060 万桶/日不变，上调 2027 年需求至 2090 万桶/日（此前预测为 2080 万桶/日）。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3615607"
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3615606",
     "datetime": "2026-11-10T17:01:02+00:00",
-    "views": "47",
+    "views": "56",
     "text": "美国农业部（USDA）：预计美国期末玉米库存 17.58 亿蒲式耳，分析师预期 18.4621 亿蒲式耳，USDA 之前预计 18.49 亿蒲式耳。\n预计美国期末小麦总库存 7.43 亿蒲式耳，分析师预期 7.4414 亿蒲式耳，USDA 之前预计 7.40 亿蒲式耳。\n预计美国期末棉花库存 370 万捆，分析师预期 362 万捆，USDA 之前预计 380 万捆。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3615605",
     "datetime": "2026-11-10T17:00:31+00:00",
-    "views": "53",
+    "views": "58",
     "text": "美国农业部（USDA）：预计美国期末棉花库存 370 万捆，分析师预期 362 万捆，USDA 之前预计 380 万捆。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3615604",
     "datetime": "2026-11-10T17:00:25+00:00",
-    "views": "53",
+    "views": "58",
     "text": "美国农业部（USDA）：预计美国期末小麦总库存 7.43 亿蒲式耳，分析师预期 7.4414 亿蒲式耳，USDA 之前预计 7.40 亿蒲式耳。",
     "media_only": false,
     "image_url": null,
