@@ -1,5 +1,13 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-10T01:24:42.126050+00:00","clsvipUpdated":"2026-11-10T01:24:52.311095+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月10日</h2><div class="feed"><article class="item" data-search="台湾证交所加权股价指数上涨 3%至 42,912.98 点。"><div class="time">09:23</div><div class="content"><div class="text" data-full="台湾证交所加权股价指数上涨 3%至 42,912.98 点。" data-short="台湾证交所加权股价指数上涨 3%至 42,912.98 点。">台湾证交所加权股价指数上涨 3%至 42,912.98 点。</div></div></article><article class="item" data-search="台湾加权股价指数上涨 3%至 42,912.98 点。"><div class="time">09:23</div><div class="content"><div class="text" data-full="台湾加权股价指数上涨 3%至 42,912.98 点。" data-short="台湾加权股价指数上涨 3%至 42,912.98 点。">台湾加权股价指数上涨 3%至 42,912.98 点。</div></div></article><article class="item" data-search="港股生物医药股高开，百济神州(06160.hk)涨超 7%，药明康德(02359.hk)涨超 6%，康方生物(09926.hk)、药明生物(02269.hk)涨超 3%。"><div class="time">09:22</div><div class="content"><div class="text" data-full="港股生物医药股高开，百济神州(06160.HK)涨超 7%，药明康德(02359.HK)涨超 6%，康方生物(09926.HK)、药明生物(02269.HK)涨超 3%。" data-short="港股生物医药股高开，百济神州(06160.HK)涨超 7%，药明康德(02359.HK)涨超 6%，康方生物(09926.HK)、药明生物(02269.HK)涨超 3%。">港股生物医药股高开，百济神州(06160.HK)涨超 7%，药明康德(02359.HK)涨超 6%，康方生物(09926.HK)、药明生物(02269.HK)涨超 3%。</div></div></article><article class="item" data-search="中国央行公开市场操作当日实现净投放 80 亿元
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-10T01:26:55.778097+00:00","clsvipUpdated":"2026-11-10T01:27:09.984565+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月10日</h2><div class="feed"><article class="item" data-search="花旗集团 ceo：期待在中国进一步投资。"><div class="time">09:26</div><div class="content"><div class="text" data-full="花旗集团 CEO：期待在中国进一步投资。" data-short="花旗集团 CEO：期待在中国进一步投资。">花旗集团 CEO：期待在中国进一步投资。</div></div></article><article class="item" data-search="上海原油连续主力合约日内跌 6%，现报 592.80 元。"><div class="time">09:26</div><div class="content"><div class="text" data-full="上海原油连续主力合约日内跌 6%，现报 592.80 元。" data-short="上海原油连续主力合约日内跌 6%，现报 592.80 元。">上海原油连续主力合约日内跌 6%，现报 592.80 元。</div></div></article><article class="item" data-search="钶锐锶上市首日开盘大涨超 298%
+钶锐锶上市首日开盘涨 298.94%，现报 181 元，该股发行价为 45.37 元。按开盘价计算，投资者中一签（500 股）浮盈约 6.78 万元。"><div class="time">09:26</div><div class="content"><div class="text" data-full="钶锐锶上市首日开盘大涨超 298%
+钶锐锶上市首日开盘涨 298.94%，现报 181 元，该股发行价为 45.37 元。按开盘价计算，投资者中一签（500 股）浮盈约 6.78 万元。" data-short="钶锐锶上市首日开盘大涨超 298%
+钶锐锶上市首日开盘涨 298.94%，现报 181 元，该股发行价为 45.37 元。按开盘价计算，投资者中一签（500 股）浮盈约 6.78 万元。">钶锐锶上市首日开盘大涨超 298%
+钶锐锶上市首日开盘涨 298.94%，现报 181 元，该股发行价为 45.37 元。按开盘价计算，投资者中一签（500 股）浮盈约 6.78 万元。</div></div></article><article class="item" data-search="新股 n 钶锐涨超 298%；公开资料显示，公司为国产全直驱数控机床龙头。"><div class="time">09:26</div><div class="content"><div class="text" data-full="新股 N 钶锐涨超 298%；公开资料显示，公司为国产全直驱数控机床龙头。" data-short="新股 N 钶锐涨超 298%；公开资料显示，公司为国产全直驱数控机床龙头。">新股 N 钶锐涨超 298%；公开资料显示，公司为国产全直驱数控机床龙头。</div></div></article><article class="item" data-search="三大指数集体高开，沪指高开 0.58%，深成指高开 1.51%，创业板指高开 2.44%。"><div class="time">09:25</div><div class="content"><div class="text" data-full="三大指数集体高开，沪指高开 0.58%，深成指高开 1.51%，创业板指高开 2.44%。" data-short="三大指数集体高开，沪指高开 0.58%，深成指高开 1.51%，创业板指高开 2.44%。">三大指数集体高开，沪指高开 0.58%，深成指高开 1.51%，创业板指高开 2.44%。</div></div></article><article class="item" data-search="a 股三大股指开盘齐涨，上证指数涨 0.58%，深证成指涨 1.51%，创业板指涨 2.44%。"><div class="time">09:25</div><div class="content"><div class="text" data-full="A 股三大股指开盘齐涨，上证指数涨 0.58%，深证成指涨 1.51%，创业板指涨 2.44%。" data-short="A 股三大股指开盘齐涨，上证指数涨 0.58%，深证成指涨 1.51%，创业板指涨 2.44%。">A 股三大股指开盘齐涨，上证指数涨 0.58%，深证成指涨 1.51%，创业板指涨 2.44%。</div></div></article><article class="item" data-search="澳大利亚航空将与埃森哲达成离岸外包协议，裁员 850 人。"><div class="time">09:25</div><div class="content"><div class="text" data-full="澳大利亚航空将与埃森哲达成离岸外包协议，裁员 850 人。" data-short="澳大利亚航空将与埃森哲达成离岸外包协议，裁员 850 人。">澳大利亚航空将与埃森哲达成离岸外包协议，裁员 850 人。</div></div></article><article class="item" data-search="a 股开盘，上证指数涨 0.58%，深证成指涨 1.51%，创业板指涨 2.44%。元件、cpo 概念板块涨幅居前。"><div class="time">09:25</div><div class="content"><div class="text" data-full="A 股开盘，上证指数涨 0.58%，深证成指涨 1.51%，创业板指涨 2.44%。元件、CPO 概念板块涨幅居前。" data-short="A 股开盘，上证指数涨 0.58%，深证成指涨 1.51%，创业板指涨 2.44%。元件、CPO 概念板块涨幅居前。">A 股开盘，上证指数涨 0.58%，深证成指涨 1.51%，创业板指涨 2.44%。元件、CPO 概念板块涨幅居前。</div></div></article><article class="item" data-search="港股人工智能股走强 剑桥科技涨超 9%
+截至发稿，剑桥科技(06166.hk)涨 9.04%、壁仞科技(06082.hk)涨 6.78%、minimax-w(00100.hk)涨 5.92%、天数智芯(09903.hk)涨 5.77%。"><div class="time">09:25</div><div class="content"><div class="text" data-full="港股人工智能股走强 剑桥科技涨超 9%
+截至发稿，剑桥科技(06166.HK)涨 9.04%、壁仞科技(06082.HK)涨 6.78%、MINIMAX-W(00100.HK)涨 5.92%、天数智芯(09903.HK)涨 5.77%。" data-short="港股人工智能股走强 剑桥科技涨超 9%
+截至发稿，剑桥科技(06166.HK)涨 9.04%、壁仞科技(06082.HK)涨 6.78%、MINIMAX-W(00100.HK)涨 5.92%、天数智芯(09903.HK)涨 5.77%。">港股人工智能股走强 剑桥科技涨超 9%
+截至发稿，剑桥科技(06166.HK)涨 9.04%、壁仞科技(06082.HK)涨 6.78%、MINIMAX-W(00100.HK)涨 5.92%、天数智芯(09903.HK)涨 5.77%。</div></div></article><article class="item" data-search="09 点 25 分，（123176.sz）深交所显示成交价 276.55 元，较昨收价 263.0 元上涨 5.15%。"><div class="time">09:25</div><div class="content"><div class="text" data-full="09 点 25 分，（123176.SZ）深交所显示成交价 276.55 元，较昨收价 263.0 元上涨 5.15%。" data-short="09 点 25 分，（123176.SZ）深交所显示成交价 276.55 元，较昨收价 263.0 元上涨 5.15%。">09 点 25 分，（123176.SZ）深交所显示成交价 276.55 元，较昨收价 263.0 元上涨 5.15%。</div></div></article><article class="item" data-search="日本财务大臣片山：零售日本国债计划广受各界欢迎。"><div class="time">09:25</div><div class="content"><div class="text" data-full="日本财务大臣片山：零售日本国债计划广受各界欢迎。" data-short="日本财务大臣片山：零售日本国债计划广受各界欢迎。">日本财务大臣片山：零售日本国债计划广受各界欢迎。</div></div></article><article class="item" data-search="09 点 25 分，（123287.sz）深交所显示成交价 166.80 元，较昨收价 157.81 元上涨 5.70%。"><div class="time">09:25</div><div class="content"><div class="text" data-full="09 点 25 分，（123287.SZ）深交所显示成交价 166.80 元，较昨收价 157.81 元上涨 5.70%。" data-short="09 点 25 分，（123287.SZ）深交所显示成交价 166.80 元，较昨收价 157.81 元上涨 5.70%。">09 点 25 分，（123287.SZ）深交所显示成交价 166.80 元，较昨收价 157.81 元上涨 5.70%。</div></div></article><article class="item" data-search="台湾证交所加权股价指数上涨 3%至 42,912.98 点。"><div class="time">09:23</div><div class="content"><div class="text" data-full="台湾证交所加权股价指数上涨 3%至 42,912.98 点。" data-short="台湾证交所加权股价指数上涨 3%至 42,912.98 点。">台湾证交所加权股价指数上涨 3%至 42,912.98 点。</div></div></article><article class="item" data-search="台湾加权股价指数上涨 3%至 42,912.98 点。"><div class="time">09:23</div><div class="content"><div class="text" data-full="台湾加权股价指数上涨 3%至 42,912.98 点。" data-short="台湾加权股价指数上涨 3%至 42,912.98 点。">台湾加权股价指数上涨 3%至 42,912.98 点。</div></div></article><article class="item" data-search="港股生物医药股高开，百济神州(06160.hk)涨超 7%，药明康德(02359.hk)涨超 6%，康方生物(09926.hk)、药明生物(02269.hk)涨超 3%。"><div class="time">09:22</div><div class="content"><div class="text" data-full="港股生物医药股高开，百济神州(06160.HK)涨超 7%，药明康德(02359.HK)涨超 6%，康方生物(09926.HK)、药明生物(02269.HK)涨超 3%。" data-short="港股生物医药股高开，百济神州(06160.HK)涨超 7%，药明康德(02359.HK)涨超 6%，康方生物(09926.HK)、药明生物(02269.HK)涨超 3%。">港股生物医药股高开，百济神州(06160.HK)涨超 7%，药明康德(02359.HK)涨超 6%，康方生物(09926.HK)、药明生物(02269.HK)涨超 3%。</div></div></article><article class="item" data-search="中国央行公开市场操作当日实现净投放 80 亿元
 金十数据 11 月 10 日讯，中国央行今日开展 1900 亿元 7 天期逆回购操作，因今日有 1820 亿元 7 天期逆回购到期，当日实现净投放 80 亿元。看公开市场资金流向，到“数据库-中国央行数据”查看>>"><div class="time">09:22</div><div class="content"><div class="text" data-full="中国央行公开市场操作当日实现净投放 80 亿元
 金十数据 11 月 10 日讯，中国央行今日开展 1900 亿元 7 天期逆回购操作，因今日有 1820 亿元 7 天期逆回购到期，当日实现净投放 80 亿元。看公开市场资金流向，到“数据库-中国央行数据”查看>>" data-short="中国央行公开市场操作当日实现净投放 80 亿元
 金十数据 11 月 10 日讯，中国央行今日开展 1900 亿元 7 天期逆回购操作，因今日有 1820 亿元 7 天期逆回购到期，当日实现净投放 80 亿元。看公开市场资金流向，到“数据库-中国央行数据”查看>>">中国央行公开市场操作当日实现净投放 80 亿元
@@ -891,117 +899,7 @@ ETF 中，中概互联网指数 ETF（KWEB）收跌 2.29%，中国科技指数 E
 政策利率“换锚”落地后，同业存单市场迎来新变化。11 月首周，1 年期 aaa 级同业存单收益率跌破 1.40%，一度降至 1.385%，创历史新低，银行新发行存单的融资成本也随之下降。部分业内人士认为，隔夜逆回购常态化操作增强了市场对低资金成本持续性的预期，叠加月初存单净融资减少、现金管理类产品配置需求增加，共同推动存单收益率下行。不过，存单收益率与资金利率之间的利差已明显收窄，进一步下行的空间或受到约束，后续需关注央行流动性投放、存单到期续发及政府债缴款情况。（上证报）"><div class="time">06:34</div><div class="content"><div class="text" data-full="1 年期 AAA 级同业存单收益率创历史新低。政策利率“换锚”传导效应显现
 政策利率“换锚”落地后，同业存单市场迎来新变化。11 月首周，1 年期 AAA 级同业存单收益率跌破 1.40%，一度降至 1.385%，创历史新低，银行新发行存单的融资成本也随之下降。部分业内人士认为，隔夜逆回购常态化操作增强了市场对低资金成本持续性的预期，叠加月初存单净融资减少、现金管理类产品配置需求增加，共同推动存单收益率下行。不过，存单收益率与资金利率之间的利差已明显收窄，进一步下行的空间或受到约束，后续需关注央行流动性投放、存单到期续发及政府债缴款情况。（上证报）" data-short="1 年期 AAA 级同业存单收益率创历史新低。政策利率“换锚”传导效应显现
 政策利率“换锚”落地后，同业存单市场迎来新变化。11 月首周，1 年期 AAA 级同业存单收益率跌破 1.40%，一度降至 1.385%，创历史新低，银行新发行存单的融资成本也随之下降。部分业内人士认为，隔夜逆回购常态化操作增强了市场对低资金成本持续性的预期，叠加月初存单净融资减少、...">1 年期 AAA 级同业存单收益率创历史新低。政策利率“换锚”传导效应显现
-政策利率“换锚”落地后，同业存单市场迎来新变化。11 月首周，1 年期 AAA 级同业存单收益率跌破 1.40%，一度降至 1.385%，创历史新低，银行新发行存单的融资成本也随之下降。部分业内人士认为，隔夜逆回购常态化操作增强了市场对低资金成本持续性的预期，叠加月初存单净融资减少、...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="政策利率“换锚”落地后，同业存单市场迎来新变化。11 月首周，1 年期 aaa 级同业存单收益率跌破 1.40%，一度降至 1.385%，创历史新低，银行新发行存单的融资成本也随之下降。"><div class="time">06:34</div><div class="content"><div class="text" data-full="政策利率“换锚”落地后，同业存单市场迎来新变化。11 月首周，1 年期 AAA 级同业存单收益率跌破 1.40%，一度降至 1.385%，创历史新低，银行新发行存单的融资成本也随之下降。" data-short="政策利率“换锚”落地后，同业存单市场迎来新变化。11 月首周，1 年期 AAA 级同业存单收益率跌破 1.40%，一度降至 1.385%，创历史新低，银行新发行存单的融资成本也随之下降。">政策利率“换锚”落地后，同业存单市场迎来新变化。11 月首周，1 年期 AAA 级同业存单收益率跌破 1.40%，一度降至 1.385%，创历史新低，银行新发行存单的融资成本也随之下降。</div></div></article><article class="item" data-search="周二重要财经信息提醒（以下均为北京时间）
-
-① 07:50 日本央行公布 10 月货币政策会议审议委员意见摘要，日本 9 月贸易帐；
-② 08:15 新西兰联储首席经济学家 conway 在瑞银澳洲会议上谈论经济；
-③ 时间待定 中国 10 月进出口与贸易帐；
-④ 13:30 台积电公布 10 月销售额；
-⑤ 16:15 欧洲央行管委 sleijpen 讲话；
-⑥ 16:30 英国央行副行长 breeden 讲话；
-⑦ 17:00 美联储理事沃勒在英国伦敦一场活动上发表主旨演讲，其将在英国央行的活动（单独与前述活动之外）上谈论经济前景；
-⑧ 20:30 英国央行副行长 lombardelli 讲话；
-⑨ 21:30 美国 10 月 cpi（bls 将不会披露同比数据）；
-⑩ 22:00 欧洲央行执委 cipollone 在欧洲议会关于数字欧元的听证会上讲话；
-23:50 美国达拉斯联储（东道主）主席 logan 在美联储第十一届能源年会上讲话，与会者们将谈论全球经济、石油和天然气市场、以及供电市场的前景；
-次日 00:45 欧洲央行首席经济学家 lane 在英国央行发表主旨讲话；
-次日 01:00 美国能源信息署（eia）公布月度短期能源展望报告（steo）；
-次日 01:30 欧洲央行管委 escriva 讲话；
-次日 02:30 加拿大央行公布会议纪要，英国央行首席经济学家 pill 讲话；
-次日 02:30 美国堪萨斯城联储主席 jeff schmid 在达拉斯联储参与一场炉边闲聊；
-次日 04:00 新西兰联储公布金融稳定报告；
-次日 04:30 美联储理事、负责金融监管事务的副主席鲍曼讲话；
-美股盘后 coreweave 发布业绩报告。"><div class="time">06:34</div><div class="content"><div class="text" data-full="周二重要财经信息提醒（以下均为北京时间）
-
-① 07:50 日本央行公布 10 月货币政策会议审议委员意见摘要，日本 9 月贸易帐；
-② 08:15 新西兰联储首席经济学家 Conway 在瑞银澳洲会议上谈论经济；
-③ 时间待定 中国 10 月进出口与贸易帐；
-④ 13:30 台积电公布 10 月销售额；
-⑤ 16:15 欧洲央行管委 Sleijpen 讲话；
-⑥ 16:30 英国央行副行长 Breeden 讲话；
-⑦ 17:00 美联储理事沃勒在英国伦敦一场活动上发表主旨演讲，其将在英国央行的活动（单独与前述活动之外）上谈论经济前景；
-⑧ 20:30 英国央行副行长 Lombardelli 讲话；
-⑨ 21:30 美国 10 月 CPI（BLS 将不会披露同比数据）；
-⑩ 22:00 欧洲央行执委 Cipollone 在欧洲议会关于数字欧元的听证会上讲话；
-23:50 美国达拉斯联储（东道主）主席 Logan 在美联储第十一届能源年会上讲话，与会者们将谈论全球经济、石油和天然气市场、以及供电市场的前景；
-次日 00:45 欧洲央行首席经济学家 Lane 在英国央行发表主旨讲话；
-次日 01:00 美国能源信息署（EIA）公布月度短期能源展望报告（STEO）；
-次日 01:30 欧洲央行管委 Escriva 讲话；
-次日 02:30 加拿大央行公布会议纪要，英国央行首席经济学家 Pill 讲话；
-次日 02:30 美国堪萨斯城联储主席 Jeff Schmid 在达拉斯联储参与一场炉边闲聊；
-次日 04:00 新西兰联储公布金融稳定报告；
-次日 04:30 美联储理事、负责金融监管事务的副主席鲍曼讲话；
-美股盘后 CoreWeave 发布业绩报告。" data-short="周二重要财经信息提醒（以下均为北京时间）
-
-① 07:50 日本央行公布 10 月货币政策会议审议委员意见摘要，日本 9 月贸易帐；
-② 08:15 新西兰联储首席经济学家 Conway 在瑞银澳洲会议上谈论经济；
-③ 时间待定 中国 10 月进出口与贸易帐；
-④ 13:30 台积电公布 10 月销售额；
-⑤ 16:15 欧洲央行管委 Sleijpen 讲话...">周二重要财经信息提醒（以下均为北京时间）
-
-① 07:50 日本央行公布 10 月货币政策会议审议委员意见摘要，日本 9 月贸易帐；
-② 08:15 新西兰联储首席经济学家 Conway 在瑞银澳洲会议上谈论经济；
-③ 时间待定 中国 10 月进出口与贸易帐；
-④ 13:30 台积电公布 10 月销售额；
-⑤ 16:15 欧洲央行管委 Sleijpen 讲话...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="① 07:50 日本央行公布 10 月货币政策会议审议委员意见摘要，日本 9 月贸易帐；
-② 08:15 新西兰联储首席经济学家 conway 在瑞银澳洲会议上谈论经济；
-③ 时间待定 中国 10 月进出口与贸易帐；
-④ 13:30 台积电公布 10 月销售额；
-⑤ 16:15 欧洲央行管委 sleijpen 讲话；、
-⑥ 16:30 英国央行副行长 breeden 讲话；
-⑦ 17:00 美联储理事沃勒在英国伦敦一场活动上发表主旨演讲，其将在英国央行的活动（单独与前述活动之外）上谈论经济前景；
-⑧ 20:30 英国央行副行长 lombardelli 讲话；
-⑨ 21:30 美国 10 月 cpi（bls 将不会披露同比数据）；
-⑩ 22:00 欧洲央行执委 cipollone 在欧洲议会关于数字欧元的听证会上讲话；
-⑪ 23:50 美国达拉斯联储（东道主）主席 logan 在美联储第十一届能源年会上讲话，与会者们将谈论全球经济、石油和天然气市场、以及供电市场的前景；
-⑫ 次日 00:45 欧洲央行首席经济学家 lane 在英国央行发表主旨讲话；
-⑬ 次日 01:00 美国能源信息署（eia）公布月度短期能源展望报告（steo）；
-⑭ 次日 01:30 欧洲央行管委 escriva 讲话；
-⑮ 次日 02:30 加拿大央行公布会议纪要，英国央行首席经济学家 pill 讲话；
-⑯ 次日 02:30 美国堪萨斯城联储主席 jeff schmid 在达拉斯联储参与一场炉边闲聊；
-⑰ 次日 04:00 新西兰联储公布金融稳定报告；
-⑱ 次日 04:30 美联储理事、负责金融监管事务的副主席鲍曼讲话；
-⑲ 美股盘后 coreweave 发布业绩报告；"><div class="time">06:32</div><div class="content"><div class="text" data-full="① 07:50 日本央行公布 10 月货币政策会议审议委员意见摘要，日本 9 月贸易帐；
-② 08:15 新西兰联储首席经济学家 Conway 在瑞银澳洲会议上谈论经济；
-③ 时间待定 中国 10 月进出口与贸易帐；
-④ 13:30 台积电公布 10 月销售额；
-⑤ 16:15 欧洲央行管委 Sleijpen 讲话；、
-⑥ 16:30 英国央行副行长 Breeden 讲话；
-⑦ 17:00 美联储理事沃勒在英国伦敦一场活动上发表主旨演讲，其将在英国央行的活动（单独与前述活动之外）上谈论经济前景；
-⑧ 20:30 英国央行副行长 Lombardelli 讲话；
-⑨ 21:30 美国 10 月 CPI（BLS 将不会披露同比数据）；
-⑩ 22:00 欧洲央行执委 Cipollone 在欧洲议会关于数字欧元的听证会上讲话；
-⑪ 23:50 美国达拉斯联储（东道主）主席 Logan 在美联储第十一届能源年会上讲话，与会者们将谈论全球经济、石油和天然气市场、以及供电市场的前景；
-⑫ 次日 00:45 欧洲央行首席经济学家 Lane 在英国央行发表主旨讲话；
-⑬ 次日 01:00 美国能源信息署（EIA）公布月度短期能源展望报告（STEO）；
-⑭ 次日 01:30 欧洲央行管委 Escriva 讲话；
-⑮ 次日 02:30 加拿大央行公布会议纪要，英国央行首席经济学家 Pill 讲话；
-⑯ 次日 02:30 美国堪萨斯城联储主席 Jeff Schmid 在达拉斯联储参与一场炉边闲聊；
-⑰ 次日 04:00 新西兰联储公布金融稳定报告；
-⑱ 次日 04:30 美联储理事、负责金融监管事务的副主席鲍曼讲话；
-⑲ 美股盘后 CoreWeave 发布业绩报告；" data-short="① 07:50 日本央行公布 10 月货币政策会议审议委员意见摘要，日本 9 月贸易帐；
-② 08:15 新西兰联储首席经济学家 Conway 在瑞银澳洲会议上谈论经济；
-③ 时间待定 中国 10 月进出口与贸易帐；
-④ 13:30 台积电公布 10 月销售额；
-⑤ 16:15 欧洲央行管委 Sleijpen 讲话；、
-⑥ 16:30 英国央行副行长 Bre...">① 07:50 日本央行公布 10 月货币政策会议审议委员意见摘要，日本 9 月贸易帐；
-② 08:15 新西兰联储首席经济学家 Conway 在瑞银澳洲会议上谈论经济；
-③ 时间待定 中国 10 月进出口与贸易帐；
-④ 13:30 台积电公布 10 月销售额；
-⑤ 16:15 欧洲央行管委 Sleijpen 讲话；、
-⑥ 16:30 英国央行副行长 Bre...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="麦当劳向美国证监会提交文件，拟发行 12 亿美元中期票据，分为两档。"><div class="time">06:30</div><div class="content"><div class="text" data-full="麦当劳向美国证监会提交文件，拟发行 12 亿美元中期票据，分为两档。" data-short="麦当劳向美国证监会提交文件，拟发行 12 亿美元中期票据，分为两档。">麦当劳向美国证监会提交文件，拟发行 12 亿美元中期票据，分为两档。</div></div></article><article class="item" data-search="高通申请发行 40 亿美元债券，分为 5 档，固定票息 5.000%-5.800%。"><div class="time">06:22</div><div class="content"><div class="text" data-full="高通申请发行 40 亿美元债券，分为 5 档，固定票息 5.000%-5.800%。" data-short="高通申请发行 40 亿美元债券，分为 5 档，固定票息 5.000%-5.800%。">高通申请发行 40 亿美元债券，分为 5 档，固定票息 5.000%-5.800%。</div></div></article><article class="item" data-search="高通公司提交发行 40 亿美元票据的文件，分五批发行，固定票面利率为 5.000%至 5.800%。"><div class="time">06:21</div><div class="content"><div class="text" data-full="高通公司提交发行 40 亿美元票据的文件，分五批发行，固定票面利率为 5.000%至 5.800%。" data-short="高通公司提交发行 40 亿美元票据的文件，分五批发行，固定票面利率为 5.000%至 5.800%。">高通公司提交发行 40 亿美元票据的文件，分五批发行，固定票面利率为 5.000%至 5.800%。</div></div></article><article class="item" data-search="进入四季度，从中央到地方、从财政资金到社会资本，多路力量正在向“稳投资”这一目标集中发力。记者注意到，近一个月以来，福建、湖北、青海、吉林、山西、云南、安徽等地召开投资和重大项目建设推进会，聚焦重大项目与“六张网”建设等，加码稳投资。专家在接受记者采访时表示，四季度投资有望边际回升。（上证报）"><div class="time">06:19</div><div class="content"><div class="text" data-full="进入四季度，从中央到地方、从财政资金到社会资本，多路力量正在向“稳投资”这一目标集中发力。记者注意到，近一个月以来，福建、湖北、青海、吉林、山西、云南、安徽等地召开投资和重大项目建设推进会，聚焦重大项目与“六张网”建设等，加码稳投资。专家在接受记者采访时表示，四季度投资有望边际回升。（上证报）" data-short="进入四季度，从中央到地方、从财政资金到社会资本，多路力量正在向“稳投资”这一目标集中发力。记者注意到，近一个月以来，福建、湖北、青海、吉林、山西、云南、安徽等地召开投资和重大项目建设推进会，聚焦重大项目与“六张网”建设等，加码稳投资。专家在接受记者采访时表示，四季度投资有望边际回升。（上证报）">进入四季度，从中央到地方、从财政资金到社会资本，多路力量正在向“稳投资”这一目标集中发力。记者注意到，近一个月以来，福建、湖北、青海、吉林、山西、云南、安徽等地召开投资和重大项目建设推进会，聚焦重大项目与“六张网”建设等，加码稳投资。专家在接受记者采访时表示，四季度投资有望边际回升。（上证报）</div></div></article><article class="item" data-search="10 月以来，北交所上市公司增持回购动作密集：披露增持动向的上市公司达 7 家，拟增持金额合计约 1.31 亿元；新增披露回购股份方案 3 家，合计拟回购金额区间为 4860 万元至 9400 万元。拉长时间线看，今年以来，北交所公司累计披露增持计划 25 家次、回购股份方案 37 家次。与此同时，彩客科技、殷图网联等多家公司披露股东提前终止减持计划。增持回购、终止减持等成为北交所公司传递价值信号、稳定市场预期的重要抓手。（上证报）"><div class="time">06:18</div><div class="content"><div class="text" data-full="10 月以来，北交所上市公司增持回购动作密集：披露增持动向的上市公司达 7 家，拟增持金额合计约 1.31 亿元；新增披露回购股份方案 3 家，合计拟回购金额区间为 4860 万元至 9400 万元。拉长时间线看，今年以来，北交所公司累计披露增持计划 25 家次、回购股份方案 37 家次。与此同时，彩客科技、殷图网联等多家公司披露股东提前终止减持计划。增持回购、终止减持等成为北交所公司传递价值信号、稳定市场预期的重要抓手。（上证报）" data-short="10 月以来，北交所上市公司增持回购动作密集：披露增持动向的上市公司达 7 家，拟增持金额合计约 1.31 亿元；新增披露回购股份方案 3 家，合计拟回购金额区间为 4860 万元至 9400 万元。拉长时间线看，今年以来，北交所公司累计披露增持计划 25 家次、回购股份方案 37 家次。与此同时，彩客科技、殷图网联等多家公司披露股东提前终止减持计划。增持回...">10 月以来，北交所上市公司增持回购动作密集：披露增持动向的上市公司达 7 家，拟增持金额合计约 1.31 亿元；新增披露回购股份方案 3 家，合计拟回购金额区间为 4860 万元至 9400 万元。拉长时间线看，今年以来，北交所公司累计披露增持计划 25 家次、回购股份方案 37 家次。与此同时，彩客科技、殷图网联等多家公司披露股东提前终止减持计划。增持回...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="周一（11 月 9 日）纽约尾盘，现货黄金涨 1.61%，报 4136.20 美元/盎司，亚太盘初刷新日低至 4054.44 美元、随后快速拉涨至 4130 美元上方，美股尾盘刷新日高至 4148.50 美元。
-现货白银涨 2.88%，报 53.4042 美元/盎司。
-comex 铜期货涨 1.87%，报 6.3825 美元/磅。"><div class="time">06:17</div><div class="content"><div class="text" data-full="周一（11 月 9 日）纽约尾盘，现货黄金涨 1.61%，报 4136.20 美元/盎司，亚太盘初刷新日低至 4054.44 美元、随后快速拉涨至 4130 美元上方，美股尾盘刷新日高至 4148.50 美元。
-现货白银涨 2.88%，报 53.4042 美元/盎司。
-COMEX 铜期货涨 1.87%，报 6.3825 美元/磅。" data-short="周一（11 月 9 日）纽约尾盘，现货黄金涨 1.61%，报 4136.20 美元/盎司，亚太盘初刷新日低至 4054.44 美元、随后快速拉涨至 4130 美元上方，美股尾盘刷新日高至 4148.50 美元。
-现货白银涨 2.88%，报 53.4042 美元/盎司。
-COMEX 铜期货涨 1.87%，报 6.3825 美元/磅。">周一（11 月 9 日）纽约尾盘，现货黄金涨 1.61%，报 4136.20 美元/盎司，亚太盘初刷新日低至 4054.44 美元、随后快速拉涨至 4130 美元上方，美股尾盘刷新日高至 4148.50 美元。
-现货白银涨 2.88%，报 53.4042 美元/盎司。
-COMEX 铜期货涨 1.87%，报 6.3825 美元/磅。</div></div></article><article class="item" data-search="美国总统特朗普在白宫的讲话结束。"><div class="time">06:16</div><div class="content"><div class="text" data-full="美国总统特朗普在白宫的讲话结束。" data-short="美国总统特朗普在白宫的讲话结束。">美国总统特朗普在白宫的讲话结束。</div></div></article><article class="item" data-search="美国总统特朗普：认为米勒将与民主党人相处融洽。"><div class="time">06:14</div><div class="content"><div class="text" data-full="美国总统特朗普：认为米勒将与民主党人相处融洽。" data-short="美国总统特朗普：认为米勒将与民主党人相处融洽。">美国总统特朗普：认为米勒将与民主党人相处融洽。</div></div></article><article class="item" data-search="reits“去不动产化”探路：动力电池批量“化身”金融底层资产
-随着底层资产的扩围，“不动产投资信托基金（reits）”里的 “不动产” 三个字开始松动。动力电池、储能电池等“会跑的不动产”正在进入 reits 底层资产的版图，牵引 reits 走出土地与钢筋水泥的围城。业内认为，这是 reits 市场拓宽边界的必经之路。在确权、评估、现金流等诸多方面与不动产有明显区别，reits“去不动产化”之路并不好走。而且不少新能源资产贯穿采购、租用、运维、退役、循环利用、回收的全生命周期，如何练就全链条、规模化健康管理的本事，考验入场玩家。受访人士表示，动产 reits 从“首单破冰”到“规模化复制”，考验的不是某一单产品能不能发出来，而是市场的尺子还准不准。确权交割的实操标准、估值模型的搭建、全周期风控的“脚手架”，每一道坎都需要制度与市场共同跨越。(证券时报)"><div class="time">06:14</div><div class="content"><div class="text" data-full="REITs“去不动产化”探路：动力电池批量“化身”金融底层资产
-随着底层资产的扩围，“不动产投资信托基金（REITs）”里的 “不动产” 三个字开始松动。动力电池、储能电池等“会跑的不动产”正在进入 REITs 底层资产的版图，牵引 REITs 走出土地与钢筋水泥的围城。业内认为，这是 REITs 市场拓宽边界的必经之路。在确权、评估、现金流等诸多方面与不动产有明显区别，REITs“去不动产化”之路并不好走。而且不少新能源资产贯穿采购、租用、运维、退役、循环利用、回收的全生命周期，如何练就全链条、规模化健康管理的本事，考验入场玩家。受访人士表示，动产 REITs 从“首单破冰”到“规模化复制”，考验的不是某一单产品能不能发出来，而是市场的尺子还准不准。确权交割的实操标准、估值模型的搭建、全周期风控的“脚手架”，每一道坎都需要制度与市场共同跨越。(证券时报)" data-short="REITs“去不动产化”探路：动力电池批量“化身”金融底层资产
-随着底层资产的扩围，“不动产投资信托基金（REITs）”里的 “不动产” 三个字开始松动。动力电池、储能电池等“会跑的不动产”正在进入 REITs 底层资产的版图，牵引 REITs 走出土地与钢筋水泥的围城。业内认为，这是 REITs 市场拓宽边界的必经之路。在确权、评估、现金流等诸多方面与不动...">REITs“去不动产化”探路：动力电池批量“化身”金融底层资产
-随着底层资产的扩围，“不动产投资信托基金（REITs）”里的 “不动产” 三个字开始松动。动力电池、储能电池等“会跑的不动产”正在进入 REITs 底层资产的版图，牵引 REITs 走出土地与钢筋水泥的围城。业内认为，这是 REITs 市场拓宽边界的必经之路。在确权、评估、现金流等诸多方面与不动...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月10日 · VIP</h2> <div class="feed"> <article class="item" data-search="红宝书20261109.pdf 
+政策利率“换锚”落地后，同业存单市场迎来新变化。11 月首周，1 年期 AAA 级同业存单收益率跌破 1.40%，一度降至 1.385%，创历史新低，银行新发行存单的融资成本也随之下降。部分业内人士认为，隔夜逆回购常态化操作增强了市场对低资金成本持续性的预期，叠加月初存单净融资减少、...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月10日 · VIP</h2> <div class="feed"> <article class="item" data-search="红宝书20261109.pdf 
 
 链接: https://pan.baidu.com/s/1rsxvfivj-ogtfo4ews1tww?pwd=jkvz 提取码: jkvz --来自百度网盘超级会员v7的分享
 👍1"> <div class="time">09:11</div> <div class="content"> <div class="text">红宝书20261109.pdf 
