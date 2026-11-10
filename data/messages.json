@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3616183",
+    "datetime": "2026-11-10T23:00:23+00:00",
+    "views": "1",
+    "text": "日本 11 月路透短观制造业景气判断指数 27，前值 22。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3616183"
+  },
+  {
+    "post": "Financial_Express/3616181",
+    "datetime": "2026-11-10T23:00:22+00:00",
+    "views": "1",
+    "text": "韩国 10 月失业率 2.5%，预期 2.6%，前值 2.60%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3616181"
+  },
+  {
+    "post": "Financial_Express/3616182",
+    "datetime": "2026-11-10T23:00:22+00:00",
+    "views": "1",
+    "text": "日本 11 月路透短观非制造业景气判断指数 35，前值 23。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3616182"
+  },
+  {
+    "post": "Financial_Express/3616180",
+    "datetime": "2026-11-10T22:59:02+00:00",
+    "views": "8",
+    "text": "美国众议院就弹劾国防部长赫格塞思的动议进行投票。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3616180"
+  },
+  {
     "post": "Financial_Express/3616179",
     "datetime": "2026-11-10T22:56:42+00:00",
-    "views": "6",
+    "views": "15",
     "text": "据 Politico：肯尼迪家族已针对美国总统特朗普的凯旋门项目申请禁令。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3616178",
     "datetime": "2026-11-10T22:56:23+00:00",
-    "views": "6",
+    "views": "15",
     "text": "韩国外交部：韩国外长会见乌克兰外长瑟比加。韩国外交部长表示，希望两国间所有悬而未决的问题都能顺利得到解决。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3616177",
     "datetime": "2026-11-10T22:56:22+00:00",
-    "views": "6",
+    "views": "15",
     "text": "Anthropic 提交澳大利亚招股说明书，向散户开放 IPO\n金十数据 11 月 11 日讯，澳大利亚散户将有机会参与人工智能巨头 Anthropic PBC 的 IPO。该公司在此次发行中的目标估值为 1.4 万亿美元。根据周三向澳大利亚证券监管机构提交的文件，澳大利亚的个人投资者可从周三起，通过参与此次发行的券商认购 Anthropic 的股份。此次发行预计将于 11 月 17 日结束，股票将于 11 月 20 日在纳斯达克挂牌交易。Anthropic 计划通过此次 IPO 及私募融资筹集至多 904 亿美元，发行价格区间定为每股 70 至 78 美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3616176",
     "datetime": "2026-11-10T22:54:42+00:00",
-    "views": "18",
+    "views": "23",
     "text": "韩国外交部：乌克兰外长瑟比加呼吁通过外交努力稳定发展双边关系。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3616175",
     "datetime": "2026-11-10T22:54:14+00:00",
-    "views": "24",
+    "views": "29",
     "text": "CoreWeave：（中期选举过后）美国监管风向的转变不会给我们带来影响。\n将等到 2028 年（美国总统大选）再进一步分析市场。\n正在研究 2028 年的电力和产能。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3616174",
     "datetime": "2026-11-10T22:53:22+00:00",
-    "views": "28",
+    "views": "33",
     "text": "韩国外交部：韩国外交部长表示，希望两国之间所有悬而未决的问题都能顺利解决。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3616173",
     "datetime": "2026-11-10T22:53:03+00:00",
-    "views": "28",
+    "views": "33",
     "text": "韩国外交部表示，韩国外长强调了首尔方面在向乌克兰提供支持问题上的立场。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3616172",
     "datetime": "2026-11-10T22:53:02+00:00",
-    "views": "28",
+    "views": "32",
     "text": "韩国外交部：韩国外长会见乌克兰外长安德烈·瑟比加。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3616171",
     "datetime": "2026-11-10T22:50:42+00:00",
-    "views": "36",
+    "views": "40",
     "text": "CoreWeave 首席执行官：正在考虑 2028 年的电力和产能问题。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3616170",
     "datetime": "2026-11-10T22:50:23+00:00",
-    "views": "37",
+    "views": "40",
     "text": "CoreWeave 首席执行官：等待 2028 年进一步“适应市场周期”。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3616169",
     "datetime": "2026-11-10T22:50:22+00:00",
-    "views": "37",
+    "views": "40",
     "text": "CoreWeave 首席执行官认为美国监管政策变化不会产生影响。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3616168",
     "datetime": "2026-11-10T22:49:02+00:00",
-    "views": "45",
+    "views": "48",
     "text": "美国信用卡债务总额升至 1.29 万亿美元 创历史新高\n美国新发信用卡的平均利率约为 24%，信用卡仍是成本较高的借贷方式之一。(央视新闻)",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3616167",
     "datetime": "2026-11-10T22:46:33+00:00",
-    "views": "54",
+    "views": "55",
     "text": "在今年国内利率持续下行的背景下，以公募基金为首的机构利用久期策略积极增厚收益。近期，公募基金持有债券久期创下近三年新高，市场上涌现出多只年内回报率超 10%的纯债产品，业绩表现甚至超越了一众权益基金。深入业内采访了解到，地方债票息、利率债久期波段、杠杆套息贡献等策略，今年为纯债组合创造了较好的收益增厚效果。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3616166",
     "datetime": "2026-11-10T22:46:09+00:00",
-    "views": "53",
+    "views": "54",
     "text": "CoreWeave：到 2027 年，超过 75%的已承诺资本开支与投资级客户和企业级客户挂钩，约 25%的已承诺资本开支与全球领先 AI 实验室及 AI 原生公司挂钩。\n今年公司在 70%的交易中收取了预付款，客户最高可预付合同价值的 100%。\n公司正在对现有云基础设施重新签约，并以明显高于原始价格的溢价出售。\n第四季度定价继续走高，涨幅足以抵消成本上升。\n按当前定价水平，2027 年的续约将带来接近 40 亿美元的增量年化收入，且无需追加资本开支。\n2028 年的需求量是可用产能的数倍。\n到 2027 年底，合格需求是可用产能的 10 倍。\n基于已完全取得许可场地的在建工程，我们认为 2027 年的交付不存在重大风险。\n资本开支指引上调，是因为我们预计将比计划更早部署基础设施并向客户交付。\n“我们不是一门不惜代价求增长的业务。但当下的环境，对那些拥有差异化技术需求、并且能执行落地的公司而言非常有利可图。”",
     "media_only": false,
     "image_url": null,
@@ -61693,23 +61729,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3609265"
-  },
-  {
-    "post": "Financial_Express/3609264",
-    "datetime": "2026-11-08T23:00:22+00:00",
-    "views": "59",
-    "text": "钯金期货日内涨 1%，现报 1027.66 美元/盎司。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3609264"
-  },
-  {
-    "post": "Financial_Express/3609263",
-    "datetime": "2026-11-08T22:59:42+00:00",
-    "views": "59",
-    "text": "新西兰执政党赢得组阁先机 纽元走强\n金十数据 11 月 9 日讯，纽元在早盘交易中小幅上涨。周末新西兰大选后，执政的国家党（National Party）获得了重新执政的可能性，在与小党派展开组阁谈判方面占据有利位置。纽元兑美元 NZD/USD 一度上涨 0.5%，至 0.5569，从上周创下的一年多来低点反弹。新西兰两年期和 10 年期国债收益率基本持平。新西兰银行驻惠灵顿高级策略师杰森·王表示：“此次选举结果对纽元略有利好，市场目前倾向于认为，中右翼执政联盟将继续掌权。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3609263"
   }
 ]
