@@ -1,8 +1,125 @@
 [
   {
+    "post": "Financial_Express/3614928",
+    "datetime": "2026-11-10T13:04:04+00:00",
+    "views": "2",
+    "text": "赫格塞斯：弹劾行动是一场闹剧。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614928"
+  },
+  {
+    "post": "Financial_Express/3614927",
+    "datetime": "2026-11-10T13:04:03+00:00",
+    "views": "2",
+    "text": "美国国防部长赫格塞思：众议员马西的企图并非监督。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614927"
+  },
+  {
+    "post": "Financial_Express/3614926",
+    "datetime": "2026-11-10T13:03:43+00:00",
+    "views": "3",
+    "text": "赫格塞斯：马西试图做的并非监管。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614926"
+  },
+  {
+    "post": "Financial_Express/3614925",
+    "datetime": "2026-11-10T13:03:42+00:00",
+    "views": "4",
+    "text": "强生(JNJ.N)：旗下药物 Caplyta 在一项针对双相情感障碍的临床试验中达到了预设终点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614925"
+  },
+  {
+    "post": "Financial_Express/3614924",
+    "datetime": "2026-11-10T13:03:40+00:00",
+    "views": "4",
+    "text": "伊朗否认参与针对法国的网络攻击。伊朗外交部称法国的指控“毫无根据”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614924"
+  },
+  {
+    "post": "Financial_Express/3614923",
+    "datetime": "2026-11-10T13:03:22+00:00",
+    "views": "5",
+    "text": "强生：Caplyta 治疗组 43.9%的患者在第 3 周达到 YMRS 评分改善≥50%，安慰剂组为 23.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614923"
+  },
+  {
+    "post": "Financial_Express/3614922",
+    "datetime": "2026-11-10T13:03:21+00:00",
+    "views": "5",
+    "text": "IBM 与微软推出 Imagine 企业 AI 智能体平台。微软将在与 IBM 的协议中提供 AI、云和安全基础。（彭博）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614922"
+  },
+  {
+    "post": "Financial_Express/3614920",
+    "datetime": "2026-11-10T13:03:03+00:00",
+    "views": "7",
+    "text": "内蒙古自治区党委金融工作委员会原副书记马保国严重违纪违法被开除党籍和公职\n据内蒙古自治区纪委监委 10 日通报，经内蒙古自治区党委批准，内蒙古自治区纪委监委对内蒙古自治区党委金融工作委员会原副书记马保国严重违纪违法问题进行了立案审查调查。（新华社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614920"
+  },
+  {
+    "post": "Financial_Express/3614921",
+    "datetime": "2026-11-10T13:03:03+00:00",
+    "views": "7",
+    "text": "据媒体报道，纽约推出州级人工智能测试项目。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614921"
+  },
+  {
+    "post": "Financial_Express/3614919",
+    "datetime": "2026-11-10T13:03:02+00:00",
+    "views": "7",
+    "text": "据美国政治新闻网站 Politico：纽约推出州级人工智能测试项目。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614919"
+  },
+  {
+    "post": "Financial_Express/3614918",
+    "datetime": "2026-11-10T13:02:42+00:00",
+    "views": "7",
+    "text": "微软(MSFT.O)将在与 IBM(IBM.N)达成的合作协议中，提供人工智能、云计算及安全领域的基础技术支持。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614918"
+  },
+  {
+    "post": "Financial_Express/3614916",
+    "datetime": "2026-11-10T13:02:23+00:00",
+    "views": "8",
+    "text": "Polymarket 称其年化营收已突破 18 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614916"
+  },
+  {
+    "post": "Financial_Express/3614915",
+    "datetime": "2026-11-10T13:02:22+00:00",
+    "views": "8",
+    "text": "甲骨文(ORCL.N)为金融机构推出 AI 资金管理分析工具。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614915"
+  },
+  {
     "post": "Financial_Express/3614914",
     "datetime": "2026-11-10T13:01:42+00:00",
-    "views": "4",
+    "views": "11",
     "text": "IBM 咨询部门已将 6000 余个预构建 AI 智能体纳入与微软的合作协议。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +128,7 @@
   {
     "post": "Financial_Express/3614913",
     "datetime": "2026-11-10T13:01:25+00:00",
-    "views": "4",
+    "views": "40",
     "text": "甲骨文面向金融机构推出人工智能国库分析工具。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +137,7 @@
   {
     "post": "Financial_Express/3614910",
     "datetime": "2026-11-10T13:01:23+00:00",
-    "views": "4",
+    "views": "40",
     "text": "谷歌云推出面向医疗健康的 Gemini。",
     "media_only": false,
     "image_url": null,
@@ -29,8 +146,8 @@
   {
     "post": "Financial_Express/3614911",
     "datetime": "2026-11-10T13:01:23+00:00",
-    "views": "4",
-    "text": "IBM(IBM.N)与微软(MSFT.O)宣布推出全新的人工智能智能体平台，旨在推动特定行业的转型。",
+    "views": "40",
+    "text": "IBM(IBM.N)与微软(MSFT.O)宣布推出全新的人工智能智能体平台 Imagine Enterprise，旨在推动特定行业的转型。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3614911"
@@ -38,7 +155,7 @@
   {
     "post": "Financial_Express/3614912",
     "datetime": "2026-11-10T13:01:23+00:00",
-    "views": "4",
+    "views": "41",
     "text": "IBM 与微软发布全新人工智能智能体平台。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +164,7 @@
   {
     "post": "Financial_Express/3614909",
     "datetime": "2026-11-10T13:01:03+00:00",
-    "views": "5",
+    "views": "40",
     "text": "玻璃连续主力合约日内涨 1%，现报 888.00 元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +173,7 @@
   {
     "post": "Financial_Express/3614908",
     "datetime": "2026-11-10T13:01:02+00:00",
-    "views": "5",
+    "views": "41",
     "text": "谷歌云推出面向医疗领域的 Gemini 模型。",
     "media_only": false,
     "image_url": null,
@@ -52999,14 +53116,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3608977"
-  },
-  {
-    "post": "Financial_Express/3608976",
-    "datetime": "2026-11-08T13:04:03+00:00",
-    "views": "182",
-    "text": "重庆市南岸区政府原一级巡视员陈炯接受纪律审查和监察调查\n据重庆市纪委监委消息：重庆市南岸区政府原一级巡视员陈炯涉嫌严重违纪违法，目前正接受重庆市纪委监委纪律审查和监察调查。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3608976"
   }
 ]
