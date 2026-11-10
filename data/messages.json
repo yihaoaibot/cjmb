@@ -1,8 +1,125 @@
 [
   {
+    "post": "Financial_Express/3614914",
+    "datetime": "2026-11-10T13:01:42+00:00",
+    "views": "4",
+    "text": "IBM 咨询部门已将 6000 余个预构建 AI 智能体纳入与微软的合作协议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614914"
+  },
+  {
+    "post": "Financial_Express/3614913",
+    "datetime": "2026-11-10T13:01:25+00:00",
+    "views": "4",
+    "text": "甲骨文面向金融机构推出人工智能国库分析工具。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614913"
+  },
+  {
+    "post": "Financial_Express/3614910",
+    "datetime": "2026-11-10T13:01:23+00:00",
+    "views": "4",
+    "text": "谷歌云推出面向医疗健康的 Gemini。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614910"
+  },
+  {
+    "post": "Financial_Express/3614911",
+    "datetime": "2026-11-10T13:01:23+00:00",
+    "views": "4",
+    "text": "IBM(IBM.N)与微软(MSFT.O)宣布推出全新的人工智能智能体平台，旨在推动特定行业的转型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614911"
+  },
+  {
+    "post": "Financial_Express/3614912",
+    "datetime": "2026-11-10T13:01:23+00:00",
+    "views": "4",
+    "text": "IBM 与微软发布全新人工智能智能体平台。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614912"
+  },
+  {
+    "post": "Financial_Express/3614909",
+    "datetime": "2026-11-10T13:01:03+00:00",
+    "views": "5",
+    "text": "玻璃连续主力合约日内涨 1%，现报 888.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614909"
+  },
+  {
+    "post": "Financial_Express/3614908",
+    "datetime": "2026-11-10T13:01:02+00:00",
+    "views": "5",
+    "text": "谷歌云推出面向医疗领域的 Gemini 模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614908"
+  },
+  {
+    "post": "Financial_Express/3614907",
+    "datetime": "2026-11-10T13:00:42+00:00",
+    "views": "7",
+    "text": "奥姆尼奥斯公司公告称，阿斯利康已对其发起收购，未披露交易条款。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614907"
+  },
+  {
+    "post": "Financial_Express/3614906",
+    "datetime": "2026-11-10T13:00:24+00:00",
+    "views": "7",
+    "text": "PEPGEN 股价涨幅扩大至 140%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614906"
+  },
+  {
+    "post": "Financial_Express/3614903",
+    "datetime": "2026-11-10T13:00:23+00:00",
+    "views": "7",
+    "text": "甲醇连续主力合约日内跌 2%，现报 3057.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614903"
+  },
+  {
+    "post": "Financial_Express/3614904",
+    "datetime": "2026-11-10T13:00:23+00:00",
+    "views": "7",
+    "text": "聚丙烯连续主力合约日内跌 2%，现报 8900.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614904"
+  },
+  {
+    "post": "Financial_Express/3614905",
+    "datetime": "2026-11-10T13:00:23+00:00",
+    "views": "7",
+    "text": "纽约期银日内跌 1%，现报 52.16 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614905"
+  },
+  {
+    "post": "Financial_Express/3614902",
+    "datetime": "2026-11-10T13:00:22+00:00",
+    "views": "7",
+    "text": "国内期货夜盘开盘\n集运指数欧线期货连续涨 3.82%，上海原油连续跌 3.57%，丁二烯橡胶连续跌 3.28%，碳酸锂连续跌 2.96%，低硫燃料油连续跌 2.85%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3614902"
+  },
+  {
     "post": "Financial_Express/3614901",
     "datetime": "2026-11-10T13:00:02+00:00",
-    "views": "2",
+    "views": "37",
     "text": "波罗的海干散货运价指数上涨 0.28%，报 2862 点。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +128,7 @@
   {
     "post": "Financial_Express/3614900",
     "datetime": "2026-11-10T12:59:58+00:00",
-    "views": "2",
+    "views": "36",
     "text": "夜盘期货开盘，原油跌逾 3%，低硫燃油、燃油、丙烯、聚丙烯、液化石油气、甲醇、沥青、纯苯跌逾 2%；烧碱、纸浆涨逾 1%。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +137,8 @@
   {
     "post": "Financial_Express/3614899",
     "datetime": "2026-11-10T12:59:02+00:00",
-    "views": "6",
-    "text": "俄美乌首日会谈结束 持续近 4 小时\n金十数据 11 月 10 日讯，据俄罗斯媒体 10 日报道，俄罗斯、美国和乌克兰代表团当天结束在阿联酋阿布扎比的首日会谈，会谈持续近 4 小时。",
+    "views": "39",
+    "text": "俄美乌首日会谈结束 持续近 4 小时\n金十数据 11 月 10 日讯，据俄罗斯媒体 10 日报道，俄罗斯、美国和乌克兰代表团当天结束在阿联酋阿布扎比的首日会谈，会谈持续近 4 小时。\n👍1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3614899"
@@ -29,7 +146,7 @@
   {
     "post": "Financial_Express/3614898",
     "datetime": "2026-11-10T12:58:02+00:00",
-    "views": "40",
+    "views": "42",
     "text": "奋达科技：公司将持续聚焦主业发展，并积极推进新型智能硬件业务\n有投资者在互动平台向奋达科技（002681.SZ）提问，实控人及其一致行动人持续减持，本次预告坚持完成以后，持股比例已经处于较低水平。投资者比较担忧，在股权分散之后，公司如何建立机制防范外部资本恶意举牌、恶意争夺控制权的风险？同时想请教：一旦出现控制权争夺的情形，公司有哪些预案来保障汽车声学、智能硬件、机器人等既定战略业务不被干扰、稳定落地，保障中长期发展规划的确定性，维护全体中小股东的利益？11 月 10 日，公司回答表示，目前公司控股股东及其一致行动人持股比例相较其他股东仍具备明显控制权优势，公司无持股比例相近的其他大股东，公司当前控制权稳定，相关风险整体可控。公司将持续聚焦主业发展，并积极推进新型智能硬件业务。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -38,7 +155,7 @@
   {
     "post": "Financial_Express/3614897",
     "datetime": "2026-11-10T12:57:23+00:00",
-    "views": "43",
+    "views": "45",
     "text": "沙特交易所批准摩根士丹利沙特阿拉伯公司在海湾一般合作保险公司开展做市业务。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -47,7 +164,7 @@
   {
     "post": "Financial_Express/3614896",
     "datetime": "2026-11-10T12:57:13+00:00",
-    "views": "44",
+    "views": "46",
     "text": "据中国工程机械工业协会统计，2026 年 10 月，国内挖掘机主要制造企业销售各类挖掘机 20225 台，同比增长 11.8%，其中国内销售 9501 台，同比增长 12.2%；出口 10724 台，同比增长 11.4%。当月，装载机销售 11820 台，同比增长 10.7%。其中国内销售 5872 台，同比增长 9.31%；出口 5948 台，同比增长 12.2%。（澎湃）\n👍1",
     "media_only": false,
     "image_url": null,
@@ -65,7 +182,7 @@
   {
     "post": "Financial_Express/3614895",
     "datetime": "2026-11-10T12:57:03+00:00",
-    "views": "44",
+    "views": "46",
     "text": "建设银行：完成赎回 350 亿元二级资本债券\n建设银行公告称，本行已行使赎回权，全额赎回境内 2021 年二级资本债券（第二期）（品种一）。该债券为 10 年期固定利率债券，发行规模 350 亿元，在第 5 年末附有条件的发行人赎回权，赎回日为 2026 年 11 月 9 日，赎回前本行已取得国家金融监督管理总局对本次赎回无异议的复函。\n👍1",
     "media_only": false,
     "image_url": null,
@@ -52891,14 +53008,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3608976"
-  },
-  {
-    "post": "Financial_Express/3608975",
-    "datetime": "2026-11-08T13:02:03+00:00",
-    "views": "171",
-    "text": "埃及发生列车脱轨事故\n金十数据 11 月 8 日讯，据埃及方面 8 日消息，当日发生的列车脱轨事故导致列车司机死亡。此前有消息称，一列由埃及首都开罗开往该国南部阿斯旺的列车在埃及吉萨省境内发生脱轨事故，4 节车厢脱轨，导致至少 50 人受伤。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3608975"
   }
 ]
