@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3619236",
     "datetime": "2026-11-11T21:19:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "惠誉就巴拉圭相关表态：鉴于其他主要银行偿付能力与流动性状况稳健，目前预计不会出现大范围金融稳定风险。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3619235",
     "datetime": "2026-11-11T21:18:22+00:00",
-    "views": "8",
+    "views": "38",
     "text": "惠誉或下调巴拉圭 BB + 评级。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3619234",
     "datetime": "2026-11-11T21:18:16+00:00",
-    "views": "8",
+    "views": "38",
     "text": "惠誉：将巴拉圭 BB+（外币发行人违约）IDR 评级纳入负面观察清单，可能会下调该国评级。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3619233",
     "datetime": "2026-11-11T21:16:42+00:00",
-    "views": "13",
+    "views": "43",
     "text": "惠誉就巴拉圭表示：评级列入负面观察名单，反映上野银行倒闭及相关政治风波可能带来的溢出效应。",
     "media_only": false,
     "image_url": null,
@@ -60838,23 +60838,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3612419"
-  },
-  {
-    "post": "Financial_Express/3612418",
-    "datetime": "2026-11-09T21:28:43+00:00",
-    "views": "15",
-    "text": "英伟达介入美国针对 Megaspeed 芯片走私案的调查。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3612418"
-  },
-  {
-    "post": "Financial_Express/3612417",
-    "datetime": "2026-11-09T21:27:42+00:00",
-    "views": "14",
-    "text": "300 万美元对冲周二到期，目标锁定美国 CPI 发布日的债市抛售\n美国国债周度期权（Weekly options）市场出现大笔资金流，目标似乎是在周二收盘前押注债市抛售，并把 10 月 CPI 数据这一关键事件风险纳入其中。该头寸支付的权利金约 300 万美元，从盘口看应属新增风险敞口。据一位美国交易员称，美东时间下午 2:54，有资金以 10 个 tick（跳动点）的价格买入 19,649 手“周二到期的周度 10 年期 107.00 看跌期权”，该对冲将于周二收盘时到期。该执行价的未平仓量为 1,080 手，说明这笔资金流背后是新增风险；当日该执行价的成交量约为 27,000 手期权——而周一下午美国 10 年期国债期货报 107-00，因此该执行价处于平值附近。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3612417"
   }
 ]
