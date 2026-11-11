@@ -1,5 +1,14 @@
 [
   {
+    "post": "Financial_Express/3619245",
+    "datetime": "2026-11-11T21:26:03+00:00",
+    "views": "1",
+    "text": "周三（11 月 11 日），彭博电动汽车价格回报指数涨 0.55%，报 2946.37 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3619245"
+  },
+  {
     "post": "Financial_Express/3619244",
     "datetime": "2026-11-11T21:24:03+00:00",
     "views": "1",
@@ -60847,14 +60856,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3612417"
-  },
-  {
-    "post": "Financial_Express/3612416",
-    "datetime": "2026-11-09T21:26:34+00:00",
-    "views": "12",
-    "text": "美国国债周度期权（Weekly options）市场出现大笔资金流，目标似乎是在周二收盘前押注债市抛售，并把 10 月 CPI 数据这一关键事件风险纳入其中。该头寸支付的权利金约 300 万美元，从盘口看应属新增风险敞口。据一位美国交易员称，美东时间下午 2:54，有资金以 10 个 tick（跳动点）的价格买入 19,649 手“周二到期的周度 10 年期 107.00 看跌期权”，该对冲将于周二收盘时到期。\n该执行价的未平仓量为 1,080 手，说明这笔资金流背后是新增风险；当日该执行价的成交量约为 27,000 手期权——而周一下午美国 10 年期国债期货报 107-00，因此该执行价处于平值附近。（彭博）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3612416"
   }
 ]
