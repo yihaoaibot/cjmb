@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3621975",
+    "datetime": "2026-11-12T13:48:43+00:00",
+    "views": "1",
+    "text": "英伟达 CEO 黄仁勋卸任。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3621975"
+  },
+  {
+    "post": "Financial_Express/3621976",
+    "datetime": "2026-11-12T13:48:43+00:00",
+    "views": "1",
+    "text": "英伟达黄仁勋辞职。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3621976"
+  },
+  {
+    "post": "Financial_Express/3621974",
+    "datetime": "2026-11-12T13:48:42+00:00",
+    "views": "1",
+    "text": "英伟达：首席执行官交接。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3621974"
+  },
+  {
+    "post": "Financial_Express/3621973",
+    "datetime": "2026-11-12T13:48:02+00:00",
+    "views": "3",
+    "text": "海南矿业：发行股份购买资产事项遭上交所重组委暂缓审议\n海南矿业公告称，公司发行股份及支付现金购买洛阳丰瑞氟业有限公司 69.90%股权并募集配套资金暨关联交易事项，经上海证券交易所并购重组审核委员会审议，结果为暂缓审议。上交所重组委要求公司说明 4 个萤石矿采矿权评估参数取值原因及合理性、矿区采矿量与运输量匹配性及关联销售真实性，还需进一步落实采矿量与运输量匹配性相关事项。本次交易尚需上交所审核通过及证监会同意注册，能否获批存在不确定性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3621973"
+  },
+  {
+    "post": "Financial_Express/3621972",
+    "datetime": "2026-11-12T13:47:53+00:00",
+    "views": "3",
+    "text": "美国贸易代表格里尔：鉴于当前形势，将重点关注技术出口。\n如有必要，我们会采取行动。\n（谈技术出口管制）如果存在问题，我们将进行调查。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3621972"
+  },
+  {
     "post": "Financial_Express/3621971",
     "datetime": "2026-11-12T13:46:23+00:00",
-    "views": "2",
+    "views": "36",
     "text": "纽约期金失守 3900 美元/盎司，日内跌 2.53%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3621970",
     "datetime": "2026-11-12T13:46:22+00:00",
-    "views": "3",
+    "views": "36",
     "text": "美联储哈玛克：需要转向限制性货币政策以降低通胀\n其正朝着错误的方向发展。我们需要转向限制性货币政策以降低通胀。我担心美国经济可能形成通胀思维模式。”",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3621969",
     "datetime": "2026-11-12T13:45:54+00:00",
-    "views": "3",
+    "views": "36",
     "text": "现货黄金跌破 3900 美元/盎司关口，日内跌幅超 2%。",
     "media_only": false,
     "image_url": null,
@@ -29,8 +74,8 @@
   {
     "post": "Financial_Express/3621967",
     "datetime": "2026-11-12T13:45:42+00:00",
-    "views": "3",
-    "text": "现货黄金跌破 3900 美元关口\n金十数据 11 月 12 日讯，现货黄金跌破 3900 美元/盎司，日内下跌 2.2%。",
+    "views": "36",
+    "text": "现货黄金跌破 3900 美元关口\n金十数据 11 月 12 日讯，现货黄金跌破 3900 美元/盎司，为 11 月 3 日来首次，日内下跌 2.2%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3621967"
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3621968",
     "datetime": "2026-11-12T13:45:42+00:00",
-    "views": "3",
+    "views": "36",
     "text": "航行警告！黄海有火箭残骸掉落\n据中国海事局网站消息，青岛海事局发布航行警告，11 月 12 日 22 时至 13 日 5 时，黄海部分水域有火箭残骸掉落，禁止驶入。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3621966",
     "datetime": "2026-11-12T13:45:29+00:00",
-    "views": "3",
+    "views": "36",
     "text": "美联储哈马克：通胀正朝着错误的方向发展\n美联储哈马克：真正的价格压力来自人工智能建设，需要转向限制性政策立场。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3621965",
     "datetime": "2026-11-12T13:45:22+00:00",
-    "views": "3",
+    "views": "36",
     "text": "现货黄金失守 3900 美元/盎司，日内跌 2.24%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3621964",
     "datetime": "2026-11-12T13:44:48+00:00",
-    "views": "34",
+    "views": "37",
     "text": "美联储哈马克：通胀正朝着错误的方向发展。\n真正的价格压力正来自人工智能建设。\n需要转向限制性政策立场。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3621961",
     "datetime": "2026-11-12T13:44:44+00:00",
-    "views": "34",
+    "views": "37",
     "text": "克利夫兰联储主席哈马克：需要转向限制性政策立场。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3621962",
     "datetime": "2026-11-12T13:44:44+00:00",
-    "views": "34",
+    "views": "37",
     "text": "美联储官员哈马克：担心经济可能形成通胀思维。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3621963",
     "datetime": "2026-11-12T13:44:44+00:00",
-    "views": "34",
+    "views": "37",
     "text": "美国贸易代表格里尔：认为需要适当执行出口管制。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3621960",
     "datetime": "2026-11-12T13:44:42+00:00",
-    "views": "34",
+    "views": "37",
     "text": "美联储哈玛克：担心美国经济可能形成通胀思维模式。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3621958",
     "datetime": "2026-11-12T13:44:23+00:00",
-    "views": "33",
+    "views": "37",
     "text": "美国贸易代表格里尔：鉴于近期事态，将重点关注科技出口。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3621959",
     "datetime": "2026-11-12T13:44:23+00:00",
-    "views": "34",
+    "views": "37",
     "text": "克利夫兰联储主席哈马克：需要转向限制性货币政策以降低通胀。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3621957",
     "datetime": "2026-11-12T13:44:22+00:00",
-    "views": "33",
+    "views": "37",
     "text": "美联储哈玛克：我们需要转向限制性货币政策以降低通胀。",
     "media_only": false,
     "image_url": null,
@@ -61207,50 +61252,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3615123"
-  },
-  {
-    "post": "Financial_Express/3615122",
-    "datetime": "2026-11-10T13:48:44+00:00",
-    "views": "68",
-    "text": "美国 10 月核心 CPI 环比上涨 0.3%超预期，12 月加息 50 基点预期骤然升温。\n沃勒释放美联储“最鹰信号”：若通胀居高不下，12 月应加息 50 基点，需收回此前“三次预防性降息”。\n冲击美国科技 IPO 融资纪录！Anthropic 最高募资 904 亿美元、完全稀释估值 1.4 万亿美元。\n据央视，新一轮俄美乌三方首日会谈结束，将于明日继续进行。\n阿里巴巴：建议分拆平头哥于香港联交所主板独立上市。\n软银两年来首次季度亏损！AI 暴跌重创愿景基金，美国数据中心项目遭巨额减值。\n黄仁勋遭股东集体诉讼，指控涉嫌欺诈。\n台积电 10 月营收同比飙升 60%，四季度预期更高。\n据 21 财经，显卡终于降价了，华强北 RTX5080 价格直降 4000 元。\n智谱：拟最多 40 亿港元回购 H 股，上限为已发行股份 1%。\n美通胀数据超预期，美股期货短线下挫，纳斯达克 100 指数期货盘前跌 1.5%，黄金跳水，布油自 8 月首破 90 美元。\n日经 225 指数收涨 2.9%，沪指收涨 0.08%，恒指收涨 0.44%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3615122"
-  },
-  {
-    "post": "Financial_Express/3615121",
-    "datetime": "2026-11-10T13:48:42+00:00",
-    "views": "70",
-    "text": "美国国务卿鲁比奥：伊朗要求赔偿，但这不会发生。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3615121"
-  },
-  {
-    "post": "Financial_Express/3615120",
-    "datetime": "2026-11-10T13:48:22+00:00",
-    "views": "69",
-    "text": "胡塞武装称将发表重要声明\n金十数据 11 月 10 日讯，胡塞武装军事发言人叶海亚·萨雷亚称，胡塞武装将于今晚 17 时 10 分（北京时间 22:10）发布一份重要声明，宣布在沙特境内纵深地区实施了多项特种军事行动。声明将于稍后公布。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3615120"
-  },
-  {
-    "post": "Financial_Express/3615119",
-    "datetime": "2026-11-10T13:48:02+00:00",
-    "views": "69",
-    "text": "全球金融服务公司毕马威的一份机密报告显示，今年前九个月，美国政府从委内瑞拉的自然资源出口中获得了超过 120 亿美元的收入，并已将其拨付给相关部门。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3615119"
-  },
-  {
-    "post": "Financial_Express/3615118",
-    "datetime": "2026-11-10T13:47:42+00:00",
-    "views": "71",
-    "text": "美国 10 月 CPI 小幅降温但仍高于预期 能源成本传导效应或进一步显现\n上月汽油均价为每加仑 4.32 美元，较 9 月的 4.34 美元略有下降。不过，汽油价格仍比伊朗战争爆发前高出约 34%。未来几个月的重大问题在于：更高的能源价格将在多大程度上继续渗透到经济其他领域，并更广泛地推高物价？一些对能源敏感的行业已显现压力，大量购买燃料的公司正在转嫁更高成本。自 2 月伊朗战争爆发以来，能源价格已大幅攀升，以至于一些经济学家担心，更广泛的传导可能还在后面。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3615118"
   }
 ]
