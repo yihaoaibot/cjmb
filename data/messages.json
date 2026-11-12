@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3622651",
+    "datetime": "2026-11-12T18:13:42+00:00",
+    "views": "22",
+    "text": "美联储戴利表示，经济正受到科技繁荣的推动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3622651"
+  },
+  {
+    "post": "Financial_Express/3622650",
+    "datetime": "2026-11-12T18:12:42+00:00",
+    "views": "26",
+    "text": "乌克兰总统泽连斯基：与北约秘书长吕特会面。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3622650"
+  },
+  {
+    "post": "Financial_Express/3622649",
+    "datetime": "2026-11-12T18:12:23+00:00",
+    "views": "30",
+    "text": "标普 500 指数持平，纳斯达克指数下跌 0.1%，道琼斯指数上涨 0.15%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3622649"
+  },
+  {
+    "post": "Financial_Express/3622648",
+    "datetime": "2026-11-12T18:12:22+00:00",
+    "views": "30",
+    "text": "微软(MSFT.O)：（关于服务中断）我们已确认该问题可能影响任意地区用户的微软 365 服务连接。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3622648"
+  },
+  {
     "post": "Financial_Express/3622647",
     "datetime": "2026-11-12T18:11:42+00:00",
-    "views": "6",
+    "views": "30",
     "text": "微软就宕机事件回应：我们已确认，该问题可能会影响任何地区用户的微软 365 服务连接。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3622646",
     "datetime": "2026-11-12T18:09:58+00:00",
-    "views": "17",
+    "views": "65",
     "text": "周四（11 月 12 日）欧市尾盘，英国 10 年期国债收益率涨 7.9 个基点，刷新日高至 5.301%。\n两年期英债收益率涨 6.2 个基点，报 4.974%，北京时间 21:10 曾刷新日高至 4.979%。\n30 年期英债收益率涨 7.8 个基点，50 年期英债收益率涨 8.8 个基点。\n2/10 年期英债收益率利差涨 1.403 个基点，报+32.403 个基点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3622645",
     "datetime": "2026-11-12T18:08:42+00:00",
-    "views": "53",
+    "views": "69",
     "text": "Webuild 表示，商业项目储备超过 990 亿欧元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3622644",
     "datetime": "2026-11-12T18:08:02+00:00",
-    "views": "47",
+    "views": "59",
     "text": "谷歌(GOOG.O)：Gemini 4 Hydrogen 是迄今为止谷歌搜索领域最大的一次模型升级。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3622643",
     "datetime": "2026-11-12T18:07:58+00:00",
-    "views": "48",
+    "views": "60",
     "text": "谷歌公司面向全球发布关于搜索功能的 Gemini 4 Hydrogen。\n搜索新增图像和表格形式的 AI 回答。\nGemini 4 Hydrogen 是搜索业务迄今最大规模的模型升级。\n将 Gemini 4 Hydrogen 扩展至所有搜索用户。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3622642",
     "datetime": "2026-11-12T18:07:22+00:00",
-    "views": "48",
+    "views": "59",
     "text": "谷歌(GOOG.O)：谷歌在全球搜索中引入 Gemini 4 Hydrogen，新增可视化、基于表格的 AI 回复。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3622641",
     "datetime": "2026-11-12T18:06:49+00:00",
-    "views": "47",
+    "views": "56",
     "text": "一名用户报告称：美国（至少）数千名用户遭遇微软 365、Copilot、Microsoft Store 故障。\n超过 3.9 万用户无法使用 Outlook。（DownDetector）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3622640",
     "datetime": "2026-11-12T18:06:42+00:00",
-    "views": "49",
+    "views": "58",
     "text": "谷歌(GOOG.O)：面向全球发布关于搜索功能的 Gemini 4 Hydrogen。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3622639",
     "datetime": "2026-11-12T18:06:23+00:00",
-    "views": "48",
+    "views": "55",
     "text": "谷歌将 Gemini 4 Hydrogen 扩展至所有搜索用户。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3622637",
     "datetime": "2026-11-12T18:06:22+00:00",
-    "views": "48",
+    "views": "56",
     "text": "网络状况监测网站 DownDetector：用户报告显示，微软 365、Copilot、微软商店在美国有数千用户宕机。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3622638",
     "datetime": "2026-11-12T18:06:22+00:00",
-    "views": "48",
+    "views": "55",
     "text": "谷歌：Gemini 4 Hydrogen 是搜索业务迄今最大规模的模型升级。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3622635",
     "datetime": "2026-11-12T18:06:03+00:00",
-    "views": "47",
+    "views": "54",
     "text": "用户报告显示，美国数千用户无法使用微软 365、Copilot 和微软商店。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3622636",
     "datetime": "2026-11-12T18:06:03+00:00",
-    "views": "48",
+    "views": "55",
     "text": "IMF 批准墨西哥削减灵活信贷额度使用规模的请求。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3622633",
     "datetime": "2026-11-12T18:06:02+00:00",
-    "views": "43",
+    "views": "50",
     "text": "网络状况监测网站 DownDetector：用户报告称，微软(MSFT.O)Outlook 在美国有超过 39000 名用户无法使用。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3622634",
     "datetime": "2026-11-12T18:06:02+00:00",
-    "views": "46",
+    "views": "54",
     "text": "阿富汗政府：阿富汗和俄罗斯私营部门签署了 15 份价值 1.03 亿美元的经济合作谅解备忘录。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +182,7 @@
   {
     "post": "Financial_Express/3622632",
     "datetime": "2026-11-12T18:05:42+00:00",
-    "views": "42",
+    "views": "47",
     "text": "谷歌搜索新增图像和表格形式的 AI 回答。",
     "media_only": false,
     "image_url": null,
@@ -61693,14 +61729,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3615739"
-  },
-  {
-    "post": "Financial_Express/3615738",
-    "datetime": "2026-11-10T18:14:02+00:00",
-    "views": "68",
-    "text": "巴西央行行长：我们的债务主要以巴西雷亚尔计价，但这并不意味着选择为这些债务提供融资的人无需为此决定承担机会成本。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3615738"
   }
 ]
