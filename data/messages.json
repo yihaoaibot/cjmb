@@ -1,5 +1,32 @@
 [
   {
+    "post": "Financial_Express/3622750",
+    "datetime": "2026-11-12T18:46:23+00:00",
+    "views": "1",
+    "text": "堪萨斯城联储主席施密德表示，美联储仍未战胜通胀这一敌人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3622750"
+  },
+  {
+    "post": "Financial_Express/3622749",
+    "datetime": "2026-11-12T18:46:02+00:00",
+    "views": "1",
+    "text": "纽约联储隔夜回购操作未收到任何投标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3622749"
+  },
+  {
+    "post": "Financial_Express/3622748",
+    "datetime": "2026-11-12T18:45:22+00:00",
+    "views": "1",
+    "text": "巴斯夫：各方已同意不披露交易的财务条款。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3622748"
+  },
+  {
     "post": "Financial_Express/3622746",
     "datetime": "2026-11-12T18:44:22+00:00",
     "views": "1",
@@ -12,7 +39,7 @@
     "post": "Financial_Express/3622747",
     "datetime": "2026-11-12T18:44:22+00:00",
     "views": "1",
-    "text": "SNF：巴斯夫达成协议，将矿业解决方案业务出售给 SNF。",
+    "text": "巴斯夫已签署协议，将其全球采矿解决方案业务出售给法国特种化工公司 SNF。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3622747"
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3622741",
     "datetime": "2026-11-12T18:42:42+00:00",
-    "views": "1",
+    "views": "31",
     "text": "据伊朗媒体 Fars News：爆炸的具体原因尚不明确。有消息人士称，这些声响可能是针对违规船只发出的警告射击所致。",
     "media_only": false,
     "image_url": null,
@@ -62179,23 +62206,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3615785"
-  },
-  {
-    "post": "Financial_Express/3615784",
-    "datetime": "2026-11-10T18:47:02+00:00",
-    "views": "80",
-    "text": "堪萨斯城联储主席施密德：美国近期的招聘情况相当强劲。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3615784"
-  },
-  {
-    "post": "Financial_Express/3615783",
-    "datetime": "2026-11-10T18:45:22+00:00",
-    "views": "90",
-    "text": "美国参议院民主党领袖舒默：国会必须通过人工智能芯片相关立法，包括《人工智能监督法案》、《匹配法案》和《芯片安全法案》。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3615783"
   }
 ]
