@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3622981",
+    "datetime": "2026-11-12T21:24:22+00:00",
+    "views": "5",
+    "text": "英伟达临时 CEO 可能比黄仁勋采取更审慎的经营策略\n金十数据 11 月 13 日讯，据 The Information 报道，英伟达(NVDA.O)临时 CEO 兼首席财务官科莱特·克雷斯此前曾多次对黄仁勋推动的高风险交易提出异议。知情人士称，克雷斯可能比黄仁勋采取更审慎的经营策略，此前她曾反对英伟达为 OpenAI 提供最高 2500 亿美元信贷支持的计划，该交易最终被拆分，英伟达目前仅承诺提供约 1000 亿美元信贷支持。随着数据中心项目延期及云计算交易取消，克雷斯此前已着手分散英伟达对少数客户的金融风险敞口。英伟达此前向客户及供应链伙伴提供的投资、信贷担保等财务支持超过 1000 亿美元，黄仁勋离职后，部分投资者担忧公司可能收紧融资支持。一家云服务商已考虑转用谷歌或 AMD 芯片。此外，克雷斯还需应对客户分散采购、美国出口管制收紧及公司内部权力调整等挑战。报道指出，她此前曾与黄仁勋及其女儿、女婿在公司事务上产生分歧。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3622981"
+  },
+  {
+    "post": "Financial_Express/3622980",
+    "datetime": "2026-11-12T21:24:02+00:00",
+    "views": "8",
+    "text": "Anthropic：Opus 5.5 成为 Pro、Max、Ultra 及 Team 套餐的默认模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3622980"
+  },
+  {
+    "post": "Financial_Express/3622979",
+    "datetime": "2026-11-12T21:23:26+00:00",
+    "views": "14",
+    "text": "明晟公司（MSCI）将对 Anthropic 的大型 IPO 采用标准纳入方法。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3622979"
+  },
+  {
     "post": "Financial_Express/3622978",
     "datetime": "2026-11-12T21:22:02+00:00",
-    "views": "10",
+    "views": "27",
     "text": "MSCI 将对 Anthropic 的大型 IPO 采用标准纳入方法。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3622977",
     "datetime": "2026-11-12T21:20:51+00:00",
-    "views": "18",
+    "views": "32",
     "text": "Nebius Group NV 收跌 17%，创 7 月份以来最差单日表现。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3622976",
     "datetime": "2026-11-12T21:19:08+00:00",
-    "views": "29",
+    "views": "38",
     "text": "思科系统第一财季营收 185 亿美元，分析师预期 181.3 亿美元。\n第一财季服务营收 38.5 亿美元，分析师预期 38.3 亿美元。\n第一财季每股收益（EPS）为 1.40 美元，分析师预期 1.32 美元。\n提高 2027 财年超大规模云服务商（Hyperscaler）营收目标至 90 亿美元。\n预计全年营收 54.7 亿-55.3 亿美元，公司原本预计 50.5 亿-51.1 亿美元。\n预计全年调整后 EPS 为 5.47-5.53 美元，公司原本预计预期 5.05-5.11 美元。\n预计第二财季营收 180 亿-182 亿美元，分析师预期 178.5 亿美元。\n预计第二财季调整后 EPS 为 1.34-1.36 美元，分析师预期 1.23 美元。\n思科盘后涨 6%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3622975",
     "datetime": "2026-11-12T21:17:22+00:00",
-    "views": "35",
+    "views": "43",
     "text": "美国国债收益率延续涨势，5 年期收益率当日上涨 15 个基点。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3622974",
     "datetime": "2026-11-12T21:17:02+00:00",
-    "views": "35",
+    "views": "43",
     "text": "美国总统特朗普：他们唯一能用来弹劾我的理由，就是我让美国变得伟大。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3622973",
     "datetime": "2026-11-12T21:16:22+00:00",
-    "views": "37",
+    "views": "44",
     "text": "美国总统特朗普：弹劾期间或许不会与民主党人谈判。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3622972",
     "datetime": "2026-11-12T21:15:51+00:00",
-    "views": "36",
+    "views": "44",
     "text": "富时 A50 期指连续夜盘收涨 0.08%，报 12935 点。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3622970",
     "datetime": "2026-11-12T21:14:20+00:00",
-    "views": "38",
+    "views": "46",
     "text": "思科系统第一财季营收 185 亿美元，分析师预期 181.3 亿美元。\n预计全年调整后每股收益（EPS）为 5.47-5.53 美元，公司原本预计预期 5.05-5.11 美元。\n思科盘后涨 6%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3622969",
     "datetime": "2026-11-12T21:13:12+00:00",
-    "views": "41",
+    "views": "80",
     "text": "Cerebras Systems 三季度核心营收 2.309 亿美元，分析师预期 2.147 亿美元。\n三季度核心硬件营收 0.86 亿美元，分析师预期 0.646 亿美元。\n三季度核心云营收 1.449 亿美元，分析师预期 1.498 亿美元。\n三季度毛利润率 20%，预期 35.7%。\n宣布与三大顶级超大规模云服务商（Hyperscaler）达成云协议。\n上调全年业绩指引。\n预计全年核心营收 9.40 亿-9.60 亿美元，分析师预期 8.874 亿美元。\n预计四季度核心营收 3.10 亿-3.30 亿美元，分析师预期 2.712 亿美元。\n预计四季度核心毛利润率 47%-49%，分析师预期 42%。\nCerebras 盘后涨 14%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3622968",
     "datetime": "2026-11-12T21:12:42+00:00",
-    "views": "41",
+    "views": "46",
     "text": "思科(CSCO.O)上调 2027 财年营收及调整后 EPS 指引，并将 2027 财年来自超大规模云服务商的 AI 基础设施收入预期上调至 90 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3622967",
     "datetime": "2026-11-12T21:12:41+00:00",
-    "views": "69",
+    "views": "74",
     "text": "Cerebras Systems 三季度核心营收 2.309 亿美元，分析师预期 2.147 亿美元。\n三季度核心硬件营收 0.86 亿美元，分析师预期 0.646 亿美元。\n三季度核心云营收 1.449 亿美元，分析师预期 1.498 亿美元。\n三季度毛利润率 20%，分析师预期 35.7%。\n宣布与三大顶级超大规模云服务商（Hyperscaler）达成云协议。\n上调全年业绩指引。\n预计全年核心营收 9.40 亿-9.60 亿美元，分析师预期 8.874 亿美元。\n预计四季度核心营收 3.10 亿-3.30 亿美元，分析师预期 2.712 亿美元。\n预计四季度核心毛利润率 47%-49%，分析师预期 42%。\nCerebras 盘后涨 14%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3622966",
     "datetime": "2026-11-12T21:11:43+00:00",
-    "views": "37",
+    "views": "41",
     "text": "思科(CSCO.O)2027 财年 Q1 净利润 46 亿美元，去年同期 28.6 亿美元，市场预期 40.8 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3622965",
     "datetime": "2026-11-12T21:11:42+00:00",
-    "views": "36",
+    "views": "40",
     "text": "思科(CSCO.O)2027 财年 Q1 营收 185 亿美元，去年同期 148.83 亿美元，市场预期 181.18 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3622964",
     "datetime": "2026-11-12T21:07:23+00:00",
-    "views": "41",
+    "views": "43",
     "text": "应用材料(AMAT.O)预计 2026 日历年半导体设备业务营收将增长超过 40%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3622962",
     "datetime": "2026-11-12T21:07:22+00:00",
-    "views": "39",
+    "views": "41",
     "text": "应用材料(AMAT.O)预计 2027 财年 Q1 营收 111 亿美元，上下浮动 5 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3622963",
     "datetime": "2026-11-12T21:07:22+00:00",
-    "views": "40",
+    "views": "42",
     "text": "应用材料(AMAT.O)2026 财年 Q4 净利润 27.18 亿美元，去年同期 18.97 亿美元，市场预期 31.81 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +182,7 @@
   {
     "post": "Financial_Express/3622960",
     "datetime": "2026-11-12T21:07:02+00:00",
-    "views": "38",
+    "views": "40",
     "text": "思科将 2027 财年面向 AI 超大规模客户的营收目标上调至 90 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -61846,32 +61873,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3616051"
-  },
-  {
-    "post": "Financial_Express/3616050",
-    "datetime": "2026-11-10T21:25:02+00:00",
-    "views": "28",
-    "text": "美联储鲍曼：已将关注点转向小型银行规则和监管方法。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3616050"
-  },
-  {
-    "post": "Financial_Express/3616049",
-    "datetime": "2026-11-10T21:24:42+00:00",
-    "views": "29",
-    "text": "美联储鲍曼：希望并预计在未来几周内敲定关于全球系统重要性银行附加资本要求和巴塞尔 III 的规则。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3616049"
-  },
-  {
-    "post": "Financial_Express/3616048",
-    "datetime": "2026-11-10T21:23:52+00:00",
-    "views": "29",
-    "text": "纳斯达克金龙中国指数收跌 1.21%，报 5696.50 点，大部分时间交投于 5700 点关口下方、美股盘初持续下跌。\n热门中概股里，联想初步收跌 3.6%，阿里跌 2.5%，百度、拼多多、比亚迪、网易跌超 1%，小米涨 0.7%，理想张 1.3%，日月光半导体涨 3.4%。\nETF 中，中概互联网指数 ETF（KWEB）收跌 1.03%，中国科技指数 ETF（CQQQ）收跌 0.95%。德银嘉实沪深 300 指数 ETF（ASHR）收跌 1.42%，XtrackersHarvest 中证 50（ASHS）收跌 0.69%，MSCI 新兴市场 ex 中国 ETF（EMXC）收跌 0.6%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3616048"
   }
 ]
