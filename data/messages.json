@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3623190",
+    "datetime": "2026-11-13T00:03:02+00:00",
+    "views": "1",
+    "text": "三星正就收购数据中心冷却设备制造商 Modine 进行谈判\n金十数据 11 月 13 日讯，据知情人士透露，三星电子正在就收购数据中心冷却系统制造商 Modine Manufacturing Co.进行谈判。这些知情人士表示，双方正在探讨一项潜在的交易，最快可能在未来几周内达成。Modine 目前的市值约为 56 亿美元。自 11 月 3 日该公司发布低于投资者预期的 2027 财年第二季度财报以来，其股价已下跌约 15%。知情人士称，三星目前尚未做出最终决定，谈判仍有可能破裂；此外，也不排除会有其他竞购者出现。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3623190"
+  },
+  {
+    "post": "Financial_Express/3623189",
+    "datetime": "2026-11-13T00:01:24+00:00",
+    "views": "10",
+    "text": "三星电子股价上涨 3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3623189"
+  },
+  {
+    "post": "Financial_Express/3623188",
+    "datetime": "2026-11-13T00:01:23+00:00",
+    "views": "10",
+    "text": "SK 海力士股价上涨 3％，三星电子股价上涨 3％。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3623188"
+  },
+  {
+    "post": "Financial_Express/3623187",
+    "datetime": "2026-11-13T00:01:22+00:00",
+    "views": "10",
+    "text": "美联储威廉姆斯：需要采取行动，但不能损害劳动力市场。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3623187"
+  },
+  {
+    "post": "Financial_Express/3623186",
+    "datetime": "2026-11-13T00:01:05+00:00",
+    "views": "12",
+    "text": "日经 225 指数高开 0.6%，韩国首尔综指高开 2.1%。三星电子、SK 海力士涨 3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3623186"
+  },
+  {
+    "post": "Financial_Express/3623185",
+    "datetime": "2026-11-13T00:01:03+00:00",
+    "views": "12",
+    "text": "日本批准动用 6520 亿日元储备金用于冬季补贴。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3623185"
+  },
+  {
     "post": "Financial_Express/3623183",
     "datetime": "2026-11-13T00:00:22+00:00",
-    "views": "8",
+    "views": "16",
     "text": "华泰证券：AI 产业内部或沿回报验证分化\n华泰证券研报称，AI 产业内部或沿回报验证分化。过去两周，海外 AI 资产调整加剧，融资与投入回报压力继续传导，美国中期选举后的数据中心监管升温进一步影响项目建设节奏预期。硬件财报仍在兑现需求增长，市场对 AI 投资的关注则更多落在交付确定性、盈利质量和现金回收。配置上，关注两类机会：一是订单、交付与利润能够交叉验证的关键基础设施供应商，包括 PCB、光互连等环节，跟踪合同定价、产品结构和扩产节奏判断盈利弹性；二是已有收入和现金流验证的应用平台，以及端侧/物理 AI 等。此外，建议对依赖新增审批、持续外部融资或远期利润假设的公司维持谨慎，配置依据进一步落到增长质量与资金使用效率。",
     "media_only": false,
     "image_url": null,
@@ -11,8 +65,8 @@
   {
     "post": "Financial_Express/3623184",
     "datetime": "2026-11-13T00:00:22+00:00",
-    "views": "8",
-    "text": "日经 225 指数上午开盘报 61223.41 点，涨幅 0.66%。",
+    "views": "16",
+    "text": "日韩股市开盘\n日经 225 指数上午开盘报 61223.41 点，涨幅 0.66％。韩国综合股价指数（KOSPI）开盘上涨 2.1％，至 5452.41 点。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3623184"
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3623181",
     "datetime": "2026-11-13T00:00:01+00:00",
-    "views": "8",
+    "views": "16",
     "text": "中国即将发行或正在发行的国债和政策性金融债",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3623182",
     "datetime": "2026-11-13T00:00:01+00:00",
-    "views": "10",
+    "views": "18",
     "text": "中国即将发行或正在发行的地方政府债",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3623180",
     "datetime": "2026-11-12T23:59:23+00:00",
-    "views": "9",
+    "views": "18",
     "text": "美联储威廉姆斯：美联储仍需努力使货币政策处于合适位置。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3623178",
     "datetime": "2026-11-12T23:59:22+00:00",
-    "views": "10",
+    "views": "19",
     "text": "美联储威廉姆斯：美联储将需要在一段时间内采取行动，使通胀率回到 2%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3623179",
     "datetime": "2026-11-12T23:59:22+00:00",
-    "views": "9",
+    "views": "18",
     "text": "美联储威廉姆斯：通胀顽固持续且居高不下。美联储一直以稳定的节奏收集数据。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3623176",
     "datetime": "2026-11-12T23:59:02+00:00",
-    "views": "10",
+    "views": "16",
     "text": "美联储威廉姆斯：美联储将需要随着时间的推移采取行动，使通胀率回到 2%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3623177",
     "datetime": "2026-11-12T23:59:02+00:00",
-    "views": "10",
+    "views": "17",
     "text": "美联储威廉姆斯：美联储仍需努力，以使货币政策达到合适水平。",
     "media_only": false,
     "image_url": null,
@@ -83,8 +137,8 @@
   {
     "post": "Financial_Express/3623175",
     "datetime": "2026-11-12T23:58:46+00:00",
-    "views": "12",
-    "text": "美国纽约联储主席威廉姆斯：通胀率太高了，通胀顽固地持续处于高位。\n美联储需要随着时间的推移采取行动，以使通胀回落至 2%。\n经济一直保持韧性，且增长强劲。美国经济正在走强，但并未过热。整体经济似乎并未失衡。",
+    "views": "16",
+    "text": "美国纽约联储主席威廉姆斯：通胀率太高了，通胀顽固地持续处于高位。\n美联储需要随着时间的推移采取行动，以使通胀回落至 2%。\n经济一直保持韧性，且增长强劲。美国经济正在走强，但并未过热。整体经济似乎并未失衡。\n需要采取行动，但不应损害就业市场。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3623175"
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3623174",
     "datetime": "2026-11-12T23:58:22+00:00",
-    "views": "12",
+    "views": "44",
     "text": "美联储威廉姆斯：美联储一直在稳步收集数据。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3623173",
     "datetime": "2026-11-12T23:58:02+00:00",
-    "views": "44",
+    "views": "46",
     "text": "美联储威廉姆斯：通胀顽固且居高不下。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3623172",
     "datetime": "2026-11-12T23:57:42+00:00",
-    "views": "45",
+    "views": "47",
     "text": "美联储威廉姆斯：经济一直具有韧性，增长一直强劲。美国经济正在走强，但并未过热。通胀过高。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3623171",
     "datetime": "2026-11-12T23:56:43+00:00",
-    "views": "47",
+    "views": "49",
     "text": "美联储威廉姆斯：通胀过高。",
     "media_only": false,
     "image_url": null,
@@ -61180,23 +61234,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3616329"
-  },
-  {
-    "post": "Financial_Express/3616328",
-    "datetime": "2026-11-11T00:02:22+00:00",
-    "views": "59",
-    "text": "英国国家经济社会研究院（NIESR）敦促英国央行将关键利率上调至 5%左右。NIESR 预计，随着通胀在 2027 年初见顶，薪资诉求将大幅上升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3616328"
-  },
-  {
-    "post": "Financial_Express/3616327",
-    "datetime": "2026-11-11T00:01:29+00:00",
-    "views": "60",
-    "text": "韩国 11 月 1-10 日出口同比增长 111.9%，进口增长 45.0%。\n韩国 11 月 1-10 日半导体出口同比增长 331.2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3616327"
   }
 ]
