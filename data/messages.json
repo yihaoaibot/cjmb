@@ -1,9 +1,63 @@
 [
   {
+    "post": "Financial_Express/3625750",
+    "datetime": "2026-11-13T15:00:03+00:00",
+    "views": "2",
+    "text": "美国议员还要求英伟达总法律顾问凯斯勒出席。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625750"
+  },
+  {
+    "post": "Financial_Express/3625749",
+    "datetime": "2026-11-13T15:00:02+00:00",
+    "views": "2",
+    "text": "西兰岛制药：欧盟批准 Zeydovio™（格列帕鲁肽）。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625749"
+  },
+  {
+    "post": "Financial_Express/3625748",
+    "datetime": "2026-11-13T14:59:31+00:00",
+    "views": "4",
+    "text": "纳斯达克 100 指数跌超 1%，标普跌 0.4%，半导体指数下跌将近 4%。英伟达跌 2.3%，Cerebras 涨幅收窄至 11.3%，谷歌 A 涨 1.1%，AMD 跌 7.6%，CoreWeave 跌 9.4%，Nebius 跌 10.6%，闪迪跌 6.1%。\n投资者权衡芯片板块和美国 PPI 通胀数据。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625748"
+  },
+  {
+    "post": "Financial_Express/3625747",
+    "datetime": "2026-11-13T14:59:22+00:00",
+    "views": "34",
+    "text": "博通股价在连续五个交易日上涨后下跌 5.3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625747"
+  },
+  {
+    "post": "Financial_Express/3625746",
+    "datetime": "2026-11-13T14:59:02+00:00",
+    "views": "34",
+    "text": "微软：观察到服务持续改善。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625746"
+  },
+  {
+    "post": "Financial_Express/3625745",
+    "datetime": "2026-11-13T14:58:42+00:00",
+    "views": "34",
+    "text": "美国议员向黄仁勋发出第二次请求，要求其向国会作简报。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625745"
+  },
+  {
     "post": "Financial_Express/3625744",
     "datetime": "2026-11-13T14:58:02+00:00",
-    "views": "2",
-    "text": "AMD 股价下跌 7.2%，此前已连续五个交易日上涨。",
+    "views": "34",
+    "text": "超威半导体股价在连续五个交易日上涨后下跌 7.2%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3625744"
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3625743",
     "datetime": "2026-11-13T14:57:42+00:00",
-    "views": "3",
+    "views": "35",
     "text": "Anthropic：包括 Docs 和 Sheets 在内的连接器服务仍处于降级运行状态。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3625741",
     "datetime": "2026-11-13T14:57:23+00:00",
-    "views": "3",
+    "views": "65",
     "text": "纳斯达克 100 指数跌幅扩大至逾 1%，触及盘中低点，标普 500 指数下跌 0.4%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3625742",
     "datetime": "2026-11-13T14:57:23+00:00",
-    "views": "3",
+    "views": "65",
     "text": "纳斯达克 100 指数下跌逾 1%，触及盘中低点；标普 500 指数下跌 0.4%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3625739",
     "datetime": "2026-11-13T14:57:04+00:00",
-    "views": "3",
+    "views": "65",
     "text": "高盛仍认为，其对 TTF 和 JKM 的长期看空价格预测存在下行风险。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3625740",
     "datetime": "2026-11-13T14:57:04+00:00",
-    "views": "3",
+    "views": "65",
     "text": "Anthropic：包括文档和表格在内的连接器仍处于降级状态。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3625738",
     "datetime": "2026-11-13T14:57:03+00:00",
-    "views": "3",
+    "views": "65",
     "text": "Anthropic：Claude.ai 和 Claude API 服务正在逐步恢复。由于公司仍在持续处理相关问题，错误可能再次出现。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3625737",
     "datetime": "2026-11-13T14:56:42+00:00",
-    "views": "33",
+    "views": "65",
     "text": "Anthropic 表示，在继续处理相关问题的过程中，错误可能会再次出现。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3625736",
     "datetime": "2026-11-13T14:56:35+00:00",
-    "views": "33",
+    "views": "65",
     "text": "Anthropic：Claude.AI 和 Claude API 正在恢复。\n在继续处理相关问题的过程中，错误可能会再次出现。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3625735",
     "datetime": "2026-11-13T14:56:23+00:00",
-    "views": "33",
+    "views": "64",
     "text": "Anthropic 表示，Claude.ai 和 Claude API 正在恢复。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3625734",
     "datetime": "2026-11-13T14:56:22+00:00",
-    "views": "32",
+    "views": "63",
     "text": "美银将 2027 年 1 月美联储加息纳入预测\n金十数据 11 月 13 日讯，美国银行全球研究部周五表示，鉴于 10 月 CPI 数据强于预期，提振了市场对借贷成本上升的预期，该行现预计美联储将在此前预测的 12 月和明年 3 月加息之外，于 2027 年 1 月再加息 25 个基点。“10 月 CPI 数据公布后，美联储在通胀问题上显得更加落后于曲线。该行不再享有按季度节奏加息的空间，”美银策略师在一份报告中表示。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3625732",
     "datetime": "2026-11-13T14:56:03+00:00",
-    "views": "32",
+    "views": "63",
     "text": "法院文件显示，针对涉嫌枪击美国总统特朗普的嫌疑人科尔·托马斯·艾伦的案件，检方已提交替代起诉书。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3625733",
     "datetime": "2026-11-13T14:56:03+00:00",
-    "views": "32",
+    "views": "63",
     "text": "纳斯达克指数期货跌 1.01%，现报 28097.810 点；道琼斯指数期货涨%，现报 52391.120 点；标普 500 指数期货跌 0.41%，现报 7584.380 点。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3625731",
     "datetime": "2026-11-13T14:55:43+00:00",
-    "views": "33",
+    "views": "65",
     "text": "WTI 原油日内涨幅达 1.0%，报 89.63 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -62368,86 +62422,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3618748"
-  },
-  {
-    "post": "Financial_Express/3618747",
-    "datetime": "2026-11-11T15:01:04+00:00",
-    "views": "46",
-    "text": "低硫燃油夜盘收涨约 2.3%，燃油涨约 2.1%，烧碱跌 0.6%，铁矿石跌 1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618747"
-  },
-  {
-    "post": "Financial_Express/3618746",
-    "datetime": "2026-11-11T15:00:42+00:00",
-    "views": "46",
-    "text": "英国财政大臣希利：准备对不带来任何好处的数据中心说不。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618746"
-  },
-  {
-    "post": "Financial_Express/3618745",
-    "datetime": "2026-11-11T15:00:23+00:00",
-    "views": "46",
-    "text": "夜盘期货收盘\n低硫燃料油连续涨 2.18%，燃料油连续涨 2.09%，棕榈油连续涨 2.06%，20 号胶连续涨 2.00%，聚丙烯连续涨 1.89%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618745"
-  },
-  {
-    "post": "Financial_Express/3618744",
-    "datetime": "2026-11-11T15:00:03+00:00",
-    "views": "47",
-    "text": "尽管民主党在美国中期选举中大获全胜之后，CoreWeave 股价遭遇大幅抛售，但首席执行官迈克·英特拉托（Mike Intrator）表示，公司并不担心即将到来的政治变局。\n周二晚间，在公司财报电话会议上，被问及大选带来的新压力时，英特拉托回应：“我们预计这场重大监管转向不会对我们产生影响。我们认为，这次选举结果传递的是该如何建设算力设施的导向。我们坚持负责任地建设。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618744"
-  },
-  {
-    "post": "Financial_Express/3618743",
-    "datetime": "2026-11-11T14:59:44+00:00",
-    "views": "47",
-    "text": "英国财政大臣希利：准备对不带来任何益处数据中心说不。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618743"
-  },
-  {
-    "post": "Financial_Express/3618741",
-    "datetime": "2026-11-11T14:59:43+00:00",
-    "views": "47",
-    "text": "英国财政大臣希利：我们不希望数据中心出现美国式的无序竞争。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618741"
-  },
-  {
-    "post": "Financial_Express/3618742",
-    "datetime": "2026-11-11T14:59:43+00:00",
-    "views": "48",
-    "text": "据报道，泰国将不早于 2027 年年中推出旅游税。预计最有可能采用的 450 泰铢（约合 13.50 美元）税款收取方式是将其纳入机票费用中。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618742"
-  },
-  {
-    "post": "Financial_Express/3618740",
-    "datetime": "2026-11-11T14:59:42+00:00",
-    "views": "45",
-    "text": "乌方说乌美俄“重大分歧依然存在”\n金十数据 11 月 11 日讯，乌克兰谈判代表团成员、对外情报局局长乌梅罗夫 11 日表示，为期两天的乌美俄三方会谈当天在阿联酋结束，各方就大规模交换被俘人员达成协议，但“重大分歧依然存在”。乌梅罗夫当天在社交媒体上发文说，此次会谈的主要成果是就大规模交换被俘人员达成协议，目前各方正在敲定具体细节并推进落实。他说，让被俘乌克兰人员尽快返回家园仍是乌方最优先事项之一。乌美俄三方还讨论了实现和平及乌克兰战后重建问题。首要任务是结束战争并确保乌克兰获得安全保障。乌梅罗夫说：“经过两天谈判，各方得以直接阐述各自立场。重大分歧依然存在。未来仍有大量艰巨工作需要完成，同时也存在继续推进谈判进程的机会。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618740"
-  },
-  {
-    "post": "Financial_Express/3618739",
-    "datetime": "2026-11-11T14:59:17+00:00",
-    "views": "44",
-    "text": "乌克兰谈判代表团成员、对外情报局局长乌梅罗夫 11 日表示，为期两天的乌美俄三方会谈当天在阿联酋结束，各方就大规模交换被俘人员达成协议，但“重大分歧依然存在”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618739"
   }
 ]
