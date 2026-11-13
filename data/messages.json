@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3625630",
+    "datetime": "2026-11-13T14:23:43+00:00",
+    "views": "9",
+    "text": "瑞银给予海光信息中性的初始评级\n瑞银给予海光信息中性的初始评级，目标价 215 元人民币。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625630"
+  },
+  {
+    "post": "Financial_Express/3625629",
+    "datetime": "2026-11-13T14:23:42+00:00",
+    "views": "9",
+    "text": "伯恩斯坦将应用材料公司目标价从 700 美元下调至 600 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625629"
+  },
+  {
+    "post": "Financial_Express/3625628",
+    "datetime": "2026-11-13T14:23:23+00:00",
+    "views": "12",
+    "text": "香港交易所：将于 12 月推出适用于衍生产品收市后交易时段的数字支付方案\n香港交易所宣布，将于 12 月 14 日推出新的数字支付方案，便利结算参与者在衍生产品市场收市后交易时段支付预缴按金。这次新服务是基于香港交易所与香港金融管理局（香港金管局）的合作计划推出的，探索使用数码港元支付收市后交易时段的预缴按金。新方案推出后，合资格的香港期货结算有限公司（期货结算公司）结算参与者可选用此数字支付方式，于下午 5 时至凌晨 1 时 30 分提交预缴按金申请，以便有关款项可用于相应的收市后交易时段。延长后的支付时段将作为现有支付安排的补充，让结算参与者可于一般银行营业时间以外，更灵活地管理其以资本额厘定的持仓限额使用情况。 (中国证券报)",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625628"
+  },
+  {
     "post": "Financial_Express/3625627",
     "datetime": "2026-11-13T14:22:22+00:00",
-    "views": "2",
+    "views": "48",
     "text": "DeepSeek 发布全家桶应用 API\nDeepSeek 发表公告：我们正式开放这套全家桶应用 API：在原有 API 中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含 OCR、ASR、TTS 等），支持单独或组合调用。开发者可以在自己的应用中轻松实现复杂的对话功能，甚至 1:1 复刻出完整的 DeepSeek App。本次更新将 DeepSeek App 的各项交互功能直接整合进原有 API。开启对应参数后，相关工具调用与上下文拼接均由服务端自动完成。目前，V4.1-Flash 模型（deepseek-flash）已在 Messages、Responses 与 Chat Completions 接口下支持以下能力：联网搜索、深度思考搜索、文件输入、阅读链接、模型安全。此外，为方便开发者更灵活地接入自有工作流，上述底层能力及语音能力均支持作为独立接口单独调用，包括：Search、Fetch、OCR、ASR、TTS。使用上述接口，开发者即可实现与 DeepSeek App 基本一致的功能。为直观演示这一效果，我们基于新版 API 构建并开源了一份轻量的前端 Demo，支持直接导入 DeepSeek 历史对话。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3625626",
     "datetime": "2026-11-13T14:21:22+00:00",
-    "views": "11",
+    "views": "52",
     "text": "燃料油连续主力合约日内涨 3%，现报 4236.00 元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3625625",
     "datetime": "2026-11-13T14:20:42+00:00",
-    "views": "41",
+    "views": "83",
     "text": "全国首单源网荷储一体化算力基础设施机构间 REITs 成功发行\n近日，“华泰-中金数据持有型不动产资产支持专项计划”在上海证券交易所发行。该项目为全国首单源网荷储一体化算力基础设施机构间 REITs，发行规模为 36.52 亿元。中金数据集团有限公司为项目发行人及原始权益人，华泰联合证券有限责任公司担任财务顾问，华泰证券（上海）资产管理有限公司担任计划管理人。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3625624",
     "datetime": "2026-11-13T14:20:22+00:00",
-    "views": "39",
+    "views": "48",
     "text": "调查显示：乌干达经济 2026 年预计增长 6.4%，此前预期为增长 6.9%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3625623",
     "datetime": "2026-11-13T14:20:02+00:00",
-    "views": "39",
+    "views": "47",
     "text": "联合国秘书长古特雷斯：我们需要立即大幅削减排放。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3625622",
     "datetime": "2026-11-13T14:19:42+00:00",
-    "views": "39",
+    "views": "77",
     "text": "联合国秘书长古特雷斯：全球气温升幅超过 1.5 摄氏度已不可避免。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3625620",
     "datetime": "2026-11-13T14:19:22+00:00",
-    "views": "38",
+    "views": "74",
     "text": "联合国秘书长古特雷斯：1.5 度温控目标超标已不可避免。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3625621",
     "datetime": "2026-11-13T14:19:22+00:00",
-    "views": "39",
+    "views": "77",
     "text": "中国人民银行公布 2026 年 10 月金融数据。10 月末，社会融资规模存量为 469.16 万亿元，同比增长 7.2%；广义货币（M2）余额 359.06 万亿元，同比增长 7.1%。两项指标均高于名义 GDP 增速，同经济增长、价格总水平预期目标相匹配。\n东方金诚首席宏观分析师王青判断，年底前使用全面降息降准等总量型货币政策工具的可能性下降，监管部门将主要引导银行等金融机构加大对国民经济重点领域和薄弱环节的支持力度，推动“六张网”建设及“五篇大文章”领域贷款高增。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3625619",
     "datetime": "2026-11-13T14:18:43+00:00",
-    "views": "38",
+    "views": "71",
     "text": "美国国防部将 CDAO 更名为超级智能办公室\n美国国防部今日宣布，原首席数字与人工智能办公室（CDAO）正式更名为国防部超级智能办公室（SIO）。此次更名源于特朗普总统的行政指令，要求联邦术语与国家安全战略从传统人工智能转向超级智能时代。卡梅伦・斯坦利表示：“这次更名清晰传递出国防部的发展方向。我们已经走出原型试验阶段。作为超级智能办公室，我们的使命是充分掌握主权超级智能的能力，确保在所有作战域形成决定性军事优势。”",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3625618",
     "datetime": "2026-11-13T14:18:42+00:00",
-    "views": "39",
+    "views": "42",
     "text": "联合国秘书长古特雷斯：化石燃料正在引发气候危机。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3625616",
     "datetime": "2026-11-13T14:16:23+00:00",
-    "views": "68",
+    "views": "69",
     "text": "美国众议院委员会发布关于内幕交易风险的备忘录。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3625617",
     "datetime": "2026-11-13T14:16:23+00:00",
-    "views": "68",
+    "views": "69",
     "text": "美国天然气期货跌超 3.00%，现报 3.632 美元/百万英热。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3625615",
     "datetime": "2026-11-13T14:15:43+00:00",
-    "views": "68",
+    "views": "70",
     "text": "Sportradar Group 美股盘前跌超 10%\nSportradar Group 美股盘前跌超 10%，现报 11.5 美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3625613",
     "datetime": "2026-11-13T14:15:05+00:00",
-    "views": "68",
+    "views": "70",
     "text": "据两位知情人士透露，在巴黎针对爱马仕失踪股份的调查中，法官下令对据称的受害者尼古拉斯·普奇进行认知检查。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3625614",
     "datetime": "2026-11-13T14:15:05+00:00",
-    "views": "68",
+    "views": "70",
     "text": "KITKAT 否认与微软宕机事件有关。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3625612",
     "datetime": "2026-11-13T14:13:03+00:00",
-    "views": "67",
+    "views": "69",
     "text": "美联储柯林斯：生产率的提高有助于限制部分通胀压力。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3625611",
     "datetime": "2026-11-13T14:12:22+00:00",
-    "views": "67",
+    "views": "70",
     "text": "现货白银日内跌 1%，现报 49.51 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -62395,59 +62422,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3618626"
-  },
-  {
-    "post": "Financial_Express/3618625",
-    "datetime": "2026-11-11T14:25:03+00:00",
-    "views": "45",
-    "text": "英国财政部高级官员鲍勒：彭博社知道银行税是临时性的且低于 8%，这不太可能是巧合。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618625"
-  },
-  {
-    "post": "Financial_Express/3618624",
-    "datetime": "2026-11-11T14:25:02+00:00",
-    "views": "44",
-    "text": "英国财政大臣希利：我对泄密事件的发生感到沮丧。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618624"
-  },
-  {
-    "post": "Financial_Express/3618623",
-    "datetime": "2026-11-11T14:24:42+00:00",
-    "views": "45",
-    "text": "泰信、联博、华西等公司旗下摊余成本法债基相继提前结束募集，目前已有 7 只产品提前完成募集\n继贝莱德、红土创新、财信、路博迈之后，又有 3 只摊余成本法债基宣布提前结束募集。 近日，泰信基金、联博基金、华西基金相继发布公告称，旗下 63 个月封闭式债券基金均于原定募集期结束前提前结募。至此，已有 7 只摊余成本法债基提前完成募集。（中国基金报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618623"
-  },
-  {
-    "post": "Financial_Express/3618622",
-    "datetime": "2026-11-11T14:24:02+00:00",
-    "views": "45",
-    "text": "俄罗斯方面表示，在英国国防大臣韦斯·斯特里提出有必要恢复两国军方之间联系后，俄罗斯国防部将与斯特里廷通话。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618622"
-  },
-  {
-    "post": "Financial_Express/3618621",
-    "datetime": "2026-11-11T14:23:48+00:00",
-    "views": "46",
-    "text": "美国众议院中国委员会主席 Moolenaar：给英伟达 CEO 黄仁勋设定期限，为 11 月 11 日下半前。\n如果他不答应，可能会发出传票。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618621"
-  },
-  {
-    "post": "Financial_Express/3618620",
-    "datetime": "2026-11-11T14:23:22+00:00",
-    "views": "47",
-    "text": "俄外交部：日本应放弃推进再军事化\n当地时间 11 月 11 日，俄罗斯外交部发言人扎哈罗娃在例行记者会上表示，日本应汲取历史教训，放弃加速推进再军事化，停止试图掩盖日本军国主义在第二次世界大战期间犯下的罪行。扎哈罗娃指出，当前战后国际秩序正面临严峻考验。日本政府正在推行“修正”第二次世界大战结果的政策，试图为战争罪犯开脱，掩盖日本军国主义在东亚和东南亚犯下的罪行。日本官员多次参拜供奉有甲级战犯的靖国神社，是对东京审判判决的公然挑战。扎哈罗娃强调，俄罗斯将继续公布日本军国主义犯下的战争罪行，并推动追究相关责任。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618620"
   }
 ]
