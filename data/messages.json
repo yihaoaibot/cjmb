@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3625237",
+    "datetime": "2026-11-13T12:04:42+00:00",
+    "views": "5",
+    "text": "英国规划监察署：由于微软服务发生全球性故障，我们的上诉案件管理服务目前已暂停运行。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625237"
+  },
+  {
+    "post": "Financial_Express/3625236",
+    "datetime": "2026-11-13T12:04:02+00:00",
+    "views": "14",
+    "text": "美国足协声明：毛里西奥·波切蒂诺将卸任美国国家队主教练一职，加盟曼联。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625236"
+  },
+  {
+    "post": "Financial_Express/3625235",
+    "datetime": "2026-11-13T12:03:44+00:00",
+    "views": "20",
+    "text": "德国经济部发言人就梅赛德斯-奔驰表示：公司自行做出决策，最终必须为其决策提供合理依据。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625235"
+  },
+  {
+    "post": "Financial_Express/3625233",
+    "datetime": "2026-11-13T12:03:43+00:00",
+    "views": "20",
+    "text": "德国经济部发言人：（就梅赛德斯-奔驰）企业自行作出决策，并最终必须为其决策作出合理解释。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625233"
+  },
+  {
+    "post": "Financial_Express/3625234",
+    "datetime": "2026-11-13T12:03:43+00:00",
+    "views": "20",
+    "text": "英国规划监察局：由于微软全球宕机，我们的管理上诉服务目前暂停。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625234"
+  },
+  {
+    "post": "Financial_Express/3625232",
+    "datetime": "2026-11-13T12:03:23+00:00",
+    "views": "23",
+    "text": "乌克兰军方称，其袭击了罗斯托夫地区的俄罗斯无人机生产基地。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625232"
+  },
+  {
+    "post": "Financial_Express/3625231",
+    "datetime": "2026-11-13T12:03:22+00:00",
+    "views": "23",
+    "text": "今日特朗普行程\n\n11 月 13 日 21:00（北京时间，下同）：在白宫安排行政时间，闭门进行。\n11 月 13 日 22:00：本地媒体池记者集合待命。\n11 月 14 日 01:30：在白宫椭圆形办公室参加政策会议，闭门进行。\n11 月 14 日 04:00：在白宫椭圆形办公室参加政策会议，闭门进行。\n11 月 14 日 05:00：在白宫椭圆形办公室参加政策会议，闭门进行。\n11 月 14 日 05:30：在白宫椭圆形办公室参加政策会议，闭门进行。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625231"
+  },
+  {
+    "post": "Financial_Express/3625230",
+    "datetime": "2026-11-13T12:03:02+00:00",
+    "views": "24",
+    "text": "微软(MSFT.O)：日本相对更为稳定，北美情况也在改善。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625230"
+  },
+  {
     "post": "Financial_Express/3625228",
     "datetime": "2026-11-13T12:02:43+00:00",
-    "views": "4",
+    "views": "25",
     "text": "巴西国家商品供应公司（CONAB）：巴西大豆单产为每公顷 3,683 公斤，此前为每公顷 3,683 公斤。巴西大豆产量为 1.8162 亿吨，此前为 1.8162 亿吨。巴西大豆种植面积为 4,931 万公顷，此前为 4,931 万公顷。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3625229",
     "datetime": "2026-11-13T12:02:43+00:00",
-    "views": "4",
+    "views": "25",
     "text": "微软：欧洲业务复苏进展令人鼓舞。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +92,8 @@
   {
     "post": "Financial_Express/3625227",
     "datetime": "2026-11-13T12:02:28+00:00",
-    "views": "3",
-    "text": "微软：欧洲恢复进展令人鼓舞。",
+    "views": "22",
+    "text": "微软：欧洲恢复进展令人鼓舞。\n日本相对更为稳定，北美正在改善。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3625227"
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3625226",
     "datetime": "2026-11-13T12:02:22+00:00",
-    "views": "3",
+    "views": "23",
     "text": "微软(MSFT.O)就服务中断表示，欧洲地区已出现令人鼓舞的恢复进展，在越来越多受影响的 Microsoft 365 基础设施上，服务可用性和电子邮件投递性能正在改善。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3625225",
     "datetime": "2026-11-13T12:01:42+00:00",
-    "views": "5",
+    "views": "20",
     "text": "沃伦参议员批评通用汽车在车价创高之际大手笔回购股票\n美国参议员伊丽莎白·沃伦点名批评通用汽车公司，指责其在汽车价格创下历史新高的背景下斥资数十亿美元回购股票，新晋当选参议员阿卜杜勒·埃尔-赛义德也一同对该车企的财务操作提出批评。沃伦在致通用汽车首席执行官玛丽·博拉的信函中，提及该公司上月宣布获批 200 亿美元股票回购计划。自 2023 年以来，通用汽车已投入 295 亿美元用于股票回购。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3625224",
     "datetime": "2026-11-13T12:01:22+00:00",
-    "views": "5",
+    "views": "18",
     "text": "美股盘前要闻速递\n\n①美股三大股指期货齐涨，道指期货涨 0.18%，标普 500 指数期货涨 0.29%，纳指期货涨 0.25%。\n②德国 DAX 指数涨 0.05%，英国富时 100 指数涨 0.09%，法国 CAC40 指数跌 0.03%，欧洲斯托克 50 指数跌 0.01%。\n③WTI 原油跌 0.11%，报 88.64 美元/桶。布伦特原油涨 0.39%，报 96.19 美元/桶。\n④随着中东地区石油出口回暖，国际能源署预计全球石油市场将于今年第四季度重回供应过剩状态。\n⑤周五美国国债收益率小幅走高，市场投资者对美联储 12 月加息的预期不断升温。\n⑥高盛策略师认为，尽管盈利增速放缓，但随着估值回落、债券收益率、油价与通胀趋于缓和，美股牛市将延续至 2027 年。\n⑦英伟达盘前涨 2%，投资者正持续评估黄仁勋离职带来的影响。\n⑧美股 AI 芯片公司 Cerebras 盘前大涨近 20%，公司 Q3 业绩和 Q4 展望均超市场预期。\n⑨比特币跌至三个月低点，加密货币概念股盘前下跌，Riot Platforms 下跌 1.6%，Hut 8 下跌 1.7%，Mara Holdings 下跌 3.5%，COINBASE GLOBAL 下跌 2.9%，STRATEGY 下跌 2.8%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3625223",
     "datetime": "2026-11-13T12:01:02+00:00",
-    "views": "6",
+    "views": "17",
     "text": "德国经济部发言人：正关注梅赛德斯-奔驰的动态，但不就企业决策置评。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3625222",
     "datetime": "2026-11-13T12:00:43+00:00",
-    "views": "7",
+    "views": "15",
     "text": "美国参议员沃伦批评通用汽车计划 200 亿美元股票回购。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3625221",
     "datetime": "2026-11-13T12:00:22+00:00",
-    "views": "7",
+    "views": "14",
     "text": "双 11 笔记本电脑较 618 涨超 3000 元\n金十数据 11 月 13 日讯，11 月 13 日，天猫双 11 狂欢节的最后一天，查看天猫笔记本电脑热销榜发现，排名前十的笔记本电脑售价均在 5000 元以上。最便宜的机械革命无界 15X 电竞版 1TB+16GB 内存促销价为 5130 元，榜单前十中，7 款产品的价格在 7000 元以上，4 款价格在 1 万元以上。笔记本电脑的线上销售均价三季度已升至 7759 元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3625220",
     "datetime": "2026-11-13T11:59:42+00:00",
-    "views": "8",
+    "views": "14",
     "text": "去年中国赴肯尼亚游客人数突破 10.7 万人次，中国已位居肯尼亚全球前五大国际客源市场之列\n在 2025/26 财年期间，肯尼亚共接待了 276 万人次国际游客，“中国是我们在亚洲重点增长市场之一，也是驱动我们业务拓展最强引擎之一。”（澎湃）",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3625219",
     "datetime": "2026-11-13T11:59:22+00:00",
-    "views": "8",
+    "views": "15",
     "text": "白宫办公厅主任米勒将阻止工作人员参加部分未经批准的游说会面。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3625218",
     "datetime": "2026-11-13T11:59:02+00:00",
-    "views": "41",
+    "views": "46",
     "text": "安哥拉矿业部：安哥拉寻求收购戴比尔斯集团（De Beers）10%的股权。",
     "media_only": false,
     "image_url": null,
@@ -61729,86 +61801,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3618299"
-  },
-  {
-    "post": "Financial_Express/3618298",
-    "datetime": "2026-11-11T12:05:04+00:00",
-    "views": "11",
-    "text": "粤宏远Ａ：拟以 5.5 亿元现金收购金旺达 100%股权，尚需股东会审批\n粤宏远Ａ公告，公司此前披露筹划收购深圳市金旺达机电有限公司股权；截至目前，目标公司审计、评估工作已完成，公司于 2026 年 11 月 11 日与转让方签署附条件生效的股权转让协议，拟以现金收购金旺达 100%股权，交易价格为人民币 5.5 亿元。交易已获公司董事会审议通过，尚需提交股东会审批；协议其他条款在交易获股东会批准及相关政府部门审批文件（如需要）等条件全部满足后生效。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618298"
-  },
-  {
-    "post": "Financial_Express/3618297",
-    "datetime": "2026-11-11T12:05:03+00:00",
-    "views": "12",
-    "text": "英国学校收到威胁邮件\n据英国广播公司今天（11 月 11 日）报道，英国北爱尔兰教育局称当地大批学校收到了“威胁邮件”。警方评估认为这是一起恶作剧，邮件来源位于英国境外。警方同时指出，近期“恶作剧和不可信炸弹威胁活动有所增加”，建议公众在收到此类威胁时联系警方。 当天，意大利上百所学校收到“威胁邮件”。意大利总理梅洛尼在社交媒体上表示，发送至意大利各地学校的“威胁邮件”不构成危险，警方及其他公共机构正在监控局势。梅洛尼表示，政府将评估事态发展并协调进一步行动。（CCTV 国际时讯）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618297"
-  },
-  {
-    "post": "Financial_Express/3618296",
-    "datetime": "2026-11-11T12:04:42+00:00",
-    "views": "12",
-    "text": "*ST 西发：重整计划获拉萨中院裁定批准\n*ST 西发公告，公司 2026 年 11 月 11 日收到拉萨市中级人民法院送达的《民事裁定书》，裁定批准《西藏发展股份有限公司重整计划》并终止公司重整程序。此前公司重整计划（草案）及出资人权益调整方案已分别经第二次债权人会议和出资人组会议审议通过。法院裁定批准后，公司将进入重整计划执行阶段，管理人负责监督执行。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618296"
-  },
-  {
-    "post": "Financial_Express/3618295",
-    "datetime": "2026-11-11T12:04:22+00:00",
-    "views": "12",
-    "text": "Anthropic 披露一项超过 100 亿美元的新交易。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618295"
-  },
-  {
-    "post": "Financial_Express/3618294",
-    "datetime": "2026-11-11T12:04:15+00:00",
-    "views": "11",
-    "text": "我国成功发射探源计划探路者卫星。 (央视新闻)",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618294"
-  },
-  {
-    "post": "Financial_Express/3618293",
-    "datetime": "2026-11-11T12:04:02+00:00",
-    "views": "11",
-    "text": "东兴证券和信达证券原董事长获任中金公司总裁助理、管委会成员\n中金公司(601995)11 月 11 日公告，董事会同意聘任李娟为公司总裁助理、管理委员会成员，同时同意聘任林志忠为公司总裁助理、管理委员会成员。李娟为东兴证券党委书记、董事长，林志忠则为信达证券党委书记、董事长。根据此前公告，中金公司于 10 月 26 日换股吸收合并东兴证券、信达证券完成交割。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618293"
-  },
-  {
-    "post": "Financial_Express/3618292",
-    "datetime": "2026-11-11T12:03:43+00:00",
-    "views": "9",
-    "text": "粤宏远Ａ公告，公司拟以 5.5 亿元现金收购许照旺持有的深圳市金旺达机电有限公司 91.3754%股权、安义拓荒者企业管理合伙企业（有限合伙）持有的 8.6246%股权，交易完成后金旺达成为全资子公司并纳入合并报表。金旺达主营高端自动化核心零部件，核心产品包括精密直线导轨、精密滚珠丝杠、精密行星滚柱丝杠、精密减速机等。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618292"
-  },
-  {
-    "post": "Financial_Express/3618291",
-    "datetime": "2026-11-11T12:03:42+00:00",
-    "views": "8",
-    "text": "广和通推出 SC236 智能模组 计划第四季度实现量产\n据广和通消息，在 electronica 2026 期间，广和通推出 SC236 智能模组。该产品基于高通跃龙™ Q-2390 处理器打造，融合计算、多媒体处理与无线连接能力，为 AIoT 终端提供从连接、计算到应用承载的一体化能力，助力客户打造面向未来的智能设备。目前，SC236 已进入产品导入阶段，计划于 2026 年第四季度实现量产。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618291"
-  },
-  {
-    "post": "Financial_Express/3618290",
-    "datetime": "2026-11-11T12:03:23+00:00",
-    "views": "8",
-    "text": "我国成功发射探源计划探路者卫星\n我国成功发射探源计划探路者卫星。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618290"
   }
 ]
