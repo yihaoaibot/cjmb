@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3626110",
+    "datetime": "2026-11-13T19:00:22+00:00",
+    "views": "2",
+    "text": "恒指期货夜盘收涨 0.67%，报 23721.98 点，高水 84.38 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626110"
+  },
+  {
+    "post": "Financial_Express/3626109",
+    "datetime": "2026-11-13T19:00:20+00:00",
+    "views": "2",
+    "text": "恒生指数主连夜盘收涨 0.62%，报 23722 点。\n恒生科技指数主连夜盘收涨 0.97%，报 3836 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626109"
+  },
+  {
     "post": "Financial_Express/3626108",
     "datetime": "2026-11-13T18:57:07+00:00",
-    "views": "5",
+    "views": "36",
     "text": "美国众议院中国委员会声称，第一太阳能 CEO 将于 11 月 20 日参加其听证会。\n第一太阳能跌幅收窄。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3626107",
     "datetime": "2026-11-13T18:54:02+00:00",
-    "views": "42",
+    "views": "43",
     "text": "英伟达股价收窄跌幅，最新下跌 2.2%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3626106",
     "datetime": "2026-11-13T18:50:22+00:00",
-    "views": "61",
+    "views": "62",
     "text": "美联储戴利：通胀持续恶化 进一步加息很可能有必要\n金十数据 11 月 14 日讯，美联储旧金山联储主席戴利周五表示，鉴于通胀形势恶化，美联储很可能需要进一步加息。她指出，核心 CPI 连续三个月环比上涨约 0.3%，高于与美联储 2%通胀目标相符的 0.2%或以下水平。她尤其担忧剔除住房后的服务业通胀走势不佳，因为这类价格通常具有较强粘性。企业投入成本不断上升，越来越多生产商表示利润空间已难以消化成本压力，正考虑将成本转嫁给消费者。戴利表示，她将在 12 月会议及未来会议上与同僚讨论加息问题，并根据经济状况作出集体决定。美联储 9 月加息、10 月维持利率不变，市场目前预计 12 月 8 日至 9 日及明年 1 月 26 日至 27 日会议均将加息 25 个基点。戴利还表示，未来一至三个月将重点观察消费者支出，尤其是节日期间消费者是否会因物价上涨而减少消费。她称，目前消费仍表现出较强韧性，但部分地区已开始出现消费者可能逐渐失去消费动力的迹象。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3626105",
     "datetime": "2026-11-13T18:49:53+00:00",
-    "views": "61",
+    "views": "62",
     "text": "英伟达股价势将创下逾 18 个月来最差单周表现，在黄仁勋从这家芯片巨头离职后，公司股价持续承压。\n英伟达周五一度下跌 4.7%，本周累计跌幅扩大至约 14%，势将创下 2025 年 4 月以来最差单周表现，当时美国总统特朗普宣布大范围加征关税的计划，引发全球股市震荡。英伟达本周市值已蒸发逾 6200 亿美元，这一损失超过标普 500 指数中 97%的成分股各自的市值。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3626104",
     "datetime": "2026-11-13T18:47:42+00:00",
-    "views": "65",
+    "views": "96",
     "text": "美国议员就宕机事件向微软索要信息。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3626102",
     "datetime": "2026-11-13T18:47:22+00:00",
-    "views": "66",
+    "views": "96",
     "text": "据 Politico：微软(MSFT.O)被议员要求就宕机提供相关信息。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3626103",
     "datetime": "2026-11-13T18:47:22+00:00",
-    "views": "66",
+    "views": "97",
     "text": "美国最高法院将审议是否维持美国总统特朗普的南部边境庇护禁令。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3626096",
     "datetime": "2026-11-13T18:43:43+00:00",
-    "views": "72",
+    "views": "102",
     "text": "一家名为 Mythos 的软件公司周五在美国弗吉尼亚州联邦法院起诉 Anthropic，指控该人工智能公司对“Mythos”一词的使用侵犯了其商标权。\n运营着面向非营利组织软件平台的 Mythos 公司告诉法院，Anthropic 的 Mythos AI 模型将造成市场混淆，并使其遭受“重大且不可弥补的损害”。Mythos 公司请求法院判令未指明金额的损害赔偿，并下达法院命令禁止 Anthropic 使用“Mythos”名称。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3626093",
     "datetime": "2026-11-13T18:38:02+00:00",
-    "views": "80",
+    "views": "81",
     "text": "微软就全球服务中断道歉 称故障非网络攻击所致\n金十数据 11 月 14 日讯，当地时间 11 月 13 日，微软公司就导致数百万用户受影响的全球性服务中断事件深表歉意。微软表示，此次故障“与网络攻击或人工智能/智能体（AIagents）无关”，而是由早先一次“网络容量升级”引发。微软此前称，恢复工作进展“令人鼓舞”，目前正致力于消除此次故障留下的“后续影响”。该故障曾导致 Teams、Outlook 以及人工智能软件 Copilot 在至少 70 个国家无法使用。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3626092",
     "datetime": "2026-11-13T18:37:02+00:00",
-    "views": "74",
+    "views": "75",
     "text": "荷兰首相耶滕：执政联盟将在未来几天讨论如何改善内部合作。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +182,7 @@
   {
     "post": "Financial_Express/3626091",
     "datetime": "2026-11-13T18:35:22+00:00",
-    "views": "80",
+    "views": "81",
     "text": "荷兰首相耶滕：执政联盟将在未来几天讨论如何改善合作。",
     "media_only": false,
     "image_url": null,
@@ -62386,32 +62404,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3619110"
-  },
-  {
-    "post": "Financial_Express/3619109",
-    "datetime": "2026-11-11T19:00:59+00:00",
-    "views": "77",
-    "text": "恒生指数主连夜盘收跌 0.70%，报 24107 点。\n恒生科技指数主连夜盘收跌 0.82%，报 3990 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3619109"
-  },
-  {
-    "post": "Financial_Express/3619108",
-    "datetime": "2026-11-11T19:00:42+00:00",
-    "views": "79",
-    "text": "恒指期货夜盘收跌 0.7%，报 24107 点，低水 209 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3619108"
-  },
-  {
-    "post": "Financial_Express/3619107",
-    "datetime": "2026-11-11T19:00:22+00:00",
-    "views": "77",
-    "text": "恒指期货夜盘收跌 0.70%，报 24098.08 点，低水 217.84 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3619107"
   }
 ]
