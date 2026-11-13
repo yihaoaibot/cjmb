@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3626442",
+    "datetime": "2026-11-13T23:39:23+00:00",
+    "views": "12",
+    "text": "阿拉斯加航空集团：由于停飞令影响重大，我们已取消部分航班并改飞其他航班。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626442"
+  },
+  {
+    "post": "Financial_Express/3626441",
+    "datetime": "2026-11-13T23:39:22+00:00",
+    "views": "12",
+    "text": "阿拉斯加航空集团：美国联邦航空管理局（FAA）今日下午发布全国停飞令，阿拉斯加航空和夏威夷航空的航班均受到影响。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626441"
+  },
+  {
     "post": "Financial_Express/3626440",
     "datetime": "2026-11-13T23:39:02+00:00",
-    "views": "3",
+    "views": "13",
     "text": "美国民主党要求马斯克留存乌克兰星链接入相关记录\n一封信件显示，民主党参议员要求埃隆·马斯克留存所有与太空探索技术公司（SpaceX）限制乌克兰使用星链、星盾卫星服务有关的记录。信件提及，10 月 13 日至 24 日、以及 11 月 12 日先后出现服务中断，妨碍了乌克兰军事行动。媒体此前报道，马斯克在 10 月下令限制星链网速，之后特朗普致电马斯克，要求他解除限制。乌克兰高度依赖民用与军用版本的星链网络，用于锁定俄军目标、抵御俄方导弹与无人机轮番袭击。 SpaceX 否认本周对乌克兰的系统接入实施任何限制。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3626438",
     "datetime": "2026-11-13T23:36:42+00:00",
-    "views": "20",
+    "views": "53",
     "text": "美上万架次航班延误或取消\n航班追踪网站信息显示，截至美东时间 11 月 13 日 17 时 40 分，美国全国范围内地面停飞令已造成超过 1100 架次航班取消、近 1 万架次航班延误。当天傍晚，部分空管设施的通信开始恢复。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3626439",
     "datetime": "2026-11-13T23:36:42+00:00",
-    "views": "20",
+    "views": "53",
     "text": "白宫发言人表示，特朗普将在四方安全对话（Quad）领导人会议后与泰国签署贸易协议。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3626436",
     "datetime": "2026-11-13T23:36:02+00:00",
-    "views": "25",
+    "views": "56",
     "text": "专用网络更新导致美国空中交通系统重启。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3626437",
     "datetime": "2026-11-13T23:36:02+00:00",
-    "views": "25",
+    "views": "57",
     "text": "特朗普将于周二在马尼拉会见四方安全对话领导人。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3626435",
     "datetime": "2026-11-13T23:35:02+00:00",
-    "views": "58",
+    "views": "59",
     "text": "美国民主党人要求马斯克保留与乌克兰“星链”访问权限相关的记录。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3626434",
     "datetime": "2026-11-13T23:34:02+00:00",
-    "views": "60",
+    "views": "61",
     "text": "七国集团支持就伊朗问题开展的一切外交努力。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3626433",
     "datetime": "2026-11-13T23:33:42+00:00",
-    "views": "60",
+    "views": "61",
     "text": "西南航空正进行调整以遵守停飞令。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3626431",
     "datetime": "2026-11-13T23:33:22+00:00",
-    "views": "60",
+    "views": "61",
     "text": "七国集团赞赏地区调解方在伊朗问题上所做工作。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3626432",
     "datetime": "2026-11-13T23:33:22+00:00",
-    "views": "60",
+    "views": "61",
     "text": "阿拉斯加航空集团：由于停飞影响重大，我们已取消部分航班并改道其他航班。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3626430",
     "datetime": "2026-11-13T23:32:42+00:00",
-    "views": "66",
+    "views": "67",
     "text": "旧金山国际机场：飞往太平洋方向的航班现已获准起飞。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3626429",
     "datetime": "2026-11-13T23:31:42+00:00",
-    "views": "78",
+    "views": "79",
     "text": "七国集团联合声明，重申对乌克兰的坚定支持。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3626428",
     "datetime": "2026-11-13T23:28:42+00:00",
-    "views": "78",
+    "views": "79",
     "text": "玻利维亚 1 至 10 月国内税收收入增长 13.4%\n玻利维亚税务部门通过短信发布声明称，该国 1–10 月国内税收收入达 436 亿玻利维亚诺（折合 37 亿美元），同比增长 13.4%。企业所得税收入 122 亿玻利维亚诺（折合 10 亿美元），同比增长 32.3%。增值税收入 128 亿玻利维亚诺（折合 11 亿美元），同比增长 14%。交易税收入 68 亿玻利维亚诺（折合 5.82 亿美元），同比增长 14.1%。",
     "media_only": false,
     "image_url": null,
@@ -62980,14 +62998,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3619388"
-  },
-  {
-    "post": "Financial_Express/3619387",
-    "datetime": "2026-11-11T23:39:21+00:00",
-    "views": "67",
-    "text": "英伟达与外部公司合作，物色可能的新首席执行官。\n英伟达考虑在展开更广泛的 CEO 遴选前，先任命一位过渡期 CEO。（彭博）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3619387"
   }
 ]
