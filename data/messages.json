@@ -1,8 +1,107 @@
 [
   {
+    "post": "Financial_Express/3625744",
+    "datetime": "2026-11-13T14:58:02+00:00",
+    "views": "2",
+    "text": "AMD 股价下跌 7.2%，此前已连续五个交易日上涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625744"
+  },
+  {
+    "post": "Financial_Express/3625743",
+    "datetime": "2026-11-13T14:57:42+00:00",
+    "views": "3",
+    "text": "Anthropic：包括 Docs 和 Sheets 在内的连接器服务仍处于降级运行状态。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625743"
+  },
+  {
+    "post": "Financial_Express/3625741",
+    "datetime": "2026-11-13T14:57:23+00:00",
+    "views": "3",
+    "text": "纳斯达克 100 指数跌幅扩大至逾 1%，触及盘中低点，标普 500 指数下跌 0.4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625741"
+  },
+  {
+    "post": "Financial_Express/3625742",
+    "datetime": "2026-11-13T14:57:23+00:00",
+    "views": "3",
+    "text": "纳斯达克 100 指数下跌逾 1%，触及盘中低点；标普 500 指数下跌 0.4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625742"
+  },
+  {
+    "post": "Financial_Express/3625739",
+    "datetime": "2026-11-13T14:57:04+00:00",
+    "views": "3",
+    "text": "高盛仍认为，其对 TTF 和 JKM 的长期看空价格预测存在下行风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625739"
+  },
+  {
+    "post": "Financial_Express/3625740",
+    "datetime": "2026-11-13T14:57:04+00:00",
+    "views": "3",
+    "text": "Anthropic：包括文档和表格在内的连接器仍处于降级状态。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625740"
+  },
+  {
+    "post": "Financial_Express/3625738",
+    "datetime": "2026-11-13T14:57:03+00:00",
+    "views": "3",
+    "text": "Anthropic：Claude.ai 和 Claude API 服务正在逐步恢复。由于公司仍在持续处理相关问题，错误可能再次出现。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625738"
+  },
+  {
+    "post": "Financial_Express/3625737",
+    "datetime": "2026-11-13T14:56:42+00:00",
+    "views": "33",
+    "text": "Anthropic 表示，在继续处理相关问题的过程中，错误可能会再次出现。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625737"
+  },
+  {
+    "post": "Financial_Express/3625736",
+    "datetime": "2026-11-13T14:56:35+00:00",
+    "views": "33",
+    "text": "Anthropic：Claude.AI 和 Claude API 正在恢复。\n在继续处理相关问题的过程中，错误可能会再次出现。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625736"
+  },
+  {
+    "post": "Financial_Express/3625735",
+    "datetime": "2026-11-13T14:56:23+00:00",
+    "views": "33",
+    "text": "Anthropic 表示，Claude.ai 和 Claude API 正在恢复。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625735"
+  },
+  {
+    "post": "Financial_Express/3625734",
+    "datetime": "2026-11-13T14:56:22+00:00",
+    "views": "32",
+    "text": "美银将 2027 年 1 月美联储加息纳入预测\n金十数据 11 月 13 日讯，美国银行全球研究部周五表示，鉴于 10 月 CPI 数据强于预期，提振了市场对借贷成本上升的预期，该行现预计美联储将在此前预测的 12 月和明年 3 月加息之外，于 2027 年 1 月再加息 25 个基点。“10 月 CPI 数据公布后，美联储在通胀问题上显得更加落后于曲线。该行不再享有按季度节奏加息的空间，”美银策略师在一份报告中表示。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625734"
+  },
+  {
     "post": "Financial_Express/3625732",
     "datetime": "2026-11-13T14:56:03+00:00",
-    "views": "1",
+    "views": "32",
     "text": "法院文件显示，针对涉嫌枪击美国总统特朗普的嫌疑人科尔·托马斯·艾伦的案件，检方已提交替代起诉书。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +110,7 @@
   {
     "post": "Financial_Express/3625733",
     "datetime": "2026-11-13T14:56:03+00:00",
-    "views": "1",
+    "views": "32",
     "text": "纳斯达克指数期货跌 1.01%，现报 28097.810 点；道琼斯指数期货涨%，现报 52391.120 点；标普 500 指数期货跌 0.41%，现报 7584.380 点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +119,7 @@
   {
     "post": "Financial_Express/3625731",
     "datetime": "2026-11-13T14:55:43+00:00",
-    "views": "2",
+    "views": "33",
     "text": "WTI 原油日内涨幅达 1.0%，报 89.63 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +128,7 @@
   {
     "post": "Financial_Express/3625730",
     "datetime": "2026-11-13T14:55:42+00:00",
-    "views": "2",
+    "views": "33",
     "text": "高盛将 2028 年、2029 年和 2030 年 Henry Hub 天然气价格预测分别上调至每百万英热单位 4.00 美元、4.50 美元和 4.50 美元，此前预测分别为 3.05 美元、3.80 美元和 3.70 美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +137,7 @@
   {
     "post": "Financial_Express/3625729",
     "datetime": "2026-11-13T14:55:22+00:00",
-    "views": "2",
+    "views": "33",
     "text": "法院文件显示，特朗普枪击案嫌疑人科尔·托马斯·艾伦一案已提交替代起诉书。",
     "media_only": false,
     "image_url": null,
@@ -62350,59 +62449,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3618739"
-  },
-  {
-    "post": "Financial_Express/3618738",
-    "datetime": "2026-11-11T14:58:54+00:00",
-    "views": "45",
-    "text": "ICE 美元指数刷新 2025 年 4 月以来最高位至 102.95 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618738"
-  },
-  {
-    "post": "Financial_Express/3618737",
-    "datetime": "2026-11-11T14:58:44+00:00",
-    "views": "45",
-    "text": "CoreWeave CEO：不担心中期选举结果对公司产生影响\n尽管上周民主党在大选大胜之后，CoreWeave 股价遭遇大幅抛售，但首席执行官迈克·英特拉托（Mike Intrator）表示，公司并不担心即将到来的政治变局。 周二晚间，在公司财报电话会议上，被问及大选带来的新压力时，英特拉托回应：“我们预计这场重大监管转向不会对我们产生影响。我们认为，这次选举结果传递的是该如何建设算力设施的导向。我们坚持负责任地建设。” 摩根大通资产管理公司在大选后发布报告称：2028 年及以后的数据中心项目“风险最高”，在审批、电力供给、融资方面将面临更大不确定性。 但 CoreWeave 表示不会放慢扩张节奏。公司称，依旧预计到 2026 年底，在用算力规模达到 1.85 吉瓦；全年资本开支目标上调至 370 亿–390 亿美元，取区间中值同比增幅 155%。Visible Alpha 调研的分析师一致预期为 376.9 亿美元。 英特拉托称：“我们对在手项目储备非常有信心。”他补充，选民的态度并不构成阻碍，因为公司一直注重做“友好邻商”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618737"
-  },
-  {
-    "post": "Financial_Express/3618736",
-    "datetime": "2026-11-11T14:58:43+00:00",
-    "views": "44",
-    "text": "英国财政大臣希利：不希望数据中心出现美国式的无序竞争。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618736"
-  },
-  {
-    "post": "Financial_Express/3618735",
-    "datetime": "2026-11-11T14:58:42+00:00",
-    "views": "45",
-    "text": "乌方说乌美俄“重大分歧依然存在”\n乌克兰谈判代表团成员、对外情报局局长乌梅罗夫 11 日表示，为期两天的乌美俄三方会谈在阿联酋结束，各方就大规模交换被俘人员达成协议，但“重大分歧依然存在”，目前正敲定具体细节并推进落实，让被俘乌方人员尽快返回家园仍是乌方最优先事项之一。三方还讨论了实现和平及乌克兰战后重建问题，首要任务是结束战争并确保乌克兰获得安全保障。俄方团长梅金斯基称，俄方未在阿布扎比与欧洲代表接触，谈判属俄美乌三方性质；乌方主张欧洲国家应参与谈判。分析人士认为，围绕结束冲突、领土争议、安全保障、战后重建及欧洲参与等问题仍未能取得实质性进展。（新华社）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618735"
-  },
-  {
-    "post": "Financial_Express/3618734",
-    "datetime": "2026-11-11T14:58:22+00:00",
-    "views": "44",
-    "text": "美元指数升至去年 4 月以来最高\n金十数据 11 月 11 日讯，美元指数 DXY 突破上月前高，升至去年 4 月以来最高水平 102.95。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618734"
-  },
-  {
-    "post": "Financial_Express/3618733",
-    "datetime": "2026-11-11T14:57:55+00:00",
-    "views": "45",
-    "text": "摩根大通：AI 相关的电力设备、跨行业概念股看涨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618733"
   }
 ]
