@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3625627",
+    "datetime": "2026-11-13T14:22:22+00:00",
+    "views": "2",
+    "text": "DeepSeek 发布全家桶应用 API\nDeepSeek 发表公告：我们正式开放这套全家桶应用 API：在原有 API 中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含 OCR、ASR、TTS 等），支持单独或组合调用。开发者可以在自己的应用中轻松实现复杂的对话功能，甚至 1:1 复刻出完整的 DeepSeek App。本次更新将 DeepSeek App 的各项交互功能直接整合进原有 API。开启对应参数后，相关工具调用与上下文拼接均由服务端自动完成。目前，V4.1-Flash 模型（deepseek-flash）已在 Messages、Responses 与 Chat Completions 接口下支持以下能力：联网搜索、深度思考搜索、文件输入、阅读链接、模型安全。此外，为方便开发者更灵活地接入自有工作流，上述底层能力及语音能力均支持作为独立接口单独调用，包括：Search、Fetch、OCR、ASR、TTS。使用上述接口，开发者即可实现与 DeepSeek App 基本一致的功能。为直观演示这一效果，我们基于新版 API 构建并开源了一份轻量的前端 Demo，支持直接导入 DeepSeek 历史对话。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625627"
+  },
+  {
+    "post": "Financial_Express/3625626",
+    "datetime": "2026-11-13T14:21:22+00:00",
+    "views": "11",
+    "text": "燃料油连续主力合约日内涨 3%，现报 4236.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625626"
+  },
+  {
+    "post": "Financial_Express/3625625",
+    "datetime": "2026-11-13T14:20:42+00:00",
+    "views": "41",
+    "text": "全国首单源网荷储一体化算力基础设施机构间 REITs 成功发行\n近日，“华泰-中金数据持有型不动产资产支持专项计划”在上海证券交易所发行。该项目为全国首单源网荷储一体化算力基础设施机构间 REITs，发行规模为 36.52 亿元。中金数据集团有限公司为项目发行人及原始权益人，华泰联合证券有限责任公司担任财务顾问，华泰证券（上海）资产管理有限公司担任计划管理人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3625625"
+  },
+  {
     "post": "Financial_Express/3625624",
     "datetime": "2026-11-13T14:20:22+00:00",
-    "views": "1",
+    "views": "39",
     "text": "调查显示：乌干达经济 2026 年预计增长 6.4%，此前预期为增长 6.9%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3625623",
     "datetime": "2026-11-13T14:20:02+00:00",
-    "views": "1",
+    "views": "39",
     "text": "联合国秘书长古特雷斯：我们需要立即大幅削减排放。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3625622",
     "datetime": "2026-11-13T14:19:42+00:00",
-    "views": "2",
+    "views": "39",
     "text": "联合国秘书长古特雷斯：全球气温升幅超过 1.5 摄氏度已不可避免。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3625620",
     "datetime": "2026-11-13T14:19:22+00:00",
-    "views": "33",
+    "views": "38",
     "text": "联合国秘书长古特雷斯：1.5 度温控目标超标已不可避免。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3625621",
     "datetime": "2026-11-13T14:19:22+00:00",
-    "views": "33",
+    "views": "39",
     "text": "中国人民银行公布 2026 年 10 月金融数据。10 月末，社会融资规模存量为 469.16 万亿元，同比增长 7.2%；广义货币（M2）余额 359.06 万亿元，同比增长 7.1%。两项指标均高于名义 GDP 增速，同经济增长、价格总水平预期目标相匹配。\n东方金诚首席宏观分析师王青判断，年底前使用全面降息降准等总量型货币政策工具的可能性下降，监管部门将主要引导银行等金融机构加大对国民经济重点领域和薄弱环节的支持力度，推动“六张网”建设及“五篇大文章”领域贷款高增。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3625619",
     "datetime": "2026-11-13T14:18:43+00:00",
-    "views": "33",
+    "views": "38",
     "text": "美国国防部将 CDAO 更名为超级智能办公室\n美国国防部今日宣布，原首席数字与人工智能办公室（CDAO）正式更名为国防部超级智能办公室（SIO）。此次更名源于特朗普总统的行政指令，要求联邦术语与国家安全战略从传统人工智能转向超级智能时代。卡梅伦・斯坦利表示：“这次更名清晰传递出国防部的发展方向。我们已经走出原型试验阶段。作为超级智能办公室，我们的使命是充分掌握主权超级智能的能力，确保在所有作战域形成决定性军事优势。”",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3625618",
     "datetime": "2026-11-13T14:18:42+00:00",
-    "views": "33",
+    "views": "39",
     "text": "联合国秘书长古特雷斯：化石燃料正在引发气候危机。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3625616",
     "datetime": "2026-11-13T14:16:23+00:00",
-    "views": "33",
+    "views": "68",
     "text": "美国众议院委员会发布关于内幕交易风险的备忘录。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3625617",
     "datetime": "2026-11-13T14:16:23+00:00",
-    "views": "33",
+    "views": "68",
     "text": "美国天然气期货跌超 3.00%，现报 3.632 美元/百万英热。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3625615",
     "datetime": "2026-11-13T14:15:43+00:00",
-    "views": "34",
+    "views": "68",
     "text": "Sportradar Group 美股盘前跌超 10%\nSportradar Group 美股盘前跌超 10%，现报 11.5 美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3625613",
     "datetime": "2026-11-13T14:15:05+00:00",
-    "views": "34",
+    "views": "68",
     "text": "据两位知情人士透露，在巴黎针对爱马仕失踪股份的调查中，法官下令对据称的受害者尼古拉斯·普奇进行认知检查。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3625614",
     "datetime": "2026-11-13T14:15:05+00:00",
-    "views": "34",
+    "views": "68",
     "text": "KITKAT 否认与微软宕机事件有关。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3625612",
     "datetime": "2026-11-13T14:13:03+00:00",
-    "views": "65",
+    "views": "67",
     "text": "美联储柯林斯：生产率的提高有助于限制部分通胀压力。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3625611",
     "datetime": "2026-11-13T14:12:22+00:00",
-    "views": "65",
+    "views": "67",
     "text": "现货白银日内跌 1%，现报 49.51 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3625610",
     "datetime": "2026-11-13T14:11:42+00:00",
-    "views": "64",
+    "views": "66",
     "text": "伊朗陆军：数小时前，一架美军 MQ1 无人机在科哈斯塔克地区（锡里克海岸附近）被陆军锁定并摧毁。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3625608",
     "datetime": "2026-11-13T14:10:43+00:00",
-    "views": "64",
+    "views": "95",
     "text": "美联储柯林斯：加息可能损害住房可负担性。抗击通胀优先于住房困境。住房和经济需要长期的价格稳定。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3625609",
     "datetime": "2026-11-13T14:10:43+00:00",
-    "views": "64",
+    "views": "66",
     "text": "波士顿联储主席柯林斯表示，抗击通胀的优先级高于住房困境。",
     "media_only": false,
     "image_url": null,
@@ -62422,50 +62449,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3618620"
-  },
-  {
-    "post": "Financial_Express/3618619",
-    "datetime": "2026-11-11T14:23:02+00:00",
-    "views": "46",
-    "text": "沙特吸引国际金融巨头入场 私人信贷融资规模达 1.5 亿美元\n金十数据 11 月 11 日讯，高盛集团、汇丰控股和堡垒投资集团等金融机构正联手参与沙特阿拉伯一项大型私人信贷交易，这是中东地区战争爆发以来该国首批此类重要交易之一。知情人士透露，这些机构正与 Ruya Partners、Amwal Capital Partners 等中东基金管理公司合作，为 United Saudi Company 提供 1.5 亿美元融资。随着王储萨勒曼推进数万亿美元规模的经济转型计划，同时应对战争带来的财政压力，沙特正越来越多地转向私人资本融资。近期流动性再度趋紧，也加剧了沙特银行的融资压力，并可能限制关键项目的支出。中小企业的融资需求尤为迫切。这类企业往往难以获得银行贷款，却是沙特经济多元化战略的重要支柱。除传统私人信贷外，中小企业也越来越多地寻求风险债务融资、众筹和小额贷款等渠道。以资产为抵押的专业融资方式同样受到青睐。过去 18 个月，杰富瑞金融集团、花旗集团和阿波罗全球管理等国际金融机构均参与了此类交易。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618619"
-  },
-  {
-    "post": "Financial_Express/3618618",
-    "datetime": "2026-11-11T14:23:01+00:00",
-    "views": "45",
-    "text": "华尔街对英伟达的态度开始出现松动。针对首席执行官黄仁勋的调查，正令市场对这家人工智能芯片制造商的前景产生疑虑。\n黄仁勋此前在致员工的内部备忘录中披露相关情况，数日后，贝尔德将英伟达评级下调至中性，摩根士丹利则将其从首选股票名单中移除。贝尔德分析师 Tristan Gerra 表示，在美国政府可能采取的行动及即将举行的国会听证会相关不确定性消除、美国政府调查得出结论、风险渠道短期调整及潜在费用对营收的影响得到量化，以及黄仁勋的任职前景明朗之前，公司将采取更加谨慎的立场。Gerra 还将英伟达目标价从 500 美元大幅下调至 200 美元。摩根士丹利虽然仍看好英伟达，但分析师 Joseph Moore 表示，短期不确定性仍将持续，因为黄仁勋的领导对公司的战略方向至关重要。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618618"
-  },
-  {
-    "post": "Financial_Express/3618617",
-    "datetime": "2026-11-11T14:21:43+00:00",
-    "views": "49",
-    "text": "塔塔电力拟与印度四邦签署协议 推动电价与煤炭成本挂钩\n金十数据 11 月 11 日讯，塔塔电力首席执行官 Praveer Sinha 周三表示，公司预计很快将与印度四个邦签署协议，允许其位于古吉拉特邦、装机容量达 4 吉瓦的电厂按照反映成本的价格出售电力，以应对煤炭成本上涨。塔塔电力一直在争取调整电价，以确保其蒙德拉电厂能够持续运营。2006 年 12 月，公司中标建设印度西海岸这座电厂时，曾同意按照固定价格出售电力，燃料则采用从印度尼西亚进口的煤炭。2010 年，印度尼西亚调整煤炭定价规则，将煤价与国际基准挂钩，导致燃料成本上涨，而原有电价无法覆盖成本，电厂因此连续多年亏损，被迫以低于产能的水平运营。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618617"
-  },
-  {
-    "post": "Financial_Express/3618616",
-    "datetime": "2026-11-11T14:21:23+00:00",
-    "views": "50",
-    "text": "印度 4 月至 11 月 10 日直接税收入 17.5 万亿卢比，同比增长 14%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618616"
-  },
-  {
-    "post": "Financial_Express/3618615",
-    "datetime": "2026-11-11T14:21:22+00:00",
-    "views": "50",
-    "text": "据报道：美国总统特使威特科夫与特朗普女婿库什纳已离开阿布扎比。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618615"
   }
 ]
