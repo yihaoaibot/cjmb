@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3626012",
+    "datetime": "2026-11-13T17:26:02+00:00",
+    "views": "4",
+    "text": "美联储戴利：考虑到物价上涨，希望观察消费者在假日季的行为表现。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626012"
+  },
+  {
+    "post": "Financial_Express/3626011",
+    "datetime": "2026-11-13T17:25:22+00:00",
+    "views": "18",
+    "text": "Anthropic 首席执行官阿莫代伊：人工智能编程市场正开始走向成熟。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626011"
+  },
+  {
     "post": "Financial_Express/3626010",
     "datetime": "2026-11-13T17:24:55+00:00",
-    "views": "8",
+    "views": "23",
     "text": "OpenAI 已经解散独立机器人团队，将该团队研究员调至公司其他部门。公司称此举是为加速机器人方向研发，并非放弃机器人赛道。OpenAI 希望依托通用人工智能（AI）模型来操控机器人，包括人形机器人。\nOpenAI 在被媒体求证时确认了这次组织调整。公司发言人表示，机器人仍是 OpenAI 长期愿景的核心，这次重组恰恰说明公司持续投入机器人方向，而非撤退。OpenAI 将机器人研究团队划入主研究团队，向首席研究官 Mark Chen 汇报；应用机器人与硬件团队则并入规模更大的应用业务线，向 OpenAI 总裁格雷格・布罗克曼汇报。公司发言人表示，尽管架构调整，OpenAI 仍致力于打造通用机器人。（财富）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3626009",
     "datetime": "2026-11-13T17:23:42+00:00",
-    "views": "24",
+    "views": "36",
     "text": "国际货币基金组织：已取得进展，但仍需进一步努力，才能就黎巴嫩银行业重组的有效、持久策略达成一致。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3626008",
     "datetime": "2026-11-13T17:23:32+00:00",
-    "views": "28",
+    "views": "40",
     "text": "美国旧金山联储主席戴利：（重申）我们很可能不得不加息。\n现在很难说利率是否具有足够的限制性。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3626007",
     "datetime": "2026-11-13T17:23:22+00:00",
-    "views": "28",
+    "views": "40",
     "text": "美联储戴利：多重因素正在推高通胀，这令人担忧。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3626006",
     "datetime": "2026-11-13T17:23:02+00:00",
-    "views": "30",
+    "views": "41",
     "text": "报道：通用大模型已可操控机器人，OpenAI 解散独立机器人团队\nOpenAI 已经解散独立机器人团队，将该团队研究员调至公司其他部门。公司称此举是为加速机器人方向研发，并非放弃机器人赛道。OpenAI 希望依托通用人工智能模型来操控机器人，包括人形机器人。OpenAI 在被媒体求证时确认了这次组织调整。公司发言人表示，机器人仍是 OpenAI 长期愿景的核心，这次重组恰恰说明公司持续投入机器人方向，而非撤退。OpenAI 将机器人研究团队划入主研究团队，向首席研究官 Mark Chen 汇报；应用机器人与硬件团队则并入规模更大的应用业务线，向 OpenAI 总裁格雷格・布罗克曼汇报。公司发言人表示，尽管架构调整，OpenAI 仍致力于打造通用机器人。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3626005",
     "datetime": "2026-11-13T17:21:42+00:00",
-    "views": "41",
+    "views": "52",
     "text": "美联储戴利：很难说政策已具有足够限制性。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3626004",
     "datetime": "2026-11-13T17:21:22+00:00",
-    "views": "41",
+    "views": "51",
     "text": "美联储戴利：很可能需要加息。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3626003",
     "datetime": "2026-11-13T17:21:02+00:00",
-    "views": "45",
+    "views": "55",
     "text": "美联储戴利：市场理解美联储的反应机制。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3626002",
     "datetime": "2026-11-13T17:20:22+00:00",
-    "views": "51",
+    "views": "60",
     "text": "Anthropic 首席执行官阿莫代伊：算力是最棘手的商业难题。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3626001",
     "datetime": "2026-11-13T17:19:43+00:00",
-    "views": "58",
+    "views": "65",
     "text": "美联储戴利：倾向认为需要加息。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3626000",
     "datetime": "2026-11-13T17:19:42+00:00",
-    "views": "55",
+    "views": "63",
     "text": "美联储戴利：多重冲击叠加改变了潜在通胀率。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3625999",
     "datetime": "2026-11-13T17:19:22+00:00",
-    "views": "57",
+    "views": "65",
     "text": "众议院民主党领袖杰弗里斯：将寻求禁止党派性不公正划分选区。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3625998",
     "datetime": "2026-11-13T17:19:02+00:00",
-    "views": "58",
+    "views": "66",
     "text": "美联储戴利：其他技术正被用于以更少的员工完成更多工作。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3625997",
     "datetime": "2026-11-13T17:18:42+00:00",
-    "views": "61",
+    "views": "66",
     "text": "众议院民主党领袖杰弗里斯：将大力调查与英伟达相关的“丑闻”。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3625996",
     "datetime": "2026-11-13T17:18:22+00:00",
-    "views": "60",
+    "views": "66",
     "text": "Anthropic 首席执行官阿莫代伊：不希望 AI 智能体失控。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3625995",
     "datetime": "2026-11-13T17:18:20+00:00",
-    "views": "61",
+    "views": "67",
     "text": "Anthropic 首席执行官阿莫代伊：我们对人工智能风险“非常偏执”。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3625994",
     "datetime": "2026-11-13T17:18:07+00:00",
-    "views": "62",
+    "views": "68",
     "text": "Cerebras 首席执行官：过去一年，Cerebras 在美国以外开展了多元化的数据中心项目。\n英伟达 CEO 黄仁勋离任后，英伟达有“足够多优秀人才”来“接棒”。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3625993",
     "datetime": "2026-11-13T17:17:02+00:00",
-    "views": "80",
+    "views": "86",
     "text": "Cerebras 首席执行官：过去一年，Cerebras 在美国以外开展了多元化的数据中心项目。黄仁勋离任后，英伟达有“足够多优秀人才”来“接棒”。",
     "media_only": false,
     "image_url": null,
