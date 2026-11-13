@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3626045",
+    "datetime": "2026-11-13T17:46:43+00:00",
+    "views": "4",
+    "text": "美联储戴利：企业持谨慎乐观态度，但各方都担忧通胀。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626045"
+  },
+  {
+    "post": "Financial_Express/3626046",
+    "datetime": "2026-11-13T17:46:43+00:00",
+    "views": "4",
+    "text": "欧盟委员会主席冯德莱恩：即将提出下一轮对俄制裁。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626046"
+  },
+  {
+    "post": "Financial_Express/3626044",
+    "datetime": "2026-11-13T17:46:42+00:00",
+    "views": "4",
+    "text": "OpenAI 转向通用 AI 模型直接控制机器人 不再单独开发专用模型\n金十数据 11 月 14 日讯，据《财富》杂志报道，OpenAI 已解散独立机器人研究团队，并将相关研究人员重新分配至公司其他部门。OpenAI 表示，此举并非放弃机器人业务，而是为了加快通用机器人的研发。调整后，机器人研究人员将并入由首席研究官马克·陈领导的核心研究团队，应用机器人及硬件团队则转入由总裁格雷格·布罗克曼负责的应用部门。此次调整反映出 OpenAI 战略方向的变化：公司认为，通用 AI 模型已能够直接应用于机器人控制，无需专门开发独立的机器人 AI 模型。OpenAI 称，包括 GPT-6Astra 在内的前沿通用模型已展现出机器人应用能力。英伟达一项研究显示，搭载 Astra 的智能体在模拟机器人操作测试中的成功率达到 74.8%，高于该排行榜上专用机器人模型此前报告的 51%。OpenAI 仍计划开发人形机器人，CEO 奥尔特曼此前提出争取在 2027 年进行首次公开演示。不过，业内人士指出，通用模型仍存在运行速度较慢、依赖云端网络等局限，机器人企业在真实场景部署和积累数据方面仍具优势。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626044"
+  },
+  {
+    "post": "Financial_Express/3626043",
+    "datetime": "2026-11-13T17:46:02+00:00",
+    "views": "9",
+    "text": "欧盟委员会主席冯德莱恩：我们的重点必须是结束战争。我们将支持乌克兰，同时维护我们自身的利益。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626043"
+  },
+  {
+    "post": "Financial_Express/3626042",
+    "datetime": "2026-11-13T17:45:42+00:00",
+    "views": "10",
+    "text": "欧盟委员会主席冯德莱恩：我们的重点必须是结束这场战争。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626042"
+  },
+  {
+    "post": "Financial_Express/3626041",
+    "datetime": "2026-11-13T17:45:22+00:00",
+    "views": "13",
+    "text": "欧盟委员会主席冯德莱恩：我们将支持乌克兰，同时维护我们自身的利益。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626041"
+  },
+  {
+    "post": "Financial_Express/3626040",
+    "datetime": "2026-11-13T17:45:21+00:00",
+    "views": "13",
+    "text": "欧盟委员会主席冯德莱恩：计算领域至少需要 5000 亿欧元投资。\n下一份欧洲预算将体现信息技术和人工智能（AI）雄心。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626040"
+  },
+  {
+    "post": "Financial_Express/3626039",
+    "datetime": "2026-11-13T17:45:03+00:00",
+    "views": "18",
+    "text": "欧盟委员会主席冯德莱恩：我们至少需要在计算领域投资 5000 亿欧元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626039"
+  },
+  {
+    "post": "Financial_Express/3626038",
+    "datetime": "2026-11-13T17:45:02+00:00",
+    "views": "18",
+    "text": "欧盟委员会主席冯德莱恩：我们将在战后继续支持乌克兰。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626038"
+  },
+  {
     "post": "Financial_Express/3626036",
     "datetime": "2026-11-13T17:44:42+00:00",
-    "views": "4",
+    "views": "49",
     "text": "欧盟委员会主席冯德莱恩：计算领域至少需要 5000 亿欧元投资。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3626037",
     "datetime": "2026-11-13T17:44:42+00:00",
-    "views": "4",
+    "views": "48",
     "text": "欧盟委员会主席冯德莱恩：下一份欧洲预算将体现信息技术和人工智能雄心。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3626034",
     "datetime": "2026-11-13T17:44:03+00:00",
-    "views": "7",
+    "views": "50",
     "text": "美联储戴利：我们正在密切关注剔除住房后的服务业通胀，这一指标目前并未朝着正确方向发展。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3626035",
     "datetime": "2026-11-13T17:44:03+00:00",
-    "views": "7",
+    "views": "50",
     "text": "美联储戴利：我不会花太多时间关注经济预测摘要（SEP），因为它只反映某一时点的判断。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3626033",
     "datetime": "2026-11-13T17:44:02+00:00",
-    "views": "7",
+    "views": "49",
     "text": "美联储戴利：FOMC 必须保持透明、负责，并清晰地传达政策。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3626032",
     "datetime": "2026-11-13T17:43:42+00:00",
-    "views": "6",
+    "views": "46",
     "text": "美联储戴利：很难说当前货币政策的限制性已经足够。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3626031",
     "datetime": "2026-11-13T17:43:03+00:00",
-    "views": "7",
+    "views": "46",
     "text": "美联储戴利：多重冲击改变了潜在通胀率。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3626030",
     "datetime": "2026-11-13T17:43:02+00:00",
-    "views": "7",
+    "views": "46",
     "text": "美联储戴利：其他技术正在帮助企业以更少的员工完成更多工作。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3626029",
     "datetime": "2026-11-13T17:42:47+00:00",
-    "views": "35",
+    "views": "44",
     "text": "欧洲央行管委兼德国央行行长 Nagel：欧洲央行很可能需要再次加息，通胀前景已明显恶化。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3626028",
     "datetime": "2026-11-13T17:42:43+00:00",
-    "views": "35",
+    "views": "44",
     "text": "美联储戴利：目前几乎没有证据表明人工智能正在推动生产率提高。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3626027",
     "datetime": "2026-11-13T17:42:42+00:00",
-    "views": "35",
+    "views": "44",
     "text": "美联储戴利：就业增长具有广泛基础，制造业正在复苏。",
     "media_only": false,
     "image_url": null,
@@ -62656,23 +62737,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3619009"
-  },
-  {
-    "post": "Financial_Express/3619008",
-    "datetime": "2026-11-11T17:47:02+00:00",
-    "views": "80",
-    "text": "巴西央行行长：收益率曲线短端开始对汇率波动表现出更高的敏感性。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3619008"
-  },
-  {
-    "post": "Financial_Express/3619007",
-    "datetime": "2026-11-11T17:46:03+00:00",
-    "views": "76",
-    "text": "据深圳边检总站统计，新皇岗口岸开通以来，皇岗边检站累计查验经皇岗口岸出入境人员 344 万人次，日均 11.4 万人次，较 2025 年同期增长 120%，查验出入境车辆 28 万辆次。单日查验量连续三次突破历史纪录，其中，10 月 31 日单日客流达 16.1 万人次，创 2019 年以来最高纪录，口岸运行整体平稳有序。（央视）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3619007"
   }
 ]
