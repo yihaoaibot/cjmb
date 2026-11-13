@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3626006",
+    "datetime": "2026-11-13T17:23:02+00:00",
+    "views": "1",
+    "text": "报道：通用大模型已可操控机器人，OpenAI 解散独立机器人团队\nOpenAI 已经解散独立机器人团队，将该团队研究员调至公司其他部门。公司称此举是为加速机器人方向研发，并非放弃机器人赛道。OpenAI 希望依托通用人工智能模型来操控机器人，包括人形机器人。OpenAI 在被媒体求证时确认了这次组织调整。公司发言人表示，机器人仍是 OpenAI 长期愿景的核心，这次重组恰恰说明公司持续投入机器人方向，而非撤退。OpenAI 将机器人研究团队划入主研究团队，向首席研究官 Mark Chen 汇报；应用机器人与硬件团队则并入规模更大的应用业务线，向 OpenAI 总裁格雷格・布罗克曼汇报。公司发言人表示，尽管架构调整，OpenAI 仍致力于打造通用机器人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626006"
+  },
+  {
+    "post": "Financial_Express/3626005",
+    "datetime": "2026-11-13T17:21:42+00:00",
+    "views": "23",
+    "text": "美联储戴利：很难说政策已具有足够限制性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626005"
+  },
+  {
+    "post": "Financial_Express/3626004",
+    "datetime": "2026-11-13T17:21:22+00:00",
+    "views": "25",
+    "text": "美联储戴利：很可能需要加息。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626004"
+  },
+  {
+    "post": "Financial_Express/3626003",
+    "datetime": "2026-11-13T17:21:02+00:00",
+    "views": "29",
+    "text": "美联储戴利：市场理解美联储的反应机制。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3626003"
+  },
+  {
     "post": "Financial_Express/3626002",
     "datetime": "2026-11-13T17:20:22+00:00",
-    "views": "16",
+    "views": "39",
     "text": "Anthropic 首席执行官阿莫代伊：算力是最棘手的商业难题。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3626001",
     "datetime": "2026-11-13T17:19:43+00:00",
-    "views": "28",
+    "views": "48",
     "text": "美联储戴利：倾向认为需要加息。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3626000",
     "datetime": "2026-11-13T17:19:42+00:00",
-    "views": "28",
+    "views": "47",
     "text": "美联储戴利：多重冲击叠加改变了潜在通胀率。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3625999",
     "datetime": "2026-11-13T17:19:22+00:00",
-    "views": "32",
+    "views": "50",
     "text": "众议院民主党领袖杰弗里斯：将寻求禁止党派性不公正划分选区。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3625998",
     "datetime": "2026-11-13T17:19:02+00:00",
-    "views": "34",
+    "views": "51",
     "text": "美联储戴利：其他技术正被用于以更少的员工完成更多工作。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3625997",
     "datetime": "2026-11-13T17:18:42+00:00",
-    "views": "37",
+    "views": "54",
     "text": "众议院民主党领袖杰弗里斯：将大力调查与英伟达相关的“丑闻”。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3625996",
     "datetime": "2026-11-13T17:18:22+00:00",
-    "views": "38",
+    "views": "55",
     "text": "Anthropic 首席执行官阿莫代伊：不希望 AI 智能体失控。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3625995",
     "datetime": "2026-11-13T17:18:20+00:00",
-    "views": "38",
+    "views": "55",
     "text": "Anthropic 首席执行官阿莫代伊：我们对人工智能风险“非常偏执”。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3625994",
     "datetime": "2026-11-13T17:18:07+00:00",
-    "views": "40",
+    "views": "56",
     "text": "Cerebras 首席执行官：过去一年，Cerebras 在美国以外开展了多元化的数据中心项目。\n英伟达 CEO 黄仁勋离任后，英伟达有“足够多优秀人才”来“接棒”。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3625993",
     "datetime": "2026-11-13T17:17:02+00:00",
-    "views": "28",
+    "views": "44",
     "text": "Cerebras 首席执行官：过去一年，Cerebras 在美国以外开展了多元化的数据中心项目。黄仁勋离任后，英伟达有“足够多优秀人才”来“接棒”。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3625991",
     "datetime": "2026-11-13T17:16:24+00:00",
-    "views": "28",
+    "views": "41",
     "text": "美联储戴利：没有太多证据表明人工智能正在推高劳动生产率。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3625992",
     "datetime": "2026-11-13T17:16:24+00:00",
-    "views": "28",
+    "views": "41",
     "text": "美国旧金山联储主席戴利：几乎没有证据表明 AI 推高劳动生产力。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3625990",
     "datetime": "2026-11-13T17:16:22+00:00",
-    "views": "28",
+    "views": "40",
     "text": "美联储戴利：就业增长基础广泛，制造业正在复苏。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3625989",
     "datetime": "2026-11-13T17:14:52+00:00",
-    "views": "56",
+    "views": "67",
     "text": "美国旧金山联储主席戴利：美国经济的关键问题在于通胀。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3625988",
     "datetime": "2026-11-13T17:14:24+00:00",
-    "views": "55",
+    "views": "94",
     "text": "加拿大阿尔伯塔省能源部长布莱恩·让（Brian Jean）发言人表示，省政府致力于与土地所有者合作。\n政府将提出解决相关责任和废弃油井问题的立法，并正在制定一套评估企业财务生存能力的框架，以确保企业向土地所有者、市政税收部门及债权人支付款项。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3625987",
     "datetime": "2026-11-13T17:14:09+00:00",
-    "views": "52",
+    "views": "60",
     "text": "加拿大阿尔伯塔省地表权联合会主席比尔·海德克（Bill Heidecker）针对抵制石油开发的行为表示：“其中一些政客显然缺乏长远考虑。”（路透）",
     "media_only": false,
     "image_url": null,
@@ -62584,14 +62620,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3618982"
-  },
-  {
-    "post": "Financial_Express/3618981",
-    "datetime": "2026-11-11T17:21:42+00:00",
-    "views": "99",
-    "text": "瑞士法郎跌幅扩大，兑美元下跌 1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3618981"
   }
 ]
