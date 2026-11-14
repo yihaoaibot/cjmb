@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3627024",
     "datetime": "2026-11-14T14:43:23+00:00",
-    "views": "73",
+    "views": "103",
     "text": "马斯克：黄仁勋在英伟达对供应链的管理非常出色，但其中许多交易只是与黄仁勋握手达成的，并没有书面合同。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3627025",
     "datetime": "2026-11-14T14:43:23+00:00",
-    "views": "73",
+    "views": "103",
     "text": "马斯克谈黄仁勋：没有黄仁勋，至少部分关键交易将会流失。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3627022",
     "datetime": "2026-11-14T14:35:02+00:00",
-    "views": "135",
+    "views": "165",
     "text": "美联储柯林斯：通胀预期仍保持稳定。长期通胀预期可能继续保持稳定。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3627020",
     "datetime": "2026-11-14T14:34:23+00:00",
-    "views": "120",
+    "views": "180",
     "text": "美联储柯林斯：有充分理由在 10 月 FOMC 会议上维持利率不变。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3627021",
     "datetime": "2026-11-14T14:34:23+00:00",
-    "views": "120",
+    "views": "180",
     "text": "美联储柯林斯：金融状况可能超出预期地抑制经济。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3627019",
     "datetime": "2026-11-14T14:34:22+00:00",
-    "views": "120",
+    "views": "180",
     "text": "美联储柯林斯：就业市场处于“不寻常的稳定状态”；可能进一步增强。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3627018",
     "datetime": "2026-11-14T14:34:02+00:00",
-    "views": "124",
+    "views": "184",
     "text": "柯林斯：预计通胀将回落，而需求将继续保持。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +101,7 @@
   {
     "post": "Financial_Express/3627017",
     "datetime": "2026-11-14T14:33:43+00:00",
-    "views": "131",
+    "views": "161",
     "text": "柯林斯：整体薪资压力并未上升，也未出现扩大趋势。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +110,7 @@
   {
     "post": "Financial_Express/3627016",
     "datetime": "2026-11-14T14:33:42+00:00",
-    "views": "131",
+    "views": "161",
     "text": "美联储柯林斯：美联储必须将通胀降至 2%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +119,7 @@
   {
     "post": "Financial_Express/3627015",
     "datetime": "2026-11-14T14:33:23+00:00",
-    "views": "135",
+    "views": "165",
     "text": "柯林斯：货币政策方向明确。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +155,7 @@
   {
     "post": "Financial_Express/3627011",
     "datetime": "2026-11-14T14:33:02+00:00",
-    "views": "100",
+    "views": "131",
     "text": "美联储柯林斯：在双向风险并存的情况下，采取稳定、渐进的加息方式是合适的。鉴于通胀和就业数据，美联储可能需要将利率提高至近期预测水平之上。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +164,7 @@
   {
     "post": "Financial_Express/3627010",
     "datetime": "2026-11-14T14:32:05+00:00",
-    "views": "110",
+    "views": "111",
     "text": "美联储柯林斯：在 10 月 FOMC 会议上看到了维持利率不变的充分理由。",
     "media_only": false,
     "image_url": null,
@@ -173,7 +173,7 @@
   {
     "post": "Financial_Express/3627009",
     "datetime": "2026-11-14T14:32:04+00:00",
-    "views": "110",
+    "views": "111",
     "text": "美联储柯林斯：美联储将通胀率恢复至 2%至关重要。",
     "media_only": false,
     "image_url": null,
@@ -42928,122 +42928,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3622218"
-  },
-  {
-    "post": "Financial_Express/3622216",
-    "datetime": "2026-11-12T14:51:03+00:00",
-    "views": "62",
-    "text": "斯特兰蒂斯首席执行官：2027 年和 2028 年，原材料、存储芯片、印刷电路板和半导体将出现显著的通胀。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622216"
-  },
-  {
-    "post": "Financial_Express/3622217",
-    "datetime": "2026-11-12T14:51:03+00:00",
-    "views": "122",
-    "text": "OpenAI 以 1.25 万亿美元的估值完成 150 亿美元融资。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622217"
-  },
-  {
-    "post": "Financial_Express/3622215",
-    "datetime": "2026-11-12T14:51:02+00:00",
-    "views": "62",
-    "text": "墨西哥总统辛鲍姆表示，她可能在二十国集团峰会期间于海湖庄园与美国总统特朗普会面。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622215"
-  },
-  {
-    "post": "Financial_Express/3622214",
-    "datetime": "2026-11-12T14:50:22+00:00",
-    "views": "63",
-    "text": "Stellantis(STLA.N)首席执行官：预计明年原材料成本将上升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622214"
-  },
-  {
-    "post": "Financial_Express/3622213",
-    "datetime": "2026-11-12T14:50:02+00:00",
-    "views": "96",
-    "text": "Stellantis(STLA.N)首席执行官：芯片短缺将在 2027 年造成“数十亿”损失。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622213"
-  },
-  {
-    "post": "Financial_Express/3622212",
-    "datetime": "2026-11-12T14:49:44+00:00",
-    "views": "97",
-    "text": "标准普尔 500 指数下跌 0.29%，道琼斯指数上涨 0.07%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622212"
-  },
-  {
-    "post": "Financial_Express/3622209",
-    "datetime": "2026-11-12T14:49:43+00:00",
-    "views": "97",
-    "text": "据 Punchbowl：美国众议院委员会正就黄仁勋下周前来作证进行协商。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622209"
-  },
-  {
-    "post": "Financial_Express/3622210",
-    "datetime": "2026-11-12T14:49:43+00:00",
-    "views": "97",
-    "text": "纳斯达克综合指数缩减跌幅，最新下跌 0.49%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622210"
-  },
-  {
-    "post": "Financial_Express/3622211",
-    "datetime": "2026-11-12T14:49:43+00:00",
-    "views": "97",
-    "text": "Stellantis 首席执行官预计明年原材料成本将上升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622211"
-  },
-  {
-    "post": "Financial_Express/3622206",
-    "datetime": "2026-11-12T14:49:23+00:00",
-    "views": "68",
-    "text": "美国众议院委员会正与黄仁勋协商，安排其下周到场。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622206"
-  },
-  {
-    "post": "Financial_Express/3622207",
-    "datetime": "2026-11-12T14:49:23+00:00",
-    "views": "68",
-    "text": "Stellantis 首席执行官表示，芯片短缺将在 2027 年造成“数十亿”损失。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622207"
-  },
-  {
-    "post": "Financial_Express/3622208",
-    "datetime": "2026-11-12T14:49:23+00:00",
-    "views": "68",
-    "text": "墨西哥总统辛鲍姆表示，亚太经合组织峰会上没有与特朗普举行双边会晤的计划。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622208"
-  },
-  {
-    "post": "Financial_Express/3622205",
-    "datetime": "2026-11-12T14:49:22+00:00",
-    "views": "68",
-    "text": "墨西哥总统辛鲍姆：亚太经合组织峰会期间没有与美国总统特朗普举行双边会晤的计划。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622205"
   }
 ]
