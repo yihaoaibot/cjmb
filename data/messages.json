@@ -56,7 +56,7 @@
   {
     "post": "Financial_Express/3627220",
     "datetime": "2026-11-14T21:21:43+00:00",
-    "views": "37",
+    "views": "67",
     "text": "SpaceX 的星舰飞船在完成 22 小时轨道飞行后，首次返回德克萨斯州发射塔，这是火箭可重复使用性的关键节点。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +65,7 @@
   {
     "post": "Financial_Express/3627219",
     "datetime": "2026-11-14T21:21:42+00:00",
-    "views": "37",
+    "views": "67",
     "text": "SpaceX(SPCX.O)星舰在完成 22 小时轨道飞行后，首次返回美国得克萨斯州的发射塔。这是火箭可重复使用技术取得的一项重要里程碑。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +74,7 @@
   {
     "post": "Financial_Express/3627218",
     "datetime": "2026-11-14T21:21:22+00:00",
-    "views": "37",
+    "views": "97",
     "text": "SpaceX 在得克萨斯州发射场以新型着陆方式捕获星舰。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +83,7 @@
   {
     "post": "Financial_Express/3627217",
     "datetime": "2026-11-14T21:19:42+00:00",
-    "views": "39",
+    "views": "99",
     "text": "SpaceX：星舰正在进行侧倾机动，进入最终进近阶段，返回星基地准备接受捕获。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3627216",
     "datetime": "2026-11-14T21:19:02+00:00",
-    "views": "70",
+    "views": "100",
     "text": "SpaceX(SPCX.O)：星舰正在执行倾斜转向机动，并进行最后进近，准备返回星际基地（Starbase），以完成机械臂捕获回收。",
     "media_only": false,
     "image_url": null,
@@ -37762,14 +37762,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3622993"
-  },
-  {
-    "post": "Financial_Express/3622992",
-    "datetime": "2026-11-12T21:34:25+00:00",
-    "views": "83",
-    "text": "在经历了一年的剧烈波动后，日元在过去几个月出人意料地稳定在 1 美元兑 158 日元附近的窄幅区间内。但在周三，它再次突破区间，意外走弱、周四跌穿 160 日元。这一突然的走势凸显出日元已变得多么难以交易。利率差等传统信号已不再可靠，而日本央行收紧政策、持续的资本外流以及史无前例的干预措施，正将日元拉向相互竞争的方向。其影响远不止于日本。\n日元是全球交易量最大的货币之一，每日交易额约达 1.6 万亿美元。其走势可能决定全球投资者的盈亏，而其长期轨迹对从日本通胀到该国巨额储蓄流向海外市场等方方面面都有影响。（彭博）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3622992"
   }
 ]
