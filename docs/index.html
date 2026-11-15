@@ -1,29 +1,121 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-15T15:13:04.020745+00:00","clsvipUpdated":"2026-11-15T15:13:14.131941+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月15日</h2><div class="feed"><article class="item" data-search="俄罗斯国防部：俄武装力量打击了扎波罗热的一处物流中心，该中心被乌克兰武装力量用于储存军用物资。"><div class="time">23:12</div><div class="content"><div class="text" data-full="俄罗斯国防部：俄武装力量打击了扎波罗热的一处物流中心，该中心被乌克兰武装力量用于储存军用物资。" data-short="俄罗斯国防部：俄武装力量打击了扎波罗热的一处物流中心，该中心被乌克兰武装力量用于储存军用物资。">俄罗斯国防部：俄武装力量打击了扎波罗热的一处物流中心，该中心被乌克兰武装力量用于储存军用物资。</div></div></article><article class="item" data-search="美国财长贝森特：英伟达董事会及外部律师须在“未来 10 天内”就公司出口限制合规文化作出回应。"><div class="time">23:11</div><div class="content"><div class="text" data-full="美国财长贝森特：英伟达董事会及外部律师须在“未来 10 天内”就公司出口限制合规文化作出回应。" data-short="美国财长贝森特：英伟达董事会及外部律师须在“未来 10 天内”就公司出口限制合规文化作出回应。">美国财长贝森特：英伟达董事会及外部律师须在“未来 10 天内”就公司出口限制合规文化作出回应。</div></div></article><article class="item" data-search="美国财长贝森特重申，商务部对芯片出口管制握有决定权。"><div class="time">23:11</div><div class="content"><div class="text" data-full="美国财长贝森特重申，商务部对芯片出口管制握有决定权。" data-short="美国财长贝森特重申，商务部对芯片出口管制握有决定权。">美国财长贝森特重申，商务部对芯片出口管制握有决定权。</div></div></article><article class="item" data-search="以色列国防军发言人：在马杰达尔祖恩村行动期间，部队与亚哈隆部队合作，摧毁了一条长约 35 米的地下隧道，隧道内设有两处生活区。"><div class="time">23:10</div><div class="content"><div class="text" data-full="以色列国防军发言人：在马杰达尔祖恩村行动期间，部队与亚哈隆部队合作，摧毁了一条长约 35 米的地下隧道，隧道内设有两处生活区。" data-short="以色列国防军发言人：在马杰达尔祖恩村行动期间，部队与亚哈隆部队合作，摧毁了一条长约 35 米的地下隧道，隧道内设有两处生活区。">以色列国防军发言人：在马杰达尔祖恩村行动期间，部队与亚哈隆部队合作，摧毁了一条长约 35 米的地下隧道，隧道内设有两处生活区。</div></div></article><article class="item" data-search="美国财长贝森特：上级与下属建立恋爱关系是企业大忌。"><div class="time">23:09</div><div class="content"><div class="text" data-full="美国财长贝森特：上级与下属建立恋爱关系是企业大忌。" data-short="美国财长贝森特：上级与下属建立恋爱关系是企业大忌。">美国财长贝森特：上级与下属建立恋爱关系是企业大忌。</div></div></article><article class="item" data-search="美国财政部长贝森特：英伟达应当寻找外部人士来担任其新 ceo。
-需要对其领导层进行“彻底改组”。（福克斯新闻）"><div class="time">23:07</div><div class="content"><div class="text" data-full="美国财政部长贝森特：英伟达应当寻找外部人士来担任其新 CEO。
-需要对其领导层进行“彻底改组”。（福克斯新闻）" data-short="美国财政部长贝森特：英伟达应当寻找外部人士来担任其新 CEO。
-需要对其领导层进行“彻底改组”。（福克斯新闻）">美国财政部长贝森特：英伟达应当寻找外部人士来担任其新 CEO。
-需要对其领导层进行“彻底改组”。（福克斯新闻）</div></div></article><article class="item" data-search="美国财长贝森特：英伟达应该从外部寻找新的领导人。"><div class="time">23:07</div><div class="content"><div class="text" data-full="美国财长贝森特：英伟达应该从外部寻找新的领导人。" data-short="美国财长贝森特：英伟达应该从外部寻找新的领导人。">美国财长贝森特：英伟达应该从外部寻找新的领导人。</div></div></article><article class="item" data-search="美国财长贝森特：英伟达领导层需要“大幅调整”。"><div class="time">23:07</div><div class="content"><div class="text" data-full="美国财长贝森特：英伟达领导层需要“大幅调整”。" data-short="美国财长贝森特：英伟达领导层需要“大幅调整”。">美国财长贝森特：英伟达领导层需要“大幅调整”。</div></div></article><article class="item" data-search="美国财长贝森特：我们将观察英伟达是否故意无视了警示信号。"><div class="time">23:07</div><div class="content"><div class="text" data-full="美国财长贝森特：我们将观察英伟达是否故意无视了警示信号。" data-short="美国财长贝森特：我们将观察英伟达是否故意无视了警示信号。">美国财长贝森特：我们将观察英伟达是否故意无视了警示信号。</div></div></article><article class="item" data-search="美国财长贝森特质疑英伟达的“不合规文化”。"><div class="time">23:06</div><div class="content"><div class="text" data-full="美国财长贝森特质疑英伟达的“不合规文化”。" data-short="美国财长贝森特质疑英伟达的“不合规文化”。">美国财长贝森特质疑英伟达的“不合规文化”。</div></div></article><article class="item" data-search="美国财长贝森特：审查英伟达是否遵守出口限制至关重要。"><div class="time">23:06</div><div class="content"><div class="text" data-full="美国财长贝森特：审查英伟达是否遵守出口限制至关重要。" data-short="美国财长贝森特：审查英伟达是否遵守出口限制至关重要。">美国财长贝森特：审查英伟达是否遵守出口限制至关重要。</div></div></article><article class="item" data-search="美国财政部长贝森特：检查英伟达对（芯片）出口管制措施的合规情况具有重要意义。
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-15T15:15:04.392196+00:00","clsvipUpdated":"2026-11-15T15:15:14.902679+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月15日</h2><div class="feed"><article class="item" data-search="美国财长贝森特：黄仁勋是了不起的创新者，英伟达非常出色。
+👍1"><div class="time">23:13</div><div class="content"><div class="text" data-full="美国财长贝森特：黄仁勋是了不起的创新者，英伟达非常出色。
+👍1" data-short="美国财长贝森特：黄仁勋是了不起的创新者，英伟达非常出色。
+👍1">美国财长贝森特：黄仁勋是了不起的创新者，英伟达非常出色。
+👍1</div></div></article><article class="item" data-search="美国财长贝森特：报告显示，在新加坡销售的芯片中仅有 1%留在当地。
+👍1"><div class="time">23:12</div><div class="content"><div class="text" data-full="美国财长贝森特：报告显示，在新加坡销售的芯片中仅有 1%留在当地。
+👍1" data-short="美国财长贝森特：报告显示，在新加坡销售的芯片中仅有 1%留在当地。
+👍1">美国财长贝森特：报告显示，在新加坡销售的芯片中仅有 1%留在当地。
+👍1</div></div></article><article class="item" data-search="俄罗斯国防部：俄武装力量打击了扎波罗热的一处物流中心，该中心被乌克兰武装力量用于储存军用物资。
+👍1"><div class="time">23:12</div><div class="content"><div class="text" data-full="俄罗斯国防部：俄武装力量打击了扎波罗热的一处物流中心，该中心被乌克兰武装力量用于储存军用物资。
+👍1" data-short="俄罗斯国防部：俄武装力量打击了扎波罗热的一处物流中心，该中心被乌克兰武装力量用于储存军用物资。
+👍1">俄罗斯国防部：俄武装力量打击了扎波罗热的一处物流中心，该中心被乌克兰武装力量用于储存军用物资。
+👍1</div></div></article><article class="item" data-search="美国财长贝森特：英伟达董事会及外部律师须在“未来 10 天内”就公司出口限制合规文化作出回应。
+👍1"><div class="time">23:11</div><div class="content"><div class="text" data-full="美国财长贝森特：英伟达董事会及外部律师须在“未来 10 天内”就公司出口限制合规文化作出回应。
+👍1" data-short="美国财长贝森特：英伟达董事会及外部律师须在“未来 10 天内”就公司出口限制合规文化作出回应。
+👍1">美国财长贝森特：英伟达董事会及外部律师须在“未来 10 天内”就公司出口限制合规文化作出回应。
+👍1</div></div></article><article class="item" data-search="美国财长贝森特重申，商务部对芯片出口管制握有决定权。
+👍1"><div class="time">23:11</div><div class="content"><div class="text" data-full="美国财长贝森特重申，商务部对芯片出口管制握有决定权。
+👍1" data-short="美国财长贝森特重申，商务部对芯片出口管制握有决定权。
+👍1">美国财长贝森特重申，商务部对芯片出口管制握有决定权。
+👍1</div></div></article><article class="item" data-search="以色列国防军发言人：在马杰达尔祖恩村行动期间，部队与亚哈隆部队合作，摧毁了一条长约 35 米的地下隧道，隧道内设有两处生活区。
+👍1"><div class="time">23:10</div><div class="content"><div class="text" data-full="以色列国防军发言人：在马杰达尔祖恩村行动期间，部队与亚哈隆部队合作，摧毁了一条长约 35 米的地下隧道，隧道内设有两处生活区。
+👍1" data-short="以色列国防军发言人：在马杰达尔祖恩村行动期间，部队与亚哈隆部队合作，摧毁了一条长约 35 米的地下隧道，隧道内设有两处生活区。
+👍1">以色列国防军发言人：在马杰达尔祖恩村行动期间，部队与亚哈隆部队合作，摧毁了一条长约 35 米的地下隧道，隧道内设有两处生活区。
+👍1</div></div></article><article class="item" data-search="美国财长贝森特：上级与下属建立恋爱关系是企业大忌。
+👍1"><div class="time">23:09</div><div class="content"><div class="text" data-full="美国财长贝森特：上级与下属建立恋爱关系是企业大忌。
+👍1" data-short="美国财长贝森特：上级与下属建立恋爱关系是企业大忌。
+👍1">美国财长贝森特：上级与下属建立恋爱关系是企业大忌。
+👍1</div></div></article><article class="item" data-search="美国财政部长贝森特：英伟达应当寻找外部人士来担任其新 ceo。
+需要对其领导层进行“彻底改组”。
+（被罢免的）黄仁勋是了不起的创新者，英伟达非常出色。
+上级与下属建立恋爱关系是企业大忌。（福克斯新闻）
+👍1"><div class="time">23:07</div><div class="content"><div class="text" data-full="美国财政部长贝森特：英伟达应当寻找外部人士来担任其新 CEO。
+需要对其领导层进行“彻底改组”。
+（被罢免的）黄仁勋是了不起的创新者，英伟达非常出色。
+上级与下属建立恋爱关系是企业大忌。（福克斯新闻）
+👍1" data-short="美国财政部长贝森特：英伟达应当寻找外部人士来担任其新 CEO。
+需要对其领导层进行“彻底改组”。
+（被罢免的）黄仁勋是了不起的创新者，英伟达非常出色。
+上级与下属建立恋爱关系是企业大忌。（福克斯新闻）
+👍1">美国财政部长贝森特：英伟达应当寻找外部人士来担任其新 CEO。
+需要对其领导层进行“彻底改组”。
+（被罢免的）黄仁勋是了不起的创新者，英伟达非常出色。
+上级与下属建立恋爱关系是企业大忌。（福克斯新闻）
+👍1</div></div></article><article class="item" data-search="美国财长贝森特：英伟达应该从外部寻找新的领导人。
+👍1"><div class="time">23:07</div><div class="content"><div class="text" data-full="美国财长贝森特：英伟达应该从外部寻找新的领导人。
+👍1" data-short="美国财长贝森特：英伟达应该从外部寻找新的领导人。
+👍1">美国财长贝森特：英伟达应该从外部寻找新的领导人。
+👍1</div></div></article><article class="item" data-search="美国财长贝森特：英伟达领导层需要“大幅调整”。
+👍1"><div class="time">23:07</div><div class="content"><div class="text" data-full="美国财长贝森特：英伟达领导层需要“大幅调整”。
+👍1" data-short="美国财长贝森特：英伟达领导层需要“大幅调整”。
+👍1">美国财长贝森特：英伟达领导层需要“大幅调整”。
+👍1</div></div></article><article class="item" data-search="美国财长贝森特：我们将观察英伟达是否故意无视了警示信号。
+👍1"><div class="time">23:07</div><div class="content"><div class="text" data-full="美国财长贝森特：我们将观察英伟达是否故意无视了警示信号。
+👍1" data-short="美国财长贝森特：我们将观察英伟达是否故意无视了警示信号。
+👍1">美国财长贝森特：我们将观察英伟达是否故意无视了警示信号。
+👍1</div></div></article><article class="item" data-search="美国财长贝森特质疑英伟达的“不合规文化”。
+👍1"><div class="time">23:06</div><div class="content"><div class="text" data-full="美国财长贝森特质疑英伟达的“不合规文化”。
+👍1" data-short="美国财长贝森特质疑英伟达的“不合规文化”。
+👍1">美国财长贝森特质疑英伟达的“不合规文化”。
+👍1</div></div></article><article class="item" data-search="美国财长贝森特：审查英伟达是否遵守出口限制至关重要。
+👍1"><div class="time">23:06</div><div class="content"><div class="text" data-full="美国财长贝森特：审查英伟达是否遵守出口限制至关重要。
+👍1" data-short="美国财长贝森特：审查英伟达是否遵守出口限制至关重要。
+👍1">美国财长贝森特：审查英伟达是否遵守出口限制至关重要。
+👍1</div></div></article><article class="item" data-search="美国财政部长贝森特：检查英伟达对（芯片）出口管制措施的合规情况具有重要意义。
 将看看英伟达是否故意无视那些警告信号。
-质疑英伟达的“不合规文化”。（福克斯新闻）"><div class="time">23:05</div><div class="content"><div class="text" data-full="美国财政部长贝森特：检查英伟达对（芯片）出口管制措施的合规情况具有重要意义。
+质疑英伟达的“不合规文化”。
+重申商务部对芯片出口管制握有决定权。（福克斯新闻）
+👍1"><div class="time">23:05</div><div class="content"><div class="text" data-full="美国财政部长贝森特：检查英伟达对（芯片）出口管制措施的合规情况具有重要意义。
 将看看英伟达是否故意无视那些警告信号。
-质疑英伟达的“不合规文化”。（福克斯新闻）" data-short="美国财政部长贝森特：检查英伟达对（芯片）出口管制措施的合规情况具有重要意义。
+质疑英伟达的“不合规文化”。
+重申商务部对芯片出口管制握有决定权。（福克斯新闻）
+👍1" data-short="美国财政部长贝森特：检查英伟达对（芯片）出口管制措施的合规情况具有重要意义。
 将看看英伟达是否故意无视那些警告信号。
-质疑英伟达的“不合规文化”。（福克斯新闻）">美国财政部长贝森特：检查英伟达对（芯片）出口管制措施的合规情况具有重要意义。
+质疑英伟达的“不合规文化”。
+重申商务部对芯片出口管制握有决定权。（福克斯新闻）
+👍1">美国财政部长贝森特：检查英伟达对（芯片）出口管制措施的合规情况具有重要意义。
 将看看英伟达是否故意无视那些警告信号。
-质疑英伟达的“不合规文化”。（福克斯新闻）</div></div></article><article class="item" data-search="11 月 13 日，360 创始人周鸿祎发布视频，谈及黄仁勋卸任英伟达 ceo 对中国 ai 产业的影响。他表示，黄仁勋离职后，真正值得关注的不是其个人去留，而是美国未来将如何对待中国 ai 产业。（新浪）"><div class="time">23:03</div><div class="content"><div class="text" data-full="11 月 13 日，360 创始人周鸿祎发布视频，谈及黄仁勋卸任英伟达 CEO 对中国 AI 产业的影响。他表示，黄仁勋离职后，真正值得关注的不是其个人去留，而是美国未来将如何对待中国 AI 产业。（新浪）" data-short="11 月 13 日，360 创始人周鸿祎发布视频，谈及黄仁勋卸任英伟达 CEO 对中国 AI 产业的影响。他表示，黄仁勋离职后，真正值得关注的不是其个人去留，而是美国未来将如何对待中国 AI 产业。（新浪）">11 月 13 日，360 创始人周鸿祎发布视频，谈及黄仁勋卸任英伟达 CEO 对中国 AI 产业的影响。他表示，黄仁勋离职后，真正值得关注的不是其个人去留，而是美国未来将如何对待中国 AI 产业。（新浪）</div></div></article><article class="item" data-search="秘鲁政府：秘鲁 9 月 gdp 同比增长 2.43%。"><div class="time">23:03</div><div class="content"><div class="text" data-full="秘鲁政府：秘鲁 9 月 GDP 同比增长 2.43%。" data-short="秘鲁政府：秘鲁 9 月 GDP 同比增长 2.43%。">秘鲁政府：秘鲁 9 月 GDP 同比增长 2.43%。</div></div></article><article class="item" data-search="爱沙尼亚外长：关闭边境是因为有明确证据表明，俄罗斯军事情报机构格鲁乌下令对一家爱沙尼亚国防工业公司发动破坏袭击。"><div class="time">23:03</div><div class="content"><div class="text" data-full="爱沙尼亚外长：关闭边境是因为有明确证据表明，俄罗斯军事情报机构格鲁乌下令对一家爱沙尼亚国防工业公司发动破坏袭击。" data-short="爱沙尼亚外长：关闭边境是因为有明确证据表明，俄罗斯军事情报机构格鲁乌下令对一家爱沙尼亚国防工业公司发动破坏袭击。">爱沙尼亚外长：关闭边境是因为有明确证据表明，俄罗斯军事情报机构格鲁乌下令对一家爱沙尼亚国防工业公司发动破坏袭击。</div></div></article><article class="item" data-search="美国证券交易委员会（sec）提议要求上市公司仅披露两名最高高管的薪酬细节，低于现行规则下的五名。
+质疑英伟达的“不合规文化”。
+重申商务部对芯片出口管制握有决定权。（福克斯新闻）
+👍1</div></div></article><article class="item" data-search="11 月 13 日，360 创始人周鸿祎发布视频，谈及黄仁勋卸任英伟达 ceo 对中国 ai 产业的影响。他表示，黄仁勋离职后，真正值得关注的不是其个人去留，而是美国未来将如何对待中国 ai 产业。（新浪）
+👍1"><div class="time">23:03</div><div class="content"><div class="text" data-full="11 月 13 日，360 创始人周鸿祎发布视频，谈及黄仁勋卸任英伟达 CEO 对中国 AI 产业的影响。他表示，黄仁勋离职后，真正值得关注的不是其个人去留，而是美国未来将如何对待中国 AI 产业。（新浪）
+👍1" data-short="11 月 13 日，360 创始人周鸿祎发布视频，谈及黄仁勋卸任英伟达 CEO 对中国 AI 产业的影响。他表示，黄仁勋离职后，真正值得关注的不是其个人去留，而是美国未来将如何对待中国 AI 产业。（新浪）
+👍1">11 月 13 日，360 创始人周鸿祎发布视频，谈及黄仁勋卸任英伟达 CEO 对中国 AI 产业的影响。他表示，黄仁勋离职后，真正值得关注的不是其个人去留，而是美国未来将如何对待中国 AI 产业。（新浪）
+👍1</div></div></article><article class="item" data-search="秘鲁政府：秘鲁 9 月 gdp 同比增长 2.43%。
+👍1"><div class="time">23:03</div><div class="content"><div class="text" data-full="秘鲁政府：秘鲁 9 月 GDP 同比增长 2.43%。
+👍1" data-short="秘鲁政府：秘鲁 9 月 GDP 同比增长 2.43%。
+👍1">秘鲁政府：秘鲁 9 月 GDP 同比增长 2.43%。
+👍1</div></div></article><article class="item" data-search="爱沙尼亚外长：关闭边境是因为有明确证据表明，俄罗斯军事情报机构格鲁乌下令对一家爱沙尼亚国防工业公司发动破坏袭击。
+👍1"><div class="time">23:03</div><div class="content"><div class="text" data-full="爱沙尼亚外长：关闭边境是因为有明确证据表明，俄罗斯军事情报机构格鲁乌下令对一家爱沙尼亚国防工业公司发动破坏袭击。
+👍1" data-short="爱沙尼亚外长：关闭边境是因为有明确证据表明，俄罗斯军事情报机构格鲁乌下令对一家爱沙尼亚国防工业公司发动破坏袭击。
+👍1">爱沙尼亚外长：关闭边境是因为有明确证据表明，俄罗斯军事情报机构格鲁乌下令对一家爱沙尼亚国防工业公司发动破坏袭击。
+👍1</div></div></article><article class="item" data-search="美国证券交易委员会（sec）提议要求上市公司仅披露两名最高高管的薪酬细节，低于现行规则下的五名。
 该提案将报告高管福利的门槛从目前的 1 万美元大幅提高至 15 万美元，并由企业自行决定安保费用是否应算作福利。
-sec 旨在减轻企业的合规负担，并将重点放在“理性投资者”所需的信息上，但部分投资者可能会对可获取信息的减少提出反对。"><div class="time">23:03</div><div class="content"><div class="text" data-full="美国证券交易委员会（SEC）提议要求上市公司仅披露两名最高高管的薪酬细节，低于现行规则下的五名。
+sec 旨在减轻企业的合规负担，并将重点放在“理性投资者”所需的信息上，但部分投资者可能会对可获取信息的减少提出反对。
+👍1"><div class="time">23:03</div><div class="content"><div class="text" data-full="美国证券交易委员会（SEC）提议要求上市公司仅披露两名最高高管的薪酬细节，低于现行规则下的五名。
 该提案将报告高管福利的门槛从目前的 1 万美元大幅提高至 15 万美元，并由企业自行决定安保费用是否应算作福利。
-SEC 旨在减轻企业的合规负担，并将重点放在“理性投资者”所需的信息上，但部分投资者可能会对可获取信息的减少提出反对。" data-short="美国证券交易委员会（SEC）提议要求上市公司仅披露两名最高高管的薪酬细节，低于现行规则下的五名。
+SEC 旨在减轻企业的合规负担，并将重点放在“理性投资者”所需的信息上，但部分投资者可能会对可获取信息的减少提出反对。
+👍1" data-short="美国证券交易委员会（SEC）提议要求上市公司仅披露两名最高高管的薪酬细节，低于现行规则下的五名。
 该提案将报告高管福利的门槛从目前的 1 万美元大幅提高至 15 万美元，并由企业自行决定安保费用是否应算作福利。
-SEC 旨在减轻企业的合规负担，并将重点放在“理性投资者”所需的信息上，但部分投资者可能会对可获取信息的减少提出反对。">美国证券交易委员会（SEC）提议要求上市公司仅披露两名最高高管的薪酬细节，低于现行规则下的五名。
+SEC 旨在减轻企业的合规负担，并将重点放在“理性投资者”所需的信息上，但部分投资者可能会对可获取信息的减少提出反对。
+👍1">美国证券交易委员会（SEC）提议要求上市公司仅披露两名最高高管的薪酬细节，低于现行规则下的五名。
 该提案将报告高管福利的门槛从目前的 1 万美元大幅提高至 15 万美元，并由企业自行决定安保费用是否应算作福利。
-SEC 旨在减轻企业的合规负担，并将重点放在“理性投资者”所需的信息上，但部分投资者可能会对可获取信息的减少提出反对。</div></div></article><article class="item" data-search="air space intelligence：此次停飞并非基于 smart 系统，也不是该系统所至。
-此次停飞并非我们与美国联邦航空管理局（faa）、空中交通控制（atc）的融合所至。"><div class="time">23:02</div><div class="content"><div class="text" data-full="Air Space Intelligence：此次停飞并非基于 SMART 系统，也不是该系统所至。
-此次停飞并非我们与美国联邦航空管理局（FAA）、空中交通控制（ATC）的融合所至。" data-short="Air Space Intelligence：此次停飞并非基于 SMART 系统，也不是该系统所至。
-此次停飞并非我们与美国联邦航空管理局（FAA）、空中交通控制（ATC）的融合所至。">Air Space Intelligence：此次停飞并非基于 SMART 系统，也不是该系统所至。
-此次停飞并非我们与美国联邦航空管理局（FAA）、空中交通控制（ATC）的融合所至。</div></div></article><article class="item" data-search="爱沙尼亚外交部长：因有明确证据表明俄罗斯军事情报机构下令对国防企业实施破坏活动而关闭边境。"><div class="time">23:02</div><div class="content"><div class="text" data-full="爱沙尼亚外交部长：因有明确证据表明俄罗斯军事情报机构下令对国防企业实施破坏活动而关闭边境。" data-short="爱沙尼亚外交部长：因有明确证据表明俄罗斯军事情报机构下令对国防企业实施破坏活动而关闭边境。">爱沙尼亚外交部长：因有明确证据表明俄罗斯军事情报机构下令对国防企业实施破坏活动而关闭边境。</div></div></article><article class="item" data-search="爱沙尼亚外交部长：自 12 月 1 日起将关闭所有爱沙尼亚-俄罗斯边境过境点。"><div class="time">23:00</div><div class="content"><div class="text" data-full="爱沙尼亚外交部长：自 12 月 1 日起将关闭所有爱沙尼亚-俄罗斯边境过境点。" data-short="爱沙尼亚外交部长：自 12 月 1 日起将关闭所有爱沙尼亚-俄罗斯边境过境点。">爱沙尼亚外交部长：自 12 月 1 日起将关闭所有爱沙尼亚-俄罗斯边境过境点。</div></div></article><article class="item" data-search="周五（11 月 13 日）纽约尾盘，美国 10 年期基准国债收益率涨 0.81 个基点，报 5.1352%，本周累计上涨 27.78 个基点，整体持续走高，交投于 4.8287%-5.1718%区间。
+SEC 旨在减轻企业的合规负担，并将重点放在“理性投资者”所需的信息上，但部分投资者可能会对可获取信息的减少提出反对。
+👍1</div></div></article><article class="item" data-search="air space intelligence：此次停飞并非基于 smart 系统，也不是该系统所至。
+此次停飞并非我们与美国联邦航空管理局（faa）、空中交通控制（atc）的融合所至。
+👍1"><div class="time">23:02</div><div class="content"><div class="text" data-full="Air Space Intelligence：此次停飞并非基于 SMART 系统，也不是该系统所至。
+此次停飞并非我们与美国联邦航空管理局（FAA）、空中交通控制（ATC）的融合所至。
+👍1" data-short="Air Space Intelligence：此次停飞并非基于 SMART 系统，也不是该系统所至。
+此次停飞并非我们与美国联邦航空管理局（FAA）、空中交通控制（ATC）的融合所至。
+👍1">Air Space Intelligence：此次停飞并非基于 SMART 系统，也不是该系统所至。
+此次停飞并非我们与美国联邦航空管理局（FAA）、空中交通控制（ATC）的融合所至。
+👍1</div></div></article><article class="item" data-search="爱沙尼亚外交部长：因有明确证据表明俄罗斯军事情报机构下令对国防企业实施破坏活动而关闭边境。
+👍1"><div class="time">23:02</div><div class="content"><div class="text" data-full="爱沙尼亚外交部长：因有明确证据表明俄罗斯军事情报机构下令对国防企业实施破坏活动而关闭边境。
+👍1" data-short="爱沙尼亚外交部长：因有明确证据表明俄罗斯军事情报机构下令对国防企业实施破坏活动而关闭边境。
+👍1">爱沙尼亚外交部长：因有明确证据表明俄罗斯军事情报机构下令对国防企业实施破坏活动而关闭边境。
+👍1</div></div></article><article class="item" data-search="爱沙尼亚外交部长：自 12 月 1 日起将关闭所有爱沙尼亚-俄罗斯边境过境点。"><div class="time">23:00</div><div class="content"><div class="text" data-full="爱沙尼亚外交部长：自 12 月 1 日起将关闭所有爱沙尼亚-俄罗斯边境过境点。" data-short="爱沙尼亚外交部长：自 12 月 1 日起将关闭所有爱沙尼亚-俄罗斯边境过境点。">爱沙尼亚外交部长：自 12 月 1 日起将关闭所有爱沙尼亚-俄罗斯边境过境点。</div></div></article><article class="item" data-search="周五（11 月 13 日）纽约尾盘，美国 10 年期基准国债收益率涨 0.81 个基点，报 5.1352%，本周累计上涨 27.78 个基点，整体持续走高，交投于 4.8287%-5.1718%区间。
 两年期美债收益率跌 3.95 个基点，报 4.8419%，本周累涨 33.04 个基点，交投于 4.5009%-4.8886%区间。
 本周，20 年期美债收益率累涨 21.77 个基点，报 5.5129%；30 年期美债收益率累涨 20.10 个基点，报 5.4655%。
 三年期美债收益率累涨 32.28 个基点，五年期美债收益率涨 31.67 个基点，七年期美债收益率涨 30.07 个基点。
@@ -835,11 +927,7 @@ Valor 已跻身顶级风险投资机构行列。站在这一新高度上，该�
 为期两周的《联合国气候变化框架公约》（以下简称《公约》）第三十一次缔约方大会（cop31）正在土耳其安塔利亚举行。《公约》秘书处执行秘书西蒙·斯蒂尔 14 日表示，本次大会已过半程，各方应迅速聚焦核心难点议题，加快谈判进程。斯蒂尔在当天举行的新闻发布会上说，cop31 是有史以来规模最大的缔约方大会之一。来自各国政府、国际机构、企业以及民间的代表齐聚安塔利亚，多国领导人重申对气候行动和联合国气候谈判进程的承诺。本次大会计划持续至 20 日。随着大会即将进入第二周，斯蒂尔敦促各方迅速聚焦最棘手议题，避免拖延。他强调，应对气候危机没有速效良方，没有哪次缔约方大会能够一劳永逸化解气候危机，但每一次大会都应有所进展。(新华社)"><div class="time">11:15</div><div class="content"><div class="text" data-full="联合国气候机构负责人敦促加快谈判进程
 为期两周的《联合国气候变化框架公约》（以下简称《公约》）第三十一次缔约方大会（COP31）正在土耳其安塔利亚举行。《公约》秘书处执行秘书西蒙·斯蒂尔 14 日表示，本次大会已过半程，各方应迅速聚焦核心难点议题，加快谈判进程。斯蒂尔在当天举行的新闻发布会上说，COP31 是有史以来规模最大的缔约方大会之一。来自各国政府、国际机构、企业以及民间的代表齐聚安塔利亚，多国领导人重申对气候行动和联合国气候谈判进程的承诺。本次大会计划持续至 20 日。随着大会即将进入第二周，斯蒂尔敦促各方迅速聚焦最棘手议题，避免拖延。他强调，应对气候危机没有速效良方，没有哪次缔约方大会能够一劳永逸化解气候危机，但每一次大会都应有所进展。(新华社)" data-short="联合国气候机构负责人敦促加快谈判进程
 为期两周的《联合国气候变化框架公约》（以下简称《公约》）第三十一次缔约方大会（COP31）正在土耳其安塔利亚举行。《公约》秘书处执行秘书西蒙·斯蒂尔 14 日表示，本次大会已过半程，各方应迅速聚焦核心难点议题，加快谈判进程。斯蒂尔在当天举行的新闻发布会上说，COP31 是有史以来规模最大的缔约方大会之一。来自各国政府、国...">联合国气候机构负责人敦促加快谈判进程
-为期两周的《联合国气候变化框架公约》（以下简称《公约》）第三十一次缔约方大会（COP31）正在土耳其安塔利亚举行。《公约》秘书处执行秘书西蒙·斯蒂尔 14 日表示，本次大会已过半程，各方应迅速聚焦核心难点议题，加快谈判进程。斯蒂尔在当天举行的新闻发布会上说，COP31 是有史以来规模最大的缔约方大会之一。来自各国政府、国...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="11 月 15 日，2026 年 apec 工商界活动专题新闻发布会在深圳举办。中国贸促会国际部部长吴蒙表示，在亚太经合组织工商咨询理事会第四次会议上，中方代表提案包括关于人工智能应用、零碳交通、跨境二维码支付、绿色农业和供应链合作等意见建议，并携手美国工商界代表提出了关于加强亚太供应链合作的联合提案，会同加拿大工商界代表提出了“人工智能+”的联合提案，推动有关倡议转化为工商界的务实行动，持续丰富亚太跟工商界合作的内涵。（证券时报）"><div class="time">11:13</div><div class="content"><div class="text" data-full="11 月 15 日，2026 年 APEC 工商界活动专题新闻发布会在深圳举办。中国贸促会国际部部长吴蒙表示，在亚太经合组织工商咨询理事会第四次会议上，中方代表提案包括关于人工智能应用、零碳交通、跨境二维码支付、绿色农业和供应链合作等意见建议，并携手美国工商界代表提出了关于加强亚太供应链合作的联合提案，会同加拿大工商界代表提出了“人工智能+”的联合提案，推动有关倡议转化为工商界的务实行动，持续丰富亚太跟工商界合作的内涵。（证券时报）" data-short="11 月 15 日，2026 年 APEC 工商界活动专题新闻发布会在深圳举办。中国贸促会国际部部长吴蒙表示，在亚太经合组织工商咨询理事会第四次会议上，中方代表提案包括关于人工智能应用、零碳交通、跨境二维码支付、绿色农业和供应链合作等意见建议，并携手美国工商界代表提出了关于加强亚太供应链合作的联合提案，会同加拿大工商界代表提出了“人工智能+”的联合提案，推动...">11 月 15 日，2026 年 APEC 工商界活动专题新闻发布会在深圳举办。中国贸促会国际部部长吴蒙表示，在亚太经合组织工商咨询理事会第四次会议上，中方代表提案包括关于人工智能应用、零碳交通、跨境二维码支付、绿色农业和供应链合作等意见建议，并携手美国工商界代表提出了关于加强亚太供应链合作的联合提案，会同加拿大工商界代表提出了“人工智能+”的联合提案，推动...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="马斯克：互联网流量将因超级智能 agent 而增长数个数量级。"><div class="time">11:12</div><div class="content"><div class="text" data-full="马斯克：互联网流量将因超级智能 agent 而增长数个数量级。" data-short="马斯克：互联网流量将因超级智能 agent 而增长数个数量级。">马斯克：互联网流量将因超级智能 agent 而增长数个数量级。</div></div></article><article class="item" data-search="谷歌 ceo：祝贺 spacex 成功用发射塔捕获星舰，这仍让人感觉像科幻小说！观看直播令人难以置信。继续向上！"><div class="time">11:11</div><div class="content"><div class="text" data-full="谷歌 CEO：祝贺 SpaceX 成功用发射塔捕获星舰，这仍让人感觉像科幻小说！观看直播令人难以置信。继续向上！" data-short="谷歌 CEO：祝贺 SpaceX 成功用发射塔捕获星舰，这仍让人感觉像科幻小说！观看直播令人难以置信。继续向上！">谷歌 CEO：祝贺 SpaceX 成功用发射塔捕获星舰，这仍让人感觉像科幻小说！观看直播令人难以置信。继续向上！</div></div></article><article class="item" data-search="中国贸促会副会长李庆霜：美国参会企业占外方经济体 20%
-金十数据 11 月 15 日讯，今日，2026 年 apec 工商界活动专题新闻发布会在深圳举办。中国贸促会副会长李庆霜表示，本届 apec 工商领导人峰会有四大特色：主题鲜明、议程前沿、议程丰富、领袖云集。她透露，本次峰会吸引了至少 115 家世界 500 强企业代表参会，美方参会企业在外方经济体中居首，占外方参会企业 20%。（人民财讯）"><div class="time">11:10</div><div class="content"><div class="text" data-full="中国贸促会副会长李庆霜：美国参会企业占外方经济体 20%
-金十数据 11 月 15 日讯，今日，2026 年 APEC 工商界活动专题新闻发布会在深圳举办。中国贸促会副会长李庆霜表示，本届 APEC 工商领导人峰会有四大特色：主题鲜明、议程前沿、议程丰富、领袖云集。她透露，本次峰会吸引了至少 115 家世界 500 强企业代表参会，美方参会企业在外方经济体中居首，占外方参会企业 20%。（人民财讯）" data-short="中国贸促会副会长李庆霜：美国参会企业占外方经济体 20%
-金十数据 11 月 15 日讯，今日，2026 年 APEC 工商界活动专题新闻发布会在深圳举办。中国贸促会副会长李庆霜表示，本届 APEC 工商领导人峰会有四大特色：主题鲜明、议程前沿、议程丰富、领袖云集。她透露，本次峰会吸引了至少 115 家世界 500 强企业代表参会，美方参会企业在外方经济体中...">中国贸促会副会长李庆霜：美国参会企业占外方经济体 20%
-金十数据 11 月 15 日讯，今日，2026 年 APEC 工商界活动专题新闻发布会在深圳举办。中国贸促会副会长李庆霜表示，本届 APEC 工商领导人峰会有四大特色：主题鲜明、议程前沿、议程丰富、领袖云集。她透露，本次峰会吸引了至少 115 家世界 500 强企业代表参会，美方参会企业在外方经济体中...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月15日 · VIP</h2> <div class="feed"> <article class="item" data-search="游资大v复盘文章汇总20261115 
+为期两周的《联合国气候变化框架公约》（以下简称《公约》）第三十一次缔约方大会（COP31）正在土耳其安塔利亚举行。《公约》秘书处执行秘书西蒙·斯蒂尔 14 日表示，本次大会已过半程，各方应迅速聚焦核心难点议题，加快谈判进程。斯蒂尔在当天举行的新闻发布会上说，COP31 是有史以来规模最大的缔约方大会之一。来自各国政府、国...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="11 月 15 日，2026 年 apec 工商界活动专题新闻发布会在深圳举办。中国贸促会国际部部长吴蒙表示，在亚太经合组织工商咨询理事会第四次会议上，中方代表提案包括关于人工智能应用、零碳交通、跨境二维码支付、绿色农业和供应链合作等意见建议，并携手美国工商界代表提出了关于加强亚太供应链合作的联合提案，会同加拿大工商界代表提出了“人工智能+”的联合提案，推动有关倡议转化为工商界的务实行动，持续丰富亚太跟工商界合作的内涵。（证券时报）"><div class="time">11:13</div><div class="content"><div class="text" data-full="11 月 15 日，2026 年 APEC 工商界活动专题新闻发布会在深圳举办。中国贸促会国际部部长吴蒙表示，在亚太经合组织工商咨询理事会第四次会议上，中方代表提案包括关于人工智能应用、零碳交通、跨境二维码支付、绿色农业和供应链合作等意见建议，并携手美国工商界代表提出了关于加强亚太供应链合作的联合提案，会同加拿大工商界代表提出了“人工智能+”的联合提案，推动有关倡议转化为工商界的务实行动，持续丰富亚太跟工商界合作的内涵。（证券时报）" data-short="11 月 15 日，2026 年 APEC 工商界活动专题新闻发布会在深圳举办。中国贸促会国际部部长吴蒙表示，在亚太经合组织工商咨询理事会第四次会议上，中方代表提案包括关于人工智能应用、零碳交通、跨境二维码支付、绿色农业和供应链合作等意见建议，并携手美国工商界代表提出了关于加强亚太供应链合作的联合提案，会同加拿大工商界代表提出了“人工智能+”的联合提案，推动...">11 月 15 日，2026 年 APEC 工商界活动专题新闻发布会在深圳举办。中国贸促会国际部部长吴蒙表示，在亚太经合组织工商咨询理事会第四次会议上，中方代表提案包括关于人工智能应用、零碳交通、跨境二维码支付、绿色农业和供应链合作等意见建议，并携手美国工商界代表提出了关于加强亚太供应链合作的联合提案，会同加拿大工商界代表提出了“人工智能+”的联合提案，推动...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="马斯克：互联网流量将因超级智能 agent 而增长数个数量级。"><div class="time">11:12</div><div class="content"><div class="text" data-full="马斯克：互联网流量将因超级智能 agent 而增长数个数量级。" data-short="马斯克：互联网流量将因超级智能 agent 而增长数个数量级。">马斯克：互联网流量将因超级智能 agent 而增长数个数量级。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月15日 · VIP</h2> <div class="feed"> <article class="item" data-search="游资大v复盘文章汇总20261115 
 
 链接: https://pan.baidu.com/s/1d2jlfhoxvduw1i65xeratw?pwd=p2td 提取码: p2td --来自百度网盘超级会员v7的分享"> <div class="time">22:20</div> <div class="content"> <div class="text">游资大V复盘文章汇总20261115 
 
