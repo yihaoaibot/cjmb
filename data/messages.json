@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3627874",
+    "datetime": "2026-11-15T22:14:10+00:00",
+    "views": "1",
+    "text": "在 14 日举行的全国性示威活动中，共有 404 人被警方拘捕，其中在巴黎被拘捕的人员为 134 人。巴黎检察院还表示，在巴黎被拘捕的人员中，79 人被采取拘留审查措施。（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3627874"
+  },
+  {
+    "post": "Financial_Express/3627873",
+    "datetime": "2026-11-15T22:13:02+00:00",
+    "views": "6",
+    "text": "欧盟银行监管机构放弃单一存款保险计划。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3627873"
+  },
+  {
+    "post": "Financial_Express/3627872",
+    "datetime": "2026-11-15T22:12:22+00:00",
+    "views": "6",
+    "text": "三星将斥资 19 亿美元扩建得州工厂，将为 SpaceX 星链生产芯片\n金十数据 11 月 16 日讯，据韩国首尔经济日报报道，三星电子正加速拓展美国太空与国防芯片业务。据芯片行业消息人士及美国商务部 15 日消息，三星计划在其位于得克萨斯州奥斯汀的芯片工厂，为马斯克旗下 SpaceX(SPCX.O)的星链卫星生产 STM32V8 微控制器（MCU）。该芯片采用三星与法国意法半导体联合开发的 18 纳米全耗尽型绝缘体上硅（FD-SOI）工艺，具备低功耗高速计算能力，专为太空等严苛环境设计，目前用于星链低地球轨道卫星网络的激光通信系统。为承接这一生产，三星正投资 19 亿美元扩建奥斯汀工厂，目标 2030 年投产。该厂主要运行 65 纳米至 14 纳米的成熟制程。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3627872"
+  },
+  {
+    "post": "Financial_Express/3627871",
+    "datetime": "2026-11-15T22:12:09+00:00",
+    "views": "8",
+    "text": "也门胡塞武装当地时间 15 日晚发表声明称，过去 24 小时内，沙特主导的联军对也门萨达省、塔伊兹省、拉赫季省、焦夫省和马里卜省发动了 75 次空袭和导弹袭击。声明还称，自也门新一轮军事升级以来，沙特主导的联军累计进行的空袭和导弹袭击次数已达 5095 次。（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3627871"
+  },
+  {
     "post": "Financial_Express/3627870",
     "datetime": "2026-11-15T22:10:42+00:00",
-    "views": "12",
+    "views": "15",
     "text": "汇市盘初，美元指数 DXY 微跌 0.04%，报 103.37。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3627869",
     "datetime": "2026-11-15T22:10:06+00:00",
-    "views": "12",
+    "views": "15",
     "text": "高盛将 H 股评级重新上调至超配，理由包括每股收益增长加快、估值处于周期低位、投资者整体仓位较轻，以及人工智能分散配置价值遭低估。高盛预计，MSCI 中国指数和沪深 300 指数明年将分别上涨 23%和 10%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3627867",
     "datetime": "2026-11-15T22:05:42+00:00",
-    "views": "24",
+    "views": "54",
     "text": "三星将在美国为 SpaceX 生产卫星芯片。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3627866",
     "datetime": "2026-11-15T22:04:02+00:00",
-    "views": "58",
+    "views": "59",
     "text": "俄罗斯选手米拉·安德烈耶娃击败乌克兰选手埃琳娜·斯维托丽娜，夺得 WTA 年终总决赛冠军。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3627865",
     "datetime": "2026-11-15T22:01:22+00:00",
-    "views": "61",
+    "views": "62",
     "text": "高盛将 H 股评级上调至超配，A 股降至平配。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3627864",
     "datetime": "2026-11-15T22:00:22+00:00",
-    "views": "62",
+    "views": "63",
     "text": "美联储 12 月加息 25 个基点的概率为 95%\n金十数据 11 月 16 日讯，据 CME“美联储观察”：美联储 12 月加息 25 个基点的概率为 95%，加息 50 个基点的概率为 5%。美联储到明年 1 月累计加息 25 个基点的概率 25.2%，累计加息 50 个基点的概率为 71.1%，累计加息 75 个基点的概率为 3.7%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3627863",
     "datetime": "2026-11-15T21:54:43+00:00",
-    "views": "67",
+    "views": "68",
     "text": "SK 海力士暗盘涨超 1%，现报 130.935 美元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3627862",
     "datetime": "2026-11-15T21:47:02+00:00",
-    "views": "111",
+    "views": "112",
     "text": "AMD 暗盘涨超 1%，现报 526.295 美元。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3627855",
     "datetime": "2026-11-15T21:27:42+00:00",
-    "views": "152",
+    "views": "153",
     "text": "美国中期选举后，百达资管增持日本股票以推动多元化\n金十数据 11 月 16 日讯，美国中期选举后，百达资产管理公司在其多资产组合中增持日本股票，旨在实现多元化并寻找 AI 相关股票之外的机会。该公司多资产主管沙尼尔·拉姆吉表示，百达动态配置基金已将日股权重从约 8%提升至 10%左右。他认为，民主党大胜可能导致 AI 增长放缓，从而扩大其他行业的吸引力；同时，油价下跌将缓解日本等资源匮乏国的压力。“随着 AI 交易趋于平衡，投资者将在全球寻找机会，日股在此环境下具有吸引力。”由于收益率曲线陡峭且稳定，拉姆吉近期增持了日本银行股。受加息推动贷款利差扩大影响，东证银行指数今年飙升近 40%，远超东证指数 16%的涨幅。拉姆吉指出，AI 增长放缓反而有助于延长周期，避免当前出现大泡沫破裂。AI 支出低迷也能让企业跟上回报，减少投资者对 AI 交易的“信仰之跃”。",
     "media_only": false,
     "image_url": null,
@@ -13471,23 +13507,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3626366"
-  },
-  {
-    "post": "Financial_Express/3626365",
-    "datetime": "2026-11-13T22:13:22+00:00",
-    "views": "89",
-    "text": "SpaceX：今日发射的推进剂加注正在进行中。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3626365"
-  },
-  {
-    "post": "Financial_Express/3626364",
-    "datetime": "2026-11-13T22:13:15+00:00",
-    "views": "82",
-    "text": "当地时间 13 日晚，也门胡塞武装发布消息称，通过无人机和导弹袭击了沙特主导的联军和也门政府军位于亚丁拉斯阿巴斯地区的一座军火库。此外，胡塞武装称使用多枚弹道导弹，袭击了沙特主导的联军位于也门南部拉赫季省的军事集结点。胡塞武装称，此次打击直接命中目标，造成大量人员伤亡。(央视)",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3626364"
   }
 ]
