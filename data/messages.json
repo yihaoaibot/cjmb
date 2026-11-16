@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3630514",
+    "datetime": "2026-11-16T14:04:42+00:00",
+    "views": "1",
+    "text": "戴尔(DELL.N)：通过推出 DLC 存储解决方案，扩展面向机架级 AI 的超大规模（Exascale）产品组合。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630514"
+  },
+  {
+    "post": "Financial_Express/3630513",
+    "datetime": "2026-11-16T14:04:02+00:00",
+    "views": "10",
+    "text": "戴尔扩大面向机架级 AI 的液冷存储超大规模产品组合。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630513"
+  },
+  {
+    "post": "Financial_Express/3630512",
+    "datetime": "2026-11-16T14:03:43+00:00",
+    "views": "13",
+    "text": "TensorWave：AI 基础设施产能预计将于 2027 年上半年开始投产，预计到 2028 年初完成全面部署。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630512"
+  },
+  {
+    "post": "Financial_Express/3630511",
+    "datetime": "2026-11-16T14:03:42+00:00",
+    "views": "13",
+    "text": "特斯拉(TSLA.O)：生产将于 2029 年开始。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630511"
+  },
+  {
+    "post": "Financial_Express/3630510",
+    "datetime": "2026-11-16T14:03:23+00:00",
+    "views": "14",
+    "text": "特斯拉：预计 2029 年开始生产。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630510"
+  },
+  {
+    "post": "Financial_Express/3630507",
+    "datetime": "2026-11-16T14:03:22+00:00",
+    "views": "14",
+    "text": "据戴尔科技，依托 420 多项产品与 6500 多家客户基础，戴尔与英伟达联合打造的 AI 工厂（Dell AI Factory with NVIDIA）实现全栈覆盖，助力企业充满信心地将 AI 应用推向生产环境。\n大规模 AI 数据准备：全新戴尔 AI 数据平台（Dell AI Data Platform）功能及生态系统集成，将企业数据转化为 AI 智能体可访问和使用的可信、受治理的上下文信息，并运行在客户自主拥有和掌控的基础设施上。\n智能体 AI 的智能化管理：全新的计算与网络软件管理工具可加速智能体工作负载、简化运维流程，帮助企业更快地从基础设施部署迈向生产环境。\n适用于各类用例的经过验证的端到端解决方案：不断扩展的经过验证的 AI 解决方案生态系统、全新通过验证的模块化基础设施以及戴尔的新服务，为企业从概念验证（PoC）到生产环境提供了更低风险的落地路径。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630507"
+  },
+  {
+    "post": "Financial_Express/3630508",
+    "datetime": "2026-11-16T14:03:22+00:00",
+    "views": "14",
+    "text": "戴尔(DELL.N)推出面向企业人工智能的代理式数据网关。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630508"
+  },
+  {
+    "post": "Financial_Express/3630509",
+    "datetime": "2026-11-16T14:03:22+00:00",
+    "views": "14",
+    "text": "TENSORWAVE：将为 OPENAI 提供 457 兆瓦的 IT 容量，覆盖美国多个数据中心站点，由 AMD INSTINCT MI455X GPU 提供支持。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630509"
+  },
+  {
+    "post": "Financial_Express/3630505",
+    "datetime": "2026-11-16T14:03:02+00:00",
+    "views": "47",
+    "text": "戴尔推出面向企业 AI 的代理式数据网关。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630505"
+  },
+  {
+    "post": "Financial_Express/3630506",
+    "datetime": "2026-11-16T14:03:02+00:00",
+    "views": "47",
+    "text": "OpenAI 曾探讨以至少 50 亿美元收购 Goodfire。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630506"
+  },
+  {
     "post": "Financial_Express/3630503",
     "datetime": "2026-11-16T14:02:42+00:00",
-    "views": "5",
+    "views": "47",
     "text": "特斯拉(TSLA.O)：将投资约 30 亿欧元扩建柏林-勃兰登堡超级工厂，投资初期将用于建设一座额外的生产厂房。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3630504",
     "datetime": "2026-11-16T14:02:42+00:00",
-    "views": "5",
+    "views": "48",
     "text": "特斯拉(TSLA.O)：此次计划中的工厂扩建将在多个行业创造大量新岗位，计划招聘数百名新员工。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3630502",
     "datetime": "2026-11-16T14:02:24+00:00",
-    "views": "6",
+    "views": "46",
     "text": "埃克森美孚旗下控股子公司启动票据收购要约，规模最高达 30 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3630501",
     "datetime": "2026-11-16T14:02:23+00:00",
-    "views": "6",
+    "views": "44",
     "text": "埃克森美孚：以现金要约收购部分未偿票据。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3630500",
     "datetime": "2026-11-16T14:02:22+00:00",
-    "views": "6",
+    "views": "44",
     "text": "美国出口商向哥伦比亚出售了 13 万吨玉米。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3630498",
     "datetime": "2026-11-16T14:02:02+00:00",
-    "views": "8",
+    "views": "46",
     "text": "加拿大总理卡尼抵达深圳\n金十数据 11 月 16 日讯，今天（11 月 16 日）晚上，加拿大总理卡尼乘飞机抵达深圳宝安国际机场。卡尼总理将出席在深圳举行的亚太经合组织第三十三次领导人非正式会议。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3630499",
     "datetime": "2026-11-16T14:02:02+00:00",
-    "views": "7",
+    "views": "45",
     "text": "华硕宣布，搭载英特尔酷睿 Ultra X9 vPro 的 ExpertBook B5 Flip G2 与 ExpertBook Ultra 现已在美上市。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3630497",
     "datetime": "2026-11-16T14:01:43+00:00",
-    "views": "10",
+    "views": "47",
     "text": "TensorWave：这项为期六年的协议将提供专用 AI 算力，作为 OpenAI 与 AMD 基础设施扩建的一部分。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3630496",
     "datetime": "2026-11-16T14:01:23+00:00",
-    "views": "42",
+    "views": "48",
     "text": "特斯拉：将投资约 30 亿欧元扩建柏林-勃兰登堡超级工厂，该投资将首先用于建造一座额外的生产厂房。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3630495",
     "datetime": "2026-11-16T14:01:22+00:00",
-    "views": "42",
+    "views": "48",
     "text": "克里姆林宫：（就俄罗斯总统普京与美国总统特朗普会晤）正安排 11 月 19 日会谈，俄罗斯总统普京与美国总统特朗普确定将会面，形式与地点仍在敲定中。",
     "media_only": false,
     "image_url": null,
