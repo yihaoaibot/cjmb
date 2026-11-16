@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3630781",
+    "datetime": "2026-11-16T16:32:22+00:00",
+    "views": "5",
+    "text": "欧足联：法国足协主席迪亚洛将参选国际足联主席\n当地时间 11 月 16 日，欧洲足球协会联盟（欧足联）执行委员会决定，支持法国足球协会主席菲利普·迪亚洛参选国际足联主席，与寻求连任的现任主席因凡蒂诺展开竞争。据欧足联方面消息，迪亚洛的参选资格预计将于 11 月 17 日获得法国足协执行委员会正式批准。国际足联主席选举将于 2027 年 3 月 18 日在摩洛哥首都拉巴特举行，候选人提名截止时间为当地时间 11 月 18 日午夜。（央视新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630781"
+  },
+  {
+    "post": "Financial_Express/3630780",
+    "datetime": "2026-11-16T16:32:16+00:00",
+    "views": "6",
+    "text": "美国财政部拍卖三个月期国债，得标利率 4.155%，投标倍数 2.76。\n拍卖六个月期国债，得标利率 4.310%，投标倍数 2.83。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630780"
+  },
+  {
     "post": "Financial_Express/3630779",
     "datetime": "2026-11-16T16:30:10+00:00",
-    "views": "2",
+    "views": "38",
     "text": "德国 DAX 30 指数初步收跌 0.46%，报 26627.32 点。\n法国股指初步收跌 0.04%，意大利股指初步收跌 0.52%、银行指数跌 0.15%，英国股指初步收跌 0.02%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3630778",
     "datetime": "2026-11-16T16:30:02+00:00",
-    "views": "2",
+    "views": "38",
     "text": "欧洲 STOXX 600 指数初步收跌 0.17%，报 663.03 点。\n欧元区 STOXX 50 指数初步收跌 0.51%，报 6355.09 点。\n富时泛欧绩优 300 指数初步收跌 0.12%，报 2644.78 点。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3630777",
     "datetime": "2026-11-16T16:29:42+00:00",
-    "views": "2",
+    "views": "38",
     "text": "巴西雷亚尔即期交易走弱 2%，兑美元报 5.77。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3630776",
     "datetime": "2026-11-16T16:21:42+00:00",
-    "views": "70",
+    "views": "104",
     "text": "伊朗军方周一发表声明称，其使用本国综合防空网络下运行的国产防空系统，在霍尔木兹海峡上空击落了一架 MQ-1 无人机。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3630775",
     "datetime": "2026-11-16T16:20:58+00:00",
-    "views": "70",
+    "views": "104",
     "text": "据伊朗媒体 FarsNews：伊朗军方公共关系部门表示，伊朗陆军防空部队使用国产防空系统，在霍尔木兹海峡上空击中并摧毁一架 MQ-1 无人机。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3630774",
     "datetime": "2026-11-16T16:20:57+00:00",
-    "views": "70",
+    "views": "104",
     "text": "俄罗斯称克里米亚大桥遭袭后交通恢复。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3630772",
     "datetime": "2026-11-16T16:20:53+00:00",
-    "views": "70",
+    "views": "104",
     "text": "阿联酋穆巴达拉投资公司将英伟达持股比例下调 6.7%，当前持有 60929 股。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3630773",
     "datetime": "2026-11-16T16:20:53+00:00",
-    "views": "70",
+    "views": "104",
     "text": "阿联酋穆巴达拉投资公司向美国证交会申报，持有 SpaceX 107828 股 A 类普通股。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3630770",
     "datetime": "2026-11-16T16:20:52+00:00",
-    "views": "70",
+    "views": "103",
     "text": "OpenAI：已与包括 Apollo Research 在内的评估机构签署协议。 同时还与 Metr、Transluce 以及 Goodfire 签署合作协议。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3630771",
     "datetime": "2026-11-16T16:20:52+00:00",
-    "views": "70",
+    "views": "103",
     "text": "OpenAI：首批嵌入式评估交易达成。专家将调查模型对齐情况，并测试我们的安全防护措施。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3630769",
     "datetime": "2026-11-16T16:20:51+00:00",
-    "views": "69",
+    "views": "102",
     "text": "伊朗议会议长卡利巴夫：“假旗行动”再次成为舆论焦点。战争牟利者正在公开发声。这是一场利用愧疚感和舆论施压的宣传行动，试图羞辱那些反对伊朗战争、反对将以色列利益置于首位的美国人。他们想把你塑造成一个任人摆布的傻瓜。不要接受这种角色。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3630768",
     "datetime": "2026-11-16T16:18:46+00:00",
-    "views": "101",
+    "views": "103",
     "text": "伊朗议会议长卡利巴夫：假旗行动又来了。\n靠流血牟利的人正在话筒前发声。\n这是一场制造罪责感并施压的运动，目的是让美国人因拒绝伊朗战争、对“以色列优先”政治说不而感到羞耻。\n他们正把你塑造成冤大头。\n拒绝这个角色。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3630767",
     "datetime": "2026-11-16T16:16:33+00:00",
-    "views": "133",
+    "views": "134",
     "text": "俄罗斯称克里米亚大桥的交通恢复，此前遭到袭击。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3630766",
     "datetime": "2026-11-16T16:16:08+00:00",
-    "views": "133",
+    "views": "134",
     "text": "欧盟对印度、日本、土耳其等冷轧钢铁加征的关税提高至 27.9%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3630765",
     "datetime": "2026-11-16T16:14:27+00:00",
-    "views": "133",
+    "views": "134",
     "text": "据俄罗斯媒体：克里米亚大桥交通信息中心称，在临时暂停通行后，克里米亚大桥汽车交通已于周一晚间恢复。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3630763",
     "datetime": "2026-11-16T16:12:56+00:00",
-    "views": "134",
+    "views": "136",
     "text": "美国证券交易委员会（SEC）文件显示，穆巴达拉投资公司 PJSC 报告持有 AMD(AMD.O)28,825 股股份。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3630764",
     "datetime": "2026-11-16T16:12:56+00:00",
-    "views": "133",
+    "views": "134",
     "text": "美国证券交易委员会（SEC）文件显示，穆巴达拉投资公司 PJSC 报告持有 SpaceX(SPCX.O)的 107,828 股 A 类股份。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3630762",
     "datetime": "2026-11-16T16:11:34+00:00",
-    "views": "134",
+    "views": "136",
     "text": "11 月 13 日，在华盛顿出席美国保守派团体的一场会议时，鲁比奥威胁称，美方可以用武力阻止国际刑事法院的执法：“如果他们愚蠢到试图强制执行纸面的法令，我们的回答很可能与罗马将军庞培相同。他曾对那些试图援引城市章程对抗其军团的人说：‘别向持剑之人讲什么法律。’”11 月 15 日，美国国防部长赫格塞思在社交平台 X 转发相关视频，重申了这句话。\n伊朗外长阿拉格齐 15 日在 X 平台发文提醒：“‘别向持剑之人讲什么法律’这句话出自一位罗马将军之口。尽管兵力占优，他的最后一场战役却以惨败告终。”阿拉格齐还引用了西班牙裔美国哲学家乔治·桑塔亚纳的名言“忘记历史的人注定要重蹈覆辙”作为回应。庞培于公元前 48 年法萨卢斯战役败于恺撒，逃往埃及后被杀。（环球网）",
     "media_only": false,
     "image_url": null,
@@ -29689,59 +29707,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3627123"
-  },
-  {
-    "post": "Financial_Express/3627122",
-    "datetime": "2026-11-14T16:33:02+00:00",
-    "views": "107",
-    "text": "美国交通部长达菲：我们需要 L3Harris 或提供该路由器的相关方做得更好。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627122"
-  },
-  {
-    "post": "Financial_Express/3627121",
-    "datetime": "2026-11-14T16:32:42+00:00",
-    "views": "102",
-    "text": "马斯克：SpaceX 通信卫星数量最终将超过 10 万颗。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627121"
-  },
-  {
-    "post": "Financial_Express/3627119",
-    "datetime": "2026-11-14T16:32:03+00:00",
-    "views": "103",
-    "text": "美国交通部长达菲：事件根源并非外国势力所为。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627119"
-  },
-  {
-    "post": "Financial_Express/3627120",
-    "datetime": "2026-11-14T16:32:03+00:00",
-    "views": "102",
-    "text": "美国交通部长达菲谈航空系统停摆：影响我国系统的根本原因并非来自外国。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627120"
-  },
-  {
-    "post": "Financial_Express/3627118",
-    "datetime": "2026-11-14T16:31:42+00:00",
-    "views": "107",
-    "text": "李强会见泰国国王哇集拉隆功\n11 月 14 日，国务院总理李强在曼谷会见泰国国王哇集拉隆功。李强转达习近平主席对哇集拉隆功国王的亲切问候。李强表示，去年，国王陛下对中国进行国事访问，习近平主席同国王陛下举行会晤，就推进中泰命运共同体建设达成重要共识。中方赞赏泰国王室长期重视并致力于促进中泰友好。“中泰一家亲”，这是中泰关系的独特优势，体现在两国各领域务实成果，特别是当前动荡国际形势下，中泰经贸合作逆势增长，尤为难能可贵。中方愿同泰方一道，遵循两国元首战略引领，继续密切交往，拓展投资、科技创新、新能源汽车等领域合作，深化人文交流，助力两国经济社会发展，增进两国人民福祉。（新华社）\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627118"
-  },
-  {
-    "post": "Financial_Express/3627117",
-    "datetime": "2026-11-14T16:31:22+00:00",
-    "views": "74",
-    "text": "伊朗外交部发言人指责美国公然以封锁手段威胁实施饥饿政策\n金十数据 11 月 15 日讯，伊朗外交部发言人巴加埃在社交媒体上表示：美国国务卿公然且傲慢地威胁要通过封锁让伊朗民众挨饿，并宣称：“他们最终总得吃东西。”这再次表明，华盛顿正在推行战争罪行，其在对伊朗发动侵略战争和实施经济恐怖主义过程中已经犯下的暴行因此进一步加剧。数十年来，胁迫、威胁、制裁、恐怖主义和侵略行径均未能奏效，但美国仍在不断重蹈覆辙，只不过是给这些手段换上了新的名目。这是历史学家芭芭拉·塔奇曼所描述的“愚行进军”的典型案例：一个政府执意沿着灾难性的道路前行，拒绝从失败中吸取教训，并在每一次接连遭遇挫败后，进一步固守自身的错误。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627117"
   }
 ]
