@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3628820",
+    "datetime": "2026-11-16T05:52:42+00:00",
+    "views": "1",
+    "text": "豆一连续主力合约日内跌 4%，现报 4997.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628820"
+  },
+  {
+    "post": "Financial_Express/3628819",
+    "datetime": "2026-11-16T05:51:49+00:00",
+    "views": "7",
+    "text": "现货黄金回落至 3840 美元/盎司下方，日内跌 1.07%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628819"
+  },
+  {
+    "post": "Financial_Express/3628818",
+    "datetime": "2026-11-16T05:51:22+00:00",
+    "views": "8",
+    "text": "禾赛科技产品 Kosmo 与 Ropedia 签订战略合作\n金十数据 11 月 16 日讯，禾赛(02525.HK)科技旗下产品 Kosmo 与物理 AI 基础设施公司 Ropedia 达成战略合作。双方将围绕高质量真实世界数据的规模化生产，包含空间数据规模化采集、空间数据结构化、空间数据标准化交付，以及模型验证，面向 OpenAI、Meta、DeepMind、NVIDIA、Google、Microsoft 等全球大模型、具身移动操作模型、世界模型团队，提供可进入训练闭环的多模态空间数据产品。双方联合支持的研究项目 Ropedia Xperience 2 于 11 月 12 日正式发布。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628818"
+  },
+  {
+    "post": "Financial_Express/3628817",
+    "datetime": "2026-11-16T05:51:03+00:00",
+    "views": "12",
+    "text": "纽约期银日内跌 4%，现报 47.16 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628817"
+  },
+  {
+    "post": "Financial_Express/3628816",
+    "datetime": "2026-11-16T05:51:02+00:00",
+    "views": "12",
+    "text": "纽约期金失守 3840 美元/盎司，日内跌 1.20%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628816"
+  },
+  {
     "post": "Financial_Express/3628814",
     "datetime": "2026-11-16T05:50:43+00:00",
-    "views": "3",
+    "views": "12",
     "text": "现货黄金日内跌 1%，现报 3839.75 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3628815",
     "datetime": "2026-11-16T05:50:43+00:00",
-    "views": "3",
+    "views": "12",
     "text": "苯乙烯连续主力合约日内涨 2%，现报 9313.00 元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3628813",
     "datetime": "2026-11-16T05:50:42+00:00",
-    "views": "3",
+    "views": "12",
     "text": "现货黄金失守 3840 美元/盎司，日内跌 1.04%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3628812",
     "datetime": "2026-11-16T05:50:23+00:00",
-    "views": "5",
+    "views": "14",
     "text": "澳元 最新下跌 0.29%，报每美元 0.67555 美元，为 2026 年 1 月以来最低水平。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3628811",
     "datetime": "2026-11-16T05:50:22+00:00",
-    "views": "5",
+    "views": "14",
     "text": "澳元兑美元下跌 0.29%，报 0.67555 美元，为 2026 年 1 月以来最低。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3628810",
     "datetime": "2026-11-16T05:50:02+00:00",
-    "views": "6",
+    "views": "44",
     "text": "纽约期金日内跌 1%，现报 3847.31 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3628809",
     "datetime": "2026-11-16T05:49:43+00:00",
-    "views": "8",
+    "views": "44",
     "text": "现货黄金失守 3850 美元/盎司，日内跌 0.84%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3628808",
     "datetime": "2026-11-16T05:49:42+00:00",
-    "views": "8",
+    "views": "45",
     "text": "纽约期金失守 3850 美元/盎司，日内跌 0.94%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3628807",
     "datetime": "2026-11-16T05:49:20+00:00",
-    "views": "10",
+    "views": "45",
     "text": "国债期货午后持续走低，30 年期主力合约大跌 0.85%，10 年期主力合约跌 0.25%，5 年期主力合约跌 0.11%，2 年期主力合约跌 0.02%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3628806",
     "datetime": "2026-11-16T05:48:42+00:00",
-    "views": "43",
+    "views": "47",
     "text": "巨人网络调整 AI 实验室架构\n11 月 16 日，巨人网络确认，公司已调整 AI 实验室组织架构，将相关团队与技术能力整合至公司技术中台。此次调整旨在进一步将 AI 技术与游戏业务场景深度结合，公司将继续加大 AI 战略投入。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3628805",
     "datetime": "2026-11-16T05:48:02+00:00",
-    "views": "45",
+    "views": "49",
     "text": "禾赛科技产品 Kosmo 与 Ropedia 签订战略合作\n禾赛科技旗下产品 Kosmo 与物理 AI 基础设施公司 Ropedia 达成战略合作。双方将围绕高质量真实世界数据的规模化生产，包含空间数据规模化采集、空间数据结构化、空间数据标准化交付，以及模型验证，面向 OpenAI、Meta、DeepMind、NVIDIA、Google、Microsoft 等全球大模型、具身移动操作模型、世界模型团队，提供可进入训练闭环的多模态空间数据产品。双方联合支持的研究项目 Ropedia Xperience 2 于 11 月 12 日正式发布。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3628804",
     "datetime": "2026-11-16T05:47:02+00:00",
-    "views": "46",
+    "views": "49",
     "text": "上海社保优选项目私募投资基金成立\n金十数据 11 月 16 日讯，企查查 APP 显示，近日，上海社保优选项目私募投资基金合伙企业（有限合伙）成立，出资额 200 亿元，经营范围包含以私募基金从事股权投资、投资管理、资产管理等活动。企查查股权穿透显示，该企业由全国社会保障基金理事会、交银金融资产投资有限公司、中国人寿财产保险股份有限公司等共同出资。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3628802",
     "datetime": "2026-11-16T05:46:43+00:00",
-    "views": "47",
+    "views": "52",
     "text": "现货黄金失守 3860 美元/盎司，日内跌 0.52%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3628803",
     "datetime": "2026-11-16T05:46:43+00:00",
-    "views": "46",
+    "views": "50",
     "text": "纽约期金失守 3860 美元/盎司，日内跌 0.77%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3628801",
     "datetime": "2026-11-16T05:46:42+00:00",
-    "views": "46",
+    "views": "49",
     "text": "菲律宾贸易部长：东盟国家讨论跨境本币结算\n菲律宾贸易和工业部长克里斯蒂娜•罗克称，东盟国家正在数字经济协议框架内讨论以本国货币进行跨境结算的可能性。罗克在回答有关东盟国家间本币结算的问题时指出：“目前相关议题正在讨论中。我们昨天谈到了这一点，且已就数字支付和跨境支付问题向菲律宾中央银行进行了通报。”",
     "media_only": false,
     "image_url": null,
@@ -18223,14 +18268,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3626783"
-  },
-  {
-    "post": "Financial_Express/3626782",
-    "datetime": "2026-11-14T05:52:02+00:00",
-    "views": "134",
-    "text": "强生：安力威及兆珂速新适应症纳入 2026 年国家医保目录\n11 月 14 日，强生创新制药宣布，旗下两款创新治疗方案成功纳入 2026 年国家医保目录，其中安力威（尼卡利单抗注射液）为首次纳入、兆珂速（达雷妥尤单抗注射液，皮下注射）新增一项适应症纳入，覆盖全身型重症肌无力、多发性骨髓瘤等重大疾病领域。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3626782"
   }
 ]
