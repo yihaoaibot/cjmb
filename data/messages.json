@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3631025",
+    "datetime": "2026-11-16T19:14:42+00:00",
+    "views": "2",
+    "text": "美联储哈玛克：企业正在转嫁更多价格上涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631025"
+  },
+  {
+    "post": "Financial_Express/3631024",
+    "datetime": "2026-11-16T19:14:22+00:00",
+    "views": "3",
+    "text": "美联储哈马克：企业正在更多地转嫁成本，以保护利润率。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631024"
+  },
+  {
+    "post": "Financial_Express/3631023",
+    "datetime": "2026-11-16T19:14:02+00:00",
+    "views": "3",
+    "text": "美联储哈马克：担心企业更能接受价格上涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631023"
+  },
+  {
+    "post": "Financial_Express/3631021",
+    "datetime": "2026-11-16T19:13:22+00:00",
+    "views": "4",
+    "text": "美联储哈马克：我的基准情形是倾向于以较小幅度调整。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631021"
+  },
+  {
+    "post": "Financial_Express/3631019",
+    "datetime": "2026-11-16T19:13:03+00:00",
+    "views": "6",
+    "text": "美联储哈玛克：通胀压力似乎正在扩大。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631019"
+  },
+  {
+    "post": "Financial_Express/3631020",
+    "datetime": "2026-11-16T19:13:03+00:00",
+    "views": "6",
+    "text": "美联储哈马克：如果通胀心态固化，可能需要更大力度的行动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631020"
+  },
+  {
+    "post": "Financial_Express/3631017",
+    "datetime": "2026-11-16T19:13:02+00:00",
+    "views": "7",
+    "text": "美联储哈玛克：我们看到通胀预期已得到合理锚定。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631017"
+  },
+  {
+    "post": "Financial_Express/3631018",
+    "datetime": "2026-11-16T19:13:02+00:00",
+    "views": "6",
+    "text": "美联储哈玛克：“我倾向于以更小幅度的步伐调整”，以便让经济适应政策变化。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631018"
+  },
+  {
     "post": "Financial_Express/3631016",
     "datetime": "2026-11-16T19:12:42+00:00",
-    "views": "7",
+    "views": "12",
     "text": "微软一个自 7 月起就未被发现的漏洞引发全球服务中断\n上周造成微软办公软件瘫痪的漏洞，从 7 月起就潜伏在其数据中心，始终未被检出。11 月 11 日一次常规用户流量路由调整触发了系统故障，支撑 Outlook、Teams 等服务的关键服务器发生宕机。微软在发现故障后，耗时 15 小时定位问题并开始推送修复程序。此次中断让大量企业与政府客户的业务陷入停滞。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3631015",
     "datetime": "2026-11-16T19:12:02+00:00",
-    "views": "14",
+    "views": "19",
     "text": "美联储哈马克：我一直倾向于以稳定的幅度调整政策。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +92,8 @@
   {
     "post": "Financial_Express/3631014",
     "datetime": "2026-11-16T19:12:01+00:00",
-    "views": "13",
-    "text": "美国克利夫兰联储主席哈玛克（Beth Hammack）：目前美联储双重使命之间没有太大冲突。\n我一直都倾向于稳步的策略。\n（彭博电视）",
+    "views": "18",
+    "text": "美国克利夫兰联储主席哈玛克（Beth Hammack）：目前美联储双重使命之间没有太大冲突。\n我一直都倾向于稳步的行动策略。\n我们已经看到通胀预期合理地被锚定。\n如果通胀顽固，可能需要更采取大幅度的措施。\n我的基本假设是，我希望更小幅度的行动。\n我看到更多行业存在通胀。\n企业转嫁成本，保护自身利润。（彭博电视）",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3631014"
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3631013",
     "datetime": "2026-11-16T19:11:42+00:00",
-    "views": "15",
+    "views": "20",
     "text": "美联储哈玛克：美联储双重使命之间并无太大冲突，通胀正朝错误方向发展。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3631012",
     "datetime": "2026-11-16T19:11:23+00:00",
-    "views": "16",
+    "views": "20",
     "text": "美联储哈马克：目前美联储双重使命之间没有太大冲突。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3631011",
     "datetime": "2026-11-16T19:11:22+00:00",
-    "views": "17",
+    "views": "21",
     "text": "美国中央司令部：航空母舰“西奥多·罗斯福”号目前正在美国中央司令部（CENTCOM）责任区执行预定部署任务。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3631010",
     "datetime": "2026-11-16T19:10:43+00:00",
-    "views": "29",
+    "views": "33",
     "text": "老虎环球基金报告持有法拉利 602,700 股股份。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3631009",
     "datetime": "2026-11-16T19:10:42+00:00",
-    "views": "28",
+    "views": "32",
     "text": "美联储哈玛克：每次参加 FOMC 会议都持开放态度。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3631008",
     "datetime": "2026-11-16T19:10:23+00:00",
-    "views": "34",
+    "views": "37",
     "text": "美国证券交易委员会（SEC）文件显示，老虎全球管理基金将英特尔(INTC.O)持仓增加 30.4%，升至 550 万股。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3631007",
     "datetime": "2026-11-16T19:10:22+00:00",
-    "views": "33",
+    "views": "35",
     "text": "美国证券交易委员会（SEC）文件显示，老虎全球管理基金将亚马逊(AMZN.O)持仓削减 4.2%，降至 930 万股。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3631006",
     "datetime": "2026-11-16T19:10:11+00:00",
-    "views": "35",
+    "views": "37",
     "text": "高盛预计，由于各国央行持续购金，到 2027 年底金价将逐步攀升至每盎司 4650 美元。\n一旦美联储开始降息，预计西方黄金 ETF 需求将复苏，支撑金价在 2028 年底前强劲反弹至每盎司 5600 美元。\n除非再次出现白银流动性挤压，否则 2027 年黄金表现将优于白银。\n美国关税不确定性可能导致铂金和钯金价格波动，供应分散，但并不意味着 2027 年价格会上涨。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +182,7 @@
   {
     "post": "Financial_Express/3631005",
     "datetime": "2026-11-16T19:10:02+00:00",
-    "views": "36",
+    "views": "38",
     "text": "美国银行、富国银行和摩根大通等美国主要银行证实，其网上服务大面积中断已持续超过一小时。",
     "media_only": false,
     "image_url": null,
