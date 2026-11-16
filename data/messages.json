@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3628405",
+    "datetime": "2026-11-16T02:36:02+00:00",
+    "views": "6",
+    "text": "阿里 Qwen 4 正式发布：性能升级，性价比更优，单任务平均费用大降 6 成\n金十数据 11 月 16 日讯，阿里巴巴发布全新一代基座大模型 Qwen4-Max，总参数 2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max 以更少的 Token 消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化：在权威的全球前端编程盲测 CodeArena 中，Qwen4 位居第六；在 Agents’ Last Exam（ALE）、Vals Index 等智能体能力及专业任务三方评测中，Qwen4 均处于领先梯队。Qwen4 面向全领域的真实任务深度优化，可更好地调用专业工具处理长周期任务，推进 AI 在汽车制造、游戏开发、金融投研及科学研究等专业领域的深入落地。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628405"
+  },
+  {
+    "post": "Financial_Express/3628404",
+    "datetime": "2026-11-16T02:35:22+00:00",
+    "views": "13",
+    "text": "印尼要求矿业许可收益大部分归国家 进一步收紧自然资源管控\n印尼总统普拉博沃·苏比安托表示，采矿许可产生的大部分收益应当归国家所有，这是该国强化政府对自然资源管控的最新举措。他周六在苏拉威西省帕卢市的讲话中称：“即日起，所有采矿许可与证照带来的收益，至少 70%必须归属国家。必要时，国家可以接管相关股权。”普拉博沃并未说明该政策是否同时适用于新发放和已有的采矿许可。印尼政府通信局暂未回应置评请求。总统此番表态，是其持续整合庞大大宗商品行业的最新动作。大宗商品出口是雅加达重要的外汇收入来源。印尼是全球最大的动力煤、镍和棕榈油出口国，同时也是铜、锡的主要生产国。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628404"
+  },
+  {
+    "post": "Financial_Express/3628403",
+    "datetime": "2026-11-16T02:35:02+00:00",
+    "views": "45",
+    "text": "方正证券：世界模型持续迭代 AI 重塑游戏制作与交互\n方正证券发布研报称，从真人短剧到 AI 漫剧、AI 真人短剧，再到 AI 互动影游，每一轮内容形态创新的背后都是模型能力的跃迁;技术仍在快速演进，未来还将出现更多前所未见的娱乐体验方式。该行建议沿模型/平台、内容制作发行、IP 内容储备、游戏公司四条主线布局。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628403"
+  },
+  {
     "post": "Financial_Express/3628402",
     "datetime": "2026-11-16T02:34:05+00:00",
-    "views": "4",
+    "views": "46",
     "text": "11 月 16 日，阿里巴巴发布全新一代基座大模型 Qwen4-Max，总参数 2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max 以更少的 Token 消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化：在权威的全球前端编程盲测 CodeArena 中，Qwen4 位居第六；在 Agents’ Last Exam（ALE）、Vals Index 等智能体能力及专业任务三方评测中，Qwen4 均处于领先梯队。Qwen4 面向全领域的真实任务深度优化，可更好地调用专业工具处理长周期任务，推进 AI 在汽车制造、游戏开发、金融投研及科学研究等专业领域的深入落地。\nQwen4-Max 现已上线千问 AI 平台对外提供 API 服务，缓存命中每百万 Tokens 低至 0.5 元，完成单任务的平均费用较上代模型大降 6 成；用户也可通过阿里 Token Plan 调用新模型，或在千问办公、Qoder、千问 APP 等应用中直接体验。据悉，Qwen4 系列中的中小尺寸模型将陆续开源发布。（硬 AI）",
     "media_only": false,
     "image_url": null,
@@ -11,8 +38,8 @@
   {
     "post": "Financial_Express/3628401",
     "datetime": "2026-11-16T02:33:42+00:00",
-    "views": "7",
-    "text": "泰国规划机构：预计 2027 年出口增长 8.6%；预计 2026 年泰国 GDP 增速为 2.5%。",
+    "views": "47",
+    "text": "泰国规划机构：预计 2027 年出口增长 8.6%；预计 2026 年泰国 GDP 增速为 2.5%，预计 2027 年 GDP 增速为 2.0%-3.0%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3628401"
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3628400",
     "datetime": "2026-11-16T02:33:30+00:00",
-    "views": "7",
+    "views": "46",
     "text": "截至早盘收盘，日经 225 指数跌 1.6%，东证指数跌 0.4%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3628398",
     "datetime": "2026-11-16T02:33:22+00:00",
-    "views": "7",
+    "views": "45",
     "text": "国铁集团：1 至 10 月全国铁路完成固定资产投资 6773 亿元\n金十数据 11 月 16 日讯，从国铁集团获悉，今年 1 至 10 月，全国铁路完成固定资产投资 6773 亿元，同比增长 0.9%，一批重点建设项目加快推进。下一步，国铁集团将全面落实国家“十五五”规划《纲要》确定的各项铁路重点工程建设，持续提升铁路投资质量和效益，助力经济社会高质量发展。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3628399",
     "datetime": "2026-11-16T02:33:22+00:00",
-    "views": "7",
+    "views": "46",
     "text": "泰国第三季度 GDP 同比增长 2.9%，环比增长 0.3%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3628397",
     "datetime": "2026-11-16T02:33:04+00:00",
-    "views": "9",
+    "views": "47",
     "text": "11 月 16 日，阿里巴巴发布全新一代基座大模型 Qwen4-Max，总参数 2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max 以更少的 Token 消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化：在权威的全球前端编程盲测 CodeArena 中，Qwen4 位居第六；在 Agents’ Last Exam（ALE）、Vals Index 等智能体能力及专业任务三方评测中，Qwen4 均处于领先梯队。Qwen4 面向全领域的真实任务深度优化，可更好地调用专业工具处理长周期任务，推进 AI 在汽车制造、游戏开发、金融投研及科学研究等专业领域的深入落地。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3628395",
     "datetime": "2026-11-16T02:33:03+00:00",
-    "views": "9",
+    "views": "44",
     "text": "泰国国家经济和社会发展委员会：预计 2026 年泰国出口将增长 20.4%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3628396",
     "datetime": "2026-11-16T02:33:03+00:00",
-    "views": "9",
+    "views": "46",
     "text": "泰国规划机构预计 2027 年 GDP 增速为 2.0%-3.0%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3628394",
     "datetime": "2026-11-16T02:33:02+00:00",
-    "views": "9",
+    "views": "42",
     "text": "泰国规划机构：预计 2026 年泰国 GDP 增速为 2.5%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3628393",
     "datetime": "2026-11-16T02:33:00+00:00",
-    "views": "9",
+    "views": "42",
     "text": "今日 MMLC 电池级碳酸锂（早盘）中间价报 89400 元/吨，较上日 16:30 价格下跌 2750 元/吨。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3628391",
     "datetime": "2026-11-16T02:32:42+00:00",
-    "views": "42",
+    "views": "45",
     "text": "1 至 10 月全国铁路完成固定资产投资 6773 亿元\n记者今天（16 日）从国铁集团获悉，今年 1 至 10 月，全国铁路完成固定资产投资 6773 亿元，同比增长 0.9%，一批重点建设项目加快推进。进入 10 月以来，天府新区至蒲江铁路正式开通运营，与成都至雅安铁路、成都至自贡至宜宾高速铁路衔接，雅安至天府机场站最快 80 分钟可达。淮北至宿州至蚌埠城际铁路、阜阳至蒙城至宿州（淮北）铁路、巢湖至马鞍山城际铁路启动试运行，开通运营进入倒计时。下一步，国铁集团将全面落实国家“十五五”规划《纲要》确定的各项铁路重点工程建设，持续提升铁路投资质量和效益，助力经济社会高质量发展。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3628392",
     "datetime": "2026-11-16T02:32:42+00:00",
-    "views": "43",
+    "views": "46",
     "text": "泰国规划机构：预计 2027 年出口增长 8.6%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3628390",
     "datetime": "2026-11-16T02:32:13+00:00",
-    "views": "45",
+    "views": "47",
     "text": "泰国第三季度 GDP 同比增长 2.9%，预估为 3.1%。\n泰国第三季度 GDP 环比增长 0.3%，预估为 0.8%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3628389",
     "datetime": "2026-11-16T02:31:43+00:00",
-    "views": "46",
+    "views": "48",
     "text": "泰国第三季度政府支出同比下降 1.6%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3628388",
     "datetime": "2026-11-16T02:31:42+00:00",
-    "views": "47",
+    "views": "49",
     "text": "日本东证指数早盘收跌 0.4%，报 3924.08 点。日经指数早盘收跌 1.6%，报 60182.50 点。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3628387",
     "datetime": "2026-11-16T02:31:23+00:00",
-    "views": "47",
+    "views": "49",
     "text": "越南 VN 指数上涨 1%，报 1752.30 点。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3628386",
     "datetime": "2026-11-16T02:31:22+00:00",
-    "views": "47",
+    "views": "49",
     "text": "影视院线板块持续拉升，文投控股、横店影视涨停\n影视院线板块持续拉升，文投控股、横店影视涨停，慈文传媒、儒意电影、北京文化、华策影视、欢瑞世纪跟涨。",
     "media_only": false,
     "image_url": null,
