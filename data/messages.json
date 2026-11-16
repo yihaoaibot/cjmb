@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3631035",
+    "datetime": "2026-11-16T19:19:15+00:00",
+    "views": "1",
+    "text": "摩根大通表示，遇到的“技术问题”导致该行部分交易的处理时间比正常情况下更长。\n该行周一通过电子邮件发表声明说，客户仍然可以访问自己的账户和资金。声明还说，摩根大通正在努力尽快解决问题。\n一位不愿公开身份的知情人士透露，此次事件与网络安全问题无关。\nDowndetector 周一记录了超过 3000 起服务中断报告。纽约时间下午 1 点 33 分，摩根大通下跌 2.3%至 338.24 美元，年内涨幅收窄至近 5%。（彭博）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631035"
+  },
+  {
+    "post": "Financial_Express/3631034",
+    "datetime": "2026-11-16T19:19:03+00:00",
+    "views": "1",
+    "text": "伊朗外长阿拉格齐周一晚间结束与巴基斯坦官员的会谈后离开伊斯兰堡前往马斯喀特。巴方表示，正在等待华盛顿对伊朗有关重新开放霍尔木兹海峡提议的回应。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631034"
+  },
+  {
+    "post": "Financial_Express/3631033",
+    "datetime": "2026-11-16T19:19:02+00:00",
+    "views": "1",
+    "text": "美联储哈玛克：人工智能的影响范围非常广泛。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631033"
+  },
+  {
+    "post": "Financial_Express/3631032",
+    "datetime": "2026-11-16T19:18:42+00:00",
+    "views": "1",
+    "text": "美联储哈马克：将继续表达观点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631032"
+  },
+  {
     "post": "Financial_Express/3631031",
     "datetime": "2026-11-16T19:17:42+00:00",
-    "views": "2",
+    "views": "32",
     "text": "美联储哈马克：劳动力市场可能正显现出一些收紧迹象。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3631030",
     "datetime": "2026-11-16T19:16:25+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美国克利夫兰联储主席哈玛克（Beth Hammack）：我们看到劳动力市场总体上处于平衡状态。（彭博电视）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3631029",
     "datetime": "2026-11-16T19:16:22+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美联储哈玛克：就业市场大体保持平衡，但缺乏活力。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3631028",
     "datetime": "2026-11-16T19:16:01+00:00",
-    "views": "3",
+    "views": "33",
     "text": "微软数据中心自 7 月份以来就存在未检测出的漏洞，造成了全球范围的服务中断。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3631027",
     "datetime": "2026-11-16T19:15:42+00:00",
-    "views": "4",
+    "views": "34",
     "text": "美联储哈马克：我们看到劳动力市场总体处于平衡状态。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3631026",
     "datetime": "2026-11-16T19:15:22+00:00",
-    "views": "4",
+    "views": "34",
     "text": "美联储哈玛克：担心企业对涨价的接受程度正在提高。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3631025",
     "datetime": "2026-11-16T19:14:42+00:00",
-    "views": "5",
+    "views": "35",
     "text": "美联储哈玛克：企业正在转嫁更多价格上涨。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3631024",
     "datetime": "2026-11-16T19:14:22+00:00",
-    "views": "5",
+    "views": "35",
     "text": "美联储哈马克：企业正在更多地转嫁成本，以保护利润率。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3631016",
     "datetime": "2026-11-16T19:12:42+00:00",
-    "views": "13",
+    "views": "43",
     "text": "微软一个自 7 月起就未被发现的漏洞引发全球服务中断\n上周造成微软办公软件瘫痪的漏洞，从 7 月起就潜伏在其数据中心，始终未被检出。11 月 11 日一次常规用户流量路由调整触发了系统故障，支撑 Outlook、Teams 等服务的关键服务器发生宕机。微软在发现故障后，耗时 15 小时定位问题并开始推送修复程序。此次中断让大量企业与政府客户的业务陷入停滞。",
     "media_only": false,
     "image_url": null,
@@ -30175,14 +30211,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3627175"
-  },
-  {
-    "post": "Financial_Express/3627174",
-    "datetime": "2026-11-14T19:20:02+00:00",
-    "views": "189",
-    "text": "伊朗国家电视台发布视频，警告该国“霍拉姆沙赫尔”弹道导弹的改进型号可覆盖欧洲军事基地，视频中明确将英国费尔福德皇家空军基地列为潜在打击目标。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627174"
   }
 ]
