@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3630762",
+    "datetime": "2026-11-16T16:11:34+00:00",
+    "views": "2",
+    "text": "11 月 13 日，在华盛顿出席美国保守派团体的一场会议时，鲁比奥威胁称，美方可以用武力阻止国际刑事法院的执法：“如果他们愚蠢到试图强制执行纸面的法令，我们的回答很可能与罗马将军庞培相同。他曾对那些试图援引城市章程对抗其军团的人说：‘别向持剑之人讲什么法律。’”11 月 15 日，美国国防部长赫格塞思在社交平台 X 转发相关视频，重申了这句话。\n伊朗外长阿拉格齐 15 日在 X 平台发文提醒：“‘别向持剑之人讲什么法律’这句话出自一位罗马将军之口。尽管兵力占优，他的最后一场战役却以惨败告终。”阿拉格齐还引用了西班牙裔美国哲学家乔治·桑塔亚纳的名言“忘记历史的人注定要重蹈覆辙”作为回应。庞培于公元前 48 年法萨卢斯战役败于恺撒，逃往埃及后被杀。（环球网）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630762"
+  },
+  {
     "post": "Financial_Express/3630761",
     "datetime": "2026-11-16T16:09:54+00:00",
-    "views": "2",
+    "views": "32",
     "text": "美国证券交易委员会（SEC）文件显示，穆巴达拉投资公司 PJSC 将其在英伟达(NVDA.O)的持股比例削减 6.7%，至 60,929 股。",
     "media_only": false,
     "image_url": null,
@@ -11,8 +20,8 @@
   {
     "post": "Financial_Express/3630760",
     "datetime": "2026-11-16T16:09:32+00:00",
-    "views": "3",
-    "text": "欧元兑美元自 2025 年以来首次跌破 1.10",
+    "views": "33",
+    "text": "欧元兑美元自 2025 年以来首次跌破 1.1。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3630760"
@@ -20,7 +29,7 @@
   {
     "post": "Financial_Express/3630759",
     "datetime": "2026-11-16T16:06:19+00:00",
-    "views": "39",
+    "views": "69",
     "text": "一家由斯坦福大学两位知名人工智能（AI）专家联合创办、成立仅五个月的初创公司，已获得多家大型科技公司的投资，旨在帮助企业无缝改进和定制 AI 产品以满足其需求。\nMenlo Ventures 领投了 Noeri 的 1.1 亿美元融资，Madrona Venture Group、Kindred Ventures 和 NEA 参与投资。英伟达、Snowflake Inc.和思科系统也对该初创公司进行了投资。估值未披露。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +56,7 @@
   {
     "post": "Financial_Express/3630756",
     "datetime": "2026-11-16T16:03:23+00:00",
-    "views": "75",
+    "views": "105",
     "text": "英伟达宣布与 IBM 及费米国家加速器实验室合作，推出量子-经典协同设计平台，并在纠错方面取得突破，以推进实用量子计算。\n英伟达 DDGX B200 系统将连接 IBM Quantum Nighthawk 量子计算机。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +74,7 @@
   {
     "post": "Financial_Express/3630754",
     "datetime": "2026-11-16T16:03:02+00:00",
-    "views": "55",
+    "views": "85",
     "text": "Claude 在办公场景中与 Copilot 的竞争中陷入停滞。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +83,7 @@
   {
     "post": "Financial_Express/3630753",
     "datetime": "2026-11-16T16:02:42+00:00",
-    "views": "60",
+    "views": "90",
     "text": "英伟达：Vera CPU 机架预计将于 2027 年初起由戴尔科技、慧与、联想和超微电脑供应。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +92,7 @@
   {
     "post": "Financial_Express/3630752",
     "datetime": "2026-11-16T16:02:02+00:00",
-    "views": "72",
+    "views": "102",
     "text": "英伟达(NVDA.O)：Vera CPU 机架预计自 2027 年初起由戴尔(DELL.N)、慧与、联想和超微电脑(SMCI.O)供应。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +101,7 @@
   {
     "post": "Financial_Express/3630751",
     "datetime": "2026-11-16T16:01:42+00:00",
-    "views": "76",
+    "views": "106",
     "text": "英伟达(NVDA.O)：英伟达 DDGX B200 系统将连接 IBM Quantum Nighthawk 量子计算机。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +128,7 @@
   {
     "post": "Financial_Express/3630747",
     "datetime": "2026-11-16T16:01:03+00:00",
-    "views": "83",
+    "views": "113",
     "text": "英伟达宣布与 IBM 及费米国家加速器实验室合作，推出量子-经典协同设计平台，并在纠错方面取得突破，以推进实用量子计算。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +155,7 @@
   {
     "post": "Financial_Express/3630743",
     "datetime": "2026-11-16T16:00:42+00:00",
-    "views": "54",
+    "views": "84",
     "text": "英伟达(NVDA.O)推出面向科学的 Nemotron，借助智能体加速科研发现。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +164,7 @@
   {
     "post": "Financial_Express/3630744",
     "datetime": "2026-11-16T16:00:42+00:00",
-    "views": "58",
+    "views": "88",
     "text": "英伟达推出面向科学研究的 Nemotron，借助智能体加速科研发现。",
     "media_only": false,
     "image_url": null,
@@ -29905,41 +29914,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3627082"
-  },
-  {
-    "post": "Financial_Express/3627080",
-    "datetime": "2026-11-14T16:13:03+00:00",
-    "views": "58",
-    "text": "美国交通部长达菲：69%的老旧空中交通管制通信设备已完成更换，部分设备已使用 30 年，亟需升级；已向国会申请资金，希望两党合作推进系统现代化。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627080"
-  },
-  {
-    "post": "Financial_Express/3627079",
-    "datetime": "2026-11-14T16:13:02+00:00",
-    "views": "58",
-    "text": "美国联邦航空管理局（FAA）局长：周六航空系统仍保持稳定运行。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627079"
-  },
-  {
-    "post": "Financial_Express/3627078",
-    "datetime": "2026-11-14T16:12:02+00:00",
-    "views": "59",
-    "text": "美国官员：就航班中断向美国公众道歉。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627078"
-  },
-  {
-    "post": "Financial_Express/3627077",
-    "datetime": "2026-11-14T16:11:42+00:00",
-    "views": "57",
-    "text": "美国交通部长达菲：正在调查 L3Harris 是否应对 FAA 技术故障负责。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627077"
   }
 ]
