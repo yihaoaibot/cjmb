@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3631104",
+    "datetime": "2026-11-16T20:02:03+00:00",
+    "views": "2",
+    "text": "新西兰储备银行金融稳定报告：尽管全球风险加剧，金融体系仍保持韧性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631104"
+  },
+  {
+    "post": "Financial_Express/3631103",
+    "datetime": "2026-11-16T20:02:02+00:00",
+    "views": "4",
+    "text": "新西兰储备银行金融稳定报告：全球风险上升，金融体系仍保持韧性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631103"
+  },
+  {
+    "post": "Financial_Express/3631102",
+    "datetime": "2026-11-16T20:01:25+00:00",
+    "views": "9",
+    "text": "新西兰联储：金融系统保持韧性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631102"
+  },
+  {
+    "post": "Financial_Express/3631101",
+    "datetime": "2026-11-16T20:00:42+00:00",
+    "views": "14",
+    "text": "亨廷顿·英格尔斯工业公司获得为美国海军增产“狮子鱼”无人潜航器的合同。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3631101"
+  },
+  {
     "post": "Financial_Express/3631100",
     "datetime": "2026-11-16T19:56:27+00:00",
-    "views": "48",
+    "views": "54",
     "text": "阿拉比卡咖啡库存下滑 12%，创最近约三年最大降幅，至 18.64 万袋，创 1999 年 3 月 8 日以来新低。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3631099",
     "datetime": "2026-11-16T19:54:30+00:00",
-    "views": "55",
+    "views": "61",
     "text": "周一（11 月 16 日）纽约尾盘，彭博谷物分类指数跌 0.24%，报 29.6597 点，亚太早盘开始交易以来持续处于下跌状态。\nCBOT 玉米期货涨 0.44%，CBOT 小麦期货跌 1.07%，CBOT 大豆期货跌 0.57%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3631098",
     "datetime": "2026-11-16T19:51:22+00:00",
-    "views": "66",
+    "views": "71",
     "text": "美联储哈马克：沟通是美联储工作的关键部分。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3631097",
     "datetime": "2026-11-16T19:50:22+00:00",
-    "views": "70",
+    "views": "105",
     "text": "伊朗外长抵达阿曼马斯喀特。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3631096",
     "datetime": "2026-11-16T19:50:02+00:00",
-    "views": "71",
+    "views": "106",
     "text": "Kalshi 收购经纪公司后拟推出股票交易\n预测平台 Kalshi 于 7 月收购总部位于纽约的经纪公司 FB Securities 后，计划在两个月内推出股票和 ETF 交易。此举将使 Kalshi 的业务从预测市场和永续期货进一步扩展，该公司正寻求打造一个多资产金融交易所。Kalshi 还在讨论以 650 亿美元估值进行一轮融资，并计划推出人工智能算力期货。此次扩张之际，预测市场正面临日益严格的监管审查。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3631095",
     "datetime": "2026-11-16T19:49:22+00:00",
-    "views": "72",
+    "views": "107",
     "text": "DHL 供应链业务实现可持续收入同比增长 12%，企业正转型其全球供应链。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3631094",
     "datetime": "2026-11-16T19:48:22+00:00",
-    "views": "77",
+    "views": "110",
     "text": "美国参议员沃伦谈及 CVS 和信诺：是时候拆分大型医疗巨头了。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3631093",
     "datetime": "2026-11-16T19:47:42+00:00",
-    "views": "76",
+    "views": "110",
     "text": "微软披露全球服务中断原因 7 月遗留漏洞导致服务器内存耗尽\n金十数据 11 月 17 日讯，微软(MSFT.O)披露，上周导致全球服务中断的程序漏洞自今年 7 月起便潜伏在数据中心，直至 11 月 11 日调整用户流量路由后才被触发，导致 Outlook、Teams 及 Copilot 等服务出现故障。微软约 15 小时后才发现问题，随后又耗费约 15 小时排查并部署修复方案。故障期间，Teams 流量被转移至与 Outlook 共用的服务器系统，加上此前服务器容量下降，意外流量激增导致服务器内存耗尽。自动流量调度机制又将请求转移至其他服务器，引发连锁故障。由于漏洞已存在数月，回滚近期更新也未能解决问题。微软表示，内部测试未能复现真实流量及硬件环境，且该漏洞在处理能力更强的新型硬件上破坏性更大。此次事故暴露出企业过度依赖单一技术供应商的风险。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3631092",
     "datetime": "2026-11-16T19:47:16+00:00",
-    "views": "74",
+    "views": "76",
     "text": "Tradeweb 面向美国国债交易员们推出 AI 助理。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3631091",
     "datetime": "2026-11-16T19:45:04+00:00",
-    "views": "76",
+    "views": "107",
     "text": "美国副总统 JD·万斯谈及伊朗战事时表示：“我们不会让这场战争变成一场持续十年、十五年的行动，坦白说，甚至两年都不行。”“我们不会永久驻扎在当地。”“我完全相信总统会带领我们以理想结果结束这场冲突。”",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3631090",
     "datetime": "2026-11-16T19:44:43+00:00",
-    "views": "75",
+    "views": "107",
     "text": "Kalshi 计划未来两个月内推出股票和 ETF 交易。（华尔街日报）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3631089",
     "datetime": "2026-11-16T19:43:50+00:00",
-    "views": "74",
+    "views": "75",
     "text": "WTI 12 月原油期货收跌 2.84 美元，跌幅 3.21%，报 85.72 美元/桶。\n布伦特 1 月原油期货收跌 3.40 美元，跌幅 3.55%，报 92.44 美元/桶。\nNYMEX 12 月天然气期货收报 3.1220 美元/百万英热单位。\nNYMEX 12 月汽油期货收报 2.5379 美元/加仑，NYMEX 12 月取暖油期货收报 4.0818 美元/加仑。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3631088",
     "datetime": "2026-11-16T19:43:42+00:00",
-    "views": "76",
+    "views": "78",
     "text": "美联储哈玛克重申支持小幅、渐进式加息\n金十数据 11 月 17 日讯，克利夫兰联储主席贝丝·哈玛克重申，她倾向于以小幅、稳定的步伐逐步加息，并在连续多次议息会议上实施渐进式收紧，以确保限制性货币政策充分传导至经济，推动通胀回落至美联储 2%的目标。哈玛克表示，她更倾向于持续、稳步地调整利率，而非采取大幅加息措施。美联储 9 月自 2023 年以来首次加息，10 月则维持利率不变。目前，多名政策制定者暗示，美联储可能在 12 月下一次会议上再次加息，期货市场也已计入明年 1 月再次加息的可能性。哈玛克是美联储最鹰派的官员之一，她是今年的 FOMC 票委。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3631087",
     "datetime": "2026-11-16T19:42:22+00:00",
-    "views": "76",
+    "views": "77",
     "text": "布伦特原油期货结算价为每桶 92.44 美元，下跌 3.40 美元，跌幅 3.55%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3631086",
     "datetime": "2026-11-16T19:41:02+00:00",
-    "views": "76",
+    "views": "77",
     "text": "力拓集团：此举（重启第四条电解铝生产线）每年可为新西兰增加约 1 亿新西兰元的出口收入。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3631085",
     "datetime": "2026-11-16T19:39:02+00:00",
-    "views": "76",
+    "views": "77",
     "text": "惠誉：Diamondback 的评级不受收购 Double Eagle 交易影响。",
     "media_only": false,
     "image_url": null,
