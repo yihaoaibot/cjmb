@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3628075",
+    "datetime": "2026-11-16T01:02:02+00:00",
+    "views": "5",
+    "text": "英伟达(NVDA.O)在美股夜盘上涨 1%，此前媒体报道称黄仁勋考虑重返英伟达担任 CEO。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628075"
+  },
+  {
+    "post": "Financial_Express/3628074",
+    "datetime": "2026-11-16T01:01:23+00:00",
+    "views": "8",
+    "text": "白银连续主力合约日内跌 4%，现报 11576.00 元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628074"
+  },
+  {
+    "post": "Financial_Express/3628072",
+    "datetime": "2026-11-16T01:01:22+00:00",
+    "views": "8",
+    "text": "富时中国 A50 指数期货开盘涨 0.04%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628072"
+  },
+  {
+    "post": "Financial_Express/3628073",
+    "datetime": "2026-11-16T01:01:22+00:00",
+    "views": "8",
+    "text": "集运指数欧线期货连续主力合约日内涨 4%，现报 2665.00 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628073"
+  },
+  {
+    "post": "Financial_Express/3628071",
+    "datetime": "2026-11-16T01:00:54+00:00",
+    "views": "43",
+    "text": "台湾证交所加权股价指数开低 0.4%报 43,512.42 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628071"
+  },
+  {
+    "post": "Financial_Express/3628070",
+    "datetime": "2026-11-16T01:00:43+00:00",
+    "views": "43",
+    "text": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤\n 外交部发言人宣布：11 月 19 日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。(外交部)",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628070"
+  },
+  {
+    "post": "Financial_Express/3628069",
+    "datetime": "2026-11-16T01:00:42+00:00",
+    "views": "43",
+    "text": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤\n金十数据 11 月 16 日讯，11 月 19 日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3628069"
+  },
+  {
     "post": "Financial_Express/3628068",
     "datetime": "2026-11-16T01:00:31+00:00",
-    "views": "5",
+    "views": "45",
     "text": "钯金期货日内跌 1%，现报 997.50 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3628066",
     "datetime": "2026-11-16T01:00:30+00:00",
-    "views": "5",
+    "views": "44",
     "text": "白银连续主力合约日内跌 3%，现报 11695.00 元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3628067",
     "datetime": "2026-11-16T01:00:30+00:00",
-    "views": "5",
+    "views": "45",
     "text": "富时中国 A50 指数期货盘初涨 0.04%，上一个交易日夜盘收涨 0.01%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3628065",
     "datetime": "2026-11-16T01:00:24+00:00",
-    "views": "6",
+    "views": "44",
     "text": "商品期货开盘\n白银连续跌 2.98%，丁二烯橡胶连续涨 2.50%，集运指数欧线期货连续涨 2.18%，铂连续跌 1.96%，烧碱连续跌 1.82%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3628062",
     "datetime": "2026-11-16T01:00:23+00:00",
-    "views": "6",
+    "views": "43",
     "text": "白银连续主力合约日内跌 2%，现报 11701.00 元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3628063",
     "datetime": "2026-11-16T01:00:23+00:00",
-    "views": "6",
+    "views": "43",
     "text": "富时中国 A50 指数期货开盘上涨 0.03%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3628064",
     "datetime": "2026-11-16T01:00:23+00:00",
-    "views": "6",
+    "views": "43",
     "text": "甲醇连续主力合约日内涨 1%，现报 3263.00 元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3628061",
     "datetime": "2026-11-16T01:00:22+00:00",
-    "views": "6",
+    "views": "43",
     "text": "纯碱连续主力合约日内跌 1%，现报 980.00 元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3628060",
     "datetime": "2026-11-16T01:00:03+00:00",
-    "views": "7",
+    "views": "42",
     "text": "商品期货开盘，BR 橡胶、甲醇主力合约涨超 2%，集运欧线、生猪、聚丙烯、焦煤、燃料油等涨超 1%。沪银、烧碱跌超 2%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3628059",
     "datetime": "2026-11-16T00:58:42+00:00",
-    "views": "45",
+    "views": "48",
     "text": "新世界发展：公司股份及债券于 2026 年 11 月 16 日上午九时起恢复买卖\n 新世界发展公告，公司股份（证券代号：00017）和债券（证券代号：04526, 05149, 05312, 05321, 05343, 05418, 05856, 40110, 40223, 40262, 40504, 40534, 40711 及 40742）将于今天（2026 年 11 月 16 日）上午九时正起恢复买卖。因此，与该公司有关的所有结构性产品亦将同时恢复买卖。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3628058",
     "datetime": "2026-11-16T00:58:02+00:00",
-    "views": "48",
+    "views": "52",
     "text": "天鹅股份投资成立智能烘干设备新公司\n 企查查 APP 显示，近日，山东天鹅智能烘干设备有限公司成立，经营范围包含农林牧渔机械配件销售；农林牧渔机械配件制造；通用设备制造（不含特种设备制造）等。企查查股权穿透显示，该公司由天鹅股份全资持股。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3628056",
     "datetime": "2026-11-16T00:57:42+00:00",
-    "views": "49",
+    "views": "53",
     "text": "香港交易所推出离岸人民币债券指数\n据香港交易所公告，香港交易及结算所有限公司（香港交易所）今天（星期一）宣布推出香港交易所离岸人民币债券指数。这是香港交易所首个冠名固定收益指数，也是香港首个追踪在港发行点心债的基准指数。新指数为投资者提供透明且具代表性的市场参考，并支持产品创新，进一步体现香港交易所持续致力发展香港离岸人民币生态圈的承诺。\n\n香港交易所集团行政总裁陈翊庭表示：“香港是全球领先的离岸人民币金融枢纽。这次推出‘香港交易所离岸人民币债券指数’，将推动香港固定收益市场从产品发行迈向更完善的生态圈，提升市场的深度、流动性及可投资性。我们致力建立以香港市场基础设施为根基、透明且获广泛认可的基准，提高离岸人民币资产的市场认受性，吸引更多国际投资者参与其中，进一步推动人民币国际化。我们很高兴与彭博合作，凭借其全球指数专业知识及市场网络，便利更多投资者进入离岸人民币市场，推动市场蓬勃发展。”\n\n香港交易所离岸人民币债券指数纳入债券的范围包括离岸人民币计价国债、政府相关债券及企业债券，须在香港联合交易所有限公司（联交所）上市及／或存放于债务工具中央结算系统（CMU），并符合指数编制方法所订的纳入标准。\n\n新指数的推出将有助巩固香港在一级市场债券发行的优势，推动二级市场产品创新，吸引更多投资者参与，并提升香港作为债券发行市场基础设施的市场能见度。香港交易所离岸人民币债券指数将作为联名指数系列的母指数，为未来的离岸人民币债券 ETF、指数基金及其他投资产品奠定基础，助机构及零售投资者更有效地配置离岸人民币资产。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3628057",
     "datetime": "2026-11-16T00:57:42+00:00",
-    "views": "48",
+    "views": "52",
     "text": "汇创达等成立创芯存储芯片技术公司\n 企查查 APP 显示，近日，广东创芯存储芯片技术有限公司成立，经营范围包含集成电路制造；集成电路销售；集成电路设计；集成电路芯片及产品制造；集成电路芯片设计及服务等。企查查股权穿透显示，该公司由汇创达等共同持股。",
     "media_only": false,
     "image_url": null,
@@ -13687,23 +13750,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3626542"
-  },
-  {
-    "post": "Financial_Express/3626541",
-    "datetime": "2026-11-14T01:03:02+00:00",
-    "views": "141",
-    "text": "加拿大航空将取消当晚所有往返美国的航班。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3626541"
-  },
-  {
-    "post": "Financial_Express/3626540",
-    "datetime": "2026-11-14T01:02:59+00:00",
-    "views": "141",
-    "text": "加拿大航空将取消周五当晚所有往返美国的航班。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3626540"
   }
 ]
