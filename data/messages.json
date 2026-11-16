@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3630761",
+    "datetime": "2026-11-16T16:09:54+00:00",
+    "views": "2",
+    "text": "美国证券交易委员会（SEC）文件显示，穆巴达拉投资公司 PJSC 将其在英伟达(NVDA.O)的持股比例削减 6.7%，至 60,929 股。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630761"
+  },
+  {
+    "post": "Financial_Express/3630760",
+    "datetime": "2026-11-16T16:09:32+00:00",
+    "views": "3",
+    "text": "欧元兑美元自 2025 年以来首次跌破 1.10",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3630760"
+  },
+  {
     "post": "Financial_Express/3630759",
     "datetime": "2026-11-16T16:06:19+00:00",
-    "views": "6",
+    "views": "39",
     "text": "一家由斯坦福大学两位知名人工智能（AI）专家联合创办、成立仅五个月的初创公司，已获得多家大型科技公司的投资，旨在帮助企业无缝改进和定制 AI 产品以满足其需求。\nMenlo Ventures 领投了 Noeri 的 1.1 亿美元融资，Madrona Venture Group、Kindred Ventures 和 NEA 参与投资。英伟达、Snowflake Inc.和思科系统也对该初创公司进行了投资。估值未披露。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3630758",
     "datetime": "2026-11-16T16:04:02+00:00",
-    "views": "39",
+    "views": "72",
     "text": "据 The Information：Claude 在微软(MSFT.O)365 中的使用量不足 Copilot 的十分之一，且差距正在扩大。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3630757",
     "datetime": "2026-11-16T16:03:42+00:00",
-    "views": "41",
+    "views": "74",
     "text": "Claude 在微软 365 中的使用量不到 Copilot 的十分之一，且差距正在扩大。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3630756",
     "datetime": "2026-11-16T16:03:23+00:00",
-    "views": "42",
+    "views": "75",
     "text": "英伟达宣布与 IBM 及费米国家加速器实验室合作，推出量子-经典协同设计平台，并在纠错方面取得突破，以推进实用量子计算。\n英伟达 DDGX B200 系统将连接 IBM Quantum Nighthawk 量子计算机。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3630755",
     "datetime": "2026-11-16T16:03:22+00:00",
-    "views": "42",
+    "views": "75",
     "text": "在办公场景中 Claude 对 Copilot 的竞争陷入停滞。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3630754",
     "datetime": "2026-11-16T16:03:02+00:00",
-    "views": "52",
+    "views": "55",
     "text": "Claude 在办公场景中与 Copilot 的竞争中陷入停滞。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3630753",
     "datetime": "2026-11-16T16:02:42+00:00",
-    "views": "58",
+    "views": "60",
     "text": "英伟达：Vera CPU 机架预计将于 2027 年初起由戴尔科技、慧与、联想和超微电脑供应。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3630752",
     "datetime": "2026-11-16T16:02:02+00:00",
-    "views": "70",
+    "views": "72",
     "text": "英伟达(NVDA.O)：Vera CPU 机架预计自 2027 年初起由戴尔(DELL.N)、慧与、联想和超微电脑(SMCI.O)供应。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3630751",
     "datetime": "2026-11-16T16:01:42+00:00",
-    "views": "44",
+    "views": "76",
     "text": "英伟达(NVDA.O)：英伟达 DDGX B200 系统将连接 IBM Quantum Nighthawk 量子计算机。",
     "media_only": false,
     "image_url": null,
@@ -83,8 +101,8 @@
   {
     "post": "Financial_Express/3630749",
     "datetime": "2026-11-16T16:01:09+00:00",
-    "views": "52",
-    "text": "英伟达扩展 Vera CPU 平台，以加速科学发现。\n推出面向科学研究的 Nemotron，借助智能体加速科研发现。\nVera CPU 机架预计将于 2027 年初起由戴尔科技、惠普企业（HPQ）、联想和超微电脑供应。\nVera CPU 机架预计将于 2027 年初起由戴尔科技、慧与、联想和超微电脑供应。",
+    "views": "113",
+    "text": "英伟达扩展 Vera CPU 平台，以加速科学发现。\n针对科学计算推出 Rubin HPC GPU，2028 年上市。\n推出面向科学研究的 Nemotron，借助智能体加速科研发现。\nVera CPU 机架预计将于 2027 年初起由戴尔科技、惠普企业（HPQ）、联想和超微电脑供应。\nVera CPU 机架预计将于 2027 年初起由戴尔科技、慧与、联想和超微电脑供应。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3630749"
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3630748",
     "datetime": "2026-11-16T16:01:04+00:00",
-    "views": "52",
+    "views": "113",
     "text": "英伟达扩展 Vera CPU 平台，以加速科学发现。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3630747",
     "datetime": "2026-11-16T16:01:03+00:00",
-    "views": "52",
+    "views": "83",
     "text": "英伟达宣布与 IBM 及费米国家加速器实验室合作，推出量子-经典协同设计平台，并在纠错方面取得突破，以推进实用量子计算。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3630745",
     "datetime": "2026-11-16T16:01:02+00:00",
-    "views": "53",
+    "views": "84",
     "text": "IBM(IBM.N)、费米实验室和英伟达(NVDA.O)宣布计划共建协同设计平台，以加速下一代模块化量子计算机的开发。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3630746",
     "datetime": "2026-11-16T16:01:02+00:00",
-    "views": "53",
+    "views": "84",
     "text": "英伟达(NVDA.O)扩展 Vera CPU 平台，以加速科学发现。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3630744",
     "datetime": "2026-11-16T16:00:42+00:00",
-    "views": "57",
+    "views": "58",
     "text": "英伟达推出面向科学研究的 Nemotron，借助智能体加速科研发现。",
     "media_only": false,
     "image_url": null,
@@ -29923,23 +29941,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3627077"
-  },
-  {
-    "post": "Financial_Express/3627076",
-    "datetime": "2026-11-14T16:09:43+00:00",
-    "views": "92",
-    "text": "美国交通部长达菲：在航空停运期间，承包商 L3Harris 当时正在进行通信设备维护工作。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627076"
-  },
-  {
-    "post": "Financial_Express/3627075",
-    "datetime": "2026-11-14T16:09:02+00:00",
-    "views": "94",
-    "text": "美国交通部长达菲：总统特朗普在通话中表示将动用一切资源支持联邦航空管理局。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627075"
   }
 ]
