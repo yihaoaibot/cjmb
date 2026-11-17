@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3634663",
+    "datetime": "2026-11-17T18:08:42+00:00",
+    "views": "15",
+    "text": "英伟达董事会新设委员会 监督国家安全政策、出口管制合规等事务\n英伟达董事会成立了一个新的委员会，负责监督国家安全和出口管制事务。英伟达周二表示，新设立的委员会将由董事、前高盛高管 Suzanne Nora Johnson 担任主席，另外两名董事 Stephen Neal 和 John Dabiri 也将加入该委员会。这是临时首席执行官 Colette Kress 上周获任命后推动的首批调整之一。此前，黄仁勋辞去了英伟达首席执行官一职。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634663"
+  },
+  {
+    "post": "Financial_Express/3634662",
+    "datetime": "2026-11-17T18:08:22+00:00",
+    "views": "17",
+    "text": "德国国防部长：与其批评此类打击，不如讨论针对俄罗斯境内非民用目标实施的合法、正当打击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634662"
+  },
+  {
+    "post": "Financial_Express/3634661",
+    "datetime": "2026-11-17T18:08:02+00:00",
+    "views": "18",
+    "text": "市场资讯：耐克调整中国电商平台策略，短期内将加剧业绩压力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634661"
+  },
+  {
+    "post": "Financial_Express/3634660",
+    "datetime": "2026-11-17T18:07:42+00:00",
+    "views": "18",
+    "text": "赛富时：Informatica 在微软 Ignite 2026 大会上宣布扩大与微软的合作。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634660"
+  },
+  {
+    "post": "Financial_Express/3634659",
+    "datetime": "2026-11-17T18:07:03+00:00",
+    "views": "16",
+    "text": "赛富时与微软宣布推出 CopilotForce，将赛富时的客户背景和销售工作流引入微软 Copilot。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634659"
+  },
+  {
+    "post": "Financial_Express/3634658",
+    "datetime": "2026-11-17T18:07:02+00:00",
+    "views": "16",
+    "text": "Salesforce(CRM.N)与微软(MSFT.O)宣布推出 Copilotforce，将 Salesforce 的客户信息及销售工作流程整合至微软 Copilot。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634658"
+  },
+  {
     "post": "Financial_Express/3634657",
     "datetime": "2026-11-17T18:06:02+00:00",
-    "views": "6",
+    "views": "47",
     "text": "德国国防部长：批评像俄罗斯那样打击战略军事目标及军用目标的行动，是相当愚蠢的。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3634656",
     "datetime": "2026-11-17T18:05:42+00:00",
-    "views": "6",
+    "views": "47",
     "text": "德国国防部长：批评乌克兰对俄罗斯境内战略军事目标及军民两用目标实施的此类打击，是相当愚蠢的。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3634655",
     "datetime": "2026-11-17T18:05:22+00:00",
-    "views": "7",
+    "views": "47",
     "text": "北约秘书长吕特就纵深打击表态：重要的是使俄罗斯的战争机器瘫痪。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3634654",
     "datetime": "2026-11-17T18:05:03+00:00",
-    "views": "8",
+    "views": "48",
     "text": "欧洲 STOXX 600 指数收涨 1.75%，报 650.72 点，连续第二个交易日撤离收盘历史最高位。\n欧元区 STOXX 50 指数收跌 2.15%，报 6212.11 点，低开之后持续交投于 6280 点附近，美股盘初出现一波加速下跌行情，最近三个交易日累跌 2.92%。\n富时泛欧绩优 300 指数收跌 1.78%，报 2594.62 点。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3634653",
     "datetime": "2026-11-17T18:04:42+00:00",
-    "views": "38",
+    "views": "47",
     "text": "北约秘书长吕特谈及对俄罗斯境内纵深打击时表示，瘫痪俄罗斯的战争机器至关重要。",
     "media_only": false,
     "image_url": null,
@@ -47,8 +101,8 @@
   {
     "post": "Financial_Express/3634652",
     "datetime": "2026-11-17T18:04:22+00:00",
-    "views": "39",
-    "text": "OpenAI 推出 GPT-6.2 Astra 和 Sol 性能提升同时降低使用成本\n金十数据 11 月 18 日讯，OpenAI 推出 GPT-6.2Astra 和 GPT-6.2Sol 两款新模型，分别面向复杂专业任务和日常工作。GPT-6.2Astra 强化文档、演示文稿、电子表格、编程及科研能力，在多步骤专业任务评测中较上一代提高 5.2 分，执行成本不到三分之一；API 输入和输出价格均下调 20%，缓存输入价格下调 60%。其 API 价格为每百万 Token 输入 8 美元、缓存输入 0.4 美元、输出 40 美元。GPT-6.2Sol 则侧重日常任务及多步骤工作流，API 价格维持上一代水平，分别为每百万词元输入 2 美元、缓存输入 0.1 美元、输出 10 美元。此外，两款模型均加强了计算机操作、网页设计、3D 建模及网络安全能力，现已向符合条件的 ChatGPTWork 和 Codex 用户开放，并提供 API 接入。",
+    "views": "46",
+    "text": "OpenAI 推出 GPT-6.2 Astra 和 Sol 性能提升同时降低使用成本\n金十数据 11 月 18 日讯，OpenAI 推出 GPT-6.2Astra 和 GPT-6.2Sol 两款新模型，分别面向复杂专业任务和日常工作。GPT-6.2Astra 强化文档、演示文稿、电子表格、编程及科研能力，在多步骤专业任务评测中较上一代提高 5.2 分，执行成本不到三分之一；API 输入和输出价格均下调 20%，缓存输入价格下调 60%。其 API 价格为每百万词元输入 8 美元、缓存输入 0.4 美元、输出 40 美元。GPT-6.2Sol 则侧重日常任务及多步骤工作流，API 价格维持上一代水平，分别为每百万词元输入 2 美元、缓存输入 0.1 美元、输出 10 美元。此外，两款模型均加强了计算机操作、网页设计、3D 建模及网络安全能力，现已向符合条件的 ChatGPTWork 和 Codex 用户开放，并提供 API 接入。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3634652"
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3634651",
     "datetime": "2026-11-17T18:03:22+00:00",
-    "views": "43",
+    "views": "50",
     "text": "Meta：Muse 免费提供，另有可选订阅方案。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3634650",
     "datetime": "2026-11-17T18:03:03+00:00",
-    "views": "44",
+    "views": "51",
     "text": "Meta：旗下 Muse 应用现已在澳大利亚上线，支持 iOS、Android 及 Mac 端（通过 muse.ai 访问），并计划不久后登陆 AI 眼镜平台。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3634649",
     "datetime": "2026-11-17T18:03:02+00:00",
-    "views": "43",
+    "views": "50",
     "text": "Meta Platforms(META.O)：Muse 可免费使用，并提供可选订阅方案。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3634647",
     "datetime": "2026-11-17T18:01:42+00:00",
-    "views": "48",
+    "views": "55",
     "text": "META：MUSE 现已在澳大利亚上线。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3634646",
     "datetime": "2026-11-17T18:00:42+00:00",
-    "views": "53",
+    "views": "59",
     "text": "俄总统特别代表德米特里耶夫：欧洲应将重点放在资助乌克兰战后重建上，而不是延长战争。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3634645",
     "datetime": "2026-11-17T17:59:34+00:00",
-    "views": "88",
+    "views": "92",
     "text": "耐克：致力于赢得新一代中国消费者的青睐。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3634643",
     "datetime": "2026-11-17T17:58:22+00:00",
-    "views": "91",
+    "views": "95",
     "text": "俄总统特别代表德米特里耶夫：欧洲应专注于为乌克兰重建提供资金，而非延长战争。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3634644",
     "datetime": "2026-11-17T17:58:22+00:00",
-    "views": "91",
+    "views": "95",
     "text": "耐克：我们的产品在中国市场往往缺乏辨识度。",
     "media_only": false,
     "image_url": null,
@@ -56824,14 +56878,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3627766"
-  },
-  {
-    "post": "Financial_Express/3627765",
-    "datetime": "2026-11-15T18:09:02+00:00",
-    "views": "137",
-    "text": "纽约原油暗盘突破 87 美元，日内涨超 0.6%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627765"
   }
 ]
