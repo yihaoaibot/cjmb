@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3634689",
+    "datetime": "2026-11-17T18:16:02+00:00",
+    "views": "9",
+    "text": "微软推出六款 AI 模型 以低成本挑战 OpenAI 和 Anthropic\n金十数据 11 月 18 日讯，据 Axios 报道，微软(MSFT.O)周二推出六款 AI 模型，覆盖编程、网络安全、图像生成及语音等领域。微软称，MAI Code 2 性能达到 GPT-6.1 Sol 的 98%，价格仅为其 40%；相较 Claude Opus 5.5，性能达到 96%，成本仅为 5%。网络安全模型 MAI Cyber 2 Flash 在一项安全测试中超过 GPT-6 Astra，单项任务成本不到后者的 2%。此外，MAI Image 2.7 在图像编辑排名中位居第一。微软 AI 负责人苏莱曼表示，公司正加速研发自主通用 AI 模型，以减少对外部模型的依赖，并计划向企业开放模型权重，支持客户利用自有数据定制模型。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634689"
+  },
+  {
+    "post": "Financial_Express/3634688",
+    "datetime": "2026-11-17T18:15:45+00:00",
+    "views": "18",
+    "text": "周二（11 月 17 日），美联储隔夜逆回购协议（RRP）使用规模为 3.51 亿美元（交易对手 2 家），上个交易日报 1.82 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634688"
+  },
+  {
+    "post": "Financial_Express/3634687",
+    "datetime": "2026-11-17T18:15:02+00:00",
+    "views": "27",
+    "text": "美国中央司令部司令今日访问以色列，并与以色列国防军总参谋长及其他高级官员举行会谈。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634687"
+  },
+  {
+    "post": "Financial_Express/3634686",
+    "datetime": "2026-11-17T18:14:42+00:00",
+    "views": "32",
+    "text": "耐克预计，到 2030 财年，中国市场的格局将发生更大变化。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634686"
+  },
+  {
     "post": "Financial_Express/3634685",
     "datetime": "2026-11-17T18:14:02+00:00",
-    "views": "2",
+    "views": "40",
     "text": "耐克高管表示，公司预计 2027 财年至 2031 财年大中华区营收将大致持平。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3634684",
     "datetime": "2026-11-17T18:13:42+00:00",
-    "views": "11",
+    "views": "44",
     "text": "也门胡塞武装：过去 24 小时内，沙特空军出动从哈米斯穆谢特和塔伊夫空军基地起飞的 F-15 及“台风”战机，并从纳季兰发射导弹，对首都萨那以及荷台达、塔伊兹、拉赫季、焦夫、哈杰、马里卜和萨达等省区的民用设施发动了 81 次空袭和导弹袭击。 自针对该国的军事升级行动开始以来，沙特方面的空袭和导弹袭击总数已达 5264 次。",
     "media_only": false,
     "image_url": null,
@@ -20,8 +56,8 @@
   {
     "post": "Financial_Express/3634683",
     "datetime": "2026-11-17T18:13:21+00:00",
-    "views": "19",
-    "text": "微软打算推出更加廉价的定制款 AI 模型。（Axios）",
+    "views": "45",
+    "text": "微软打算推出更加廉价的定制款 AI 模型。\n该公司将于周二推出六款定制的 AI 模型。（Axios）",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3634683"
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3634681",
     "datetime": "2026-11-17T18:12:23+00:00",
-    "views": "34",
+    "views": "54",
     "text": "微软：MAI Transcribe 2 现已在 Dragon Copilot 中推出，用于医疗场景。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3634682",
     "datetime": "2026-11-17T18:12:23+00:00",
-    "views": "33",
+    "views": "53",
     "text": "微软：语音 AI 模型 MAI Realtime 1 在公开基准测试和微软产品评估中表现优于 GPT Realtime 2.1。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3634680",
     "datetime": "2026-11-17T18:12:22+00:00",
-    "views": "34",
+    "views": "54",
     "text": "微软(MSFT.O)：MAI Realtime 1 语音 AI 模型在公开基准测试和微软内部产品评估中，表现优于 GPT Realtime 2.1。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3634679",
     "datetime": "2026-11-17T18:12:08+00:00",
-    "views": "41",
+    "views": "59",
     "text": "微软：在 Ignite 大会上宣布推出 MAI Cyber 2 Flash，即将登陆微软安全产品。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3634677",
     "datetime": "2026-11-17T18:12:04+00:00",
-    "views": "43",
+    "views": "59",
     "text": "微软：借助 MAI Code 2 Flash，AT&T 测试表现优于 GPT 6.1 Sol，同时成本低 50 倍。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3634678",
     "datetime": "2026-11-17T18:12:04+00:00",
-    "views": "42",
+    "views": "58",
     "text": "微软：在 Foundry 公开预览版、MAI Playground、OpenRouter、Genspark 和 Vercel 上推出 MAI Image 2.7。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3634676",
     "datetime": "2026-11-17T18:12:03+00:00",
-    "views": "43",
+    "views": "59",
     "text": "微软：在 GitHub Copilot 上推出 MAI Code 2。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3634674",
     "datetime": "2026-11-17T18:12:02+00:00",
-    "views": "42",
+    "views": "58",
     "text": "微软(MSFT.O)：MAI Code 2 Flash 将在 GitHub Copilot 上线，并在 Foundry 开启有限访问预览。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3634675",
     "datetime": "2026-11-17T18:12:02+00:00",
-    "views": "43",
+    "views": "59",
     "text": "微软(MSFT.O)：MAI Transcribe 2 现已上线 Dragon Copilot，面向医疗应用场景。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3634673",
     "datetime": "2026-11-17T18:11:54+00:00",
-    "views": "43",
+    "views": "59",
     "text": "微软：在 GitHub Copilot 上推出 MAI Code 2 Flash，并在 Foundry 中进行有限访问预览。\n在 Ignite 大会上宣布推出 MAI Cyber 2 Flash，即将登陆微软安全产品。\n在 Foundry 公开预览版、MAI Playground、OpenRouter、Genspark 和 Vercel 上推出 MAI Image 2.7。\n在 GitHub Copilot 上推出 MAI Code 2。\n借助 MAI Code 2 Flash，AT&T 测试表现优于 GPT 6.1 Sol，同时成本低 50 倍。\n语音 AI 模型 MAI Realtime 1 在公开基准测试和微软产品评估中表现优于 GPT Realtime 2.1。\nMAI Transcribe 2 现已在 Dragon Copilot 中推出，用于医疗场景。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3634672",
     "datetime": "2026-11-17T18:11:43+00:00",
-    "views": "40",
+    "views": "53",
     "text": "微软(MSFT.O)：在 AT&T 的测试中，MAI Code 2 Flash 表现优于 GPT 6.1 Sol，成本仅为后者的 1/50。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3634671",
     "datetime": "2026-11-17T18:11:42+00:00",
-    "views": "39",
+    "views": "50",
     "text": "微软(MSFT.O)： MAI Image 2.7 将在 Foundry 公开预览版、MAI Playground、OpenRouter、Genspark 和 Vercel 上线。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +182,7 @@
   {
     "post": "Financial_Express/3634670",
     "datetime": "2026-11-17T18:11:22+00:00",
-    "views": "36",
+    "views": "45",
     "text": "胡塞武装：过去 24 小时内，沙特空军出动从哈米斯穆谢特和塔伊夫空军基地起飞的 F-15 及“台风”战机，并从纳季兰发射导弹，对首都萨那以及荷台达、塔伊兹、拉赫季、焦夫、哈杰、马里卜和萨达等省区的民用设施发动了 81 次空袭和导弹袭击。这些袭击造成数十名平民死伤。自针对该国的军事升级行动开始以来，沙特方面的空袭和导弹袭击总数已达 5264 次。",
     "media_only": false,
     "image_url": null,
