@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3633944",
+    "datetime": "2026-11-17T13:42:42+00:00",
+    "views": "1",
+    "text": "美股盘前要闻速递\n\n①美股三大股指期货涨跌不一，道指期货跌 0.88%，标普 500 指数期货跌 0.25%，纳指期货涨 0.24%。\n②德国 DAX 指数跌 1.13%，英国富时 100 指数涨 1.2%，法国 CAC40 指数跌 1.13%，欧洲斯托克 50 指数跌 1.14%。\n③WTI 原油涨 1.42%，报 86.96 美元/桶;布伦特原油涨 1.35%，报 93.69 美元/桶。\n④英伟达将于周二（11 月 17 日）美股盘后公布第三财季业绩。华尔街普遍预期每股收益为 2.47 美元，营收约为 1089 亿美元。\n⑤卡塔尔方面表示，有关美国与伊朗之间的调解工作仍在进行中。\n⑥美国圣路易斯联储主席穆萨勒姆周二表示，美联储可能需要多次加息以遏制高通胀，且应尽快采取行动，防止问题进一步恶化。\n⑦京东美股盘前 4.52%，消息面上，京东发布 Q3 财报，2026 年 Q3 营收 3096 亿元，上年同期 2990.59 亿元，同比增长 3.5%。\n⑧英伟达盘前一转跌势，最新上涨 1%，消息面上，美国总统特朗普公开为前首席执行官黄仁勋回归英伟达站台。\n⑨迪士尼盘前转涨后再跳水，最新下跌 2.8%，消息面上，迪士尼第四季度调整后每股收益超预期。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633944"
+  },
+  {
+    "post": "Financial_Express/3633942",
+    "datetime": "2026-11-17T13:42:24+00:00",
+    "views": "1",
+    "text": "美国经济数据公布后，美国国债收益率上升；10 年期美国国债收益率最新上涨 1.82 个基点，至 5.139%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633942"
+  },
+  {
+    "post": "Financial_Express/3633943",
+    "datetime": "2026-11-17T13:42:24+00:00",
+    "views": "1",
+    "text": "美国两年期国债收益率最后上涨 2.39 个基点，至 4.851%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633943"
+  },
+  {
+    "post": "Financial_Express/3633941",
+    "datetime": "2026-11-17T13:42:23+00:00",
+    "views": "1",
+    "text": "商汤发布 SenseNova Loop-9B 模型\n11 月 17 日，商汤科技正式发布 SenseNova Loop-9B。该模型总参数量约为 9B。模型通过两次执行共享的中间层，将 32 个物理解码层扩展为 56 次层计算；支持文本、图像输入和文本输出，上下文长度最高可达 512K tokens。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633941"
+  },
+  {
+    "post": "Financial_Express/3633940",
+    "datetime": "2026-11-17T13:42:02+00:00",
+    "views": "1",
+    "text": "美国 10 月份零售销售额增速放缓\n10 月份零售销售额（未根据通胀进行调整）环比增长了 0.2%。此前 9 月份曾因汽油价格因素录得 0.8%的增长。若剔除机动车和汽油，零售销售额增长 0.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633940"
+  },
+  {
+    "post": "Financial_Express/3633939",
+    "datetime": "2026-11-17T13:41:42+00:00",
+    "views": "1",
+    "text": "俄罗斯原油出口量创 7 月以来新高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633939"
+  },
+  {
+    "post": "Financial_Express/3633938",
+    "datetime": "2026-11-17T13:41:02+00:00",
+    "views": "2",
+    "text": "美国参议员里基茨的法案将要求商务部在 30 天内采取行动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633938"
+  },
+  {
+    "post": "Financial_Express/3633937",
+    "datetime": "2026-11-17T13:40:43+00:00",
+    "views": "3",
+    "text": "投资者 Steve Eisman：AI 新云概念股因英伟达事件而陷入“巨大麻烦”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633937"
+  },
+  {
+    "post": "Financial_Express/3633936",
+    "datetime": "2026-11-17T13:40:42+00:00",
+    "views": "3",
+    "text": "现货黄金短线下挫逾 10 美元，回落至 3840 美元/盎司下方，日内跌 0.41%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633936"
+  },
+  {
     "post": "Financial_Express/3633935",
     "datetime": "2026-11-17T13:40:23+00:00",
-    "views": "3",
+    "views": "33",
     "text": "现货黄金失守 3840 美元/盎司，日内跌 0.48%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3633934",
     "datetime": "2026-11-17T13:40:22+00:00",
-    "views": "3",
+    "views": "33",
     "text": "纽约期金失守 3840 美元/盎司，日内跌 0.34%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3633933",
     "datetime": "2026-11-17T13:40:03+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美国参议员里基茨提出关于“Megaspeed”黑名单行动的法案。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3633932",
     "datetime": "2026-11-17T13:40:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "雷军 APEC 谈 AI：下一步是走进物理世界，小米机器人已完成连续 8 小时作业\n金十数据 11 月 17 日讯，11 月 17 日，在深圳举行的 2026 年亚太经合组织（APEC）工商领导人峰会上，小米集团创始人、董事长兼 CEO 雷军表示，AI 是一个全新的时代，将带来大量商业机会，尤其是 AI 走向物理世界，与终端和各类应用场景深度结合后，将释放巨大发展空间。雷军指出，过去四年大模型技术突飞猛进，但行业也存在投入巨大、落地场景有限、商业闭环尚不充分等问题。他认为，未来几年 AI 手机、AI 汽车等领域将有望产生伟大产品，“AI 是一个全新的时代，可能值得我们用 AI 的模式和 AI 的思维、AI 的技术去重塑每一个产业。”。在雷军看来，具身智能是 AI 走进物理世界的重要方向。他介绍，小米机器人研发已持续约 6 年，近期具身智能机器人在小米汽车工厂“实习”，已能完成 8 小时作业任务，期间两次自主充电。他认为，具身智能机器人将成为巨大的产业机会，“它的想象力应该会超过汽车产业”。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3633931",
     "datetime": "2026-11-17T13:39:22+00:00",
-    "views": "3",
+    "views": "33",
     "text": "新兴市场货币指数因油价和美元上涨而回吐此前涨幅。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3633930",
     "datetime": "2026-11-17T13:39:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "报道称瑞银集团将接受瑞士资本限制措施的失败后，其盘前股价下跌 1.86%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3633928",
     "datetime": "2026-11-17T13:38:43+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美国数据公布后，美元指数 DXY 短线上扬十余点，最新报 103.77，续刷 2025 年 4 月以来新高。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3633929",
     "datetime": "2026-11-17T13:38:43+00:00",
-    "views": "3",
+    "views": "34",
     "text": "墨西哥总统辛鲍姆：将在亚太经合组织会议间隙与美国总统特朗普举行简短会晤。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3633927",
     "datetime": "2026-11-17T13:38:42+00:00",
-    "views": "3",
+    "views": "33",
     "text": "欧盟委员：意大利赤字有望达标，明年或能退出特别监管\n金十数据 11 月 17 日讯，欧盟经济事务委员东布罗夫斯基表示，意大利明年的赤字水平有望降至欧盟设定的 3%上限以下，这将使该国能够退出欧盟的特别监管机制。东布罗夫斯基表示：“我们的预测显示了这一点。”他指出，欧盟预计意大利 2026 年的赤字率为 2.9%；但随着该国动用财政灵活性措施，预计 2027 年赤字率将升至 3.5%，2028 年则为 3.2%。他表示，如果赤字超过 GDP 3%的部分，完全是因为意大利所申请的、针对国防和能源韧性等领域的“国家例外条款”（即财政灵活性措施）所致，那么我们或许能在明年春季取消针对意大利的过度赤字程序。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3633926",
     "datetime": "2026-11-17T13:38:23+00:00",
-    "views": "3",
+    "views": "33",
     "text": "杜克能源新发债券定价：10 年期基准利差为+125 至 130 个基点。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3633925",
     "datetime": "2026-11-17T13:37:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "墨西哥总统辛鲍姆：将在亚太经合组织会议期间与特朗普举行简短会晤。",
     "media_only": false,
     "image_url": null,
@@ -51595,23 +51676,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3627634"
-  },
-  {
-    "post": "Financial_Express/3627633",
-    "datetime": "2026-11-15T13:42:02+00:00",
-    "views": "1",
-    "text": "5 年 1 亿，里斯战略咨询在沪启动“百企品类之王赋能增长计划”\n近日里斯战略咨询在上海举办专场发布会，宣布启动“5 年 1 亿·百企品类之王赋能增长计划”。未来五年，里斯计划为 100 家具备新品类开创潜力的企业提供战略咨询服务，每家入选企业可获得价值 100 万元的咨询支持，总价值达 1 亿元，帮助企业识别市场机会、明确战略方向。该计划同时面向人工智能、自动驾驶、具身智能等领域提出“超级技术时代企业品牌方法论”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627633"
-  },
-  {
-    "post": "Financial_Express/3627632",
-    "datetime": "2026-11-15T13:41:42+00:00",
-    "views": "257",
-    "text": "美国交通部长达菲：没有迹象表明发生了网络攻击，我们将与联邦调查局继续调查。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627632"
   }
 ]
