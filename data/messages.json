@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3634506",
+    "datetime": "2026-11-17T16:30:14+00:00",
+    "views": "1",
+    "text": "德国 DAX 30 指数初步收跌 1.92%，报 26083.96 点。\n法国股指初步收跌 1.5%，意大利股指初步收跌 1.28%、银行指数跌 1.32%，英国股指初步收跌 1.58%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634506"
+  },
+  {
+    "post": "Financial_Express/3634505",
+    "datetime": "2026-11-17T16:30:09+00:00",
+    "views": "1",
+    "text": "欧洲 STOXX 600 指数初步收跌 1.65%，报 651.45 点。\n欧元区 STOXX 50 指数初步收跌 1.94%，报 6225.36 点。\n富时泛欧绩优 300 指数初步收跌 1.66%，报 259.76 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634505"
+  },
+  {
     "post": "Financial_Express/3634504",
     "datetime": "2026-11-17T16:28:03+00:00",
-    "views": "1",
+    "views": "32",
     "text": "据日本共同社：日本首相高市早苗与美国总统特朗普在菲律宾举行会谈。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3634501",
     "datetime": "2026-11-17T16:24:22+00:00",
-    "views": "39",
+    "views": "99",
     "text": "安哥拉原油装载量预计 1 月份将降至 80.6 万桶/日。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3634500",
     "datetime": "2026-11-17T16:24:02+00:00",
-    "views": "39",
+    "views": "99",
     "text": "美国联邦航空管理局（FAA）暂停路由器安装\n在发生导致美国空中交通中断的通信故障后，FAA 已暂停新路由器的安装工作。此次事故造成近 2 万架次航班取消及数千架次航班延误。调查人员怀疑，阿肯色州一台新安装的 HPE Juniper 路由器使通信网络过载，进而影响无线电和雷达系统。作为 FAA 的网络承包商，L3Harris 正与 HPE 及思科共同开展诊断工作。目前具体原因仍在调查中。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3634499",
     "datetime": "2026-11-17T16:23:03+00:00",
-    "views": "70",
+    "views": "100",
     "text": "美国联邦航空管理局尚未确定阿肯色州路由器是存在故障还是配置不当。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3634498",
     "datetime": "2026-11-17T16:23:02+00:00",
-    "views": "70",
+    "views": "100",
     "text": "据华尔街日报：美国联邦航空管理局在全国地面停飞后暂停安装路由器。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3634497",
     "datetime": "2026-11-17T16:22:42+00:00",
-    "views": "75",
+    "views": "105",
     "text": "美国联邦航空管理局：暂停措施将持续到查明问题所在。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3634494",
     "datetime": "2026-11-17T16:19:22+00:00",
-    "views": "95",
+    "views": "125",
     "text": "应美国商品期货交易委员会要求，Kalshi 下架备受争议的特朗普“提及”市场。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3634493",
     "datetime": "2026-11-17T16:19:03+00:00",
-    "views": "95",
+    "views": "125",
     "text": "AMD(AMD.O)CEO 苏姿丰：数据中心业务将占 AMD 总需求的 80%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3634491",
     "datetime": "2026-11-17T16:18:43+00:00",
-    "views": "97",
+    "views": "127",
     "text": "AMD(AMD.O)CEO 苏姿丰：AMD 正在确保参与有关芯片出口管制的谈判。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3634490",
     "datetime": "2026-11-17T16:18:42+00:00",
-    "views": "97",
+    "views": "127",
     "text": "AMD(AMD.O)CEO 苏姿丰：黄仁勋是一位卓越的领导者。",
     "media_only": false,
     "image_url": null,
@@ -138,7 +156,7 @@
     "post": "Financial_Express/3634489",
     "datetime": "2026-11-17T16:18:02+00:00",
     "views": "130",
-    "text": "黄仁勋：若董事会认为合适 将重返 CEO 职位\n金十数据 11 月 18 日讯，英伟达(NVDA.O)前 CEO 黄仁勋周二首次公开打破沉默，表示过去一周收到来自朋友、行业同仁及公众的大量支持，尤其是英伟达员工、投资者、商业伙伴和客户不断呼吁他重新担任 CEO，部分人还直接联系他，希望他在公司面临复杂技术、市场、竞争及地缘政治挑战之际回归。黄仁勋称，英伟达是“一代人才能出现一次的公司”，自己过去 53 年的人生经历及在美国建立英伟达的事业令他深感自豪，并称英伟达是自己毕生的事业，能够与同事共同将公司发展至今天是荣幸。他同时承认个人生活中犯下严重错误，未能达到英伟达对员工的行为标准，并对给董事会造成的麻烦表示深切遗憾，承诺配合董事会独立调查。对于是否复职，黄仁勋表示，若董事会认为回归符合股东、员工、公司及美国的利益，他将荣幸地接受邀请，重新担任 CEO。",
+    "text": "黄仁勋：若董事会认为合适 将重返 CEO 职位\n金十数据 11 月 18 日讯，英伟达(NVDA.O)前 CEO 黄仁勋周二首次公开打破沉默，表示过去一周收到来自朋友、行业同仁及公众的大量支持，尤其是英伟达员工、投资者、商业伙伴和客户不断呼吁他重新担任 CEO，部分人还直接联系他，希望他在公司面临复杂技术、市场、竞争及地缘政治挑战之际回归。黄仁勋称，英伟达是“一代人才能出现一次的公司”，自己过去 53 年的人生经历及在美国建立英伟达的事业令他深感自豪，并称英伟达是自己毕生的事业，能够与同事共同将公司发展至今天是荣幸。他同时承认个人生活中犯下严重错误，未能达到英伟达对员工的行为标准，并对给董事会造成的麻烦表示深切遗憾，承诺配合董事会独立调查。对于是否复职，黄仁勋表示，若董事会认为回归符合股东、员工、公司及美国的利益，他将荣幸地接受邀请，重新担任 CEO。\n❤1",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3634489"
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3634487",
     "datetime": "2026-11-17T16:17:02+00:00",
-    "views": "137",
+    "views": "167",
     "text": "AMD CEO 苏姿丰：黄仁勋“是一位卓越的领导者”。",
     "media_only": false,
     "image_url": null,
@@ -55690,32 +55708,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3627742"
-  },
-  {
-    "post": "Financial_Express/3627739",
-    "datetime": "2026-11-15T16:30:43+00:00",
-    "views": "222",
-    "text": "押中 Anthropic 好莱坞背景风投 4.35 亿美元投资将变成 70 亿美元\n金十数据 11 月 16 日讯，2023 年，Anthropic CEO 阿莫代伊在比佛利山庄与演员出身的风险投资家阿什顿·库彻、音乐经纪人盖伊·奥塞里会面，讨论 AI 安全、模型研发竞争及公司愿景。会后，库彻和奥塞里决定通过旗下 Sound Ventures 参与 Anthropic 首轮由机构领投的融资。据知情人士透露，Sound Ventures 累计向 Anthropic 投资 4.35 亿美元，目前持股约 0.5%。按 Anthropic 计划 IPO 的 1.4 万亿美元估值计算，其股权价值约 70 亿美元，较投资成本增长约 1500%。值得注意的是，Sound Ventures 此前已投资 OpenAI，而当时风投行业普遍避免投资现有被投企业的竞争对手。奥塞里表示，库彻获得 OpenAI 首席执行官奥尔特曼的许可后，公司才推进对 Anthropic 的投资。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627739"
-  },
-  {
-    "post": "Financial_Express/3627740",
-    "datetime": "2026-11-15T16:30:43+00:00",
-    "views": "231",
-    "text": "以色列统计局：以色列 10 月 CPI 同比上涨 1.1%，9 月为上涨 1.6%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627740"
-  },
-  {
-    "post": "Financial_Express/3627741",
-    "datetime": "2026-11-15T16:30:43+00:00",
-    "views": "233",
-    "text": "以色列统计局：以色列 10 月消费者物价指数(CPI)环比-0.1%，9 月为-0.5%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3627741"
   }
 ]
