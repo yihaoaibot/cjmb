@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3634685",
+    "datetime": "2026-11-17T18:14:02+00:00",
+    "views": "2",
+    "text": "耐克高管表示，公司预计 2027 财年至 2031 财年大中华区营收将大致持平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634685"
+  },
+  {
+    "post": "Financial_Express/3634684",
+    "datetime": "2026-11-17T18:13:42+00:00",
+    "views": "11",
+    "text": "也门胡塞武装：过去 24 小时内，沙特空军出动从哈米斯穆谢特和塔伊夫空军基地起飞的 F-15 及“台风”战机，并从纳季兰发射导弹，对首都萨那以及荷台达、塔伊兹、拉赫季、焦夫、哈杰、马里卜和萨达等省区的民用设施发动了 81 次空袭和导弹袭击。 自针对该国的军事升级行动开始以来，沙特方面的空袭和导弹袭击总数已达 5264 次。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634684"
+  },
+  {
+    "post": "Financial_Express/3634683",
+    "datetime": "2026-11-17T18:13:21+00:00",
+    "views": "19",
+    "text": "微软打算推出更加廉价的定制款 AI 模型。（Axios）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634683"
+  },
+  {
+    "post": "Financial_Express/3634681",
+    "datetime": "2026-11-17T18:12:23+00:00",
+    "views": "34",
+    "text": "微软：MAI Transcribe 2 现已在 Dragon Copilot 中推出，用于医疗场景。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634681"
+  },
+  {
+    "post": "Financial_Express/3634682",
+    "datetime": "2026-11-17T18:12:23+00:00",
+    "views": "33",
+    "text": "微软：语音 AI 模型 MAI Realtime 1 在公开基准测试和微软产品评估中表现优于 GPT Realtime 2.1。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634682"
+  },
+  {
+    "post": "Financial_Express/3634680",
+    "datetime": "2026-11-17T18:12:22+00:00",
+    "views": "34",
+    "text": "微软(MSFT.O)：MAI Realtime 1 语音 AI 模型在公开基准测试和微软内部产品评估中，表现优于 GPT Realtime 2.1。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634680"
+  },
+  {
     "post": "Financial_Express/3634679",
     "datetime": "2026-11-17T18:12:08+00:00",
-    "views": "16",
+    "views": "41",
     "text": "微软：在 Ignite 大会上宣布推出 MAI Cyber 2 Flash，即将登陆微软安全产品。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3634677",
     "datetime": "2026-11-17T18:12:04+00:00",
-    "views": "19",
+    "views": "43",
     "text": "微软：借助 MAI Code 2 Flash，AT&T 测试表现优于 GPT 6.1 Sol，同时成本低 50 倍。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3634678",
     "datetime": "2026-11-17T18:12:04+00:00",
-    "views": "19",
+    "views": "42",
     "text": "微软：在 Foundry 公开预览版、MAI Playground、OpenRouter、Genspark 和 Vercel 上推出 MAI Image 2.7。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3634676",
     "datetime": "2026-11-17T18:12:03+00:00",
-    "views": "19",
+    "views": "43",
     "text": "微软：在 GitHub Copilot 上推出 MAI Code 2。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3634674",
     "datetime": "2026-11-17T18:12:02+00:00",
-    "views": "19",
+    "views": "42",
     "text": "微软(MSFT.O)：MAI Code 2 Flash 将在 GitHub Copilot 上线，并在 Foundry 开启有限访问预览。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3634675",
     "datetime": "2026-11-17T18:12:02+00:00",
-    "views": "19",
+    "views": "43",
     "text": "微软(MSFT.O)：MAI Transcribe 2 现已上线 Dragon Copilot，面向医疗应用场景。",
     "media_only": false,
     "image_url": null,
@@ -56,8 +110,8 @@
   {
     "post": "Financial_Express/3634673",
     "datetime": "2026-11-17T18:11:54+00:00",
-    "views": "21",
-    "text": "微软：在 GitHub Copilot 上推出 MAI Code 2 Flash，并在 Foundry 中进行有限访问预览。",
+    "views": "43",
+    "text": "微软：在 GitHub Copilot 上推出 MAI Code 2 Flash，并在 Foundry 中进行有限访问预览。\n在 Ignite 大会上宣布推出 MAI Cyber 2 Flash，即将登陆微软安全产品。\n在 Foundry 公开预览版、MAI Playground、OpenRouter、Genspark 和 Vercel 上推出 MAI Image 2.7。\n在 GitHub Copilot 上推出 MAI Code 2。\n借助 MAI Code 2 Flash，AT&T 测试表现优于 GPT 6.1 Sol，同时成本低 50 倍。\n语音 AI 模型 MAI Realtime 1 在公开基准测试和微软产品评估中表现优于 GPT Realtime 2.1。\nMAI Transcribe 2 现已在 Dragon Copilot 中推出，用于医疗场景。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3634673"
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3634672",
     "datetime": "2026-11-17T18:11:43+00:00",
-    "views": "24",
+    "views": "40",
     "text": "微软(MSFT.O)：在 AT&T 的测试中，MAI Code 2 Flash 表现优于 GPT 6.1 Sol，成本仅为后者的 1/50。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3634671",
     "datetime": "2026-11-17T18:11:42+00:00",
-    "views": "23",
+    "views": "39",
     "text": "微软(MSFT.O)： MAI Image 2.7 将在 Foundry 公开预览版、MAI Playground、OpenRouter、Genspark 和 Vercel 上线。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3634669",
     "datetime": "2026-11-17T18:11:22+00:00",
-    "views": "24",
+    "views": "34",
     "text": "微软(MSFT.O)： 在 Ignite 大会上发布 MAI Cyber 2 Flash，即将应用于微软安全产品。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3634670",
     "datetime": "2026-11-17T18:11:22+00:00",
-    "views": "24",
+    "views": "36",
     "text": "胡塞武装：过去 24 小时内，沙特空军出动从哈米斯穆谢特和塔伊夫空军基地起飞的 F-15 及“台风”战机，并从纳季兰发射导弹，对首都萨那以及荷台达、塔伊兹、拉赫季、焦夫、哈杰、马里卜和萨达等省区的民用设施发动了 81 次空袭和导弹袭击。这些袭击造成数十名平民死伤。自针对该国的军事升级行动开始以来，沙特方面的空袭和导弹袭击总数已达 5264 次。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3634668",
     "datetime": "2026-11-17T18:11:07+00:00",
-    "views": "28",
+    "views": "34",
     "text": "亿万富翁斯坦·德鲁肯米勒（Stan Druckenmiller）表示，他对铜持看空态度，目前基本选择远离股市。\n德鲁肯米勒周二在奥斯汀举行的 TomorrowX 峰会上表示，他记不清何时市场对未来一年的走向如此缺乏清晰度。\n杜肯家族办公室（Duquesne Family Office）创始人德鲁肯米勒称，目前他仅持有少量美元头寸，对股市既不做多也不做空。\n“我们基本上选择回避，”他说。“我们现在的目标是不亏钱，而不是赚钱。”\n现年 73 岁的德鲁肯米勒还表示，他担心美国移民政策正威胁人才流入美国，并指出一些顶尖企业都由移民管理。\n与许多投资者一样，德鲁肯米勒在今年年初曾做多铜。就在两个月前，伦敦金属交易所（LME）铜价曾触及每吨约 15,000 美元的历史高点，当时数据中心用铜需求预期高涨，吸引投资者入场，而关税相关的贸易错位又收紧了实物市场的供应。随着 AI 交易的瓦解，铜价此后下跌超过 10%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3634667",
     "datetime": "2026-11-17T18:10:02+00:00",
-    "views": "39",
+    "views": "45",
     "text": "挪威国家石油公司：此次网络攻击未对生产或运营造成影响。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +182,7 @@
   {
     "post": "Financial_Express/3634666",
     "datetime": "2026-11-17T18:09:42+00:00",
-    "views": "44",
+    "views": "49",
     "text": "德国国防部长：与其批评乌克兰的纵深打击，不如谴责其每晚每日对乌克兰能源、供水及供暖基础设施实施的恐怖袭击。",
     "media_only": false,
     "image_url": null,
