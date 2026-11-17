@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3634801",
+    "datetime": "2026-11-17T19:28:42+00:00",
+    "views": "2",
+    "text": "美联储威廉姆斯：看到通胀驱动因素，但不确定其是否会扩大。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634801"
+  },
+  {
+    "post": "Financial_Express/3634800",
+    "datetime": "2026-11-17T19:28:22+00:00",
+    "views": "2",
+    "text": "美联储威廉姆斯：我认为当前形势无需采取激进的政策行动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634800"
+  },
+  {
+    "post": "Financial_Express/3634799",
+    "datetime": "2026-11-17T19:27:42+00:00",
+    "views": "3",
+    "text": "谷歌(GOOG.O)：目前未发现 Gmail 服务大范围中断的证据。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634799"
+  },
+  {
+    "post": "Financial_Express/3634797",
+    "datetime": "2026-11-17T19:27:22+00:00",
+    "views": "4",
+    "text": "美联储威廉姆斯：正看到冲击蔓延至更广泛通胀数据的迹象。关税与能源冲击仍在影响通胀数据。经济具有韧性，劳动力市场稳健。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634797"
+  },
+  {
+    "post": "Financial_Express/3634798",
+    "datetime": "2026-11-17T19:27:22+00:00",
+    "views": "4",
+    "text": "美联储威廉姆斯：我认为当前形势不需要采取大幅政策行动。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3634798"
+  },
+  {
     "post": "Financial_Express/3634796",
     "datetime": "2026-11-17T19:27:02+00:00",
-    "views": "1",
+    "views": "4",
     "text": "美联储威廉姆斯：经济具有韧性，劳动力市场稳健。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3634794",
     "datetime": "2026-11-17T19:26:22+00:00",
-    "views": "3",
+    "views": "34",
     "text": "美联储威廉姆斯：正看到冲击蔓延至更广泛通胀数据的迹象。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3634795",
     "datetime": "2026-11-17T19:26:22+00:00",
-    "views": "3",
+    "views": "34",
     "text": "美联储威廉姆斯：关税与能源冲击仍在影响通胀数据。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3634792",
     "datetime": "2026-11-17T19:25:42+00:00",
-    "views": "3",
+    "views": "34",
     "text": "美联储威廉姆斯：通胀“顽固地处于高位”。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3634793",
     "datetime": "2026-11-17T19:25:42+00:00",
-    "views": "3",
+    "views": "34",
     "text": "美联储威廉姆斯：通胀仍“顽固偏高”。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3634791",
     "datetime": "2026-11-17T19:25:22+00:00",
-    "views": "3",
+    "views": "35",
     "text": "美军官员称，美国战斗机袭击了格什姆岛上的伊斯兰革命卫队导弹发射场。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3634790",
     "datetime": "2026-11-17T19:25:17+00:00",
-    "views": "3",
+    "views": "34",
     "text": "美联储威廉姆斯：经济强劲且持续向好，通胀未朝正确方向发展。\n美联储在将通胀率降至 2%方面仍有更多工作要做。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3634787",
     "datetime": "2026-11-17T19:25:03+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美联储威廉姆斯：美联储要让通胀回到 2%仍有更多工作要做。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3634788",
     "datetime": "2026-11-17T19:25:03+00:00",
-    "views": "3",
+    "views": "34",
     "text": "美联储威廉姆斯：经济强劲且持续向好，通胀未朝正确方向发展。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3634789",
     "datetime": "2026-11-17T19:25:03+00:00",
-    "views": "3",
+    "views": "34",
     "text": "美联储威廉姆斯：美联储在将通胀率降至 2%方面仍有更多工作要做。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3634786",
     "datetime": "2026-11-17T19:25:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "美联储威廉姆斯：经济强劲且日益走强，但通胀并未朝着正确方向发展。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3634785",
     "datetime": "2026-11-17T19:24:02+00:00",
-    "views": "4",
+    "views": "34",
     "text": "SpaceX(SPCX.O)：计划于 11 月 21 日从美国加利福尼亚州范登堡太空军基地的 4E 号航天发射场（SLC-4E）使用猎鹰 9 号（Falcon 9）火箭发射美国国家侦察局 NROL-136 任务。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3634782",
     "datetime": "2026-11-17T19:20:02+00:00",
-    "views": "47",
+    "views": "48",
     "text": "据伊朗学生通讯社：伊朗总统佩泽希齐扬表示，伊朗正认真通过有尊严的外交途径，努力结束当前“不战不和”的局面。他同时指出，尽管可能有人通过制造事端阻挠这一进程，但政府有责任继续努力解决国家面临的问题。",
     "media_only": false,
     "image_url": null,
