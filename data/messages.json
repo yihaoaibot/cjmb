@@ -1,9 +1,99 @@
 [
   {
+    "post": "Financial_Express/3633966",
+    "datetime": "2026-11-17T13:46:43+00:00",
+    "views": "1",
+    "text": "美国国土安全部长穆林：近期事件与网络攻击无关。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633966"
+  },
+  {
+    "post": "Financial_Express/3633965",
+    "datetime": "2026-11-17T13:46:25+00:00",
+    "views": "1",
+    "text": "商汤科技正式发布 SenseNova Loop-9B。该模型总参数量约为 9B。模型通过两次执行共享的中间层，将 32 个物理解码层扩展为 56 次层计算；支持文本、图像输入和文本输出，上下文长度最高可达 512K tokens。（界面）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633965"
+  },
+  {
+    "post": "Financial_Express/3633964",
+    "datetime": "2026-11-17T13:46:02+00:00",
+    "views": "2",
+    "text": "美国国土安全部长穆林：本土安全形势非常稳固。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633964"
+  },
+  {
+    "post": "Financial_Express/3633963",
+    "datetime": "2026-11-17T13:45:44+00:00",
+    "views": "3",
+    "text": "美国国土安全部长穆林表示，美国未遭受网络攻击。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633963"
+  },
+  {
+    "post": "Financial_Express/3633962",
+    "datetime": "2026-11-17T13:45:43+00:00",
+    "views": "3",
+    "text": "美国国土安全部长：美国境内尚未发生任何网络威胁事件。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633962"
+  },
+  {
+    "post": "Financial_Express/3633961",
+    "datetime": "2026-11-17T13:45:22+00:00",
+    "views": "3",
+    "text": "李东生：TCL 海外营收约 70%来自 APEC 经济体，将推动“全球化 3.0”在亚太地区落地\n11 月 17 日，在 2026 年 APEC 工商领导人峰会“粤港澳大湾区与亚太发展机遇”专题研讨上，TCL 创始人、董事长李东生表示，目前 TCL 海外营收约 70%来自 APEC 经济体，海外产业和供应链也主要集中在亚太地区。2026 年前三季度，TCL 海外营收约 1400 亿元，占整体营收比重超过 50%。李东生表示，面对全球产业链供应链重构，TCL 正在探索推进“全球化 3.0”战略，即从过去以中国为中心、辐射全球的经营模式，转向在全球主要国家和地区建立相对独立的经营实体，逐步完善当地研发、制造、供应链、品牌、服务和人才体系，培育当地产业链，让企业发展更深入地融入当地经济社会发展。亚太是 TCL 全球化 3.0 最重要的布局区域之一。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633961"
+  },
+  {
+    "post": "Financial_Express/3633960",
+    "datetime": "2026-11-17T13:45:16+00:00",
+    "views": "3",
+    "text": "根据美联储理事丽莎·库克的律师致白宫法律顾问的信函，库克没有法律义务参加拟议听证会。（彭博）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633960"
+  },
+  {
+    "post": "Financial_Express/3633958",
+    "datetime": "2026-11-17T13:45:03+00:00",
+    "views": "4",
+    "text": "尼日利亚统计局：10 月尼日利亚食品通胀率同比上涨 19.13%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633958"
+  },
+  {
+    "post": "Financial_Express/3633959",
+    "datetime": "2026-11-17T13:45:03+00:00",
+    "views": "4",
+    "text": "尼日利亚统计局：10 月份尼日利亚消费者通胀率同比上涨 14.06%，9 月份为 14.63%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633959"
+  },
+  {
+    "post": "Financial_Express/3633957",
+    "datetime": "2026-11-17T13:45:02+00:00",
+    "views": "4",
+    "text": "特朗普媒体科技集团(DJT.O)回购 1 亿美元未偿还可转换票据，公司将未偿还本金减少逾 10%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3633957"
+  },
+  {
     "post": "Financial_Express/3633956",
     "datetime": "2026-11-17T13:44:31+00:00",
-    "views": "2",
-    "text": "特朗普媒体科技集团回购了 1 亿美元未偿还可转换票据。（彭博）",
+    "views": "34",
+    "text": "特朗普媒体科技集团回购了 1 亿美元未偿还可转换票据，公司将未偿本金削减逾 10%。（彭博）",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3633956"
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3633955",
     "datetime": "2026-11-17T13:44:22+00:00",
-    "views": "2",
+    "views": "4",
     "text": "抖音生活服务回应负责人调整：正常的管理岗位轮换与交接\n金十数据 11 月 17 日讯，针对抖音生活服务负责人调整一事，抖音方面回应称，此次调整属于正常的管理岗位轮换与交接，生活服务是公司长期发展方向之一，对该板块会持续投入、长期经营。据了解，浦燕子将不再担任抖音生活服务总裁，转任公司顾问，原红果短剧负责人莫少君接任。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3633953",
     "datetime": "2026-11-17T13:44:03+00:00",
-    "views": "3",
+    "views": "5",
     "text": "南京新百：下属 AS ONE 公司 2025 年营收 1539.97 万元\n南京新百公告称，其通过三胞国际控制的以色列医疗护理板块下属 A.S. (One) Foreign Caregivers Ltd.2025 年度实现营业收入 1539.97 万元，经营活动产生的现金流量净额 212.00 万元；2026 年 1-9 月经营活动现金流出 1.73 万元。北京中名国成会计师事务所对该公司 2025 年度及 2026 年 1-9 月财务报表出具无保留意见审计报告，认为报表公允反映了对应期间的财务状况、经营成果及现金流量。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3633954",
     "datetime": "2026-11-17T13:44:03+00:00",
-    "views": "3",
+    "views": "5",
     "text": "南京新百：子公司 2026 年 1-9 月营收 10.10 亿元\n南京新百公告称，其下属以色列医疗护理板块全资子公司 A.S. NURSING AND WELFARE LTD.2025 年度营业收入 12.36 亿元，净利润 7860.01 万元；2026 年 1-9 月营业收入 10.10 亿元，净利润 6567.00 万元。北京中名国成会计师事务所对该公司 2025 年度及 2026 年 1-9 月财务报表出具无保留意见审计报告。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3633952",
     "datetime": "2026-11-17T13:44:02+00:00",
-    "views": "3",
+    "views": "4",
     "text": "南京新百：子公司拟转让境外公司 100%股权 完成资产评估\n南京新百公告称，公司下属 Natali Healthcare Solutions Ltd.（以色列）拟转让 A.S. (One) Foreign Caregivers Ltd.（以色列）100%股权，已完成资产评估。评估基准日为 2026 年 9 月 30 日，采用收益法评估，标的公司股东全部权益市场价值为 2860.81 万元，较账面净资产 439.58 万元增值 2421.23 万元，增值率 550.81%。评估结论使用有效期为自评估基准日起一年。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3633951",
     "datetime": "2026-11-17T13:43:44+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美国总统特朗普媒体与科技集团：以低于面值的价格回购了 1 亿美元将于 2028 年 5 月 29 日到期的 0.00%可转换高级担保票据，资金来源于手头现金。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3633950",
     "datetime": "2026-11-17T13:43:43+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美国经济数据公布后，美国国债收益率上升；10 年期国债收益率上涨 1.82 个基点，报 5.139%；两年期美国国债收益率上涨 2.39 个基点，报 4.851%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3633949",
     "datetime": "2026-11-17T13:43:27+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美国参议员 RICKETTS 提出涉及将 MEGASPEED 列入黑名单的法案。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3633947",
     "datetime": "2026-11-17T13:43:03+00:00",
-    "views": "3",
+    "views": "4",
     "text": "商汤发布 SenseNova Loop-9B 模型\n金十数据 11 月 17 日讯，11 月 17 日，商汤科技正式发布 SenseNova Loop-9B。该模型总参数量约为 9B。模型通过两次执行共享的中间层，将 32 个物理解码层扩展为 56 次层计算；支持文本、图像输入和文本输出，上下文长度最高可达 512Ktokens。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3633948",
     "datetime": "2026-11-17T13:43:03+00:00",
-    "views": "3",
+    "views": "4",
     "text": "美国总统特朗普媒体集团未偿本金减少逾 10%。",
     "media_only": false,
     "image_url": null,
