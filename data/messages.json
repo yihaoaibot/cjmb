@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3638244",
+    "datetime": "2026-11-18T17:54:02+00:00",
+    "views": "1",
+    "text": "现货黄金日内跌 3%\n金十数据 11 月 19 日讯，现货黄金日内跌幅扩大至 3%，现报 3730 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3638244"
+  },
+  {
+    "post": "Financial_Express/3638243",
+    "datetime": "2026-11-18T17:53:37+00:00",
+    "views": "2",
+    "text": "现货黄金日内跌幅达 3.0%，报 3732.79 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3638243"
+  },
+  {
+    "post": "Financial_Express/3638242",
+    "datetime": "2026-11-18T17:53:02+00:00",
+    "views": "32",
+    "text": "现货黄金失守 3730 美元/盎司，日内跌 3.11%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3638242"
+  },
+  {
     "post": "Financial_Express/3638240",
     "datetime": "2026-11-18T17:52:02+00:00",
-    "views": "1",
+    "views": "4",
     "text": "现货黄金日内跌 3%，现报 3732.79 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3638239",
     "datetime": "2026-11-18T17:51:30+00:00",
-    "views": "2",
+    "views": "35",
     "text": "LME 期铜收跌 756 美元，报 12471 美元/吨。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3638238",
     "datetime": "2026-11-18T17:50:42+00:00",
-    "views": "3",
+    "views": "35",
     "text": "花旗银行主管维什·拉加万：人工智能基础设施建设已促使企业动用所有资本池。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3638237",
     "datetime": "2026-11-18T17:50:02+00:00",
-    "views": "3",
+    "views": "35",
     "text": "美联储戴利：通胀水平较高，但其未来走势存在不确定性。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3638236",
     "datetime": "2026-11-18T17:49:59+00:00",
-    "views": "3",
+    "views": "35",
     "text": "欧洲 STOXX 600 指数收跌 1.03%，报 644.05 点，最近三个交易日累计下跌 3.02%，跌穿 100 日均线（该技术指标暂报 646 点），逼近 50 日均线和 200 日均线。\n欧元区 STOXX 50 指数收跌 0.93%，报 6154.39 点，最近四天累跌 3.82%，周二跌破 100 日均线和 50 日均线（分别暂报 6307.98 点和 6231.64 点），逼近 200 日均线（暂报 6128.76 点）。\n富时泛欧绩优 300 指数收跌 1.08%，报 2566.62 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3638235",
     "datetime": "2026-11-18T17:49:42+00:00",
-    "views": "3",
+    "views": "35",
     "text": "花旗银行主管维什·拉加万：Anthropic 将成为后续 AI 企业 IPO 的风向标。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3638234",
     "datetime": "2026-11-18T17:49:22+00:00",
-    "views": "5",
+    "views": "36",
     "text": "美联储戴利：通胀处于高位，但我不确定其将如何演变。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3638233",
     "datetime": "2026-11-18T17:41:42+00:00",
-    "views": "71",
+    "views": "101",
     "text": "谷歌(GOOG.O)在低内存安卓设备上推出 Gemini 应用。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3638232",
     "datetime": "2026-11-18T17:40:45+00:00",
-    "views": "72",
+    "views": "102",
     "text": "谷歌公司向更低存储空间的安卓设备开放 Gemini APP。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3638231",
     "datetime": "2026-11-18T17:40:42+00:00",
-    "views": "72",
+    "views": "102",
     "text": "谷歌将 Gemini 应用开放给低内存安卓设备。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3638230",
     "datetime": "2026-11-18T17:39:24+00:00",
-    "views": "102",
+    "views": "133",
     "text": "美国财政部网站发布消息，美方对与真主党相关的实体实施新一轮制裁。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3638228",
     "datetime": "2026-11-18T17:39:22+00:00",
-    "views": "103",
+    "views": "104",
     "text": "美国财政部：对与黎巴嫩真主党相关实体实施新一轮制裁。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3638229",
     "datetime": "2026-11-18T17:39:22+00:00",
-    "views": "103",
+    "views": "104",
     "text": "美国国家情报总监：伊朗针对美国境内外人员的威胁大幅增加\n金十数据 11 月 19 日讯，据外媒报道，美国国家情报总监杰伊·克莱顿周三告诉国会议员，伊朗针对美国境内外美国人的威胁已大幅增加。克莱顿在众议院国土安全委员会听证会上表示：“我们将继续致力于发现、威慑和打击伊朗在美国境外及境内策划的致命袭击活动。”他说：“这些威胁已大幅增加。我们在海外的男女工作人员，以及身处美国境内的男女公民，如今面临的威胁都在加剧。”伊朗曾警告称，将对美国袭击伊朗采取报复行动，打击美军及其在该地区的盟友。据上月一份备忘录显示，克莱顿当时表示，伊朗正在加大针对美国人员的行动力度，德黑兰方面针对美国公民策划的致命袭击已进入“高级阶段”。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3638226",
     "datetime": "2026-11-18T17:38:22+00:00",
-    "views": "102",
+    "views": "103",
     "text": "乌克兰总统泽连斯基：明天还将举行多场双边会晤，争取为乌克兰及外交工作带来更多支持。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3638227",
     "datetime": "2026-11-18T17:38:22+00:00",
-    "views": "103",
+    "views": "104",
     "text": "乌克兰总统泽连斯基： 明日将召开 “自愿联盟” 重要会议。我们正与伙伴协同发力，让这一联盟发挥实效。我们正在筹备新的乌克兰援助方案，优先用于国防与能源领域。此外还将举行双边会谈，为乌克兰外交争取更多成果。我们期待与美方代表会面，并同欧洲领导人商讨对俄谈判的下一步安排。乌克兰明确表达和平意愿，始终保持建设性姿态。 乌克兰与欧洲立场一致：乌克兰相关事务必须有乌克兰参与，欧洲相关事务必须有欧洲参与，这是唯一可行的方式。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3638225",
     "datetime": "2026-11-18T17:38:02+00:00",
-    "views": "72",
+    "views": "102",
     "text": "乌克兰总统泽连斯基：明天将举行意愿联盟重要会议，我们正与合作伙伴共同准备新一轮对乌援助方案，重点包括国防和能源领域。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3638224",
     "datetime": "2026-11-18T17:36:43+00:00",
-    "views": "70",
+    "views": "100",
     "text": "Battery Ventures 合伙人达梅什·塔克尔：OpenAI 已耗尽私募市场资金，需转向公开市场融资。",
     "media_only": false,
     "image_url": null,
@@ -64186,23 +64213,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3630888"
-  },
-  {
-    "post": "Financial_Express/3630887",
-    "datetime": "2026-11-16T17:55:02+00:00",
-    "views": "35",
-    "text": "Altimeter 的布拉德·格斯特纳将向 Anthropic 的 IPO 投资 50 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3630887"
-  },
-  {
-    "post": "Financial_Express/3630886",
-    "datetime": "2026-11-16T17:54:42+00:00",
-    "views": "35",
-    "text": "阿根廷边际比索（ARSB）贬值 2.19%，兑美元突破 1600 关口。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3630886"
   }
 ]
