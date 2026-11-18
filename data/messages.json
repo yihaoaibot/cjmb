@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3637694",
+    "datetime": "2026-11-18T13:40:42+00:00",
+    "views": "4",
+    "text": "腾讯：可能需要更长时间才能推出下一个版本模型\n在腾讯 2026 年第三季度业绩电话会上，针对算力相关限制措施对腾讯 AI 业务的影响，腾讯总裁刘炽平表示，无论是租赁还是自建算力都面临约束，模型训练不可避免会受到影响，短期内可能需要更长时间才能推出下一个版本的混元模型。刘炽平指出，在模型训练和推理过程中，腾讯发现计算效率实际上正在逐年快速提升，此前在 Hy4 模型训练中采用的方式已经具备很高的效率。从长期来看，国内供应链将逐步参与到模型推理环节中，目前国内产业的发展速度非常快，预计这一国产化进程还会进一步加快。（蓝鲸新闻）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3637694"
+  },
+  {
+    "post": "Financial_Express/3637693",
+    "datetime": "2026-11-18T13:40:22+00:00",
+    "views": "5",
+    "text": "Anthropic 据悉引导将 IPO 定价定在区间上方。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3637693"
+  },
+  {
+    "post": "Financial_Express/3637692",
+    "datetime": "2026-11-18T13:40:02+00:00",
+    "views": "8",
+    "text": "摩根大通前信用卡业务负责人跳槽至富国银行担任首席运营官。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3637692"
+  },
+  {
+    "post": "Financial_Express/3637691",
+    "datetime": "2026-11-18T13:39:42+00:00",
+    "views": "10",
+    "text": "美国联邦航空管理局（FAA）局长贝德福德：智能 AI 工具并未与空中交通管制系统连接。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3637691"
+  },
+  {
+    "post": "Financial_Express/3637690",
+    "datetime": "2026-11-18T13:39:41+00:00",
+    "views": "10",
+    "text": "11 月 18 日，2026 第九届中国国际光伏与储能产业大会在成都举行。围绕行业处境、破局路径、产业出清、反内卷与并购整合等话题，通威集团董事局主席刘汉元回应了媒体提问。\n刘汉元把当前光伏所处的阶段称作“第二次黎明前的又一次黑暗”。在其看来，多晶硅是光伏制造各环节中最有条件率先实现理性协同的一环。绝大多数组件基于高纯晶硅制成的硅片生产，中国多晶硅产能构成全球光伏供应的“总闸门”。刘汉元表示，适当调控、理性控制产量，全球供应平衡状况就会好转，价值链正常价格体现与恢复便指日可待。（界面）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3637690"
+  },
+  {
+    "post": "Financial_Express/3637689",
+    "datetime": "2026-11-18T13:39:05+00:00",
+    "views": "44",
+    "text": "三星 SmartThings 接入 ChatGPT，可语音操控家电\n三星推出可在 ChatGPT 内使用的三星 SmartThings（Labs）插件，并开启试运营服务。用户绑定 SmartThings 账号后，就能通过自然语言指令操控家中家电。 用户可以查看屋内灯光、家电的运行状态，查询设备历史操作记录；也能触发 SmartThings 预设的自动化场景，切换居家、外出、夜间等房屋状态模式。 目前处于早期测试阶段，部分设备仅支持状态查询；门锁等安防类设备的控制权限受到限制。业内预计经过测试后，官方将正式上线这项联动功能。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3637689"
+  },
+  {
     "post": "Financial_Express/3637688",
     "datetime": "2026-11-18T13:38:30+00:00",
-    "views": "9",
+    "views": "48",
     "text": "Anthropic 据悉将 IPO 定价指引至高于发行区间。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3637687",
     "datetime": "2026-11-18T13:38:23+00:00",
-    "views": "9",
+    "views": "48",
     "text": "美国联邦航空管理局局长表示，智能 AI 工具未与空中交通管制系统连接。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3637686",
     "datetime": "2026-11-18T13:38:22+00:00",
-    "views": "9",
+    "views": "47",
     "text": "据称，Anthropic 将引导 IPO 定价高于此前公布的区间。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3637685",
     "datetime": "2026-11-18T13:38:03+00:00",
-    "views": "9",
+    "views": "47",
     "text": "墨西哥比索兑美元下跌 1%，至 18.5960。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3637683",
     "datetime": "2026-11-18T13:36:03+00:00",
-    "views": "44",
+    "views": "51",
     "text": "9 月加拿大申领失业保险人数环比下降 0.3%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3637684",
     "datetime": "2026-11-18T13:36:03+00:00",
-    "views": "45",
+    "views": "52",
     "text": "塔吉特高管称，第三季度收到约 3 亿美元的关税退款。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3637682",
     "datetime": "2026-11-18T13:35:43+00:00",
-    "views": "49",
+    "views": "55",
     "text": "Biocon 的帕妥珠单抗获欧盟上市许可，成为 EMA 新“定制化临床方法”下首个获批的生物类似药。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3637681",
     "datetime": "2026-11-18T13:35:42+00:00",
-    "views": "49",
+    "views": "56",
     "text": "印度央行将于 11 月 19 日开展 5000 亿卢比的隔夜浮动利率正回购拍卖。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3637679",
     "datetime": "2026-11-18T13:34:04+00:00",
-    "views": "53",
+    "views": "86",
     "text": "美国新屋开工激增 9.9%超预期，但建筑许可大幅下滑\n10 月，美国新屋开工数环比激增 9.9%，年化总量达 130.9 万套，不仅高于 124.5 万套的市场预期共识值，也扭转了 9 月份 7.0%的跌幅。其中，独栋住宅开工量增长 4.0%，至 86.4 万套；多户住宅建设量则飙升 23.6%，达到 44.5 万套。然而，建筑许可数量下降 7.4%，至 129.5 万套，低于 137.7 万套的预期水平。独栋住宅许可量更是骤降 8.7%，这表明在借贷成本居高不下的背景下，建筑业反弹可能难以持续。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3637680",
     "datetime": "2026-11-18T13:34:04+00:00",
-    "views": "53",
+    "views": "87",
     "text": "塞尔维亚 9 月份经常账户赤字为 4.4351 亿欧元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3637678",
     "datetime": "2026-11-18T13:34:03+00:00",
-    "views": "52",
+    "views": "85",
     "text": "罗氏上海生物制药生产基地竣工\n11 月 18 日，罗氏投资 20.4 亿元的上海生物制药生产基地正式竣工。该基地建筑面积约 2.5 万平方米，是罗氏在华第二个创新药生产基地，也是跨国药企首个实现大分子抗体生物药在华本地化生产的基地。按计划，基地将于 2028 年年中实现眼科单抗药物罗视佳的本地化分包装，并于 2030 年底全面实现无菌灌装生产。（界面新闻）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3637677",
     "datetime": "2026-11-18T13:32:43+00:00",
-    "views": "55",
+    "views": "88",
     "text": "欧元兑美元下跌 0.28%，报 1.0969。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3637676",
     "datetime": "2026-11-18T13:32:42+00:00",
-    "views": "55",
+    "views": "88",
     "text": "美元/日元上涨 0.05%，报 159.43。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3637675",
     "datetime": "2026-11-18T13:32:02+00:00",
-    "views": "56",
+    "views": "88",
     "text": "美国联邦航空管理局（FAA）局长贝德福德：现在还不是讨论空中交通管制（ATC）私有化的时机。",
     "media_only": false,
     "image_url": null,
@@ -61252,41 +61306,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3630457"
-  },
-  {
-    "post": "Financial_Express/3630456",
-    "datetime": "2026-11-16T13:41:03+00:00",
-    "views": "89",
-    "text": "高盛预计，到 2027 年底，美国 10 年期国债收益率将降至 4.6%，低于目前的约 5.13%\n高盛预计，到 2027 年 12 月，10 年期美国国债收益率将从目前的约 5.13%降至 4.6%。该行预计：美联储加息次数将少于市场目前消化的水平。通胀降温将减轻收紧货币政策的压力。随着收益率下降、债券重新获得作为风险对冲工具的吸引力，美国国债回报将走强。高盛认为，尽管近期市场波动，但通胀动态改善将支撑美国政府债券。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3630456"
-  },
-  {
-    "post": "Financial_Express/3630455",
-    "datetime": "2026-11-16T13:40:14+00:00",
-    "views": "92",
-    "text": "美国媒体 15 日援引美国官员的话报道称，美军“罗斯福”号航母已于当天抵达美军中央司令部责任区，目前该区域内部署三个航母打击群，覆盖波斯湾、红海、阿曼湾及阿拉伯海。“罗斯福”号及 5000 名官兵 9 月底离开圣迭戈母港，赴中东执行至少 7 个月部署任务。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3630455"
-  },
-  {
-    "post": "Financial_Express/3630454",
-    "datetime": "2026-11-16T13:39:23+00:00",
-    "views": "81",
-    "text": "超威半导体美股盘前跌超 6%\n超威半导体美股盘前跌超 6%，现报 502.01 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3630454"
-  },
-  {
-    "post": "Financial_Express/3630453",
-    "datetime": "2026-11-16T13:39:22+00:00",
-    "views": "80",
-    "text": "欧洲投资银行表示，已为该项目拨款 8 亿欧元，工程将于 2027 年启动，预计总投资为 31 亿欧元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3630453"
   }
 ]
