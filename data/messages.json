@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3637982",
+    "datetime": "2026-11-18T15:28:43+00:00",
+    "views": "1",
+    "text": "英国央行行长贝利：恐怕通胀还将进一步上升。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3637982"
+  },
+  {
+    "post": "Financial_Express/3637981",
+    "datetime": "2026-11-18T15:28:42+00:00",
+    "views": "1",
+    "text": "英国央行行长贝利：（被问及通胀回升时）这令人极其沮丧。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3637981"
+  },
+  {
+    "post": "Financial_Express/3637980",
+    "datetime": "2026-11-18T15:27:22+00:00",
+    "views": "2",
+    "text": "黑石集团总裁乔恩·格雷：情况不像互联网泡沫时那么糟糕。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3637980"
+  },
+  {
+    "post": "Financial_Express/3637979",
+    "datetime": "2026-11-18T15:27:02+00:00",
+    "views": "33",
+    "text": "黑石集团总裁乔恩·格雷警告称，市场存在“高度泡沫警报”，市场的悲观情绪已经过头了。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3637979"
+  },
+  {
     "post": "Financial_Express/3637978",
     "datetime": "2026-11-18T15:26:42+00:00",
-    "views": "1",
+    "views": "34",
     "text": "现货白银跌幅扩大，下跌近 5%至 45.04 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -11,8 +47,8 @@
   {
     "post": "Financial_Express/3637977",
     "datetime": "2026-11-18T15:26:37+00:00",
-    "views": "3",
-    "text": "黑石集团 Jon Gray 在 TomorrowX Summit 警告称：市场存在“高度泡沫警报”。",
+    "views": "34",
+    "text": "黑石集团 Jon Gray 在 TomorrowX Summit 警告称：市场存在“高度泡沫警报”。\n形势并非与互联网泡沫时期一样糟糕。\nAI 基础设施供不应求“非常突出”。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3637977"
@@ -20,8 +56,8 @@
   {
     "post": "Financial_Express/3637976",
     "datetime": "2026-11-18T15:26:22+00:00",
-    "views": "3",
-    "text": "黑石集团高管格雷警告市场存在“高度泡沫警报”，负面情绪已走向极端。",
+    "views": "34",
+    "text": "黑石集团总裁格雷警告市场存在“高度泡沫警报”，负面情绪已走向极端。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3637976"
@@ -29,8 +65,8 @@
   {
     "post": "Financial_Express/3637975",
     "datetime": "2026-11-18T15:26:02+00:00",
-    "views": "3",
-    "text": "OpenAI 的 Brockman 确认，他向马斯克要求算力（支持）。",
+    "views": "34",
+    "text": "OpenAI 总裁 Brockman 确认，他向马斯克要求算力（支持）。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3637975"
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3637974",
     "datetime": "2026-11-18T15:25:42+00:00",
-    "views": "3",
+    "views": "34",
     "text": "OpenAI 总裁布罗克曼证实曾向马斯克寻求算力支持。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3637973",
     "datetime": "2026-11-18T15:25:02+00:00",
-    "views": "33",
+    "views": "64",
     "text": "意法半导体：力争未来几年提高微控制器收入\n金十数据 11 月 18 日讯，意法半导体微控制器、数字集成电路和射频产品总裁 Remi El-Ouazzane 在公司网络直播中表示，意法半导体预计，其 STM32 微控制器产品组合的收入将在 2025 年至 2028 年期间增长一倍。由于公司不按产品系列拆分收入，他没有提供具体数字。El-Ouazzane 表示，意法半导体正在扩大 STM32 在中国的市场份额，收入目前已高于 2021 年和 2022 年的此前峰值。STM32 产品有望受益于人工智能和人形机器人领域不断增长的需求。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3637972",
     "datetime": "2026-11-18T15:24:53+00:00",
-    "views": "33",
+    "views": "34",
     "text": "巴斯夫（BASF SE）正准备提高对赢创工业集团（Evonik Industries AG）的收购报价，增加资金并附加更多在德国工业腹地保障就业和投资的承诺。\n要取得成功，巴斯夫需要赢得 RAG-Stiftung 的支持。该基金会负责监管德国硬煤开采的环境遗留问题，同时也是赢创的最大股东。而要获得这种支持，巴斯夫还需要说服亨德里克·武斯特（Hendrik Wüst）——他既是 RAG 基金会托管委员会成员，也是赢创总部所在地北莱茵-威斯特法伦州的州长。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3637971",
     "datetime": "2026-11-18T15:23:43+00:00",
-    "views": "34",
+    "views": "65",
     "text": "小米 18 预计 12 月发布，起售价 5699 元\n雷军在 APEC 圆桌会谈的采访中披露未发布新机小米 18 相关信息。这款机型预计 12 月正式发布，硬件层面沿用小米数字标准版小机身，性能、影像、续航、屏幕等实现升级。有消息称其起售价 5699 元。（界面）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3637970",
     "datetime": "2026-11-18T15:23:23+00:00",
-    "views": "35",
+    "views": "66",
     "text": "小米 18 预计 12 月发布，起售价 5699 元\n金十数据 11 月 18 日讯，雷军在 APEC 圆桌会谈的采访中披露未发布新机小米 18 相关信息。这款机型预计 12 月正式发布，硬件层面沿用小米数字标准版小机身，性能、影像、续航、屏幕等实现升级。有消息称其起售价 5699 元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3637969",
     "datetime": "2026-11-18T15:23:02+00:00",
-    "views": "35",
+    "views": "66",
     "text": "Anthropic 正考虑扩大其 IPO 规模\n知情人士表示，Anthropic 考虑上调 IPO 发行规模，同时该 AI 企业正考虑将发行价定在 80 美元上方。该公司已于周二锁定全部认购意向，知情人士称，机构认购意向规模约 4000 亿美元，散户认购意向接近 1000 亿美元。上述订单仅为意向认购，不具备约束力；所有细节仍有可能调整，Anthropic 将于周三下午做出最终决定，并计划在周三收盘后确定最终 IPO 发行价。Anthropic 上周公布，本次 IPO 拟发行 8.25 亿股，发行价区间 70 至 78 美元，按区间上限计算最多可募资 643.5 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3637968",
     "datetime": "2026-11-18T15:21:48+00:00",
-    "views": "69",
+    "views": "99",
     "text": "华尔街日报：美国众议院又有一个委员会要求英伟达就芯片出口做情况说明。\n能源和商务委员会致函英伟达临时首席执行官。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3637967",
     "datetime": "2026-11-18T15:20:42+00:00",
-    "views": "70",
+    "views": "100",
     "text": "提醒：北京时间 23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3637966",
     "datetime": "2026-11-18T15:20:23+00:00",
-    "views": "71",
+    "views": "101",
     "text": "OpenAI 创始人奥尔特曼：人工智能行业将需要一些共同的安全标准。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3637965",
     "datetime": "2026-11-18T15:20:02+00:00",
-    "views": "101",
+    "views": "131",
     "text": "OpenAI 首席执行官奥特曼：世界需要制定“明确计划”以应对强大的 AI。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3637964",
     "datetime": "2026-11-18T15:19:48+00:00",
-    "views": "103",
+    "views": "133",
     "text": "OpenAI 的 CEO Altman：AI 行业将需要一些共同的安全标准。",
     "media_only": false,
     "image_url": null,
