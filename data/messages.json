@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3638177",
     "datetime": "2026-11-18T17:09:42+00:00",
-    "views": "5",
+    "views": "35",
     "text": "亚马逊云服务(AWS)：为 Amazon EMR Serverless 和 AWS Glue ETL 推出 Apache Spark 优化代理。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3638176",
     "datetime": "2026-11-18T17:09:02+00:00",
-    "views": "6",
+    "views": "36",
     "text": "谷歌(GOOG.O)推出长程运行智能体 Stitch Loop。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +92,7 @@
   {
     "post": "Financial_Express/3638167",
     "datetime": "2026-11-18T17:03:22+00:00",
-    "views": "39",
+    "views": "69",
     "text": "上海原油连续主力合约日内跌 5%，现报 559.90 元。",
     "media_only": false,
     "image_url": null,
@@ -63916,23 +63916,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3630840"
-  },
-  {
-    "post": "Financial_Express/3630839",
-    "datetime": "2026-11-16T17:12:49+00:00",
-    "views": "132",
-    "text": "苹果公司高管 Corey Fugman 将牵头负责苹果支付与苹果钱包，填补 Jennifer Bailey 退休留下的职位空缺。（彭博）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3630839"
-  },
-  {
-    "post": "Financial_Express/3630838",
-    "datetime": "2026-11-16T17:12:19+00:00",
-    "views": "129",
-    "text": "美国零售柴油价格自 9 月初以来首次跌破每加仑 6 美元，缓解了今年秋季推动能源和食品价格上涨的一项关键投入成本压力。根据美国汽车协会（AAA）的数据，周一零售柴油价格降至每加仑 5.9989 美元，低于 9 月下旬每加仑超过 6.50 美元的峰值。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3630838"
   }
 ]
