@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3635509",
+    "datetime": "2026-11-18T01:50:02+00:00",
+    "views": "1",
+    "text": "苹果更新致多项服务中断\n美国苹果公司当地时间 11 月 17 日证实，因一次更新出错，Apple Music（苹果音乐）、App Store（苹果商店） 和 AppleCare 服务遭遇中断，其 iCloud 云服务登录界面也被标示为存在问题。网络故障监测网站显示，有关 Apple Pay 的用户投诉出现激增。苹果公司称，该问题并非由网络攻击引起，公司方面正努力并已陆续恢复相关系统。（CCTV 国际时讯）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3635509"
+  },
+  {
+    "post": "Financial_Express/3635508",
+    "datetime": "2026-11-18T01:49:22+00:00",
+    "views": "33",
+    "text": "马来西亚调查 AI 干预选举问题，向 Anthropic 索取更多信息\n金十数据 11 月 18 日讯，马来西亚正要求人工智能公司 Anthropic 提供更多信息，以核实有关该公司人工智能模型被用于针对马来西亚选民开展政治影响行动的说法。Anthropic 在 9 月发布的一份报告中称，该公司已封禁一个账户。该账户利用其 Claude 人工智能模型运营一个商业化选举操纵平台，主要针对马来西亚选民。Anthropic 表示，该平台包含约 1000 个虚假的社交媒体平台账号、一家虚假新闻媒体以及伪造的档案资料。马来西亚通信部周二在提交议会的书面答复中表示，马来西亚通信与多媒体委员会（MCMC）已向 Anthropic 索取有关该报告的更多信息。通信部称，MCMC 随后将决定是否采取法律行动。通信部还表示，马来西亚正在起草一项法案，以规范人工智能的使用，确保相关责任得到落实，并加强风险管理。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3635508"
+  },
+  {
     "post": "Financial_Express/3635507",
     "datetime": "2026-11-18T01:48:43+00:00",
-    "views": "4",
+    "views": "34",
     "text": "英伟达供应链采购承诺升至 3900 亿美元\n英伟达临时 CEO 兼 CFO Colette Kress 在 2027 财年第三季度业绩电话会上表示，第三季度采购承诺金额增至 3900 亿美元，高于上一季度的 2790 亿美元，同时英伟达的数据中心租赁及云服务承诺合计达到 1020 亿美元，主要由长期数据中心租赁承诺推动。英伟达正与合作伙伴加快晶圆、基板和先进封装等关键环节的产能扩张。业绩会上 Colette Kress 宣布，与景硕科技、三星电机在基板领域达成新协议，并与矽品精密在先进封装领域达成合作。上述合作是对英伟达 10 月与 Amkor、揖斐电、京元电子及欣兴电子宣布的供应链扩产合作的进一步补充。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3635506",
     "datetime": "2026-11-18T01:48:42+00:00",
-    "views": "4",
+    "views": "34",
     "text": "A 股汽车整车板块走高，众泰汽车涨停，中国重汽、海马汽车、中通客车、中集车辆、汉马科技涨幅居前。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3635505",
     "datetime": "2026-11-18T01:48:23+00:00",
-    "views": "4",
+    "views": "34",
     "text": "汽车整车板块走高，众泰汽车涨停\n汽车整车板块走高，众泰汽车涨停，中国重汽、海马汽车、中通客车、中集车辆、汉马科技跟涨。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3635504",
     "datetime": "2026-11-18T01:48:22+00:00",
-    "views": "4",
+    "views": "34",
     "text": "纽约期金失守 3810 美元/盎司，日内跌 1.41%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3635501",
     "datetime": "2026-11-18T01:46:22+00:00",
-    "views": "32",
+    "views": "63",
     "text": "台币兑美元下跌 0.4%至 32.982。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3635499",
     "datetime": "2026-11-18T01:45:44+00:00",
-    "views": "33",
+    "views": "64",
     "text": "A 股煤炭开采加工板块短线拉升，安泰集团涨停，郑州煤电、大有能源、陕西黑猫、中煤能源、云煤能源等纷纷走高。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3635500",
     "datetime": "2026-11-18T01:45:44+00:00",
-    "views": "33",
+    "views": "64",
     "text": "巴林称周三拦截了来自伊朗的空中袭击。",
     "media_only": false,
     "image_url": null,
@@ -60028,41 +60046,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3628254"
-  },
-  {
-    "post": "Financial_Express/3628253",
-    "datetime": "2026-11-16T01:51:02+00:00",
-    "views": "33",
-    "text": "日本经济大臣就 7-9 月 GDP 表示，有必要继续密切关注中东局势的影响。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3628253"
-  },
-  {
-    "post": "Financial_Express/3628252",
-    "datetime": "2026-11-16T01:50:47+00:00",
-    "views": "33",
-    "text": "A 股银行板块逆势拉升，工商银行、南京银行、成都银行、杭州银行、青岛银行均创历史新高。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3628252"
-  },
-  {
-    "post": "Financial_Express/3628251",
-    "datetime": "2026-11-16T01:50:42+00:00",
-    "views": "32",
-    "text": "摩根士丹利建议超配全球股票：风险资产估值已经回落\n摩根士丹利建议最高超配全球股票，理由是 AI 资本开支周期并未中断，将带动经济和盈利保持韧性，延续至明年。该行策略师唐诗韵等在 11 月 15 日的报告中表示，维持美股超配评级，同时将日本、欧洲股票上调至超配，新兴市场维持标配。报告上调标普 500 指数目标价，对应潜在上涨空间 15%。其他资产方面，摩根士丹利预计美元小幅走强，看好投资级企业债以及黄金。策略师在报告中写道：“风险资产估值已经回落，我们选择拥抱风险。在全球股票内部，行情主线正在从云厂商向外扩散；2027 年，AI 落地应用企业的收益将越来越受关注。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3628251"
-  },
-  {
-    "post": "Financial_Express/3628250",
-    "datetime": "2026-11-16T01:50:02+00:00",
-    "views": "33",
-    "text": "中国 10 月规模以上工业增加值同比、社会消费品零售总额同比将于十分钟后公布。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3628250"
   }
 ]
