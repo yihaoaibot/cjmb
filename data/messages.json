@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3642064",
+    "datetime": "2026-11-19T18:28:02+00:00",
+    "views": "1",
+    "text": "特朗普表示，将在新年伊始后再看情况发展。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642064"
+  },
+  {
+    "post": "Financial_Express/3642063",
+    "datetime": "2026-11-19T18:27:55+00:00",
+    "views": "1",
+    "text": "美国总统特朗普：我不急于就伊朗问题做决定。（Axios）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642063"
+  },
+  {
+    "post": "Financial_Express/3642061",
+    "datetime": "2026-11-19T18:27:43+00:00",
+    "views": "1",
+    "text": "乌克兰总统泽连斯基呼吁美欧加大对俄施压，促使俄罗斯实质性参与谈判。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642061"
+  },
+  {
+    "post": "Financial_Express/3642062",
+    "datetime": "2026-11-19T18:27:43+00:00",
+    "views": "1",
+    "text": "特朗普：我不会仓促对伊朗问题做出决定。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642062"
+  },
+  {
+    "post": "Financial_Express/3642060",
+    "datetime": "2026-11-19T18:27:42+00:00",
+    "views": "1",
+    "text": "乌克兰总统泽连斯基：美国特使威特科夫和库什纳参加“志愿联盟”会议，各方同意欧洲参与对俄谈判，下一次会议应由乌克兰、欧洲、美国和俄罗斯四方参加，并共同制定议程。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642060"
+  },
+  {
     "post": "Financial_Express/3642059",
     "datetime": "2026-11-19T18:26:04+00:00",
-    "views": "3",
+    "views": "33",
     "text": "德国发动机制造商道依茨表示，收购 FFG 将推动公司转型，国防业务成为核心支柱。做空机构宁基在发布报告前未与公司联系。报告中关键结论缺乏依据。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3642058",
     "datetime": "2026-11-19T18:26:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "出口商协会负责人表示，厄瓜多尔可可产量可能因厄尔尼诺现象强度下降多达 25%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3642057",
     "datetime": "2026-11-19T18:25:22+00:00",
-    "views": "3",
+    "views": "33",
     "text": "泽连斯基：今日晚些时候，我们将同美国特使单独磋商下次会议的举办时间与会议议程。下一轮会议必须是四方会谈：乌克兰、欧洲、美国以及俄罗斯。我们对此寄予厚望。会议议程必须由乌克兰、欧洲、美国三方共同拟定并达成一致。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3642056",
     "datetime": "2026-11-19T18:25:12+00:00",
-    "views": "3",
+    "views": "33",
     "text": "欧洲 STOXX 600 指数收跌 0.88%，报 638.41 点。\n欧元区 STOXX 50 指数收跌 0.66%，报 6113.86 点，整体高开低走。\n富时泛欧绩优 300 指数收跌 0.88%，报 2544.01 点。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3642055",
     "datetime": "2026-11-19T18:25:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "泽连斯基：“意愿联盟” 会议作出决定，欧洲方面将参与同俄罗斯的谈判机制，这一点意义重大。欧洲将由五个国家，外加欧盟与北约作为代表参会。美方完全理解，欧洲需要以强有力、步调统一的姿态参与谈判。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3642054",
     "datetime": "2026-11-19T18:24:02+00:00",
-    "views": "3",
+    "views": "33",
     "text": "杰富瑞集团下调阿里巴巴(BABA.N)目标价至 161 美元，维持对其的“买入”评级。",
     "media_only": false,
     "image_url": null,
@@ -65446,14 +65491,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3634705"
-  },
-  {
-    "post": "Financial_Express/3634704",
-    "datetime": "2026-11-17T18:27:22+00:00",
-    "views": "95",
-    "text": "美国正重新考虑新泽西州沿海风电场许可。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634704"
   }
 ]
