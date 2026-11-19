@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3641279",
+    "datetime": "2026-11-19T14:02:22+00:00",
+    "views": "1",
+    "text": "捷蓝航空开通飞往洪都拉斯和大开曼岛的新航班，扩大了劳德代尔堡的国际航线网络。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641279"
+  },
+  {
+    "post": "Financial_Express/3641278",
+    "datetime": "2026-11-19T14:01:56+00:00",
+    "views": "1",
+    "text": "据美国纽约联储数据，上个交易日（11 月 18 日）担保隔夜融资利率（SOFR）报 3.9%，之前一天报 3.92%。\n上个交易日有效的联邦基金利率报 3.88%，之前一天报 3.88%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641278"
+  },
+  {
+    "post": "Financial_Express/3641277",
+    "datetime": "2026-11-19T14:01:22+00:00",
+    "views": "1",
+    "text": "艾默生与 Databricks 合作，推动工业与企业人工智能融合。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641277"
+  },
+  {
+    "post": "Financial_Express/3641276",
+    "datetime": "2026-11-19T14:01:03+00:00",
+    "views": "31",
+    "text": "谷歌宣布向俄勒冈州提供 1000 万美元，用于支持能源可负担性。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641276"
+  },
+  {
     "post": "Financial_Express/3641275",
     "datetime": "2026-11-19T13:59:42+00:00",
-    "views": "4",
+    "views": "35",
     "text": "11 月 18 日，美国有效联邦基金利率为 3.88%，交易额为 880 亿美元；11 月 17 日，利率为 3.88%，交易额为 950 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3641274",
     "datetime": "2026-11-19T13:59:23+00:00",
-    "views": "5",
+    "views": "36",
     "text": "沃尔玛高管：今年我们不得不应对的柴油和运输成本增加将超过 20 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3641273",
     "datetime": "2026-11-19T13:59:02+00:00",
-    "views": "6",
+    "views": "37",
     "text": "机构：Anthropic 创纪录 IPO 或扭转 AI 投资悲观情绪\n金十数据 11 月 19 日讯，Mergermarket 全球股权资本市场负责人塞缪尔·克尔认为，Anthropic 创纪录的 IPO 有望扭转围绕人工智能的负面情绪。自 10 月初以来，由于投资者担心人工智能的快速扩张势头可能放缓，人工智能相关股票遭遇了大幅抛售。克尔表示：“此次上市或许能扭转针对人工智能、其增长前景及相关股票的诸多负面情绪，并可能使牛市行情再延续相当长一段时间。”他认为，若整体市场环境走强，其他科技公司也会更有动力上市。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3641272",
     "datetime": "2026-11-19T13:58:24+00:00",
-    "views": "37",
+    "views": "68",
     "text": "阿曼与埃克森美孚签署 4 亿美元协议开发马卡雷姆天然气项目。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3641271",
     "datetime": "2026-11-19T13:58:22+00:00",
-    "views": "37",
+    "views": "68",
     "text": "英国能源监管局就电网接入延迟问题启动紧急调查。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3641270",
     "datetime": "2026-11-19T13:58:02+00:00",
-    "views": "39",
+    "views": "40",
     "text": "美银 Saraiva：新的财政举措可能利好巴西资产。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3641269",
     "datetime": "2026-11-19T13:57:22+00:00",
-    "views": "39",
+    "views": "70",
     "text": "美银分析师 Saraiva 表示，巴西市场的回调似乎已基本结束。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3641268",
     "datetime": "2026-11-19T13:55:43+00:00",
-    "views": "41",
+    "views": "72",
     "text": "安联：预计海湾国家到 2030 年底或损失 7900 亿美元经济产出\n金十数据 11 月 19 日讯，安联研究称，由于中东冲突扰乱能源出口、贸易和投资，海湾经济体到 2030 年底可能累计损失 7900 亿美元的经济产出。该研究机构预计，海湾阿拉伯国家合作委员会经济将在 2026 年萎缩 4%，并估计重建成本约为 2000 亿美元。该机构预计，2026-2030 年期间累计财政赤字为 4750 亿美元，融资需求为 7220 亿美元，包括债务到期。预计这场冲突还将使投资转向绕过霍尔木兹海峡的管道、交通基础设施和其他战略项目。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3641267",
     "datetime": "2026-11-19T13:55:21+00:00",
-    "views": "41",
+    "views": "72",
     "text": "中国铜供应紧张正从美国庞大的库存中吸引铜金属流入。交易商已预订船只，将铜从美国运往中国。（彭博）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3641266",
     "datetime": "2026-11-19T13:55:16+00:00",
-    "views": "41",
+    "views": "72",
     "text": "根据集邦咨询最新存储器产业研究，2027 年全球 NAND Flash 产业将迎来供需反转；在整体供给量将高速成长的情况下，因部分云端服务供应商（CSP）大幅下修 Enterprise SSD 订单，而且来自消费性电子产品的需求可能进一步放缓，市场供过于求情势将加剧，TrendForce 集邦咨询预估，2027 年第一季起整体 NAND Flash 合约价格将转向下跌趋势，跌幅可能逐季扩大。\nTrendForce 集邦咨询估计，2027 年全球 NAND Flash 产业资本支出将年增 26.7%，达 299 亿美元。由于北美地区高性能存储需求强劲，原厂扩产、制程转进脚步未停，加上 QLC 产品渗透率与高层数制程皆有提升，即便部分供应商考量消费性需求放缓，稍微放慢扩产速度，预估 2027 年全球 NAND Flash 供给位元年成长率仍将介于 25%~30%之间。\n展望 2027 年，由于部分 CSP 下调 Enterprise SSD 需求幅度抵销北美订单成长，全年供给增速将明显高于需求增加，供过于求态势加剧，预计第一季整体 NAND Flash 合约价格将季减 0%~5%，自第二季起各项产品都将步入跌价循环。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3641264",
     "datetime": "2026-11-19T13:55:03+00:00",
-    "views": "38",
+    "views": "69",
     "text": "11 月 19 日《新闻联播》主要内容\n今天《新闻联播》主要内容有：1.习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话； 2.央视快评：推动建设亚太共同体 续写“亚太奇迹”新篇章； 3.习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会； 4.习近平主持中俄美元首会晤； 5.中俄美元首和平宣言； 6.习近平会见美国总统； 7.彭丽媛同亚太经合组织经济体领导人或代表配偶参观“岭南非遗传承与创新”主题展； 8.习近平对老龄工作作出重要指示强调 深入实施积极应对人口老龄化国家战略 努力让老年人的生活更加幸福美满 李强出席全国老龄工作会议并讲话； 9.央视快评：努力让老年人的生活更加幸福美满； 10.李希在广西调研； 11.我国新增 34 家领航级智能工厂； 12.我国加快提升农产品品质； 13.联播快讯： （1）新一批可信数据空间创新发展试点启动； （2）我国 16 座水库进行“三个大坝”建设试点； （3）全国首个独立运行的兆瓦级海岛微电网投运； （4）我国开展冰雪气候资源普查； （5）第九届全国职工职业技能大赛决赛结束； （6）2025 年全球专利申请量创新高 中国领先； （7）也门胡塞武装称萨那等多地遭沙特空袭； （8）伊朗阿曼就建立区域安全框架进行会谈。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3641265",
     "datetime": "2026-11-19T13:55:03+00:00",
-    "views": "38",
+    "views": "39",
     "text": "土耳其陶瓷制造商 USAK SERAMIK 将削减 50%的产量并裁员。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3641263",
     "datetime": "2026-11-19T13:54:22+00:00",
-    "views": "38",
+    "views": "39",
     "text": "CTBC Financial 计划认购 Anthropic 的 12.5 万股股票。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3641262",
     "datetime": "2026-11-19T13:53:16+00:00",
-    "views": "38",
+    "views": "39",
     "text": "美国最大贷款机构摩根大通周四表示，为其提供服务的第三方供应商遭到了网络攻击。“根据目前调查结果，我们认为攻击者获取了这些供应商持有的部分营销数据，其中可能包含部分客户的姓名和电子邮件地址，”摩根大通一位发言人表示。“这与本周早些时候部分客户遭遇的服务中断无关，”该发言人补充道。（路透）",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3641261",
     "datetime": "2026-11-19T13:53:03+00:00",
-    "views": "38",
+    "views": "39",
     "text": "Anthropic PBC：根据提交给美国证交会（SEC）的文件，公司 IPO 承销折扣为 5.5 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3641260",
     "datetime": "2026-11-19T13:52:22+00:00",
-    "views": "38",
+    "views": "68",
     "text": "CTBC 金融控股计划认购 Anthropic 12.5 万股股份。",
     "media_only": false,
     "image_url": null,
@@ -64339,203 +64375,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3634046"
-  },
-  {
-    "post": "Financial_Express/3634045",
-    "datetime": "2026-11-17T14:03:03+00:00",
-    "views": "2",
-    "text": "匈牙利央行：由于燃油价格上涨和经济政策措施，通胀率将从容忍区间的下限上升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634045"
-  },
-  {
-    "post": "Financial_Express/3634044",
-    "datetime": "2026-11-17T14:03:02+00:00",
-    "views": "2",
-    "text": "美国银行企业主报告：75%的企业主担心未来一年通胀将进一步上升；42%的企业主对当地经济将改善有信心。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634044"
-  },
-  {
-    "post": "Financial_Express/3634042",
-    "datetime": "2026-11-17T14:02:44+00:00",
-    "views": "1",
-    "text": "波士顿动力公司：格芯将成为首家测试阿特拉斯人形机器人的半导体制造商。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634042"
-  },
-  {
-    "post": "Financial_Express/3634043",
-    "datetime": "2026-11-17T14:02:44+00:00",
-    "views": "1",
-    "text": "匈牙利央行表示，在全球经济和金融市场前景存在不确定性的情况下，匈牙利的风险评估保持稳定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634043"
-  },
-  {
-    "post": "Financial_Express/3634040",
-    "datetime": "2026-11-17T14:02:43+00:00",
-    "views": "1",
-    "text": "美国银行企业主报告：39%的企业主计划在未来 12 个月内增聘员工。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634040"
-  },
-  {
-    "post": "Financial_Express/3634041",
-    "datetime": "2026-11-17T14:02:43+00:00",
-    "views": "1",
-    "text": "耐克：预计 Pace 计划将在 2031 财年前推动实现约 25 亿美元的年化成本节约。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634041"
-  },
-  {
-    "post": "Financial_Express/3634039",
-    "datetime": "2026-11-17T14:02:42+00:00",
-    "views": "1",
-    "text": "美国银行企业主报告：69%的企业主仍表示受到供应链中断影响，低于去年的 75%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634039"
-  },
-  {
-    "post": "Financial_Express/3634038",
-    "datetime": "2026-11-17T14:02:25+00:00",
-    "views": "1",
-    "text": "布伦特原油突破 94 美元/桶，日内涨 1.72%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634038"
-  },
-  {
-    "post": "Financial_Express/3634036",
-    "datetime": "2026-11-17T14:02:24+00:00",
-    "views": "1",
-    "text": "本田汽车向阿拉巴马州汽车工厂投资 4.62 亿美元，以提高产量和混合动力发动机产能。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634036"
-  },
-  {
-    "post": "Financial_Express/3634037",
-    "datetime": "2026-11-17T14:02:24+00:00",
-    "views": "1",
-    "text": "亚马逊生鲜推出自有即食餐系列。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634037"
-  },
-  {
-    "post": "Financial_Express/3634035",
-    "datetime": "2026-11-17T14:02:22+00:00",
-    "views": "1",
-    "text": "法国机器人初创公司 Genesis AI 以 35 亿美元估值完成 5 亿美元融资。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634035"
-  },
-  {
-    "post": "Financial_Express/3634034",
-    "datetime": "2026-11-17T14:02:05+00:00",
-    "views": "1",
-    "text": "福特汽车副董事长约翰·劳勒将退休。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634034"
-  },
-  {
-    "post": "Financial_Express/3634032",
-    "datetime": "2026-11-17T14:02:04+00:00",
-    "views": "1",
-    "text": "厄瓜多尔 10 月份消费者价格指数同比上涨 1.39%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634032"
-  },
-  {
-    "post": "Financial_Express/3634033",
-    "datetime": "2026-11-17T14:02:04+00:00",
-    "views": "1",
-    "text": "欧洲央行称外汇储备减少 5 亿欧元，至 3491 亿欧元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634033"
-  },
-  {
-    "post": "Financial_Express/3634031",
-    "datetime": "2026-11-17T14:02:03+00:00",
-    "views": "1",
-    "text": "美国银行企业主报告：79%的企业主在过去一年提高了价格，平均涨幅接近 13%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634031"
-  },
-  {
-    "post": "Financial_Express/3634030",
-    "datetime": "2026-11-17T14:02:02+00:00",
-    "views": "1",
-    "text": "美国银行企业主报告：84%的企业主使用人工智能；68%的用户预计未来一年它将提振收入。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634030"
-  },
-  {
-    "post": "Financial_Express/3634029",
-    "datetime": "2026-11-17T14:01:44+00:00",
-    "views": "2",
-    "text": "高通与 Cirrascale 合作，共同推进新一代节能型 AI 推理技术的发展。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634029"
-  },
-  {
-    "post": "Financial_Express/3634027",
-    "datetime": "2026-11-17T14:01:43+00:00",
-    "views": "2",
-    "text": "耐克预计 2027 财年营收仍将下滑，降幅处于高个位数区间。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634027"
-  },
-  {
-    "post": "Financial_Express/3634028",
-    "datetime": "2026-11-17T14:01:43+00:00",
-    "views": "2",
-    "text": "耐克计划通过股息向股东返还 120 亿美元资本。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634028"
-  },
-  {
-    "post": "Financial_Express/3634026",
-    "datetime": "2026-11-17T14:01:42+00:00",
-    "views": "2",
-    "text": "美国银行企业主报告：91%的企业主表示过去 12 个月成本上升，高于去年的 77%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634026"
-  },
-  {
-    "post": "Financial_Express/3634024",
-    "datetime": "2026-11-17T14:01:23+00:00",
-    "views": "2",
-    "text": "匈牙利央行：经济发展符合 9 月预测。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634024"
-  },
-  {
-    "post": "Financial_Express/3634025",
-    "datetime": "2026-11-17T14:01:23+00:00",
-    "views": "2",
-    "text": "耐克重申 2027 财年调整后每股收益预期为 1.15 至 1.35 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634025"
   }
 ]
