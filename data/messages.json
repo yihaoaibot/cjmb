@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3642253",
+    "datetime": "2026-11-19T20:01:24+00:00",
+    "views": "2",
+    "text": "纳斯达克 100 指数跌幅扩大至 2%，标普跌超 1.8%，道指狂泄超千点、跌幅 2.1%，纳指跌 2.1%，半导体指数跌 2.2%，银行指数跌 1.7%。\nAnthropic 美国 IPO 首日盘中维持大约 15%的涨幅。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642253"
+  },
+  {
+    "post": "Financial_Express/3642251",
+    "datetime": "2026-11-19T20:01:22+00:00",
+    "views": "3",
+    "text": "纳指跌幅扩大至 2%，英伟达(NVDA.O)跌近 3%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642251"
+  },
+  {
+    "post": "Financial_Express/3642252",
+    "datetime": "2026-11-19T20:01:22+00:00",
+    "views": "3",
+    "text": "OpenAI：GPT-Live-1.1 现在可以在 API 中使用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642252"
+  },
+  {
     "post": "Financial_Express/3642249",
     "datetime": "2026-11-19T20:01:02+00:00",
-    "views": "1",
+    "views": "4",
     "text": "以色列大使莱特：只有击败伊朗，才能让美国士兵回到家人身边。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3642250",
     "datetime": "2026-11-19T20:01:02+00:00",
-    "views": "1",
+    "views": "4",
     "text": "现货白银失守 44 美元/盎司，日内跌 2.31%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3642248",
     "datetime": "2026-11-19T20:00:42+00:00",
-    "views": "1",
+    "views": "4",
     "text": "美国农业部：美国 10 月红肉产量下降 3.5%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3642247",
     "datetime": "2026-11-19T20:00:32+00:00",
-    "views": "1",
+    "views": "4",
     "text": "纽约金日内跌幅达 2.0%，报 3666.89 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3642245",
     "datetime": "2026-11-19T20:00:22+00:00",
-    "views": "1",
+    "views": "4",
     "text": "纽约期金日内跌 2%，现报 3666.99 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3642246",
     "datetime": "2026-11-19T20:00:22+00:00",
-    "views": "1",
+    "views": "4",
     "text": "纳指跌 2.03%，现报 23933.907 点；道指跌 1.93%，现报 49226.930 点；标普 500 指数跌 1.73%，现报 7197.220 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3642244",
     "datetime": "2026-11-19T19:59:47+00:00",
-    "views": "3",
+    "views": "6",
     "text": "周四（11 月 19 日）纽约尾盘，彭博谷物分类指数涨 0.65%，报 29.3446 点。\nCBOT 玉米期货涨 0.95%，CBOT 小麦期货涨 1.58%。\nCBOT 大豆期货跌 0.84%，豆粕期货跌 1.08%，豆油期货涨 0.35%。",
     "media_only": false,
     "image_url": null,
@@ -65716,32 +65743,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3634866"
-  },
-  {
-    "post": "Financial_Express/3634865",
-    "datetime": "2026-11-17T20:01:59+00:00",
-    "views": "87",
-    "text": "法国政客勒庞提议，将退休年龄下调至最低 60 岁。（英国金融时报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634865"
-  },
-  {
-    "post": "Financial_Express/3634864",
-    "datetime": "2026-11-17T20:01:43+00:00",
-    "views": "86",
-    "text": "道指跌 2.01%，现报 50569.578 点；纳指跌 1.47%，现报 24150.550 点；标普 500 指数跌 1.59%，现报 7298.600 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634864"
-  },
-  {
-    "post": "Financial_Express/3634863",
-    "datetime": "2026-11-17T20:01:42+00:00",
-    "views": "86",
-    "text": "道指扩大跌幅至 2%，标普 500 指数跌 1.59%，纳指跌 1.46%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634863"
   }
 ]
