@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3642369",
+    "datetime": "2026-11-19T21:34:23+00:00",
+    "views": "17",
+    "text": "现货白银失守 43 美元/盎司，日内跌 4.53%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642369"
+  },
+  {
+    "post": "Financial_Express/3642367",
+    "datetime": "2026-11-19T21:34:22+00:00",
+    "views": "17",
+    "text": "纽约期金日内跌 3%，现报 3628.80 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642367"
+  },
+  {
+    "post": "Financial_Express/3642368",
+    "datetime": "2026-11-19T21:34:22+00:00",
+    "views": "17",
+    "text": "现货黄金失守 3630 美元/盎司，日内跌 2.58%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642368"
+  },
+  {
+    "post": "Financial_Express/3642366",
+    "datetime": "2026-11-19T21:34:21+00:00",
+    "views": "17",
+    "text": "11 月 13 日，全球投资者（通过基金）对泰国股市的净买入创一个月新高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642366"
+  },
+  {
+    "post": "Financial_Express/3642365",
+    "datetime": "2026-11-19T21:34:02+00:00",
+    "views": "20",
+    "text": "纽约期金失守 3630 美元/盎司，日内跌 2.99%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642365"
+  },
+  {
+    "post": "Financial_Express/3642364",
+    "datetime": "2026-11-19T21:33:02+00:00",
+    "views": "26",
+    "text": "美国至 11 月 13 日当周外国央行持有美国国债 198.22 亿美元，前值-195.11 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642364"
+  },
+  {
     "post": "Financial_Express/3642363",
     "datetime": "2026-11-19T21:30:22+00:00",
-    "views": "24",
+    "views": "41",
     "text": "现货白银跌幅扩大至 4%，现报 43.18 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3642362",
     "datetime": "2026-11-19T21:29:42+00:00",
-    "views": "27",
+    "views": "44",
     "text": "现货白银日内跌 4%，现报 43.22 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3642361",
     "datetime": "2026-11-19T21:28:45+00:00",
-    "views": "34",
+    "views": "49",
     "text": "博士伦（Bausch + Lomb）公布 BL1332 用于治疗术后眼部疼痛的 II 期临床试验结果。\nBL1332 各剂量组均显示出优于赋形剂对照组（vehicle）的镇痛效果，但未达到主要终点。\n该研究未能达到术后 24 小时内疼痛强度改善的主要终点。\n使用 BL1332 未报告任何与治疗相关的不良事件或严重不良事件。\n试验结果支持公司就未来研发及 III 期临床试验规划与美国食品药品监督管理局（FDA）展开沟通。\n该药物的安全性特征被认为是可以接受的，未发现新的安全性信号。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3642360",
     "datetime": "2026-11-19T21:27:02+00:00",
-    "views": "48",
+    "views": "62",
     "text": "纽约期金失守 3640 美元/盎司，日内跌 2.76%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3642359",
     "datetime": "2026-11-19T21:26:42+00:00",
-    "views": "49",
+    "views": "63",
     "text": "现货黄金失守 3640 美元/盎司，日内跌 2.30%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3642358",
     "datetime": "2026-11-19T21:26:22+00:00",
-    "views": "47",
+    "views": "61",
     "text": "纽约期银日内跌 4%，现报 43.26 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3642356",
     "datetime": "2026-11-19T21:25:42+00:00",
-    "views": "44",
+    "views": "55",
     "text": "富时罗素：Anthropic(ANT.O)将快速纳入富时全球股票指数系列。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3642357",
     "datetime": "2026-11-19T21:25:42+00:00",
-    "views": "49",
+    "views": "60",
     "text": "富时罗素：Anthropic PBC 将快速纳入富时全球股票指数系列。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3642355",
     "datetime": "2026-11-19T21:25:22+00:00",
-    "views": "45",
+    "views": "55",
     "text": "Anthropic 获 MSCI 提前纳入全球标准指数\n金十数据 11 月 20 日讯，明晟公司（MSCI）宣布，提前将 Anthropic 纳入全球标准指数大盘股类别，自 12 月 1 日起生效。Anthropic 上市首日的总市值及自由流通调整市值均达到快速纳入标准。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3642354",
     "datetime": "2026-11-19T21:24:33+00:00",
-    "views": "45",
+    "views": "55",
     "text": "现货黄金日内跌幅达 2.0%，报 3649.82 美元/盎司；纽约银日内跌幅达 3.5%，报 43.48 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3642353",
     "datetime": "2026-11-19T21:24:03+00:00",
-    "views": "45",
+    "views": "56",
     "text": "纽约期金失守 3650 美元/盎司，日内跌 2.47%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3642351",
     "datetime": "2026-11-19T21:24:02+00:00",
-    "views": "44",
+    "views": "53",
     "text": "现货黄金日内跌 2%，现报 3649.82 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3642352",
     "datetime": "2026-11-19T21:24:02+00:00",
-    "views": "44",
+    "views": "53",
     "text": "现货黄金失守 3650 美元/盎司，日内跌 2.01%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3642350",
     "datetime": "2026-11-19T21:22:42+00:00",
-    "views": "48",
+    "views": "57",
     "text": "现货白银跌超 3%，现报 43.63 美元/盎司，现货黄金跌近 2%，现报 3652.4 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -65725,23 +65779,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3634978"
-  },
-  {
-    "post": "Financial_Express/3634976",
-    "datetime": "2026-11-17T21:34:35+00:00",
-    "views": "31",
-    "text": "纳斯达克金龙中国指数收跌 1.89%，报 5363.99 点。\n热门中概股里，京东初步收跌 7.7%，腾讯跌 4.4%，阿里跌 4.4%。\nETF 中，中概互联网指数 ETF（KWEB）收跌 2.13%，中国科技指数 ETF（CQQQ）收跌 1.51%。\nMSCI 新兴市场 ex 中国 ETF（EMXC）收跌 1.02%，XtrackersHarvest 中证 50（ASHS）收跌 0.28%，德银嘉实沪深 300 指数 ETF（ASHR）收跌 0.27%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634976"
-  },
-  {
-    "post": "Financial_Express/3634975",
-    "datetime": "2026-11-17T21:34:22+00:00",
-    "views": "32",
-    "text": "以色列议会选举马坦·卡哈纳为新任议长\n当地时间 17 日深夜，以色列第 26 届议会举行全体会议，选举正直党议员马坦·卡哈纳为新一任议长，接替利库德集团议员阿米尔·奥哈纳。全体会议于当天下午召开。在正式投票前，以色列各党派议员围绕议长人选、当前政局等展开了长达数小时的发言和辩论。随后举行公开唱名投票，马坦·卡哈纳成功当选新任议长。卡哈纳现年 54 岁，曾任以色列空军军官及宗教事务部长等职。卡哈纳由以色列国防军前总参谋长加迪·埃森科特领导的正直党提名。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634975"
   }
 ]
