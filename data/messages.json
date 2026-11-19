@@ -1,8 +1,98 @@
 [
   {
+    "post": "Financial_Express/3642283",
+    "datetime": "2026-11-19T20:30:50+00:00",
+    "views": "1",
+    "text": "比特币跌破 62000 美元，日内跌 1.85%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642283"
+  },
+  {
+    "post": "Financial_Express/3642282",
+    "datetime": "2026-11-19T20:30:44+00:00",
+    "views": "4",
+    "text": "美联储古尔斯比：人工智能正通过财富效应和投资渠道影响当今经济。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642282"
+  },
+  {
+    "post": "Financial_Express/3642280",
+    "datetime": "2026-11-19T20:30:43+00:00",
+    "views": "4",
+    "text": "美联储古尔斯比：过去几个月，通胀方面的消息一直不乐观。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642280"
+  },
+  {
+    "post": "Financial_Express/3642281",
+    "datetime": "2026-11-19T20:30:43+00:00",
+    "views": "4",
+    "text": "美联储古尔斯比：Anthropic 的 IPO 引发了一个问题，股东将如何使用这笔财富；这可能产生宏观经济影响。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642281"
+  },
+  {
+    "post": "Financial_Express/3642278",
+    "datetime": "2026-11-19T20:30:42+00:00",
+    "views": "5",
+    "text": "美联储古尔斯比：服务业通胀的走势对于判断价格压力是源于需求还是能源成本等因素至关重要。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642278"
+  },
+  {
+    "post": "Financial_Express/3642279",
+    "datetime": "2026-11-19T20:30:42+00:00",
+    "views": "5",
+    "text": "美联储古尔斯比：目前并不担心薪资会对通胀构成压力。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642279"
+  },
+  {
+    "post": "Financial_Express/3642277",
+    "datetime": "2026-11-19T20:30:32+00:00",
+    "views": "9",
+    "text": "美联储 Goolsbee：美国通胀火热，所有选项都摆在 FOMC 台面上。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642277"
+  },
+  {
+    "post": "Financial_Express/3642275",
+    "datetime": "2026-11-19T20:30:22+00:00",
+    "views": "10",
+    "text": "诺斯罗普放弃竞标波音(BA.N)200 亿美元 F/A-XX 海军合同。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642275"
+  },
+  {
+    "post": "Financial_Express/3642276",
+    "datetime": "2026-11-19T20:30:22+00:00",
+    "views": "10",
+    "text": "美联储古尔斯比：事实证明，通胀远比 2025 年时人们所认为的更为顽固，而数据中心需求和人工智能相关财富效应正在加剧这一局面。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642276"
+  },
+  {
+    "post": "Financial_Express/3642274",
+    "datetime": "2026-11-19T20:29:08+00:00",
+    "views": "15",
+    "text": "随着市场避险情绪升温，且投资者正等待可能为加拿大央行加息预期提供指引的国内零售销售数据，加元兑美元汇率在早盘触及的 19 个月低点附近企稳。\n加元汇率最新基本持平，报 1 美元兑 1.4332 加元（合 69.77 美分），盘中一度触及 1.43575，为 2025 年 4 月以来的最弱盘中水平。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642274"
+  },
+  {
     "post": "Financial_Express/3642273",
     "datetime": "2026-11-19T20:17:42+00:00",
-    "views": "83",
+    "views": "91",
     "text": "英伟达：Vera Rubin NVL72 系统现已在 Azure 数据中心运行。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3642272",
     "datetime": "2026-11-19T20:17:23+00:00",
-    "views": "85",
+    "views": "92",
     "text": "英伟达：与微软合作将加速计算从 Azure 扩展至 Windows 个人电脑。\n英伟达与微软将在 Azure 上部署 Vera Rubin NVL72。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3642270",
     "datetime": "2026-11-19T20:17:09+00:00",
-    "views": "87",
+    "views": "94",
     "text": "欧盟理事会发表声明称，欧盟成员国与欧洲议会就修订《可持续金融披露条例》达成协议。\n欧盟共同立法者同意，化石燃料公司可能被纳入部分 ESG 基金。\n欧盟共同立法者同意设立三类新的投资产品。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3642269",
     "datetime": "2026-11-19T20:17:03+00:00",
-    "views": "88",
+    "views": "95",
     "text": "英伟达：与微软合作将加速计算从 Azure 扩展至 Windows 个人电脑。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3642268",
     "datetime": "2026-11-19T20:17:02+00:00",
-    "views": "89",
+    "views": "96",
     "text": "英伟达(NVDA.O)：英伟达与微软(MSFT.O)将加速计算从 Azure 扩展至 Windows 个人电脑。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3642267",
     "datetime": "2026-11-19T20:16:43+00:00",
-    "views": "90",
+    "views": "96",
     "text": "声明称，欧盟共同立法者同意，化石燃料公司可能被纳入部分 ESG 基金。欧盟共同立法者同意设立三类新的投资产品。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3642265",
     "datetime": "2026-11-19T20:16:42+00:00",
-    "views": "92",
+    "views": "96",
     "text": "欧盟理事会：欧盟共同立法者就三类新型投资产品达成一致。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3642266",
     "datetime": "2026-11-19T20:16:42+00:00",
-    "views": "92",
+    "views": "96",
     "text": "欧盟理事会：欧盟共同立法者同意，化石燃料公司可被纳入部分 ESG 基金。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3642264",
     "datetime": "2026-11-19T20:16:23+00:00",
-    "views": "86",
+    "views": "90",
     "text": "欧盟理事会发表声明称，欧盟成员国与欧洲议会就修订《可持续金融披露条例》达成协议。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3642263",
     "datetime": "2026-11-19T20:16:22+00:00",
-    "views": "86",
+    "views": "89",
     "text": "欧盟理事会：欧盟国家与欧洲议会就修订可持续金融披露监管规则达成协议。",
     "media_only": false,
     "image_url": null,
@@ -65752,32 +65842,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3634884"
-  },
-  {
-    "post": "Financial_Express/3634883",
-    "datetime": "2026-11-17T20:30:03+00:00",
-    "views": "91",
-    "text": "拉脱维亚议会投票批准新政府就职。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634883"
-  },
-  {
-    "post": "Financial_Express/3634882",
-    "datetime": "2026-11-17T20:29:42+00:00",
-    "views": "88",
-    "text": "部分共和党参议员表示，他们不会支持特朗普提出的为空中交通管制及机场拨款 500 亿美元的请求。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634882"
-  },
-  {
-    "post": "Financial_Express/3634881",
-    "datetime": "2026-11-17T20:29:22+00:00",
-    "views": "88",
-    "text": "美国部分共和党参议员表示，他们不会支持美国总统特朗普提出的为空中交通管制和机场拨款 500 亿美元的请求。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634881"
   }
 ]
