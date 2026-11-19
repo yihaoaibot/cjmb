@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3641437",
+    "datetime": "2026-11-19T14:50:23+00:00",
+    "views": "1",
+    "text": "英国央行官员隆巴尔代利：将采取必要行动以实现通胀目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641437"
+  },
+  {
+    "post": "Financial_Express/3641436",
+    "datetime": "2026-11-19T14:50:22+00:00",
+    "views": "1",
+    "text": "Anthropic 在纳斯达克上市首日开盘价预计为 99.60 美元，发行价为每股 83 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641436"
+  },
+  {
+    "post": "Financial_Express/3641435",
+    "datetime": "2026-11-19T14:50:09+00:00",
+    "views": "2",
+    "text": "英国央行副行长 Lombardelli：将特别留意实现 CPI 目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641435"
+  },
+  {
+    "post": "Financial_Express/3641434",
+    "datetime": "2026-11-19T14:49:43+00:00",
+    "views": "7",
+    "text": "杨元庆回应联想股价暴跌：让时间来证明\n11 月 19 日，联想集团交出创历史新高的业绩，但公司股价在二级市场表现承压，盘中一度下跌超 12%。对此，联想集团董事长兼 CEO 杨元庆在业绩会上回应称，“大家主要担心的还是这一轮市场爆发式增长能否持续。因此，我们借业绩发布会阐述观点与应对方案，提振市场信心，把握应该怎么样做。至于具体到我们自己的股票，我觉得要让时间来证明，也许我们说一次、一个季度不管用，那我们就连续不断地说，连续不断地兑现，最终让市场给我们信任。”",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641434"
+  },
+  {
+    "post": "Financial_Express/3641433",
+    "datetime": "2026-11-19T14:49:42+00:00",
+    "views": "7",
+    "text": "英国央行副行长隆巴尔代利：将采取必要行动以实现 CPI 目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641433"
+  },
+  {
+    "post": "Financial_Express/3641432",
+    "datetime": "2026-11-19T14:49:28+00:00",
+    "views": "12",
+    "text": "德国吁大幅削减劳工成本，该公司向 IG Metail 递交谈判要求。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641432"
+  },
+  {
+    "post": "Financial_Express/3641431",
+    "datetime": "2026-11-19T14:49:09+00:00",
+    "views": "14",
+    "text": "针对短剧市场的快速爆发，网易高管表示，尽管短剧在短期内吸引了较高的用户关注度，但游戏基于“控制与反馈”的核心玩法依然具备不可替代的优势。AI 技术将为游戏行业带来更广阔的想象空间，让过去难以实现的创意玩法（如互动影游）成为可能。（澎湃）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641431"
+  },
+  {
+    "post": "Financial_Express/3641430",
+    "datetime": "2026-11-19T14:48:42+00:00",
+    "views": "18",
+    "text": "大众汽车呼吁大幅削减劳动力成本。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641430"
+  },
+  {
     "post": "Financial_Express/3641429",
     "datetime": "2026-11-19T14:48:23+00:00",
-    "views": "2",
+    "views": "49",
     "text": "消息人士：Anthropic 本次 IPO 约 15%份额配售给散户\n知情人士透露，Anthropic 及其承销团队在这笔规模约 800 亿美元的 IPO 中，向散户配售了约 15%的股份。公司此前在招股书中写明，最多可拿出 20%份额留给个人投资者。最终比例低于 SpaceX 当时配售给散户的约 20%，但仍高于大多数 IPO。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3641428",
     "datetime": "2026-11-19T14:48:22+00:00",
-    "views": "2",
+    "views": "48",
     "text": "美国将有关出售卢克石油国际有限公司海外资产的谈判截止日期延长至 12 月 19 日。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3641427",
     "datetime": "2026-11-19T14:48:01+00:00",
-    "views": "5",
+    "views": "51",
     "text": "摩根大通表示，该行部分客户信息可能在其一些供应商遭受的网络攻击中被泄露。根据目前的调查，相信黑客获取了此类公司持有的营销数据，其中可能包括客户姓名和电子邮件地址。摩根大通还表示，事件与本周早些时候发生的系统故障无关。\n声明没有透露哪些供应商遭到了攻击，但表示其服务没有中断，且银行将联系受影响的客户并提供支持，例如信用监控服务。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3641426",
     "datetime": "2026-11-19T14:47:54+00:00",
-    "views": "6",
+    "views": "49",
     "text": "从 2026 第九届国际光伏与储能产业大会获悉，会议期间，多地政府与行业企业积极对接，签约总额达 535 亿元，投资布局覆盖光伏、多元储能、新型电池、核心装备、智慧能源等全产业链。（澎湃）",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3641425",
     "datetime": "2026-11-19T14:47:42+00:00",
-    "views": "10",
+    "views": "50",
     "text": "英特尔(INTC.O)涨幅扩大至 8%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3641424",
     "datetime": "2026-11-19T14:47:31+00:00",
-    "views": "12",
+    "views": "51",
     "text": "11 月 19 日晚间，科创板回购增持及研发进展等举措密集披露。从公告类型看，新增回购方案 2 份，承诺不减持 1 份，回购及增持进展 4 份，研发进展 1 份。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3641423",
     "datetime": "2026-11-19T14:47:30+00:00",
-    "views": "13",
+    "views": "51",
     "text": "Anthropic 在 IPO 中将大约 15%的股份售予散户投资者。（华尔街日报）",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3641422",
     "datetime": "2026-11-19T14:46:35+00:00",
-    "views": "48",
+    "views": "54",
     "text": "中共中央政治局委员、外交部长王毅举行中外记者会。\n谈及中俄美元首会晤，王毅表示，这是一次具有开创意义的历史性的会晤。大国关系牵动国际格局的演变，事关全球战略问题。三国元首历史上首次举行这一面对面的会晤，开创了三国最高领导人交往的新纪录，也为新时期的大国协调互动构建了新范式。（澎湃）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3641421",
     "datetime": "2026-11-19T14:46:22+00:00",
-    "views": "47",
+    "views": "52",
     "text": "消息称 Anthropic IPO 中逾半数认购机构未获配股\n金十数据 11 月 19 日讯，据知情人士透露，约有 1200 家机构投资者提交了 Anthropic IPO 的认购订单，其中超过一半未获配任何股份。股份分配明显向美国本土投资者倾斜，相当一部分来自美国境外的订单未获配股。此次发行公司及七名联合创始人合计筹得 1073 亿美元，其中包括 260 亿美元的私募融资，参与私募的投资者包括英伟达、谷歌及 AMD。按发行价计算，Anthropic 的完全摊薄市值为 1.5 万亿美元，低于 SpaceX 上市时的 1.77 万亿美元。SpaceX 上市时的认购需求超过可售股份的四倍，近三分之一提交订单的投资者未获配股。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3641420",
     "datetime": "2026-11-19T14:46:02+00:00",
-    "views": "48",
+    "views": "54",
     "text": "据报道，ANTHROPIC 公司 IPO 中约有 15%的股票售给了散户。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +164,7 @@
   {
     "post": "Financial_Express/3641418",
     "datetime": "2026-11-19T14:45:43+00:00",
-    "views": "52",
+    "views": "57",
     "text": "大众汽车：要求灵活性，以便在需要时增加工作时间而无需额外支付报酬。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +173,7 @@
   {
     "post": "Financial_Express/3641419",
     "datetime": "2026-11-19T14:45:43+00:00",
-    "views": "52",
+    "views": "57",
     "text": "大众汽车：要求包括 2027 年和 2028 年冻结薪资，取消奖金机制。",
     "media_only": false,
     "image_url": null,
@@ -63853,32 +63925,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3634254"
-  },
-  {
-    "post": "Financial_Express/3634253",
-    "datetime": "2026-11-17T14:50:02+00:00",
-    "views": "67",
-    "text": "国际货币基金组织：国际货币基金组织的一个工作人员团队于 11 月 3 日至 13 日访问了波哥大。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634253"
-  },
-  {
-    "post": "Financial_Express/3634252",
-    "datetime": "2026-11-17T14:49:43+00:00",
-    "views": "68",
-    "text": "英国石油公司在致美国钢铁工人联合会的信函中表示：如今假装工会未掌握和解提议的内容，是“纯粹的恶意谈判和阻挠谈判的行为”。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634252"
-  },
-  {
-    "post": "Financial_Express/3634251",
-    "datetime": "2026-11-17T14:49:10+00:00",
-    "views": "68",
-    "text": "OpenAI 的 Sam Altman 称，芯片厂商在高估 OpenAI 需求、存在重复统计：各家都默认 OpenAI 会买下他们全部芯片。他表示：“没错。很长一段时间里，行业里基本只有一家芯片供应商。所以当时大家统计晶圆产能时，可以向我们这类公司了解需求预期，从而大致判断自家芯片的终端需求空间。现在做芯片的厂商变多了。其中不少厂商都认为，自己大部分芯片出货量都会卖给我们、Anthropic 以及其他客户。但我们的需求、数据中心规模等资源都是有限的。很多芯片厂商在对接供应链的时候，都预设我们会采购他们全部的芯片。当然，整体需求、数据中心建设的基本面是扎实的。但我们不可能、也没有必要从每一家芯片供应商那里采购全部产能。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634251"
   }
 ]
