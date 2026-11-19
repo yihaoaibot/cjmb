@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3641703",
+    "datetime": "2026-11-19T15:58:43+00:00",
+    "views": "3",
+    "text": "美国总统特朗普：俄罗斯总统普京说，他对克里米亚大桥遭到乌克兰袭击感到愤怒。（NBC News）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641703"
+  },
+  {
+    "post": "Financial_Express/3641702",
+    "datetime": "2026-11-19T15:58:42+00:00",
+    "views": "3",
+    "text": "印度证券交易委员会（SEBI）：SEBI 主办国际证券委员会组织（IOSCO）亚太地区委员会关于市场基础设施机构的监管圆桌会议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641702"
+  },
+  {
+    "post": "Financial_Express/3641700",
+    "datetime": "2026-11-19T15:58:23+00:00",
+    "views": "4",
+    "text": "特朗普：普京称他对桥梁袭击事件感到愤怒。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641700"
+  },
+  {
+    "post": "Financial_Express/3641701",
+    "datetime": "2026-11-19T15:58:23+00:00",
+    "views": "4",
+    "text": "麦当劳聘请前麦肯锡合伙人，旨在推动美国业务复苏。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641701"
+  },
+  {
+    "post": "Financial_Express/3641699",
+    "datetime": "2026-11-19T15:57:42+00:00",
+    "views": "35",
+    "text": "Grenergy 股价跌幅收窄，目前下跌 8.4%，势将创下 9 月以来最差单日表现。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641699"
+  },
+  {
+    "post": "Financial_Express/3641698",
+    "datetime": "2026-11-19T15:57:37+00:00",
+    "views": "35",
+    "text": "法国巴黎银行金属策略主管 David Wilson 周四在上海举行的一个行业会议上表示：我们已经开始看到美国境内的金属订舱外运。\n一些原本运往美国的铜也正在“改道运往中国”。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641698"
+  },
+  {
+    "post": "Financial_Express/3641697",
+    "datetime": "2026-11-19T15:56:59+00:00",
+    "views": "36",
+    "text": "知情人士透露，过去几天，物流公司收到了大量来自交易商的询盘，寻求将铜从美国运往中国，目前已有数批船货完成订舱。交易商已开始预订船只，将铜从美国运往中国，以利用中国市场的高溢价。他们表示，一些铜将由 CMA CGM Cassiopeia 号运往中国，该船计划本周从洛杉矶地区一个港口启航。虽然目前规模仍然较小，但这些货运标志着过去两年的趋势出现逆转。过去两年，交易商因预期美国总统特朗普可能征收进口关税，将大量铜调往美国。\n洋山进口铜溢价过去一周上涨逾一倍，达到每吨 500 美元，创下纪录新高。本周早些时候，上海期货交易所出手干预，向多空头寸持有者施压，要求其以现金方式结算头寸，当时即将到期合约的现货升水幅度升至纪录高位。（彭博）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3641697"
+  },
+  {
     "post": "Financial_Express/3641695",
     "datetime": "2026-11-19T15:56:23+00:00",
-    "views": "1",
+    "views": "36",
     "text": "纽约期金失守 3680 美元/盎司，日内跌 1.67%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3641696",
     "datetime": "2026-11-19T15:56:23+00:00",
-    "views": "1",
+    "views": "36",
     "text": "现货黄金失守 3680 美元/盎司，日内跌 1.30%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3641694",
     "datetime": "2026-11-19T15:53:50+00:00",
-    "views": "65",
+    "views": "99",
     "text": "AMD 跌超 10%，创 11 月 9 日以来盘中新低，HunterBrook 宣布做空。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3641693",
     "datetime": "2026-11-19T15:53:03+00:00",
-    "views": "65",
+    "views": "129",
     "text": "受做空消息影响 AMD 跌超 10%\nAMD(AMD.O)股价跌超 10%，跌至 11 月 9 日以来最低水平。此前 Hunterbrook 表示做空该公司。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3641692",
     "datetime": "2026-11-19T15:52:43+00:00",
-    "views": "65",
+    "views": "129",
     "text": "AMD 股价下跌逾 10%，至 11 月 9 日以来最低水平。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3641691",
     "datetime": "2026-11-19T15:52:42+00:00",
-    "views": "65",
+    "views": "129",
     "text": "美国总统特朗普表示，我已与泽连斯基达成共识，涉及乌克兰的决定不应在乌克兰未参与的情况下作出。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3641690",
     "datetime": "2026-11-19T15:52:22+00:00",
-    "views": "96",
+    "views": "128",
     "text": "美国总统特朗普表示，他与乌克兰总统泽连斯基达成共识，涉及乌克兰的决定不应在没有乌克兰参与的情况下作出。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3641689",
     "datetime": "2026-11-19T15:51:43+00:00",
-    "views": "128",
+    "views": "130",
     "text": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：相较现有现金储备和营收规模并不算大\n11 月 19 日，Anthropic 首席执行官达里奥·阿莫代伊表示，若考虑公司目前的现金储备及年营收规模，9000 亿美元的 AI 相关投入承诺“看起来就没那么庞大”。阿莫代伊称，公司在预测未来算力需求时，通常会采取相对保守的估算方式，尽量避免高估需求。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3641688",
     "datetime": "2026-11-19T15:50:42+00:00",
-    "views": "128",
+    "views": "129",
     "text": "Anthropic CEO 称公司目前与 SpaceX 合作愉快，算力服务质量良好\n11 月 19 日，Anthropic 首席执行官达里奥·阿莫代伊表示，公司目前与 SpaceX 合作愉快，认为对方提供的算力质量较高。此前市场曾猜测 Anthropic 可能缩减对 SpaceX 算力服务的使用。阿莫代伊表示，无法确定公司未来会作出怎样的安排，但目前使用 SpaceX 提供的算力体验良好，也很享受双方的合作。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3641687",
     "datetime": "2026-11-19T15:50:27+00:00",
-    "views": "127",
+    "views": "128",
     "text": "美联储副主席 Jefferson：对“替换通胀目标”不感兴趣。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3641686",
     "datetime": "2026-11-19T15:50:22+00:00",
-    "views": "126",
+    "views": "127",
     "text": "托德斯接近完成由股东支持的 4 亿欧元债务再融资。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3641685",
     "datetime": "2026-11-19T15:50:03+00:00",
-    "views": "126",
+    "views": "127",
     "text": "美联储副主席杰斐逊表示，无意调整通胀目标。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3641684",
     "datetime": "2026-11-19T15:50:02+00:00",
-    "views": "127",
+    "views": "128",
     "text": "美联储副主席杰斐逊：对调整通胀目标不感兴趣。",
     "media_only": false,
     "image_url": null,
@@ -64609,68 +64672,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3634436"
-  },
-  {
-    "post": "Financial_Express/3634435",
-    "datetime": "2026-11-17T15:59:02+00:00",
-    "views": "92",
-    "text": "据华尔街日报：黄仁勋表示，“我没有达到外界期望的标准。”\n❤1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634435"
-  },
-  {
-    "post": "Financial_Express/3634434",
-    "datetime": "2026-11-17T15:58:42+00:00",
-    "views": "123",
-    "text": "英伟达(NVDA.O)股价跌幅收窄至 2.4%；此前一度下跌 3.7%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634434"
-  },
-  {
-    "post": "Financial_Express/3634433",
-    "datetime": "2026-11-17T15:58:23+00:00",
-    "views": "123",
-    "text": "黄仁勋打破沉默，表示若获董事会邀请愿重返英伟达担任 CEO\n前英伟达首席执行官黄仁勋周二上午发表卸任后的首次公开声明，表示如果董事会邀请，他愿意重返这家科技巨头担任 CEO。黄仁勋称，自其离职以来，收到了来自英伟达员工、投资者、商业伙伴及客户的强烈呼声，要求他回归。“如果董事会认为我的回归符合股东、员工、公司及美国的最佳利益，我将很荣幸回应这些呼吁并重新担任 CEO。”",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634433"
-  },
-  {
-    "post": "Financial_Express/3634432",
-    "datetime": "2026-11-17T15:58:22+00:00",
-    "views": "92",
-    "text": "据华尔街日报：黄仁勋表示，对给董事会制造问题一事“深感遗憾”。\n❤1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634432"
-  },
-  {
-    "post": "Financial_Express/3634431",
-    "datetime": "2026-11-17T15:58:02+00:00",
-    "views": "123",
-    "text": "据华尔街日报：黄仁勋称外界给予的支持让他深受触动，若董事会允许，他愿意重返英伟达(NVDA.O)首席执行官一职。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634431"
-  },
-  {
-    "post": "Financial_Express/3634430",
-    "datetime": "2026-11-17T15:57:56+00:00",
-    "views": "122",
-    "text": "前英伟达首席执行官黄仁勋打破沉寂——发表卸任后的首次公开声明，暗示愿意重返英伟达担任 CEO，称外界给予的支持让他深受触动。\n黄仁勋再次就其不忠行为向家人和员工道歉，承认在私生活中犯了“严重错误”。“我没有达到英伟达对每个人的期望标准，”黄仁勋写道，“我为董事会制造了问题，对此深感后悔。我完全承担我的错误。”（华尔街日报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634430"
-  },
-  {
-    "post": "Financial_Express/3634429",
-    "datetime": "2026-11-17T15:57:22+00:00",
-    "views": "125",
-    "text": "黄仁勋：若董事会允许，愿意重返英伟达 CEO 职位。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3634429"
   }
 ]
