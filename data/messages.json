@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3642386",
+    "datetime": "2026-11-19T21:48:38+00:00",
+    "views": "6",
+    "text": "明晟公司 MSCI 新兴市场股票指数跌 1.3%，发展中国家外汇指数跌 0.06%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642386"
+  },
+  {
+    "post": "Financial_Express/3642385",
+    "datetime": "2026-11-19T21:47:02+00:00",
+    "views": "14",
+    "text": "AI 交易退潮叠加业务冲击担忧，美国银行股跌入死叉\n金十数据 11 月 20 日讯，美国大型银行股连续四日下跌，创 2025 年 4 月以来最差表现，KBW 银行指数周四跌 1.9%，本周累计下跌 6.6%，50 日均线跌破 200 日均线，形成看跌的“死亡交叉”。AI 交易热潮退潮、金融业面临技术冲击，以及美联储抗通胀政策的不确定性，均令银行股承压。此外，摩根大通、Visa 和万事达卡披露部分客户信息在针对第三方供应商的网络攻击中遭到访问，进一步打击金融股。与此同时，整体市场情绪走弱，标普 500 指数下跌，Anthropic 上市也未能延续市场对人工智能的热情。华尔街技术分析人士密切关注这一趋势反转信号，因其可能预示股价短期内面临进一步下行压力。22VResearch 分析师约翰·罗克表示，银行股是观察市场和经济走势的“预警系统”，其持续下跌值得警惕。鉴于银行股在标普 500 指数中的权重较大，如果银行股整体下跌，市场就难以表现良好。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3642385"
+  },
+  {
     "post": "Financial_Express/3642384",
     "datetime": "2026-11-19T21:46:19+00:00",
-    "views": "6",
+    "views": "15",
     "text": "苹果公司正在开发一款自主人工智能代理，能够代表用户完成各类任务。\n根据一则招聘信息，该系统将代表用户编写代码、浏览网页、控制应用程序以及操作设备。\n苹果希望最早于明年年底推出该服务，但目前开发仍处于早期阶段。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3642383",
     "datetime": "2026-11-19T21:46:02+00:00",
-    "views": "10",
+    "views": "17",
     "text": "美国行业协会拉响警报：全球 PCB 短缺危机正在蔓延 供应紧张局面或持续至 2028 年年中\n总部位于美国的全球电子协会（Global Electronics Association）在预警报告中指出，全球电子产业正面临印刷电路板（PCB）的严重短缺。这种零部件几乎存在于所有含有电子元件的消费产品中，其供应缺口可能对全球经济造成广泛影响。公告指出：“从玻璃纤维布、树脂到成品电路板，整个供应链各个环节的印刷电路板需求都已超过供应能力。尽管制造产能正在扩大，尤其是在亚洲，但真正制约供应的是上游环节，包括玻璃纤维、树脂、铜箔以及生产设备。”该组织表示，供应瓶颈将“至少持续到 2027 年上半年”，而在 2028 年年中之前，供应紧张局面不太可能得到实质性缓解。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3642382",
     "datetime": "2026-11-19T21:45:52+00:00",
-    "views": "11",
+    "views": "17",
     "text": "总部位于美国的全球电子协会（Global Electronics Association）在预警报告中指出，全球电子产业正面临印刷电路板（PCB）的严重短缺。这种零部件几乎存在于所有含有电子元件的消费产品中，其供应缺口可能对全球经济造成广泛影响。公告指出：“从玻璃纤维布、树脂到成品电路板，整个供应链各个环节的印刷电路板需求都已超过供应能力。尽管制造产能正在扩大，尤其是在亚洲，但真正制约供应的是上游环节，包括玻璃纤维、树脂、铜箔以及生产设备。”",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3642381",
     "datetime": "2026-11-19T21:44:22+00:00",
-    "views": "18",
+    "views": "21",
     "text": "谷歌因 Character.AI 使用童星形象搭建聊天机器人被起诉。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3642380",
     "datetime": "2026-11-19T21:43:02+00:00",
-    "views": "24",
+    "views": "26",
     "text": "Anthropic 股价盘后下跌 4.9%至低点，Meta 跌 1.9%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3642379",
     "datetime": "2026-11-19T21:41:22+00:00",
-    "views": "28",
+    "views": "30",
     "text": "苹果(AAPL.O)在招聘信息中披露了主动式 AI 智能体的开发计划，该智能体将具备设备控制、应用操作、网页浏览及编程能力。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3642378",
     "datetime": "2026-11-19T21:40:42+00:00",
-    "views": "34",
+    "views": "35",
     "text": "苹果(AAPL.O)正在研发自主 AI 智能体，以对标 OpenAI 和 Anthropic。",
     "media_only": false,
     "image_url": null,
@@ -65,8 +83,8 @@
   {
     "post": "Financial_Express/3642377",
     "datetime": "2026-11-19T21:40:23+00:00",
-    "views": "31",
-    "text": "苹果公司正开发自家 AI 智能体，以期与 OpenAI、Anthropic 竞争。",
+    "views": "61",
+    "text": "苹果公司正在开发一款自主人工智能（AI）代理，能够代表用户完成各类任务，意图进入一个快速增长的市场，而该市场目前正受到 OpenAI、Anthropic PBC、Meta Platforms Inc.等公司的追逐。\n该公司在本周更新官网的招聘信息中阐述了相关计划。其中一则信息显示，苹果正在为一款主动式、代理型 AI 助手招聘高级工程经理。根据该招聘信息，该系统将代表用户编写代码、浏览网页、控制应用程序以及操作设备。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3642377"
@@ -65689,32 +65707,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3635003"
-  },
-  {
-    "post": "Financial_Express/3635002",
-    "datetime": "2026-11-17T21:48:42+00:00",
-    "views": "77",
-    "text": "穆迪：巴拿马经济增长强于预期，财政整顿持续推进。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3635002"
-  },
-  {
-    "post": "Financial_Express/3635001",
-    "datetime": "2026-11-17T21:48:25+00:00",
-    "views": "77",
-    "text": "周二（11 月 17 日）纽约尾盘，现货黄金跌 0.15%，报 3850.96 美元/盎司。\n现货白银涨 0.84%，报 47.4147 美元/盎司。\nCOMEX 铜期货跌 0.13%，报 6.0945 美元/磅。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3635001"
-  },
-  {
-    "post": "Financial_Express/3635000",
-    "datetime": "2026-11-17T21:47:42+00:00",
-    "views": "77",
-    "text": "穆迪将巴拿马评级展望从负面调整为稳定，并确认 Baa3 评级。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3635000"
   }
 ]
