@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3639255",
+    "datetime": "2026-11-19T02:51:02+00:00",
+    "views": "1",
+    "text": "国家网络安全通报中心发布 JAVA 远程代码执行高危漏洞预警\n金十数据 11 月 19 日讯，11 月 19 日，国家网络安全通报中心发布 JAVA 远程代码执行高危漏洞预警，原文如下：11 月 17 日，境外安全研究机构 Calif 披露了名为 Java4Shell 的高危漏洞（CVE-2026-114938），该漏洞存在于 Open JDK Base 64 解码路径中，当攻击者向 Java 应用提交特制的 Base 64 数据时，可触发堆内存越界写入，造成敏感信息泄露甚至远程代码执行，Oracle 已紧急发布修复版本。该漏洞影响范围广，大量暴露于互联网的 Java 应用，极易成为网络攻击的重点目标。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3639255"
+  },
+  {
+    "post": "Financial_Express/3639253",
+    "datetime": "2026-11-19T02:50:42+00:00",
+    "views": "1",
+    "text": "沙特民防部门发布警报，称利雅得地区瓦迪达瓦西尔省可能存在危险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3639253"
+  },
+  {
+    "post": "Financial_Express/3639254",
+    "datetime": "2026-11-19T02:50:42+00:00",
+    "views": "1",
+    "text": "沙特民防部门就利雅得地区瓦迪阿尔达瓦西尔省的潜在危险发布警报。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3639254"
+  },
+  {
+    "post": "Financial_Express/3639252",
+    "datetime": "2026-11-19T02:50:22+00:00",
+    "views": "1",
+    "text": "俄罗斯总统普京：俄罗斯为地区能源安全作出贡献，俄罗斯的合作伙伴始终可以信赖莫斯科。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3639252"
+  },
+  {
+    "post": "Financial_Express/3639251",
+    "datetime": "2026-11-19T02:49:43+00:00",
+    "views": "1",
+    "text": "光刻机板块短线拉升，海立股份触及涨停\n光刻机板块短线拉升，海立股份触及涨停，国林科技涨超 10%，广立微、波长光电、捷众科技、茂莱光学、芯碁微装跟涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3639251"
+  },
+  {
+    "post": "Financial_Express/3639250",
+    "datetime": "2026-11-19T02:49:42+00:00",
+    "views": "1",
+    "text": "财通证券：合规监管持续收紧 硝化行业迎来格局重塑\n财通证券发布研报称，在硝化工艺监管持续趋严、落后产能加速出清的背景下，具备合规产能的企业有望受益于供给格局优化。建议关注拥有 2-硝体产能，6-硝体龙头，H 酸核心企业，布局带硝化工艺除草剂原药故以及拥有氟代精细硝化中间体产能公司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3639250"
+  },
+  {
+    "post": "Financial_Express/3639249",
+    "datetime": "2026-11-19T02:49:02+00:00",
+    "views": "31",
+    "text": "康龙化成新设创新科技发展公司 含 AI 软件开发业务\n企查查 APP 显示，近日，杭州康龙化成创新科技发展有限公司成立，经营范围包含软件开发；人工智能基础软件开发；企业管理；市场调查（不含涉外调查）等。企查查股权穿透显示，该公司由康龙化成全资持股。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3639249"
+  },
+  {
     "post": "Financial_Express/3639247",
     "datetime": "2026-11-19T02:48:42+00:00",
-    "views": "1",
+    "views": "31",
     "text": "棕榈油连续主力合约日内跌 4%，现报 8352.00 元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3639248",
     "datetime": "2026-11-19T02:48:42+00:00",
-    "views": "1",
+    "views": "31",
     "text": "东方证券：水电估值仍有扩张空间 火电红利属性强化可期\n东方证券发布研报称，站在当下时点：电价上行，红利强化。水电配置价值尚在，估值仍有扩张空间。火电景气上行将至，红利属性强化可期。分子端改善正在积聚：1)2027 年年度电价有望明显上涨，支撑火电盈利修复，2)容量收入增强经营性现金流韧性，3)资本开支收缩下可支配现金流已转正，且分红比例对标海外仍有较大提升空间。若防御性配置需求由水电等传统红利资产进一步向火电扩散，板块上涨弹性或增强。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3639246",
     "datetime": "2026-11-19T02:48:22+00:00",
-    "views": "1",
+    "views": "31",
     "text": "欧洲议会：议员与理事会谈判代表同意将石油、天然气和煤炭进口商的甲烷监测与报告规则推迟两年实施。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3639245",
     "datetime": "2026-11-19T02:48:03+00:00",
-    "views": "1",
+    "views": "31",
     "text": "欧洲议会：议员与理事会谈判代表已达成一致，将针对石油、天然气和煤炭进口商的甲烷监测及报告规则推迟两年实施。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3639244",
     "datetime": "2026-11-19T02:48:02+00:00",
-    "views": "1",
+    "views": "31",
     "text": "欧洲议会：就推迟能源进口商甲烷报告与监测义务达成协议。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3639242",
     "datetime": "2026-11-19T02:46:02+00:00",
-    "views": "33",
+    "views": "63",
     "text": "中证 1000 股指期货(IM)主力合约日内跌超 2%，现报 5874.0 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3639243",
     "datetime": "2026-11-19T02:46:02+00:00",
-    "views": "33",
+    "views": "63",
     "text": "疫苗板块大幅调整，*ST 未名跌停\n疫苗板块大幅调整，*ST 未名跌停，金河生物、百克生物、金迪克、利德曼、海欣股份、*ST 康乐等跟跌。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3639241",
     "datetime": "2026-11-19T02:45:22+00:00",
-    "views": "33",
+    "views": "63",
     "text": "马来西亚基准毛棕榈油期货下跌 3.01%，至每公吨 4,252 林吉特。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +137,7 @@
   {
     "post": "Financial_Express/3639240",
     "datetime": "2026-11-19T02:45:02+00:00",
-    "views": "33",
+    "views": "63",
     "text": "宝马新世代 i3 车型将于广州车展开启订购\n11 月 19 日，宝马中国宣布，新世代 BMW i3 将于 11 月 27 日在广州车展上市，大订通道同步开启。新车采用全国统一价模式，无需小订。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3639238",
     "datetime": "2026-11-19T02:44:22+00:00",
-    "views": "35",
+    "views": "65",
     "text": "工信部等六部门：印发 2026 年度领航级智能工厂培育名单\n工业和信息化部等六部门办公厅（综合司）印发 2026 年度领航级智能工厂培育名单。该名单经省级有关部门推荐、专家评审、实地核查、现场答辩、网上公示等程序确定。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3639239",
     "datetime": "2026-11-19T02:44:22+00:00",
-    "views": "35",
+    "views": "65",
     "text": "锡连续主力合约日内跌 5%，现报 315470.00 元。",
     "media_only": false,
     "image_url": null,
@@ -65446,41 +65509,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3631853"
-  },
-  {
-    "post": "Financial_Express/3631852",
-    "datetime": "2026-11-17T02:51:03+00:00",
-    "views": "64",
-    "text": "APEC 领导人会议周期间将继续围绕贸易议题寻求“最大公约数”\n今天（17 日）上午，2026 年 APEC 领导人会议周新闻中心举办第五场吹风会，2026 年 APEC 高官会主席陈旭介绍，APEC 因应经济全球化而生，贸易自由化和便利化一直是 APEC 合作的核心议题。作为今年 APEC 东道主，中方将开放作为 APEC“中国年”三大优先领域之一，目的就是要推动各方坚持开放的区域主义和真正的多边合作，坚定维护全球多边贸易体系，提升区域一体化水平，维护良好贸易投资环境，为区域和世界经济注入更多稳定性和确定性。在今年 5 月举行的 APEC 贸易部长会上，各方普遍认可世贸组织对促进全球贸易的关键作用，重申对亚太自贸区长期愿景的坚定支持，呼吁在能力建设、经验分享、技术合作等方面加大投入。亚太工商界就支持亚太自贸区建设发表了联合声明，充分体现了各方对于推进亚太自贸区的广泛共识和强烈愿望。APEC 领导人会议周期间，各方将继续围绕贸易议题进行深入讨论，积极寻求“最大公约数”，中方期待在本次 APEC 领导人非正式会议上达成更多贸易领域务实成果，为区域经济一体化提供更大助力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3631852"
-  },
-  {
-    "post": "Financial_Express/3631851",
-    "datetime": "2026-11-17T02:51:02+00:00",
-    "views": "64",
-    "text": "贵州市监局辟谣：“建材 3C 认证检查处罚 20 万起步、商铺关门”为不实传言\n针对近期网络流传“有关部门对商户关于建材等商品的 3C 认证、产品质量、涉税事项等开展检查，查到的都是罚 20 万起步，还有罚 80 万，贵阳、遵义、安顺、毕节多地商铺因此关门”相关信息，11 月 16 日，贵州省市场监督管理局发布消息称，经属地市场监管部门核查，该内容为不实传言。请广大网民理性辨别网络信息，不信谣、不传谣。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3631851"
-  },
-  {
-    "post": "Financial_Express/3631850",
-    "datetime": "2026-11-17T02:50:02+00:00",
-    "views": "65",
-    "text": "凯撒文化盘中涨停，上演“地天板”，现报 4.8 元，成交额 11.62 亿元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3631850"
-  },
-  {
-    "post": "Financial_Express/3631849",
-    "datetime": "2026-11-17T02:49:52+00:00",
-    "views": "65",
-    "text": "凯撒文化直线拉升触及涨停，上演地天板，成交超 11 亿元，该股此前走出 5 天 4 板，今早一度封跌停。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3631849"
   }
 ]
