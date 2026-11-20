@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3645337",
+    "datetime": "2026-11-20T14:36:22+00:00",
+    "views": "7",
+    "text": "美国股市开盘时市值蒸发超过 5000 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645337"
+  },
+  {
+    "post": "Financial_Express/3645338",
+    "datetime": "2026-11-20T14:36:22+00:00",
+    "views": "7",
+    "text": "纽约证交所 Arca 金矿指数下跌 2.4%，创一年来最低。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645338"
+  },
+  {
+    "post": "Financial_Express/3645336",
+    "datetime": "2026-11-20T14:35:42+00:00",
+    "views": "11",
+    "text": "BELITE BIO 股价下跌 14.5%，因 FDA 延长对眼病药物的审查。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645336"
+  },
+  {
     "post": "Financial_Express/3645335",
     "datetime": "2026-11-20T14:34:47+00:00",
-    "views": "4",
+    "views": "47",
     "text": "行业 ETF 美股盘初涨跌各异，半导体 ETF 跌 3.56%，全球科技股指数 ETF 跌 2.53%，科技行业 ETF 跌 2.1%，网络股指数 ETF 跌 1.34%，医疗业 ETF 涨 1.31%，日常消费品 ETF XLP 涨 1.75%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3645333",
     "datetime": "2026-11-20T14:34:23+00:00",
-    "views": "8",
+    "views": "49",
     "text": "财捷集团股价一度下跌 8.4%，创 8 月 26 日以来最大盘中跌幅。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3645334",
     "datetime": "2026-11-20T14:34:23+00:00",
-    "views": "8",
+    "views": "49",
     "text": "费城半导体指数日内跌 4%\n费城半导体指数日内跌 4.01%，现报 9041.79 点。英伟达跌 3.45%，博通跌 2.98%，美光跌 6.03%，英特尔跌 3.64%，AMD 跌 6.10%，高通跌 0.82%，台积电跌 4.67%，阿斯麦跌 3.20%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3645332",
     "datetime": "2026-11-20T14:33:42+00:00",
-    "views": "15",
+    "views": "56",
     "text": "燃料油连续主力合约日内跌 4%，现报 3679.00 元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3645331",
     "datetime": "2026-11-20T14:33:03+00:00",
-    "views": "46",
+    "views": "56",
     "text": "媒体：Anthropic 和 OpenAI 的 IPO 之争让投行圈子陷入尴尬\n据报道，Anthropic 高管从 2025 年夏天开始认真筹划 IPO。知情人士表示，管理层意识到，仅依靠风投以及亚马逊这类投资方，根本买不起足够芯片来运行、训练模型。知情人士称，该公司和 OpenAI 的这场竞争让投行圈子陷入尴尬：高盛、摩根士丹利同时承接两家公司的 IPO 项目。投行一般会隔离负责竞品 IPO 的不同团队，但部分银行从业者依然通过接触已经听过项目介绍的基金经理，打探对手项目信息。 夏天期间，Anthropic 高管私下判断 OpenAI 很难抢在自己前面上市。彼时 OpenAI 刚刚调整重心，优先向企业客户销售模型，这个战略转向，大概率会推迟它的上市计划。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3645330",
     "datetime": "2026-11-20T14:33:02+00:00",
-    "views": "46",
+    "views": "55",
     "text": "道指转涨，最新上涨 0.17%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3645328",
     "datetime": "2026-11-20T14:32:02+00:00",
-    "views": "54",
+    "views": "89",
     "text": "11 月 2 日，外国投资者净买入 837 亿印度卢比（约合 59.9 亿元人民币）印度股票衍生品。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3645329",
     "datetime": "2026-11-20T14:32:02+00:00",
-    "views": "53",
+    "views": "89",
     "text": "费城半导体指数下跌幅度高达 3.5%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3645327",
     "datetime": "2026-11-20T14:32:00+00:00",
-    "views": "52",
+    "views": "56",
     "text": "标普 500 指数低开 25.44 点，跌幅 0.35%，报 7150.39 点；\n道琼斯工业平均指数低开 25.24 点，跌幅 0.05%，报 49071.82 点；\n纳斯达克综合指数低开 286.53 点，跌幅 1.20%，报 23592.67 点。\n美股盘初，Anthropic 跌 8.4%，美股盘前一度跌至 83.67 美元——逼近 IPO 发行价 83 美元，美国 IPO 首日收涨 17.07%。闪迪跌 4.6%，台积电、AMD、Nebius 集团、希捷科技、西部数据、CoreWeave、英特尔、Cerebras 系统等至多跌约 4%，英伟达跌 2.1%，SpaceX 跌 4.9%。中概股网易跌 5.5%，百度跌 2.3%。\nAnthropic 报告称 IPO 已结束，承销商全额行使超额配售权，公司 IPO 募集资金总额约为 935 亿美元。\n黄仁勋离职后，英伟达面临新的威胁——失去最优秀的工程师。据媒体报道，黄仁勋将创办新的半导体公司，或将筹资 500 亿美元用于创业。\nSpaceX 完成 320 亿美元 AI 芯片债券发行，收益率最高超过 8%。\n闪迪公司已完成对普通股实施 1 拆 8 正向拆股，同时将普通股法定授权股数由 4.5 亿股上调至 36 亿股。\n谷歌将绕过博通直接采购 HBM，降成本需求或将压制内存厂商利润。\n欧洲央行行长拉加德表示，欧洲应提前布局 AI 算力建设，2030 年相关投资或需 1.3 万亿欧元。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3645325",
     "datetime": "2026-11-20T14:31:42+00:00",
-    "views": "47",
+    "views": "49",
     "text": "费城半导体指数盘初跌超 3%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3645326",
     "datetime": "2026-11-20T14:31:42+00:00",
-    "views": "48",
+    "views": "50",
     "text": "标普 500 指数低开 25.44 点，跌幅 0.35%，报 7150.39 点；\n道琼斯工业平均指数低开 25.24 点，跌幅 0.05%，报 49071.82 点；\n纳斯达克综合指数低开 286.53 点，跌幅 1.20%，报 23592.67 点。",
     "media_only": false,
     "image_url": null,
@@ -101,8 +128,8 @@
   {
     "post": "Financial_Express/3645324",
     "datetime": "2026-11-20T14:31:28+00:00",
-    "views": "48",
-    "text": "美股盘初，Anthropic 跌 8.4%，美股盘前一度跌至 83.67 美元——逼近 IPO 发行价 83 美元，美国 IPO 首日收涨 17.07%。闪迪跌 4.6%，台积电、AMD、Nebius 集团、希捷科技、西部数据、CoreWeave、英特尔、Cerebras 系统等至多跌约 4%，英伟达跌 2.1%，SpaceX 跌 4.9%。中概股网易跌 5.5%，百度跌 2.3%。",
+    "views": "50",
+    "text": "美股盘初，Anthropic 跌 9.5%，美股盘前一度跌至 83.67 美元——逼近 IPO 发行价 83 美元，美国 IPO 首日收涨 17.07%。\n闪迪跌 4.6%，台积电、AMD、Nebius 集团、希捷科技、西部数据、CoreWeave、英特尔、Cerebras 系统等至多跌约 4%，英伟达跌 2.1%，SpaceX 跌 4.9%。\n财捷 Intuit 跌 8.4%，创 8 月 26 日以来最大盘中跌幅。\n中概股网易跌 5.5%，百度跌 2.3%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3645324"
@@ -110,8 +137,8 @@
   {
     "post": "Financial_Express/3645323",
     "datetime": "2026-11-20T14:31:23+00:00",
-    "views": "47",
-    "text": "Anthropic 股价下跌 9%，报 88.45 美元，此前一天上市首日表现强劲。",
+    "views": "49",
+    "text": "Anthropic 股价下跌 9%，报 88.45 美元，此前一天上市首日收涨 17%",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3645323"
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3645322",
     "datetime": "2026-11-20T14:31:11+00:00",
-    "views": "46",
+    "views": "48",
     "text": "美股算力云相关股票盘初普跌\n甲骨文跌 1.86%，CoreWeave 跌 5.43%，Nebius 跌 5.10%，IREN 跌 4.51%，Applied Digital 跌 6.04%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3645320",
     "datetime": "2026-11-20T14:31:10+00:00",
-    "views": "44",
+    "views": "46",
     "text": "美股太空概念股盘初普跌\nSpaceX 跌 4.84%，Rocket Lab 跌 3.18%，Planet Labs 跌 2.15%，AST SpaceMobile 跌 3.05%，Intuitive Machines 跌 3.07%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3645321",
     "datetime": "2026-11-20T14:31:10+00:00",
-    "views": "45",
+    "views": "47",
     "text": "美股光通信股开盘普跌\nLumentum 跌 5.67%，康宁跌 2.79%，Coherent 跌 5.24%，应用光电跌 6.39%，Ciena 跌 4.94%，博通跌 1.93%，迈威尔科技跌 4.47%。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3645319",
     "datetime": "2026-11-20T14:31:04+00:00",
-    "views": "42",
+    "views": "45",
     "text": "美股生物科技板块盘初涨跌不一\n礼来涨 0.61%，强生涨 1.15%，Moderna 涨 0.07%，诺和诺德跌 0.33%，艾伯维持平，默沙东持平。",
     "media_only": false,
     "image_url": null,
@@ -66976,68 +67003,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3637821"
-  },
-  {
-    "post": "Financial_Express/3637819",
-    "datetime": "2026-11-18T14:37:02+00:00",
-    "views": "80",
-    "text": "多伦多股票指数（.GSPTSE）下跌 1.1%，跌至 7 月 8 日以来的最低水平。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637819"
-  },
-  {
-    "post": "Financial_Express/3637818",
-    "datetime": "2026-11-18T14:36:59+00:00",
-    "views": "80",
-    "text": "半导体 ETF 涨 1.07%，在美股盘初领跑行业 ETF，全球科技股指数 ETF 涨 0.76%，科技行业 ETF 涨 0.69%，能源业 ETF 跌 1.06%。\n标普 500 指数的 11 个板块中，能源板块跌 1.56%，原材料板块跌 1.5%，科技板块涨 0.67%，可选消费板块涨 0.69%。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637818"
-  },
-  {
-    "post": "Financial_Express/3637817",
-    "datetime": "2026-11-18T14:36:22+00:00",
-    "views": "81",
-    "text": "加纳将基准利率下调 300 个基点，从 14%降至 11%。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637817"
-  },
-  {
-    "post": "Financial_Express/3637816",
-    "datetime": "2026-11-18T14:36:18+00:00",
-    "views": "52",
-    "text": "加纳央行下调基准利率 300 个基点至 11%，前值 14%。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637816"
-  },
-  {
-    "post": "Financial_Express/3637815",
-    "datetime": "2026-11-18T14:35:42+00:00",
-    "views": "83",
-    "text": "Applied Optoelectronics 股价下跌 10.3%，此前该公司提交了一项 5.5 亿美元的股票发行申请。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637815"
-  },
-  {
-    "post": "Financial_Express/3637814",
-    "datetime": "2026-11-18T14:35:23+00:00",
-    "views": "84",
-    "text": "TJX 股价一度上涨 6.8%，创下自 2025 年 8 月以来的最大盘中涨幅。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637814"
-  },
-  {
-    "post": "Financial_Express/3637813",
-    "datetime": "2026-11-18T14:35:22+00:00",
-    "views": "83",
-    "text": "美国新型云服务公司股价涨跌互现，IREN 上涨 1.5%，NEBIUS 上涨 2.2%，COREWEAVE 下跌 1.2%。\n👍1",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637813"
   }
 ]
