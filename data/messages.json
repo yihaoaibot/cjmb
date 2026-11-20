@@ -1,8 +1,71 @@
 [
   {
+    "post": "Financial_Express/3645932",
+    "datetime": "2026-11-20T19:34:22+00:00",
+    "views": "5",
+    "text": "美国 2 至 7 年期国债收益率当日下跌至少 15 个基点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645932"
+  },
+  {
+    "post": "Financial_Express/3645931",
+    "datetime": "2026-11-20T19:34:02+00:00",
+    "views": "15",
+    "text": "比特币下跌 5.62%，至 58,048.61 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645931"
+  },
+  {
+    "post": "Financial_Express/3645930",
+    "datetime": "2026-11-20T19:33:43+00:00",
+    "views": "19",
+    "text": "美国 5 年期国债收益率日内下跌 15 个基点至 4.70%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645930"
+  },
+  {
+    "post": "Financial_Express/3645929",
+    "datetime": "2026-11-20T19:33:42+00:00",
+    "views": "19",
+    "text": "新兴市场 AI Mag 3 ETF（EMAG）恢复交易。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645929"
+  },
+  {
+    "post": "Financial_Express/3645928",
+    "datetime": "2026-11-20T19:33:22+00:00",
+    "views": "23",
+    "text": "费城半导体指数日内跌 10%\n费城半导体指数日内跌 10.03%，现报 8475.19 点。英伟达跌 11.79%，博通跌 12.58%，美光跌 13.22%，英特尔跌 6.13%，AMD 跌 13.59%，高通跌 5.29%，台积电跌 9.30%，阿斯麦跌 6.70%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645928"
+  },
+  {
+    "post": "Financial_Express/3645927",
+    "datetime": "2026-11-20T19:33:17+00:00",
+    "views": "23",
+    "text": "WTI 12 月原油期货收涨 0.77 美元，涨幅 0.93%，报 83.98 美元/桶。\nNYMEX 12 月天然气期货收报 3.4110 美元/百万英热单位。\nNYMEX 12 月汽油期货收报 2.5027 美元/加仑，NYMEX 12 月取暖油期货收报 3.9216 美元/加仑。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645927"
+  },
+  {
+    "post": "Financial_Express/3645926",
+    "datetime": "2026-11-20T19:33:02+00:00",
+    "views": "29",
+    "text": "美国证交会（SEC）发布关于重组综合审计追踪的提案。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645926"
+  },
+  {
     "post": "Financial_Express/3645923",
     "datetime": "2026-11-20T19:32:22+00:00",
-    "views": "13",
+    "views": "36",
     "text": "WTI 原油期货结算价为每桶 83.98 美元，上涨 77 美分，涨幅 0.93%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +74,7 @@
   {
     "post": "Financial_Express/3645924",
     "datetime": "2026-11-20T19:32:22+00:00",
-    "views": "13",
+    "views": "36",
     "text": "美国证券交易委员会发布关于重组综合审计追踪的提案。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +83,7 @@
   {
     "post": "Financial_Express/3645922",
     "datetime": "2026-11-20T19:32:03+00:00",
-    "views": "21",
+    "views": "42",
     "text": "纳斯达克指数期货跌 5.00%，现报 25269.400 点；道琼斯指数期货跌 1.51%，现报 48437.900 点；标普 500 指数期货跌 3.22%，现报 6965.250 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +92,7 @@
   {
     "post": "Financial_Express/3645920",
     "datetime": "2026-11-20T19:32:02+00:00",
-    "views": "21",
+    "views": "40",
     "text": "恐慌指数 VIX 触及盘中高点，并升至 3 月初以来最高水平；最新上涨 6.07 点，报 34.51 点。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +101,7 @@
   {
     "post": "Financial_Express/3645921",
     "datetime": "2026-11-20T19:32:02+00:00",
-    "views": "21",
+    "views": "41",
     "text": "美国原油期货结算价为每桶 83.98 美元，上涨 77 美分，涨幅 0.93%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +110,7 @@
   {
     "post": "Financial_Express/3645919",
     "datetime": "2026-11-20T19:31:43+00:00",
-    "views": "25",
+    "views": "41",
     "text": "标普 500 指数跌 3.04%，现报 6957.980 点；道指跌 1.39%，现报 48415.809 点；纳指跌 4.57%，现报 22787.946 点。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +119,7 @@
   {
     "post": "Financial_Express/3645917",
     "datetime": "2026-11-20T19:31:42+00:00",
-    "views": "25",
+    "views": "43",
     "text": "标普 500 指数扩大跌幅至 3%，费城半导体指数跌 9.5%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +128,7 @@
   {
     "post": "Financial_Express/3645918",
     "datetime": "2026-11-20T19:31:42+00:00",
-    "views": "25",
+    "views": "42",
     "text": "芝加哥期权交易所波动率指数（CBOE Volatility Index）触及盘中高点，创下 3 月初以来的最高水平；最新上涨 6.07 点，报 34.51。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +146,7 @@
   {
     "post": "Financial_Express/3645915",
     "datetime": "2026-11-20T19:30:46+00:00",
-    "views": "41",
+    "views": "56",
     "text": "英伟达跌幅扩大至 11%，费城半导体指数目前跌 9.57%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +155,7 @@
   {
     "post": "Financial_Express/3645914",
     "datetime": "2026-11-20T19:30:03+00:00",
-    "views": "56",
+    "views": "66",
     "text": "英伟达股价跌幅扩大至 11%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +164,7 @@
   {
     "post": "Financial_Express/3645913",
     "datetime": "2026-11-20T19:30:02+00:00",
-    "views": "55",
+    "views": "65",
     "text": "标普 500 指数期货跌 3.00%，现报 6981.250 点；道琼斯指数期货跌 1.31%，现报 48536.240 点；纳斯达克指数期货跌 4.74%，现报 25338.713 点。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +173,7 @@
   {
     "post": "Financial_Express/3645912",
     "datetime": "2026-11-20T19:29:30+00:00",
-    "views": "60",
+    "views": "70",
     "text": "美国 30 年期国债收益率下跌 10 个基点至 5.30%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +182,7 @@
   {
     "post": "Financial_Express/3645911",
     "datetime": "2026-11-20T19:28:42+00:00",
-    "views": "74",
+    "views": "80",
     "text": "新兴市场 AI Mag 3 ETF (EMAG) 因波动性暂停交易。",
     "media_only": false,
     "image_url": null,
@@ -66958,86 +67021,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3638408"
-  },
-  {
-    "post": "Financial_Express/3638407",
-    "datetime": "2026-11-18T19:35:02+00:00",
-    "views": "74",
-    "text": "新西兰联储主席布雷曼：经济复苏仍不均衡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638407"
-  },
-  {
-    "post": "Financial_Express/3638406",
-    "datetime": "2026-11-18T19:34:42+00:00",
-    "views": "79",
-    "text": "新西兰联储行长布雷曼：燃料价格带来的间接影响可能更大。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638406"
-  },
-  {
-    "post": "Financial_Express/3638404",
-    "datetime": "2026-11-18T19:34:23+00:00",
-    "views": "76",
-    "text": "美国天然气期货涨超 5.00%，现报 3.785 美元/百万英热。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638404"
-  },
-  {
-    "post": "Financial_Express/3638405",
-    "datetime": "2026-11-18T19:34:23+00:00",
-    "views": "80",
-    "text": "美国参议院共和党领袖图恩：联邦航空管理局资金拨款应成为两党共同优先事项。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638405"
-  },
-  {
-    "post": "Financial_Express/3638403",
-    "datetime": "2026-11-18T19:34:22+00:00",
-    "views": "76",
-    "text": "美国参议院共和党领袖图恩：确认法官人选是首要任务。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638403"
-  },
-  {
-    "post": "Financial_Express/3638402",
-    "datetime": "2026-11-18T19:34:02+00:00",
-    "views": "46",
-    "text": "美国参议院共和党领袖图恩：将采取一切必要措施确保政府获得资金。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638402"
-  },
-  {
-    "post": "Financial_Express/3638400",
-    "datetime": "2026-11-18T19:33:42+00:00",
-    "views": "15",
-    "text": "美国参议院共和党议员图恩（John Thune）：经济复苏仍然不均衡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638400"
-  },
-  {
-    "post": "Financial_Express/3638401",
-    "datetime": "2026-11-18T19:33:42+00:00",
-    "views": "46",
-    "text": "宾夕法尼亚州卫生部：已确认克林顿县一名未接种疫苗的居民麻疹检测呈阳性，并已死亡。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638401"
-  },
-  {
-    "post": "Financial_Express/3638399",
-    "datetime": "2026-11-18T19:33:26+00:00",
-    "views": "45",
-    "text": "WTI 12 月原油期货收跌 2.75 美元，跌幅 3.20%，报 83.26 美元/桶。\nNYMEX 12 月天然气期货收报 3.3720 美元/百万英热单位。\nNYMEX 12 月汽油期货收报 2.4819 美元/加仑，NYMEX 12 月取暖油期货收报 3.9723 美元/加仑。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638399"
   }
 ]
