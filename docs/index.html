@@ -1,5 +1,21 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-20T07:09:06.633086+00:00","clsvipUpdated":"2026-11-20T07:09:15.418337+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月20日</h2><div class="feed"><article class="item" data-search="截至 11 月 20 日，上海出口集装箱运价指数（综合指数）scfi 报 3503.78 点，与上期相比下跌 68.55 点。中国出口集装箱运价综合指数 ccfi 报 1923.21 点，与上期相比涨 0.2%。"><div class="time">15:08</div><div class="content"><div class="text" data-full="截至 11 月 20 日，上海出口集装箱运价指数（综合指数）SCFI 报 3503.78 点，与上期相比下跌 68.55 点。中国出口集装箱运价综合指数 CCFI 报 1923.21 点，与上期相比涨 0.2%。" data-short="截至 11 月 20 日，上海出口集装箱运价指数（综合指数）SCFI 报 3503.78 点，与上期相比下跌 68.55 点。中国出口集装箱运价综合指数 CCFI 报 1923.21 点，与上期相比涨 0.2%。">截至 11 月 20 日，上海出口集装箱运价指数（综合指数）SCFI 报 3503.78 点，与上期相比下跌 68.55 点。中国出口集装箱运价综合指数 CCFI 报 1923.21 点，与上期相比涨 0.2%。</div></div></article><article class="item" data-search="上期所：同意国家粮食和物资储备局广东局八三○处成为铝期货交割仓库
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-20T07:11:08.012020+00:00","clsvipUpdated":"2026-11-20T07:11:17.623491+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月20日</h2><div class="feed"><article class="item" data-search="摩根大通将 scout24 评级下调至中性，该股在法兰克福早盘交易中下跌 5.6%。"><div class="time">15:10</div><div class="content"><div class="text" data-full="摩根大通将 Scout24 评级下调至中性，该股在法兰克福早盘交易中下跌 5.6%。" data-short="摩根大通将 Scout24 评级下调至中性，该股在法兰克福早盘交易中下跌 5.6%。">摩根大通将 Scout24 评级下调至中性，该股在法兰克福早盘交易中下跌 5.6%。</div></div></article><article class="item" data-search="我国首个海上注碳增气技术示范应用工程陆地建设全面完工
+记者今天（11 月 20 日）从中国海油获悉，随着重达 1.7 万吨的中心平台完成装船，我国首个海上注碳增气技术示范应用工程——东方 1-1 气田二氧化碳捕集封存利用项目陆地建设全面完工，转入海上运输安装阶段。东方 1-1 气田是我国首个海上自营气田，也是我国开发建设的首个海上富碳气田。自 2003 年建成投产以来，已累计产气超 500 亿立方米。随着开发进入中后期，气田天然气产量逐步递减、伴生二氧化碳含量不断上升，注碳增气技术由此具备了从理论走向实践的应用条件。（央视新闻）"><div class="time">15:10</div><div class="content"><div class="text" data-full="我国首个海上注碳增气技术示范应用工程陆地建设全面完工
+记者今天（11 月 20 日）从中国海油获悉，随着重达 1.7 万吨的中心平台完成装船，我国首个海上注碳增气技术示范应用工程——东方 1-1 气田二氧化碳捕集封存利用项目陆地建设全面完工，转入海上运输安装阶段。东方 1-1 气田是我国首个海上自营气田，也是我国开发建设的首个海上富碳气田。自 2003 年建成投产以来，已累计产气超 500 亿立方米。随着开发进入中后期，气田天然气产量逐步递减、伴生二氧化碳含量不断上升，注碳增气技术由此具备了从理论走向实践的应用条件。（央视新闻）" data-short="我国首个海上注碳增气技术示范应用工程陆地建设全面完工
+记者今天（11 月 20 日）从中国海油获悉，随着重达 1.7 万吨的中心平台完成装船，我国首个海上注碳增气技术示范应用工程——东方 1-1 气田二氧化碳捕集封存利用项目陆地建设全面完工，转入海上运输安装阶段。东方 1-1 气田是我国首个海上自营气田，也是我国开发建设的首个海上富碳气田。自 2003 年建...">我国首个海上注碳增气技术示范应用工程陆地建设全面完工
+记者今天（11 月 20 日）从中国海油获悉，随着重达 1.7 万吨的中心平台完成装船，我国首个海上注碳增气技术示范应用工程——东方 1-1 气田二氧化碳捕集封存利用项目陆地建设全面完工，转入海上运输安装阶段。东方 1-1 气田是我国首个海上自营气田，也是我国开发建设的首个海上富碳气田。自 2003 年建...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="问鼎戈登·贝尔奖 曙光 8000 实现超算应用新突破
+金十数据 11 月 20 日讯，在美国当地时间 19 日下午举行的 2026 年国际超级计算大会（sc26）上，依托全国产十万卡 ai 超集群曙光 8000（登峰）开展的两项重大科研应用，分别斩获国际计算机学会戈登·贝尔奖和成功入围戈登·贝尔气候建模奖决赛。"><div class="time">15:10</div><div class="content"><div class="text" data-full="问鼎戈登·贝尔奖 曙光 8000 实现超算应用新突破
+金十数据 11 月 20 日讯，在美国当地时间 19 日下午举行的 2026 年国际超级计算大会（SC26）上，依托全国产十万卡 AI 超集群曙光 8000（登峰）开展的两项重大科研应用，分别斩获国际计算机学会戈登·贝尔奖和成功入围戈登·贝尔气候建模奖决赛。" data-short="问鼎戈登·贝尔奖 曙光 8000 实现超算应用新突破
+金十数据 11 月 20 日讯，在美国当地时间 19 日下午举行的 2026 年国际超级计算大会（SC26）上，依托全国产十万卡 AI 超集群曙光 8000（登峰）开展的两项重大科研应用，分别斩获国际计算机学会戈登·贝尔奖和成功入围戈登·贝尔气候建模奖决赛。">问鼎戈登·贝尔奖 曙光 8000 实现超算应用新突破
+金十数据 11 月 20 日讯，在美国当地时间 19 日下午举行的 2026 年国际超级计算大会（SC26）上，依托全国产十万卡 AI 超集群曙光 8000（登峰）开展的两项重大科研应用，分别斩获国际计算机学会戈登·贝尔奖和成功入围戈登·贝尔气候建模奖决赛。</div></div></article><article class="item" data-search="香港召开 ai 风险管治统筹工作组首次会议
+香港特区行政长官在 2026 年《施政报告》宣布，由香港政务司司长陈国基统筹各政策局推进人工智能(ai)风险治理策略的工作。陈国基表示，ai 发展迅速，在推动产业升级、便利生活的同时，其对社会各领域所带来的影响，以及风险治理和应用安全，同样至关重要。工作组将督导和统筹各政策局及部门检视 ai 发展风险、治理和安全等议题，强化风险意识，研究相应的管理和规范体系，务求在加快推进 ai 应用的同时，实现技术向善、安全可控。"><div class="time">15:09</div><div class="content"><div class="text" data-full="香港召开 AI 风险管治统筹工作组首次会议
+香港特区行政长官在 2026 年《施政报告》宣布，由香港政务司司长陈国基统筹各政策局推进人工智能(AI)风险治理策略的工作。陈国基表示，AI 发展迅速，在推动产业升级、便利生活的同时，其对社会各领域所带来的影响，以及风险治理和应用安全，同样至关重要。工作组将督导和统筹各政策局及部门检视 AI 发展风险、治理和安全等议题，强化风险意识，研究相应的管理和规范体系，务求在加快推进 AI 应用的同时，实现技术向善、安全可控。" data-short="香港召开 AI 风险管治统筹工作组首次会议
+香港特区行政长官在 2026 年《施政报告》宣布，由香港政务司司长陈国基统筹各政策局推进人工智能(AI)风险治理策略的工作。陈国基表示，AI 发展迅速，在推动产业升级、便利生活的同时，其对社会各领域所带来的影响，以及风险治理和应用安全，同样至关重要。工作组将督导和统筹各政策局及部门检视 AI 发展风险、治理和安全等...">香港召开 AI 风险管治统筹工作组首次会议
+香港特区行政长官在 2026 年《施政报告》宣布，由香港政务司司长陈国基统筹各政策局推进人工智能(AI)风险治理策略的工作。陈国基表示，AI 发展迅速，在推动产业升级、便利生活的同时，其对社会各领域所带来的影响，以及风险治理和应用安全，同样至关重要。工作组将督导和统筹各政策局及部门检视 AI 发展风险、治理和安全等...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="兆易创新(03986.hk)跌幅扩大至 10%。"><div class="time">15:09</div><div class="content"><div class="text" data-full="兆易创新(03986.HK)跌幅扩大至 10%。" data-short="兆易创新(03986.HK)跌幅扩大至 10%。">兆易创新(03986.HK)跌幅扩大至 10%。</div></div></article><article class="item" data-search="上期所：同意广东炬申仓储有限公司新增铝期货存放点
+上期所：近期，我所收到广东炬申仓储有限公司报送的相关申请材料。根据《上海期货交易所交割库管理办法》等有关规定，经研究决定： 同意广东炬申仓储有限公司新增铝期货存放点，存放地址位于广东省佛山市三水区白坭镇进港大道 29 号，核定库容 2 万吨，不设地区升贴水。 各有关单位应高度重视，切实做好各项工作，确保交割业务的正常有序进行。"><div class="time">15:09</div><div class="content"><div class="text" data-full="上期所：同意广东炬申仓储有限公司新增铝期货存放点
+上期所：近期，我所收到广东炬申仓储有限公司报送的相关申请材料。根据《上海期货交易所交割库管理办法》等有关规定，经研究决定： 同意广东炬申仓储有限公司新增铝期货存放点，存放地址位于广东省佛山市三水区白坭镇进港大道 29 号，核定库容 2 万吨，不设地区升贴水。 各有关单位应高度重视，切实做好各项工作，确保交割业务的正常有序进行。" data-short="上期所：同意广东炬申仓储有限公司新增铝期货存放点
+上期所：近期，我所收到广东炬申仓储有限公司报送的相关申请材料。根据《上海期货交易所交割库管理办法》等有关规定，经研究决定： 同意广东炬申仓储有限公司新增铝期货存放点，存放地址位于广东省佛山市三水区白坭镇进港大道 29 号，核定库容 2 万吨，不设地区升贴水。 各有关单位应高度重视，切实做好各项工作，确保交割业...">上期所：同意广东炬申仓储有限公司新增铝期货存放点
+上期所：近期，我所收到广东炬申仓储有限公司报送的相关申请材料。根据《上海期货交易所交割库管理办法》等有关规定，经研究决定： 同意广东炬申仓储有限公司新增铝期货存放点，存放地址位于广东省佛山市三水区白坭镇进港大道 29 号，核定库容 2 万吨，不设地区升贴水。 各有关单位应高度重视，切实做好各项工作，确保交割业...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="沙特领导的联军：拦截并摧毁了也门胡塞武装向利雅得和南部地区发射的两架无人机。"><div class="time">15:08</div><div class="content"><div class="text" data-full="沙特领导的联军：拦截并摧毁了也门胡塞武装向利雅得和南部地区发射的两架无人机。" data-short="沙特领导的联军：拦截并摧毁了也门胡塞武装向利雅得和南部地区发射的两架无人机。">沙特领导的联军：拦截并摧毁了也门胡塞武装向利雅得和南部地区发射的两架无人机。</div></div></article><article class="item" data-search="截至 11 月 20 日，上海出口集装箱运价指数（综合指数）scfi 报 3503.78 点，与上期相比下跌 68.55 点。中国出口集装箱运价综合指数 ccfi 报 1923.21 点，与上期相比涨 0.2%。"><div class="time">15:08</div><div class="content"><div class="text" data-full="截至 11 月 20 日，上海出口集装箱运价指数（综合指数）SCFI 报 3503.78 点，与上期相比下跌 68.55 点。中国出口集装箱运价综合指数 CCFI 报 1923.21 点，与上期相比涨 0.2%。" data-short="截至 11 月 20 日，上海出口集装箱运价指数（综合指数）SCFI 报 3503.78 点，与上期相比下跌 68.55 点。中国出口集装箱运价综合指数 CCFI 报 1923.21 点，与上期相比涨 0.2%。">截至 11 月 20 日，上海出口集装箱运价指数（综合指数）SCFI 报 3503.78 点，与上期相比下跌 68.55 点。中国出口集装箱运价综合指数 CCFI 报 1923.21 点，与上期相比涨 0.2%。</div></div></article><article class="item" data-search="上期所：同意国家粮食和物资储备局广东局八三○处成为铝期货交割仓库
 上期所：近期，我所收到国家粮食和物资储备局广东局八三○处报送的相关申请材料。根据《上海期货交易所交割库管理办法》等有关规定，经研究决定： 同意国家粮食和物资储备局广东局八三○处成为铝期货交割仓库，存放地址位于广东省佛山市南海区狮山镇小塘西货场路 2 号，核定库容 1.5 万吨，不设地区升贴水。 各有关单位应高度重视，切实做好各项工作，确保交割业务的正常有序进行。"><div class="time">15:07</div><div class="content"><div class="text" data-full="上期所：同意国家粮食和物资储备局广东局八三○处成为铝期货交割仓库
 上期所：近期，我所收到国家粮食和物资储备局广东局八三○处报送的相关申请材料。根据《上海期货交易所交割库管理办法》等有关规定，经研究决定： 同意国家粮食和物资储备局广东局八三○处成为铝期货交割仓库，存放地址位于广东省佛山市南海区狮山镇小塘西货场路 2 号，核定库容 1.5 万吨，不设地区升贴水。 各有关单位应高度重视，切实做好各项工作，确保交割业务的正常有序进行。" data-short="上期所：同意国家粮食和物资储备局广东局八三○处成为铝期货交割仓库
 上期所：近期，我所收到国家粮食和物资储备局广东局八三○处报送的相关申请材料。根据《上海期货交易所交割库管理办法》等有关规定，经研究决定： 同意国家粮食和物资储备局广东局八三○处成为铝期货交割仓库，存放地址位于广东省佛山市南海区狮山镇小塘西货场路 2 号，核定库容 1.5 万吨，不设地区升贴水。...">上期所：同意国家粮食和物资储备局广东局八三○处成为铝期货交割仓库
@@ -783,19 +799,7 @@ Walser Wealth Management 首席投资官 Rebecca Walser 则表...</div><button c
 华虹宏力表示，公司坚定看好中国晶圆代工行业和本土半导体产业链的发展前景。基于对中国资本市场不断发展壮大的信心和对公司长期价值的认可，近期公司董事长白鹏提议以自有资金回购 3 亿元至 5 亿元股份，系公司 a 股 ipo 以来首次股份回购。公司希望近期开展的回购事项有利于增强投资者的信心，也将继续全力聚焦卓越运营，努力成为全球领先的晶圆代工企业，为股东创造价值。"><div class="time">13:21</div><div class="content"><div class="text" data-full="华虹宏力：坚定看好中国晶圆代工行业和本土半导体产业链的发展前景
 华虹宏力表示，公司坚定看好中国晶圆代工行业和本土半导体产业链的发展前景。基于对中国资本市场不断发展壮大的信心和对公司长期价值的认可，近期公司董事长白鹏提议以自有资金回购 3 亿元至 5 亿元股份，系公司 A 股 IPO 以来首次股份回购。公司希望近期开展的回购事项有利于增强投资者的信心，也将继续全力聚焦卓越运营，努力成为全球领先的晶圆代工企业，为股东创造价值。" data-short="华虹宏力：坚定看好中国晶圆代工行业和本土半导体产业链的发展前景
 华虹宏力表示，公司坚定看好中国晶圆代工行业和本土半导体产业链的发展前景。基于对中国资本市场不断发展壮大的信心和对公司长期价值的认可，近期公司董事长白鹏提议以自有资金回购 3 亿元至 5 亿元股份，系公司 A 股 IPO 以来首次股份回购。公司希望近期开展的回购事项有利于增强投资者的信心，也将继续...">华虹宏力：坚定看好中国晶圆代工行业和本土半导体产业链的发展前景
-华虹宏力表示，公司坚定看好中国晶圆代工行业和本土半导体产业链的发展前景。基于对中国资本市场不断发展壮大的信心和对公司长期价值的认可，近期公司董事长白鹏提议以自有资金回购 3 亿元至 5 亿元股份，系公司 A 股 IPO 以来首次股份回购。公司希望近期开展的回购事项有利于增强投资者的信心，也将继续...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="估值回落至历史低位 机构看好科技股长期投资价值
-计算机、电子、通信三大核心板块的市盈率已回落至历史相对低位区间，通信指数滚动市盈率低于 27 倍，为近十年分位数 6%以下；电子指数滚动市盈率不足 36 倍，处于近十年来 18%分位以下；计算机指数滚动市盈率 54 倍，处于近十年来 29%分位以下。汇丰私人银行及财富管理中国首席投资总监梁君馡表示，当前股市估值已反映市场对 ai 商业化变现放缓、硬件资本开支过热及高估值回调的预期。亚洲核心科技股及整体市场的前瞻市盈率已回落至历史中位数附近，科技板块的高估值已得到有效挤压。"><div class="time">13:21</div><div class="content"><div class="text" data-full="估值回落至历史低位 机构看好科技股长期投资价值
-计算机、电子、通信三大核心板块的市盈率已回落至历史相对低位区间，通信指数滚动市盈率低于 27 倍，为近十年分位数 6%以下；电子指数滚动市盈率不足 36 倍，处于近十年来 18%分位以下；计算机指数滚动市盈率 54 倍，处于近十年来 29%分位以下。汇丰私人银行及财富管理中国首席投资总监梁君馡表示，当前股市估值已反映市场对 AI 商业化变现放缓、硬件资本开支过热及高估值回调的预期。亚洲核心科技股及整体市场的前瞻市盈率已回落至历史中位数附近，科技板块的高估值已得到有效挤压。" data-short="估值回落至历史低位 机构看好科技股长期投资价值
-计算机、电子、通信三大核心板块的市盈率已回落至历史相对低位区间，通信指数滚动市盈率低于 27 倍，为近十年分位数 6%以下；电子指数滚动市盈率不足 36 倍，处于近十年来 18%分位以下；计算机指数滚动市盈率 54 倍，处于近十年来 29%分位以下。汇丰私人银行及财富管理中国首席投资总监梁君馡表示，当前股市估值...">估值回落至历史低位 机构看好科技股长期投资价值
-计算机、电子、通信三大核心板块的市盈率已回落至历史相对低位区间，通信指数滚动市盈率低于 27 倍，为近十年分位数 6%以下；电子指数滚动市盈率不足 36 倍，处于近十年来 18%分位以下；计算机指数滚动市盈率 54 倍，处于近十年来 29%分位以下。汇丰私人银行及财富管理中国首席投资总监梁君馡表示，当前股市估值...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="港股芯片股午后下挫 长光辰芯跌超 12%
-港股芯片股午后下挫，长光辰芯跌超 12%，华虹宏力跌超 10%，天数智芯、壁仞科技等跟跌。"><div class="time">13:20</div><div class="content"><div class="text" data-full="港股芯片股午后下挫 长光辰芯跌超 12%
-港股芯片股午后下挫，长光辰芯跌超 12%，华虹宏力跌超 10%，天数智芯、壁仞科技等跟跌。" data-short="港股芯片股午后下挫 长光辰芯跌超 12%
-港股芯片股午后下挫，长光辰芯跌超 12%，华虹宏力跌超 10%，天数智芯、壁仞科技等跟跌。">港股芯片股午后下挫 长光辰芯跌超 12%
-港股芯片股午后下挫，长光辰芯跌超 12%，华虹宏力跌超 10%，天数智芯、壁仞科技等跟跌。</div></div></article><article class="item" data-search="拓荆科技：持续深耕半导体薄膜沉积与三维集成核心装备领域
-拓荆科技表示，公司坚定看好中国科技产业发展，将坚定信心、坚持自主创新，持续深耕半导体薄膜沉积与三维集成核心装备领域，加快攻坚先进制程关键装备，助力我国集成电路产业链补齐关键装备短板。面对资本市场波动，公司真金白银坚定投入，稳定投资者预期。前期已根据董事长提议，使用自有资金 3 亿元完成股份回购，充分彰显管理层对公司长期发展前景的坚定信心及对公司内在价值的高度认可。"><div class="time">13:20</div><div class="content"><div class="text" data-full="拓荆科技：持续深耕半导体薄膜沉积与三维集成核心装备领域
-拓荆科技表示，公司坚定看好中国科技产业发展，将坚定信心、坚持自主创新，持续深耕半导体薄膜沉积与三维集成核心装备领域，加快攻坚先进制程关键装备，助力我国集成电路产业链补齐关键装备短板。面对资本市场波动，公司真金白银坚定投入，稳定投资者预期。前期已根据董事长提议，使用自有资金 3 亿元完成股份回购，充分彰显管理层对公司长期发展前景的坚定信心及对公司内在价值的高度认可。" data-short="拓荆科技：持续深耕半导体薄膜沉积与三维集成核心装备领域
-拓荆科技表示，公司坚定看好中国科技产业发展，将坚定信心、坚持自主创新，持续深耕半导体薄膜沉积与三维集成核心装备领域，加快攻坚先进制程关键装备，助力我国集成电路产业链补齐关键装备短板。面对资本市场波动，公司真金白银坚定投入，稳定投资者预期。前期已根据董事长提议，使用自有资金 3 亿元完成股份回购，充分彰显...">拓荆科技：持续深耕半导体薄膜沉积与三维集成核心装备领域
-拓荆科技表示，公司坚定看好中国科技产业发展，将坚定信心、坚持自主创新，持续深耕半导体薄膜沉积与三维集成核心装备领域，加快攻坚先进制程关键装备，助力我国集成电路产业链补齐关键装备短板。面对资本市场波动，公司真金白银坚定投入，稳定投资者预期。前期已根据董事长提议，使用自有资金 3 亿元完成股份回购，充分彰显...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="乌克兰基辅市当局称，俄罗斯袭击造成三人死亡。"><div class="time">13:19</div><div class="content"><div class="text" data-full="乌克兰基辅市当局称，俄罗斯袭击造成三人死亡。" data-short="乌克兰基辅市当局称，俄罗斯袭击造成三人死亡。">乌克兰基辅市当局称，俄罗斯袭击造成三人死亡。</div></div></article><article class="item" data-search="现货黄金日内跌幅达 3.0%，报 3516.4 美元/盎司。"><div class="time">13:19</div><div class="content"><div class="text" data-full="现货黄金日内跌幅达 3.0%，报 3516.4 美元/盎司。" data-short="现货黄金日内跌幅达 3.0%，报 3516.4 美元/盎司。">现货黄金日内跌幅达 3.0%，报 3516.4 美元/盎司。</div></div></article><article class="item" data-search="杰富瑞将 拼多多 目标价从 118 美元上调至 120 美元。"><div class="time">13:19</div><div class="content"><div class="text" data-full="杰富瑞将 拼多多 目标价从 118 美元上调至 120 美元。" data-short="杰富瑞将 拼多多 目标价从 118 美元上调至 120 美元。">杰富瑞将 拼多多 目标价从 118 美元上调至 120 美元。</div></div></article><article class="item" data-search="台湾加权指数跌近 7%，创四个月以来最大百分比跌幅，台积电跌 5.7%，鸿海跌 5.44%，联发科跌 9.81%。"><div class="time">13:18</div><div class="content"><div class="text" data-full="台湾加权指数跌近 7%，创四个月以来最大百分比跌幅，台积电跌 5.7%，鸿海跌 5.44%，联发科跌 9.81%。" data-short="台湾加权指数跌近 7%，创四个月以来最大百分比跌幅，台积电跌 5.7%，鸿海跌 5.44%，联发科跌 9.81%。">台湾加权指数跌近 7%，创四个月以来最大百分比跌幅，台积电跌 5.7%，鸿海跌 5.44%，联发科跌 9.81%。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月20日 · VIP</h2> <div class="feed"> <article class="item" data-search="红宝书20261119.pdf
+华虹宏力表示，公司坚定看好中国晶圆代工行业和本土半导体产业链的发展前景。基于对中国资本市场不断发展壮大的信心和对公司长期价值的认可，近期公司董事长白鹏提议以自有资金回购 3 亿元至 5 亿元股份，系公司 A 股 IPO 以来首次股份回购。公司希望近期开展的回购事项有利于增强投资者的信心，也将继续...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月20日 · VIP</h2> <div class="feed"> <article class="item" data-search="红宝书20261119.pdf
 
 链接: https://pan.baidu.com/s/16dgdokkerw_iykym5xj5qw?pwd=afbu 提取码: afbu 
 --来自百度网盘超级会员v7的分享"> <div class="time">09:18</div> <div class="content"> <div class="text">红宝书20261119.pdf
@@ -1069,68 +1073,7 @@ G届孙悟空中线技术详细拆解20261118
 
 游资混江龙1118先人一步抓主流题材
 
-都业华周二直播课20261117</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="洪灏2027年度展望闭门分享会总结文档
-
-深圳场年终私享会内容已获悉，根据现场的详细记录，对核心观点做了完整的梳理和总结，内容涵盖了美股、a港股、贵金属、工业金属，包含对各类资产的走势判断以及逻辑原因。汇总成一份26页，2万字的文件，包含全程讲稿和现场问答，内容价值极高。
-
-众筹价：25元
-
-需要的联系：@cn50etf
-❤1"> <div class="time">15:10</div> <div class="content"> <div class="text">洪灏2027年度展望闭门分享会总结文档
-
-深圳场年终私享会内容已获悉，根据现场的详细记录，对核心观点做了完整的梳理和总结，内容涵盖了美股、A港股、贵金属、工业金属，包含对各类资产的走势判断以及逻辑原因。汇总成一份26页，2万字的文件，包含全程讲稿和现场问答，内容价值极高。
-
-众筹价：25元
-
-需要的联系：@cn50et...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="clsvip media"> <div class="time">15:10</div> <div class="content"> <div class="text">图片 / 媒体内容</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="尾盘先锋
-
-✅项目介绍：
-
-1、挖掘真实人气龙头
-
-注册制下越来越多个股被边缘化，尾盘狙击基于全市场真实交易数据及个股基本面因子指标，智能挖掘市场“真实人气龙头”，让投资更聚焦。
-
-2、接近“t+0”交易效果
-
-交易日14点30分智能计算选股，投资者尾盘决策买入，抢占先手，次日可从容应对。
-
-3、短线情绪一目了然
-
-短线情绪至关重要，尾盘狙击通过个股温度值、龙头接力情绪值及连板成功率指标，为短线交易提供决策依据。
-
-4、捕捉全新热点机会
-
-当出现某个行业多只个股入选进攻梯队时，表示该方向人气正在迅速攀升，可重点关注投资机会。
-
-✅历史数据：https://hi189.com/7061.html
-
-✅运作方式：我每天下午2:30把系统选出的股票发到群里
-
-✅费用：200/年（频道vip免费看）
-
-联系：@cn50etf"> <div class="time">15:10</div> <div class="content"> <div class="text">尾盘先锋
-
-✅项目介绍：
-
-1、挖掘真实人气龙头
-
-注册制下越来越多个股被边缘化，尾盘狙击基于全市场真实交易数据及个股基本面因子指标，智能挖掘市场“真实人气龙头”，让投资更聚焦。
-
-2、接近“T+0”交易效果
-
-交易日14点30分智能计算选股，投资者尾盘决策买入，抢占先手，次日可从容应对。
-
-3、短线情绪一目了然
-
-短...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【盘中宝·记者一线】这类化工品3个月涨价超50%，冬季停产限产期临近，后续或仍有温和上涨空间
-
-#山东海化
-#滨化股份
-#鲁北化工"> <div class="time">15:10</div> <div class="content"> <div class="text">【盘中宝·记者一线】这类化工品3个月涨价超50%，冬季停产限产期临近，后续或仍有温和上涨空间
-
-#山东海化
-#滨化股份
-#鲁北化工</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section> </div> </main> <script>
+都业华周二直播课20261117</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section> </div> </main> <script>
       (() => {
         const mainBtn = document.getElementById('topic-main');
         const vipBtn = document.getElementById('topic-clsvip');
