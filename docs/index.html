@@ -1,9 +1,13 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-20T14:01:19.492735+00:00","clsvipUpdated":"2026-11-20T14:01:24.623682+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月20日</h2><div class="feed"><article class="item" data-search="格陵兰矿业有限公司对丹麦议会一致通过具有里程碑意义的美国-丹麦-格陵兰协议表示赞赏。"><div class="time">22:00</div><div class="content"><div class="text" data-full="格陵兰矿业有限公司对丹麦议会一致通过具有里程碑意义的美国-丹麦-格陵兰协议表示赞赏。" data-short="格陵兰矿业有限公司对丹麦议会一致通过具有里程碑意义的美国-丹麦-格陵兰协议表示赞赏。">格陵兰矿业有限公司对丹麦议会一致通过具有里程碑意义的美国-丹麦-格陵兰协议表示赞赏。</div></div></article><article class="item" data-search="据美国纽约联储数据，上个交易日（11 月 19 日）担保隔夜融资利率（sofr）报 3.91%，之前一天报 3.90%。
-上个交易日有效的联邦基金利率报 3.88%，之前一天报 3.88%。"><div class="time">21:59</div><div class="content"><div class="text" data-full="据美国纽约联储数据，上个交易日（11 月 19 日）担保隔夜融资利率（SOFR）报 3.91%，之前一天报 3.90%。
-上个交易日有效的联邦基金利率报 3.88%，之前一天报 3.88%。" data-short="据美国纽约联储数据，上个交易日（11 月 19 日）担保隔夜融资利率（SOFR）报 3.91%，之前一天报 3.90%。
-上个交易日有效的联邦基金利率报 3.88%，之前一天报 3.88%。">据美国纽约联储数据，上个交易日（11 月 19 日）担保隔夜融资利率（SOFR）报 3.91%，之前一天报 3.90%。
-上个交易日有效的联邦基金利率报 3.88%，之前一天报 3.88%。</div></div></article><article class="item" data-search="特朗普将于 12 月 5 日在里根国防论坛为对伊战争辩护
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-20T14:03:18.127073+00:00","clsvipUpdated":"2026-11-20T14:03:28.773852+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月20日</h2><div class="feed"><article class="item" data-search="anthropic(ant.o)股价跌幅收窄至 10.4%"><div class="time">22:01</div><div class="content"><div class="text" data-full="Anthropic(ANT.O)股价跌幅收窄至 10.4%" data-short="Anthropic(ANT.O)股价跌幅收窄至 10.4%">Anthropic(ANT.O)股价跌幅收窄至 10.4%</div></div></article><article class="item" data-search="anthropic 盘前跌幅收窄至 10.4%。"><div class="time">22:01</div><div class="content"><div class="text" data-full="Anthropic 盘前跌幅收窄至 10.4%。" data-short="Anthropic 盘前跌幅收窄至 10.4%。">Anthropic 盘前跌幅收窄至 10.4%。</div></div></article><article class="item" data-search="anthropic 美股盘前跌幅收窄至将近 10%。"><div class="time">22:00</div><div class="content"><div class="text" data-full="Anthropic 美股盘前跌幅收窄至将近 10%。" data-short="Anthropic 美股盘前跌幅收窄至将近 10%。">Anthropic 美股盘前跌幅收窄至将近 10%。</div></div></article><article class="item" data-search="格陵兰矿业有限公司对丹麦议会一致通过具有里程碑意义的美国-丹麦-格陵兰协议表示赞赏。"><div class="time">22:00</div><div class="content"><div class="text" data-full="格陵兰矿业有限公司对丹麦议会一致通过具有里程碑意义的美国-丹麦-格陵兰协议表示赞赏。" data-short="格陵兰矿业有限公司对丹麦议会一致通过具有里程碑意义的美国-丹麦-格陵兰协议表示赞赏。">格陵兰矿业有限公司对丹麦议会一致通过具有里程碑意义的美国-丹麦-格陵兰协议表示赞赏。</div></div></article><article class="item" data-search="据美国纽约联储数据，上个交易日（11 月 19 日）担保隔夜融资利率（sofr）报 3.91%，之前一天报 3.90%。
+上个交易日有效的联邦基金利率报 3.88%，之前一天报 3.88%。
+👍1"><div class="time">21:59</div><div class="content"><div class="text" data-full="据美国纽约联储数据，上个交易日（11 月 19 日）担保隔夜融资利率（SOFR）报 3.91%，之前一天报 3.90%。
+上个交易日有效的联邦基金利率报 3.88%，之前一天报 3.88%。
+👍1" data-short="据美国纽约联储数据，上个交易日（11 月 19 日）担保隔夜融资利率（SOFR）报 3.91%，之前一天报 3.90%。
+上个交易日有效的联邦基金利率报 3.88%，之前一天报 3.88%。
+👍1">据美国纽约联储数据，上个交易日（11 月 19 日）担保隔夜融资利率（SOFR）报 3.91%，之前一天报 3.90%。
+上个交易日有效的联邦基金利率报 3.88%，之前一天报 3.88%。
+👍1</div></div></article><article class="item" data-search="特朗普将于 12 月 5 日在里根国防论坛为对伊战争辩护
 金十数据 11 月 20 日讯，特朗普将于 12 月 5 日在加州西米谷的里根总统图书馆出席里根国防论坛并发表主旨演讲，为美国对伊朗开战的决定辩护。白宫发言人表示，特朗普将在演讲中向里根致敬，并阐述自己的施政愿景。特朗普一向推崇里根“以实力求和平”的外交理念。报道指出，美国已数月未对伊朗发动袭击，目前主要通过经济制裁和海上封锁向德黑兰施压。特朗普表示，将在新年后决定是否进一步打击伊朗。本周访亚期间，他与俄罗斯总统普京会晤，讨论如何结束俄乌和美伊两场战争。此次演讲将为特朗普提供一次公开解释对伊战争立场的机会。
 👍1"><div class="time">21:58</div><div class="content"><div class="text" data-full="特朗普将于 12 月 5 日在里根国防论坛为对伊战争辩护
 金十数据 11 月 20 日讯，特朗普将于 12 月 5 日在加州西米谷的里根总统图书馆出席里根国防论坛并发表主旨演讲，为美国对伊朗开战的决定辩护。白宫发言人表示，特朗普将在演讲中向里根致敬，并阐述自己的施政愿景。特朗普一向推崇里根“以实力求和平”的外交理念。报道指出，美国已数月未对伊朗发动袭击，目前主要通过经济制裁和海上封锁向德黑兰施压。特朗普表示，将在新年后决定是否进一步打击伊朗。本周访亚期间，他与俄罗斯总统普京会晤，讨论如何结束俄乌和美伊两场战争。此次演讲将为特朗普提供一次公开解释对伊战争立场的机会。
@@ -489,26 +493,6 @@ Anthropic 盘前跌幅扩大至 10%，报 87.5 美元/股，较 IPO 发行价 83
 11 月 20 日，阿维塔科技与 Schmohl AG（劳斯莱斯、宾利、布加迪经销商）旗下 Kamps Import AG 签约，阿维塔正式进入瑞士市场。
 👍1">阿维塔正式进入瑞士市场
 11 月 20 日，阿维塔科技与 Schmohl AG（劳斯莱斯、宾利、布加迪经销商）旗下 Kamps Import AG 签约，阿维塔正式进入瑞士市场。
-👍1</div></div></article><article class="item" data-search="中泰证券：完成回购股份，累计耗资近 2 亿元
-金十数据 11 月 20 日讯，中泰证券公告，公司于 11 月 19 日完成回购股份。公司通过集中竞价交易方式累计回购股份 3780.23 万股，占公司总股本的比例为 0.48%，购买的最高价为 5.55 元/股，最低价为 5.12 元/股，回购均价为 5.29 元/股，已支付的总金额为 19999.96 万元。公司本次回购的股份将全部用于注销并相应减少注册资本。
-👍1"><div class="time">20:20</div><div class="content"><div class="text" data-full="中泰证券：完成回购股份，累计耗资近 2 亿元
-金十数据 11 月 20 日讯，中泰证券公告，公司于 11 月 19 日完成回购股份。公司通过集中竞价交易方式累计回购股份 3780.23 万股，占公司总股本的比例为 0.48%，购买的最高价为 5.55 元/股，最低价为 5.12 元/股，回购均价为 5.29 元/股，已支付的总金额为 19999.96 万元。公司本次回购的股份将全部用于注销并相应减少注册资本。
-👍1" data-short="中泰证券：完成回购股份，累计耗资近 2 亿元
-金十数据 11 月 20 日讯，中泰证券公告，公司于 11 月 19 日完成回购股份。公司通过集中竞价交易方式累计回购股份 3780.23 万股，占公司总股本的比例为 0.48%，购买的最高价为 5.55 元/股，最低价为 5.12 元/股，回购均价为 5.29 元/股，已支付的总金额为 19999.96 万元。...">中泰证券：完成回购股份，累计耗资近 2 亿元
-金十数据 11 月 20 日讯，中泰证券公告，公司于 11 月 19 日完成回购股份。公司通过集中竞价交易方式累计回购股份 3780.23 万股，占公司总股本的比例为 0.48%，购买的最高价为 5.55 元/股，最低价为 5.12 元/股，回购均价为 5.29 元/股，已支付的总金额为 19999.96 万元。...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="央行反洗钱局相关负责人：建立常态化打击治理洗钱违法犯罪工作机制，加强跨境协调合作
-11 月 20 日，中国人民银行反洗钱局相关负责人在 2026 第十六届中国反洗钱高峰论坛上表示，近年来，在各部门的严厉打击、持续治理下，黑社会性质组织犯罪、非法集资、毒品犯罪、涉税犯罪等得到遏制，洗钱风险趋于收敛。但风险结构更趋多元、形态更趋复杂，新技术、新业态被犯罪分子滥用，不同资金转移渠道相互交织，洗钱及相关犯罪的隐蔽性有所增强，洗钱模式和手法的升级迭代也有加快趋势，对洗钱风险监测、预警和资金交易追踪提出了更高要求。该负责人表示，这些情况对各国金融监管、执法打击工作提出新的挑战，亟须各国在情报共享、案件调查、资产追缴等方面加强跨境协调合作。对于下一步工作重点，该负责人表示，将持续推动新修订的反洗钱法及相关配套规章制度落地见效，坚持基于风险开展反洗钱监管，指导义务机构在更好发挥预防、遏制洗钱活动作用的同时，切实保障群众正常资金流转和合法权益。同时，建立常态化打击治理洗钱违法犯罪工作机制，聚焦电信网络诈骗、网络赌博、非法集资、腐败、毒品犯罪、地下钱庄等风险突出的重点领域，加大对关联洗钱活动的调查打击力度，加强新型洗钱风险研究和风险提示。（澎湃新闻）
-👍1"><div class="time">20:19</div><div class="content"><div class="text" data-full="央行反洗钱局相关负责人：建立常态化打击治理洗钱违法犯罪工作机制，加强跨境协调合作
-11 月 20 日，中国人民银行反洗钱局相关负责人在 2026 第十六届中国反洗钱高峰论坛上表示，近年来，在各部门的严厉打击、持续治理下，黑社会性质组织犯罪、非法集资、毒品犯罪、涉税犯罪等得到遏制，洗钱风险趋于收敛。但风险结构更趋多元、形态更趋复杂，新技术、新业态被犯罪分子滥用，不同资金转移渠道相互交织，洗钱及相关犯罪的隐蔽性有所增强，洗钱模式和手法的升级迭代也有加快趋势，对洗钱风险监测、预警和资金交易追踪提出了更高要求。该负责人表示，这些情况对各国金融监管、执法打击工作提出新的挑战，亟须各国在情报共享、案件调查、资产追缴等方面加强跨境协调合作。对于下一步工作重点，该负责人表示，将持续推动新修订的反洗钱法及相关配套规章制度落地见效，坚持基于风险开展反洗钱监管，指导义务机构在更好发挥预防、遏制洗钱活动作用的同时，切实保障群众正常资金流转和合法权益。同时，建立常态化打击治理洗钱违法犯罪工作机制，聚焦电信网络诈骗、网络赌博、非法集资、腐败、毒品犯罪、地下钱庄等风险突出的重点领域，加大对关联洗钱活动的调查打击力度，加强新型洗钱风险研究和风险提示。（澎湃新闻）
-👍1" data-short="央行反洗钱局相关负责人：建立常态化打击治理洗钱违法犯罪工作机制，加强跨境协调合作
-11 月 20 日，中国人民银行反洗钱局相关负责人在 2026 第十六届中国反洗钱高峰论坛上表示，近年来，在各部门的严厉打击、持续治理下，黑社会性质组织犯罪、非法集资、毒品犯罪、涉税犯罪等得到遏制，洗钱风险趋于收敛。但风险结构更趋多元、形态更趋复杂，新技术、新业态被犯罪分子滥用...">央行反洗钱局相关负责人：建立常态化打击治理洗钱违法犯罪工作机制，加强跨境协调合作
-11 月 20 日，中国人民银行反洗钱局相关负责人在 2026 第十六届中国反洗钱高峰论坛上表示，近年来，在各部门的严厉打击、持续治理下，黑社会性质组织犯罪、非法集资、毒品犯罪、涉税犯罪等得到遏制，洗钱风险趋于收敛。但风险结构更趋多元、形态更趋复杂，新技术、新业态被犯罪分子滥用...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="对 apec 其他经济体进出口规模，深圳居首位
-11 月 20 日，记者从深圳海关获悉，今年前 10 个月，深圳对 apec 其他经济体进出口 3.65 万亿元，同比增长 42.08%，创历史同期新高，居全国内地城市首位，占同期我国对 apec 其他经济体进出口总值的 13.48%，占全市进出口总值的 69.55%。
-👍1"><div class="time">20:19</div><div class="content"><div class="text" data-full="对 APEC 其他经济体进出口规模，深圳居首位
-11 月 20 日，记者从深圳海关获悉，今年前 10 个月，深圳对 APEC 其他经济体进出口 3.65 万亿元，同比增长 42.08%，创历史同期新高，居全国内地城市首位，占同期我国对 APEC 其他经济体进出口总值的 13.48%，占全市进出口总值的 69.55%。
-👍1" data-short="对 APEC 其他经济体进出口规模，深圳居首位
-11 月 20 日，记者从深圳海关获悉，今年前 10 个月，深圳对 APEC 其他经济体进出口 3.65 万亿元，同比增长 42.08%，创历史同期新高，居全国内地城市首位，占同期我国对 APEC 其他经济体进出口总值的 13.48%，占全市进出口总值的 69.55%。
-👍1">对 APEC 其他经济体进出口规模，深圳居首位
-11 月 20 日，记者从深圳海关获悉，今年前 10 个月，深圳对 APEC 其他经济体进出口 3.65 万亿元，同比增长 42.08%，创历史同期新高，居全国内地城市首位，占同期我国对 APEC 其他经济体进出口总值的 13.48%，占全市进出口总值的 69.55%。
 👍1</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月20日 · VIP</h2> <div class="feed"> <article class="item" data-search="红宝书20261119.pdf
 
 链接: https://pan.baidu.com/s/16dgdokkerw_iykym5xj5qw?pwd=afbu 提取码: afbu 
@@ -759,31 +743,7 @@ https://hi189.com/7227.html</div> <div style="margin-top:8px;font-size:12px;colo
 
 https://hi189.com/7220.html"> <div class="time">22:28</div> <div class="content"> <div class="text">2026/11/18(晚) 机构研究总结和市场消息汇总解读 
 
-https://hi189.com/7220.html</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="邢者狩猎营20261118
-
-g届孙悟空中线技术详细拆解20261118
-
-边风炜炜炜道来20261118：点评英伟达的财报与预期；财报前点评港股腾讯阿里预期与变化
-
-都业华收盘点评20261118
-
-杨凯下午课20261117
-
-游资混江龙1118先人一步抓主流题材
-
-都业华周二直播课20261117"> <div class="time">22:01</div> <div class="content"> <div class="text">邢者狩猎营20261118
-
-G届孙悟空中线技术详细拆解20261118
-
-边风炜炜炜道来20261118：点评英伟达的财报与预期；财报前点评港股腾讯阿里预期与变化
-
-都业华收盘点评20261118
-
-杨凯下午课20261117
-
-游资混江龙1118先人一步抓主流题材
-
-都业华周二直播课20261117</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section> </div> </main> <script>
+https://hi189.com/7220.html</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section> </div> </main> <script>
       (() => {
         const mainBtn = document.getElementById('topic-main');
         const vipBtn = document.getElementById('topic-clsvip');
