@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3645860",
+    "datetime": "2026-11-20T19:01:02+00:00",
+    "views": "2",
+    "text": "恒指期货夜盘收跌 0.86%，报 22238 点，低水 173 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645860"
+  },
+  {
+    "post": "Financial_Express/3645859",
+    "datetime": "2026-11-20T19:00:40+00:00",
+    "views": "3",
+    "text": "恒生指数主连夜盘收跌 0.86%，报 22238 点。\n恒生科技指数主连夜盘收跌 1.57%，报 3456 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645859"
+  },
+  {
+    "post": "Financial_Express/3645858",
+    "datetime": "2026-11-20T19:00:22+00:00",
+    "views": "5",
+    "text": "恒指期货夜盘收跌 0.89%，报 22212.20 点，低水 198.60 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645858"
+  },
+  {
+    "post": "Financial_Express/3645857",
+    "datetime": "2026-11-20T18:59:02+00:00",
+    "views": "14",
+    "text": "据 Axios：美国特使威特科夫和库什纳与卡塔尔调解人会面，讨论伊朗问题。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645857"
+  },
+  {
+    "post": "Financial_Express/3645856",
+    "datetime": "2026-11-20T18:58:24+00:00",
+    "views": "17",
+    "text": "WTI 原油日内涨幅达 1.0%，报 83.27 美元/桶。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645856"
+  },
+  {
     "post": "Financial_Express/3645855",
     "datetime": "2026-11-20T18:57:23+00:00",
-    "views": "11",
+    "views": "54",
     "text": "美国中东问题特使威特科夫与特朗普女婿库什纳会见卡塔尔调解人，讨论伊朗问题。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3645854",
     "datetime": "2026-11-20T18:57:22+00:00",
-    "views": "11",
+    "views": "54",
     "text": "WTI 原油日内涨 1%，现报 83.27 美元/桶。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3645853",
     "datetime": "2026-11-20T18:55:02+00:00",
-    "views": "58",
+    "views": "67",
     "text": "Anthropic 午后早段触及低点后反弹，最新下跌 10%，报 87.25 美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3645852",
     "datetime": "2026-11-20T18:54:42+00:00",
-    "views": "60",
+    "views": "69",
     "text": "美国总统特朗普结束白宫记者会。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3645851",
     "datetime": "2026-11-20T18:53:30+00:00",
-    "views": "63",
+    "views": "71",
     "text": "云基础设施公司 CloudFerro 考虑波兰 IPO。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3645850",
     "datetime": "2026-11-20T18:50:02+00:00",
-    "views": "99",
+    "views": "106",
     "text": "交通部监察机构将审查联邦航空管理局对波音(BA.N)及其他飞机制造商的监管。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3645849",
     "datetime": "2026-11-20T18:49:48+00:00",
-    "views": "100",
+    "views": "107",
     "text": "德国 DAX 30 指数收跌 2.60%，报 24802.78 点，本周累计下跌 7.28%。\n法国 CAC 40 指数收跌 1.89%，报 7927.75 点，本周累跌 5.27%。\n意大利富时 MIB 指数收跌 2.48%，报 48703.72 点，本周累跌 6.08%；富时意大利综合股价银行指数收跌 2.58%，本周累跌 6.27%。\n英国富时 100 指数收跌 1.02%，报 10346.34 点，本周累跌 5.10%。\n荷兰 AEX 指数收跌 2.36%，本周累跌 6.56%。\n本周，波兰华沙 WIG 20 指数累跌 6.56%，挪威 OSE 基准指数累跌 3.51%、挪威 OBX 指数累跌 3.67%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3645848",
     "datetime": "2026-11-20T18:49:42+00:00",
-    "views": "100",
+    "views": "105",
     "text": "美国运输部监察长将审查联邦航空管理局对波音及其他飞机制造商的监管情况。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3645847",
     "datetime": "2026-11-20T18:49:02+00:00",
-    "views": "104",
+    "views": "109",
     "text": "CloudFerro 正考虑最早于明年在华沙上市。CloudFerro 选定摩根大通、裕信银行以及 Trigon 担任本次 IPO 承销机构。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3645845",
     "datetime": "2026-11-20T18:46:42+00:00",
-    "views": "108",
+    "views": "111",
     "text": "美国总统特朗普：俄罗斯不再介入委内瑞拉事务。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3645846",
     "datetime": "2026-11-20T18:46:42+00:00",
-    "views": "108",
+    "views": "112",
     "text": "美国总统特朗普：美国商务部长卢特尼克是‘天生的商人’。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3645844",
     "datetime": "2026-11-20T18:46:22+00:00",
-    "views": "108",
+    "views": "111",
     "text": "美国总统特朗普：对美国商务部长卢特尼克尚未失去信心。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3645843",
     "datetime": "2026-11-20T18:46:02+00:00",
-    "views": "108",
+    "views": "110",
     "text": "美国总统特朗普：未对美国商务部长卢特尼克失去信心。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3645840",
     "datetime": "2026-11-20T18:42:03+00:00",
-    "views": "145",
+    "views": "146",
     "text": "美国副总统万斯：阻止伊朗获得核弹的目标值得坚持。我的职责是支持总统。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +182,7 @@
   {
     "post": "Financial_Express/3645841",
     "datetime": "2026-11-20T18:42:03+00:00",
-    "views": "146",
+    "views": "147",
     "text": "美国参议员蒂姆·斯科特表示，英伟达前首席执行官黄仁勋将在公开听证会上作证。",
     "media_only": false,
     "image_url": null,
@@ -67066,77 +67111,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3638324"
-  },
-  {
-    "post": "Financial_Express/3638321",
-    "datetime": "2026-11-18T19:01:03+00:00",
-    "views": "40",
-    "text": "美联储会议纪要：多位与会者强调，必须对外传达这样的信息：不加息的决定并不代表他们对及时将通胀率拉回 2%目标的承诺有所减弱。。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638321"
-  },
-  {
-    "post": "Financial_Express/3638322",
-    "datetime": "2026-11-18T19:01:03+00:00",
-    "views": "40",
-    "text": "美联储会议纪要：与会者就人工智能建设相关问题进行了广泛讨论，包括对金融稳定的影响和潜在的生产力提升。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638322"
-  },
-  {
-    "post": "Financial_Express/3638323",
-    "datetime": "2026-11-18T19:01:03+00:00",
-    "views": "40",
-    "text": "美联储会议纪要：几位支持不改变利率的与会者表示，这一决定是势均力敌的。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638323"
-  },
-  {
-    "post": "Financial_Express/3638320",
-    "datetime": "2026-11-18T19:01:02+00:00",
-    "views": "39",
-    "text": "美联储会议纪要：几位支持加息的与会者表示，如果市场参与者清楚地了解可能会进一步收紧政策，他们本可以支持不改变利率。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638320"
-  },
-  {
-    "post": "Financial_Express/3638319",
-    "datetime": "2026-11-18T19:00:42+00:00",
-    "views": "46",
-    "text": "美联储官员在 10 月会议上聚焦通胀风险，部分官员认为需要更大幅度加息。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638319"
-  },
-  {
-    "post": "Financial_Express/3638318",
-    "datetime": "2026-11-18T19:00:38+00:00",
-    "views": "46",
-    "text": "美联储会议纪要：两名官员称 12 月加息超 25 个基点是有保障的，几乎所有与会者认为继续行动可能适宜。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638318"
-  },
-  {
-    "post": "Financial_Express/3638317",
-    "datetime": "2026-11-18T19:00:22+00:00",
-    "views": "46",
-    "text": "恒指期货夜盘收跌 0.44%，报 23111.62 点，低水 183.13 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638317"
-  },
-  {
-    "post": "Financial_Express/3638316",
-    "datetime": "2026-11-18T18:59:22+00:00",
-    "views": "62",
-    "text": "Arm CEO 哈斯曾与英伟达的猎头公司接洽\n金十数据 11 月 19 日讯，据外媒援引一名了解相关遴选过程的人士透露，英伟达董事会聘请的猎头公司海德思哲（Heidrick & Struggles）已接洽 Arm Holdings 首席执行官雷内·哈斯（Rene Haas），探讨其出任英伟达公司首席执行官的可能性。英伟达董事会此前决定寻找接替黄仁勋的人选。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638316"
   }
 ]
