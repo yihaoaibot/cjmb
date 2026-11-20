@@ -1,8 +1,44 @@
 [
   {
+    "post": "Financial_Express/3646223",
+    "datetime": "2026-11-20T22:00:13+00:00",
+    "views": "7",
+    "text": "美国弗吉尼亚州通报当地首例麻疹死亡病例，2026 年迄今美国累计死亡 12 例。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3646223"
+  },
+  {
+    "post": "Financial_Express/3646222",
+    "datetime": "2026-11-20T22:00:02+00:00",
+    "views": "8",
+    "text": "穆迪：英国的财政实力评级为“BAA1”，反映出其政府债务水平较高，且债务承受能力弱于其他相近国家。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3646222"
+  },
+  {
+    "post": "Financial_Express/3646221",
+    "datetime": "2026-11-20T21:59:42+00:00",
+    "views": "13",
+    "text": "穆迪关于英国的报告：稳定的前景反映了我们对经济和财政前景风险大致平衡的看法。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3646221"
+  },
+  {
+    "post": "Financial_Express/3646220",
+    "datetime": "2026-11-20T21:59:13+00:00",
+    "views": "19",
+    "text": "穆迪对英国的评级：AA3 评级平衡了富裕、多元化的经济和强大的机构，以及温和的增长前景和充满挑战的财政前景。\n与欧盟更紧密的经济合作以及人工智能带来的生产力提升，为经济增长带来了中期上行风险。\n随着通胀放缓，预计债务负担能力将趋于稳定，但利息支出相对于财政收入仍将处于高位。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3646220"
+  },
+  {
     "post": "Financial_Express/3646219",
     "datetime": "2026-11-20T21:58:22+00:00",
-    "views": "5",
+    "views": "22",
     "text": "美国天然气期货涨超 3.00%，现报 3.792 美元/百万英热。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +47,7 @@
   {
     "post": "Financial_Express/3646218",
     "datetime": "2026-11-20T21:58:02+00:00",
-    "views": "10",
+    "views": "25",
     "text": "穆迪关于英国的报告：随着通胀放缓，预计债务负担能力将趋于稳定，但利息支出相对于财政收入仍将处于高位。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +56,7 @@
   {
     "post": "Financial_Express/3646217",
     "datetime": "2026-11-20T21:56:42+00:00",
-    "views": "17",
+    "views": "30",
     "text": "穆迪评级关于英国的报告：与欧盟更紧密的经济合作以及人工智能带来的生产力提升，为经济增长带来了中期上行风险。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +65,7 @@
   {
     "post": "Financial_Express/3646216",
     "datetime": "2026-11-20T21:56:02+00:00",
-    "views": "23",
+    "views": "35",
     "text": "穆迪对英国的评级：AA3 评级平衡了富裕、多元化的经济和强大的机构，以及温和的增长前景和充满挑战的财政前景。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +74,7 @@
   {
     "post": "Financial_Express/3646215",
     "datetime": "2026-11-20T21:55:36+00:00",
-    "views": "29",
+    "views": "41",
     "text": "伊朗外长阿拉格奇对伊朗报纸表示：伊朗希望得到美国认真谈判的保证，然后再进一步推进。\n伊朗在《不扩散核武器条约》问题上的官方立场保持不变，该国的核政策也没有改变。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +83,7 @@
   {
     "post": "Financial_Express/3646214",
     "datetime": "2026-11-20T21:55:21+00:00",
-    "views": "32",
+    "views": "42",
     "text": "伊朗：德黑兰已与调解人讨论了建立信任措施的形式和性质。\n有可能获得高浓缩铀配方。\n有可能就高浓缩铀问题达成安排。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +92,7 @@
   {
     "post": "Financial_Express/3646213",
     "datetime": "2026-11-20T21:54:22+00:00",
-    "views": "34",
+    "views": "44",
     "text": "伊朗：有可能就高浓缩铀问题达成安排。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +101,7 @@
   {
     "post": "Financial_Express/3646212",
     "datetime": "2026-11-20T21:54:02+00:00",
-    "views": "36",
+    "views": "46",
     "text": "伊朗外长阿拉格齐：伊朗在《不扩散核武器条约》问题上的官方立场没有改变，伊朗的核政策也没有发生变化。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +110,7 @@
   {
     "post": "Financial_Express/3646211",
     "datetime": "2026-11-20T21:53:22+00:00",
-    "views": "38",
+    "views": "48",
     "text": "伊朗：有可能获得高浓缩铀配方。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +119,7 @@
   {
     "post": "Financial_Express/3646210",
     "datetime": "2026-11-20T21:53:02+00:00",
-    "views": "39",
+    "views": "48",
     "text": "阿拉格齐：伊朗在《不扩散核武器条约》问题上的官方立场保持不变，该国的核政策也没有改变。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +128,7 @@
   {
     "post": "Financial_Express/3646209",
     "datetime": "2026-11-20T21:51:42+00:00",
-    "views": "45",
+    "views": "54",
     "text": "伊朗外长阿拉格齐：霍尔木兹海峡将继续关闭，直到美国满足伊朗提出的七项条件。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +137,7 @@
   {
     "post": "Financial_Express/3646207",
     "datetime": "2026-11-20T21:51:22+00:00",
-    "views": "44",
+    "views": "52",
     "text": "伊朗外长阿拉格奇对伊朗报纸表示：伊朗希望得到美国认真谈判的保证，然后再进一步推进。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +146,7 @@
   {
     "post": "Financial_Express/3646208",
     "datetime": "2026-11-20T21:51:22+00:00",
-    "views": "44",
+    "views": "52",
     "text": "伊朗：德黑兰已与调解人讨论了建立信任措施的形式和性质。在美国满足伊朗提出的七项条件之前，霍尔木兹海峡将继续关闭。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +155,7 @@
   {
     "post": "Financial_Express/3646206",
     "datetime": "2026-11-20T21:51:02+00:00",
-    "views": "46",
+    "views": "54",
     "text": "伊朗外长阿拉格齐：霍尔木兹海峡两日方案仍在考虑之中。需要采取“建立信任”措施，确保美国不会恢复空袭。若美方提出有条件的方案，伊朗“愿意谈判”。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +164,7 @@
   {
     "post": "Financial_Express/3646205",
     "datetime": "2026-11-20T21:49:37+00:00",
-    "views": "48",
+    "views": "56",
     "text": "伊朗：霍尔木兹海峡两日方案仍在考虑之中。\n需要采取“建立信任”措施，美国不会恢复空袭。\n若美方提出有条件的方案，伊朗“愿意谈判”。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +173,7 @@
   {
     "post": "Financial_Express/3646204",
     "datetime": "2026-11-20T21:49:18+00:00",
-    "views": "47",
+    "views": "54",
     "text": "伊朗副外长兼伊朗首席谈判代表巴盖里表示，伊朗的红线包括浓缩铀不得离开该国，但他相信可以达成公平的解决方案。",
     "media_only": false,
     "image_url": null,
@@ -67696,50 +67732,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3638614"
-  },
-  {
-    "post": "Financial_Express/3638613",
-    "datetime": "2026-11-18T22:00:02+00:00",
-    "views": "28",
-    "text": "惠誉：哥斯达黎加稳定的展望反映了尽管面临持续挑战，但增长仍将保持有利的预期。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638613"
-  },
-  {
-    "post": "Financial_Express/3638611",
-    "datetime": "2026-11-18T21:59:42+00:00",
-    "views": "27",
-    "text": "民调：过半员工盼黄仁勋回归，副总裁巴克成最佳备选\n金十数据 11 月 19 日讯，据韩国媒体 19 日报道，职场社区 Blind 通过 AI 工具分析了本月 12 日至 16 日期间，531 名美国英伟达在职员工发布的 627 条相关帖子。结果显示，在黄仁勋辞职前后，英伟达内部希望其回归的呼声占据绝对主流。调查显示，高达 56%的员工认为黄仁勋应该回归；若回归无望，24%的人倾向于提拔能延续其商业愿景的内部高管，仅 20%的人支持引入外部人士。在继任者人选中，英伟达副总裁伊恩·巴克（Ian Buck）呼声最高。若将黄仁勋的个人支持度设为 100，巴克的相对支持度达到 27，位列候选人第一。Blind 数据分析师指出，员工对候选人的支持与其个人能力评价紧密挂钩，而要求黄仁勋留任的舆论，很大程度上源于员工对“无人能替代其能力”的深切不安。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638611"
-  },
-  {
-    "post": "Financial_Express/3638612",
-    "datetime": "2026-11-18T21:59:42+00:00",
-    "views": "27",
-    "text": "惠誉将哥斯达黎加评级上调至'BB+'，展望稳定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638612"
-  },
-  {
-    "post": "Financial_Express/3638609",
-    "datetime": "2026-11-18T21:59:22+00:00",
-    "views": "22",
-    "text": "穆迪：人工智能基础设施支出正支撑短期 GDP 增长。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638609"
-  },
-  {
-    "post": "Financial_Express/3638610",
-    "datetime": "2026-11-18T21:59:22+00:00",
-    "views": "24",
-    "text": "惠誉：上调哥斯达黎加评级反映其在全球不确定性中强劲且具韧性的经济增长。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638610"
   }
 ]
