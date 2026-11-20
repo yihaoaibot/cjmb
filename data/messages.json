@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3645894",
+    "datetime": "2026-11-20T19:18:22+00:00",
+    "views": "1",
+    "text": "比特币跌破 58000 美元，日内跌 6.60%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645894"
+  },
+  {
+    "post": "Financial_Express/3645893",
+    "datetime": "2026-11-20T19:17:51+00:00",
+    "views": "4",
+    "text": "OpenAI 称，公司推出 MedChemBench 基准测试集，用于评估 AI 模型在药物化学研究相关推理任务上的表现。该测试检验模型能否将分子结构与实验证据关联起来，解释实验结果、对比化合物并预测其性质。打造能够可靠支撑这类研究的 AI，是助力科学家研发更优质药物的一步。MedChemBench 基于已发表研究整理出 99 道测试题，以此衡量上述能力。\n在超高推理模式下，GPT‑6.2 Astra 得分 84.5%，GPT‑6 Astra 为 83.3%，GPT‑6.1 Sol 为 82.0%，GPT‑5.6 Sol 为 58.2%。GPT‑6 Astra 在重构分子结构、解读实验证据方面表现最优，但筛选化合物、预测数值性质对该模型而言难度更高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645893"
+  },
+  {
+    "post": "Financial_Express/3645892",
+    "datetime": "2026-11-20T19:17:22+00:00",
+    "views": "11",
+    "text": "OpenAI 推出 MedChemBench 药物化学基准\nOpenAI 称，公司推出 MedChemBench 基准测试集，用于评估 AI 模型在药物化学研究相关推理任务上的表现。该测试检验模型能否将分子结构与实验证据关联起来，解释实验结果、对比化合物并预测其性质。打造能够可靠支撑这类研究的 AI，是助力科学家研发更优质药物的一步。MedChemBench 基于已发表研究整理出 99 道测试题，以此衡量上述能力。在超高推理模式下，GPT‑6.2 Astra 得分 84.5%，GPT‑6 Astra 为 83.3%，GPT‑6.1 Sol 为 82.0%，GPT‑5.6 Sol 为 58.2%。GPT‑6 Astra 在重构分子结构、解读实验证据方面表现最优，但筛选化合物、预测数值性质对该模型而言难度更高。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645892"
+  },
+  {
     "post": "Financial_Express/3645891",
     "datetime": "2026-11-20T19:16:02+00:00",
-    "views": "7",
+    "views": "51",
     "text": "英伟达(NVDA.O)股价跌幅扩大至 9%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3645889",
     "datetime": "2026-11-20T19:15:22+00:00",
-    "views": "10",
+    "views": "53",
     "text": "纳指跌幅扩大至 4%\n金十数据 11 月 21 日讯，道指跌 0.91%，标普 500 指数跌 2.54%，纳指跌 4%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3645890",
     "datetime": "2026-11-20T19:15:22+00:00",
-    "views": "10",
+    "views": "53",
     "text": "比特币延续跌势，跌破 58000 美元。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3645888",
     "datetime": "2026-11-20T19:15:13+00:00",
-    "views": "12",
+    "views": "54",
     "text": "道琼斯指数跌 0.87%，标普 500 指数跌 2.52%，纳斯达克综合指数跌 4.00%。\n纳斯达克 100 指数跌 4.3%，半导体指数跌 8.95%。\n英伟达股价在尾盘成交量放大时跌幅扩大，最新下跌 9%，至 133 美元下方。\n比特币跌穿 58000 美元。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3645887",
     "datetime": "2026-11-20T19:14:42+00:00",
-    "views": "43",
+    "views": "53",
     "text": "英伟达股价在尾盘成交量放大时跌幅扩大，最新下跌 9%，至 133 美元下方。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3645885",
     "datetime": "2026-11-20T19:13:42+00:00",
-    "views": "49",
+    "views": "57",
     "text": "标普 500 指数跌幅扩大至 2.5%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3645884",
     "datetime": "2026-11-20T19:13:23+00:00",
-    "views": "51",
+    "views": "59",
     "text": "以太坊跌破 1600 美元，日内跌 9.06%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3645882",
     "datetime": "2026-11-20T19:13:22+00:00",
-    "views": "50",
+    "views": "57",
     "text": "纳指跌 4.01%，现报 22921.068 点；道指跌 0.82%，现报 48694.281 点；标普 500 指数跌 2.48%，现报 6998.040 点。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3645883",
     "datetime": "2026-11-20T19:13:22+00:00",
-    "views": "50",
+    "views": "58",
     "text": "费城联储行长保尔森主张以“审慎”步伐加息 愿意考虑连续行动\n费城联储行长安娜·保尔森主张以“审慎”的步伐加息，但表示，她愿意考虑在接下来的会议上连续加息，以帮助通胀回到美联储 2%的目标。“就利率需要朝哪个方向走而言，方向其实非常明确，”保尔森周五在纽约接受采访时表示。“利率需要更高。”保尔森表示，她倾向于以“审慎的方式”行动，部分原因是这样可以给家庭、企业和银行更多时间进行调整。不过，她没有支持某一种具体的加息节奏。“我并没有认定一定要隔次会议加息，或者每次会议都加息，”她说。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3645881",
     "datetime": "2026-11-20T19:12:42+00:00",
-    "views": "53",
+    "views": "60",
     "text": "英伟达股价跌幅扩大至 8.5%。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3645880",
     "datetime": "2026-11-20T19:11:42+00:00",
-    "views": "57",
+    "views": "92",
     "text": "美特使与卡塔尔官员会面 讨论美伊斡旋事宜\n金十数据 11 月 21 日讯，据 Axios 援引两名知情人士报道，美国总统特使威特科夫和特朗普女婿库什纳周四在柏林与卡塔尔首相穆罕默德及其特使阿里·塔瓦迪会面，讨论美伊斡旋事宜。卡塔尔正努力推动达成协议，以恢复停火、重启核谈判并避免战事重燃。报道称，卡塔尔首相一周前在土耳其会见伊朗外长阿拉格齐，并通报其与美国总统特朗普及副总统万斯的沟通情况。伊朗技术代表团本周也前往多哈继续磋商，伊朗外长阿拉格齐近期还访问了巴基斯坦和阿曼。不过，一名了解相关会谈的外交官表示，尽管近期各方密集接触，谈判仍未取得重大进展。特朗普周五表示，伊朗希望达成协议，但美方要求达成一项“真正的协议”。他此前告诉 Axios，暂不急于决定对伊下一步行动，将观察新年开始后的局势。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3645879",
     "datetime": "2026-11-20T19:11:22+00:00",
-    "views": "52",
+    "views": "56",
     "text": "特朗普特使会见卡塔尔官员 商讨推动重启美伊停火、恢复核谈判\n据报道援引两名知情人士消息，特朗普的特使史蒂夫・威特科夫与贾里德・库什纳周四在柏林会见卡塔尔高级官员，商讨推动重启美伊停火、恢复核谈判。报道称，卡塔尔首相穆罕默德・本・阿卜杜勒拉赫曼・阿勒萨尼与特使阿里・萨瓦迪出席本次会谈。消息人士表示，尽管开展此番外交斡旋，但会谈未取得实质性进展。特朗普周五称，伊朗希望达成协议，但仍不愿接受他认可的条款。\n🔥1",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3645878",
     "datetime": "2026-11-20T19:10:42+00:00",
-    "views": "54",
+    "views": "58",
     "text": "消息人士：美国证券交易委员会对英伟达(NVDA.O)的调查正在探索潜在的会计问题。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3645877",
     "datetime": "2026-11-20T19:10:02+00:00",
-    "views": "59",
+    "views": "63",
     "text": "消息人士称，美国证券交易委员会对英伟达的调查正在探索潜在的会计问题。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3645876",
     "datetime": "2026-11-20T19:09:22+00:00",
-    "views": "62",
+    "views": "67",
     "text": "美方审计 FAA 对波音及其供应商监管情况\n据监察机构官网消息，美国交通部监察长办公室已启动一项审计，核查美国联邦航空管理局（FAA）对波音、飞机制造商及其供应商的监管工作。该监察机构指出，“FAA 与波音在波音生产流程监管方面存在不足”。监察机构表示：“本次审计旨在评估 FAA 对国内外供应商所属飞机制造商质保体系监管的有效性。”波音代表暂未回应置评请求。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3645875",
     "datetime": "2026-11-20T19:08:22+00:00",
-    "views": "61",
+    "views": "64",
     "text": "OpenAI：向 Plus 用户推出 ChatGPTSpace。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +182,7 @@
   {
     "post": "Financial_Express/3645874",
     "datetime": "2026-11-20T19:07:42+00:00",
-    "views": "63",
+    "views": "65",
     "text": "OpenAI 向 Plus 用户推出 ChatGPT Space。",
     "media_only": false,
     "image_url": null,
@@ -66877,41 +66904,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3638384"
-  },
-  {
-    "post": "Financial_Express/3638383",
-    "datetime": "2026-11-18T19:19:02+00:00",
-    "views": "88",
-    "text": "联合健康扩大跌幅，最新下跌 10.7%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638383"
-  },
-  {
-    "post": "Financial_Express/3638382",
-    "datetime": "2026-11-18T19:18:40+00:00",
-    "views": "87",
-    "text": "对冲基金第三季度重燃对阿里巴巴的兴趣，同时转而减持百度。汇总了 1191 家对冲基金的 13F 申报发现，它们第三季净增持阿里巴巴 ADR 共计 550 万份，扭转了前两个季度的连续减仓。\n与此同时，对冲基金第三季减持百度 384 万份（第二季增持 350 万份）。美国知名对冲基金管理人 David Tepper 旗下 Appaloosa LP 在报告期内减持了前季增持的百度。传奇投资人 Stanley Druckenmiller 旗下的家族办公室 Duquesne Family Office LLC 也清仓前季建仓的百度。医药股继续获得对冲基金增持，包括再鼎医药和百济神州。蔚来和小鹏等电动汽车股遭减持。（彭博）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638382"
-  },
-  {
-    "post": "Financial_Express/3638381",
-    "datetime": "2026-11-18T19:18:02+00:00",
-    "views": "82",
-    "text": "对冲基金第三季重新拥抱阿里和富途 传奇投资人清仓百度\n对冲基金第三季度重燃对阿里巴巴的兴趣，同时转而减持百度。汇总了 1191 家对冲基金的 13F 申报发现，它们第三季净增持阿里巴巴 ADR 共计 550 万份，扭转了前两个季度的连续减仓。与此同时，对冲基金第三季减持百度 384 万份（第二季增持 350 万份）。美国知名对冲基金管理人 David Tepper 旗下 Appaloosa LP 在报告期内减持了前季增持的百度。传奇投资人 Stanley Druckenmiller 旗下的家族办公室 Duquesne Family Office LLC 也清仓前季建仓的百度。医药股继续获得对冲基金增持，包括再鼎医药和百济神州。蔚来和小鹏等电动汽车股遭减持。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638381"
-  },
-  {
-    "post": "Financial_Express/3638380",
-    "datetime": "2026-11-18T19:17:42+00:00",
-    "views": "84",
-    "text": "伊朗外长：伊朗与阿曼讨论防止战争重燃及建立独立地区安全框架\n金十数据 11 月 19 日讯，伊朗外长阿拉格齐表示，此次访问阿曼期间，他与阿曼外交大臣及阿曼苏丹举行了富有成效的会谈，重点讨论双边关系、地区局势、美国的侵略行为以及防止战争再次爆发的努力。阿拉格齐称，伊朗与阿曼在相关问题上的立场高度一致，并感谢阿曼作为最早参与相关外交努力的国家，在地区外交和冲突解决中发挥积极作用，认为有关努力应继续推进。双方还就建立新的独立地区安全框架进行了建设性讨论。阿拉格齐指出，地区国家越来越认同安全应由本地区内部力量维护，而不应受到外部干预。此外，伊朗、阿曼和乌兹别克斯坦三国外长举行三方会谈，讨论加强中亚与海湾地区互联互通、过境运输及物流合作。考虑到伊朗连接中亚与海湾地区的地理位置，三方同意继续磋商并推进相关合作。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3638380"
   }
 ]
