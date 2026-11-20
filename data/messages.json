@@ -1,8 +1,53 @@
 [
   {
+    "post": "Financial_Express/3645400",
+    "datetime": "2026-11-20T15:02:22+00:00",
+    "views": "2",
+    "text": "日本政府关键网络业务系统遭非法访问\n日本数字厅 20 日说，该厅运营的日本政府关键网络业务系统遭遇非法访问，政府内部资料可能已经外泄。数字厅 20 日发布新闻公报说，该厅运营的政府关键网络业务系统“政府解决方案服务”遭遇非法访问，经由该服务处理过的部分文件可能泄露。公报说，“政府解决方案服务”是面向政府机关的文件共享服务，用以在政府部门内部以及和外部相关人士之间共享会议资料等大容量文件。然而，数字厅于 11 月 12 日检测到可能有正规共享对象以外的非授权者访问了文件，随后展开调查。根据现阶段调查，已确认至少在今年 7 月 30 日至 11 月 12 日期间发生了非授权者访问，可能导致上传至“政府解决方案服务”的部分文件泄露。数字厅表示，不排除这些文件中包含个人信息。在检测到非法访问后，数字厅已于 12 日切断“政府解决方案服务”与外部之间的通信。就泄露文件中是否含有涉密资料以及泄露文件数量等，有关部门正在进行调查。不过，公报称，目前尚未确认因本次事件导致的个人信息被滥用。(新华社)",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645400"
+  },
+  {
+    "post": "Financial_Express/3645399",
+    "datetime": "2026-11-20T15:01:58+00:00",
+    "views": "4",
+    "text": "纳斯达克 100 指数跌幅收窄至 0.5%，此前一度跌 1.8%，Anthropic 跌幅收窄至不足 5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645399"
+  },
+  {
+    "post": "Financial_Express/3645398",
+    "datetime": "2026-11-20T15:00:42+00:00",
+    "views": "5",
+    "text": "美国 11 月密歇根大学消费者信心指数终值 51.5，预期 51.5，前值 51。\n美国 11 月密歇根大学现况指数终值 49.4，预期 51.6，前值 51。\n美国 11 月密歇根大学预期指数终值 52.9，预期 51，前值 50.9。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645398"
+  },
+  {
+    "post": "Financial_Express/3645397",
+    "datetime": "2026-11-20T15:00:29+00:00",
+    "views": "5",
+    "text": "欧元区 11 月消费者信心指数初值 -16.9，预期 -18，前值 -17.9。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645397"
+  },
+  {
+    "post": "Financial_Express/3645396",
+    "datetime": "2026-11-20T15:00:28+00:00",
+    "views": "5",
+    "text": "美国 11 月一年期通胀率预期终值 3.7%，预期 4.20%，前值 4.30%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3645396"
+  },
+  {
     "post": "Financial_Express/3645395",
     "datetime": "2026-11-20T15:00:25+00:00",
-    "views": "1",
+    "views": "5",
     "text": "夜盘期货收盘\n液化石油气连续跌 7.11%，燃料油连续跌 4.57%，20 号胶连续跌 3.28%，苯乙烯连续跌 3.06%，天然橡胶连续跌 2.73%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +56,7 @@
   {
     "post": "Financial_Express/3645393",
     "datetime": "2026-11-20T15:00:24+00:00",
-    "views": "1",
+    "views": "5",
     "text": "美国 11 月五至十年期通胀率预期终值 3.3%，预期 3.40%，前值 3.40%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +65,7 @@
   {
     "post": "Financial_Express/3645394",
     "datetime": "2026-11-20T15:00:24+00:00",
-    "views": "1",
+    "views": "5",
     "text": "道琼斯指数延续涨势；最新上涨 0.84%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +74,7 @@
   {
     "post": "Financial_Express/3645391",
     "datetime": "2026-11-20T15:00:23+00:00",
-    "views": "1",
+    "views": "5",
     "text": "美国 11 月密歇根大学现况指数终值 49.4，预期 51.6，前值 51。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +83,7 @@
   {
     "post": "Financial_Express/3645392",
     "datetime": "2026-11-20T15:00:23+00:00",
-    "views": "1",
+    "views": "5",
     "text": "美国 11 月密歇根大学预期指数终值 52.9，预期 51，前值 50.9。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +92,7 @@
   {
     "post": "Financial_Express/3645390",
     "datetime": "2026-11-20T15:00:05+00:00",
-    "views": "2",
+    "views": "5",
     "text": "Anthropic 将跌幅收窄至 5%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +101,7 @@
   {
     "post": "Financial_Express/3645388",
     "datetime": "2026-11-20T15:00:02+00:00",
-    "views": "2",
+    "views": "5",
     "text": "美国 11 月密歇根大学消费者信心指数终值 51.5，预期 51.6，初值 51。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +110,7 @@
   {
     "post": "Financial_Express/3645389",
     "datetime": "2026-11-20T15:00:02+00:00",
-    "views": "2",
+    "views": "5",
     "text": "美国 11 月密歇根大学消费者预期指数终值 52.9，预期 51.2，初值 50.9。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +119,7 @@
   {
     "post": "Financial_Express/3645386",
     "datetime": "2026-11-20T15:00:01+00:00",
-    "views": "2",
+    "views": "5",
     "text": "美国 11 月密歇根大学 5 年通胀预期终值 3.3，预期 3.4，初值 3.4。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +128,7 @@
   {
     "post": "Financial_Express/3645387",
     "datetime": "2026-11-20T15:00:01+00:00",
-    "views": "2",
+    "views": "5",
     "text": "美国 11 月密歇根大学 1 年通胀预期终值 3.7，预期 4.2，初值 4.3。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +137,7 @@
   {
     "post": "Financial_Express/3645385",
     "datetime": "2026-11-20T15:00:00+00:00",
-    "views": "2",
+    "views": "5",
     "text": "美国 11 月密歇根大学消费者现况指数终值 49.4，预期 52.3，初值 51。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +146,7 @@
   {
     "post": "Financial_Express/3645384",
     "datetime": "2026-11-20T14:59:04+00:00",
-    "views": "3",
+    "views": "35",
     "text": "纳斯达克指数跌幅收窄；最新下跌 0.57%",
     "media_only": false,
     "image_url": null,
@@ -110,7 +155,7 @@
   {
     "post": "Financial_Express/3645383",
     "datetime": "2026-11-20T14:58:42+00:00",
-    "views": "3",
+    "views": "35",
     "text": "10 月末招银理财规模首破 3 万亿元\n截至 10 月末，招银理财在可比理财公司中继续居首，存续规模率先站上 3 万亿元关口。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +164,7 @@
   {
     "post": "Financial_Express/3645381",
     "datetime": "2026-11-20T14:57:02+00:00",
-    "views": "34",
+    "views": "36",
     "text": "标普 500 指数转涨，扭转了此前高达 0.6%的跌幅。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +173,7 @@
   {
     "post": "Financial_Express/3645382",
     "datetime": "2026-11-20T14:57:02+00:00",
-    "views": "34",
+    "views": "35",
     "text": "Anthropic 跌幅收窄至不足 6%，此前一度跌约 10%。",
     "media_only": false,
     "image_url": null,
@@ -66598,77 +66643,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3637922"
-  },
-  {
-    "post": "Financial_Express/3637921",
-    "datetime": "2026-11-18T15:03:04+00:00",
-    "views": "33",
-    "text": "美国官员称，中东问题特使威特科夫与特朗普女婿库什纳预计将于周四抵达柏林，与乌克兰官员及新组建的八人欧洲谈判团队举行会谈。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637921"
-  },
-  {
-    "post": "Financial_Express/3637920",
-    "datetime": "2026-11-18T15:03:03+00:00",
-    "views": "33",
-    "text": "美国国土安全部长穆林：人工智能、量子计算和生物技术领域存在对抗风险。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637920"
-  },
-  {
-    "post": "Financial_Express/3637919",
-    "datetime": "2026-11-18T15:02:37+00:00",
-    "views": "34",
-    "text": "10 月，美国现有住房的成屋签约销售跌至新的历史低点，高企的抵押贷款利率挤压了住房需求。\n美国全国房地产经纪人协会（NAR）的成屋签约销售指数上月下跌 4.7%，至 63，为 2001 年有记录以来的最低读数。与去年同期相比，成屋签约销售暴跌约 17%。\n这些数据是最新一系列报告显示美国房地产市场正承受高借贷成本和高房价双重压力的最新证据。衡量合同完成情况的现有房屋销量已跌至 2010 年以来的最低水平，短期内几乎没有改善迹象。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637919"
-  },
-  {
-    "post": "Financial_Express/3637918",
-    "datetime": "2026-11-18T15:02:23+00:00",
-    "views": "34",
-    "text": "金十图示：2026 年 11 月 18 日（周三）全球股市指数-美洲市场（盘初）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637918"
-  },
-  {
-    "post": "Financial_Express/3637917",
-    "datetime": "2026-11-18T15:02:22+00:00",
-    "views": "34",
-    "text": "英国央行行长贝利：货币政策并非按照预设路径推进。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637917"
-  },
-  {
-    "post": "Financial_Express/3637915",
-    "datetime": "2026-11-18T15:01:43+00:00",
-    "views": "34",
-    "text": "乌克兰国家石油天然气公司首席执行官称，俄罗斯袭击了该公司位于波尔塔瓦州的设施。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637915"
-  },
-  {
-    "post": "Financial_Express/3637916",
-    "datetime": "2026-11-18T15:01:43+00:00",
-    "views": "34",
-    "text": "乌无人机袭击致俄原油日加工量较 10 月底下降约 45%\n金十数据 11 月 18 日讯，据业内人士估算，乌克兰自 10 月下旬以来加大无人机袭击力度，导致俄炼油厂原油日加工量下降约 45%，从 10 月底的逾 70 万吨降至约 40 万吨（约合每日 300 万桶）。俄罗斯 35 家主要炼油厂中，已有 15 家因袭击而运营受阻或停工，高于上周中期的 9 家，受影响设施包括梁赞、雅罗斯拉夫尔、基里希及伏尔加河地区的炼油厂。同期受袭炼油厂的名义产能约占全国原油初次加工总产能的 54%，但这并不等于实际加工量损失比例。由于产能是逐步下降的，11 月平均日加工量仍超过 50 万吨，较 9 月和 10 月低约 5%至 10%。俄罗斯部分地区已面临燃料短缺，港口遇袭也限制了出口能力；炼油量下降可能进一步收紧全球燃料供应，并影响俄罗斯履行向美国出口柴油的协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637916"
-  },
-  {
-    "post": "Financial_Express/3637914",
-    "datetime": "2026-11-18T15:01:19+00:00",
-    "views": "34",
-    "text": "记者获悉，11 月 16 日，易方达基金旗下全资子公司易方达前沿科技（广东）有限公司正式成立。这意味着，在历经近半年的筹备后，这家备受瞩目的基金系科技子公司终于正式亮相。（中国基金报）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3637914"
   }
 ]
