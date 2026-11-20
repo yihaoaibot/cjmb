@@ -1,5 +1,89 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-20T06:57:13.612291+00:00","clsvipUpdated":"2026-11-20T06:57:24.592878+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月20日</h2><div class="feed"><article class="item" data-search="梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口和国产汽车
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-20T06:59:10.661102+00:00","clsvipUpdated":"2026-11-20T06:59:18.774424+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月20日</h2><div class="feed"><article class="item" data-search="欧盟就 esg 信息披露规则修订达成临时协议
+欧盟理事会与欧洲议会发布声明称，双方已就欧盟境内发售金融产品可持续信息披露框架的全面修订达成临时协议。本次修订将更新现行《可持续金融披露条例》（sfdr）。该条例原本要求市场主体披露其如何将 esg 可持续风险与负面影响纳入投资产品设计。新版 sfdr 新增三类金融产品标签：可持续类、转型类、esg 基础类。新规替换原有概念，旨在应对市场对“漂绿”问题的担忧。“归入对应类别的产品，至少 70%投资需契合其选定的可持续发展策略。”相关产品必须排除对有害行业及业务的投资。化石燃料企业可纳入转型类产品的投资标的，但企业需制定符合《巴黎协定》的温室气体减排方案，将 20%资本开支投向符合欧盟分类法的经济活动，并持续提高该占比。"><div class="time">14:58</div><div class="content"><div class="text" data-full="欧盟就 ESG 信息披露规则修订达成临时协议
+欧盟理事会与欧洲议会发布声明称，双方已就欧盟境内发售金融产品可持续信息披露框架的全面修订达成临时协议。本次修订将更新现行《可持续金融披露条例》（SFDR）。该条例原本要求市场主体披露其如何将 ESG 可持续风险与负面影响纳入投资产品设计。新版 SFDR 新增三类金融产品标签：可持续类、转型类、ESG 基础类。新规替换原有概念，旨在应对市场对“漂绿”问题的担忧。“归入对应类别的产品，至少 70%投资需契合其选定的可持续发展策略。”相关产品必须排除对有害行业及业务的投资。化石燃料企业可纳入转型类产品的投资标的，但企业需制定符合《巴黎协定》的温室气体减排方案，将 20%资本开支投向符合欧盟分类法的经济活动，并持续提高该占比。" data-short="欧盟就 ESG 信息披露规则修订达成临时协议
+欧盟理事会与欧洲议会发布声明称，双方已就欧盟境内发售金融产品可持续信息披露框架的全面修订达成临时协议。本次修订将更新现行《可持续金融披露条例》（SFDR）。该条例原本要求市场主体披露其如何将 ESG 可持续风险与负面影响纳入投资产品设计。新版 SFDR 新增三类金融产品标签：可持续类、转型类、ESG 基础类。新规...">欧盟就 ESG 信息披露规则修订达成临时协议
+欧盟理事会与欧洲议会发布声明称，双方已就欧盟境内发售金融产品可持续信息披露框架的全面修订达成临时协议。本次修订将更新现行《可持续金融披露条例》（SFDR）。该条例原本要求市场主体披露其如何将 ESG 可持续风险与负面影响纳入投资产品设计。新版 SFDR 新增三类金融产品标签：可持续类、转型类、ESG 基础类。新规...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="福特汽车（中国）有限公司召回部分进口福特 f-150 汽车
+金十数据 11 月 20 日讯，日前，福特汽车（中国）有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》《机动车排放召回管理规定》的要求，向国家市场监督管理总局备案了召回计划。召回编号 e2026m0148v：自即日起，召回 2023 年 5 月 5 日至 2024 年 10 月 16 日期间生产的部分 2023-2025 年款福特 f-150 汽车，共计 54 辆。福特汽车（中国）有限公司将委托福特中国授权经销商，免费为召回范围内的车辆检查燃油箱前、后固定带是否正确固定至车架纵梁。如果不符合要求，则予以更换，以消除不合理排放、起火风险和安全隐患。"><div class="time">14:58</div><div class="content"><div class="text" data-full="福特汽车（中国）有限公司召回部分进口福特 F-150 汽车
+金十数据 11 月 20 日讯，日前，福特汽车（中国）有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》《机动车排放召回管理规定》的要求，向国家市场监督管理总局备案了召回计划。召回编号 E2026M0148V：自即日起，召回 2023 年 5 月 5 日至 2024 年 10 月 16 日期间生产的部分 2023-2025 年款福特 F-150 汽车，共计 54 辆。福特汽车（中国）有限公司将委托福特中国授权经销商，免费为召回范围内的车辆检查燃油箱前、后固定带是否正确固定至车架纵梁。如果不符合要求，则予以更换，以消除不合理排放、起火风险和安全隐患。" data-short="福特汽车（中国）有限公司召回部分进口福特 F-150 汽车
+金十数据 11 月 20 日讯，日前，福特汽车（中国）有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》《机动车排放召回管理规定》的要求，向国家市场监督管理总局备案了召回计划。召回编号 E2026M0148V：自即日起，召回 2023 年 5 月 5 日至 2024 年 1...">福特汽车（中国）有限公司召回部分进口福特 F-150 汽车
+金十数据 11 月 20 日讯，日前，福特汽车（中国）有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》《机动车排放召回管理规定》的要求，向国家市场监督管理总局备案了召回计划。召回编号 E2026M0148V：自即日起，召回 2023 年 5 月 5 日至 2024 年 1...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="永辉定制花香蓝莓合作基地正式揭牌
+11 月 19 日，永辉超市与鑫荣懋集团联合打造的永辉定制花香蓝莓合作基地在云南红河州蒙自市正式揭牌。"><div class="time">14:58</div><div class="content"><div class="text" data-full="永辉定制花香蓝莓合作基地正式揭牌
+11 月 19 日，永辉超市与鑫荣懋集团联合打造的永辉定制花香蓝莓合作基地在云南红河州蒙自市正式揭牌。" data-short="永辉定制花香蓝莓合作基地正式揭牌
+11 月 19 日，永辉超市与鑫荣懋集团联合打造的永辉定制花香蓝莓合作基地在云南红河州蒙自市正式揭牌。">永辉定制花香蓝莓合作基地正式揭牌
+11 月 19 日，永辉超市与鑫荣懋集团联合打造的永辉定制花香蓝莓合作基地在云南红河州蒙自市正式揭牌。</div></div></article><article class="item" data-search="俄罗斯外交部：未就下一轮乌克兰谈判达成一致。"><div class="time">14:58</div><div class="content"><div class="text" data-full="俄罗斯外交部：未就下一轮乌克兰谈判达成一致。" data-short="俄罗斯外交部：未就下一轮乌克兰谈判达成一致。">俄罗斯外交部：未就下一轮乌克兰谈判达成一致。</div></div></article><article class="item" data-search="华泰证券洪灿辉：三季报盈利现金流双改善，夯实 a 股中长期价值
+近期，受海外长端利率走高、全球科技股回调等外部因素扰动，a 股市场出现阶段性震荡。对此，华泰证券研究所宏观战略首席研究员洪灿辉在接受记者采访时表示，越是在市场震荡期，财报数据越是检验长期价值的试金石，上市公司三季报展现出的盈利修复与结构亮点，正为 a 股中长期配置价值提供扎实的基本面支撑。洪灿辉指出，受益于外需走强、政策托举及工业品价格回升，前三季度全 a 上市公司营收同比增长 5.9%，归母净利润同比增长 8.5%，企业利润跑赢营收；同时，年内上市公司现金分红总额达 8010 亿元，创历史同期新高。谈及后续走势，洪灿辉表示，5500 亿元地方债结存限额、8000 亿元新型政策性金融工具及货币政策正形成合力，叠加展望 2027 年聚焦城市更新与“六张网”建设的财政发力，将持续巩固企业盈利修复势头。他强调，尽管短期市场难免波动，但拉长视角看，盈利质量与现金流的持续改善有望支撑 a 股走出震荡、兑现内在价值。（每经）"><div class="time">14:58</div><div class="content"><div class="text" data-full="华泰证券洪灿辉：三季报盈利现金流双改善，夯实 A 股中长期价值
+近期，受海外长端利率走高、全球科技股回调等外部因素扰动，A 股市场出现阶段性震荡。对此，华泰证券研究所宏观战略首席研究员洪灿辉在接受记者采访时表示，越是在市场震荡期，财报数据越是检验长期价值的试金石，上市公司三季报展现出的盈利修复与结构亮点，正为 A 股中长期配置价值提供扎实的基本面支撑。洪灿辉指出，受益于外需走强、政策托举及工业品价格回升，前三季度全 A 上市公司营收同比增长 5.9%，归母净利润同比增长 8.5%，企业利润跑赢营收；同时，年内上市公司现金分红总额达 8010 亿元，创历史同期新高。谈及后续走势，洪灿辉表示，5500 亿元地方债结存限额、8000 亿元新型政策性金融工具及货币政策正形成合力，叠加展望 2027 年聚焦城市更新与“六张网”建设的财政发力，将持续巩固企业盈利修复势头。他强调，尽管短期市场难免波动，但拉长视角看，盈利质量与现金流的持续改善有望支撑 A 股走出震荡、兑现内在价值。（每经）" data-short="华泰证券洪灿辉：三季报盈利现金流双改善，夯实 A 股中长期价值
+近期，受海外长端利率走高、全球科技股回调等外部因素扰动，A 股市场出现阶段性震荡。对此，华泰证券研究所宏观战略首席研究员洪灿辉在接受记者采访时表示，越是在市场震荡期，财报数据越是检验长期价值的试金石，上市公司三季报展现出的盈利修复与结构亮点，正为 A 股中长期配置价值提供扎实的基本面支撑。洪灿辉...">华泰证券洪灿辉：三季报盈利现金流双改善，夯实 A 股中长期价值
+近期，受海外长端利率走高、全球科技股回调等外部因素扰动，A 股市场出现阶段性震荡。对此，华泰证券研究所宏观战略首席研究员洪灿辉在接受记者采访时表示，越是在市场震荡期，财报数据越是检验长期价值的试金石，上市公司三季报展现出的盈利修复与结构亮点，正为 A 股中长期配置价值提供扎实的基本面支撑。洪灿辉...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="福特汽车（中国）有限公司召回部分进口福特 f-150 汽车
+日前，福特汽车（中国）有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》《机动车排放召回管理规定》的要求，向国家市场监督管理总局备案了召回计划。
+
+召回编号 e2026m0148v：自即日起，召回 2023 年 5 月 5 日至 2024 年 10 月 16 日期间生产的部分 2023-2025 年款福特 f-150 汽车，共计 54 辆。
+
+本次召回范围内的部分车辆，燃油箱前、后固定带可能未正确固定至车架纵梁。在车辆使用过程中，燃油箱可能松脱甚至在行驶中脱落，造成燃油泄漏，发动机熄火，并可能对其他道路使用者造成危险，存在不合理排放、起火风险和安全隐患。
+
+福特汽车（中国）有限公司将委托福特中国授权经销商，免费为召回范围内的车辆检查燃油箱前、后固定带是否正确固定至车架纵梁。如果不符合要求，则予以更换，以消除不合理排放、起火风险和安全隐患。"><div class="time">14:57</div><div class="content"><div class="text" data-full="福特汽车（中国）有限公司召回部分进口福特 F-150 汽车
+日前，福特汽车（中国）有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》《机动车排放召回管理规定》的要求，向国家市场监督管理总局备案了召回计划。
+
+召回编号 E2026M0148V：自即日起，召回 2023 年 5 月 5 日至 2024 年 10 月 16 日期间生产的部分 2023-2025 年款福特 F-150 汽车，共计 54 辆。
+
+本次召回范围内的部分车辆，燃油箱前、后固定带可能未正确固定至车架纵梁。在车辆使用过程中，燃油箱可能松脱甚至在行驶中脱落，造成燃油泄漏，发动机熄火，并可能对其他道路使用者造成危险，存在不合理排放、起火风险和安全隐患。
+
+福特汽车（中国）有限公司将委托福特中国授权经销商，免费为召回范围内的车辆检查燃油箱前、后固定带是否正确固定至车架纵梁。如果不符合要求，则予以更换，以消除不合理排放、起火风险和安全隐患。" data-short="福特汽车（中国）有限公司召回部分进口福特 F-150 汽车
+日前，福特汽车（中国）有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》《机动车排放召回管理规定》的要求，向国家市场监督管理总局备案了召回计划。
+
+召回编号 E2026M0148V：自即日起，召回 2023 年 5 月 5 日至 2024 年 10 月 16 日期间生产的部...">福特汽车（中国）有限公司召回部分进口福特 F-150 汽车
+日前，福特汽车（中国）有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》《机动车排放召回管理规定》的要求，向国家市场监督管理总局备案了召回计划。
+
+召回编号 E2026M0148V：自即日起，召回 2023 年 5 月 5 日至 2024 年 10 月 16 日期间生产的部...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="俄罗斯外交部：正在筹备欧盟代表访问事宜。"><div class="time">14:57</div><div class="content"><div class="text" data-full="俄罗斯外交部：正在筹备欧盟代表访问事宜。" data-short="俄罗斯外交部：正在筹备欧盟代表访问事宜。">俄罗斯外交部：正在筹备欧盟代表访问事宜。</div></div></article><article class="item" data-search="俄罗斯外交部：正在筹备欧盟代表的访问，未就下一轮乌克兰谈判达成一致。"><div class="time">14:57</div><div class="content"><div class="text" data-full="俄罗斯外交部：正在筹备欧盟代表的访问，未就下一轮乌克兰谈判达成一致。" data-short="俄罗斯外交部：正在筹备欧盟代表的访问，未就下一轮乌克兰谈判达成一致。">俄罗斯外交部：正在筹备欧盟代表的访问，未就下一轮乌克兰谈判达成一致。</div></div></article><article class="item" data-search="习近平会见马来西亚总理安瓦尔
+金十数据 11 月 20 日讯，11 月 20 日中午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的马来西亚总理安瓦尔。习近平强调，双方要深化高水平战略协作，保持高层战略沟通，相互支持彼此维护国家主权、安全、发展利益；要加强发展战略对接，挖掘新兴合作潜力，高质量建设和运营好重点项目，做大做优农产品贸易；扩大旅游、教育等合作，进一步密切民间和地方交流；要协同推进全球治理改革，加强在亚太经合组织等多边框架内协调和配合，携手践行真正的多边主义，维护广大发展中国家共同利益。安瓦尔表示，马方愿同中方加强战略协作，发挥好两国合作机制作用，运营好基础设施建设重点项目，加强人工智能等新兴领域合作，促进文明交流对话，加强在国际事务中的协调和配合，不断提升马中关系水平。"><div class="time">14:57</div><div class="content"><div class="text" data-full="习近平会见马来西亚总理安瓦尔
+金十数据 11 月 20 日讯，11 月 20 日中午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的马来西亚总理安瓦尔。习近平强调，双方要深化高水平战略协作，保持高层战略沟通，相互支持彼此维护国家主权、安全、发展利益；要加强发展战略对接，挖掘新兴合作潜力，高质量建设和运营好重点项目，做大做优农产品贸易；扩大旅游、教育等合作，进一步密切民间和地方交流；要协同推进全球治理改革，加强在亚太经合组织等多边框架内协调和配合，携手践行真正的多边主义，维护广大发展中国家共同利益。安瓦尔表示，马方愿同中方加强战略协作，发挥好两国合作机制作用，运营好基础设施建设重点项目，加强人工智能等新兴领域合作，促进文明交流对话，加强在国际事务中的协调和配合，不断提升马中关系水平。" data-short="习近平会见马来西亚总理安瓦尔
+金十数据 11 月 20 日讯，11 月 20 日中午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的马来西亚总理安瓦尔。习近平强调，双方要深化高水平战略协作，保持高层战略沟通，相互支持彼此维护国家主权、安全、发展利益；要加强发展战略对接，挖掘新兴合作潜力，高质量建设和运营好重点项目，做大做优农产品贸易；扩大旅游...">习近平会见马来西亚总理安瓦尔
+金十数据 11 月 20 日讯，11 月 20 日中午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的马来西亚总理安瓦尔。习近平强调，双方要深化高水平战略协作，保持高层战略沟通，相互支持彼此维护国家主权、安全、发展利益；要加强发展战略对接，挖掘新兴合作潜力，高质量建设和运营好重点项目，做大做优农产品贸易；扩大旅游...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司召回部分进口汽车
+日前，捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。
+
+一、捷豹路虎（中国）投资有限公司
+
+召回编号 s2026m0151v：自即日起，召回 2023 年 12 月 21 日至 2024 年 9 月 20 日生产的部分进口路虎揽胜运动版汽车，共计 17 辆。
+
+本次召回范围内的部分车辆，后副车架可能存在裂纹，裂纹可能影响车辆的结构完整性，导致后副车架强度降低。极端情况下，可能影响车辆行驶稳定性，增加发生事故的风险，存在安全隐患。
+
+捷豹路虎（中国）投资有限公司将免费为召回范围内的车辆进行检查，如果后副车架存在裂纹，则予以更换，以消除安全隐患。
+
+二、捷豹路虎（宁波）贸易有限公司
+
+召回编号 s2026m0152v：自即日起，召回 2026 年 6 月 3 日生产的进口路虎卫士汽车，共计 1 辆。
+
+本次召回范围内的车辆，动力总成控制模块（pcm）的印刷线路板（pcb）在装配过程中，可能发生装配定位偏差，导致 pcb 产生变形。极端情况下，可能造成车辆行驶中失去动力，存在安全隐患。
+
+捷豹路虎（宁波）贸易有限公司将免费为召回范围内的车辆更换 pcm 模块，以消除安全隐患。"><div class="time">14:57</div><div class="content"><div class="text" data-full="捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司召回部分进口汽车
+日前，捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。
+
+一、捷豹路虎（中国）投资有限公司
+
+召回编号 S2026M0151V：自即日起，召回 2023 年 12 月 21 日至 2024 年 9 月 20 日生产的部分进口路虎揽胜运动版汽车，共计 17 辆。
+
+本次召回范围内的部分车辆，后副车架可能存在裂纹，裂纹可能影响车辆的结构完整性，导致后副车架强度降低。极端情况下，可能影响车辆行驶稳定性，增加发生事故的风险，存在安全隐患。
+
+捷豹路虎（中国）投资有限公司将免费为召回范围内的车辆进行检查，如果后副车架存在裂纹，则予以更换，以消除安全隐患。
+
+二、捷豹路虎（宁波）贸易有限公司
+
+召回编号 S2026M0152V：自即日起，召回 2026 年 6 月 3 日生产的进口路虎卫士汽车，共计 1 辆。
+
+本次召回范围内的车辆，动力总成控制模块（PCM）的印刷线路板（PCB）在装配过程中，可能发生装配定位偏差，导致 PCB 产生变形。极端情况下，可能造成车辆行驶中失去动力，存在安全隐患。
+
+捷豹路虎（宁波）贸易有限公司将免费为召回范围内的车辆更换 PCM 模块，以消除安全隐患。" data-short="捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司召回部分进口汽车
+日前，捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。
+
+一、捷豹路虎（中国）投资有限公司
+
+召回编号 S2026M0151V：自即日起，召回 2023 年 1...">捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司召回部分进口汽车
+日前，捷豹路虎（中国）投资有限公司、捷豹路虎（宁波）贸易有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。
+
+一、捷豹路虎（中国）投资有限公司
+
+召回编号 S2026M0151V：自即日起，召回 2023 年 1...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司召回部分进口和国产汽车
 日前，梅赛德斯-奔驰（中国）汽车销售有限公司、北京奔驰汽车有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。
 
 一、梅赛德斯-奔驰（中国）汽车销售有限公司
@@ -35,7 +119,7 @@
 
 一、梅赛德斯-奔驰（中国）汽车销售有限公司
 
-召回编号 S2026M0149V：自即日起，召...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="上证 50etf 华夏（510050）成交额突破 215 亿，刷新此前在 2026 年 1 月 28 日创下的 214.5 亿元的历史天量。"><div class="time">14:56</div><div class="content"><div class="text" data-full="上证 50ETF 华夏（510050）成交额突破 215 亿，刷新此前在 2026 年 1 月 28 日创下的 214.5 亿元的历史天量。" data-short="上证 50ETF 华夏（510050）成交额突破 215 亿，刷新此前在 2026 年 1 月 28 日创下的 214.5 亿元的历史天量。">上证 50ETF 华夏（510050）成交额突破 215 亿，刷新此前在 2026 年 1 月 28 日创下的 214.5 亿元的历史天量。</div></div></article><article class="item" data-search="上证 50etf 华夏（510050）强势拉升翻红，成交额超 220 亿元创历史最高成交记录，较昨日同时刻放量近 10 倍。"><div class="time">14:56</div><div class="content"><div class="text" data-full="上证 50ETF 华夏（510050）强势拉升翻红，成交额超 220 亿元创历史最高成交记录，较昨日同时刻放量近 10 倍。" data-short="上证 50ETF 华夏（510050）强势拉升翻红，成交额超 220 亿元创历史最高成交记录，较昨日同时刻放量近 10 倍。">上证 50ETF 华夏（510050）强势拉升翻红，成交额超 220 亿元创历史最高成交记录，较昨日同时刻放量近 10 倍。</div></div></article><article class="item" data-search="银行股尾盘拉升，工商银行涨超 3%
+召回编号 S2026M0149V：自即日起，召...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="上证 50etf 华夏（510050）成交额突破 215 亿，较昨日全天增超 7 倍，刷新此前在 2026 年 1 月 28 日创下的 214.5 亿元的历史天量。"><div class="time">14:56</div><div class="content"><div class="text" data-full="上证 50ETF 华夏（510050）成交额突破 215 亿，较昨日全天增超 7 倍，刷新此前在 2026 年 1 月 28 日创下的 214.5 亿元的历史天量。" data-short="上证 50ETF 华夏（510050）成交额突破 215 亿，较昨日全天增超 7 倍，刷新此前在 2026 年 1 月 28 日创下的 214.5 亿元的历史天量。">上证 50ETF 华夏（510050）成交额突破 215 亿，较昨日全天增超 7 倍，刷新此前在 2026 年 1 月 28 日创下的 214.5 亿元的历史天量。</div></div></article><article class="item" data-search="上证 50etf 华夏（510050）强势拉升翻红，成交额超 220 亿元创历史最高成交记录，较昨日同时刻放量近 10 倍。"><div class="time">14:56</div><div class="content"><div class="text" data-full="上证 50ETF 华夏（510050）强势拉升翻红，成交额超 220 亿元创历史最高成交记录，较昨日同时刻放量近 10 倍。" data-short="上证 50ETF 华夏（510050）强势拉升翻红，成交额超 220 亿元创历史最高成交记录，较昨日同时刻放量近 10 倍。">上证 50ETF 华夏（510050）强势拉升翻红，成交额超 220 亿元创历史最高成交记录，较昨日同时刻放量近 10 倍。</div></div></article><article class="item" data-search="银行股尾盘拉升，工商银行涨超 3%
 银行股尾盘拉升，工商银行涨超 3%，建设银行、交通银行、中国银行跟涨。"><div class="time">14:56</div><div class="content"><div class="text" data-full="银行股尾盘拉升，工商银行涨超 3%
 银行股尾盘拉升，工商银行涨超 3%，建设银行、交通银行、中国银行跟涨。" data-short="银行股尾盘拉升，工商银行涨超 3%
 银行股尾盘拉升，工商银行涨超 3%，建设银行、交通银行、中国银行跟涨。">银行股尾盘拉升，工商银行涨超 3%
@@ -773,69 +857,7 @@ Walser Wealth Management 首席投资官 Rebecca Walser 则表...</div><button c
 金十数据 11 月 20 日讯，近日，上纬新材启元机器人与邮电器材消费电子事业部签署战略合作备忘录。双方将共建人形机器人线下体验、零售销售、履约交付一体化体系，推动人形机器人规模化走进大众消费市场。"><div class="time">12:38</div><div class="content"><div class="text" data-full="上纬新材启元机器人与邮电器材消费电子事业部达成战略合作
 金十数据 11 月 20 日讯，近日，上纬新材启元机器人与邮电器材消费电子事业部签署战略合作备忘录。双方将共建人形机器人线下体验、零售销售、履约交付一体化体系，推动人形机器人规模化走进大众消费市场。" data-short="上纬新材启元机器人与邮电器材消费电子事业部达成战略合作
 金十数据 11 月 20 日讯，近日，上纬新材启元机器人与邮电器材消费电子事业部签署战略合作备忘录。双方将共建人形机器人线下体验、零售销售、履约交付一体化体系，推动人形机器人规模化走进大众消费市场。">上纬新材启元机器人与邮电器材消费电子事业部达成战略合作
-金十数据 11 月 20 日讯，近日，上纬新材启元机器人与邮电器材消费电子事业部签署战略合作备忘录。双方将共建人形机器人线下体验、零售销售、履约交付一体化体系，推动人形机器人规模化走进大众消费市场。</div></div></article><article class="item" data-search="国际人士积极评价中俄美元首会晤
-11 月 19 日，中国国家主席习近平同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。国际人士表示，此次会晤对地区乃至全球都有着重要的积极意义。联合国秘书长副发言人法尔汉·哈克表示，联合国欢迎三国元首在宣言中重申“核战争打不赢，也打不得”，这与联合国秘书长本人强调的立场一致。俄罗斯智库国际事务委员会委员德米特里·苏斯洛夫说，世界三个主要大国聚到一起，其友好关系关乎全球和平。席勒智库研究员理查德·艾伦·布莱克表示，中俄美元首会晤具有开创性意义，这无疑是一次巨大的成功。（cctv 国际时讯）"><div class="time">12:37</div><div class="content"><div class="text" data-full="国际人士积极评价中俄美元首会晤
-11 月 19 日，中国国家主席习近平同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。国际人士表示，此次会晤对地区乃至全球都有着重要的积极意义。联合国秘书长副发言人法尔汉·哈克表示，联合国欢迎三国元首在宣言中重申“核战争打不赢，也打不得”，这与联合国秘书长本人强调的立场一致。俄罗斯智库国际事务委员会委员德米特里·苏斯洛夫说，世界三个主要大国聚到一起，其友好关系关乎全球和平。席勒智库研究员理查德·艾伦·布莱克表示，中俄美元首会晤具有开创性意义，这无疑是一次巨大的成功。（CCTV 国际时讯）" data-short="国际人士积极评价中俄美元首会晤
-11 月 19 日，中国国家主席习近平同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。国际人士表示，此次会晤对地区乃至全球都有着重要的积极意义。联合国秘书长副发言人法尔汉·哈克表示，联合国欢迎三国元首在宣言中重申“核战争打不赢，也打不得”，这与联合国秘书长本人强调的立场一致。俄罗斯智库国际事务委员会委员德米特里·苏斯...">国际人士积极评价中俄美元首会晤
-11 月 19 日，中国国家主席习近平同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。国际人士表示，此次会晤对地区乃至全球都有着重要的积极意义。联合国秘书长副发言人法尔汉·哈克表示，联合国欢迎三国元首在宣言中重申“核战争打不赢，也打不得”，这与联合国秘书长本人强调的立场一致。俄罗斯智库国际事务委员会委员德米特里·苏斯...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="新加坡升级与巴西和土耳其的航空服务协议
-据新加坡民航局消息，新加坡周三与巴西和土耳其签署了升级版航空服务协议。新加坡-巴西航空服务协议升级为未来开通直航奠定了基础。新加坡还与萨尔瓦多签署了一项新的航空安全协议。"><div class="time">12:35</div><div class="content"><div class="text" data-full="新加坡升级与巴西和土耳其的航空服务协议
-据新加坡民航局消息，新加坡周三与巴西和土耳其签署了升级版航空服务协议。新加坡-巴西航空服务协议升级为未来开通直航奠定了基础。新加坡还与萨尔瓦多签署了一项新的航空安全协议。" data-short="新加坡升级与巴西和土耳其的航空服务协议
-据新加坡民航局消息，新加坡周三与巴西和土耳其签署了升级版航空服务协议。新加坡-巴西航空服务协议升级为未来开通直航奠定了基础。新加坡还与萨尔瓦多签署了一项新的航空安全协议。">新加坡升级与巴西和土耳其的航空服务协议
-据新加坡民航局消息，新加坡周三与巴西和土耳其签署了升级版航空服务协议。新加坡-巴西航空服务协议升级为未来开通直航奠定了基础。新加坡还与萨尔瓦多签署了一项新的航空安全协议。</div></div></article><article class="item" data-search="lazada 双 11：天猫一键轻出海增长超 200%
-金十数据 11 月 20 日讯，今年双十一期间，lazada“一键轻出海”业务成交额同比增长超 200%，订单量达到平日近 4 倍。lazmall 品牌商城贡献了区域总成交额的近八成，其成交额达到日常水平的 7 倍。大促中，电脑配件、美妆、户外运动装备、男士运动鞋、手机及平板配件成为天猫业务中增长突出的五大品类，也是东南亚消费者更倾向购买的品类。其中，电脑配件成交额同比增长超过 7 倍，彩妆增长超过 10 倍，户外运动装备增长近 4 倍。"><div class="time">12:34</div><div class="content"><div class="text" data-full="Lazada 双 11：天猫一键轻出海增长超 200%
-金十数据 11 月 20 日讯，今年双十一期间，Lazada“一键轻出海”业务成交额同比增长超 200%，订单量达到平日近 4 倍。LazMall 品牌商城贡献了区域总成交额的近八成，其成交额达到日常水平的 7 倍。大促中，电脑配件、美妆、户外运动装备、男士运动鞋、手机及平板配件成为天猫业务中增长突出的五大品类，也是东南亚消费者更倾向购买的品类。其中，电脑配件成交额同比增长超过 7 倍，彩妆增长超过 10 倍，户外运动装备增长近 4 倍。" data-short="Lazada 双 11：天猫一键轻出海增长超 200%
-金十数据 11 月 20 日讯，今年双十一期间，Lazada“一键轻出海”业务成交额同比增长超 200%，订单量达到平日近 4 倍。LazMall 品牌商城贡献了区域总成交额的近八成，其成交额达到日常水平的 7 倍。大促中，电脑配件、美妆、户外运动装备、男士运动鞋、手机及平板配件成为天猫业务中增长突出的...">Lazada 双 11：天猫一键轻出海增长超 200%
-金十数据 11 月 20 日讯，今年双十一期间，Lazada“一键轻出海”业务成交额同比增长超 200%，订单量达到平日近 4 倍。LazMall 品牌商城贡献了区域总成交额的近八成，其成交额达到日常水平的 7 倍。大促中，电脑配件、美妆、户外运动装备、男士运动鞋、手机及平板配件成为天猫业务中增长突出的...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="基辅市长称，弹道导弹袭击导致乌克兰基辅多座桥梁受损。"><div class="time">12:34</div><div class="content"><div class="text" data-full="基辅市长称，弹道导弹袭击导致乌克兰基辅多座桥梁受损。" data-short="基辅市长称，弹道导弹袭击导致乌克兰基辅多座桥梁受损。">基辅市长称，弹道导弹袭击导致乌克兰基辅多座桥梁受损。</div></div></article><article class="item" data-search="沪指半日跌 1.57%，pcb 概念股逆势走强。
-恒指半日跌 1.7%，恒生科技指数跌 3.1%，网易财报过后跌近 18%，快手跌近 10%。
-亚太股市全线走低，韩国股市盘中跌超 5%，日经 225 指数跌近 5%，现货黄金跌超 2%至 3540 美元下方。
-msci 新兴市场股票指数较 6 月高峰下跌 20%。
-连续第 18 个月维持不变！11 月 lpr 报价出炉：5 年期以上 3.5%，1 年期 3%。
-中国央行公开市场今日进行 3795 亿元人民币隔夜逆回购操作，单日净回笼 6880 亿元人民币。"><div class="time">12:33</div><div class="content"><div class="text" data-full="沪指半日跌 1.57%，PCB 概念股逆势走强。
-恒指半日跌 1.7%，恒生科技指数跌 3.1%，网易财报过后跌近 18%，快手跌近 10%。
-亚太股市全线走低，韩国股市盘中跌超 5%，日经 225 指数跌近 5%，现货黄金跌超 2%至 3540 美元下方。
-MSCI 新兴市场股票指数较 6 月高峰下跌 20%。
-连续第 18 个月维持不变！11 月 LPR 报价出炉：5 年期以上 3.5%，1 年期 3%。
-中国央行公开市场今日进行 3795 亿元人民币隔夜逆回购操作，单日净回笼 6880 亿元人民币。" data-short="沪指半日跌 1.57%，PCB 概念股逆势走强。
-恒指半日跌 1.7%，恒生科技指数跌 3.1%，网易财报过后跌近 18%，快手跌近 10%。
-亚太股市全线走低，韩国股市盘中跌超 5%，日经 225 指数跌近 5%，现货黄金跌超 2%至 3540 美元下方。
-MSCI 新兴市场股票指数较 6 月高峰下跌 20%。
-连续第 18 个月维持不变！11 月 LPR...">沪指半日跌 1.57%，PCB 概念股逆势走强。
-恒指半日跌 1.7%，恒生科技指数跌 3.1%，网易财报过后跌近 18%，快手跌近 10%。
-亚太股市全线走低，韩国股市盘中跌超 5%，日经 225 指数跌近 5%，现货黄金跌超 2%至 3540 美元下方。
-MSCI 新兴市场股票指数较 6 月高峰下跌 20%。
-连续第 18 个月维持不变！11 月 LPR...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="基辅市长称，弹道导弹袭击损坏了乌克兰基辅的多座桥梁。"><div class="time">12:33</div><div class="content"><div class="text" data-full="基辅市长称，弹道导弹袭击损坏了乌克兰基辅的多座桥梁。" data-short="基辅市长称，弹道导弹袭击损坏了乌克兰基辅的多座桥梁。">基辅市长称，弹道导弹袭击损坏了乌克兰基辅的多座桥梁。</div></div></article><article class="item" data-search="① 15:00 英国 10 月零售销售；
-② 时间待定 恒指公司宣布第三季指数系列检讨结果；
-③ 16:30 欧洲央行行长拉加德在法兰克福“欧元金融周”讲话；
-④ 21:00 欧洲央行管委兼德国央行行长 nagel 讲话；
-⑤ 21:25 美联储理事沃勒在一场活动上致欢迎词；
-⑥ 21:30 加拿大 9 月零售销售；
-⑦ 23:00 美国 11 月密歇根大学消费者信心指数终值，欧元区 11 月消费者信心指数初值；
-⑧ 时间待定 美国总统特朗普举行新闻发布会；
-⑨ 次日 01:15 美联储理事库克在智利央行年度会议上谈美国经济；"><div class="time">12:33</div><div class="content"><div class="text" data-full="① 15:00 英国 10 月零售销售；
-② 时间待定 恒指公司宣布第三季指数系列检讨结果；
-③ 16:30 欧洲央行行长拉加德在法兰克福“欧元金融周”讲话；
-④ 21:00 欧洲央行管委兼德国央行行长 Nagel 讲话；
-⑤ 21:25 美联储理事沃勒在一场活动上致欢迎词；
-⑥ 21:30 加拿大 9 月零售销售；
-⑦ 23:00 美国 11 月密歇根大学消费者信心指数终值，欧元区 11 月消费者信心指数初值；
-⑧ 时间待定 美国总统特朗普举行新闻发布会；
-⑨ 次日 01:15 美联储理事库克在智利央行年度会议上谈美国经济；" data-short="① 15:00 英国 10 月零售销售；
-② 时间待定 恒指公司宣布第三季指数系列检讨结果；
-③ 16:30 欧洲央行行长拉加德在法兰克福“欧元金融周”讲话；
-④ 21:00 欧洲央行管委兼德国央行行长 Nagel 讲话；
-⑤ 21:25 美联储理事沃勒在一场活动上致欢迎词；
-⑥ 21:30 加拿大 9 月零售销售；
-⑦ 23:00 美国 11 月密歇根大学...">① 15:00 英国 10 月零售销售；
-② 时间待定 恒指公司宣布第三季指数系列检讨结果；
-③ 16:30 欧洲央行行长拉加德在法兰克福“欧元金融周”讲话；
-④ 21:00 欧洲央行管委兼德国央行行长 Nagel 讲话；
-⑤ 21:25 美联储理事沃勒在一场活动上致欢迎词；
-⑥ 21:30 加拿大 9 月零售销售；
-⑦ 23:00 美国 11 月密歇根大学...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="上纬新材启元机器人与邮电器材消费电子事业部达成战略合作
-近日，上纬新材启元机器人与邮电器材消费电子事业部签署战略合作备忘录。双方将共建人形机器人线下体验、零售销售、履约交付一体化体系，推动人形机器人规模化走进大众消费市场。"><div class="time">12:33</div><div class="content"><div class="text" data-full="上纬新材启元机器人与邮电器材消费电子事业部达成战略合作
-近日，上纬新材启元机器人与邮电器材消费电子事业部签署战略合作备忘录。双方将共建人形机器人线下体验、零售销售、履约交付一体化体系，推动人形机器人规模化走进大众消费市场。" data-short="上纬新材启元机器人与邮电器材消费电子事业部达成战略合作
-近日，上纬新材启元机器人与邮电器材消费电子事业部签署战略合作备忘录。双方将共建人形机器人线下体验、零售销售、履约交付一体化体系，推动人形机器人规模化走进大众消费市场。">上纬新材启元机器人与邮电器材消费电子事业部达成战略合作
-近日，上纬新材启元机器人与邮电器材消费电子事业部签署战略合作备忘录。双方将共建人形机器人线下体验、零售销售、履约交付一体化体系，推动人形机器人规模化走进大众消费市场。</div></div></article><article class="item" data-search="派珀·桑德勒将沃尔玛公司目标股价从 128 美元上调至 138 美元。"><div class="time">12:30</div><div class="content"><div class="text" data-full="派珀·桑德勒将沃尔玛公司目标股价从 128 美元上调至 138 美元。" data-short="派珀·桑德勒将沃尔玛公司目标股价从 128 美元上调至 138 美元。">派珀·桑德勒将沃尔玛公司目标股价从 128 美元上调至 138 美元。</div></div></article><article class="item" data-search="派杰投资：将沃尔玛百货(wmt.n)目标价从 128 美元上调至 138 美元。"><div class="time">12:30</div><div class="content"><div class="text" data-full="派杰投资：将沃尔玛百货(WMT.N)目标价从 128 美元上调至 138 美元。" data-short="派杰投资：将沃尔玛百货(WMT.N)目标价从 128 美元上调至 138 美元。">派杰投资：将沃尔玛百货(WMT.N)目标价从 128 美元上调至 138 美元。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月20日 · VIP</h2> <div class="feed"> <article class="item" data-search="红宝书20261119.pdf
+金十数据 11 月 20 日讯，近日，上纬新材启元机器人与邮电器材消费电子事业部签署战略合作备忘录。双方将共建人形机器人线下体验、零售销售、履约交付一体化体系，推动人形机器人规模化走进大众消费市场。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月20日 · VIP</h2> <div class="feed"> <article class="item" data-search="红宝书20261119.pdf
 
 链接: https://pan.baidu.com/s/16dgdokkerw_iykym5xj5qw?pwd=afbu 提取码: afbu 
 --来自百度网盘超级会员v7的分享"> <div class="time">09:18</div> <div class="content"> <div class="text">红宝书20261119.pdf
@@ -1188,11 +1210,7 @@ G届孙悟空中线技术详细拆解20261118
 #中远海能"> <div class="time">15:00</div> <div class="content"> <div class="text">【风口研报·行业】这个交运行业两家头部公司股息率近10%，近期回调背后的利空逻辑已经出现边际改善，还有向上需求意外期权
 
 #招商轮船
-#中远海能</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【狙击龙虎榜午盘】交投持续低迷量能逼近全年新低 防守轮动家电走强关注补涨
-
-#富佳股份"> <div class="time">14:58</div> <div class="content"> <div class="text">【狙击龙虎榜午盘】交投持续低迷量能逼近全年新低 防守轮动家电走强关注补涨
-
-#富佳股份</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section> </div> </main> <script>
+#中远海能</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article> </div> </section> </div> </main> <script>
       (() => {
         const mainBtn = document.getElementById('topic-main');
         const vipBtn = document.getElementById('topic-clsvip');
