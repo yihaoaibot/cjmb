@@ -2,7 +2,7 @@
   {
     "post": "Financial_Express/3647525",
     "datetime": "2026-11-22T20:26:22+00:00",
-    "views": "19",
+    "views": "33",
     "text": "美国中央司令部司令结束中东访问\n美国中央司令部：美国中央司令部司令库珀于 11 月 22 日结束了为期一周的中东访问。访问期间，他与以色列、卡塔尔和沙特阿拉伯的高级文职及军事领导人会晤，讨论当前安全形势及继续开展合作的机会。库珀还会见了部署在该地区的 5 万名美军人员中的部分官兵。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +11,7 @@
   {
     "post": "Financial_Express/3647524",
     "datetime": "2026-11-22T20:26:02+00:00",
-    "views": "23",
+    "views": "35",
     "text": "美国中央司令部：上将布拉德·库珀于 11 月 22 日结束为期一周的中东访问。期间，他与以色列、卡塔尔和沙特阿拉伯的高级文职及军事领导人会晤，讨论了当前安全环境及持续合作机遇。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +20,7 @@
   {
     "post": "Financial_Express/3647523",
     "datetime": "2026-11-22T20:20:02+00:00",
-    "views": "62",
+    "views": "68",
     "text": "OpenAI 首席科学家呼吁业界限制模型开发 奥特曼表示赞同\nOpenAI 首席科学家 Jakub Pachocki 提议，人工智能公司应同意对开发能力日益强大的模型设限，直到研究人员有更好的方法来理解和监控这些模型的行为。Pachocki 呼吁制定全行业标准，为 AI 开发设定界限，各家公司应同意在满足特定安全要求之前不突破这些界限。“我进一步提议，根据困惑度和其他衡量指标设定共同限制，开发者承诺在我们理解和监控 AI 行为的能力达到某个具体里程碑之前不突破这些限制，”Pachocki 写道。Pachocki 所提议的限制可以部分上基于一种被称为困惑度的技术指标，该指标衡量 AI 模型预测下一段文本的能力。Pachocki 没有说明初始限制应设在什么水平，也没有说明何时开始实施。Pachocki 警告称，最早到 2027 年，AI 就可能加速自身进化，其速度可能超过研究人员提高监控和理解这项技术能力的速度。OpenAI 首席执行官奥特曼对这一提议表示支持，称 Pachocki 的文章是“OpenAI 一段时间以来发布的最重要内容”。他在 X 上的一篇帖子中表示，就共同限制达成一致将有助于确保“安全和控制”。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +29,7 @@
   {
     "post": "Financial_Express/3647522",
     "datetime": "2026-11-22T20:19:22+00:00",
-    "views": "68",
+    "views": "73",
     "text": "英国首相伯纳姆拟修改福利申领资格条件。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +38,7 @@
   {
     "post": "Financial_Express/3647521",
     "datetime": "2026-11-22T20:19:02+00:00",
-    "views": "69",
+    "views": "74",
     "text": "英国首相伯纳姆拟削减残疾人福利。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +47,7 @@
   {
     "post": "Financial_Express/3647520",
     "datetime": "2026-11-22T20:16:02+00:00",
-    "views": "72",
+    "views": "76",
     "text": "俄罗斯驻利比亚大使（谈及班加西俄军舰被袭击）表示，莫斯科正在研究如何应对新的局势，会予以回应。",
     "media_only": false,
     "image_url": null,
@@ -13498,68 +13498,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3646019"
-  },
-  {
-    "post": "Financial_Express/3646014",
-    "datetime": "2026-11-20T20:30:24+00:00",
-    "views": "6",
-    "text": "美国商品期货交易委员会（CFTC）：11 月 17 日当周，投机者所持 NYMEX WTI 原油净多头头寸减少 9,765 手合约，至 60,819 手合约，创 10 个月新低。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646014"
-  },
-  {
-    "post": "Financial_Express/3646012",
-    "datetime": "2026-11-20T20:30:23+00:00",
-    "views": "6",
-    "text": "商品期货交易委员会：COMEX 白银投机客截至 11 月 17 日当周削减 2,212 手净多头头寸，至 17 手。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646012"
-  },
-  {
-    "post": "Financial_Express/3646013",
-    "datetime": "2026-11-20T20:30:23+00:00",
-    "views": "6",
-    "text": "美国商品期货交易委员会：截至 11 月 17 日当周，纽约商品交易所和洲际交易所四大市场的天然气投机者净空头头寸减少 11704 份合约，至 215523 份合约。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646013"
-  },
-  {
-    "post": "Financial_Express/3646011",
-    "datetime": "2026-11-20T20:30:22+00:00",
-    "views": "6",
-    "text": "美国商品期货交易委员会（CFTC）：截至 11 月 17 日当周，COMEX 黄金投机者将净多头持仓减少 10,136 手，至 104,270 手。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646011"
-  },
-  {
-    "post": "Financial_Express/3646010",
-    "datetime": "2026-11-20T20:30:04+00:00",
-    "views": "14",
-    "text": "截至 11 月 17 日当周，原油投机者将 WTI 净多头头寸增加 666 手至 69,216 手。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646010"
-  },
-  {
-    "post": "Financial_Express/3646009",
-    "datetime": "2026-11-20T20:30:03+00:00",
-    "views": "15",
-    "text": "美国商品期货交易委员会（CFTC）：截至 11 月 17 日当周，COMEX 铜投机者将净多头头寸减少 7156 手，至 27347 手。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646009"
-  },
-  {
-    "post": "Financial_Express/3646008",
-    "datetime": "2026-11-20T20:30:02+00:00",
-    "views": "15",
-    "text": "美国商品期货交易委员会：截至 11 月 17 日当周，投机者将 CBOT 美国国债期货净空头头寸减少 5,922 手，至 3,347 手。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646008"
   }
 ]
