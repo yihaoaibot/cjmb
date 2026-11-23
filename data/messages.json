@@ -1,5 +1,23 @@
 [
   {
+    "post": "Financial_Express/3650778",
+    "datetime": "2026-11-23T20:13:02+00:00",
+    "views": "1",
+    "text": "据路透：美国参议院国土安全小组委员会正在调查美国副总统万斯与委内瑞拉石油合同的关系。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650778"
+  },
+  {
+    "post": "Financial_Express/3650777",
+    "datetime": "2026-11-23T20:12:02+00:00",
+    "views": "1",
+    "text": "美国参议院国土安全小组委员会正在调查美国副总统万斯与委内瑞拉石油合同的关联。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650777"
+  },
+  {
     "post": "Financial_Express/3650776",
     "datetime": "2026-11-23T20:10:22+00:00",
     "views": "3",
@@ -12,7 +30,7 @@
     "post": "Financial_Express/3650775",
     "datetime": "2026-11-23T20:10:02+00:00",
     "views": "3",
-    "text": "Anthropic 推出 Claude Ship PR 自动化测试版。",
+    "text": "Anthropic 推出 Claude Ship PR Automation 测试版。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3650775"
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3650772",
     "datetime": "2026-11-23T20:07:42+00:00",
-    "views": "6",
+    "views": "36",
     "text": "美国财政部：投资资金在最新双周报告期内买入 454.13 亿美元 2029 年 11 月 15 日到期的三年期国债，上月为 454.99 亿美元。\n外国投资者在最新双周报告期内买入 58.76 亿美元 2029 年 11 月 15 日到期的三年期国债，上月为 50.68 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3650771",
     "datetime": "2026-11-23T20:07:02+00:00",
-    "views": "6",
+    "views": "36",
     "text": "美国财政部：外国投资者在最新两周报告期内买入 51.51 亿美元 2056 年 11 月 15 日到期的 30 年期债券，上月为 54.88 亿美元。\n投资资金在最新双周报告期内买入 162.58 亿美元 2056 年 11 月 15 日到期的 30 年期国债，上月为 145.72 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3650770",
     "datetime": "2026-11-23T20:06:42+00:00",
-    "views": "5",
+    "views": "35",
     "text": "美国财政部：外国投资者在最新两周报告期内买入 80.60 亿美元 2036 年 11 月 15 日到期的 10 年期国债，上月为 82.14 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3650769",
     "datetime": "2026-11-23T20:06:22+00:00",
-    "views": "5",
+    "views": "35",
     "text": "美国财政部：投资资金在最新双周报告期内买入 284.32 亿美元 2036 年 11 月 15 日到期的 10 年期国债，上月为 289.56 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3650768",
     "datetime": "2026-11-23T20:05:42+00:00",
-    "views": "5",
+    "views": "35",
     "text": "富国将美国大盘股上调至“最看好”评级 上周暴跌提供加仓机会\n富国投资研究院分析师将美国大盘股上调至该机构最高评级，认为上周的暴跌为投资者提供了以更具吸引力的水平增加股票敞口的机会。美国大盘股评级从“看好”上调至“最看好”，分析师建议投资组合将资金从美国中期债券转向股票。他们表示，近期市场抛售是对“信心的考验”，而不是盈利预期的重估。此次评级调整之前，股市抛售已从科技股蔓延开来，标普 500 指数 11 个板块上周均告下跌。这导致该基准指数连续第七个交易日下跌，为六年多来未见，并自 4 月中旬以来首次收于 7,000 点下方。富国表示，标普 500 指数 7,000 点可能是第一道关键关口，在这一水平，风险回报开始变得更具吸引力，建议逐步增持股票，而不是试图猜测市场底部。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3650767",
     "datetime": "2026-11-23T20:05:28+00:00",
-    "views": "4",
+    "views": "34",
     "text": "富国银行：将美国大盘股上调至“最看好”评级，上周暴跌提供加仓机会。",
     "media_only": false,
     "image_url": null,
@@ -34558,32 +34576,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3646911"
-  },
-  {
-    "post": "Financial_Express/3646910",
-    "datetime": "2026-11-21T20:13:42+00:00",
-    "views": "135",
-    "text": "伊朗革命卫队：袭击了巴林基地的两套美国“爱国者”防空雷达。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646910"
-  },
-  {
-    "post": "Financial_Express/3646909",
-    "datetime": "2026-11-21T20:13:22+00:00",
-    "views": "134",
-    "text": "伊朗革命卫队：袭击了巴林基地的两座美国爱国者防空雷达。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646909"
-  },
-  {
-    "post": "Financial_Express/3646908",
-    "datetime": "2026-11-21T20:13:02+00:00",
-    "views": "135",
-    "text": "乌英签署协议，英国将为乌克兰生产打击无人机\n金十数据 11 月 22 日讯，乌克兰国防部发文称，乌克兰的中程及远程打击无人机将在英国进行生产。乌克兰国防部长与英国国防大臣签署了联合生产项目协议，英国将出资支持生产那些已在实战中得到验证的无人机，并将其供应给乌克兰国防军。英国国防大臣赫马拉表示：“乌克兰拥有有效的国防解决方案，以及在对抗敌人过程中积累的宝贵经验。”这些经验与英国的生产能力相结合，将有助于更快扩大经过实战验证的系统的生产规模。双方还同意加快交付轻型多用途导弹（LMM），该型导弹对于拦截喷气式“沙赫德”无人机至关重要。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646908"
   }
 ]
