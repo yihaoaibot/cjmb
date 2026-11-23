@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3648619",
+    "datetime": "2026-11-23T07:16:21+00:00",
+    "views": "1",
+    "text": "现货白银日内涨幅达 4.0%，报 42.83 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3648619"
+  },
+  {
+    "post": "Financial_Express/3648618",
+    "datetime": "2026-11-23T07:15:24+00:00",
+    "views": "3",
+    "text": "纽约期银日内涨 4%，现报 43.23 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3648618"
+  },
+  {
+    "post": "Financial_Express/3648616",
+    "datetime": "2026-11-23T07:15:23+00:00",
+    "views": "3",
+    "text": "南向资金净卖出额达 10 亿港元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3648616"
+  },
+  {
+    "post": "Financial_Express/3648617",
+    "datetime": "2026-11-23T07:15:23+00:00",
+    "views": "3",
+    "text": "现货白银日内涨 4%，现报 42.83 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3648617"
+  },
+  {
+    "post": "Financial_Express/3648615",
+    "datetime": "2026-11-23T07:15:22+00:00",
+    "views": "3",
+    "text": "国债期货收盘\n 30 年期主力合约跌 0.27%， 10 年期主力合约跌 0.03%， 5 年期主力合约跌 0.01%， 2 年期主力合约跌 0.01%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3648615"
+  },
+  {
+    "post": "Financial_Express/3648614",
+    "datetime": "2026-11-23T07:15:03+00:00",
+    "views": "3",
+    "text": "大摩重算 Meta 这本账：AI 投入推高费用、盈利预期下调，720 美元目标价仍留 30%上涨空间\n摩根士丹利在最新发布的研报中指出，Meta 持续通过多管齐下的策略获取算力，包括资本支出建设以及与超大规模云服务商签订合同。该行最新的研究显示，超大规模云服务商 2027 年的支出可能高于此前预期，因此将 Meta 2027 年 GAAP 运营费用预测上调 140 亿美元，至 2270 亿美元。该行同时将 2027 年和 2028 年每股收益预测分别下调 13%和 11%(目前预计 2028 年每股收益约为 32.50 美元)，但仍维持“增持”评级;目标价为 720 美元，意味着约 30%的上涨空间。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3648614"
+  },
+  {
     "post": "Financial_Express/3648613",
     "datetime": "2026-11-23T07:14:09+00:00",
-    "views": "1",
+    "views": "5",
     "text": "11 月 23 日，沪深两市全天成交额合计 15528.80 亿元。其中，沪市成交额为 7385.00 亿元；深市成交额为 8143.80 亿元；创业板成交额为 4046.09 亿元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3648612",
     "datetime": "2026-11-23T07:13:54+00:00",
-    "views": "1",
+    "views": "8",
     "text": "从教育部获悉，近日，教育部就《教材管理条例（征求意见稿）》面向社会公开征求意见。\n据介绍，条例征求意见稿以推进中国特色高质量教材体系建设为目标，以服务支撑教材工作实际需要为导向，全文共 8 章 67 条，主要包括坚持党的领导、完善教材工作体系、规范全链条管理、严格教材质量要求、加强支持保障等方面内容，构建起教材管理的法律规范。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3648609",
     "datetime": "2026-11-23T07:13:03+00:00",
-    "views": "8",
+    "views": "9",
     "text": "中通快递与阿里云伶鹊达成深度合作\n近日，阿里云伶鹊与中通快递达成深度合作。为中通快递打造企业级 AI 客服，在小件末端配送场景中落地智能语音热线和智能语音外呼两大能力。上线后“呼入+外呼”日均服务量达数十万通，AI“呼入”热线带来的下单转化率提升近 20%。（阿里云）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3648610",
     "datetime": "2026-11-23T07:13:03+00:00",
-    "views": "9",
+    "views": "11",
     "text": "高盛看 2027 软件主线：安全预算加速+AI 企业扩散，微软、Palantir 等有望站上风口\n高盛发布美洲科技软件行业深度研报，基于近期多场企业高管闭门交流，包括微软 Ignite 大会、Palantir 投资者沟通会、高盛私人创新企业大会等一手调研信息，认为网络安全预算进入新一轮加速上行周期，“AI 防御” 产品周期正式启动;企业 AI 渗透进程分化显著，智能体身份问题有望在 2026 年底取得关键突破，2027 年微软、Palantir、Snowflake、MongoDB 将成为企业 AI 扩散浪潮核心受益者，同时建议在财报季逢回调关注 CrowdStrike 投资机会。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3648611",
     "datetime": "2026-11-23T07:13:03+00:00",
-    "views": "7",
+    "views": "41",
     "text": "《教材管理条例（征求意见稿）》面向社会公开征求意见\n记者 23 日从教育部获悉，近日，教育部就《教材管理条例（征求意见稿）》面向社会公开征求意见。 关于条例征求意见稿的出台背景，教育部有关负责人介绍，党的十八大以来，我国教材工作取得历史性成就、发生格局性变化。面对新形势新任务，教材工作需要进一步发挥法治固根本、稳预期、利长远作用，完善协同治理机制，不断提升教材质量，加快建设中国特色高质量教材体系。经过长期实践，教材工作积累了许多行之有效的做法，有必要将成熟有效的政策措施和实践经验上升为法规制度，通过立法加强顶层设计，为教材事业高质量发展提供坚实法治保障。 据介绍，条例征求意见稿以推进中国特色高质量教材体系建设为目标，以服务支撑教材工作实际需要为导向，全文共 8 章 67 条，主要包括坚持党的领导、完善教材工作体系、规范全链条管理、严格教材质量要求、加强支持保障等方面内容，构建起教材管理的法律规范。 条例征求意见稿研制过程中，法律和教育领域多位资深专家参与，广泛开展调研，充分听取中央和国家机关、省级教育行政部门和大中小学校等各方意见，反复修改完善，严格履行评估审核程序，增强制度的针对性、实效性和前瞻性。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3648608",
     "datetime": "2026-11-23T07:12:22+00:00",
-    "views": "5",
+    "views": "38",
     "text": "分析师：马斯克 2027 年将成英伟达最大客户，或凭一己之力推动黄仁勋回归\nSeaport Research Partners 分析师杰伊·戈德伯格表示，埃隆·马斯克希望黄仁勋重返英伟达，而马斯克的芯片订单可能让他有机会向英伟达董事会施压。戈德伯格表示：“埃隆几乎可以凭借一己之力促成改变。”他预计马斯克将在 2027 年成为英伟达最大的客户，并表示马斯克随时可能取消这些采购。在上周三的 DealBook 峰会上，马斯克把黄仁勋比作巅峰期的迈克尔·乔丹。在马斯克看来，放走黄仁勋就像芝加哥公牛队在第二个赛季中途将乔丹踢出球队，而那正是球队即将连胜之时。他表示，\"没人能真正替代黄仁勋，他一人身兼好几个人的角色\"。不过，马斯克并未公开把订单与黄仁勋回归挂钩。马斯克执掌的 SpaceX 已围绕英伟达芯片构建了自己的 AI 计划，因此放弃英伟达也可能让马斯克付出代价。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3648601",
     "datetime": "2026-11-23T07:07:58+00:00",
-    "views": "61",
+    "views": "62",
     "text": "外交部发言人宣布：应中共中央政治局委员、外交部长王毅邀请，荷兰外交大臣贝伦德森将于 11 月 23 日至 25 日访华。（央视）",
     "media_only": false,
     "image_url": null,
@@ -119,7 +173,7 @@
   {
     "post": "Financial_Express/3648600",
     "datetime": "2026-11-23T07:07:42+00:00",
-    "views": "39",
+    "views": "70",
     "text": "据上海航运交易所数据，截至 2026 年 11 月 23 日，上海出口集装箱结算运价指数（欧洲航线）报 2201.88 点，与上期相比跌 3.8%。",
     "media_only": false,
     "image_url": null,
@@ -18412,50 +18466,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3646558"
-  },
-  {
-    "post": "Financial_Express/3646557",
-    "datetime": "2026-11-21T07:16:22+00:00",
-    "views": "96",
-    "text": "巴基斯坦总理谢里夫：我们将继续支持所有旨在实现该地区持久和平与稳定的努力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646557"
-  },
-  {
-    "post": "Financial_Express/3646556",
-    "datetime": "2026-11-21T07:16:03+00:00",
-    "views": "98",
-    "text": "巴基斯坦总理谢里夫：我们重申对沙特捍卫其主权和领土完整、保护其公民和居民的权利的全力支持。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646556"
-  },
-  {
-    "post": "Financial_Express/3646555",
-    "datetime": "2026-11-21T07:16:02+00:00",
-    "views": "93",
-    "text": "巴基斯坦总理谢里夫： 巴基斯坦坚定地与沙特阿拉伯及其人民站在一起。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646555"
-  },
-  {
-    "post": "Financial_Express/3646554",
-    "datetime": "2026-11-21T07:15:22+00:00",
-    "views": "93",
-    "text": "巴基斯坦总理谢里夫：这种针对民用基础设施和经济设施的鲁莽侵略行为是完全不可接受的，此举对地区和平与稳定构成了威胁。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646554"
-  },
-  {
-    "post": "Financial_Express/3646553",
-    "datetime": "2026-11-21T07:15:05+00:00",
-    "views": "95",
-    "text": "巴基斯坦总理谢里夫：我强烈谴责胡塞武装对沙特利雅得阿卜杜拉国王金融中心的攻击。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646553"
   }
 ]
