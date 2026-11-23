@@ -1,8 +1,107 @@
 [
   {
+    "post": "Financial_Express/3650050",
+    "datetime": "2026-11-23T14:07:55+00:00",
+    "views": "1",
+    "text": "美国总统特朗普：英伟达董事会做出了正确的决定。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650050"
+  },
+  {
+    "post": "Financial_Express/3650048",
+    "datetime": "2026-11-23T14:07:43+00:00",
+    "views": "1",
+    "text": "受英伟达相关消息影响，交易员加大对欧洲央行和英国央行加息的押注。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650048"
+  },
+  {
+    "post": "Financial_Express/3650049",
+    "datetime": "2026-11-23T14:07:43+00:00",
+    "views": "1",
+    "text": "美国总统特朗普：英伟达董事会已作出正确决定。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650049"
+  },
+  {
+    "post": "Financial_Express/3650047",
+    "datetime": "2026-11-23T14:07:23+00:00",
+    "views": "1",
+    "text": "纳斯达克 100 指数期货涨幅扩大至近 7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650047"
+  },
+  {
+    "post": "Financial_Express/3650046",
+    "datetime": "2026-11-23T14:07:22+00:00",
+    "views": "1",
+    "text": "美股半导体板块大幅拉升，英伟达涨超 30%\n金十数据 11 月 23 日讯，半导体板块美股盘前大幅拉升，英伟达(NVDA.O)涨幅一度扩大至 30%，迈威尔科技(MRVL.O)涨 17%，美光科技(MU.O)、Arm(ARM.O)涨 16%，英特尔(INTC.O)涨 12%，阿斯麦(ASML.O)涨 11%，高通(QCOM.O)涨 10%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650046"
+  },
+  {
+    "post": "Financial_Express/3650045",
+    "datetime": "2026-11-23T14:07:03+00:00",
+    "views": "24",
+    "text": "标普 500 指数期货涨幅扩大至 4.4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650045"
+  },
+  {
+    "post": "Financial_Express/3650043",
+    "datetime": "2026-11-23T14:06:43+00:00",
+    "views": "27",
+    "text": "英伟达董事会恢复黄仁勋的 CEO 职务\n英伟达(NVDA.O)在周一发布的一则公告中表示，公司董事会已恢复黄仁勋的首席执行官、总裁及董事会成员职务。公司在投资者关系网站上发布的消息称，在与黄仁勋进行了一系列讨论和会晤后，董事会对他的坦诚态度及其领导英伟达的能力感到满意。董事会还表示，在做出这一决定时，曾听取了“美国政府高层”的意见。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650043"
+  },
+  {
+    "post": "Financial_Express/3650044",
+    "datetime": "2026-11-23T14:06:43+00:00",
+    "views": "24",
+    "text": "德国国债收益率上升 4.27 个基点至 3.102%；黄仁勋重新担任英伟达首席执行官后，股市大涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650044"
+  },
+  {
+    "post": "Financial_Express/3650042",
+    "datetime": "2026-11-23T14:06:22+00:00",
+    "views": "21",
+    "text": "英伟达消息公布后，交易员加大对欧洲央行和英国央行加息的押注。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650042"
+  },
+  {
+    "post": "Financial_Express/3650041",
+    "datetime": "2026-11-23T14:06:02+00:00",
+    "views": "29",
+    "text": "NEBIUS 股价飙升，盘前上涨 29%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650041"
+  },
+  {
+    "post": "Financial_Express/3650040",
+    "datetime": "2026-11-23T14:05:47+00:00",
+    "views": "32",
+    "text": "Forvia 法国巴黎股价涨幅扩大至 8.5%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650040"
+  },
+  {
     "post": "Financial_Express/3650039",
     "datetime": "2026-11-23T14:05:42+00:00",
-    "views": "1",
+    "views": "32",
     "text": "FORVIA 股价盘前涨幅扩大至 8.5%，创 10 月 7 日以来最大单日涨幅。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +110,7 @@
   {
     "post": "Financial_Express/3650038",
     "datetime": "2026-11-23T14:05:23+00:00",
-    "views": "1",
+    "views": "36",
     "text": "英伟达股价涨幅扩大，盘前最后上涨 31.3%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +119,7 @@
   {
     "post": "Financial_Express/3650037",
     "datetime": "2026-11-23T14:05:22+00:00",
-    "views": "1",
+    "views": "36",
     "text": "南非主要股指上涨 2%，报 106,725.60 点。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +128,7 @@
   {
     "post": "Financial_Express/3650036",
     "datetime": "2026-11-23T14:05:03+00:00",
-    "views": "1",
+    "views": "39",
     "text": "英伟达美股盘前涨幅扩大至 30%。消息面上，英伟达董事会一致同意恢复黄仁勋 CEO 职务。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +137,7 @@
   {
     "post": "Financial_Express/3650035",
     "datetime": "2026-11-23T14:05:02+00:00",
-    "views": "1",
+    "views": "42",
     "text": "戴尔科技盘前股价上涨超过 22%。",
     "media_only": false,
     "image_url": null,
@@ -47,8 +146,8 @@
   {
     "post": "Financial_Express/3650034",
     "datetime": "2026-11-23T14:04:48+00:00",
-    "views": "55",
-    "text": "英伟达盘前涨超 30%，Nebius 集团涨 29%，戴尔科技涨超 22%。\nAnthropic 涨 4.2%。\n纳斯达克 100 股指期货涨 7.1%，标普股指期货涨 4.4%，道指期货涨 2.6%。",
+    "views": "75",
+    "text": "英伟达盘前涨超 30%，Nebius 集团涨 29%，戴尔科技涨超 22%，美光科技涨逾 17%，SK 海力士、闪迪涨超 15%。\nAnthropic 涨 4.2%。\n纳斯达克 100 股指期货涨 7.1%，标普股指期货涨 4.4%，道指期货涨 2.6%。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3650034"
@@ -56,7 +155,7 @@
   {
     "post": "Financial_Express/3650033",
     "datetime": "2026-11-23T14:04:43+00:00",
-    "views": "54",
+    "views": "72",
     "text": "币安聘请 Mandiant、SlowMist 和 Verichains 进行独立第三方安全审查。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +164,7 @@
   {
     "post": "Financial_Express/3650031",
     "datetime": "2026-11-23T14:04:42+00:00",
-    "views": "1",
+    "views": "74",
     "text": "Anthropic 股价大幅上涨，涨幅达 4.2%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +173,7 @@
   {
     "post": "Financial_Express/3650032",
     "datetime": "2026-11-23T14:04:42+00:00",
-    "views": "1",
+    "views": "71",
     "text": "ANTHROPIC 股价盘前飙升，上涨 4.2%。",
     "media_only": false,
     "image_url": null,
@@ -29518,14 +29617,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3646738"
-  },
-  {
-    "post": "Financial_Express/3646737",
-    "datetime": "2026-11-21T14:08:03+00:00",
-    "views": "216",
-    "text": "伊朗称在波斯湾上空拦截并击中一架美军 F-16 战机\n当地时间 21 日，伊朗军队表示，20 日晚间，部署在伊朗南部、隶属于军队的防空系统在波斯湾上空成功探测到一架美军 F-16 战机。伊朗军队称，在行动过程中，伊朗防空系统对该战机实施拦截，并向其发射了一枚导弹。导弹在战机附近爆炸，导致战机受损，飞行员被迫中止任务，并在附近区域的一处机场进行紧急降落。21 日凌晨，伊朗方面曾有消息称，一架美国 F-16 战机在从霍尔木兹海峡返航途中，于阿联酋空域内发出了紧急代码 7700。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646737"
   }
 ]
