@@ -1,9 +1,27 @@
 [
   {
+    "post": "Financial_Express/3650900",
+    "datetime": "2026-11-23T21:43:46+00:00",
+    "views": "1",
+    "text": "明晟公司 MSCI 新兴市场股票指数跌 0.2%，发展中国家外汇指数跌 0.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650900"
+  },
+  {
+    "post": "Financial_Express/3650899",
+    "datetime": "2026-11-23T21:43:22+00:00",
+    "views": "1",
+    "text": "美国参议员科顿：争议不会因黄仁勋复职而平息。国会需要调查的事情很多。两党芯片出口管制法案将会获得通过。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650899"
+  },
+  {
     "post": "Financial_Express/3650898",
     "datetime": "2026-11-23T21:41:26+00:00",
-    "views": "2",
-    "text": "美国参议院 Cotton：英伟达与 MegaSpeed 只是冰山一角。",
+    "views": "4",
+    "text": "美国参议院 Cotton：英伟达与 MegaSpeed 只是冰山一角。\n争议问题不会因为恢复黄仁勋的英伟达 CEO 职务就结束。\n国会山要调查的太多。\n将批准跨党派芯片出口管制立法草案。",
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3650898"
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3650897",
     "datetime": "2026-11-23T21:40:42+00:00",
-    "views": "2",
+    "views": "4",
     "text": "美洲开发银行官方文件显示，该行估计委内瑞拉处于违约状态的外债为 1924 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3650896",
     "datetime": "2026-11-23T21:40:23+00:00",
-    "views": "2",
+    "views": "4",
     "text": "美联储威廉姆斯表示，企业有招聘意愿，但态度谨慎。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3650895",
     "datetime": "2026-11-23T21:40:22+00:00",
-    "views": "2",
+    "views": "4",
     "text": "美联储威廉姆斯：企业有招聘意愿，但态度谨慎。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3650894",
     "datetime": "2026-11-23T21:40:02+00:00",
-    "views": "2",
+    "views": "4",
     "text": "OpenAI 联合思科发布开源项目 Shirudo，实现不停机的 AI 智能体系统防护\nOpenAI 表示正式推出 Shirudo，这是一款开源 Linux 运行时环境，可让 AI 智能体在无需停机的前提下对系统实施防护。它支持 AI 智能体编写动态 eBPF 防护规则，抵御系统漏洞攻击，为安全人员争取更多时间来测试、正式部署补丁。 该项目由思科与 OpenAI 联合打造。Shirudo 是迈向具备自主防御能力基础设施的第一步：在保障业务持续运行的同时，可自适应应对新型威胁。我们的目标是：安全人员与 AI 智能体协同，定位受影响系统、测试并共享防护策略，完成部署且不干扰业务负载运行。",
     "media_only": false,
     "image_url": null,
@@ -35341,23 +35359,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3646939"
-  },
-  {
-    "post": "Financial_Express/3646938",
-    "datetime": "2026-11-21T21:43:42+00:00",
-    "views": "162",
-    "text": "胡塞武装：麦加面临的唯一威胁来自罪恶的沙特政权。敌人沙特阿拉伯大肆散布虚假言论，声称麦加地区存在威胁。我们的行动针对其石油设施和军事基地。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646938"
-  },
-  {
-    "post": "Financial_Express/3646937",
-    "datetime": "2026-11-21T21:43:22+00:00",
-    "views": "155",
-    "text": "胡塞武装：除沙特外，麦加不存在任何威胁。沙特声称麦加地区存在威胁，是在散布弥天大谎。我们的行动针对其石油设施和军事基地。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646937"
   }
 ]
