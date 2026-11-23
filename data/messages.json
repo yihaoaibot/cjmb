@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3650090",
+    "datetime": "2026-11-23T14:17:22+00:00",
+    "views": "1",
+    "text": "现货黄金突破 3670 美元/盎司，日内涨 3.84%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650090"
+  },
+  {
+    "post": "Financial_Express/3650089",
+    "datetime": "2026-11-23T14:17:05+00:00",
+    "views": "1",
+    "text": "纽约银日内涨幅达 6.0%，报 44.06 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650089"
+  },
+  {
+    "post": "Financial_Express/3650088",
+    "datetime": "2026-11-23T14:17:03+00:00",
+    "views": "14",
+    "text": "现货白银日内涨 6%，现报 43.66 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650088"
+  },
+  {
+    "post": "Financial_Express/3650087",
+    "datetime": "2026-11-23T14:16:44+00:00",
+    "views": "15",
+    "text": "美国信用风险继续回落，此前英伟达宣布黄仁勋复出，特朗普为此表态背书。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650087"
+  },
+  {
+    "post": "Financial_Express/3650084",
+    "datetime": "2026-11-23T14:16:43+00:00",
+    "views": "15",
+    "text": "11 月 23 日，全球基金净买入印度股票 567 亿印度卢比。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650084"
+  },
+  {
+    "post": "Financial_Express/3650085",
+    "datetime": "2026-11-23T14:16:43+00:00",
+    "views": "15",
+    "text": "美国总统特朗普 23 日在社交媒体发文说，英伟达董事会让黄仁勋重新担任首席执行官一职是“正确且恰当的决定”。（新华社）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650085"
+  },
+  {
+    "post": "Financial_Express/3650086",
+    "datetime": "2026-11-23T14:16:43+00:00",
+    "views": "13",
+    "text": "纽约期金突破 3670 美元/盎司，日内涨 4.40%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650086"
+  },
+  {
+    "post": "Financial_Express/3650083",
+    "datetime": "2026-11-23T14:16:42+00:00",
+    "views": "15",
+    "text": "美国信用违约风险在黄仁勋恢复职务后进一步缓解。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650083"
+  },
+  {
+    "post": "Financial_Express/3650082",
+    "datetime": "2026-11-23T14:16:22+00:00",
+    "views": "18",
+    "text": "美国信用违约风险在黄仁勋复职后进一步缓解。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3650082"
+  },
+  {
     "post": "Financial_Express/3650081",
     "datetime": "2026-11-23T14:15:45+00:00",
-    "views": "1",
+    "views": "18",
     "text": "亚马逊据悉将斥资 75 亿美元收购人工智能初创公司 Decart 的技术\n亚马逊(AMZN.O)已同意收购初创公司 Decart AI 的大部分业务，旨在获取相关工具，以增强其云计算业务的人工智能基础设施。亚马逊在周一发布的一篇博文中表示，此次收购将涵盖“Decart 优化栈”背后的技术——该软件旨在让 AI 模型在各类硬件上都能顺畅运行——以及 Decart 的创始团队及其 AI 研究人员和工程师。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3650080",
     "datetime": "2026-11-23T14:15:43+00:00",
-    "views": "1",
+    "views": "18",
     "text": "受科技股上涨带动，欧洲斯托克 600 指数扩大涨幅，现涨 1.4%。法国及比荷卢地区半导体股意法半导体、BESI、ASMI、阿斯麦、Soitec 上涨 7.7%至 9.9%。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3650079",
     "datetime": "2026-11-23T14:15:22+00:00",
-    "views": "1",
+    "views": "32",
     "text": "Workday 完成对 C1.AI 的收购。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3650078",
     "datetime": "2026-11-23T14:14:42+00:00",
-    "views": "23",
+    "views": "30",
     "text": "纽约期银日内涨 6%，现报 44.06 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3650075",
     "datetime": "2026-11-23T14:14:23+00:00",
-    "views": "19",
+    "views": "33",
     "text": "纽约期银突破 44 美元/盎司，日内涨 5.89%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3650076",
     "datetime": "2026-11-23T14:14:23+00:00",
-    "views": "23",
+    "views": "34",
     "text": "白银连续主力合约日内涨 5%，现报 10436.00 元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3650077",
     "datetime": "2026-11-23T14:14:23+00:00",
-    "views": "25",
+    "views": "36",
     "text": "锡连续主力合约日内涨 5%，现报 325770.00 元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3650074",
     "datetime": "2026-11-23T14:14:22+00:00",
-    "views": "21",
+    "views": "33",
     "text": "美国劳工机构发布 401(k)ESG 投资拟议规则。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3650073",
     "datetime": "2026-11-23T14:14:03+00:00",
-    "views": "19",
+    "views": "35",
     "text": "外交部：愿积极支持尼泊尔开展泥石流灾后重建\n11 月 23 日，外交部发言人郭嘉昆主持例行记者会。会后有外媒记者提问，据报道，尼泊尔计划召开一次国际会议，为泥石流灾后重建筹集资金。尼方称中国已表达支持意愿，但具体金额尚未确定，中方还同意分享更多预警和气候数据。中方对此有何回应？郭嘉昆表示，尼泊尔是中国山水相连的友好邻邦，尼泊尔北部地区大规模泥石流灾害发生后，中方第一时间宣布向尼方受灾地区提供紧急援助，开展国际救援合作。中国政府向尼方提供了现汇援助和 5 批紧急援助物资，派遣二十余名隧道救援和法医鉴定专家赴尼，持续共享气象、水文、地质等信息数据。社会各界友好人士也纷纷伸出援手，及时向尼泊尔人民送去中国人民的关心和支持。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3650072",
     "datetime": "2026-11-23T14:13:23+00:00",
-    "views": "32",
+    "views": "44",
     "text": "德国 2 年期国债收益率上升 4.27 个基点至 3.102%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3650071",
     "datetime": "2026-11-23T14:12:44+00:00",
-    "views": "36",
+    "views": "46",
     "text": "欧洲信用风险指标继续下跌，英伟达董事会让已被罢免的 CEO 黄仁勋复出。",
     "media_only": false,
     "image_url": null,
@@ -29869,14 +29950,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3646741"
-  },
-  {
-    "post": "Financial_Express/3646740",
-    "datetime": "2026-11-21T14:17:22+00:00",
-    "views": "183",
-    "text": "据伊朗塔斯尼姆通讯社：伊朗副外长加里巴巴迪表示，卡塔尔代表团昨晚访问德黑兰，我们举行了两个小时的会谈。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3646740"
   }
 ]
