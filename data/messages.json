@@ -1,8 +1,80 @@
 [
   {
+    "post": "Financial_Express/3654018",
+    "datetime": "2026-11-24T21:06:42+00:00",
+    "views": "5",
+    "text": "戴尔美股盘后涨近 4%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3654018"
+  },
+  {
+    "post": "Financial_Express/3654017",
+    "datetime": "2026-11-24T21:06:22+00:00",
+    "views": "9",
+    "text": "戴尔第三季度人工智能优化服务器营收为 220.3 亿美元，预期为 193 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3654017"
+  },
+  {
+    "post": "Financial_Express/3654016",
+    "datetime": "2026-11-24T21:06:04+00:00",
+    "views": "10",
+    "text": "戴尔预计全年营收 2020 亿美元，此前中点预期为 1920 亿美元，市场预期为 1935 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3654016"
+  },
+  {
+    "post": "Financial_Express/3654013",
+    "datetime": "2026-11-24T21:06:03+00:00",
+    "views": "12",
+    "text": "金十图示：2026 年 11 月 24 日（周二）全球股市指数-美洲市场（收盘）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3654013"
+  },
+  {
+    "post": "Financial_Express/3654014",
+    "datetime": "2026-11-24T21:06:03+00:00",
+    "views": "12",
+    "text": "戴尔预计本财年人工智能优化服务器营收为 780 亿美元，此前预期为 740 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3654014"
+  },
+  {
+    "post": "Financial_Express/3654015",
+    "datetime": "2026-11-24T21:06:03+00:00",
+    "views": "11",
+    "text": "戴尔预计全年调整后每股收益 29.68 美元，此前中点预期为 25.5 美元，市场预期为 25.88 美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3654015"
+  },
+  {
+    "post": "Financial_Express/3654012",
+    "datetime": "2026-11-24T21:06:02+00:00",
+    "views": "12",
+    "text": "金十图示：2026 年 11 月 24 日（周二）美股热门股票行情一览（美股收盘）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3654012"
+  },
+  {
+    "post": "Financial_Express/3654011",
+    "datetime": "2026-11-24T21:05:42+00:00",
+    "views": "13",
+    "text": "金十图示：2026 年 11 月 24 日（周二）热门中概股行情一览（美股收盘）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3654011"
+  },
+  {
     "post": "Financial_Express/3654010",
     "datetime": "2026-11-24T21:05:22+00:00",
-    "views": "5",
+    "views": "15",
     "text": "戴尔第三季度人工智能服务器积压订单为 1323 亿美元，预期为 1173 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +83,7 @@
   {
     "post": "Financial_Express/3654009",
     "datetime": "2026-11-24T21:04:42+00:00",
-    "views": "12",
+    "views": "19",
     "text": "Workday 公司：第三季度业绩反映出我们的人工智能产品组合持续获得采用。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +92,7 @@
   {
     "post": "Financial_Express/3654008",
     "datetime": "2026-11-24T21:04:23+00:00",
-    "views": "14",
+    "views": "19",
     "text": "胡塞武装称沙特主导联军空袭萨那国际机场所在区域\n也门胡塞武装 24 日夜间消息称，沙特主导的联军空袭了也门首都萨那国际机场所在区域。机场本身是否被炸尚不清晰。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -29,7 +101,7 @@
   {
     "post": "Financial_Express/3654007",
     "datetime": "2026-11-24T21:04:22+00:00",
-    "views": "14",
+    "views": "18",
     "text": "OpenAI：GPT-6 系列模型已具备自主设计蛋白质的能力，能够通过推理和编写代码生成新的蛋白质结构及氨基酸序列，无需调用专门的生物学模型。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +110,7 @@
   {
     "post": "Financial_Express/3654006",
     "datetime": "2026-11-24T21:03:42+00:00",
-    "views": "25",
+    "views": "27",
     "text": "市场资讯：OpenAI GPT-6 无需专用生物模型即可完成蛋白质设计。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +119,7 @@
   {
     "post": "Financial_Express/3654005",
     "datetime": "2026-11-24T21:03:02+00:00",
-    "views": "30",
+    "views": "32",
     "text": "Anthropic 股价下跌 6.5%，收盘价跌破 83 美元的 IPO 发行价。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +128,7 @@
   {
     "post": "Financial_Express/3654004",
     "datetime": "2026-11-24T21:02:42+00:00",
-    "views": "30",
+    "views": "32",
     "text": "Workday 展望财年订阅收入为 99.58 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +137,7 @@
   {
     "post": "Financial_Express/3654003",
     "datetime": "2026-11-24T21:02:22+00:00",
-    "views": "31",
+    "views": "33",
     "text": "DeepHealth 获得 FDA 批准，推出首款基于 3D 乳腺 X 光影像预测五年乳腺癌风险的人工智能技术。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +146,7 @@
   {
     "post": "Financial_Express/3654001",
     "datetime": "2026-11-24T21:01:42+00:00",
-    "views": "38",
+    "views": "39",
     "text": "美股收盘：纳指跌近 1.5% 英伟达跌近 6% Anthropic 破发\n金十数据 11 月 25 日讯，美股周二收盘，道指初步收涨 0.86%，标普 500 指跌 0.49%，纳指跌 1.48%。Anthropic(ANT.O)跌 6.5%，收于发行价之下。英伟达(NVDA.O)跌 5.8%，AMD(AMD.O)跌 8.8%，戴尔(DELL.N)跌 13%。纳斯达克中国金龙指数涨 0.13%，网易(NTES.O)跌超 2%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +155,7 @@
   {
     "post": "Financial_Express/3654002",
     "datetime": "2026-11-24T21:01:42+00:00",
-    "views": "39",
+    "views": "40",
     "text": "神舟二十四号载人飞船瞄准今天 8 点 18 分发射，飞船将搭乘长征二号 F 遥二十四火箭在酒泉卫星发射中心升空。航天员汤洪波、武毅以及巴基斯坦航天员穆罕默德·齐尚·阿里将开启他们的太空之旅。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
