@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3654010",
+    "datetime": "2026-11-24T21:05:22+00:00",
+    "views": "5",
+    "text": "戴尔第三季度人工智能服务器积压订单为 1323 亿美元，预期为 1173 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3654010"
+  },
+  {
+    "post": "Financial_Express/3654009",
+    "datetime": "2026-11-24T21:04:42+00:00",
+    "views": "12",
+    "text": "Workday 公司：第三季度业绩反映出我们的人工智能产品组合持续获得采用。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3654009"
+  },
+  {
     "post": "Financial_Express/3654008",
     "datetime": "2026-11-24T21:04:23+00:00",
-    "views": "6",
+    "views": "14",
     "text": "胡塞武装称沙特主导联军空袭萨那国际机场所在区域\n也门胡塞武装 24 日夜间消息称，沙特主导的联军空袭了也门首都萨那国际机场所在区域。机场本身是否被炸尚不清晰。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3654007",
     "datetime": "2026-11-24T21:04:22+00:00",
-    "views": "6",
+    "views": "14",
     "text": "OpenAI：GPT-6 系列模型已具备自主设计蛋白质的能力，能够通过推理和编写代码生成新的蛋白质结构及氨基酸序列，无需调用专门的生物学模型。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3654006",
     "datetime": "2026-11-24T21:03:42+00:00",
-    "views": "20",
+    "views": "25",
     "text": "市场资讯：OpenAI GPT-6 无需专用生物模型即可完成蛋白质设计。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3654005",
     "datetime": "2026-11-24T21:03:02+00:00",
-    "views": "25",
+    "views": "30",
     "text": "Anthropic 股价下跌 6.5%，收盘价跌破 83 美元的 IPO 发行价。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3654004",
     "datetime": "2026-11-24T21:02:42+00:00",
-    "views": "25",
+    "views": "30",
     "text": "Workday 展望财年订阅收入为 99.58 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3654003",
     "datetime": "2026-11-24T21:02:22+00:00",
-    "views": "26",
+    "views": "31",
     "text": "DeepHealth 获得 FDA 批准，推出首款基于 3D 乳腺 X 光影像预测五年乳腺癌风险的人工智能技术。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3654001",
     "datetime": "2026-11-24T21:01:42+00:00",
-    "views": "35",
+    "views": "38",
     "text": "美股收盘：纳指跌近 1.5% 英伟达跌近 6% Anthropic 破发\n金十数据 11 月 25 日讯，美股周二收盘，道指初步收涨 0.86%，标普 500 指跌 0.49%，纳指跌 1.48%。Anthropic(ANT.O)跌 6.5%，收于发行价之下。英伟达(NVDA.O)跌 5.8%，AMD(AMD.O)跌 8.8%，戴尔(DELL.N)跌 13%。纳斯达克中国金龙指数涨 0.13%，网易(NTES.O)跌超 2%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3654002",
     "datetime": "2026-11-24T21:01:42+00:00",
-    "views": "35",
+    "views": "39",
     "text": "神舟二十四号载人飞船瞄准今天 8 点 18 分发射，飞船将搭乘长征二号 F 遥二十四火箭在酒泉卫星发射中心升空。航天员汤洪波、武毅以及巴基斯坦航天员穆罕默德·齐尚·阿里将开启他们的太空之旅。（CCTV 国际时讯）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3653999",
     "datetime": "2026-11-24T21:01:02+00:00",
-    "views": "39",
+    "views": "40",
     "text": "纽约证交所表示，11 月中旬的空头头寸下降 0.8%，至 229.9 亿股。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3654000",
     "datetime": "2026-11-24T21:01:02+00:00",
-    "views": "42",
+    "views": "45",
     "text": "美股收盘：三大股指集体涨跌不一\n道指涨 0.88%，标普 500 指数跌 0.47%，纳指跌 1.46%。亚德诺跌 17.37%，慧与跌 16.33%，Astera Labs Inc 跌 13.91%，美元树涨 11.18%，科斯塔涨 8.06%，Moderna 涨 7.29%。“七姐妹”方面：苹果涨 1.40%，微软涨 0.75%，特斯拉跌 0.20%，谷歌跌 1.06%，亚马逊跌 1.21%，Meta Platforms 跌 1.29%，英伟达跌 5.94%。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +110,7 @@
   {
     "post": "Financial_Express/3653998",
     "datetime": "2026-11-24T21:00:42+00:00",
-    "views": "39",
+    "views": "40",
     "text": "美国加州金融保护与创新部：责令 Afterpay 因非法“先买后付”贷款支付 268 万美元罚款。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3653997",
     "datetime": "2026-11-24T21:00:22+00:00",
-    "views": "38",
+    "views": "41",
     "text": "纳斯达克中国金龙指数收涨 0.19%\n震坤行涨 7.34%，AIFU 涨 6.25%，MAAS 涨 4.76%，爱奇艺涨 4.95%，小牛电动涨 4.90%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3653996",
     "datetime": "2026-11-24T20:59:42+00:00",
-    "views": "40",
+    "views": "44",
     "text": "截至 11 月 23 日，美国政府距离 41.1 万亿美元的借款上限还差 5756 亿美元。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3653995",
     "datetime": "2026-11-24T20:57:02+00:00",
-    "views": "50",
+    "views": "54",
     "text": "以媒：以防长称伊朗“正在研发化学武器”\n金十数据 11 月 25 日讯，据以色列媒体 24 日报道，以国防部长卡茨当天称伊朗“正在研发化学武器”，但他未提供任何细节或证据。据报道，卡茨说，伊朗“正在研发化学武器”但尚不具备对以色列发动化武袭击的能力，以方“绝不允许伊朗获得化学武器”，正在为包括“伊朗先发制人打击以色列”在内的所有可能情况做准备。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3653994",
     "datetime": "2026-11-24T20:55:42+00:00",
-    "views": "51",
+    "views": "55",
     "text": "以媒：以防长称伊朗“正在研发化学武器”\n据以色列媒体 24 日报道，以国防部长卡茨当天称伊朗“正在研发化学武器”，但他未提供任何细节或证据。据报道，卡茨说，伊朗“正在研发化学武器”但尚不具备对以色列发动化武袭击的能力，以方“绝不允许伊朗获得化学武器”，正在为包括“伊朗先发制人打击以色列”在内的所有可能情况做准备。（新华社）",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3653993",
     "datetime": "2026-11-24T20:54:22+00:00",
-    "views": "51",
+    "views": "55",
     "text": "世卫组织向古巴提供 200 万美元医疗援助\n世界卫生组织总干事谭德塞 24 日宣布，将向古巴提供 200 万美元资金，用于加强免疫接种工作，并向当地医疗机构提供必要的医疗设备。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3653992",
     "datetime": "2026-11-24T20:51:22+00:00",
-    "views": "89",
+    "views": "91",
     "text": "以色列组阁期限临近 反对派内部出现分歧\n金十数据 11 月 25 日讯，据以色列 i24News 报道，以色列民主党周二宣布，暂停与埃森科特领导的正直党谈判，原因是埃森科特同时与总理内塔尼亚胡领导的利库德集团商谈组建联合政府。民主党认为，埃森科特不能一边与内塔尼亚胡谈判，一边又与反对派讨论组建新政府，要求他先解决与利库德集团的谈判，再决定是否恢复接触。与此同时，埃森科特与以色列家园党主席利伯曼已同意签署两党合作协议。前总理贝内特则继续推动反对派与内塔尼亚胡组建联合政府，并提出由埃森科特和内塔尼亚胡轮流担任总理的方案。目前，埃森科特距离总统授予的组阁期限届满仅剩 12 天，预计可能需要申请延长 14 天。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3653991",
     "datetime": "2026-11-24T20:50:42+00:00",
-    "views": "86",
+    "views": "88",
     "text": "阿根廷总统米莱阵营参议院党团领袖布利奇称，她已拿到足够票数推动选举改革法案通过。",
     "media_only": false,
     "image_url": null,
@@ -57706,14 +57724,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3647532"
-  },
-  {
-    "post": "Financial_Express/3647531",
-    "datetime": "2026-11-22T21:05:22+00:00",
-    "views": "121",
-    "text": "肯尼亚与刚果（金）同意全面恢复外交关系\n肯尼亚总统鲁托与刚果（金）总统齐塞克迪 22 日在刚果（布）北部城市奥约举行的四方峰会上达成共识，两国同意通过恢复大使往来等措施推动全面恢复外交关系，加强经济合作，共同维护地区和平与稳定。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3647531"
   }
 ]
