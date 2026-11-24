@@ -1,8 +1,107 @@
 [
   {
+    "post": "Financial_Express/3652690",
+    "datetime": "2026-11-24T10:01:23+00:00",
+    "views": "1",
+    "text": "哔哩哔哩第三季度调整后每股收益 1.85 元人民币，预估 1.77 元人民币。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3652690"
+  },
+  {
+    "post": "Financial_Express/3652689",
+    "datetime": "2026-11-24T10:01:22+00:00",
+    "views": "1",
+    "text": "泰国 SET 指数收盘下跌 0.2%，报 1451.65 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3652689"
+  },
+  {
+    "post": "Financial_Express/3652688",
+    "datetime": "2026-11-24T10:01:05+00:00",
+    "views": "1",
+    "text": "欧陆通：拟以 5000 万元-1 亿元回购股份，价格不超过 166.20 元/股，用于股权激励或员工持股计划。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3652688"
+  },
+  {
+    "post": "Financial_Express/3652687",
+    "datetime": "2026-11-24T10:01:02+00:00",
+    "views": "1",
+    "text": "哔哩哔哩 2026 年 Q3 营收 83.2 亿元，上年同期 76.85 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3652687"
+  },
+  {
+    "post": "Financial_Express/3652686",
+    "datetime": "2026-11-24T10:01:01+00:00",
+    "views": "1",
+    "text": "润丰股份公告，回购价格不超过 60 元/股，预计回购 166.67 万股至 333.33 万股，占总股本 0.46%至 0.91%，回购股份全部用于注销并减少注册资本。回购期限为自 2026 年第三次临时股东会审议通过之日起 12 个月内，方案已经第五届董事会第九次会议审议通过，尚需提交股东会审议。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3652686"
+  },
+  {
+    "post": "Financial_Express/3652685",
+    "datetime": "2026-11-24T10:00:51+00:00",
+    "views": "2",
+    "text": "南方航空：控股子公司厦门航空与波音公司签署协议，购买 50 架 B737-8 飞机，目录价格约 74 亿美元（约人民币 496.62 亿元），实际价格低于目录价格，计划于 2031 年至 2034 年分批交付。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3652685"
+  },
+  {
+    "post": "Financial_Express/3652683",
+    "datetime": "2026-11-24T10:00:43+00:00",
+    "views": "2",
+    "text": "唯品会：预计第四季度净营收 292 亿元人民币至 309 亿元人民币。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3652683"
+  },
+  {
+    "post": "Financial_Express/3652684",
+    "datetime": "2026-11-24T10:00:43+00:00",
+    "views": "2",
+    "text": "唯品会：第三季度毛利率 22.9％，预估 23.1％。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3652684"
+  },
+  {
+    "post": "Financial_Express/3652682",
+    "datetime": "2026-11-24T10:00:42+00:00",
+    "views": "2",
+    "text": "哔哩哔哩(BILI.O)2026 年 Q3 营收 83.2 亿元，上年同期 76.85 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3652682"
+  },
+  {
+    "post": "Financial_Express/3652681",
+    "datetime": "2026-11-24T10:00:37+00:00",
+    "views": "2",
+    "text": "星辉娱乐：11 月 23 日首次回购 251.49 万股，占总股本 0.20%，成交价 3.66 元/股至 3.87 元/股，成交总金额 926.98 万元。（不含交易费用）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3652681"
+  },
+  {
+    "post": "Financial_Express/3652680",
+    "datetime": "2026-11-24T10:00:28+00:00",
+    "views": "3",
+    "text": "唯品会：第三季度净营收 204 亿元人民币，预估 203.8 亿元人民币。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3652680"
+  },
+  {
     "post": "Financial_Express/3652679",
     "datetime": "2026-11-24T10:00:25+00:00",
-    "views": "1",
+    "views": "3",
     "text": "唯品会：第三季度调整后每 ADS 收益 2.64 元人民币，预估 2.66 元人民币。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +110,7 @@
   {
     "post": "Financial_Express/3652677",
     "datetime": "2026-11-24T10:00:24+00:00",
-    "views": "1",
+    "views": "4",
     "text": "中英签署新的教育领域合作框架协议\n今天，中英教育部长磋商会时隔九年再次举办。中英两国教育部部长签署《关于加强教育领域合作的框架协议》，这是中英两国教育领域新的全方位的合作协议，涵盖学前教育、基础教育与教师培训、职业教育与培训、高等教育、跨境教育、终身学习、特殊教育、语言教学、数字与人工智能教育等九大领域。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +119,7 @@
   {
     "post": "Financial_Express/3652678",
     "datetime": "2026-11-24T10:00:24+00:00",
-    "views": "1",
+    "views": "3",
     "text": "台积电：产能持续供不应求 长期展望持续看好\n台积电 23 日强调全球 AI 需求与日俱增，长期展望持续看好，称“市场对先进制程技术需求依然强劲”，产能持续供不应求。市场解读认为，台积电维持对后市强烈看好的观点，反驳了近期市场关于“AI 泡沫化”以及资本支出回报率的负面猜测，为半导体和 AI 供应链注入强心针，同时澄清了市场上 AI 需求突然断崖式下跌的传闻。台积电指出，全球对 AI 的需求与日俱增，长期展望持续看好。随着应用场景逐渐从聊天机器人转向 AI 助理，代理式 AI 的普及，进一步推升整体需求。台积电强调，半导体在 AI 大趋势中，依旧扮演不可或缺的核心角色。随着半导体在全球供应链中的价值持续攀升，不仅为全球客户开创值得把握的庞大商机，也为台积电带来更多高价值潜力。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +128,7 @@
   {
     "post": "Financial_Express/3652676",
     "datetime": "2026-11-24T10:00:23+00:00",
-    "views": "1",
+    "views": "4",
     "text": "中英签署新的教育领域合作框架协议\n金十数据 11 月 24 日讯，今天，中英教育部长磋商会时隔九年再次举办。中英两国教育部部长签署《关于加强教育领域合作的框架协议》，这是中英两国教育领域新的全方位的合作协议，涵盖学前教育、基础教育与教师培训、职业教育与培训、高等教育、跨境教育、终身学习、特殊教育、语言教学、数字与人工智能教育等九大领域。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +137,7 @@
   {
     "post": "Financial_Express/3652675",
     "datetime": "2026-11-24T10:00:22+00:00",
-    "views": "1",
+    "views": "4",
     "text": "老虎国际第三季度非 GAAP 净利润 4990 万美元 环比增长 16.4%\n金十数据 11 月 24 日讯，老虎证券(TIGR.O)公布 2026 年第三季度未经审计财务业绩，期内实现营收 1.726 亿美元，同比下降 1.5%；归属于股东的非 GAAP 净利润为 4990 万美元，环比增长 16.4%，创公司历史第二高单季水平。第三季度公司新增入金客户 4.85 万名，环比增长 48.9%，同比增长 54.1%；截至季末，累计入金客户达 136.4 万名，同比增长 11.4%。客户资产总额达到 648 亿美元，环比增长 6.7%，创历史新高。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +146,7 @@
   {
     "post": "Financial_Express/3652674",
     "datetime": "2026-11-24T10:00:10+00:00",
-    "views": "1",
+    "views": "3",
     "text": "10 年期国开债活跃券“26 国开 05”收盘报 1.6900%，较前一交易日上行 1.5 个基点，日内成交笔数 1285；\n10 年期国债活跃券“26 附息国债 16”收盘报 1.5800%，较前一交易日下行 0.5 个基点，日内成交笔数 476。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +155,7 @@
   {
     "post": "Financial_Express/3652673",
     "datetime": "2026-11-24T10:00:02+00:00",
-    "views": "1",
+    "views": "3",
     "text": "沐曦股份全栈 GPU 产品在中国联通上海临港智算中心实现规模化部署\n记者从沐曦股份获悉，公司全栈 GPU 产品已在中国联通上海临港智算中心实现规模化部署，与中国联通的算力网络、调度平台、绿色能源方案对接，形成可以对外服务的智算底座。其中，沐曦股份提供算力核心部件，中国联通提供机房、网络、电力和运维，双方在真实的大规模集群中共同验证适配、优化调度。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +164,7 @@
   {
     "post": "Financial_Express/3652671",
     "datetime": "2026-11-24T10:00:01+00:00",
-    "views": "1",
+    "views": "3",
     "text": "2026/11/24 信用债跌幅榜（前十名）",
     "media_only": false,
     "image_url": null,
@@ -74,7 +173,7 @@
   {
     "post": "Financial_Express/3652672",
     "datetime": "2026-11-24T10:00:01+00:00",
-    "views": "1",
+    "views": "3",
     "text": "2026/11/24 信用债涨幅榜（前十名）",
     "media_only": false,
     "image_url": null,
@@ -48472,23 +48571,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3647239"
-  },
-  {
-    "post": "Financial_Express/3647238",
-    "datetime": "2026-11-22T10:01:48+00:00",
-    "views": "117",
-    "text": "11 月 22 日，阿达尼能源解决方案公司公告称，公司已于印度时间 11 月 21 日与 REC Power Development and Consultancy Limited（RECPDCL）签署《股份购买协议》，以收购维克拉姆希拉电力传输有限公司（VPTL）100%股权。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3647238"
-  },
-  {
-    "post": "Financial_Express/3647237",
-    "datetime": "2026-11-22T10:00:42+00:00",
-    "views": "113",
-    "text": "新疆乌鲁木齐发生 4.5 级地震 暂无人员伤亡报告\n11 月 22 日 17 时 08 分，在新疆乌鲁木齐市乌鲁木齐县（北纬 43.41 度，东经 88.04 度）发生 4.5 级地震，震源深度 30 千米。震中 5 公里范围内平均海拔约 1119 米，距乌鲁木齐市 54 公里。本次地震周边 10 公里内的村庄有土墩子、马连滩，20 公里内的乡镇有柴窝堡乡。记者从乌鲁木齐市消防救援支队了解到，该支队一支重型地震救援队 23 车 100 人 2 犬已集结完毕，乌鲁木齐支队乌鲁木齐县大队观岭南路消防站先遣队 2 车 10 人 2 犬，达坂城区大队古城新街消防站先遣队 2 车 10 人已集结出动。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3647237"
   }
 ]
