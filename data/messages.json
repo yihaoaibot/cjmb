@@ -1,8 +1,17 @@
 [
   {
+    "post": "Financial_Express/3651513",
+    "datetime": "2026-11-24T02:57:42+00:00",
+    "views": "2",
+    "text": "远控类僵尸网络家族 Cling 新变种大范围传播，国家互联网应急中心发布风险提示\n近期，国家互联网应急中心（CNCERT）监测发现，僵尸网络家族 Cling 的新变种正在大范围传播，主要针对 Linux 服务器及 IoT 设备。该木马采用创新性的通信机制，隐匿能力极强：其控制端隐匿于公共 STUN 服务之中，指令嵌入 STUN 事务标识（Transaction ID）字段，使控制流量隐藏于海量正常 STUN 交互之中，传统监测手段难以有效察觉。2026 年 11 月 09 日至 11 月 20 日期间，CNCERT 监测发现该僵尸网络感染的日上线肉鸡数最高达到 2730 台，累计已有 5600 台设备受其感染。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3651513"
+  },
+  {
     "post": "Financial_Express/3651512",
     "datetime": "2026-11-24T02:55:43+00:00",
-    "views": "2",
+    "views": "33",
     "text": "金十图示：2026 年 11 月 24 日（周二）全球主要科技与互联网公司市值变化",
     "media_only": false,
     "image_url": null,
@@ -11,7 +20,7 @@
   {
     "post": "Financial_Express/3651511",
     "datetime": "2026-11-24T02:55:22+00:00",
-    "views": "3",
+    "views": "34",
     "text": "“全球 6G 发展理念宣言”发布\n在 24 日上午举行的 2026 全球 6G 发展大会上，“全球 6G 发展理念宣言”发布。（IMT-2030（6G）推进组组长、中国信通院副院长 王志勤介绍《全球 6G 发展理念宣言》。当前，6G 发展已进入标准研制全面启动、技术研发加快突破的关键阶段，需要全球产学研用各方更加紧密地合作、更加开放地融通、更加务实地创新。IMT-2030（6G）推进组携手全球主要国际组织、产业联盟、国内外重点企业共同发布《全球 6G 发展理念宣言》，凝聚行业共识，深化交流合作，坚定发展信心，共筑 6G 繁荣可持续的产业生态。",
     "media_only": false,
     "image_url": null,
@@ -173,7 +182,7 @@
   {
     "post": "Financial_Express/3651494",
     "datetime": "2026-11-24T02:50:42+00:00",
-    "views": "34",
+    "views": "64",
     "text": "LME 伦铜日内跌超 2.00%，现报 12239.500 美元/吨。",
     "media_only": false,
     "image_url": null,
@@ -40093,14 +40102,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3647021"
-  },
-  {
-    "post": "Financial_Express/3647020",
-    "datetime": "2026-11-22T02:58:02+00:00",
-    "views": "199",
-    "text": "苏丹军方消息人士透露，军方地面防空系统正在应对喀土穆州上空的不明敌对目标。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3647020"
   }
 ]
