@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3656646",
+    "datetime": "2026-11-25T18:30:22+00:00",
+    "views": "3",
+    "text": "上期所原油期货夜盘收涨 2.01%，报 589.50 元人民币/桶。沪金夜盘收跌 1.02%，沪银收跌 2.62%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3656646"
+  },
+  {
+    "post": "Financial_Express/3656645",
+    "datetime": "2026-11-25T18:30:02+00:00",
+    "views": "3",
+    "text": "美国参议员布克致信英伟达董事会主席琼斯，就美国总统特朗普的干预一事向英伟达提出询问。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3656645"
+  },
+  {
     "post": "Financial_Express/3656644",
     "datetime": "2026-11-25T18:21:02+00:00",
-    "views": "64",
+    "views": "94",
     "text": "美联储下次 FOMC 会议加息 25 个基点的概率为 93%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3656643",
     "datetime": "2026-11-25T18:20:42+00:00",
-    "views": "67",
+    "views": "97",
     "text": "SpaceX 获美国批准部署最多 100 万颗卫星 用于建设太空数据中心\n金十数据 11 月 26 日讯，美国联邦通信委员会批准 SpaceX(SPCX.O)发射最多 100 万颗卫星，用于建设轨道数据中心网络，为复杂人工智能计算提供算力。这是美国首次批准轨道数据中心项目。SpaceX 表示，太空数据中心可利用太阳能供电，并通过太空中的辐射散热降低对地面冷却系统和水资源的依赖。根据公司 1 月提交的申请，卫星计划部署在距地面 500 至 2000 公里的轨道，并通过激光链路相互通信。不过，该计划引发天文学家及航天业界担忧，认为大规模部署可能加剧轨道拥堵、卫星碰撞风险，并影响天文观测。美国天文学会等机构曾要求 FCC 否决申请。与此同时，杰夫·贝索斯旗下蓝色起源也已申请部署自己的太空数据中心，仍在等待监管审批。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3656642",
     "datetime": "2026-11-25T18:18:22+00:00",
-    "views": "105",
+    "views": "106",
     "text": "道指上涨近 150 点，受 IBM 和宣伟公司股价上涨提振。标普 500 指数和纳斯达克指数收窄跌幅，最新分别下跌 0.65%和 1.4%。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3656639",
     "datetime": "2026-11-25T18:17:22+00:00",
-    "views": "77",
+    "views": "107",
     "text": "比特币升破 60000 美元，日内涨 0.29%。",
     "media_only": false,
     "image_url": null,
@@ -53242,41 +53260,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3650673"
-  },
-  {
-    "post": "Financial_Express/3650672",
-    "datetime": "2026-11-23T18:30:22+00:00",
-    "views": "71",
-    "text": "上期所原油期货夜盘收跌 2.01%，报 571.30 元人民币/桶。沪金夜盘收涨 2.11%，沪银收涨 4.66%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3650672"
-  },
-  {
-    "post": "Financial_Express/3650670",
-    "datetime": "2026-11-23T18:30:02+00:00",
-    "views": "101",
-    "text": "法拉利首席执行官维尼亚：我们必须在 F1 中保持竞争力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3650670"
-  },
-  {
-    "post": "Financial_Express/3650669",
-    "datetime": "2026-11-23T18:29:42+00:00",
-    "views": "71",
-    "text": "亚马逊将收购 Decart 的芯片软件并聘用其创始人。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3650669"
-  },
-  {
-    "post": "Financial_Express/3650668",
-    "datetime": "2026-11-23T18:29:22+00:00",
-    "views": "72",
-    "text": "黄仁勋回归或加剧英伟达与 Anthropic 的开闭源路线冲突\n金十数据 11 月 24 日讯，据 Business Insider 报道分析，黄仁勋重掌英伟达(NVDA.O)可能给 Anthropic 带来新的竞争压力。双方的核心分歧在于 AI 发展路线：Anthropic 坚持闭源模式，通过向客户提供模型访问权限收费；黄仁勋则大力推动开放权重模型，允许企业下载、修改并自行部署，无需持续支付模型使用费用。英伟达不仅开发自有 Nemotron 模型，还投资了 Reflection AI、Thinking Machines 和 Poolside 等初创企业。这一战略有利于扩大企业自主运行 AI 模型的需求，进而带动英伟达芯片销售，却可能削弱 Anthropic 对高端模型收取溢价的能力。一名 AI 初创企业 CEO 将双方的竞争形容为一场“冷战”。此前有报道援引消息人士称，美国总统特朗普和副总统万斯上周末亲自介入英伟达事务，原因是他们认为，重新出任 CEO 的黄仁勋是唯一能够保护开放权重模型发展的人。随着黄仁勋重新掌舵英伟达，其推动开放模型发展的战略可能重新提速，Anthropic 所面临的竞争压力也随之增加。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3650668"
   }
 ]
