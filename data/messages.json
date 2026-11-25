@@ -1,5 +1,95 @@
 [
   {
+    "post": "Financial_Express/3655862",
+    "datetime": "2026-11-25T12:01:22+00:00",
+    "views": "5",
+    "text": "纽约期银日内跌 4%，现报 39.58 美元/盎司。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3655862"
+  },
+  {
+    "post": "Financial_Express/3655861",
+    "datetime": "2026-11-25T12:01:03+00:00",
+    "views": "9",
+    "text": "美国至 11 月 20 日当周 MBA 抵押贷款再融资活动指数 535.5，前值 532.8。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3655861"
+  },
+  {
+    "post": "Financial_Express/3655860",
+    "datetime": "2026-11-25T12:01:02+00:00",
+    "views": "9",
+    "text": "美国至 11 月 20 日当周 MBA 抵押贷款购买指数 151.6，前值 137.6。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3655860"
+  },
+  {
+    "post": "Financial_Express/3655859",
+    "datetime": "2026-11-25T12:00:44+00:00",
+    "views": "15",
+    "text": "蔚来李斌谈算力：现在卡很贵也买不到，租卡更符合经营模式\n2026 蔚来创新科技日举行。会后，蔚来创始人、董事长、CEO 李斌，蔚来联合创始人、总裁秦力洪与新浪科技等媒体进行对话。谈及算力，李斌表示：“目前主要还得以租（算力）卡为主，因为我们的需求是有波峰波谷，现在卡又很贵，也买不到，所以总的来说还是租卡更符合我们经营的。”对于正在实行的 CBU 机制是否有效果，李斌也表示：“CBU 机制对毛利肯定毫无疑问是有改善的。哪些技术在保障用户体验的情况下还能节约一些成本，我们就按照这个技术去投了。”（新浪科技）",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3655859"
+  },
+  {
+    "post": "Financial_Express/3655856",
+    "datetime": "2026-11-25T12:00:43+00:00",
+    "views": "15",
+    "text": "美国至 11 月 20 日当周 MBA 抵押贷款申请活动指数 212，前值 199.8。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3655856"
+  },
+  {
+    "post": "Financial_Express/3655857",
+    "datetime": "2026-11-25T12:00:43+00:00",
+    "views": "14",
+    "text": "美国至 11 月 20 日当周 MBA30 年期固定抵押贷款利率 7.38%，前值 7.35%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3655857"
+  },
+  {
+    "post": "Financial_Express/3655858",
+    "datetime": "2026-11-25T12:00:43+00:00",
+    "views": "15",
+    "text": "极星汽车控股第三季度净亏损 4.03 亿美元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3655858"
+  },
+  {
+    "post": "Financial_Express/3655855",
+    "datetime": "2026-11-25T12:00:23+00:00",
+    "views": "17",
+    "text": "王青峰任陕西省副省长\n“陕西人大”消息，11 月 25 日陕西省第十四届人民代表大会常务委员会第二十六次会议通过，根据《中华人民共和国地方各级人民代表大会和地方各级人民政府组织法》《陕西省人民代表大会常务委员会任免国家机关工作人员办法》的有关规定，陕西省第十四届人民代表大会常务委员会第二十六次会议决定任命：王青峰为陕西省副省长。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3655855"
+  },
+  {
+    "post": "Financial_Express/3655854",
+    "datetime": "2026-11-25T12:00:22+00:00",
+    "views": "18",
+    "text": "美国 MBA 抵押贷款申请指数上周上升 6.1%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3655854"
+  },
+  {
+    "post": "Financial_Express/3655853",
+    "datetime": "2026-11-25T12:00:02+00:00",
+    "views": "22",
+    "text": "百时美施贵宝公司：POETYK SLE-1 试验达到 SRI-4 主要终点和关键次要终点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3655853"
+  },
+  {
     "post": "Financial_Express/3655852",
     "datetime": "2026-11-25T11:59:42+00:00",
     "views": "1",
@@ -11,7 +101,7 @@
   {
     "post": "Financial_Express/3655851",
     "datetime": "2026-11-25T11:59:24+00:00",
-    "views": "9",
+    "views": "28",
     "text": "知乎周源回应间接投资 DeepSeek：对长期价值有清晰判断，不会牺牲主营业务发展\n11 月 23 日晚间，知乎公告确认，公司此前认购的天津砺思星深股权投资合伙企业（有限合伙），已通过投资主体间接投资 DeepSeek，取得低个位数比例股权。知乎在该基金中的合伙权益低于 30%。今年 9 月，知乎曾宣布拟以自有资金 15 亿元认购上述基金份额。对此，11 月 24 日晚，知乎 CEO 周源在财报后的电话会议中回应称：“这是一项我们经过充分研究、审慎评估后作出的长期战略决策。我们对这笔投资的战略目标、资金安排以及长期价值都有非常清晰的判断。”（澎湃）",
     "media_only": false,
     "image_url": null,
@@ -20,7 +110,7 @@
   {
     "post": "Financial_Express/3655848",
     "datetime": "2026-11-25T11:59:23+00:00",
-    "views": "10",
+    "views": "27",
     "text": "现货黄金失守 3500 美元/盎司，日内跌 1.70%。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +119,7 @@
   {
     "post": "Financial_Express/3655849",
     "datetime": "2026-11-25T11:59:23+00:00",
-    "views": "10",
+    "views": "28",
     "text": "纽约期金失守 3520 美元/盎司，日内跌 1.99%。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +128,7 @@
   {
     "post": "Financial_Express/3655850",
     "datetime": "2026-11-25T11:59:23+00:00",
-    "views": "10",
+    "views": "28",
     "text": "纽约期金日内跌 2%，现报 3519.11 美元/盎司。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +137,7 @@
   {
     "post": "Financial_Express/3655847",
     "datetime": "2026-11-25T11:59:22+00:00",
-    "views": "11",
+    "views": "28",
     "text": "现货黄金跌破 3500 美元关口\n金十数据 11 月 25 日讯，现货黄金跌破 3500 美元关口，为去年 9 月以来最低水平，较年内高点回撤近 4 成。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +146,7 @@
   {
     "post": "Financial_Express/3655846",
     "datetime": "2026-11-25T11:59:02+00:00",
-    "views": "13",
+    "views": "30",
     "text": "纽约期金失守 3530 美元/盎司，日内跌 1.70%。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +155,7 @@
   {
     "post": "Financial_Express/3655845",
     "datetime": "2026-11-25T11:58:42+00:00",
-    "views": "20",
+    "views": "33",
     "text": "古越龙山：持续推进全国化布局，第三季度江浙沪以外市场收入占比达 47.06%\n11 月 25 日，浙江古越龙山绍兴酒股份有限公司（古越龙山，600059.SH）召开 2026 年第三季度业绩说明会。古越龙山副董事长、总经理马川在业绩会上回应投资者提问时表示，公司持续推进全国化布局，江浙沪以外市场是公司重点拓展方向，前三季度古越龙山实现酒类业务收入 10.60 亿元，其中江浙沪以外市场收入 4.63 亿元，占比 43.71%，较上半年进一步提升 1.24%，稳步提速，其中，第三季度江浙沪以外市场收入占比达 47.06%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +164,7 @@
   {
     "post": "Financial_Express/3655844",
     "datetime": "2026-11-25T11:58:22+00:00",
-    "views": "26",
+    "views": "36",
     "text": "美股盘前要闻速递\n\n①美股三大股指期货齐跌，道指期货跌 1.14%，标普 500 指数期货跌 1.81%，纳指期货跌 2.80%。\n②德国 DAX 指数跌 0.09%，英国富时 100 指数涨 0.17%，法国 CAC40 指数涨 0.75%，欧洲斯托克 50 指数跌 0.35%。\n③WTI 原油跌 0.55%，报 81.60 美元/桶。布伦特原油跌 0.62%，报 88.23 美元/桶。\n④桥水基金创始人瑞・达利欧在访谈中，对当前 AI 热潮发出警示，指出市场把颠覆性技术等同于优质投资，是本轮 AI 行情潜藏的核心风险。\n⑤德意志银行称，稳健的盈利增长以及股票需求将推动标普 500 在 2027 年底升至约 9000 点，较上一收盘点位有 25%的上涨空间。\n⑥科技股持续下挫，交易员静待影响美联储利率决议的美国通胀数据，铜、铝、锡延续周二金属市场的猛烈抛售。\n⑦英伟达股价盘前跌超 5%，此前一交易日下跌 5.9%。\n⑧戴尔盘前一度跌超 7%，此前公司警告下一季度服务器业务利润率可能下降。\n⑨Workday 第三季度业绩公布后，其盘前股价下跌 9.1%。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +173,7 @@
   {
     "post": "Financial_Express/3655843",
     "datetime": "2026-11-25T11:58:03+00:00",
-    "views": "30",
+    "views": "41",
     "text": "国货航：AI 需求对航空货运行业形成了系统性拉动作用，支撑即期运价上行\n2025 年 AI 相关货物占全球航空货运量的 7%，空运货值约 53%。产地主要集中于亚洲，如中国台湾、越南、泰国、马来西亚、新加坡等为服务器、芯片及配套件的制造组装枢纽。中国大陆货量也保持高位。AI 需求对航空货运行业形成了系统性拉动作用，支撑即期运价上行。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +182,7 @@
   {
     "post": "Financial_Express/3655842",
     "datetime": "2026-11-25T11:58:02+00:00",
-    "views": "29",
+    "views": "39",
     "text": "哈萨克斯坦 11 月 24 日原油和凝析油日产量较 11 月均值下降 17%，因恶劣天气扰乱 CPC 出口。",
     "media_only": false,
     "image_url": null,
@@ -54934,23 +55024,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3649689"
-  },
-  {
-    "post": "Financial_Express/3649688",
-    "datetime": "2026-11-23T12:01:09+00:00",
-    "views": "42",
-    "text": "墨西哥第三季度 GDP 同比增长 3.31%，市场预期为 3.1%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3649688"
-  },
-  {
-    "post": "Financial_Express/3649687",
-    "datetime": "2026-11-23T12:00:57+00:00",
-    "views": "42",
-    "text": "乌克兰总理科列茨基：俄罗斯袭击了乌克兰 12 个地区的铁路和能源设施。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3649687"
   }
 ]
