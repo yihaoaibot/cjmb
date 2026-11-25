@@ -1,8 +1,89 @@
 [
   {
+    "post": "Financial_Express/3656670",
+    "datetime": "2026-11-25T18:41:23+00:00",
+    "views": "4",
+    "text": "标普：英伟达的管理和治理框架暴露出脆弱性，尤其是在董事会结构、构成和效能方面。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3656670"
+  },
+  {
+    "post": "Financial_Express/3656671",
+    "datetime": "2026-11-25T18:41:23+00:00",
+    "views": "4",
+    "text": "标普：英伟达 CEO 的离职与复职，未能充分解答我们对董事会监督高管行为准则的疑问。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3656671"
+  },
+  {
+    "post": "Financial_Express/3656669",
+    "datetime": "2026-11-25T18:41:22+00:00",
+    "views": "4",
+    "text": "标普全球评级：英伟达(NVDA.O)首席执行官的离职及随后复职，不足以充分解答我们对于董事会对高管行为准则监督情况的疑问。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3656669"
+  },
+  {
+    "post": "Financial_Express/3656667",
+    "datetime": "2026-11-25T18:41:02+00:00",
+    "views": "8",
+    "text": "也门胡塞武装：袭击了吉达和吉赞港。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3656667"
+  },
+  {
+    "post": "Financial_Express/3656668",
+    "datetime": "2026-11-25T18:41:02+00:00",
+    "views": "8",
+    "text": "也门胡塞武装称他们袭击了吉达和贾赞港口。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3656668"
+  },
+  {
+    "post": "Financial_Express/3656666",
+    "datetime": "2026-11-25T18:40:23+00:00",
+    "views": "15",
+    "text": "标普可能下调英伟达信用评级。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3656666"
+  },
+  {
+    "post": "Financial_Express/3656665",
+    "datetime": "2026-11-25T18:40:22+00:00",
+    "views": "15",
+    "text": "标普全球评级：因并购风险上升，英伟达(NVDA.O)的“AA”评级被列入负面信用观察名单。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3656665"
+  },
+  {
+    "post": "Financial_Express/3656664",
+    "datetime": "2026-11-25T18:40:03+00:00",
+    "views": "17",
+    "text": "标普将英伟达“AA”评级列入负面信用观察名单。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3656664"
+  },
+  {
+    "post": "Financial_Express/3656663",
+    "datetime": "2026-11-25T18:40:02+00:00",
+    "views": "17",
+    "text": "美国副总统万斯：（关于艾奥瓦州爆炸事件）政府做出了正确的决定。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3656663"
+  },
+  {
     "post": "Financial_Express/3656662",
     "datetime": "2026-11-25T18:39:02+00:00",
-    "views": "11",
+    "views": "21",
     "text": "埃及卫生部：开罗环城公路事故死亡人数升至至少 30 人。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +92,7 @@
   {
     "post": "Financial_Express/3656661",
     "datetime": "2026-11-25T18:38:22+00:00",
-    "views": "17",
+    "views": "25",
     "text": "美国副总统万斯就艾奥瓦州爆炸事件表示：这是一个持续存在的问题。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +101,7 @@
   {
     "post": "Financial_Express/3656660",
     "datetime": "2026-11-25T18:37:02+00:00",
-    "views": "27",
+    "views": "64",
     "text": "美国副总统万斯：如果黄仁勋正在接受调查，我们会告知公众。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +110,7 @@
   {
     "post": "Financial_Express/3656659",
     "datetime": "2026-11-25T18:35:42+00:00",
-    "views": "65",
+    "views": "70",
     "text": "美国副总统万斯：针对黄仁勋的指控基于匿名报道。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +119,7 @@
   {
     "post": "Financial_Express/3656658",
     "datetime": "2026-11-25T18:35:22+00:00",
-    "views": "66",
+    "views": "73",
     "text": "Anthropic 首席执行官阿莫代伊：人类应继续作为政治和治理决策的制定者。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +128,7 @@
   {
     "post": "Financial_Express/3656657",
     "datetime": "2026-11-25T18:35:02+00:00",
-    "views": "70",
+    "views": "75",
     "text": "美国副总统万斯：让黄仁勋回归是英伟达董事会的决定。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +137,7 @@
   {
     "post": "Financial_Express/3656655",
     "datetime": "2026-11-25T18:34:42+00:00",
-    "views": "71",
+    "views": "74",
     "text": "美国副总统万斯：这是英伟达(NVDA.O)遵守出口管制的机会。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +146,7 @@
   {
     "post": "Financial_Express/3656656",
     "datetime": "2026-11-25T18:34:42+00:00",
-    "views": "71",
+    "views": "75",
     "text": "美国副总统万斯：让黄仁勋回归是英伟达(NVDA.O)董事会的决定。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +155,7 @@
   {
     "post": "Financial_Express/3656654",
     "datetime": "2026-11-25T18:34:22+00:00",
-    "views": "74",
+    "views": "77",
     "text": "美国副总统万斯：我认为黄仁勋不需要赦免。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +164,7 @@
   {
     "post": "Financial_Express/3656652",
     "datetime": "2026-11-25T18:34:02+00:00",
-    "views": "74",
+    "views": "77",
     "text": "美国副总统万斯谈英伟达：这是该公司遵守出口管制的一个机会。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +173,7 @@
   {
     "post": "Financial_Express/3656653",
     "datetime": "2026-11-25T18:34:02+00:00",
-    "views": "74",
+    "views": "77",
     "text": "美国副总统万斯：黄仁勋将非常认真地对待出口管制。",
     "media_only": false,
     "image_url": null,
