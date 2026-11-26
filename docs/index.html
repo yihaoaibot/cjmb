@@ -1,5 +1,65 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-26T00:20:24.096022+00:00","clsvipUpdated":"2026-11-26T00:20:33.622760+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月26日</h2><div class="feed"><article class="item" data-search="越南工贸部：正与美方合作，力争尽快完成贸易协议。"><div class="time">08:20</div><div class="content"><div class="text" data-full="越南工贸部：正与美方合作，力争尽快完成贸易协议。" data-short="越南工贸部：正与美方合作，力争尽快完成贸易协议。">越南工贸部：正与美方合作，力争尽快完成贸易协议。</div></div></article><article class="item" data-search="越南工贸部：将在公开听证会上陈述观点并回应美方提问。"><div class="time">08:20</div><div class="content"><div class="text" data-full="越南工贸部：将在公开听证会上陈述观点并回应美方提问。" data-short="越南工贸部：将在公开听证会上陈述观点并回应美方提问。">越南工贸部：将在公开听证会上陈述观点并回应美方提问。</div></div></article><article class="item" data-search="国家能源局主要负责同志赴山东调研能源科技创新和民营经济发展等工作
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-26T00:22:27.026838+00:00","clsvipUpdated":"2026-11-26T00:22:38.620867+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月26日</h2><div class="feed"><article class="item" data-search="三部委：全面提升全域智能、安全韧性、绿色低碳能力
+工业和信息化部等三部委印发《新一代通信网建设实施方案》。《实施方案》按照“432”框架进行布局，部署了各方面重点任务。
+
+“3”即全面提升全域智能、安全韧性、绿色低碳能力
+
+一是提升新一代通信网适应和赋能人工智能创新发展能力。强化智能业务承载。推动通信网架构向以支持人工智能应用为中心演进，提升算内、算间、入算的网络性能。研究布局智能互联网。强化算网协同服务。构建高质量算力传输通道，探索开展智能体互联网络、算力网络等技术验证和场景试点。强化全环节智能运营。逐步建成高等级自智网络，强化算力设施智能运维能力。
+
+二是提升新一代通信网安全韧性能力。筑牢网络安全防线。加强网络重要节点和关键信息基础设施安全防护，健全行业关键信息基础设施安全保护制度。增强网络运行安全韧性。加强信息通信领域重大基础设施分类分级管理，推进安全风险评估。强化应急通信保障。推动卫星互联网在应急场景应用。按需推进超级基站和全网通应急基站建设。建设应急通信综合保障区域中心。
+
+三是提升新一代通信网绿色低碳发展能力。深化绿色低碳发展。加强人工智能技术在通信设备节能节水领域应用，推动通信机房、算力设施节能节水改造，有序推进高耗能老旧设备退网。推广新型供配电技术，鼓励绿电直供。深化跨行业共建共享。深化管道、杆路和机房等设施共建共享。推进新一代通信网与水网、新型电网、算力网、城市地下管网、物流网等协同规划建设。"><div class="time">08:22</div><div class="content"><div class="text" data-full="三部委：全面提升全域智能、安全韧性、绿色低碳能力
+工业和信息化部等三部委印发《新一代通信网建设实施方案》。《实施方案》按照“432”框架进行布局，部署了各方面重点任务。
+
+“3”即全面提升全域智能、安全韧性、绿色低碳能力
+
+一是提升新一代通信网适应和赋能人工智能创新发展能力。强化智能业务承载。推动通信网架构向以支持人工智能应用为中心演进，提升算内、算间、入算的网络性能。研究布局智能互联网。强化算网协同服务。构建高质量算力传输通道，探索开展智能体互联网络、算力网络等技术验证和场景试点。强化全环节智能运营。逐步建成高等级自智网络，强化算力设施智能运维能力。
+
+二是提升新一代通信网安全韧性能力。筑牢网络安全防线。加强网络重要节点和关键信息基础设施安全防护，健全行业关键信息基础设施安全保护制度。增强网络运行安全韧性。加强信息通信领域重大基础设施分类分级管理，推进安全风险评估。强化应急通信保障。推动卫星互联网在应急场景应用。按需推进超级基站和全网通应急基站建设。建设应急通信综合保障区域中心。
+
+三是提升新一代通信网绿色低碳发展能力。深化绿色低碳发展。加强人工智能技术在通信设备节能节水领域应用，推动通信机房、算力设施节能节水改造，有序推进高耗能老旧设备退网。推广新型供配电技术，鼓励绿电直供。深化跨行业共建共享。深化管道、杆路和机房等设施共建共享。推进新一代通信网与水网、新型电网、算力网、城市地下管网、物流网等协同规划建设。" data-short="三部委：全面提升全域智能、安全韧性、绿色低碳能力
+工业和信息化部等三部委印发《新一代通信网建设实施方案》。《实施方案》按照“432”框架进行布局，部署了各方面重点任务。
+
+“3”即全面提升全域智能、安全韧性、绿色低碳能力
+
+一是提升新一代通信网适应和赋能人工智能创新发展能力。强化智能业务承载。推动通信网架构向以支持人工智能应用为中心演进，提升算内、算间、入算...">三部委：全面提升全域智能、安全韧性、绿色低碳能力
+工业和信息化部等三部委印发《新一代通信网建设实施方案》。《实施方案》按照“432”框架进行布局，部署了各方面重点任务。
+
+“3”即全面提升全域智能、安全韧性、绿色低碳能力
+
+一是提升新一代通信网适应和赋能人工智能创新发展能力。强化智能业务承载。推动通信网架构向以支持人工智能应用为中心演进，提升算内、算间、入算...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="三部委：统筹推进基础网络、空间网络、国际网络、融合网络建设
+工业和信息化部等三部委印发《新一代通信网建设实施方案》。《实施方案》按照“432”框架进行布局，部署了各方面重点任务。
+
+“4”即统筹推进基础网络、空间网络、国际网络、融合网络建设
+
+一是加快基础网络提质升级。实施基础网络提质升级工程，积极推进 5g-a 网络规模覆盖，适时开展 6g 网络建设。开展万兆城市全域试点，扩大万兆光网覆盖范围。推进新型城域网建设，建设国家超高速骨干网络。合理增设互联网骨干直联点和新型互联网交换中心。
+
+二是加快空间网络协同突破。实施空间网络协同突破工程，推动高中低轨卫星系统协同发展，加快低轨卫星互联网系统建设，提升高轨高通量宽带通信卫星系统容量。推动卫星互联网与北斗、地面移动通信网、人工智能等深度融合。
+
+三是加强国际网络优化布局。实施国际网络多元化布局工程，积极推进国际信息通道建设，优化国际海陆缆网络布局。按需增设国际通信出入口局，持续扩容国际互联网出入口带宽。完善海外网络接入点布局，统筹部署海外数据中心和云服务节点。
+
+四是推进融合网络创新发展。实施融合网络强基赋能工程，推动移动物联网“万物智联”发展，打造控网算一体、开放智能的新型工业网络，推进车联网在重点城市和高速公路规模部署，按需打造通感导融合的低空通信网络，开展城市全域数字化转型试点。"><div class="time">08:21</div><div class="content"><div class="text" data-full="三部委：统筹推进基础网络、空间网络、国际网络、融合网络建设
+工业和信息化部等三部委印发《新一代通信网建设实施方案》。《实施方案》按照“432”框架进行布局，部署了各方面重点任务。
+
+“4”即统筹推进基础网络、空间网络、国际网络、融合网络建设
+
+一是加快基础网络提质升级。实施基础网络提质升级工程，积极推进 5G-A 网络规模覆盖，适时开展 6G 网络建设。开展万兆城市全域试点，扩大万兆光网覆盖范围。推进新型城域网建设，建设国家超高速骨干网络。合理增设互联网骨干直联点和新型互联网交换中心。
+
+二是加快空间网络协同突破。实施空间网络协同突破工程，推动高中低轨卫星系统协同发展，加快低轨卫星互联网系统建设，提升高轨高通量宽带通信卫星系统容量。推动卫星互联网与北斗、地面移动通信网、人工智能等深度融合。
+
+三是加强国际网络优化布局。实施国际网络多元化布局工程，积极推进国际信息通道建设，优化国际海陆缆网络布局。按需增设国际通信出入口局，持续扩容国际互联网出入口带宽。完善海外网络接入点布局，统筹部署海外数据中心和云服务节点。
+
+四是推进融合网络创新发展。实施融合网络强基赋能工程，推动移动物联网“万物智联”发展，打造控网算一体、开放智能的新型工业网络，推进车联网在重点城市和高速公路规模部署，按需打造通感导融合的低空通信网络，开展城市全域数字化转型试点。" data-short="三部委：统筹推进基础网络、空间网络、国际网络、融合网络建设
+工业和信息化部等三部委印发《新一代通信网建设实施方案》。《实施方案》按照“432”框架进行布局，部署了各方面重点任务。
+
+“4”即统筹推进基础网络、空间网络、国际网络、融合网络建设
+
+一是加快基础网络提质升级。实施基础网络提质升级工程，积极推进 5G-A 网络规模覆盖，适时开展 6G 网络建设。开展...">三部委：统筹推进基础网络、空间网络、国际网络、融合网络建设
+工业和信息化部等三部委印发《新一代通信网建设实施方案》。《实施方案》按照“432”框架进行布局，部署了各方面重点任务。
+
+“4”即统筹推进基础网络、空间网络、国际网络、融合网络建设
+
+一是加快基础网络提质升级。实施基础网络提质升级工程，积极推进 5G-A 网络规模覆盖，适时开展 6G 网络建设。开展...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="越南工贸部：正与美方合作，力争尽快完成贸易协议。"><div class="time">08:20</div><div class="content"><div class="text" data-full="越南工贸部：正与美方合作，力争尽快完成贸易协议。" data-short="越南工贸部：正与美方合作，力争尽快完成贸易协议。">越南工贸部：正与美方合作，力争尽快完成贸易协议。</div></div></article><article class="item" data-search="越南工贸部：将在公开听证会上陈述观点并回应美方提问。"><div class="time">08:20</div><div class="content"><div class="text" data-full="越南工贸部：将在公开听证会上陈述观点并回应美方提问。" data-short="越南工贸部：将在公开听证会上陈述观点并回应美方提问。">越南工贸部：将在公开听证会上陈述观点并回应美方提问。</div></div></article><article class="item" data-search="国家能源局主要负责同志赴山东调研能源科技创新和民营经济发展等工作
 金十数据 11 月 26 日讯，11 月 25 日，国家能源局党组书记、局长王宏志带队赴山东调研。王宏志一行与山东省政府就能源高质量发展等进行交流，实地调研中国石化青岛炼化、特锐德电气公司，深入企业生产运行、科技创新一线，详细了解绿氢生产和氢能储运加注、漂浮式光伏电站、数据中心供电站、车网互动、能源领域民营经济发展等情况。"><div class="time">08:20</div><div class="content"><div class="text" data-full="国家能源局主要负责同志赴山东调研能源科技创新和民营经济发展等工作
 金十数据 11 月 26 日讯，11 月 25 日，国家能源局党组书记、局长王宏志带队赴山东调研。王宏志一行与山东省政府就能源高质量发展等进行交流，实地调研中国石化青岛炼化、特锐德电气公司，深入企业生产运行、科技创新一线，详细了解绿氢生产和氢能储运加注、漂浮式光伏电站、数据中心供电站、车网互动、能源领域民营经济发展等情况。" data-short="国家能源局主要负责同志赴山东调研能源科技创新和民营经济发展等工作
 金十数据 11 月 26 日讯，11 月 25 日，国家能源局党组书记、局长王宏志带队赴山东调研。王宏志一行与山东省政府就能源高质量发展等进行交流，实地调研中国石化青岛炼化、特锐德电气公司，深入企业生产运行、科技创新一线，详细了解绿氢生产和氢能储运加注、漂浮式光伏电站、数据中心供电站、车网互动...">国家能源局主要负责同志赴山东调研能源科技创新和民营经济发展等工作
@@ -563,7 +623,7 @@ Ken Griffin 旗下城堡投资将把今年获得的部分利润返还给客户�
 金十数据 11 月 26 日讯，美国联邦通信委员会批准 spacex(spcx.o)发射最多 100 万颗卫星，用于建设轨道数据中心网络，为复杂人工智能计算提供算力。这是美国首次批准轨道数据中心项目。spacex 表示，太空数据中心可利用太阳能供电，并通过太空中的辐射散热降低对地面冷却系统和水资源的依赖。根据公司 1 月提交的申请，卫星计划部署在距地面 500 至 2000 公里的轨道，并通过激光链路相互通信。不过，该计划引发天文学家及航天业界担忧，认为大规模部署可能加剧轨道拥堵、卫星碰撞风险，并影响天文观测。美国天文学会等机构曾要求 fcc 否决申请。与此同时，杰夫·贝索斯旗下蓝色起源也已申请部署自己的太空数据中心，仍在等待监管审批。"><div class="time">02:20</div><div class="content"><div class="text" data-full="SpaceX 获美国批准部署最多 100 万颗卫星 用于建设太空数据中心
 金十数据 11 月 26 日讯，美国联邦通信委员会批准 SpaceX(SPCX.O)发射最多 100 万颗卫星，用于建设轨道数据中心网络，为复杂人工智能计算提供算力。这是美国首次批准轨道数据中心项目。SpaceX 表示，太空数据中心可利用太阳能供电，并通过太空中的辐射散热降低对地面冷却系统和水资源的依赖。根据公司 1 月提交的申请，卫星计划部署在距地面 500 至 2000 公里的轨道，并通过激光链路相互通信。不过，该计划引发天文学家及航天业界担忧，认为大规模部署可能加剧轨道拥堵、卫星碰撞风险，并影响天文观测。美国天文学会等机构曾要求 FCC 否决申请。与此同时，杰夫·贝索斯旗下蓝色起源也已申请部署自己的太空数据中心，仍在等待监管审批。" data-short="SpaceX 获美国批准部署最多 100 万颗卫星 用于建设太空数据中心
 金十数据 11 月 26 日讯，美国联邦通信委员会批准 SpaceX(SPCX.O)发射最多 100 万颗卫星，用于建设轨道数据中心网络，为复杂人工智能计算提供算力。这是美国首次批准轨道数据中心项目。SpaceX 表示，太空数据中心可利用太阳能供电，并通过太空中的辐射散热降低对地面冷却...">SpaceX 获美国批准部署最多 100 万颗卫星 用于建设太空数据中心
-金十数据 11 月 26 日讯，美国联邦通信委员会批准 SpaceX(SPCX.O)发射最多 100 万颗卫星，用于建设轨道数据中心网络，为复杂人工智能计算提供算力。这是美国首次批准轨道数据中心项目。SpaceX 表示，太空数据中心可利用太阳能供电，并通过太空中的辐射散热降低对地面冷却...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="道指上涨近 150 点，受 ibm 和宣伟公司股价上涨提振。标普 500 指数和纳斯达克指数收窄跌幅，最新分别下跌 0.65%和 1.4%。"><div class="time">02:18</div><div class="content"><div class="text" data-full="道指上涨近 150 点，受 IBM 和宣伟公司股价上涨提振。标普 500 指数和纳斯达克指数收窄跌幅，最新分别下跌 0.65%和 1.4%。" data-short="道指上涨近 150 点，受 IBM 和宣伟公司股价上涨提振。标普 500 指数和纳斯达克指数收窄跌幅，最新分别下跌 0.65%和 1.4%。">道指上涨近 150 点，受 IBM 和宣伟公司股价上涨提振。标普 500 指数和纳斯达克指数收窄跌幅，最新分别下跌 0.65%和 1.4%。</div></div></article><article class="item" data-search="美联储在固定利率逆回购操作中总计接纳了 1 个对手方的 3 亿美元。"><div class="time">02:18</div><div class="content"><div class="text" data-full="美联储在固定利率逆回购操作中总计接纳了 1 个对手方的 3 亿美元。" data-short="美联储在固定利率逆回购操作中总计接纳了 1 个对手方的 3 亿美元。">美联储在固定利率逆回购操作中总计接纳了 1 个对手方的 3 亿美元。</div></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月25日 · VIP</h2> <div class="feed"> <article class="item" data-search="游资大v复盘文章汇总20261125
+金十数据 11 月 26 日讯，美国联邦通信委员会批准 SpaceX(SPCX.O)发射最多 100 万颗卫星，用于建设轨道数据中心网络，为复杂人工智能计算提供算力。这是美国首次批准轨道数据中心项目。SpaceX 表示，太空数据中心可利用太阳能供电，并通过太空中的辐射散热降低对地面冷却...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月25日 · VIP</h2> <div class="feed"> <article class="item" data-search="游资大v复盘文章汇总20261125
 
 链接: https://pan.baidu.com/s/1wuv3kof-fwer5rgcramhla?pwd=x6ft 提取码: x6ft 
 --来自百度网盘超级会员v7的分享"> <div class="time">23:10</div> <div class="content"> <div class="text">游资大V复盘文章汇总20261125
