@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3658343",
+    "datetime": "2026-11-26T09:37:22+00:00",
+    "views": "10",
+    "text": "惠誉：为拥有实力雄厚的发起方和长期合同收入的实体数据中心项目提供贷款，与为 GPU 采购或新型云服务商提供融资，面临的风险并不相同。后者的偿债能力可能取决于能否从客户集中的业务中维持较高的设备利用率。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3658343"
+  },
+  {
+    "post": "Financial_Express/3658342",
+    "datetime": "2026-11-26T09:37:02+00:00",
+    "views": "12",
+    "text": "土耳其主要 BIST-100 指数上涨 2.2%，主要银行指数上涨 1.7%。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3658342"
+  },
+  {
+    "post": "Financial_Express/3658341",
+    "datetime": "2026-11-26T09:36:42+00:00",
+    "views": "13",
+    "text": "惠誉：美国管制措施可能导致面向受影响客户和应用场景的项目放缓或调整，但不能将整个东南亚地区的数据中心产能视为面临同等程度的风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3658341"
+  },
+  {
     "post": "Financial_Express/3658340",
     "datetime": "2026-11-26T09:36:02+00:00",
-    "views": "3",
+    "views": "14",
     "text": "惠誉：如果新型云服务商租户长期经营疲软，可能影响租金支付、续约和出租率。因此，租户集中度以及数据中心调整用途、服务其他客户的能力，将成为区分不同项目信用风险的重要因素。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3658339",
     "datetime": "2026-11-26T09:35:42+00:00",
-    "views": "4",
+    "views": "14",
     "text": "亚太药业：拟斥 2000 万-4000 万元回购股份\n亚太药业公告称，公司拟以集中竞价方式回购股份，用于股权激励或员工持股计划。回购资金总额不低于 2000 万元且不超过 4000 万元，回购价格不超过 6.00 元/股。按回购价格上限测算，预计回购股份数量为 333.33 万股-666.67 万股，占公司总股本的 0.45%-0.89%。回购期限自董事会审议通过之日起不超过 12 个月。公司董事、高管、控股股东及实控人等未来六个月无减持计划。本次回购存在股价超回购价上限导致方案无法全部实施等风险。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3658338",
     "datetime": "2026-11-26T09:35:22+00:00",
-    "views": "4",
+    "views": "14",
     "text": "美国地质调查局：汤加胡马西北偏西 265 公里处发生 5.2 级地震。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +56,7 @@
   {
     "post": "Financial_Express/3658337",
     "datetime": "2026-11-26T09:35:02+00:00",
-    "views": "6",
+    "views": "12",
     "text": "惠誉：上述选择都可能削弱收入、利润率或市场竞争力，尤其是对于同时面临高杠杆和客户需求高度集中的运营商而言。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3658336",
     "datetime": "2026-11-26T09:34:42+00:00",
-    "views": "7",
+    "views": "42",
     "text": "惠誉：运营商可以将算力转向其他用户，但可能需要提供折扣；也可以在规定允许的情况下提供性能较低的算力，或者继续使用现有英伟达 GPU 集群，但无法获得同等程度的硬件升级。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3658335",
     "datetime": "2026-11-26T09:34:22+00:00",
-    "views": "8",
+    "views": "42",
     "text": "Heder 银行在泛欧交易所上市。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3658334",
     "datetime": "2026-11-26T09:34:03+00:00",
-    "views": "8",
+    "views": "42",
     "text": "惠誉：那些芯片取得或客户适用资格存有不确定性的项目将会最先面临融资条件收紧。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +92,7 @@
   {
     "post": "Financial_Express/3658333",
     "datetime": "2026-11-26T09:34:02+00:00",
-    "views": "8",
+    "views": "42",
     "text": "最新一代芯片量产在即，马云现身平头哥\n金十数据 11 月 26 日讯，据网传平头哥员工分享的照片，11 月 26 日，阿里巴巴创始人马云来到平头哥，在工位与一群年轻工程师交流、合影。照片中，马云笑着竖起大拇指，为一线研发人员加油鼓劲。根据上周阿里财报分析师电话会，平头哥新一代真武 V900 芯片预计 2027 年一季度量产，千问已基于平头哥芯片训练下一代模型。此前，搭载平头哥芯片的阿里云算力服务已支持数百家企业的大模型推理；接下来，其能力将进一步延伸至大模型训练，为模型研发和迭代提供算力支持。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3658332",
     "datetime": "2026-11-26T09:33:42+00:00",
-    "views": "8",
+    "views": "12",
     "text": "惠誉：即将完工的项目可能面临将实质运算容量转化为获利的延误。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +110,7 @@
   {
     "post": "Financial_Express/3658331",
     "datetime": "2026-11-26T09:33:23+00:00",
-    "views": "9",
+    "views": "13",
     "text": "惠誉：实体数据中心所有者应能更好地应对初期冲击。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +119,7 @@
   {
     "post": "Financial_Express/3658329",
     "datetime": "2026-11-26T09:33:22+00:00",
-    "views": "9",
+    "views": "12",
     "text": "越南外交部：（就关税问题）呼吁美国承认越南所作的努力，并对越南的成果作出平衡评估。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +128,7 @@
   {
     "post": "Financial_Express/3658330",
     "datetime": "2026-11-26T09:33:22+00:00",
-    "views": "9",
+    "views": "13",
     "text": "伊拉克开始关闭包括库区在内的所有非官方口岸\n金十数据 11 月 26 日讯，伊拉克边防部队司令穆罕默德·萨克尔 26 日表示，边防部队已开始执行武装部队总司令关于关闭所有非官方口岸的指令。该指令涵盖伊拉克与邻国边境上的全部非官方口岸，也包括库尔德自治区（库区）境内的相关口岸。本月 24 日，伊拉克总理兼武装部队总司令扎伊迪发布一揽子决定，要求关闭所有非官方口岸，并关闭迪亚拉、萨拉赫丁、基尔库克、尼尼微四省与库区之间的所有非正规通道。库区政府拒绝接受相关决定，使得双方在口岸及石油管辖权上的争端再度升温。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3658327",
     "datetime": "2026-11-26T09:32:43+00:00",
-    "views": "8",
+    "views": "11",
     "text": "惠誉：东南亚的项目将越来越根据客户和工作量而非地理位置而呈现差异。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +146,7 @@
   {
     "post": "Financial_Express/3658328",
     "datetime": "2026-11-26T09:32:43+00:00",
-    "views": "8",
+    "views": "11",
     "text": "越南外交部：与美国的贸易谈判接近尾声。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +155,7 @@
   {
     "post": "Financial_Express/3658326",
     "datetime": "2026-11-26T09:32:42+00:00",
-    "views": "8",
+    "views": "11",
     "text": "惠誉：新型云服务商将受到最直接的信用冲击，因为其现金流取决于能否将价格昂贵的 GPU 与符合规定的客户相匹配，并维持较高的设备利用率。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +164,7 @@
   {
     "post": "Financial_Express/3658325",
     "datetime": "2026-11-26T09:32:22+00:00",
-    "views": "10",
+    "views": "12",
     "text": "英国净移民人数降至至少自 2012 年以来的最低水平（不含疫情期间）。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +173,7 @@
   {
     "post": "Financial_Express/3658324",
     "datetime": "2026-11-26T09:32:03+00:00",
-    "views": "10",
+    "views": "12",
     "text": "伊拉克开始关闭包括库区在内的所有非官方口岸\n伊拉克边防部队司令穆罕默德·萨克尔 26 日表示，边防部队已开始执行武装部队总司令关于关闭所有非官方口岸的指令，涵盖伊拉克与邻国边境全部非官方口岸，包括库尔德自治区（库区）境内相关口岸。本月 24 日，伊拉克总理兼武装部队总司令扎伊迪发布一揽子决定，要求关闭所有非官方口岸，并关闭迪亚拉、萨拉赫丁、基尔库克、尼尼微四省与库区之间的所有非正规通道。库区政府拒绝接受相关决定，双方在口岸及石油管辖权上的争端再度升温。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -51352,131 +51379,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3652599"
-  },
-  {
-    "post": "Financial_Express/3652596",
-    "datetime": "2026-11-24T09:39:03+00:00",
-    "views": "7",
-    "text": "东风股份：控股股东协议转让 9355 万股获国务院国资委批复\n东风股份公告，公司控股股东东风集团此前披露拟以非公开协议转让方式向中兵投资转让所持公司股份。2026 年 11 月 23 日，公司收到东风集团转来的国务院国资委批复，同意东风集团将所持公司 93550000 股股份以非公开协议转让方式转让给中兵投资持有。本次转让完成后，东风集团持股比例为 50.32%，中兵投资持股比例为 4.68%。该事项尚需取得上海证券交易所合规性确认意见后办理过户手续。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652596"
-  },
-  {
-    "post": "Financial_Express/3652597",
-    "datetime": "2026-11-24T09:39:03+00:00",
-    "views": "7",
-    "text": "大悦城等在三亚成立房地产开发建设公司\n企查查 APP 显示，近日，三亚悦宸房地产开发建设有限公司成立，经营范围包含：房地产咨询；物业管理；房地产开发经营。企查查股权穿透显示，该公司由大悦城等共同持股。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652597"
-  },
-  {
-    "post": "Financial_Express/3652598",
-    "datetime": "2026-11-24T09:39:03+00:00",
-    "views": "7",
-    "text": "Anthropic 美股盘前跌超 4%\nAnthropic 美股盘前跌超 4%，现报 84.13 美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652598"
-  },
-  {
-    "post": "Financial_Express/3652594",
-    "datetime": "2026-11-24T09:38:43+00:00",
-    "views": "8",
-    "text": "鸿海精密拟发行至多 15 亿美元可转换债券。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652594"
-  },
-  {
-    "post": "Financial_Express/3652595",
-    "datetime": "2026-11-24T09:38:43+00:00",
-    "views": "8",
-    "text": "上期所：2026 年 12 月，上期所在镍、锡、黄金、白银、不锈钢、螺纹钢、热轧卷板、石油沥青、天然橡胶、纸浆、燃料油、氧化铝、丁二烯橡胶、铸造铝合金、胶版印刷纸 15 个品种开展做市；上期能源在原油、低硫燃料油、20 号胶、集运指数（欧线）和国际铜 5 个品种开展做市。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652595"
-  },
-  {
-    "post": "Financial_Express/3652593",
-    "datetime": "2026-11-24T09:38:42+00:00",
-    "views": "8",
-    "text": "东风股份：国资委批复同意东方集团将所持 9355 万股公司股份转让给中兵投资持有\n金十数据 11 月 24 日讯，东风股份公告，2026 年 11 月 23 日，公司收到控股股东东风集团发来的国务院国资委批复，国资委同意东风集团将所持东风股份 93,550,000 股股份以非公开协议转让方式转让给中兵投资持有。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652593"
-  },
-  {
-    "post": "Financial_Express/3652592",
-    "datetime": "2026-11-24T09:38:23+00:00",
-    "views": "7",
-    "text": "意大利可能将燃油价格上限延长至年底。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652592"
-  },
-  {
-    "post": "Financial_Express/3652591",
-    "datetime": "2026-11-24T09:38:22+00:00",
-    "views": "6",
-    "text": "士兰微：8 英寸 SiC 产线正向月产能 1 万片拓展 预计 2027 年汽车主驱 SiC 供需可能偏紧\n士兰微董事长陈向东在今天举行的业绩说明会上表示，参股公司士兰集宏 8 英寸 SiC 产线产能为 5000 片/月，正在向 1 万片/月拓展，8 英寸线良率优于 6 英寸线，预计后续将较快上量，公司持续在 8 吋上扩量；从汽车主驱应用来看，国内可信赖、有交付实绩的厂商较少，2027 年（汽车主驱 SiC）供需可能会偏紧。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652591"
-  },
-  {
-    "post": "Financial_Express/3652588",
-    "datetime": "2026-11-24T09:38:03+00:00",
-    "views": "5",
-    "text": "瑞典民主党领袖安德松表示，左翼党尚未回应谈判邀请。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652588"
-  },
-  {
-    "post": "Financial_Express/3652589",
-    "datetime": "2026-11-24T09:38:03+00:00",
-    "views": "5",
-    "text": "罗马尼亚总理表示，罗马尼亚应考虑在 2030 年后制定新的欧元加入路线图。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652589"
-  },
-  {
-    "post": "Financial_Express/3652590",
-    "datetime": "2026-11-24T09:38:03+00:00",
-    "views": "5",
-    "text": "知乎：公司董事会任命王晗先生兼任公司总裁，其原首席财务官职务保持不变，任命自 2026 年 11 月 24 日起生效。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652590"
-  },
-  {
-    "post": "Financial_Express/3652587",
-    "datetime": "2026-11-24T09:37:42+00:00",
-    "views": "6",
-    "text": "知乎：第三季度每股收益 0.22 元人民币。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652587"
-  },
-  {
-    "post": "Financial_Express/3652586",
-    "datetime": "2026-11-24T09:37:23+00:00",
-    "views": "7",
-    "text": "英国政府：启动关于与泰国贸易关系的公众咨询，以及如何通过双边自由贸易协定深化这种关系。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652586"
-  },
-  {
-    "post": "Financial_Express/3652585",
-    "datetime": "2026-11-24T09:37:22+00:00",
-    "views": "7",
-    "text": "英国政府：就与泰国的贸易关系启动公众咨询，探讨如何通过双边自由贸易协定深化这一关系。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652585"
   }
 ]
