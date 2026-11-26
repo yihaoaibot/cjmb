@@ -1,8 +1,62 @@
 [
   {
+    "post": "Financial_Express/3658340",
+    "datetime": "2026-11-26T09:36:02+00:00",
+    "views": "3",
+    "text": "惠誉：如果新型云服务商租户长期经营疲软，可能影响租金支付、续约和出租率。因此，租户集中度以及数据中心调整用途、服务其他客户的能力，将成为区分不同项目信用风险的重要因素。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3658340"
+  },
+  {
+    "post": "Financial_Express/3658339",
+    "datetime": "2026-11-26T09:35:42+00:00",
+    "views": "4",
+    "text": "亚太药业：拟斥 2000 万-4000 万元回购股份\n亚太药业公告称，公司拟以集中竞价方式回购股份，用于股权激励或员工持股计划。回购资金总额不低于 2000 万元且不超过 4000 万元，回购价格不超过 6.00 元/股。按回购价格上限测算，预计回购股份数量为 333.33 万股-666.67 万股，占公司总股本的 0.45%-0.89%。回购期限自董事会审议通过之日起不超过 12 个月。公司董事、高管、控股股东及实控人等未来六个月无减持计划。本次回购存在股价超回购价上限导致方案无法全部实施等风险。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3658339"
+  },
+  {
+    "post": "Financial_Express/3658338",
+    "datetime": "2026-11-26T09:35:22+00:00",
+    "views": "4",
+    "text": "美国地质调查局：汤加胡马西北偏西 265 公里处发生 5.2 级地震。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3658338"
+  },
+  {
+    "post": "Financial_Express/3658337",
+    "datetime": "2026-11-26T09:35:02+00:00",
+    "views": "6",
+    "text": "惠誉：上述选择都可能削弱收入、利润率或市场竞争力，尤其是对于同时面临高杠杆和客户需求高度集中的运营商而言。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3658337"
+  },
+  {
+    "post": "Financial_Express/3658336",
+    "datetime": "2026-11-26T09:34:42+00:00",
+    "views": "7",
+    "text": "惠誉：运营商可以将算力转向其他用户，但可能需要提供折扣；也可以在规定允许的情况下提供性能较低的算力，或者继续使用现有英伟达 GPU 集群，但无法获得同等程度的硬件升级。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3658336"
+  },
+  {
+    "post": "Financial_Express/3658335",
+    "datetime": "2026-11-26T09:34:22+00:00",
+    "views": "8",
+    "text": "Heder 银行在泛欧交易所上市。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3658335"
+  },
+  {
     "post": "Financial_Express/3658334",
     "datetime": "2026-11-26T09:34:03+00:00",
-    "views": "2",
+    "views": "8",
     "text": "惠誉：那些芯片取得或客户适用资格存有不确定性的项目将会最先面临融资条件收紧。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +65,7 @@
   {
     "post": "Financial_Express/3658333",
     "datetime": "2026-11-26T09:34:02+00:00",
-    "views": "2",
+    "views": "8",
     "text": "最新一代芯片量产在即，马云现身平头哥\n金十数据 11 月 26 日讯，据网传平头哥员工分享的照片，11 月 26 日，阿里巴巴创始人马云来到平头哥，在工位与一群年轻工程师交流、合影。照片中，马云笑着竖起大拇指，为一线研发人员加油鼓劲。根据上周阿里财报分析师电话会，平头哥新一代真武 V900 芯片预计 2027 年一季度量产，千问已基于平头哥芯片训练下一代模型。此前，搭载平头哥芯片的阿里云算力服务已支持数百家企业的大模型推理；接下来，其能力将进一步延伸至大模型训练，为模型研发和迭代提供算力支持。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +74,7 @@
   {
     "post": "Financial_Express/3658332",
     "datetime": "2026-11-26T09:33:42+00:00",
-    "views": "4",
+    "views": "8",
     "text": "惠誉：即将完工的项目可能面临将实质运算容量转化为获利的延误。",
     "media_only": false,
     "image_url": null,
@@ -29,7 +83,7 @@
   {
     "post": "Financial_Express/3658331",
     "datetime": "2026-11-26T09:33:23+00:00",
-    "views": "5",
+    "views": "9",
     "text": "惠誉：实体数据中心所有者应能更好地应对初期冲击。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +92,7 @@
   {
     "post": "Financial_Express/3658329",
     "datetime": "2026-11-26T09:33:22+00:00",
-    "views": "5",
+    "views": "9",
     "text": "越南外交部：（就关税问题）呼吁美国承认越南所作的努力，并对越南的成果作出平衡评估。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +101,7 @@
   {
     "post": "Financial_Express/3658330",
     "datetime": "2026-11-26T09:33:22+00:00",
-    "views": "5",
+    "views": "9",
     "text": "伊拉克开始关闭包括库区在内的所有非官方口岸\n金十数据 11 月 26 日讯，伊拉克边防部队司令穆罕默德·萨克尔 26 日表示，边防部队已开始执行武装部队总司令关于关闭所有非官方口岸的指令。该指令涵盖伊拉克与邻国边境上的全部非官方口岸，也包括库尔德自治区（库区）境内的相关口岸。本月 24 日，伊拉克总理兼武装部队总司令扎伊迪发布一揽子决定，要求关闭所有非官方口岸，并关闭迪亚拉、萨拉赫丁、基尔库克、尼尼微四省与库区之间的所有非正规通道。库区政府拒绝接受相关决定，使得双方在口岸及石油管辖权上的争端再度升温。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +110,7 @@
   {
     "post": "Financial_Express/3658327",
     "datetime": "2026-11-26T09:32:43+00:00",
-    "views": "6",
+    "views": "8",
     "text": "惠誉：东南亚的项目将越来越根据客户和工作量而非地理位置而呈现差异。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +119,7 @@
   {
     "post": "Financial_Express/3658328",
     "datetime": "2026-11-26T09:32:43+00:00",
-    "views": "6",
+    "views": "8",
     "text": "越南外交部：与美国的贸易谈判接近尾声。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +128,7 @@
   {
     "post": "Financial_Express/3658326",
     "datetime": "2026-11-26T09:32:42+00:00",
-    "views": "6",
+    "views": "8",
     "text": "惠誉：新型云服务商将受到最直接的信用冲击，因为其现金流取决于能否将价格昂贵的 GPU 与符合规定的客户相匹配，并维持较高的设备利用率。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +137,7 @@
   {
     "post": "Financial_Express/3658325",
     "datetime": "2026-11-26T09:32:22+00:00",
-    "views": "8",
+    "views": "10",
     "text": "英国净移民人数降至至少自 2012 年以来的最低水平（不含疫情期间）。",
     "media_only": false,
     "image_url": null,
@@ -92,7 +146,7 @@
   {
     "post": "Financial_Express/3658324",
     "datetime": "2026-11-26T09:32:03+00:00",
-    "views": "8",
+    "views": "10",
     "text": "伊拉克开始关闭包括库区在内的所有非官方口岸\n伊拉克边防部队司令穆罕默德·萨克尔 26 日表示，边防部队已开始执行武装部队总司令关于关闭所有非官方口岸的指令，涵盖伊拉克与邻国边境全部非官方口岸，包括库尔德自治区（库区）境内相关口岸。本月 24 日，伊拉克总理兼武装部队总司令扎伊迪发布一揽子决定，要求关闭所有非官方口岸，并关闭迪亚拉、萨拉赫丁、基尔库克、尼尼微四省与库区之间的所有非正规通道。库区政府拒绝接受相关决定，双方在口岸及石油管辖权上的争端再度升温。（央视新闻）",
     "media_only": false,
     "image_url": null,
@@ -101,7 +155,7 @@
   {
     "post": "Financial_Express/3658323",
     "datetime": "2026-11-26T09:32:02+00:00",
-    "views": "8",
+    "views": "9",
     "text": "俄罗斯与乌克兰交换阵亡士兵遗体。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +164,7 @@
   {
     "post": "Financial_Express/3658322",
     "datetime": "2026-11-26T09:31:42+00:00",
-    "views": "8",
+    "views": "9",
     "text": "英国国家统计局：截至 6 月的 12 个月内，英国净移民人数达到 7.7 万人。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +182,7 @@
   {
     "post": "Financial_Express/3658321",
     "datetime": "2026-11-26T09:31:23+00:00",
-    "views": "8",
+    "views": "9",
     "text": "截至 6 月的一年，英国净移民人数降至 7.7 万，同比减少 20.4 万。",
     "media_only": false,
     "image_url": null,
@@ -51424,86 +51478,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3652585"
-  },
-  {
-    "post": "Financial_Express/3652584",
-    "datetime": "2026-11-24T09:36:44+00:00",
-    "views": "39",
-    "text": "凌钢股份：控股股东凌钢集团拟增持公司股份，金额不低于 1500 万元不高于 3000 万元\n凌钢股份公告，控股股东凌源钢铁集团有限责任公司持有公司股份 10.67 亿股，占公司总股本的 37.34%，计划自本公告披露之日起 12 个月内，通过集中竞价交易方式增持公司 A 股股份，增持金额不低于 1500 万元人民币(含)，不高于 3000 万元人民币(含)，拟增持股份比例不超过公司总股本 2%。本次增持不设置固定价格区间，将基于对凌钢股份股票价值的合理判断，择机实施增持计划。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652584"
-  },
-  {
-    "post": "Financial_Express/3652583",
-    "datetime": "2026-11-24T09:36:43+00:00",
-    "views": "39",
-    "text": "中远海控：11 月 24 日回购 514 万股 H 股股份 拟注销\n中远海控公告称，2026 年 11 月 24 日公司通过交易所以集中竞价方式回购 H 股股份 514 万股，回购价格区间为 17.13 港元/股至 17.62 港元/股，回购总金额为 8928.90 万港元，本次回购股份拟用于注销，占回购前已发行股份比例为 0.1896%。截至 2026 年 11 月 24 日，公司已发行股份总数为 27.12 亿股，库存股为 0 股，累计拟注销回购股份 7616.95 万股，占 2026 年 5 月 26 日回购授权通过日已发行股份的 2.81%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652583"
-  },
-  {
-    "post": "Financial_Express/3652582",
-    "datetime": "2026-11-24T09:36:42+00:00",
-    "views": "9",
-    "text": "凌钢股份：控股股东凌钢集团拟 12 个月内集中竞价增持公司 A 股，金额不低于 1500 万元、不高于 3000 万元，增持比例不超过公司总股本 2%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652582"
-  },
-  {
-    "post": "Financial_Express/3652581",
-    "datetime": "2026-11-24T09:36:22+00:00",
-    "views": "6",
-    "text": "奥普特：完成回购 300 万股股份 耗资 1.90 亿元\n奥普特公告称，根据公司董事会 2026 年 11 月 20 日审议通过的 2026 年第三期回购相关方案，公司于 2026 年 11 月 24 日回购股份 3,000,000 股，占公司已发行股份总数的 0.21%，回购价格区间为 61.65 元/股至 64.37 元/股，累计支付总金额 1.90 亿元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652581"
-  },
-  {
-    "post": "Financial_Express/3652580",
-    "datetime": "2026-11-24T09:36:02+00:00",
-    "views": "6",
-    "text": "瑞典议员安德松表示，如果没有左翼妥协，前路艰难。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652580"
-  },
-  {
-    "post": "Financial_Express/3652579",
-    "datetime": "2026-11-24T09:35:42+00:00",
-    "views": "6",
-    "text": "消息人士称，印度阿达尼集团与回收商 Attero 签署了为期三年的铜采购协议。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652579"
-  },
-  {
-    "post": "Financial_Express/3652578",
-    "datetime": "2026-11-24T09:35:36+00:00",
-    "views": "7",
-    "text": "知乎第三季度总营收 6.586 亿元人民币，预估 6.42 亿元人民币。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652578"
-  },
-  {
-    "post": "Financial_Express/3652577",
-    "datetime": "2026-11-24T09:35:23+00:00",
-    "views": "8",
-    "text": "江西省金融控股集团有限公司副总经理吴晓接受审查调查\n据江西省纪委监委消息，江西省金融控股集团有限公司党委委员、副总经理，江西瑞奇期货有限公司董事长吴晓涉嫌严重违纪违法，主动向组织交代问题，目前正接受江西省纪委监委纪律审查和监察调查。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652577"
-  },
-  {
-    "post": "Financial_Express/3652576",
-    "datetime": "2026-11-24T09:35:22+00:00",
-    "views": "8",
-    "text": "俄罗斯任命的州长宣布克里米亚电力供应实施为期 10 天的限制措施。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3652576"
   }
 ]
