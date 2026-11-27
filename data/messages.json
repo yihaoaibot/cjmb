@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3659849",
+    "datetime": "2026-11-27T03:17:03+00:00",
+    "views": "35",
+    "text": "深证成指涨 2.02%，现报 10287.285 点；上证指数涨 0.29%，现报 3487.115 点；创业板指涨 3.47%，现报 2265.783 点。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3659849"
+  },
+  {
+    "post": "Financial_Express/3659848",
+    "datetime": "2026-11-27T03:17:02+00:00",
+    "views": "35",
+    "text": "深证成指涨超 2%，软件开发、半导体、元件板块涨幅居前；成分股中，精测电子、慧博云通等多股涨停。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3659848"
+  },
+  {
     "post": "Financial_Express/3659847",
     "datetime": "2026-11-27T03:16:42+00:00",
-    "views": "5",
+    "views": "37",
     "text": "假期后美债收益率全线上升 亚洲股市反弹削弱避险需求\n金十数据 11 月 27 日讯，美国国债在感恩节假期后恢复交易，交投清淡，债券价格下跌。亚洲股市上涨削弱了投资者对避险资产的需求。美债收益率曲线各期限收益率均上升至少 3 个基点，其中基准 10 年期收益率上涨 5 个基点，至 4.90%。随着投资者风险偏好初步回升，资金从美国国债等避险资产流出。道明证券策略师 Prashant Newnaha 表示：“风险情绪改善是推动债券收益率小幅上升的主要因素。”过去两周，美国 10 年期国债收益率累计下跌近 25 个基点。此前，随着市场对 AI 交易的疑虑不断增加并引发股市下跌，市场下调了对美联储加息的押注。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3659846",
     "datetime": "2026-11-27T03:16:02+00:00",
-    "views": "9",
+    "views": "40",
     "text": "施耐德电气推出超快速电动汽车充电及电池储能解决方案，助力香港电动汽车充电基础设施发展。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3659833",
     "datetime": "2026-11-27T03:12:24+00:00",
-    "views": "53",
+    "views": "54",
     "text": "科创 50 日内涨幅达 4.2％，成分股中，中科飞测涨 14.99％，华丰科技涨 14.16％，盛科通信涨 13.32％，源杰科技涨 12.25％。",
     "media_only": false,
     "image_url": null,
@@ -47617,23 +47635,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3654524"
-  },
-  {
-    "post": "Financial_Express/3654523",
-    "datetime": "2026-11-25T03:19:02+00:00",
-    "views": "86",
-    "text": "国际网络安全文摘：一个 ARTEX AI 智能体制作并上传了一个假的 Hugging Face 模型，实际上是一个凭证窃取程序。它先在自己身上进行了测试，结果泄露了自己的密钥。该智能体花了五个小时重新打包恶意软件以逃避检测。Hugging Face 已禁用该行动中的所有代码仓库。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654523"
-  },
-  {
-    "post": "Financial_Express/3654522",
-    "datetime": "2026-11-25T03:17:22+00:00",
-    "views": "94",
-    "text": "焦煤连续主力合约日内涨 5%，现报 1483.50 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654522"
   }
 ]
