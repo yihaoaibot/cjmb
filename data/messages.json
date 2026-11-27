@@ -1,8 +1,26 @@
 [
   {
+    "post": "Financial_Express/3660209",
+    "datetime": "2026-11-27T05:55:22+00:00",
+    "views": "5",
+    "text": "雷军持股企业在无锡成立云数据公司\n企查查 APP 显示，近日，无锡尚算云数据有限公司成立，经营范围包含云计算设备制造；云计算设备销售；云计算装备技术服务；互联网设备制造等。企查查股权穿透显示，该公司由广州尚航信息科技股份有限公司全资持股，后者由兰满桔、雷军等共同持股。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3660209"
+  },
+  {
+    "post": "Financial_Express/3660208",
+    "datetime": "2026-11-27T05:54:42+00:00",
+    "views": "7",
+    "text": "沪深北三市成交额突破 1.5 万亿元\n沪深北三市成交额突破 1.5 万亿元，较昨日此时放量超 5000 亿元，超 5300 只个股上涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3660208"
+  },
+  {
     "post": "Financial_Express/3660207",
     "datetime": "2026-11-27T05:53:23+00:00",
-    "views": "3",
+    "views": "39",
     "text": "有机硅概念震荡反弹，宏柏新材涨停\n有机硅概念震荡反弹，宏柏新材涨停，锦华新材涨超 14%，祥源新材、华盛锂电、东岳硅材、阳谷华泰、三孚股份等跟涨。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +29,7 @@
   {
     "post": "Financial_Express/3660206",
     "datetime": "2026-11-27T05:53:22+00:00",
-    "views": "3",
+    "views": "39",
     "text": "A 股科技股业绩有望延续高增长态势\n10 月初以来全球科技股高位大幅震荡，A 股科技板块明显承压，目前创业板指滚动市盈率降至 25 倍，已经低于美股纳指估值水平(28 倍)，处于历史最低水平，科创 50 指数市盈率降至 53 倍(剔除亏损公司)。在此过程中，创业板 ETF、科创 50ETF 净申购金额均超过 1000 亿元，且呈现“越跌越买”特征。综合市场观点来看，未来一段时间 A 股市场特别是科技股业绩有望延续高增长态势。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +38,7 @@
   {
     "post": "Financial_Express/3660205",
     "datetime": "2026-11-27T05:53:02+00:00",
-    "views": "5",
+    "views": "40",
     "text": "探月通信有保障！我国主导推动 ITU 通过月球探索新决议\n11 月 26 日，我国联合俄罗斯、巴西提交的月球探索新决议经国际电信联盟（ITU）2026 年全权代表大会审议正式通过，这是国际电信联盟（ITU）首份聚焦月球探索频谱治理的决议，标志着我国深度参与地月空间无线电频谱资源国际规则制定取得重要突破。据了解，无线电频谱资源是开展月球探索活动不可或缺的基础资源。截至目前，包括我国在内 10 个国家申报了开展月球探索活动所需的卫星网络资料。国际电信联盟无线电通信部门正在开展相关技术工作，研究月球频谱需求、频谱共享、与现有无线电通信业务的兼容性，并防范有害干扰。专家指出，新决议有益于推进全球探月合作，也为我国载人月球探索任务、月球科",
     "media_only": false,
     "image_url": null,
@@ -29,7 +47,7 @@
   {
     "post": "Financial_Express/3660204",
     "datetime": "2026-11-27T05:52:42+00:00",
-    "views": "5",
+    "views": "40",
     "text": "我国主导推动 ITU 通过月球探索新决议\n金十数据 11 月 27 日讯，11 月 26 日，我国联合俄罗斯、巴西提交的月球探索新决议经国际电信联盟（ITU）2026 年全权代表大会审议正式通过，这是国际电信联盟（ITU）首份聚焦月球探索频谱治理的决议，标志着我国深度参与地月空间无线电频谱资源国际规则制定取得重要突破。据了解，无线电频谱资源是开展月球探索活动不可或缺的基础资源。专家指出，新决议有益于推进全球探月合作，也为我国载人月球探索任务、月球科研站建设等工程实施营造稳定、可预期的国际频谱协调环境。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +56,7 @@
   {
     "post": "Financial_Express/3660203",
     "datetime": "2026-11-27T05:52:02+00:00",
-    "views": "34",
+    "views": "37",
     "text": "觅蜂科技发布数据原生架构 Ego-CEVR\n近日，觅蜂科技发布论文《Ego-CEVR: Learning Cross-Embodiment Visual Representations from Human Egocentric Videos》，提出数据原生（data-native）的分层视觉表征学习架构 Ego-CEVR，让不同来源的数据按各自禀赋承担不同的学习任务，各展所长。综合来看，通过为不同视角匹配相应的学习目标，Ego-CEVR 既能在环境变化时保持较高的操作成功率，也能在机器人示教有限的条件下，利用第一视角视频改善已有技能、学习新任务并适配不同构型的机器人。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +65,7 @@
   {
     "post": "Financial_Express/3660202",
     "datetime": "2026-11-27T05:51:42+00:00",
-    "views": "35",
+    "views": "37",
     "text": "科创半导体 ETF 华夏创天量成交\n科创半导体 ETF 华夏成交额超过 150 亿元，创历史最高记录，触及 20cm 涨停。此前最高为 2026 年 11 月 5 日的 147 亿元。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +74,7 @@
   {
     "post": "Financial_Express/3660201",
     "datetime": "2026-11-27T05:51:02+00:00",
-    "views": "35",
+    "views": "37",
     "text": "上证指数收复 3600 点\n金十数据 11 月 27 日讯，上证指数涨超 3.5%，收复 3600 点关口；半导体、光刻机、CPO、软件开发、激光雷达、算力板块涨幅居前；沪深京三市超 5400 股上涨。",
     "media_only": false,
     "image_url": null,
@@ -65,7 +83,7 @@
   {
     "post": "Financial_Express/3660200",
     "datetime": "2026-11-27T05:49:02+00:00",
-    "views": "38",
+    "views": "40",
     "text": "港股半导体持续走强，华虹宏力涨超 22%，中芯国际涨超 17%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +92,7 @@
   {
     "post": "Financial_Express/3660199",
     "datetime": "2026-11-27T05:48:23+00:00",
-    "views": "68",
+    "views": "70",
     "text": "创业板指数上涨 11％，收复 2400 点关口，科创 50 指数涨超 14%，半导体产业链全线走强。",
     "media_only": false,
     "image_url": null,
@@ -83,7 +101,7 @@
   {
     "post": "Financial_Express/3660198",
     "datetime": "2026-11-27T05:48:22+00:00",
-    "views": "68",
+    "views": "70",
     "text": "创业板指涨超 11%收复 2400 点关口，科创 50 指数涨超 14%，半导体产业链全线走强。",
     "media_only": false,
     "image_url": null,
@@ -101,7 +119,7 @@
   {
     "post": "Financial_Express/3660196",
     "datetime": "2026-11-27T05:47:42+00:00",
-    "views": "68",
+    "views": "70",
     "text": "沪深 300 指数上涨 4%至 4,056.65 点。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +128,7 @@
   {
     "post": "Financial_Express/3660195",
     "datetime": "2026-11-27T05:47:23+00:00",
-    "views": "68",
+    "views": "70",
     "text": "科创 50 日内涨幅达 14.07%，成分股中，华海清科涨 20.00%，盛科通信涨 20.00%，华丰科技涨 20.00%，源杰科技涨 20.00%。",
     "media_only": false,
     "image_url": null,
@@ -119,7 +137,7 @@
   {
     "post": "Financial_Express/3660194",
     "datetime": "2026-11-27T05:47:22+00:00",
-    "views": "68",
+    "views": "71",
     "text": "科创半导体 ETF 触及 20cm 涨停\n半导体板块大幅上涨。科创半导体设备 ETF 鹏华、科创半导体 ETF 华夏等多只 ETF 触及 20cm 涨停，半导体设备 ETF 广发、半导体设备 ETF 国泰、半导体设备 ETF 易方达等多只半导体设备 ETF 涨幅扩大至 10%。",
     "media_only": false,
     "image_url": null,
@@ -128,7 +146,7 @@
   {
     "post": "Financial_Express/3660192",
     "datetime": "2026-11-27T05:47:02+00:00",
-    "views": "67",
+    "views": "69",
     "text": "北证 50 日内涨幅达 12.07%，成分股中，艾融软件涨 30.00%，并行科技涨 22.88%，蘅东光涨 22.08%，戈碧迦涨 17.83%。",
     "media_only": false,
     "image_url": null,
@@ -137,7 +155,7 @@
   {
     "post": "Financial_Express/3660193",
     "datetime": "2026-11-27T05:47:02+00:00",
-    "views": "68",
+    "views": "70",
     "text": "港股贵金属概念午后走强 灵宝黄金涨超 12%\n港股黄金股午后走强，截至发稿灵宝黄金(03330.HK)涨 12%，紫金黄金国际(02259.HK)和中国白银集团涨 10%，中国黄金国际(02099.HK)涨 9.7%。",
     "media_only": false,
     "image_url": null,
@@ -146,7 +164,7 @@
   {
     "post": "Financial_Express/3660191",
     "datetime": "2026-11-27T05:46:44+00:00",
-    "views": "37",
+    "views": "39",
     "text": "上证 50 指数期货连续主力合约日内涨 4%，现报 2824.80 点。",
     "media_only": false,
     "image_url": null,
@@ -155,7 +173,7 @@
   {
     "post": "Financial_Express/3660190",
     "datetime": "2026-11-27T05:46:43+00:00",
-    "views": "37",
+    "views": "39",
     "text": "沪指站上 3600 点，现涨 3.55%。",
     "media_only": false,
     "image_url": null,
@@ -164,7 +182,7 @@
   {
     "post": "Financial_Express/3660189",
     "datetime": "2026-11-27T05:46:42+00:00",
-    "views": "37",
+    "views": "39",
     "text": "沪深两市成交额超 1.5 万亿元，较上日此时放量 5326 亿元。",
     "media_only": false,
     "image_url": null,
@@ -48598,41 +48616,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3654769"
-  },
-  {
-    "post": "Financial_Express/3654768",
-    "datetime": "2026-11-25T05:56:02+00:00",
-    "views": "45",
-    "text": "纽约期金失守 3550 美元/盎司，日内跌 1.15%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654768"
-  },
-  {
-    "post": "Financial_Express/3654767",
-    "datetime": "2026-11-25T05:55:42+00:00",
-    "views": "46",
-    "text": "摩根大通 2027 年展望：预估 MSCI 欧元区指数 2027 年底将达到 415 点。预估英国富时 100 指数将在 2027 年达到 11,400 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654767"
-  },
-  {
-    "post": "Financial_Express/3654766",
-    "datetime": "2026-11-25T05:55:22+00:00",
-    "views": "46",
-    "text": "比特币 ETF 本月资金净流出逼近 50 亿美元 恐创上市以来最差纪录\n11 月迄今，这些基金资金净流出 47.1 亿美元。持有比特币规模最大的基金——贝莱德旗下 iShares Bitcoin Trust 本月遭遇约 40 亿美元赎回，同样势将创下该基金最大单月资金流出纪录。资金外流之际，比特币跌破 6 万美元，势将创下 2022 年 6 月以来最差单月表现。当时，一系列加密货币企业倒闭引发整个市场崩盘。比特币本月已下跌约 23%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654766"
-  },
-  {
-    "post": "Financial_Express/3654765",
-    "datetime": "2026-11-25T05:55:02+00:00",
-    "views": "46",
-    "text": "中证 1000 指数期货连续主力合约日内跌 3%，现报 5548.00 点。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654765"
   }
 ]
