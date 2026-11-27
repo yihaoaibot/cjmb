@@ -1,5 +1,17 @@
 <!DOCTYPE html><html lang="zh-CN"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="cjmb-base" content="/cjmb/"><link rel="icon" href="/cjmb/favicon.ico" sizes="any"><link rel="icon" href="/cjmb/favicon.svg" type="image/svg+xml"><title>今日新闻快报 · 最新快讯流</title><style>:root{--bg:#f5f6f7;--surface:#ffffff;--line:#ececec;--text:#222;--muted:#8a8f99;--strong:#111;--accent:#f85959;--accent-soft:#fff2f2;--topbar:rgba(255,255,255,.98)}html.dark{--bg:#131416;--surface:#1a1b1f;--line:#2a2d33;--text:#ececec;--muted:#9aa0a6;--strong:#fff;--accent:#ff6b6b;--accent-soft:rgba(248,89,89,.14);--topbar:rgba(19,20,22,.96)}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Noto Sans CJK SC,Source Han Sans SC,sans-serif}.topbar{position:sticky;top:0;z-index:30;background:var(--topbar);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.topbar-inner{max-width:820px;margin:0 auto;padding:10px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px}.brand{display:flex;align-items:center;gap:12px}.brand-mark{width:8px;height:20px;border-radius:999px;background:var(--accent)}.brand-title{font-size:24px;font-weight:800;letter-spacing:-.01em;color:var(--strong)}.tools{display:flex;gap:8px;align-items:center;min-width:0;flex:1;justify-content:flex-end}.search,.btn,.topic-btn{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;font-size:13px;padding:8px 12px}.search{min-width:0;width:240px;max-width:100%}.btn,.topic-btn{cursor:pointer}.topic-btn.is-active{background:var(--accent-soft);color:var(--accent);border-color:#f8595938;font-weight:700}.icon-btn{width:34px;height:34px;padding:0;display:inline-flex;align-items:center;justify-content:center;font-size:16px;line-height:1}.page{max-width:820px;margin:0 auto;padding:12px 12px 24px}.notice{display:none;align-items:center;justify-content:space-between;gap:10px;background:var(--accent-soft);color:var(--accent);border:1px solid rgba(248,89,89,.18);border-radius:12px;padding:12px 14px;margin-bottom:14px;font-size:13px}.date-group{margin-top:14px}.date-title{margin:0 0 8px;font-size:14px;font-weight:700;color:var(--strong);display:flex;align-items:center;gap:8px}.date-title:before{content:"";width:6px;height:6px;border-radius:999px;background:var(--accent)}.feed{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}.item{display:grid;grid-template-columns:56px 1fr;gap:0;padding:12px 12px 11px;border-top:1px solid var(--line)}.item:first-child{border-top:none}.time{font-size:12px;color:var(--accent);font-weight:700;line-height:1.4;padding-top:2px}.content{min-width:0}.text{color:var(--strong);font-size:16px;line-height:1.58;font-weight:500;word-break:break-word;white-space:pre-wrap}.toggle{margin-top:6px;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:0;font-size:12px}@media(max-width:640px){.topbar-inner{padding:10px;gap:8px;flex-wrap:wrap}.brand{width:100%;justify-content:center}.brand-title{font-size:22px}.tools{width:100%;justify-content:center;flex-wrap:nowrap}.search{flex:1;width:auto;min-width:0;max-width:none}.btn{padding:7px 10px;font-size:12px}.icon-btn{width:32px;height:32px;font-size:15px}.page{padding:10px 8px 20px}.date-group{margin-top:12px}.date-title{font-size:13px;margin-bottom:6px}.feed{border-radius:8px}.item{grid-template-columns:48px 1fr;gap:0;padding:10px 10px 9px}.time{font-size:12px;padding-top:1px}.text{font-size:15px;line-height:1.52}}
-</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-27T01:07:07.229682+00:00","clsvipUpdated":"2026-11-27T01:07:17.648068+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月27日</h2><div class="feed"><article class="item" data-search="钯金期货日内涨 4%，现报 876.55 美元/盎司。"><div class="time">09:06</div><div class="content"><div class="text" data-full="钯金期货日内涨 4%，现报 876.55 美元/盎司。" data-short="钯金期货日内涨 4%，现报 876.55 美元/盎司。">钯金期货日内涨 4%，现报 876.55 美元/盎司。</div></div></article><article class="item" data-search="德马科技携手智源研究院共建 humancoin
+</style></head> <body> <script id="page-state" type="application/json">{"updated":"2026-11-27T01:09:09.287429+00:00","clsvipUpdated":"2026-11-27T01:09:20.423135+00:00"}</script> <header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark"></span><div class="brand-title">今日新闻快报</div></div><div class="tools"><input id="searchInput" data-testid="search-input" class="search" placeholder="搜索最新快讯关键词"><button id="refreshBtn" data-testid="refresh-btn" class="btn">刷新</button><button id="themeBtn" data-testid="theme-btn" class="btn icon-btn" aria-label="切换主题" title="切换主题">主题</button></div></div></header> <main class="page"><div id="updateNotice" class="notice"><span>检测到新内容，点击刷新查看最新快讯流。</span><button class="btn" id="noticeRefreshBtn">立即刷新</button></div><div id="topicSwitch" style="display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;"><button class="topic-btn" type="button" id="topic-main" data-topic="main">快讯</button><button class="topic-btn" type="button" id="topic-clsvip" data-topic="vip">VIP</button></div><p style="margin:6px 0 0;color:var(--muted);font-size:12px;">为保证流畅度，快讯最多展示 320 条，VIP 最多展示 120 条。</p> <div id="mainTopic"><section class="date-group"><h2 class="date-title">11月27日</h2><div class="feed"><article class="item" data-search="独家 | 快手组织架构调整：生活服务事业部撤销，并入电商和商业化事业部
+新浪科技获悉，近期快手对组织架构进行调整，生活服务事业部撤销，合并至电商事业部和商业化事业部。部门调整中存在人员优化。一位生活服务事业部的员工表示，其入职快手多年，今年 9 月拿到“大礼包”，“再也没有单独的生服部门了。”新浪科技注意到，这一变化在财报披露中亦有体现：2025 年三季报中，生活服务仅作为线上营销服务的重要行业之一出现，此后快手方面也未再单独披露业务的 gmv 和收入增长等运营数据。针对生活服务事业部的调整，截至发稿，快手官方未作回应。（新浪科技）"><div class="time">09:08</div><div class="content"><div class="text" data-full="独家 | 快手组织架构调整：生活服务事业部撤销，并入电商和商业化事业部
+新浪科技获悉，近期快手对组织架构进行调整，生活服务事业部撤销，合并至电商事业部和商业化事业部。部门调整中存在人员优化。一位生活服务事业部的员工表示，其入职快手多年，今年 9 月拿到“大礼包”，“再也没有单独的生服部门了。”新浪科技注意到，这一变化在财报披露中亦有体现：2025 年三季报中，生活服务仅作为线上营销服务的重要行业之一出现，此后快手方面也未再单独披露业务的 GMV 和收入增长等运营数据。针对生活服务事业部的调整，截至发稿，快手官方未作回应。（新浪科技）" data-short="独家 | 快手组织架构调整：生活服务事业部撤销，并入电商和商业化事业部
+新浪科技获悉，近期快手对组织架构进行调整，生活服务事业部撤销，合并至电商事业部和商业化事业部。部门调整中存在人员优化。一位生活服务事业部的员工表示，其入职快手多年，今年 9 月拿到“大礼包”，“再也没有单独的生服部门了。”新浪科技注意到，这一变化在财报披露中亦有体现：2025 年三季报中...">独家 | 快手组织架构调整：生活服务事业部撤销，并入电商和商业化事业部
+新浪科技获悉，近期快手对组织架构进行调整，生活服务事业部撤销，合并至电商事业部和商业化事业部。部门调整中存在人员优化。一位生活服务事业部的员工表示，其入职快手多年，今年 9 月拿到“大礼包”，“再也没有单独的生服部门了。”新浪科技注意到，这一变化在财报披露中亦有体现：2025 年三季报中...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="聚丙烯连续主力合约日内涨 1%，现报 8850.00 元。"><div class="time">09:07</div><div class="content"><div class="text" data-full="聚丙烯连续主力合约日内涨 1%，现报 8850.00 元。" data-short="聚丙烯连续主力合约日内涨 1%，现报 8850.00 元。">聚丙烯连续主力合约日内涨 1%，现报 8850.00 元。</div></div></article><article class="item" data-search="新西兰执政联盟失去议会多数席位 连任面临挑战
+金十数据 11 月 27 日讯，新西兰官方选举结果确认，该国可能出现无任何阵营占据多数席位的悬浮议会，执政的中右翼联盟谋求第二个任期面临复杂局面。新西兰选举委员会周五表示，由三个政党组成的执政联盟在拥有 130 个席位的议会中赢得 65 席，低于选举当晚初步统计的 67 席。中左翼阵营的席位由 57 席增至 58 席，而首次进入议会的中间派政党机会党赢得 7 席。如果机会党支持左翼阵营，双方均无法在议会中获得多数席位。不过，如果能够获得机会党的支持，中右翼阵营仍有望继续执政，从而避免再次举行选举。在这一安排下，机会党可能不会正式加入执政联盟，而是通过达成协议，支持政府赢得信任投票并通过财政预算案。"><div class="time">09:07</div><div class="content"><div class="text" data-full="新西兰执政联盟失去议会多数席位 连任面临挑战
+金十数据 11 月 27 日讯，新西兰官方选举结果确认，该国可能出现无任何阵营占据多数席位的悬浮议会，执政的中右翼联盟谋求第二个任期面临复杂局面。新西兰选举委员会周五表示，由三个政党组成的执政联盟在拥有 130 个席位的议会中赢得 65 席，低于选举当晚初步统计的 67 席。中左翼阵营的席位由 57 席增至 58 席，而首次进入议会的中间派政党机会党赢得 7 席。如果机会党支持左翼阵营，双方均无法在议会中获得多数席位。不过，如果能够获得机会党的支持，中右翼阵营仍有望继续执政，从而避免再次举行选举。在这一安排下，机会党可能不会正式加入执政联盟，而是通过达成协议，支持政府赢得信任投票并通过财政预算案。" data-short="新西兰执政联盟失去议会多数席位 连任面临挑战
+金十数据 11 月 27 日讯，新西兰官方选举结果确认，该国可能出现无任何阵营占据多数席位的悬浮议会，执政的中右翼联盟谋求第二个任期面临复杂局面。新西兰选举委员会周五表示，由三个政党组成的执政联盟在拥有 130 个席位的议会中赢得 65 席，低于选举当晚初步统计的 67 席。中左翼阵营的席位由 57 席增至 58...">新西兰执政联盟失去议会多数席位 连任面临挑战
+金十数据 11 月 27 日讯，新西兰官方选举结果确认，该国可能出现无任何阵营占据多数席位的悬浮议会，执政的中右翼联盟谋求第二个任期面临复杂局面。新西兰选举委员会周五表示，由三个政党组成的执政联盟在拥有 130 个席位的议会中赢得 65 席，低于选举当晚初步统计的 67 席。中左翼阵营的席位由 57 席增至 58...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="小米澎程累计交付超 6 万台
+金十数据 11 月 27 日讯，11 月 27 日，小米汽车公布，截至目前，小米澎程已交付超过 60000 台。"><div class="time">09:07</div><div class="content"><div class="text" data-full="小米澎程累计交付超 6 万台
+金十数据 11 月 27 日讯，11 月 27 日，小米汽车公布，截至目前，小米澎程已交付超过 60000 台。" data-short="小米澎程累计交付超 6 万台
+金十数据 11 月 27 日讯，11 月 27 日，小米汽车公布，截至目前，小米澎程已交付超过 60000 台。">小米澎程累计交付超 6 万台
+金十数据 11 月 27 日讯，11 月 27 日，小米汽车公布，截至目前，小米澎程已交付超过 60000 台。</div></div></article><article class="item" data-search="纽约期银日内涨 4%，现报 42.16 美元/盎司。"><div class="time">09:06</div><div class="content"><div class="text" data-full="纽约期银日内涨 4%，现报 42.16 美元/盎司。" data-short="纽约期银日内涨 4%，现报 42.16 美元/盎司。">纽约期银日内涨 4%，现报 42.16 美元/盎司。</div></div></article><article class="item" data-search="钯金期货日内涨 4%，现报 876.55 美元/盎司。"><div class="time">09:06</div><div class="content"><div class="text" data-full="钯金期货日内涨 4%，现报 876.55 美元/盎司。" data-short="钯金期货日内涨 4%，现报 876.55 美元/盎司。">钯金期货日内涨 4%，现报 876.55 美元/盎司。</div></div></article><article class="item" data-search="德马科技携手智源研究院共建 humancoin
 金十数据 11 月 27 日讯，据德马集团消息，近日，德马科技与北京智源人工智能研究院（简称“智源研究院”）深度协同，作为核心共建方参与发布首个人类高质量真实操作开源数据集 humancoin，与多家产业链伙伴共同搭建开放、可复现、标准化的具身数据基础设施。"><div class="time">09:06</div><div class="content"><div class="text" data-full="德马科技携手智源研究院共建 HumanCOIN
 金十数据 11 月 27 日讯，据德马集团消息，近日，德马科技与北京智源人工智能研究院（简称“智源研究院”）深度协同，作为核心共建方参与发布首个人类高质量真实操作开源数据集 HumanCOIN，与多家产业链伙伴共同搭建开放、可复现、标准化的具身数据基础设施。" data-short="德马科技携手智源研究院共建 HumanCOIN
 金十数据 11 月 27 日讯，据德马集团消息，近日，德马科技与北京智源人工智能研究院（简称“智源研究院”）深度协同，作为核心共建方参与发布首个人类高质量真实操作开源数据集 HumanCOIN，与多家产业链伙伴共同搭建开放、可复现、标准化的具身数据基础设施。">德马科技携手智源研究院共建 HumanCOIN
@@ -671,11 +683,138 @@
 几内亚比绍总统府 11 月 26 日发布通报说，过渡总统奥尔塔·因塔阿当天颁布总统令，将原定于今年 12 月 6 日举行的总统和议会选举推迟至 2028 年 11 月 26 日。该总统令立即生效。总统令说，经评估，几内亚比绍目前在技术、物资和资金方面准备不足，无法按原定日期举行选举。在准备不足的情况下举行选举，可能影响选举公信力，削弱民众和各政治力量对选举的信任。几比将同有关机构及各方协调，为举行选举创造必要条件。2025 年 11 月 23 日，几内亚比绍举行总统和议会选举。同月 26 日，在选举结果公布前，几比军方宣布“全面掌控”国家权力，解除时任总统乌马罗·西索科·恩巴洛的职务。次日，因塔阿宣誓就任过渡总统，任期一年。（央视新闻）"><div class="time">03:54</div><div class="content"><div class="text" data-full="几内亚比绍将总统和议会选举推迟至 2028 年 11 月
 几内亚比绍总统府 11 月 26 日发布通报说，过渡总统奥尔塔·因塔阿当天颁布总统令，将原定于今年 12 月 6 日举行的总统和议会选举推迟至 2028 年 11 月 26 日。该总统令立即生效。总统令说，经评估，几内亚比绍目前在技术、物资和资金方面准备不足，无法按原定日期举行选举。在准备不足的情况下举行选举，可能影响选举公信力，削弱民众和各政治力量对选举的信任。几比将同有关机构及各方协调，为举行选举创造必要条件。2025 年 11 月 23 日，几内亚比绍举行总统和议会选举。同月 26 日，在选举结果公布前，几比军方宣布“全面掌控”国家权力，解除时任总统乌马罗·西索科·恩巴洛的职务。次日，因塔阿宣誓就任过渡总统，任期一年。（央视新闻）" data-short="几内亚比绍将总统和议会选举推迟至 2028 年 11 月
 几内亚比绍总统府 11 月 26 日发布通报说，过渡总统奥尔塔·因塔阿当天颁布总统令，将原定于今年 12 月 6 日举行的总统和议会选举推迟至 2028 年 11 月 26 日。该总统令立即生效。总统令说，经评估，几内亚比绍目前在技术、物资和资金方面准备不足，无法按原定日期举行选举。在准备不足的情况下...">几内亚比绍将总统和议会选举推迟至 2028 年 11 月
-几内亚比绍总统府 11 月 26 日发布通报说，过渡总统奥尔塔·因塔阿当天颁布总统令，将原定于今年 12 月 6 日举行的总统和议会选举推迟至 2028 年 11 月 26 日。该总统令立即生效。总统令说，经评估，几内亚比绍目前在技术、物资和资金方面准备不足，无法按原定日期举行选举。在准备不足的情况下...</div><button class="toggle">展开全文</button></div></article><article class="item" data-search="美国地质调查局：日本小笠原群岛地区发生 5.1 级地震。"><div class="time">03:53</div><div class="content"><div class="text" data-full="美国地质调查局：日本小笠原群岛地区发生 5.1 级地震。" data-short="美国地质调查局：日本小笠原群岛地区发生 5.1 级地震。">美国地质调查局：日本小笠原群岛地区发生 5.1 级地震。</div></div></article><article class="item" data-search="委内瑞拉代总统罗德里格斯表示，鉴于宏观经济状况，此次降息幅度是适当的。"><div class="time">03:50</div><div class="content"><div class="text" data-full="委内瑞拉代总统罗德里格斯表示，鉴于宏观经济状况，此次降息幅度是适当的。" data-short="委内瑞拉代总统罗德里格斯表示，鉴于宏观经济状况，此次降息幅度是适当的。">委内瑞拉代总统罗德里格斯表示，鉴于宏观经济状况，此次降息幅度是适当的。</div></div></article><article class="item" data-search="委内瑞拉代总统罗德里格斯：新兴市场与美国的经波动率调整后的利率差处于高位。"><div class="time">03:49</div><div class="content"><div class="text" data-full="委内瑞拉代总统罗德里格斯：新兴市场与美国的经波动率调整后的利率差处于高位。" data-short="委内瑞拉代总统罗德里格斯：新兴市场与美国的经波动率调整后的利率差处于高位。">委内瑞拉代总统罗德里格斯：新兴市场与美国的经波动率调整后的利率差处于高位。</div></div></article><article class="item" data-search="伊朗外长阿拉格齐就与科威特和意大利外长的通话发表声明称，该事件是旨在点燃战争的预谋剧本的一部分。在与意大利和科威特外长的通话中，对在科威特丧生的意大利公民表示哀悼和同情。该事件十分可疑，似乎是旨在升级紧张局势并可能引发战争的预谋剧本的一部分。我们已做好充分准备，与科威特和意大利合作调查该事件的起因。"><div class="time">03:49</div><div class="content"><div class="text" data-full="伊朗外长阿拉格齐就与科威特和意大利外长的通话发表声明称，该事件是旨在点燃战争的预谋剧本的一部分。在与意大利和科威特外长的通话中，对在科威特丧生的意大利公民表示哀悼和同情。该事件十分可疑，似乎是旨在升级紧张局势并可能引发战争的预谋剧本的一部分。我们已做好充分准备，与科威特和意大利合作调查该事件的起因。" data-short="伊朗外长阿拉格齐就与科威特和意大利外长的通话发表声明称，该事件是旨在点燃战争的预谋剧本的一部分。在与意大利和科威特外长的通话中，对在科威特丧生的意大利公民表示哀悼和同情。该事件十分可疑，似乎是旨在升级紧张局势并可能引发战争的预谋剧本的一部分。我们已做好充分准备，与科威特和意大利合作调查该事件的起因。">伊朗外长阿拉格齐就与科威特和意大利外长的通话发表声明称，该事件是旨在点燃战争的预谋剧本的一部分。在与意大利和科威特外长的通话中，对在科威特丧生的意大利公民表示哀悼和同情。该事件十分可疑，似乎是旨在升级紧张局势并可能引发战争的预谋剧本的一部分。我们已做好充分准备，与科威特和意大利合作调查该事件的起因。</div></div></article><article class="item" data-search="伦铜自 11 个月低点反弹 科技股上涨提振工业金属
-伦铜周四由 11 个月低点反弹，其他大宗商品和科技股也走高，连续数日大幅下跌后，投资者重返风险较高的资产。伦敦金属交易所(lme) 3 个月期铜期货结算价上涨 1.9%，部分收复本月以来的跌幅。此前，围绕人工智能(ai)交易的担忧以及美国即将加息的预期推动铜价大幅下跌。周四适逢美国公共假日，lme 六种基本金属价格全部上涨。铜价反弹与市场风险偏好的普遍改善同步，科技股在多个市场领涨，欧洲矿业股也走高。美国股指期货上涨，此前周三尾盘买盘推动纳斯达克 100 指数从熊市边缘回升。"><div class="time">03:48</div><div class="content"><div class="text" data-full="伦铜自 11 个月低点反弹 科技股上涨提振工业金属
-伦铜周四由 11 个月低点反弹，其他大宗商品和科技股也走高，连续数日大幅下跌后，投资者重返风险较高的资产。伦敦金属交易所(LME) 3 个月期铜期货结算价上涨 1.9%，部分收复本月以来的跌幅。此前，围绕人工智能(AI)交易的担忧以及美国即将加息的预期推动铜价大幅下跌。周四适逢美国公共假日，LME 六种基本金属价格全部上涨。铜价反弹与市场风险偏好的普遍改善同步，科技股在多个市场领涨，欧洲矿业股也走高。美国股指期货上涨，此前周三尾盘买盘推动纳斯达克 100 指数从熊市边缘回升。" data-short="伦铜自 11 个月低点反弹 科技股上涨提振工业金属
-伦铜周四由 11 个月低点反弹，其他大宗商品和科技股也走高，连续数日大幅下跌后，投资者重返风险较高的资产。伦敦金属交易所(LME) 3 个月期铜期货结算价上涨 1.9%，部分收复本月以来的跌幅。此前，围绕人工智能(AI)交易的担忧以及美国即将加息的预期推动铜价大幅下跌。周四适逢美国公共假日，LME 六种基本...">伦铜自 11 个月低点反弹 科技股上涨提振工业金属
-伦铜周四由 11 个月低点反弹，其他大宗商品和科技股也走高，连续数日大幅下跌后，投资者重返风险较高的资产。伦敦金属交易所(LME) 3 个月期铜期货结算价上涨 1.9%，部分收复本月以来的跌幅。此前，围绕人工智能(AI)交易的担忧以及美国即将加息的预期推动铜价大幅下跌。周四适逢美国公共假日，LME 六种基本...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月27日 · VIP</h2> <div class="feed"> <article class="item" data-search="【九点特供】剑指马斯克旗下星链！欧洲最大卫星工厂正式启用，分析师看好当前完全复用星舰经济性逐步体现，太空算力基建经济性初现；《广东省算力发展“十五五”规划》发布，要求做强广深构筑算力创新策源地"> <div class="time">09:06</div> <div class="content"> <div class="text">【九点特供】剑指马斯克旗下星链！欧洲最大卫星工厂正式启用，分析师看好当前完全复用星舰经济性逐步体现，太空算力基建经济性初现；《广东省算力发展“十五五”规划》发布，要求做强广深构筑算力创新策源地</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【点金互动易】化工+光刻胶，光刻胶用产品正在客户导入中，产品可用于大硅片及先进封装领域，这家公司超纯氨纯度达7n并在氮化镓、碳化硅等第三代半导体领域实现应用
+几内亚比绍总统府 11 月 26 日发布通报说，过渡总统奥尔塔·因塔阿当天颁布总统令，将原定于今年 12 月 6 日举行的总统和议会选举推迟至 2028 年 11 月 26 日。该总统令立即生效。总统令说，经评估，几内亚比绍目前在技术、物资和资金方面准备不足，无法按原定日期举行选举。在准备不足的情况下...</div><button class="toggle">展开全文</button></div></article></div></section></div> <div id="vipTopic" style="display:none;"> <section class="date-group"> <h2 class="date-title">11月27日 · VIP</h2> <div class="feed"> <article class="item" data-search="尾盘先锋
+
+✅项目介绍：
+
+1、挖掘真实人气龙头
+
+注册制下越来越多个股被边缘化，尾盘狙击基于全市场真实交易数据及个股基本面因子指标，智能挖掘市场“真实人气龙头”，让投资更聚焦。
+
+2、接近“t+0”交易效果
+
+交易日14点30分智能计算选股，投资者尾盘决策买入，抢占先手，次日可从容应对。
+
+3、短线情绪一目了然
+
+短线情绪至关重要，尾盘狙击通过个股温度值、龙头接力情绪值及连板成功率指标，为短线交易提供决策依据。
+
+4、捕捉全新热点机会
+
+当出现某个行业多只个股入选进攻梯队时，表示该方向人气正在迅速攀升，可重点关注投资机会。
+
+✅历史数据：https://hi189.com/7061.html
+
+✅运作方式：我每天下午2:30把系统选出的股票发到群里
+
+✅费用：200/年（频道vip免费看）
+
+联系：@cn50etf"> <div class="time">09:06</div> <div class="content"> <div class="text">尾盘先锋
+
+✅项目介绍：
+
+1、挖掘真实人气龙头
+
+注册制下越来越多个股被边缘化，尾盘狙击基于全市场真实交易数据及个股基本面因子指标，智能挖掘市场“真实人气龙头”，让投资更聚焦。
+
+2、接近“T+0”交易效果
+
+交易日14点30分智能计算选股，投资者尾盘决策买入，抢占先手，次日可从容应对。
+
+3、短线情绪一目了然
+
+短...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="包括内容：
+
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大v收费群盘中消息同步：
+
+vip资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+妖股刺客
+
+新生代作手
+邢者狩猎营
+g界孙悟空
+大师兄擒妖
+浮光
+天赢居
+
+清北游资
+主升真经
+天机短线
+爱尔兰画眉
+震哥
+李梦尘
+
+红旗大街发哥
+游资胖大叔
+大周先生
+姆爷
+游资混江龙
+徐小明
+天地同力
+
+诗诗复利游
+a股通天宗
+
+先知
+林荫大道
+逻辑派a哥
+
+复盘哥
+鑫多多
+大将潘凤
+奶爸只做核心
+浮光知顶底
+
+借势而为
+来去由心
+嗅嗅掘金
+
+费用：100元/月
+
+联系 @cn50etf"> <div class="time">09:06</div> <div class="content"> <div class="text">包括内容：
+
+各种小作文
+机构观点
+盘中消息通报
+彭博、金融时报一些资讯
+
+专属股票交流群
+游资大V收费群盘中消息同步：
+
+VIP资讯
+机构资讯
+老樊
+老多
+梅森投研
+格兰投研
+妖股刺客
+
+新生代作手
+邢者狩猎营
+G界孙悟空
+大师兄擒妖
+浮光
+天赢居
+
+清北游资
+主升真经
+天机短线
+爱尔兰画眉
+震哥
+李梦尘
+
+红旗大街...</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【九点特供】剑指马斯克旗下星链！欧洲最大卫星工厂正式启用，分析师看好当前完全复用星舰经济性逐步体现，太空算力基建经济性初现；《广东省算力发展“十五五”规划》发布，要求做强广深构筑算力创新策源地"> <div class="time">09:06</div> <div class="content"> <div class="text">【九点特供】剑指马斯克旗下星链！欧洲最大卫星工厂正式启用，分析师看好当前完全复用星舰经济性逐步体现，太空算力基建经济性初现；《广东省算力发展“十五五”规划》发布，要求做强广深构筑算力创新策源地</div> <div style="margin-top:8px;font-size:12px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap;"> <span>文本帖</span> </div> </div> </article><article class="item" data-search="【点金互动易】化工+光刻胶，光刻胶用产品正在客户导入中，产品可用于大硅片及先进封装领域，这家公司超纯氨纯度达7n并在氮化镓、碳化硅等第三代半导体领域实现应用
 
 #昊志机电
 #建业股份"> <div class="time">09:04</div> <div class="content"> <div class="text">【点金互动易】化工+光刻胶，光刻胶用产品正在客户导入中，产品可用于大硅片及先进封装领域，这家公司超纯氨纯度达7N并在氮化镓、碳化硅等第三代半导体领域实现应用
