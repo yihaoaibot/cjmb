@@ -1,8 +1,35 @@
 [
   {
+    "post": "Financial_Express/3660203",
+    "datetime": "2026-11-27T05:52:02+00:00",
+    "views": "2",
+    "text": "觅蜂科技发布数据原生架构 Ego-CEVR\n近日，觅蜂科技发布论文《Ego-CEVR: Learning Cross-Embodiment Visual Representations from Human Egocentric Videos》，提出数据原生（data-native）的分层视觉表征学习架构 Ego-CEVR，让不同来源的数据按各自禀赋承担不同的学习任务，各展所长。综合来看，通过为不同视角匹配相应的学习目标，Ego-CEVR 既能在环境变化时保持较高的操作成功率，也能在机器人示教有限的条件下，利用第一视角视频改善已有技能、学习新任务并适配不同构型的机器人。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3660203"
+  },
+  {
+    "post": "Financial_Express/3660202",
+    "datetime": "2026-11-27T05:51:42+00:00",
+    "views": "3",
+    "text": "科创半导体 ETF 华夏创天量成交\n科创半导体 ETF 华夏成交额超过 150 亿元，创历史最高记录，触及 20cm 涨停。此前最高为 2026 年 11 月 5 日的 147 亿元。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3660202"
+  },
+  {
+    "post": "Financial_Express/3660201",
+    "datetime": "2026-11-27T05:51:02+00:00",
+    "views": "4",
+    "text": "上证指数收复 3600 点\n金十数据 11 月 27 日讯，上证指数涨超 3.5%，收复 3600 点关口；半导体、光刻机、CPO、软件开发、激光雷达、算力板块涨幅居前；沪深京三市超 5400 股上涨。",
+    "media_only": false,
+    "image_url": null,
+    "url": "https://t.me/Financial_Express/3660201"
+  },
+  {
     "post": "Financial_Express/3660200",
     "datetime": "2026-11-27T05:49:02+00:00",
-    "views": "6",
+    "views": "38",
     "text": "港股半导体持续走强，华虹宏力涨超 22%，中芯国际涨超 17%。",
     "media_only": false,
     "image_url": null,
@@ -11,7 +38,7 @@
   {
     "post": "Financial_Express/3660199",
     "datetime": "2026-11-27T05:48:23+00:00",
-    "views": "36",
+    "views": "38",
     "text": "创业板指数上涨 11％，收复 2400 点关口，科创 50 指数涨超 14%，半导体产业链全线走强。",
     "media_only": false,
     "image_url": null,
@@ -20,7 +47,7 @@
   {
     "post": "Financial_Express/3660198",
     "datetime": "2026-11-27T05:48:22+00:00",
-    "views": "36",
+    "views": "38",
     "text": "创业板指涨超 11%收复 2400 点关口，科创 50 指数涨超 14%，半导体产业链全线走强。",
     "media_only": false,
     "image_url": null,
@@ -38,7 +65,7 @@
   {
     "post": "Financial_Express/3660196",
     "datetime": "2026-11-27T05:47:42+00:00",
-    "views": "37",
+    "views": "38",
     "text": "沪深 300 指数上涨 4%至 4,056.65 点。",
     "media_only": false,
     "image_url": null,
@@ -47,7 +74,7 @@
   {
     "post": "Financial_Express/3660195",
     "datetime": "2026-11-27T05:47:23+00:00",
-    "views": "38",
+    "views": "68",
     "text": "科创 50 日内涨幅达 14.07%，成分股中，华海清科涨 20.00%，盛科通信涨 20.00%，华丰科技涨 20.00%，源杰科技涨 20.00%。",
     "media_only": false,
     "image_url": null,
@@ -56,7 +83,7 @@
   {
     "post": "Financial_Express/3660194",
     "datetime": "2026-11-27T05:47:22+00:00",
-    "views": "37",
+    "views": "67",
     "text": "科创半导体 ETF 触及 20cm 涨停\n半导体板块大幅上涨。科创半导体设备 ETF 鹏华、科创半导体 ETF 华夏等多只 ETF 触及 20cm 涨停，半导体设备 ETF 广发、半导体设备 ETF 国泰、半导体设备 ETF 易方达等多只半导体设备 ETF 涨幅扩大至 10%。",
     "media_only": false,
     "image_url": null,
@@ -74,7 +101,7 @@
   {
     "post": "Financial_Express/3660193",
     "datetime": "2026-11-27T05:47:02+00:00",
-    "views": "37",
+    "views": "67",
     "text": "港股贵金属概念午后走强 灵宝黄金涨超 12%\n港股黄金股午后走强，截至发稿灵宝黄金(03330.HK)涨 12%，紫金黄金国际(02259.HK)和中国白银集团涨 10%，中国黄金国际(02099.HK)涨 9.7%。",
     "media_only": false,
     "image_url": null,
@@ -110,7 +137,7 @@
   {
     "post": "Financial_Express/3660188",
     "datetime": "2026-11-27T05:46:23+00:00",
-    "views": "36",
+    "views": "66",
     "text": "国常会表态发力\"国家队\"稳市 未来还可能大幅流入\n10 月初以来 A 股市场波动过程中，股票型 ETF 净申购金额超过 8000 亿元，总规模快速增长至 2.9 万亿元。其中，沪深 300ETF、上证 50ETF 等宽基蓝筹 ETF 净申购达 4000 亿元，多次出现盘中成交快速放量现象，推动当日主要股指止跌回升。市场观点认为，在美韩等境外科技股剧烈震荡带来持续冲击的情况下，包括\"国家队\"在内的各类资金积极加大增持力度，未来一段时间还可能继续大幅流入。 (财联社)",
     "media_only": false,
     "image_url": null,
@@ -48598,113 +48625,5 @@
     "media_only": false,
     "image_url": null,
     "url": "https://t.me/Financial_Express/3654762"
-  },
-  {
-    "post": "Financial_Express/3654761",
-    "datetime": "2026-11-25T05:52:44+00:00",
-    "views": "46",
-    "text": "家电板块局部异动 北鼎股份涨超 10%\n午后家电板块局部异动，北鼎股份涨超 10%，此前九阳股份走出 7 天 5 板，小熊电器、长虹美菱、彩虹集团、德尔玛等跟涨。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654761"
-  },
-  {
-    "post": "Financial_Express/3654760",
-    "datetime": "2026-11-25T05:52:43+00:00",
-    "views": "46",
-    "text": "半导体设备板块震荡下挫 富创精密跌超 10%\n午后半导体设备板块震荡下挫，富创精密跌超 10%，北方华创、微导纳米、三佳科技、京仪装备、长川科技等多股跌超 7%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654760"
-  },
-  {
-    "post": "Financial_Express/3654759",
-    "datetime": "2026-11-25T05:52:42+00:00",
-    "views": "45",
-    "text": "甘肃民勤 330 千伏输变电工程线路工程全线贯通\n金十数据 11 月 25 日讯，今天（11 月 25 日），随着最后一档导地线展放到位，甘肃武威民勤 330 千伏输变电工程线路工程实现全线贯通，将进一步提升“陇电入浙”等跨区域输电项目配套属地保障能力。民勤 330 千伏输变电工程是立足国家能源安全战略、支撑区域电网提档升级、服务新能源内用并网的重点电网工程，新建 330 千伏变电站 1 座、铁塔 294 基、线路 119.1 千米。工程建成投运后，将为“沙戈荒”能源大基地构建有利的属地电网支撑，提升“陇电入浙”等跨区域输电项目配套保障能力。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654759"
-  },
-  {
-    "post": "Financial_Express/3654757",
-    "datetime": "2026-11-25T05:52:24+00:00",
-    "views": "47",
-    "text": "甘肃民勤 330 千伏输变电工程线路工程全线贯通\n今天（11 月 25 日），随着最后一档导地线展放到位，甘肃武威民勤 330 千伏输变电工程线路工程实现全线贯通，将进一步提升“陇电入浙”等跨区域输电项目配套属地保障能力。甘肃民勤 330 千伏线路工程，全线地处戈壁荒漠，风沙大、昼夜温差大，施工单位投入 4 台牵张设备，统筹 14 个施工班组、140 余名作业人员，采取多点平行推进的方式全面展开作业。民勤 330 千伏输变电工程是立足国家能源安全战略、支撑区域电网提档升级、服务新能源内用并网的重点电网工程，新建 330 千伏变电站 1 座、铁塔 294 基、线路 119.1 千米。工程建成投运后，将为“沙戈荒”能源大基地构建有利的属地电网支撑，提升“陇电入浙”等跨区域输电项目配套保障能力。（央视新闻）",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654757"
-  },
-  {
-    "post": "Financial_Express/3654758",
-    "datetime": "2026-11-25T05:52:24+00:00",
-    "views": "47",
-    "text": "万马科技：旗下优咔科技获得奇瑞墨甲机器人项目定点\n近日，万马科技(300698)全资子公司优咔科技获得奇瑞旗下具身智能品牌墨甲机器人项目定点。优咔科技将为其人形机器人 Mornine、四足机器狗 Argos、家庭陪伴机器人“墨宝”等系列产品提供海外连接及配套运营支持，支撑其在海外部分区域部署落地。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654758"
-  },
-  {
-    "post": "Financial_Express/3654755",
-    "datetime": "2026-11-25T05:52:23+00:00",
-    "views": "45",
-    "text": "日本 2 年期国债收益率下跌 5.5 个基点，至 1.720%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654755"
-  },
-  {
-    "post": "Financial_Express/3654756",
-    "datetime": "2026-11-25T05:52:23+00:00",
-    "views": "45",
-    "text": "PROSUS 上半财年调整后息税折旧摊销前利润为 3.93 亿美元，预估为 4.163 亿美元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654756"
-  },
-  {
-    "post": "Financial_Express/3654754",
-    "datetime": "2026-11-25T05:52:03+00:00",
-    "views": "45",
-    "text": "乙二醇连续主力合约日内涨 3%，现报 4973.00 元。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654754"
-  },
-  {
-    "post": "Financial_Express/3654753",
-    "datetime": "2026-11-25T05:52:02+00:00",
-    "views": "44",
-    "text": "万马科技：旗下优咔科技获得奇瑞墨甲机器人项目定点\n金十数据 11 月 25 日讯，近日，万马科技全资子公司优咔科技获得奇瑞旗下具身智能品牌墨甲机器人项目定点。优咔科技将为其人形机器人 Mornine、四足机器狗 Argos、家庭陪伴机器人“墨宝”等系列产品提供海外连接及配套运营支持，支撑其在海外部分区域部署落地。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654753"
-  },
-  {
-    "post": "Financial_Express/3654751",
-    "datetime": "2026-11-25T05:51:42+00:00",
-    "views": "41",
-    "text": "Sand.ai 发布 MAGI-2，1080P 每秒 0.5 元\n11 月 25 日，Sand.ai 正式发布新一代视频生成模型 MAGI-2，在 Artificial Analysis（AA）榜单中排名全球第一。模型参数量 480B，支持原生 30 秒的 1080P 视频及音频生成，定价为每秒 0.5 元，为 Seedance 2.5 价格的 1/10。Sand.ai 宣布，将尽快开放 MAGI-2 模型权重。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654751"
-  },
-  {
-    "post": "Financial_Express/3654750",
-    "datetime": "2026-11-25T05:51:22+00:00",
-    "views": "43",
-    "text": "2 年期日本国债收益率下跌 5.5 个基点，至 1.720%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654750"
-  },
-  {
-    "post": "Financial_Express/3654749",
-    "datetime": "2026-11-25T05:51:02+00:00",
-    "views": "44",
-    "text": "Naspers 上半财年合并营收 63.7 亿美元，同比增长 55%。",
-    "media_only": false,
-    "image_url": null,
-    "url": "https://t.me/Financial_Express/3654749"
   }
 ]
